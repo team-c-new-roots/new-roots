@@ -1,0 +1,63 @@
+/* New Roots palette from the brand sheet. contrast measured against cream:
+   wine 9.3:1, espresso 14.2:1, rust 5.7:1, ink-muted 6.2:1
+   against apricot: wine 7.9:1, espresso 12.1:1, rust 4.8:1, ink-muted 5.3:1
+   espresso on orange is 5.5:1 (4.5:1 on hover) so orange buttons always take dark text.
+   orange on cream is 2.6:1, so orange is decoration only and never text there.
+   orange on wine is 3.6:1, enough for large text only (19px bold and up),
+   which is why the header links are that size */
+
+:root {
+  --nr-wine: #7b282b;
+  --nr-wine-dark: #63201f; /* hover, cream on it is 11.5:1 */
+  --nr-apricot: #fce5d2;
+  --nr-apricot-strong: #f8d5b8; /* hover on apricot surfaces */
+  --nr-orange: #e9843e;
+  --nr-orange-dark: #d9732e;
+  --nr-cream: #fffaf5;
+  --nr-espresso: #302622;
+  --nr-rust: #a14c25;
+
+  --nr-ink: var(--nr-espresso);
+  --nr-ink-muted: #6e5b53;
+  --nr-border-strong: #8c7166; /* field edges, 4.3:1 on cream and 3.7:1 on apricot */
+  --nr-line: #ecd5c3; /* dividers, decoration only */
+  --nr-surface: var(--nr-cream);
+  --nr-surface-raised: #ffffff;
+  --nr-panel: var(--nr-apricot);
+  --nr-backdrop: rgb(48 38 34 / 0.55);
+
+  /* focus ring has to clear 3:1 against whatever sits next to it */
+  --nr-focus: var(--nr-wine);
+  --nr-focus-on-dark: var(--nr-cream);
+
+  /* map ramp, weaker match to stronger. labels sit on a cream pill so text
+     contrast never depends on the fill underneath */
+  --nr-map-1: #fffaf5;
+  --nr-map-2: #fce5d2;
+  --nr-map-3: #e9843e;
+  --nr-map-4: #a14c25;
+  --nr-map-5: #7b282b;
+  --nr-map-line: #302622;
+  --nr-map-bg: #f4ede6;
+
+  --nr-print-ink: #000000;
+  --nr-print-paper: #ffffff;
+
+  --nr-radius-sm: 0.75rem;
+  --nr-radius: 1.25rem;
+  --nr-radius-lg: 1.75rem;
+  --nr-radius-pill: 999px;
+
+  /* 48px, well over the 24px WCAG 2.2 asks for. applied with min-height so
+     nothing shrinks below it */
+  --nr-target: 48px;
+
+  /* system fonts on purpose. no web font download for people on prepaid data,
+     and the phone already has fonts for Dari, Farsi, Arabic and Pashto */
+  --nr-font:
+    system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans', 'Helvetica Neue', Arial, sans-serif;
+
+  --nr-measure: 36rem;
+  --nr-page: 72rem;
+  --nr-gutter: clamp(1rem, 0.6rem + 2vw, 2rem);
+}

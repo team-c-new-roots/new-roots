@@ -1,35 +1,703 @@
-@import './base.css';
+/* base */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+/* a sticky action bar must never hide the thing that has focus (WCAG 2.4.11) */
+html:has(.action-bar) {
+  scroll-padding-bottom: 7rem;
+}
+
+/* stop the page scrolling behind an open menu or dialog */
+html:has(dialog[open]) {
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--nr-font);
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--nr-ink);
+  background: var(--nr-surface);
+  -webkit-font-smoothing: antialiased;
+}
 
 #app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  font-weight: normal;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
 
-a,
-.green {
+img,
+svg {
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0 0 0.5rem;
+  color: var(--nr-wine);
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: clamp(1.625rem, 1.35rem + 1.2vw, 2.25rem);
+}
+
+h2 {
+  font-size: clamp(1.25rem, 1.15rem + 0.5vw, 1.5rem);
+}
+
+h3 {
+  font-size: 1.125rem;
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+a {
+  color: var(--nr-rust);
+  font-weight: 600;
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  color: var(--nr-wine);
+}
+
+main:focus {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 3px solid var(--nr-focus);
+  outline-offset: 2px;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* chevrons and arrows point the other way in Dari, Farsi, Arabic and Pashto */
+[dir='rtl'] .flip-rtl {
+  transform: scaleX(-1);
+}
+
+/* skip link, hidden until you tab to it */
+
+.skip-link {
+  position: absolute;
+  inset-inline-start: 0.5rem;
+  top: -4rem;
+  z-index: 100;
+  padding: 0.75rem 1.25rem;
+  background: var(--nr-wine);
+  color: var(--nr-cream);
+  font-weight: 700;
+  border-radius: 0 0 var(--nr-radius-sm) var(--nr-radius-sm);
+}
+
+.skip-link:focus {
+  top: 0;
+  color: var(--nr-cream);
+  outline-color: var(--nr-espresso);
+}
+
+/* layout */
+
+.app-main {
+  flex: 1;
+  padding-block: 1.5rem 3rem;
+}
+
+.page {
+  width: 100%;
+  max-width: var(--nr-page);
+  margin-inline: auto;
+  padding-inline: var(--nr-gutter);
+}
+
+.page--narrow {
+  max-width: calc(var(--nr-measure) + 2 * var(--nr-gutter));
+}
+
+.lead {
+  font-size: 1.0625rem;
+}
+
+.muted {
+  color: var(--nr-ink-muted);
+}
+
+.note {
+  color: var(--nr-rust);
+}
+
+.stack > * + * {
+  margin-top: 1rem;
+}
+
+/* buttons */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: var(--nr-target);
+  padding: 0.75rem 1.75rem;
+  border: 2px solid transparent;
+  border-radius: var(--nr-radius-pill);
+  font: inherit;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
-  transition: 0.4s;
-  padding: 3px;
+  cursor: pointer;
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease;
 }
 
-@media (hover: hover) {
-  a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
-  }
+.btn--primary {
+  background: var(--nr-wine);
+  color: var(--nr-cream);
 }
 
-@media (min-width: 1024px) {
-  body {
+.btn--primary:hover {
+  background: var(--nr-wine-dark);
+  color: var(--nr-cream);
+}
+
+.btn--accent {
+  background: var(--nr-orange);
+  color: var(--nr-espresso);
+}
+
+.btn--accent:hover {
+  background: var(--nr-orange-dark);
+  color: var(--nr-espresso);
+}
+
+.btn--outline {
+  background: transparent;
+  color: var(--nr-wine);
+  border-color: var(--nr-wine);
+}
+
+.btn--outline:hover {
+  background: var(--nr-apricot);
+  color: var(--nr-wine);
+}
+
+.btn--block {
+  width: 100%;
+}
+
+/* a text action like Back or Skip, still a full 48px target */
+.link-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  min-height: var(--nr-target);
+  padding-inline: 0.75rem;
+  border: 0;
+  background: none;
+  color: var(--nr-rust);
+  font: inherit;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.link-action:hover {
+  color: var(--nr-wine);
+  text-decoration: underline;
+}
+
+.icon-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: var(--nr-target);
+  min-height: var(--nr-target);
+  padding: 0;
+  border: 0;
+  border-radius: var(--nr-radius-sm);
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+/* panels and cards */
+
+.panel {
+  padding: 1.25rem;
+  border-radius: var(--nr-radius);
+  background: var(--nr-panel);
+}
+
+.panel > :last-child {
+  margin-bottom: 0;
+}
+
+/* icon lists, the ticks and crosses on the intro screen */
+.icon-list {
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0;
+}
+
+.icon-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding-block: 0.3rem;
+}
+
+.icon-list svg {
+  flex: 0 0 auto;
+  margin-top: 0.15rem;
+  color: var(--nr-rust);
+}
+
+/* badges. every badge carries an icon and words, never colour alone */
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.3rem 0.75rem;
+  border-radius: var(--nr-radius-pill);
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.badge--within {
+  background: var(--nr-surface-raised);
+  color: var(--nr-wine);
+}
+
+.badge--close,
+.badge--over {
+  background: var(--nr-surface-raised);
+  color: var(--nr-rust);
+}
+
+.badge--nodata {
+  background: var(--nr-surface-raised);
+  color: var(--nr-ink-muted);
+}
+
+.badge--sample {
+  background: var(--nr-orange);
+  color: var(--nr-espresso);
+  font-size: 0.8125rem;
+}
+
+/* forms */
+
+.field {
+  margin-bottom: 1.25rem;
+}
+
+.field__label {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-weight: 700;
+  color: var(--nr-wine);
+}
+
+.field__hint {
+  margin: 0 0 0.5rem;
+  color: var(--nr-ink-muted);
+  font-size: 0.9375rem;
+}
+
+.field__error {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0 0 0.5rem;
+  color: var(--nr-wine);
+  font-weight: 700;
+}
+
+.field__control {
+  display: flex;
+  align-items: stretch;
+  max-width: 16rem;
+  border: 2px solid var(--nr-border-strong);
+  border-radius: var(--nr-radius-sm);
+  background: var(--nr-surface-raised);
+}
+
+.field__control:focus-within {
+  outline: 3px solid var(--nr-focus);
+  outline-offset: 2px;
+}
+
+.field__control--invalid {
+  border-color: var(--nr-wine);
+  border-width: 3px;
+}
+
+.field__prefix {
+  display: inline-flex;
+  align-items: center;
+  padding-inline: 0.85rem 0.25rem;
+  font-weight: 700;
+  color: var(--nr-ink-muted);
+}
+
+/* 1.125rem also stops iOS zooming the page when the field gets focus */
+.field__input {
+  flex: 1;
+  min-width: 0;
+  min-height: var(--nr-target);
+  padding: 0.5rem 0.85rem;
+  border: 0;
+  border-radius: var(--nr-radius-sm);
+  background: transparent;
+  color: var(--nr-ink);
+  font: inherit;
+  font-size: 1.125rem;
+}
+
+.field__input:focus {
+  outline: none;
+}
+
+fieldset {
+  min-width: 0;
+  margin: 0 0 1.5rem;
+  padding: 0;
+  border: 0;
+}
+
+legend {
+  padding: 0;
+}
+
+.legend-heading {
+  display: block;
+  margin-bottom: 0.75rem;
+  color: var(--nr-wine);
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+/* choices. real radios and checkboxes, see-through and laid over the whole
+   option, so the tap target is the full chip and the screen reader still
+   finds a normal form control. the styling sits on the span after the input */
+
+.choice-group__options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.choice {
+  position: relative;
+  display: inline-flex;
+}
+
+.choice__input {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.choice__body {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: var(--nr-target);
+  padding: 0.6rem 1.25rem;
+  border: 3px solid transparent;
+  border-radius: var(--nr-radius-pill);
+  background: var(--nr-apricot);
+  color: var(--nr-ink);
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.choice__input:hover + .choice__body {
+  background: var(--nr-apricot-strong);
+}
+
+.choice__input:focus-visible + .choice__body {
+  outline: 3px solid var(--nr-focus);
+  outline-offset: 2px;
+}
+
+.choice__input:checked + .choice__body {
+  background: var(--nr-wine);
+  color: var(--nr-cream);
+}
+
+.choice__icon {
+  display: inline-flex;
+  flex: 0 0 auto;
+}
+
+/* the v-if leaves only a comment behind, which :empty ignores */
+.choice__icon:empty {
+  display: none;
+}
+
+.choice__text {
+  display: flex;
+  flex-direction: column;
+}
+
+.choice__hint {
+  font-size: 0.875rem;
+  font-weight: 400;
+}
+
+/* tiles, the bedroom numbers */
+.choice-group--tile .choice__body {
+  justify-content: center;
+  min-width: 3.5rem;
+  min-height: 3.5rem;
+  padding: 0.5rem;
+  border-radius: var(--nr-radius-sm);
+  font-size: 1.25rem;
+}
+
+/* cards, one full-width row per option */
+.choice-group--card .choice-group__options,
+.choice-group--card-strong .choice-group__options {
+  flex-direction: column;
+}
+
+.choice-group--card .choice,
+.choice-group--card-strong .choice {
+  display: flex;
+}
+
+.choice-group--card .choice__body,
+.choice-group--card-strong .choice__body {
+  flex: 1;
+  gap: 1rem;
+  min-height: 4rem;
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--nr-radius);
+  font-size: 1.0625rem;
+}
+
+.choice-group--card .choice__icon,
+.choice-group--card-strong .choice__icon {
+  color: var(--nr-wine);
+}
+
+.choice-group--card .choice__input:checked + .choice__body {
+  background: var(--nr-surface-raised);
+  color: var(--nr-ink);
+  border-color: var(--nr-wine);
+}
+
+.choice-group--card-strong .choice__input:checked + .choice__body .choice__icon {
+  color: var(--nr-cream);
+}
+
+/* language buttons, two to a row like the wireframe */
+.choice-group--language .choice-group__options {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.choice-group--language .choice {
+  display: flex;
+}
+
+.choice-group--language .choice__body {
+  flex: 1;
+  justify-content: center;
+  min-height: 4.5rem;
+  text-align: center;
+}
+
+.choice-group--language .choice__text {
+  align-items: center;
+}
+
+.choice-group--language .choice__label {
+  font-size: 1.25rem;
+}
+
+.choice-group--invalid {
+  padding-inline-start: 1rem;
+  border-inline-start: 4px solid var(--nr-wine);
+}
+
+/* error summary */
+
+.error-summary {
+  margin-bottom: 1.5rem;
+  padding: 1rem 1.25rem;
+  border: 3px solid var(--nr-wine);
+  border-radius: var(--nr-radius-sm);
+  background: var(--nr-surface-raised);
+}
+
+.error-summary:focus {
+  outline: 3px solid var(--nr-focus);
+  outline-offset: 3px;
+}
+
+.error-summary__title {
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
+}
+
+.error-summary ul {
+  margin: 0;
+  padding-inline-start: 1.25rem;
+}
+
+/* dialogs. native <dialog> with showModal(), so focus is trapped and Escape
+   closes it without any extra script */
+
+.dialog {
+  width: min(28rem, calc(100vw - 2rem));
+  padding: 1.5rem;
+  border: 0;
+  border-radius: var(--nr-radius);
+  background: var(--nr-surface);
+  color: var(--nr-ink);
+}
+
+.dialog::backdrop {
+  background: var(--nr-backdrop);
+}
+
+.dialog__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+/* sticky bottom bar on the results screen */
+
+.action-bar {
+  position: sticky;
+  bottom: 0;
+  z-index: 5;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+  padding: 0.75rem var(--nr-gutter) calc(0.75rem + env(safe-area-inset-bottom));
+  border-top: 2px solid var(--nr-line);
+  background: var(--nr-surface);
+}
+
+.action-bar .btn {
+  padding-inline: 0.75rem;
+}
+
+@media (min-width: 64rem) {
+  .action-bar {
+    position: static;
     display: flex;
-    place-items: center;
+    justify-content: flex-end;
+    border-top: 0;
+    padding-inline: 0;
   }
 
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
+  .action-bar .btn {
+    padding-inline: 1.75rem;
+  }
+}
+
+/* tighter padding on very small phones, the target height stays 48px */
+@media (max-width: 359.98px) {
+  .btn {
+    padding-inline: 1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* print. the summary is the only page meant for paper, but anything printed
+   loses the chrome and keeps the content */
+
+.print-only {
+  display: none;
+}
+
+@media print {
+  .no-print,
+  .skip-link,
+  .app-header,
+  .app-footer,
+  .language-notice,
+  .action-bar {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block;
+  }
+
+  body {
+    background: var(--nr-print-paper);
+    color: var(--nr-print-ink);
+  }
+
+  .app-main {
+    padding: 0;
+  }
+
+  .panel {
+    border: 1px solid var(--nr-print-ink);
+    background: var(--nr-print-paper);
+    break-inside: avoid;
+  }
+
+  a {
+    color: var(--nr-print-ink);
   }
 }
