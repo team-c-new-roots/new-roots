@@ -7,8 +7,8 @@
 }
 
 /* apricot behind everything, so bouncing past the footer on a phone shows
-   footer colour instead of a cream strip. body paints the cream page on top.
-   scroll-padding-top keeps focused fields and #links clear of the sticky header */
+   footer colour instead of a cream strip. scroll-padding-top keeps focused
+   fields and #links clear of the sticky header */
 html {
   background-color: var(--nr-apricot);
   scroll-padding-top: calc(var(--nr-header-height) + 1rem);
@@ -35,7 +35,9 @@ body {
   font-size: 1rem;
   line-height: 1.5;
   color: var(--nr-ink);
-  background: var(--nr-surface);
+  /* apricot as well, because Safari 26 tints the strip under its bottom
+     address bar from the body colour. main paints the cream page instead */
+  background: var(--nr-apricot);
   -webkit-font-smoothing: antialiased;
 }
 
@@ -136,6 +138,7 @@ main:focus {
 .app-main {
   flex: 1;
   padding-block: 1.5rem 3rem;
+  background: var(--nr-surface);
 }
 
 .page {
