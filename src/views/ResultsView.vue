@@ -237,6 +237,6 @@ async function showMore() {
 
 .results__panels--wide .results__map {
   position: sticky;
-  top: 1rem;
+  top: calc(var(--nr-header-height) + 1rem);
 }
 </style>

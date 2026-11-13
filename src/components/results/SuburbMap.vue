@@ -277,7 +277,10 @@ function onPick(event: Event) {
   margin-bottom: 1rem;
 }
 
+/* isolation keeps Leaflet's own z-indexes (up to 1000) inside the map, so
+   its panes and zoom buttons can't slide over the sticky header or action bar */
 .suburb-map__canvas {
+  isolation: isolate;
   height: clamp(20rem, 60vh, 34rem);
   border: 2px solid var(--nr-line);
   border-radius: var(--nr-radius);

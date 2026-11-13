@@ -57,6 +57,9 @@
   --nr-font:
     system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans', 'Helvetica Neue', Arial, sans-serif;
 
+  /* the sticky header: 68px of controls plus the 4px rust line */
+  --nr-header-height: 4.5rem;
+
   --nr-measure: 36rem;
   --nr-page: 72rem;
   --nr-gutter: clamp(1rem, 0.6rem + 2vw, 2rem);

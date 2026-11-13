@@ -6,7 +6,12 @@
   box-sizing: border-box;
 }
 
+/* apricot behind everything, so bouncing past the footer on a phone shows
+   footer colour instead of a cream strip. body paints the cream page on top.
+   scroll-padding-top keeps focused fields and #links clear of the sticky header */
 html {
+  background-color: var(--nr-apricot);
+  scroll-padding-top: calc(var(--nr-header-height) + 1rem);
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
