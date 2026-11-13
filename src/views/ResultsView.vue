@@ -10,14 +10,15 @@ import SuburbCard from '@/components/results/SuburbCard.vue'
 import NothingFits from '@/components/results/NothingFits.vue'
 import SampleBadge from '@/components/ui/SampleBadge.vue'
 import ClearDetailsButton from '@/components/layout/ClearDetailsButton.vue'
+import { MAP_URL } from '@/services/mapEmbed'
 
 /* the shortlist. on a phone, List and Map are tabs, the same as the
-   wireframe. on a wide screen there's room for both, so the tabs go and the
-   two sit side by side. the list is never less than the map: every suburb on
-   the map is reachable from here too */
+   wireframe. on a wide screen there's room for both, so the tabs go, the map
+   runs across the top and the list sits underneath. the list is never less
+   than the map: every suburb on the map is reachable from here too */
 
-// only people who open the map download Leaflet
-const SuburbMap = defineAsyncComponent(() => import('@/components/results/SuburbMap.vue'))
+// lazy load the map
+const HtmlMap = defineAsyncComponent(() => import('@/components/results/HtmlMap.vue'))
 
 const PAGE_SIZE = 5
 
@@ -120,6 +121,17 @@ async function showMore() {
 
     <div class="results__panels" :class="{ 'results__panels--wide': wide }">
       <section
+        v-if="wide || tab === 'map'"
+        id="panel-map"
+        :role="wide ? undefined : 'tabpanel'"
+        :aria-labelledby="wide ? undefined : 'tab-map'"
+        :aria-label="wide ? t('results.map') : undefined"
+        class="results__map"
+      >
+        <HtmlMap :src="MAP_URL" />
+      </section>
+
+      <section
         v-show="wide || tab === 'list'"
         id="panel-list"
         :role="wide ? undefined : 'tabpanel'"
@@ -148,17 +160,6 @@ async function showMore() {
         >
           {{ t('results.showMore') }}
         </button>
-      </section>
-
-      <section
-        v-if="wide || tab === 'map'"
-        id="panel-map"
-        :role="wide ? undefined : 'tabpanel'"
-        :aria-labelledby="wide ? undefined : 'tab-map'"
-        :aria-label="wide ? t('results.map') : undefined"
-        class="results__map"
-      >
-        <SuburbMap v-model:selected="selected" :suburbs="result.all" :total="ranked.length" />
       </section>
     </div>
 
@@ -228,15 +229,15 @@ async function showMore() {
   list-style: none;
 }
 
+/* map on top, list below */
 .results__panels--wide {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
-  align-items: start;
-  gap: 2rem;
+  gap: 1.5rem;
+  --html-map-height: clamp(28rem, 70vh, 44rem);
 }
 
-.results__panels--wide .results__map {
-  position: sticky;
-  top: 1rem;
+/* 2 cards per row */
+.results__panels--wide .results__cards {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 </style>

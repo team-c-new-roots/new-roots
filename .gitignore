@@ -40,3 +40,6 @@ __screenshots__/
 
 # Firebase
 .firebase/
+
+#the generated backend map page
+public/data/new_roots_map.html
