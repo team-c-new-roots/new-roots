@@ -1,80 +1,110 @@
 import { describe, expect, it } from 'vitest'
-import { estimateBudget, parseMoney, roundToTen } from '../budget'
 import type { IncomeAnswers } from '@/types'
+import { estimateBudget, parseMoney, roundToTen, toWeekly } from '../budget'
 
-// sample rates: parenting 1000, jobseeker 800, family tax 200 a child,
-// rent assistance 200, all per fortnight
-const base: IncomeAnswers = {
+// a household with nothing answered, each test fills in what it needs
+const blank: IncomeAnswers = {
   source: null,
   payments: [],
   otherPaymentFortnight: null,
   wageAmount: null,
   wagePeriod: 'week',
+  adults: 1,
   children: 0,
+  couple: null,
+  teens: 0,
+  youngestUnderFive: null,
 }
 
 describe('estimateBudget', () => {
-  it('waits for an income source before giving a number', () => {
-    expect(estimateBudget(base)).toBeNull()
+  it('waits for an answer instead of showing $0', () => {
+    expect(estimateBudget(blank)).toBeNull()
+    expect(estimateBudget({ ...blank, source: 'payments' })).toBeNull()
+    expect(estimateBudget({ ...blank, source: 'work' })).toBeNull()
   })
 
-  it('needs at least one payment when Centrelink is chosen', () => {
-    expect(estimateBudget({ ...base, source: 'payments' })).toBeNull()
+  it('takes 30% of a wage and leaves out rent assistance (Reza)', () => {
+    const budget = estimateBudget({ ...blank, source: 'work', wageAmount: 700 })
+    expect(budget).toEqual({ weekly: 210, incomeWeekly: 700, rentAssistanceWeekly: 0 })
   })
 
-  it("gives Mariam's household about $520 a week with rent assistance", () => {
+  it('counts rent assistance and energy supplements as income for a single job seeker', () => {
+    // 416.85 jobseeker + 4.40 energy + 111.90 rent assistance = 533.15
+    const budget = estimateBudget({ ...blank, source: 'payments', payments: ['jobseeker'] })
+    expect(budget?.incomeWeekly).toBe(533.15)
+    expect(budget?.rentAssistanceWeekly).toBe(111.9)
+    expect(budget?.weekly).toBe(160)
+  })
+
+  it('waits for the couple question when there is more than one adult', () => {
+    const answers: IncomeAnswers = {
+      ...blank,
+      adults: 2,
+      source: 'payments',
+      payments: ['jobseeker'],
+    }
+    expect(estimateBudget(answers)).toBeNull()
+    expect(estimateBudget({ ...answers, couple: 'yes' })?.incomeWeekly).toBe(
+      // partnered rate, partnered energy supplement, couple rent assistance
+      381.5 + 3.95 + 105.5,
+    )
+  })
+
+  it('works out a large family on payments (Mariam)', () => {
     const budget = estimateBudget({
-      ...base,
+      ...blank,
       source: 'payments',
       payments: ['parenting', 'jobseeker', 'familyTax'],
+      adults: 2,
       children: 5,
+      couple: 'yes',
+      teens: 1,
+      youngestUnderFive: 'yes',
     })
-    // 2800 a fortnight is 1400 a week. 30% is 420, plus 100 rent assistance
-    expect(budget).toEqual({ weekly: 520, incomeWeekly: 1400, rentAssistanceWeekly: 100 })
+    // parenting and jobseeker at partnered rates with their supplements,
+    // FTB A for four under 13 and one teen, FTB B for an under 5,
+    // rent assistance for a family with 3 or more children
+    expect(budget?.incomeWeekly).toBe(1654.58)
+    expect(budget?.rentAssistanceWeekly).toBe(148.68)
+    expect(budget?.weekly).toBe(500)
   })
 
-  it('never adds rent assistance to wage-only income', () => {
-    const budget = estimateBudget({ ...base, source: 'work', wageAmount: 700 })
-    expect(budget?.weekly).toBe(210)
-    expect(budget?.rentAssistanceWeekly).toBe(0)
-  })
-
-  it('turns fortnightly and monthly wages into weekly', () => {
-    const fortnight = estimateBudget({
-      ...base,
-      source: 'work',
-      wageAmount: 1400,
+  it('adds a wage on top of payments when the household has both', () => {
+    const payments = estimateBudget({ ...blank, source: 'payments', payments: ['jobseeker'] })!
+    const both = estimateBudget({
+      ...blank,
+      source: 'both',
+      payments: ['jobseeker'],
+      wageAmount: 400,
       wagePeriod: 'fortnight',
-    })
-    const month = estimateBudget({ ...base, source: 'work', wageAmount: 3033, wagePeriod: 'month' })
-    expect(fortnight?.incomeWeekly).toBe(700)
-    expect(month?.incomeWeekly).toBe(700)
+    })!
+    expect(both.incomeWeekly).toBeCloseTo(payments.incomeWeekly + 200, 2)
   })
 
-  it('needs an amount for Other payments', () => {
-    const answers: IncomeAnswers = { ...base, source: 'payments', payments: ['other'] }
+  it('needs an amount when other payments are ticked', () => {
+    const answers: IncomeAnswers = { ...blank, source: 'payments', payments: ['other'] }
     expect(estimateBudget(answers)).toBeNull()
-    expect(estimateBudget({ ...answers, otherPaymentFortnight: 600 })?.weekly).toBe(190)
+    expect(estimateBudget({ ...answers, otherPaymentFortnight: 600 })?.incomeWeekly).toBe(
+      300 + 111.9,
+    )
   })
 })
 
-describe('parseMoney', () => {
-  it('accepts what people type', () => {
-    expect(parseMoney('$1,250')).toBe(1250)
-    expect(parseMoney(' 700.50 ')).toBe(700.5)
+describe('helpers', () => {
+  it('rounds to the nearest $10', () => {
+    expect(roundToTen(496.37)).toBe(500)
+    expect(roundToTen(214)).toBe(210)
   })
 
-  it('rejects anything that is not a positive amount', () => {
-    expect(parseMoney('')).toBeNull()
+  it('turns any pay period into a week', () => {
+    expect(toWeekly(1000, 'fortnight')).toBe(500)
+    expect(toWeekly(5200, 'month')).toBeCloseTo(1200, 5)
+  })
+
+  it('reads money the way people type it', () => {
+    expect(parseMoney('$1,250')).toBe(1250)
+    expect(parseMoney('80.50')).toBe(80.5)
     expect(parseMoney('abc')).toBeNull()
     expect(parseMoney('0')).toBeNull()
-    expect(parseMoney('-50')).toBeNull()
-  })
-})
-
-describe('roundToTen', () => {
-  it('rounds to the nearest ten dollars', () => {
-    expect(roundToTen(517.4)).toBe(520)
-    expect(roundToTen(514.9)).toBe(510)
   })
 })

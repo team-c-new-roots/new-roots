@@ -3,7 +3,8 @@ import { useI18n } from 'vue-i18n'
 
 /* plain answers to the questions people ask before typing anything
    in: what you ask, where it goes, who else can see it. it only claims what
-   the build does. if anything here changes, this page changes in the same PR */
+   the build does: the ranking happens on the phone, so answers never leave
+   it (US 6.2). if that ever changes, this page changes in the same PR */
 
 const { t } = useI18n()
 

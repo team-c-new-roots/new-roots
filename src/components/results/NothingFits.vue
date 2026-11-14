@@ -2,9 +2,9 @@
 import { useI18n } from 'vue-i18n'
 import { ChevronRight, Printer } from '@lucide/vue'
 import { useFormat } from '@/composables/useFormat'
-import type { HomeType, RankedSuburb } from '@/types'
+import type { HomeLabel } from '@/types'
+import type { SuburbResult } from '@/services/results'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
-import SampleBadge from '@/components/ui/SampleBadge.vue'
 import ClearDetailsButton from '@/components/layout/ClearDetailsButton.vue'
 
 /* when no suburb's median rent fits, say so plainly and show how far over the
@@ -14,44 +14,36 @@ import ClearDetailsButton from '@/components/layout/ClearDetailsButton.vue'
    same screen with nothing to rank */
 
 defineProps<{
-  closest: RankedSuburb[]
+  closest: SuburbResult[]
   budget: number
-  bedrooms: number
-  homeType: HomeType
+  // the home the rent figures describe
+  home: HomeLabel
 }>()
 
 const { t } = useI18n()
-const { money, home } = useFormat()
+const { money, home: homeName } = useFormat()
 </script>
 
 <template>
   <div class="page page--narrow nothing-fits">
     <h1>{{ t('nothingFits.title') }}</h1>
     <p class="lead">
-      {{
-        t('nothingFits.lead', {
-          home: home({ type: homeType, bedrooms }),
-          budget: money(budget),
-        })
-      }}
+      {{ t('nothingFits.lead', { home: homeName(home), budget: money(budget) }) }}
     </p>
 
     <h2>{{ t('nothingFits.closest') }}</h2>
     <ul class="nothing-fits__list">
-      <li v-for="item in closest" :key="item.suburb.id" class="nothing-fits__item">
+      <li v-for="item in closest" :key="item.id" class="nothing-fits__item">
         <div>
-          <RouterLink
-            :to="{ name: 'suburb', params: { id: item.suburb.id } }"
-            class="nothing-fits__name"
-          >
-            {{ item.suburb.name }}
+          <RouterLink :to="{ name: 'suburb', params: { id: item.id } }" class="nothing-fits__name">
+            {{ item.name }}
           </RouterLink>
-          <p v-if="item.home && item.median !== null" class="nothing-fits__median">
-            {{ t('nothingFits.median', { home: home(item.home), amount: money(item.median) }) }}
+          <p v-if="item.rent !== null" class="nothing-fits__median">
+            {{ t('nothingFits.median', { home: homeName(home), amount: money(item.rent) }) }}
           </p>
         </div>
-        <span v-if="item.difference !== null" class="badge badge--over">
-          {{ t('status.overBy', { amount: money(item.difference) }) }}
+        <span v-if="item.overBy !== null" class="badge badge--above">
+          {{ t('status.overBy', { amount: money(item.overBy) }) }}
         </span>
       </li>
     </ul>
@@ -75,8 +67,6 @@ const { money, home } = useFormat()
         </RouterLink>
       </li>
     </ul>
-
-    <SampleBadge />
 
     <div class="action-bar">
       <RouterLink :to="{ name: 'summary' }" class="btn btn--accent">

@@ -2,15 +2,17 @@
 import { useI18n } from 'vue-i18n'
 import { useFormat } from '@/composables/useFormat'
 import type { BudgetEstimate } from '@/types'
+import { RATES_FROM } from '@/data/centrelink-rates'
 
-/* the budget shows up the moment there's enough to work it out (US-2), in
-   dollars a week. a polite live region, so a screen reader hears the new
-   figure after each change without being interrupted mid-word */
+/* the budget shows up the moment there's enough to work it out (US 1.1), in
+   dollars a week, with the date the payment rates apply from. a polite live
+   region, so a screen reader hears the new figure after each change without
+   being interrupted mid-word */
 
-defineProps<{ budget: BudgetEstimate | null }>()
+defineProps<{ budget: BudgetEstimate | null; usesPayments: boolean }>()
 
 const { t } = useI18n()
-const { money } = useFormat()
+const { money, monthYear } = useFormat()
 </script>
 
 <template>
@@ -21,12 +23,16 @@ const { money } = useFormat()
         {{ t('income.budgetValue', { amount: money(budget.weekly) }) }}
       </p>
       <p class="budget-card__note">
+        {{ t('income.basis') }}
+        <!-- US 1.2, a wage-only budget says why rent assistance isn't there -->
         {{
           budget.rentAssistanceWeekly > 0
             ? t('income.withRentAssistance')
-            : t('income.withoutRentAssistance')
+            : t('income.noRentAssistance')
         }}
-        {{ t('income.sampleFigure') }}
+      </p>
+      <p v-if="usesPayments" class="budget-card__note">
+        {{ t('income.ratesFrom', { date: monthYear(RATES_FROM) }) }}
       </p>
       <RouterLink :to="{ name: 'how-it-works', hash: '#budget' }">
         {{ t('income.howWorked') }}

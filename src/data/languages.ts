@@ -57,6 +57,36 @@ export const COMMUNITY_LANGUAGES: CommunityLanguage[] = [
   'dinka',
 ]
 
+// the quick picks on the language step, spelt the way the census spells them,
+// which the language files are keyed on
+export const CENSUS_NAMES: Record<CommunityLanguage, string> = {
+  dari: 'Dari',
+  hazaraghi: 'Hazaraghi',
+  persian: 'Persian (excluding Dari)',
+  arabic: 'Arabic',
+  pashto: 'Pashto',
+  dinka: 'Dinka',
+}
+
+// the other way round, so a chosen census name finds its translated name
+export const QUICK_PICK_BY_CENSUS: Record<string, CommunityLanguage> = Object.fromEntries(
+  Object.entries(CENSUS_NAMES).map(([key, name]) => [name, key as CommunityLanguage]),
+)
+
+// shown under the English name on the language community step, so people can
+// find their language without reading English
+export const COMMUNITY_NATIVE: Record<
+  CommunityLanguage,
+  { text: string; lang: string; dir: 'ltr' | 'rtl' }
+> = {
+  dari: { text: 'دری', lang: 'fa-AF', dir: 'rtl' },
+  hazaraghi: { text: 'هزارگی', lang: 'haz', dir: 'rtl' },
+  persian: { text: 'فارسی', lang: 'fa-IR', dir: 'rtl' },
+  arabic: { text: 'العربية', lang: 'ar', dir: 'rtl' },
+  pashto: { text: 'پښتو', lang: 'ps', dir: 'rtl' },
+  dinka: { text: 'Thuɔŋjäŋ', lang: 'din', dir: 'ltr' },
+}
+
 // greetings from the wireframe, two lines of two. each one is tagged with its
 // language so a screen reader switches voice instead of reading Persian with
 // English rules

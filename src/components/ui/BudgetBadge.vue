@@ -10,7 +10,7 @@ const { t } = useI18n()
 
 const icon = computed(
   () =>
-    ({ within: Check, close: EqualApproximately, over: X, noData: CircleQuestionMark })[
+    ({ within: Check, close: EqualApproximately, above: X, noData: CircleQuestionMark })[
       props.status
     ],
 )

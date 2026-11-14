@@ -64,8 +64,17 @@ const describedBy = computed(
           <span class="choice__icon" aria-hidden="true">
             <Check v-if="model.includes(option.value)" :size="18" :stroke-width="3" />
           </span>
+          <component
+            :is="option.icon"
+            v-if="option.icon"
+            class="choice__symbol"
+            :size="22"
+            aria-hidden="true"
+          />
           <span class="choice__text">
-            <span class="choice__label">{{ option.label }}</span>
+            <span class="choice__label" :lang="option.lang" :dir="option.dir">{{
+              option.label
+            }}</span>
           </span>
         </span>
       </label>

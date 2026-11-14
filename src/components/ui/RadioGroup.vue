@@ -1,10 +1,11 @@
 <script setup lang="ts" generic="T extends string | number">
-import { computed, useId } from 'vue'
+import { computed, useId, type Component } from 'vue'
 import { Check, Circle, CircleAlert, CircleCheck } from '@lucide/vue'
 import type { ChoiceOption } from '@/types'
 
 /* native radios under the styling, so arrow keys, form semantics and the
-   screen reader's "1 of 3" all come for free. the question goes in the legend,
+   screen reader's "1 of 3" all come for free. options can carry an icon so
+   they read without much English (US 5.1). the question goes in the legend,
    and when the question is the whole screen the legend holds the h1, the way
    GOV.UK does it, so the group is named by the question itself */
 
@@ -20,9 +21,12 @@ const props = withDefaults(
     legendHidden?: boolean
     hint?: string
     error?: string
+    // an icon before the question, for topic groups on the priorities step
+    legendIcon?: Component
   }>(),
   {
     id: undefined,
+    legendIcon: undefined,
     variant: 'chip',
     legendTag: 'span',
     legendHidden: false,
@@ -54,6 +58,13 @@ const showsCircle = computed(() => props.variant === 'card' || props.variant ===
   >
     <legend :class="{ 'visually-hidden': legendHidden }">
       <component :is="legendTag" :class="{ 'legend-heading': legendTag !== 'h1' }">
+        <component
+          :is="legendIcon"
+          v-if="legendIcon"
+          :size="24"
+          class="legend-icon"
+          aria-hidden="true"
+        />
         {{ legend }}
       </component>
     </legend>
@@ -88,6 +99,13 @@ const showsCircle = computed(() => props.variant === 'card' || props.variant ===
               <Check v-else-if="showsTick && model === option.value" :size="18" :stroke-width="3" />
             </slot>
           </span>
+          <component
+            :is="option.icon"
+            v-if="option.icon"
+            class="choice__symbol"
+            :size="variant === 'tile' ? 20 : 22"
+            aria-hidden="true"
+          />
           <span class="choice__text">
             <span class="choice__label" :lang="option.lang" :dir="option.dir">{{
               option.label

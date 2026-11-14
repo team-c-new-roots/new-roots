@@ -2,7 +2,6 @@
 import { useI18n } from 'vue-i18n'
 import { DATASETS } from '@/data/datasets'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
-import SampleBadge from '@/components/ui/SampleBadge.vue'
 
 /* the working behind every number: how the budget is made, how suburbs are
    ranked, and where each dataset comes from with its date. people can't
@@ -21,10 +20,6 @@ const { t } = useI18n()
       <p>{{ t('howItWorks.budget1') }}</p>
       <p>{{ t('howItWorks.budget2') }}</p>
       <p>{{ t('howItWorks.budget3') }}</p>
-      <p class="how__sample">
-        <SampleBadge />
-        <span>{{ t('howItWorks.budgetSample') }}</span>
-      </p>
     </section>
 
     <section id="ranking" aria-labelledby="ranking-heading">
@@ -43,7 +38,8 @@ const { t } = useI18n()
       <ul class="how__datasets">
         <li v-for="dataset in DATASETS" :key="dataset.id" class="panel">
           <h3>
-            <ExternalLink :href="dataset.url">{{ dataset.name }}</ExternalLink>
+            <ExternalLink v-if="dataset.url" :href="dataset.url">{{ dataset.name }}</ExternalLink>
+            <template v-else>{{ dataset.name }}</template>
           </h3>
           <p>{{ t(dataset.useKey) }}</p>
           <p class="how__meta">
@@ -63,13 +59,6 @@ const { t } = useI18n()
 
 .how section:focus {
   outline: none;
-}
-
-.how__sample {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.5rem;
 }
 
 .how__steps {

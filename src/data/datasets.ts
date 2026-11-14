@@ -10,7 +10,8 @@ export interface Dataset {
   useKey: string
   // as published, or the date the team last checked it
   period: string
-  url: string
+  // left out where the team hasn't confirmed a stable link yet
+  url?: string
   enteredByHand?: boolean
 }
 
@@ -72,6 +73,21 @@ export const DATASETS: Dataset[] = [
     period: 'Checked October 2026',
     url: 'https://immi.homeaffairs.gov.au/settling-in-australia/amep/find-a-class/providers-and-locations',
     enteredByHand: true,
+  },
+  {
+    id: 'health',
+    name: 'Health services',
+    publisher: 'Geoscience Australia',
+    useKey: 'howItWorks.datasets.health',
+    period: '2025',
+  },
+  {
+    id: 'transport',
+    name: 'Public transport stops (GTFS schedule)',
+    publisher: 'Department of Transport and Planning',
+    useKey: 'howItWorks.datasets.transport',
+    period: '2026',
+    url: 'https://opendata.transport.vic.gov.au/dataset/gtfs-schedule',
   },
   {
     id: 'crime',

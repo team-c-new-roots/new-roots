@@ -4,21 +4,22 @@ import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
 import { Circle, Heart } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
+import { useLanguageName } from '@/composables/useLanguageName'
 import type { ChoiceOption, Importance } from '@/types'
 import StepLayout from '@/components/steps/StepLayout.vue'
 import RadioGroup from '@/components/ui/RadioGroup.vue'
 
 /* step 3, second half. three choices with icons instead of a five point
-   scale (US-20). community reorders suburbs but never hides any (US-14),
-   and the screen says so right under the choices */
+   scale (US 2.2). this is the Language topic in the scoring module. it
+   reorders suburbs but never hides any (US 3.1), and the screen says so
+   right under the choices */
 
 const { t } = useI18n()
 const router = useRouter()
 const answers = useAnswersStore()
 
-const languageName = computed(() =>
-  answers.rankingLanguage ? t(`languages.${answers.rankingLanguage}`) : '',
-)
+const chosen = useLanguageName()
+const languageName = computed(() => chosen.value ?? '')
 
 const options = computed<ChoiceOption<Importance>[]>(() => [
   { value: 'not', label: t('importance.not') },
@@ -27,9 +28,9 @@ const options = computed<ChoiceOption<Importance>[]>(() => [
 ])
 
 const importance = computed<Importance | null>({
-  get: () => answers.importance.community,
+  get: () => answers.importance.Language,
   set: (value) => {
-    if (value) answers.importance.community = value
+    if (value) answers.importance.Language = value
   },
 })
 </script>

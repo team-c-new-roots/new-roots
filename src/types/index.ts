@@ -1,34 +1,23 @@
+import type { Component } from 'vue'
+
 export type HomeType = 'house' | 'flat' | 'either'
 export type IncomeSource = 'payments' | 'work' | 'both'
 export type PaymentType = 'parenting' | 'jobseeker' | 'familyTax' | 'other'
 export type PayPeriod = 'week' | 'fortnight' | 'month'
 export type Importance = 'not' | 'important' | 'very'
-export type Topic = 'community' | 'essentials' | 'crime'
-export type BudgetStatus = 'within' | 'close' | 'over' | 'noData'
+export type BudgetStatus = 'within' | 'close' | 'above' | 'noData'
+export type SchoolNeed = 'primary' | 'secondary' | 'both' | 'none'
+export type YesNo = 'yes' | 'no'
 
-// the languages the sample census data covers. the data team can grow this list
+// the languages the language community step offers. each maps to its census name
 export type CommunityLanguage = 'dari' | 'hazaraghi' | 'persian' | 'arabic' | 'pashto' | 'dinka'
 
-// rental report categories. it has 1 to 3 bed flats and 2 to 4 bed houses, nothing else
-export type RentKey = 'flat1' | 'flat2' | 'flat3' | 'house2' | 'house3' | 'house4'
+// the seven topics the scoring module uses, spelt the way the backend spells them
+export type TopicName =
+  'Affordability' | 'Education' | 'Healthcare' | 'Safety' | 'Transport' | 'Language' | 'Community'
 
-export interface Suburb {
-  id: string
-  name: string
-  lga: string
-  // weekly medians. null means not enough data for the suburb at all
-  rents: Partial<Record<RentKey, number>> | null
-  // percent of residents who speak each language at home
-  languages: Partial<Record<CommunityLanguage, number>> | null
-  schoolPrimaryKm: number | null
-  schoolSecondaryKm: number | null
-  englishClassKm: number | null
-  // 0 to 100, worked out ahead of time by the data pipeline
-  essentialsScore: number | null
-  // reported incidents per 1,000 residents, and a 0 to 100 score where higher is fewer
-  crimeRate: number | null
-  crimeScore: number | null
-}
+// affordability isn't rated, suburbs within budget always come first (US 2.2)
+export type RatedTopic = Exclude<TopicName, 'Affordability'>
 
 export interface IncomeAnswers {
   source: IncomeSource | null
@@ -36,52 +25,29 @@ export interface IncomeAnswers {
   otherPaymentFortnight: number | null
   wageAmount: number | null
   wagePeriod: PayPeriod
+  adults: number
   children: number
+  // only asked when there's more than one adult and someone gets payments
+  couple: YesNo | null
+  // children aged 13 to 19, only asked for family tax benefit
+  teens: number
+  youngestUnderFive: YesNo | null
 }
 
 export interface BudgetEstimate {
+  // the rent budget, 30% of income, rounded to the nearest $10
   weekly: number
+  // everything the household gets each week, rent assistance included. this
+  // is what goes to the scoring API
   incomeWeekly: number
   rentAssistanceWeekly: number
 }
 
+// the home the rent figures describe, after fitting the request to what the
+// rental report publishes
 export interface HomeLabel {
-  type: 'house' | 'flat'
+  type: HomeType
   bedrooms: number
-}
-
-export interface Preferences {
-  budget: number
-  bedrooms: number
-  homeType: HomeType
-  communityLanguage: CommunityLanguage | null
-  importance: Record<Topic, Importance>
-}
-
-export interface TopicScores {
-  budget: number | null
-  community: number | null
-  essentials: number | null
-  crime: number | null
-}
-
-export interface RankedSuburb {
-  suburb: Suburb
-  home: HomeLabel | null
-  median: number | null
-  status: BudgetStatus
-  // median minus budget. positive means over budget
-  difference: number | null
-  scores: TopicScores
-  counted: Record<Topic, boolean>
-  match: number | null
-  rank: number | null
-}
-
-export interface RankingResult {
-  ranked: RankedSuburb[]
-  all: RankedSuburb[]
-  closest: RankedSuburb[]
 }
 
 // one option in a radio or checkbox group
@@ -93,4 +59,6 @@ export interface ChoiceOption<V extends string | number = string> {
   // for labels written in another language, so screen readers switch voice
   lang?: string
   dir?: 'ltr' | 'rtl'
+  // shown beside the label so the option reads without much English (US 5.1)
+  icon?: Component
 }
