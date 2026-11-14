@@ -14,6 +14,7 @@ const props = defineProps<{
   suburb: SuburbResult
   counted: Set<TopicName>
   hasLanguage: boolean
+  compact?: boolean
 }>()
 
 const { t } = useI18n()
@@ -49,6 +50,7 @@ const rows = computed(() =>
       :icon="row.icon"
       :score="row.score"
       :note="row.note"
+      :compact="compact"
     />
   </dl>
 </template>

@@ -33,6 +33,9 @@ const wide = useMediaQuery('(min-width: 64rem)')
 const { rentHome } = useSuburbFacts()
 
 const tab = ref<'list' | 'map'>('list')
+// a card's Show on map asks the map to open a suburb. the nonce makes asking
+// for the same one twice still count
+const mapFocus = ref<{ id: string; nonce: number } | null>(null)
 const shown = ref(PAGE_SIZE)
 const selected = ref<string | null>(null)
 const tabs = ref<HTMLButtonElement[]>([])
@@ -85,6 +88,19 @@ async function onTabKey(event: KeyboardEvent) {
   tab.value = tab.value === 'list' ? 'map' : 'list'
   await nextTick()
   tabs.value[tab.value === 'list' ? 0 : 1]?.focus()
+}
+
+// opens the suburb on the map as if it had been clicked there. on a phone that
+// means switching to the Map tab first
+async function showOnMap(id: string) {
+  selected.value = id
+  if (!wide.value) tab.value = 'map'
+  mapFocus.value = { id, nonce: (mapFocus.value?.nonce ?? 0) + 1 }
+  await nextTick()
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+  document
+    .getElementById('panel-map')
+    ?.scrollIntoView({ block: 'start', behavior: reduce ? 'auto' : 'smooth' })
 }
 
 async function showMore() {
@@ -189,6 +205,7 @@ async function showMore() {
             :counted="counted"
             :has-language="answers.censusLanguage !== null"
             :total="ranked.length"
+            :focus="mapFocus"
             :side="wide"
           />
         </section>
@@ -203,7 +220,12 @@ async function showMore() {
         >
           <ol id="results-list" class="results__cards">
             <li v-for="item in visible" :key="item.id">
-              <SuburbCard :item="item" :data="data" :in-summary="answers.isShortlisted(item.id)" />
+              <SuburbCard
+                :item="item"
+                :data="data"
+                :in-summary="answers.isShortlisted(item.id)"
+                @show-on-map="showOnMap"
+              />
             </li>
           </ol>
           <p class="muted" aria-live="polite">

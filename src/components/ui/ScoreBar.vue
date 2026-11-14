@@ -12,13 +12,15 @@ defineProps<{
   // why it isn't counted, when it isn't
   note?: string
   icon?: Component
+  // tighter rows for the map panel, so all seven fit beside the map
+  compact?: boolean
 }>()
 
 const { t } = useI18n()
 </script>
 
 <template>
-  <div class="score">
+  <div class="score" :class="{ 'score--compact': compact }">
     <dt class="score__label">
       <component :is="icon" v-if="icon" :size="20" class="score__icon" aria-hidden="true" />
       {{ label }}
@@ -85,5 +87,18 @@ const { t } = useI18n()
   height: 100%;
   border-radius: var(--nr-radius-pill);
   background: var(--nr-wine);
+}
+
+.score--compact {
+  padding-block: 0.3rem;
+}
+
+.score--compact .score__label,
+.score--compact .score__value {
+  font-size: 1rem;
+}
+
+.score--compact .score__note {
+  font-size: 0.875rem;
 }
 </style>

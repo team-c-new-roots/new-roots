@@ -25,6 +25,22 @@ export interface SuburbResult {
   overBy: number | null
 }
 
+// the map colours suburbs by their match in fixed bands of 20, the same
+// numbers the labels show, so a 54 always looks like a 54
+export const MATCH_BANDS = [
+  { band: 1, from: 0, to: 19 },
+  { band: 2, from: 20, to: 39 },
+  { band: 3, from: 40, to: 59 },
+  { band: 4, from: 60, to: 79 },
+  { band: 5, from: 80, to: 100 },
+] as const
+
+export function bandFor(score: number | null): number | undefined {
+  if (score === null) return undefined
+  const rounded = Math.round(score)
+  return MATCH_BANDS.find((band) => rounded >= band.from && rounded <= band.to)?.band ?? 5
+}
+
 export interface Derived {
   all: SuburbResult[]
   ranked: SuburbResult[]

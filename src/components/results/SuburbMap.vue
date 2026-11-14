@@ -7,7 +7,7 @@ import 'leaflet/dist/leaflet.css'
 import type { Feature, Geometry } from 'geojson'
 import type { TopicName } from '@/types'
 import { loadBoundaries, type BoundaryProperties } from '@/services/boundaries'
-import type { SuburbResult } from '@/services/results'
+import { bandFor, type SuburbResult } from '@/services/results'
 import { TOPICS } from '@/data/topics'
 import BudgetBadge from '@/components/ui/BudgetBadge.vue'
 import TopicBars from './TopicBars.vue'
@@ -40,6 +40,8 @@ const props = defineProps<{
   total: number
   // wide screens put the panel beside the map rather than under it
   side?: boolean
+  // a card's Show on map. the nonce lets the same suburb be asked for twice
+  focus?: { id: string; nonce: number } | null
 }>()
 
 const selectedId = defineModel<string | null>('selected', { default: null })
@@ -47,16 +49,30 @@ const selectedId = defineModel<string | null>('selected', { default: null })
 const { t } = useI18n()
 const container = ref<HTMLElement | null>(null)
 const picker = ref<HTMLSelectElement | null>(null)
+const panelHeading = ref<HTMLHeadingElement | null>(null)
 const state = ref<'loading' | 'ready' | 'error'>('loading')
 const showStreets = ref(false)
 const zoomArmed = ref(false)
 const canHover = window.matchMedia('(hover: hover)').matches
 
-// names join the scores from this zoom in
+// names join other suburbs' scores from this zoom in, and the numbered pins
+// a little earlier because there are only ten of them
 const NAME_ZOOM = 12.5
-// breathing room around each label, in pixels
+const PIN_NAME_ZOOM = 11
+const TOP_PINS = 10
+// label sizes and the breathing room around each, in pixels. each label owns
+// an area a little wider than the widest label it could become
 const LABEL_GAP = 3
-const TOP_STYLE = 10
+const LABEL_HEIGHT = 26
+const PIN_HEIGHT = 32
+// zoomed out, a group gathers a wide area, so the city view is a handful of
+// groups and the pins. zoomed in, each label only needs its own space
+const OVERVIEW_ZOOM = 11
+const OVERVIEW_AREA = { width: 170, height: 70 }
+const SCORE_AREA = { width: 112, height: 34 }
+const NAMED_AREA = { width: 175, height: 34 }
+// below this the top 10 shrink to small numbered dots, so they crowd less
+const SMALL_PIN_ZOOM = 10.5
 
 let map: L.Map | null = null
 let shapes: L.GeoJSON<BoundaryProperties> | null = null
@@ -78,19 +94,6 @@ const pickerOptions = computed(() =>
   ),
 )
 
-// ramp step 1 to 5 by rank among every suburb with a score, so the map uses
-// the whole ramp whatever the scores happen to be
-const steps = computed(() => {
-  const scored = props.suburbs
-    .filter((item) => item.row.overall_score !== null)
-    .sort((a, b) => (b.row.overall_score ?? 0) - (a.row.overall_score ?? 0))
-  const result = new Map<string, number>()
-  scored.forEach((item, index) => {
-    result.set(item.id, 5 - Math.floor((index / scored.length) * 5))
-  })
-  return result
-})
-
 // colours come from tokens.css so the palette is defined once. SVG attributes
 // can't read var(), hence reading the computed value
 function token(name: string): string {
@@ -99,7 +102,7 @@ function token(name: string): string {
 
 function styleFor(id: string | undefined): L.PathOptions {
   const item = id ? byId.value.get(id) : undefined
-  const step = id ? steps.value.get(id) : undefined
+  const step = bandFor(item?.row.overall_score ?? null)
   const isSelected = id !== undefined && id === selectedId.value
   const noRent = item?.status === 'noData'
   return {
@@ -194,6 +197,20 @@ function tooltipFor(item: SuburbResult): HTMLElement {
 interface Placed {
   item: SuburbResult
   position: L.LatLng
+  point: L.Point
+}
+
+interface Box {
+  x: number
+  y: number
+  width: number
+  height: number
+}
+
+interface Group {
+  members: Placed[]
+  // pixels moved down to clear a pin
+  drop: number
 }
 
 // best first: the household's own ranking, then the rest by score
@@ -204,40 +221,6 @@ function byPriority(a: Placed, b: Placed): number {
   )
 }
 
-// the household's top 10 always show their names, so the city view says
-// where they are. everyone else gets a name once zoomed in to suburb level
-function showsName(item: SuburbResult, zoomedIn: boolean): boolean {
-  return zoomedIn || (item.rank !== null && item.rank <= TOP_STYLE)
-}
-
-function labelElement(lead: SuburbResult, more: number, named: boolean): HTMLElement {
-  const pill = document.createElement('span')
-  pill.className = 'map-label'
-  if (lead.rank !== null && lead.rank <= TOP_STYLE) pill.classList.add('map-label--top')
-  if (named) {
-    const name = document.createElement('span')
-    name.className = 'map-label__name'
-    name.textContent = lead.name
-    pill.append(name)
-  }
-  const score = document.createElement('span')
-  score.className = 'map-label__score'
-  score.textContent = String(lead.match)
-  pill.append(score)
-  if (more > 0) {
-    const extra = document.createElement('span')
-    extra.className = 'map-label__more'
-    extra.textContent = `+${more}`
-    pill.append(extra)
-  }
-  return pill
-}
-
-/* labels by zoom. best suburbs are placed first, and a label that would
-   overlap one already placed joins the nearest one instead, which then shows
-   a +count. zooming in spreads the suburbs apart, so the groups split until
-   every suburb has its own label. tapping a group zooms into it. space is
-   kept for a +count on every label, so adding one can't cause an overlap */
 let measure: CanvasRenderingContext2D | null = null
 
 function textWidth(text: string, size: number, weight: number): number {
@@ -247,85 +230,234 @@ function textWidth(text: string, size: number, weight: number): number {
   return measure.measureText(text).width
 }
 
-interface Box {
-  x: number
-  y: number
-  width: number
-  height: number
-}
-
 function overlaps(a: Box, b: Box): boolean {
   return a.x < b.x + b.width && b.x < a.x + a.width && a.y < b.y + b.height && b.y < a.y + a.height
 }
 
+function boxAround(point: L.Point, width: number, height: number): Box {
+  return {
+    x: point.x - width / 2 - LABEL_GAP,
+    y: point.y - height / 2 - LABEL_GAP,
+    width: width + LABEL_GAP * 2,
+    height: height + LABEL_GAP * 2,
+  }
+}
+
+function scoreElement(item: SuburbResult, named: boolean, drop: number): HTMLElement {
+  const pill = document.createElement('span')
+  pill.className = 'map-label'
+  if (drop) pill.style.marginTop = `${drop}px`
+  if (named) {
+    const name = document.createElement('span')
+    name.className = 'map-label__name'
+    name.textContent = item.name
+    pill.append(name)
+  }
+  const score = document.createElement('span')
+  score.textContent = String(item.match)
+  pill.append(score)
+  return pill
+}
+
+// the Layers icon from Lucide, drawn by hand because Leaflet labels are plain
+// DOM rather than Vue components
+const LAYERS_PATHS = [
+  'm12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83Z',
+  'm22 17.65-9.17 4.16a2 2 0 0 1-1.66 0L2 17.65',
+  'm22 12.65-9.17 4.16a2 2 0 0 1-1.66 0L2 12.65',
+]
+
+function layersIcon(): SVGSVGElement {
+  const ns = 'http://www.w3.org/2000/svg'
+  const svg = document.createElementNS(ns, 'svg')
+  svg.setAttribute('viewBox', '0 0 24 24')
+  svg.setAttribute('width', '13')
+  svg.setAttribute('height', '13')
+  svg.setAttribute('fill', 'none')
+  svg.setAttribute('stroke', 'currentColor')
+  svg.setAttribute('stroke-width', '2.5')
+  svg.setAttribute('stroke-linecap', 'round')
+  svg.setAttribute('stroke-linejoin', 'round')
+  svg.setAttribute('aria-hidden', 'true')
+  for (const d of LAYERS_PATHS) {
+    const path = document.createElementNS(ns, 'path')
+    path.setAttribute('d', d)
+    svg.append(path)
+  }
+  return svg
+}
+
+// a stack icon and the count in words, so it can't be read as a score
+function groupElement(count: number, drop: number): HTMLElement {
+  const pill = document.createElement('span')
+  pill.className = 'map-group'
+  if (drop) pill.style.marginTop = `${drop}px`
+  const words = document.createElement('span')
+  words.textContent = t('map.groupCount', { n: count })
+  pill.append(layersIcon(), words)
+  return pill
+}
+
+function pinElement(item: SuburbResult, named: boolean, lift: number, small: boolean): HTMLElement {
+  const pin = document.createElement('span')
+  pin.className = named ? 'map-pin map-pin--named' : small ? 'map-pin map-pin--small' : 'map-pin'
+  if (lift) pin.style.marginTop = `${-lift}px`
+  const rank = document.createElement('span')
+  rank.className = 'map-pin__rank'
+  rank.textContent = String(item.rank)
+  pin.append(rank)
+  if (named) {
+    const name = document.createElement('span')
+    name.className = 'map-pin__name'
+    name.textContent = `${item.name} ${item.match ?? ''}`.trim()
+    pin.append(name)
+  }
+  return pin
+}
+
+function average(group: Placed[]): number {
+  return Math.round(group.reduce((sum, entry) => sum + (entry.item.match ?? 0), 0) / group.length)
+}
+
+/* labels by zoom.
+   - the household's top 10 are numbered pins, the same numbers as the list,
+     shown at every zoom and never folded into a group. names join them once
+     there's room. a pin that would sit right on another lifts one step
+   - every other suburb, best first, either starts a label or joins the label
+     whose area it falls in. each label owns an area a little bigger than the
+     widest label, so labels never overlap and groups can't snowball. a label
+     with more than one suburb shows how many, with their average in its
+     hover text. zooming in spreads suburbs apart, so groups split until
+     every suburb has its own score. selecting a group zooms into it */
 function refreshLabels() {
   if (!map || !labels) return
   labels.clearLayers()
-  const named = map.getZoom() >= NAME_ZOOM
+  const zoom = map.getZoom()
+  const named = zoom >= NAME_ZOOM
+  const pinsNamed = zoom >= PIN_NAME_ZOOM
   const view = map.getBounds().pad(0.1)
-  const candidates: (Placed & { point: L.Point })[] = []
+  const pins: Placed[] = []
+  const others: Placed[] = []
 
   for (const feature of features) {
     const item = byId.value.get(feature.properties.suburb_id)
     if (!item || item.match === null) continue
     const position = L.latLng(feature.properties.label_lat, feature.properties.label_lon)
     if (!view.contains(position)) continue
-    candidates.push({ item, position, point: map.latLngToContainerPoint(position) })
+    const entry = { item, position, point: map.latLngToContainerPoint(position) }
+    if (item.rank !== null && item.rank <= TOP_PINS) pins.push(entry)
+    else others.push(entry)
   }
-  candidates.sort(byPriority)
+  pins.sort(byPriority)
+  others.sort(byPriority)
 
-  const placed: { lead: Placed; point: L.Point; box: Box; members: Placed[] }[] = []
-  for (const candidate of candidates) {
-    // pill padding and border, the score, room for a +count, and the name
-    let width = 22 + textWidth(String(candidate.item.match), 13, 700) + 30
-    if (showsName(candidate.item, named)) width += 6 + textWidth(candidate.item.name, 13, 600)
-    const height = 26
-    const box = {
-      x: candidate.point.x - width / 2 - LABEL_GAP,
-      y: candidate.point.y - height / 2 - LABEL_GAP,
-      width: width + LABEL_GAP * 2,
-      height: height + LABEL_GAP * 2,
+  const pinBoxes: Box[] = []
+  for (const entry of pins) {
+    // pins are 31px across once their border and padding are counted
+    const small = zoom < SMALL_PIN_ZOOM
+    const width = pinsNamed
+      ? 50 + textWidth(`${entry.item.name} ${entry.item.match}`, 13, 700)
+      : small
+        ? 24
+        : 34
+    let lift = 0
+    const height = small ? 24 : PIN_HEIGHT
+    let box = boxAround(entry.point, width, height)
+    if (pinBoxes.some((placed) => overlaps(placed, box))) {
+      lift = height + 2
+      box = boxAround(L.point(entry.point.x, entry.point.y - lift), width, height)
     }
-    const clash = placed.filter((entry) => overlaps(entry.box, box))
-    if (clash.length === 0) {
-      placed.push({ lead: candidate, point: candidate.point, box, members: [] })
-      continue
-    }
-    const nearest = clash.reduce((best, entry) =>
-      entry.point.distanceTo(candidate.point) < best.point.distanceTo(candidate.point)
-        ? entry
+    pinBoxes.push(box)
+    labels.addLayer(
+      L.marker(entry.position, {
+        icon: L.divIcon({
+          className: 'map-label-anchor',
+          html: pinElement(entry.item, pinsNamed, lift, zoom < SMALL_PIN_ZOOM),
+          iconSize: [0, 0],
+        }),
+        interactive: false,
+        keyboard: false,
+        zIndexOffset: 1000 - (entry.item.rank ?? 0),
+      }),
+    )
+  }
+
+  const area = named ? NAMED_AREA : zoom < OVERVIEW_ZOOM ? OVERVIEW_AREA : SCORE_AREA
+  const groups: Group[] = []
+  const nearest = (point: L.Point) =>
+    groups.reduce((best, group) =>
+      group.members[0]!.point.distanceTo(point) < best.members[0]!.point.distanceTo(point)
+        ? group
         : best,
     )
-    nearest.members.push(candidate)
+
+  for (const entry of others) {
+    const home = groups.find(
+      (group) =>
+        Math.abs(group.members[0]!.point.x - entry.point.x) < area.width &&
+        Math.abs(group.members[0]!.point.y + group.drop - entry.point.y) < area.height,
+    )
+    if (home) {
+      home.members.push(entry)
+      continue
+    }
+    // a new label can't sit on a pin: it drops below, or joins the nearest label
+    let drop = 0
+    const under = () =>
+      pinBoxes.some((pin) =>
+        overlaps(
+          pin,
+          boxAround(L.point(entry.point.x, entry.point.y + drop), area.width, LABEL_HEIGHT),
+        ),
+      )
+    if (under()) drop = PIN_HEIGHT
+    // once dropped it might land in another label's area, so check again
+    const landed = groups.find(
+      (group) =>
+        Math.abs(group.members[0]!.point.x - entry.point.x) < area.width &&
+        Math.abs(group.members[0]!.point.y + group.drop - (entry.point.y + drop)) < area.height,
+    )
+    if (landed) {
+      landed.members.push(entry)
+      continue
+    }
+    if (under() && groups.length) {
+      nearest(entry.point).members.push(entry)
+      continue
+    }
+    groups.push({ members: [entry], drop })
   }
 
-  for (const { lead, members } of placed) {
-    const more = members.length
+  for (const group of groups) {
+    const lead = group.members[0]!
+    const many = group.members.length > 1
     const marker = L.marker(lead.position, {
       icon: L.divIcon({
         className: 'map-label-anchor',
-        html: labelElement(lead.item, more, showsName(lead.item, named)),
+        html: many
+          ? groupElement(group.members.length, group.drop)
+          : scoreElement(lead.item, named, group.drop),
         iconSize: [0, 0],
       }),
-      interactive: more > 0,
+      interactive: many,
       keyboard: false,
-      title: more > 0 ? t('map.groupTitle', { suburb: lead.item.name, n: more }) : '',
+      title: many
+        ? t('map.groupTitle', { n: group.members.length, average: average(group.members) })
+        : '',
     })
-    if (more > 0) {
+    if (many) {
       marker.on('click', () => {
-        const bounds = L.latLngBounds([lead.position, ...members.map((entry) => entry.position)])
-        map?.fitBounds(bounds.pad(0.4), { maxZoom: (map?.getZoom() ?? 10) + 2 })
+        const bounds = L.latLngBounds(group.members.map((entry) => entry.position))
+        map?.fitBounds(bounds.pad(0.3), { maxZoom: (map?.getZoom() ?? 10) + 2 })
       })
     }
     labels.addLayer(marker)
   }
 }
 
-// on a wide screen the legend floats in the bottom corner, so fitting leaves
-// room under the suburbs for it rather than tucking the top result behind it
+// room at the top for the street map switch and the zoom hint
 function fitPadding(): L.FitBoundsOptions {
-  const bottom = props.side ? 190 : 24
-  return { paddingTopLeft: [24, 72], paddingBottomRight: [24, bottom] }
+  return { paddingTopLeft: [24, 64], paddingBottomRight: [24, 24] }
 }
 
 // start on the suburbs that matter: the top three, close enough to read
@@ -347,6 +479,23 @@ function pick(id: string) {
   selectedId.value = id
   const layer = layerFor(id)
   if (map && layer) map.fitBounds(layer.getBounds(), { ...fitPadding(), maxZoom: 13 })
+}
+
+// from a card: the same as clicking the suburb on the map, then focus moves to
+// its panel so a screen reader hears which suburb opened
+async function showSuburb(id: string) {
+  pick(id)
+  await nextTick()
+  panelHeading.value?.focus()
+}
+
+/* no zooming out past the whole of Melbourne, and no dragging off into empty
+   space. worked out from the shapes and the map's size, and again on resize */
+function limitView() {
+  if (!map || !shapes) return
+  const all = shapes.getBounds()
+  map.setMaxBounds(all.pad(0.25))
+  map.setMinZoom(Math.max(Math.floor(map.getBoundsZoom(all) * 2) / 2 - 0.5, 7))
 }
 
 // the same as Iris: scroll zoom switches on with a click and off when the
@@ -373,7 +522,11 @@ onMounted(async () => {
     if (!container.value) return
     features = data.features
 
-    map = L.map(container.value, { scrollWheelZoom: false, zoomSnap: 0.5 })
+    map = L.map(container.value, {
+      scrollWheelZoom: false,
+      zoomSnap: 0.5,
+      maxBoundsViscosity: 1,
+    })
     map.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a>')
 
     shapes = L.geoJSON<BoundaryProperties>(data, {
@@ -402,11 +555,14 @@ onMounted(async () => {
     const svg = container.value.querySelector('svg')
     if (svg) addHatch(svg)
 
+    limitView()
+    map.on('resize', limitView)
     map.on('moveend zoomend', refreshLabels)
     map.on('click focus', armZoom)
     map.on('mouseout blur', disarmZoom)
     refreshLabels()
     state.value = 'ready'
+    if (props.focus) showSuburb(props.focus.id)
   } catch {
     state.value = 'error'
   }
@@ -418,6 +574,12 @@ onBeforeUnmount(() => {
 })
 
 watch(selectedId, restyle)
+watch(
+  () => props.focus,
+  (focus) => {
+    if (focus && state.value === 'ready') showSuburb(focus.id)
+  },
+)
 watch(
   () => props.suburbs,
   () => {
@@ -488,13 +650,6 @@ function onPick(event: Event) {
         >
           {{ t('map.clickToZoom') }}
         </p>
-
-        <MapLegend
-          v-if="side && state === 'ready'"
-          floating
-          :show-no-rent="hasNoRent"
-          :show-no-score="hasNoScore"
-        />
       </div>
 
       <div class="suburb-map__below">
@@ -507,10 +662,9 @@ function onPick(event: Event) {
             </option>
           </select>
         </div>
-        <MapLegend v-if="!side" :show-no-rent="hasNoRent" :show-no-score="hasNoScore" />
-        <p class="field__hint suburb-map__notes">
-          {{ t('map.zoomHint') }}
-          <span id="map-streets-hint">{{ t('map.streetsHint') }}</span>
+        <MapLegend :show-no-rent="hasNoRent" :show-no-score="hasNoScore" />
+        <p id="map-streets-hint" class="field__hint suburb-map__notes">
+          {{ t('map.notes') }}
         </p>
       </div>
     </div>
@@ -518,7 +672,7 @@ function onPick(event: Event) {
     <aside v-if="selected" class="suburb-map__panel" aria-live="polite">
       <header class="suburb-map__panel-head">
         <div class="suburb-map__panel-title">
-          <h2 class="suburb-map__name">{{ selected.name }}</h2>
+          <h2 ref="panelHeading" class="suburb-map__name" tabindex="-1">{{ selected.name }}</h2>
           <p class="suburb-map__rank-line">
             {{
               selected.rank
@@ -542,7 +696,7 @@ function onPick(event: Event) {
         <BudgetBadge :status="selected.status" />
       </header>
       <div class="suburb-map__panel-body">
-        <TopicBars :suburb="selected" :counted="counted" :has-language="hasLanguage" />
+        <TopicBars :suburb="selected" :counted="counted" :has-language="hasLanguage" compact />
         <RouterLink
           :to="{ name: 'suburb', params: { id: selected.id } }"
           class="suburb-map__details"
@@ -686,6 +840,10 @@ function onPick(event: Event) {
   color: var(--nr-cream);
 }
 
+.suburb-map__name:focus {
+  outline: none;
+}
+
 .suburb-map__panel-head > .badge {
   grid-column: 1 / -1;
   justify-self: start;
@@ -819,26 +977,75 @@ function onPick(event: Event) {
   box-shadow: 0 1px 3px rgb(48 38 34 / 0.25);
 }
 
-.suburb-map .map-label--top {
-  border-color: var(--nr-cream);
-  background: var(--nr-wine);
-  color: var(--nr-cream);
-}
-
 .suburb-map .map-label__name {
   font-weight: 600;
 }
 
-.suburb-map .map-label__more {
-  padding: 0 0.3rem;
+/* a group of suburbs that don't fit yet: a stack icon, a count and a dashed
+   stacked look, so it can't be mistaken for one suburb's score */
+.suburb-map .map-group {
+  position: absolute;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  transform: translate(-50%, -50%);
+  padding: 0.1rem 0.45rem;
+  border: 2px dashed var(--nr-espresso);
   border-radius: 999px;
   background: var(--nr-apricot);
   color: var(--nr-espresso);
-  font-size: 0.75rem;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  line-height: 1.3;
+  white-space: nowrap;
+  box-shadow:
+    3px 3px 0 -1px var(--nr-apricot),
+    3px 3px 0 1px var(--nr-espresso);
+  cursor: zoom-in;
 }
 
-.suburb-map .leaflet-marker-icon.leaflet-interactive .map-label {
-  cursor: zoom-in;
+/* the household's top 10, numbered the same as the list */
+.suburb-map .map-pin {
+  position: absolute;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  transform: translate(-50%, -50%);
+  padding: 0.15rem;
+  border: 2px solid var(--nr-cream);
+  border-radius: 999px;
+  background: var(--nr-wine);
+  color: var(--nr-cream);
+  font-size: 0.8125rem;
+  font-weight: 700;
+  line-height: 1;
+  white-space: nowrap;
+  box-shadow: 0 2px 6px rgb(48 38 34 / 0.35);
+}
+
+.suburb-map .map-pin__rank {
+  display: inline-grid;
+  place-items: center;
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 50%;
+  background: var(--nr-cream);
+  color: var(--nr-wine);
+}
+
+.suburb-map .map-pin--named {
+  padding-inline-end: 0.6rem;
+}
+
+.suburb-map .map-pin--small {
+  padding: 0.05rem;
+  border-width: 1.5px;
+  font-size: 0.6875rem;
+}
+
+.suburb-map .map-pin--small .map-pin__rank {
+  width: 1.05rem;
+  height: 1.05rem;
 }
 
 .leaflet-tooltip.map-tip {

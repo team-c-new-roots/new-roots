@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import type { MapData, ObtRow, ResultRow } from '@/types/api'
 import {
+  bandFor,
   budgetStatus,
   buildResults,
   cleanName,
@@ -61,6 +62,16 @@ describe('budgetStatus', () => {
     expect(budgetStatus(row('a', { selected_weekly_rent: null, rent_to_income_pct: null }))).toBe(
       'noData',
     )
+  })
+})
+
+describe('bandFor', () => {
+  it('colours by the score itself in bands of 20, so a 54 always looks like a 54', () => {
+    expect(bandFor(54)).toBe(3)
+    expect(bandFor(59.6)).toBe(4)
+    expect(bandFor(85)).toBe(5)
+    expect(bandFor(0)).toBe(1)
+    expect(bandFor(null)).toBeUndefined()
   })
 })
 

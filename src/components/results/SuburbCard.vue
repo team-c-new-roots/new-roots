@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { Check, House, Languages } from '@lucide/vue'
+import { Check, House, Languages, MapPin } from '@lucide/vue'
 import type { MapData } from '@/types/api'
 import type { SuburbResult } from '@/services/results'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
@@ -12,13 +12,16 @@ import BudgetBadge from '@/components/ui/BudgetBadge.vue'
    speak the family's language, and how far the schools they need and an
    English class are. distances are chips that wrap whole, so a figure never
    splits from its unit, and every card in a row is the same height with
-   View details along the bottom */
+   View details and Show on map along the bottom */
 
 const props = defineProps<{
   item: SuburbResult
   data: MapData
   inSummary: boolean
 }>()
+
+// the same as clicking the suburb on the map: it opens there with its panel
+const emit = defineEmits<{ showOnMap: [id: string] }>()
 
 const { t } = useI18n()
 const facts = useSuburbFacts()
@@ -60,10 +63,17 @@ const distances = computed(() => facts.distanceFacts(props.item))
     </ul>
 
     <div class="suburb-card__bottom">
-      <RouterLink :to="{ name: 'suburb', params: { id: item.id } }">
-        {{ t('results.details') }}
-        <span class="visually-hidden">{{ t('results.detailsFor', { suburb: item.name }) }}</span>
-      </RouterLink>
+      <div class="suburb-card__actions">
+        <RouterLink :to="{ name: 'suburb', params: { id: item.id } }">
+          {{ t('results.details') }}
+          <span class="visually-hidden">{{ t('results.detailsFor', { suburb: item.name }) }}</span>
+        </RouterLink>
+        <button type="button" class="suburb-card__map" @click="emit('showOnMap', item.id)">
+          <MapPin :size="18" aria-hidden="true" />
+          {{ t('results.showOnMap') }}
+          <span class="visually-hidden">{{ t('results.detailsFor', { suburb: item.name }) }}</span>
+        </button>
+      </div>
       <span v-if="inSummary" class="suburb-card__saved">
         <Check :size="16" :stroke-width="3" aria-hidden="true" />
         {{ t('results.inSummary') }}
@@ -167,10 +177,37 @@ const distances = computed(() => facts.distanceFacts(props.item))
   margin-top: auto;
 }
 
+.suburb-card__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 1.25rem;
+}
+
 .suburb-card__bottom a {
   display: inline-flex;
   align-items: center;
   min-height: var(--nr-target);
+}
+
+/* a button that looks like the link beside it */
+.suburb-card__map {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  min-height: var(--nr-target);
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--nr-rust);
+  font: inherit;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  cursor: pointer;
+}
+
+.suburb-card__map:hover {
+  color: var(--nr-wine);
 }
 
 .suburb-card__saved {
