@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import type { MapData, ObtRow, ResultRow } from '@/types/api'
+import type { MapData, ObtRow, ResultRow } from '@/types/scoring'
 import {
   bandFor,
   budgetStatus,

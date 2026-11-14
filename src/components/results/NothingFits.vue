@@ -6,7 +6,6 @@ import type { HomeLabel } from '@/types'
 import type { SuburbResult } from '@/services/results'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
 import ClearDetailsButton from '@/components/layout/ClearDetailsButton.vue'
-import ExampleNotice from './ExampleNotice.vue'
 
 /* when no suburb's median rent fits, say so plainly and show how far over the
    closest ones are, rather than an empty list. then point at the help that
@@ -27,7 +26,6 @@ const { money, home: homeName } = useFormat()
 
 <template>
   <div class="page page--narrow nothing-fits">
-    <ExampleNotice />
     <h1>{{ t('nothingFits.title') }}</h1>
     <p class="lead">
       {{ t('nothingFits.lead', { home: homeName(home), budget: money(budget) }) }}

@@ -4,9 +4,7 @@ import { BookOpen, GraduationCap, School } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
 import { useFormat } from '@/composables/useFormat'
 import { languageShare, metricValue, type SuburbResult } from '@/services/results'
-import { EXAMPLE_HOME, usingExample } from '@/services/api'
-import type { HomeLabel } from '@/types'
-import type { MapData } from '@/types/api'
+import type { MapData } from '@/types/scoring'
 
 // the lines a card, the map panel and the summary all show for a suburb, so
 // the three never disagree about what a figure says
@@ -16,9 +14,7 @@ export function useSuburbFacts() {
   const { money, km, percent, home } = useFormat()
 
   // the home the rent figures describe
-  const rentHome = computed<HomeLabel>(() =>
-    usingExample ? { ...EXAMPLE_HOME } : answers.home.figures,
-  )
+  const rentHome = computed(() => answers.home.figures)
 
   // which school distances matter to this household (US 4.1)
   const schoolMetrics = computed(() => {

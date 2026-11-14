@@ -7,13 +7,11 @@ import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
 import { insights, languageShare, metricValue, topLanguages } from '@/services/results'
-import { EXAMPLE_RENT_METRIC, usingExample } from '@/services/api'
 import { SCHOOL_NEARBY_KM } from '@/data/metrics'
 import BudgetBadge from '@/components/ui/BudgetBadge.vue'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
 import TopicBars from '@/components/results/TopicBars.vue'
 import ResultsGate from '@/components/results/ResultsGate.vue'
-import ExampleNotice from '@/components/results/ExampleNotice.vue'
 
 /* why a suburb ranks where it does: a score for each of the seven topics,
    what it does best and worst on, then the figures behind it with their
@@ -35,12 +33,7 @@ const saved = computed(() => (item.value ? answers.isShortlisted(item.value.id) 
 
 const findings = computed(() =>
   item.value && data.value
-    ? insights(
-        data.value,
-        item.value,
-        counted.value,
-        usingExample ? EXAMPLE_RENT_METRIC : answers.home.rentMetric,
-      )
+    ? insights(data.value, item.value, counted.value, answers.home.rentMetric)
     : null,
 )
 
@@ -98,7 +91,6 @@ function toggleSummary() {
       <ChevronLeft class="flip-rtl" :size="20" aria-hidden="true" />
       {{ t('suburb.back') }}
     </RouterLink>
-    <ExampleNotice />
 
     <ResultsGate :status="status" :error-kind="errorKind" @retry="retry">
       <template v-if="item && data">

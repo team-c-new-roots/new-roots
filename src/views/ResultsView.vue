@@ -11,7 +11,6 @@ import { TOPICS } from '@/data/topics'
 import SuburbCard from '@/components/results/SuburbCard.vue'
 import NothingFits from '@/components/results/NothingFits.vue'
 import ResultsGate from '@/components/results/ResultsGate.vue'
-import ExampleNotice from '@/components/results/ExampleNotice.vue'
 import ClearDetailsButton from '@/components/layout/ClearDetailsButton.vue'
 
 /* the shortlist. on a phone, List and Map are tabs, the same as the
@@ -121,7 +120,6 @@ async function showMore() {
   />
 
   <div v-else class="page results">
-    <ExampleNotice />
     <div class="results__head">
       <h1>{{ t('results.title') }}</h1>
       <RouterLink :to="{ name: 'household' }" class="link-action">{{

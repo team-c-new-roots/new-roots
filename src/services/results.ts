@@ -1,5 +1,5 @@
 import type { BudgetStatus, TopicName } from '@/types'
-import type { LanguageRow, MapData, ObtRow, ResultRow } from '@/types/api'
+import type { LanguageRow, MapData, ObtRow, ResultRow } from '@/types/scoring'
 import { METRICS } from '@/data/metrics'
 
 /* turns the API's rows into what the screens show. ranking itself happens in

@@ -6,12 +6,10 @@ import { useAnswersStore } from '@/stores/answers'
 import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
-import { usingExample } from '@/services/api'
 import type { SuburbResult } from '@/services/results'
 import { RATES_FROM } from '@/data/centrelink-rates'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
 import ResultsGate from '@/components/results/ResultsGate.vue'
-import ExampleNotice from '@/components/results/ExampleNotice.vue'
 import logoLight1x from '@/assets/brand/logo-on-light.webp'
 import logoLight2x from '@/assets/brand/logo-on-light@2x.webp'
 
@@ -58,7 +56,6 @@ const householdLine = computed(() =>
 )
 
 const today = computed(() => d(new Date(), 'long'))
-const madeKey = usingExample ? 'summary.madeExample' : 'summary.made'
 
 function print() {
   window.print()
@@ -76,7 +73,6 @@ function print() {
       height="40"
     />
 
-    <ExampleNotice class="no-print" />
     <h1>{{ t('summary.title') }}</h1>
     <p class="lead">{{ t('summary.lead') }}</p>
 
@@ -165,7 +161,7 @@ function print() {
       {{ t('summary.privacy') }}
     </p>
     <p class="muted summary__made">
-      {{ t(madeKey, { date: today }) }}
+      {{ t('summary.made', { date: today }) }}
     </p>
 
     <div class="no-print summary__actions">

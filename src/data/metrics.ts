@@ -13,6 +13,7 @@ export interface MetricInfo {
 export const METRICS: Record<string, MetricInfo> = {
   rent_1br_flat: { topic: 'Affordability', unit: 'dollars' },
   rent_2br_flat: { topic: 'Affordability', unit: 'dollars' },
+  rent_3br_flat: { topic: 'Affordability', unit: 'dollars' },
   rent_2br_house: { topic: 'Affordability', unit: 'dollars' },
   rent_3br_house: { topic: 'Affordability', unit: 'dollars' },
   rent_4br_house: { topic: 'Affordability', unit: 'dollars' },
@@ -28,9 +29,9 @@ export const METRICS: Record<string, MetricInfo> = {
   crime_property_per_1000: { topic: 'Safety', unit: 'per1000' },
 }
 
-// the rental report publishes flats up to 2 bedrooms and houses from 2 to 4
+// the rental report publishes flats up to 3 bedrooms and houses from 2 to 4
 export const PUBLISHED_RENTS = {
-  flat: [1, 2],
+  flat: [1, 2, 3],
   house: [2, 3, 4],
 } as const
 

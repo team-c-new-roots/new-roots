@@ -2,13 +2,13 @@
 import { useI18n } from 'vue-i18n'
 import { LoaderCircle, RefreshCw } from '@lucide/vue'
 import type { ResultsStatus } from '@/stores/results'
-import type { ResultsErrorKind } from '@/services/api'
+import type { DataErrorKind } from '@/services/appData'
 
 /* stands in front of anything built from the scoring API's answer. sample
    data never failed, a network call can, so there's a loading state, an
    error that says what to do, and a button to try again */
 
-defineProps<{ status: ResultsStatus; errorKind: ResultsErrorKind | null }>()
+defineProps<{ status: ResultsStatus; errorKind: DataErrorKind | null }>()
 const emit = defineEmits<{ retry: [] }>()
 const { t } = useI18n()
 </script>

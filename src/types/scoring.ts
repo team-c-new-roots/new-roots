@@ -1,8 +1,9 @@
 import type { TopicName } from './index'
 
-/* the scoring API's contract, taken from the scoring module and the saved
-   response in public/data/example-results.json. if the backend changes shape,
-   this file and services/api.ts are the only places that should need to */
+/* the scoring contract: what a household's answers turn into, and the rows
+   that come back. it mirrors calculate_scores in the data team's
+   new_roots_scoring.py, which stays the reference version. the browser's
+   copy in services/scoring.ts is tested against its output */
 
 export type ImportanceLevel = 'not important' | 'important' | 'very important'
 
@@ -20,7 +21,7 @@ export interface ScoreRequest {
 export interface ResultRow {
   suburb_id: string
   suburb_name: string
-  affordability_score: number
+  affordability_score: number | null
   selected_weekly_rent: number | null
   rent_to_income_pct: number | null
   affordability_cap: number | null
@@ -74,4 +75,24 @@ export interface MapData {
   languages: LanguageRow[]
   infrastructure: InfrastructureRow[]
   selectedLanguage: string | null
+}
+
+// what scripts/export_app_data.py writes to public/data/app-data.json
+export interface AppDataWeight {
+  topic: TopicName
+  table: 'obt' | 'languages' | 'infrastructure'
+  metric: string
+  weight: number
+}
+
+export interface AppData {
+  exported: string
+  weights: AppDataWeight[]
+  suburbs: ObtRow[]
+  // census language name, then suburb id, then [percent spoken, language score]
+  languages: Record<string, Record<string, [number | null, number | null]>>
+  // each suburb's four most spoken languages, [name, percent]
+  topLanguages: Record<string, [string, number][]>
+  // each suburb's average community places score
+  community: Record<string, number | null>
 }

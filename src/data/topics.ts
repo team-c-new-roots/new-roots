@@ -1,7 +1,7 @@
 import type { Component } from 'vue'
 import { Wallet, BookOpen, HeartPulse, Bus, Languages, Library, ShieldCheck } from '@lucide/vue'
 import type { Importance, RatedTopic, TopicName } from '@/types'
-import type { ResultRow } from '@/types/api'
+import type { ResultRow } from '@/types/scoring'
 
 export interface TopicInfo {
   id: TopicName

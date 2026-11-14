@@ -24,10 +24,11 @@ describe('homeRequest', () => {
     expect(home.note).toBe('houseOneBed')
   })
 
-  it('caps flats at 2 bedrooms, the largest the data covers', () => {
+  it('caps flats at 3 bedrooms, the largest the data covers', () => {
     const home = homeRequest(4, 'flat')
-    expect(home.request).toEqual({ bedrooms: 2, dwelling_type: 'flat' })
+    expect(home.request).toEqual({ bedrooms: 3, dwelling_type: 'flat' })
     expect(home.note).toBe('flatLarge')
+    expect(home.rentMetric).toBe('rent_3br_flat')
   })
 
   it('uses the 4-bed figures for 5 or more and notes bigger homes cost more', () => {

@@ -1,5 +1,5 @@
 import type { HomeLabel, HomeType } from '@/types'
-import type { ScoreRequest } from '@/types/api'
+import type { ScoreRequest } from '@/types/scoring'
 import { PUBLISHED_RENTS } from '@/data/metrics'
 
 export const MAX_ADULTS = 10
@@ -29,7 +29,7 @@ export interface HomeRequest {
 }
 
 /* fits the home someone asked for to what the rental report publishes:
-   flats with 1 or 2 bedrooms, houses with 2 to 4. anything else moves to the
+   flats with 1 to 3 bedrooms, houses with 2 to 4. anything else moves to the
    closest published size, and the note says so */
 export function homeRequest(bedrooms: number, homeType: HomeType): HomeRequest {
   const fivePlus = bedrooms >= 5

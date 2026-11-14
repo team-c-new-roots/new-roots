@@ -2,7 +2,7 @@
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { Check, House, Languages, MapPin } from '@lucide/vue'
-import type { MapData } from '@/types/api'
+import type { MapData } from '@/types/scoring'
 import type { SuburbResult } from '@/services/results'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
 import BudgetBadge from '@/components/ui/BudgetBadge.vue'

@@ -2,7 +2,7 @@ import { computed, watch } from 'vue'
 import { storeToRefs } from 'pinia'
 import { useAnswersStore } from '@/stores/answers'
 import { useResultsStore } from '@/stores/results'
-import { toScoreRequest } from '@/services/api'
+import { toScoreRequest } from '@/services/scoring'
 import { buildResults } from '@/services/results'
 import type { TopicName } from '@/types'
 

@@ -215,6 +215,7 @@ export default {
   metrics: {
     rent_1br_flat: 'Rent for a 1-bed flat',
     rent_2br_flat: 'Rent for a 2-bed flat',
+    rent_3br_flat: 'Rent for a 3-bed flat',
     rent_2br_house: 'Rent for a 2-bed house',
     rent_3br_house: 'Rent for a 3-bed house',
     rent_4br_house: 'Rent for a 4-bed house',
@@ -237,7 +238,7 @@ export default {
       houseOneBed:
         'The rent data doesn’t cover 1-bed houses, so these figures are for 2-bed houses.',
       flatLarge:
-        'The rent data only covers flats with up to 2 bedrooms, so these figures are for 2-bed flats.',
+        'The rent data only covers flats with up to 3 bedrooms, so these figures are for 3-bed flats.',
       fivePlus:
         'The rent data stops at 4 bedrooms, so these figures are for 4-bed homes. Bigger homes usually cost more.',
     },
@@ -285,10 +286,6 @@ export default {
     errorNetwork: 'Check your internet connection, then try again.',
     errorServer: 'Something went wrong on our side. Try again in a minute.',
     retry: 'Try again',
-  },
-  example: {
-    title: 'Example results',
-    body: 'The live ranking isn’t connected yet, so these are saved results for an example household looking for a 2-bed home on $1,500 a week. They won’t change with your answers.',
   },
   map: {
     label: 'Map of suburbs, coloured by how well each one matches your answers',
@@ -400,8 +397,6 @@ export default {
     print: 'Print or save as PDF',
     back: 'Back to results',
     made: 'Made with New Roots on {date}.',
-    madeExample:
-      'Made with New Roots on {date}. These are example results, not ranked from your answers.',
   },
   privacy: {
     title: 'Privacy',
@@ -412,10 +407,8 @@ export default {
     neverHeading: 'What we never ask',
     never: 'We never ask for your name, address, phone number, email, visa or Centrelink details.',
     whereHeading: 'Where your answers go',
-    whereLocal:
+    where:
       'Your answers stay in this browser tab. They aren’t saved to your phone and they aren’t sent to us. Closing or refreshing the tab clears them, and so does Clear my details.',
-    whereServer:
-      'To rank suburbs, your answers are sent once, over a secure connection, to the New Roots service. It uses them to work out your results and doesn’t keep them. On your phone they stay in this browser tab until you close it or choose Clear my details.',
     trackingHeading: 'No accounts or tracking',
     tracking:
       'There are no accounts, no analytics and no advertising. We don’t use cookies to follow you.',
