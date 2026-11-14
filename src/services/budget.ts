@@ -76,10 +76,15 @@ function weeklyPayments(answers: IncomeAnswers): { amount: number; rentAssistanc
   }
 
   const ra = RATES.rentAssistance
+  const manyChildren = answers.children >= 3
   const rentAssistance = familyTax
-    ? answers.children >= 3
-      ? ra.withFtb3plus
-      : ra.withFtb1to2
+    ? couple
+      ? manyChildren
+        ? ra.coupleFtb3plus
+        : ra.coupleFtb1to2
+      : manyChildren
+        ? ra.singleFtb3plus
+        : ra.singleFtb1to2
     : couple
       ? ra.couple
       : ra.single

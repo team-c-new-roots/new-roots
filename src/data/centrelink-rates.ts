@@ -1,24 +1,31 @@
-/* weekly maximum rates, entered by hand from Services Australia by the data
-   team (silver/centrelink_weekly_payments.csv). only the rows the income step
-   uses. the team's data sources list has these as September 2026 rates, so
-   check the date with the data team whenever the table is refreshed */
+import payments from './payments.json'
 
-export const RATES_FROM = 'September 2026'
+/* weekly maximum rates, exported from the data team's Centrelink payments
+   table by scripts/export_app_data.py, so nothing here is typed in by hand.
+   rerun the export when the table changes. ratesFrom is the date the rates
+   started, 2026-09-20 say */
 
-export const RATES = {
-  parenting: { single: 543.6, partnered: 381.5 },
-  parentingEnergy: { single: 6, partnered: 3.95 },
-
-  jobseeker: { singleNoChildren: 416.85, singleWithChildren: 446.4, partnered: 381.5 },
-  jobseekerEnergy: { singleNoChildren: 4.4, singleWithChildren: 4.75, partnered: 3.95 },
-
+export interface Rates {
+  parenting: { single: number; partnered: number }
+  parentingEnergy: { single: number; partnered: number }
+  jobseeker: { singleNoChildren: number; singleWithChildren: number; partnered: number }
+  jobseekerEnergy: { singleNoChildren: number; singleWithChildren: number; partnered: number }
   // part A is per child and depends on age, part B is one per family
-  ftbA: { child0to12: 117.74, child13to19: 153.23 },
-  ftbAEnergy: { child0to12: 1.75, child13to19: 2.24 },
-  ftbB: { youngestUnder5: 100.17, youngest5to18: 69.93 },
-  ftbBEnergy: { youngestUnder5: 1.4, youngest5to18: 0.98 },
-
+  ftbA: { child0to12: number; child13to19: number }
+  ftbAEnergy: { child0to12: number; child13to19: number }
+  ftbB: { youngestUnder5: number; youngest5to18: number }
+  ftbBEnergy: { youngestUnder5: number; youngest5to18: number }
   // maximum rent assistance. melbourne rents are high enough that most people
   // on payments get the maximum
-  rentAssistance: { single: 111.9, couple: 105.5, withFtb1to2: 131.53, withFtb3plus: 148.68 },
-} as const
+  rentAssistance: {
+    single: number
+    couple: number
+    singleFtb1to2: number
+    singleFtb3plus: number
+    coupleFtb1to2: number
+    coupleFtb3plus: number
+  }
+}
+
+export const RATES: Rates = payments.rates
+export const RATES_FROM: string = payments.ratesFrom

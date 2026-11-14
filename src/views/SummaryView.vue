@@ -22,7 +22,7 @@ import logoLight2x from '@/assets/brand/logo-on-light@2x.webp'
 const { t, d } = useI18n()
 const answers = useAnswersStore()
 const { status, errorKind, derived, retry } = useResults()
-const { money, home } = useFormat()
+const { money, home, monthYear } = useFormat()
 const facts = useSuburbFacts()
 
 const budget = computed(() => answers.budget)
@@ -89,7 +89,9 @@ function print() {
             : t('summary.budget', { amount: money(budget.weekly) })
         }}
       </p>
-      <p v-if="usesPayments" class="muted">{{ t('summary.ratesFrom', { date: RATES_FROM }) }}</p>
+      <p v-if="usesPayments" class="muted">
+        {{ t('summary.ratesFrom', { date: monthYear(RATES_FROM) }) }}
+      </p>
     </section>
 
     <section class="panel summary__block" aria-labelledby="suburbs-heading">

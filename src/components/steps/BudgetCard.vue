@@ -12,7 +12,7 @@ import { RATES_FROM } from '@/data/centrelink-rates'
 defineProps<{ budget: BudgetEstimate | null; usesPayments: boolean }>()
 
 const { t } = useI18n()
-const { money } = useFormat()
+const { money, monthYear } = useFormat()
 </script>
 
 <template>
@@ -32,7 +32,7 @@ const { money } = useFormat()
         }}
       </p>
       <p v-if="usesPayments" class="budget-card__note">
-        {{ t('income.ratesFrom', { date: RATES_FROM }) }}
+        {{ t('income.ratesFrom', { date: monthYear(RATES_FROM) }) }}
       </p>
       <RouterLink :to="{ name: 'how-it-works', hash: '#budget' }">
         {{ t('income.howWorked') }}
