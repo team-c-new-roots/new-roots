@@ -1,5 +1,12 @@
 import type { Importance, RatedTopic, TopicName } from '@/types'
-import type { AppData, ImportanceLevel, ResultRow, ScoreRequest } from '@/types/scoring'
+import type {
+  AppData,
+  ImportanceLevel,
+  LanguageFile,
+  ResultRow,
+  ScoreRequest,
+} from '@/types/scoring'
+import { languageFigures } from './appData'
 
 /* the household part of calculate_scores from the data team's
    new_roots_scoring.py, run in the browser so answers never leave the phone.
@@ -81,7 +88,12 @@ function round2(value: number | null): number | null {
   return value === null ? null : Math.round(value * 100) / 100
 }
 
-export function scoreSuburbs(data: AppData, request: ScoreRequest): ResultRow[] {
+// language is the household's language file, or null when there isn't one
+export function scoreSuburbs(
+  data: AppData,
+  language: LanguageFile | null,
+  request: ScoreRequest,
+): ResultRow[] {
   if (!(request.income > 0)) throw new Error('income must be a positive weekly amount')
 
   const topics = [...new Set(data.weights.map((row) => row.topic))]
@@ -96,9 +108,6 @@ export function scoreSuburbs(data: AppData, request: ScoreRequest): ResultRow[] 
       row.metric.startsWith(`rent_${request.bedrooms}br_`) &&
       (request.dwelling_type === 'both' || row.metric.endsWith(`_${request.dwelling_type}`)),
   )
-  const language = request.selected_language
-    ? (data.languages[request.selected_language] ?? {})
-    : {}
 
   const rows = data.suburbs.map((suburb) => {
     const id = suburb.suburb_id
@@ -133,7 +142,9 @@ export function scoreSuburbs(data: AppData, request: ScoreRequest): ResultRow[] 
       for (const metric of metrics) {
         let score =
           metric.table === 'languages'
-            ? asNumber(language[id]?.scores[metric.metric])
+            ? language
+              ? asNumber(languageFigures(language, id).scores[metric.metric])
+              : null
             : metric.table === 'infrastructure'
               ? asNumber(data.community[id])
               : asNumber(suburb[`${metric.metric}_score`])

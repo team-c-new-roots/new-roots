@@ -75,6 +75,8 @@ export interface MapData {
   languages: LanguageRow[]
   infrastructure: InfrastructureRow[]
   selectedLanguage: string | null
+  // census name to display name, for the languages spoken in each suburb
+  languageLabels: Record<string, string>
 }
 
 export interface LanguageFigures {
@@ -83,6 +85,26 @@ export interface LanguageFigures {
   count: number | null
   // one score per Language metric in the lookup, language and speaker_count
   scores: Record<string, number | null>
+}
+
+// public/data/languages/index.json, every language someone can pick
+export interface LanguageIndexEntry {
+  // the census spelling, which the scores are keyed on
+  name: string
+  // the data team's display name, Farsi (Persian) rather than Persian (excluding Dari)
+  label: string
+  speakers: number
+  file: string
+}
+
+// public/data/languages/<file>.json. each suburb is [percent, speaker count,
+// then one score per metric]. a suburb that isn't listed has no speakers, so
+// every figure is 0
+export interface LanguageFile {
+  name: string
+  label: string
+  metrics: string[]
+  suburbs: Record<string, (number | null)[]>
 }
 
 // what scripts/export_app_data.py writes to public/data/app-data.json
@@ -97,10 +119,10 @@ export interface AppData {
   exported: string
   weights: AppDataWeight[]
   suburbs: ObtRow[]
-  // census language name, then suburb id
-  languages: Record<string, Record<string, LanguageFigures>>
-  // each suburb's four most spoken languages, [name, percent]
+  // each suburb's four most spoken languages, [census name, percent]
   topLanguages: Record<string, [string, number][]>
+  // census name to the data team's display name
+  languageLabels: Record<string, string>
   // each suburb's average community places score
   community: Record<string, number | null>
 }

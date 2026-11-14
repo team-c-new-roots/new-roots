@@ -3,6 +3,7 @@ import { useI18n } from 'vue-i18n'
 import { BookOpen, GraduationCap, School } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
 import { useFormat } from '@/composables/useFormat'
+import { useLanguageName } from '@/composables/useLanguageName'
 import { languageShare, metricValue, type SuburbResult } from '@/services/results'
 import type { MapData } from '@/types/scoring'
 
@@ -10,6 +11,7 @@ import type { MapData } from '@/types/scoring'
 // the three never disagree about what a figure says
 export function useSuburbFacts() {
   const answers = useAnswersStore()
+  const languageName = useLanguageName()
   const { t } = useI18n()
   const { money, km, percent, home } = useFormat()
 
@@ -36,10 +38,9 @@ export function useSuburbFacts() {
   }
 
   function languageLine(suburb: SuburbResult, data: MapData): string | null {
-    const key = answers.rankingLanguage
     const census = answers.censusLanguage
-    if (!key || !census) return null
-    const language = t(`languages.${key}`)
+    const language = languageName.value
+    if (!census || !language) return null
     const share = languageShare(data, suburb.id, census)
     return share === null
       ? t('results.fewSpeakers', { language })

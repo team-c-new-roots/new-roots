@@ -123,7 +123,11 @@ export function topLanguages(data: MapData, id: string, limit = 4) {
     .filter((row) => (row.percent_spoken ?? 0) > 0)
     .sort((a, b) => (b.percent_spoken ?? 0) - (a.percent_spoken ?? 0))
     .slice(0, limit)
-    .map((row) => ({ language: row.language, percent: row.percent_spoken as number }))
+    .map((row) => ({
+      language: row.language,
+      label: data.languageLabels[row.language] ?? row.language,
+      percent: row.percent_spoken as number,
+    }))
 }
 
 // null means too few speakers to report. the census perturbs small counts, so

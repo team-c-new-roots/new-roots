@@ -44,6 +44,7 @@ function data(results: ResultRow[], extra: Partial<MapData> = {}): MapData {
     languages: [],
     infrastructure: [],
     selectedLanguage: null,
+    languageLabels: {},
     ...extra,
   }
 }

@@ -4,6 +4,7 @@ import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
 import { Circle, Heart } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
+import { useLanguageName } from '@/composables/useLanguageName'
 import type { ChoiceOption, Importance } from '@/types'
 import StepLayout from '@/components/steps/StepLayout.vue'
 import RadioGroup from '@/components/ui/RadioGroup.vue'
@@ -17,9 +18,8 @@ const { t } = useI18n()
 const router = useRouter()
 const answers = useAnswersStore()
 
-const languageName = computed(() =>
-  answers.rankingLanguage ? t(`languages.${answers.rankingLanguage}`) : '',
-)
+const chosen = useLanguageName()
+const languageName = computed(() => chosen.value ?? '')
 
 const options = computed<ChoiceOption<Importance>[]>(() => [
   { value: 'not', label: t('importance.not') },

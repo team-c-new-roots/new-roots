@@ -7,6 +7,7 @@ import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
 import { insights, languageShare, metricValue, topLanguages } from '@/services/results'
+import { useLanguageName } from '@/composables/useLanguageName'
 import { SCHOOL_NEARBY_KM } from '@/data/metrics'
 import BudgetBadge from '@/components/ui/BudgetBadge.vue'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
@@ -37,11 +38,11 @@ const findings = computed(() =>
     : null,
 )
 
+const languageName = useLanguageName()
 const language = computed(() => {
-  const key = answers.rankingLanguage
   const census = answers.censusLanguage
-  if (!key || !census || !item.value || !data.value) return null
-  return { name: t(`languages.${key}`), share: languageShare(data.value, item.value.id, census) }
+  if (!census || !languageName.value || !item.value || !data.value) return null
+  return { name: languageName.value, share: languageShare(data.value, item.value.id, census) }
 })
 
 const spoken = computed(() =>
@@ -224,7 +225,7 @@ function toggleSummary() {
           <h3 class="suburb__subhead">{{ t('suburb.languagesHeading') }}</h3>
           <ul v-if="spoken.length" class="suburb__languages">
             <li v-for="row in spoken" :key="row.language">
-              <span>{{ row.language }}</span>
+              <span>{{ row.label }}</span>
               <span>{{ percent(row.percent) }}</span>
             </li>
           </ul>

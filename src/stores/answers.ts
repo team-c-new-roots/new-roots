@@ -1,7 +1,6 @@
 import { computed, reactive, ref } from 'vue'
 import { defineStore } from 'pinia'
 import type {
-  CommunityLanguage,
   HomeType,
   Importance,
   IncomeSource,
@@ -14,7 +13,6 @@ import type {
 import { estimateBudget } from '@/services/budget'
 import { homeRequest, suggestBedrooms } from '@/services/household'
 import { DEFAULT_IMPORTANCE } from '@/data/topics'
-import { CENSUS_NAMES } from '@/data/languages'
 
 /* everything someone tells New Roots lives here and only here. memory only,
    never localStorage or sessionStorage, so closing the tab really does
@@ -39,8 +37,11 @@ export const useAnswersStore = defineStore('answers', () => {
   const teens = ref(0)
   const youngestUnderFive = ref<YesNo | null>(null)
 
-  // null is unanswered, 'none' is My language isn't listed
-  const communityLanguage = ref<CommunityLanguage | 'none' | null>(null)
+  // null is unanswered, 'none' is My language isn't listed, otherwise the
+  // census name, which the scores are keyed on
+  const communityLanguage = ref<string | null>(null)
+  // the data team's name for a language found by searching, to show it back
+  const communityLanguageLabel = ref<string | null>(null)
   const importance = reactive<Record<RatedTopic, Importance>>({ ...DEFAULT_IMPORTANCE })
   // null means follow the default, which depends on whether there are children
   const chosenSchoolNeed = ref<SchoolNeed | null>(null)
@@ -83,11 +84,8 @@ export const useAnswersStore = defineStore('answers', () => {
 
   const home = computed(() => homeRequest(bedrooms.value, homeType.value))
 
-  const rankingLanguage = computed<CommunityLanguage | null>(() =>
-    communityLanguage.value === 'none' ? null : communityLanguage.value,
-  )
   const censusLanguage = computed(() =>
-    rankingLanguage.value ? CENSUS_NAMES[rankingLanguage.value] : null,
+    communityLanguage.value === 'none' ? null : communityLanguage.value,
   )
 
   // anything moved off its default. Clear my details only shows once this is
@@ -145,6 +143,7 @@ export const useAnswersStore = defineStore('answers', () => {
     teens.value = 0
     youngestUnderFive.value = null
     communityLanguage.value = null
+    communityLanguageLabel.value = null
     Object.assign(importance, DEFAULT_IMPORTANCE)
     chosenSchoolNeed.value = null
     shortlist.value = []
@@ -164,6 +163,7 @@ export const useAnswersStore = defineStore('answers', () => {
     teens,
     youngestUnderFive,
     communityLanguage,
+    communityLanguageLabel,
     importance,
     chosenSchoolNeed,
     shortlist,
@@ -174,7 +174,6 @@ export const useAnswersStore = defineStore('answers', () => {
     budget,
     incomeDone,
     home,
-    rankingLanguage,
     censusLanguage,
     hasAnswers,
     shortlistFull,

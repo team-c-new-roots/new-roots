@@ -174,6 +174,19 @@ export default {
     notListed: 'My language isn’t listed',
     notListedNote: 'That’s fine. We’ll rank suburbs on rent and nearby services instead.',
     error: 'Choose a language, or choose My language isn’t listed',
+    searchHeading: 'Not here? Search for your language',
+    searchLabel: 'Language name',
+    searchHint:
+      'Type at least 2 letters. The list has every language spoken in these suburbs in the 2021 Census, {count} in all.',
+    loading: 'Loading the list of languages…',
+    loadError:
+      'We couldn’t load the full list of languages. You can still choose one of the languages above.',
+    noMatches: 'No languages match. If yours isn’t in the list, choose My language isn’t listed.',
+    matches: 'One language matches | {count} languages match',
+    manyMatches: 'Showing {shown} of {count} matches. Type more to narrow it down.',
+    matchesLegend: 'Languages that match your search',
+    noneLegend: 'If your language isn’t in either list',
+    speakers: '{count} speakers in these suburbs',
   },
   community: {
     pageTitle: 'Your language community',

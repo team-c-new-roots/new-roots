@@ -16,6 +16,7 @@ import {
   Users,
 } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
+import { CENSUS_NAMES } from '@/data/languages'
 import { useLanguageStore } from '@/stores/language'
 import { needsCoupleAnswer, parseMoney } from '@/services/budget'
 import { MAX_CHILDREN } from '@/services/household'
@@ -148,7 +149,7 @@ function next() {
   // someone who chose Dari on the first screen probably speaks Dari at home,
   // so skip asking. they can still change it from the next screen
   if (!answers.communityLanguage && language.current.community) {
-    answers.communityLanguage = language.current.community
+    answers.communityLanguage = CENSUS_NAMES[language.current.community]
   }
   const knowsLanguage = answers.communityLanguage && answers.communityLanguage !== 'none'
   router.push({ name: knowsLanguage ? 'community' : 'community-language' })

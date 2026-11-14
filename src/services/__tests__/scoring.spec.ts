@@ -1,10 +1,27 @@
 import { describe, expect, it } from 'vitest'
-import type { AppData, ObtRow, ScoreRequest } from '@/types/scoring'
+import type {
+  AppData,
+  LanguageFile,
+  LanguageIndexEntry,
+  ObtRow,
+  ScoreRequest,
+} from '@/types/scoring'
 import { affordabilityCap, scoreSuburbs, toScoreRequest } from '../scoring'
 import appData from '../../../public/data/app-data.json'
+import languageIndex from '../../../public/data/languages/index.json'
 import parity from './fixtures/scoring-parity.json'
 
 const data = appData as unknown as AppData
+
+// the exported language files, read the way the app finds them, through the index
+const files = import.meta.glob<LanguageFile>('../../../public/data/languages/*.json', {
+  eager: true,
+  import: 'default',
+})
+function languageFile(name: string): LanguageFile {
+  const entry = (languageIndex as LanguageIndexEntry[]).find((item) => item.name === name)!
+  return files[`../../../public/data/languages/${entry.file}.json`]!
+}
 
 const OUTPUTS = [
   'affordability_score',
@@ -28,7 +45,8 @@ describe('matches the scoring module', () => {
     const request = household as ScoreRequest
 
     it(`${household.selected_language}, ${household.bedrooms}-bed ${household.dwelling_type}, $${household.income} a week`, () => {
-      const rows = new Map(scoreSuburbs(data, request).map((row) => [row.suburb_id, row]))
+      const language = languageFile(request.selected_language!)
+      const rows = new Map(scoreSuburbs(data, language, request).map((row) => [row.suburb_id, row]))
       // every figure that differs by more than half a cent, so a failure lists them all
       const differences: string[] = []
       for (const [id, values] of Object.entries(expected)) {
@@ -85,14 +103,18 @@ const tiny: AppData = {
       primary_school_proximity_score: 70,
     }),
   ],
-  languages: {
-    Dari: {
-      full: { percent: 5, count: 200, scores: { language: 100 } },
-      'no-house': { percent: 1, count: 40, scores: { language: 40 } },
-    },
-  },
   topLanguages: {},
+  languageLabels: {},
   community: {},
+}
+
+// percent, speaker count, then the language score. no-rent's figures are blank,
+// the way Gold has a few suburbs with no language figures at all
+const dari: LanguageFile = {
+  name: 'Dari',
+  label: 'Dari',
+  metrics: ['language'],
+  suburbs: { full: [5, 200, 100], 'no-house': [1, 40, 40], 'no-rent': [null, null, null] },
 }
 
 const request: ScoreRequest = {
@@ -112,7 +134,7 @@ const request: ScoreRequest = {
 }
 
 describe('missing figures are left out, not counted as 0', () => {
-  const rows = new Map(scoreSuburbs(tiny, request).map((row) => [row.suburb_id, row]))
+  const rows = new Map(scoreSuburbs(tiny, dari, request).map((row) => [row.suburb_id, row]))
 
   it('averages only the rents that exist, so a missing house rent doesn’t halve the flat rent', () => {
     expect(rows.get('no-house')?.selected_weekly_rent).toBe(400)
@@ -139,6 +161,20 @@ describe('missing figures are left out, not counted as 0', () => {
   })
 })
 
+describe('language files', () => {
+  it('reads a suburb missing from the file as nobody speaking it, a score of 0', () => {
+    const sparse: LanguageFile = { ...dari, suburbs: { full: [5, 200, 100] } }
+    const rows = new Map(scoreSuburbs(tiny, sparse, request).map((row) => [row.suburb_id, row]))
+    expect(rows.get('no-house')?.language_score).toBe(0)
+    expect(rows.get('full')?.language_score).toBe(100)
+  })
+
+  it('leaves language out entirely when the household has none', () => {
+    const rows = scoreSuburbs(tiny, null, { ...request, selected_language: null })
+    expect(rows.every((row) => row.language_score === null)).toBe(true)
+  })
+})
+
 describe('the rest of the rules', () => {
   it('caps budget fit by rent as a share of income, in the same steps', () => {
     expect(affordabilityCap(0.2)).toBe(100)
@@ -148,7 +184,7 @@ describe('the rest of the rules', () => {
   })
 
   it('ranks best first and numbers every suburb', () => {
-    const rows = scoreSuburbs(tiny, request)
+    const rows = scoreSuburbs(tiny, dari, request)
     expect(rows.map((row) => row.overall_rank)).toEqual([1, 2, 3])
     for (let i = 1; i < rows.length; i++) {
       expect(rows[i - 1]!.overall_score!).toBeGreaterThanOrEqual(rows[i]!.overall_score!)
@@ -176,7 +212,8 @@ describe('the rest of the rules', () => {
 
   it('ranks all 572 suburbs from the real data in well under a frame', () => {
     const start = performance.now()
-    const rows = scoreSuburbs(data, parity.cases[0]!.household as ScoreRequest)
+    const household = parity.cases[0]!.household as ScoreRequest
+    const rows = scoreSuburbs(data, languageFile(household.selected_language!), household)
     expect(rows).toHaveLength(data.suburbs.length)
     expect(performance.now() - start).toBeLessThan(50)
   })

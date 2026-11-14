@@ -57,7 +57,8 @@ export const COMMUNITY_LANGUAGES: CommunityLanguage[] = [
   'dinka',
 ]
 
-// the census spells these its own way, and the scoring API matches on it
+// the quick picks on the language step, spelt the way the census spells them,
+// which the language files are keyed on
 export const CENSUS_NAMES: Record<CommunityLanguage, string> = {
   dari: 'Dari',
   hazaraghi: 'Hazaraghi',
@@ -66,6 +67,11 @@ export const CENSUS_NAMES: Record<CommunityLanguage, string> = {
   pashto: 'Pashto',
   dinka: 'Dinka',
 }
+
+// the other way round, so a chosen census name finds its translated name
+export const QUICK_PICK_BY_CENSUS: Record<string, CommunityLanguage> = Object.fromEntries(
+  Object.entries(CENSUS_NAMES).map(([key, name]) => [name, key as CommunityLanguage]),
+)
 
 // shown under the English name on the language community step, so people can
 // find their language without reading English

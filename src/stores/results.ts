@@ -1,42 +1,49 @@
 import { ref, shallowRef } from 'vue'
 import { defineStore } from 'pinia'
-import type { AppData, MapData, ScoreRequest } from '@/types/scoring'
-import { DataError, loadAppData, toMapData, type DataErrorKind } from '@/services/appData'
+import type { AppData, LanguageFile, MapData, ScoreRequest } from '@/types/scoring'
+import {
+  DataError,
+  loadAppData,
+  loadLanguage,
+  toMapData,
+  type DataErrorKind,
+} from '@/services/appData'
 import { scoreSuburbs } from '@/services/scoring'
 
 export type ResultsStatus = 'idle' | 'loading' | 'ready' | 'error'
 
 /* the household's ranking, shared by the results, suburb and summary screens.
-   the suburb data loads once, then every change of answer re-ranks straight
-   away on the phone, with nothing sent anywhere */
+   the suburb data and the chosen language load once, then every change of
+   answer re-ranks straight away on the phone, with nothing sent anywhere */
 export const useResultsStore = defineStore('results', () => {
   const status = ref<ResultsStatus>('idle')
   const data = shallowRef<MapData | null>(null)
   const errorKind = ref<DataErrorKind | null>(null)
   const requestKey = ref('')
-  let appData: AppData | null = null
 
   async function load(request: ScoreRequest, force = false) {
     const key = JSON.stringify(request)
     if (!force && key === requestKey.value && status.value === 'ready') return
     requestKey.value = key
 
-    if (!appData) {
-      status.value = 'loading'
-      errorKind.value = null
-      try {
-        appData = await loadAppData()
-      } catch (error) {
-        if (requestKey.value !== key) return
-        errorKind.value = error instanceof DataError ? error.kind : 'network'
-        status.value = 'error'
-        return
-      }
-      // the answers changed while the file was loading, the newer call ranks
+    // both files cache, so after the first load this resolves straight away
+    let appData: AppData
+    let language: LanguageFile | null = null
+    if (status.value !== 'ready') status.value = 'loading'
+    errorKind.value = null
+    try {
+      appData = await loadAppData()
+      if (request.selected_language) language = await loadLanguage(request.selected_language)
+    } catch (error) {
       if (requestKey.value !== key) return
+      errorKind.value = error instanceof DataError ? error.kind : 'network'
+      status.value = 'error'
+      return
     }
+    // the answers changed while a file was loading, the newer call ranks
+    if (requestKey.value !== key) return
 
-    data.value = toMapData(appData, scoreSuburbs(appData, request), request.selected_language)
+    data.value = toMapData(appData, scoreSuburbs(appData, language, request), language)
     status.value = 'ready'
   }
 
