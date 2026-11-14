@@ -85,12 +85,12 @@ export function toMapData(data: AppData, results: ResultRow[], language: string 
     }
     for (const [name, bySuburb] of Object.entries(data.languages)) {
       if (seen.has(name)) continue
-      const [percent, score] = bySuburb[id] ?? [null, null]
+      const figures = bySuburb[id]
       languages.push({
         suburb_id: id,
         language: name,
-        percent_spoken: percent,
-        language_score: score,
+        percent_spoken: figures?.percent ?? null,
+        language_score: figures?.scores.language ?? null,
         language_ranking: null,
       })
     }

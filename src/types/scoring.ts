@@ -77,6 +77,14 @@ export interface MapData {
   selectedLanguage: string | null
 }
 
+export interface LanguageFigures {
+  percent: number | null
+  // how many residents speak it at home
+  count: number | null
+  // one score per Language metric in the lookup, language and speaker_count
+  scores: Record<string, number | null>
+}
+
 // what scripts/export_app_data.py writes to public/data/app-data.json
 export interface AppDataWeight {
   topic: TopicName
@@ -89,8 +97,8 @@ export interface AppData {
   exported: string
   weights: AppDataWeight[]
   suburbs: ObtRow[]
-  // census language name, then suburb id, then [percent spoken, language score]
-  languages: Record<string, Record<string, [number | null, number | null]>>
+  // census language name, then suburb id
+  languages: Record<string, Record<string, LanguageFigures>>
   // each suburb's four most spoken languages, [name, percent]
   topLanguages: Record<string, [string, number][]>
   // each suburb's average community places score

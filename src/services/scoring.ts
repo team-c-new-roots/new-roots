@@ -133,7 +133,7 @@ export function scoreSuburbs(data: AppData, request: ScoreRequest): ResultRow[] 
       for (const metric of metrics) {
         let score =
           metric.table === 'languages'
-            ? asNumber(language[id]?.[1])
+            ? asNumber(language[id]?.scores[metric.metric])
             : metric.table === 'infrastructure'
               ? asNumber(data.community[id])
               : asNumber(suburb[`${metric.metric}_score`])

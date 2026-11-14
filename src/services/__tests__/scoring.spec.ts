@@ -85,7 +85,12 @@ const tiny: AppData = {
       primary_school_proximity_score: 70,
     }),
   ],
-  languages: { Dari: { full: [5, 100], 'no-house': [1, 40] } },
+  languages: {
+    Dari: {
+      full: { percent: 5, count: 200, scores: { language: 100 } },
+      'no-house': { percent: 1, count: 40, scores: { language: 40 } },
+    },
+  },
   topLanguages: {},
   community: {},
 }

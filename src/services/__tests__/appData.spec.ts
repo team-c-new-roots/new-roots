@@ -10,7 +10,7 @@ const minimal: AppData = {
   exported: '2026-11-15',
   weights: [{ topic: 'Education', table: 'obt', metric: 'gp_proximity', weight: 100 }],
   suburbs: [{ suburb_id: 'a', suburb_name: 'Alpha', suburb_area_km2: 2 }],
-  languages: { Dari: { a: [2.5, 60] } },
+  languages: { Dari: { a: { percent: 2.5, count: 90, scores: { language: 60 } } } },
   topLanguages: { a: [['English', 40]] },
   community: { a: 80 },
 }

@@ -101,16 +101,22 @@ def export_suburbs(obt_rows):
     return sorted(suburbs, key=lambda item: item["suburb_id"])
 
 
-def export_languages(gold):
+def export_languages(gold, weights):
+    # the Language topic can use more than one metric (share and speaker
+    # count, say), so keep a score for each one the lookup names
+    metrics = [row["metric"] for row in weights if row["table"] == "languages"]
     offered = {name: {} for name in OFFERED_LANGUAGES}
     spoken = {}
     for row in read_rows(gold / "new_roots_languages.csv"):
         suburb_id = row["suburb_id"].strip()
         language = row["language"].strip()
         percent = number(row["percent_spoken"])
-        score = number(row["language_score"])
         if language in offered:
-            offered[language][suburb_id] = [rounded(percent, 3), rounded(score, 2)]
+            offered[language][suburb_id] = {
+                "percent": rounded(percent, 3),
+                "count": rounded(number(row.get("speaker_count")), 0),
+                "scores": {metric: rounded(number(row.get(f"{metric}_score")), 2) for metric in metrics},
+            }
         if percent:
             spoken.setdefault(suburb_id, []).append((percent, language))
 
@@ -187,10 +193,11 @@ def main():
     args.out.mkdir(parents=True, exist_ok=True)
 
     obt_rows = read_rows(gold / "new_roots_obt.csv")
-    languages, top_languages = export_languages(gold)
+    weights = export_weights(gold)
+    languages, top_languages = export_languages(gold, weights)
     data = {
         "exported": date.today().isoformat(),
-        "weights": export_weights(gold),
+        "weights": weights,
         "suburbs": export_suburbs(obt_rows),
         "languages": languages,
         "topLanguages": top_languages,
