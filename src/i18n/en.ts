@@ -127,7 +127,8 @@ export default {
     work: 'Work or other income',
     both: 'Both',
     whichPayments: 'Which payments do you get?',
-    paymentsHint: 'Choose every payment someone in your household gets.',
+    paymentsHint:
+      'Choose every payment someone in your household gets. For anything else, like Youth Allowance, Austudy, Age Pension or Disability Support Pension, choose Other.',
     parenting: 'Parenting Payment',
     jobseeker: 'JobSeeker',
     familyTax: 'Family Tax Benefit',
