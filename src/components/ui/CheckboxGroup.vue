@@ -4,7 +4,8 @@ import { Check, CircleAlert } from '@lucide/vue'
 import type { ChoiceOption } from '@/types'
 
 // same idea as RadioGroup but for pick-any questions, like which payments
-// someone gets. native checkboxes, so space toggles and the state is announced
+// someone gets. native checkboxes, so space toggles and the state is announced.
+// columns and the tick work the same way too
 
 const model = defineModel<T[]>({ required: true })
 
@@ -16,8 +17,9 @@ const props = withDefaults(
     legendTag?: 'h1' | 'h2' | 'span'
     hint?: string
     error?: string
+    columns?: 2 | 3
   }>(),
-  { id: undefined, legendTag: 'span', hint: undefined, error: undefined },
+  { id: undefined, legendTag: 'span', hint: undefined, error: undefined, columns: undefined },
 )
 
 const generated = useId()
@@ -35,7 +37,10 @@ const describedBy = computed(
 <template>
   <fieldset
     class="choice-group choice-group--chip"
-    :class="{ 'choice-group--invalid': error }"
+    :class="[
+      columns ? ['choice-group--grid', `choice-group--cols-${columns}`] : [],
+      { 'choice-group--invalid': error },
+    ]"
     :aria-describedby="describedBy"
   >
     <legend>
@@ -61,12 +66,16 @@ const describedBy = computed(
           :value="option.value"
         />
         <span class="choice__body">
-          <span class="choice__icon" aria-hidden="true">
-            <Check v-if="model.includes(option.value)" :size="18" :stroke-width="3" />
-          </span>
+          <Check
+            v-if="model.includes(option.value)"
+            class="choice__symbol"
+            :size="22"
+            :stroke-width="3"
+            aria-hidden="true"
+          />
           <component
             :is="option.icon"
-            v-if="option.icon"
+            v-else-if="option.icon"
             class="choice__symbol"
             :size="22"
             aria-hidden="true"

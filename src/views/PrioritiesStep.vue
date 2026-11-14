@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { computed, type WritableComputedRef } from 'vue'
+import { computed, h, type FunctionalComponent, type WritableComputedRef } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
-import { BookOpen, Check, Circle, CircleSlash, GraduationCap, Heart, School } from '@lucide/vue'
+import { BookOpen, Circle, CircleSlash, GraduationCap, Heart, School } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
 import { PRIORITY_TOPICS, topicInfo } from '@/data/topics'
 import type { ChoiceOption, Importance, RatedTopic, SchoolNeed } from '@/types'
@@ -20,10 +20,14 @@ const { t } = useI18n()
 const router = useRouter()
 const answers = useAnswersStore()
 
+// an empty circle, a heart, a filled heart: the three steps read without words
+const HeartFilled: FunctionalComponent = (_, { attrs }) =>
+  h(Heart, { ...attrs, fill: 'currentColor' })
+
 const options = computed<ChoiceOption<Importance>[]>(() => [
-  { value: 'not', label: t('importance.not') },
-  { value: 'important', label: t('importance.important') },
-  { value: 'very', label: t('importance.very') },
+  { value: 'not', label: t('importance.not'), icon: Circle },
+  { value: 'important', label: t('importance.important'), icon: Heart },
+  { value: 'very', label: t('importance.very'), icon: HeartFilled },
 ])
 
 const schoolOptions = computed<ChoiceOption<SchoolNeed>[]>(() => [
@@ -79,13 +83,9 @@ const back = computed(() => ({
         :legend-icon="topic.icon"
         :hint="t(`topics.${topic.key}Hint`)"
         legend-tag="h2"
-      >
-        <template #icon="{ option, checked }">
-          <Check v-if="checked" :size="18" :stroke-width="3" />
-          <Circle v-if="option.value === 'not'" :size="20" />
-          <Heart v-else :size="20" :fill="option.value === 'very' ? 'currentColor' : 'none'" />
-        </template>
-      </RadioGroup>
+        variant="tile"
+        :columns="3"
+      />
 
       <RadioGroup
         v-if="topic.id === 'Education'"
@@ -93,6 +93,7 @@ const back = computed(() => ({
         v-model="schoolNeed"
         :options="schoolOptions"
         :legend="t('priorities.schools')"
+        :columns="2"
         class="priority__follow-up"
       />
     </div>

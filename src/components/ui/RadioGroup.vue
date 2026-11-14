@@ -7,7 +7,11 @@ import type { ChoiceOption } from '@/types'
    screen reader's "1 of 3" all come for free. options can carry an icon so
    they read without much English (US 5.1). the question goes in the legend,
    and when the question is the whole screen the legend holds the h1, the way
-   GOV.UK does it, so the group is named by the question itself */
+   GOV.UK does it, so the group is named by the question itself.
+
+   columns lines the options up in equal columns, so rows don't depend on
+   the screen width, the font or which option is chosen. the chosen option
+   shows a tick where its icon was, so choosing never changes its width */
 
 const model = defineModel<T | null>({ required: true })
 
@@ -23,9 +27,11 @@ const props = withDefaults(
     error?: string
     // an icon before the question, for topic groups on the priorities step
     legendIcon?: Component
+    columns?: 2 | 3 | 5
   }>(),
   {
     id: undefined,
+    columns: undefined,
     legendIcon: undefined,
     variant: 'chip',
     legendTag: 'span',
@@ -46,14 +52,19 @@ const describedBy = computed(
       .join(' ') || undefined,
 )
 
-const showsTick = computed(() => props.variant === 'chip')
+// cards mark the choice with a circle, everything else with a tick
 const showsCircle = computed(() => props.variant === 'card' || props.variant === 'card-strong')
+const symbolSize = computed(() => (props.variant === 'tile' ? 20 : 22))
 </script>
 
 <template>
   <fieldset
     class="choice-group"
-    :class="[`choice-group--${variant}`, { 'choice-group--invalid': error }]"
+    :class="[
+      `choice-group--${variant}`,
+      columns ? ['choice-group--grid', `choice-group--cols-${columns}`] : [],
+      { 'choice-group--invalid': error },
+    ]"
     :aria-describedby="describedBy"
   >
     <legend :class="{ 'visually-hidden': legendHidden }">
@@ -86,24 +97,24 @@ const showsCircle = computed(() => props.variant === 'card' || props.variant ===
           :value="option.value"
         />
         <span class="choice__body">
-          <span
-            v-if="$slots.icon || showsCircle || showsTick"
-            class="choice__icon"
-            aria-hidden="true"
-          >
+          <span v-if="$slots.icon || showsCircle" class="choice__icon" aria-hidden="true">
             <slot name="icon" :option="option" :checked="model === option.value">
-              <template v-if="showsCircle">
-                <CircleCheck v-if="model === option.value" :size="26" />
-                <Circle v-else :size="26" />
-              </template>
-              <Check v-else-if="showsTick && model === option.value" :size="18" :stroke-width="3" />
+              <CircleCheck v-if="model === option.value" :size="26" />
+              <Circle v-else :size="26" />
             </slot>
           </span>
+          <Check
+            v-if="!showsCircle && model === option.value"
+            class="choice__symbol"
+            :size="symbolSize"
+            :stroke-width="3"
+            aria-hidden="true"
+          />
           <component
             :is="option.icon"
-            v-if="option.icon"
+            v-else-if="option.icon"
             class="choice__symbol"
-            :size="variant === 'tile' ? 20 : 22"
+            :size="symbolSize"
             aria-hidden="true"
           />
           <span class="choice__text">

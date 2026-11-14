@@ -177,6 +177,7 @@ function next() {
         :hint="t('income.paymentsHint')"
         :error="errors['payments-first']"
         legend-tag="h2"
+        :columns="2"
       />
       <RadioGroup
         v-if="askCouple"
@@ -187,6 +188,7 @@ function next() {
         :hint="t('income.coupleHint')"
         :error="errors['couple-first']"
         legend-tag="h2"
+        :columns="2"
       />
       <template v-if="askFamilyTax">
         <NumberStepper
@@ -207,6 +209,7 @@ function next() {
           :options="yesNoOptions"
           :legend="t('income.youngest')"
           legend-tag="h2"
+          :columns="2"
         />
       </template>
       <BaseField
@@ -237,6 +240,8 @@ function next() {
         :options="periodOptions"
         :legend="t('income.period')"
         legend-tag="h2"
+        variant="tile"
+        :columns="3"
       />
     </template>
 

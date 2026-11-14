@@ -407,9 +407,19 @@ legend {
   padding: 0;
 }
 
+/* the space under a question is padding on the legend itself. safari drops
+   the bottom margin of anything inside a legend, which is why headings sat
+   right on top of their options on iphones */
+.choice-group > legend {
+  padding-bottom: 0.75rem;
+}
+
+.choice-group > legend > * {
+  margin: 0;
+}
+
 .legend-heading {
   display: block;
-  margin-bottom: 0.75rem;
   color: var(--nr-wine);
   font-size: 1.125rem;
   font-weight: 700;
@@ -504,15 +514,65 @@ legend {
   font-weight: 400;
 }
 
-/* tiles, the bedroom numbers */
+/* equal columns, set per question with the columns prop. rows line up
+   whatever the screen width, the font or which option is chosen, and a long
+   label wraps inside its own option instead of pushing others to a new row */
+.choice-group--cols-2 {
+  --choice-cols: 2;
+}
+
+.choice-group--cols-3 {
+  --choice-cols: 3;
+}
+
+.choice-group--cols-5 {
+  --choice-cols: 5;
+}
+
+.choice-group--grid .choice-group__options {
+  display: grid;
+  grid-template-columns: repeat(var(--choice-cols), minmax(0, 1fr));
+}
+
+.choice-group--grid .choice {
+  display: flex;
+}
+
+.choice-group--grid .choice__body {
+  flex: 1;
+  min-width: 0;
+  justify-content: center;
+  padding-inline: 0.75rem;
+  text-align: center;
+  overflow-wrap: break-word;
+}
+
+.choice-group--grid .choice__text {
+  min-width: 0;
+}
+
+/* tiles, icon above the words, like a row of buttons. bedrooms, home type,
+   importance and pay period */
+.choice-group--tile .choice-group__options {
+  gap: 0.5rem;
+}
+
 .choice-group--tile .choice__body {
   flex-direction: column;
   justify-content: center;
-  gap: 0.125rem;
+  gap: 0.25rem;
   min-width: 3.5rem;
-  min-height: 3.5rem;
+  min-height: 4rem;
   padding: 0.5rem;
   border-radius: var(--nr-radius-sm);
+}
+
+.choice-group--tile .choice__text {
+  align-items: center;
+}
+
+/* the bedroom numbers read better big */
+.choice-group--numbers .choice__body {
   font-size: 1.25rem;
 }
 
@@ -671,6 +731,19 @@ legend {
 @media (max-width: 359.98px) {
   .btn {
     padding-inline: 1rem;
+  }
+
+  /* two or three columns would split words like Secondary and Important
+     here, so those questions go one option per row. bedroom numbers still fit */
+  .choice-group--cols-2,
+  .choice-group--cols-3 {
+    --choice-cols: 1;
+  }
+
+  .choice-group--cols-3.choice-group--tile .choice__body {
+    flex-direction: row;
+    gap: 0.5rem;
+    min-height: var(--nr-target);
   }
 }
 

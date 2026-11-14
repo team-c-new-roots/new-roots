@@ -90,6 +90,8 @@ const suggestion = computed(() =>
       :legend="t('household.bedrooms')"
       legend-tag="h2"
       variant="tile"
+      :columns="5"
+      class="choice-group--numbers"
     />
     <p class="note household__suggestion" aria-live="polite">{{ suggestion }}</p>
 
@@ -99,6 +101,8 @@ const suggestion = computed(() =>
       :options="homeOptions"
       :legend="t('household.homeType')"
       legend-tag="h2"
+      variant="tile"
+      :columns="3"
     />
   </StepLayout>
 </template>

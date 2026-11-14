@@ -153,6 +153,7 @@ function next() {
       :hint="t('communityLanguage.hint')"
       :error="errors['community-language-first']"
       legend-tag="h1"
+      variant="language"
     />
 
     <section class="language-search" aria-labelledby="language-search-heading">
@@ -202,6 +203,7 @@ function next() {
           :options="searchOptions"
           :legend="t('communityLanguage.matchesLegend')"
           legend-hidden
+          variant="card"
         />
       </div>
     </section>
