@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import type { Component } from 'vue'
 import { useI18n } from 'vue-i18n'
 
 /* one row of "why it ranks here". the bar is decoration, the number is the
@@ -10,6 +11,7 @@ defineProps<{
   score: number | null
   // why it isn't counted, when it isn't
   note?: string
+  icon?: Component
 }>()
 
 const { t } = useI18n()
@@ -17,7 +19,10 @@ const { t } = useI18n()
 
 <template>
   <div class="score">
-    <dt class="score__label">{{ label }}</dt>
+    <dt class="score__label">
+      <component :is="icon" v-if="icon" :size="20" class="score__icon" aria-hidden="true" />
+      {{ label }}
+    </dt>
     <dd v-if="note" class="score__note">{{ note }}</dd>
     <template v-else-if="score !== null">
       <dd class="score__value">
@@ -41,7 +46,15 @@ const { t } = useI18n()
 }
 
 .score__label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   font-size: 1.0625rem;
+}
+
+.score__icon {
+  flex: none;
+  color: var(--nr-rust);
 }
 
 .score__value {

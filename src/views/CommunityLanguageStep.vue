@@ -2,15 +2,18 @@
 import { computed, ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
+import { CircleSlash, MessageCircle } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
-import { COMMUNITY_LANGUAGES } from '@/data/languages'
+import { COMMUNITY_LANGUAGES, COMMUNITY_NATIVE } from '@/data/languages'
 import type { ChoiceOption, CommunityLanguage } from '@/types'
 import StepLayout from '@/components/steps/StepLayout.vue'
 import RadioGroup from '@/components/ui/RadioGroup.vue'
 
 /* step 3, first half. only asked when the language screen didn't already
    tell us. "My language isn't listed" is a real answer, not an error, and it
-   just means community drops out of the ranking */
+   just means community drops out of the ranking. each language shows in its
+   own script first, the same as the language screen, with the English name
+   under it */
 
 type Answer = CommunityLanguage | 'none'
 
@@ -19,8 +22,15 @@ const router = useRouter()
 const answers = useAnswersStore()
 
 const options = computed<ChoiceOption<Answer>[]>(() => [
-  ...COMMUNITY_LANGUAGES.map((code) => ({ value: code, label: t(`languages.${code}`) })),
-  { value: 'none' as const, label: t('communityLanguage.notListed') },
+  ...COMMUNITY_LANGUAGES.map((code) => ({
+    value: code,
+    label: COMMUNITY_NATIVE[code].text,
+    lang: COMMUNITY_NATIVE[code].lang,
+    dir: COMMUNITY_NATIVE[code].dir,
+    hint: t(`languages.${code}`),
+    icon: MessageCircle,
+  })),
+  { value: 'none' as const, label: t('communityLanguage.notListed'), icon: CircleSlash },
 ])
 
 const submitted = ref(false)

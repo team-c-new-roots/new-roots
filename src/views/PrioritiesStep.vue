@@ -1,15 +1,20 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, type WritableComputedRef } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
+import { BookOpen, Check, Circle, CircleSlash, GraduationCap, Heart, School } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
-import type { ChoiceOption, Importance } from '@/types'
+import { PRIORITY_TOPICS, topicInfo } from '@/data/topics'
+import type { ChoiceOption, Importance, RatedTopic, SchoolNeed } from '@/types'
 import StepLayout from '@/components/steps/StepLayout.vue'
 import RadioGroup from '@/components/ui/RadioGroup.vue'
 
-/* step 4. the other two topics. reported crime starts at Not important and
-   says why, because crime figures can stigmatise the suburbs new arrivals
-   already live in (ethics canvas) */
+/* step 4. the rest of the scoring module's topics, each with the same three
+   choices as language community (US 2.2). budget fit isn't one of them,
+   suburbs within budget always come first. schools ask which kind the
+   family needs (US 4.1). reported crime starts at Not important and says why,
+   because crime figures can stigmatise the suburbs new arrivals already live
+   in (ethics canvas) */
 
 const { t } = useI18n()
 const router = useRouter()
@@ -21,17 +26,31 @@ const options = computed<ChoiceOption<Importance>[]>(() => [
   { value: 'very', label: t('importance.very') },
 ])
 
-const essentials = computed<Importance | null>({
-  get: () => answers.importance.essentials,
-  set: (value) => {
-    if (value) answers.importance.essentials = value
-  },
-})
+const schoolOptions = computed<ChoiceOption<SchoolNeed>[]>(() => [
+  { value: 'primary', label: t('priorities.primary'), icon: School },
+  { value: 'secondary', label: t('priorities.secondary'), icon: GraduationCap },
+  { value: 'both', label: t('priorities.bothSchools'), icon: BookOpen },
+  { value: 'none', label: t('priorities.noSchools'), icon: CircleSlash },
+])
 
-const crime = computed<Importance | null>({
-  get: () => answers.importance.crime,
+const topics = PRIORITY_TOPICS.map((id) => topicInfo(id))
+
+const models = Object.fromEntries(
+  PRIORITY_TOPICS.map((topic) => [
+    topic,
+    computed<Importance | null>({
+      get: () => answers.importance[topic],
+      set: (value) => {
+        if (value) answers.importance[topic] = value
+      },
+    }),
+  ]),
+) as Record<RatedTopic, WritableComputedRef<Importance | null>>
+
+const schoolNeed = computed<SchoolNeed | null>({
+  get: () => answers.schoolNeed,
   set: (value) => {
-    if (value) answers.importance.crime = value
+    if (value) answers.schoolNeed = value
   },
 })
 
@@ -49,29 +68,56 @@ const back = computed(() => ({
     @next="router.push({ name: 'results' })"
   >
     <h1 class="priorities__title">{{ t('priorities.title') }}</h1>
+    <p class="priorities__lead">{{ t('priorities.lead') }}</p>
 
-    <RadioGroup
-      id="essentials-importance"
-      v-model="essentials"
-      :options="options"
-      :legend="t('priorities.essentials')"
-      :hint="t('priorities.essentialsHint')"
-      legend-tag="h2"
-    />
+    <div v-for="topic in topics" :key="topic.id" class="priority">
+      <RadioGroup
+        :id="`importance-${topic.key}`"
+        v-model="models[topic.id as RatedTopic].value"
+        :options="options"
+        :legend="t(`topics.${topic.key}`)"
+        :legend-icon="topic.icon"
+        :hint="t(`topics.${topic.key}Hint`)"
+        legend-tag="h2"
+      >
+        <template #icon="{ option, checked }">
+          <Check v-if="checked" :size="18" :stroke-width="3" />
+          <Circle v-if="option.value === 'not'" :size="20" />
+          <Heart v-else :size="20" :fill="option.value === 'very' ? 'currentColor' : 'none'" />
+        </template>
+      </RadioGroup>
 
-    <RadioGroup
-      id="crime-importance"
-      v-model="crime"
-      :options="options"
-      :legend="t('priorities.crime')"
-      :hint="t('priorities.crimeHint')"
-      legend-tag="h2"
-    />
+      <RadioGroup
+        v-if="topic.id === 'Education'"
+        id="school-need"
+        v-model="schoolNeed"
+        :options="schoolOptions"
+        :legend="t('priorities.schools')"
+        class="priority__follow-up"
+      />
+    </div>
   </StepLayout>
 </template>
 
 <style scoped>
 .priorities__title {
+  margin-bottom: 0.5rem;
+}
+
+.priorities__lead {
   margin-bottom: 1.25rem;
+}
+
+.priority {
+  padding-block: 0.25rem 1rem;
+  border-bottom: 1px solid var(--nr-line);
+}
+
+.priority:last-child {
+  border-bottom: 0;
+}
+
+.priority__follow-up {
+  margin-top: 1rem;
 }
 </style>

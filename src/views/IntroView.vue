@@ -1,13 +1,14 @@
 <script setup lang="ts">
 import { onMounted, ref } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { Check, Lock, X } from '@lucide/vue'
+import { Check, ChevronRight, Lock, X } from '@lucide/vue'
 import { useFlash } from '@/composables/useFlash'
 
-/* sets expectations before any questions (US-15): what New Roots does, what
-   it doesn't, and that nothing is saved (US-7). the wireframe had Start and
-   Skip intro, which both led to step 1. the second link points at support
-   instead, for someone who needs help today rather than a suburb list */
+/* sets expectations before any questions (US 6.1): what New Roots does, what
+   it doesn't, and that nothing is saved (US 6.2). Skip intro sits at the top
+   so someone who's been here before can jump straight to the questions, and
+   Start sits at the bottom for everyone who reads it through. the support
+   link is for someone who needs help today rather than a suburb list */
 
 const { t } = useI18n()
 const { take } = useFlash()
@@ -20,6 +21,13 @@ onMounted(() => {
 
 <template>
   <div class="page page--narrow intro">
+    <div class="intro__skip">
+      <RouterLink :to="{ name: 'household' }" class="link-action">
+        {{ t('intro.skip') }}
+        <ChevronRight class="flip-rtl" :size="20" aria-hidden="true" />
+      </RouterLink>
+    </div>
+
     <p v-if="cleared" class="panel intro__cleared" role="status">
       <Check :size="20" :stroke-width="3" aria-hidden="true" />
       {{ t('app.cleared') }}
@@ -79,6 +87,12 @@ onMounted(() => {
 </template>
 
 <style scoped>
+.intro__skip {
+  display: flex;
+  justify-content: flex-end;
+  margin: -0.5rem -0.75rem 0.5rem 0;
+}
+
 .intro__cleared {
   display: flex;
   align-items: center;

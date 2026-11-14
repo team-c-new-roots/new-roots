@@ -1,69 +1,68 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { Check } from '@lucide/vue'
-import { useFormat } from '@/composables/useFormat'
-import type { CommunityLanguage, RankedSuburb } from '@/types'
+import { Check, House, Languages } from '@lucide/vue'
+import type { MapData } from '@/types/api'
+import type { SuburbResult } from '@/services/results'
+import { useSuburbFacts } from '@/composables/useSuburbFacts'
 import BudgetBadge from '@/components/ui/BudgetBadge.vue'
 
 /* one suburb in the results list. shows the data behind its rank right on
-   the card (US-3, US-13): rent for the home size, how many neighbours speak
-   the family's language, and how far school and English class are */
+   the card (US 2.3, US 4.1): rent for the home size, how many neighbours
+   speak the family's language, and how far the schools they need and an
+   English class are. distances are chips that wrap whole, so a figure never
+   splits from its unit, and every card in a row is the same height with
+   View details along the bottom */
 
 const props = defineProps<{
-  item: RankedSuburb
-  language: CommunityLanguage | null
+  item: SuburbResult
+  data: MapData
   inSummary: boolean
 }>()
 
 const { t } = useI18n()
-const { money, km, percent, home } = useFormat()
+const facts = useSuburbFacts()
 
-const share = computed(() =>
-  props.language ? (props.item.suburb.languages?.[props.language] ?? null) : null,
-)
-const headingId = computed(() => `suburb-${props.item.suburb.id}`)
+const headingId = computed(() => `suburb-${props.item.id}`)
+const rent = computed(() => facts.rentLine(props.item))
+const language = computed(() => facts.languageLine(props.item, props.data))
+const distances = computed(() => facts.distanceFacts(props.item))
 </script>
 
 <template>
   <article class="suburb-card" :aria-labelledby="headingId">
     <div class="suburb-card__top">
       <span class="suburb-card__rank" aria-hidden="true">{{ item.rank }}</span>
-      <h2 :id="headingId" class="suburb-card__name">{{ item.suburb.name }}</h2>
+      <h2 :id="headingId" class="suburb-card__name">{{ item.name }}</h2>
       <BudgetBadge :status="item.status" class="suburb-card__badge" />
     </div>
 
+    <p v-if="item.match !== null" class="suburb-card__match">
+      {{ t('results.match', { score: item.match }) }}
+    </p>
+
     <ul class="suburb-card__facts">
-      <li v-if="item.home && item.median !== null">
-        {{ t('results.median', { home: home(item.home), amount: money(item.median) }) }}
+      <li v-if="rent">
+        <House :size="18" aria-hidden="true" />
+        <span>{{ rent }}</span>
       </li>
-      <li v-if="language && share !== null">
-        {{
-          t('results.speakers', { language: t(`languages.${language}`), percent: percent(share) })
-        }}
+      <li v-if="language">
+        <Languages :size="18" aria-hidden="true" />
+        <span>{{ language }}</span>
       </li>
-      <li v-if="item.suburb.schoolPrimaryKm !== null || item.suburb.englishClassKm !== null">
-        <span v-if="item.suburb.schoolPrimaryKm !== null">
-          {{ t('results.school', { distance: km(item.suburb.schoolPrimaryKm) }) }}
-        </span>
-        <span
-          v-if="item.suburb.schoolPrimaryKm !== null && item.suburb.englishClassKm !== null"
-          class="suburb-card__dot"
-          aria-hidden="true"
-          >·</span
-        >
-        <span v-if="item.suburb.englishClassKm !== null">
-          {{ t('results.englishClass', { distance: km(item.suburb.englishClassKm) }) }}
-        </span>
+    </ul>
+
+    <ul v-if="distances.length" class="suburb-card__distances">
+      <li v-for="fact in distances" :key="fact.key">
+        <component :is="fact.icon" :size="16" aria-hidden="true" />
+        {{ fact.text }}
       </li>
     </ul>
 
     <div class="suburb-card__bottom">
-      <RouterLink :to="{ name: 'suburb', params: { id: item.suburb.id } }">
+      <RouterLink :to="{ name: 'suburb', params: { id: item.id } }">
         {{ t('results.details') }}
-        <span class="visually-hidden">{{
-          t('results.detailsFor', { suburb: item.suburb.name })
-        }}</span>
+        <span class="visually-hidden">{{ t('results.detailsFor', { suburb: item.name }) }}</span>
       </RouterLink>
       <span v-if="inSummary" class="suburb-card__saved">
         <Check :size="16" :stroke-width="3" aria-hidden="true" />
@@ -75,6 +74,9 @@ const headingId = computed(() => `suburb-${props.item.suburb.id}`)
 
 <style scoped>
 .suburb-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
   padding: 1.1rem 1.25rem;
   border-radius: var(--nr-radius);
   background: var(--nr-panel);
@@ -85,7 +87,7 @@ const headingId = computed(() => `suburb-${props.item.suburb.id}`)
   flex-wrap: wrap;
   align-items: center;
   gap: 0.6rem;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.4rem;
 }
 
 .suburb-card__rank {
@@ -106,18 +108,54 @@ const headingId = computed(() => `suburb-${props.item.suburb.id}`)
   font-size: 1.375rem;
 }
 
+.suburb-card__match {
+  margin: 0 0 0.35rem;
+  color: var(--nr-rust);
+  font-weight: 700;
+}
+
 .suburb-card__facts {
-  margin: 0 0 0.5rem;
+  margin: 0 0 0.6rem;
   padding: 0;
   list-style: none;
 }
 
 .suburb-card__facts li {
-  padding-block: 0.1rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  padding-block: 0.15rem;
 }
 
-.suburb-card__dot {
-  margin-inline: 0.4rem;
+.suburb-card__facts svg {
+  flex: none;
+  margin-top: 0.2rem;
+  color: var(--nr-rust);
+}
+
+/* each distance is one chip, so "0.8 km" can never land on a line of its own */
+.suburb-card__distances {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0 0 0.75rem;
+  padding: 0;
+  list-style: none;
+}
+
+.suburb-card__distances li {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.2rem 0.65rem;
+  border-radius: var(--nr-radius-pill);
+  background: var(--nr-surface-raised);
+  font-size: 0.9375rem;
+  white-space: nowrap;
+}
+
+.suburb-card__distances svg {
+  color: var(--nr-rust);
 }
 
 .suburb-card__bottom {
@@ -126,6 +164,7 @@ const headingId = computed(() => `suburb-${props.item.suburb.id}`)
   align-items: center;
   justify-content: space-between;
   gap: 0.5rem;
+  margin-top: auto;
 }
 
 .suburb-card__bottom a {

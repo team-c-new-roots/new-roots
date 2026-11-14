@@ -313,7 +313,7 @@ main:focus {
 }
 
 .badge--close,
-.badge--over {
+.badge--above {
   background: var(--nr-surface-raised);
   color: var(--nr-rust);
 }
@@ -321,12 +321,6 @@ main:focus {
 .badge--nodata {
   background: var(--nr-surface-raised);
   color: var(--nr-ink-muted);
-}
-
-.badge--sample {
-  background: var(--nr-orange);
-  color: var(--nr-espresso);
-  font-size: 0.8125rem;
 }
 
 /* forms */
@@ -489,6 +483,22 @@ legend {
   flex-direction: column;
 }
 
+.legend-icon {
+  margin-inline-end: 0.45rem;
+  vertical-align: -0.2em;
+  color: var(--nr-rust);
+}
+
+/* the option's own icon, rust on apricot and cream once chosen */
+.choice__symbol {
+  flex: 0 0 auto;
+  color: var(--nr-rust);
+}
+
+.choice__input:checked + .choice__body .choice__symbol {
+  color: inherit;
+}
+
 .choice__hint {
   font-size: 0.875rem;
   font-weight: 400;
@@ -496,7 +506,9 @@ legend {
 
 /* tiles, the bedroom numbers */
 .choice-group--tile .choice__body {
+  flex-direction: column;
   justify-content: center;
+  gap: 0.125rem;
   min-width: 3.5rem;
   min-height: 3.5rem;
   padding: 0.5rem;
@@ -534,6 +546,10 @@ legend {
   background: var(--nr-surface-raised);
   color: var(--nr-ink);
   border-color: var(--nr-wine);
+}
+
+.choice-group--card .choice__input:checked + .choice__body .choice__symbol {
+  color: var(--nr-rust);
 }
 
 .choice-group--card-strong .choice__input:checked + .choice__body .choice__icon {

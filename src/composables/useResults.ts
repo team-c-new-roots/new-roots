@@ -1,28 +1,61 @@
-import { computed } from 'vue'
+import { computed, watch } from 'vue'
+import { storeToRefs } from 'pinia'
 import { useAnswersStore } from '@/stores/answers'
-import { rankSuburbs } from '@/services/ranking'
-import { SAMPLE_SUBURBS } from '@/data/sample-suburbs'
-import type { RankingResult } from '@/types'
+import { useResultsStore } from '@/stores/results'
+import { toScoreRequest } from '@/services/api'
+import { buildResults } from '@/services/results'
+import type { TopicName } from '@/types'
 
-// the ranking, worked out from the answers every time they change. it runs on
-// the phone, so the answers never have to leave it. when the real data arrives
-// only the suburb list here changes
+/* what the results, suburb and summary screens share. asks the scoring API
+   whenever the answers change, and sorts what comes back */
 export function useResults() {
   const answers = useAnswersStore()
+  const store = useResultsStore()
+  const { status, data, errorKind } = storeToRefs(store)
 
-  const result = computed<RankingResult | null>(() => {
+  const request = computed(() => {
     const budget = answers.budget
     if (!budget) return null
-    return rankSuburbs(SAMPLE_SUBURBS, {
-      budget: budget.weekly,
-      bedrooms: answers.bedrooms,
-      homeType: answers.homeType,
-      communityLanguage: answers.rankingLanguage,
+    return toScoreRequest({
+      censusLanguage: answers.censusLanguage,
       importance: answers.importance,
+      incomeWeekly: budget.incomeWeekly,
+      home: answers.home.request,
     })
   })
 
-  const nothingFits = computed(() => result.value !== null && result.value.ranked.length === 0)
+  function load(force = false) {
+    if (request.value) store.load(request.value, force)
+  }
 
-  return { result, nothingFits }
+  // the screens using this load straight away, and again if the answers change
+  watch(request, () => load(), { immediate: true })
+
+  const derived = computed(() =>
+    data.value ? buildResults(data.value, answers.budget?.weekly ?? 0) : null,
+  )
+
+  const nothingFits = computed(() => derived.value !== null && derived.value.ranked.length === 0)
+
+  // the topics that count towards this household's ranking. affordability
+  // always does, language only once one is chosen
+  const counted = computed(() => {
+    const topics = new Set<TopicName>(['Affordability'])
+    for (const [topic, level] of Object.entries(answers.importance)) {
+      if (level === 'not') continue
+      if (topic === 'Language' && !answers.censusLanguage) continue
+      topics.add(topic as TopicName)
+    }
+    return topics
+  })
+
+  return {
+    status,
+    errorKind,
+    data,
+    derived,
+    nothingFits,
+    counted,
+    retry: () => load(true),
+  }
 }

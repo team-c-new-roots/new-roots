@@ -57,6 +57,30 @@ export const COMMUNITY_LANGUAGES: CommunityLanguage[] = [
   'dinka',
 ]
 
+// the census spells these its own way, and the scoring API matches on it
+export const CENSUS_NAMES: Record<CommunityLanguage, string> = {
+  dari: 'Dari',
+  hazaraghi: 'Hazaraghi',
+  persian: 'Persian (excluding Dari)',
+  arabic: 'Arabic',
+  pashto: 'Pashto',
+  dinka: 'Dinka',
+}
+
+// shown under the English name on the language community step, so people can
+// find their language without reading English
+export const COMMUNITY_NATIVE: Record<
+  CommunityLanguage,
+  { text: string; lang: string; dir: 'ltr' | 'rtl' }
+> = {
+  dari: { text: 'دری', lang: 'fa-AF', dir: 'rtl' },
+  hazaraghi: { text: 'هزارگی', lang: 'haz', dir: 'rtl' },
+  persian: { text: 'فارسی', lang: 'fa-IR', dir: 'rtl' },
+  arabic: { text: 'العربية', lang: 'ar', dir: 'rtl' },
+  pashto: { text: 'پښتو', lang: 'ps', dir: 'rtl' },
+  dinka: { text: 'Thuɔŋjäŋ', lang: 'din', dir: 'ltr' },
+}
+
 // greetings from the wireframe, two lines of two. each one is tagged with its
 // language so a screen reader switches voice instead of reading Persian with
 // English rules

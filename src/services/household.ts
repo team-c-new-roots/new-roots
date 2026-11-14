@@ -1,4 +1,6 @@
-import type { HomeLabel, HomeType, RentKey, Suburb } from '@/types'
+import type { HomeLabel, HomeType } from '@/types'
+import type { ScoreRequest } from '@/types/api'
+import { PUBLISHED_RENTS } from '@/data/metrics'
 
 export const MAX_ADULTS = 10
 export const MAX_CHILDREN = 12
@@ -12,38 +14,50 @@ export function suggestBedrooms(adults: number, children: number): number {
   return Math.min(Math.max(rooms, 1), MAX_BEDROOMS)
 }
 
-interface Found {
-  median: number
-  home: HomeLabel
+// why the rent figures describe a different home from the one asked for (US 2.1)
+export type HomeNote = 'none' | 'houseOneBed' | 'flatLarge' | 'fivePlus'
+
+export interface HomeRequest {
+  request: Pick<ScoreRequest, 'bedrooms' | 'dwelling_type'>
+  // the home the household asked for
+  asked: HomeLabel
+  // the home the rent figures actually describe
+  figures: HomeLabel
+  note: HomeNote
+  // the obt rent column for that home, for "does well" and the details page
+  rentMetric: string
 }
 
-function lookup(rents: NonNullable<Suburb['rents']>, type: 'house' | 'flat', bedrooms: number) {
-  const key = `${type}${bedrooms}` as RentKey
-  const median = rents[key]
-  return median === undefined ? null : { median, home: { type, bedrooms } }
-}
+/* fits the home someone asked for to what the rental report publishes:
+   flats with 1 or 2 bedrooms, houses with 2 to 4. anything else moves to the
+   closest published size, and the note says so */
+export function homeRequest(bedrooms: number, homeType: HomeType): HomeRequest {
+  const fivePlus = bedrooms >= 5
+  let beds = Math.min(bedrooms, 4)
+  let note: HomeNote = fivePlus ? 'fivePlus' : 'none'
 
-/* picks the rent figure that matches the home someone needs.
-   the report only has 1 to 3 bed flats and 2 to 4 bed houses, so:
-   - 5+ bedrooms uses the 4 bed house figure
-   - a 1 bed house falls back to the 2 bed house figure
-   - "either" takes whichever of flat or house is cheaper */
-export function medianFor(
-  rents: Suburb['rents'],
-  bedrooms: number,
-  homeType: HomeType,
-): Found | null {
-  if (!rents) return null
-  const beds = Math.min(bedrooms, 4)
+  if (homeType === 'house' && beds < PUBLISHED_RENTS.house[0]) {
+    beds = PUBLISHED_RENTS.house[0]
+    note = 'houseOneBed'
+  }
 
-  const flat = beds <= 3 ? lookup(rents, 'flat', beds) : null
-  const house = lookup(rents, 'house', Math.max(beds, 2))
+  const largestFlat = PUBLISHED_RENTS.flat[PUBLISHED_RENTS.flat.length - 1]!
+  if (homeType === 'flat' && beds > largestFlat) {
+    beds = largestFlat
+    note = 'flatLarge'
+  }
 
-  if (homeType === 'flat') return flat
-  if (homeType === 'house') return house
+  // "either" with 3 or more bedrooms only has houses to go on, which is fine,
+  // the label still says home rather than house
+  const dwelling = homeType === 'either' ? 'both' : homeType
+  const rentType =
+    homeType === 'flat' || (homeType === 'either' && beds <= largestFlat) ? 'flat' : 'house'
 
-  // either: a 1 bed search shouldn't jump to a 2 bed house just because it exists
-  const options = [flat, beds >= 2 ? house : null].filter((item): item is Found => item !== null)
-  if (options.length === 0) return null
-  return options.reduce((cheapest, item) => (item.median < cheapest.median ? item : cheapest))
+  return {
+    request: { bedrooms: beds, dwelling_type: dwelling },
+    asked: { type: homeType, bedrooms },
+    figures: { type: homeType, bedrooms: beds },
+    note,
+    rentMetric: `rent_${beds}br_${rentType}`,
+  }
 }

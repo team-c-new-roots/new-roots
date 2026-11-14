@@ -1,5 +1,5 @@
 import type { BudgetEstimate, IncomeAnswers, PayPeriod } from '@/types'
-import { SAMPLE_RATES, type PaymentRates } from '@/data/sample-rates'
+import { RATES } from '@/data/centrelink-rates'
 
 // the rental report calls a home affordable when rent is at most 30% of income
 export const AFFORDABLE_SHARE = 0.3
@@ -19,46 +19,100 @@ export function toWeekly(amount: number, period: PayPeriod): number {
   return amount / WEEKS_IN[period]
 }
 
+function cents(value: number): number {
+  return Math.round(value * 100) / 100
+}
+
+export function usesPayments(answers: Pick<IncomeAnswers, 'source'>): boolean {
+  return answers.source === 'payments' || answers.source === 'both'
+}
+
+export function usesWork(answers: Pick<IncomeAnswers, 'source'>): boolean {
+  return answers.source === 'work' || answers.source === 'both'
+}
+
+// the couple question only shows when there's more than one adult
+export function needsCoupleAnswer(answers: IncomeAnswers): boolean {
+  return usesPayments(answers) && answers.adults > 1
+}
+
+/* payments plus their energy supplements and rent assistance, at maximum
+   rates. rent assistance counts as income, the way the scoring module and the
+   rental report's affordability measure treat it, then the budget is 30% of
+   the lot. returns null while an answer it needs is missing */
+function weeklyPayments(answers: IncomeAnswers): { amount: number; rentAssistance: number } | null {
+  if (answers.payments.length === 0) return null
+  if (needsCoupleAnswer(answers) && answers.couple === null) return null
+
+  const couple = answers.adults > 1 && answers.couple === 'yes'
+  const hasChildren = answers.children > 0
+  let amount = 0
+
+  if (answers.payments.includes('parenting')) {
+    amount += couple ? RATES.parenting.partnered : RATES.parenting.single
+    amount += couple ? RATES.parentingEnergy.partnered : RATES.parentingEnergy.single
+  }
+
+  if (answers.payments.includes('jobseeker')) {
+    const situation = couple ? 'partnered' : hasChildren ? 'singleWithChildren' : 'singleNoChildren'
+    amount += RATES.jobseeker[situation] + RATES.jobseekerEnergy[situation]
+  }
+
+  const familyTax = answers.payments.includes('familyTax') && hasChildren
+  if (familyTax) {
+    const teens = Math.min(answers.teens, answers.children)
+    const younger = answers.children - teens
+    amount += younger * (RATES.ftbA.child0to12 + RATES.ftbAEnergy.child0to12)
+    amount += teens * (RATES.ftbA.child13to19 + RATES.ftbAEnergy.child13to19)
+    // until they say, assume the youngest is 5 or older, the lower rate
+    const underFive = answers.youngestUnderFive === 'yes'
+    amount += underFive ? RATES.ftbB.youngestUnder5 : RATES.ftbB.youngest5to18
+    amount += underFive ? RATES.ftbBEnergy.youngestUnder5 : RATES.ftbBEnergy.youngest5to18
+  }
+
+  if (answers.payments.includes('other')) {
+    if (!answers.otherPaymentFortnight || answers.otherPaymentFortnight <= 0) return null
+    amount += toWeekly(answers.otherPaymentFortnight, 'fortnight')
+  }
+
+  const ra = RATES.rentAssistance
+  const rentAssistance = familyTax
+    ? answers.children >= 3
+      ? ra.withFtb3plus
+      : ra.withFtb1to2
+    : couple
+      ? ra.couple
+      : ra.single
+
+  return { amount: amount + rentAssistance, rentAssistance }
+}
+
 // returns null until there's enough to work a budget out, so the UI can show
 // an empty state instead of $0
-export function estimateBudget(
-  answers: IncomeAnswers,
-  rates: PaymentRates = SAMPLE_RATES,
-): BudgetEstimate | null {
+export function estimateBudget(answers: IncomeAnswers): BudgetEstimate | null {
   if (!answers.source) return null
 
-  const usesPayments = answers.source === 'payments' || answers.source === 'both'
-  const usesWork = answers.source === 'work' || answers.source === 'both'
+  let income = 0
+  let rentAssistance = 0
 
-  let fortnightly = 0
-  if (usesPayments) {
-    if (answers.payments.length === 0) return null
-    for (const payment of answers.payments) {
-      if (payment === 'parenting') fortnightly += rates.parenting
-      if (payment === 'jobseeker') fortnightly += rates.jobseeker
-      if (payment === 'familyTax') fortnightly += rates.familyTaxPerChild * answers.children
-      if (payment === 'other') {
-        if (!answers.otherPaymentFortnight || answers.otherPaymentFortnight <= 0) return null
-        fortnightly += answers.otherPaymentFortnight
-      }
-    }
+  if (usesPayments(answers)) {
+    const payments = weeklyPayments(answers)
+    if (!payments) return null
+    income += payments.amount
+    rentAssistance = payments.rentAssistance
   }
 
-  let incomeWeekly = fortnightly / 2
-  if (usesWork) {
+  if (usesWork(answers)) {
     if (!answers.wageAmount || answers.wageAmount <= 0) return null
-    incomeWeekly += toWeekly(answers.wageAmount, answers.wagePeriod)
+    income += toWeekly(answers.wageAmount, answers.wagePeriod)
   }
 
-  // rent assistance only comes with a Centrelink payment. people seeking asylum
-  // on a bridging visa usually can't get either, which is why work income
-  // has its own path and never adds it
-  const rentAssistanceWeekly = usesPayments ? rates.rentAssistance / 2 : 0
+  if (income <= 0) return null
 
   return {
-    weekly: roundToTen(incomeWeekly * AFFORDABLE_SHARE + rentAssistanceWeekly),
-    incomeWeekly: Math.round(incomeWeekly),
-    rentAssistanceWeekly: Math.round(rentAssistanceWeekly),
+    weekly: roundToTen(income * AFFORDABLE_SHARE),
+    incomeWeekly: cents(income),
+    rentAssistanceWeekly: cents(rentAssistance),
   }
 }
 

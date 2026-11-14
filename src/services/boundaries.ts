@@ -1,16 +1,19 @@
 import type { FeatureCollection, Polygon, MultiPolygon } from 'geojson'
 
 export interface BoundaryProperties {
-  id: string
-  name: string
+  suburb_id: string
+  suburb_name: string
+  // where a suburb's score label sits, worked out by the data team
+  label_lat: number
+  label_lon: number
 }
 
 export type Boundaries = FeatureCollection<Polygon | MultiPolygon, BoundaryProperties>
 
-// sample shapes for now, generated from rough suburb centres. the data team
-// replaces this file with simplified ABS suburb boundaries. it's a static file
-// rather than part of the bundle so the map is the only screen that pays for it
-const SOURCE = `${import.meta.env.BASE_URL}data/sample-boundaries.geojson`
+/* ABS suburb shapes from the data team, simplified together so neighbouring
+   borders still meet. a static file rather than part of the bundle, so only
+   the map pays for it, and it's the same for everyone so it caches */
+const SOURCE = `${import.meta.env.BASE_URL}data/suburbs.geojson`
 
 let cached: Promise<Boundaries> | null = null
 

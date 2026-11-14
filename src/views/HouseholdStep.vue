@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
+import { BedDouble, Building2, House, LayoutGrid } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
 import { MAX_ADULTS, MAX_BEDROOMS, MAX_CHILDREN } from '@/services/household'
 import type { ChoiceOption, HomeType } from '@/types'
@@ -10,7 +11,8 @@ import NumberStepper from '@/components/ui/NumberStepper.vue'
 import RadioGroup from '@/components/ui/RadioGroup.vue'
 
 /* step 1. who lives there, then bedrooms and home type, which start from a
-   suggestion (US-19). every answer has a default, so nothing here can fail */
+   suggestion (US 2.1). every answer has a default, so nothing here can fail.
+   every option carries an icon so it reads without much English (US 5.1) */
 
 const { t } = useI18n()
 const router = useRouter()
@@ -20,15 +22,15 @@ const bedroomOptions = computed<ChoiceOption<number>[]>(() =>
   Array.from({ length: MAX_BEDROOMS }, (_, index) => {
     const value = index + 1
     return value === MAX_BEDROOMS
-      ? { value, label: t('household.fivePlus') }
-      : { value, label: String(value) }
+      ? { value, label: t('household.fivePlus'), icon: BedDouble }
+      : { value, label: String(value), icon: BedDouble }
   }),
 )
 
 const homeOptions = computed<ChoiceOption<HomeType>[]>(() => [
-  { value: 'house', label: t('household.house') },
-  { value: 'flat', label: t('household.flat') },
-  { value: 'either', label: t('household.either') },
+  { value: 'house', label: t('household.house'), icon: House },
+  { value: 'flat', label: t('household.flat'), icon: Building2 },
+  { value: 'either', label: t('household.either'), icon: LayoutGrid },
 ])
 
 const bedrooms = computed<number | null>({

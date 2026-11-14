@@ -1,16 +1,23 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
+import { usingExample } from '@/services/api'
 
 /* plain answers to the questions people ask before typing anything
    in: what you ask, where it goes, who else can see it. it only claims what
-   the build does. if anything here changes, this page changes in the same PR */
+   the build does. while the app shows a saved example nothing is sent, and
+   once the scoring API is connected the answers go to it once, so "where
+   your answers go" follows whichever this build is doing (US 6.2) */
 
 const { t } = useI18n()
 
 const sections = [
   { id: 'collect', heading: 'privacy.collectHeading', body: 'privacy.collect' },
   { id: 'never', heading: 'privacy.neverHeading', body: 'privacy.never' },
-  { id: 'where', heading: 'privacy.whereHeading', body: 'privacy.where' },
+  {
+    id: 'where',
+    heading: 'privacy.whereHeading',
+    body: usingExample ? 'privacy.whereLocal' : 'privacy.whereServer',
+  },
   { id: 'tracking', heading: 'privacy.trackingHeading', body: 'privacy.tracking' },
   { id: 'map', heading: 'privacy.mapHeading', body: 'privacy.map' },
   { id: 'shared', heading: 'privacy.sharedHeading', body: 'privacy.shared' },
