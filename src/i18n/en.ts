@@ -79,7 +79,6 @@ export default {
   },
   intro: {
     title: 'Welcome',
-    skip: 'Skip intro',
     heading: 'Find a suburb that fits you',
     lead: 'New Roots helps you choose where to start looking for your first home in Melbourne.',
     doesHeading: 'What New Roots does',
