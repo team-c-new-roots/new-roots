@@ -1,4 +1,4 @@
-import type { BudgetEstimate, IncomeAnswers, PayPeriod } from '@/types'
+import type { AdultIncome, BudgetEstimate, IncomeAnswers, PayPeriod } from '@/types'
 import { RATES } from '@/data/centrelink-rates'
 
 // the rental report calls a home affordable when rent is at most 30% of income
@@ -32,33 +32,86 @@ export function usesWork(answers: Pick<IncomeAnswers, 'source'>): boolean {
 }
 
 // the couple question only shows when there's more than one adult
-export function needsCoupleAnswer(answers: IncomeAnswers): boolean {
+export function needsCoupleAnswer(answers: Pick<IncomeAnswers, 'source' | 'adults'>): boolean {
   return usesPayments(answers) && answers.adults > 1
 }
 
-/* payments plus their energy supplements and rent assistance, at maximum
-   rates. rent assistance counts as income, the way the scoring module and the
-   rental report's affordability measure treat it, then the budget is 30% of
-   the lot. returns null while an answer it needs is missing */
+function isCouple(answers: Pick<IncomeAnswers, 'adults' | 'couple'>): boolean {
+  return answers.adults > 1 && answers.couple === 'yes'
+}
+
+export function blankAdult(): AdultIncome {
+  return { payment: null, otherFortnight: null }
+}
+
+// one answer per adult on step 1, blank for anyone not answered yet
+export function incomesOf(answers: Pick<IncomeAnswers, 'incomes' | 'adults'>): AdultIncome[] {
+  return Array.from(
+    { length: answers.adults },
+    (_, index) => answers.incomes[index] ?? blankAdult(),
+  )
+}
+
+// only one of a couple can be the carer who gets parenting payment
+export function bothPartnersOnParenting(
+  answers: Pick<IncomeAnswers, 'incomes' | 'adults' | 'couple'>,
+): boolean {
+  const [first, second] = incomesOf(answers)
+  return isCouple(answers) && first?.payment === 'parenting' && second?.payment === 'parenting'
+}
+
+/* each adult's own payment plus its energy supplement, at maximum rates, then
+   family tax benefit once for the children and rent assistance once for the
+   household. rent assistance counts as income, the way the scoring module and
+   the rental report's affordability measure treat it, then the budget is 30%
+   of the lot. returns null while an answer it needs is missing.
+
+   a couple are adults 1 and 2 and get the partnered rates. anyone else, like
+   a grown-up child, is single. one single parent on jobseeker gets the higher
+   with-children rate, unless the carer is already on parenting payment */
 function weeklyPayments(answers: IncomeAnswers): { amount: number; rentAssistance: number } | null {
-  if (answers.payments.length === 0) return null
-  if (needsCoupleAnswer(answers) && answers.couple === null) return null
-
-  const couple = answers.adults > 1 && answers.couple === 'yes'
   const hasChildren = answers.children > 0
+  const couple = isCouple(answers)
+  const people = incomesOf(answers)
+  if (needsCoupleAnswer(answers) && answers.couple === null) return null
+  if (hasChildren && answers.familyTax === null) return null
+  // parenting payment needs children, so one left from before they were taken off is unanswered
+  if (people.some(({ payment }) => payment === null || (payment === 'parenting' && !hasChildren))) {
+    return null
+  }
+  if (bothPartnersOnParenting(answers)) return null
+
+  const familyTax = hasChildren && answers.familyTax === 'yes'
+  let singleParentRate =
+    !couple && hasChildren && !people.some(({ payment }) => payment === 'parenting')
   let amount = 0
+  let fromCentrelink = familyTax
 
-  if (answers.payments.includes('parenting')) {
-    amount += couple ? RATES.parenting.partnered : RATES.parenting.single
-    amount += couple ? RATES.parentingEnergy.partnered : RATES.parentingEnergy.single
+  for (const [index, person] of people.entries()) {
+    const partnered = couple && index < 2
+    if (person.payment === 'parenting') {
+      const rate = partnered ? 'partnered' : 'single'
+      amount += RATES.parenting[rate] + RATES.parentingEnergy[rate]
+      fromCentrelink = true
+    } else if (person.payment === 'jobseeker') {
+      let rate: 'partnered' | 'singleWithChildren' | 'singleNoChildren' = 'singleNoChildren'
+      if (partnered) rate = 'partnered'
+      else if (singleParentRate) {
+        rate = 'singleWithChildren'
+        singleParentRate = false
+      }
+      amount += RATES.jobseeker[rate] + RATES.jobseekerEnergy[rate]
+      fromCentrelink = true
+    } else if (person.payment === 'other') {
+      if (!person.otherFortnight || person.otherFortnight <= 0) return null
+      amount += toWeekly(person.otherFortnight, 'fortnight')
+      fromCentrelink = true
+    }
   }
 
-  if (answers.payments.includes('jobseeker')) {
-    const situation = couple ? 'partnered' : hasChildren ? 'singleWithChildren' : 'singleNoChildren'
-    amount += RATES.jobseeker[situation] + RATES.jobseekerEnergy[situation]
-  }
+  // nobody gets anything from Centrelink, so there's no rent assistance either
+  if (!fromCentrelink) return null
 
-  const familyTax = answers.payments.includes('familyTax') && hasChildren
   if (familyTax) {
     const teens = Math.min(answers.teens, answers.children)
     const younger = answers.children - teens
@@ -68,11 +121,6 @@ function weeklyPayments(answers: IncomeAnswers): { amount: number; rentAssistanc
     const underFive = answers.youngestUnderFive === 'yes'
     amount += underFive ? RATES.ftbB.youngestUnder5 : RATES.ftbB.youngest5to18
     amount += underFive ? RATES.ftbBEnergy.youngestUnder5 : RATES.ftbBEnergy.youngest5to18
-  }
-
-  if (answers.payments.includes('other')) {
-    if (!answers.otherPaymentFortnight || answers.otherPaymentFortnight <= 0) return null
-    amount += toWeekly(answers.otherPaymentFortnight, 'fortnight')
   }
 
   const ra = RATES.rentAssistance

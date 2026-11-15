@@ -126,17 +126,26 @@ export default {
     payments: 'Centrelink payments',
     work: 'Work or other income',
     both: 'Both',
-    whichPayments: 'Which payments do you get?',
-    paymentsHint:
-      'Choose every payment someone in your household gets. For anything else, like Youth Allowance, Austudy, Age Pension or Disability Support Pension, choose Other.',
-    parenting: 'Parenting Payment',
+    yourPayment: 'Which payment do you get?',
+    paymentHint:
+      'For Youth Allowance, Austudy, Age Pension or Disability Support Pension, choose Another payment.',
+    eachAdult: 'What does each adult get?',
+    eachAdultHint:
+      'Each person can only get one of these. For Youth Allowance, Austudy, Age Pension or Disability Support Pension, choose Another payment. Choose None of these for anyone who only works or has no income.',
+    adultN: 'Adult {n}',
     jobseeker: 'JobSeeker',
-    familyTax: 'Family Tax Benefit',
-    other: 'Other',
-    otherAmount: 'How much are your other payments each fortnight?',
+    parenting: 'Parenting Payment',
+    otherPayment: 'Another payment',
+    noPayment: 'None of these',
+    otherAmount: 'How much is your payment each fortnight?',
+    adultOtherAmount: 'How much does Adult {n} get each fortnight?',
     otherHint: 'In dollars, before tax.',
+    childPaymentsNote:
+      'Parenting Payment and Family Tax Benefit only show when there are children. Add them on step 1.',
     couple: 'Are two of the adults a couple?',
-    coupleHint: 'Couples get a different payment rate.',
+    coupleHint: 'Couples get a different payment rate. If yes, they’re Adult 1 and Adult 2 below.',
+    familyTaxQuestion: 'Does your family get Family Tax Benefit?',
+    familyTaxHint: 'It’s paid for the children, so it’s counted once for the family.',
     yes: 'Yes',
     no: 'No',
     teens: 'How many of your children are 13 or older?',
@@ -145,8 +154,10 @@ export default {
     removeTeen: 'Remove a child aged 13 or older',
     youngest: 'Is your youngest child under 5?',
     wage: 'How much does your household earn from work?',
-    wageHint:
-      'Add up everyone’s pay, in dollars before tax. If your hours change, use a usual week.',
+    wageHint: 'Add up everyone’s pay, in dollars before tax.',
+    payChanges: 'Pay changes from week to week?',
+    payChangesBody:
+      'Add up your household’s pay from the last 4 weeks, before tax, then divide by 4. Enter that and choose Each week. If some weeks pay much less, use a lower figure, since rent stays the same every week.',
     period: 'How often',
     week: 'Each week',
     fortnight: 'Each fortnight',
@@ -161,12 +172,16 @@ export default {
     budgetEmpty: 'Your rent budget shows here once you’ve answered.',
     errors: {
       source: 'Choose how your household gets money',
-      payments: 'Choose at least one payment',
-      other: 'Enter how much your other payments are each fortnight, in dollars',
+      yourPayment: 'Choose which payment you get, or None of these',
+      adultPayment: 'Choose what Adult {n} gets, or None of these',
+      noPayments: 'Choose at least one payment, or choose Work or other income at the top',
+      other: 'Enter how much your payment is each fortnight, in dollars',
+      adultOther: 'Enter how much Adult {n} gets each fortnight, in dollars',
+      twoParenting:
+        'Only one person in a couple can get Parenting Payment. Change Adult 1 or Adult 2.',
+      familyTax: 'Choose whether your family gets Family Tax Benefit',
       wage: 'Enter how much your household earns, in dollars',
       couple: 'Choose whether two of the adults are a couple',
-      familyTax:
-        'Family Tax Benefit is for families with children. Add your children on the first step, or untick it',
     },
   },
   communityLanguage: {
@@ -188,6 +203,9 @@ export default {
     matchesLegend: 'Languages that match your search',
     noneLegend: 'If your language isn’t in either list',
     speakers: '{count} speakers in these suburbs',
+    englishHint: 'Won’t change the order of suburbs',
+    englishNote:
+      'Almost everyone in Melbourne speaks English, so it won’t change the order of suburbs. We’ll rank them on rent and nearby services instead.',
   },
   community: {
     pageTitle: 'Your language community',
@@ -292,7 +310,19 @@ export default {
     detailsFor: 'for {suburb}',
     showOnMap: 'Show on map',
     inSummary: 'In your summary',
-    showing: 'Showing {shown} of {total} suburbs that fit your budget.',
+    showing: 'Showing {shown} of {total} suburbs.',
+    groups: {
+      ranked:
+        'One suburb within or close to your budget | {n} suburbs within or close to your budget',
+      above: 'One suburb above your budget | {n} suburbs above your budget',
+      noData: 'One suburb with no rent figure yet | {n} suburbs with no rent figure yet',
+    },
+    groupNotes: {
+      above:
+        'Rent for a {home} here is more than 35% of your income. They’re listed so you can still compare them, best match first.',
+      noData:
+        'The Rental Report has no figure for a {home} in these suburbs yet, so we can’t check them against your budget.',
+    },
     showMore: 'Show more suburbs',
     print: 'Print summary',
     loading: 'Finding suburbs that fit',
@@ -313,7 +343,14 @@ export default {
     keyScore: 'One suburb’s match',
     keyGroup: 'Nearby suburbs grouped while zoomed out. Select a group to zoom in.',
     groupCount: '{n} suburbs',
-    groupTitle: '{n} suburbs here, average match {average}. Select to zoom in.',
+    groupTitle: '{n} suburbs, scores {low} to {high}. Select to zoom in.',
+    dataFrom: 'Data from',
+    sources: {
+      rents: 'Rents',
+      census: 'Census',
+      crime: 'Reported crime',
+    },
+    allSources: 'Every source and date',
     streets: 'Street map',
     clickToZoom: 'Click the map to zoom with the scroll wheel',
     notes:
@@ -323,7 +360,7 @@ export default {
     match: 'Match {score} out of 100',
     matchOutOf: 'out of 100 match',
     details: 'See details',
-    notRanked: 'Not in your list',
+    notRanked: 'Not ranked',
     close: 'Close {suburb}',
     pickPrompt: 'Choose a suburb on the map, or from the list below the map, to see its scores.',
   },
@@ -331,13 +368,15 @@ export default {
     title: 'Suburb details',
     back: 'Back to results',
     ranked: 'Ranked {rank} of {total}',
-    notRanked: 'Not in your list',
+    notRanked: 'Not ranked',
     match: 'Match {score} out of 100',
     why: 'Why it ranks here',
     scoreOutOf: '{score} out of 100',
-    notCounted: 'Not counted, because you rated it Not important',
-    noLanguage: 'Not counted, because you didn’t choose a language',
+    notCounted: 'Not counted in your match, because you rated it Not important',
+    noLanguage: 'Not counted in your match, because you didn’t choose a language',
     noRentScore: 'No rent figure yet, so budget fit can’t be worked out',
+    noCrimeScore: 'No crime figure: too few residents for a reliable rate',
+    noScore: 'No figures for this suburb yet',
     doesWell: 'What this suburb does well',
     fallsBehind: 'Where it falls behind',
     rankOf: 'Ranked {rank} of {total}',
@@ -367,6 +406,8 @@ export default {
     stops: '{n} bus and tram stops per square kilometre',
     transportSource: 'Public transport stops, 2026',
     crimeRate: '{rate} reported crimes for every 1,000 residents',
+    crimeMissing:
+      'No crime rate for {suburb}. We only work one out where at least 500 people live, so a few incidents can’t make a small suburb look worse than it is.',
     crimeSource: 'Crime Statistics Agency, year ending June 2026',
     averages: 'Suburb figures are averages and don’t describe every street.',
     add: 'Add to my summary',
@@ -378,7 +419,7 @@ export default {
   },
   nothingFits: {
     title: 'Nothing fits your budget yet',
-    lead: 'For a {home} on about {budget} a week, no suburb’s median rent fits your budget.',
+    lead: 'For a {home} on about {budget} a week, no suburb’s median rent fits your budget. Every suburb is still listed below, best match first.',
     closest: 'Closest options',
     median: '{home} median {amount} a week',
     otherWays: 'Other ways forward',
@@ -442,7 +483,7 @@ export default {
     budget1:
       'An affordable rent is at most 30% of a household’s income. This is the benchmark the Victorian Rental Report uses.',
     budget2:
-      'If you get Centrelink payments, we count them at their maximum rates, along with Commonwealth Rent Assistance and the Energy Supplement, as part of your income.',
+      'If you get Centrelink payments, we count each adult’s payment at its maximum rate, or the amount you enter for another payment. Commonwealth Rent Assistance and the Energy Supplement count as part of your income too.',
     budget3:
       'If you only earn a wage, we use 30% of it and don’t add rent assistance. Many people seeking asylum can’t get Centrelink, so this keeps the budget honest.',
     rankHeading: 'How we rank suburbs',
@@ -451,9 +492,9 @@ export default {
     rank2:
       'You choose how much each topic matters. Budget fit always counts most, and reported crime starts at Not important.',
     rank3:
-      'Budget fit drops sharply once rent goes past 30% of income. Suburbs without a rent figure for your home are marked No rent figure yet and aren’t ranked.',
+      'Budget fit drops sharply once rent goes past 30% of income. If you’d take a flat or a house, each suburb uses whichever is cheaper. Suburbs without a rent figure for your home are marked No rent figure yet.',
     rank4:
-      'Suburbs within your budget come first, then suburbs where rent is up to 35% of income. Your language community changes the order but never hides a suburb.',
+      'Suburbs within your budget come first, then suburbs where rent is up to 35% of income. Every other suburb is still listed after them, marked Above budget or No rent figure yet. Your language community changes the order but never hides a suburb.',
     dataHeading: 'Where the data comes from',
     dataLead:
       'Every source is openly licensed. We don’t copy data from websites without permission.',

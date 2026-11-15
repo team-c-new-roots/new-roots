@@ -1,18 +1,19 @@
-import { computed, reactive, ref } from 'vue'
+import { computed, reactive, ref, watch } from 'vue'
 import { defineStore } from 'pinia'
 import type {
+  AdultIncome,
   HomeType,
   Importance,
   IncomeSource,
-  PaymentType,
   PayPeriod,
   RatedTopic,
   SchoolNeed,
   YesNo,
 } from '@/types'
-import { estimateBudget } from '@/services/budget'
+import { blankAdult, estimateBudget } from '@/services/budget'
 import { homeRequest, suggestBedrooms } from '@/services/household'
 import { DEFAULT_IMPORTANCE } from '@/data/topics'
+import { ENGLISH } from '@/data/languages'
 
 /* everything someone tells New Roots lives here and only here. memory only,
    never localStorage or sessionStorage, so closing the tab really does
@@ -29,16 +30,44 @@ export const useAnswersStore = defineStore('answers', () => {
   const homeType = ref<HomeType>('either')
 
   const incomeSource = ref<IncomeSource | null>(null)
-  const payments = ref<PaymentType[]>([])
-  const otherPaymentFortnight = ref<number | null>(null)
+  // what each adult gets from Centrelink, one row per adult on step 1
+  const incomes = ref<AdultIncome[]>([blankAdult()])
+  const familyTax = ref<YesNo | null>(null)
   const wageAmount = ref<number | null>(null)
   const wagePeriod = ref<PayPeriod>('week')
   const couple = ref<YesNo | null>(null)
   const teens = ref(0)
   const youngestUnderFive = ref<YesNo | null>(null)
 
-  // null is unanswered, 'none' is My language isn't listed, otherwise the
-  // census name, which the scores are keyed on
+  // adding or taking away adults on step 1 adds or drops their rows, keeping
+  // what the others already answered
+  watch(
+    adults,
+    (count) => {
+      incomes.value = Array.from(
+        { length: count },
+        (_, index) => incomes.value[index] ?? blankAdult(),
+      )
+    },
+    { flush: 'sync' },
+  )
+
+  // parenting payment and family tax benefit need children, so taking the
+  // children off step 1 clears them and asks again
+  watch(
+    children,
+    (count) => {
+      if (count > 0) return
+      familyTax.value = null
+      incomes.value = incomes.value.map((income) =>
+        income.payment === 'parenting' ? { ...income, payment: null } : income,
+      )
+    },
+    { flush: 'sync' },
+  )
+
+  // null is unanswered, 'none' is My language isn't listed, English counts as
+  // an answer but not a community, otherwise the census name the scores use
   const communityLanguage = ref<string | null>(null)
   // the data team's name for a language found by searching, to show it back
   const communityLanguageLabel = ref<string | null>(null)
@@ -67,8 +96,8 @@ export const useAnswersStore = defineStore('answers', () => {
   const budget = computed(() =>
     estimateBudget({
       source: incomeSource.value,
-      payments: payments.value,
-      otherPaymentFortnight: otherPaymentFortnight.value,
+      incomes: incomes.value,
+      familyTax: familyTax.value,
       wageAmount: wageAmount.value,
       wagePeriod: wagePeriod.value,
       adults: adults.value,
@@ -84,8 +113,12 @@ export const useAnswersStore = defineStore('answers', () => {
 
   const home = computed(() => homeRequest(bedrooms.value, homeType.value))
 
+  // almost everyone speaks English, so it can't point to a community and is
+  // scored like My language isn't listed
   const censusLanguage = computed(() =>
-    communityLanguage.value === 'none' ? null : communityLanguage.value,
+    communityLanguage.value === 'none' || communityLanguage.value === ENGLISH
+      ? null
+      : communityLanguage.value,
   )
 
   // anything moved off its default. Clear my details only shows once this is
@@ -97,8 +130,8 @@ export const useAnswersStore = defineStore('answers', () => {
       chosenBedrooms.value !== null ||
       homeType.value !== 'either' ||
       incomeSource.value !== null ||
-      payments.value.length > 0 ||
-      otherPaymentFortnight.value !== null ||
+      incomes.value.some((income) => income.payment !== null || income.otherFortnight !== null) ||
+      familyTax.value !== null ||
       wageAmount.value !== null ||
       wagePeriod.value !== 'week' ||
       couple.value !== null ||
@@ -135,8 +168,8 @@ export const useAnswersStore = defineStore('answers', () => {
     chosenBedrooms.value = null
     homeType.value = 'either'
     incomeSource.value = null
-    payments.value = []
-    otherPaymentFortnight.value = null
+    incomes.value = [blankAdult()]
+    familyTax.value = null
     wageAmount.value = null
     wagePeriod.value = 'week'
     couple.value = null
@@ -155,8 +188,8 @@ export const useAnswersStore = defineStore('answers', () => {
     chosenBedrooms,
     homeType,
     incomeSource,
-    payments,
-    otherPaymentFortnight,
+    incomes,
+    familyTax,
     wageAmount,
     wagePeriod,
     couple,

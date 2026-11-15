@@ -5,7 +5,7 @@ import { useRouter } from 'vue-router'
 import { CircleSlash, MessageCircle, Search } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
 import { useFormat } from '@/composables/useFormat'
-import { CENSUS_NAMES, COMMUNITY_LANGUAGES, COMMUNITY_NATIVE } from '@/data/languages'
+import { CENSUS_NAMES, COMMUNITY_LANGUAGES, COMMUNITY_NATIVE, ENGLISH } from '@/data/languages'
 import { loadLanguageIndex } from '@/services/appData'
 import type { ChoiceOption } from '@/types'
 import type { LanguageIndexEntry } from '@/types/scoring'
@@ -17,7 +17,9 @@ import RadioGroup from '@/components/ui/RadioGroup.vue'
    each in its own script first. everything else comes from the census data:
    a search over every language spoken in these suburbs, loaded when this step
    opens. "My language isn't listed" is a real answer, not an error, and just
-   means community drops out of the ranking */
+   means community drops out of the ranking. English isn't in the data, since
+   almost everyone speaks it, but the search still finds it so it doesn't look
+   like a bug. it counts the same as not listed */
 
 const { t } = useI18n()
 const { whole } = useFormat()
@@ -94,6 +96,12 @@ function toOption(entry: LanguageIndexEntry): ChoiceOption<string> {
   }
 }
 
+const englishMatches = computed(
+  () =>
+    folded.value.length >= MIN_QUERY &&
+    [ENGLISH, t('languages.english')].some((name) => fold(name).includes(folded.value)),
+)
+
 // a language picked from the search stays on screen after the search is cleared
 const searchOptions = computed<ChoiceOption<string>[]>(() => {
   const chosen = answers.communityLanguage
@@ -102,17 +110,28 @@ const searchOptions = computed<ChoiceOption<string>[]>(() => {
     const entry = index.value.find((item) => item.name === chosen)
     if (entry && !shown.includes(entry)) shown.unshift(entry)
   }
-  return shown.map(toOption)
+  const options = shown.map(toOption)
+  // English goes first, the way the most spoken language would
+  if (englishMatches.value || chosen === ENGLISH) {
+    options.unshift({
+      value: ENGLISH,
+      label: t('languages.english'),
+      hint: t('communityLanguage.englishHint'),
+      icon: MessageCircle,
+    })
+  }
+  return options
 })
 
 const status = computed(() => {
   if (indexState.value === 'loading') return t('communityLanguage.loading')
   if (folded.value.length < MIN_QUERY) return ''
-  if (matches.value.length === 0) return t('communityLanguage.noMatches')
-  if (matches.value.length > MAX_MATCHES) {
-    return t('communityLanguage.manyMatches', { shown: MAX_MATCHES, count: matches.value.length })
+  const count = matches.value.length + (englishMatches.value ? 1 : 0)
+  if (count === 0) return t('communityLanguage.noMatches')
+  if (count > MAX_MATCHES) {
+    return t('communityLanguage.manyMatches', { shown: MAX_MATCHES, count })
   }
-  return t('communityLanguage.matches', { count: matches.value.length }, matches.value.length)
+  return t('communityLanguage.matches', { count }, count)
 })
 
 // one answer whichever list it came from. the search keeps the data's own
@@ -139,7 +158,7 @@ const errors = computed(() => {
 function next() {
   submitted.value = true
   if (!answers.communityLanguage) return
-  router.push({ name: answers.communityLanguage === 'none' ? 'priorities' : 'community' })
+  router.push({ name: answers.censusLanguage ? 'community' : 'priorities' })
 }
 </script>
 
@@ -206,6 +225,9 @@ function next() {
           variant="card"
         />
       </div>
+      <p v-if="answers.communityLanguage === ENGLISH" class="note" aria-live="polite">
+        {{ t('communityLanguage.englishNote') }}
+      </p>
     </section>
 
     <RadioGroup

@@ -6,9 +6,12 @@ import {
   Baby,
   Briefcase,
   CalendarDays,
+  ChevronDown,
   CircleCheck,
   CirclePlus,
+  CircleSlash,
   CircleX,
+  Info,
   Landmark,
   Layers,
   Search,
@@ -18,13 +21,12 @@ import {
 import { useAnswersStore } from '@/stores/answers'
 import { CENSUS_NAMES } from '@/data/languages'
 import { useLanguageStore } from '@/stores/language'
-import { needsCoupleAnswer, parseMoney } from '@/services/budget'
+import { bothPartnersOnParenting, needsCoupleAnswer, parseMoney } from '@/services/budget'
 import { MAX_CHILDREN } from '@/services/household'
-import type { ChoiceOption, IncomeSource, PaymentType, PayPeriod, YesNo } from '@/types'
+import type { AdultPayment, ChoiceOption, IncomeSource, PayPeriod, YesNo } from '@/types'
 import StepLayout from '@/components/steps/StepLayout.vue'
 import BudgetCard from '@/components/steps/BudgetCard.vue'
 import RadioGroup from '@/components/ui/RadioGroup.vue'
-import CheckboxGroup from '@/components/ui/CheckboxGroup.vue'
 import BaseField from '@/components/ui/BaseField.vue'
 import NumberStepper from '@/components/ui/NumberStepper.vue'
 
@@ -33,7 +35,16 @@ import NumberStepper from '@/components/ui/NumberStepper.vue'
    have to plan around a wage (US 1.2). the budget updates as they answer
    (US 1.1). payments use real maximum rates, so a couple and family tax
    benefit each need one more answer, and those questions only show when
-   they change the figure */
+   they change the figure.
+
+   each adult on step 1 gets their own row, since people in one household
+   often get different payments. a person can only get one main payment, so
+   each row is one choice. family tax benefit is paid for the children, so
+   it's asked once. parenting payment and family tax benefit only show once
+   step 1 has children, with a line saying so when there are none.
+
+   help for pay that changes week to week opens under the pay question
+   rather than sitting in a hover tooltip, which phones can't show */
 
 const { t } = useI18n()
 const router = useRouter()
@@ -46,11 +57,13 @@ const sourceOptions = computed<ChoiceOption<IncomeSource>[]>(() => [
   { value: 'both', label: t('income.both'), icon: Layers },
 ])
 
-const paymentOptions = computed<ChoiceOption<PaymentType>[]>(() => [
-  { value: 'parenting', label: t('income.parenting'), icon: Baby },
+const paymentOptions = computed<ChoiceOption<AdultPayment>[]>(() => [
+  ...(answers.children > 0
+    ? [{ value: 'parenting' as const, label: t('income.parenting'), icon: Baby }]
+    : []),
   { value: 'jobseeker', label: t('income.jobseeker'), icon: Search },
-  { value: 'familyTax', label: t('income.familyTax'), icon: Users },
-  { value: 'other', label: t('income.other'), icon: CirclePlus },
+  { value: 'other', label: t('income.otherPayment'), icon: CirclePlus },
+  { value: 'none', label: t('income.noPayment'), icon: CircleSlash },
 ])
 
 const periodOptions = computed<ChoiceOption<PayPeriod>[]>(() => [
@@ -75,22 +88,16 @@ const usesPayments = computed(
 const usesWork = computed(() => answers.incomeSource === 'work' || answers.incomeSource === 'both')
 
 const askCouple = computed(() =>
-  needsCoupleAnswer({
-    source: answers.incomeSource,
-    payments: answers.payments,
-    otherPaymentFortnight: answers.otherPaymentFortnight,
-    wageAmount: answers.wageAmount,
-    wagePeriod: answers.wagePeriod,
-    adults: answers.adults,
-    children: answers.children,
-    couple: answers.couple,
-    teens: answers.teens,
-    youngestUnderFive: answers.youngestUnderFive,
-  }),
+  needsCoupleAnswer({ source: answers.incomeSource, adults: answers.adults }),
 )
-const askFamilyTax = computed(
-  () => usesPayments.value && answers.payments.includes('familyTax') && answers.children > 0,
-)
+
+const several = computed(() => answers.adults > 1)
+const askFamilyTax = computed(() => usesPayments.value && answers.children > 0)
+
+// "Adult 2" when there's more than one, so every question says who it's about
+function adultName(index: number) {
+  return t('income.adultN', { n: index + 1 })
+}
 
 // teens can't outnumber the children counted on step 1
 const teens = computed({
@@ -108,11 +115,13 @@ const period = computed<PayPeriod | null>({
 })
 
 // the fields hold what was typed, the store holds the number it means
-const otherText = ref(answers.otherPaymentFortnight?.toString() ?? '')
+const otherTexts = ref(answers.incomes.map((income) => income.otherFortnight?.toString() ?? ''))
 const wageText = ref(answers.wageAmount?.toString() ?? '')
-watch(otherText, (text) => {
-  answers.otherPaymentFortnight = parseMoney(text)
-})
+function setOther(index: number, text: string) {
+  otherTexts.value[index] = text
+  const income = answers.incomes[index]
+  if (income) income.otherFortnight = parseMoney(text)
+}
 watch(wageText, (text) => {
   answers.wageAmount = parseMoney(text)
 })
@@ -128,15 +137,29 @@ function validate(): Record<string, string> {
   const found: Record<string, string> = {}
   if (!answers.incomeSource) found['income-source-first'] = t('income.errors.source')
   if (usesPayments.value) {
-    if (answers.payments.length === 0) found['payments-first'] = t('income.errors.payments')
-    else if (answers.payments.includes('other') && answers.otherPaymentFortnight === null) {
-      found['other-amount'] = t('income.errors.other')
-    }
-    if (answers.payments.includes('familyTax') && answers.children === 0) {
-      found['payments-first'] ??= t('income.errors.familyTax')
-    }
     if (askCouple.value && answers.couple === null)
       found['couple-first'] = t('income.errors.couple')
+    answers.incomes.forEach((income, index) => {
+      const n = index + 1
+      if (income.payment === null) {
+        found[`adult-${n}-first`] = several.value
+          ? t('income.errors.adultPayment', { n })
+          : t('income.errors.yourPayment')
+      } else if (income.payment === 'other' && income.otherFortnight === null) {
+        found[`adult-${n}-other`] = several.value
+          ? t('income.errors.adultOther', { n })
+          : t('income.errors.other')
+      }
+    })
+    if (bothPartnersOnParenting(answers)) found['adult-2-first'] ??= t('income.errors.twoParenting')
+    if (askFamilyTax.value && answers.familyTax === null) {
+      found['family-tax-first'] = t('income.errors.familyTax')
+    }
+    const answered = answers.incomes.every((income) => income.payment !== null)
+    const gets = answers.incomes.some((income) => income.payment !== 'none')
+    if (answered && !gets && answers.familyTax !== 'yes' && !found['family-tax-first']) {
+      found['adult-1-first'] = t('income.errors.noPayments')
+    }
   }
   if (usesWork.value && answers.wageAmount === null) found['wage-amount'] = t('income.errors.wage')
   return found
@@ -151,8 +174,7 @@ function next() {
   if (!answers.communityLanguage && language.current.community) {
     answers.communityLanguage = CENSUS_NAMES[language.current.community]
   }
-  const knowsLanguage = answers.communityLanguage && answers.communityLanguage !== 'none'
-  router.push({ name: knowsLanguage ? 'community' : 'community-language' })
+  router.push({ name: answers.censusLanguage ? 'community' : 'community-language' })
 }
 </script>
 
@@ -169,16 +191,6 @@ function next() {
     />
 
     <template v-if="usesPayments">
-      <CheckboxGroup
-        id="payments"
-        v-model="answers.payments"
-        :options="paymentOptions"
-        :legend="t('income.whichPayments')"
-        :hint="t('income.paymentsHint')"
-        :error="errors['payments-first']"
-        legend-tag="h2"
-        :columns="2"
-      />
       <RadioGroup
         v-if="askCouple"
         id="couple"
@@ -190,7 +202,53 @@ function next() {
         legend-tag="h2"
         :columns="2"
       />
+
+      <div v-if="several" class="income__adults-head">
+        <h2 class="legend-heading">{{ t('income.eachAdult') }}</h2>
+        <p class="field__hint">{{ t('income.eachAdultHint') }}</p>
+      </div>
+      <template v-for="(income, index) in answers.incomes" :key="index">
+        <RadioGroup
+          :id="`adult-${index + 1}`"
+          v-model="income.payment"
+          :options="paymentOptions"
+          :legend="several ? adultName(index) : t('income.yourPayment')"
+          :hint="several ? undefined : t('income.paymentHint')"
+          :error="errors[`adult-${index + 1}-first`]"
+          :legend-tag="several ? 'span' : 'h2'"
+          :columns="2"
+        />
+        <BaseField
+          v-if="income.payment === 'other'"
+          :id="`adult-${index + 1}-other`"
+          :model-value="otherTexts[index] ?? ''"
+          :label="
+            several ? t('income.adultOtherAmount', { n: index + 1 }) : t('income.otherAmount')
+          "
+          :hint="t('income.otherHint')"
+          :error="errors[`adult-${index + 1}-other`]"
+          prefix="$"
+          inputmode="decimal"
+          @update:model-value="(text: string) => setOther(index, text)"
+        />
+      </template>
+      <p v-if="answers.children === 0" class="note income__child-note">
+        {{ t('income.childPaymentsNote') }}
+      </p>
+
       <template v-if="askFamilyTax">
+        <RadioGroup
+          id="family-tax"
+          v-model="answers.familyTax"
+          :options="yesNoOptions"
+          :legend="t('income.familyTaxQuestion')"
+          :hint="t('income.familyTaxHint')"
+          :error="errors['family-tax-first']"
+          legend-tag="h2"
+          :columns="2"
+        />
+      </template>
+      <template v-if="askFamilyTax && answers.familyTax === 'yes'">
         <NumberStepper
           id="teens"
           v-model="teens"
@@ -212,16 +270,6 @@ function next() {
           :columns="2"
         />
       </template>
-      <BaseField
-        v-if="answers.payments.includes('other')"
-        id="other-amount"
-        v-model="otherText"
-        :label="t('income.otherAmount')"
-        :hint="t('income.otherHint')"
-        :error="errors['other-amount']"
-        prefix="$"
-        inputmode="decimal"
-      />
     </template>
 
     <template v-if="usesWork">
@@ -234,6 +282,14 @@ function next() {
         prefix="$"
         inputmode="decimal"
       />
+      <details class="pay-help">
+        <summary>
+          <Info :size="20" aria-hidden="true" />
+          <span>{{ t('income.payChanges') }}</span>
+          <ChevronDown class="pay-help__chevron" :size="20" aria-hidden="true" />
+        </summary>
+        <p>{{ t('income.payChangesBody') }}</p>
+      </details>
       <RadioGroup
         id="wage-period"
         v-model="period"
@@ -248,3 +304,70 @@ function next() {
     <BudgetCard :budget="answers.budget" :uses-payments="usesPayments" />
   </StepLayout>
 </template>
+
+<style scoped>
+.income__adults-head {
+  margin-bottom: 0.75rem;
+}
+
+.income__adults-head .field__hint {
+  margin-bottom: 0;
+}
+
+.income__child-note {
+  margin-top: -0.5rem;
+}
+
+/* opens in place, so it works with a tap, a keyboard or a screen reader */
+.pay-help {
+  margin: -0.5rem 0 1.5rem;
+}
+
+.pay-help summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: var(--nr-target);
+  color: var(--nr-wine);
+  font-weight: 700;
+  cursor: pointer;
+  list-style: none;
+}
+
+.pay-help summary::-webkit-details-marker {
+  display: none;
+}
+
+.pay-help summary span {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.pay-help summary svg {
+  flex: none;
+  color: var(--nr-rust);
+}
+
+.pay-help__chevron {
+  transition: transform 0.15s ease;
+}
+
+.pay-help[open] .pay-help__chevron {
+  transform: rotate(180deg);
+}
+
+.pay-help p {
+  max-width: 36rem;
+  margin: 0.25rem 0 0;
+  padding: 0.85rem 1rem;
+  border-inline-start: 4px solid var(--nr-orange);
+  border-radius: var(--nr-radius-sm);
+  background: var(--nr-panel);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pay-help__chevron {
+    transition: none;
+  }
+}
+</style>

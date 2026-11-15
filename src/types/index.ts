@@ -2,7 +2,9 @@ import type { Component } from 'vue'
 
 export type HomeType = 'house' | 'flat' | 'either'
 export type IncomeSource = 'payments' | 'work' | 'both'
-export type PaymentType = 'parenting' | 'jobseeker' | 'familyTax' | 'other'
+// the main payment one adult gets. a person can only get one at a time.
+// Family Tax Benefit is paid for the children, so it's asked once per family
+export type AdultPayment = 'jobseeker' | 'parenting' | 'other' | 'none'
 export type PayPeriod = 'week' | 'fortnight' | 'month'
 export type Importance = 'not' | 'important' | 'very'
 export type BudgetStatus = 'within' | 'close' | 'above' | 'noData'
@@ -19,10 +21,18 @@ export type TopicName =
 // affordability isn't rated, suburbs within budget always come first (US 2.2)
 export type RatedTopic = Exclude<TopicName, 'Affordability'>
 
+export interface AdultIncome {
+  payment: AdultPayment | null
+  // for another payment, what it pays each fortnight
+  otherFortnight: number | null
+}
+
 export interface IncomeAnswers {
   source: IncomeSource | null
-  payments: PaymentType[]
-  otherPaymentFortnight: number | null
+  // one per adult on step 1, in order. a couple are adults 1 and 2
+  incomes: AdultIncome[]
+  // only asked when there are children
+  familyTax: YesNo | null
   wageAmount: number | null
   wagePeriod: PayPeriod
   adults: number

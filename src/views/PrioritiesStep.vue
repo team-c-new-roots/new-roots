@@ -60,7 +60,7 @@ const schoolNeed = computed<SchoolNeed | null>({
 
 // back to whichever language screen they came through
 const back = computed(() => ({
-  name: answers.communityLanguage === 'none' ? 'community-language' : 'community',
+  name: answers.censusLanguage ? 'community' : 'community-language',
 }))
 </script>
 

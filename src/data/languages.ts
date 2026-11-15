@@ -68,6 +68,10 @@ export const CENSUS_NAMES: Record<CommunityLanguage, string> = {
   dinka: 'Dinka',
 }
 
+// the census spelling. it's left out of the language files because almost
+// everyone speaks it, but people can still pick it on the language step
+export const ENGLISH = 'English'
+
 // the other way round, so a chosen census name finds its translated name
 export const QUICK_PICK_BY_CENSUS: Record<string, CommunityLanguage> = Object.fromEntries(
   Object.entries(CENSUS_NAMES).map(([key, name]) => [name, key as CommunityLanguage]),
