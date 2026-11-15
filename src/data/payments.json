@@ -1,0 +1,47 @@
+{
+  "ratesFrom": "2026-09-20",
+  "rates": {
+    "parenting": {
+      "single": 543.6,
+      "partnered": 381.5
+    },
+    "parentingEnergy": {
+      "single": 6.0,
+      "partnered": 3.95
+    },
+    "jobseeker": {
+      "singleNoChildren": 416.85,
+      "singleWithChildren": 446.4,
+      "partnered": 381.5
+    },
+    "jobseekerEnergy": {
+      "singleNoChildren": 4.4,
+      "singleWithChildren": 4.75,
+      "partnered": 3.95
+    },
+    "ftbA": {
+      "child0to12": 117.74,
+      "child13to19": 153.23
+    },
+    "ftbAEnergy": {
+      "child0to12": 1.75,
+      "child13to19": 2.24
+    },
+    "ftbB": {
+      "youngestUnder5": 100.17,
+      "youngest5to18": 69.93
+    },
+    "ftbBEnergy": {
+      "youngestUnder5": 1.4,
+      "youngest5to18": 0.98
+    },
+    "rentAssistance": {
+      "single": 111.9,
+      "couple": 105.5,
+      "singleFtb1to2": 131.53,
+      "singleFtb3plus": 148.68,
+      "coupleFtb1to2": 131.53,
+      "coupleFtb3plus": 148.68
+    }
+  }
+}

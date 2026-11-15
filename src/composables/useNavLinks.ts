@@ -18,7 +18,7 @@ export function useNavLinks() {
   const answers = useAnswersStore()
 
   return computed<NavLink[]>(() => [
-    { key: 'start', to: { name: 'intro' }, label: t('nav.start'), inHeader: false },
+    { key: 'intro', to: { name: 'intro' }, label: t('nav.intro'), inHeader: false },
     answers.incomeDone
       ? { key: 'results', to: { name: 'results' }, label: t('nav.results'), inHeader: true }
       : { key: 'find', to: { name: 'household' }, label: t('nav.findSuburbs'), inHeader: true },

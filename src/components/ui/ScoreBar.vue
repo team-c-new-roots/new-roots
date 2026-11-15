@@ -1,33 +1,41 @@
 <script setup lang="ts">
+import type { Component } from 'vue'
 import { useI18n } from 'vue-i18n'
 
 /* one row of "why it ranks here". the bar is decoration, the number is the
    information, and a screen reader hears "92 out of 100" rather than "92".
-   when a topic isn't counted the row says why instead of showing a bar */
+   a topic that isn't counted still shows its score, with the reason under
+   the bar so a low number never looks like it pulled the match down */
 
 defineProps<{
   label: string
   score: number | null
   // why it isn't counted, when it isn't
   note?: string
+  icon?: Component
+  // tighter rows for the map panel, so all seven fit beside the map
+  compact?: boolean
 }>()
 
 const { t } = useI18n()
 </script>
 
 <template>
-  <div class="score">
-    <dt class="score__label">{{ label }}</dt>
-    <dd v-if="note" class="score__note">{{ note }}</dd>
-    <template v-else-if="score !== null">
+  <div class="score" :class="{ 'score--compact': compact }">
+    <dt class="score__label">
+      <component :is="icon" v-if="icon" :size="20" class="score__icon" aria-hidden="true" />
+      {{ label }}
+    </dt>
+    <template v-if="score !== null">
       <dd class="score__value">
         <span aria-hidden="true">{{ score }}</span>
         <span class="visually-hidden">{{ t('suburb.scoreOutOf', { score }) }}</span>
       </dd>
-      <dd class="score__track" aria-hidden="true">
+      <dd class="score__track" :class="{ 'score__track--muted': note }" aria-hidden="true">
         <span class="score__fill" :style="{ inlineSize: `${score}%` }"></span>
       </dd>
     </template>
+    <dd v-if="note" class="score__note">{{ note }}</dd>
   </div>
 </template>
 
@@ -41,7 +49,15 @@ const { t } = useI18n()
 }
 
 .score__label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   font-size: 1.0625rem;
+}
+
+.score__icon {
+  flex: none;
+  color: var(--nr-rust);
 }
 
 .score__value {
@@ -72,5 +88,23 @@ const { t } = useI18n()
   height: 100%;
   border-radius: var(--nr-radius-pill);
   background: var(--nr-wine);
+}
+
+/* not counted, so the bar steps back and the note says why */
+.score__track--muted .score__fill {
+  background: var(--nr-ink-muted);
+}
+
+.score--compact {
+  padding-block: 0.3rem;
+}
+
+.score--compact .score__label,
+.score--compact .score__value {
+  font-size: 1rem;
+}
+
+.score--compact .score__note {
+  font-size: 0.875rem;
 }
 </style>

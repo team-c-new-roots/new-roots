@@ -1,44 +1,41 @@
 import { describe, expect, it } from 'vitest'
-import { medianFor, suggestBedrooms } from '../household'
+import { homeRequest, suggestBedrooms } from '../household'
 
 describe('suggestBedrooms', () => {
-  it('suggests 4 bedrooms for 2 adults and 5 children, like the wireframe', () => {
-    expect(suggestBedrooms(2, 5)).toBe(4)
-  })
-
-  it('gives a single adult one bedroom', () => {
+  it('pairs adults and children up, two to a room', () => {
     expect(suggestBedrooms(1, 0)).toBe(1)
-  })
-
-  it('stops at 5, which the chips show as 5+', () => {
-    expect(suggestBedrooms(4, 8)).toBe(5)
+    expect(suggestBedrooms(2, 5)).toBe(4)
+    expect(suggestBedrooms(2, 9)).toBe(5)
   })
 })
 
-describe('medianFor', () => {
-  const rents = { flat1: 340, flat2: 400, house2: 430, house3: 470, house4: 540 }
-
-  it('picks the figure for the home type asked for', () => {
-    expect(medianFor(rents, 4, 'house')).toEqual({
-      median: 540,
-      home: { type: 'house', bedrooms: 4 },
-    })
-    expect(medianFor(rents, 2, 'flat')?.median).toBe(400)
+describe('homeRequest', () => {
+  it('passes a home the rental report publishes straight through', () => {
+    const home = homeRequest(2, 'flat')
+    expect(home.request).toEqual({ bedrooms: 2, dwelling_type: 'flat' })
+    expect(home.note).toBe('none')
+    expect(home.rentMetric).toBe('rent_2br_flat')
   })
 
-  it('takes the cheaper of flat and house for either', () => {
-    expect(medianFor(rents, 2, 'either')?.home).toEqual({ type: 'flat', bedrooms: 2 })
+  it('moves a 1-bed house to the 2-bed figures and says so (US 2.1)', () => {
+    const home = homeRequest(1, 'house')
+    expect(home.request.bedrooms).toBe(2)
+    expect(home.figures).toEqual({ type: 'house', bedrooms: 2 })
+    expect(home.note).toBe('houseOneBed')
   })
 
-  it('uses the 4 bed house figure for 5 or more bedrooms', () => {
-    expect(medianFor(rents, 5, 'house')?.median).toBe(540)
+  it('caps flats at 3 bedrooms, the largest the data covers', () => {
+    const home = homeRequest(4, 'flat')
+    expect(home.request).toEqual({ bedrooms: 3, dwelling_type: 'flat' })
+    expect(home.note).toBe('flatLarge')
+    expect(home.rentMetric).toBe('rent_3br_flat')
   })
 
-  it('has nothing for a flat bigger than the report covers', () => {
-    expect(medianFor(rents, 4, 'flat')).toBeNull()
-  })
-
-  it('returns nothing when a suburb has no rent data', () => {
-    expect(medianFor(null, 2, 'either')).toBeNull()
+  it('uses the 4-bed figures for 5 or more and notes bigger homes cost more', () => {
+    const home = homeRequest(5, 'either')
+    expect(home.request).toEqual({ bedrooms: 4, dwelling_type: 'both' })
+    expect(home.asked.bedrooms).toBe(5)
+    expect(home.note).toBe('fivePlus')
+    expect(home.rentMetric).toBe('rent_4br_house')
   })
 })

@@ -3,15 +3,26 @@ import { onMounted, ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { Check, Lock, X } from '@lucide/vue'
 import { useFlash } from '@/composables/useFlash'
+import photo640 from '@/assets/brand/intro-640.webp'
+import photo960 from '@/assets/brand/intro-960.webp'
+import photo1200 from '@/assets/brand/intro-1200.webp'
+import photo640Avif from '@/assets/brand/intro-640.avif'
+import photo960Avif from '@/assets/brand/intro-960.avif'
+import photo1200Avif from '@/assets/brand/intro-1200.avif'
 
-/* sets expectations before any questions (US-15): what New Roots does, what
-   it doesn't, and that nothing is saved (US-7). the wireframe had Start and
-   Skip intro, which both led to step 1. the second link points at support
-   instead, for someone who needs help today rather than a suburb list */
+/* sets expectations before any questions (US 6.1): what New Roots does, what
+   it doesn't, and that nothing is saved (US 6.2). it's one short screen with
+   Start already in view, so there's no skip link. the support link is for
+   someone who needs help today rather than a suburb list */
 
 const { t } = useI18n()
 const { take } = useFlash()
 const cleared = ref(false)
+
+// decoration, so alt is empty. the column is never wider than 36rem
+const photoWebp = `${photo640} 640w, ${photo960} 960w, ${photo1200} 1200w`
+const photoAvif = `${photo640Avif} 640w, ${photo960Avif} 960w, ${photo1200Avif} 1200w`
+const photoSizes = '(min-width: 40rem) 36rem, calc(100vw - 2rem)'
 
 onMounted(() => {
   cleared.value = take() === 'cleared'
@@ -25,18 +36,20 @@ onMounted(() => {
       {{ t('app.cleared') }}
     </p>
 
-    <div class="intro__art" aria-hidden="true">
-      <span class="intro__dot intro__dot--a"></span>
-      <span class="intro__dot intro__dot--b"></span>
-      <span class="intro__dot intro__dot--c"></span>
-      <span class="intro__dot intro__dot--d"></span>
-      <span class="intro__house">
-        <span class="intro__leaf intro__leaf--left"></span>
-        <span class="intro__leaf intro__leaf--right"></span>
-        <span class="intro__roof"></span>
-        <span class="intro__walls"></span>
-      </span>
-    </div>
+    <picture>
+      <source type="image/avif" :srcset="photoAvif" :sizes="photoSizes" />
+      <img
+        class="intro__photo"
+        :src="photo960"
+        :srcset="photoWebp"
+        :sizes="photoSizes"
+        alt=""
+        width="1200"
+        height="600"
+        fetchpriority="high"
+        decoding="async"
+      />
+    </picture>
 
     <h1>{{ t('intro.heading') }}</h1>
     <p class="lead">{{ t('intro.lead') }}</p>
@@ -87,93 +100,16 @@ onMounted(() => {
   font-weight: 700;
 }
 
-/* a drawn house rather than an image file: no download, and it's decoration only */
-.intro__art {
-  position: relative;
-  height: 9.5rem;
+/* rounded here rather than in the file, so the corners match the panels */
+.intro__photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2 / 1;
+  object-fit: cover;
   margin-bottom: 1.5rem;
   border-radius: var(--nr-radius-lg);
   background: var(--nr-apricot);
-  overflow: hidden;
-}
-
-.intro__dot {
-  position: absolute;
-  border-radius: 50%;
-  background: var(--nr-orange);
-}
-
-.intro__dot--a {
-  width: 1.4rem;
-  height: 1.4rem;
-  inset-inline-start: 12%;
-  top: 22%;
-}
-
-.intro__dot--b {
-  width: 0.9rem;
-  height: 0.9rem;
-  inset-inline-start: 22%;
-  bottom: 18%;
-}
-
-.intro__dot--c {
-  width: 0.9rem;
-  height: 0.9rem;
-  inset-inline-end: 20%;
-  top: 18%;
-}
-
-.intro__dot--d {
-  width: 1.8rem;
-  height: 1.8rem;
-  inset-inline-end: 12%;
-  bottom: 22%;
-}
-
-.intro__house {
-  position: absolute;
-  left: 50%;
-  bottom: 1rem;
-  width: 8rem;
-  height: 7.5rem;
-  transform: translateX(-50%);
-}
-
-.intro__roof {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 1.25rem;
-  height: 2.6rem;
-  background: var(--nr-rust);
-  clip-path: polygon(50% 0, 100% 100%, 0 100%);
-}
-
-.intro__walls {
-  position: absolute;
-  left: 1rem;
-  right: 1rem;
-  top: 3.85rem;
-  bottom: 0;
-  background: var(--nr-orange);
-}
-
-.intro__leaf {
-  position: absolute;
-  top: 0.4rem;
-  width: 1.9rem;
-  height: 1.1rem;
-  border-radius: 50%;
-  background: var(--nr-orange);
-}
-
-.intro__leaf--left {
-  left: calc(50% - 1.9rem);
-}
-
-.intro__leaf--right {
-  left: 50%;
 }
 
 .intro__subhead {

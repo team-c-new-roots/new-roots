@@ -24,6 +24,8 @@ export const i18n = createI18n({
       },
       percent: { style: 'percent', maximumFractionDigits: 1 },
       km: { style: 'unit', unit: 'kilometer', unitDisplay: 'short', maximumFractionDigits: 1 },
+      decimal: { maximumFractionDigits: 1 },
+      whole: { maximumFractionDigits: 0 },
     },
   },
   datetimeFormats: {

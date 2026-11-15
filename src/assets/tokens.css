@@ -32,9 +32,11 @@
 
   /* map ramp, weaker match to stronger. labels sit on a cream pill so text
      contrast never depends on the fill underneath */
-  --nr-map-1: #fffaf5;
-  --nr-map-2: #fce5d2;
-  --nr-map-3: #e9843e;
+  /* the match ramp stops short of white, so a weak match never reads as
+     "no score", which is the one thing white means on the map */
+  --nr-map-1: #f3d2b5;
+  --nr-map-2: #eaa673;
+  --nr-map-3: #d9732e;
   --nr-map-4: #a14c25;
   --nr-map-5: #7b282b;
   --nr-map-line: #302622;
@@ -56,6 +58,9 @@
      and the phone already has fonts for Dari, Farsi, Arabic and Pashto */
   --nr-font:
     system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans', 'Helvetica Neue', Arial, sans-serif;
+
+  /* the sticky header: 68px of controls plus the 4px rust line */
+  --nr-header-height: 4.5rem;
 
   --nr-measure: 36rem;
   --nr-page: 72rem;

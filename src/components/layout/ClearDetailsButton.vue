@@ -3,6 +3,7 @@ import { ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
 import { useAnswersStore } from '@/stores/answers'
+import { useResultsStore } from '@/stores/results'
 import { useFlash } from '@/composables/useFlash'
 import ConfirmDialog from '@/components/ui/ConfirmDialog.vue'
 
@@ -21,11 +22,14 @@ const emit = defineEmits<{ cleared: [] }>()
 const { t } = useI18n()
 const router = useRouter()
 const answers = useAnswersStore()
+const results = useResultsStore()
 const { set } = useFlash()
 const dialog = ref<InstanceType<typeof ConfirmDialog> | null>(null)
 
 function clearAll() {
   answers.clear()
+  // the last ranking was worked out from those answers, so it goes too
+  results.reset()
   set('cleared')
   emit('cleared')
   router.push({ name: 'intro' })

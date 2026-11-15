@@ -1,57 +1,53 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
-import { ChevronRight, Printer } from '@lucide/vue'
+import { ChevronRight } from '@lucide/vue'
 import { useFormat } from '@/composables/useFormat'
-import type { HomeType, RankedSuburb } from '@/types'
+import { useSuburbFacts } from '@/composables/useSuburbFacts'
+import type { HomeLabel } from '@/types'
+import type { SuburbResult } from '@/services/results'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
-import SampleBadge from '@/components/ui/SampleBadge.vue'
-import ClearDetailsButton from '@/components/layout/ClearDetailsButton.vue'
 
 /* when no suburb's median rent fits, say so plainly and show how far over the
-   closest ones are, rather than an empty list. then point at the help that
-   sits outside the rent data, like rooms in share houses. it keeps the same
-   Print summary and Clear my details bar as the results list, since it's the
-   same screen with nothing to rank */
+   closest ones are. then point at the help that sits outside the rent data,
+   like rooms in share houses. it sits at the top of the results page, and the
+   full list and map follow underneath, so nothing is hidden */
 
 defineProps<{
-  closest: RankedSuburb[]
+  closest: SuburbResult[]
   budget: number
-  bedrooms: number
-  homeType: HomeType
+  // the home the rent figures describe
+  home: HomeLabel
 }>()
 
 const { t } = useI18n()
-const { money, home } = useFormat()
+const { money, home: homeName } = useFormat()
+const { homeFor, estimateLine } = useSuburbFacts()
 </script>
 
 <template>
-  <div class="page page--narrow nothing-fits">
-    <h1>{{ t('nothingFits.title') }}</h1>
+  <section class="nothing-fits" aria-labelledby="closest-heading">
     <p class="lead">
-      {{
-        t('nothingFits.lead', {
-          home: home({ type: homeType, bedrooms }),
-          budget: money(budget),
-        })
-      }}
+      {{ t('nothingFits.lead', { home: homeName(home), budget: money(budget) }) }}
     </p>
 
-    <h2>{{ t('nothingFits.closest') }}</h2>
+    <h2 id="closest-heading">{{ t('nothingFits.closest') }}</h2>
     <ul class="nothing-fits__list">
-      <li v-for="item in closest" :key="item.suburb.id" class="nothing-fits__item">
+      <li v-for="item in closest" :key="item.id" class="nothing-fits__item">
         <div>
-          <RouterLink
-            :to="{ name: 'suburb', params: { id: item.suburb.id } }"
-            class="nothing-fits__name"
-          >
-            {{ item.suburb.name }}
+          <RouterLink :to="{ name: 'suburb', params: { id: item.id } }" class="nothing-fits__name">
+            {{ item.name }}
           </RouterLink>
-          <p v-if="item.home && item.median !== null" class="nothing-fits__median">
-            {{ t('nothingFits.median', { home: home(item.home), amount: money(item.median) }) }}
+          <p v-if="item.rent !== null" class="nothing-fits__median">
+            {{
+              t('nothingFits.median', { home: homeName(homeFor(item)), amount: money(item.rent) })
+            }}
+            <small v-if="estimateLine(item)" class="nothing-fits__estimate">{{
+              estimateLine(item)
+            }}</small>
           </p>
         </div>
-        <span v-if="item.difference !== null" class="badge badge--over">
-          {{ t('status.overBy', { amount: money(item.difference) }) }}
+        <span v-if="item.overBy !== null" class="badge badge--above">
+          {{ t('status.overBy', { amount: money(item.overBy) }) }}
         </span>
       </li>
     </ul>
@@ -75,20 +71,15 @@ const { money, home } = useFormat()
         </RouterLink>
       </li>
     </ul>
-
-    <SampleBadge />
-
-    <div class="action-bar">
-      <RouterLink :to="{ name: 'summary' }" class="btn btn--accent">
-        <Printer :size="20" aria-hidden="true" />
-        {{ t('results.print') }}
-      </RouterLink>
-      <ClearDetailsButton />
-    </div>
-  </div>
+  </section>
 </template>
 
 <style scoped>
+.nothing-fits {
+  max-width: 48rem;
+  margin-bottom: 1.5rem;
+}
+
 .nothing-fits h2 {
   margin-top: 1.75rem;
 }
@@ -118,6 +109,11 @@ const { money, home } = useFormat()
   color: var(--nr-wine);
   font-size: 1.25rem;
   font-weight: 700;
+}
+
+.nothing-fits__estimate {
+  display: block;
+  font-size: 0.875rem;
 }
 
 .nothing-fits__median {

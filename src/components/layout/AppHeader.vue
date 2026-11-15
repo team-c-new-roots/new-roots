@@ -73,7 +73,15 @@ const markSrcset = `${mark1x} 1x, ${mark2x} 2x, ${mark3x} 3x`
 </template>
 
 <style scoped>
+/* sticky for two reasons. the menu, language and clear buttons stay in reach
+   on long pages, and Safari 26 on iPhone ignores theme-color and tints the
+   status bar from a fixed or sticky bar at the top, so this is what turns
+   the time and battery area wine. no backdrop blur here, it stops Safari
+   sampling the colour */
 .app-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
   background: var(--nr-wine);
   color: var(--nr-cream);
   border-bottom: 4px solid var(--nr-rust);

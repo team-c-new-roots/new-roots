@@ -1,27 +1,26 @@
-import { computed, reactive, ref } from 'vue'
+import { computed, reactive, ref, watch } from 'vue'
 import { defineStore } from 'pinia'
 import type {
-  CommunityLanguage,
+  AdultIncome,
   HomeType,
   Importance,
   IncomeSource,
-  PaymentType,
   PayPeriod,
-  Topic,
+  RatedTopic,
+  SchoolNeed,
+  YesNo,
 } from '@/types'
-import { estimateBudget } from '@/services/budget'
-import { suggestBedrooms } from '@/services/household'
+import { blankAdult, estimateBudget } from '@/services/budget'
+import { homeRequest, suggestBedrooms } from '@/services/household'
+import { DEFAULT_IMPORTANCE } from '@/data/topics'
+import { ENGLISH } from '@/data/languages'
 
 /* everything someone tells New Roots lives here and only here. memory only,
    never localStorage or sessionStorage, so closing the tab really does
    forget it. on a shared phone that matters more than surviving a refresh */
 
-const DEFAULT_IMPORTANCE: Record<Topic, Importance> = {
-  community: 'important',
-  essentials: 'important',
-  // reported crime starts at Not important, from the ethics canvas
-  crime: 'not',
-}
+// US 2.4, the summary holds up to three suburbs
+export const SHORTLIST_MAX = 3
 
 export const useAnswersStore = defineStore('answers', () => {
   const adults = ref(1)
@@ -31,14 +30,50 @@ export const useAnswersStore = defineStore('answers', () => {
   const homeType = ref<HomeType>('either')
 
   const incomeSource = ref<IncomeSource | null>(null)
-  const payments = ref<PaymentType[]>([])
-  const otherPaymentFortnight = ref<number | null>(null)
+  // what each adult gets from Centrelink, one row per adult on step 1
+  const incomes = ref<AdultIncome[]>([blankAdult()])
+  const familyTax = ref<YesNo | null>(null)
   const wageAmount = ref<number | null>(null)
   const wagePeriod = ref<PayPeriod>('week')
+  const couple = ref<YesNo | null>(null)
+  const teens = ref(0)
+  const youngestUnderFive = ref<YesNo | null>(null)
 
-  // null is unanswered, 'none' is My language isn't listed
-  const communityLanguage = ref<CommunityLanguage | 'none' | null>(null)
-  const importance = reactive<Record<Topic, Importance>>({ ...DEFAULT_IMPORTANCE })
+  // adding or taking away adults on step 1 adds or drops their rows, keeping
+  // what the others already answered
+  watch(
+    adults,
+    (count) => {
+      incomes.value = Array.from(
+        { length: count },
+        (_, index) => incomes.value[index] ?? blankAdult(),
+      )
+    },
+    { flush: 'sync' },
+  )
+
+  // parenting payment and family tax benefit need children, so taking the
+  // children off step 1 clears them and asks again
+  watch(
+    children,
+    (count) => {
+      if (count > 0) return
+      familyTax.value = null
+      incomes.value = incomes.value.map((income) =>
+        income.payment === 'parenting' ? { ...income, payment: null } : income,
+      )
+    },
+    { flush: 'sync' },
+  )
+
+  // null is unanswered, 'none' is My language isn't listed, English counts as
+  // an answer but not a community, otherwise the census name the scores use
+  const communityLanguage = ref<string | null>(null)
+  // the data team's name for a language found by searching, to show it back
+  const communityLanguageLabel = ref<string | null>(null)
+  const importance = reactive<Record<RatedTopic, Importance>>({ ...DEFAULT_IMPORTANCE })
+  // null means follow the default, which depends on whether there are children
+  const chosenSchoolNeed = ref<SchoolNeed | null>(null)
 
   const shortlist = ref<string[]>([])
 
@@ -51,19 +86,40 @@ export const useAnswersStore = defineStore('answers', () => {
     },
   })
 
+  const schoolNeed = computed({
+    get: (): SchoolNeed => chosenSchoolNeed.value ?? (children.value > 0 ? 'both' : 'none'),
+    set: (value: SchoolNeed) => {
+      chosenSchoolNeed.value = value
+    },
+  })
+
   const budget = computed(() =>
     estimateBudget({
       source: incomeSource.value,
-      payments: payments.value,
-      otherPaymentFortnight: otherPaymentFortnight.value,
+      incomes: incomes.value,
+      familyTax: familyTax.value,
       wageAmount: wageAmount.value,
       wagePeriod: wagePeriod.value,
+      adults: adults.value,
       children: children.value,
+      couple: couple.value,
+      teens: teens.value,
+      youngestUnderFive: youngestUnderFive.value,
     }),
   )
 
   // the results only make sense once there's a budget
   const incomeDone = computed(() => budget.value !== null)
+
+  const home = computed(() => homeRequest(bedrooms.value, homeType.value))
+
+  // almost everyone speaks English, so it can't point to a community and is
+  // scored like My language isn't listed
+  const censusLanguage = computed(() =>
+    communityLanguage.value === 'none' || communityLanguage.value === ENGLISH
+      ? null
+      : communityLanguage.value,
+  )
 
   // anything moved off its default. Clear my details only shows once this is
   // true, on every screen size, so there's never a button that clears nothing
@@ -74,29 +130,36 @@ export const useAnswersStore = defineStore('answers', () => {
       chosenBedrooms.value !== null ||
       homeType.value !== 'either' ||
       incomeSource.value !== null ||
-      payments.value.length > 0 ||
-      otherPaymentFortnight.value !== null ||
+      incomes.value.some((income) => income.payment !== null || income.otherFortnight !== null) ||
+      familyTax.value !== null ||
       wageAmount.value !== null ||
       wagePeriod.value !== 'week' ||
+      couple.value !== null ||
+      teens.value !== 0 ||
+      youngestUnderFive.value !== null ||
       communityLanguage.value !== null ||
+      chosenSchoolNeed.value !== null ||
       shortlist.value.length > 0 ||
-      (Object.keys(DEFAULT_IMPORTANCE) as Topic[]).some(
+      (Object.keys(DEFAULT_IMPORTANCE) as RatedTopic[]).some(
         (topic) => importance[topic] !== DEFAULT_IMPORTANCE[topic],
       ),
-  )
-
-  const rankingLanguage = computed<CommunityLanguage | null>(() =>
-    communityLanguage.value === 'none' ? null : communityLanguage.value,
   )
 
   function isShortlisted(id: string) {
     return shortlist.value.includes(id)
   }
 
-  function toggleShortlist(id: string) {
-    shortlist.value = isShortlisted(id)
-      ? shortlist.value.filter((item) => item !== id)
-      : [...shortlist.value, id]
+  const shortlistFull = computed(() => shortlist.value.length >= SHORTLIST_MAX)
+
+  // returns false when the summary is already full, so the caller can say why
+  function toggleShortlist(id: string): boolean {
+    if (isShortlisted(id)) {
+      shortlist.value = shortlist.value.filter((item) => item !== id)
+      return true
+    }
+    if (shortlistFull.value) return false
+    shortlist.value = [...shortlist.value, id]
+    return true
   }
 
   function clear() {
@@ -105,12 +168,17 @@ export const useAnswersStore = defineStore('answers', () => {
     chosenBedrooms.value = null
     homeType.value = 'either'
     incomeSource.value = null
-    payments.value = []
-    otherPaymentFortnight.value = null
+    incomes.value = [blankAdult()]
+    familyTax.value = null
     wageAmount.value = null
     wagePeriod.value = 'week'
+    couple.value = null
+    teens.value = 0
+    youngestUnderFive.value = null
     communityLanguage.value = null
+    communityLanguageLabel.value = null
     Object.assign(importance, DEFAULT_IMPORTANCE)
+    chosenSchoolNeed.value = null
     shortlist.value = []
   }
 
@@ -120,20 +188,28 @@ export const useAnswersStore = defineStore('answers', () => {
     chosenBedrooms,
     homeType,
     incomeSource,
-    payments,
-    otherPaymentFortnight,
+    incomes,
+    familyTax,
     wageAmount,
     wagePeriod,
+    couple,
+    teens,
+    youngestUnderFive,
     communityLanguage,
+    communityLanguageLabel,
     importance,
+    chosenSchoolNeed,
     shortlist,
     people,
     suggestedBedrooms,
     bedrooms,
+    schoolNeed,
     budget,
     incomeDone,
+    home,
+    censusLanguage,
     hasAnswers,
-    rankingLanguage,
+    shortlistFull,
     isShortlisted,
     toggleShortlist,
     clear,

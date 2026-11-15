@@ -106,7 +106,8 @@ const router = createRouter({
   ],
   scrollBehavior(to, _from, savedPosition) {
     if (savedPosition) return savedPosition
-    if (to.hash) return { el: to.hash, top: 16 }
+    // clear of the sticky header (72px) with a little room above
+    if (to.hash) return { el: to.hash, top: 96 }
     return { top: 0 }
   },
 })

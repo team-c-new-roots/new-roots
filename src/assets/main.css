@@ -6,7 +6,12 @@
   box-sizing: border-box;
 }
 
+/* apricot behind everything, so bouncing past the footer on a phone shows
+   footer colour instead of a cream strip. scroll-padding-top keeps focused
+   fields and #links clear of the sticky header */
 html {
+  background-color: var(--nr-apricot);
+  scroll-padding-top: calc(var(--nr-header-height) + 1rem);
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
@@ -30,7 +35,9 @@ body {
   font-size: 1rem;
   line-height: 1.5;
   color: var(--nr-ink);
-  background: var(--nr-surface);
+  /* apricot as well, because Safari 26 tints the strip under its bottom
+     address bar from the body colour. main paints the cream page instead */
+  background: var(--nr-apricot);
   -webkit-font-smoothing: antialiased;
 }
 
@@ -131,6 +138,7 @@ main:focus {
 .app-main {
   flex: 1;
   padding-block: 1.5rem 3rem;
+  background: var(--nr-surface);
 }
 
 .page {
@@ -305,7 +313,7 @@ main:focus {
 }
 
 .badge--close,
-.badge--over {
+.badge--above {
   background: var(--nr-surface-raised);
   color: var(--nr-rust);
 }
@@ -313,12 +321,6 @@ main:focus {
 .badge--nodata {
   background: var(--nr-surface-raised);
   color: var(--nr-ink-muted);
-}
-
-.badge--sample {
-  background: var(--nr-orange);
-  color: var(--nr-espresso);
-  font-size: 0.8125rem;
 }
 
 /* forms */
@@ -405,9 +407,19 @@ legend {
   padding: 0;
 }
 
+/* the space under a question is padding on the legend itself. safari drops
+   the bottom margin of anything inside a legend, which is why headings sat
+   right on top of their options on iphones */
+.choice-group > legend {
+  padding-bottom: 0.75rem;
+}
+
+.choice-group > legend > * {
+  margin: 0;
+}
+
 .legend-heading {
   display: block;
-  margin-bottom: 0.75rem;
   color: var(--nr-wine);
   font-size: 1.125rem;
   font-weight: 700;
@@ -481,18 +493,86 @@ legend {
   flex-direction: column;
 }
 
+.legend-icon {
+  margin-inline-end: 0.45rem;
+  vertical-align: -0.2em;
+  color: var(--nr-rust);
+}
+
+/* the option's own icon, rust on apricot and cream once chosen */
+.choice__symbol {
+  flex: 0 0 auto;
+  color: var(--nr-rust);
+}
+
+.choice__input:checked + .choice__body .choice__symbol {
+  color: inherit;
+}
+
 .choice__hint {
   font-size: 0.875rem;
   font-weight: 400;
 }
 
-/* tiles, the bedroom numbers */
-.choice-group--tile .choice__body {
+/* equal columns, set per question with the columns prop. rows line up
+   whatever the screen width, the font or which option is chosen, and a long
+   label wraps inside its own option instead of pushing others to a new row */
+.choice-group--cols-2 {
+  --choice-cols: 2;
+}
+
+.choice-group--cols-3 {
+  --choice-cols: 3;
+}
+
+.choice-group--cols-5 {
+  --choice-cols: 5;
+}
+
+.choice-group--grid .choice-group__options {
+  display: grid;
+  grid-template-columns: repeat(var(--choice-cols), minmax(0, 1fr));
+}
+
+.choice-group--grid .choice {
+  display: flex;
+}
+
+.choice-group--grid .choice__body {
+  flex: 1;
+  min-width: 0;
   justify-content: center;
+  padding-inline: 0.75rem;
+  text-align: center;
+  overflow-wrap: break-word;
+}
+
+.choice-group--grid .choice__text {
+  min-width: 0;
+}
+
+/* tiles, icon above the words, like a row of buttons. bedrooms, home type,
+   importance and pay period */
+.choice-group--tile .choice-group__options {
+  gap: 0.5rem;
+}
+
+.choice-group--tile .choice__body {
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.25rem;
   min-width: 3.5rem;
-  min-height: 3.5rem;
+  min-height: 4rem;
   padding: 0.5rem;
   border-radius: var(--nr-radius-sm);
+}
+
+.choice-group--tile .choice__text {
+  align-items: center;
+}
+
+/* the bedroom numbers read better big */
+.choice-group--numbers .choice__body {
   font-size: 1.25rem;
 }
 
@@ -526,6 +606,10 @@ legend {
   background: var(--nr-surface-raised);
   color: var(--nr-ink);
   border-color: var(--nr-wine);
+}
+
+.choice-group--card .choice__input:checked + .choice__body .choice__symbol {
+  color: var(--nr-rust);
 }
 
 .choice-group--card-strong .choice__input:checked + .choice__body .choice__icon {
@@ -647,6 +731,19 @@ legend {
 @media (max-width: 359.98px) {
   .btn {
     padding-inline: 1rem;
+  }
+
+  /* two or three columns would split words like Secondary and Important
+     here, so those questions go one option per row. bedroom numbers still fit */
+  .choice-group--cols-2,
+  .choice-group--cols-3 {
+    --choice-cols: 1;
+  }
+
+  .choice-group--cols-3.choice-group--tile .choice__body {
+    flex-direction: row;
+    gap: 0.5rem;
+    min-height: var(--nr-target);
   }
 }
 
