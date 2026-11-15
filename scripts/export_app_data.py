@@ -106,10 +106,17 @@ def export_suburbs(obt_rows):
             "suburb_area_km2": rounded(number(row.get("suburb_area_km2")), 2),
         }
         for key, text in row.items():
-            if key.endswith("_value"):
-                suburb[key] = rounded(number(text), 3)
+            # rents stay exact, since the cheaper home and the budget caps can turn
+            # on a fraction of a cent. 6 places is plenty for distances and rates
+            if key.startswith("rent_") and key.endswith("_value"):
+                suburb[key] = number(text)
+            elif key.endswith("_value"):
+                suburb[key] = rounded(number(text), 6)
             elif key.endswith("_score") or key.endswith("_ranking"):
                 suburb[key] = rounded(number(text), 2)
+            # where a rent came from: the suburb itself, its council area, or nearby suburbs
+            elif key.endswith("_infilling_method"):
+                suburb[key] = (text or "").strip() or None
         suburbs.append(suburb)
     return sorted(suburbs, key=lambda item: item["suburb_id"])
 
@@ -245,6 +252,15 @@ def tidy(text):
     return " ".join(text.split()).casefold()
 
 
+# the payments table writes dates the Australian way, 20/09/2026
+def iso_date(text):
+    match = re.fullmatch(r"(\d{1,2})/(\d{1,2})/(\d{4})", text)
+    if not match:
+        return text
+    day, month, year = match.groups()
+    return f"{year}-{int(month):02d}-{int(day):02d}"
+
+
 def export_payments(path, rates_from, out):
     rows = read_rows(path)
     amounts = {}
@@ -254,7 +270,7 @@ def export_payments(path, rates_from, out):
         amounts[key] = number(re.sub(r"[$,\s]", "", row["weekly_amount"]))
         for column in DATE_COLUMNS:
             if row.get(column, "").strip():
-                dates.add(row[column].strip())
+                dates.add(iso_date(row[column].strip()))
 
     rates, missing = {}, []
     for group, figures in PAYMENT_ROWS.items():
@@ -281,16 +297,22 @@ def export_payments(path, rates_from, out):
 
 
 def export_community(gold):
-    # the scoring module averages every infrastructure score for a suburb
+    # the scoring module averages every infrastructure score and distance for a
+    # suburb, then leaves the suburb out if either is blank
     totals = {}
     for row in read_rows(gold / "new_roots_infrastructure.csv"):
-        score = number(row["infra_score"])
-        if score is None:
-            continue
-        total = totals.setdefault(row["suburb_id"].strip(), [0.0, 0])
-        total[0] += score
-        total[1] += 1
-    return {key: rounded(total / count, 4) for key, (total, count) in sorted(totals.items())}
+        total = totals.setdefault(row["suburb_id"].strip(), [0.0, 0, 0.0, 0])
+        score, distance = number(row["infra_score"]), number(row.get("proximity"))
+        if score is not None:
+            total[0] += score
+            total[1] += 1
+        if distance is not None:
+            total[2] += distance
+            total[3] += 1
+    community = {}
+    for key, (score, scores, distance, distances) in sorted(totals.items()):
+        community[key] = rounded(score / scores, 4) if scores and distances else None
+    return community
 
 
 def export_shapes(obt_rows, out):

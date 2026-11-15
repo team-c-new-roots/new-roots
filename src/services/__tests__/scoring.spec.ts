@@ -4,6 +4,7 @@ import type {
   LanguageFile,
   LanguageIndexEntry,
   ObtRow,
+  ResultRow,
   ScoreRequest,
 } from '@/types/scoring'
 import { affordabilityCap, scoreSuburbs, toScoreRequest } from '../scoring'
@@ -23,66 +24,43 @@ function languageFile(name: string): LanguageFile {
   return files[`../../../public/data/languages/${entry.file}.json`]!
 }
 
-const OUTPUTS = [
-  'affordability_score',
-  'education_score',
-  'healthcare_score',
-  'safety_score',
-  'transport_score',
-  'language_score',
-  'community_score',
-  'selected_weekly_rent',
-  'rent_to_income_pct',
-  'affordability_cap',
-  'overall_score',
-] as const
+/* the fixture is the data team's own scoring module run on five households
+   (scripts/make_parity_fixture.py), with every output for every suburb. the
+   browser has to give the same answers to the cent, and rank in the same
+   order. the module marks a score it can't work out as -1, where the browser
+   uses null */
+const fixture = parity as unknown as {
+  outputs: string[]
+  cases: { household: ScoreRequest; expected: Record<string, (number | string | null)[]> }[]
+}
 
-// these depend on which rent Either uses
-const RENT_OUTPUTS = new Set<string>([
-  'affordability_score',
-  'selected_weekly_rent',
-  'rent_to_income_pct',
-  'affordability_cap',
-  'overall_score',
-])
+function browserValue(row: ResultRow | undefined, key: string): number | string | null {
+  if (key === 'selected_dwelling_type') return row?.selected_home ?? null
+  return (row?.[key as keyof ResultRow] as number | string | null | undefined) ?? null
+}
 
-/* the fixture is the data team's own scoring module run on three households
-   (scripts/make_parity_fixture.py), for suburbs with every figure present.
-   for those suburbs the browser has to give the same answers to the cent.
-
-   the module still averages the flat and house rents for Either, where the
-   app takes the cheaper one. until its update lands and the fixture is
-   rebuilt, an Either household checks its rent against the data instead */
-describe('matches the scoring module', () => {
-  for (const { household, expected } of parity.cases) {
-    const request = household as ScoreRequest
-    const either = request.dwelling_type === 'both'
-
+describe('matches the scoring module for every suburb', () => {
+  for (const { household, expected } of fixture.cases) {
     it(`${household.selected_language}, ${household.bedrooms}-bed ${household.dwelling_type}, $${household.income} a week`, () => {
-      const language = languageFile(request.selected_language!)
-      const rows = new Map(scoreSuburbs(data, language, request).map((row) => [row.suburb_id, row]))
-      const suburbs = new Map(data.suburbs.map((item) => [item.suburb_id, item]))
+      const language = languageFile(household.selected_language!)
+      const rows = new Map(
+        scoreSuburbs(data, language, household).map((row) => [row.suburb_id, row]),
+      )
+      expect(Object.keys(expected)).toHaveLength(data.suburbs.length)
       // every figure that differs by more than half a cent, so a failure lists them all
       const differences: string[] = []
       for (const [id, values] of Object.entries(expected)) {
         const row = rows.get(id)
-        for (const key of OUTPUTS) {
-          if (either && RENT_OUTPUTS.has(key)) continue
-          const want = (values as Record<string, number | null>)[key] ?? null
-          const got = row?.[key] ?? null
-          const same = want === null ? got === null : got !== null && Math.abs(got - want) < 0.005
+        fixture.outputs.forEach((key, index) => {
+          let want = values[index] ?? null
+          if (want === -1 && key.endsWith('_score')) want = null
+          const got = browserValue(row, key)
+          const same =
+            typeof want === 'number'
+              ? typeof got === 'number' && Math.abs(got - want) < 0.005
+              : got === want
           if (!same) differences.push(`${id} ${key}: module ${want}, browser ${got}`)
-        }
-        if (either) {
-          const flat = suburbs.get(id)?.[`rent_${request.bedrooms}br_flat_value`] as number
-          const house = suburbs.get(id)?.[`rent_${request.bedrooms}br_house_value`] as number
-          const cheaper = Math.min(flat, house)
-          if (row?.selected_weekly_rent !== cheaper) {
-            differences.push(
-              `${id} rent: cheaper is ${cheaper}, browser ${row?.selected_weekly_rent}`,
-            )
-          }
-        }
+        })
       }
       expect(differences).toEqual([])
     })
@@ -109,7 +87,9 @@ const tiny: AppData = {
       rent_2br_flat_score: 80,
       rent_2br_house_value: 500,
       rent_2br_house_score: 60,
+      english_class_proximity_value: 1.2,
       english_class_proximity_score: 90,
+      primary_school_proximity_value: 2.5,
       primary_school_proximity_score: 50,
     }),
     suburb('no-house', {
@@ -117,7 +97,9 @@ const tiny: AppData = {
       rent_2br_flat_score: 80,
       rent_2br_house_value: null,
       rent_2br_house_score: null,
+      english_class_proximity_value: 1.2,
       english_class_proximity_score: 90,
+      primary_school_proximity_value: null,
       primary_school_proximity_score: null,
     }),
     suburb('no-rent', {
@@ -125,7 +107,9 @@ const tiny: AppData = {
       rent_2br_flat_score: null,
       rent_2br_house_value: null,
       rent_2br_house_score: null,
+      english_class_proximity_value: 3,
       english_class_proximity_score: 70,
+      primary_school_proximity_value: 3,
       primary_school_proximity_score: 70,
     }),
   ],
@@ -190,6 +174,23 @@ describe('missing figures are left out, not counted as 0', () => {
   it('reweights a topic from the figures that are there', () => {
     // english class only, rather than (90 x 60 + 0 x 40) / 100
     expect(rows.get('no-house')?.education_score).toBe(90)
+  })
+
+  it('counts a figure of 0, and leaves out a blank one', () => {
+    const zero: AppData = {
+      ...tiny,
+      suburbs: [
+        suburb('zero', {
+          english_class_proximity_value: 1.2,
+          english_class_proximity_score: 90,
+          primary_school_proximity_value: 0,
+          primary_school_proximity_score: 50,
+        }),
+      ],
+    }
+    const [row] = scoreSuburbs(zero, null, { ...request, selected_language: null })
+    // a school 0 km away is a real distance, so (90 x 60 + 50 x 40) / 100
+    expect(row?.education_score).toBe(74)
   })
 
   it('gives no budget fit at all when there is no rent figure', () => {
@@ -258,7 +259,7 @@ describe('the rest of the rules', () => {
 
   it('ranks all 572 suburbs from the real data in well under a frame', () => {
     const start = performance.now()
-    const household = parity.cases[0]!.household as ScoreRequest
+    const household = fixture.cases[0]!.household
     const rows = scoreSuburbs(data, languageFile(household.selected_language!), household)
     expect(rows).toHaveLength(data.suburbs.length)
     expect(performance.now() - start).toBeLessThan(50)

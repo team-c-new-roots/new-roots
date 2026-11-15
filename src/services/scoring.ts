@@ -12,19 +12,16 @@ import { languageFigures } from './appData'
 
 /* the household part of calculate_scores from the data team's
    new_roots_scoring.py, run in the browser so answers never leave the phone.
-   the data team's pipeline does everything else in Python, and the module
-   stays the reference: __tests__/scoring.spec.ts checks this against its
-   output (scripts/make_parity_fixture.py makes the fixture).
+   the module stays the reference: __tests__/scoring.spec.ts checks this
+   against its output for every suburb (scripts/make_parity_fixture.py makes
+   the fixture).
 
-   one deliberate difference, agreed with the data team: a missing figure is
-   left out and the rest reweighted, where the module counts it as 0. so a
-   suburb with no rent figure gets no budget fit at all rather than 0, and is
-   marked as missing instead of sinking to the bottom.
-
-   Either uses whichever of the flat and house rent is cheaper in each suburb,
-   since that's the home they'd go for. the module averages the two until the
-   data team's change lands, so the parity test checks Either's rent against
-   the data instead until then */
+   same rules as the module. a blank figure is missing and a 0 is a real one,
+   like a suburb with no speakers of a language or no tram stops (agreed with
+   Jake on 15 Nov). a topic is worked out from the figures it does have, and a
+   topic with none is left out of the match instead of counting as 0. Either
+   uses whichever of the flat and house rent is cheaper in each suburb, since
+   that's the home they'd go for */
 
 export const LEVELS: Record<Importance, ImportanceLevel> = {
   not: 'not important',
@@ -90,24 +87,51 @@ function asNumber(value: unknown): number | null {
   return typeof value === 'number' && Number.isFinite(value) ? value : null
 }
 
-// the cheapest home with both a rent and a score. one metric unless it's Either
-function cheapestRent(suburb: ObtRow, metrics: AppDataWeight[]): AppDataWeight[] {
+// the cheapest home with a rent figure, the first one listed if two tie.
+// one metric unless it's Either
+function cheapestRent(suburb: ObtRow, metrics: AppDataWeight[]): AppDataWeight | null {
   let best: AppDataWeight | null = null
   let lowest = Infinity
   for (const metric of metrics) {
     const rent = asNumber(suburb[`${metric.metric}_value`])
-    if (rent === null || asNumber(suburb[`${metric.metric}_score`]) === null) continue
+    if (rent === null) continue
     if (rent < lowest) {
       best = metric
       lowest = rent
     }
   }
-  return best ? [best] : []
+  return best
 }
 
-// pandas rounds half to even after its float maths, so round the same way
+// a metric's score, or null when it doesn't count. the module checks the
+// figure behind the score too, so a score with a blank figure is left out
+function scoreFor(
+  metric: AppDataWeight,
+  suburb: ObtRow,
+  data: AppData,
+  language: LanguageFile | null,
+): number | null {
+  const usable = (score: unknown, raw: unknown) => (asNumber(raw) === null ? null : asNumber(score))
+  if (metric.table === 'languages') {
+    if (!language) return null
+    const figures = languageFigures(language, suburb.suburb_id)
+    const score = figures.scores[metric.metric]
+    if (metric.metric === 'language') return usable(score, figures.percent)
+    if (metric.metric === 'speaker_count') return usable(score, figures.count)
+    return asNumber(score)
+  }
+  // the export has already left out suburbs whose distances are blank
+  if (metric.table === 'infrastructure') return asNumber(data.community[suburb.suburb_id])
+  return usable(suburb[`${metric.metric}_score`], suburb[`${metric.metric}_value`])
+}
+
+// pandas rounds to 2 places half to even, after the same float maths
 function round2(value: number | null): number | null {
-  return value === null ? null : Math.round(value * 100) / 100
+  if (value === null) return null
+  const scaled = value * 100
+  const floor = Math.floor(scaled)
+  const rest = scaled - floor
+  return (rest > 0.5 || (rest === 0.5 && floor % 2 !== 0) ? floor + 1 : floor) / 100
 }
 
 // language is the household's language file, or null when there isn't one
@@ -153,47 +177,37 @@ export function scoreSuburbs(
     }
 
     for (const topic of topics) {
-      const metrics =
-        topic === 'Affordability'
-          ? cheapestRent(suburb, rentMetrics)
-          : data.weights.filter((item) => item.topic === topic)
+      if (topic === 'Affordability') {
+        const chosen = cheapestRent(suburb, rentMetrics)
+        let fit: number | null = null
+        if (chosen) {
+          const rent = asNumber(suburb[`${chosen.metric}_value`])!
+          const share = rent / request.income
+          const cap = affordabilityCap(share)
+          const score = asNumber(suburb[`${chosen.metric}_score`])
+          fit = score === null ? null : Math.min(score, cap)
+          row.selected_weekly_rent = round2(rent)
+          row.rent_to_income_pct = round2(share * 100)
+          row.affordability_cap = cap
+          row.selected_home = chosen.metric.endsWith('_flat') ? 'flat' : 'house'
+        }
+        scores.set(topic, fit)
+        row.affordability_score = round2(fit)
+        continue
+      }
+
       let weighted = 0
       let total = 0
-      let rentTotal = 0
-      let capTotal = 0
-
-      for (const metric of metrics) {
-        let score =
-          metric.table === 'languages'
-            ? language
-              ? asNumber(languageFigures(language, id).scores[metric.metric])
-              : null
-            : metric.table === 'infrastructure'
-              ? asNumber(data.community[id])
-              : asNumber(suburb[`${metric.metric}_score`])
-
-        if (topic === 'Affordability') {
-          const rent = asNumber(suburb[`${metric.metric}_value`])
-          if (rent === null || score === null) continue
-          const cap = affordabilityCap(rent / request.income)
-          score = Math.min(score, cap)
-          rentTotal += rent * metric.weight
-          capTotal += cap * metric.weight
-        }
+      for (const metric of data.weights) {
+        if (metric.topic !== topic) continue
+        const score = scoreFor(metric, suburb, data, language)
         if (score === null) continue
         weighted += score * metric.weight
         total += metric.weight
       }
-
       const score = total > 0 ? weighted / total : null
       scores.set(topic, score)
       row[COLUMN[topic]] = round2(score) as never
-      if (topic === 'Affordability' && total > 0) {
-        row.selected_weekly_rent = round2(rentTotal / total)
-        row.rent_to_income_pct = round2((rentTotal / total / request.income) * 100)
-        row.affordability_cap = round2(capTotal / total)
-        row.selected_home = metrics[0]!.metric.endsWith('_flat') ? 'flat' : 'house'
-      }
     }
 
     // weighted by importance, over the topics this suburb has figures for

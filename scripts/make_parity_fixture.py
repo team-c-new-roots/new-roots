@@ -1,12 +1,14 @@
 """Runs the data team's scoring module on a few households and saves its
-answers, so the browser's scoring can be tested against the real thing.
+answers for every suburb, so the browser's scoring can be tested against the
+real thing. Rerun this whenever the scoring module or Gold changes, after
+exporting the app's data from the same Gold, then run npm run format:
 
-The fixture holds only suburbs with every figure present, because the browser
-deliberately differs where data is missing: it leaves a missing figure out
-instead of counting it as 0. Rerun this whenever the scoring module or Gold
-changes:
+  python3 scripts/make_parity_fixture.py "path/to/Scoring Module and artefacts" "path/to/Gold"
 
-  python3 scripts/make_parity_fixture.py "path/to/Scoring Module" "path/to/Gold"
+The module needs pandas, shapely and pyproj installed.
+
+Jake agreed on 15 Nov that a 0 is a real figure and only a blank is missing.
+Until new_roots_scoring.py has that change, this applies it before running.
 """
 
 import importlib.util
@@ -16,9 +18,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 OUT = REPO / "src" / "services" / "__tests__" / "fixtures" / "scoring-parity.json"
-SUBURBS = 40
-
-# households covering each home type, a range of incomes and every level
+# households covering each home type and size, a range of incomes and every level
 HOUSEHOLDS = [
     {
         "selected_language": "Dari",
@@ -65,7 +65,43 @@ HOUSEHOLDS = [
             "Community": "important",
         },
     },
+    {
+        "selected_language": "Hazaraghi",
+        "bedrooms": 4,
+        "dwelling_type": "both",
+        "income": 1250,
+        "topic_importance": {
+            "Affordability": "very important",
+            "Education": "very important",
+            "Healthcare": "not important",
+            "Safety": "important",
+            "Transport": "important",
+            "Language": "important",
+            "Community": "very important",
+        },
+    },
+    {
+        "selected_language": "Persian (excluding Dari)",
+        "bedrooms": 1,
+        "dwelling_type": "both",
+        "income": 533.15,
+        "topic_importance": {
+            "Affordability": "very important",
+            "Education": "not important",
+            "Healthcare": "very important",
+            "Safety": "important",
+            "Transport": "very important",
+            "Language": "not important",
+            "Community": "not important",
+        },
+    },
 ]
+
+# the two lines that read a 0 as missing, and what they become
+ZERO_IS_MISSING = {
+    "valid = raw.notna() & (raw != 0) & score.notna()": "valid = raw.notna() & score.notna()",
+    "raw.where(raw.notna() & (raw != 0))": "raw.where(raw.notna())",
+}
 
 OUTPUTS = [
     "affordability_score",
@@ -79,49 +115,37 @@ OUTPUTS = [
     "rent_to_income_pct",
     "affordability_cap",
     "overall_score",
+    "overall_rank",
+    "selected_dwelling_type",
 ]
 
 
 def main():
     module_dir, gold = Path(sys.argv[1]), Path(sys.argv[2])
-    spec = importlib.util.spec_from_file_location("scoring", module_dir / "new_roots_scoring.py")
+    path = module_dir / "new_roots_scoring.py"
+    source = path.read_text(encoding="utf-8")
+    for old, new in ZERO_IS_MISSING.items():
+        if old in source:
+            source = source.replace(old, new)
+            print(f"the module still reads 0 as missing, so counting it: {new}")
+    spec = importlib.util.spec_from_loader("scoring", loader=None)
     scoring = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(scoring)
+    scoring.__file__ = str(path)
+    exec(compile(source, str(path), "exec"), scoring.__dict__)
     scoring.ROOT = gold
     scorer = scoring.NewRootsScorer()
 
-    rent_columns = [f"{metric}_score" for metric in scorer.weights["metric"] if metric.startswith("rent_")]
-    other_columns = [
-        f"{metric}_score"
-        for metric, table in zip(scorer.weights["metric"], scorer.weights["table"])
-        if table.strip().lower() == "obt" and not metric.startswith("rent_")
-    ]
-    complete = scorer.obt.dropna(subset=other_columns)
-    # every rent the three households use
-    complete = complete.dropna(subset=[
-        "rent_2br_flat_score", "rent_2br_house_score", "rent_3br_house_score", "rent_1br_flat_score",
-    ])
-    languages = scorer.languages[scorer.languages["language"].isin([h["selected_language"] for h in HOUSEHOLDS])]
-    with_language = languages.dropna(subset=["language_score"]).groupby("suburb_id").size()
-    complete = complete[complete.index.isin(with_language[with_language == len(HOUSEHOLDS)].index)]
-    infra = scorer.infrastructure.dropna(subset=["infra_score"])["suburb_id"].unique()
-    complete = complete[complete.index.isin(infra)]
-    chosen = sorted(complete.index)[:SUBURBS]
-    print(f"{len(complete)} suburbs have every figure, keeping {len(chosen)}")
-
+    # [one value per output] for each suburb, to keep the file small
     cases = []
     for household in HOUSEHOLDS:
         rows = scorer.calculate_scores(**household)
-        expected = {
-            str(row["suburb_id"]): {key: row[key] for key in OUTPUTS}
-            for row in rows
-            if str(row["suburb_id"]) in chosen
-        }
+        expected = {str(row["suburb_id"]): [row[key] for key in OUTPUTS] for row in rows}
         cases.append({"household": household, "expected": expected})
+    suburbs = len(cases[0]["expected"])
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps({"suburbs": chosen, "cases": cases}, indent=1))
-    print(f"wrote {OUT.relative_to(REPO)}")
+    OUT.write_text(json.dumps({"outputs": OUTPUTS, "cases": cases}, separators=(",", ":")))
+    print(f"wrote {OUT.relative_to(REPO)}, {len(cases)} households and {suburbs} suburbs")
 
 
 if __name__ == "__main__":
