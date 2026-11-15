@@ -21,7 +21,8 @@ export const DATASETS: Dataset[] = [
     name: 'Rental Report: quarterly moving annual rents by suburb',
     publisher: 'Homes Victoria',
     useKey: 'howItWorks.datasets.rentalReport',
-    period: 'Latest quarter',
+    // moving annual medians, so a year of new leases up to this quarter
+    period: 'Year to June 2026',
     url: 'https://discover.data.vic.gov.au/dataset/rental-report-quarterly-moving-annual-rents-by-suburb',
   },
   {

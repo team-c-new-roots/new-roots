@@ -146,9 +146,12 @@ const { t } = useI18n()
   );
 }
 
+/* the samples share one column as wide as the widest of them, so "12
+   suburbs" never runs into its text, in any language */
 .map-legend__labels {
   display: grid;
-  gap: 0.5rem;
+  grid-template-columns: max-content minmax(0, 1fr);
+  gap: 0.5rem 0.75rem;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -157,9 +160,10 @@ const { t } = useI18n()
 
 .map-legend__labels li {
   display: grid;
-  grid-template-columns: 6.5rem 1fr;
+  grid-column: 1 / -1;
+  grid-template-columns: 7.5rem minmax(0, 1fr);
+  grid-template-columns: subgrid;
   align-items: center;
-  gap: 0.6rem;
 }
 
 /* small copies of the map's labels, drawn the same way */

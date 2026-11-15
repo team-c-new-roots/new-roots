@@ -9,6 +9,7 @@ import type { TopicName } from '@/types'
 import { loadBoundaries, type BoundaryProperties } from '@/services/boundaries'
 import { bandFor, type SuburbResult } from '@/services/results'
 import { TOPICS } from '@/data/topics'
+import { DATASETS } from '@/data/datasets'
 import BudgetBadge from '@/components/ui/BudgetBadge.vue'
 import TopicBars from './TopicBars.vue'
 import MapLegend from './MapLegend.vue'
@@ -84,6 +85,20 @@ const byId = computed(() => new Map(props.suburbs.map((item) => [item.id, item])
 const selected = computed(() => (selectedId.value ? byId.value.get(selectedId.value) : undefined))
 const hasNoRent = computed(() => props.suburbs.some((item) => item.status === 'noData'))
 const hasNoScore = computed(() => props.suburbs.some((item) => item.match === null))
+
+// how current the figures behind the colours are, from the same list as the
+// How it works page until Gold carries its own dates
+const SOURCES = [
+  ['rents', 'rental-report'],
+  ['census', 'census'],
+  ['crime', 'crime'],
+] as const
+const sourcesLine = computed(() =>
+  SOURCES.map(([key, id]) => {
+    const period = DATASETS.find((dataset) => dataset.id === id)?.period ?? ''
+    return `${t(`map.sources.${key}`)}: ${period}`
+  }).join(' · '),
+)
 
 // ranked suburbs first in rank order, then everything else by name
 const pickerOptions = computed(() =>
@@ -315,8 +330,11 @@ function pinElement(item: SuburbResult, named: boolean, lift: number, small: boo
   return pin
 }
 
-function average(group: Placed[]): number {
-  return Math.round(group.reduce((sum, entry) => sum + (entry.item.match ?? 0), 0) / group.length)
+// the lowest and highest score in a group. an average hides a 60 and an 89
+// behind a 75
+function range(group: Placed[]): { low: number; high: number } {
+  const scores = group.map((entry) => entry.item.match ?? 0)
+  return { low: Math.min(...scores), high: Math.max(...scores) }
 }
 
 /* labels by zoom.
@@ -326,8 +344,8 @@ function average(group: Placed[]): number {
    - every other suburb, best first, either starts a label or joins the label
      whose area it falls in. each label owns an area a little bigger than the
      widest label, so labels never overlap and groups can't snowball. a label
-     with more than one suburb shows how many, with their average in its
-     hover text. zooming in spreads suburbs apart, so groups split until
+     with more than one suburb shows how many, with their range of scores in
+     its hover text. zooming in spreads suburbs apart, so groups split until
      every suburb has its own score. selecting a group zooms into it */
 function refreshLabels() {
   if (!map || !labels) return
@@ -441,9 +459,7 @@ function refreshLabels() {
       }),
       interactive: many,
       keyboard: false,
-      title: many
-        ? t('map.groupTitle', { n: group.members.length, average: average(group.members) })
-        : '',
+      title: many ? t('map.groupTitle', { n: group.members.length, ...range(group.members) }) : '',
     })
     if (many) {
       marker.on('click', () => {
@@ -666,6 +682,12 @@ function onPick(event: Event) {
         <p id="map-streets-hint" class="field__hint suburb-map__notes">
           {{ t('map.notes') }}
         </p>
+        <p class="field__hint suburb-map__sources">
+          <strong>{{ t('map.dataFrom') }}</strong> {{ sourcesLine }}.
+          <RouterLink :to="{ name: 'how-it-works', hash: '#data' }">
+            {{ t('map.allSources') }}
+          </RouterLink>
+        </p>
       </div>
     </div>
 
@@ -794,20 +816,38 @@ function onPick(event: Event) {
   margin-top: 1rem;
 }
 
+/* our own chevron instead of the browser's tiny one, with room so the
+   longest suburb name never runs under it. wine, the same as the links */
 .suburb-map__picker select {
   width: 100%;
   min-height: var(--nr-target);
-  padding-inline: 0.85rem;
+  padding-inline: 0.85rem 2.75rem;
   border: 2px solid var(--nr-border-strong);
   border-radius: var(--nr-radius-sm);
-  background: var(--nr-surface-raised);
+  background-color: var(--nr-surface-raised);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%237b282b' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-position: right 0.85rem center;
+  background-repeat: no-repeat;
+  background-size: 1.25rem;
   color: var(--nr-ink);
   font: inherit;
   font-size: 1.0625rem;
+  text-overflow: ellipsis;
+  appearance: none;
+  cursor: pointer;
 }
 
-.suburb-map__notes {
+:global([dir='rtl']) .suburb-map__picker select {
+  background-position: left 0.85rem center;
+}
+
+.suburb-map__notes,
+.suburb-map__sources {
   margin: 0;
+}
+
+.suburb-map__sources a {
+  white-space: nowrap;
 }
 
 /* the panel, after the data team's: a wine header with the name and the
