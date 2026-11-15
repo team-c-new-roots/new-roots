@@ -33,6 +33,8 @@ export interface ResultRow {
   community_score: number | null
   overall_score: number | null
   overall_rank: number | null
+  // which home the rent is for. Either uses whichever is cheaper in each suburb
+  selected_home?: 'flat' | 'house' | null
   fill_color?: string
 }
 

@@ -12,7 +12,8 @@ import BudgetBadge from '@/components/ui/BudgetBadge.vue'
    speak the family's language, and how far the schools they need and an
    English class are. distances are chips that wrap whole, so a figure never
    splits from its unit, and every card in a row is the same height with
-   View details and Show on map along the bottom */
+   View details and Show on map along the bottom. only suburbs within or
+   close to budget get a number. the rest are listed after them, unnumbered */
 
 const props = defineProps<{
   item: SuburbResult
@@ -35,8 +36,10 @@ const distances = computed(() => facts.distanceFacts(props.item))
 <template>
   <article class="suburb-card" :aria-labelledby="headingId">
     <div class="suburb-card__top">
-      <span class="suburb-card__rank" aria-hidden="true">{{ item.rank }}</span>
-      <h2 :id="headingId" class="suburb-card__name">{{ item.name }}</h2>
+      <span v-if="item.rank !== null" class="suburb-card__rank" aria-hidden="true">
+        {{ item.rank }}
+      </span>
+      <h3 :id="headingId" class="suburb-card__name">{{ item.name }}</h3>
       <BudgetBadge :status="item.status" class="suburb-card__badge" />
     </div>
 

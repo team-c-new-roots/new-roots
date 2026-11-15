@@ -37,25 +37,51 @@ const OUTPUTS = [
   'overall_score',
 ] as const
 
+// these depend on which rent Either uses
+const RENT_OUTPUTS = new Set<string>([
+  'affordability_score',
+  'selected_weekly_rent',
+  'rent_to_income_pct',
+  'affordability_cap',
+  'overall_score',
+])
+
 /* the fixture is the data team's own scoring module run on three households
    (scripts/make_parity_fixture.py), for suburbs with every figure present.
-   for those suburbs the browser has to give the same answers to the cent */
+   for those suburbs the browser has to give the same answers to the cent.
+
+   the module still averages the flat and house rents for Either, where the
+   app takes the cheaper one. until its update lands and the fixture is
+   rebuilt, an Either household checks its rent against the data instead */
 describe('matches the scoring module', () => {
   for (const { household, expected } of parity.cases) {
     const request = household as ScoreRequest
+    const either = request.dwelling_type === 'both'
 
     it(`${household.selected_language}, ${household.bedrooms}-bed ${household.dwelling_type}, $${household.income} a week`, () => {
       const language = languageFile(request.selected_language!)
       const rows = new Map(scoreSuburbs(data, language, request).map((row) => [row.suburb_id, row]))
+      const suburbs = new Map(data.suburbs.map((item) => [item.suburb_id, item]))
       // every figure that differs by more than half a cent, so a failure lists them all
       const differences: string[] = []
       for (const [id, values] of Object.entries(expected)) {
         const row = rows.get(id)
         for (const key of OUTPUTS) {
+          if (either && RENT_OUTPUTS.has(key)) continue
           const want = (values as Record<string, number | null>)[key] ?? null
           const got = row?.[key] ?? null
           const same = want === null ? got === null : got !== null && Math.abs(got - want) < 0.005
           if (!same) differences.push(`${id} ${key}: module ${want}, browser ${got}`)
+        }
+        if (either) {
+          const flat = suburbs.get(id)?.[`rent_${request.bedrooms}br_flat_value`] as number
+          const house = suburbs.get(id)?.[`rent_${request.bedrooms}br_house_value`] as number
+          const cheaper = Math.min(flat, house)
+          if (row?.selected_weekly_rent !== cheaper) {
+            differences.push(
+              `${id} rent: cheaper is ${cheaper}, browser ${row?.selected_weekly_rent}`,
+            )
+          }
         }
       }
       expect(differences).toEqual([])
@@ -136,9 +162,29 @@ const request: ScoreRequest = {
 describe('missing figures are left out, not counted as 0', () => {
   const rows = new Map(scoreSuburbs(tiny, dari, request).map((row) => [row.suburb_id, row]))
 
-  it('averages only the rents that exist, so a missing house rent doesn’t halve the flat rent', () => {
+  it('uses the cheaper of the flat and house rent for Either, and says which', () => {
+    expect(rows.get('full')?.selected_weekly_rent).toBe(400)
+    expect(rows.get('full')?.selected_home).toBe('flat')
+    // a missing house rent just means the flat is the only one to go on
     expect(rows.get('no-house')?.selected_weekly_rent).toBe(400)
-    expect(rows.get('full')?.selected_weekly_rent).toBe(450)
+  })
+
+  it('picks the house where that’s the cheaper one', () => {
+    const cheapHouse: AppData = {
+      ...tiny,
+      suburbs: [
+        suburb('house', {
+          rent_2br_flat_value: 520,
+          rent_2br_flat_score: 55,
+          rent_2br_house_value: 470,
+          rent_2br_house_score: 65,
+        }),
+      ],
+    }
+    const [row] = scoreSuburbs(cheapHouse, null, { ...request, selected_language: null })
+    expect(row?.selected_home).toBe('house')
+    expect(row?.selected_weekly_rent).toBe(470)
+    expect(row?.affordability_score).toBe(65)
   })
 
   it('reweights a topic from the figures that are there', () => {
@@ -156,8 +202,8 @@ describe('missing figures are left out, not counted as 0', () => {
   })
 
   it('ignores healthcare, transport and community, which this data set has nothing for', () => {
-    // budget fit 2 x ((80 + 60) / 2) and education 1 x 74 and language 1 x 100, over 4
-    expect(rows.get('full')?.overall_score).toBe(Math.round(((2 * 70 + 74 + 100) / 4) * 100) / 100)
+    // budget fit 2 x 80 for the cheaper flat, education 1 x 74 and language 1 x 100, over 4
+    expect(rows.get('full')?.overall_score).toBe(Math.round(((2 * 80 + 74 + 100) / 4) * 100) / 100)
   })
 })
 

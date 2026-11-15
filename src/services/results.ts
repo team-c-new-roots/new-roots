@@ -43,7 +43,11 @@ export function bandFor(score: number | null): number | undefined {
 
 export interface Derived {
   all: SuburbResult[]
+  // within budget and close, numbered
   ranked: SuburbResult[]
+  // every suburb in list order: the ranked ones, then above budget, then no
+  // rent figure, each by match. nothing is hidden (US 2.3)
+  listed: SuburbResult[]
   // when nothing fits, the cheapest suburbs with a rent figure
   closest: SuburbResult[]
   byId: Map<string, SuburbResult>
@@ -97,9 +101,8 @@ export function buildResults(data: MapData, budgetWeekly: number): Derived {
   })
 
   // within budget first, then close, each by the scoring module's score (US 2.3)
-  const ranked = all
-    .filter((suburb) => suburb.status === 'within' || suburb.status === 'close')
-    .sort(byScore)
+  const listed = [...all].sort(byScore)
+  const ranked = listed.filter((suburb) => suburb.status === 'within' || suburb.status === 'close')
   ranked.forEach((suburb, index) => (suburb.rank = index + 1))
 
   const closest =
@@ -110,7 +113,13 @@ export function buildResults(data: MapData, budgetWeekly: number): Derived {
           .sort((a, b) => (a.rent ?? 0) - (b.rent ?? 0))
           .slice(0, 3)
 
-  return { all, ranked, closest, byId: new Map(all.map((suburb) => [suburb.id, suburb])) }
+  return {
+    all,
+    ranked,
+    listed,
+    closest,
+    byId: new Map(all.map((suburb) => [suburb.id, suburb])),
+  }
 }
 
 function languagesFor(data: MapData, id: string): LanguageRow[] {

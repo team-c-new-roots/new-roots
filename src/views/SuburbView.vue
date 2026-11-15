@@ -16,8 +16,9 @@ import ResultsGate from '@/components/results/ResultsGate.vue'
 
 /* why a suburb ranks where it does: a score for each of the seven topics,
    what it does best and worst on, then the figures behind it with their
-   sources and dates. reported crime only shows when the person chose to
-   count it, so the page never leads with a crime rate nobody asked for */
+   sources and dates. the crime rate itself only shows when the person chose
+   to count it, so the page never leads with a figure nobody asked for. when
+   a small suburb has no rate, it says why */
 
 const props = defineProps<{ id: string }>()
 
@@ -26,7 +27,7 @@ const answers = useAnswersStore()
 const { status, errorKind, data, derived, counted, retry } = useResults()
 const { money, km, percent, decimal, home } = useFormat()
 const announcement = ref('')
-const { rentHome } = useSuburbFacts()
+const { homeFor, rentMetricFor } = useSuburbFacts()
 
 const item = computed(() => derived.value?.byId.get(props.id))
 const total = computed(() => derived.value?.ranked.length ?? 0)
@@ -34,7 +35,7 @@ const saved = computed(() => (item.value ? answers.isShortlisted(item.value.id) 
 
 const findings = computed(() =>
   item.value && data.value
-    ? insights(data.value, item.value, counted.value, answers.home.rentMetric)
+    ? insights(data.value, item.value, counted.value, rentMetricFor(item.value))
     : null,
 )
 
@@ -69,6 +70,7 @@ const schools = computed(() => {
 })
 
 const value = (metric: string) => metricValue(item.value?.obt ?? null, metric)
+const crimeRate = computed(() => value('crime_per_1000'))
 
 // the router sets a generic title, this swaps in the suburb's name
 watchEffect(() => {
@@ -163,7 +165,7 @@ function toggleSummary() {
           <ul class="suburb__facts">
             <li>
               <template v-if="item.rent !== null">
-                {{ t('suburb.rent', { home: home(rentHome), amount: money(item.rent) }) }}
+                {{ t('suburb.rent', { home: home(homeFor(item)), amount: money(item.rent) }) }}
               </template>
               <template v-else>{{ t('suburb.rentMissing', { suburb: item.name }) }}</template>
               <span class="suburb__source">{{ t('suburb.rentSource') }}</span>
@@ -216,8 +218,11 @@ function toggleSummary() {
               </span>
               <span class="suburb__source">{{ t('suburb.transportSource') }}</span>
             </li>
-            <li v-if="counted.has('Safety') && value('crime_per_1000') !== null">
-              {{ t('suburb.crimeRate', { rate: decimal(value('crime_per_1000')!) }) }}
+            <li v-if="counted.has('Safety')">
+              <template v-if="crimeRate !== null">
+                {{ t('suburb.crimeRate', { rate: decimal(crimeRate) }) }}
+              </template>
+              <template v-else>{{ t('suburb.crimeMissing', { suburb: item!.name }) }}</template>
               <span class="suburb__source">{{ t('suburb.crimeSource') }}</span>
             </li>
           </ul>

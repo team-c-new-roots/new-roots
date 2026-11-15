@@ -1,8 +1,10 @@
 import type { Importance, RatedTopic, TopicName } from '@/types'
 import type {
   AppData,
+  AppDataWeight,
   ImportanceLevel,
   LanguageFile,
+  ObtRow,
   ResultRow,
   ScoreRequest,
 } from '@/types/scoring'
@@ -17,7 +19,12 @@ import { languageFigures } from './appData'
    one deliberate difference, agreed with the data team: a missing figure is
    left out and the rest reweighted, where the module counts it as 0. so a
    suburb with no rent figure gets no budget fit at all rather than 0, and is
-   marked as missing instead of sinking to the bottom */
+   marked as missing instead of sinking to the bottom.
+
+   Either uses whichever of the flat and house rent is cheaper in each suburb,
+   since that's the home they'd go for. the module averages the two until the
+   data team's change lands, so the parity test checks Either's rent against
+   the data instead until then */
 
 export const LEVELS: Record<Importance, ImportanceLevel> = {
   not: 'not important',
@@ -83,6 +90,21 @@ function asNumber(value: unknown): number | null {
   return typeof value === 'number' && Number.isFinite(value) ? value : null
 }
 
+// the cheapest home with both a rent and a score. one metric unless it's Either
+function cheapestRent(suburb: ObtRow, metrics: AppDataWeight[]): AppDataWeight[] {
+  let best: AppDataWeight | null = null
+  let lowest = Infinity
+  for (const metric of metrics) {
+    const rent = asNumber(suburb[`${metric.metric}_value`])
+    if (rent === null || asNumber(suburb[`${metric.metric}_score`]) === null) continue
+    if (rent < lowest) {
+      best = metric
+      lowest = rent
+    }
+  }
+  return best ? [best] : []
+}
+
 // pandas rounds half to even after its float maths, so round the same way
 function round2(value: number | null): number | null {
   return value === null ? null : Math.round(value * 100) / 100
@@ -127,12 +149,13 @@ export function scoreSuburbs(
       community_score: null,
       overall_score: null,
       overall_rank: null,
+      selected_home: null,
     }
 
     for (const topic of topics) {
       const metrics =
         topic === 'Affordability'
-          ? rentMetrics
+          ? cheapestRent(suburb, rentMetrics)
           : data.weights.filter((item) => item.topic === topic)
       let weighted = 0
       let total = 0
@@ -169,6 +192,7 @@ export function scoreSuburbs(
         row.selected_weekly_rent = round2(rentTotal / total)
         row.rent_to_income_pct = round2((rentTotal / total / request.income) * 100)
         row.affordability_cap = round2(capTotal / total)
+        row.selected_home = metrics[0]!.metric.endsWith('_flat') ? 'flat' : 'house'
       }
     }
 

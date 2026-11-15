@@ -8,6 +8,7 @@ import { useFormat } from '@/composables/useFormat'
 import { useMediaQuery } from '@/composables/useMediaQuery'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
 import { TOPICS } from '@/data/topics'
+import type { SuburbResult } from '@/services/results'
 import SuburbCard from '@/components/results/SuburbCard.vue'
 import NothingFits from '@/components/results/NothingFits.vue'
 import ResultsGate from '@/components/results/ResultsGate.vue'
@@ -17,7 +18,12 @@ import ClearDetailsButton from '@/components/layout/ClearDetailsButton.vue'
    wireframe. on a wide screen the map runs across the top with its panel,
    like the data team's map, and the list sits underneath in two columns.
    the list is never less than the map: every suburb on the map is reachable
-   from here too */
+   from here too.
+
+   every suburb is listed (US 2.3): the numbered ones within or close to
+   budget first, then above budget, then no rent figure, each group under its
+   own heading. when nothing fits, the message and the help sit on top and
+   the full list follows */
 
 // only people who open the map download Leaflet
 const SuburbMap = defineAsyncComponent(() => import('@/components/results/SuburbMap.vue'))
@@ -31,6 +37,8 @@ const { money, home } = useFormat()
 const wide = useMediaQuery('(min-width: 64rem)')
 const { rentHome } = useSuburbFacts()
 
+type GroupKey = 'ranked' | 'above' | 'noData'
+
 const tab = ref<'list' | 'map'>('list')
 // a card's Show on map asks the map to open a suburb. the nonce makes asking
 // for the same one twice still count
@@ -40,8 +48,33 @@ const selected = ref<string | null>(null)
 const tabs = ref<HTMLButtonElement[]>([])
 
 const ranked = computed(() => derived.value?.ranked ?? [])
-const visible = computed(() => ranked.value.slice(0, shown.value))
+const listed = computed(() => derived.value?.listed ?? [])
+const visible = computed(() => listed.value.slice(0, shown.value))
 const budget = computed(() => answers.budget?.weekly ?? 0)
+
+const groupOf = (item: SuburbResult): GroupKey =>
+  item.rank !== null ? 'ranked' : item.status === 'above' ? 'above' : 'noData'
+
+// the shown part of the list split into its groups, with each group's full
+// size for the heading. list order already runs ranked, above, no rent figure
+const groups = computed(() => {
+  const sizes = new Map<GroupKey, number>()
+  for (const item of listed.value) sizes.set(groupOf(item), (sizes.get(groupOf(item)) ?? 0) + 1)
+  const shownGroups: { key: GroupKey; size: number; items: SuburbResult[] }[] = []
+  for (const item of visible.value) {
+    const key = groupOf(item)
+    let group = shownGroups.find((entry) => entry.key === key)
+    if (!group) {
+      group = { key, size: sizes.get(key) ?? 0, items: [] }
+      shownGroups.push(group)
+    }
+    group.items.push(item)
+  }
+  return shownGroups
+})
+
+// where each suburb sits in the whole list, so Show more can move focus
+const position = computed(() => new Map(listed.value.map((item, index) => [item.id, index])))
 
 const summaryLine = computed(() =>
   t('results.summaryLine', {
@@ -71,9 +104,9 @@ const used = computed(() =>
   })),
 )
 
-// the map opens on the top suburb
+// the map opens on the top suburb, or the best match when nothing fits
 watch(
-  ranked,
+  listed,
   (list) => {
     if (!selected.value && list[0]) selected.value = list[0].id
   },
@@ -107,30 +140,29 @@ async function showMore() {
   shown.value += PAGE_SIZE
   await nextTick()
   // move focus to the first new suburb so a keyboard user carries on from there
-  document.querySelector<HTMLElement>(`#results-list > li:nth-child(${firstNew + 1}) a`)?.focus()
+  document.querySelector<HTMLElement>(`[data-index="${firstNew}"] a`)?.focus()
 }
 </script>
 
 <template>
-  <NothingFits
-    v-if="status === 'ready' && nothingFits && derived"
-    :closest="derived.closest"
-    :budget="budget"
-    :home="rentHome"
-  />
-
-  <div v-else class="page results">
+  <div class="page results">
     <div class="results__head">
-      <h1>{{ t('results.title') }}</h1>
+      <h1>{{ nothingFits ? t('nothingFits.title') : t('results.title') }}</h1>
       <RouterLink :to="{ name: 'household' }" class="link-action">{{
         t('results.edit')
       }}</RouterLink>
     </div>
-    <p class="results__line">{{ summaryLine }}</p>
+    <p v-if="!nothingFits" class="results__line">{{ summaryLine }}</p>
     <p v-if="homeNote" class="results__note">
       <Info :size="20" aria-hidden="true" />
       <span>{{ homeNote }}</span>
     </p>
+    <NothingFits
+      v-if="status === 'ready' && nothingFits && derived"
+      :closest="derived.closest"
+      :budget="budget"
+      :home="rentHome"
+    />
     <div v-if="wide" class="results__used">
       <p id="ranked-using" class="results__used-label">{{ t('results.rankedUsing') }}</p>
       <ul class="results__chips" aria-labelledby="ranked-using">
@@ -216,21 +248,29 @@ async function showMore() {
           :aria-label="wide ? t('results.list') : undefined"
           class="results__list"
         >
-          <ol id="results-list" class="results__cards">
-            <li v-for="item in visible" :key="item.id">
-              <SuburbCard
-                :item="item"
-                :data="data"
-                :in-summary="answers.isShortlisted(item.id)"
-                @show-on-map="showOnMap"
-              />
-            </li>
-          </ol>
+          <template v-for="group in groups" :key="group.key">
+            <h2 class="results__group">
+              {{ t(`results.groups.${group.key}`, { n: group.size }, group.size) }}
+            </h2>
+            <p v-if="group.key !== 'ranked'" class="results__group-note">
+              {{ t(`results.groupNotes.${group.key}`, { home: home(rentHome) }) }}
+            </p>
+            <component :is="group.key === 'ranked' ? 'ol' : 'ul'" class="results__cards">
+              <li v-for="item in group.items" :key="item.id" :data-index="position.get(item.id)">
+                <SuburbCard
+                  :item="item"
+                  :data="data"
+                  :in-summary="answers.isShortlisted(item.id)"
+                  @show-on-map="showOnMap"
+                />
+              </li>
+            </component>
+          </template>
           <p class="muted" aria-live="polite">
-            {{ t('results.showing', { shown: visible.length, total: ranked.length }) }}
+            {{ t('results.showing', { shown: visible.length, total: listed.length }) }}
           </p>
           <button
-            v-if="visible.length < ranked.length"
+            v-if="visible.length < listed.length"
             type="button"
             class="btn btn--outline"
             @click="showMore"
@@ -353,9 +393,18 @@ async function showMore() {
 .results__cards {
   display: grid;
   gap: 1rem;
-  margin: 0 0 1rem;
+  margin: 0 0 1.5rem;
   padding: 0;
   list-style: none;
+}
+
+.results__group {
+  margin-bottom: 0.75rem;
+}
+
+.results__group-note {
+  max-width: 48rem;
+  margin-top: -0.25rem;
 }
 
 /* cards in a row stretch to the tallest one */

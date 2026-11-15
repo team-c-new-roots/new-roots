@@ -92,6 +92,31 @@ describe('buildResults', () => {
     expect(ranked.map((item) => item.rank)).toEqual([1, 2, 3])
   })
 
+  it('lists every suburb, with above budget and no rent figure after the ranked ones (US 2.3)', () => {
+    const { listed } = buildResults(
+      data([
+        row('missing-high', {
+          selected_weekly_rent: null,
+          rent_to_income_pct: null,
+          overall_score: 95,
+        }),
+        row('above-low', { rent_to_income_pct: 50, overall_score: 30 }),
+        row('close', { rent_to_income_pct: 33, overall_score: 20 }),
+        row('above-high', { rent_to_income_pct: 45, overall_score: 99 }),
+        row('within', { rent_to_income_pct: 25, overall_score: 10 }),
+      ]),
+      500,
+    )
+    expect(listed.map((item) => item.id)).toEqual([
+      'within',
+      'close',
+      'above-high',
+      'above-low',
+      'missing-high',
+    ])
+    expect(listed.map((item) => item.rank)).toEqual([1, 2, null, null, null])
+  })
+
   it('offers the cheapest suburbs with a rent figure when nothing fits', () => {
     const result = buildResults(
       data([

@@ -4,7 +4,8 @@ import { useI18n } from 'vue-i18n'
 
 /* one row of "why it ranks here". the bar is decoration, the number is the
    information, and a screen reader hears "92 out of 100" rather than "92".
-   when a topic isn't counted the row says why instead of showing a bar */
+   a topic that isn't counted still shows its score, with the reason under
+   the bar so a low number never looks like it pulled the match down */
 
 defineProps<{
   label: string
@@ -25,16 +26,16 @@ const { t } = useI18n()
       <component :is="icon" v-if="icon" :size="20" class="score__icon" aria-hidden="true" />
       {{ label }}
     </dt>
-    <dd v-if="note" class="score__note">{{ note }}</dd>
-    <template v-else-if="score !== null">
+    <template v-if="score !== null">
       <dd class="score__value">
         <span aria-hidden="true">{{ score }}</span>
         <span class="visually-hidden">{{ t('suburb.scoreOutOf', { score }) }}</span>
       </dd>
-      <dd class="score__track" aria-hidden="true">
+      <dd class="score__track" :class="{ 'score__track--muted': note }" aria-hidden="true">
         <span class="score__fill" :style="{ inlineSize: `${score}%` }"></span>
       </dd>
     </template>
+    <dd v-if="note" class="score__note">{{ note }}</dd>
   </div>
 </template>
 
@@ -87,6 +88,11 @@ const { t } = useI18n()
   height: 100%;
   border-radius: var(--nr-radius-pill);
   background: var(--nr-wine);
+}
+
+/* not counted, so the bar steps back and the note says why */
+.score__track--muted .score__fill {
+  background: var(--nr-ink-muted);
 }
 
 .score--compact {

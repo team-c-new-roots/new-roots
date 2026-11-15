@@ -5,6 +5,7 @@ import { useAnswersStore } from '@/stores/answers'
 import { useFormat } from '@/composables/useFormat'
 import { useLanguageName } from '@/composables/useLanguageName'
 import { languageShare, metricValue, type SuburbResult } from '@/services/results'
+import type { HomeLabel } from '@/types'
 import type { MapData } from '@/types/scoring'
 
 // the lines a card, the map panel and the summary all show for a suburb, so
@@ -32,9 +33,23 @@ export function useSuburbFacts() {
     }
   })
 
+  // Either names whichever home the suburb's rent is for, the cheaper one
+  function homeFor(suburb: SuburbResult): HomeLabel {
+    const type = suburb.row.selected_home
+    return rentHome.value.type === 'either' && type ? { ...rentHome.value, type } : rentHome.value
+  }
+
+  // the rent figure's own column, for "does well" on the details page
+  function rentMetricFor(suburb: SuburbResult): string {
+    const type = suburb.row.selected_home
+    return rentHome.value.type === 'either' && type
+      ? `rent_${rentHome.value.bedrooms}br_${type}`
+      : answers.home.rentMetric
+  }
+
   function rentLine(suburb: SuburbResult): string | null {
     if (suburb.rent === null) return null
-    return t('results.median', { home: home(rentHome.value), amount: money(suburb.rent) })
+    return t('results.median', { home: home(homeFor(suburb)), amount: money(suburb.rent) })
   }
 
   function languageLine(suburb: SuburbResult, data: MapData): string | null {
@@ -76,6 +91,8 @@ export function useSuburbFacts() {
   return {
     rentHome,
     schoolMetrics,
+    homeFor,
+    rentMetricFor,
     rentLine,
     languageLine,
     schoolLines,
