@@ -28,7 +28,7 @@ const answers = useAnswersStore()
 
 // short words match too many languages to be useful
 const MIN_QUERY = 2
-const MAX_MATCHES = 8
+const MAX_OPTIONS = 8
 
 const quickPicks = computed<ChoiceOption<string>[]>(() =>
   COMMUNITY_LANGUAGES.map((code) => ({
@@ -102,17 +102,28 @@ const englishMatches = computed(
     [ENGLISH, t('languages.english')].some((name) => fold(name).includes(folded.value)),
 )
 
-// a language picked from the search stays on screen after the search is cleared
-const searchOptions = computed<ChoiceOption<string>[]>(() => {
+/* what the search list shows, never more than MAX_OPTIONS. English and a
+   language picked from an earlier search each take a place, and the matches
+   fill the rest. the earlier pick stays on screen after the search is cleared */
+const searchList = computed(() => {
   const chosen = answers.communityLanguage
-  const shown = matches.value.slice(0, MAX_MATCHES)
-  if (chosen && chosen !== 'none' && !quickNames.value.has(chosen)) {
-    const entry = index.value.find((item) => item.name === chosen)
-    if (entry && !shown.includes(entry)) shown.unshift(entry)
-  }
-  const options = shown.map(toOption)
+  const english = englishMatches.value || chosen === ENGLISH
+  let room = MAX_OPTIONS - (english ? 1 : 0)
+  const picked =
+    chosen && chosen !== 'none' && !quickNames.value.has(chosen)
+      ? index.value.find((item) => item.name === chosen)
+      : undefined
+  // no need to pin it if it's in the top matches anyway
+  const pinned = picked && !matches.value.slice(0, room).includes(picked) ? picked : null
+  if (pinned) room -= 1
+  return { english, pinned, shown: matches.value.slice(0, room) }
+})
+
+const searchOptions = computed<ChoiceOption<string>[]>(() => {
+  const { english, pinned, shown } = searchList.value
+  const options = (pinned ? [pinned, ...shown] : shown).map(toOption)
   // English goes first, the way the most spoken language would
-  if (englishMatches.value || chosen === ENGLISH) {
+  if (english) {
     options.unshift({
       value: ENGLISH,
       label: t('languages.english'),
@@ -126,10 +137,14 @@ const searchOptions = computed<ChoiceOption<string>[]>(() => {
 const status = computed(() => {
   if (indexState.value === 'loading') return t('communityLanguage.loading')
   if (folded.value.length < MIN_QUERY) return ''
-  const count = matches.value.length + (englishMatches.value ? 1 : 0)
+  const english = englishMatches.value ? 1 : 0
+  const count = matches.value.length + english
   if (count === 0) return t('communityLanguage.noMatches')
-  if (count > MAX_MATCHES) {
-    return t('communityLanguage.manyMatches', { shown: MAX_MATCHES, count })
+  // count the matches on screen. a language pinned from an earlier search is
+  // their answer, not a match
+  const shown = searchList.value.shown.length + english
+  if (count > shown) {
+    return t('communityLanguage.manyMatches', { shown, count })
   }
   return t('communityLanguage.matches', { count }, count)
 })
