@@ -29,6 +29,7 @@ const facts = useSuburbFacts()
 
 const headingId = computed(() => `suburb-${props.item.id}`)
 const rent = computed(() => facts.rentLine(props.item))
+const estimate = computed(() => facts.estimateLine(props.item))
 const language = computed(() => facts.languageLine(props.item, props.data))
 const distances = computed(() => facts.distanceFacts(props.item))
 </script>
@@ -50,7 +51,10 @@ const distances = computed(() => facts.distanceFacts(props.item))
     <ul class="suburb-card__facts">
       <li v-if="rent">
         <House :size="18" aria-hidden="true" />
-        <span>{{ rent }}</span>
+        <span>
+          {{ rent }}
+          <small v-if="estimate" class="suburb-card__estimate">{{ estimate }}</small>
+        </span>
       </li>
       <li v-if="language">
         <Languages :size="18" aria-hidden="true" />
@@ -144,6 +148,12 @@ const distances = computed(() => facts.distanceFacts(props.item))
   flex: none;
   margin-top: 0.2rem;
   color: var(--nr-rust);
+}
+
+.suburb-card__estimate {
+  display: block;
+  color: var(--nr-ink-muted);
+  font-size: 0.875rem;
 }
 
 /* each distance is one chip, so "0.8 km" can never land on a line of its own */

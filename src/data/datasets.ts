@@ -18,7 +18,7 @@ export interface Dataset {
 export const DATASETS: Dataset[] = [
   {
     id: 'rental-report',
-    name: 'Rental Report: quarterly moving annual rents by suburb',
+    name: 'Rental Report: quarterly moving annual rents by suburb and by council area',
     publisher: 'Homes Victoria',
     useKey: 'howItWorks.datasets.rentalReport',
     // moving annual medians, so a year of new leases up to this quarter
@@ -51,19 +51,11 @@ export const DATASETS: Dataset[] = [
     url: 'https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads',
   },
   {
-    id: 'schools',
-    name: 'School locations 2026',
-    publisher: 'Department of Education',
-    useKey: 'howItWorks.datasets.schools',
-    period: '2026',
-    url: 'https://discover.data.vic.gov.au/dataset/school-locations-2026',
-  },
-  {
     id: 'vicmap',
     name: 'Vicmap Features of Interest',
     publisher: 'Department of Transport and Planning',
     useKey: 'howItWorks.datasets.vicmap',
-    period: '2026',
+    period: 'October 2026',
     url: 'https://discover.data.vic.gov.au/dataset/vicmap-features-of-interest',
   },
   {
@@ -77,17 +69,17 @@ export const DATASETS: Dataset[] = [
   },
   {
     id: 'health',
-    name: 'Health services',
+    name: 'General practices, hospitals and pharmacies',
     publisher: 'Geoscience Australia',
     useKey: 'howItWorks.datasets.health',
-    period: '2025',
+    period: 'October 2026',
   },
   {
     id: 'transport',
     name: 'Public transport stops (GTFS schedule)',
     publisher: 'Department of Transport and Planning',
     useKey: 'howItWorks.datasets.transport',
-    period: '2026',
+    period: 'October 2026',
     url: 'https://opendata.transport.vic.gov.au/dataset/gtfs-schedule',
   },
   {

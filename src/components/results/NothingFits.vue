@@ -21,7 +21,7 @@ defineProps<{
 
 const { t } = useI18n()
 const { money, home: homeName } = useFormat()
-const { homeFor } = useSuburbFacts()
+const { homeFor, estimateLine } = useSuburbFacts()
 </script>
 
 <template>
@@ -41,6 +41,9 @@ const { homeFor } = useSuburbFacts()
             {{
               t('nothingFits.median', { home: homeName(homeFor(item)), amount: money(item.rent) })
             }}
+            <small v-if="estimateLine(item)" class="nothing-fits__estimate">{{
+              estimateLine(item)
+            }}</small>
           </p>
         </div>
         <span v-if="item.overBy !== null" class="badge badge--above">
@@ -106,6 +109,11 @@ const { homeFor } = useSuburbFacts()
   color: var(--nr-wine);
   font-size: 1.25rem;
   font-weight: 700;
+}
+
+.nothing-fits__estimate {
+  display: block;
+  font-size: 0.875rem;
 }
 
 .nothing-fits__median {

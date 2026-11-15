@@ -300,6 +300,10 @@ export default {
     list: 'List',
     map: 'Map',
     median: '{home}, median {amount} a week',
+    estimate: {
+      lga: 'Estimate from the council area',
+      proximity: 'Estimate from nearby suburbs',
+    },
     speakers: '{language} speakers {percent}',
     fewSpeakers: 'Too few {language} speakers to report',
     primary: 'Primary school {distance}',
@@ -385,6 +389,11 @@ export default {
     rent: '{home} median {amount} a week',
     rentMissing: 'The Rental Report has no figure for this home in {suburb} yet.',
     rentSource: 'Rental Report, latest quarter',
+    rentEstimate: {
+      lga: 'Estimate: the Rental Report has no figure for this suburb, so this is its council area’s median',
+      proximity:
+        'Estimate: the Rental Report has no figure for this suburb, so this comes from nearby suburbs',
+    },
     speakers: '{language} speakers: {percent} of residents',
     fewSpeakers: 'Too few {language} speakers here to report',
     censusSource: 'Census 2021',
@@ -394,17 +403,17 @@ export default {
     schoolSecondary: 'Nearest secondary school {distance}',
     noPrimary: 'No primary school within {distance}',
     noSecondary: 'No secondary school within {distance}',
-    schoolsSource: 'School Locations 2026',
+    schoolsSource: 'Vicmap Features of Interest, October 2026',
     zones:
       'Government schools take children who live in their zone. Check an address on {findMySchool} before you choose a home.',
     englishClass: 'Nearest English class {distance}',
     englishSource: 'Provider lists, checked October 2026',
     gp: 'Nearest GP {distance}',
     hospital: 'Nearest hospital {distance}',
-    healthSource: 'Health services, 2025',
+    healthSource: 'General practices and hospitals, October 2026',
     train: 'Nearest train station {distance}',
     stops: '{n} bus and tram stops per square kilometre',
-    transportSource: 'Public transport stops, 2026',
+    transportSource: 'Public transport stops, October 2026',
     crimeRate: '{rate} reported crimes for every 1,000 residents',
     crimeMissing:
       'No crime rate for {suburb}. We only work one out where at least 500 people live, so a few incidents can’t make a small suburb look worse than it is.',
@@ -492,7 +501,7 @@ export default {
     rank2:
       'You choose how much each topic matters. Budget fit always counts most, and reported crime starts at Not important.',
     rank3:
-      'Budget fit drops sharply once rent goes past 30% of income. If you’d take a flat or a house, each suburb uses whichever is cheaper. Suburbs without a rent figure for your home are marked No rent figure yet.',
+      'Budget fit drops sharply once rent goes past 30% of income. If you’d take a flat or a house, each suburb uses whichever is cheaper. Where the Rental Report has no figure for a suburb, we use its council area’s median, or nearby suburbs, and mark the rent as an estimate.',
     rank4:
       'Suburbs within your budget come first, then suburbs where rent is up to 35% of income. Every other suburb is still listed after them, marked Above budget or No rent figure yet. Your language community changes the order but never hides a suburb.',
     dataHeading: 'Where the data comes from',
@@ -501,12 +510,13 @@ export default {
     publisher: 'Published by {publisher}',
     byHand: 'Entered by hand from the published list',
     datasets: {
-      rentalReport: 'Median weekly rents for each suburb and home type.',
+      rentalReport:
+        'Median weekly rents for each suburb and home type, and for each council area where a suburb has no figure of its own.',
       paymentRates: 'Centrelink payment and Rent Assistance rates for the budget.',
       census: 'Languages spoken at home and population for each suburb.',
       boundaries: 'Suburb shapes for the map.',
-      schools: 'Distance to the nearest primary and secondary school.',
-      vicmap: 'Community places such as community centres, neighbourhood houses and halls.',
+      vicmap:
+        'Distance to the nearest primary and secondary school, and community places such as community centres, neighbourhood houses and halls.',
       health: 'Distance to the nearest GP and hospital.',
       transport: 'Bus and tram stops, and distance to the nearest train station.',
       amep: 'Where free English classes are held.',

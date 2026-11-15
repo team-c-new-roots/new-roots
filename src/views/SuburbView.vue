@@ -27,7 +27,7 @@ const answers = useAnswersStore()
 const { status, errorKind, data, derived, counted, retry } = useResults()
 const { money, km, percent, decimal, home } = useFormat()
 const announcement = ref('')
-const { homeFor, rentMetricFor } = useSuburbFacts()
+const { homeFor, rentMetricFor, rentEstimate } = useSuburbFacts()
 
 const item = computed(() => derived.value?.byId.get(props.id))
 const total = computed(() => derived.value?.ranked.length ?? 0)
@@ -168,7 +168,11 @@ function toggleSummary() {
                 {{ t('suburb.rent', { home: home(homeFor(item)), amount: money(item.rent) }) }}
               </template>
               <template v-else>{{ t('suburb.rentMissing', { suburb: item.name }) }}</template>
-              <span class="suburb__source">{{ t('suburb.rentSource') }}</span>
+              <span class="suburb__source">{{
+                rentEstimate(item)
+                  ? t(`suburb.rentEstimate.${rentEstimate(item)}`)
+                  : t('suburb.rentSource')
+              }}</span>
             </li>
             <li v-if="language">
               {{

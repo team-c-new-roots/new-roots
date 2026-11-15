@@ -52,6 +52,19 @@ export function useSuburbFacts() {
     return t('results.median', { home: home(homeFor(suburb)), amount: money(suburb.rent) })
   }
 
+  // a suburb with no rent figure of its own gets its council area's median, or
+  // failing that one from nearby suburbs. the data team asked for this to show
+  function rentEstimate(suburb: SuburbResult): 'lga' | 'proximity' | null {
+    if (suburb.rent === null) return null
+    const method = suburb.obt?.[`${rentMetricFor(suburb)}_infilling_method`]
+    return method === 'lga' || method === 'proximity' ? method : null
+  }
+
+  function estimateLine(suburb: SuburbResult): string | null {
+    const estimate = rentEstimate(suburb)
+    return estimate ? t(`results.estimate.${estimate}`) : null
+  }
+
   function languageLine(suburb: SuburbResult, data: MapData): string | null {
     const census = answers.censusLanguage
     const language = languageName.value
@@ -94,6 +107,8 @@ export function useSuburbFacts() {
     homeFor,
     rentMetricFor,
     rentLine,
+    rentEstimate,
+    estimateLine,
     languageLine,
     schoolLines,
     englishLine,

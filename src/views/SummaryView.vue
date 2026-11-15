@@ -42,7 +42,7 @@ const picks = computed<SuburbResult[]>(() => {
 })
 
 function distances(item: SuburbResult): string[] {
-  return [...facts.schoolLines(item), facts.englishLine(item)].filter(
+  return [facts.estimateLine(item), ...facts.schoolLines(item), facts.englishLine(item)].filter(
     (line): line is string => line !== null,
   )
 }
