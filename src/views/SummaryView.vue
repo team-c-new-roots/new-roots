@@ -1,11 +1,12 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 import { I18nT, useI18n } from 'vue-i18n'
 import { Check, ChevronLeft, ListChecks, Lock, MapPin, Printer, Users } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
 import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
+import { useSummary } from '@/composables/useSummary'
 import type { SuburbResult } from '@/services/results'
 import { RATES_FROM } from '@/data/centrelink-rates'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
@@ -24,22 +25,27 @@ const answers = useAnswersStore()
 const { status, errorKind, derived, retry } = useResults()
 const { money, home, monthYear } = useFormat()
 const facts = useSuburbFacts()
+const summary = useSummary(derived)
+const announcement = ref('')
 
 const budget = computed(() => answers.budget)
 const usesPayments = computed(
   () => answers.incomeSource === 'payments' || answers.incomeSource === 'both',
 )
 
-// the suburbs they added from a details page, in the order they added them,
-// or the top three if they haven't added any
+// their top three, or their own list once they've added or removed one
 const picks = computed<SuburbResult[]>(() => {
   const found = derived.value
   if (!found) return []
-  const chosen = answers.shortlist
+  return summary.ids.value
     .map((id) => found.byId.get(id))
     .filter((item): item is SuburbResult => item !== undefined)
-  return chosen.length > 0 ? chosen : found.ranked.slice(0, 3)
 })
+
+function remove(item: SuburbResult) {
+  summary.toggle(item.id)
+  announcement.value = t('suburb.removed', { suburb: item.name })
+}
 
 function distances(item: SuburbResult): string[] {
   return [facts.estimateLine(item), ...facts.schoolLines(item), facts.englishLine(item)].filter(
@@ -101,8 +107,8 @@ function print() {
       </h2>
       <ResultsGate :status="status" :error-kind="errorKind" @retry="retry">
         <template v-if="picks.length">
-          <p class="muted">
-            {{ answers.shortlist.length ? t('summary.yourPicks') : t('summary.topThree') }}
+          <p class="muted no-print">
+            {{ summary.chosen.value ? t('summary.yourPicks') : t('summary.topThree') }}
           </p>
           <ol class="summary__suburbs">
             <li v-for="(item, index) in picks" :key="item.id">
@@ -113,6 +119,12 @@ function print() {
                   {{ t('income.budgetValue', { amount: money(item.rent) }) }}
                 </span>
                 <span class="summary__status">{{ t(`status.${item.status}`) }}</span>
+                <button type="button" class="summary__remove no-print" @click="remove(item)">
+                  {{ t('results.removeFromSummary') }}
+                  <span class="visually-hidden">{{
+                    t('results.fromSummary', { suburb: item.name })
+                  }}</span>
+                </button>
               </div>
               <p v-if="distances(item).length" class="summary__distances">
                 {{ distances(item).join(' · ') }}
@@ -120,7 +132,8 @@ function print() {
             </li>
           </ol>
         </template>
-        <p v-else>{{ t('summary.noSuburbs') }}</p>
+        <p v-else>{{ summary.chosen.value ? t('summary.noPicks') : t('summary.noSuburbs') }}</p>
+        <p class="visually-hidden" role="status">{{ announcement }}</p>
       </ResultsGate>
     </section>
 
@@ -247,6 +260,26 @@ function print() {
   margin-inline-start: auto;
   color: var(--nr-wine);
   font-weight: 700;
+}
+
+/* a link-style button, so the row stays one line on a laptop */
+.summary__remove {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--nr-target);
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--nr-rust);
+  font: inherit;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  cursor: pointer;
+}
+
+.summary__remove:hover {
+  color: var(--nr-wine);
 }
 
 .summary__privacy {

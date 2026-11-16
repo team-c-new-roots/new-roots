@@ -6,6 +6,7 @@ import { useAnswersStore } from '@/stores/answers'
 import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
+import { useSummary } from '@/composables/useSummary'
 import { insights, languageShare, metricValue, topLanguages } from '@/services/results'
 import { useLanguageName } from '@/composables/useLanguageName'
 import { SCHOOL_NEARBY_KM } from '@/data/metrics'
@@ -31,7 +32,8 @@ const { homeFor, rentMetricFor, rentEstimate } = useSuburbFacts()
 
 const item = computed(() => derived.value?.byId.get(props.id))
 const total = computed(() => derived.value?.ranked.length ?? 0)
-const saved = computed(() => (item.value ? answers.isShortlisted(item.value.id) : false))
+const summary = useSummary(derived)
+const saved = computed(() => (item.value ? summary.has(item.value.id) : false))
 
 const findings = computed(() =>
   item.value && data.value
@@ -80,7 +82,7 @@ watchEffect(() => {
 function toggleSummary() {
   const entry = item.value
   if (!entry) return
-  if (!answers.toggleShortlist(entry.id)) {
+  if (!summary.toggle(entry.id)) {
     announcement.value = t('suburb.full')
     return
   }
