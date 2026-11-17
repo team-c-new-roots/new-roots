@@ -68,13 +68,39 @@ describe('answers store', () => {
     expect(answers.censusLanguage).toBe('Dari')
   })
 
-  it('holds up to three suburbs in the summary (US 2.4)', () => {
+  // US 2.4, the summary starts as the top three and becomes their own list
+  // the first time they add or remove a suburb
+  const TOP = ['a', 'b', 'c']
+
+  it('starts the summary with the top three and follows them until it changes', () => {
     const answers = useAnswersStore()
-    for (let i = 0; i < SHORTLIST_MAX; i++) expect(answers.toggleShortlist(`s${i}`)).toBe(true)
-    expect(answers.toggleShortlist('one-more')).toBe(false)
-    expect(answers.shortlist).toHaveLength(SHORTLIST_MAX)
-    expect(answers.toggleShortlist('s0')).toBe(true)
-    expect(answers.shortlist).toHaveLength(SHORTLIST_MAX - 1)
+    expect(answers.summaryIds(TOP)).toEqual(TOP)
+    expect(answers.summaryIds(['d', 'e', 'f', 'g'])).toHaveLength(SHORTLIST_MAX)
+    expect(answers.summaryIds(['d'])).toEqual(['d'])
+  })
+
+  it('asks them to remove one before adding a fourth, and changes nothing', () => {
+    const answers = useAnswersStore()
+    expect(answers.toggleShortlist('d', TOP)).toBe(false)
+    expect(answers.shortlist).toBeNull()
+    expect(answers.summaryIds(['x', 'y', 'z'])).toEqual(['x', 'y', 'z'])
+  })
+
+  it('swaps a suburb in once they remove one, the way Daniel tried with Hampton Park', () => {
+    const answers = useAnswersStore()
+    expect(answers.toggleShortlist('b', TOP)).toBe(true)
+    expect(answers.summaryIds(TOP)).toEqual(['a', 'c'])
+    expect(answers.toggleShortlist('d', TOP)).toBe(true)
+    expect(answers.summaryIds(TOP)).toEqual(['a', 'c', 'd'])
+    // their own list stays put if the ranking changes
+    expect(answers.summaryIds(['x', 'y', 'z'])).toEqual(['a', 'c', 'd'])
+    expect(answers.toggleShortlist('e', TOP)).toBe(false)
+  })
+
+  it('adds to a top three that has room without asking', () => {
+    const answers = useAnswersStore()
+    expect(answers.toggleShortlist('d', ['a'])).toBe(true)
+    expect(answers.summaryIds(['a'])).toEqual(['a', 'd'])
   })
 
   it('clears everything, shortlist included', () => {
@@ -83,7 +109,7 @@ describe('answers store', () => {
     answers.incomeSource = 'work'
     answers.wageAmount = 900
     answers.importance.Safety = 'very'
-    answers.toggleShortlist('20002')
+    answers.toggleShortlist('20002', [])
     expect(answers.incomeDone).toBe(true)
 
     answers.clear()
@@ -91,6 +117,6 @@ describe('answers store', () => {
     expect(answers.adults).toBe(1)
     expect(answers.incomeDone).toBe(false)
     expect(answers.importance.Safety).toBe('not')
-    expect(answers.shortlist).toEqual([])
+    expect(answers.shortlist).toBeNull()
   })
 })

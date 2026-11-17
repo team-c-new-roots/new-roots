@@ -75,7 +75,9 @@ export const useAnswersStore = defineStore('answers', () => {
   // null means follow the default, which depends on whether there are children
   const chosenSchoolNeed = ref<SchoolNeed | null>(null)
 
-  const shortlist = ref<string[]>([])
+  // null until they add or remove a suburb. until then the summary is their
+  // top three, so it follows the ranking if they change their answers
+  const shortlist = ref<string[] | null>(null)
 
   const people = computed(() => adults.value + children.value)
   const suggestedBedrooms = computed(() => suggestBedrooms(adults.value, children.value))
@@ -139,26 +141,29 @@ export const useAnswersStore = defineStore('answers', () => {
       youngestUnderFive.value !== null ||
       communityLanguage.value !== null ||
       chosenSchoolNeed.value !== null ||
-      shortlist.value.length > 0 ||
+      shortlist.value !== null ||
       (Object.keys(DEFAULT_IMPORTANCE) as RatedTopic[]).some(
         (topic) => importance[topic] !== DEFAULT_IMPORTANCE[topic],
       ),
   )
 
-  function isShortlisted(id: string) {
-    return shortlist.value.includes(id)
+  // the suburbs in the summary: their own list once they've changed it,
+  // otherwise the top three
+  function summaryIds(topThree: string[]): string[] {
+    return shortlist.value ?? topThree.slice(0, SHORTLIST_MAX)
   }
 
-  const shortlistFull = computed(() => shortlist.value.length >= SHORTLIST_MAX)
-
-  // returns false when the summary is already full, so the caller can say why
-  function toggleShortlist(id: string): boolean {
-    if (isShortlisted(id)) {
-      shortlist.value = shortlist.value.filter((item) => item !== id)
+  // the first change starts their list from the top three, so nothing they
+  // could see goes missing. returns false when it's full, so the caller can
+  // ask them to remove one first, and changes nothing in that case
+  function toggleShortlist(id: string, topThree: string[]): boolean {
+    const current = summaryIds(topThree)
+    if (current.includes(id)) {
+      shortlist.value = current.filter((item) => item !== id)
       return true
     }
-    if (shortlistFull.value) return false
-    shortlist.value = [...shortlist.value, id]
+    if (current.length >= SHORTLIST_MAX) return false
+    shortlist.value = [...current, id]
     return true
   }
 
@@ -179,7 +184,7 @@ export const useAnswersStore = defineStore('answers', () => {
     communityLanguageLabel.value = null
     Object.assign(importance, DEFAULT_IMPORTANCE)
     chosenSchoolNeed.value = null
-    shortlist.value = []
+    shortlist.value = null
   }
 
   return {
@@ -209,8 +214,7 @@ export const useAnswersStore = defineStore('answers', () => {
     home,
     censusLanguage,
     hasAnswers,
-    shortlistFull,
-    isShortlisted,
+    summaryIds,
     toggleShortlist,
     clear,
   }

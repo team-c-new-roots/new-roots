@@ -7,6 +7,7 @@ import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
 import { useMediaQuery } from '@/composables/useMediaQuery'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
+import { useSummary } from '@/composables/useSummary'
 import { TOPICS } from '@/data/topics'
 import type { SuburbResult } from '@/services/results'
 import SuburbCard from '@/components/results/SuburbCard.vue'
@@ -36,6 +37,10 @@ const { status, errorKind, data, derived, nothingFits, counted, retry } = useRes
 const { money, home } = useFormat()
 const wide = useMediaQuery('(min-width: 64rem)')
 const { rentHome } = useSuburbFacts()
+const summary = useSummary(derived)
+// the card they tried to add when the summary was full, and what to read out
+const summaryFullFor = ref<string | null>(null)
+const summaryAnnouncement = ref('')
 
 type GroupKey = 'ranked' | 'above' | 'noData'
 
@@ -133,6 +138,20 @@ async function showOnMap(id: string) {
   document
     .getElementById('panel-map')
     ?.scrollIntoView({ block: 'start', behavior: reduce ? 'auto' : 'smooth' })
+}
+
+// US 2.4, add or remove a suburb straight from its card
+function toggleSummary(id: string) {
+  const name = derived.value?.byId.get(id)?.name ?? ''
+  if (!summary.toggle(id)) {
+    summaryFullFor.value = id
+    summaryAnnouncement.value = t('suburb.full')
+    return
+  }
+  summaryFullFor.value = null
+  summaryAnnouncement.value = t(summary.has(id) ? 'suburb.added' : 'suburb.removed', {
+    suburb: name,
+  })
 }
 
 async function showMore() {
@@ -260,8 +279,10 @@ async function showMore() {
                 <SuburbCard
                   :item="item"
                   :data="data"
-                  :in-summary="answers.isShortlisted(item.id)"
+                  :in-summary="summary.has(item.id)"
+                  :summary-full="summaryFullFor === item.id"
                   @show-on-map="showOnMap"
+                  @toggle-summary="toggleSummary"
                 />
               </li>
             </component>
@@ -269,6 +290,7 @@ async function showMore() {
           <p class="muted" aria-live="polite">
             {{ t('results.showing', { shown: visible.length, total: listed.length }) }}
           </p>
+          <p class="visually-hidden" role="status">{{ summaryAnnouncement }}</p>
           <button
             v-if="visible.length < listed.length"
             type="button"

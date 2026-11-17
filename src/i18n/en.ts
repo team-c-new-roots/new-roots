@@ -314,6 +314,9 @@ export default {
     detailsFor: 'for {suburb}',
     showOnMap: 'Show on map',
     inSummary: 'In your summary',
+    addToSummary: 'Add to my summary',
+    removeFromSummary: 'Remove',
+    fromSummary: '{suburb} from your summary',
     showing: 'Showing {shown} of {total} suburbs.',
     groups: {
       ranked:
@@ -447,9 +450,10 @@ export default {
     budget: 'Budget about {amount} a week',
     ratesFrom: 'Payment rates from {date}.',
     suburbs: 'Your top suburbs',
-    yourPicks: 'These are the suburbs you added.',
-    topThree: 'These are your top three. Add others from their details page.',
+    yourPicks: 'These are the suburbs you chose. Add or remove suburbs from your results.',
+    topThree: 'These are your top three. Add or remove suburbs from your results.',
     noSuburbs: 'No suburb fits this budget yet. A settlement worker can help you look.',
+    noPicks: 'You’ve removed every suburb. Add up to three from your results.',
     primary: 'Primary school {distance}',
     secondary: 'Secondary school {distance}',
     englishClass: 'English class {distance}',

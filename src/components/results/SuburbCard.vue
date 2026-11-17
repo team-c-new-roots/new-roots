@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { Check, House, Languages, MapPin } from '@lucide/vue'
+import { Check, House, Languages, MapPin, Plus } from '@lucide/vue'
 import type { MapData } from '@/types/scoring'
 import type { SuburbResult } from '@/services/results'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
@@ -13,16 +13,20 @@ import BudgetBadge from '@/components/ui/BudgetBadge.vue'
    English class are. distances are chips that wrap whole, so a figure never
    splits from its unit, and every card in a row is the same height with
    View details and Show on map along the bottom. only suburbs within or
-   close to budget get a number. the rest are listed after them, unnumbered */
+   close to budget get a number. the rest are listed after them, unnumbered.
+   each card can go in or out of the summary from here too (US 2.4) */
 
 const props = defineProps<{
   item: SuburbResult
   data: MapData
   inSummary: boolean
+  // set when they tried to add this one but the summary already had three
+  summaryFull?: boolean
 }>()
 
-// the same as clicking the suburb on the map: it opens there with its panel
-const emit = defineEmits<{ showOnMap: [id: string] }>()
+// show on map is the same as clicking the suburb on the map: it opens there
+// with its panel
+const emit = defineEmits<{ showOnMap: [id: string]; toggleSummary: [id: string] }>()
 
 const { t } = useI18n()
 const facts = useSuburbFacts()
@@ -81,11 +85,32 @@ const distances = computed(() => facts.distanceFacts(props.item))
           <span class="visually-hidden">{{ t('results.detailsFor', { suburb: item.name }) }}</span>
         </button>
       </div>
-      <span v-if="inSummary" class="suburb-card__saved">
-        <Check :size="16" :stroke-width="3" aria-hidden="true" />
-        {{ t('results.inSummary') }}
-      </span>
+      <div class="suburb-card__summary">
+        <template v-if="inSummary">
+          <span class="suburb-card__saved">
+            <Check :size="16" :stroke-width="3" aria-hidden="true" />
+            {{ t('results.inSummary') }}
+          </span>
+          <button type="button" class="suburb-card__toggle" @click="emit('toggleSummary', item.id)">
+            {{ t('results.removeFromSummary') }}
+            <span class="visually-hidden">{{
+              t('results.fromSummary', { suburb: item.name })
+            }}</span>
+          </button>
+        </template>
+        <button
+          v-else
+          type="button"
+          class="suburb-card__toggle"
+          @click="emit('toggleSummary', item.id)"
+        >
+          <Plus :size="18" aria-hidden="true" />
+          {{ t('results.addToSummary') }}
+          <span class="visually-hidden">{{ t('results.detailsFor', { suburb: item.name }) }}</span>
+        </button>
+      </div>
     </div>
+    <p v-if="summaryFull" class="suburb-card__full">{{ t('suburb.full') }}</p>
   </article>
 </template>
 
@@ -223,11 +248,45 @@ const distances = computed(() => facts.distanceFacts(props.item))
   color: var(--nr-wine);
 }
 
+.suburb-card__summary {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 0.75rem;
+}
+
 .suburb-card__saved {
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
   color: var(--nr-wine);
   font-weight: 700;
+}
+
+/* looks like the links beside it, in the summary's wine */
+.suburb-card__toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  min-height: var(--nr-target);
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--nr-wine);
+  font: inherit;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  cursor: pointer;
+}
+
+.suburb-card__toggle:hover {
+  color: var(--nr-rust);
+}
+
+.suburb-card__full {
+  margin: 0.4rem 0 0;
+  color: var(--nr-wine);
+  font-weight: 600;
 }
 </style>
