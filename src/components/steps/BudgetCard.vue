@@ -3,13 +3,25 @@ import { useI18n } from 'vue-i18n'
 import { useFormat } from '@/composables/useFormat'
 import type { BudgetEstimate } from '@/types'
 import { RATES_FROM } from '@/data/centrelink-rates'
+import BudgetBreakdown from './BudgetBreakdown.vue'
+import ExternalLink from '@/components/ui/ExternalLink.vue'
 
 /* the budget shows up the moment there's enough to work it out (US 1.1), in
    dollars a week, with the date the payment rates apply from. a polite live
    region, so a screen reader hears the new figure after each change without
-   being interrupted mid-word */
+   being interrupted mid-word. "how we worked this out" opens this
+   household's own sum, and the Centrelink link sits beside it for anyone who
+   wants to check what they can get (panel feedback) */
 
-defineProps<{ budget: BudgetEstimate | null; usesPayments: boolean }>()
+withDefaults(
+  defineProps<{
+    budget: BudgetEstimate | null
+    usesPayments: boolean
+    // an amount above has a problem, so say that instead of "answer first"
+    needsFix?: boolean
+  }>(),
+  { needsFix: false },
+)
 
 const { t } = useI18n()
 const { money, monthYear } = useFormat()
@@ -34,11 +46,16 @@ const { money, monthYear } = useFormat()
       <p v-if="usesPayments" class="budget-card__note">
         {{ t('income.ratesFrom', { date: monthYear(RATES_FROM) }) }}
       </p>
-      <RouterLink :to="{ name: 'how-it-works', hash: '#budget' }">
-        {{ t('income.howWorked') }}
-      </RouterLink>
     </template>
-    <p v-else class="budget-card__empty">{{ t('income.budgetEmpty') }}</p>
+    <p v-else class="budget-card__empty">
+      {{ needsFix ? t('income.budgetFix') : t('income.budgetEmpty') }}
+    </p>
+    <div class="budget-card__links">
+      <BudgetBreakdown v-if="budget" />
+      <ExternalLink href="https://www.servicesaustralia.gov.au/centrelink">
+        {{ t('income.centrelinkLink') }}
+      </ExternalLink>
+    </div>
   </div>
 </template>
 
@@ -46,7 +63,7 @@ const { money, monthYear } = useFormat()
 .budget-card {
   margin-top: 0.5rem;
   padding: 1rem 1.25rem;
-  border-inline-start: 6px solid var(--nr-wine);
+  border-inline-start: 6px solid var(--nr-wine-line);
   border-radius: var(--nr-radius);
   background: var(--nr-panel);
 }
@@ -57,11 +74,13 @@ const { money, monthYear } = useFormat()
   margin: 0;
 }
 
+/* a long figure wraps inside the card rather than running out of it */
 .budget-card__value {
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-size: clamp(1.75rem, 1.5rem + 1vw, 2.25rem);
   font-weight: 700;
   line-height: 1.2;
+  overflow-wrap: anywhere;
 }
 
 .budget-card__note {
@@ -71,5 +90,18 @@ const { money, monthYear } = useFormat()
 
 .budget-card__empty {
   color: var(--nr-ink-muted);
+}
+
+.budget-card__links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 1.25rem;
+}
+
+.budget-card__links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--nr-target);
 }
 </style>

@@ -24,6 +24,13 @@ export default {
     support: 'Get support',
     howItWorks: 'How it works',
     privacy: 'Privacy',
+    accessibility: 'Accessibility',
+  },
+  theme: {
+    legend: 'Theme',
+    default: 'Default',
+    dark: 'Dark',
+    contrast: 'High contrast',
   },
   footer: {
     label: 'Footer',
@@ -45,6 +52,8 @@ export default {
     aboutHeading: 'About New Roots',
     legal:
       '© {year} New Roots, Team C. A student project for Monash University ITO5002, and not part of any government department. Figures come from open government data, with dates shown beside them. Support service numbers are real.',
+    updated: 'Data last updated {date}.',
+    wcag: 'Built to meet WCAG 2.2 level AA.',
   },
   clear: {
     button: 'Clear my details',
@@ -65,6 +74,11 @@ export default {
   },
   languagePage: {
     title: 'Choose your language',
+    purpose: 'Find where you can afford to rent in Melbourne',
+    who: 'New Roots is a free guide for refugees and people seeking asylum looking for a first home. It works out the rent you can afford, then shows which suburbs fit your budget and your family.',
+    free: 'Free to use',
+    private: 'No account, nothing saved',
+    melbourne: 'Greater Melbourne',
     heading: 'What language do you speak?',
     lead: 'Choose one, and New Roots will appear in it.',
     more: 'More languages',
@@ -79,8 +93,8 @@ export default {
   },
   intro: {
     title: 'Welcome',
-    heading: 'Find a suburb that fits you',
-    lead: 'New Roots helps you choose where to start looking for your first home in Melbourne.',
+    heading: 'Find suburbs you can afford to rent in Melbourne',
+    lead: 'New Roots is for refugees and people seeking asylum looking for a first home in Greater Melbourne. Answer four short questions, and we’ll show you which suburbs fit your budget and your family.',
     doesHeading: 'What New Roots does',
     does1: 'Compares suburbs by rent for your home size',
     does2: 'Shows schools, English classes and your language community nearby',
@@ -89,9 +103,11 @@ export default {
     doesnt1: 'Doesn’t list homes for rent',
     doesnt2: 'Doesn’t give visa or legal advice',
     doesnt3: 'Isn’t part of any government department',
+    doesnt4: 'Doesn’t cover places outside Greater Melbourne yet',
     privacy: 'Nothing you enter is saved or shared, and you don’t need an account.',
     privacyLink: 'Read our privacy page',
-    start: 'Start',
+    start: 'Find suburbs I can afford',
+    steps: '4 short steps. No account, and nothing is saved.',
     helpNow: 'Need help now? See support services',
   },
   steps: {
@@ -170,6 +186,24 @@ export default {
     ratesFrom: 'Payment rates from {date}.',
     howWorked: 'How we worked this out',
     budgetEmpty: 'Your rent budget shows here once you’ve answered.',
+    budgetFix: 'Fix the amount above to see your rent budget.',
+    notSure: 'Not sure which payment you get?',
+    centrelinkLink: 'Find out about payments on the Centrelink website',
+    // each says what to change, not just "enter dollars" (teacher feedback)
+    money: {
+      per: {
+        week: 'a week',
+        fortnight: 'a fortnight',
+        month: 'a month',
+      },
+      empty: 'Enter an amount, like 650.',
+      negative: 'Take out the minus sign. Enter the amount as a positive number, like 650.',
+      notNumber:
+        'Use numbers only, like 650 or 650.50. Leave out letters and symbols other than the dollar sign and commas.',
+      decimals: 'Use no more than 2 numbers after the decimal point, like 650.50.',
+      zero: 'Enter an amount more than 0, like 650.',
+      tooBig: 'That’s more than New Roots can work with. Enter an amount up to {max} {each}.',
+    },
     errors: {
       source: 'Choose how your household gets money',
       yourPayment: 'Choose which payment you get, or None of these',
@@ -180,9 +214,46 @@ export default {
       twoParenting:
         'Only one person in a couple can get Parenting Payment. Change Adult 1 or Adult 2.',
       familyTax: 'Choose whether your family gets Family Tax Benefit',
-      wage: 'Enter how much your household earns, in dollars',
+      wage: 'Enter how much your household earns from work, in dollars, like 650',
       couple: 'Choose whether two of the adults are a couple',
+      forAdult: 'Adult {n}: {message}',
     },
+  },
+  breakdown: {
+    title: 'How we worked out your budget',
+    close: 'Close',
+    lead: 'These are the amounts we counted for your household, each changed to dollars a week.',
+    caption: 'Your weekly income and rent budget',
+    what: 'What we counted',
+    perWeek: 'A week',
+    payments: {
+      jobseeker: 'JobSeeker',
+      parenting: 'Parenting Payment',
+      other: 'Another payment',
+    },
+    adultPayment: 'Adult {n}: {payment}',
+    energyNote: 'The most you can get, including the Energy Supplement',
+    otherNote: 'The amount you entered each fortnight, halved',
+    familyTax: 'Family Tax Benefit',
+    familyTaxNote: 'Parts A and B for {children}, including the Energy Supplement',
+    rentAssistance: 'Rent Assistance',
+    rentAssistanceNote:
+      'The most you can get, since Melbourne rents are usually high enough to reach it',
+    wage: 'Pay from work',
+    wageWeekly: 'The amount you entered each week',
+    wageFrom: {
+      fortnight: '{amount} a fortnight, halved',
+      month: '{amount} a month, times 12, then divided by 52',
+    },
+    total: 'Your household’s income',
+    share: '30% of your income',
+    shareNote: 'The Victorian Rental Report’s measure of an affordable rent',
+    budget: 'Your rent budget',
+    roundNote: 'Rounded to the nearest 10 dollars',
+    maxRates:
+      'Payments use the maximum Centrelink rates from {date}. If you get less than that, your budget will be lower.',
+    method: 'How New Roots works out every budget',
+    done: 'Done',
   },
   communityLanguage: {
     title: 'Which language does your family speak at home?',
@@ -220,6 +291,9 @@ export default {
   priorities: {
     title: 'What else matters to you?',
     lead: 'Your budget always counts most. These change the order of suburbs within it.',
+    importanceHeading: 'How much does each of these matter?',
+    schoolsHeading: 'Schools',
+    schoolsHint: 'This decides which school distances count under Schools and English classes.',
     schools: 'Which schools do you need nearby?',
     primary: 'Primary',
     secondary: 'Secondary',
@@ -332,6 +406,13 @@ export default {
     },
     showMore: 'Show more suburbs',
     print: 'Print summary',
+    fresh:
+      'Figures for Greater Melbourne, last updated {date}. Use them as a starting point, not the only source.',
+    tracker: 'Your summary: {count} of {max} suburbs.',
+    trackerRoom:
+      'Add one more with Add to my summary. | Add up to {n} more with Add to my summary.',
+    trackerFull: 'That’s the most it holds, so remove one to add another.',
+    seeSummary: 'See my summary',
     loading: 'Finding suburbs that fit',
     errorTitle: 'We couldn’t load your suburbs',
     errorNetwork: 'Check your internet connection, then try again.',
@@ -370,6 +451,45 @@ export default {
     notRanked: 'Not ranked',
     close: 'Close {suburb}',
     pickPrompt: 'Choose a suburb on the map, or from the list below the map, to see its scores.',
+    contrast: 'High contrast',
+    contrastOn: 'On',
+    contrastOff: 'Off',
+    contrastKey:
+      'High contrast colours, darker for a better match. Every suburb has a black and white edge, so it stands out from its neighbours.',
+  },
+  dataNote: {
+    title: 'About these results',
+    hint: 'What the figures cover, how up to date they are, and their limits. Select to open.',
+    hintOpen: 'What the figures cover, how up to date they are, and their limits. Select to close.',
+    coverage:
+      'Covers {count} suburbs in Greater Melbourne only. Regional Victoria isn’t included yet.',
+    coverageShort: 'Covers suburbs in Greater Melbourne only.',
+    rents:
+      'Rents are medians from new leases over the past year, not homes for rent today. Some are estimates from the council area.',
+    updated: 'Data updated {date}.',
+    schedule: 'Rents update every quarter, and payment rates each March and September.',
+    startingPoint:
+      'Use New Roots as a starting point, not the only source. Check listings, and talk to a settlement worker or Centrelink before you decide.',
+    more: 'How often the data is updated',
+  },
+  nextSteps: {
+    title: 'What to do next',
+    pickTitle: 'Choose up to {max} suburbs',
+    pickBody:
+      'Your summary has {count} of {max}. Open a suburb to see why it ranks where it does, then add or remove it.',
+    printTitle: 'Print or save your summary',
+    printBody:
+      'Take it to your caseworker or settlement worker. It has no names, addresses or visa details.',
+    readyTitle: 'Get your documents ready',
+    readyBody:
+      'Agents can ask for up to 2 documents that show who you are, and up to 2 that show you can pay, like payslips or Centrelink letters.',
+    readyLink: 'What agents can and can’t ask for',
+    searchTitle: 'Look for homes in your suburbs',
+    searchBody: 'Search each suburb on a rental website, and check each rent against your budget.',
+    helpTitle: 'Get help with applying',
+    helpBody:
+      'A settlement worker or Tenants Victoria can help with applications, bonds and your rights as a renter.',
+    helpLink: 'See housing support',
   },
   suburb: {
     title: 'Suburb details',
@@ -426,7 +546,7 @@ export default {
     remove: 'Remove from my summary',
     added: '{suburb} added to your summary.',
     removed: '{suburb} removed from your summary.',
-    full: 'Your summary already has three suburbs. Remove one to add another.',
+    full: 'Your summary already has {max} suburbs, the most it holds. Remove one to add another.',
     notFound: 'We couldn’t find that suburb.',
   },
   nothingFits: {
@@ -450,21 +570,31 @@ export default {
     budget: 'Budget about {amount} a week',
     ratesFrom: 'Payment rates from {date}.',
     suburbs: 'Your top suburbs',
-    yourPicks: 'These are the suburbs you chose. Add or remove suburbs from your results.',
-    topThree: 'These are your top three. Add or remove suburbs from your results.',
+    yourPicks:
+      'These are the suburbs you chose, up to {max}. Add or remove suburbs from your results.',
+    topThree:
+      'These are your top three. Your summary holds up to {max}, so you can add more from your results.',
     noSuburbs: 'No suburb fits this budget yet. A settlement worker can help you look.',
-    noPicks: 'You’ve removed every suburb. Add up to three from your results.',
+    noPicks: 'You’ve removed every suburb. Add up to {max} from your results.',
     primary: 'Primary school {distance}',
     secondary: 'Secondary school {distance}',
     englishClass: 'English class {distance}',
+    rentEstimated: '{amount} a week, estimated',
+    schools: 'Schools: {list}',
+    primaryShort: 'primary {distance}',
+    secondaryShort: 'secondary {distance}',
+    estimateNote:
+      'Estimated rents come from the council area or nearby suburbs, since the Rental Report has no figure for that suburb.',
     nextSteps: 'Next steps',
-    step1: 'Search these suburbs on {realestate} or {domain}',
+    step1: 'Check current listings for these suburbs on {realestate} or {domain}',
     step2: 'Ask your caseworker about bond loans',
+    stepApply: 'Get your ID and proof of income ready, like Centrelink letters',
     step3: 'Check school zones on {findMySchool}',
     privacy: 'No names, addresses or visa details are included.',
     print: 'Print or save as PDF',
     back: 'Back to results',
     made: 'Made with New Roots on {date}.',
+    dataLine: 'Data updated {date}.',
   },
   privacy: {
     title: 'Privacy',
@@ -508,6 +638,31 @@ export default {
       'Budget fit drops sharply once rent goes past 30% of income. If you’d take a flat or a house, each suburb uses whichever is cheaper. Where the Rental Report has no figure for a suburb, we use its council area’s median, or nearby suburbs, and mark the rent as an estimate.',
     rank4:
       'Suburbs within your budget come first, then suburbs where rent is up to 35% of income. Every other suburb is still listed after them, marked Above budget or No rent figure yet. Your language community changes the order but never hides a suburb.',
+    coverageHeading: 'What New Roots covers',
+    coverage1:
+      'New Roots covers suburbs across Greater Melbourne only. It doesn’t include regional Victoria or other states yet.',
+    coverage2:
+      'It shows areas worth searching, not homes for rent. Once you’ve chosen suburbs, you’ll still need to search listings and apply for a home.',
+    updatesHeading: 'How up to date it is',
+    updated: 'We last updated the data on {date}.',
+    schedule: {
+      rents: 'Rents: every quarter, when Homes Victoria publishes the Rental Report.',
+      payments: 'Centrelink payment rates: each March and September, when the rates change.',
+      census: 'Languages spoken at home: from the Census, which runs every five years.',
+      places:
+        'Schools, English classes, doctors, public transport and crime figures: we check for new versions every quarter.',
+    },
+    disclaimerHeading: 'A starting point, not the only source',
+    disclaimer1:
+      'Figures are averages for a whole suburb, and rents are medians from past leases. They can’t tell you about one street or home, or what’s for rent today.',
+    disclaimer2:
+      'Before you decide, check current listings, ask Centrelink what you’ll get, and talk to a settlement worker or caseworker.',
+    updates: {
+      quarterly: 'We update it every quarter',
+      twiceYearly: 'We update it each March and September',
+      census: 'We update it with each Census, every five years',
+      checkedQuarterly: 'We check for a new version every quarter',
+    },
     dataHeading: 'Where the data comes from',
     dataLead:
       'Every source is openly licensed. We don’t copy data from websites without permission.',
@@ -533,29 +688,53 @@ export default {
     emergency: 'In an emergency, call 000 for police, fire or ambulance.',
     interpreter:
       'Need an interpreter? Call TIS National on 131 450 and ask them to connect you to any service here. Most TIS calls are free for you.',
-    filterLabel: 'Show services for',
+    filterLabel: 'What do you need help with?',
     all: 'Everything',
+    allTitle: 'Every service',
+    allHint: 'Every service we list, for any need',
+    changeNeed: 'Choose a different need',
     asylumOnly: 'Open to people seeking asylum',
     count: 'Showing {n} service | Showing {n} services',
     call: 'Call {phone}',
     website: 'Website',
     websiteFor: 'for {service}',
     checked: 'Phone numbers and links checked {date}. Services can change, so check with them too.',
+    checkedOn: 'Details checked {date}',
+    moreHeading: 'Can’t find what you need?',
+    moreBody:
+      'Ask Izzy lists thousands of free services across Australia, like food, shelter and health care. You can search near any suburb.',
+    moreLink: 'Search Ask Izzy',
+    moreLinkNeed: 'Search Ask Izzy for {need}',
     notPartOf: 'New Roots isn’t part of any of these services.',
     categories: {
       urgent: 'Urgent help',
       housing: 'Housing',
-      settlement: 'Settling in',
+      food: 'Food and everyday needs',
+      money: 'Money and Centrelink',
       legal: 'Legal and visas',
       health: 'Health and wellbeing',
+      settlement: 'Settling in',
       english: 'English and school',
-      money: 'Money and food',
+      work: 'Work and training',
+    },
+    categoryHints: {
+      urgent: 'Danger, violence or nowhere to sleep',
+      housing: 'Renting, bonds and your rights',
+      food: 'Food, vouchers and bills',
+      money: 'Payments and debt help',
+      legal: 'Visas and legal advice',
+      health: 'Doctors, counselling and trauma',
+      settlement: 'Settlement help and interpreters',
+      english: 'English classes and school',
+      work: 'Finding work and training',
     },
     hours: {
       always: '24 hours, every day',
       refugeeLegal: 'Advice line: Wednesday and Friday, 10am to 2pm',
       legalAid: 'Monday to Friday, 8am to 6pm',
       servicesAustralia: 'Monday to Friday, 8am to 5pm',
+      salvos: 'Monday to Friday, 9am to 4pm',
+      debtHelpline: 'Monday to Friday, 9:30am to 4:30pm',
     },
     visa: {
       permanentOnly: 'For permanent residents only',
@@ -585,7 +764,50 @@ export default {
       amep: 'Free English classes for eligible migrants and refugees, with free childcare while you study.',
       findMySchool: 'Check which government school zone an address is in.',
       servicesAustralia: 'Talk to Centrelink in your language about payments.',
+      vinnies:
+        'Food, vouchers and help with bills for anyone who is struggling. Give your postcode and they’ll connect you to local volunteers.',
+      salvos:
+        'Emergency relief, such as food vouchers and help with bills, after a short assessment over the phone.',
+      debtHelpline:
+        'Free, confidential help from a financial counsellor if you’re struggling with bills or debt.',
+      refugeePayments:
+        'Which Centrelink payments refugees and people seeking asylum may be able to get, with information in many languages.',
+      jobsVictoria: 'Free help to find work, from matching you with jobs to support from a mentor.',
     },
+  },
+  accessibility: {
+    title: 'Accessibility',
+    lead: 'New Roots is built to meet the Web Content Accessibility Guidelines (WCAG) 2.2 at level AA, so it works on a phone, with a keyboard or with a screen reader.',
+    contrastHeading: 'Colours and contrast',
+    contrast:
+      'Choose Default for the New Roots colours, Dark for light text on a dark background, or High contrast for black text on white with blue links and a black edge on every shape. High contrast meets the stricter AAA level, and turns on by itself if your phone is set to increase contrast.',
+    mapContrast:
+      'The map has its own High contrast switch, which changes only the map. Suburbs run from white through yellow, teal and blue to black as the match gets better. Every edge is a black line with white either side, so it stands out at 5:1 or more against any colour.',
+    doneHeading: 'What we’ve done',
+    done1:
+      'Text has at least 4.5 to 1 contrast with its background, and buttons, fields and focus outlines have at least 3 to 1.',
+    done2: 'Every button and option is at least 48 pixels tall, twice the size WCAG 2.2 asks for.',
+    done3:
+      'Body text is 16 pixels, typing in a form field is 18, and text outside the map is never smaller than 14.',
+    done4:
+      'Colour never carries meaning on its own. Budget labels pair an icon with words, and the list has every suburb and score the map shows.',
+    done5:
+      'Everything works with a keyboard, and screen readers are told when a page or a result changes.',
+    done6:
+      'Pages fit screens from 320 pixels wide without sideways scrolling, and still work with text made twice as large.',
+    testedHeading: 'How we check',
+    tested:
+      'Before each release, we run automated accessibility checks on every page and measure the contrast of every colour pair. We last checked in November 2026.',
+    limitsHeading: 'Where we fall short',
+    limit1:
+      'Neighbouring colours on the map can be hard to tell apart. Turn on the map’s High contrast colours, or use the list, which has the same suburbs and scores.',
+    limit2:
+      'Map labels are small when the map is zoomed out. Zoom in, or choose a suburb from the list under the map.',
+    limit3:
+      'New Roots is only in English for now. For an interpreter, call TIS National on 131 450.',
+    helpHeading: 'Need help using New Roots?',
+    help: 'A settlement worker or caseworker can go through New Roots with you, and TIS National can interpret for free on most calls.',
+    helpLink: 'See support services',
   },
   notFound: {
     title: 'Page not found',

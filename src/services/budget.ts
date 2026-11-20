@@ -1,4 +1,4 @@
-import type { AdultIncome, BudgetEstimate, IncomeAnswers, PayPeriod } from '@/types'
+import type { AdultIncome, BudgetEstimate, BudgetPart, IncomeAnswers, PayPeriod } from '@/types'
 import { RATES } from '@/data/centrelink-rates'
 
 // the rental report calls a home affordable when rent is at most 30% of income
@@ -69,7 +69,9 @@ export function bothPartnersOnParenting(
    a couple are adults 1 and 2 and get the partnered rates. anyone else, like
    a grown-up child, is single. one single parent on jobseeker gets the higher
    with-children rate, unless the carer is already on parenting payment */
-function weeklyPayments(answers: IncomeAnswers): { amount: number; rentAssistance: number } | null {
+function weeklyPayments(
+  answers: IncomeAnswers,
+): { parts: BudgetPart[]; rentAssistance: number } | null {
   const hasChildren = answers.children > 0
   const couple = isCouple(answers)
   const people = incomesOf(answers)
@@ -84,14 +86,15 @@ function weeklyPayments(answers: IncomeAnswers): { amount: number; rentAssistanc
   const familyTax = hasChildren && answers.familyTax === 'yes'
   let singleParentRate =
     !couple && hasChildren && !people.some(({ payment }) => payment === 'parenting')
-  let amount = 0
+  const parts: BudgetPart[] = []
   let fromCentrelink = familyTax
 
   for (const [index, person] of people.entries()) {
     const partnered = couple && index < 2
     if (person.payment === 'parenting') {
       const rate = partnered ? 'partnered' : 'single'
-      amount += RATES.parenting[rate] + RATES.parentingEnergy[rate]
+      const weekly = RATES.parenting[rate] + RATES.parentingEnergy[rate]
+      parts.push({ kind: 'payment', adult: index + 1, payment: 'parenting', weekly })
       fromCentrelink = true
     } else if (person.payment === 'jobseeker') {
       let rate: 'partnered' | 'singleWithChildren' | 'singleNoChildren' = 'singleNoChildren'
@@ -100,11 +103,13 @@ function weeklyPayments(answers: IncomeAnswers): { amount: number; rentAssistanc
         rate = 'singleWithChildren'
         singleParentRate = false
       }
-      amount += RATES.jobseeker[rate] + RATES.jobseekerEnergy[rate]
+      const weekly = RATES.jobseeker[rate] + RATES.jobseekerEnergy[rate]
+      parts.push({ kind: 'payment', adult: index + 1, payment: 'jobseeker', weekly })
       fromCentrelink = true
     } else if (person.payment === 'other') {
       if (!person.otherFortnight || person.otherFortnight <= 0) return null
-      amount += toWeekly(person.otherFortnight, 'fortnight')
+      const weekly = toWeekly(person.otherFortnight, 'fortnight')
+      parts.push({ kind: 'payment', adult: index + 1, payment: 'other', weekly })
       fromCentrelink = true
     }
   }
@@ -115,12 +120,13 @@ function weeklyPayments(answers: IncomeAnswers): { amount: number; rentAssistanc
   if (familyTax) {
     const teens = Math.min(answers.teens, answers.children)
     const younger = answers.children - teens
-    amount += younger * (RATES.ftbA.child0to12 + RATES.ftbAEnergy.child0to12)
-    amount += teens * (RATES.ftbA.child13to19 + RATES.ftbAEnergy.child13to19)
+    let weekly = younger * (RATES.ftbA.child0to12 + RATES.ftbAEnergy.child0to12)
+    weekly += teens * (RATES.ftbA.child13to19 + RATES.ftbAEnergy.child13to19)
     // until they say, assume the youngest is 5 or older, the lower rate
     const underFive = answers.youngestUnderFive === 'yes'
-    amount += underFive ? RATES.ftbB.youngestUnder5 : RATES.ftbB.youngest5to18
-    amount += underFive ? RATES.ftbBEnergy.youngestUnder5 : RATES.ftbBEnergy.youngest5to18
+    weekly += underFive ? RATES.ftbB.youngestUnder5 : RATES.ftbB.youngest5to18
+    weekly += underFive ? RATES.ftbBEnergy.youngestUnder5 : RATES.ftbBEnergy.youngest5to18
+    parts.push({ kind: 'familyTax', weekly })
   }
 
   const ra = RATES.rentAssistance
@@ -137,30 +143,44 @@ function weeklyPayments(answers: IncomeAnswers): { amount: number; rentAssistanc
       ? ra.couple
       : ra.single
 
-  return { amount: amount + rentAssistance, rentAssistance }
+  parts.push({ kind: 'rentAssistance', weekly: rentAssistance })
+  return { parts, rentAssistance }
+}
+
+// every amount that goes into the budget, one line each, for the "how we
+// worked this out" breakdown. null until there's enough to work it out
+export function budgetParts(answers: IncomeAnswers): BudgetPart[] | null {
+  if (!answers.source) return null
+  const parts: BudgetPart[] = []
+
+  if (usesPayments(answers)) {
+    const payments = weeklyPayments(answers)
+    if (!payments) return null
+    parts.push(...payments.parts)
+  }
+
+  if (usesWork(answers)) {
+    if (!answers.wageAmount || answers.wageAmount <= 0) return null
+    parts.push({
+      kind: 'wage',
+      weekly: toWeekly(answers.wageAmount, answers.wagePeriod),
+      amount: answers.wageAmount,
+      period: answers.wagePeriod,
+    })
+  }
+
+  return parts.length ? parts : null
 }
 
 // returns null until there's enough to work a budget out, so the UI can show
 // an empty state instead of $0
 export function estimateBudget(answers: IncomeAnswers): BudgetEstimate | null {
-  if (!answers.source) return null
+  const parts = budgetParts(answers)
+  if (!parts) return null
 
-  let income = 0
-  let rentAssistance = 0
-
-  if (usesPayments(answers)) {
-    const payments = weeklyPayments(answers)
-    if (!payments) return null
-    income += payments.amount
-    rentAssistance = payments.rentAssistance
-  }
-
-  if (usesWork(answers)) {
-    if (!answers.wageAmount || answers.wageAmount <= 0) return null
-    income += toWeekly(answers.wageAmount, answers.wagePeriod)
-  }
-
+  const income = parts.reduce((total, part) => total + part.weekly, 0)
   if (income <= 0) return null
+  const rentAssistance = parts.find((part) => part.kind === 'rentAssistance')?.weekly ?? 0
 
   return {
     weekly: roundToTen(income * AFFORDABLE_SHARE),
@@ -169,11 +189,34 @@ export function estimateBudget(answers: IncomeAnswers): BudgetEstimate | null {
   }
 }
 
-// parses what someone typed into a money field. accepts $1,250 or 1250.50,
-// returns null for anything that isn't a positive amount
-export function parseMoney(text: string): number | null {
+// the most each money field takes. well past anyone this is for, and low
+// enough that a slip of the finger can't push the budget off the screen
+export const WAGE_MAX: Record<PayPeriod, number> = { week: 10000, fortnight: 20000, month: 40000 }
+export const OTHER_PAYMENT_MAX = 5000
+// "$40,000.00" is 10 characters, so the field stops there
+export const MONEY_MAX_LENGTH = 10
+
+export type MoneyProblem = 'empty' | 'negative' | 'zero' | 'notNumber' | 'decimals' | 'tooBig'
+
+// what someone typed into a money field, and what's wrong with it if anything,
+// so the error can say exactly what to change. $1,250 and 1250.50 are fine
+export function checkMoney(
+  text: string,
+  max = Number.POSITIVE_INFINITY,
+): { value: number | null; problem: MoneyProblem | null } {
   const cleaned = text.replace(/[$,\s]/g, '')
-  if (cleaned === '' || !/^\d+(\.\d{1,2})?$/.test(cleaned)) return null
+  if (cleaned === '') return { value: null, problem: 'empty' }
+  // a hyphen, a minus sign or an en dash all read as minus
+  if (/^[-\u2212\u2013]/.test(cleaned)) return { value: null, problem: 'negative' }
+  if (/^\d+\.\d{3,}$/.test(cleaned)) return { value: null, problem: 'decimals' }
+  if (!/^(\d+(\.\d{1,2})?|\.\d{1,2})$/.test(cleaned)) return { value: null, problem: 'notNumber' }
   const value = Number(cleaned)
-  return value > 0 ? value : null
+  if (value === 0) return { value: null, problem: 'zero' }
+  if (value > max) return { value: null, problem: 'tooBig' }
+  return { value, problem: null }
+}
+
+// the number a money field means, or null for anything that isn't a positive amount
+export function parseMoney(text: string): number | null {
+  return checkMoney(text).value
 }

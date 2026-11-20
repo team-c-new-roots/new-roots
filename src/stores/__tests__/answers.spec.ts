@@ -1,6 +1,6 @@
 import { beforeEach, describe, expect, it } from 'vitest'
 import { createPinia, setActivePinia } from 'pinia'
-import { SHORTLIST_MAX, useAnswersStore } from '../answers'
+import { SHORTLIST_MAX, SHORTLIST_START, useAnswersStore } from '../answers'
 
 describe('answers store', () => {
   beforeEach(() => {
@@ -69,21 +69,28 @@ describe('answers store', () => {
   })
 
   // US 2.4, the summary starts as the top three and becomes their own list
-  // the first time they add or remove a suburb
+  // the first time they add or remove a suburb. it holds up to five
   const TOP = ['a', 'b', 'c']
+
+  it('holds five and starts with three', () => {
+    expect(SHORTLIST_MAX).toBe(5)
+    expect(SHORTLIST_START).toBe(3)
+  })
 
   it('starts the summary with the top three and follows them until it changes', () => {
     const answers = useAnswersStore()
     expect(answers.summaryIds(TOP)).toEqual(TOP)
-    expect(answers.summaryIds(['d', 'e', 'f', 'g'])).toHaveLength(SHORTLIST_MAX)
+    expect(answers.summaryIds(['d', 'e', 'f', 'g'])).toHaveLength(SHORTLIST_START)
     expect(answers.summaryIds(['d'])).toEqual(['d'])
   })
 
-  it('asks them to remove one before adding a fourth, and changes nothing', () => {
+  it('adds a fourth and fifth, then asks them to remove one and changes nothing', () => {
     const answers = useAnswersStore()
-    expect(answers.toggleShortlist('d', TOP)).toBe(false)
-    expect(answers.shortlist).toBeNull()
-    expect(answers.summaryIds(['x', 'y', 'z'])).toEqual(['x', 'y', 'z'])
+    expect(answers.toggleShortlist('d', TOP)).toBe(true)
+    expect(answers.toggleShortlist('e', TOP)).toBe(true)
+    expect(answers.summaryIds(TOP)).toEqual(['a', 'b', 'c', 'd', 'e'])
+    expect(answers.toggleShortlist('f', TOP)).toBe(false)
+    expect(answers.summaryIds(TOP)).toHaveLength(SHORTLIST_MAX)
   })
 
   it('swaps a suburb in once they remove one, the way Daniel tried with Hampton Park', () => {
@@ -94,7 +101,9 @@ describe('answers store', () => {
     expect(answers.summaryIds(TOP)).toEqual(['a', 'c', 'd'])
     // their own list stays put if the ranking changes
     expect(answers.summaryIds(['x', 'y', 'z'])).toEqual(['a', 'c', 'd'])
-    expect(answers.toggleShortlist('e', TOP)).toBe(false)
+    expect(answers.toggleShortlist('e', TOP)).toBe(true)
+    expect(answers.toggleShortlist('f', TOP)).toBe(true)
+    expect(answers.toggleShortlist('g', TOP)).toBe(false)
   })
 
   it('adds to a top three that has room without asking', () => {

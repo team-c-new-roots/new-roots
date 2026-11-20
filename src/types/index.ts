@@ -53,6 +53,14 @@ export interface BudgetEstimate {
   rentAssistanceWeekly: number
 }
 
+// one line of the budget breakdown, in dollars a week. payments include
+// their energy supplement, family tax benefit is parts A and B together
+export type BudgetPart =
+  | { kind: 'payment'; adult: number; payment: 'jobseeker' | 'parenting' | 'other'; weekly: number }
+  | { kind: 'familyTax'; weekly: number }
+  | { kind: 'rentAssistance'; weekly: number }
+  | { kind: 'wage'; weekly: number; amount: number; period: PayPeriod }
+
 // the home the rent figures describe, after fitting the request to what the
 // rental report publishes
 export interface HomeLabel {

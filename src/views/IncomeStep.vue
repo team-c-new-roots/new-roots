@@ -21,7 +21,16 @@ import {
 import { useAnswersStore } from '@/stores/answers'
 import { CENSUS_NAMES } from '@/data/languages'
 import { useLanguageStore } from '@/stores/language'
-import { bothPartnersOnParenting, needsCoupleAnswer, parseMoney } from '@/services/budget'
+import {
+  MONEY_MAX_LENGTH,
+  OTHER_PAYMENT_MAX,
+  WAGE_MAX,
+  bothPartnersOnParenting,
+  checkMoney,
+  needsCoupleAnswer,
+  type MoneyProblem,
+} from '@/services/budget'
+import { useFormat } from '@/composables/useFormat'
 import { MAX_CHILDREN } from '@/services/household'
 import type { AdultPayment, ChoiceOption, IncomeSource, PayPeriod, YesNo } from '@/types'
 import StepLayout from '@/components/steps/StepLayout.vue'
@@ -29,6 +38,7 @@ import BudgetCard from '@/components/steps/BudgetCard.vue'
 import RadioGroup from '@/components/ui/RadioGroup.vue'
 import BaseField from '@/components/ui/BaseField.vue'
 import NumberStepper from '@/components/ui/NumberStepper.vue'
+import CentrelinkHint from '@/components/steps/CentrelinkHint.vue'
 
 /* step 2. Centrelink payments, work income or both. work income sits beside
    Centrelink because people seeking asylum usually can't get Centrelink and
@@ -44,12 +54,18 @@ import NumberStepper from '@/components/ui/NumberStepper.vue'
    step 1 has children, with a line saying so when there are none.
 
    help for pay that changes week to week opens under the pay question
-   rather than sitting in a hover tooltip, which phones can't show */
+   rather than sitting in a hover tooltip, which phones can't show.
+
+   money fields say exactly what's wrong (a minus sign, a letter, too big)
+   rather than "enter dollars", in red, once someone leaves the field or
+   presses Next. they stop at 10 characters and a sensible top amount, so
+   the budget can't be pushed off the card (teacher feedback) */
 
 const { t } = useI18n()
 const router = useRouter()
 const answers = useAnswersStore()
 const language = useLanguageStore()
+const { money } = useFormat()
 
 const sourceOptions = computed<ChoiceOption<IncomeSource>[]>(() => [
   { value: 'payments', label: t('income.payments'), icon: Landmark },
@@ -120,18 +136,60 @@ const wageText = ref(answers.wageAmount?.toString() ?? '')
 function setOther(index: number, text: string) {
   otherTexts.value[index] = text
   const income = answers.incomes[index]
-  if (income) income.otherFortnight = parseMoney(text)
+  if (income) income.otherFortnight = checkMoney(text, OTHER_PAYMENT_MAX).value
 }
-watch(wageText, (text) => {
-  answers.wageAmount = parseMoney(text)
-})
+const wageCheck = computed(() => checkMoney(wageText.value, WAGE_MAX[answers.wagePeriod]))
+watch(
+  wageCheck,
+  (check) => {
+    answers.wageAmount = check.value
+  },
+  { immediate: true },
+)
+
+// a field someone has typed in and left. its format problems show straight
+// away, but "it's empty" waits for Next
+const left = ref<string[]>([])
+function leave(id: string) {
+  if (!left.value.includes(id)) left.value.push(id)
+}
+
+// the words for each problem with a money field
+function moneyMessage(problem: MoneyProblem, max: number, period: PayPeriod): string {
+  const each = t(`income.money.per.${period}`)
+  return t(`income.money.${problem}`, { max: money(max), each })
+}
+
+const anyMoneyProblem = computed(
+  () =>
+    (usesWork.value && wageCheck.value.problem !== null && wageCheck.value.problem !== 'empty') ||
+    (usesPayments.value &&
+      answers.incomes.some(
+        (income, index) =>
+          income.payment === 'other' &&
+          !['empty', null].includes(checkMoney(otherTexts.value[index] ?? '').problem),
+      )),
+)
 
 // errors show after Next and clear one by one as they're fixed. a new one,
-// like a field that only appeared after answering, waits for the next Next
+// like a field that only appeared after answering, waits for the next Next.
+// a money field that's been typed in and left shows its problem straight away
 const shown = ref<string[]>([])
 const errors = computed(() =>
-  Object.fromEntries(Object.entries(validate()).filter(([key]) => shown.value.includes(key))),
+  Object.fromEntries(
+    Object.entries(validate()).filter(
+      ([key]) => shown.value.includes(key) || (left.value.includes(key) && !emptyField(key)),
+    ),
+  ),
 )
+
+function emptyField(key: string): boolean {
+  if (key === 'wage-amount') return wageCheck.value.problem === 'empty'
+  const match = /^adult-(\d+)-other$/.exec(key)
+  return match
+    ? checkMoney(otherTexts.value[Number(match[1]) - 1] ?? '').problem === 'empty'
+    : false
+}
 
 function validate(): Record<string, string> {
   const found: Record<string, string> = {}
@@ -145,10 +203,18 @@ function validate(): Record<string, string> {
         found[`adult-${n}-first`] = several.value
           ? t('income.errors.adultPayment', { n })
           : t('income.errors.yourPayment')
-      } else if (income.payment === 'other' && income.otherFortnight === null) {
-        found[`adult-${n}-other`] = several.value
-          ? t('income.errors.adultOther', { n })
-          : t('income.errors.other')
+      } else if (income.payment === 'other') {
+        const { problem } = checkMoney(otherTexts.value[index] ?? '', OTHER_PAYMENT_MAX)
+        if (problem === 'empty') {
+          found[`adult-${n}-other`] = several.value
+            ? t('income.errors.adultOther', { n })
+            : t('income.errors.other')
+        } else if (problem) {
+          const message = moneyMessage(problem, OTHER_PAYMENT_MAX, 'fortnight')
+          found[`adult-${n}-other`] = several.value
+            ? t('income.errors.forAdult', { n, message })
+            : message
+        }
       }
     })
     if (bothPartnersOnParenting(answers)) found['adult-2-first'] ??= t('income.errors.twoParenting')
@@ -161,7 +227,12 @@ function validate(): Record<string, string> {
       found['adult-1-first'] = t('income.errors.noPayments')
     }
   }
-  if (usesWork.value && answers.wageAmount === null) found['wage-amount'] = t('income.errors.wage')
+  if (usesWork.value && wageCheck.value.problem) {
+    found['wage-amount'] =
+      wageCheck.value.problem === 'empty'
+        ? t('income.errors.wage')
+        : moneyMessage(wageCheck.value.problem, WAGE_MAX[answers.wagePeriod], answers.wagePeriod)
+  }
   return found
 }
 
@@ -229,12 +300,15 @@ function next() {
           :error="errors[`adult-${index + 1}-other`]"
           prefix="$"
           inputmode="decimal"
+          :maxlength="MONEY_MAX_LENGTH"
           @update:model-value="(text: string) => setOther(index, text)"
+          @blur="leave(`adult-${index + 1}-other`)"
         />
       </template>
       <p v-if="answers.children === 0" class="note income__child-note">
         {{ t('income.childPaymentsNote') }}
       </p>
+      <CentrelinkHint />
 
       <template v-if="askFamilyTax">
         <RadioGroup
@@ -281,6 +355,8 @@ function next() {
         :error="errors['wage-amount']"
         prefix="$"
         inputmode="decimal"
+        :maxlength="MONEY_MAX_LENGTH"
+        @blur="leave('wage-amount')"
       />
       <details class="pay-help">
         <summary>
@@ -301,7 +377,11 @@ function next() {
       />
     </template>
 
-    <BudgetCard :budget="answers.budget" :uses-payments="usesPayments" />
+    <BudgetCard
+      :budget="answers.budget"
+      :uses-payments="usesPayments"
+      :needs-fix="anyMoneyProblem"
+    />
   </StepLayout>
 </template>
 
@@ -328,7 +408,7 @@ function next() {
   align-items: center;
   gap: 0.5rem;
   min-height: var(--nr-target);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-weight: 700;
   cursor: pointer;
   list-style: none;

@@ -7,11 +7,24 @@ export function useFormat() {
   const { t, n, locale } = useI18n()
 
   const money = (value: number) => n(value, 'currency')
+  const cents = (value: number) => n(value, 'cents')
   const km = (value: number) => n(value, 'km')
   // the data stores percents as 9 for 9%, Intl wants 0.09
   const percent = (value: number) => n(value / 100, 'percent')
   const decimal = (value: number) => n(value, 'decimal')
   const whole = (value: number) => n(value, 'whole')
+
+  // 2026-11-15 to 15 November 2026, same UTC reading
+  function fullDate(iso: string) {
+    const date = new Date(`${iso}T00:00:00Z`)
+    if (Number.isNaN(date.getTime())) return iso
+    return new Intl.DateTimeFormat(locale.value, {
+      day: 'numeric',
+      month: 'long',
+      year: 'numeric',
+      timeZone: 'UTC',
+    }).format(date)
+  }
 
   // 2026-09-20 to September 2026. read as UTC so no time zone moves the month
   function monthYear(iso: string) {
@@ -29,5 +42,5 @@ export function useFormat() {
     return t(`homes.${label.type}`, { beds })
   }
 
-  return { money, km, percent, decimal, whole, monthYear, home }
+  return { money, cents, km, percent, decimal, whole, monthYear, fullDate, home }
 }

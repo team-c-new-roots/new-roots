@@ -22,6 +22,14 @@ export const i18n = createI18n({
         currencyDisplay: 'narrowSymbol',
         maximumFractionDigits: 0,
       },
+      // the budget breakdown adds up to the cent, so it shows them
+      cents: {
+        style: 'currency',
+        currency: 'AUD',
+        currencyDisplay: 'narrowSymbol',
+        minimumFractionDigits: 2,
+        maximumFractionDigits: 2,
+      },
       percent: { style: 'percent', maximumFractionDigits: 1 },
       km: { style: 'unit', unit: 'kilometer', unitDisplay: 'short', maximumFractionDigits: 1 },
       decimal: { maximumFractionDigits: 1 },

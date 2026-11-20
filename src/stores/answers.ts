@@ -3,6 +3,7 @@ import { defineStore } from 'pinia'
 import type {
   AdultIncome,
   HomeType,
+  IncomeAnswers,
   Importance,
   IncomeSource,
   PayPeriod,
@@ -10,7 +11,7 @@ import type {
   SchoolNeed,
   YesNo,
 } from '@/types'
-import { blankAdult, estimateBudget } from '@/services/budget'
+import { blankAdult, budgetParts, estimateBudget } from '@/services/budget'
 import { homeRequest, suggestBedrooms } from '@/services/household'
 import { DEFAULT_IMPORTANCE } from '@/data/topics'
 import { ENGLISH } from '@/data/languages'
@@ -19,8 +20,10 @@ import { ENGLISH } from '@/data/languages'
    never localStorage or sessionStorage, so closing the tab really does
    forget it. on a shared phone that matters more than surviving a refresh */
 
-// US 2.4, the summary holds up to three suburbs
-export const SHORTLIST_MAX = 3
+// US 2.4, the summary holds up to five suburbs and starts with the top three.
+// five still prints on one A4 page, and leaves room for their own picks
+export const SHORTLIST_MAX = 5
+export const SHORTLIST_START = 3
 
 export const useAnswersStore = defineStore('answers', () => {
   const adults = ref(1)
@@ -95,20 +98,22 @@ export const useAnswersStore = defineStore('answers', () => {
     },
   })
 
-  const budget = computed(() =>
-    estimateBudget({
-      source: incomeSource.value,
-      incomes: incomes.value,
-      familyTax: familyTax.value,
-      wageAmount: wageAmount.value,
-      wagePeriod: wagePeriod.value,
-      adults: adults.value,
-      children: children.value,
-      couple: couple.value,
-      teens: teens.value,
-      youngestUnderFive: youngestUnderFive.value,
-    }),
-  )
+  const incomeAnswers = computed<IncomeAnswers>(() => ({
+    source: incomeSource.value,
+    incomes: incomes.value,
+    familyTax: familyTax.value,
+    wageAmount: wageAmount.value,
+    wagePeriod: wagePeriod.value,
+    adults: adults.value,
+    children: children.value,
+    couple: couple.value,
+    teens: teens.value,
+    youngestUnderFive: youngestUnderFive.value,
+  }))
+
+  const budget = computed(() => estimateBudget(incomeAnswers.value))
+  // the same sum line by line, for "how we worked this out" (US 1.1)
+  const budgetLines = computed(() => budgetParts(incomeAnswers.value))
 
   // the results only make sense once there's a budget
   const incomeDone = computed(() => budget.value !== null)
@@ -150,7 +155,7 @@ export const useAnswersStore = defineStore('answers', () => {
   // the suburbs in the summary: their own list once they've changed it,
   // otherwise the top three
   function summaryIds(topThree: string[]): string[] {
-    return shortlist.value ?? topThree.slice(0, SHORTLIST_MAX)
+    return shortlist.value ?? topThree.slice(0, SHORTLIST_START)
   }
 
   // the first change starts their list from the top three, so nothing they
@@ -210,6 +215,7 @@ export const useAnswersStore = defineStore('answers', () => {
     bedrooms,
     schoolNeed,
     budget,
+    budgetLines,
     incomeDone,
     home,
     censusLanguage,

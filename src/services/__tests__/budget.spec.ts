@@ -1,6 +1,15 @@
 import { describe, expect, it } from 'vitest'
 import type { AdultPayment, IncomeAnswers } from '@/types'
-import { estimateBudget, parseMoney, roundToTen, toWeekly } from '../budget'
+import {
+  MONEY_MAX_LENGTH,
+  WAGE_MAX,
+  budgetParts,
+  checkMoney,
+  estimateBudget,
+  parseMoney,
+  roundToTen,
+  toWeekly,
+} from '../budget'
 
 // a household with nothing answered, each test fills in what it needs
 const blank: IncomeAnswers = {
@@ -195,5 +204,86 @@ describe('helpers', () => {
     expect(parseMoney('80.50')).toBe(80.5)
     expect(parseMoney('abc')).toBeNull()
     expect(parseMoney('0')).toBeNull()
+  })
+})
+
+// teacher feedback: say what's wrong with a money field, not just "enter dollars"
+describe('checkMoney', () => {
+  it('takes dollar signs, commas, spaces and cents', () => {
+    expect(checkMoney('$1,250')).toEqual({ value: 1250, problem: null })
+    expect(checkMoney(' 650.50 ')).toEqual({ value: 650.5, problem: null })
+    expect(checkMoney('.5')).toEqual({ value: 0.5, problem: null })
+  })
+
+  it('names each kind of mistake', () => {
+    expect(checkMoney('').problem).toBe('empty')
+    expect(checkMoney('-500').problem).toBe('negative')
+    expect(checkMoney('\u2212500').problem).toBe('negative')
+    expect(checkMoney('5o0').problem).toBe('notNumber')
+    expect(checkMoney('500#').problem).toBe('notNumber')
+    expect(checkMoney('1.2.3').problem).toBe('notNumber')
+    expect(checkMoney('650.555').problem).toBe('decimals')
+    expect(checkMoney('0').problem).toBe('zero')
+    expect(checkMoney('0.00').problem).toBe('zero')
+  })
+
+  it('stops at the top amount for each pay period', () => {
+    expect(checkMoney('10000', WAGE_MAX.week).problem).toBeNull()
+    expect(checkMoney('10000.01', WAGE_MAX.week).problem).toBe('tooBig')
+    expect(checkMoney('40000', WAGE_MAX.month).problem).toBeNull()
+    expect(checkMoney('00000000000000000000', WAGE_MAX.week).problem).toBe('zero')
+  })
+
+  it('lets the longest allowed amount fit in the field', () => {
+    expect('$40,000.00'.length).toBeLessThanOrEqual(MONEY_MAX_LENGTH)
+  })
+})
+
+// US 1.1, "how we worked this out" shows the same sum line by line
+describe('budgetParts', () => {
+  it('adds up to the income the budget is worked out from', () => {
+    const households: IncomeAnswers[] = [
+      { ...blank, source: 'work', wageAmount: 1300, wagePeriod: 'fortnight' },
+      { ...blank, source: 'payments', ...adults('jobseeker') },
+      {
+        ...blank,
+        source: 'both',
+        ...adults('parenting', 'jobseeker'),
+        couple: 'yes',
+        children: 5,
+        teens: 2,
+        familyTax: 'yes',
+        youngestUnderFive: 'yes',
+        wageAmount: 400,
+      },
+      { ...blank, source: 'payments', ...adults(900), wagePeriod: 'month' },
+    ]
+    for (const household of households) {
+      const parts = budgetParts(household)!
+      const total = parts.reduce((sum, part) => sum + part.weekly, 0)
+      expect(Math.round(total * 100) / 100).toBe(estimateBudget(household)!.incomeWeekly)
+    }
+  })
+
+  it('lists rent assistance on its own line, and none for a wage alone', () => {
+    const payments = budgetParts({ ...blank, source: 'payments', ...adults('jobseeker') })!
+    expect(payments.map((part) => part.kind)).toEqual(['payment', 'rentAssistance'])
+    const wage = budgetParts({ ...blank, source: 'work', wageAmount: 700 })!
+    expect(wage).toEqual([{ kind: 'wage', weekly: 700, amount: 700, period: 'week' }])
+  })
+
+  it('says which adult gets which payment', () => {
+    const parts = budgetParts({
+      ...blank,
+      source: 'payments',
+      ...adults('none', 'jobseeker'),
+      couple: 'no',
+    })!
+    expect(parts[0]).toMatchObject({ kind: 'payment', adult: 2, payment: 'jobseeker' })
+  })
+
+  it('waits for answers like the budget does', () => {
+    expect(budgetParts(blank)).toBeNull()
+    expect(budgetParts({ ...blank, source: 'work' })).toBeNull()
   })
 })

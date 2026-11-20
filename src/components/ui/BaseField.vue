@@ -16,9 +16,20 @@ const props = withDefaults(
     prefix?: string
     inputmode?: 'text' | 'decimal' | 'numeric'
     autocomplete?: string
+    // stops typing past a sensible length, so a held-down key can't run away
+    maxlength?: number
   }>(),
-  { hint: undefined, error: undefined, prefix: undefined, inputmode: 'text', autocomplete: 'off' },
+  {
+    hint: undefined,
+    error: undefined,
+    prefix: undefined,
+    inputmode: 'text',
+    autocomplete: 'off',
+    maxlength: undefined,
+  },
 )
+
+const emit = defineEmits<{ blur: [] }>()
 
 const hintId = computed(() => `${props.id}-hint`)
 const errorId = computed(() => `${props.id}-error`)
@@ -47,8 +58,10 @@ const describedBy = computed(
         type="text"
         :inputmode="inputmode"
         :autocomplete="autocomplete"
+        :maxlength="maxlength"
         :aria-invalid="error ? 'true' : undefined"
         :aria-describedby="describedBy"
+        @blur="emit('blur')"
       />
     </div>
   </div>
