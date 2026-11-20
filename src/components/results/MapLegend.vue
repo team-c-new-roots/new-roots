@@ -2,6 +2,7 @@
 import { useI18n } from 'vue-i18n'
 import { Layers } from '@lucide/vue'
 import { MATCH_BANDS } from '@/services/results'
+import { useDisplayStore } from '@/stores/display'
 
 /* the key under the map. colours with the score range each one covers, then
    what the three kinds of label mean, so a group count or a numbered pin is
@@ -14,10 +15,11 @@ defineProps<{
 }>()
 
 const { t } = useI18n()
+const display = useDisplayStore()
 </script>
 
 <template>
-  <div class="map-legend">
+  <div class="map-legend" :class="{ 'map-legend--contrast': display.mapContrast }">
     <div class="map-legend__part">
       <p id="map-legend-title" class="map-legend__title">{{ t('map.legend') }}</p>
       <ul class="map-legend__bands">
@@ -29,6 +31,7 @@ const { t } = useI18n()
           <span>{{ band.from }}–{{ band.to }}</span>
         </li>
       </ul>
+      <p v-if="display.mapContrast" class="map-legend__extra">{{ t('map.contrastKey') }}</p>
       <p v-if="showNoRent" class="map-legend__extra">
         <span class="map-legend__dashed" aria-hidden="true"></span>
         <span>{{ t('map.noRent') }}</span>
@@ -81,7 +84,7 @@ const { t } = useI18n()
   margin: 0;
   padding: 0;
   list-style: none;
-  font-size: 0.8125rem;
+  font-size: 0.875rem;
   text-align: center;
 }
 
@@ -116,6 +119,33 @@ const { t } = useI18n()
 
 .map-legend__swatch--5 {
   background: var(--nr-map-5);
+}
+
+/* the map's High contrast colours, when that switch is on, with the same
+   black and white edge the suburbs get */
+.map-legend--contrast .map-legend__swatch {
+  border: 2px solid #000000;
+  box-shadow: 0 0 0 2px #ffffff;
+}
+
+.map-legend--contrast .map-legend__swatch--1 {
+  background: var(--nr-map-hc-1);
+}
+
+.map-legend--contrast .map-legend__swatch--2 {
+  background: var(--nr-map-hc-2);
+}
+
+.map-legend--contrast .map-legend__swatch--3 {
+  background: var(--nr-map-hc-3);
+}
+
+.map-legend--contrast .map-legend__swatch--4 {
+  background: var(--nr-map-hc-4);
+}
+
+.map-legend--contrast .map-legend__swatch--5 {
+  background: var(--nr-map-hc-5);
 }
 
 .map-legend__extra {
@@ -171,7 +201,7 @@ const { t } = useI18n()
 .key-score,
 .key-group {
   justify-self: start;
-  font-size: 0.8125rem;
+  font-size: 0.875rem;
   font-weight: 700;
   line-height: 1.3;
   white-space: nowrap;
@@ -193,7 +223,7 @@ const { t } = useI18n()
   height: 1.4rem;
   border-radius: 50%;
   background: var(--nr-cream);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   line-height: 1;
 }
 

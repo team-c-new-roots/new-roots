@@ -56,7 +56,7 @@ h1,
 h2,
 h3 {
   margin: 0 0 0.5rem;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   line-height: 1.2;
   font-weight: 700;
 }
@@ -84,7 +84,7 @@ a {
 }
 
 a:hover {
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
 }
 
 main:focus {
@@ -212,13 +212,13 @@ main:focus {
 
 .btn--outline {
   background: transparent;
-  color: var(--nr-wine);
-  border-color: var(--nr-wine);
+  color: var(--nr-wine-text);
+  border-color: var(--nr-wine-line);
 }
 
 .btn--outline:hover {
   background: var(--nr-apricot);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
 }
 
 .btn--block {
@@ -243,7 +243,7 @@ main:focus {
 }
 
 .link-action:hover {
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   text-decoration: underline;
 }
 
@@ -309,7 +309,7 @@ main:focus {
 
 .badge--within {
   background: var(--nr-surface-raised);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
 }
 
 .badge--close,
@@ -333,7 +333,7 @@ main:focus {
   display: block;
   margin-bottom: 0.25rem;
   font-weight: 700;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
 }
 
 .field__hint {
@@ -344,11 +344,16 @@ main:focus {
 
 .field__error {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 0.4rem;
   margin: 0 0 0.5rem;
-  color: var(--nr-wine);
+  color: var(--nr-error);
   font-weight: 700;
+}
+
+.field__error svg {
+  flex: none;
+  margin-top: 0.2rem;
 }
 
 .field__control {
@@ -366,7 +371,7 @@ main:focus {
 }
 
 .field__control--invalid {
-  border-color: var(--nr-wine);
+  border-color: var(--nr-error);
   border-width: 3px;
 }
 
@@ -420,7 +425,7 @@ legend {
 
 .legend-heading {
   display: block;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-size: 1.125rem;
   font-weight: 700;
 }
@@ -510,7 +515,7 @@ legend {
 }
 
 .choice__hint {
-  font-size: 0.875rem;
+  font-size: 0.9375rem;
   font-weight: 400;
 }
 
@@ -599,13 +604,13 @@ legend {
 
 .choice-group--card .choice__icon,
 .choice-group--card-strong .choice__icon {
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
 }
 
 .choice-group--card .choice__input:checked + .choice__body {
   background: var(--nr-surface-raised);
   color: var(--nr-ink);
-  border-color: var(--nr-wine);
+  border-color: var(--nr-wine-line);
 }
 
 .choice-group--card .choice__input:checked + .choice__body .choice__symbol {
@@ -643,7 +648,7 @@ legend {
 
 .choice-group--invalid {
   padding-inline-start: 1rem;
-  border-inline-start: 4px solid var(--nr-wine);
+  border-inline-start: 4px solid var(--nr-error);
 }
 
 /* error summary */
@@ -651,9 +656,9 @@ legend {
 .error-summary {
   margin-bottom: 1.5rem;
   padding: 1rem 1.25rem;
-  border: 3px solid var(--nr-wine);
+  border: 3px solid var(--nr-error);
   border-radius: var(--nr-radius-sm);
-  background: var(--nr-surface-raised);
+  background: var(--nr-error-bg);
 }
 
 .error-summary:focus {
@@ -662,8 +667,16 @@ legend {
 }
 
 .error-summary__title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   margin-bottom: 0.5rem;
+  color: var(--nr-error);
   font-size: 1.125rem;
+}
+
+.error-summary a {
+  color: var(--nr-error);
 }
 
 .error-summary ul {
@@ -747,6 +760,120 @@ legend {
   }
 }
 
+/* what the themes need beyond tokens (tokens.css). screen only, like the
+   tokens, so printing is never affected */
+@media screen {
+  /* dark: the header, the map and the key's sample labels keep the
+     daylight colours, so the burgundy header and the map look the same as
+     in light mode */
+  :root[data-theme='dark']
+    :is(
+      .app-header,
+      .suburb-map__frame,
+      .suburb-map__panel-head,
+      .map-legend .key-pin,
+      .map-legend .key-score,
+      .map-legend .key-group
+    ) {
+    --nr-wine-text: #7b282b;
+    --nr-wine-line: #7b282b;
+    --nr-apricot: #fce5d2;
+    --nr-apricot-strong: #f8d5b8;
+    --nr-rust: #a14c25;
+    --nr-ink: #302622;
+    --nr-ink-muted: #6e5b53;
+    --nr-surface-raised: #ffffff;
+    --nr-focus: #7b282b;
+  }
+
+  :root[data-theme='dark'] .app-header {
+    --nr-focus-on-dark: #fffaf5;
+  }
+
+  :root[data-theme='dark'] .map-legend :is(.key-pin, .key-score, .key-group) {
+    color: #302622;
+  }
+
+  :root[data-theme='dark'] .map-legend__swatch {
+    border-color: var(--nr-ink-muted);
+  }
+
+  /* buttons and chosen options fill Autumn Orange with Espresso text,
+     since burgundy doesn't stand out against espresso */
+  :root[data-theme='dark']
+    :is(
+      .btn--primary,
+      .choice__input:checked + .choice__body,
+      .results__tabs button[aria-selected='true'],
+      .support__tile[aria-pressed='true'],
+      .support__toggle[aria-pressed='true']
+    ) {
+    border-color: #e9843e;
+    background: #e9843e;
+    color: #302622;
+  }
+
+  :root[data-theme='dark']
+    :is(.support__tile[aria-pressed='true'], .choice__input:checked + .choice__body)
+    svg {
+    color: #302622;
+  }
+
+  :root[data-theme='dark'] .btn--primary:hover {
+    background: #d9732e;
+    color: #302622;
+  }
+
+  /* secondary buttons are Warm Apricot with burgundy text, as in light mode */
+  :root[data-theme='dark'] .btn--outline {
+    border-color: #fce5d2;
+    background: #fce5d2;
+    color: #7b282b;
+  }
+
+  :root[data-theme='dark'] .btn--outline:hover {
+    border-color: #f8d5b8;
+    background: #f8d5b8;
+    color: #7b282b;
+  }
+
+  /* high contrast: underlined links, a thicker focus ring, and a black edge
+     on everything that lost its apricot fill */
+  :root[data-theme='contrast'] a {
+    text-decoration: underline;
+  }
+
+  :root[data-theme='contrast'] :focus-visible {
+    outline-width: 4px;
+  }
+
+  :root[data-theme='contrast'] .app-header {
+    border-bottom-color: #fec40b;
+  }
+
+  :root[data-theme='contrast'] .panel,
+  :root[data-theme='contrast'] .suburb-card,
+  :root[data-theme='contrast'] .service,
+  :root[data-theme='contrast'] .budget-card,
+  :root[data-theme='contrast'] .data-note,
+  :root[data-theme='contrast'] .nothing-fits__item,
+  :root[data-theme='contrast'] .results__chips li,
+  :root[data-theme='contrast'] .results__tabs,
+  :root[data-theme='contrast'] .suburb__finding,
+  :root[data-theme='contrast'] .language-page__points li,
+  :root[data-theme='contrast'] .suburb-card__distances li,
+  :root[data-theme='contrast'] .support__alert,
+  :root[data-theme='contrast'] .step__bar,
+  :root[data-theme='contrast'] .score__track,
+  :root[data-theme='contrast'] .badge {
+    box-shadow: inset 0 0 0 2px #000000;
+  }
+
+  :root[data-theme='contrast'] .choice__body {
+    border-color: #000000;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
@@ -779,7 +906,10 @@ legend {
     display: block;
   }
 
+  /* the screen's full-height body would push a blank second page */
   body {
+    display: block;
+    min-height: 0;
     background: var(--nr-print-paper);
     color: var(--nr-print-ink);
   }

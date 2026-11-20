@@ -17,6 +17,12 @@
   --nr-espresso: #302622;
   --nr-rust: #a14c25;
 
+  /* burgundy has three jobs: text, borders and fills. they're the same
+     colour here, and Dark sends each one its own way */
+  --nr-wine-text: var(--nr-wine);
+  --nr-wine-line: var(--nr-wine);
+  --nr-fill: var(--nr-wine);
+
   --nr-ink: var(--nr-espresso);
   --nr-ink-muted: #6e5b53;
   --nr-border-strong: #8c7166; /* field edges, 4.3:1 on cream and 3.7:1 on apricot */
@@ -42,6 +48,23 @@
   --nr-map-line: #302622;
   --nr-map-bg: #f4ede6;
 
+  /* the map's High contrast colours, used only on the map (and its key).
+     a cividis-style yellow to navy ramp, since blue-yellow ramps stay
+     distinct for red-green colour blindness, with each step tuned to the
+     same 2.1:1 against the next. that's the most five steps can get between
+     white and black, against 1.4:1 for the brand ramp. borders switch to
+     white on the three darker steps (SuburbMap) */
+  --nr-map-hc-1: #ffffff;
+  --nr-map-hc-2: #fec40b;
+  --nr-map-hc-3: #008c9e;
+  --nr-map-hc-4: #0040b0;
+  --nr-map-hc-5: #000000;
+
+  /* errors are a plain red, not the brand wine, so they don't blend in.
+     5.8:1 on cream, 6.0:1 on white, 5.0:1 on apricot */
+  --nr-error: #c4161c;
+  --nr-error-bg: #fdeceb;
+
   --nr-print-ink: #000000;
   --nr-print-paper: #ffffff;
 
@@ -65,4 +88,74 @@
   --nr-measure: 36rem;
   --nr-page: 72rem;
   --nr-gutter: clamp(1rem, 0.6rem + 2vw, 2rem);
+}
+
+/* the other two themes, picked from the menu or the Accessibility page.
+   screen only, so a printed summary always comes out black on white */
+@media screen {
+  /* dark, from the New Roots colour system: the header and feature banners
+   stay Wine Burgundy, the page goes Espresso and cards Soft Espresso, with
+   Warm Cream text, Muted Apricot for secondary text, Light Autumn Orange
+   links and Visible Border edges. buttons and chosen options fill Autumn
+   Orange with Espresso text. contrast: cream on espresso 14.2:1, on soft
+   espresso 10.7:1. muted apricot 7.2:1 on soft espresso. links 6.5:1 on
+   soft espresso. espresso on orange 5.5:1 */
+  :root[data-theme='dark'] {
+    --nr-wine-text: #fffaf5;
+    --nr-wine-line: #a0897c;
+    --nr-fill: #e9843e;
+
+    --nr-apricot: #483831;
+    --nr-apricot-strong: #54423a;
+    --nr-rust: #ffb678;
+
+    --nr-ink: #fffaf5;
+    --nr-ink-muted: #dfccbc;
+    --nr-border-strong: #a0897c;
+    --nr-line: #5c4a41;
+    --nr-surface: #302622;
+    --nr-surface-raised: #483831;
+    --nr-backdrop: rgb(0 0 0 / 0.7);
+
+    --nr-focus: #ffb678;
+    --nr-focus-on-dark: #fffaf5;
+
+    --nr-error: #ff9a8f;
+    --nr-error-bg: #4a2422;
+
+    --nr-map-bg: #3d312c;
+  }
+
+  /* high contrast, for low vision. black on white everywhere (21:1), blue
+     links (8.9:1), yellow highlights with black text (13.1:1), red errors
+     (7.4:1) and a black edge on every shape (main.css). all text clears the
+     7:1 of WCAG 1.4.6, the AAA level */
+  :root[data-theme='contrast'] {
+    --nr-wine: #000000;
+    --nr-wine-dark: #262626;
+    --nr-apricot: #ffffff;
+    --nr-apricot-strong: #fff3c4;
+    --nr-orange: #fec40b;
+    --nr-orange-dark: #e5ae00;
+    --nr-cream: #ffffff;
+    --nr-espresso: #000000;
+    --nr-rust: #0040b0;
+
+    --nr-ink: #000000;
+    --nr-ink-muted: #000000;
+    --nr-border-strong: #000000;
+    --nr-line: #000000;
+    --nr-surface: #ffffff;
+    --nr-surface-raised: #ffffff;
+    --nr-backdrop: rgb(0 0 0 / 0.7);
+
+    --nr-focus: #0b57d0;
+    --nr-focus-on-dark: #fec40b;
+
+    --nr-error: #b00000;
+    --nr-error-bg: #ffffff;
+
+    --nr-map-line: #000000;
+    --nr-map-bg: #f2f2f2;
+  }
 }

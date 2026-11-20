@@ -5,6 +5,7 @@ import { X } from '@lucide/vue'
 import type { NavLink } from '@/composables/useNavLinks'
 import { useAnswersStore } from '@/stores/answers'
 import ClearDetailsButton from './ClearDetailsButton.vue'
+import ThemePicker from '@/components/ui/ThemePicker.vue'
 
 /* the menu panel. a native <dialog> with showModal(), not a hand-rolled
    drawer, so the page behind goes inert and Escape closes it for free.
@@ -75,8 +76,9 @@ function onClick(event: MouseEvent) {
         </ul>
       </nav>
 
-      <div v-if="answers.hasAnswers" class="nav-panel__footer">
-        <ClearDetailsButton class="btn--block" @cleared="leave" />
+      <div class="nav-panel__footer">
+        <ThemePicker id="menu-theme" />
+        <ClearDetailsButton v-if="answers.hasAnswers" class="btn--block" @cleared="leave" />
       </div>
     </div>
   </dialog>
@@ -149,7 +151,7 @@ function onClick(event: MouseEvent) {
   align-items: center;
   min-height: 3.25rem;
   border-bottom: 1px solid var(--nr-line);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-size: 1.125rem;
   font-weight: 700;
   text-decoration: none;
@@ -163,7 +165,15 @@ function onClick(event: MouseEvent) {
 }
 
 .nav-panel__footer {
+  display: grid;
+  gap: 0.75rem;
   margin-top: auto;
   padding-top: 1.5rem;
+}
+
+/* the theme options stacked, one per row, since the panel is narrow */
+.nav-panel__footer :deep(.choice-group__options) {
+  flex-direction: column;
+  align-items: stretch;
 }
 </style>

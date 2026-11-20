@@ -9,8 +9,9 @@ import type { TopicName } from '@/types'
 import { loadBoundaries, type BoundaryProperties } from '@/services/boundaries'
 import { bandFor, type SuburbResult } from '@/services/results'
 import { TOPICS } from '@/data/topics'
-import { DATASETS } from '@/data/datasets'
+import { useDisplayStore } from '@/stores/display'
 import BudgetBadge from '@/components/ui/BudgetBadge.vue'
+import MapContrastToggle from './MapContrastToggle.vue'
 import TopicBars from './TopicBars.vue'
 import MapLegend from './MapLegend.vue'
 
@@ -31,7 +32,16 @@ import MapLegend from './MapLegend.vue'
      device's address, so they're a button away rather than always on
    - the select under the map is the keyboard and screen reader way in, and
      the list carries the same information, so the map is never the only route
-   - loaded on its own, so only people who open the map download Leaflet */
+   - loaded on its own, so only people who open the map download Leaflet
+   - WCAG contrast only counts lightness, so five fills can't all be 3:1
+     from each other whatever the hues (that needs 81:1, black on white is
+     21:1). the High contrast switch uses white, yellow, teal, blue and
+     black, lightest to best, and fixes the edges instead, the way the W3C
+     pie chart example does: every edge is a black line with white either
+     side, and one of the two is at least 5.2:1 against any fill. teal
+     splits the yellow to blue gap about evenly and stays apart from both
+     with red-green colour blindness. only the map changes, scores stay
+     written on it and the list has the same figures */
 
 const props = defineProps<{
   suburbs: SuburbResult[]
@@ -48,6 +58,7 @@ const props = defineProps<{
 const selectedId = defineModel<string | null>('selected', { default: null })
 
 const { t } = useI18n()
+const display = useDisplayStore()
 const container = ref<HTMLElement | null>(null)
 const picker = ref<HTMLSelectElement | null>(null)
 const panelHeading = ref<HTMLHeadingElement | null>(null)
@@ -77,6 +88,7 @@ const SMALL_PIN_ZOOM = 10.5
 
 let map: L.Map | null = null
 let shapes: L.GeoJSON<BoundaryProperties> | null = null
+let edges: L.GeoJSON<BoundaryProperties> | null = null
 let labels: L.LayerGroup | null = null
 let tiles: L.TileLayer | null = null
 let features: Feature<Geometry, BoundaryProperties>[] = []
@@ -88,18 +100,6 @@ const hasNoScore = computed(() => props.suburbs.some((item) => item.match === nu
 
 // how current the figures behind the colours are, from the same list as the
 // How it works page until Gold carries its own dates
-const SOURCES = [
-  ['rents', 'rental-report'],
-  ['census', 'census'],
-  ['crime', 'crime'],
-] as const
-const sourcesLine = computed(() =>
-  SOURCES.map(([key, id]) => {
-    const period = DATASETS.find((dataset) => dataset.id === id)?.period ?? ''
-    return `${t(`map.sources.${key}`)}: ${period}`
-  }).join(' · '),
-)
-
 // ranked suburbs first in rank order, then everything else by name
 const pickerOptions = computed(() =>
   [...props.suburbs].sort(
@@ -120,6 +120,17 @@ function styleFor(id: string | undefined): L.PathOptions {
   const step = bandFor(item?.row.overall_score ?? null)
   const isSelected = id !== undefined && id === selectedId.value
   const noRent = item?.status === 'noData'
+  if (display.mapContrast) {
+    // this stroke is the white either side of the edge. the black middle is
+    // the edges layer on top
+    return {
+      color: '#ffffff',
+      weight: isSelected ? 12 : 7,
+      opacity: 1,
+      fillOpacity: showStreets.value ? 0.8 : 1,
+      fillColor: step === undefined ? 'url(#nr-hatch)' : token(`--nr-map-hc-${step}`),
+    }
+  }
   return {
     color: token('--nr-map-line'),
     weight: isSelected ? 4 : noRent ? 1.25 : 0.75,
@@ -130,17 +141,36 @@ function styleFor(id: string | undefined): L.PathOptions {
   }
 }
 
+// the black middle of each high contrast edge. hidden otherwise
+function edgeFor(id: string | undefined): L.PathOptions {
+  if (!display.mapContrast) return { stroke: false, fill: false }
+  const isSelected = id !== undefined && id === selectedId.value
+  const noRent = id ? byId.value.get(id)?.status === 'noData' : false
+  return {
+    stroke: true,
+    fill: false,
+    color: '#000000',
+    weight: isSelected ? 6 : 3,
+    opacity: 1,
+    dashArray: noRent && !isSelected ? '4 3' : undefined,
+  }
+}
+
 function restyle() {
   shapes?.setStyle((feature) => styleFor(feature?.properties.suburb_id))
+  edges?.setStyle((feature) => edgeFor(feature?.properties.suburb_id))
   layerFor(selectedId.value)?.bringToFront()
+  layerFor(selectedId.value, edges)?.bringToFront()
 }
 
 // the diagonal hatching for a suburb with no score at all. Leaflet has no
 // pattern fills, so the pattern goes into its SVG once and paths point at it
 function addHatch(svg: SVGSVGElement) {
-  if (svg.querySelector('#nr-hatch')) return
+  // rebuilt whenever the theme changes, since the fills come from tokens
+  svg.querySelector('defs.nr-defs')?.remove()
   const ns = 'http://www.w3.org/2000/svg'
   const defs = document.createElementNS(ns, 'defs')
+  defs.setAttribute('class', 'nr-defs')
   const pattern = document.createElementNS(ns, 'pattern')
   pattern.setAttribute('id', 'nr-hatch')
   pattern.setAttribute('width', '8')
@@ -163,10 +193,13 @@ function addHatch(svg: SVGSVGElement) {
   svg.prepend(defs)
 }
 
-function layerFor(id: string | null | undefined): L.Polygon | undefined {
+function layerFor(
+  id: string | null | undefined,
+  group: L.GeoJSON<BoundaryProperties> | null = shapes,
+): L.Polygon | undefined {
   if (!id) return undefined
   let found: L.Polygon | undefined
-  shapes?.eachLayer((layer) => {
+  group?.eachLayer((layer) => {
     const feature = (layer as L.Polygon).feature as
       Feature<Geometry, BoundaryProperties> | undefined
     if (feature?.properties.suburb_id === id) found = layer as L.Polygon
@@ -563,6 +596,16 @@ onMounted(async () => {
         }
       },
     }).addTo(map)
+    // own pane so a suburb brought to the front can't cover the edges. clicks
+    // go through to the suburb underneath
+    const edgePane = map.createPane('nr-edges')
+    edgePane.style.zIndex = '450'
+    edgePane.style.pointerEvents = 'none'
+    edges = L.geoJSON<BoundaryProperties>(data, {
+      pane: 'nr-edges',
+      interactive: false,
+      style: (feature) => edgeFor(feature?.properties.suburb_id),
+    }).addTo(map)
     labels = L.layerGroup().addTo(map)
 
     // Leaflet holds layers back until the map has a view, so the SVG the
@@ -590,6 +633,16 @@ onBeforeUnmount(() => {
 })
 
 watch(selectedId, restyle)
+// the theme changes the hatch colours, so rebuild it, then recolour
+watch(
+  () => [display.mapContrast, display.theme],
+  async () => {
+    await nextTick()
+    const svg = container.value?.querySelector('svg')
+    if (svg) addHatch(svg)
+    restyle()
+  },
+)
 watch(
   () => props.focus,
   (focus) => {
@@ -645,17 +698,19 @@ function onPick(event: Event) {
         <p v-if="state === 'loading'" class="suburb-map__status">{{ t('map.loading') }}</p>
         <p v-if="state === 'error'" class="suburb-map__status" role="alert">{{ t('map.error') }}</p>
 
-        <button
-          v-if="state === 'ready'"
-          type="button"
-          class="suburb-map__streets"
-          :aria-pressed="showStreets ? 'true' : 'false'"
-          aria-describedby="map-streets-hint"
-          @click="showStreets = !showStreets"
-        >
-          <Layers :size="18" aria-hidden="true" />
-          {{ t('map.streets') }}
-        </button>
+        <div v-if="state === 'ready'" class="suburb-map__controls">
+          <button
+            type="button"
+            class="suburb-map__streets"
+            :aria-pressed="showStreets ? 'true' : 'false'"
+            aria-describedby="map-streets-hint"
+            @click="showStreets = !showStreets"
+          >
+            <Layers :size="18" aria-hidden="true" />
+            {{ t('map.streets') }}
+          </button>
+          <MapContrastToggle />
+        </div>
 
         <!-- a mouse instruction, so hidden from screen readers. keyboard users
              have the + and - buttons and touch users pinch -->
@@ -671,23 +726,23 @@ function onPick(event: Event) {
       <div class="suburb-map__below">
         <div class="suburb-map__picker">
           <label for="map-pick" class="field__label">{{ t('map.pick') }}</label>
-          <select id="map-pick" ref="picker" :value="selectedId ?? ''" @change="onPick">
+          <select
+            id="map-pick"
+            ref="picker"
+            :value="selectedId ?? ''"
+            aria-describedby="map-streets-hint"
+            @change="onPick"
+          >
             <option v-for="item in pickerOptions" :key="item.id" :value="item.id">
               {{ item.rank ? `${item.rank}. ${item.name}` : item.name }}
               ({{ t(`status.${item.status}`) }})
             </option>
           </select>
+          <p id="map-streets-hint" class="field__hint suburb-map__pick-hint">
+            {{ t('map.notes') }}
+          </p>
         </div>
         <MapLegend :show-no-rent="hasNoRent" :show-no-score="hasNoScore" />
-        <p id="map-streets-hint" class="field__hint suburb-map__notes">
-          {{ t('map.notes') }}
-        </p>
-        <p class="field__hint suburb-map__sources">
-          <strong>{{ t('map.dataFrom') }}</strong> {{ sourcesLine }}.
-          <RouterLink :to="{ name: 'how-it-works', hash: '#data' }">
-            {{ t('map.allSources') }}
-          </RouterLink>
-        </p>
       </div>
     </div>
 
@@ -763,21 +818,29 @@ function onPick(event: Event) {
   font-weight: 700;
 }
 
-/* the street map switch sits on the map, top right, like a layers button */
-.suburb-map__streets {
+/* the street map and contrast switches sit on the map, top right, like a
+   layers button */
+.suburb-map__controls {
   position: absolute;
   top: 0.75rem;
   inset-inline-end: 0.75rem;
   z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.5rem;
+}
+
+.suburb-map__streets {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
   min-height: var(--nr-target);
   padding: 0 1rem;
-  border: 2px solid var(--nr-wine);
+  border: 2px solid var(--nr-wine-line);
   border-radius: var(--nr-radius-pill);
   background: var(--nr-surface-raised);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font: inherit;
   font-weight: 700;
   cursor: pointer;
@@ -841,20 +904,15 @@ function onPick(event: Event) {
   background-position: left 0.85rem center;
 }
 
-.suburb-map__notes,
-.suburb-map__sources {
-  margin: 0;
-}
-
-.suburb-map__sources a {
-  white-space: nowrap;
+.suburb-map__pick-hint {
+  margin: 0.5rem 0 0;
 }
 
 /* the panel, after the data team's: a wine header with the name and the
    match, then the topic bars */
 .suburb-map__panel {
   margin-top: 1.5rem;
-  border: 2px solid var(--nr-wine);
+  border: 2px solid var(--nr-wine-line);
   border-radius: var(--nr-radius);
   background: var(--nr-surface-raised);
   overflow: hidden;
@@ -977,6 +1035,12 @@ function onPick(event: Event) {
   background: var(--nr-map-bg);
 }
 
+.suburb-map .leaflet-nr-edges-pane svg {
+  /* leaflet only lifts the global svg max-width for its own panes */
+  max-width: none !important;
+  max-height: none !important;
+}
+
 .suburb-map .leaflet-container :focus-visible {
   outline: 3px solid var(--nr-focus);
 }
@@ -1070,7 +1134,7 @@ function onPick(event: Event) {
   height: 1.4rem;
   border-radius: 50%;
   background: var(--nr-cream);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
 }
 
 .suburb-map .map-pin--named {
@@ -1090,7 +1154,7 @@ function onPick(event: Event) {
 
 .leaflet-tooltip.map-tip {
   padding: 0.6rem 0.75rem;
-  border: 2px solid var(--nr-wine);
+  border: 2px solid var(--nr-wine-line);
   border-radius: var(--nr-radius-sm);
   background: var(--nr-surface-raised);
   box-shadow: 0 4px 12px rgb(48 38 34 / 0.18);
@@ -1102,7 +1166,7 @@ function onPick(event: Event) {
 
 .map-tip strong {
   display: block;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-size: 1rem;
 }
 

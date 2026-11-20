@@ -7,6 +7,7 @@ import { createPinia } from 'pinia'
 import App from './App.vue'
 import router from './router'
 import { i18n } from './i18n'
+import { useDisplayStore } from './stores/display'
 
 const app = createApp(App)
 
@@ -14,5 +15,8 @@ const app = createApp(App)
 app.use(createPinia())
 app.use(i18n)
 app.use(router)
+
+// picks up the phone's increase contrast setting before the first paint
+useDisplayStore()
 
 app.mount('#app')

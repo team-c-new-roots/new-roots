@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { computed } from 'vue'
 import { I18nT, useI18n } from 'vue-i18n'
 import aboriginal1x from '@/assets/brand/flag-aboriginal.webp'
 import aboriginal2x from '@/assets/brand/flag-aboriginal@2x.webp'
@@ -14,6 +15,25 @@ import banner640Avif from '@/assets/brand/footer-banner-640.avif'
 import banner960Avif from '@/assets/brand/footer-banner-960.avif'
 import banner1280Avif from '@/assets/brand/footer-banner-1280.avif'
 import banner1600Avif from '@/assets/brand/footer-banner-1600.avif'
+import bannerDark640 from '@/assets/brand/footer-banner-dark-640.webp'
+import bannerDark960 from '@/assets/brand/footer-banner-dark-960.webp'
+import bannerDark1280 from '@/assets/brand/footer-banner-dark-1280.webp'
+import bannerDark1600 from '@/assets/brand/footer-banner-dark-1600.webp'
+import bannerDark640Avif from '@/assets/brand/footer-banner-dark-640.avif'
+import bannerDark960Avif from '@/assets/brand/footer-banner-dark-960.avif'
+import bannerDark1280Avif from '@/assets/brand/footer-banner-dark-1280.avif'
+import bannerDark1600Avif from '@/assets/brand/footer-banner-dark-1600.avif'
+import bannerContrast640 from '@/assets/brand/footer-banner-contrast-640.webp'
+import bannerContrast960 from '@/assets/brand/footer-banner-contrast-960.webp'
+import bannerContrast1280 from '@/assets/brand/footer-banner-contrast-1280.webp'
+import bannerContrast1600 from '@/assets/brand/footer-banner-contrast-1600.webp'
+import bannerContrast640Avif from '@/assets/brand/footer-banner-contrast-640.avif'
+import bannerContrast960Avif from '@/assets/brand/footer-banner-contrast-960.avif'
+import bannerContrast1280Avif from '@/assets/brand/footer-banner-contrast-1280.avif'
+import bannerContrast1600Avif from '@/assets/brand/footer-banner-contrast-1600.avif'
+import { DATA_UPDATED } from '@/data/datasets'
+import { useFormat } from '@/composables/useFormat'
+import { useDisplayStore, type Theme } from '@/stores/display'
 
 /* same shape as the iris footer: what we're for, the acknowledgements, where
    to get help, the fine print, then the welcome banner along the bottom.
@@ -25,15 +45,41 @@ import banner1600Avif from '@/assets/brand/footer-banner-1600.avif'
    the banner is flattened onto the footer apricot, so it needs no alpha
    channel and comes out about half the size. lazy, so on long pages it waits
    until someone scrolls near it. if the footer colour ever changes, re-export
-   the banner on the new colour */
+   the banner on the new colour. dark and high contrast have their own
+   versions, flattened onto those footers */
 
 const { t } = useI18n()
+const { fullDate } = useFormat()
 const year = new Date().getFullYear()
 
 const aboriginalSrcset = `${aboriginal1x} 1x, ${aboriginal2x} 2x, ${aboriginal3x} 3x`
 const torresStraitSrcset = `${torresStrait1x} 1x, ${torresStrait2x} 2x, ${torresStrait3x} 3x`
-const bannerWebp = `${banner640} 640w, ${banner960} 960w, ${banner1280} 1280w, ${banner1600} 1600w`
-const bannerAvif = `${banner640Avif} 640w, ${banner960Avif} 960w, ${banner1280Avif} 1280w, ${banner1600Avif} 1600w`
+const sizes = [640, 960, 1280, 1600]
+const banners: Record<Theme, { webp: string[]; avif: string[] }> = {
+  default: {
+    webp: [banner640, banner960, banner1280, banner1600],
+    avif: [banner640Avif, banner960Avif, banner1280Avif, banner1600Avif],
+  },
+  dark: {
+    webp: [bannerDark640, bannerDark960, bannerDark1280, bannerDark1600],
+    avif: [bannerDark640Avif, bannerDark960Avif, bannerDark1280Avif, bannerDark1600Avif],
+  },
+  contrast: {
+    webp: [bannerContrast640, bannerContrast960, bannerContrast1280, bannerContrast1600],
+    avif: [
+      bannerContrast640Avif,
+      bannerContrast960Avif,
+      bannerContrast1280Avif,
+      bannerContrast1600Avif,
+    ],
+  },
+}
+const srcset = (files: string[]) => files.map((file, i) => `${file} ${sizes[i]}w`).join(', ')
+
+const display = useDisplayStore()
+const banner = computed(() => banners[display.theme])
+const bannerWebp = computed(() => srcset(banner.value.webp))
+const bannerAvif = computed(() => srcset(banner.value.avif))
 // the banner never grows past the page width
 const bannerSizes = '(min-width: 72rem) 72rem, 100vw'
 </script>
@@ -102,18 +148,27 @@ const bannerSizes = '(min-width: 72rem) 72rem, 100vw'
                 {{ t('nav.privacy') }}
               </RouterLink>
             </li>
+            <li>
+              <RouterLink :to="{ name: 'accessibility' }" class="app-footer__link">
+                {{ t('nav.accessibility') }}
+              </RouterLink>
+            </li>
           </ul>
         </nav>
       </div>
 
-      <p class="app-footer__legal">{{ t('footer.legal', { year }) }}</p>
+      <p class="app-footer__legal">
+        {{ t('footer.legal', { year }) }}
+        {{ t('footer.updated', { date: fullDate(DATA_UPDATED) }) }}
+        {{ t('footer.wcag') }}
+      </p>
     </div>
 
-    <picture>
+    <picture :key="display.theme">
       <source type="image/avif" :srcset="bannerAvif" :sizes="bannerSizes" />
       <img
         class="app-footer__banner"
-        :src="banner960"
+        :src="banner.webp[1]"
         :srcset="bannerWebp"
         :sizes="bannerSizes"
         alt=""
@@ -139,7 +194,7 @@ const bannerSizes = '(min-width: 72rem) 72rem, 100vw'
 .app-footer__mission {
   max-width: 48rem;
   margin-bottom: 2rem;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-size: clamp(1.125rem, 1rem + 0.6vw, 1.375rem);
   font-weight: 700;
   line-height: 1.35;
@@ -165,7 +220,7 @@ const bannerSizes = '(min-width: 72rem) 72rem, 100vw'
 
 .app-footer__heading {
   margin: 0;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-size: 1rem;
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -205,7 +260,7 @@ const bannerSizes = '(min-width: 72rem) 72rem, 100vw'
   display: inline-flex;
   align-items: center;
   min-height: var(--nr-target);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-weight: 700;
 }
 
@@ -222,7 +277,7 @@ const bannerSizes = '(min-width: 72rem) 72rem, 100vw'
 }
 
 .app-footer__emergency a {
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-weight: 700;
 }
 

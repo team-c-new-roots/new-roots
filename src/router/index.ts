@@ -92,6 +92,12 @@ const router = createRouter({
       meta: { titleKey: 'howItWorks.title' },
     },
     {
+      path: '/accessibility',
+      name: 'accessibility',
+      component: () => import('@/views/AccessibilityView.vue'),
+      meta: { titleKey: 'accessibility.title' },
+    },
+    {
       path: '/privacy',
       name: 'privacy',
       component: () => import('@/views/PrivacyView.vue'),

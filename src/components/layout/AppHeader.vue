@@ -15,9 +15,9 @@ import mark2x from '@/assets/brand/mark-on-dark@2x.webp'
 import mark3x from '@/assets/brand/mark-on-dark@3x.webp'
 
 /* menu, logo and language pill in every header, from the wireframe. from
-   72rem up there's room for everything, so the links and Clear my details
-   move into the header itself and the menu button goes. below that the menu
-   holds them. either way the same things are one tap or click away, and
+   72rem up the main links and Clear my details also sit in the header
+   itself. the menu stays on every screen size, so everything in it (your
+   summary, Accessibility, the theme) is reachable on a desktop too.
    Clear my details only appears once there's something to clear.
    72rem rather than 64rem because the links are 19px for contrast, and the
    clear button didn't fit beside them on a 1024px screen.
@@ -131,10 +131,6 @@ const markSrcset = `${mark1x} 1x, ${mark2x} 2x, ${mark3x} 3x`
 }
 
 @media (min-width: 72rem) {
-  .app-header__menu {
-    display: none;
-  }
-
   .app-header__inner :deep(.app-header__clear) {
     display: inline-flex;
     align-items: center;
@@ -169,6 +165,7 @@ const markSrcset = `${mark1x} 1x, ${mark2x} 2x, ${mark3x} 3x`
     font-size: 1.1875rem;
     font-weight: 700;
     text-decoration: none;
+    white-space: nowrap;
   }
 
   .app-header__nav a:hover,

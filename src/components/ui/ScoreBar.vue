@@ -87,7 +87,7 @@ const { t } = useI18n()
   display: block;
   height: 100%;
   border-radius: var(--nr-radius-pill);
-  background: var(--nr-wine);
+  background: var(--nr-fill);
 }
 
 /* not counted, so the bar steps back and the note says why */

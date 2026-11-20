@@ -47,7 +47,7 @@ select {
   border: 0;
   border-radius: var(--nr-radius-pill);
   background: var(--nr-apricot);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font: inherit;
   font-weight: 700;
   appearance: none;
@@ -63,7 +63,7 @@ select:focus-visible {
   inset-inline-end: 0.85rem;
   top: 50%;
   transform: translateY(-50%);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   pointer-events: none;
 }
 </style>

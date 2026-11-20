@@ -73,7 +73,7 @@ function clearAll() {
 
 .clear-header:hover {
   background: var(--nr-cream);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
 }
 
 .clear-header:focus-visible {

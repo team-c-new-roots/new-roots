@@ -27,6 +27,13 @@ export function useNavLinks() {
       : []),
     { key: 'support', to: { name: 'support' }, label: t('nav.support'), inHeader: true },
     { key: 'how', to: { name: 'how-it-works' }, label: t('nav.howItWorks'), inHeader: true },
-    { key: 'privacy', to: { name: 'privacy' }, label: t('nav.privacy'), inHeader: true },
+    // menu and footer only, so the header links fit on one line beside the menu
+    { key: 'privacy', to: { name: 'privacy' }, label: t('nav.privacy'), inHeader: false },
+    {
+      key: 'accessibility',
+      to: { name: 'accessibility' },
+      label: t('nav.accessibility'),
+      inHeader: false,
+    },
   ])
 }
