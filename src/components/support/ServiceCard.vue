@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
-import { Clock, Info, Phone } from '@lucide/vue'
+import { CalendarCheck, Clock, Info, Phone } from '@lucide/vue'
 import type { SupportService } from '@/data/support-services'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
 
@@ -8,7 +8,8 @@ import ExternalLink from '@/components/ui/ExternalLink.vue'
    of these the phone is how you get help. the number shows on the button so
    it can be read out or dialled from another phone */
 
-defineProps<{ service: SupportService }>()
+// checked is when we last confirmed the number and link (US 3.3)
+defineProps<{ service: SupportService; checked?: string }>()
 const { t } = useI18n()
 </script>
 
@@ -24,6 +25,10 @@ const { t } = useI18n()
       <p v-if="service.visaNote" class="service__meta service__meta--visa">
         <Info :size="16" aria-hidden="true" />
         {{ t(`support.visa.${service.visaNote}`) }}
+      </p>
+      <p v-if="checked" class="service__meta">
+        <CalendarCheck :size="16" aria-hidden="true" />
+        {{ t('support.checkedOn', { date: checked }) }}
       </p>
     </div>
     <div class="service__actions">
