@@ -2,7 +2,7 @@
 import { computed, ref, watchEffect } from 'vue'
 import { I18nT, useI18n } from 'vue-i18n'
 import { Check, ChevronLeft, Plus, TrendingDown, TrendingUp } from '@lucide/vue'
-import { useAnswersStore } from '@/stores/answers'
+import { SHORTLIST_MAX, useAnswersStore } from '@/stores/answers'
 import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
@@ -14,6 +14,7 @@ import BudgetBadge from '@/components/ui/BudgetBadge.vue'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
 import TopicBars from '@/components/results/TopicBars.vue'
 import ResultsGate from '@/components/results/ResultsGate.vue'
+import DataNote from '@/components/results/DataNote.vue'
 
 /* why a suburb ranks where it does: a score for each of the seven topics,
    what it does best and worst on, then the figures behind it with their
@@ -83,7 +84,7 @@ function toggleSummary() {
   const entry = item.value
   if (!entry) return
   if (!summary.toggle(entry.id)) {
-    announcement.value = t('suburb.full')
+    announcement.value = t('suburb.full', { max: SHORTLIST_MAX })
     return
   }
   announcement.value = t(saved.value ? 'suburb.added' : 'suburb.removed', { suburb: entry.name })
@@ -244,6 +245,7 @@ function toggleSummary() {
           <p class="suburb__source">{{ t('suburb.censusSource') }}</p>
 
           <p class="muted">{{ t('suburb.averages') }}</p>
+          <DataNote compact />
         </section>
 
         <button
@@ -256,6 +258,10 @@ function toggleSummary() {
           <Plus v-else :size="20" aria-hidden="true" />
           {{ saved ? t('suburb.remove') : t('suburb.add') }}
         </button>
+        <p class="suburb__count">
+          {{ t('results.tracker', { count: summary.count.value, max: summary.max }) }}
+          <RouterLink :to="{ name: 'summary' }">{{ t('results.seeSummary') }}</RouterLink>
+        </p>
         <p class="suburb__announce" role="status">{{ announcement }}</p>
       </template>
 
@@ -297,7 +303,7 @@ function toggleSummary() {
 
 .suburb__finding {
   padding: 1rem 1.25rem 0.5rem;
-  border-inline-start: 5px solid var(--nr-wine);
+  border-inline-start: 5px solid var(--nr-wine-line);
   border-radius: var(--nr-radius-sm);
   background: var(--nr-panel);
 }
@@ -375,6 +381,11 @@ function toggleSummary() {
   margin: 0 0 0.25rem;
   padding: 0;
   list-style: none;
+}
+
+.suburb__count {
+  margin: 0.5rem 0 0;
+  text-align: center;
 }
 
 .suburb__announce {

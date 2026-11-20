@@ -50,7 +50,7 @@ const { t } = useI18n()
 
 .gate--error {
   justify-items: start;
-  border-inline-start: 6px solid var(--nr-wine);
+  border-inline-start: 6px solid var(--nr-wine-line);
   text-align: start;
 }
 
@@ -60,7 +60,7 @@ const { t } = useI18n()
 }
 
 .gate__spinner {
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   animation: gate-spin 1s linear infinite;
 }
 

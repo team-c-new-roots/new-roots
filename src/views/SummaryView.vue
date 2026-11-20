@@ -7,23 +7,24 @@ import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
 import { useSummary } from '@/composables/useSummary'
-import type { SuburbResult } from '@/services/results'
+import { metricValue, type SuburbResult } from '@/services/results'
 import { RATES_FROM } from '@/data/centrelink-rates'
+import { DATA_UPDATED } from '@/data/datasets'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
 import ResultsGate from '@/components/results/ResultsGate.vue'
 import logoLight1x from '@/assets/brand/logo-on-light.webp'
 import logoLight2x from '@/assets/brand/logo-on-light@2x.webp'
 
 /* the page someone takes to a caseworker (US 2.4). household, budget and up
-   to three suburbs with their rent and the distances that matter, and nothing
-   that identifies them. fits on one A4 page. printing goes through the
+   to five suburbs with their rent and the distances that matter, and nothing
+   that identifies them. fits on one A4 page with all five. printing goes through the
    browser's own print dialog, which also offers Save as PDF, so the summary
    never leaves the device unless they choose to send it */
 
 const { t, d } = useI18n()
 const answers = useAnswersStore()
 const { status, errorKind, derived, retry } = useResults()
-const { money, home, monthYear } = useFormat()
+const { money, home, monthYear, fullDate, km } = useFormat()
 const facts = useSuburbFacts()
 const summary = useSummary(derived)
 const announcement = ref('')
@@ -47,11 +48,20 @@ function remove(item: SuburbResult) {
   announcement.value = t('suburb.removed', { suburb: item.name })
 }
 
+// "Schools: primary 0.5 km, secondary 1.6 km", with the estimate flag up by
+// the rent, so each suburb's distances fit one line on paper
 function distances(item: SuburbResult): string[] {
-  return [facts.estimateLine(item), ...facts.schoolLines(item), facts.englishLine(item)].filter(
-    (line): line is string => line !== null,
-  )
+  const schools = facts.schoolMetrics.value.flatMap((level) => {
+    const distance = metricValue(item.obt, `${level}_school_proximity`)
+    return distance === null ? [] : [t(`summary.${level}Short`, { distance: km(distance) })]
+  })
+  return [
+    schools.length ? t('summary.schools', { list: schools.join(', ') }) : null,
+    facts.englishLine(item),
+  ].filter((line): line is string => line !== null)
 }
+
+const anyEstimate = computed(() => picks.value.some((item) => facts.rentEstimate(item) !== null))
 
 const householdLine = computed(() =>
   t('summary.people', {
@@ -80,7 +90,8 @@ function print() {
     />
 
     <h1>{{ t('summary.title') }}</h1>
-    <p class="lead">{{ t('summary.lead') }}</p>
+    <!-- an instruction for the screen, so paper has room for five suburbs -->
+    <p class="lead no-print">{{ t('summary.lead') }}</p>
 
     <section class="panel summary__block" aria-labelledby="household-heading">
       <h2 id="household-heading" class="summary__heading">
@@ -108,7 +119,11 @@ function print() {
       <ResultsGate :status="status" :error-kind="errorKind" @retry="retry">
         <template v-if="picks.length">
           <p class="muted no-print">
-            {{ summary.chosen.value ? t('summary.yourPicks') : t('summary.topThree') }}
+            {{
+              summary.chosen.value
+                ? t('summary.yourPicks', { max: summary.max })
+                : t('summary.topThree', { max: summary.max })
+            }}
           </p>
           <ol class="summary__suburbs">
             <li v-for="(item, index) in picks" :key="item.id">
@@ -116,7 +131,11 @@ function print() {
                 <span class="summary__number" aria-hidden="true">{{ index + 1 }}</span>
                 <span class="summary__name">{{ item.name }}</span>
                 <span v-if="item.rent !== null" class="summary__rent">
-                  {{ t('income.budgetValue', { amount: money(item.rent) }) }}
+                  {{
+                    facts.rentEstimate(item)
+                      ? t('summary.rentEstimated', { amount: money(item.rent) })
+                      : t('income.budgetValue', { amount: money(item.rent) })
+                  }}
                 </span>
                 <span class="summary__status">{{ t(`status.${item.status}`) }}</span>
                 <button type="button" class="summary__remove no-print" @click="remove(item)">
@@ -131,8 +150,15 @@ function print() {
               </p>
             </li>
           </ol>
+          <p v-if="anyEstimate" class="summary__estimate-note">{{ t('summary.estimateNote') }}</p>
         </template>
-        <p v-else>{{ summary.chosen.value ? t('summary.noPicks') : t('summary.noSuburbs') }}</p>
+        <p v-else>
+          {{
+            summary.chosen.value
+              ? t('summary.noPicks', { max: summary.max })
+              : t('summary.noSuburbs')
+          }}
+        </p>
         <p class="visually-hidden" role="status">{{ announcement }}</p>
       </ResultsGate>
     </section>
@@ -162,6 +188,10 @@ function print() {
         </li>
         <li>
           <Check :size="22" aria-hidden="true" />
+          <span>{{ t('summary.stepApply') }}</span>
+        </li>
+        <li>
+          <Check :size="22" aria-hidden="true" />
           <I18nT keypath="summary.step3" tag="span" scope="global">
             <template #findMySchool>
               <ExternalLink href="https://www.findmyschool.vic.gov.au">Find My School</ExternalLink>
@@ -177,6 +207,7 @@ function print() {
     </p>
     <p class="muted summary__made">
       {{ t('summary.made', { date: today }) }}
+      {{ t('summary.dataLine', { date: fullDate(DATA_UPDATED) }) }}
     </p>
 
     <div class="no-print summary__actions">
@@ -239,6 +270,12 @@ function print() {
   font-size: 0.9375rem;
 }
 
+.summary__estimate-note {
+  margin-top: 0.25rem;
+  color: var(--nr-ink-muted);
+  font-size: 0.9375rem;
+}
+
 .summary__number {
   display: inline-flex;
   align-items: center;
@@ -258,7 +295,7 @@ function print() {
 
 .summary__status {
   margin-inline-start: auto;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-weight: 700;
 }
 
@@ -279,7 +316,7 @@ function print() {
 }
 
 .summary__remove:hover {
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
 }
 
 .summary__privacy {
@@ -306,7 +343,44 @@ function print() {
   margin-top: 1.5rem;
 }
 
+/* a little less air on paper, so five suburbs with two-line distances
+   still fit one A4 page, even with the margins and headers Safari and
+   Firefox add. body text stays the same size, only headings come down */
 @media print {
+  .summary__logo {
+    margin-bottom: 0.5rem;
+  }
+
+  .summary h1 {
+    margin-bottom: 0.5rem;
+    font-size: 1.75rem;
+  }
+
+  .summary__heading {
+    font-size: 1.25rem;
+  }
+
+  .summary .icon-list li {
+    padding-block: 0.15rem;
+  }
+
+  .summary__block p {
+    margin-bottom: 0.2rem;
+  }
+
+  .summary__block {
+    margin-bottom: 0.75rem;
+    padding-block: 0.85rem;
+  }
+
+  .summary__suburbs li {
+    padding-block: 0.25rem;
+  }
+
+  .summary__privacy {
+    margin-top: 0.5rem;
+  }
+
   .summary__number {
     border: 1px solid var(--nr-print-ink);
     background: var(--nr-print-paper);

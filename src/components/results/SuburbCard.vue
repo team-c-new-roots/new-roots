@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
+import { SHORTLIST_MAX } from '@/stores/answers'
 import { Check, House, Languages, MapPin, Plus } from '@lucide/vue'
 import type { MapData } from '@/types/scoring'
 import type { SuburbResult } from '@/services/results'
@@ -110,7 +111,9 @@ const distances = computed(() => facts.distanceFacts(props.item))
         </button>
       </div>
     </div>
-    <p v-if="summaryFull" class="suburb-card__full">{{ t('suburb.full') }}</p>
+    <p v-if="summaryFull" class="suburb-card__full">
+      {{ t('suburb.full', { max: SHORTLIST_MAX }) }}
+    </p>
   </article>
 </template>
 
@@ -245,7 +248,7 @@ const distances = computed(() => facts.distanceFacts(props.item))
 }
 
 .suburb-card__map:hover {
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
 }
 
 .suburb-card__summary {
@@ -259,7 +262,7 @@ const distances = computed(() => facts.distanceFacts(props.item))
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-weight: 700;
 }
 
@@ -272,7 +275,7 @@ const distances = computed(() => facts.distanceFacts(props.item))
   padding: 0;
   border: 0;
   background: none;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font: inherit;
   font-weight: 600;
   text-decoration: underline;
@@ -286,7 +289,7 @@ const distances = computed(() => facts.distanceFacts(props.item))
 
 .suburb-card__full {
   margin: 0.4rem 0 0;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-weight: 600;
 }
 </style>

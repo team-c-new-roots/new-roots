@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { computed, defineAsyncComponent, nextTick, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { Info, List, Map as MapIcon, Printer } from '@lucide/vue'
-import { useAnswersStore } from '@/stores/answers'
+import { CalendarClock, Info, List, ListChecks, Map as MapIcon, Printer } from '@lucide/vue'
+import { SHORTLIST_MAX, useAnswersStore } from '@/stores/answers'
 import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
 import { useMediaQuery } from '@/composables/useMediaQuery'
@@ -14,6 +14,10 @@ import SuburbCard from '@/components/results/SuburbCard.vue'
 import NothingFits from '@/components/results/NothingFits.vue'
 import ResultsGate from '@/components/results/ResultsGate.vue'
 import ClearDetailsButton from '@/components/layout/ClearDetailsButton.vue'
+import DataNote from '@/components/results/DataNote.vue'
+import NextSteps from '@/components/results/NextSteps.vue'
+import BudgetBreakdown from '@/components/steps/BudgetBreakdown.vue'
+import { DATA_UPDATED } from '@/data/datasets'
 
 /* the shortlist. on a phone, List and Map are tabs, the same as the
    wireframe. on a wide screen the map runs across the top with its panel,
@@ -24,7 +28,13 @@ import ClearDetailsButton from '@/components/layout/ClearDetailsButton.vue'
    every suburb is listed (US 2.3): the numbered ones within or close to
    budget first, then above budget, then no rent figure, each group under its
    own heading. when nothing fits, the message and the help sit on top and
-   the full list follows */
+   the full list follows.
+
+   iteration 2: one line at the top says how fresh the data is, so the map
+   stays in view. the summary
+   count (up to five) sits under the list heading where suburbs get added.
+   the full limits fold away under the list, then what to do next, so the
+   page ends in something to act on */
 
 // only people who open the map download Leaflet
 const SuburbMap = defineAsyncComponent(() => import('@/components/results/SuburbMap.vue'))
@@ -34,7 +44,7 @@ const PAGE_SIZE = 6
 const { t } = useI18n()
 const answers = useAnswersStore()
 const { status, errorKind, data, derived, nothingFits, counted, retry } = useResults()
-const { money, home } = useFormat()
+const { money, home, fullDate } = useFormat()
 const wide = useMediaQuery('(min-width: 64rem)')
 const { rentHome } = useSuburbFacts()
 const summary = useSummary(derived)
@@ -145,7 +155,7 @@ function toggleSummary(id: string) {
   const name = derived.value?.byId.get(id)?.name ?? ''
   if (!summary.toggle(id)) {
     summaryFullFor.value = id
-    summaryAnnouncement.value = t('suburb.full')
+    summaryAnnouncement.value = t('suburb.full', { max: SHORTLIST_MAX })
     return
   }
   summaryFullFor.value = null
@@ -171,7 +181,14 @@ async function showMore() {
         t('results.edit')
       }}</RouterLink>
     </div>
-    <p v-if="!nothingFits" class="results__line">{{ summaryLine }}</p>
+    <p v-if="!nothingFits" class="results__line">
+      {{ summaryLine }}
+      <BudgetBreakdown />
+    </p>
+    <p class="results__fresh">
+      <CalendarClock :size="20" aria-hidden="true" />
+      <span>{{ t('results.fresh', { date: fullDate(DATA_UPDATED) }) }}</span>
+    </p>
     <p v-if="homeNote" class="results__note">
       <Info :size="20" aria-hidden="true" />
       <span>{{ homeNote }}</span>
@@ -267,12 +284,30 @@ async function showMore() {
           :aria-label="wide ? t('results.list') : undefined"
           class="results__list"
         >
-          <template v-for="group in groups" :key="group.key">
+          <template v-for="(group, index) in groups" :key="group.key">
             <h2 class="results__group">
               {{ t(`results.groups.${group.key}`, { n: group.size }, group.size) }}
             </h2>
             <p v-if="group.key !== 'ranked'" class="results__group-note">
               {{ t(`results.groupNotes.${group.key}`, { home: home(rentHome) }) }}
+            </p>
+            <p
+              v-if="index === 0"
+              class="results__tracker"
+              :class="{ 'results__tracker--full': summary.full.value }"
+            >
+              <ListChecks :size="22" aria-hidden="true" />
+              <span>
+                <strong>{{
+                  t('results.tracker', { count: summary.count.value, max: summary.max })
+                }}</strong>
+                {{
+                  summary.full.value
+                    ? t('results.trackerFull', { max: summary.max })
+                    : t('results.trackerRoom', summary.max - summary.count.value)
+                }}
+                <RouterLink :to="{ name: 'summary' }">{{ t('results.seeSummary') }}</RouterLink>
+              </span>
             </p>
             <component :is="group.key === 'ranked' ? 'ol' : 'ul'" class="results__cards">
               <li v-for="item in group.items" :key="item.id" :data-index="position.get(item.id)">
@@ -302,6 +337,13 @@ async function showMore() {
         </section>
       </div>
 
+      <!-- the limits, folded, then what to do next. spaced as one block
+           so the list's last button never touches them -->
+      <div class="results__after">
+        <DataNote id="about-results" :count="derived?.all.length" />
+        <NextSteps :count="summary.count.value" :max="summary.max" />
+      </div>
+
       <div class="action-bar">
         <RouterLink :to="{ name: 'summary' }" class="btn btn--accent">
           <Printer :size="20" aria-hidden="true" />
@@ -323,7 +365,63 @@ async function showMore() {
 }
 
 .results__line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 1rem;
   font-size: 1.0625rem;
+}
+
+/* one line on how fresh the data is, the full limits are under the list */
+.results__fresh {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  color: var(--nr-ink-muted);
+}
+
+.results__fresh svg {
+  flex: none;
+  margin-top: 0.15rem;
+  color: var(--nr-rust);
+}
+
+/* clear of the list's Show more button, and a steady gap between the two */
+.results__after {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+}
+
+/* how full the summary is, right under the list heading where suburbs get added */
+.results__tracker {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  border: 2px solid var(--nr-wine-line);
+  border-radius: var(--nr-radius-sm);
+  background: var(--nr-surface-raised);
+}
+
+.results__tracker svg {
+  flex: none;
+  margin-top: 0.1rem;
+  color: var(--nr-wine-text);
+}
+
+.results__tracker strong {
+  color: var(--nr-wine-text);
+}
+
+.results__tracker a {
+  white-space: nowrap;
+}
+
+.results__tracker--full {
+  background: var(--nr-apricot);
 }
 
 .results__note {
@@ -352,7 +450,7 @@ async function showMore() {
   display: flex;
   align-items: center;
   min-height: var(--nr-target);
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   cursor: pointer;
 }
 

@@ -1,6 +1,16 @@
+import exported from './exported.json'
+
 // every dataset the scores rely on, shown on the How it works page so each
-// figure can be traced to who published it and when. names and publishers are
-// proper nouns and stay as they are. what we use each one for is translated
+// figure can be traced to who published it and when, and how often we bring
+// it up to date. names and publishers are proper nouns and stay as they are.
+// what we use each one for is translated
+
+// the day the app's data was last exported from Gold, written by
+// scripts/export_app_data.py
+export const DATA_UPDATED: string = exported.exported
+
+// how often we refresh each source. i18n keys under howItWorks.updates
+export type UpdateSchedule = 'quarterly' | 'twiceYearly' | 'census' | 'checkedQuarterly'
 
 export interface Dataset {
   id: string
@@ -13,11 +23,13 @@ export interface Dataset {
   // left out where the team hasn't confirmed a stable link yet
   url?: string
   enteredByHand?: boolean
+  updates: UpdateSchedule
 }
 
 export const DATASETS: Dataset[] = [
   {
     id: 'rental-report',
+    updates: 'quarterly',
     name: 'Rental Report: quarterly moving annual rents by suburb and by council area',
     publisher: 'Homes Victoria',
     useKey: 'howItWorks.datasets.rentalReport',
@@ -27,6 +39,7 @@ export const DATASETS: Dataset[] = [
   },
   {
     id: 'payment-rates',
+    updates: 'twiceYearly',
     name: 'Payment and Rent Assistance rates',
     publisher: 'Services Australia',
     useKey: 'howItWorks.datasets.paymentRates',
@@ -36,6 +49,7 @@ export const DATASETS: Dataset[] = [
   },
   {
     id: 'census',
+    updates: 'census',
     name: '2021 Census DataPacks',
     publisher: 'Australian Bureau of Statistics',
     useKey: 'howItWorks.datasets.census',
@@ -44,6 +58,7 @@ export const DATASETS: Dataset[] = [
   },
   {
     id: 'boundaries',
+    updates: 'census',
     name: 'Australian Statistical Geography Standard, Edition 3',
     publisher: 'Australian Bureau of Statistics',
     useKey: 'howItWorks.datasets.boundaries',
@@ -52,6 +67,7 @@ export const DATASETS: Dataset[] = [
   },
   {
     id: 'vicmap',
+    updates: 'checkedQuarterly',
     name: 'Vicmap Features of Interest',
     publisher: 'Department of Transport and Planning',
     useKey: 'howItWorks.datasets.vicmap',
@@ -60,6 +76,7 @@ export const DATASETS: Dataset[] = [
   },
   {
     id: 'amep',
+    updates: 'checkedQuarterly',
     name: 'Adult Migrant English Program providers and locations',
     publisher: 'Department of Home Affairs',
     useKey: 'howItWorks.datasets.amep',
@@ -69,6 +86,7 @@ export const DATASETS: Dataset[] = [
   },
   {
     id: 'health',
+    updates: 'checkedQuarterly',
     name: 'General practices, hospitals and pharmacies',
     publisher: 'Geoscience Australia',
     useKey: 'howItWorks.datasets.health',
@@ -76,6 +94,7 @@ export const DATASETS: Dataset[] = [
   },
   {
     id: 'transport',
+    updates: 'checkedQuarterly',
     name: 'Public transport stops (GTFS schedule)',
     publisher: 'Department of Transport and Planning',
     useKey: 'howItWorks.datasets.transport',
@@ -84,6 +103,7 @@ export const DATASETS: Dataset[] = [
   },
   {
     id: 'crime',
+    updates: 'quarterly',
     name: 'Criminal incidents, year ending June 2026',
     publisher: 'Crime Statistics Agency',
     useKey: 'howItWorks.datasets.crime',

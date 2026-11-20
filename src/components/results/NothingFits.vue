@@ -106,7 +106,7 @@ const { homeFor, estimateLine } = useSuburbFacts()
   display: inline-flex;
   align-items: center;
   min-height: 2.5rem;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-size: 1.25rem;
   font-weight: 700;
 }

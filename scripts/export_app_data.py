@@ -9,6 +9,7 @@ reads, rounds it, and writes:
   public/data/languages/<name>.json   one language's figures, loaded when chosen
   public/data/suburbs.geojson         suburb shapes for the map (needs shapely)
   src/data/payments.json              Centrelink rates for the budget
+  src/data/exported.json              the export date, shown as "data updated" on the site
 
 Run it whenever Gold or the payments table changes, then commit and deploy:
 
@@ -382,6 +383,11 @@ def main():
     path = args.out / "app-data.json"
     path.write_text(json.dumps(data, separators=(",", ":"), ensure_ascii=False))
     print(f"wrote {path.relative_to(REPO)} ({path.stat().st_size // 1024} KB, {len(data['suburbs'])} suburbs)")
+
+    # small and bundled, so pages that don't load the suburb data can still say how fresh it is
+    stamp = REPO / "src" / "data" / "exported.json"
+    stamp.write_text(json.dumps({"exported": data["exported"]}, indent=2) + "\n")
+    print(f"wrote {stamp.relative_to(REPO)} ({data['exported']})")
 
     payments = args.payments or next(
         (
