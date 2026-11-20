@@ -265,7 +265,7 @@ function next() {
 
 .language-search__heading {
   margin: 0 0 0.75rem;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   font-size: 1.25rem;
 }
 

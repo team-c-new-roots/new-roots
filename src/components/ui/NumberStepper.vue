@@ -112,10 +112,10 @@ function change(step: number) {
   width: var(--nr-target);
   height: var(--nr-target);
   padding: 0;
-  border: 2px solid var(--nr-wine);
+  border: 2px solid var(--nr-wine-line);
   border-radius: 50%;
   background: transparent;
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
   cursor: pointer;
 }
 

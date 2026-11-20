@@ -77,7 +77,7 @@ async function submit() {
   display: block;
   height: 100%;
   border-radius: var(--nr-radius-pill);
-  background: var(--nr-wine);
+  background: var(--nr-fill);
 }
 
 .step__actions {

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { onMounted, ref } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { Check, Lock, X } from '@lucide/vue'
+import { ArrowRight, Check, Lock, X } from '@lucide/vue'
 import { useFlash } from '@/composables/useFlash'
 import photo640 from '@/assets/brand/intro-640.webp'
 import photo960 from '@/assets/brand/intro-960.webp'
@@ -10,10 +10,13 @@ import photo640Avif from '@/assets/brand/intro-640.avif'
 import photo960Avif from '@/assets/brand/intro-960.avif'
 import photo1200Avif from '@/assets/brand/intro-1200.avif'
 
-/* sets expectations before any questions (US 6.1): what New Roots does, what
-   it doesn't, and that nothing is saved (US 6.2). it's one short screen with
-   Start already in view, so there's no skip link. the support link is for
-   someone who needs help today rather than a suburb list */
+/* sets expectations before any questions (US 6.1): who it's for, what it
+   does, what it doesn't, and that nothing is saved (US 6.2). the main button
+   sits straight under the lead and says where it goes, rather than "Start",
+   and the photo shrinks on short screens, so it's in view on a small laptop
+   or phone without scrolling (teacher feedback). it's repeated after the
+   details for anyone who reads to the end. the support link is for someone
+   who needs help today rather than a suburb list */
 
 const { t } = useI18n()
 const { take } = useFlash()
@@ -54,6 +57,12 @@ onMounted(() => {
     <h1>{{ t('intro.heading') }}</h1>
     <p class="lead">{{ t('intro.lead') }}</p>
 
+    <RouterLink :to="{ name: 'household' }" class="btn btn--primary btn--block intro__cta">
+      {{ t('intro.start') }}
+      <ArrowRight class="flip-rtl" :size="20" aria-hidden="true" />
+    </RouterLink>
+    <p class="intro__steps">{{ t('intro.steps') }}</p>
+
     <h2 class="intro__subhead">{{ t('intro.doesHeading') }}</h2>
     <ul class="icon-list">
       <li v-for="key in ['does1', 'does2', 'does3']" :key="key">
@@ -65,7 +74,7 @@ onMounted(() => {
     <div class="panel intro__doesnt">
       <h2 class="intro__subhead">{{ t('intro.doesntHeading') }}</h2>
       <ul class="icon-list">
-        <li v-for="key in ['doesnt1', 'doesnt2', 'doesnt3']" :key="key">
+        <li v-for="key in ['doesnt1', 'doesnt2', 'doesnt3', 'doesnt4']" :key="key">
           <X :size="22" aria-hidden="true" />
           {{ t(`intro.${key}`) }}
         </li>
@@ -80,8 +89,9 @@ onMounted(() => {
       </p>
     </div>
 
-    <RouterLink :to="{ name: 'household' }" class="btn btn--primary btn--block">
+    <RouterLink :to="{ name: 'household' }" class="btn btn--outline btn--block">
       {{ t('intro.start') }}
+      <ArrowRight class="flip-rtl" :size="20" aria-hidden="true" />
     </RouterLink>
     <p class="intro__secondary">
       <RouterLink :to="{ name: 'support' }" class="link-action">{{
@@ -100,16 +110,29 @@ onMounted(() => {
   font-weight: 700;
 }
 
-/* rounded here rather than in the file, so the corners match the panels */
+/* rounded here rather than in the file, so the corners match the panels.
+   capped at a fifth of the screen height, so the button under the lead
+   is in view on a short laptop screen too */
 .intro__photo {
   display: block;
   width: 100%;
   height: auto;
+  max-height: clamp(6rem, 20vh, 18rem);
   aspect-ratio: 2 / 1;
   object-fit: cover;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.25rem;
   border-radius: var(--nr-radius-lg);
   background: var(--nr-apricot);
+}
+
+.intro__cta {
+  margin-top: 0.25rem;
+}
+
+.intro__steps {
+  margin: 0.5rem 0 0;
+  color: var(--nr-ink-muted);
+  text-align: center;
 }
 
 .intro__subhead {
@@ -126,7 +149,7 @@ onMounted(() => {
 }
 
 .intro__doesnt svg {
-  color: var(--nr-wine);
+  color: var(--nr-wine-text);
 }
 
 .intro__privacy {

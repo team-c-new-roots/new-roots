@@ -21,7 +21,7 @@ const props = withDefaults(
     legend: string
     id?: string
     variant?: 'chip' | 'tile' | 'card' | 'card-strong' | 'language'
-    legendTag?: 'h1' | 'h2' | 'span'
+    legendTag?: 'h1' | 'h2' | 'h3' | 'span'
     legendHidden?: boolean
     hint?: string
     error?: string

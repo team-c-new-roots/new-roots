@@ -2,14 +2,18 @@
 import { computed, ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
+import { HandHeart, Lock, MapPin } from '@lucide/vue'
 import { useLanguageStore } from '@/stores/language'
 import { GREETINGS, type AppLanguageCode } from '@/data/languages'
 import type { ChoiceOption } from '@/types'
 import RadioGroup from '@/components/ui/RadioGroup.vue'
 
-/* the first screen. each language is written in its own script with the
-   English name under it (US-1), so people can find theirs before reading
-   any English. picking one applies straight away */
+/* the first screen, and the landing page. it says who New Roots is for and
+   what it does before asking anything (teacher feedback: "why am I here?").
+   each language is written in its own script with the English name under
+   it (US 5.2), so people can find theirs before reading much English.
+   picking one applies straight away. Continue stays in view on a phone,
+   since the language list can push it below the fold */
 
 const { t } = useI18n()
 const router = useRouter()
@@ -50,15 +54,43 @@ const choice = computed<AppLanguageCode | null>({
       </span>
     </p>
 
+    <h1 class="language-page__title">{{ t('languagePage.purpose') }}</h1>
+    <p class="language-page__lead">{{ t('languagePage.who') }}</p>
+    <ul class="language-page__points">
+      <li>
+        <HandHeart :size="20" aria-hidden="true" />
+        {{ t('languagePage.free') }}
+      </li>
+      <li>
+        <Lock :size="20" aria-hidden="true" />
+        {{ t('languagePage.private') }}
+      </li>
+      <li>
+        <MapPin :size="20" aria-hidden="true" />
+        {{ t('languagePage.melbourne') }}
+      </li>
+    </ul>
+
     <RadioGroup
       id="app-language"
       v-model="choice"
       :options="options"
       :legend="t('languagePage.heading')"
       :hint="t('languagePage.lead')"
-      legend-tag="h1"
+      legend-tag="h2"
       variant="language"
     />
+
+    <div class="language-page__continue">
+      <button
+        type="button"
+        class="btn btn--accent btn--block"
+        @click="router.push({ name: 'intro' })"
+      >
+        {{ t('languagePage.continue') }}
+      </button>
+    </div>
+    <p class="note language-page__note">{{ t('languagePage.changeAnytime') }}</p>
 
     <button
       type="button"
@@ -73,15 +105,6 @@ const choice = computed<AppLanguageCode | null>({
       <p>{{ t('languagePage.moreBody') }}</p>
       <RouterLink :to="{ name: 'support' }">{{ t('languagePage.support') }}</RouterLink>
     </div>
-
-    <button
-      type="button"
-      class="btn btn--accent btn--block language-page__continue"
-      @click="router.push({ name: 'intro' })"
-    >
-      {{ t('languagePage.continue') }}
-    </button>
-    <p class="note language-page__note">{{ t('languagePage.changeAnytime') }}</p>
   </div>
 </template>
 
@@ -91,12 +114,48 @@ const choice = computed<AppLanguageCode | null>({
 }
 
 .language-page__greeting {
+  margin-bottom: 0.5rem;
   color: var(--nr-rust);
   font-size: 1.125rem;
 }
 
 .language-page__greeting-line {
   display: block;
+}
+
+.language-page__title {
+  margin-bottom: 0.5rem;
+}
+
+.language-page__lead {
+  font-size: 1.0625rem;
+}
+
+/* three short promises, in a row when they fit */
+.language-page__points {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 0 0 1.75rem;
+  padding: 0;
+  list-style: none;
+}
+
+.language-page__points li {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.85rem;
+  border-radius: var(--nr-radius-pill);
+  background: var(--nr-apricot);
+  font-size: 0.9375rem;
+  font-weight: 700;
+}
+
+.language-page__points svg {
+  flex: none;
+  color: var(--nr-rust);
 }
 
 /* the group is centred like the wireframe, but its options keep their own alignment */
@@ -114,11 +173,18 @@ const choice = computed<AppLanguageCode | null>({
   text-align: start;
 }
 
+/* stuck to the bottom of the screen until the page reaches it, so the next
+   step is always in view, on a phone or a short laptop screen */
 .language-page__continue {
-  margin-top: 1.75rem;
+  position: sticky;
+  bottom: 0;
+  z-index: 5;
+  margin-top: 0.5rem;
+  padding-block: 0.75rem calc(0.75rem + env(safe-area-inset-bottom));
+  background: var(--nr-surface);
 }
 
 .language-page__note {
-  margin-top: 1rem;
+  margin-top: 0.25rem;
 }
 </style>

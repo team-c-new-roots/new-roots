@@ -14,7 +14,14 @@ import RadioGroup from '@/components/ui/RadioGroup.vue'
    suburbs within budget always come first. schools ask which kind the
    family needs (US 4.1). reported crime starts at Not important and says why,
    because crime figures can stigmatise the suburbs new arrivals already live
-   in (ethics canvas) */
+   in (ethics canvas).
+
+   the five topics share one look (three tiles each) and sit together, and
+   the schools question (two by two) has its own section above them, so the
+   two kinds of question don't take turns down the page (teacher feedback).
+   schools comes first because it's a fact about the family that decides
+   what the schools rating counts. it only shows when step 1 has children,
+   since schoolNeed is already none without them */
 
 const { t } = useI18n()
 const router = useRouter()
@@ -74,29 +81,43 @@ const back = computed(() => ({
     <h1 class="priorities__title">{{ t('priorities.title') }}</h1>
     <p class="priorities__lead">{{ t('priorities.lead') }}</p>
 
-    <div v-for="topic in topics" :key="topic.id" class="priority">
+    <section
+      v-if="answers.children > 0"
+      class="panel priorities__group priorities__schools"
+      aria-labelledby="schools-heading"
+    >
+      <h2 id="schools-heading" class="priorities__group-title">
+        <School :size="24" class="legend-icon" aria-hidden="true" />
+        {{ t('priorities.schoolsHeading') }}
+      </h2>
       <RadioGroup
-        :id="`importance-${topic.key}`"
-        v-model="models[topic.id as RatedTopic].value"
-        :options="options"
-        :legend="t(`topics.${topic.key}`)"
-        :legend-icon="topic.icon"
-        :hint="t(`topics.${topic.key}Hint`)"
-        legend-tag="h2"
-        variant="tile"
-        :columns="3"
-      />
-
-      <RadioGroup
-        v-if="topic.id === 'Education'"
         id="school-need"
         v-model="schoolNeed"
         :options="schoolOptions"
         :legend="t('priorities.schools')"
+        :hint="t('priorities.schoolsHint')"
         :columns="2"
-        class="priority__follow-up"
       />
-    </div>
+    </section>
+
+    <section class="priorities__group" aria-labelledby="importance-heading">
+      <h2 id="importance-heading" class="priorities__group-title">
+        {{ t('priorities.importanceHeading') }}
+      </h2>
+      <div v-for="topic in topics" :key="topic.id" class="priority">
+        <RadioGroup
+          :id="`importance-${topic.key}`"
+          v-model="models[topic.id as RatedTopic].value"
+          :options="options"
+          :legend="t(`topics.${topic.key}`)"
+          :legend-icon="topic.icon"
+          :hint="t(`topics.${topic.key}Hint`)"
+          legend-tag="h3"
+          variant="tile"
+          :columns="3"
+        />
+      </div>
+    </section>
   </StepLayout>
 </template>
 
@@ -109,6 +130,13 @@ const back = computed(() => ({
   margin-bottom: 1.25rem;
 }
 
+.priorities__group-title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+}
+
 .priority {
   padding-block: 0.25rem 1rem;
   border-bottom: 1px solid var(--nr-line);
@@ -118,7 +146,20 @@ const back = computed(() => ({
   border-bottom: 0;
 }
 
-.priority__follow-up {
-  margin-top: 1rem;
+.priorities__schools {
+  margin-bottom: 1.5rem;
+}
+
+.priorities__schools :deep(fieldset) {
+  margin-bottom: 0;
+}
+
+/* white chips on the apricot panel, so the unchosen ones still stand out */
+.priorities__schools :deep(.choice__input:not(:checked) + .choice__body) {
+  background: var(--nr-surface-raised);
+}
+
+.priorities__schools :deep(.choice__input:not(:checked):hover + .choice__body) {
+  background: var(--nr-apricot-strong);
 }
 </style>
