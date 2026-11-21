@@ -126,28 +126,30 @@ function print() {
             }}
           </p>
           <ol class="summary__suburbs">
-            <li v-for="(item, index) in picks" :key="item.id">
-              <div class="summary__row">
-                <span class="summary__number" aria-hidden="true">{{ index + 1 }}</span>
-                <span class="summary__name">{{ item.name }}</span>
-                <span v-if="item.rent !== null" class="summary__rent">
+            <li v-for="(item, index) in picks" :key="item.id" class="summary__item">
+              <span class="summary__number" aria-hidden="true">{{ index + 1 }}</span>
+              <div class="summary__body">
+                <p class="summary__title">
+                  <span class="summary__name">{{ item.name }}</span>
+                  <span class="summary__status">{{ t(`status.${item.status}`) }}</span>
+                </p>
+                <p v-if="item.rent !== null">
                   {{
                     facts.rentEstimate(item)
                       ? t('summary.rentEstimated', { amount: money(item.rent) })
                       : t('income.budgetValue', { amount: money(item.rent) })
                   }}
-                </span>
-                <span class="summary__status">{{ t(`status.${item.status}`) }}</span>
-                <button type="button" class="summary__remove no-print" @click="remove(item)">
-                  {{ t('results.removeFromSummary') }}
-                  <span class="visually-hidden">{{
-                    t('results.fromSummary', { suburb: item.name })
-                  }}</span>
-                </button>
+                </p>
+                <p v-if="distances(item).length" class="summary__distances">
+                  {{ distances(item).join(' · ') }}
+                </p>
               </div>
-              <p v-if="distances(item).length" class="summary__distances">
-                {{ distances(item).join(' · ') }}
-              </p>
+              <button type="button" class="summary__remove no-print" @click="remove(item)">
+                {{ t('results.removeFromSummary') }}
+                <span class="visually-hidden">{{
+                  t('results.fromSummary', { suburb: item.name })
+                }}</span>
+              </button>
             </li>
           </ol>
           <p v-if="anyEstimate" class="summary__estimate-note">{{ t('summary.estimateNote') }}</p>
@@ -253,20 +255,37 @@ function print() {
   color: var(--nr-rust);
 }
 
-.summary__suburbs li {
-  padding-block: 0.4rem;
+/* number, then the suburb's lines, then Remove on the right. the same on
+   a phone and a laptop, so Remove never drops onto a line of its own */
+.summary__item {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.75rem;
+  padding-block: 0.6rem;
 }
 
-.summary__row {
+.summary__item + .summary__item {
+  border-top: 1px solid var(--nr-line);
+}
+
+.summary__item .summary__number {
+  align-self: start;
+}
+
+.summary__body p {
+  margin: 0;
+}
+
+.summary__title {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.25rem 0.75rem;
+  gap: 0.25rem 0.5rem;
 }
 
 .summary__distances {
-  margin: 0.2rem 0 0;
-  padding-inline-start: 2.5rem;
+  margin-top: 0.15rem;
   font-size: 0.9375rem;
 }
 
@@ -293,13 +312,18 @@ function print() {
   font-weight: 700;
 }
 
+/* a small label beside the name, so it reads fine wherever it wraps */
 .summary__status {
-  margin-inline-start: auto;
+  padding: 0.05rem 0.6rem;
+  border: 1px solid var(--nr-wine-line);
+  border-radius: 999px;
+  background: var(--nr-surface);
   color: var(--nr-wine-text);
+  font-size: 0.875rem;
   font-weight: 700;
 }
 
-/* a link-style button, so the row stays one line on a laptop */
+/* a link-style button, still a full-size target */
 .summary__remove {
   display: inline-flex;
   align-items: center;
@@ -373,8 +397,29 @@ function print() {
     padding-block: 0.85rem;
   }
 
-  .summary__suburbs li {
+  /* name, status and rent on one line on paper, so five still fit A4 */
+  .summary__item {
     padding-block: 0.25rem;
+  }
+
+  .summary__body {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    column-gap: 0.75rem;
+  }
+
+  .summary__distances {
+    flex-basis: 100%;
+    margin-top: 0;
+  }
+
+  .summary__status {
+    padding: 0;
+    border: 0;
+    background: none;
+    color: var(--nr-print-ink);
+    font-size: inherit;
   }
 
   .summary__privacy {
@@ -384,10 +429,6 @@ function print() {
   .summary__number {
     border: 1px solid var(--nr-print-ink);
     background: var(--nr-print-paper);
-    color: var(--nr-print-ink);
-  }
-
-  .summary__status {
     color: var(--nr-print-ink);
   }
 }

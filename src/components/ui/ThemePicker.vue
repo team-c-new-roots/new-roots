@@ -10,7 +10,9 @@ import RadioGroup from './RadioGroup.vue'
    page. native radios, so it's one stop for a keyboard and reads as
    "1 of 3" to a screen reader. changes apply straight away */
 
-// three across on the Accessibility page, wrapping chips in the narrow menu
+// three across on the Accessibility page as tiles, icon above the words, so
+// High contrast wraps between its words on a phone instead of mid-word.
+// stacked chips in the narrow menu
 withDefaults(defineProps<{ id?: string; columns?: 3 }>(), { id: 'theme', columns: undefined })
 
 const { t } = useI18n()
@@ -36,5 +38,6 @@ const choice = computed<Theme | null>({
     :options="options"
     :legend="t('theme.legend')"
     :columns="columns"
+    :variant="columns ? 'tile' : 'chip'"
   />
 </template>
