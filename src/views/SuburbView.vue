@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, ref, watchEffect } from 'vue'
 import { I18nT, useI18n } from 'vue-i18n'
-import { Check, ChevronLeft, Plus, TrendingDown, TrendingUp } from '@lucide/vue'
+import { Check, ChevronLeft, CircleAlert, Plus, TrendingDown, TrendingUp } from '@lucide/vue'
 import { SHORTLIST_MAX, useAnswersStore } from '@/stores/answers'
 import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
@@ -29,6 +29,8 @@ const answers = useAnswersStore()
 const { status, errorKind, data, derived, counted, retry } = useResults()
 const { money, km, percent, decimal, home } = useFormat()
 const announcement = ref('')
+// true when the last tap was refused, so the message shows as an error
+const refused = ref(false)
 const { homeFor, rentMetricFor, rentEstimate } = useSuburbFacts()
 
 const item = computed(() => derived.value?.byId.get(props.id))
@@ -83,7 +85,8 @@ watchEffect(() => {
 function toggleSummary() {
   const entry = item.value
   if (!entry) return
-  if (!summary.toggle(entry.id)) {
+  refused.value = !summary.toggle(entry.id)
+  if (refused.value) {
     announcement.value = t('suburb.full', { max: SHORTLIST_MAX })
     return
   }
@@ -262,7 +265,9 @@ function toggleSummary() {
           {{ t('results.tracker', { count: summary.count.value, max: summary.max }) }}
           <RouterLink :to="{ name: 'summary' }">{{ t('results.seeSummary') }}</RouterLink>
         </p>
-        <p class="suburb__announce" role="status">{{ announcement }}</p>
+        <p class="suburb__announce" :class="{ field__error: refused }" role="status">
+          <CircleAlert v-if="refused" :size="18" aria-hidden="true" />{{ announcement }}
+        </p>
       </template>
 
       <template v-else>

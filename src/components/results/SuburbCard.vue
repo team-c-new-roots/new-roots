@@ -2,7 +2,7 @@
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { SHORTLIST_MAX } from '@/stores/answers'
-import { Check, House, Languages, MapPin, Plus } from '@lucide/vue'
+import { Check, CircleAlert, House, Languages, MapPin, Plus } from '@lucide/vue'
 import type { MapData } from '@/types/scoring'
 import type { SuburbResult } from '@/services/results'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
@@ -111,7 +111,8 @@ const distances = computed(() => facts.distanceFacts(props.item))
         </button>
       </div>
     </div>
-    <p v-if="summaryFull" class="suburb-card__full">
+    <p v-if="summaryFull" class="field__error suburb-card__full">
+      <CircleAlert :size="18" aria-hidden="true" />
       {{ t('suburb.full', { max: SHORTLIST_MAX }) }}
     </p>
   </article>
@@ -287,9 +288,9 @@ const distances = computed(() => facts.distanceFacts(props.item))
   color: var(--nr-rust);
 }
 
+/* the error style from the form fields, so it reads as a problem in
+   every theme, with an icon as well as the colour */
 .suburb-card__full {
   margin: 0.4rem 0 0;
-  color: var(--nr-wine-text);
-  font-weight: 600;
 }
 </style>
