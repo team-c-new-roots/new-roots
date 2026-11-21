@@ -8,7 +8,8 @@ export function useFormat() {
 
   const money = (value: number) => n(value, 'currency')
   const cents = (value: number) => n(value, 'cents')
-  const km = (value: number) => n(value, 'km')
+  // a no-break space before the unit, so km never wraps onto its own line
+  const km = (value: number) => n(value, 'km').replace(/\s(?=\D+$)/u, '\u00a0')
   // the data stores percents as 9 for 9%, Intl wants 0.09
   const percent = (value: number) => n(value / 100, 'percent')
   const decimal = (value: number) => n(value, 'decimal')

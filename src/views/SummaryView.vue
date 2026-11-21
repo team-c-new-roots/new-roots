@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
 import { I18nT, useI18n } from 'vue-i18n'
-import { Check, ChevronLeft, ListChecks, Lock, MapPin, Printer, Users } from '@lucide/vue'
+import { Check, ChevronLeft, ListChecks, Lock, MapPin, Printer, Users, Wallet } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
 import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
@@ -50,6 +50,7 @@ function remove(item: SuburbResult) {
 
 // "Schools: primary 0.5 km, secondary 1.6 km", with the estimate flag up by
 // the rent, so each suburb's distances fit one line on paper
+// the shorter one-line version of the distances, for paper only
 function distances(item: SuburbResult): string[] {
   const schools = facts.schoolMetrics.value.flatMap((level) => {
     const distance = metricValue(item.obt, `${level}_school_proximity`)
@@ -133,14 +134,25 @@ function print() {
                   <span class="summary__name">{{ item.name }}</span>
                   <span class="summary__status">{{ t(`status.${item.status}`) }}</span>
                 </p>
-                <p v-if="item.rent !== null">
-                  {{
-                    facts.rentEstimate(item)
-                      ? t('summary.rentEstimated', { amount: money(item.rent) })
-                      : t('income.budgetValue', { amount: money(item.rent) })
-                  }}
-                </p>
-                <p v-if="distances(item).length" class="summary__distances">
+                <ul class="summary__facts">
+                  <li v-if="item.rent !== null" class="summary__rent">
+                    <Wallet :size="18" aria-hidden="true" />
+                    {{
+                      facts.rentEstimate(item)
+                        ? t('summary.rentEstimated', { amount: money(item.rent) })
+                        : t('income.budgetValue', { amount: money(item.rent) })
+                    }}
+                  </li>
+                  <li
+                    v-for="fact in facts.distanceFacts(item)"
+                    :key="fact.key"
+                    class="summary__distance"
+                  >
+                    <component :is="fact.icon" :size="18" aria-hidden="true" />
+                    {{ fact.text }}
+                  </li>
+                </ul>
+                <p v-if="distances(item).length" class="summary__distances print-only">
                   {{ distances(item).join(' · ') }}
                 </p>
               </div>
@@ -255,22 +267,43 @@ function print() {
   color: var(--nr-rust);
 }
 
-/* number, then the suburb's lines, then Remove on the right. the same on
-   a phone and a laptop, so Remove never drops onto a line of its own */
+/* the number, the name with Remove beside it, then the facts across the
+   full width underneath, so they never get squeezed into short lines */
 .summary__item {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-areas:
+    'number title remove'
+    'number facts facts';
   align-items: center;
-  gap: 0.75rem;
+  gap: 0.25rem 0.75rem;
   padding-block: 0.6rem;
+}
+
+.summary__body {
+  display: contents;
+}
+
+.summary__item .summary__number {
+  grid-area: number;
+  align-self: start;
+  margin-top: 0.6rem;
+}
+
+.summary__title {
+  grid-area: title;
+}
+
+.summary__facts {
+  grid-area: facts;
+}
+
+.summary__remove {
+  grid-area: remove;
 }
 
 .summary__item + .summary__item {
   border-top: 1px solid var(--nr-line);
-}
-
-.summary__item .summary__number {
-  align-self: start;
 }
 
 .summary__body p {
@@ -284,9 +317,25 @@ function print() {
   gap: 0.25rem 0.5rem;
 }
 
-.summary__distances {
-  margin-top: 0.15rem;
-  font-size: 0.9375rem;
+/* one fact per line with its icon, so a figure never wraps away from its
+   label or its km */
+.summary__facts {
+  display: grid;
+  gap: 0.2rem;
+  margin: 0.25rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.summary__facts li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.summary__facts svg {
+  flex: none;
+  color: var(--nr-rust);
 }
 
 .summary__estimate-note {
@@ -397,21 +446,39 @@ function print() {
     padding-block: 0.85rem;
   }
 
-  /* name, status and rent on one line on paper, so five still fit A4 */
+  /* on paper: name, status and rent on one line, the distances on the next,
+     so five suburbs still fit on one A4 page */
   .summary__item {
+    grid-template-columns: auto minmax(0, 1fr);
+    grid-template-areas: none;
     padding-block: 0.25rem;
+  }
+
+  .summary__item .summary__number {
+    grid-area: auto;
+    margin-top: 0;
   }
 
   .summary__body {
     display: flex;
     flex-wrap: wrap;
-    align-items: baseline;
-    column-gap: 0.75rem;
+    align-items: center;
+    gap: 0.1rem 0.75rem;
+  }
+
+  .summary__facts {
+    display: contents;
+  }
+
+  .summary__facts .summary__distance,
+  .summary__facts svg {
+    display: none;
   }
 
   .summary__distances {
     flex-basis: 100%;
-    margin-top: 0;
+    margin: 0;
+    font-size: 0.875rem;
   }
 
   .summary__status {

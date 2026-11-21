@@ -798,15 +798,17 @@ legend {
     border-color: var(--nr-ink-muted);
   }
 
-  /* buttons and chosen options fill Autumn Orange with Espresso text,
-     since burgundy doesn't stand out against espresso */
+  /* buttons, chosen options and the rank circles fill Autumn Orange with
+     Espresso text, since burgundy doesn't stand out against espresso */
   :root[data-theme='dark']
     :is(
       .btn--primary,
       .choice__input:checked + .choice__body,
       .results__tabs button[aria-selected='true'],
       .support__tile[aria-pressed='true'],
-      .support__toggle[aria-pressed='true']
+      .support__toggle[aria-pressed='true'],
+      .suburb-card__rank,
+      .summary__number
     ) {
     border-color: #e9843e;
     background: #e9843e;
