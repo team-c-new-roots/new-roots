@@ -39,7 +39,7 @@ const props = defineProps<{ id: string }>()
 const { t } = useI18n()
 const answers = useAnswersStore()
 const { status, errorKind, data, derived, counted, retry } = useResults()
-const { money, km, percent, decimal, home, fullDate } = useFormat()
+const { money, km, percent, decimal, home } = useFormat()
 const announcement = ref('')
 // true when the last tap was refused, so the message shows as an error
 const refused = ref(false)
@@ -298,7 +298,6 @@ function toggleSummary() {
             </details>
             <I18nT keypath="moveIn.limits" tag="p" scope="global" class="suburb__source">
               <template #limit>{{ money(MOVE_IN.weeklyLimit) }}</template>
-              <template #date>{{ fullDate(MOVE_IN.checked) }}</template>
               <template #cav>
                 <ExternalLink :href="MOVE_IN.cavUrl">Consumer Affairs Victoria</ExternalLink>
               </template>

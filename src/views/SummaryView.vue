@@ -75,19 +75,12 @@ function distances(item: SuburbResult): string[] {
 }
 
 // US 1.3, on screen and paper, so the caseworker sees the upfront cost too.
-// paper gets the short version, the note under the list says what it covers
+// paper spells out what the figure covers, since there are no icons there
 function moveInLine(item: SuburbResult, paper = false): string | null {
   if (item.rent === null) return null
   const cost = moveInCost(item.rent)
   const key = paper ? 'moveIn.paper' : 'moveIn.summary'
   return t(cost.limited ? key : `${key}Over`, { amount: money(cost.total) })
-}
-
-// paper gets the move-in cost on the distances line, so it costs no extra
-// line per suburb
-function paperLine(item: SuburbResult): string[] {
-  const moveIn = moveInLine(item, true)
-  return moveIn ? [moveIn, ...distances(item)] : distances(item)
 }
 
 const anyRent = computed(() => picks.value.some((item) => item.rent !== null))
@@ -186,8 +179,11 @@ function print() {
                     {{ fact.text }}
                   </li>
                 </ul>
-                <p v-if="paperLine(item).length" class="summary__distances print-only">
-                  {{ paperLine(item).join(' · ') }}
+                <p v-if="moveInLine(item, true)" class="summary__distances print-only">
+                  {{ moveInLine(item, true) }}
+                </p>
+                <p v-if="distances(item).length" class="summary__distances print-only">
+                  {{ distances(item).join(' · ') }}
                 </p>
               </div>
               <button type="button" class="summary__remove no-print" @click="remove(item)">
@@ -199,15 +195,15 @@ function print() {
             </li>
           </ol>
           <p v-if="anyEstimate" class="summary__estimate-note">{{ t('summary.estimateNote') }}</p>
+          <!-- screen only, each printed suburb already says what its move-in covers -->
           <I18nT
             v-if="anyRent"
             keypath="moveIn.summaryNote"
             tag="p"
             scope="global"
-            class="summary__estimate-note"
+            class="summary__estimate-note no-print"
           >
             <template #limit>{{ money(MOVE_IN.weeklyLimit) }}</template>
-            <template #date>{{ fullDate(MOVE_IN.checked) }}</template>
             <template #cav>
               <ExternalLink :href="MOVE_IN.cavUrl">Consumer Affairs Victoria</ExternalLink>
             </template>
@@ -467,8 +463,8 @@ function print() {
    still fit one A4 page, even with the margins and headers Safari and
    Firefox add. body text stays the same size, only headings come down */
 @media print {
-  /* the whole width of the paper, so the move-in cost and distances share
-     one line under each suburb */
+  /* the whole width of the paper, so the distances stay on one line under
+     each suburb */
   .summary {
     max-width: none;
   }
@@ -495,8 +491,8 @@ function print() {
   }
 
   .summary__block {
-    margin-bottom: 0.75rem;
-    padding-block: 0.85rem;
+    margin-bottom: 0.6rem;
+    padding-block: 0.65rem;
   }
 
   /* on paper: name, status and rent on one line, the distances on the next,
@@ -504,7 +500,7 @@ function print() {
   .summary__item {
     grid-template-columns: auto minmax(0, 1fr);
     grid-template-areas: none;
-    padding-block: 0.25rem;
+    padding-block: 0.15rem;
   }
 
   .summary__item .summary__number {
@@ -529,10 +525,13 @@ function print() {
     display: none;
   }
 
+  /* move-in and distances, each on its own line, set a little tighter so
+     five suburbs still fit */
   .summary__distances {
     flex-basis: 100%;
     margin: 0;
     font-size: 0.875rem;
+    line-height: 1.35;
   }
 
   .summary__status {
@@ -545,6 +544,10 @@ function print() {
 
   .summary__privacy {
     margin-top: 0.5rem;
+  }
+
+  .summary__made {
+    margin-bottom: 0;
   }
 
   .summary__number {

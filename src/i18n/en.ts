@@ -566,9 +566,10 @@ export default {
     notFound: 'We couldn’t find that suburb.',
   },
   moveIn: {
-    title: 'Move-in cost: up to about {amount}',
-    titleOver: 'Move-in cost: at least about {amount}',
-    basis: 'Bond of {bond} plus up to {advance} rent in advance, each one month’s rent.',
+    title: 'Move-in cost: up to {amount}',
+    titleOver: 'Move-in cost: at least {amount}',
+    basis:
+      'At the median rent, that’s a bond of {bond} plus up to {advance} rent in advance, each one month’s rent.',
     over: 'Rent for this home is usually over {limit} a week, so the one month limits don’t apply and you could be asked for more.',
     bondHelp: 'Bond and bond loan help',
     bondBody:
@@ -577,13 +578,13 @@ export default {
     bondLoanBody:
       'An interest-free loan for people on low incomes to help pay a bond. You need to be an Australian permanent resident.',
     limits:
-      'Limits used: when rent is {limit} a week or less, bond and rent in advance are each at most one month’s rent. Checked {date} with {cav}.',
-    summary: 'Move in: up to about {amount}',
-    summaryOver: 'Move in: at least about {amount}',
-    paper: 'Move-in {amount}',
-    paperOver: 'Move-in from {amount}',
+      'Limits used: when rent is {limit} a week or less, bond and rent in advance are each at most one month’s rent. Source: {cav}.',
+    summary: 'Move-in: up to {amount}',
+    summaryOver: 'Move-in: at least {amount}',
+    paper: 'Move-in: up to {amount} (bond plus one month’s rent in advance)',
+    paperOver: 'Move-in: at least {amount} (bond plus one month’s rent in advance)',
     summaryNote:
-      'Move-in is bond plus a month’s rent in advance, the most allowed up to {limit} a week. Checked {date} with {cav}.',
+      'Bond and rent in advance are each capped at one month’s rent up to {limit} a week. Source: {cav}.',
   },
   nothingFits: {
     title: 'Nothing fits your budget yet',
