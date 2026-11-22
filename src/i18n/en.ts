@@ -565,6 +565,26 @@ export default {
     full: 'Your summary already has {max} suburbs, the most it holds. Remove one to add another.',
     notFound: 'We couldn’t find that suburb.',
   },
+  moveIn: {
+    title: 'Move-in cost: up to about {amount}',
+    titleOver: 'Move-in cost: at least about {amount}',
+    basis: 'Bond of {bond} plus up to {advance} rent in advance, each one month’s rent.',
+    over: 'Rent for this home is usually over {limit} a week, so the one month limits don’t apply and you could be asked for more.',
+    bondHelp: 'Bond and bond loan help',
+    bondBody:
+      'The bond isn’t a fee. It’s held by the Residential Tenancies Bond Authority, and you get it back at the end of the lease, less any agreed costs for unpaid rent or damage.',
+    bondLoan: 'Homes Victoria bond loans',
+    bondLoanBody:
+      'An interest-free loan for people on low incomes to help pay a bond. You need to be an Australian permanent resident.',
+    limits:
+      'Limits used: when rent is {limit} a week or less, bond and rent in advance are each at most one month’s rent. Checked {date} with {cav}.',
+    summary: 'Move in: up to about {amount}',
+    summaryOver: 'Move in: at least about {amount}',
+    paper: 'Move-in {amount}',
+    paperOver: 'Move-in from {amount}',
+    summaryNote:
+      'Move-in is bond plus a month’s rent in advance, the most allowed up to {limit} a week. Checked {date} with {cav}.',
+  },
   nothingFits: {
     title: 'Nothing fits your budget yet',
     lead: 'For a {home} on about {budget} a week, no suburb’s median rent fits your budget. Every suburb is still listed below, best match first.',

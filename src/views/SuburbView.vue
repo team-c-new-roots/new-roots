@@ -1,7 +1,17 @@
 <script setup lang="ts">
 import { computed, ref, watchEffect } from 'vue'
 import { I18nT, useI18n } from 'vue-i18n'
-import { Check, ChevronLeft, CircleAlert, Plus, TrendingDown, TrendingUp } from '@lucide/vue'
+import {
+  Check,
+  ChevronDown,
+  ChevronLeft,
+  CircleAlert,
+  Info,
+  KeyRound,
+  Plus,
+  TrendingDown,
+  TrendingUp,
+} from '@lucide/vue'
 import { SHORTLIST_MAX, useAnswersStore } from '@/stores/answers'
 import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
@@ -10,6 +20,8 @@ import { useSummary } from '@/composables/useSummary'
 import { insights, languageShare, metricValue, topLanguages } from '@/services/results'
 import { useLanguageName } from '@/composables/useLanguageName'
 import { SCHOOL_NEARBY_KM } from '@/data/metrics'
+import { MOVE_IN } from '@/data/move-in'
+import { moveInCost } from '@/services/moveIn'
 import BudgetBadge from '@/components/ui/BudgetBadge.vue'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
 import TopicBars from '@/components/results/TopicBars.vue'
@@ -27,7 +39,7 @@ const props = defineProps<{ id: string }>()
 const { t } = useI18n()
 const answers = useAnswersStore()
 const { status, errorKind, data, derived, counted, retry } = useResults()
-const { money, km, percent, decimal, home } = useFormat()
+const { money, km, percent, decimal, home, fullDate } = useFormat()
 const announcement = ref('')
 // true when the last tap was refused, so the message shows as an error
 const refused = ref(false)
@@ -73,6 +85,11 @@ const schools = computed(() => {
       : t(`suburb.no${key}`, { distance: km(SCHOOL_NEARBY_KM) })
   })
 })
+
+// built on the median for their home, so it's hidden when there's no rent
+const moveIn = computed(() =>
+  item.value && item.value.rent !== null ? moveInCost(item.value.rent) : null,
+)
 
 const value = (metric: string) => metricValue(item.value?.obt ?? null, metric)
 const crimeRate = computed(() => value('crime_per_1000'))
@@ -247,6 +264,47 @@ function toggleSummary() {
           <p v-else class="muted">{{ t('suburb.noLanguages') }}</p>
           <p class="suburb__source">{{ t('suburb.censusSource') }}</p>
 
+          <!-- US 1.3, what they'll need to find before moving in -->
+          <div v-if="moveIn" class="suburb__move-in" role="group" aria-labelledby="move-in-heading">
+            <h3 id="move-in-heading" class="suburb__move-in-title">
+              <KeyRound :size="22" aria-hidden="true" />
+              {{
+                t(moveIn.limited ? 'moveIn.title' : 'moveIn.titleOver', {
+                  amount: money(moveIn.total),
+                })
+              }}
+            </h3>
+            <p>
+              {{ t('moveIn.basis', { bond: money(moveIn.bond), advance: money(moveIn.advance) }) }}
+            </p>
+            <p v-if="!moveIn.limited">
+              {{ t('moveIn.over', { limit: money(MOVE_IN.weeklyLimit) }) }}
+            </p>
+            <details class="suburb__bond">
+              <summary>
+                <Info :size="20" aria-hidden="true" />
+                <span>{{ t('moveIn.bondHelp') }}</span>
+                <ChevronDown class="suburb__bond-chevron" :size="20" aria-hidden="true" />
+              </summary>
+              <div class="suburb__bond-body">
+                <p>{{ t('moveIn.bondBody') }}</p>
+                <p>{{ t('moveIn.bondLoanBody') }}</p>
+                <p>
+                  <ExternalLink :href="MOVE_IN.bondLoanUrl">{{
+                    t('moveIn.bondLoan')
+                  }}</ExternalLink>
+                </p>
+              </div>
+            </details>
+            <I18nT keypath="moveIn.limits" tag="p" scope="global" class="suburb__source">
+              <template #limit>{{ money(MOVE_IN.weeklyLimit) }}</template>
+              <template #date>{{ fullDate(MOVE_IN.checked) }}</template>
+              <template #cav>
+                <ExternalLink :href="MOVE_IN.cavUrl">Consumer Affairs Victoria</ExternalLink>
+              </template>
+            </I18nT>
+          </div>
+
           <p class="muted">{{ t('suburb.averages') }}</p>
           <DataNote compact />
         </section>
@@ -380,6 +438,84 @@ function toggleSummary() {
 .suburb__subhead {
   margin: 1.25rem 0 0.25rem;
   font-size: 1.125rem;
+}
+
+/* boxed off from the figures above, since it's money they'll need on the day */
+.suburb__move-in {
+  margin: 1.5rem 0 1rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--nr-line);
+  border-inline-start: 5px solid var(--nr-orange);
+  border-radius: var(--nr-radius-sm);
+  background: var(--nr-panel);
+}
+
+.suburb__move-in p {
+  margin: 0.25rem 0 0;
+}
+
+.suburb__move-in-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.suburb__move-in-title svg,
+.suburb__bond summary svg {
+  flex: none;
+  color: var(--nr-rust);
+}
+
+.suburb__bond {
+  margin-top: 0.35rem;
+}
+
+.suburb__bond summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: var(--nr-target);
+  color: var(--nr-wine-text);
+  font-weight: 700;
+  cursor: pointer;
+  list-style: none;
+}
+
+.suburb__bond summary::-webkit-details-marker {
+  display: none;
+}
+
+.suburb__bond summary span {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.suburb__bond-chevron {
+  transition: transform 0.15s ease;
+}
+
+.suburb__bond[open] .suburb__bond-chevron {
+  transform: rotate(180deg);
+}
+
+.suburb__bond-body {
+  padding: 0.25rem 0 0.5rem;
+}
+
+.suburb__bond-body p:first-child {
+  margin-top: 0;
+}
+
+.suburb__move-in .suburb__source {
+  margin-top: 0.5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .suburb__bond-chevron {
+    transition: none;
+  }
 }
 
 .suburb__languages {

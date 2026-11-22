@@ -1,7 +1,17 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
 import { I18nT, useI18n } from 'vue-i18n'
-import { Check, ChevronLeft, ListChecks, Lock, MapPin, Printer, Users, Wallet } from '@lucide/vue'
+import {
+  Check,
+  ChevronLeft,
+  KeyRound,
+  ListChecks,
+  Lock,
+  MapPin,
+  Printer,
+  Users,
+  Wallet,
+} from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
 import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
@@ -10,6 +20,8 @@ import { useSummary } from '@/composables/useSummary'
 import { metricValue, type SuburbResult } from '@/services/results'
 import { RATES_FROM } from '@/data/centrelink-rates'
 import { DATA_UPDATED } from '@/data/datasets'
+import { MOVE_IN } from '@/data/move-in'
+import { moveInCost } from '@/services/moveIn'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
 import ResultsGate from '@/components/results/ResultsGate.vue'
 import logoLight1x from '@/assets/brand/logo-on-light.webp'
@@ -61,6 +73,24 @@ function distances(item: SuburbResult): string[] {
     facts.englishLine(item),
   ].filter((line): line is string => line !== null)
 }
+
+// US 1.3, on screen and paper, so the caseworker sees the upfront cost too.
+// paper gets the short version, the note under the list says what it covers
+function moveInLine(item: SuburbResult, paper = false): string | null {
+  if (item.rent === null) return null
+  const cost = moveInCost(item.rent)
+  const key = paper ? 'moveIn.paper' : 'moveIn.summary'
+  return t(cost.limited ? key : `${key}Over`, { amount: money(cost.total) })
+}
+
+// paper gets the move-in cost on the distances line, so it costs no extra
+// line per suburb
+function paperLine(item: SuburbResult): string[] {
+  const moveIn = moveInLine(item, true)
+  return moveIn ? [moveIn, ...distances(item)] : distances(item)
+}
+
+const anyRent = computed(() => picks.value.some((item) => item.rent !== null))
 
 const anyEstimate = computed(() => picks.value.some((item) => facts.rentEstimate(item) !== null))
 
@@ -143,6 +173,10 @@ function print() {
                         : t('income.budgetValue', { amount: money(item.rent) })
                     }}
                   </li>
+                  <li v-if="moveInLine(item)" class="summary__move-in">
+                    <KeyRound :size="18" aria-hidden="true" />
+                    {{ moveInLine(item) }}
+                  </li>
                   <li
                     v-for="fact in facts.distanceFacts(item)"
                     :key="fact.key"
@@ -152,8 +186,8 @@ function print() {
                     {{ fact.text }}
                   </li>
                 </ul>
-                <p v-if="distances(item).length" class="summary__distances print-only">
-                  {{ distances(item).join(' · ') }}
+                <p v-if="paperLine(item).length" class="summary__distances print-only">
+                  {{ paperLine(item).join(' · ') }}
                 </p>
               </div>
               <button type="button" class="summary__remove no-print" @click="remove(item)">
@@ -165,6 +199,19 @@ function print() {
             </li>
           </ol>
           <p v-if="anyEstimate" class="summary__estimate-note">{{ t('summary.estimateNote') }}</p>
+          <I18nT
+            v-if="anyRent"
+            keypath="moveIn.summaryNote"
+            tag="p"
+            scope="global"
+            class="summary__estimate-note"
+          >
+            <template #limit>{{ money(MOVE_IN.weeklyLimit) }}</template>
+            <template #date>{{ fullDate(MOVE_IN.checked) }}</template>
+            <template #cav>
+              <ExternalLink :href="MOVE_IN.cavUrl">Consumer Affairs Victoria</ExternalLink>
+            </template>
+          </I18nT>
         </template>
         <p v-else>
           {{
@@ -420,6 +467,12 @@ function print() {
    still fit one A4 page, even with the margins and headers Safari and
    Firefox add. body text stays the same size, only headings come down */
 @media print {
+  /* the whole width of the paper, so the move-in cost and distances share
+     one line under each suburb */
+  .summary {
+    max-width: none;
+  }
+
   .summary__logo {
     margin-bottom: 0.5rem;
   }
@@ -471,6 +524,7 @@ function print() {
   }
 
   .summary__facts .summary__distance,
+  .summary__facts .summary__move-in,
   .summary__facts svg {
     display: none;
   }
