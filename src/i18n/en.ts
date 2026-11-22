@@ -96,7 +96,7 @@ export default {
     moreLegend: 'More languages',
     notListed: 'Don’t see your language?',
     notListedBody:
-      'To get help in your language now, call TIS National on 131 450 and ask for an interpreter.',
+      'We’re working on adding more languages. To get help in your language now, call TIS National on 131 450 and ask for an interpreter.',
     callTis: 'Call TIS National on 131 450',
     support: 'See support services',
     continue: 'Continue',
