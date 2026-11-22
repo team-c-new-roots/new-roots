@@ -633,12 +633,15 @@ legend {
 
 .choice-group--language .choice__body {
   flex: 1;
+  min-width: 0;
   justify-content: center;
   min-height: 4.5rem;
   text-align: center;
+  overflow-wrap: anywhere;
 }
 
 .choice-group--language .choice__text {
+  min-width: 0;
   align-items: center;
 }
 
@@ -714,7 +717,7 @@ legend {
   bottom: 0;
   z-index: 5;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.75rem;
   margin-top: 1.5rem;
   padding: 0.75rem var(--nr-gutter) calc(0.75rem + env(safe-area-inset-bottom));
@@ -722,8 +725,11 @@ legend {
   background: var(--nr-surface);
 }
 
+/* long words in some languages wrap inside the button instead of widening it */
 .action-bar .btn {
+  min-width: 0;
   padding-inline: 0.75rem;
+  overflow-wrap: anywhere;
 }
 
 @media (min-width: 64rem) {

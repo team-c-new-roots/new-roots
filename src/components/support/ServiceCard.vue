@@ -34,7 +34,7 @@ const { t } = useI18n()
     <div class="service__actions">
       <a v-if="service.phone" :href="`tel:${service.tel}`" class="btn btn--primary service__call">
         <Phone :size="18" aria-hidden="true" />
-        {{ t('support.call', { phone: service.phone }) }}
+        {{ t('support.call', { phone: service.phone.replace(/ /g, '\u00a0') }) }}
       </a>
       <ExternalLink v-if="service.url" :href="service.url" class="service__website">
         {{ t('support.website') }}
@@ -85,8 +85,9 @@ const { t } = useI18n()
   gap: 0.25rem;
 }
 
+/* the number never splits across lines, but longer languages can wrap the words */
 .service__call {
-  white-space: nowrap;
+  text-align: center;
 }
 
 .service__website {
