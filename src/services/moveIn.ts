@@ -12,13 +12,11 @@ export interface MoveIn {
 // does it: a day's rent times 365, over 12. a lease says this, not 4 weeks
 export const monthlyRent = (weekly: number) => ((weekly / 7) * 365) / 12
 
-const toTen = (value: number) => Math.round(value / 10) * 10
-
 // the most they can be asked for up front: a month's bond plus a month's rent
-// in advance. rounded to $10 since it's built on a median, not a real listing.
-// the total is the two rounded parts so the figures on screen add up
+// in advance, to the dollar. the total is the two rounded parts so the
+// figures on screen add up
 export function moveInCost(weekly: number): MoveIn {
-  const month = toTen(monthlyRent(weekly))
+  const month = Math.round(monthlyRent(weekly))
   return {
     bond: month,
     advance: month,
