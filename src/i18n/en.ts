@@ -576,7 +576,7 @@ export default {
       'The bond isn’t a fee. It’s held by the Residential Tenancies Bond Authority, and you get it back at the end of the lease, less any agreed costs for unpaid rent or damage.',
     bondLoan: 'Homes Victoria bond loans',
     bondLoanBody:
-      'An interest-free loan for people on low incomes to help pay a bond. You need to be an Australian permanent resident.',
+      'Homes Victoria lends people on low incomes the money for a bond, with no interest. You need to be an Australian permanent resident.',
     limits:
       'Limits used: when rent is {limit} a week or less, bond and rent in advance are each at most one month’s rent. Source: {cav}.',
     summary: 'Move-in: up to {amount}',
