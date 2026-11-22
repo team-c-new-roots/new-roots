@@ -1,5 +1,6 @@
-// every word on screen lives here. a translation is a copy of this file with
-// the same keys, reviewed by a fluent speaker before it goes live.
+// every word on screen lives here. the other languages are machine translated
+// copies in src/i18n/locales. only ever edit English, then npm run test:unit
+// lists the translations that need redoing
 // vue-i18n treats { } @ $ | as syntax, so amounts come in through {placeholders}
 
 export default {
@@ -71,6 +72,16 @@ export default {
     dinka: 'Dinka',
     hazaraghi: 'Hazaragi',
     persian: 'Persian',
+    chinese: 'Chinese (Simplified)',
+    burmese: 'Burmese',
+    tigrinya: 'Tigrinya',
+    amharic: 'Amharic',
+    somali: 'Somali',
+    swahili: 'Swahili',
+    tamil: 'Tamil',
+    nuer: 'Nuer',
+    vietnamese: 'Vietnamese',
+    oromo: 'Oromo',
   },
   languagePage: {
     title: 'Choose your language',
@@ -82,14 +93,19 @@ export default {
     heading: 'What language do you speak?',
     lead: 'Choose one, and New Roots will appear in it.',
     more: 'More languages',
-    moreBody:
-      'We’re adding more languages. To get help in your language now, call TIS National on 131 450 and ask for an interpreter.',
+    moreLegend: 'More languages',
+    notListed: 'Don’t see your language?',
+    notListedBody:
+      'To get help in your language now, call TIS National on 131 450 and ask for an interpreter.',
+    callTis: 'Call TIS National on 131 450',
     support: 'See support services',
     continue: 'Continue',
     changeAnytime: 'You can change your language at any time.',
   },
   languageNotice: {
     text: '{language} is coming soon. New Roots shows in English for now.',
+    machine:
+      'This page was translated automatically, so some words may be wrong. Check rent, payments and other important details with your caseworker or an interpreter.',
   },
   intro: {
     title: 'Welcome',
@@ -804,7 +820,7 @@ export default {
     limit2:
       'Map labels are small when the map is zoomed out. Zoom in, or choose a suburb from the list under the map.',
     limit3:
-      'New Roots is only in English for now. For an interpreter, call TIS National on 131 450.',
+      'Languages other than English are translated automatically, so some words may be wrong. For an interpreter, call TIS National on 131 450.',
     helpHeading: 'Need help using New Roots?',
     help: 'A settlement worker or caseworker can go through New Roots with you, and TIS National can interpret for free on most calls.',
     helpLink: 'See support services',

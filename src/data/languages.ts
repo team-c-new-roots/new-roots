@@ -1,6 +1,22 @@
 import type { CommunityLanguage } from '@/types'
 
-export type AppLanguageCode = 'en-AU' | 'fa-AF' | 'fa-IR' | 'ar' | 'ps' | 'din'
+export type AppLanguageCode =
+  | 'en-AU'
+  | 'fa-AF'
+  | 'fa-IR'
+  | 'ar'
+  | 'ps'
+  | 'din'
+  | 'zh-CN'
+  | 'my'
+  | 'ti'
+  | 'am'
+  | 'so'
+  | 'sw'
+  | 'ta'
+  | 'nus'
+  | 'vi'
+  | 'om'
 
 export interface AppLanguage {
   code: AppLanguageCode
@@ -11,10 +27,14 @@ export interface AppLanguage {
   nameKey: string
   // the community language this most likely means, used to skip a question later
   community: CommunityLanguage | null
+  // main is the six on the language screen, more sits behind More languages
+  group: 'main' | 'more'
 }
 
-// order follows the wireframe. Dari uses fa-AF rather than prs because screen
-// readers have a Persian voice for fa but usually nothing for prs
+// the main six are the most common languages for refugees settling in Victoria
+// (Hazaragi speakers mostly read Dari). the rest are other common refugee
+// languages. Dari uses fa-AF rather than prs because screen readers have a
+// Persian voice for fa but usually nothing for prs
 export const APP_LANGUAGES: AppLanguage[] = [
   {
     code: 'en-AU',
@@ -22,14 +42,23 @@ export const APP_LANGUAGES: AppLanguage[] = [
     dir: 'ltr',
     nameKey: 'languages.english',
     community: null,
+    group: 'main',
   },
-  { code: 'fa-AF', nativeName: 'دری', dir: 'rtl', nameKey: 'languages.dari', community: 'dari' },
+  {
+    code: 'fa-AF',
+    nativeName: 'دری',
+    dir: 'rtl',
+    nameKey: 'languages.dari',
+    community: 'dari',
+    group: 'main',
+  },
   {
     code: 'fa-IR',
     nativeName: 'فارسی',
     dir: 'rtl',
     nameKey: 'languages.farsi',
     community: 'persian',
+    group: 'main',
   },
   {
     code: 'ar',
@@ -37,14 +66,103 @@ export const APP_LANGUAGES: AppLanguage[] = [
     dir: 'rtl',
     nameKey: 'languages.arabic',
     community: 'arabic',
+    group: 'main',
   },
-  { code: 'ps', nativeName: 'پښتو', dir: 'rtl', nameKey: 'languages.pashto', community: 'pashto' },
+  {
+    code: 'ps',
+    nativeName: 'پښتو',
+    dir: 'rtl',
+    nameKey: 'languages.pashto',
+    community: 'pashto',
+    group: 'main',
+  },
   {
     code: 'din',
     nativeName: 'Thuɔŋjäŋ',
     dir: 'ltr',
     nameKey: 'languages.dinka',
     community: 'dinka',
+    group: 'main',
+  },
+  {
+    code: 'zh-CN',
+    nativeName: '简体中文',
+    dir: 'ltr',
+    nameKey: 'languages.chinese',
+    community: null,
+    group: 'more',
+  },
+  {
+    code: 'my',
+    nativeName: 'မြန်မာ',
+    dir: 'ltr',
+    nameKey: 'languages.burmese',
+    community: null,
+    group: 'more',
+  },
+  {
+    code: 'ti',
+    nativeName: 'ትግርኛ',
+    dir: 'ltr',
+    nameKey: 'languages.tigrinya',
+    community: null,
+    group: 'more',
+  },
+  {
+    code: 'am',
+    nativeName: 'አማርኛ',
+    dir: 'ltr',
+    nameKey: 'languages.amharic',
+    community: null,
+    group: 'more',
+  },
+  {
+    code: 'so',
+    nativeName: 'Soomaali',
+    dir: 'ltr',
+    nameKey: 'languages.somali',
+    community: null,
+    group: 'more',
+  },
+  {
+    code: 'sw',
+    nativeName: 'Kiswahili',
+    dir: 'ltr',
+    nameKey: 'languages.swahili',
+    community: null,
+    group: 'more',
+  },
+  {
+    code: 'ta',
+    nativeName: 'தமிழ்',
+    dir: 'ltr',
+    nameKey: 'languages.tamil',
+    community: null,
+    group: 'more',
+  },
+  {
+    code: 'nus',
+    nativeName: 'Thok Naath',
+    dir: 'ltr',
+    nameKey: 'languages.nuer',
+    community: null,
+    group: 'more',
+  },
+  {
+    code: 'vi',
+    nativeName: 'Tiếng Việt',
+    dir: 'ltr',
+    nameKey: 'languages.vietnamese',
+    community: null,
+    group: 'more',
+  },
+  {
+    code: 'om',
+    nativeName: 'Afaan Oromoo',
+    dir: 'ltr',
+    nameKey: 'languages.oromo',
+    community: null,
+    group: 'more',
   },
 ]
 

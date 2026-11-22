@@ -11,20 +11,33 @@ export const useLanguageStore = defineStore('language', () => {
 
   const current = computed(() => findAppLanguage(code.value))
   const translated = computed(() => isTranslated(code.value))
-  // picked a language whose words aren't ready yet, so the page stays in English
-  const showNotice = computed(() => !translated.value && !noticeDismissed.value)
+  // any language but English gets a notice: machine translated, or not ready
+  // yet so the page stays in English
+  const showNotice = computed(() => code.value !== 'en-AU' && !noticeDismissed.value)
+  const main = APP_LANGUAGES.filter((language) => language.group === 'main')
+  const more = APP_LANGUAGES.filter((language) => language.group === 'more')
 
-  function choose(next: AppLanguageCode) {
+  async function choose(next: AppLanguageCode) {
     code.value = next
     noticeDismissed.value = false
     const language = findAppLanguage(next)
-    if (isTranslated(next)) applyLocale(next, language.dir)
-    else applyLocale('en-AU', 'ltr')
+    if (isTranslated(next)) await applyLocale(next, language.dir)
+    else await applyLocale('en-AU', 'ltr')
   }
 
   function dismissNotice() {
     noticeDismissed.value = true
   }
 
-  return { code, current, translated, showNotice, options: APP_LANGUAGES, choose, dismissNotice }
+  return {
+    code,
+    current,
+    translated,
+    showNotice,
+    options: APP_LANGUAGES,
+    main,
+    more,
+    choose,
+    dismissNotice,
+  }
 })

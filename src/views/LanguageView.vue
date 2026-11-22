@@ -2,9 +2,9 @@
 import { computed, ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
-import { HandHeart, Lock, MapPin } from '@lucide/vue'
+import { HandHeart, Lock, MapPin, Phone } from '@lucide/vue'
 import { useLanguageStore } from '@/stores/language'
-import { GREETINGS, type AppLanguageCode } from '@/data/languages'
+import { GREETINGS, type AppLanguage, type AppLanguageCode } from '@/data/languages'
 import type { ChoiceOption } from '@/types'
 import RadioGroup from '@/components/ui/RadioGroup.vue'
 
@@ -18,17 +18,22 @@ import RadioGroup from '@/components/ui/RadioGroup.vue'
 const { t } = useI18n()
 const router = useRouter()
 const language = useLanguageStore()
-const showMore = ref(false)
+// open already if the language in use is one of the extra ones
+const showMore = ref(language.current.group === 'more')
 
-const options = computed<ChoiceOption<AppLanguageCode>[]>(() =>
-  language.options.map((option) => ({
-    value: option.code,
-    label: option.nativeName,
-    hint: option.code === 'en-AU' ? undefined : t(option.nameKey),
-    lang: option.code,
-    dir: option.dir,
-  })),
-)
+const toOption = (option: AppLanguage): ChoiceOption<AppLanguageCode> => ({
+  value: option.code,
+  label: option.nativeName,
+  // the name in the page's language, skipped when it's the same word as the label
+  hint:
+    option.code === 'en-AU' || t(option.nameKey) === option.nativeName
+      ? undefined
+      : t(option.nameKey),
+  lang: option.code,
+  dir: option.dir,
+})
+const options = computed(() => language.main.map(toOption))
+const moreOptions = computed(() => language.more.map(toOption))
 
 const choice = computed<AppLanguageCode | null>({
   get: () => language.code,
@@ -101,10 +106,28 @@ const choice = computed<AppLanguageCode | null>({
     >
       {{ t('languagePage.more') }}
     </button>
-    <div v-show="showMore" id="more-languages" class="panel language-page__more">
-      <p>{{ t('languagePage.moreBody') }}</p>
-      <RouterLink :to="{ name: 'support' }">{{ t('languagePage.support') }}</RouterLink>
+    <div v-show="showMore" id="more-languages" class="language-page__more">
+      <RadioGroup
+        id="more-language"
+        v-model="choice"
+        :options="moreOptions"
+        :legend="t('languagePage.moreLegend')"
+        legend-tag="h2"
+        variant="language"
+      />
     </div>
+
+    <section class="panel language-page__not-listed" aria-labelledby="not-listed-title">
+      <h2 id="not-listed-title">{{ t('languagePage.notListed') }}</h2>
+      <p>{{ t('languagePage.notListedBody') }}</p>
+      <p class="language-page__links">
+        <a href="tel:131450">
+          <Phone :size="18" aria-hidden="true" />
+          {{ t('languagePage.callTis') }}
+        </a>
+        <RouterLink :to="{ name: 'support' }">{{ t('languagePage.support') }}</RouterLink>
+      </p>
+    </section>
   </div>
 </template>
 
@@ -170,7 +193,37 @@ const choice = computed<AppLanguageCode | null>({
 
 .language-page__more {
   margin-top: 1rem;
+}
+
+/* for anyone whose language isn't listed, always in view under the lists */
+.language-page__not-listed {
+  margin-top: 1.25rem;
   text-align: start;
+}
+
+.language-page__not-listed h2 {
+  margin: 0 0 0.35rem;
+  color: var(--nr-rust);
+  font-size: 1.25rem;
+}
+
+.language-page__not-listed p {
+  margin: 0;
+}
+
+.language-page__not-listed .language-page__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  margin-top: 0.75rem;
+}
+
+.language-page__links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  min-height: var(--nr-target);
+  font-weight: 700;
 }
 
 /* stuck to the bottom of the screen until the page reaches it, so the next

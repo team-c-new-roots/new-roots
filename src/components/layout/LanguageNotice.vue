@@ -3,8 +3,9 @@ import { useI18n } from 'vue-i18n'
 import { X } from '@lucide/vue'
 import { useLanguageStore } from '@/stores/language'
 
-/* someone picked a language whose translation isn't ready yet. say so plainly
-   rather than switching to English with no explanation. goes once the translations ship */
+/* any language but English is machine translated, so say so and point to a
+   caseworker or interpreter for the details that matter. if a language's file
+   isn't there yet, say it's coming rather than switching to English silently */
 
 const { t } = useI18n()
 const language = useLanguageStore()
@@ -14,7 +15,11 @@ const language = useLanguageStore()
   <div v-if="language.showNotice" class="language-notice" role="status">
     <div class="page language-notice__inner">
       <p>
-        {{ t('languageNotice.text', { language: t(language.current.nameKey) }) }}
+        {{
+          language.translated
+            ? t('languageNotice.machine')
+            : t('languageNotice.text', { language: t(language.current.nameKey) })
+        }}
       </p>
       <button type="button" class="icon-button" @click="language.dismissNotice()">
         <X :size="22" aria-hidden="true" />

@@ -1,6 +1,11 @@
 import { useI18n } from 'vue-i18n'
 import type { HomeLabel, HomeType } from '@/types'
 
+// Dari and Farsi would default to the Persian calendar and digits, so dates
+// stay Gregorian with Western digits to match leases and Centrelink letters.
+// read as UTC so no time zone moves the day
+const AUSTRALIAN = { calendar: 'gregory', numberingSystem: 'latn', timeZone: 'UTC' } as const
+
 // number and label formatting in the current language, so a translation gets
 // its own digits and units without any component changing
 export function useFormat() {
@@ -20,10 +25,10 @@ export function useFormat() {
     const date = new Date(`${iso}T00:00:00Z`)
     if (Number.isNaN(date.getTime())) return iso
     return new Intl.DateTimeFormat(locale.value, {
+      ...AUSTRALIAN,
       day: 'numeric',
       month: 'long',
       year: 'numeric',
-      timeZone: 'UTC',
     }).format(date)
   }
 
@@ -32,9 +37,9 @@ export function useFormat() {
     const date = new Date(`${iso}T00:00:00Z`)
     if (Number.isNaN(date.getTime())) return iso
     return new Intl.DateTimeFormat(locale.value, {
+      ...AUSTRALIAN,
       month: 'long',
       year: 'numeric',
-      timeZone: 'UTC',
     }).format(date)
   }
 
