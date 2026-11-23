@@ -185,7 +185,9 @@ async function showMore() {
       {{ summaryLine }}
       <BudgetBreakdown />
     </p>
-    <p class="results__fresh">
+    <!-- when nothing fits, what they can do comes first and this moves to
+         the bottom with the other notes about the data -->
+    <p v-if="!nothingFits" class="results__fresh">
       <CalendarClock :size="20" aria-hidden="true" />
       <span>{{ t('results.fresh', { date: fullDate(DATA_UPDATED) }) }}</span>
     </p>
@@ -340,6 +342,10 @@ async function showMore() {
       <!-- the limits, folded, then what to do next. spaced as one block
            so the list's last button never touches them -->
       <div class="results__after">
+        <p v-if="nothingFits" class="results__fresh">
+          <CalendarClock :size="20" aria-hidden="true" />
+          <span>{{ t('results.fresh', { date: fullDate(DATA_UPDATED) }) }}</span>
+        </p>
         <DataNote id="about-results" :count="derived?.all.length" />
         <NextSteps :count="summary.count.value" :max="summary.max" />
       </div>
@@ -385,6 +391,10 @@ async function showMore() {
   flex: none;
   margin-top: 0.15rem;
   color: var(--nr-rust);
+}
+
+.results__after .results__fresh {
+  margin: 0;
 }
 
 /* clear of the list's Show more button, and a steady gap between the two */

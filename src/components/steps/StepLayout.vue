@@ -16,11 +16,14 @@ const TOTAL_STEPS = 4
 const props = withDefaults(
   defineProps<{
     step: number
+    // the second question of a step, like community after language. says so,
+    // and the bar moves on, so it doesn't look like the page didn't change
+    continued?: boolean
     back: RouteLocationRaw
     errors?: Record<string, string>
     nextLabel?: string
   }>(),
-  { errors: () => ({}), nextLabel: undefined },
+  { continued: false, errors: () => ({}), nextLabel: undefined },
 )
 
 const emit = defineEmits<{ next: [] }>()
@@ -38,9 +41,13 @@ async function submit() {
 
 <template>
   <div class="page page--narrow step">
-    <p class="step__count">{{ t('steps.stepOf', { step, total: TOTAL_STEPS }) }}</p>
+    <p class="step__count">
+      {{ t(continued ? 'steps.stepContinued' : 'steps.stepOf', { step, total: TOTAL_STEPS }) }}
+    </p>
     <div class="step__bar" aria-hidden="true">
-      <span :style="{ inlineSize: `${(step / TOTAL_STEPS) * 100}%` }"></span>
+      <span
+        :style="{ inlineSize: `${((step + (continued ? 0.5 : 0)) / TOTAL_STEPS) * 100}%` }"
+      ></span>
     </div>
 
     <form class="step__form" novalidate @submit.prevent="submit">

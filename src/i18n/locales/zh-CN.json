@@ -525,7 +525,6 @@
     "lead": "对于每周约 {budget} 的{home}，没有区域的租金中位数符合您的预算。所有区域仍列在下方，匹配度最高的排在前面。",
     "closest": "最接近的选择",
     "median": "{home}中位数每周 {amount}",
-    "otherWays": "其他办法",
     "shareHouses": "合租房的单间不在租金数据中，安置工作者可以帮您寻找。",
     "asrc": "Asylum Seeker Resource Centre 的支持",
     "allSupport": "查看所有支持服务",

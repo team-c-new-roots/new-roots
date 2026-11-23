@@ -38,6 +38,7 @@ const importance = computed<Importance | null>({
 <template>
   <StepLayout
     :step="3"
+    continued
     :back="{ name: 'community-language' }"
     @next="router.push({ name: 'priorities' })"
   >
