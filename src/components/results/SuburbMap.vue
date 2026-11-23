@@ -1330,6 +1330,13 @@ function onPick(event: Event) {
   filter: grayscale(1) contrast(0.9) brightness(1.05);
 }
 
+/* Safari rings a suburb's shape after a click or drag. the shapes aren't in
+   the tab order (the picker under the map is the keyboard way in), so this
+   only hides the ring a mouse or finger caused, never a keyboard one */
+.suburb-map path.leaflet-interactive:focus:not(:focus-visible) {
+  outline: none;
+}
+
 /* place pins sit centred on the place */
 .suburb-map .place-pin-anchor {
   display: grid;
