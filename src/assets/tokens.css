@@ -48,6 +48,18 @@
   --nr-map-line: #302622;
   --nr-map-bg: #f4ede6;
 
+  /* place pins are a white disc with a dark ring in every theme. wherever
+     the white fades into a fill the ring doesn't, so the pin is at least
+     4:1 against every map colour in every theme (WCAG wants 3:1). each
+     group's icon colour is at least 6.3:1 on the white, and the icon shape
+     differs too, so colour is never the only difference */
+  --nr-place-ring: #302622;
+  --nr-place-worship: #5b3a8e;
+  --nr-place-community: #1f5fad;
+  --nr-place-health: #00695c;
+  --nr-place-education: #a3195b;
+  --nr-place-recreation: #2e6b1f;
+
   /* the map's High contrast colours, used only on the map (and its key).
      a cividis-style yellow to navy ramp, since blue-yellow ramps stay
      distinct for red-green colour blindness, with each step tuned to the
@@ -157,5 +169,6 @@
 
     --nr-map-line: #000000;
     --nr-map-bg: #f2f2f2;
+    --nr-place-ring: #000000;
   }
 }

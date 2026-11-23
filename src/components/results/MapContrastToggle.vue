@@ -5,60 +5,27 @@ import { useDisplayStore } from '@/stores/display'
 
 /* swaps the map's five match colours for the colour-blind safe ramp, and
    nothing else on the page. aria-pressed so a screen reader says on or off,
-   and the words change too */
+   and the words change too. styled with the other map tools in main.css */
 
 const { t } = useI18n()
 const display = useDisplayStore()
 </script>
 
 <template>
-  <button
-    type="button"
-    class="map-contrast"
-    :aria-pressed="display.mapContrast ? 'true' : 'false'"
-    @click="display.toggleMapContrast()"
-  >
-    <Contrast :size="18" aria-hidden="true" />
-    <span>{{ t('map.contrast') }}</span>
-    <span class="map-contrast__state">{{
-      display.mapContrast ? t('map.contrastOn') : t('map.contrastOff')
-    }}</span>
-  </button>
+  <div class="map-tool-wrap">
+    <button
+      type="button"
+      class="map-tool"
+      :aria-pressed="display.mapContrast ? 'true' : 'false'"
+      aria-describedby="map-tip-contrast"
+      @click="display.toggleMapContrast()"
+    >
+      <Contrast class="map-tool__icon" :size="20" aria-hidden="true" />
+      <span class="map-tool__label">{{ t('map.contrast') }}</span>
+      <span class="map-tool__state">{{
+        display.mapContrast ? t('map.contrastOn') : t('map.contrastOff')
+      }}</span>
+    </button>
+    <span id="map-tip-contrast" class="map-tool__tip">{{ t('map.contrastTip') }}</span>
+  </div>
 </template>
-
-<style scoped>
-/* matches the Street map button above it */
-.map-contrast {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  min-height: var(--nr-target);
-  padding: 0 1rem;
-  border: 2px solid var(--nr-wine-line);
-  border-radius: var(--nr-radius-pill);
-  background: var(--nr-cream);
-  color: var(--nr-wine-text);
-  font: inherit;
-  font-weight: 700;
-  box-shadow: 0 2px 8px rgb(48 38 34 / 0.18);
-  cursor: pointer;
-}
-
-.map-contrast:hover {
-  background: var(--nr-apricot);
-}
-
-.map-contrast[aria-pressed='true'] {
-  background: var(--nr-wine);
-  color: var(--nr-cream);
-}
-
-.map-contrast__state {
-  font-weight: 400;
-}
-
-.map-contrast__state::before {
-  content: '·';
-  margin-inline-end: 0.4rem;
-}
-</style>

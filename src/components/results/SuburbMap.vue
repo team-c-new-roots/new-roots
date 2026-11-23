@@ -1,7 +1,17 @@
 <script setup lang="ts">
-import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
+import {
+  computed,
+  h,
+  nextTick,
+  onBeforeUnmount,
+  onMounted,
+  ref,
+  render,
+  watch,
+  type Component,
+} from 'vue'
 import { useI18n } from 'vue-i18n'
-import { Layers, X } from '@lucide/vue'
+import { Layers, MapPin, X } from '@lucide/vue'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import type { Feature, Geometry } from 'geojson'
@@ -9,11 +19,15 @@ import type { TopicName } from '@/types'
 import { loadBoundaries, type BoundaryProperties } from '@/services/boundaries'
 import { bandFor, type SuburbResult } from '@/services/results'
 import { TOPICS } from '@/data/topics'
+import { GROUP_OF, type PlaceType } from '@/data/places'
+import { distanceKm, loadPlaces, type Place } from '@/services/places'
+import { useFormat } from '@/composables/useFormat'
 import { useDisplayStore } from '@/stores/display'
 import BudgetBadge from '@/components/ui/BudgetBadge.vue'
 import MapContrastToggle from './MapContrastToggle.vue'
 import TopicBars from './TopicBars.vue'
 import MapLegend from './MapLegend.vue'
+import PlaceFilters from './PlaceFilters.vue'
 
 /* every suburb coloured by how well it fits this household, on the real ABS
    shapes, styled after the data team's map: score bubbles, topic scores on
@@ -92,11 +106,48 @@ let edges: L.GeoJSON<BoundaryProperties> | null = null
 let labels: L.LayerGroup | null = null
 let tiles: L.TileLayer | null = null
 let features: Feature<Geometry, BoundaryProperties>[] = []
+let placePins: L.LayerGroup | null = null
+
+/* places near the chosen suburb (US 3.2, US 3.4). nothing is chosen at the
+   start and nothing is saved, so it all resets when the page closes */
+const { km } = useFormat()
+const placesButton = ref<HTMLButtonElement | null>(null)
+
+// beside the map, the panel is as tall as the tools and map together. the
+// tools can wrap to more lines in some languages, so it's measured
+const card = ref<HTMLDivElement | null>(null)
+const cardHeight = ref(0)
+const panelHeight = computed(() =>
+  props.side && cardHeight.value
+    ? { maxHeight: `${cardHeight.value}px`, minHeight: `${cardHeight.value}px` }
+    : undefined,
+)
+let cardWatch: ResizeObserver | null = null
+const filtersOpen = ref(false)
+const chosenTypes = ref<PlaceType[]>([])
+const places = ref<Place[] | null>(null)
+const placesFailed = ref(false)
 
 const byId = computed(() => new Map(props.suburbs.map((item) => [item.id, item])))
 const selected = computed(() => (selectedId.value ? byId.value.get(selectedId.value) : undefined))
 const hasNoRent = computed(() => props.suburbs.some((item) => item.status === 'noData'))
 const hasNoScore = computed(() => props.suburbs.some((item) => item.match === null))
+
+// the middle of the chosen suburb, where its label sits, for the distances
+const centre = computed(() => {
+  const feature = features.find((item) => item.properties.suburb_id === selectedId.value)
+  return feature ? { lat: feature.properties.label_lat, lon: feature.properties.label_lon } : null
+})
+
+// the chosen places, nearest the middle first, for the list under the map
+const shownPlaces = computed(() => {
+  if (!places.value || !centre.value) return []
+  const from = centre.value
+  return places.value
+    .filter((place) => chosenTypes.value.includes(place.type))
+    .map((place) => ({ place, km: distanceKm(from, place) }))
+    .sort((a, b) => a.km - b.km)
+})
 
 // how current the figures behind the colours are, from the same list as the
 // How it works page until Gold carries its own dates
@@ -504,9 +555,9 @@ function refreshLabels() {
   }
 }
 
-// room at the top for the street map switch and the zoom hint
+// room at the top for the zoom hint
 function fitPadding(): L.FitBoundsOptions {
-  return { paddingTopLeft: [24, 64], paddingBottomRight: [24, 24] }
+  return { paddingTopLeft: [24, 48], paddingBottomRight: [24, 24] }
 }
 
 // start on the suburbs that matter: the top three, close enough to read
@@ -559,6 +610,101 @@ function disarmZoom() {
   zoomArmed.value = false
 }
 
+// a lucide icon as a plain element, for markup Leaflet builds itself
+function iconElement(icon: Component, size: number): Element {
+  const holder = document.createElement('span')
+  render(h(icon, { size, 'aria-hidden': 'true' }), holder)
+  const svg = holder.firstElementChild!.cloneNode(true) as Element
+  render(null, holder)
+  return svg
+}
+
+const placeName = (place: Place) => place.name ?? t(`places.types.${place.type}`)
+
+// the type, unless it's already the name, then how far
+function placeAbout(place: Place, distance: number): string {
+  const far = t('places.distance', {
+    km: km(Math.round(distance * 10) / 10),
+    suburb: selected.value?.name ?? '',
+  })
+  return place.name ? `${t(`places.types.${place.type}`)} · ${far}` : far
+}
+
+function popupFor(place: Place, distance: number): HTMLElement {
+  const box = document.createElement('div')
+  const name = document.createElement('strong')
+  name.textContent = placeName(place)
+  const about = document.createElement('span')
+  about.className = 'place-popup__about'
+  about.textContent = placeAbout(place, distance)
+  box.append(name, about)
+  return box
+}
+
+/* the pins only take clicks and taps. a pin each for the keyboard would be
+   hundreds of tab stops, so the list under the map is the keyboard and screen
+   reader way in, the same as the suburb picker is for the suburbs */
+function drawPlaces() {
+  if (!map || !placePins) return
+  placePins.clearLayers()
+  for (const { place, km: distance } of shownPlaces.value) {
+    const group = GROUP_OF[place.type]
+    const pin = document.createElement('span')
+    pin.className = `place-pin place-pin--${group.id}`
+    pin.append(iconElement(group.icon, 16))
+    L.marker([place.lat, place.lon], {
+      pane: 'nr-places',
+      keyboard: false,
+      icon: L.divIcon({ html: pin, className: 'place-pin-anchor', iconSize: [28, 28] }),
+    })
+      .bindPopup(() => popupFor(place, distance), { className: 'place-popup', offset: [0, -10] })
+      .addTo(placePins)
+  }
+  const credit = t('places.credit')
+  map.attributionControl.removeAttribution(credit)
+  if (shownPlaces.value.length) map.attributionControl.addAttribution(credit)
+}
+
+// only fetched once the panel opens or something's chosen, so people who
+// never use it don't download anything
+async function refreshPlaces() {
+  const id = selectedId.value
+  if (!id || (!filtersOpen.value && !chosenTypes.value.length)) {
+    drawPlaces()
+    return
+  }
+  placesFailed.value = false
+  try {
+    const loaded = await loadPlaces(id)
+    if (selectedId.value !== id) return
+    places.value = loaded
+  } catch {
+    if (selectedId.value === id) placesFailed.value = true
+  }
+  drawPlaces()
+}
+
+// with no suburb open yet, it starts on the best match, so the button always
+// does something
+function toggleNearby() {
+  if (filtersOpen.value) {
+    filtersOpen.value = false
+    return
+  }
+  if (!selectedId.value) {
+    const first = pickerOptions.value[0]
+    if (!first) return
+    pick(first.id)
+  }
+  filtersOpen.value = true
+}
+
+async function closeFilters() {
+  filtersOpen.value = false
+  await nextTick()
+  placesButton.value?.focus()
+}
+
 async function closePanel() {
   selectedId.value = null
   await nextTick()
@@ -607,6 +753,9 @@ onMounted(async () => {
       style: (feature) => edgeFor(feature?.properties.suburb_id),
     }).addTo(map)
     labels = L.layerGroup().addTo(map)
+    // above the score labels, so a pin is never hidden under one
+    map.createPane('nr-places').style.zIndex = '650'
+    placePins = L.layerGroup().addTo(map)
 
     // Leaflet holds layers back until the map has a view, so the SVG the
     // hatching goes into only exists after the first fit
@@ -627,12 +776,28 @@ onMounted(async () => {
   }
 })
 
+onMounted(() => {
+  if (!card.value || typeof ResizeObserver === 'undefined') return
+  cardWatch = new ResizeObserver(([entry]) => {
+    // unrounded, so the two bottoms line up to the pixel
+    cardHeight.value = entry?.borderBoxSize?.[0]?.blockSize ?? card.value?.offsetHeight ?? 0
+  })
+  cardWatch.observe(card.value)
+})
+
 onBeforeUnmount(() => {
+  cardWatch?.disconnect()
   map?.remove()
   map = null
 })
 
-watch(selectedId, restyle)
+watch(selectedId, (id, before) => {
+  restyle()
+  if (id !== before) places.value = null
+  if (!id) filtersOpen.value = false
+  refreshPlaces()
+})
+watch([filtersOpen, chosenTypes], refreshPlaces)
 // the theme changes the hatch colours, so rebuild it, then recolour
 watch(
   () => [display.mapContrast, display.theme],
@@ -687,40 +852,84 @@ function onPick(event: Event) {
 <template>
   <div class="suburb-map" :class="{ 'suburb-map--side': side }">
     <div class="suburb-map__main">
-      <div class="suburb-map__frame">
-        <div
-          ref="container"
-          class="suburb-map__canvas"
-          role="region"
-          :aria-label="t('map.label')"
-          aria-describedby="map-legend-title"
-        ></div>
-        <p v-if="state === 'loading'" class="suburb-map__status">{{ t('map.loading') }}</p>
-        <p v-if="state === 'error'" class="suburb-map__status" role="alert">{{ t('map.error') }}</p>
-
-        <div v-if="state === 'ready'" class="suburb-map__controls">
-          <button
-            type="button"
-            class="suburb-map__streets"
-            :aria-pressed="showStreets ? 'true' : 'false'"
-            aria-describedby="map-streets-hint"
-            @click="showStreets = !showStreets"
-          >
-            <Layers :size="18" aria-hidden="true" />
-            {{ t('map.streets') }}
-          </button>
+      <!-- the tools and the map share one card, the tools as its top edge,
+           so they read as part of the map without covering any of it. three
+           plain buttons rather than a settings menu, so each is one tap or
+           key away and says what it does. the tips show on hover and focus,
+           and screen readers get the same words as a description -->
+      <div ref="card" class="suburb-map__card">
+        <div v-if="state === 'ready'" class="map-tools" role="group" :aria-label="t('map.tools')">
+          <div class="map-tool-wrap">
+            <button
+              type="button"
+              class="map-tool"
+              :aria-pressed="showStreets ? 'true' : 'false'"
+              aria-describedby="map-tip-streets"
+              @click="showStreets = !showStreets"
+            >
+              <Layers class="map-tool__icon" :size="20" aria-hidden="true" />
+              <span class="map-tool__label">{{ t('map.streets') }}</span>
+              <span class="map-tool__state">{{
+                showStreets ? t('map.contrastOn') : t('map.contrastOff')
+              }}</span>
+            </button>
+            <span id="map-tip-streets" class="map-tool__tip">{{ t('map.streetsTip') }}</span>
+          </div>
           <MapContrastToggle />
+          <div class="map-tool-wrap">
+            <button
+              ref="placesButton"
+              type="button"
+              class="map-tool"
+              :aria-expanded="filtersOpen ? 'true' : 'false'"
+              aria-controls="place-filters"
+              aria-describedby="map-tip-nearby"
+              @click="toggleNearby"
+            >
+              <MapPin class="map-tool__icon" :size="20" aria-hidden="true" />
+              <span class="map-tool__label">{{ t('places.button') }}</span>
+              <span class="map-tool__state">{{
+                shownPlaces.length
+                  ? t('places.shown', { n: shownPlaces.length })
+                  : t('map.contrastOff')
+              }}</span>
+            </button>
+            <span id="map-tip-nearby" class="map-tool__tip">{{ t('places.tip') }}</span>
+          </div>
         </div>
 
-        <!-- a mouse instruction, so hidden from screen readers. keyboard users
+        <div class="suburb-map__frame">
+          <div
+            ref="container"
+            class="suburb-map__canvas"
+            role="region"
+            :aria-label="t('map.label')"
+            aria-describedby="map-legend-title"
+          ></div>
+          <p v-if="state === 'loading'" class="suburb-map__status">{{ t('map.loading') }}</p>
+          <p v-if="state === 'error'" class="suburb-map__status" role="alert">
+            {{ t('map.error') }}
+          </p>
+
+          <PlaceFilters
+            v-if="filtersOpen && selected"
+            v-model="chosenTypes"
+            :suburb="selected.name"
+            :places="places"
+            :failed="placesFailed"
+            @close="closeFilters"
+          />
+
+          <!-- a mouse instruction, so hidden from screen readers. keyboard users
              have the + and - buttons and touch users pinch -->
-        <p
-          v-if="state === 'ready' && canHover && !zoomArmed"
-          class="suburb-map__zoom-hint"
-          aria-hidden="true"
-        >
-          {{ t('map.clickToZoom') }}
-        </p>
+          <p
+            v-if="state === 'ready' && canHover && !zoomArmed"
+            class="suburb-map__zoom-hint"
+            aria-hidden="true"
+          >
+            {{ t('map.clickToZoom') }}
+          </p>
+        </div>
       </div>
 
       <div class="suburb-map__below">
@@ -744,9 +953,35 @@ function onPick(event: Event) {
         </div>
         <MapLegend :show-no-rent="hasNoRent" :show-no-score="hasNoScore" />
       </div>
+
+      <details v-if="selected && shownPlaces.length" class="suburb-map__place-list">
+        <summary>
+          {{ t('places.list', shownPlaces.length) }}
+        </summary>
+        <!-- focusable, since it scrolls on its own -->
+        <ul tabindex="0" :aria-label="t('places.list', shownPlaces.length)">
+          <li
+            v-for="{ place, km: distance } in shownPlaces"
+            :key="`${place.type}${place.lat}${place.lon}`"
+          >
+            <span
+              class="place-pin"
+              :class="`place-pin--${GROUP_OF[place.type].id}`"
+              aria-hidden="true"
+            >
+              <component :is="GROUP_OF[place.type].icon" :size="14" />
+            </span>
+            <span>
+              <strong>{{ placeName(place) }}</strong>
+              <span class="suburb-map__place-about">{{ placeAbout(place, distance) }}</span>
+            </span>
+          </li>
+        </ul>
+        <p class="field__hint">{{ t('places.credit') }}</p>
+      </details>
     </div>
 
-    <aside v-if="selected" class="suburb-map__panel" aria-live="polite">
+    <aside v-if="selected" class="suburb-map__panel" :style="panelHeight" aria-live="polite">
       <header class="suburb-map__panel-head">
         <div class="suburb-map__panel-title">
           <h2 ref="panelHeading" class="suburb-map__name" tabindex="-1">{{ selected.name }}</h2>
@@ -783,9 +1018,17 @@ function onPick(event: Event) {
             t('results.detailsFor', { suburb: selected.name })
           }}</span>
         </RouterLink>
+        <!-- a reason to open the filters, where people are already looking -->
+        <div v-if="!filtersOpen" class="suburb-map__nearby">
+          <p>{{ t('places.prompt', { suburb: selected.name }) }}</p>
+          <button type="button" class="btn btn--outline" @click="filtersOpen = true">
+            <MapPin :size="20" aria-hidden="true" />
+            {{ shownPlaces.length ? t('places.change') : t('places.open') }}
+          </button>
+        </div>
       </div>
     </aside>
-    <aside v-else-if="side" class="suburb-map__panel suburb-map__panel--empty">
+    <aside v-else-if="side" class="suburb-map__panel suburb-map__panel--empty" :style="panelHeight">
       <p>{{ t('map.pickPrompt') }}</p>
     </aside>
   </div>
@@ -798,11 +1041,16 @@ function onPick(event: Event) {
 
 /* isolation keeps Leaflet's own z-indexes (up to 1000) inside the map, so
    its panes and zoom buttons can't slide over the sticky header or action bar */
+.suburb-map__card {
+  border: 2px solid var(--nr-line);
+  border-radius: var(--nr-radius);
+  background: var(--nr-map-bg);
+  overflow: hidden;
+}
+
 .suburb-map__canvas {
   isolation: isolate;
   height: clamp(22rem, 62vh, 36rem);
-  border: 2px solid var(--nr-line);
-  border-radius: var(--nr-radius);
   background: var(--nr-map-bg);
   overflow: hidden;
 }
@@ -820,40 +1068,65 @@ function onPick(event: Event) {
 
 /* the street map and contrast switches sit on the map, top right, like a
    layers button */
-.suburb-map__controls {
-  position: absolute;
-  top: 0.75rem;
-  inset-inline-end: 0.75rem;
-  z-index: 2;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 0.5rem;
+.suburb-map__nearby {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--nr-line);
 }
 
-.suburb-map__streets {
-  display: inline-flex;
+.suburb-map__nearby p {
+  margin: 0 0 0.5rem;
+}
+
+/* the same places as the pins, nearest first, for keyboards and screen
+   readers. closed to start, since it can run to a few hundred */
+.suburb-map__place-list {
+  margin-top: 1rem;
+  border: 2px solid var(--nr-line);
+  border-radius: var(--nr-radius-sm);
+  background: var(--nr-surface-raised);
+}
+
+.suburb-map__place-list summary {
+  display: flex;
   align-items: center;
-  gap: 0.4rem;
   min-height: var(--nr-target);
   padding: 0 1rem;
-  border: 2px solid var(--nr-wine-line);
-  border-radius: var(--nr-radius-pill);
-  background: var(--nr-surface-raised);
   color: var(--nr-wine-text);
-  font: inherit;
   font-weight: 700;
   cursor: pointer;
-  box-shadow: 0 2px 8px rgb(48 38 34 / 0.18);
 }
 
-.suburb-map__streets:hover {
-  background: var(--nr-apricot);
+.suburb-map__place-list ul {
+  max-height: 24rem;
+  margin: 0;
+  padding: 0 1rem;
+  overflow-y: auto;
+  list-style: none;
 }
 
-.suburb-map__streets[aria-pressed='true'] {
-  background: var(--nr-wine);
-  color: var(--nr-cream);
+.suburb-map__place-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+  padding-block: 0.5rem;
+  border-top: 1px solid var(--nr-line);
+}
+
+.suburb-map__place-list .place-pin {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.suburb-map__place-about {
+  display: block;
+  color: var(--nr-ink-muted);
+  font-size: 0.9375rem;
+}
+
+.suburb-map__place-list .field__hint {
+  margin: 0;
+  padding: 0.5rem 1rem 0.75rem;
 }
 
 /* top centre, clear of the legend in the bottom corner */
@@ -1018,7 +1291,6 @@ function onPick(event: Event) {
 .suburb-map--side .suburb-map__panel {
   position: sticky;
   top: calc(var(--nr-header-height) + 1rem);
-  max-height: clamp(30rem, 72vh, 44rem);
   margin: 0;
   overflow-y: auto;
 }
@@ -1056,6 +1328,31 @@ function onPick(event: Event) {
 /* street pictures, greyed down so the suburb colours stay in front */
 .suburb-map .suburb-map__tiles {
   filter: grayscale(1) contrast(0.9) brightness(1.05);
+}
+
+/* place pins sit centred on the place */
+.suburb-map .place-pin-anchor {
+  display: grid;
+  place-items: center;
+  background: none;
+  border: 0;
+}
+
+.suburb-map .place-popup .leaflet-popup-content {
+  margin: 0.65rem 0.9rem;
+  font-size: 0.9375rem;
+  line-height: 1.35;
+}
+
+/* the name, then the type and distance on a line of their own */
+.suburb-map .place-popup strong {
+  display: block;
+}
+
+.suburb-map .place-popup__about {
+  display: block;
+  margin-top: 0.2rem;
+  color: #5c4a42;
 }
 
 /* score labels, centred on the data team's label point */

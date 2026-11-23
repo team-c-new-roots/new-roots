@@ -936,3 +936,189 @@ legend {
     color: var(--nr-print-ink);
   }
 }
+
+/* place pins on the map, and the same pin as the key in the Places panel.
+   global since Leaflet builds the map's copy outside any component */
+.place-pin {
+  display: inline-grid;
+  flex: none;
+  place-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border: 2px solid var(--nr-place-ring);
+  border-radius: 50%;
+  background: #ffffff;
+  color: var(--place-colour);
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.3);
+}
+
+.place-pin--worship {
+  --place-colour: var(--nr-place-worship);
+}
+
+.place-pin--community {
+  --place-colour: var(--nr-place-community);
+}
+
+.place-pin--health {
+  --place-colour: var(--nr-place-health);
+}
+
+.place-pin--education {
+  --place-colour: var(--nr-place-education);
+}
+
+.place-pin--recreation {
+  --place-colour: var(--nr-place-recreation);
+}
+
+/* the three map tools: street map, high contrast and what's nearby. they
+   sit along the top edge of the map's card, split by thin lines like a
+   segmented control, with the one that's on or open in wine */
+.map-tools {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-bottom: 2px solid var(--nr-line);
+  background: var(--nr-surface-raised);
+}
+
+.map-tool-wrap {
+  position: relative;
+  display: flex;
+}
+
+.map-tool-wrap + .map-tool-wrap {
+  border-inline-start: 1px solid var(--nr-line);
+}
+
+.map-tool {
+  display: grid;
+  flex: 1;
+  grid-template-areas:
+    'icon label'
+    'icon state';
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  column-gap: 0.6rem;
+  min-width: 0;
+  min-height: 3.5rem;
+  padding: 0.45rem 0.9rem;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--nr-wine-text);
+  font: inherit;
+  text-align: start;
+  cursor: pointer;
+}
+
+.map-tool:hover {
+  background: var(--nr-apricot);
+}
+
+/* inside the edge, since the card clips anything outside it */
+.map-tool:focus-visible {
+  outline: 3px solid var(--nr-focus);
+  outline-offset: -5px;
+}
+
+.map-tool[aria-pressed='true'],
+.map-tool[aria-expanded='true'] {
+  background: var(--nr-wine);
+  color: var(--nr-cream);
+}
+
+.map-tool__icon {
+  grid-area: icon;
+}
+
+.map-tool__label {
+  grid-area: label;
+  font-weight: 700;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
+}
+
+.map-tool__state {
+  grid-area: state;
+  font-size: 0.875rem;
+  line-height: 1.3;
+}
+
+/* a phone fits three side by side with the icon on top */
+@media (max-width: 34rem) {
+  .map-tool {
+    grid-template-areas:
+      'icon'
+      'label'
+      'state';
+    grid-template-columns: minmax(0, 1fr);
+    justify-items: center;
+    row-gap: 0.15rem;
+    padding: 0.5rem 0.25rem;
+    text-align: center;
+  }
+}
+
+/* a line on what each does, on hover or keyboard focus, over the top of the
+   map. touch screens don't hover, so the suburb panel says what's nearby
+   does too */
+.map-tool__tip {
+  position: absolute;
+  top: calc(100% + 0.5rem);
+  inset-inline-start: 0.5rem;
+  z-index: 5;
+  width: max-content;
+  max-width: min(16rem, calc(100vw - 3rem));
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--nr-radius-sm);
+  background: #302622;
+  color: #fffaf5;
+  font-size: 0.9375rem;
+  line-height: 1.35;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+}
+
+/* the middle one centred and the last one from the far edge, so none runs
+   past the card, which clips it */
+.map-tool-wrap:nth-child(2) .map-tool__tip {
+  inset-inline-start: 50%;
+  translate: -50% 0;
+}
+
+[dir='rtl'] .map-tool-wrap:nth-child(2) .map-tool__tip {
+  translate: 50% 0;
+}
+
+.map-tool-wrap:last-child .map-tool__tip {
+  inset-inline: auto 0.5rem;
+}
+
+@media (hover: hover) {
+  .map-tool-wrap:hover .map-tool__tip {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+.map-tool:focus-visible + .map-tool__tip {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* one tip at a time. hovering another tool hides the focused one's */
+@media (hover: hover) {
+  .map-tools:hover .map-tool-wrap:not(:hover) .map-tool__tip {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .map-tool__tip {
+    transition: none;
+  }
+}
