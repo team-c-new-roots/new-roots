@@ -1,0 +1,106 @@
+category,payment_type,situation,weekly_amount,rates_from
+Families,Parenting Payment,Single,543.6,20/09/2026
+Families,Parenting Payment,Partnered,381.5,20/09/2026
+Older Australians,Age Pension,Single,618.85,20/09/2026
+Older Australians,Age Pension,Partnered per person,466.5,20/09/2026
+Older Australians,Age Pension,Couple combined,933,20/09/2026
+Disability,Disability Support Pension,Adult single,618.85,20/09/2026
+Disability,Disability Support Pension,Adult partnered per person,466.5,20/09/2026
+Disability,Disability Support Pension,Youth single dependent under 18 at home,297.2,20/09/2026
+Disability,Disability Support Pension,Youth single dependent age 18-20 at home,329.3,20/09/2026
+Disability,Disability Support Pension,Youth single independent,427.95,20/09/2026
+Disability,Disability Support Pension,Youth partnered,426.2,20/09/2026
+Carers,Carer Payment,Single,618.85,20/09/2026
+Carers,Carer Payment,Partnered per person,466.5,20/09/2026
+Job seekers,JobSeeker Payment,Single no children,416.85,20/09/2026
+Job seekers,JobSeeker Payment,Single with children,446.4,20/09/2026
+Job seekers,JobSeeker Payment,Single principal carer,449.9,20/09/2026
+Job seekers,JobSeeker Payment,Single principal carer exempt from mutual obligations,543.6,20/09/2026
+Job seekers,JobSeeker Payment,Single aged 55+ after 9 months,449.9,20/09/2026
+Job seekers,JobSeeker Payment,Single partial capacity 0-14 hours,449.9,20/09/2026
+Job seekers,JobSeeker Payment,Partnered per person,381.5,20/09/2026
+Youth and students,Youth Allowance,Single 16-17 at home no children,211.4,20/09/2026
+Youth and students,Youth Allowance,Single 16-17 away no children,342.1,20/09/2026
+Youth and students,Youth Allowance,Single 18-24 at home no children,243.5,20/09/2026
+Youth and students,Youth Allowance,Single 18-24 away no children,342.1,20/09/2026
+Youth and students,Youth Allowance,Single with dependent children,431.7,20/09/2026
+Youth and students,Youth Allowance,Principal carer exempt from obligations,543.6,20/09/2026
+Youth and students,Youth Allowance,Partnered without children,342.1,20/09/2026
+Youth and students,Youth Allowance,Partnered with children,370.45,20/09/2026
+Youth and students,Youth Allowance,Special long-term single at home,286.6,20/09/2026
+Youth and students,Youth Allowance,Special long-term single away,404.15,20/09/2026
+Youth and students,Youth Allowance,Special long-term partnered without children,370.45,20/09/2026
+Youth and students,Austudy,Single no children,342.1,20/09/2026
+Youth and students,Austudy,Single with children,431.7,20/09/2026
+Youth and students,Austudy,Partnered no children,342.1,20/09/2026
+Youth and students,Austudy,Partnered with children,370.45,20/09/2026
+Youth and students,Austudy,Special long-term single no children,404.15,20/09/2026
+Youth and students,Austudy,Special long-term partnered no children,370.45,20/09/2026
+Families,Family Tax Benefit Part A,Maximum child age 0-12,117.74,20/09/2026
+Families,Family Tax Benefit Part A,Maximum child age 13-19,153.23,20/09/2026
+Families,Family Tax Benefit Part A,Approved care organisation child 0-19,37.8,20/09/2026
+Families,Family Tax Benefit Part A,Base rate child 0-19,37.8,20/09/2026
+Families,Family Tax Benefit Part B,Youngest child under 5,100.17,20/09/2026
+Families,Family Tax Benefit Part B,Youngest child 5-18,69.93,20/09/2026
+Families,Multiple Birth Allowance,Triplets,101.85,20/09/2026
+Families,Multiple Birth Allowance,Quadruplets or more,135.66,20/09/2026
+Families,Double Orphan Pension,Base rate per child,40.8,20/09/2026
+Disability,Youth Disability Supplement,Maximum,81.3,20/09/2026
+Disability,Mobility Allowance,Standard,61.4,20/09/2026
+Disability,Mobility Allowance,Higher,85.85,20/09/2026
+Carers,Carer Allowance,Per eligible care receiver,81.3,20/09/2026
+Supplementary,Rent Assistance,Single,111.9,20/09/2026
+Supplementary,Rent Assistance,Single sharer,74.6,20/09/2026
+Supplementary,Rent Assistance,Couple combined,105.5,20/09/2026
+Supplementary,Rent Assistance,Couple separated due to illness/respite/imprisonment,111.9,20/09/2026
+Supplementary,Rent Assistance,Couple temporarily separated,105.5,20/09/2026
+Supplementary,Rent Assistance,Single FTB A 1-2 children,131.53,20/09/2026
+Supplementary,Rent Assistance,Single FTB A 3+ children,148.68,20/09/2026
+Supplementary,Rent Assistance,Couple FTB A 1-2 children,131.53,20/09/2026
+Supplementary,Rent Assistance,Couple FTB A 3+ children,148.68,20/09/2026
+Supplementary,Energy Supplement - FTB Part A,Maximum child 0-12,1.75,20/09/2026
+Supplementary,Energy Supplement - FTB Part A,Maximum child 13-19,2.24,20/09/2026
+Supplementary,Energy Supplement - FTB Part A,Approved care organisation,0.49,20/09/2026
+Supplementary,Energy Supplement - FTB Part A,Base rate,0.7,20/09/2026
+Supplementary,Energy Supplement - FTB Part B,Youngest child under 5,1.4,20/09/2026
+Supplementary,Energy Supplement - FTB Part B,Youngest child 5-18,0.98,20/09/2026
+Supplementary,Energy Supplement - Parenting Payment,Single,6,20/09/2026
+Supplementary,Energy Supplement - Parenting Payment,Partnered,3.95,20/09/2026
+Supplementary,Energy Supplement - Pension/Carer/DSP,Single,7.05,20/09/2026
+Supplementary,Energy Supplement - Pension/Carer/DSP,Partnered,5.3,20/09/2026
+Supplementary,Energy Supplement - JobSeeker,Single no children,4.4,20/09/2026
+Supplementary,Energy Supplement - JobSeeker,Single with children / principal carer / 55+ / partial capacity,4.75,20/09/2026
+Supplementary,Energy Supplement - JobSeeker,Single exempt principal carer,6,20/09/2026
+Supplementary,Energy Supplement - JobSeeker,Partnered,3.95,20/09/2026
+Supplementary,Energy Supplement - Youth Allowance,Single 16-17 at home,1.95,20/09/2026
+Supplementary,Energy Supplement - Youth Allowance,Single 16-17 away,3.5,20/09/2026
+Supplementary,Energy Supplement - Youth Allowance,Single 18-24 at home,2.3,20/09/2026
+Supplementary,Energy Supplement - Youth Allowance,Single 18-24 away,3.5,20/09/2026
+Supplementary,Energy Supplement - Youth Allowance,Single with children,4.6,20/09/2026
+Supplementary,Energy Supplement - Youth Allowance,Exempt principal carer,6,20/09/2026
+Supplementary,Energy Supplement - Youth Allowance,Partnered no children,3.5,20/09/2026
+Supplementary,Energy Supplement - Youth Allowance,Partnered with children,3.85,20/09/2026
+Supplementary,Energy Supplement - Youth Allowance,Special long-term single home,2.85,20/09/2026
+Supplementary,Energy Supplement - Youth Allowance,Special long-term single away,4.3,20/09/2026
+Supplementary,Energy Supplement - Youth Allowance,Special long-term partnered,3.85,20/09/2026
+Supplementary,Energy Supplement - Austudy,Single no children,3.5,20/09/2026
+Supplementary,Energy Supplement - Austudy,Single with children,4.6,20/09/2026
+Supplementary,Energy Supplement - Austudy,Partnered no children,3.5,20/09/2026
+Supplementary,Energy Supplement - Austudy,Partnered with children,3.85,20/09/2026
+Supplementary,Energy Supplement - Austudy,Special long-term single,4.3,20/09/2026
+Supplementary,Energy Supplement - Austudy,Special long-term partnered,3.85,20/09/2026
+Supplementary,Pension Supplement,Maximum single,44.1,20/09/2026
+Supplementary,Pension Supplement,Maximum partnered,33.25,20/09/2026
+Supplementary,Pension Supplement - minimum,Single,23.75,20/09/2026
+Supplementary,Pension Supplement - minimum,Partnered,17.9,20/09/2026
+Supplementary,Pension Supplement - basic,Single,15.35,20/09/2026
+Supplementary,Pension Supplement - basic,Partnered,12.65,20/09/2026
+Supplementary,Pharmaceutical Allowance,Single,3.5,20/09/2026
+Supplementary,Pharmaceutical Allowance,Partnered,1.75,20/09/2026
+Supplementary,Remote Area Allowance,Single,9.1,20/09/2026
+Supplementary,Remote Area Allowance,Partnered,7.8,20/09/2026
+Supplementary,Remote Area Allowance,Additional per dependent child,3.65,20/09/2026
+Supplementary,Approved Program of Work Supplement,Eligible participant,10.4,20/09/2026
+Supplementary,Language Literacy and Numeracy Supplement,Eligible participant,10.4,20/09/2026
+Youth and students,Pensioner Education Supplement,Full rate,31.2,20/09/2026
+Youth and students,Pensioner Education Supplement,Half rate,15.6,20/09/2026
