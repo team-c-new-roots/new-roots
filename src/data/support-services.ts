@@ -104,7 +104,10 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'bondLoans',
     name: 'Homes Victoria bond loans',
     categories: ['housing', 'money'],
+    phone: '1800 825 955',
+    tel: '1800825955',
     url: 'https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/bond/homes-victoria-bond-loans',
+    hours: 'always',
     visaNote: 'permanentOnly',
   },
   {
