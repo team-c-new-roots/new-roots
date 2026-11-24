@@ -1,7 +1,15 @@
 <script setup lang="ts">
 import { computed, defineAsyncComponent, nextTick, ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { CalendarClock, Info, List, ListChecks, Map as MapIcon, Printer } from '@lucide/vue'
+import {
+  CalendarClock,
+  ChevronLeft,
+  Info,
+  List,
+  ListChecks,
+  Map as MapIcon,
+  Printer,
+} from '@lucide/vue'
 import { SHORTLIST_MAX, useAnswersStore } from '@/stores/answers'
 import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
@@ -350,7 +358,24 @@ async function showMore() {
         <NextSteps :count="summary.count.value" :max="summary.max" />
       </div>
 
+      <!-- back to step 4, the way every step has a Back under it. on a phone it
+           sits above the sticky bar rather than crowding it, on a wide screen
+           it's on the bar's left, opposite Print summary -->
+      <RouterLink
+        :to="{ name: 'priorities' }"
+        class="link-action results__back results__back--narrow no-print"
+      >
+        <ChevronLeft class="flip-rtl" :size="20" aria-hidden="true" />
+        {{ t('results.back') }}
+      </RouterLink>
       <div class="action-bar">
+        <RouterLink
+          :to="{ name: 'priorities' }"
+          class="link-action results__back results__back--wide"
+        >
+          <ChevronLeft class="flip-rtl" :size="20" aria-hidden="true" />
+          {{ t('results.back') }}
+        </RouterLink>
         <RouterLink :to="{ name: 'summary' }" class="btn btn--accent">
           <Printer :size="20" aria-hidden="true" />
           {{ t('results.print') }}
@@ -362,6 +387,30 @@ async function showMore() {
 </template>
 
 <style scoped>
+.results__back {
+  align-items: center;
+}
+
+.results__back--narrow {
+  display: inline-flex;
+  margin-top: 1.5rem;
+}
+
+.results__back--wide {
+  display: none;
+}
+
+@media (min-width: 64rem) {
+  .results__back--narrow {
+    display: none;
+  }
+
+  .results__back--wide {
+    display: inline-flex;
+    margin-inline-end: auto;
+  }
+}
+
 .results__head {
   display: flex;
   flex-wrap: wrap;
