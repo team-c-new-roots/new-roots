@@ -4,7 +4,8 @@
    database being reachable.
 
    every number and link was checked against the service's own site (or the
-   ASRC legal referral sheet for the advice line hours) in November 2026.
+   ASRC legal referral sheet for the advice line hours) in November 2026, and
+   who each one is for and what it costs on 24 November 2026.
    names are proper nouns and stay in English. descriptions live in the i18n
    files under support.services so translators find all the words in one place.
 
@@ -28,6 +29,29 @@ import {
 export type ServiceCategory =
   'urgent' | 'housing' | 'food' | 'money' | 'legal' | 'health' | 'settlement' | 'english' | 'work'
 
+export type Audience =
+  | 'anyone'
+  | 'violenceVic'
+  | 'violence'
+  | 'homeless'
+  | 'interpreter'
+  | 'renters'
+  | 'bond'
+  | 'newArrivals'
+  | 'seekingAsylum'
+  | 'refugeeLegal'
+  | 'victorians'
+  | 'trauma'
+  | 'littleEnglish'
+  | 'families'
+  | 'struggling'
+  | 'debt'
+  | 'refugeePayments'
+  | 'jobseekers'
+  | 'centrelink'
+
+export type Cost = 'free' | 'usuallyFree' | 'bondLoan' | 'freeIfEligible' | 'freeInfo'
+
 export interface SupportService {
   id: string
   name: string
@@ -38,6 +62,10 @@ export interface SupportService {
   url?: string
   // i18n key under support.hours, left out when the service doesn't publish set hours
   hours?: 'always' | 'refugeeLegal' | 'legalAid' | 'servicesAustralia' | 'salvos' | 'debtHelpline'
+  // who it's for and what it costs, i18n keys under support.audience and
+  // support.cost. every card shows both, so nobody has to guess (US 3.3)
+  audience: Audience
+  cost: Cost
   // set when who can use it depends on visa. shown on the card, and the
   // seeking asylum filter hides anything marked permanentOnly
   visaNote?: 'permanentOnly' | 'checkVisa'
@@ -69,6 +97,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'emergency',
     name: 'Triple zero (000)',
     categories: ['urgent'],
+    audience: 'anyone',
+    cost: 'free',
     phone: '000',
     tel: '000',
     hours: 'always',
@@ -77,6 +107,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'safeSteps',
     name: 'Safe Steps',
     categories: ['urgent'],
+    audience: 'violenceVic',
+    cost: 'free',
     phone: '1800 015 188',
     tel: '1800015188',
     url: 'https://www.safesteps.org.au',
@@ -86,6 +118,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'respect',
     name: '1800RESPECT',
     categories: ['urgent'],
+    audience: 'violence',
+    cost: 'free',
     phone: '1800 737 732',
     tel: '1800737732',
     url: 'https://www.1800respect.org.au',
@@ -95,6 +129,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'lifeline',
     name: 'Lifeline',
     categories: ['urgent', 'health'],
+    audience: 'anyone',
+    cost: 'free',
     phone: '13 11 14',
     tel: '131114',
     url: 'https://www.lifeline.org.au',
@@ -104,6 +140,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'openingDoors',
     name: 'Opening Doors',
     categories: ['urgent', 'housing'],
+    audience: 'homeless',
+    cost: 'free',
     phone: '1800 825 955',
     tel: '1800825955',
     url: 'https://services.dffh.vic.gov.au/getting-help',
@@ -113,6 +151,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'tis',
     name: 'TIS National',
     categories: ['urgent', 'settlement'],
+    audience: 'interpreter',
+    cost: 'usuallyFree',
     phone: '131 450',
     tel: '131450',
     url: 'https://www.tisnational.gov.au',
@@ -122,6 +162,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'tenantsVic',
     name: 'Tenants Victoria',
     categories: ['housing', 'legal'],
+    audience: 'renters',
+    cost: 'free',
     phone: '(03) 9416 2577',
     tel: '0394162577',
     url: 'https://tenantsvic.org.au',
@@ -130,6 +172,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'bondLoans',
     name: 'Homes Victoria bond loans',
     categories: ['housing', 'money'],
+    audience: 'bond',
+    cost: 'bondLoan',
     url: 'https://www.consumer.vic.gov.au/housing/renting/rent-bond-bills-and-condition-reports/bond/homes-victoria-bond-loans',
     visaNote: 'permanentOnly',
   },
@@ -137,12 +181,16 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'askIzzy',
     name: 'Ask Izzy',
     categories: ['housing', 'food', 'money'],
+    audience: 'anyone',
+    cost: 'free',
     url: 'https://askizzy.org.au',
   },
   {
     id: 'ames',
     name: 'AMES Australia',
     categories: ['settlement', 'english', 'work'],
+    audience: 'newArrivals',
+    cost: 'freeIfEligible',
     phone: '13 26 37',
     tel: '132637',
     url: 'https://www.ames.net.au',
@@ -152,6 +200,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'asrc',
     name: 'Asylum Seeker Resource Centre',
     categories: ['settlement', 'legal', 'health', 'money', 'food'],
+    audience: 'seekingAsylum',
+    cost: 'free',
     phone: '(03) 9326 6066',
     tel: '0393266066',
     url: 'https://asrc.org.au',
@@ -160,6 +210,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'refugeeLegal',
     name: 'Refugee Legal',
     categories: ['legal'],
+    audience: 'refugeeLegal',
+    cost: 'free',
     phone: '(03) 9413 0100',
     tel: '0394130100',
     url: 'https://refugeelegal.org.au',
@@ -169,6 +221,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'legalAid',
     name: 'Victoria Legal Aid',
     categories: ['legal'],
+    audience: 'victorians',
+    cost: 'freeInfo',
     phone: '1300 792 387',
     tel: '1300792387',
     url: 'https://www.legalaid.vic.gov.au',
@@ -178,6 +232,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'foundationHouse',
     name: 'Foundation House',
     categories: ['health'],
+    audience: 'trauma',
+    cost: 'free',
     phone: '(03) 9389 8900',
     tel: '0393898900',
     url: 'https://foundationhouse.org.au',
@@ -186,6 +242,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'healthdirect',
     name: 'healthdirect',
     categories: ['health'],
+    audience: 'anyone',
+    cost: 'free',
     phone: '1800 022 222',
     tel: '1800022222',
     url: 'https://www.healthdirect.gov.au',
@@ -195,6 +253,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'amep',
     name: 'Adult Migrant English Program',
     categories: ['english'],
+    audience: 'littleEnglish',
+    cost: 'free',
     url: 'https://immi.homeaffairs.gov.au/settling-in-australia/amep/find-a-class/providers-and-locations',
     visaNote: 'checkVisa',
   },
@@ -202,6 +262,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'findMySchool',
     name: 'Find My School',
     categories: ['english'],
+    audience: 'anyone',
+    cost: 'free',
     url: 'https://www.findmyschool.vic.gov.au',
   },
   // no phone or search on the page, you ask your MCH nurse or council, so the
@@ -211,12 +273,16 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'supportedPlaygroups',
     name: 'Supported Playgroups',
     categories: ['english', 'settlement'],
+    audience: 'families',
+    cost: 'free',
     url: 'https://services.dffh.vic.gov.au/supported-playgroups',
   },
   {
     id: 'vinnies',
     name: 'St Vincent de Paul Society Victoria',
     categories: ['food', 'money'],
+    audience: 'struggling',
+    cost: 'free',
     phone: '1800 305 330',
     tel: '1800305330',
     url: 'https://www.vinnies.org.au/vic/services/welfare-assistance',
@@ -225,6 +291,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'salvos',
     name: 'The Salvation Army',
     categories: ['food', 'money'],
+    audience: 'struggling',
+    cost: 'free',
     phone: '(03) 8873 5288',
     tel: '0388735288',
     url: 'https://www.salvationarmy.org.au/need-help/financial-assistance/',
@@ -234,6 +302,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'debtHelpline',
     name: 'National Debt Helpline',
     categories: ['money'],
+    audience: 'debt',
+    cost: 'free',
     phone: '1800 007 007',
     tel: '1800007007',
     url: 'https://ndh.org.au',
@@ -243,12 +313,16 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'refugeePayments',
     name: 'Services Australia: refugees and asylum seekers',
     categories: ['money', 'settlement'],
+    audience: 'refugeePayments',
+    cost: 'free',
     url: 'https://www.servicesaustralia.gov.au/refugees-and-asylum-seekers',
   },
   {
     id: 'jobsVictoria',
     name: 'Jobs Victoria',
     categories: ['work'],
+    audience: 'jobseekers',
+    cost: 'free',
     phone: '1300 208 575',
     tel: '1300208575',
     url: 'https://djsir.vic.gov.au/jobs-victoria',
@@ -258,6 +332,8 @@ export const SUPPORT_SERVICES: SupportService[] = [
     id: 'servicesAustralia',
     name: 'Services Australia in your language',
     categories: ['money'],
+    audience: 'centrelink',
+    cost: 'free',
     phone: '131 202',
     tel: '131202',
     url: 'https://www.servicesaustralia.gov.au/yourlanguage',

@@ -45,6 +45,16 @@ describe('support directory', () => {
     expect(missing).toEqual([])
   })
 
+  // the acceptance criterion says each card, so every one carries both
+  it('says who every service is for and what it costs', () => {
+    const audience = en.support.audience as Record<string, string>
+    const cost = en.support.cost as Record<string, string>
+    const missing = SUPPORT_SERVICES.filter(
+      (service) => !audience[service.audience] || !cost[service.cost],
+    ).map(({ id }) => id)
+    expect(missing).toEqual([])
+  })
+
   it('keeps services that need permanent residency out of the seeking asylum filter', () => {
     const open = SUPPORT_SERVICES.filter((service) => service.visaNote !== 'permanentOnly')
     expect(open.map((service) => service.id)).not.toContain('bondLoans')

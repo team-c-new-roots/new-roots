@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
-import { CalendarCheck, Clock, Info, Phone } from '@lucide/vue'
+import { CalendarCheck, CircleDollarSign, Clock, Info, Phone, Users } from '@lucide/vue'
 import type { SupportService } from '@/data/support-services'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
 
@@ -18,6 +18,14 @@ const { t } = useI18n()
     <div class="service__body">
       <h3 :id="`service-${service.id}`" class="service__name">{{ service.name }}</h3>
       <p class="service__detail">{{ t(`support.services.${service.id}`) }}</p>
+      <p class="service__meta">
+        <Users :size="16" aria-hidden="true" />
+        {{ t('support.who', { audience: t(`support.audience.${service.audience}`) }) }}
+      </p>
+      <p class="service__meta">
+        <CircleDollarSign :size="16" aria-hidden="true" />
+        {{ t('support.costIs', { cost: t(`support.cost.${service.cost}`) }) }}
+      </p>
       <p v-if="service.hours" class="service__meta">
         <Clock :size="16" aria-hidden="true" />
         {{ t(`support.hours.${service.hours}`) }}
@@ -72,6 +80,13 @@ const { t } = useI18n()
   color: var(--nr-ink-muted);
   font-size: 0.9375rem;
   font-weight: 600;
+}
+
+/* icons keep their size and sit on the first line when the text wraps */
+.service__meta svg {
+  flex: none;
+  align-self: flex-start;
+  margin-top: 0.2em;
 }
 
 .service__meta--visa {
