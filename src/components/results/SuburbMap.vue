@@ -114,15 +114,30 @@ const { km } = useFormat()
 const placesButton = ref<HTMLButtonElement | null>(null)
 
 // beside the map, the panel is as tall as the tools and map together. the
-// tools can wrap to more lines in some languages, so it's measured
+// tools can wrap to more lines in some languages, so it's measured. when the
+// panel has more in it than that, the map grows to match instead of the
+// panel scrolling, up to a limit, so nothing in it gets cut off
 const card = ref<HTMLDivElement | null>(null)
+const panelContent = ref<HTMLDivElement | null>(null)
 const cardHeight = ref(0)
+const contentHeight = ref(0)
 const panelHeight = computed(() =>
   props.side && cardHeight.value
     ? { maxHeight: `${cardHeight.value}px`, minHeight: `${cardHeight.value}px` }
     : undefined,
 )
+// the panel's 2px border, top and bottom, and the card's
+const BORDERS = 4
+const TALLEST_MAP = 960
+const canvasHeight = computed(() => {
+  const canvas = container.value
+  if (!props.side || !canvas || !contentHeight.value || !cardHeight.value) return undefined
+  const around = cardHeight.value - canvas.offsetHeight
+  const needed = Math.min(TALLEST_MAP, contentHeight.value + BORDERS - around)
+  return needed > 0 ? { minHeight: `${needed}px` } : undefined
+})
 let cardWatch: ResizeObserver | null = null
+let contentWatch: ResizeObserver | null = null
 const filtersOpen = ref(false)
 const chosenTypes = ref<PlaceType[]>([])
 const places = ref<Place[] | null>(null)
@@ -785,8 +800,27 @@ onMounted(() => {
   cardWatch.observe(card.value)
 })
 
+// the panel comes and goes with the chosen suburb, so its content is watched as it appears
+watch(
+  panelContent,
+  (element) => {
+    if (typeof ResizeObserver === 'undefined') return
+    contentWatch ??= new ResizeObserver(([entry]) => {
+      contentHeight.value = entry?.borderBoxSize?.[0]?.blockSize ?? 0
+    })
+    contentWatch.disconnect()
+    if (element) contentWatch.observe(element)
+    else contentHeight.value = 0
+  },
+  { flush: 'post', immediate: true },
+)
+
+// leaflet only notices a window resize, so it's told when the map grows
+watch(canvasHeight, () => nextTick(() => map?.invalidateSize()))
+
 onBeforeUnmount(() => {
   cardWatch?.disconnect()
+  contentWatch?.disconnect()
   map?.remove()
   map = null
 })
@@ -902,6 +936,7 @@ function onPick(event: Event) {
           <div
             ref="container"
             class="suburb-map__canvas"
+            :style="canvasHeight"
             role="region"
             :aria-label="t('map.label')"
             aria-describedby="map-legend-title"
@@ -982,49 +1017,51 @@ function onPick(event: Event) {
     </div>
 
     <aside v-if="selected" class="suburb-map__panel" :style="panelHeight" aria-live="polite">
-      <header class="suburb-map__panel-head">
-        <div class="suburb-map__panel-title">
-          <h2 ref="panelHeading" class="suburb-map__name" tabindex="-1">{{ selected.name }}</h2>
-          <p class="suburb-map__rank-line">
-            {{
-              selected.rank
-                ? t('suburb.ranked', { rank: selected.rank, total })
-                : t('map.notRanked')
-            }}
-          </p>
-        </div>
-        <button
-          type="button"
-          class="suburb-map__close"
-          :aria-label="t('map.close', { suburb: selected.name })"
-          @click="closePanel"
-        >
-          <X :size="22" aria-hidden="true" />
-        </button>
-        <p v-if="selected.match !== null" class="suburb-map__score">
-          <span class="suburb-map__score-value">{{ selected.match }}</span>
-          <span>{{ t('map.matchOutOf') }}</span>
-        </p>
-        <BudgetBadge :status="selected.status" />
-      </header>
-      <div class="suburb-map__panel-body">
-        <TopicBars :suburb="selected" :counted="counted" :has-language="hasLanguage" compact />
-        <RouterLink
-          :to="{ name: 'suburb', params: { id: selected.id } }"
-          class="suburb-map__details"
-        >
-          {{ t('map.details') }}
-          <span class="visually-hidden">{{
-            t('results.detailsFor', { suburb: selected.name })
-          }}</span>
-        </RouterLink>
-        <!-- a reason to open the filters, where people are already looking -->
-        <div v-if="!filtersOpen" class="suburb-map__nearby">
-          <p>{{ t('places.prompt', { suburb: selected.name }) }}</p>
-          <button type="button" class="btn btn--outline" @click="filtersOpen = true">
-            <MapPin :size="20" aria-hidden="true" />
-            {{ shownPlaces.length ? t('places.change') : t('places.open') }}
+      <div ref="panelContent">
+        <header class="suburb-map__panel-head">
+          <div class="suburb-map__panel-title">
+            <h2 ref="panelHeading" class="suburb-map__name" tabindex="-1">{{ selected.name }}</h2>
+            <p class="suburb-map__rank-line">
+              {{
+                selected.rank
+                  ? t('suburb.ranked', { rank: selected.rank, total })
+                  : t('map.notRanked')
+              }}
+            </p>
+          </div>
+          <button
+            type="button"
+            class="suburb-map__close"
+            :aria-label="t('map.close', { suburb: selected.name })"
+            @click="closePanel"
+          >
+            <X :size="22" aria-hidden="true" />
           </button>
+          <p v-if="selected.match !== null" class="suburb-map__score">
+            <span class="suburb-map__score-value">{{ selected.match }}</span>
+            <span>{{ t('map.matchOutOf') }}</span>
+          </p>
+          <BudgetBadge :status="selected.status" />
+        </header>
+        <div class="suburb-map__panel-body">
+          <TopicBars :suburb="selected" :counted="counted" :has-language="hasLanguage" compact />
+          <RouterLink
+            :to="{ name: 'suburb', params: { id: selected.id } }"
+            class="suburb-map__details"
+          >
+            {{ t('map.details') }}
+            <span class="visually-hidden">{{
+              t('results.detailsFor', { suburb: selected.name })
+            }}</span>
+          </RouterLink>
+          <!-- a reason to open the filters, where people are already looking -->
+          <div v-if="!filtersOpen" class="suburb-map__nearby">
+            <p>{{ t('places.prompt', { suburb: selected.name }) }}</p>
+            <button type="button" class="btn btn--outline" @click="filtersOpen = true">
+              <MapPin :size="20" aria-hidden="true" />
+              {{ shownPlaces.length ? t('places.change') : t('places.open') }}
+            </button>
+          </div>
         </div>
       </div>
     </aside>
