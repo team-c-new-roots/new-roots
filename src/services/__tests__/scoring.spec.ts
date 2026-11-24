@@ -40,7 +40,13 @@ function browserValue(row: ResultRow | undefined, key: string): number | string 
 }
 
 describe('matches the scoring module for every suburb', () => {
-  for (const { household, expected } of fixture.cases) {
+  for (const { household: made, expected } of fixture.cases) {
+    // the fixture was made before nearby services (US 4.3) was a topic. at
+    // not important it carries no weight, so everything else has to match
+    const household: ScoreRequest = {
+      ...made,
+      topic_importance: { ...made.topic_importance, Essentials: 'not important' },
+    }
     it(`${household.selected_language}, ${household.bedrooms}-bed ${household.dwelling_type}, $${household.income} a week`, () => {
       const language = languageFile(household.selected_language!)
       const rows = new Map(
@@ -136,6 +142,7 @@ const request: ScoreRequest = {
     Affordability: 'very important',
     Education: 'important',
     Healthcare: 'important',
+    Essentials: 'important',
     Safety: 'not important',
     Transport: 'important',
     Language: 'important',
@@ -244,6 +251,7 @@ describe('the rest of the rules', () => {
       importance: {
         Education: 'very',
         Healthcare: 'important',
+        Essentials: 'important',
         Transport: 'not',
         Language: 'very',
         Community: 'important',

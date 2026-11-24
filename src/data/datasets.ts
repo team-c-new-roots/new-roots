@@ -92,6 +92,17 @@ export const DATASETS: Dataset[] = [
     useKey: 'howItWorks.datasets.health',
     period: 'October 2026',
   },
+  // US 4.3, put this back once the centres are in Gold features, and add them
+  // back to topics.essentialsHint and howItWorks.schedule.places
+  // {
+  //   id: 'services-australia',
+  //   updates: 'checkedQuarterly',
+  //   name: 'Location of Centrelink offices',
+  //   publisher: 'Services Australia',
+  //   useKey: 'howItWorks.datasets.servicesAustralia',
+  //   period: 'August 2023',
+  //   url: 'https://data.gov.au/data/dataset/location-of-centrelink-offices',
+  // },
   {
     id: 'transport',
     updates: 'checkedQuarterly',

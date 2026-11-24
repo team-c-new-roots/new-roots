@@ -14,9 +14,17 @@ export type YesNo = 'yes' | 'no'
 // the languages the language community step offers. each maps to its census name
 export type CommunityLanguage = 'dari' | 'hazaraghi' | 'persian' | 'arabic' | 'pashto' | 'dinka'
 
-// the seven topics the scoring module uses, spelt the way the backend spells them
+// the eight topics the app scores, spelt the way the backend spells them.
+// Essentials (nearby services) is added by the export, the rest are the module's
 export type TopicName =
-  'Affordability' | 'Education' | 'Healthcare' | 'Safety' | 'Transport' | 'Language' | 'Community'
+  | 'Affordability'
+  | 'Education'
+  | 'Healthcare'
+  | 'Essentials'
+  | 'Safety'
+  | 'Transport'
+  | 'Language'
+  | 'Community'
 
 // affordability isn't rated, suburbs within budget always come first (US 2.2)
 export type RatedTopic = Exclude<TopicName, 'Affordability'>

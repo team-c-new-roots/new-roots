@@ -6,7 +6,7 @@ import type { SuburbResult } from '@/services/results'
 import { TOPICS } from '@/data/topics'
 import ScoreBar from '@/components/ui/ScoreBar.vue'
 
-/* a score out of 100 for each of the seven topics, with icons, like the
+/* a score out of 100 for each of the eight topics, with icons, like the
    data team's map panel. every score shows. a topic that doesn't count for
    this household says so under its bar, and a missing figure says why */
 

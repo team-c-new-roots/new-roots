@@ -325,6 +325,9 @@ export default {
     educationHint: 'Distance to the nearest schools and free English classes.',
     healthcare: 'Doctors and hospitals',
     healthcareHint: 'Distance to the nearest GP and hospital.',
+    essentials: 'Nearby services',
+    // add the Services Australia centre back in once its locations are in Gold
+    essentialsHint: 'How far it is to the nearest pharmacy and GP.',
     transport: 'Public transport',
     transportHint: 'Bus and tram stops nearby, and how far it is to a train station.',
     language: 'Language community',
@@ -346,6 +349,8 @@ export default {
     primary_school_proximity: 'Distance to a primary school',
     secondary_school_proximity: 'Distance to a secondary school',
     gp_proximity: 'Distance to a GP',
+    pharmacy_proximity: 'Distance to a pharmacy',
+    services_australia_proximity: 'Distance to a Services Australia centre',
     hospital_proximity: 'Distance to a hospital',
     bus_tram_stop_density: 'Bus and tram stops',
     train_station_proximity: 'Distance to a train station',
@@ -380,6 +385,7 @@ export default {
     overBy: '{amount} over',
   },
   results: {
+    back: 'Back to step 4',
     title: 'Your top suburbs',
     edit: 'Edit answers',
     summaryLine: 'For {people}, {home}, about {budget} a week.',
@@ -499,7 +505,7 @@ export default {
     credit: 'Places: Vicmap, Geoscience Australia and Home Affairs',
     groups: {
       worship: 'Places of worship',
-      community: 'Community places',
+      community: 'Libraries, community centres and halls',
       health: 'Health',
       education: 'Schools and English classes',
       recreation: 'Parks and picnics',
@@ -642,6 +648,37 @@ export default {
     summaryNote:
       'Bond and rent in advance are each capped at one month’s rent up to {limit} a week. Source: {cav}.',
   },
+  nearbyServices: {
+    title: 'Nearby services',
+    walk: 'About {minutes} minutes’ walk ({distance})',
+    underFive: 'Under 5 minutes’ walk ({distance})',
+    away: '{distance} away',
+    missing: 'We don’t have a figure for {suburb} yet.',
+    types: {
+      pharmacy: 'Pharmacy',
+      gp: 'GP',
+      servicesAustralia: 'Services Australia centre',
+    },
+    noteTitle: 'How we work these out',
+    method:
+      'Distances are in a straight line from the middle of the suburb. For a walk of up to {limit} minutes, we add a third for the streets in between and walk it at 5 km an hour, rounded to the nearest 5 minutes.',
+    limits:
+      'A busy road, railway or creek can make the real walk longer, so check the route on a map before you rely on it.',
+    healthSource:
+      'Pharmacies and GPs: Geoscience Australia, from the National Health Services Directory.',
+    centrelinkSource: 'Services Australia centres: Services Australia office locations.',
+  },
+  communityPlaces: {
+    title: 'Libraries and community centres',
+    loading: 'Loading libraries and community centres',
+    error: 'The libraries and community centres didn’t load.',
+    retry: 'Try again',
+    count:
+      'No libraries or community centres in or within {km} of {suburb} | 1 library or community centre in or within {km} of {suburb} | {n} libraries and community centres in or within {km} of {suburb}',
+    none: 'There are no libraries or community centres in {suburb} or within {km} of it.',
+    open: 'See the list',
+    source: 'Places: Vicmap Features of Interest.',
+  },
   rentTrend: {
     title: 'Rent trend',
     loading: 'Loading the rent trend',
@@ -772,7 +809,7 @@ export default {
       'If you only earn a wage, we use 30% of it and don’t add rent assistance. Many people seeking asylum can’t get Centrelink, so this keeps the budget honest.',
     rankHeading: 'How we rank suburbs',
     rank1:
-      'Each suburb gets a score out of 100 for seven topics: budget fit, schools and English classes, doctors and hospitals, public transport, language community, community places and reported crime.',
+      'Each suburb gets a score out of 100 for eight topics: budget fit, schools and English classes, doctors and hospitals, nearby services, public transport, language community, community places and reported crime.',
     rank2:
       'You choose how much each topic matters. Budget fit always counts most, and reported crime starts at Not important.',
     rank3:
@@ -791,7 +828,7 @@ export default {
       payments: 'Centrelink payment rates: each March and September, when the rates change.',
       census: 'Languages spoken at home: from the Census, which runs every five years.',
       places:
-        'Schools, English classes, doctors, public transport and crime figures: we check for new versions every quarter.',
+        'Schools, English classes, doctors, pharmacies, public transport and crime figures: we check for new versions every quarter.',
     },
     disclaimerHeading: 'A starting point, not the only source',
     disclaimer1:
@@ -816,8 +853,10 @@ export default {
       census: 'Languages spoken at home and population for each suburb.',
       boundaries: 'Suburb shapes for the map.',
       vicmap:
-        'Distance to the nearest primary and secondary school, and community places such as community centres, neighbourhood houses and halls. Also the places you can show on the map.',
-      health: 'Distance to the nearest GP and hospital.',
+        'Distance to the nearest primary and secondary school, and community places such as libraries, community centres, neighbourhood houses and halls. Also the places you can show on the map.',
+      health: 'Distance to the nearest GP, hospital and pharmacy.',
+      // for the dataset in src/data/datasets.ts, once it's back in
+      servicesAustralia: 'Distance to the nearest Services Australia centre.',
       transport: 'Bus and tram stops, and distance to the nearest train station.',
       amep: 'Where free English classes are held.',
       crime: 'Reported crime for each suburb. Only counted if you choose.',

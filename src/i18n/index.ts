@@ -38,6 +38,13 @@ const numbers = {
     unitDisplay: 'short',
     maximumFractionDigits: 1,
   },
+  metres: {
+    ...latn,
+    style: 'unit',
+    unit: 'meter',
+    unitDisplay: 'short',
+    maximumFractionDigits: 0,
+  },
   decimal: { ...latn, maximumFractionDigits: 1 },
   whole: { ...latn, maximumFractionDigits: 0 },
 } as const

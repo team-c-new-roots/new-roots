@@ -13,7 +13,7 @@ defineProps<{
   // why it isn't counted, when it isn't
   note?: string
   icon?: Component
-  // tighter rows for the map panel, so all seven fit beside the map
+  // tighter rows for the map panel, so all eight fit beside the map
   compact?: boolean
 }>()
 

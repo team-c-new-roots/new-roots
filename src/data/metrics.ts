@@ -22,6 +22,9 @@ export const METRICS: Record<string, MetricInfo> = {
   secondary_school_proximity: { topic: 'Education', unit: 'km' },
   gp_proximity: { topic: 'Healthcare', unit: 'km' },
   hospital_proximity: { topic: 'Healthcare', unit: 'km' },
+  // the GP also counts towards nearby services, but it's named once, here
+  pharmacy_proximity: { topic: 'Essentials', unit: 'km' },
+  services_australia_proximity: { topic: 'Essentials', unit: 'km' },
   bus_tram_stop_density: { topic: 'Transport', unit: 'perKm2' },
   train_station_proximity: { topic: 'Transport', unit: 'km' },
   crime_per_1000: { topic: 'Safety', unit: 'per1000' },

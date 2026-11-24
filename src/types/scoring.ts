@@ -27,6 +27,7 @@ export interface ResultRow {
   affordability_cap: number | null
   education_score: number | null
   healthcare_score: number | null
+  essentials_score: number | null
   safety_score: number | null
   transport_score: number | null
   language_score: number | null

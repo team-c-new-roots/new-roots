@@ -15,6 +15,14 @@ export function useFormat() {
   const cents = (value: number) => n(value, 'cents')
   // a no-break space before the unit, so km never wraps onto its own line
   const km = (value: number) => n(value, 'km').replace(/\s(?=\D+$)/u, '\u00a0')
+  // metres to the nearest 50 under 1 km, so 0.34 reads as 350 m, not 0.3 km
+  const distance = (value: number) =>
+    value < 0.975
+      ? n(Math.max(50, Math.round((value * 1000) / 50) * 50), 'metres').replace(
+          /\s(?=\D+$)/u,
+          '\u00a0',
+        )
+      : km(value)
   // the data stores percents as 9 for 9%, Intl wants 0.09
   const percent = (value: number) => n(value / 100, 'percent')
   const decimal = (value: number) => n(value, 'decimal')
@@ -55,5 +63,5 @@ export function useFormat() {
     return t(`homes.${label.type}`, { beds })
   }
 
-  return { money, cents, km, percent, decimal, whole, monthYear, year, fullDate, home }
+  return { money, cents, km, distance, percent, decimal, whole, monthYear, year, fullDate, home }
 }

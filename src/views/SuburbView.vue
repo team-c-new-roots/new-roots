@@ -28,8 +28,10 @@ import TopicBars from '@/components/results/TopicBars.vue'
 import ResultsGate from '@/components/results/ResultsGate.vue'
 import DataNote from '@/components/results/DataNote.vue'
 import RentTrend from '@/components/results/RentTrend.vue'
+import NearbyServices from '@/components/suburb/NearbyServices.vue'
+import CommunityPlaces from '@/components/suburb/CommunityPlaces.vue'
 
-/* why a suburb ranks where it does: a score for each of the seven topics,
+/* why a suburb ranks where it does: a score for each of the eight topics,
    what it does best and worst on, then the figures behind it with their
    sources and dates. the crime rate itself only shows when the person chose
    to count it, so the page never leads with a figure nobody asked for. when
@@ -308,6 +310,9 @@ function toggleSummary() {
           <p class="muted">{{ t('suburb.averages') }}</p>
           <DataNote compact />
         </section>
+
+        <NearbyServices :obt="item!.obt" :suburb="item!.name" :all="data!.obt" />
+        <CommunityPlaces :suburb-id="item!.id" :suburb="item!.name" />
 
         <RentTrend
           :suburb-id="item!.id"

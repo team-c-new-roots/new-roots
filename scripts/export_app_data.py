@@ -87,8 +87,19 @@ def read_rows(path):
 # the topics the app scores, spelt as in TopicName in src/types/index.ts. a
 # topic only reaches the scores when the team agrees it should, so anything
 # else in the lookup, like Availability, is shown but never counted (agreed
-# 24 Nov). add it here and to the app together if that changes
+# 24 Nov). add it here and to the app together if that changes. Essentials
+# isn't in the lookup, it's added below
 SCORED_TOPICS = {"Affordability", "Education", "Healthcare", "Safety", "Transport", "Language", "Community"}
+
+# US 4.3, nearby services. the GP distance is the OBT's own, the other two are
+# worked out here from Gold features the same way the pipeline does its
+# proximities (nearest point to the suburb's centroid in EPSG:7855, scored
+# 0-100 between the 10th and 90th percentiles). equal weights, agreed 24 Nov
+ESSENTIALS = {
+    "gp_proximity": None,
+    "pharmacy_proximity": {"pharmacy"},
+    "services_australia_proximity": {"services australia centre", "services australia", "centrelink office"},
+}
 
 
 def export_weights(gold):
@@ -111,6 +122,90 @@ def export_weights(gold):
     return weights
 
 
+def export_weights_essentials():
+    share = round(100 / len(ESSENTIALS), 2)
+    return [
+        {"topic": "Essentials", "table": "obt", "metric": metric, "weight": share}
+        for metric in ESSENTIALS
+    ]
+
+
+def percentile(values, q):
+    """pandas' default linear quantile"""
+    ordered = sorted(values)
+    at = (len(ordered) - 1) * q
+    low, high = math.floor(at), math.ceil(at)
+    return ordered[low] + (ordered[high] - ordered[low]) * (at - low)
+
+
+def proximity_scores(values):
+    """score(values, lower=True) from the pipeline notebook, nearer is better"""
+    valid = [value for value in values if value is not None]
+    if not valid:
+        return [None] * len(values)
+    if all(value == 0 for value in valid):
+        return [None if value is None else 0 for value in values]
+    low, high = percentile(valid, 0.1), percentile(valid, 0.9)
+    if high == low:
+        return [None if value is None else 100 for value in values]
+    # round() is half to even, the same as pandas
+    return [
+        None if value is None else round(100 - (min(max(value, low), high) - low) / (high - low) * 100)
+        for value in values
+    ]
+
+
+def rankings(values):
+    """rank(ascending=True, method='min'), blanks left blank"""
+    ordered = sorted(value for value in values if value is not None)
+    first = {}
+    for at, value in enumerate(ordered, 1):
+        first.setdefault(value, at)
+    return [None if value is None else first[value] for value in values]
+
+
+def export_essentials(gold, obt_rows, suburbs):
+    try:
+        from pyproj import Transformer
+        from shapely import transform, wkt
+    except ImportError:
+        sys.exit("the nearby services scores need shapely and pyproj: pip install -r pipeline/requirements.txt")
+
+    to_metres = Transformer.from_crs(4326, 7855, always_xy=True)
+
+    def project(coords):
+        x, y = to_metres.transform(coords[:, 0], coords[:, 1])
+        coords[:, 0], coords[:, 1] = x, y
+        return coords
+
+    centres = [transform(wkt.loads(row["geometry"]), project).centroid for row in obt_rows]
+    points = {}
+    for row in read_rows(gold / "new_roots_features.csv"):
+        kind = row["feature_subtype"].strip().lower()
+        lon, lat = number(row["x_coord"]), number(row["y_coord"])
+        if lon is not None and lat is not None:
+            points.setdefault(kind, []).append(to_metres.transform(lon, lat))
+
+    by_id = {suburb["suburb_id"]: suburb for suburb in suburbs}
+    for metric, kinds in ESSENTIALS.items():
+        if kinds is None:
+            continue
+        found = [point for kind in kinds for point in points.get(kind, [])]
+        if not found:
+            print(f"no {' or '.join(sorted(kinds))} in the features table, so {metric} is blank for now")
+        distances = [
+            min(math.hypot(centre.x - x, centre.y - y) for x, y in found) / 1000 if found else None
+            for centre in centres
+        ]
+        for row, distance, rank, score in zip(
+            obt_rows, distances, rankings(distances), proximity_scores(distances)
+        ):
+            suburb = by_id[row["suburb_id"].strip()]
+            suburb[f"{metric}_value"] = rounded(distance, 6)
+            suburb[f"{metric}_ranking"] = rank
+            suburb[f"{metric}_score"] = score
+
+
 def export_suburbs(obt_rows):
     suburbs = []
     for row in obt_rows:
@@ -120,6 +215,9 @@ def export_suburbs(obt_rows):
             "suburb_area_km2": rounded(number(row.get("suburb_area_km2")), 2),
         }
         for key, text in row.items():
+            # not shown yet (US 2.5 waits on the counted figures), so not shipped
+            if key.startswith("rental_availability_"):
+                continue
             # rents stay exact, since the cheaper home and the budget caps can turn
             # on a fraction of a cent. 6 places is plenty for distances and rates
             if key.startswith("rent_") and key.endswith("_value"):
@@ -385,10 +483,12 @@ def main():
     obt_rows = read_rows(gold / "new_roots_obt.csv")
     weights = export_weights(gold)
     top_languages, language_labels = export_languages(gold, weights, args.out)
+    suburbs = export_suburbs(obt_rows)
+    export_essentials(gold, obt_rows, suburbs)
     data = {
         "exported": date.today().isoformat(),
-        "weights": weights,
-        "suburbs": export_suburbs(obt_rows),
+        "weights": weights + export_weights_essentials(),
+        "suburbs": suburbs,
         "topLanguages": top_languages,
         "languageLabels": language_labels,
         "community": export_community(gold),
