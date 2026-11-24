@@ -132,8 +132,11 @@ const TALLEST_MAP = 960
 const canvasHeight = computed(() => {
   const canvas = container.value
   if (!props.side || !canvas || !contentHeight.value || !cardHeight.value) return undefined
-  const around = cardHeight.value - canvas.offsetHeight
-  const needed = Math.min(TALLEST_MAP, contentHeight.value + BORDERS - around)
+  // both measured unrounded and the answer rounded up to a whole pixel. a
+  // rounded canvas against an unrounded card made the two chase each other
+  // by a fraction of a pixel every frame, which showed as the panel shaking
+  const around = cardHeight.value - canvas.getBoundingClientRect().height
+  const needed = Math.min(TALLEST_MAP, Math.ceil(contentHeight.value + BORDERS - around))
   return needed > 0 ? { minHeight: `${needed}px` } : undefined
 })
 let cardWatch: ResizeObserver | null = null
