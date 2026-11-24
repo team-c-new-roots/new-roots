@@ -642,6 +642,44 @@ export default {
     summaryNote:
       'Bond and rent in advance are each capped at one month’s rent up to {limit} a week. Source: {cav}.',
   },
+  rentTrend: {
+    title: 'Rent trend',
+    loading: 'Loading the rent trend',
+    error: 'We couldn’t load the rent trend. Check your connection and try again.',
+    retry: 'Try again',
+    none: 'There’s no five-year rent trend for {suburb} yet. The Homes Victoria Rental Report only lists some suburbs by name, and {suburb} isn’t matched to one.',
+    place: 'the {area} area',
+    up: 'Median rent for a {home} in {place} went up {change} from {from} to {to}.',
+    down: 'Median rent for a {home} in {place} went down {change} from {from} to {to}.',
+    upAll: 'Median rent for all homes in {place} went up {change} from {from} to {to}.',
+    downAll: 'Median rent for all homes in {place} went down {change} from {from} to {to}.',
+    melbourneUp: 'Across Melbourne it went up {change}.',
+    melbourneDown: 'Across Melbourne it went down {change}.',
+    allHomes:
+      'There weren’t enough {home} leases here to show five years, so the line is for all homes.',
+    shared:
+      'Homes Victoria counts {suburb} as part of the {area} area, so the line covers more than {suburb}.',
+    melbourne: 'Melbourne',
+    noFigure: 'No figure',
+    table: 'Show the figures',
+    caption: 'Median weekly rent each June in {place}',
+    year: 'Year',
+    means: {
+      title: 'What this means',
+      yearlyUp: 'That’s about {amount} a week more each year, on average.',
+      yearlyDown: 'That’s about {amount} a week less each year, on average.',
+      flat: 'Rent here is about the same as five years ago.',
+      faster:
+        'Rents here have risen faster than across Melbourne, so leave some room in your budget for a rise when your lease is renewed.',
+      slower:
+        'Rents here have risen more slowly than across Melbourne. That can mean smaller rises when a lease is renewed, but it isn’t guaranteed.',
+      same: 'Rents here have risen at about the same pace as across Melbourne.',
+      rights:
+        'In Victoria, rent can usually only go up once every 12 months, with at least 90 days’ written notice. If a rise seems too high, you can ask {cav} for a free rent assessment within 30 days.',
+    },
+    source:
+      'Homes Victoria Rental Report, median rents for new leases over the year to {date}. The Melbourne line is the average of its regions, weighted by new leases.',
+  },
   nothingFits: {
     title: 'Nothing fits your budget yet',
     lead: 'For a {home} on about {budget} a week, no suburb’s median rent fits yet. Here’s what you can do now, then the suburbs closest to your budget.',
