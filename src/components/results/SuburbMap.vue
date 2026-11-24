@@ -178,6 +178,14 @@ const pickerOptions = computed(() =>
   ),
 )
 
+// the picker has the top 10 first, then every suburb A to Z with its name
+// first, so typing the start of a name in the list jumps to it
+const PICKER_TOP = 10
+const pickerTop = computed(() =>
+  pickerOptions.value.filter((item) => item.rank !== null && item.rank <= PICKER_TOP),
+)
+const pickerAll = computed(() => [...props.suburbs].sort((a, b) => a.name.localeCompare(b.name)))
+
 // colours come from tokens.css so the palette is defined once. SVG attributes
 // can't read var(), hence reading the computed value
 function token(name: string): string {
@@ -662,9 +670,30 @@ function popupFor(place: Place, distance: number): HTMLElement {
 /* the pins only take clicks and taps. a pin each for the keyboard would be
    hundreds of tab stops, so the list under the map is the keyboard and screen
    reader way in, the same as the suburb picker is for the suburbs */
+// the suburb the map last zoomed in for, so it only happens when pins first
+// appear, not every time a filter changes
+let zoomedFor: string | null = null
+
+// pins and score labels overlap until the map is close enough to spread them
+// out, so the first time pins show it zooms in to them and the suburb.
+// never out, so someone who's already closer stays where they are
+function zoomToPlaces() {
+  const id = selectedId.value
+  if (!map || !id || zoomedFor === id || !shownPlaces.value.length) return
+  zoomedFor = id
+  const bounds = L.latLngBounds(shownPlaces.value.map(({ place }) => [place.lat, place.lon]))
+  const layer = layerFor(id)
+  if (layer) bounds.extend(layer.getBounds())
+  const options = { ...fitPadding(), maxZoom: 15 }
+  if (map.getBoundsZoom(bounds, false, L.point(48, 72)) > map.getZoom()) {
+    map.fitBounds(bounds, options)
+  }
+}
+
 function drawPlaces() {
   if (!map || !placePins) return
   placePins.clearLayers()
+  if (!shownPlaces.value.length) zoomedFor = null
   for (const { place, km: distance } of shownPlaces.value) {
     const group = GROUP_OF[place.type]
     const pin = document.createElement('span')
@@ -681,6 +710,7 @@ function drawPlaces() {
   const credit = t('places.credit')
   map.attributionControl.removeAttribution(credit)
   if (shownPlaces.value.length) map.attributionControl.addAttribution(credit)
+  zoomToPlaces()
 }
 
 // only fetched once the panel opens or something's chosen, so people who
@@ -771,8 +801,10 @@ onMounted(async () => {
       style: (feature) => edgeFor(feature?.properties.suburb_id),
     }).addTo(map)
     labels = L.layerGroup().addTo(map)
-    // above the score labels, so a pin is never hidden under one
-    map.createPane('nr-places').style.zIndex = '650'
+    // under the score labels (600) and over the shapes, so a suburb's name and
+    // score always read. the map zooms in when pins first show, which spreads
+    // them out, and the list under the map has any a label still covers
+    map.createPane('nr-places').style.zIndex = '550'
     placePins = L.layerGroup().addTo(map)
 
     // Leaflet holds layers back until the map has a view, so the SVG the
@@ -980,10 +1012,24 @@ function onPick(event: Event) {
             aria-describedby="map-streets-hint"
             @change="onPick"
           >
-            <option v-for="item in pickerOptions" :key="item.id" :value="item.id">
-              {{ item.rank ? `${item.rank}. ${item.name}` : item.name }}
-              ({{ t(`status.${item.status}`) }})
-            </option>
+            <optgroup v-if="pickerTop.length" :label="t('map.pickTop', { n: pickerTop.length })">
+              <option v-for="item in pickerTop" :key="`top-${item.id}`" :value="item.id">
+                {{ item.rank }}. {{ item.name }} ({{ t(`status.${item.status}`) }})
+              </option>
+            </optgroup>
+            <optgroup :label="t('map.pickAll')">
+              <option v-for="item in pickerAll" :key="item.id" :value="item.id">
+                {{
+                  item.rank
+                    ? t('map.pickRanked', {
+                        name: item.name,
+                        rank: item.rank,
+                        status: t(`status.${item.status}`),
+                      })
+                    : `${item.name} (${t(`status.${item.status}`)})`
+                }}
+              </option>
+            </optgroup>
           </select>
           <p id="map-streets-hint" class="field__hint suburb-map__pick-hint">
             {{ t('map.notes') }}
