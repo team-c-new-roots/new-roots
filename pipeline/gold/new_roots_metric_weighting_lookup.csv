@@ -18,9 +18,3 @@ obt,Transport,train_station_proximity,50,value
 languages,Language,language,50,value
 languages,Language,speaker_count,50,value
 infrastructure,Community,infra,100,value
-obt,Availability,rental_availability_1br_flat,16.66666667,value
-obt,Availability,rental_availability_2br_flat,16.66666667,value
-obt,Availability,rental_availability_2br_house,16.66666667,value
-obt,Availability,rental_availability_3br_house,16.66666667,value
-obt,Availability,rental_availability_4br_house,16.66666667,value
-obt,Availability,rental_availability_3br_flat,16.66666667,value
