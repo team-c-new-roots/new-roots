@@ -84,17 +84,30 @@ def read_rows(path):
         return list(csv.DictReader(handle))
 
 
+# the topics the app scores, spelt as in TopicName in src/types/index.ts. a
+# topic only reaches the scores when the team agrees it should, so anything
+# else in the lookup, like Availability, is shown but never counted (agreed
+# 24 Nov). add it here and to the app together if that changes
+SCORED_TOPICS = {"Affordability", "Education", "Healthcare", "Safety", "Transport", "Language", "Community"}
+
+
 def export_weights(gold):
-    weights = []
+    weights, skipped = [], set()
     for row in read_rows(gold / "new_roots_metric_weighting_lookup.csv"):
+        topic = row["topic"].strip()
+        if topic not in SCORED_TOPICS:
+            skipped.add(topic)
+            continue
         table = row["table"].strip().lower()
         metric = row["metric"].strip()
         weights.append({
-            "topic": row["topic"].strip(),
+            "topic": topic,
             "table": TABLE_NAMES.get(table, table),
             "metric": METRIC_NAMES.get(metric, metric),
             "weight": number(row["weighting_pct"]),
         })
+    for topic in sorted(skipped):
+        print(f"left {topic} out of the scores, it isn't a topic the app scores")
     return weights
 
 
