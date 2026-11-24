@@ -27,6 +27,7 @@ import ExternalLink from '@/components/ui/ExternalLink.vue'
 import TopicBars from '@/components/results/TopicBars.vue'
 import ResultsGate from '@/components/results/ResultsGate.vue'
 import DataNote from '@/components/results/DataNote.vue'
+import RentTrend from '@/components/results/RentTrend.vue'
 
 /* why a suburb ranks where it does: a score for each of the seven topics,
    what it does best and worst on, then the figures behind it with their
@@ -307,6 +308,13 @@ function toggleSummary() {
           <p class="muted">{{ t('suburb.averages') }}</p>
           <DataNote compact />
         </section>
+
+        <RentTrend
+          :suburb-id="item!.id"
+          :suburb-name="item!.name"
+          :rent-metric="rentMetricFor(item!)"
+          :home="home(homeFor(item!))"
+        />
 
         <button
           type="button"

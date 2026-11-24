@@ -43,10 +43,17 @@ export function useFormat() {
     }).format(date)
   }
 
+  // just the year, for chart ticks
+  function year(iso: string) {
+    const date = new Date(`${iso}T00:00:00Z`)
+    if (Number.isNaN(date.getTime())) return iso
+    return new Intl.DateTimeFormat(locale.value, { ...AUSTRALIAN, year: 'numeric' }).format(date)
+  }
+
   function home(label: HomeLabel | { type: HomeType; bedrooms: number }) {
     const beds = label.bedrooms >= 5 ? '5+' : String(label.bedrooms)
     return t(`homes.${label.type}`, { beds })
   }
 
-  return { money, cents, km, percent, decimal, whole, monthYear, fullDate, home }
+  return { money, cents, km, percent, decimal, whole, monthYear, year, fullDate, home }
 }
