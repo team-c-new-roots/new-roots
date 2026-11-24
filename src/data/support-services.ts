@@ -204,6 +204,15 @@ export const SUPPORT_SERVICES: SupportService[] = [
     categories: ['english'],
     url: 'https://www.findmyschool.vic.gov.au',
   },
+  // no phone or search on the page, you ask your MCH nurse or council, so the
+  // listing says that. the page says eligibility applies without saying what,
+  // so no visa note
+  {
+    id: 'supportedPlaygroups',
+    name: 'Supported Playgroups',
+    categories: ['english', 'settlement'],
+    url: 'https://services.dffh.vic.gov.au/supported-playgroups',
+  },
   {
     id: 'vinnies',
     name: 'St Vincent de Paul Society Victoria',

@@ -866,6 +866,8 @@ export default {
         'Talk to a nurse about a health worry, any time. Called NURSE-ON-CALL in Victoria.',
       amep: 'Free English classes for eligible migrants and refugees, with free childcare while you study.',
       findMySchool: 'Check which government school zone an address is in.',
+      supportedPlaygroups:
+        'Free sessions for families with children from birth to school age, led by a trained facilitator. Ask your Maternal and Child Health nurse or local council to find one near you.',
       servicesAustralia: 'Talk to Centrelink in your language about payments.',
       vinnies:
         'Food, vouchers and help with bills for anyone who is struggling. Give your postcode and they’ll connect you to local volunteers.',
