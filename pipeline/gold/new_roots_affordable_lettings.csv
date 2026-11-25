@@ -1,0 +1,196 @@
+lga_name,dwelling_type,period,lga_population,affordable_lettings,affordable_lettings_per_1000
+Banyule,1 bedroom,Jun 2026,120338,5,0.04
+Banyule,2 bedroom,Jun 2026,120338,24,0.2
+Banyule,3 bedroom,Jun 2026,120338,3,0.02
+Banyule,4+ bedroom,Jun 2026,120338,4,0.03
+Banyule,All properties,Jun 2026,120338,36,0.3
+Bass Coast,1 bedroom,Jun 2026,40850,0,0.0
+Bass Coast,2 bedroom,Jun 2026,40850,1,0.02
+Bass Coast,3 bedroom,Jun 2026,40850,19,0.47
+Bass Coast,4+ bedroom,Jun 2026,40850,28,0.69
+Bass Coast,All properties,Jun 2026,40850,48,1.18
+Baw Baw,1 bedroom,Jun 2026,59847,2,0.03
+Baw Baw,2 bedroom,Jun 2026,59847,5,0.08
+Baw Baw,3 bedroom,Jun 2026,59847,15,0.25
+Baw Baw,4+ bedroom,Jun 2026,59847,19,0.32
+Baw Baw,All properties,Jun 2026,59847,41,0.69
+Bayside,1 bedroom,Jun 2026,104196,1,0.01
+Bayside,2 bedroom,Jun 2026,104196,0,0.0
+Bayside,3 bedroom,Jun 2026,104196,0,0.0
+Bayside,4+ bedroom,Jun 2026,104196,0,0.0
+Bayside,All properties,Jun 2026,104196,1,0.01
+Boroondara,1 bedroom,Jun 2026,168896,2,0.01
+Boroondara,2 bedroom,Jun 2026,168896,7,0.04
+Boroondara,3 bedroom,Jun 2026,168896,2,0.01
+Boroondara,4+ bedroom,Jun 2026,168896,5,0.03
+Boroondara,All properties,Jun 2026,168896,16,0.09
+Brimbank,1 bedroom,Jun 2026,202049,0,0.0
+Brimbank,2 bedroom,Jun 2026,202049,19,0.09
+Brimbank,3 bedroom,Jun 2026,202049,93,0.46
+Brimbank,4+ bedroom,Jun 2026,202049,45,0.22
+Brimbank,All properties,Jun 2026,202049,157,0.78
+Cardinia,1 bedroom,Jun 2026,118227,1,0.01
+Cardinia,2 bedroom,Jun 2026,118227,0,0.0
+Cardinia,3 bedroom,Jun 2026,118227,11,0.09
+Cardinia,4+ bedroom,Jun 2026,118227,30,0.25
+Cardinia,All properties,Jun 2026,118227,42,0.36
+Casey,1 bedroom,Jun 2026,359227,0,0.0
+Casey,2 bedroom,Jun 2026,359227,1,0.0
+Casey,3 bedroom,Jun 2026,359227,27,0.08
+Casey,4+ bedroom,Jun 2026,359227,51,0.14
+Casey,All properties,Jun 2026,359227,79,0.22
+Darebin,1 bedroom,Jun 2026,151762,4,0.03
+Darebin,2 bedroom,Jun 2026,151762,9,0.06
+Darebin,3 bedroom,Jun 2026,151762,10,0.07
+Darebin,4+ bedroom,Jun 2026,151762,2,0.01
+Darebin,All properties,Jun 2026,151762,25,0.16
+Frankston,1 bedroom,Jun 2026,139267,2,0.01
+Frankston,2 bedroom,Jun 2026,139267,4,0.03
+Frankston,3 bedroom,Jun 2026,139267,7,0.05
+Frankston,4+ bedroom,Jun 2026,139267,5,0.04
+Frankston,All properties,Jun 2026,139267,18,0.13
+Glen Eira,1 bedroom,Jun 2026,149824,3,0.02
+Glen Eira,2 bedroom,Jun 2026,149824,3,0.02
+Glen Eira,3 bedroom,Jun 2026,149824,7,0.05
+Glen Eira,4+ bedroom,Jun 2026,149824,3,0.02
+Glen Eira,All properties,Jun 2026,149824,16,0.11
+Greater Dandenong,1 bedroom,Jun 2026,163976,0,0.0
+Greater Dandenong,2 bedroom,Jun 2026,163976,5,0.03
+Greater Dandenong,3 bedroom,Jun 2026,163976,16,0.1
+Greater Dandenong,4+ bedroom,Jun 2026,163976,8,0.05
+Greater Dandenong,All properties,Jun 2026,163976,29,0.18
+Greater Geelong,1 bedroom,Jun 2026,270204,4,0.01
+Greater Geelong,2 bedroom,Jun 2026,270204,33,0.12
+Greater Geelong,3 bedroom,Jun 2026,270204,171,0.63
+Greater Geelong,4+ bedroom,Jun 2026,270204,236,0.87
+Greater Geelong,All properties,Jun 2026,270204,444,1.64
+Hobsons Bay,1 bedroom,Jun 2026,87955,0,0.0
+Hobsons Bay,2 bedroom,Jun 2026,87955,6,0.07
+Hobsons Bay,3 bedroom,Jun 2026,87955,14,0.16
+Hobsons Bay,4+ bedroom,Jun 2026,87955,7,0.08
+Hobsons Bay,All properties,Jun 2026,87955,27,0.31
+Hume,1 bedroom,Jun 2026,244363,1,0.0
+Hume,2 bedroom,Jun 2026,244363,7,0.03
+Hume,3 bedroom,Jun 2026,244363,123,0.5
+Hume,4+ bedroom,Jun 2026,244363,381,1.56
+Hume,All properties,Jun 2026,244363,512,2.1
+Kingston,1 bedroom,Jun 2026,155518,0,0.0
+Kingston,2 bedroom,Jun 2026,155518,3,0.02
+Kingston,3 bedroom,Jun 2026,155518,4,0.03
+Kingston,4+ bedroom,Jun 2026,155518,2,0.01
+Kingston,All properties,Jun 2026,155518,9,0.06
+Knox,1 bedroom,Jun 2026,155469,2,0.01
+Knox,2 bedroom,Jun 2026,155469,5,0.03
+Knox,3 bedroom,Jun 2026,155469,3,0.02
+Knox,4+ bedroom,Jun 2026,155469,2,0.01
+Knox,All properties,Jun 2026,155469,12,0.08
+Macedon Ranges,1 bedroom,Jun 2026,51178,1,0.02
+Macedon Ranges,2 bedroom,Jun 2026,51178,0,0.0
+Macedon Ranges,3 bedroom,Jun 2026,51178,4,0.08
+Macedon Ranges,4+ bedroom,Jun 2026,51178,4,0.08
+Macedon Ranges,All properties,Jun 2026,51178,9,0.18
+Manningham,1 bedroom,Jun 2026,125820,0,0.0
+Manningham,2 bedroom,Jun 2026,125820,0,0.0
+Manningham,3 bedroom,Jun 2026,125820,1,0.01
+Manningham,4+ bedroom,Jun 2026,125820,2,0.02
+Manningham,All properties,Jun 2026,125820,3,0.02
+Maribyrnong,1 bedroom,Jun 2026,85206,3,0.04
+Maribyrnong,2 bedroom,Jun 2026,85206,3,0.04
+Maribyrnong,3 bedroom,Jun 2026,85206,8,0.09
+Maribyrnong,4+ bedroom,Jun 2026,85206,2,0.02
+Maribyrnong,All properties,Jun 2026,85206,16,0.19
+Maroondah,1 bedroom,Jun 2026,113640,1,0.01
+Maroondah,2 bedroom,Jun 2026,113640,3,0.03
+Maroondah,3 bedroom,Jun 2026,113640,1,0.01
+Maroondah,4+ bedroom,Jun 2026,113640,1,0.01
+Maroondah,All properties,Jun 2026,113640,6,0.05
+Melbourne,1 bedroom,Jun 2026,164810,32,0.19
+Melbourne,2 bedroom,Jun 2026,164810,30,0.18
+Melbourne,3 bedroom,Jun 2026,164810,50,0.3
+Melbourne,4+ bedroom,Jun 2026,164810,7,0.04
+Melbourne,All properties,Jun 2026,164810,119,0.72
+Melton,1 bedroom,Jun 2026,196768,2,0.01
+Melton,2 bedroom,Jun 2026,196768,12,0.06
+Melton,3 bedroom,Jun 2026,196768,508,2.58
+Melton,4+ bedroom,Jun 2026,196768,1060,5.39
+Melton,All properties,Jun 2026,196768,1582,8.04
+Merri-bek,1 bedroom,Jun 2026,171167,4,0.02
+Merri-bek,2 bedroom,Jun 2026,171167,15,0.09
+Merri-bek,3 bedroom,Jun 2026,171167,7,0.04
+Merri-bek,4+ bedroom,Jun 2026,171167,5,0.03
+Merri-bek,All properties,Jun 2026,171167,31,0.18
+Mitchell,1 bedroom,Jun 2026,48698,0,0.0
+Mitchell,2 bedroom,Jun 2026,48698,5,0.1
+Mitchell,3 bedroom,Jun 2026,48698,52,1.07
+Mitchell,4+ bedroom,Jun 2026,48698,210,4.31
+Mitchell,All properties,Jun 2026,48698,267,5.48
+Monash,1 bedroom,Jun 2026,190152,0,0.0
+Monash,2 bedroom,Jun 2026,190152,2,0.01
+Monash,3 bedroom,Jun 2026,190152,9,0.05
+Monash,4+ bedroom,Jun 2026,190152,15,0.08
+Monash,All properties,Jun 2026,190152,26,0.14
+Moonee Valley,1 bedroom,Jun 2026,111830,2,0.02
+Moonee Valley,2 bedroom,Jun 2026,111830,2,0.02
+Moonee Valley,3 bedroom,Jun 2026,111830,2,0.02
+Moonee Valley,4+ bedroom,Jun 2026,111830,3,0.03
+Moonee Valley,All properties,Jun 2026,111830,9,0.08
+Moorabool,1 bedroom,Jun 2026,38759,0,0.0
+Moorabool,2 bedroom,Jun 2026,38759,4,0.1
+Moorabool,3 bedroom,Jun 2026,38759,24,0.62
+Moorabool,4+ bedroom,Jun 2026,38759,54,1.39
+Moorabool,All properties,Jun 2026,38759,82,2.12
+Mornington Penin'a,1 bedroom,Jun 2026,169036,0,0.0
+Mornington Penin'a,2 bedroom,Jun 2026,169036,0,0.0
+Mornington Penin'a,3 bedroom,Jun 2026,169036,9,0.05
+Mornington Penin'a,4+ bedroom,Jun 2026,169036,4,0.02
+Mornington Penin'a,All properties,Jun 2026,169036,13,0.08
+Murrindindi,1 bedroom,Jun 2026,14098,0,0.0
+Murrindindi,2 bedroom,Jun 2026,14098,3,0.21
+Murrindindi,3 bedroom,Jun 2026,14098,8,0.57
+Murrindindi,4+ bedroom,Jun 2026,14098,5,0.35
+Murrindindi,All properties,Jun 2026,14098,16,1.13
+Nillumbik,1 bedroom,Jun 2026,79361,1,0.01
+Nillumbik,2 bedroom,Jun 2026,79361,0,0.0
+Nillumbik,3 bedroom,Jun 2026,79361,4,0.05
+Nillumbik,4+ bedroom,Jun 2026,79361,10,0.13
+Nillumbik,All properties,Jun 2026,79361,15,0.19
+Port Phillip,1 bedroom,Jun 2026,95799,2,0.02
+Port Phillip,2 bedroom,Jun 2026,95799,8,0.08
+Port Phillip,3 bedroom,Jun 2026,95799,4,0.04
+Port Phillip,4+ bedroom,Jun 2026,95799,2,0.02
+Port Phillip,All properties,Jun 2026,95799,16,0.17
+South Gippsland,1 bedroom,Jun 2026,31102,0,0.0
+South Gippsland,2 bedroom,Jun 2026,31102,4,0.13
+South Gippsland,3 bedroom,Jun 2026,31102,29,0.93
+South Gippsland,4+ bedroom,Jun 2026,31102,6,0.19
+South Gippsland,All properties,Jun 2026,31102,39,1.25
+Stonnington,1 bedroom,Jun 2026,100680,0,0.0
+Stonnington,2 bedroom,Jun 2026,100680,6,0.06
+Stonnington,3 bedroom,Jun 2026,100680,4,0.04
+Stonnington,4+ bedroom,Jun 2026,100680,4,0.04
+Stonnington,All properties,Jun 2026,100680,14,0.14
+Whitehorse,1 bedroom,Jun 2026,169315,2,0.01
+Whitehorse,2 bedroom,Jun 2026,169315,6,0.04
+Whitehorse,3 bedroom,Jun 2026,169315,6,0.04
+Whitehorse,4+ bedroom,Jun 2026,169315,6,0.04
+Whitehorse,All properties,Jun 2026,169315,20,0.12
+Whittlesea,1 bedroom,Jun 2026,214370,0,0.0
+Whittlesea,2 bedroom,Jun 2026,214370,4,0.02
+Whittlesea,3 bedroom,Jun 2026,214370,66,0.31
+Whittlesea,4+ bedroom,Jun 2026,214370,303,1.41
+Whittlesea,All properties,Jun 2026,214370,373,1.74
+Wyndham,1 bedroom,Jun 2026,275614,4,0.01
+Wyndham,2 bedroom,Jun 2026,275614,15,0.05
+Wyndham,3 bedroom,Jun 2026,275614,572,2.08
+Wyndham,4+ bedroom,Jun 2026,275614,1201,4.36
+Wyndham,All properties,Jun 2026,275614,1792,6.5
+Yarra,1 bedroom,Jun 2026,90628,1,0.01
+Yarra,2 bedroom,Jun 2026,90628,5,0.06
+Yarra,3 bedroom,Jun 2026,90628,5,0.06
+Yarra,4+ bedroom,Jun 2026,90628,1,0.01
+Yarra,All properties,Jun 2026,90628,12,0.13
+Yarra Ranges,1 bedroom,Jun 2026,159852,1,0.01
+Yarra Ranges,2 bedroom,Jun 2026,159852,3,0.02
+Yarra Ranges,3 bedroom,Jun 2026,159852,3,0.02
+Yarra Ranges,4+ bedroom,Jun 2026,159852,4,0.03
+Yarra Ranges,All properties,Jun 2026,159852,11,0.07
