@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20387,Bullengarook,,no_eligible_route
+20003,Aberfeldie,20387,Bullengarook,,no_eligible_route
+20011,Aintree,20387,Bullengarook,,no_eligible_route
+20015,Airport West,20387,Bullengarook,,no_eligible_route
+20017,Albanvale,20387,Bullengarook,,no_eligible_route
+20018,Albert Park (Vic.),20387,Bullengarook,,no_eligible_route
+20021,Albion (Vic.),20387,Bullengarook,,no_eligible_route
+20034,Alphington,20387,Bullengarook,,no_eligible_route
+20035,Altona (Vic.),20387,Bullengarook,,no_eligible_route
+20036,Altona Meadows,20387,Bullengarook,,no_eligible_route
+20037,Altona North,20387,Bullengarook,,no_eligible_route
+20062,Ardeer,20387,Bullengarook,,no_eligible_route
+20066,Armadale (Vic.),20387,Bullengarook,,no_eligible_route
+20071,Arthurs Creek,20387,Bullengarook,,no_eligible_route
+20072,Arthurs Seat,20387,Bullengarook,,no_eligible_route
+20075,Ascot Vale,20387,Bullengarook,,no_eligible_route
+20077,Ashburton,20387,Bullengarook,,no_eligible_route
+20078,Ashwood,20387,Bullengarook,,no_eligible_route
+20079,Aspendale,20387,Bullengarook,,no_eligible_route
+20080,Aspendale Gardens,20387,Bullengarook,,no_eligible_route
+20082,Attwood,20387,Bullengarook,,no_eligible_route
+20089,Avondale Heights,20387,Bullengarook,,no_eligible_route
+20091,Avonsleigh,20387,Bullengarook,,no_eligible_route
+20095,Bacchus Marsh,20387,Bullengarook,,no_eligible_route
+20097,Badger Creek,20387,Bullengarook,,no_eligible_route
+20105,Balaclava (Vic.),20387,Bullengarook,,no_eligible_route
+20120,Balnarring,20387,Bullengarook,,no_eligible_route
+20121,Balnarring Beach,20387,Bullengarook,,no_eligible_route
+20123,Balwyn,20387,Bullengarook,,no_eligible_route
+20124,Balwyn North,20387,Bullengarook,,no_eligible_route
+20131,Bangholme,20387,Bullengarook,,no_eligible_route
+20169,Baxter,20387,Bullengarook,,no_eligible_route
+20171,Bayles,20387,Bullengarook,,no_eligible_route
+20173,Bayswater (Vic.),20387,Bullengarook,,no_eligible_route
+20174,Bayswater North,20387,Bullengarook,,no_eligible_route
+20175,Beaconsfield (Vic.),20387,Bullengarook,,no_eligible_route
+20176,Beaconsfield Upper,20387,Bullengarook,,no_eligible_route
+20182,Beaumaris (Vic.),20387,Bullengarook,,no_eligible_route
+20187,Beenak,20387,Bullengarook,,no_eligible_route
+20188,Belgrave,20387,Bullengarook,,no_eligible_route
+20189,Belgrave Heights,20387,Bullengarook,,no_eligible_route
+20190,Belgrave South,20387,Bullengarook,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20387,Bullengarook,,no_eligible_route
+20207,Bend Of Islands,20387,Bullengarook,,no_eligible_route
+20212,Benloch,20387,Bullengarook,,no_eligible_route
+20214,Bentleigh,20387,Bullengarook,,no_eligible_route
+20215,Bentleigh East,20387,Bullengarook,,no_eligible_route
+20224,Berwick,20387,Bullengarook,,no_eligible_route
+20233,Beveridge,20387,Bullengarook,,no_eligible_route
+20237,Big Pats Creek,20387,Bullengarook,,no_eligible_route
+20248,Bittern,20387,Bullengarook,,no_eligible_route
+20251,Black Rock (Vic.),20387,Bullengarook,,no_eligible_route
+20252,Blackburn,20387,Bullengarook,,no_eligible_route
+20253,Blackburn North,20387,Bullengarook,,no_eligible_route
+20254,Blackburn South,20387,Bullengarook,,no_eligible_route
+20257,Blairgowrie,20387,Bullengarook,,no_eligible_route
+20260,Blind Bight,20387,Bullengarook,,no_eligible_route
+20272,Bolinda,20387,Bullengarook,,no_eligible_route
+20278,Bonbeach,20387,Bullengarook,,no_eligible_route
+20280,Boneo,20387,Bullengarook,,no_eligible_route
+20282,Bonnie Brook,20387,Bullengarook,,no_eligible_route
+20304,Boronia,20387,Bullengarook,,no_eligible_route
+20307,Botanic Ridge,20387,Bullengarook,,no_eligible_route
+20314,Box Hill (Vic.),20387,Bullengarook,,no_eligible_route
+20315,Box Hill North,20387,Bullengarook,,no_eligible_route
+20316,Box Hill South,20387,Bullengarook,,no_eligible_route
+20320,Braeside,20387,Bullengarook,,no_eligible_route
+20324,Braybrook,20387,Bullengarook,,no_eligible_route
+20331,Briar Hill,20387,Bullengarook,,no_eligible_route
+20337,Brighton (Vic.),20387,Bullengarook,,no_eligible_route
+20338,Brighton East,20387,Bullengarook,,no_eligible_route
+20346,Broadmeadows (Vic.),20387,Bullengarook,,no_eligible_route
+20351,Brookfield (Vic.),20387,Bullengarook,,no_eligible_route
+20352,Brooklyn (Vic.),20387,Bullengarook,,no_eligible_route
+20361,Brunswick (Vic.),20387,Bullengarook,,no_eligible_route
+20362,Brunswick East,20387,Bullengarook,,no_eligible_route
+20363,Brunswick West,20387,Bullengarook,,no_eligible_route
+20381,Bulla (Vic.),20387,Bullengarook,,no_eligible_route
+20386,Bulleen,20387,Bullengarook,,no_eligible_route
+20387,Bullengarook,20387,Bullengarook,0.0,same_centroid
+20399,Bundoora (Vic.),20387,Bullengarook,,no_eligible_route
+20411,Bunyip,20387,Bullengarook,,no_eligible_route
+20412,Bunyip North,20387,Bullengarook,,no_eligible_route
+20418,Burnley,20387,Bullengarook,,no_eligible_route
+20419,Burnside (Vic.),20387,Bullengarook,,no_eligible_route
+20420,Burnside Heights,20387,Bullengarook,,no_eligible_route
+20426,Burwood (Vic.),20387,Bullengarook,,no_eligible_route
+20427,Burwood East,20387,Bullengarook,,no_eligible_route
+20435,Bylands,20387,Bullengarook,,no_eligible_route
+20441,Cairnlea,20387,Bullengarook,,no_eligible_route
+20442,Calder Park,20387,Bullengarook,,no_eligible_route
+20443,Caldermeade,20387,Bullengarook,,no_eligible_route
+20453,Camberwell (Vic.),20387,Bullengarook,,no_eligible_route
+20455,Campbellfield,20387,Bullengarook,,no_eligible_route
+20466,Cannons Creek,20387,Bullengarook,,no_eligible_route
+20468,Canterbury (Vic.),20387,Bullengarook,,no_eligible_route
+20474,Cape Schanck,20387,Bullengarook,,no_eligible_route
+20476,Capel Sound,20387,Bullengarook,,no_eligible_route
+20487,Cardinia,20387,Bullengarook,,no_eligible_route
+20495,Carlton (Vic.),20387,Bullengarook,,no_eligible_route
+20496,Carlton North,20387,Bullengarook,,no_eligible_route
+20498,Carnegie,20387,Bullengarook,,no_eligible_route
+20500,Caroline Springs,20387,Bullengarook,,no_eligible_route
+20507,Carrum,20387,Bullengarook,,no_eligible_route
+20508,Carrum Downs,20387,Bullengarook,,no_eligible_route
+20512,Castella,20387,Bullengarook,,no_eligible_route
+20517,Catani,20387,Bullengarook,,no_eligible_route
+20521,Caulfield,20387,Bullengarook,,no_eligible_route
+20522,Caulfield East,20387,Bullengarook,,no_eligible_route
+20523,Caulfield North,20387,Bullengarook,,no_eligible_route
+20524,Caulfield South,20387,Bullengarook,,no_eligible_route
+20528,Chadstone,20387,Bullengarook,,no_eligible_route
+20537,Chelsea,20387,Bullengarook,,no_eligible_route
+20538,Chelsea Heights,20387,Bullengarook,,no_eligible_route
+20539,Cheltenham (Vic.),20387,Bullengarook,,no_eligible_route
+20541,Cherokee,20387,Bullengarook,,no_eligible_route
+20555,Chintin,20387,Bullengarook,,no_eligible_route
+20556,Chirnside Park,20387,Bullengarook,,no_eligible_route
+20559,Christmas Hills (Vic.),20387,Bullengarook,,no_eligible_route
+20560,Chum Creek,20387,Bullengarook,,no_eligible_route
+20566,Clarinda,20387,Bullengarook,,no_eligible_route
+20567,Clarkefield,20387,Bullengarook,,no_eligible_route
+20569,Clayton,20387,Bullengarook,,no_eligible_route
+20570,Clayton South,20387,Bullengarook,,no_eligible_route
+20572,Clematis,20387,Bullengarook,,no_eligible_route
+20574,Clifton Hill,20387,Bullengarook,,no_eligible_route
+20576,Clonbinane,20387,Bullengarook,,no_eligible_route
+20581,Clyde (Vic.),20387,Bullengarook,,no_eligible_route
+20582,Clyde North,20387,Bullengarook,,no_eligible_route
+20587,Cobaw,20387,Bullengarook,,no_eligible_route
+20590,Cobblebank,20387,Bullengarook,,no_eligible_route
+20596,Coburg,20387,Bullengarook,,no_eligible_route
+20597,Coburg North,20387,Bullengarook,,no_eligible_route
+20600,Cockatoo (Vic.),20387,Bullengarook,,no_eligible_route
+20601,Cocoroc,20387,Bullengarook,,no_eligible_route
+20605,Coimadai,20387,Bullengarook,,no_eligible_route
+20613,Coldstream (Vic.),20387,Bullengarook,,no_eligible_route
+20616,Collingwood (Vic.),20387,Bullengarook,,no_eligible_route
+20624,Coolaroo,20387,Bullengarook,,no_eligible_route
+20633,Cora Lynn,20387,Bullengarook,,no_eligible_route
+20654,Cottles Bridge,20387,Bullengarook,,no_eligible_route
+20661,Craigieburn,20387,Bullengarook,,no_eligible_route
+20662,Cranbourne,20387,Bullengarook,,no_eligible_route
+20663,Cranbourne East,20387,Bullengarook,,no_eligible_route
+20664,Cranbourne North,20387,Bullengarook,,no_eligible_route
+20665,Cranbourne South,20387,Bullengarook,,no_eligible_route
+20666,Cranbourne West,20387,Bullengarook,,no_eligible_route
+20670,Cremorne (Vic.),20387,Bullengarook,,no_eligible_route
+20674,Crib Point,20387,Bullengarook,,no_eligible_route
+20682,Croydon (Vic.),20387,Bullengarook,,no_eligible_route
+20683,Croydon Hills,20387,Bullengarook,,no_eligible_route
+20684,Croydon North,20387,Bullengarook,,no_eligible_route
+20685,Croydon South,20387,Bullengarook,,no_eligible_route
+20702,Dallas,20387,Bullengarook,,no_eligible_route
+20703,Dalmore,20387,Bullengarook,,no_eligible_route
+20707,Dandenong,20387,Bullengarook,,no_eligible_route
+20708,Dandenong North,20387,Bullengarook,,no_eligible_route
+20709,Dandenong South,20387,Bullengarook,,no_eligible_route
+20712,Darley,20387,Bullengarook,,no_eligible_route
+20716,Darraweit Guim,20387,Bullengarook,,no_eligible_route
+20724,Deanside,20387,Bullengarook,,no_eligible_route
+20728,Deepdene (Vic.),20387,Bullengarook,,no_eligible_route
+20729,Deer Park,20387,Bullengarook,,no_eligible_route
+20731,Delahey,20387,Bullengarook,,no_eligible_route
+20743,Derrimut,20387,Bullengarook,,no_eligible_route
+20748,Devon Meadows,20387,Bullengarook,,no_eligible_route
+20750,Dewhurst,20387,Bullengarook,,no_eligible_route
+20752,Diamond Creek,20387,Bullengarook,,no_eligible_route
+20754,Diggers Rest,20387,Bullengarook,,no_eligible_route
+20758,Dingley Village,20387,Bullengarook,,no_eligible_route
+20762,Dixons Creek,20387,Bullengarook,,no_eligible_route
+20766,Docklands,20387,Bullengarook,,no_eligible_route
+20769,Don Valley,20387,Bullengarook,,no_eligible_route
+20771,Doncaster,20387,Bullengarook,,no_eligible_route
+20772,Doncaster East,20387,Bullengarook,,no_eligible_route
+20773,Donnybrook (Vic.),20387,Bullengarook,,no_eligible_route
+20774,Donvale,20387,Bullengarook,,no_eligible_route
+20779,Doreen,20387,Bullengarook,,no_eligible_route
+20783,Doveton,20387,Bullengarook,,no_eligible_route
+20788,Dromana,20387,Bullengarook,,no_eligible_route
+20825,Eaglemont,20387,Bullengarook,,no_eligible_route
+20830,East Melbourne,20387,Bullengarook,,no_eligible_route
+20833,East Warburton,20387,Bullengarook,,no_eligible_route
+20843,Eden Park,20387,Bullengarook,,no_eligible_route
+20848,Edithvale,20387,Bullengarook,,no_eligible_route
+20864,Elsternwick,20387,Bullengarook,,no_eligible_route
+20865,Eltham (Vic.),20387,Bullengarook,,no_eligible_route
+20866,Eltham North,20387,Bullengarook,,no_eligible_route
+20867,Elwood,20387,Bullengarook,,no_eligible_route
+20868,Emerald (Vic.),20387,Bullengarook,,no_eligible_route
+20871,Endeavour Hills,20387,Bullengarook,,no_eligible_route
+20878,Epping (Vic.),20387,Bullengarook,,no_eligible_route
+20885,Essendon,20387,Bullengarook,,no_eligible_route
+20886,Essendon Fields,20387,Bullengarook,,no_eligible_route
+20887,Essendon North,20387,Bullengarook,,no_eligible_route
+20888,Essendon West,20387,Bullengarook,,no_eligible_route
+20889,Eumemmerring,20387,Bullengarook,,no_eligible_route
+20898,Exford,20387,Bullengarook,,no_eligible_route
+20899,Eynesbury,20387,Bullengarook,,no_eligible_route
+20901,Fairfield (Vic.),20387,Bullengarook,,no_eligible_route
+20909,Fawkner,20387,Bullengarook,,no_eligible_route
+20916,Fernshaw,20387,Bullengarook,,no_eligible_route
+20917,Ferntree Gully,20387,Bullengarook,,no_eligible_route
+20918,Ferny Creek,20387,Bullengarook,,no_eligible_route
+20920,Fingal (Vic.),20387,Bullengarook,,no_eligible_route
+20924,Fitzroy (Vic.),20387,Bullengarook,,no_eligible_route
+20925,Fitzroy North,20387,Bullengarook,,no_eligible_route
+20929,Flemington,20387,Bullengarook,,no_eligible_route
+20930,Flinders (Vic.),20387,Bullengarook,,no_eligible_route
+20935,Footscray,20387,Bullengarook,,no_eligible_route
+20937,Forest Hill (Vic.),20387,Bullengarook,,no_eligible_route
+20947,Frankston,20387,Bullengarook,,no_eligible_route
+20948,Frankston North,20387,Bullengarook,,no_eligible_route
+20949,Frankston South,20387,Bullengarook,,no_eligible_route
+20950,Fraser Rise,20387,Bullengarook,,no_eligible_route
+20965,Gardenvale,20387,Bullengarook,,no_eligible_route
+20966,Garfield,20387,Bullengarook,,no_eligible_route
+20967,Garfield North,20387,Bullengarook,,no_eligible_route
+20979,Gembrook,20387,Bullengarook,,no_eligible_route
+20995,Gilderoy,20387,Bullengarook,,no_eligible_route
+21001,Gisborne,20387,Bullengarook,144.72,walk_only
+21002,Gisborne South,20387,Bullengarook,226.2,walk_only
+21004,Gladstone Park,20387,Bullengarook,,no_eligible_route
+21005,Gladysdale,20387,Bullengarook,,no_eligible_route
+21009,Glen Huntly,20387,Bullengarook,,no_eligible_route
+21010,Glen Iris (Vic.),20387,Bullengarook,,no_eligible_route
+21013,Glen Waverley,20387,Bullengarook,,no_eligible_route
+21047,Glenroy (Vic.),20387,Bullengarook,,no_eligible_route
+21059,Goldie,20387,Bullengarook,,no_eligible_route
+21079,Gowanbrae,20387,Bullengarook,,no_eligible_route
+21087,Grangefields,20387,Bullengarook,,no_eligible_route
+21104,Greensborough,20387,Bullengarook,,no_eligible_route
+21105,Greenvale (Vic.),20387,Bullengarook,,no_eligible_route
+21115,Gruyere,20387,Bullengarook,,no_eligible_route
+21121,Guys Hill,20387,Bullengarook,,no_eligible_route
+21124,Hadfield,20387,Bullengarook,,no_eligible_route
+21125,Hallam,20387,Bullengarook,,no_eligible_route
+21131,Hampton (Vic.),20387,Bullengarook,,no_eligible_route
+21132,Hampton East,20387,Bullengarook,,no_eligible_route
+21133,Hampton Park,20387,Bullengarook,,no_eligible_route
+21139,Harkaway,20387,Bullengarook,,no_eligible_route
+21140,Harkness,20387,Bullengarook,,no_eligible_route
+21145,Hastings (Vic.),20387,Bullengarook,,no_eligible_route
+21152,Hawthorn (Vic.),20387,Bullengarook,,no_eligible_route
+21153,Hawthorn East,20387,Bullengarook,,no_eligible_route
+21158,Healesville,20387,Bullengarook,,no_eligible_route
+21159,Heath Hill,20387,Bullengarook,,no_eligible_route
+21161,Heathcote Junction,20387,Bullengarook,,no_eligible_route
+21163,Heatherton,20387,Bullengarook,,no_eligible_route
+21165,Heathmont,20387,Bullengarook,,no_eligible_route
+21167,Heidelberg,20387,Bullengarook,,no_eligible_route
+21168,Heidelberg Heights,20387,Bullengarook,,no_eligible_route
+21169,Heidelberg West,20387,Bullengarook,,no_eligible_route
+21176,Hesket,20387,Bullengarook,,no_eligible_route
+21185,Highett,20387,Bullengarook,,no_eligible_route
+21193,Hillside (Melton - Vic.),20387,Bullengarook,,no_eligible_route
+21195,Hmas Cerberus,20387,Bullengarook,,no_eligible_route
+21196,Hoddles Creek,20387,Bullengarook,,no_eligible_route
+21202,Hopetoun Park,20387,Bullengarook,,no_eligible_route
+21203,Hoppers Crossing,20387,Bullengarook,,no_eligible_route
+21214,Hughesdale,20387,Bullengarook,,no_eligible_route
+21215,Humevale,20387,Bullengarook,,no_eligible_route
+21218,Huntingdale (Vic.),20387,Bullengarook,,no_eligible_route
+21223,Hurstbridge,20387,Bullengarook,,no_eligible_route
+21238,Iona,20387,Bullengarook,,no_eligible_route
+21246,Ivanhoe (Vic.),20387,Bullengarook,,no_eligible_route
+21247,Ivanhoe East,20387,Bullengarook,,no_eligible_route
+21248,Jacana,20387,Bullengarook,,no_eligible_route
+21277,Junction Village,20387,Bullengarook,,no_eligible_route
+21284,Kalkallo,20387,Bullengarook,,no_eligible_route
+21286,Kallista,20387,Bullengarook,,no_eligible_route
+21287,Kalorama,20387,Bullengarook,,no_eligible_route
+21294,Kangaroo Ground,20387,Bullengarook,,no_eligible_route
+21312,Kealba,20387,Bullengarook,,no_eligible_route
+21314,Keilor,20387,Bullengarook,,no_eligible_route
+21315,Keilor Downs,20387,Bullengarook,,no_eligible_route
+21316,Keilor East,20387,Bullengarook,,no_eligible_route
+21317,Keilor Lodge,20387,Bullengarook,,no_eligible_route
+21318,Keilor North,20387,Bullengarook,,no_eligible_route
+21319,Keilor Park,20387,Bullengarook,,no_eligible_route
+21327,Kensington (Vic.),20387,Bullengarook,,no_eligible_route
+21333,Kerrie,20387,Bullengarook,,no_eligible_route
+21336,Kew (Vic.),20387,Bullengarook,,no_eligible_route
+21337,Kew East,20387,Bullengarook,,no_eligible_route
+21339,Keysborough,20387,Bullengarook,,no_eligible_route
+21354,Kilsyth,20387,Bullengarook,,no_eligible_route
+21355,Kilsyth South,20387,Bullengarook,,no_eligible_route
+21358,Kinglake,20387,Bullengarook,,no_eligible_route
+21359,Kinglake Central,20387,Bullengarook,,no_eligible_route
+21360,Kinglake West,20387,Bullengarook,,no_eligible_route
+21362,Kings Park (Vic.),20387,Bullengarook,,no_eligible_route
+21363,Kingsbury,20387,Bullengarook,,no_eligible_route
+21365,Kingsville,20387,Bullengarook,,no_eligible_route
+21374,Knoxfield,20387,Bullengarook,,no_eligible_route
+21380,Koo Wee Rup,20387,Bullengarook,,no_eligible_route
+21381,Koo Wee Rup North,20387,Bullengarook,,no_eligible_route
+21393,Kooyong,20387,Bullengarook,,no_eligible_route
+21411,Kurunjang,20387,Bullengarook,,no_eligible_route
+21452,Lalor,20387,Bullengarook,,no_eligible_route
+21456,Lancefield,20387,Bullengarook,,no_eligible_route
+21459,Lang Lang,20387,Bullengarook,,no_eligible_route
+21460,Lang Lang East,20387,Bullengarook,,no_eligible_route
+21467,Langwarrin,20387,Bullengarook,,no_eligible_route
+21468,Langwarrin South,20387,Bullengarook,,no_eligible_route
+21473,Launching Place,20387,Bullengarook,,no_eligible_route
+21476,Laverton (Vic.),20387,Bullengarook,,no_eligible_route
+21477,Laverton North,20387,Bullengarook,,no_eligible_route
+21504,Lilydale (Vic.),20387,Bullengarook,,no_eligible_route
+21533,Long Forest,20387,Bullengarook,,no_eligible_route
+21547,Lower Plenty,20387,Bullengarook,,no_eligible_route
+21554,Lynbrook,20387,Bullengarook,,no_eligible_route
+21555,Lyndhurst (Vic.),20387,Bullengarook,,no_eligible_route
+21558,Lysterfield,20387,Bullengarook,,no_eligible_route
+21559,Lysterfield South,20387,Bullengarook,,no_eligible_route
+21561,Macclesfield (Vic.),20387,Bullengarook,,no_eligible_route
+21562,Macedon,20387,Bullengarook,172.7,walk_only
+21564,Macleod (Vic.),20387,Bullengarook,,no_eligible_route
+21569,Maddingley,20387,Bullengarook,,no_eligible_route
+21575,Maidstone,20387,Bullengarook,,no_eligible_route
+21578,Main Ridge,20387,Bullengarook,,no_eligible_route
+21586,Malvern (Vic.),20387,Bullengarook,,no_eligible_route
+21587,Malvern East,20387,Bullengarook,,no_eligible_route
+21588,Mambourin,20387,Bullengarook,,no_eligible_route
+21597,Manor Lakes,20387,Bullengarook,,no_eligible_route
+21604,Maribyrnong,20387,Bullengarook,,no_eligible_route
+21619,Maryknoll,20387,Bullengarook,,no_eligible_route
+21625,McCrae,20387,Bullengarook,,no_eligible_route
+21629,McKinnon,20387,Bullengarook,,no_eligible_route
+21635,Meadow Heights,20387,Bullengarook,,no_eligible_route
+21640,Melbourne,20387,Bullengarook,,no_eligible_route
+21641,Melbourne Airport,20387,Bullengarook,,no_eligible_route
+21642,Melton (Vic.),20387,Bullengarook,,no_eligible_route
+21643,Melton South,20387,Bullengarook,,no_eligible_route
+21644,Melton West,20387,Bullengarook,,no_eligible_route
+21648,Mentone,20387,Bullengarook,,no_eligible_route
+21649,Menzies Creek,20387,Bullengarook,,no_eligible_route
+21659,Mernda,20387,Bullengarook,,no_eligible_route
+21662,Merricks,20387,Bullengarook,,no_eligible_route
+21663,Merricks Beach,20387,Bullengarook,,no_eligible_route
+21664,Merricks North,20387,Bullengarook,,no_eligible_route
+21668,Merrimu,20387,Bullengarook,,no_eligible_route
+21675,Mickleham,20387,Bullengarook,,no_eligible_route
+21677,Middle Park (Vic.),20387,Bullengarook,,no_eligible_route
+21683,Mill Park,20387,Bullengarook,,no_eligible_route
+21685,Millgrove,20387,Bullengarook,,no_eligible_route
+21706,Mitcham (Vic.),20387,Bullengarook,,no_eligible_route
+21727,Monbulk,20387,Bullengarook,,no_eligible_route
+21728,Monegeetta,20387,Bullengarook,,no_eligible_route
+21731,Monomeith,20387,Bullengarook,,no_eligible_route
+21732,Mont Albert,20387,Bullengarook,,no_eligible_route
+21733,Mont Albert North,20387,Bullengarook,,no_eligible_route
+21735,Montmorency,20387,Bullengarook,,no_eligible_route
+21736,Montrose (Vic.),20387,Bullengarook,,no_eligible_route
+21742,Moonee Ponds,20387,Bullengarook,,no_eligible_route
+21746,Moorabbin,20387,Bullengarook,,no_eligible_route
+21747,Moorabbin Airport,20387,Bullengarook,,no_eligible_route
+21754,Moorooduc,20387,Bullengarook,,no_eligible_route
+21755,Mooroolbark,20387,Bullengarook,,no_eligible_route
+21760,Mordialloc,20387,Bullengarook,,no_eligible_route
+21763,Mornington (Vic.),20387,Bullengarook,,no_eligible_route
+21779,Mount Burnett,20387,Bullengarook,,no_eligible_route
+21786,Mount Cottrell,20387,Bullengarook,,no_eligible_route
+21787,Mount Dandenong,20387,Bullengarook,,no_eligible_route
+21793,Mount Eliza,20387,Bullengarook,,no_eligible_route
+21795,Mount Evelyn,20387,Bullengarook,,no_eligible_route
+21801,Mount Macedon,20387,Bullengarook,,no_eligible_route
+21803,Mount Martha,20387,Bullengarook,,no_eligible_route
+21814,Mount Toolebewong,20387,Bullengarook,,no_eligible_route
+21816,Mount Waverley,20387,Bullengarook,,no_eligible_route
+21827,Mulgrave (Vic.),20387,Bullengarook,,no_eligible_route
+21849,Murrumbeena,20387,Bullengarook,,no_eligible_route
+21872,Nangana,20387,Bullengarook,,no_eligible_route
+21878,Nar Nar Goon,20387,Bullengarook,,no_eligible_route
+21879,Nar Nar Goon North,20387,Bullengarook,,no_eligible_route
+21893,Narre Warren,20387,Bullengarook,,no_eligible_route
+21894,Narre Warren East,20387,Bullengarook,,no_eligible_route
+21895,Narre Warren North,20387,Bullengarook,,no_eligible_route
+21896,Narre Warren South,20387,Bullengarook,,no_eligible_route
+21921,New Gisborne,20387,Bullengarook,191.35,walk_only
+21934,Newport (Vic.),20387,Bullengarook,,no_eligible_route
+21942,Niddrie,20387,Bullengarook,,no_eligible_route
+21952,Noble Park,20387,Bullengarook,,no_eligible_route
+21953,Noble Park North,20387,Bullengarook,,no_eligible_route
+21966,North Melbourne,20387,Bullengarook,,no_eligible_route
+21969,North Warrandyte,20387,Bullengarook,,no_eligible_route
+21971,Northcote,20387,Bullengarook,,no_eligible_route
+21974,Notting Hill,20387,Bullengarook,,no_eligible_route
+21985,Nunawading,20387,Bullengarook,,no_eligible_route
+21991,Nutfield,20387,Bullengarook,,no_eligible_route
+21998,Oak Park,20387,Bullengarook,,no_eligible_route
+21999,Oaklands Junction,20387,Bullengarook,,no_eligible_route
+22000,Oakleigh,20387,Bullengarook,,no_eligible_route
+22001,Oakleigh East,20387,Bullengarook,,no_eligible_route
+22002,Oakleigh South,20387,Bullengarook,,no_eligible_route
+22006,Officer,20387,Bullengarook,,no_eligible_route
+22007,Officer South,20387,Bullengarook,,no_eligible_route
+22009,Olinda (Vic.),20387,Bullengarook,,no_eligible_route
+22016,Ormond,20387,Bullengarook,,no_eligible_route
+22027,Pakenham,20387,Bullengarook,,no_eligible_route
+22028,Pakenham South,20387,Bullengarook,,no_eligible_route
+22029,Pakenham Upper,20387,Bullengarook,,no_eligible_route
+22032,Panton Hill,20387,Bullengarook,,no_eligible_route
+22036,Park Orchards,20387,Bullengarook,,no_eligible_route
+22037,Parkdale,20387,Bullengarook,,no_eligible_route
+22038,Parkville (Vic.),20387,Bullengarook,,no_eligible_route
+22041,Pascoe Vale,20387,Bullengarook,,no_eligible_route
+22042,Pascoe Vale South,20387,Bullengarook,,no_eligible_route
+22047,Patterson Lakes,20387,Bullengarook,,no_eligible_route
+22050,Pearcedale,20387,Bullengarook,,no_eligible_route
+22058,Pentland Hills,20387,Bullengarook,,no_eligible_route
+22064,Pheasant Creek (Vic.),20387,Bullengarook,,no_eligible_route
+22084,Plenty (Vic.),20387,Bullengarook,,no_eligible_route
+22085,Plumpton (Vic.),20387,Bullengarook,,no_eligible_route
+22086,Point Cook,20387,Bullengarook,,no_eligible_route
+22087,Point Leo,20387,Bullengarook,,no_eligible_route
+22107,Port Melbourne,20387,Bullengarook,,no_eligible_route
+22113,Portsea,20387,Bullengarook,,no_eligible_route
+22115,Powelltown,20387,Bullengarook,,no_eligible_route
+22118,Prahran,20387,Bullengarook,,no_eligible_route
+22121,Preston (Vic.),20387,Bullengarook,,no_eligible_route
+22122,Princes Hill,20387,Bullengarook,,no_eligible_route
+22132,Quandong,20387,Bullengarook,,no_eligible_route
+22141,Ravenhall,20387,Bullengarook,,no_eligible_route
+22148,Red Hill (Vic.),20387,Bullengarook,,no_eligible_route
+22149,Red Hill South,20387,Bullengarook,,no_eligible_route
+22160,Research,20387,Bullengarook,,no_eligible_route
+22161,Reservoir (Vic.),20387,Bullengarook,,no_eligible_route
+22170,Richmond (Vic.),20387,Bullengarook,,no_eligible_route
+22172,Riddells Creek,20387,Bullengarook,,no_eligible_route
+22174,Ringwood (Vic.),20387,Bullengarook,,no_eligible_route
+22175,Ringwood East,20387,Bullengarook,,no_eligible_route
+22176,Ringwood North,20387,Bullengarook,,no_eligible_route
+22179,Ripponlea,20387,Bullengarook,,no_eligible_route
+22185,Rochford,20387,Bullengarook,,no_eligible_route
+22186,Rockbank,20387,Bullengarook,,no_eligible_route
+22193,Romsey,20387,Bullengarook,,no_eligible_route
+22194,Rosanna,20387,Bullengarook,,no_eligible_route
+22198,Rosebud,20387,Bullengarook,,no_eligible_route
+22207,Rowville,20387,Bullengarook,,no_eligible_route
+22208,Roxburgh Park,20387,Bullengarook,,no_eligible_route
+22220,Rye,20387,Bullengarook,,no_eligible_route
+22221,Rythdale,20387,Bullengarook,,no_eligible_route
+22222,Safety Beach (Vic.),20387,Bullengarook,,no_eligible_route
+22232,Sandhurst,20387,Bullengarook,,no_eligible_route
+22234,Sandringham (Vic.),20387,Bullengarook,,no_eligible_route
+22239,Sassafras (Vic.),20387,Bullengarook,,no_eligible_route
+22242,Scoresby,20387,Bullengarook,,no_eligible_route
+22247,Seabrook,20387,Bullengarook,,no_eligible_route
+22249,Seaford (Vic.),20387,Bullengarook,,no_eligible_route
+22250,Seaholme,20387,Bullengarook,,no_eligible_route
+22256,Seddon (Vic.),20387,Bullengarook,,no_eligible_route
+22258,Selby,20387,Bullengarook,,no_eligible_route
+22263,Seville,20387,Bullengarook,,no_eligible_route
+22264,Seville East,20387,Bullengarook,,no_eligible_route
+22278,Sherbrooke,20387,Bullengarook,,no_eligible_route
+22279,Shoreham,20387,Bullengarook,,no_eligible_route
+22281,Silvan,20387,Bullengarook,,no_eligible_route
+22291,Skye (Vic.),20387,Bullengarook,,no_eligible_route
+22295,Smiths Gully,20387,Bullengarook,,no_eligible_route
+22303,Somers,20387,Bullengarook,,no_eligible_route
+22304,Somerton (Vic.),20387,Bullengarook,,no_eligible_route
+22305,Somerville (Vic.),20387,Bullengarook,,no_eligible_route
+22306,Sorrento (Vic.),20387,Bullengarook,,no_eligible_route
+22309,South Kingsville,20387,Bullengarook,,no_eligible_route
+22310,South Melbourne,20387,Bullengarook,,no_eligible_route
+22311,South Morang,20387,Bullengarook,,no_eligible_route
+22313,South Wharf,20387,Bullengarook,,no_eligible_route
+22314,South Yarra,20387,Bullengarook,,no_eligible_route
+22315,Southbank,20387,Bullengarook,,no_eligible_route
+22319,Spotswood,20387,Bullengarook,,no_eligible_route
+22325,Springfield (Macedon Ranges - Vic.),20387,Bullengarook,,no_eligible_route
+22328,Springvale (Vic.),20387,Bullengarook,,no_eligible_route
+22329,Springvale South,20387,Bullengarook,,no_eligible_route
+22330,St Albans (Vic.),20387,Bullengarook,,no_eligible_route
+22332,St Andrews (Vic.),20387,Bullengarook,,no_eligible_route
+22333,St Andrews Beach,20387,Bullengarook,,no_eligible_route
+22339,St Helena,20387,Bullengarook,,no_eligible_route
+22343,St Kilda (Vic.),20387,Bullengarook,,no_eligible_route
+22344,St Kilda East,20387,Bullengarook,,no_eligible_route
+22345,St Kilda West,20387,Bullengarook,,no_eligible_route
+22355,Steels Creek,20387,Bullengarook,,no_eligible_route
+22375,Strathewen,20387,Bullengarook,,no_eligible_route
+22380,Strathmore (Vic.),20387,Bullengarook,,no_eligible_route
+22381,Strathmore Heights,20387,Bullengarook,,no_eligible_route
+22382,Strathtulloh,20387,Bullengarook,,no_eligible_route
+22391,Sunbury,20387,Bullengarook,,no_eligible_route
+22395,Sunshine (Vic.),20387,Bullengarook,,no_eligible_route
+22396,Sunshine North,20387,Bullengarook,,no_eligible_route
+22397,Sunshine West,20387,Bullengarook,,no_eligible_route
+22399,Surrey Hills,20387,Bullengarook,,no_eligible_route
+22414,Sydenham (Vic.),20387,Bullengarook,,no_eligible_route
+22451,Tarneit,20387,Bullengarook,,no_eligible_route
+22457,Tarrawarra,20387,Bullengarook,,no_eligible_route
+22473,Taylors Hill,20387,Bullengarook,,no_eligible_route
+22474,Taylors Lakes,20387,Bullengarook,,no_eligible_route
+22476,Tecoma,20387,Bullengarook,,no_eligible_route
+22483,Templestowe,20387,Bullengarook,,no_eligible_route
+22484,Templestowe Lower,20387,Bullengarook,,no_eligible_route
+22496,The Basin (Vic.),20387,Bullengarook,,no_eligible_route
+22501,The Patch,20387,Bullengarook,,no_eligible_route
+22504,Thomastown,20387,Bullengarook,,no_eligible_route
+22508,Thornbury,20387,Bullengarook,,no_eligible_route
+22509,Thornhill Park,20387,Bullengarook,,no_eligible_route
+22514,Three Bridges,20387,Bullengarook,,no_eligible_route
+22531,Tonimbuk,20387,Bullengarook,,no_eligible_route
+22536,Toolangi,20387,Bullengarook,,no_eligible_route
+22537,Toolern Vale,20387,Bullengarook,,no_eligible_route
+22546,Tooradin,20387,Bullengarook,,no_eligible_route
+22547,Toorak,20387,Bullengarook,,no_eligible_route
+22550,Tootgarook,20387,Bullengarook,,no_eligible_route
+22556,Tottenham (Vic.),20387,Bullengarook,,no_eligible_route
+22572,Travancore,20387,Bullengarook,,no_eligible_route
+22576,Tremont,20387,Bullengarook,,no_eligible_route
+22582,Truganina,20387,Bullengarook,,no_eligible_route
+22584,Tuerong,20387,Bullengarook,,no_eligible_route
+22586,Tullamarine,20387,Bullengarook,,no_eligible_route
+22594,Tyabb,20387,Bullengarook,,no_eligible_route
+22598,Tynong,20387,Bullengarook,,no_eligible_route
+22599,Tynong North,20387,Bullengarook,,no_eligible_route
+22614,Upper Ferntree Gully,20387,Bullengarook,,no_eligible_route
+22617,Upper Plenty,20387,Bullengarook,,no_eligible_route
+22620,Upwey,20387,Bullengarook,,no_eligible_route
+22627,Vermont,20387,Bullengarook,,no_eligible_route
+22628,Vermont South,20387,Bullengarook,,no_eligible_route
+22629,Vervale,20387,Bullengarook,,no_eligible_route
+22633,Viewbank,20387,Bullengarook,,no_eligible_route
+22661,Wallan,20387,Bullengarook,,no_eligible_route
+22672,Wandin East,20387,Bullengarook,,no_eligible_route
+22673,Wandin North,20387,Bullengarook,,no_eligible_route
+22676,Wandong,20387,Bullengarook,,no_eligible_route
+22685,Wantirna,20387,Bullengarook,,no_eligible_route
+22686,Wantirna South,20387,Bullengarook,,no_eligible_route
+22689,Warburton (Vic.),20387,Bullengarook,,no_eligible_route
+22695,Warneet,20387,Bullengarook,,no_eligible_route
+22702,Warrandyte,20387,Bullengarook,,no_eligible_route
+22703,Warrandyte South,20387,Bullengarook,,no_eligible_route
+22704,Warranwood,20387,Bullengarook,,no_eligible_route
+22717,Waterford Park,20387,Bullengarook,,no_eligible_route
+22720,Waterways,20387,Bullengarook,,no_eligible_route
+22721,Watsonia,20387,Bullengarook,,no_eligible_route
+22722,Watsonia North,20387,Bullengarook,,no_eligible_route
+22723,Watsons Creek (Vic.),20387,Bullengarook,,no_eligible_route
+22727,Wattle Glen,20387,Bullengarook,,no_eligible_route
+22740,Weir Views,20387,Bullengarook,,no_eligible_route
+22750,Werribee,20387,Bullengarook,,no_eligible_route
+22751,Werribee South,20387,Bullengarook,,no_eligible_route
+22753,Wesburn,20387,Bullengarook,,no_eligible_route
+22756,West Footscray,20387,Bullengarook,,no_eligible_route
+22757,West Melbourne,20387,Bullengarook,,no_eligible_route
+22761,Westmeadows,20387,Bullengarook,,no_eligible_route
+22766,Wheelers Hill,20387,Bullengarook,,no_eligible_route
+22775,Whittlesea,20387,Bullengarook,,no_eligible_route
+22784,Wildwood,20387,Bullengarook,,no_eligible_route
+22791,Williams Landing,20387,Bullengarook,,no_eligible_route
+22792,Williamstown (Vic.),20387,Bullengarook,,no_eligible_route
+22793,Williamstown North,20387,Bullengarook,,no_eligible_route
+22805,Windsor (Vic.),20387,Bullengarook,,no_eligible_route
+22820,Wollert,20387,Bullengarook,,no_eligible_route
+22825,Wonga Park,20387,Bullengarook,,no_eligible_route
+22843,Woodstock (Vic.),20387,Bullengarook,,no_eligible_route
+22857,Woori Yallock,20387,Bullengarook,,no_eligible_route
+22883,Wyndham Vale,20387,Bullengarook,,no_eligible_route
+22892,Yallambie,20387,Bullengarook,,no_eligible_route
+22898,Yan Yean,20387,Bullengarook,,no_eligible_route
+22906,Yannathan,20387,Bullengarook,,no_eligible_route
+22910,Yarra Glen,20387,Bullengarook,,no_eligible_route
+22911,Yarra Junction,20387,Bullengarook,,no_eligible_route
+22916,Yarrambat,20387,Bullengarook,,no_eligible_route
+22917,Yarraville,20387,Bullengarook,,no_eligible_route
+22925,Yellingbo,20387,Bullengarook,,no_eligible_route
+22930,Yering,20387,Bullengarook,,no_eligible_route
+22941,Yuroke,20387,Bullengarook,,no_eligible_route

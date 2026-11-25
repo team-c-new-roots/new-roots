@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20338,Brighton East,62.0,ok
+20003,Aberfeldie,20338,Brighton East,82.3,ok
+20011,Aintree,20338,Brighton East,118.93,ok
+20015,Airport West,20338,Brighton East,104.68,ok
+20017,Albanvale,20338,Brighton East,105.33,ok
+20018,Albert Park (Vic.),20338,Brighton East,51.32,ok
+20021,Albion (Vic.),20338,Brighton East,79.8,ok
+20034,Alphington,20338,Brighton East,70.92,ok
+20035,Altona (Vic.),20338,Brighton East,91.0,ok
+20036,Altona Meadows,20338,Brighton East,97.15,ok
+20037,Altona North,20338,Brighton East,101.08,ok
+20062,Ardeer,20338,Brighton East,88.95,ok
+20066,Armadale (Vic.),20338,Brighton East,31.38,ok
+20071,Arthurs Creek,20338,Brighton East,,no_eligible_route
+20072,Arthurs Seat,20338,Brighton East,152.5,ok
+20075,Ascot Vale,20338,Brighton East,75.83,ok
+20077,Ashburton,20338,Brighton East,67.75,ok
+20078,Ashwood,20338,Brighton East,62.45,ok
+20079,Aspendale,20338,Brighton East,48.23,ok
+20080,Aspendale Gardens,20338,Brighton East,69.57,ok
+20082,Attwood,20338,Brighton East,111.12,ok
+20089,Avondale Heights,20338,Brighton East,91.33,ok
+20091,Avonsleigh,20338,Brighton East,,no_eligible_route
+20095,Bacchus Marsh,20338,Brighton East,,no_eligible_route
+20097,Badger Creek,20338,Brighton East,167.58,ok
+20105,Balaclava (Vic.),20338,Brighton East,29.1,ok
+20120,Balnarring,20338,Brighton East,170.42,ok
+20121,Balnarring Beach,20338,Brighton East,166.95,ok
+20123,Balwyn,20338,Brighton East,71.42,ok
+20124,Balwyn North,20338,Brighton East,71.55,ok
+20131,Bangholme,20338,Brighton East,104.83,ok
+20169,Baxter,20338,Brighton East,95.3,ok
+20171,Bayles,20338,Brighton East,,no_eligible_route
+20173,Bayswater (Vic.),20338,Brighton East,91.4,ok
+20174,Bayswater North,20338,Brighton East,106.27,ok
+20175,Beaconsfield (Vic.),20338,Brighton East,101.68,ok
+20176,Beaconsfield Upper,20338,Brighton East,,no_eligible_route
+20182,Beaumaris (Vic.),20338,Brighton East,46.38,ok
+20187,Beenak,20338,Brighton East,,no_eligible_route
+20188,Belgrave,20338,Brighton East,104.48,ok
+20189,Belgrave Heights,20338,Brighton East,133.15,ok
+20190,Belgrave South,20338,Brighton East,132.13,ok
+20198,Bellfield (Banyule - Vic.),20338,Brighton East,89.67,ok
+20207,Bend Of Islands,20338,Brighton East,,no_eligible_route
+20212,Benloch,20338,Brighton East,,no_eligible_route
+20214,Bentleigh,20338,Brighton East,16.6,ok
+20215,Bentleigh East,20338,Brighton East,18.97,ok
+20224,Berwick,20338,Brighton East,74.48,ok
+20233,Beveridge,20338,Brighton East,137.67,ok
+20237,Big Pats Creek,20338,Brighton East,,no_eligible_route
+20248,Bittern,20338,Brighton East,121.13,ok
+20251,Black Rock (Vic.),20338,Brighton East,42.82,ok
+20252,Blackburn,20338,Brighton East,66.63,ok
+20253,Blackburn North,20338,Brighton East,79.9,ok
+20254,Blackburn South,20338,Brighton East,74.65,ok
+20257,Blairgowrie,20338,Brighton East,152.53,ok
+20260,Blind Bight,20338,Brighton East,,no_eligible_route
+20272,Bolinda,20338,Brighton East,,no_eligible_route
+20278,Bonbeach,20338,Brighton East,53.23,ok
+20280,Boneo,20338,Brighton East,,no_eligible_route
+20282,Bonnie Brook,20338,Brighton East,151.48,ok
+20304,Boronia,20338,Brighton East,93.87,ok
+20307,Botanic Ridge,20338,Brighton East,118.35,ok
+20314,Box Hill (Vic.),20338,Brighton East,65.08,ok
+20315,Box Hill North,20338,Brighton East,79.28,ok
+20316,Box Hill South,20338,Brighton East,67.32,ok
+20320,Braeside,20338,Brighton East,72.27,ok
+20324,Braybrook,20338,Brighton East,89.58,ok
+20331,Briar Hill,20338,Brighton East,109.23,ok
+20337,Brighton (Vic.),20338,Brighton East,18.82,ok
+20338,Brighton East,20338,Brighton East,0.0,same_centroid
+20346,Broadmeadows (Vic.),20338,Brighton East,100.75,ok
+20351,Brookfield (Vic.),20338,Brighton East,181.08,ok
+20352,Brooklyn (Vic.),20338,Brighton East,87.22,ok
+20361,Brunswick (Vic.),20338,Brighton East,75.48,ok
+20362,Brunswick East,20338,Brighton East,80.52,ok
+20363,Brunswick West,20338,Brighton East,83.87,ok
+20381,Bulla (Vic.),20338,Brighton East,160.17,ok
+20386,Bulleen,20338,Brighton East,84.8,ok
+20387,Bullengarook,20338,Brighton East,,no_eligible_route
+20399,Bundoora (Vic.),20338,Brighton East,106.1,ok
+20411,Bunyip,20338,Brighton East,,no_eligible_route
+20412,Bunyip North,20338,Brighton East,,no_eligible_route
+20418,Burnley,20338,Brighton East,58.77,ok
+20419,Burnside (Vic.),20338,Brighton East,97.83,ok
+20420,Burnside Heights,20338,Brighton East,105.65,ok
+20426,Burwood (Vic.),20338,Brighton East,64.38,ok
+20427,Burwood East,20338,Brighton East,61.32,ok
+20435,Bylands,20338,Brighton East,,no_eligible_route
+20441,Cairnlea,20338,Brighton East,95.02,ok
+20442,Calder Park,20338,Brighton East,113.58,ok
+20443,Caldermeade,20338,Brighton East,,no_eligible_route
+20453,Camberwell (Vic.),20338,Brighton East,64.42,ok
+20455,Campbellfield,20338,Brighton East,109.4,ok
+20466,Cannons Creek,20338,Brighton East,,no_eligible_route
+20468,Canterbury (Vic.),20338,Brighton East,64.07,ok
+20474,Cape Schanck,20338,Brighton East,,no_eligible_route
+20476,Capel Sound,20338,Brighton East,136.88,ok
+20487,Cardinia,20338,Brighton East,,no_eligible_route
+20495,Carlton (Vic.),20338,Brighton East,64.5,ok
+20496,Carlton North,20338,Brighton East,79.7,ok
+20498,Carnegie,20338,Brighton East,33.88,ok
+20500,Caroline Springs,20338,Brighton East,109.77,ok
+20507,Carrum,20338,Brighton East,53.05,ok
+20508,Carrum Downs,20338,Brighton East,73.15,ok
+20512,Castella,20338,Brighton East,,no_eligible_route
+20517,Catani,20338,Brighton East,,no_eligible_route
+20521,Caulfield,20338,Brighton East,20.53,ok
+20522,Caulfield East,20338,Brighton East,35.42,ok
+20523,Caulfield North,20338,Brighton East,22.02,ok
+20524,Caulfield South,20338,Brighton East,17.57,ok
+20528,Chadstone,20338,Brighton East,47.07,ok
+20537,Chelsea,20338,Brighton East,50.3,ok
+20538,Chelsea Heights,20338,Brighton East,71.98,ok
+20539,Cheltenham (Vic.),20338,Brighton East,39.77,ok
+20541,Cherokee,20338,Brighton East,,no_eligible_route
+20555,Chintin,20338,Brighton East,,no_eligible_route
+20556,Chirnside Park,20338,Brighton East,117.77,ok
+20559,Christmas Hills (Vic.),20338,Brighton East,,no_eligible_route
+20560,Chum Creek,20338,Brighton East,,no_eligible_route
+20566,Clarinda,20338,Brighton East,49.53,ok
+20567,Clarkefield,20338,Brighton East,,no_eligible_route
+20569,Clayton,20338,Brighton East,44.67,ok
+20570,Clayton South,20338,Brighton East,58.67,ok
+20572,Clematis,20338,Brighton East,,no_eligible_route
+20574,Clifton Hill,20338,Brighton East,60.0,ok
+20576,Clonbinane,20338,Brighton East,,no_eligible_route
+20581,Clyde (Vic.),20338,Brighton East,,no_eligible_route
+20582,Clyde North,20338,Brighton East,107.95,ok
+20587,Cobaw,20338,Brighton East,,no_eligible_route
+20590,Cobblebank,20338,Brighton East,169.63,ok
+20596,Coburg,20338,Brighton East,83.22,ok
+20597,Coburg North,20338,Brighton East,93.78,ok
+20600,Cockatoo (Vic.),20338,Brighton East,,no_eligible_route
+20601,Cocoroc,20338,Brighton East,,no_eligible_route
+20605,Coimadai,20338,Brighton East,,no_eligible_route
+20613,Coldstream (Vic.),20338,Brighton East,,no_eligible_route
+20616,Collingwood (Vic.),20338,Brighton East,60.23,ok
+20624,Coolaroo,20338,Brighton East,101.62,ok
+20633,Cora Lynn,20338,Brighton East,,no_eligible_route
+20654,Cottles Bridge,20338,Brighton East,,no_eligible_route
+20661,Craigieburn,20338,Brighton East,116.18,ok
+20662,Cranbourne,20338,Brighton East,83.73,ok
+20663,Cranbourne East,20338,Brighton East,90.23,ok
+20664,Cranbourne North,20338,Brighton East,86.15,ok
+20665,Cranbourne South,20338,Brighton East,121.7,ok
+20666,Cranbourne West,20338,Brighton East,96.65,ok
+20670,Cremorne (Vic.),20338,Brighton East,48.73,ok
+20674,Crib Point,20338,Brighton East,130.1,ok
+20682,Croydon (Vic.),20338,Brighton East,83.4,ok
+20683,Croydon Hills,20338,Brighton East,107.73,ok
+20684,Croydon North,20338,Brighton East,102.15,ok
+20685,Croydon South,20338,Brighton East,109.42,ok
+20702,Dallas,20338,Brighton East,108.05,ok
+20703,Dalmore,20338,Brighton East,,no_eligible_route
+20707,Dandenong,20338,Brighton East,62.08,ok
+20708,Dandenong North,20338,Brighton East,69.58,ok
+20709,Dandenong South,20338,Brighton East,78.45,ok
+20712,Darley,20338,Brighton East,,no_eligible_route
+20716,Darraweit Guim,20338,Brighton East,,no_eligible_route
+20724,Deanside,20338,Brighton East,132.95,ok
+20728,Deepdene (Vic.),20338,Brighton East,63.92,ok
+20729,Deer Park,20338,Brighton East,86.78,ok
+20731,Delahey,20338,Brighton East,103.45,ok
+20743,Derrimut,20338,Brighton East,119.6,ok
+20748,Devon Meadows,20338,Brighton East,,no_eligible_route
+20750,Dewhurst,20338,Brighton East,,no_eligible_route
+20752,Diamond Creek,20338,Brighton East,118.23,ok
+20754,Diggers Rest,20338,Brighton East,117.9,ok
+20758,Dingley Village,20338,Brighton East,53.67,ok
+20762,Dixons Creek,20338,Brighton East,,no_eligible_route
+20766,Docklands,20338,Brighton East,62.87,ok
+20769,Don Valley,20338,Brighton East,,no_eligible_route
+20771,Doncaster,20338,Brighton East,82.88,ok
+20772,Doncaster East,20338,Brighton East,89.37,ok
+20773,Donnybrook (Vic.),20338,Brighton East,145.2,ok
+20774,Donvale,20338,Brighton East,101.1,ok
+20779,Doreen,20338,Brighton East,130.72,ok
+20783,Doveton,20338,Brighton East,84.07,ok
+20788,Dromana,20338,Brighton East,150.5,ok
+20825,Eaglemont,20338,Brighton East,89.25,ok
+20830,East Melbourne,20338,Brighton East,52.52,ok
+20833,East Warburton,20338,Brighton East,,no_eligible_route
+20843,Eden Park,20338,Brighton East,,no_eligible_route
+20848,Edithvale,20338,Brighton East,50.43,ok
+20864,Elsternwick,20338,Brighton East,24.12,ok
+20865,Eltham (Vic.),20338,Brighton East,116.37,ok
+20866,Eltham North,20338,Brighton East,106.35,ok
+20867,Elwood,20338,Brighton East,34.75,ok
+20868,Emerald (Vic.),20338,Brighton East,,no_eligible_route
+20871,Endeavour Hills,20338,Brighton East,91.4,ok
+20878,Epping (Vic.),20338,Brighton East,120.43,ok
+20885,Essendon,20338,Brighton East,83.05,ok
+20886,Essendon Fields,20338,Brighton East,107.73,ok
+20887,Essendon North,20338,Brighton East,88.73,ok
+20888,Essendon West,20338,Brighton East,82.92,ok
+20889,Eumemmerring,20338,Brighton East,86.08,ok
+20898,Exford,20338,Brighton East,,no_eligible_route
+20899,Eynesbury,20338,Brighton East,,no_eligible_route
+20901,Fairfield (Vic.),20338,Brighton East,77.23,ok
+20909,Fawkner,20338,Brighton East,101.85,ok
+20916,Fernshaw,20338,Brighton East,,no_eligible_route
+20917,Ferntree Gully,20338,Brighton East,90.07,ok
+20918,Ferny Creek,20338,Brighton East,144.77,ok
+20920,Fingal (Vic.),20338,Brighton East,,no_eligible_route
+20924,Fitzroy (Vic.),20338,Brighton East,64.43,ok
+20925,Fitzroy North,20338,Brighton East,73.67,ok
+20929,Flemington,20338,Brighton East,77.67,ok
+20930,Flinders (Vic.),20338,Brighton East,,no_eligible_route
+20935,Footscray,20338,Brighton East,67.22,ok
+20937,Forest Hill (Vic.),20338,Brighton East,90.05,ok
+20947,Frankston,20338,Brighton East,68.02,ok
+20948,Frankston North,20338,Brighton East,92.73,ok
+20949,Frankston South,20338,Brighton East,101.28,ok
+20950,Fraser Rise,20338,Brighton East,124.33,ok
+20965,Gardenvale,20338,Brighton East,20.23,ok
+20966,Garfield,20338,Brighton East,,no_eligible_route
+20967,Garfield North,20338,Brighton East,,no_eligible_route
+20979,Gembrook,20338,Brighton East,,no_eligible_route
+20995,Gilderoy,20338,Brighton East,,no_eligible_route
+21001,Gisborne,20338,Brighton East,,no_eligible_route
+21002,Gisborne South,20338,Brighton East,,no_eligible_route
+21004,Gladstone Park,20338,Brighton East,114.9,ok
+21005,Gladysdale,20338,Brighton East,,no_eligible_route
+21009,Glen Huntly,20338,Brighton East,30.62,ok
+21010,Glen Iris (Vic.),20338,Brighton East,57.82,ok
+21013,Glen Waverley,20338,Brighton East,78.3,ok
+21047,Glenroy (Vic.),20338,Brighton East,95.6,ok
+21059,Goldie,20338,Brighton East,,no_eligible_route
+21079,Gowanbrae,20338,Brighton East,118.3,ok
+21087,Grangefields,20338,Brighton East,155.93,ok
+21104,Greensborough,20338,Brighton East,97.77,ok
+21105,Greenvale (Vic.),20338,Brighton East,125.28,ok
+21115,Gruyere,20338,Brighton East,,no_eligible_route
+21121,Guys Hill,20338,Brighton East,,no_eligible_route
+21124,Hadfield,20338,Brighton East,103.52,ok
+21125,Hallam,20338,Brighton East,79.6,ok
+21131,Hampton (Vic.),20338,Brighton East,40.38,ok
+21132,Hampton East,20338,Brighton East,28.15,ok
+21133,Hampton Park,20338,Brighton East,91.02,ok
+21139,Harkaway,20338,Brighton East,,no_eligible_route
+21140,Harkness,20338,Brighton East,182.57,ok
+21145,Hastings (Vic.),20338,Brighton East,116.45,ok
+21152,Hawthorn (Vic.),20338,Brighton East,44.55,ok
+21153,Hawthorn East,20338,Brighton East,51.93,ok
+21158,Healesville,20338,Brighton East,171.5,ok
+21159,Heath Hill,20338,Brighton East,,no_eligible_route
+21161,Heathcote Junction,20338,Brighton East,,no_eligible_route
+21163,Heatherton,20338,Brighton East,53.08,ok
+21165,Heathmont,20338,Brighton East,81.67,ok
+21167,Heidelberg,20338,Brighton East,92.05,ok
+21168,Heidelberg Heights,20338,Brighton East,94.58,ok
+21169,Heidelberg West,20338,Brighton East,94.77,ok
+21176,Hesket,20338,Brighton East,,no_eligible_route
+21185,Highett,20338,Brighton East,24.55,ok
+21193,Hillside (Melton - Vic.),20338,Brighton East,108.88,ok
+21195,Hmas Cerberus,20338,Brighton East,163.3,ok
+21196,Hoddles Creek,20338,Brighton East,,no_eligible_route
+21202,Hopetoun Park,20338,Brighton East,,no_eligible_route
+21203,Hoppers Crossing,20338,Brighton East,109.4,ok
+21214,Hughesdale,20338,Brighton East,44.62,ok
+21215,Humevale,20338,Brighton East,,no_eligible_route
+21218,Huntingdale (Vic.),20338,Brighton East,51.07,ok
+21223,Hurstbridge,20338,Brighton East,118.78,ok
+21238,Iona,20338,Brighton East,,no_eligible_route
+21246,Ivanhoe (Vic.),20338,Brighton East,70.52,ok
+21247,Ivanhoe East,20338,Brighton East,85.97,ok
+21248,Jacana,20338,Brighton East,100.17,ok
+21277,Junction Village,20338,Brighton East,136.75,ok
+21284,Kalkallo,20338,Brighton East,147.18,ok
+21286,Kallista,20338,Brighton East,141.2,ok
+21287,Kalorama,20338,Brighton East,110.37,ok
+21294,Kangaroo Ground,20338,Brighton East,148.0,ok
+21312,Kealba,20338,Brighton East,90.17,ok
+21314,Keilor,20338,Brighton East,119.88,ok
+21315,Keilor Downs,20338,Brighton East,106.48,ok
+21316,Keilor East,20338,Brighton East,92.97,ok
+21317,Keilor Lodge,20338,Brighton East,109.7,ok
+21318,Keilor North,20338,Brighton East,115.93,ok
+21319,Keilor Park,20338,Brighton East,106.2,ok
+21327,Kensington (Vic.),20338,Brighton East,65.9,ok
+21333,Kerrie,20338,Brighton East,,no_eligible_route
+21336,Kew (Vic.),20338,Brighton East,58.58,ok
+21337,Kew East,20338,Brighton East,72.62,ok
+21339,Keysborough,20338,Brighton East,75.82,ok
+21354,Kilsyth,20338,Brighton East,99.75,ok
+21355,Kilsyth South,20338,Brighton East,114.83,ok
+21358,Kinglake,20338,Brighton East,,no_eligible_route
+21359,Kinglake Central,20338,Brighton East,,no_eligible_route
+21360,Kinglake West,20338,Brighton East,,no_eligible_route
+21362,Kings Park (Vic.),20338,Brighton East,103.15,ok
+21363,Kingsbury,20338,Brighton East,105.7,ok
+21365,Kingsville,20338,Brighton East,76.28,ok
+21374,Knoxfield,20338,Brighton East,95.53,ok
+21380,Koo Wee Rup,20338,Brighton East,,no_eligible_route
+21381,Koo Wee Rup North,20338,Brighton East,,no_eligible_route
+21393,Kooyong,20338,Brighton East,42.33,ok
+21411,Kurunjang,20338,Brighton East,159.77,ok
+21452,Lalor,20338,Brighton East,93.2,ok
+21456,Lancefield,20338,Brighton East,,no_eligible_route
+21459,Lang Lang,20338,Brighton East,,no_eligible_route
+21460,Lang Lang East,20338,Brighton East,,no_eligible_route
+21467,Langwarrin,20338,Brighton East,81.98,ok
+21468,Langwarrin South,20338,Brighton East,,no_eligible_route
+21473,Launching Place,20338,Brighton East,132.15,ok
+21476,Laverton (Vic.),20338,Brighton East,87.6,ok
+21477,Laverton North,20338,Brighton East,112.93,ok
+21504,Lilydale (Vic.),20338,Brighton East,111.8,ok
+21533,Long Forest,20338,Brighton East,,no_eligible_route
+21547,Lower Plenty,20338,Brighton East,122.47,ok
+21554,Lynbrook,20338,Brighton East,75.85,ok
+21555,Lyndhurst (Vic.),20338,Brighton East,120.43,ok
+21558,Lysterfield,20338,Brighton East,,no_eligible_route
+21559,Lysterfield South,20338,Brighton East,124.13,ok
+21561,Macclesfield (Vic.),20338,Brighton East,,no_eligible_route
+21562,Macedon,20338,Brighton East,,no_eligible_route
+21564,Macleod (Vic.),20338,Brighton East,90.87,ok
+21569,Maddingley,20338,Brighton East,,no_eligible_route
+21575,Maidstone,20338,Brighton East,82.88,ok
+21578,Main Ridge,20338,Brighton East,,no_eligible_route
+21586,Malvern (Vic.),20338,Brighton East,36.05,ok
+21587,Malvern East,20338,Brighton East,46.95,ok
+21588,Mambourin,20338,Brighton East,,no_eligible_route
+21597,Manor Lakes,20338,Brighton East,150.05,ok
+21604,Maribyrnong,20338,Brighton East,85.83,ok
+21619,Maryknoll,20338,Brighton East,,no_eligible_route
+21625,McCrae,20338,Brighton East,124.08,ok
+21629,McKinnon,20338,Brighton East,18.62,ok
+21635,Meadow Heights,20338,Brighton East,114.63,ok
+21640,Melbourne,20338,Brighton East,44.82,ok
+21641,Melbourne Airport,20338,Brighton East,,no_eligible_route
+21642,Melton (Vic.),20338,Brighton East,167.95,ok
+21643,Melton South,20338,Brighton East,180.32,ok
+21644,Melton West,20338,Brighton East,155.95,ok
+21648,Mentone,20338,Brighton East,34.53,ok
+21649,Menzies Creek,20338,Brighton East,,no_eligible_route
+21659,Mernda,20338,Brighton East,125.68,ok
+21662,Merricks,20338,Brighton East,,no_eligible_route
+21663,Merricks Beach,20338,Brighton East,,no_eligible_route
+21664,Merricks North,20338,Brighton East,,no_eligible_route
+21668,Merrimu,20338,Brighton East,,no_eligible_route
+21675,Mickleham,20338,Brighton East,148.18,ok
+21677,Middle Park (Vic.),20338,Brighton East,50.58,ok
+21683,Mill Park,20338,Brighton East,118.28,ok
+21685,Millgrove,20338,Brighton East,,no_eligible_route
+21706,Mitcham (Vic.),20338,Brighton East,78.3,ok
+21727,Monbulk,20338,Brighton East,148.65,ok
+21728,Monegeetta,20338,Brighton East,,no_eligible_route
+21731,Monomeith,20338,Brighton East,,no_eligible_route
+21732,Mont Albert,20338,Brighton East,71.47,ok
+21733,Mont Albert North,20338,Brighton East,78.37,ok
+21735,Montmorency,20338,Brighton East,102.43,ok
+21736,Montrose (Vic.),20338,Brighton East,102.67,ok
+21742,Moonee Ponds,20338,Brighton East,69.52,ok
+21746,Moorabbin,20338,Brighton East,38.2,ok
+21747,Moorabbin Airport,20338,Brighton East,64.03,ok
+21754,Moorooduc,20338,Brighton East,131.05,ok
+21755,Mooroolbark,20338,Brighton East,92.6,ok
+21760,Mordialloc,20338,Brighton East,49.83,ok
+21763,Mornington (Vic.),20338,Brighton East,104.88,ok
+21779,Mount Burnett,20338,Brighton East,,no_eligible_route
+21786,Mount Cottrell,20338,Brighton East,,no_eligible_route
+21787,Mount Dandenong,20338,Brighton East,114.37,ok
+21793,Mount Eliza,20338,Brighton East,83.07,ok
+21795,Mount Evelyn,20338,Brighton East,118.53,ok
+21801,Mount Macedon,20338,Brighton East,,no_eligible_route
+21803,Mount Martha,20338,Brighton East,109.6,ok
+21814,Mount Toolebewong,20338,Brighton East,,no_eligible_route
+21816,Mount Waverley,20338,Brighton East,55.38,ok
+21827,Mulgrave (Vic.),20338,Brighton East,65.37,ok
+21849,Murrumbeena,20338,Brighton East,37.17,ok
+21872,Nangana,20338,Brighton East,,no_eligible_route
+21878,Nar Nar Goon,20338,Brighton East,,no_eligible_route
+21879,Nar Nar Goon North,20338,Brighton East,,no_eligible_route
+21893,Narre Warren,20338,Brighton East,78.57,ok
+21894,Narre Warren East,20338,Brighton East,,no_eligible_route
+21895,Narre Warren North,20338,Brighton East,96.85,ok
+21896,Narre Warren South,20338,Brighton East,84.4,ok
+21921,New Gisborne,20338,Brighton East,,no_eligible_route
+21934,Newport (Vic.),20338,Brighton East,72.45,ok
+21942,Niddrie,20338,Brighton East,100.68,ok
+21952,Noble Park,20338,Brighton East,52.85,ok
+21953,Noble Park North,20338,Brighton East,74.07,ok
+21966,North Melbourne,20338,Brighton East,62.02,ok
+21969,North Warrandyte,20338,Brighton East,129.98,ok
+21971,Northcote,20338,Brighton East,74.93,ok
+21974,Notting Hill,20338,Brighton East,50.48,ok
+21985,Nunawading,20338,Brighton East,70.78,ok
+21991,Nutfield,20338,Brighton East,,no_eligible_route
+21998,Oak Park,20338,Brighton East,87.83,ok
+21999,Oaklands Junction,20338,Brighton East,,no_eligible_route
+22000,Oakleigh,20338,Brighton East,47.82,ok
+22001,Oakleigh East,20338,Brighton East,55.2,ok
+22002,Oakleigh South,20338,Brighton East,25.28,ok
+22006,Officer,20338,Brighton East,94.13,ok
+22007,Officer South,20338,Brighton East,133.7,ok
+22009,Olinda (Vic.),20338,Brighton East,145.08,ok
+22016,Ormond,20338,Brighton East,23.63,ok
+22027,Pakenham,20338,Brighton East,93.18,ok
+22028,Pakenham South,20338,Brighton East,,no_eligible_route
+22029,Pakenham Upper,20338,Brighton East,,no_eligible_route
+22032,Panton Hill,20338,Brighton East,,no_eligible_route
+22036,Park Orchards,20338,Brighton East,94.37,ok
+22037,Parkdale,20338,Brighton East,39.62,ok
+22038,Parkville (Vic.),20338,Brighton East,73.57,ok
+22041,Pascoe Vale,20338,Brighton East,92.2,ok
+22042,Pascoe Vale South,20338,Brighton East,87.93,ok
+22047,Patterson Lakes,20338,Brighton East,60.92,ok
+22050,Pearcedale,20338,Brighton East,139.0,ok
+22058,Pentland Hills,20338,Brighton East,,no_eligible_route
+22064,Pheasant Creek (Vic.),20338,Brighton East,,no_eligible_route
+22084,Plenty (Vic.),20338,Brighton East,124.37,ok
+22085,Plumpton (Vic.),20338,Brighton East,,no_eligible_route
+22086,Point Cook,20338,Brighton East,109.83,ok
+22087,Point Leo,20338,Brighton East,,no_eligible_route
+22107,Port Melbourne,20338,Brighton East,75.35,ok
+22113,Portsea,20338,Brighton East,168.38,ok
+22115,Powelltown,20338,Brighton East,,no_eligible_route
+22118,Prahran,20338,Brighton East,40.35,ok
+22121,Preston (Vic.),20338,Brighton East,86.8,ok
+22122,Princes Hill,20338,Brighton East,73.88,ok
+22132,Quandong,20338,Brighton East,,no_eligible_route
+22141,Ravenhall,20338,Brighton East,143.63,ok
+22148,Red Hill (Vic.),20338,Brighton East,,no_eligible_route
+22149,Red Hill South,20338,Brighton East,,no_eligible_route
+22160,Research,20338,Brighton East,123.85,ok
+22161,Reservoir (Vic.),20338,Brighton East,90.02,ok
+22170,Richmond (Vic.),20338,Brighton East,55.15,ok
+22172,Riddells Creek,20338,Brighton East,,no_eligible_route
+22174,Ringwood (Vic.),20338,Brighton East,84.93,ok
+22175,Ringwood East,20338,Brighton East,83.48,ok
+22176,Ringwood North,20338,Brighton East,93.12,ok
+22179,Ripponlea,20338,Brighton East,26.17,ok
+22185,Rochford,20338,Brighton East,,no_eligible_route
+22186,Rockbank,20338,Brighton East,137.2,ok
+22193,Romsey,20338,Brighton East,,no_eligible_route
+22194,Rosanna,20338,Brighton East,85.33,ok
+22198,Rosebud,20338,Brighton East,140.4,ok
+22207,Rowville,20338,Brighton East,73.65,ok
+22208,Roxburgh Park,20338,Brighton East,109.45,ok
+22220,Rye,20338,Brighton East,160.6,ok
+22221,Rythdale,20338,Brighton East,,no_eligible_route
+22222,Safety Beach (Vic.),20338,Brighton East,126.57,ok
+22232,Sandhurst,20338,Brighton East,89.25,ok
+22234,Sandringham (Vic.),20338,Brighton East,38.95,ok
+22239,Sassafras (Vic.),20338,Brighton East,127.53,ok
+22242,Scoresby,20338,Brighton East,92.68,ok
+22247,Seabrook,20338,Brighton East,98.42,ok
+22249,Seaford (Vic.),20338,Brighton East,66.15,ok
+22250,Seaholme,20338,Brighton East,85.68,ok
+22256,Seddon (Vic.),20338,Brighton East,66.7,ok
+22258,Selby,20338,Brighton East,137.08,ok
+22263,Seville,20338,Brighton East,143.32,ok
+22264,Seville East,20338,Brighton East,130.2,ok
+22278,Sherbrooke,20338,Brighton East,131.27,ok
+22279,Shoreham,20338,Brighton East,,no_eligible_route
+22281,Silvan,20338,Brighton East,140.75,ok
+22291,Skye (Vic.),20338,Brighton East,76.28,ok
+22295,Smiths Gully,20338,Brighton East,,no_eligible_route
+22303,Somers,20338,Brighton East,151.43,ok
+22304,Somerton (Vic.),20338,Brighton East,113.82,ok
+22305,Somerville (Vic.),20338,Brighton East,120.55,ok
+22306,Sorrento (Vic.),20338,Brighton East,148.37,ok
+22309,South Kingsville,20338,Brighton East,85.7,ok
+22310,South Melbourne,20338,Brighton East,54.27,ok
+22311,South Morang,20338,Brighton East,119.9,ok
+22313,South Wharf,20338,Brighton East,63.98,ok
+22314,South Yarra,20338,Brighton East,32.08,ok
+22315,Southbank,20338,Brighton East,55.25,ok
+22319,Spotswood,20338,Brighton East,66.85,ok
+22325,Springfield (Macedon Ranges - Vic.),20338,Brighton East,,no_eligible_route
+22328,Springvale (Vic.),20338,Brighton East,53.82,ok
+22329,Springvale South,20338,Brighton East,55.55,ok
+22330,St Albans (Vic.),20338,Brighton East,82.43,ok
+22332,St Andrews (Vic.),20338,Brighton East,,no_eligible_route
+22333,St Andrews Beach,20338,Brighton East,,no_eligible_route
+22339,St Helena,20338,Brighton East,108.62,ok
+22343,St Kilda (Vic.),20338,Brighton East,37.03,ok
+22344,St Kilda East,20338,Brighton East,30.75,ok
+22345,St Kilda West,20338,Brighton East,45.53,ok
+22355,Steels Creek,20338,Brighton East,,no_eligible_route
+22375,Strathewen,20338,Brighton East,,no_eligible_route
+22380,Strathmore (Vic.),20338,Brighton East,94.3,ok
+22381,Strathmore Heights,20338,Brighton East,105.08,ok
+22382,Strathtulloh,20338,Brighton East,,no_eligible_route
+22391,Sunbury,20338,Brighton East,140.72,ok
+22395,Sunshine (Vic.),20338,Brighton East,70.15,ok
+22396,Sunshine North,20338,Brighton East,86.28,ok
+22397,Sunshine West,20338,Brighton East,97.5,ok
+22399,Surrey Hills,20338,Brighton East,71.88,ok
+22414,Sydenham (Vic.),20338,Brighton East,96.83,ok
+22451,Tarneit,20338,Brighton East,125.45,ok
+22457,Tarrawarra,20338,Brighton East,147.1,ok
+22473,Taylors Hill,20338,Brighton East,107.83,ok
+22474,Taylors Lakes,20338,Brighton East,94.18,ok
+22476,Tecoma,20338,Brighton East,101.48,ok
+22483,Templestowe,20338,Brighton East,90.6,ok
+22484,Templestowe Lower,20338,Brighton East,85.57,ok
+22496,The Basin (Vic.),20338,Brighton East,112.67,ok
+22501,The Patch,20338,Brighton East,139.22,ok
+22504,Thomastown,20338,Brighton East,98.5,ok
+22508,Thornbury,20338,Brighton East,81.1,ok
+22509,Thornhill Park,20338,Brighton East,,no_eligible_route
+22514,Three Bridges,20338,Brighton East,,no_eligible_route
+22531,Tonimbuk,20338,Brighton East,,no_eligible_route
+22536,Toolangi,20338,Brighton East,,no_eligible_route
+22537,Toolern Vale,20338,Brighton East,,no_eligible_route
+22546,Tooradin,20338,Brighton East,,no_eligible_route
+22547,Toorak,20338,Brighton East,43.03,ok
+22550,Tootgarook,20338,Brighton East,144.02,ok
+22556,Tottenham (Vic.),20338,Brighton East,94.75,ok
+22572,Travancore,20338,Brighton East,73.17,ok
+22576,Tremont,20338,Brighton East,119.08,ok
+22582,Truganina,20338,Brighton East,173.05,ok
+22584,Tuerong,20338,Brighton East,,no_eligible_route
+22586,Tullamarine,20338,Brighton East,120.78,ok
+22594,Tyabb,20338,Brighton East,112.87,ok
+22598,Tynong,20338,Brighton East,,no_eligible_route
+22599,Tynong North,20338,Brighton East,,no_eligible_route
+22614,Upper Ferntree Gully,20338,Brighton East,98.63,ok
+22617,Upper Plenty,20338,Brighton East,,no_eligible_route
+22620,Upwey,20338,Brighton East,101.35,ok
+22627,Vermont,20338,Brighton East,93.93,ok
+22628,Vermont South,20338,Brighton East,96.68,ok
+22629,Vervale,20338,Brighton East,,no_eligible_route
+22633,Viewbank,20338,Brighton East,100.33,ok
+22661,Wallan,20338,Brighton East,,no_eligible_route
+22672,Wandin East,20338,Brighton East,,no_eligible_route
+22673,Wandin North,20338,Brighton East,116.28,ok
+22676,Wandong,20338,Brighton East,,no_eligible_route
+22685,Wantirna,20338,Brighton East,106.63,ok
+22686,Wantirna South,20338,Brighton East,92.92,ok
+22689,Warburton (Vic.),20338,Brighton East,,no_eligible_route
+22695,Warneet,20338,Brighton East,,no_eligible_route
+22702,Warrandyte,20338,Brighton East,104.55,ok
+22703,Warrandyte South,20338,Brighton East,125.42,ok
+22704,Warranwood,20338,Brighton East,102.73,ok
+22717,Waterford Park,20338,Brighton East,,no_eligible_route
+22720,Waterways,20338,Brighton East,75.8,ok
+22721,Watsonia,20338,Brighton East,85.78,ok
+22722,Watsonia North,20338,Brighton East,101.23,ok
+22723,Watsons Creek (Vic.),20338,Brighton East,,no_eligible_route
+22727,Wattle Glen,20338,Brighton East,122.53,ok
+22740,Weir Views,20338,Brighton East,210.78,ok
+22750,Werribee,20338,Brighton East,106.63,ok
+22751,Werribee South,20338,Brighton East,142.65,ok
+22753,Wesburn,20338,Brighton East,148.25,ok
+22756,West Footscray,20338,Brighton East,74.38,ok
+22757,West Melbourne,20338,Brighton East,82.42,ok
+22761,Westmeadows,20338,Brighton East,103.87,ok
+22766,Wheelers Hill,20338,Brighton East,81.15,ok
+22775,Whittlesea,20338,Brighton East,,no_eligible_route
+22784,Wildwood,20338,Brighton East,,no_eligible_route
+22791,Williams Landing,20338,Brighton East,101.85,ok
+22792,Williamstown (Vic.),20338,Brighton East,75.67,ok
+22793,Williamstown North,20338,Brighton East,90.17,ok
+22805,Windsor (Vic.),20338,Brighton East,29.1,ok
+22820,Wollert,20338,Brighton East,132.72,ok
+22825,Wonga Park,20338,Brighton East,118.03,ok
+22843,Woodstock (Vic.),20338,Brighton East,,no_eligible_route
+22857,Woori Yallock,20338,Brighton East,127.4,ok
+22883,Wyndham Vale,20338,Brighton East,135.45,ok
+22892,Yallambie,20338,Brighton East,109.07,ok
+22898,Yan Yean,20338,Brighton East,150.28,ok
+22906,Yannathan,20338,Brighton East,,no_eligible_route
+22910,Yarra Glen,20338,Brighton East,144.4,ok
+22911,Yarra Junction,20338,Brighton East,152.52,ok
+22916,Yarrambat,20338,Brighton East,123.93,ok
+22917,Yarraville,20338,Brighton East,72.6,ok
+22925,Yellingbo,20338,Brighton East,,no_eligible_route
+22930,Yering,20338,Brighton East,,no_eligible_route
+22941,Yuroke,20338,Brighton East,162.82,ok

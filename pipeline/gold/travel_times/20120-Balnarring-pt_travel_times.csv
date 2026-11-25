@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20120,Balnarring,224.53,ok
+20003,Aberfeldie,20120,Balnarring,,no_eligible_route
+20011,Aintree,20120,Balnarring,,no_eligible_route
+20015,Airport West,20120,Balnarring,,no_eligible_route
+20017,Albanvale,20120,Balnarring,,no_eligible_route
+20018,Albert Park (Vic.),20120,Balnarring,220.15,ok
+20021,Albion (Vic.),20120,Balnarring,,no_eligible_route
+20034,Alphington,20120,Balnarring,,no_eligible_route
+20035,Altona (Vic.),20120,Balnarring,,no_eligible_route
+20036,Altona Meadows,20120,Balnarring,,no_eligible_route
+20037,Altona North,20120,Balnarring,,no_eligible_route
+20062,Ardeer,20120,Balnarring,,no_eligible_route
+20066,Armadale (Vic.),20120,Balnarring,182.18,ok
+20071,Arthurs Creek,20120,Balnarring,,no_eligible_route
+20072,Arthurs Seat,20120,Balnarring,,no_eligible_route
+20075,Ascot Vale,20120,Balnarring,,no_eligible_route
+20077,Ashburton,20120,Balnarring,,no_eligible_route
+20078,Ashwood,20120,Balnarring,,no_eligible_route
+20079,Aspendale,20120,Balnarring,155.13,ok
+20080,Aspendale Gardens,20120,Balnarring,181.37,ok
+20082,Attwood,20120,Balnarring,,no_eligible_route
+20089,Avondale Heights,20120,Balnarring,,no_eligible_route
+20091,Avonsleigh,20120,Balnarring,,no_eligible_route
+20095,Bacchus Marsh,20120,Balnarring,,no_eligible_route
+20097,Badger Creek,20120,Balnarring,,no_eligible_route
+20105,Balaclava (Vic.),20120,Balnarring,227.13,ok
+20120,Balnarring,20120,Balnarring,0.0,same_centroid
+20121,Balnarring Beach,20120,Balnarring,66.92,walk_only
+20123,Balwyn,20120,Balnarring,,no_eligible_route
+20124,Balwyn North,20120,Balnarring,,no_eligible_route
+20131,Bangholme,20120,Balnarring,,no_eligible_route
+20169,Baxter,20120,Balnarring,105.03,ok
+20171,Bayles,20120,Balnarring,,no_eligible_route
+20173,Bayswater (Vic.),20120,Balnarring,,no_eligible_route
+20174,Bayswater North,20120,Balnarring,,no_eligible_route
+20175,Beaconsfield (Vic.),20120,Balnarring,230.9,ok
+20176,Beaconsfield Upper,20120,Balnarring,,no_eligible_route
+20182,Beaumaris (Vic.),20120,Balnarring,190.3,ok
+20187,Beenak,20120,Balnarring,,no_eligible_route
+20188,Belgrave,20120,Balnarring,,no_eligible_route
+20189,Belgrave Heights,20120,Balnarring,,no_eligible_route
+20190,Belgrave South,20120,Balnarring,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20120,Balnarring,,no_eligible_route
+20207,Bend Of Islands,20120,Balnarring,,no_eligible_route
+20212,Benloch,20120,Balnarring,,no_eligible_route
+20214,Bentleigh,20120,Balnarring,171.85,ok
+20215,Bentleigh East,20120,Balnarring,198.68,ok
+20224,Berwick,20120,Balnarring,203.7,ok
+20233,Beveridge,20120,Balnarring,,no_eligible_route
+20237,Big Pats Creek,20120,Balnarring,,no_eligible_route
+20248,Bittern,20120,Balnarring,71.53,ok
+20251,Black Rock (Vic.),20120,Balnarring,,no_eligible_route
+20252,Blackburn,20120,Balnarring,,no_eligible_route
+20253,Blackburn North,20120,Balnarring,,no_eligible_route
+20254,Blackburn South,20120,Balnarring,,no_eligible_route
+20257,Blairgowrie,20120,Balnarring,209.75,ok
+20260,Blind Bight,20120,Balnarring,,no_eligible_route
+20272,Bolinda,20120,Balnarring,,no_eligible_route
+20278,Bonbeach,20120,Balnarring,148.85,ok
+20280,Boneo,20120,Balnarring,,no_eligible_route
+20282,Bonnie Brook,20120,Balnarring,,no_eligible_route
+20304,Boronia,20120,Balnarring,,no_eligible_route
+20307,Botanic Ridge,20120,Balnarring,,no_eligible_route
+20314,Box Hill (Vic.),20120,Balnarring,,no_eligible_route
+20315,Box Hill North,20120,Balnarring,,no_eligible_route
+20316,Box Hill South,20120,Balnarring,,no_eligible_route
+20320,Braeside,20120,Balnarring,205.2,ok
+20324,Braybrook,20120,Balnarring,,no_eligible_route
+20331,Briar Hill,20120,Balnarring,,no_eligible_route
+20337,Brighton (Vic.),20120,Balnarring,,no_eligible_route
+20338,Brighton East,20120,Balnarring,191.42,ok
+20346,Broadmeadows (Vic.),20120,Balnarring,,no_eligible_route
+20351,Brookfield (Vic.),20120,Balnarring,,no_eligible_route
+20352,Brooklyn (Vic.),20120,Balnarring,,no_eligible_route
+20361,Brunswick (Vic.),20120,Balnarring,,no_eligible_route
+20362,Brunswick East,20120,Balnarring,,no_eligible_route
+20363,Brunswick West,20120,Balnarring,,no_eligible_route
+20381,Bulla (Vic.),20120,Balnarring,,no_eligible_route
+20386,Bulleen,20120,Balnarring,,no_eligible_route
+20387,Bullengarook,20120,Balnarring,,no_eligible_route
+20399,Bundoora (Vic.),20120,Balnarring,,no_eligible_route
+20411,Bunyip,20120,Balnarring,,no_eligible_route
+20412,Bunyip North,20120,Balnarring,,no_eligible_route
+20418,Burnley,20120,Balnarring,218.62,ok
+20419,Burnside (Vic.),20120,Balnarring,,no_eligible_route
+20420,Burnside Heights,20120,Balnarring,,no_eligible_route
+20426,Burwood (Vic.),20120,Balnarring,,no_eligible_route
+20427,Burwood East,20120,Balnarring,,no_eligible_route
+20435,Bylands,20120,Balnarring,,no_eligible_route
+20441,Cairnlea,20120,Balnarring,,no_eligible_route
+20442,Calder Park,20120,Balnarring,,no_eligible_route
+20443,Caldermeade,20120,Balnarring,,no_eligible_route
+20453,Camberwell (Vic.),20120,Balnarring,,no_eligible_route
+20455,Campbellfield,20120,Balnarring,,no_eligible_route
+20466,Cannons Creek,20120,Balnarring,,no_eligible_route
+20468,Canterbury (Vic.),20120,Balnarring,,no_eligible_route
+20474,Cape Schanck,20120,Balnarring,,no_eligible_route
+20476,Capel Sound,20120,Balnarring,195.1,ok
+20487,Cardinia,20120,Balnarring,,no_eligible_route
+20495,Carlton (Vic.),20120,Balnarring,210.17,ok
+20496,Carlton North,20120,Balnarring,227.97,ok
+20498,Carnegie,20120,Balnarring,189.6,ok
+20500,Caroline Springs,20120,Balnarring,,no_eligible_route
+20507,Carrum,20120,Balnarring,144.27,ok
+20508,Carrum Downs,20120,Balnarring,149.37,ok
+20512,Castella,20120,Balnarring,,no_eligible_route
+20517,Catani,20120,Balnarring,,no_eligible_route
+20521,Caulfield,20120,Balnarring,190.45,ok
+20522,Caulfield East,20120,Balnarring,182.63,ok
+20523,Caulfield North,20120,Balnarring,193.8,ok
+20524,Caulfield South,20120,Balnarring,197.87,ok
+20528,Chadstone,20120,Balnarring,229.68,ok
+20537,Chelsea,20120,Balnarring,149.62,ok
+20538,Chelsea Heights,20120,Balnarring,176.53,ok
+20539,Cheltenham (Vic.),20120,Balnarring,170.97,ok
+20541,Cherokee,20120,Balnarring,,no_eligible_route
+20555,Chintin,20120,Balnarring,,no_eligible_route
+20556,Chirnside Park,20120,Balnarring,,no_eligible_route
+20559,Christmas Hills (Vic.),20120,Balnarring,,no_eligible_route
+20560,Chum Creek,20120,Balnarring,,no_eligible_route
+20566,Clarinda,20120,Balnarring,215.48,ok
+20567,Clarkefield,20120,Balnarring,,no_eligible_route
+20569,Clayton,20120,Balnarring,218.02,ok
+20570,Clayton South,20120,Balnarring,229.83,ok
+20572,Clematis,20120,Balnarring,,no_eligible_route
+20574,Clifton Hill,20120,Balnarring,,no_eligible_route
+20576,Clonbinane,20120,Balnarring,,no_eligible_route
+20581,Clyde (Vic.),20120,Balnarring,,no_eligible_route
+20582,Clyde North,20120,Balnarring,,no_eligible_route
+20587,Cobaw,20120,Balnarring,,no_eligible_route
+20590,Cobblebank,20120,Balnarring,,no_eligible_route
+20596,Coburg,20120,Balnarring,,no_eligible_route
+20597,Coburg North,20120,Balnarring,,no_eligible_route
+20600,Cockatoo (Vic.),20120,Balnarring,,no_eligible_route
+20601,Cocoroc,20120,Balnarring,,no_eligible_route
+20605,Coimadai,20120,Balnarring,,no_eligible_route
+20613,Coldstream (Vic.),20120,Balnarring,,no_eligible_route
+20616,Collingwood (Vic.),20120,Balnarring,227.42,ok
+20624,Coolaroo,20120,Balnarring,,no_eligible_route
+20633,Cora Lynn,20120,Balnarring,,no_eligible_route
+20654,Cottles Bridge,20120,Balnarring,,no_eligible_route
+20661,Craigieburn,20120,Balnarring,,no_eligible_route
+20662,Cranbourne,20120,Balnarring,155.95,ok
+20663,Cranbourne East,20120,Balnarring,187.62,ok
+20664,Cranbourne North,20120,Balnarring,,no_eligible_route
+20665,Cranbourne South,20120,Balnarring,,no_eligible_route
+20666,Cranbourne West,20120,Balnarring,173.52,ok
+20670,Cremorne (Vic.),20120,Balnarring,197.78,ok
+20674,Crib Point,20120,Balnarring,68.33,ok
+20682,Croydon (Vic.),20120,Balnarring,,no_eligible_route
+20683,Croydon Hills,20120,Balnarring,,no_eligible_route
+20684,Croydon North,20120,Balnarring,,no_eligible_route
+20685,Croydon South,20120,Balnarring,,no_eligible_route
+20702,Dallas,20120,Balnarring,,no_eligible_route
+20703,Dalmore,20120,Balnarring,,no_eligible_route
+20707,Dandenong,20120,Balnarring,174.4,ok
+20708,Dandenong North,20120,Balnarring,,no_eligible_route
+20709,Dandenong South,20120,Balnarring,161.55,ok
+20712,Darley,20120,Balnarring,,no_eligible_route
+20716,Darraweit Guim,20120,Balnarring,,no_eligible_route
+20724,Deanside,20120,Balnarring,,no_eligible_route
+20728,Deepdene (Vic.),20120,Balnarring,,no_eligible_route
+20729,Deer Park,20120,Balnarring,,no_eligible_route
+20731,Delahey,20120,Balnarring,,no_eligible_route
+20743,Derrimut,20120,Balnarring,,no_eligible_route
+20748,Devon Meadows,20120,Balnarring,,no_eligible_route
+20750,Dewhurst,20120,Balnarring,,no_eligible_route
+20752,Diamond Creek,20120,Balnarring,,no_eligible_route
+20754,Diggers Rest,20120,Balnarring,,no_eligible_route
+20758,Dingley Village,20120,Balnarring,,no_eligible_route
+20762,Dixons Creek,20120,Balnarring,,no_eligible_route
+20766,Docklands,20120,Balnarring,227.53,ok
+20769,Don Valley,20120,Balnarring,,no_eligible_route
+20771,Doncaster,20120,Balnarring,,no_eligible_route
+20772,Doncaster East,20120,Balnarring,,no_eligible_route
+20773,Donnybrook (Vic.),20120,Balnarring,,no_eligible_route
+20774,Donvale,20120,Balnarring,,no_eligible_route
+20779,Doreen,20120,Balnarring,,no_eligible_route
+20783,Doveton,20120,Balnarring,207.28,ok
+20788,Dromana,20120,Balnarring,173.08,walk_only
+20825,Eaglemont,20120,Balnarring,,no_eligible_route
+20830,East Melbourne,20120,Balnarring,208.85,ok
+20833,East Warburton,20120,Balnarring,,no_eligible_route
+20843,Eden Park,20120,Balnarring,,no_eligible_route
+20848,Edithvale,20120,Balnarring,155.78,ok
+20864,Elsternwick,20120,Balnarring,206.2,ok
+20865,Eltham (Vic.),20120,Balnarring,,no_eligible_route
+20866,Eltham North,20120,Balnarring,,no_eligible_route
+20867,Elwood,20120,Balnarring,,no_eligible_route
+20868,Emerald (Vic.),20120,Balnarring,,no_eligible_route
+20871,Endeavour Hills,20120,Balnarring,,no_eligible_route
+20878,Epping (Vic.),20120,Balnarring,,no_eligible_route
+20885,Essendon,20120,Balnarring,,no_eligible_route
+20886,Essendon Fields,20120,Balnarring,,no_eligible_route
+20887,Essendon North,20120,Balnarring,,no_eligible_route
+20888,Essendon West,20120,Balnarring,,no_eligible_route
+20889,Eumemmerring,20120,Balnarring,,no_eligible_route
+20898,Exford,20120,Balnarring,,no_eligible_route
+20899,Eynesbury,20120,Balnarring,,no_eligible_route
+20901,Fairfield (Vic.),20120,Balnarring,,no_eligible_route
+20909,Fawkner,20120,Balnarring,,no_eligible_route
+20916,Fernshaw,20120,Balnarring,,no_eligible_route
+20917,Ferntree Gully,20120,Balnarring,,no_eligible_route
+20918,Ferny Creek,20120,Balnarring,,no_eligible_route
+20920,Fingal (Vic.),20120,Balnarring,,no_eligible_route
+20924,Fitzroy (Vic.),20120,Balnarring,226.3,ok
+20925,Fitzroy North,20120,Balnarring,,no_eligible_route
+20929,Flemington,20120,Balnarring,243.28,ok
+20930,Flinders (Vic.),20120,Balnarring,,no_eligible_route
+20935,Footscray,20120,Balnarring,215.37,ok
+20937,Forest Hill (Vic.),20120,Balnarring,,no_eligible_route
+20947,Frankston,20120,Balnarring,125.23,ok
+20948,Frankston North,20120,Balnarring,138.08,ok
+20949,Frankston South,20120,Balnarring,122.98,ok
+20950,Fraser Rise,20120,Balnarring,,no_eligible_route
+20965,Gardenvale,20120,Balnarring,206.28,ok
+20966,Garfield,20120,Balnarring,,no_eligible_route
+20967,Garfield North,20120,Balnarring,,no_eligible_route
+20979,Gembrook,20120,Balnarring,,no_eligible_route
+20995,Gilderoy,20120,Balnarring,,no_eligible_route
+21001,Gisborne,20120,Balnarring,,no_eligible_route
+21002,Gisborne South,20120,Balnarring,,no_eligible_route
+21004,Gladstone Park,20120,Balnarring,,no_eligible_route
+21005,Gladysdale,20120,Balnarring,,no_eligible_route
+21009,Glen Huntly,20120,Balnarring,177.83,ok
+21010,Glen Iris (Vic.),20120,Balnarring,,no_eligible_route
+21013,Glen Waverley,20120,Balnarring,,no_eligible_route
+21047,Glenroy (Vic.),20120,Balnarring,,no_eligible_route
+21059,Goldie,20120,Balnarring,,no_eligible_route
+21079,Gowanbrae,20120,Balnarring,,no_eligible_route
+21087,Grangefields,20120,Balnarring,,no_eligible_route
+21104,Greensborough,20120,Balnarring,,no_eligible_route
+21105,Greenvale (Vic.),20120,Balnarring,,no_eligible_route
+21115,Gruyere,20120,Balnarring,,no_eligible_route
+21121,Guys Hill,20120,Balnarring,,no_eligible_route
+21124,Hadfield,20120,Balnarring,,no_eligible_route
+21125,Hallam,20120,Balnarring,209.82,ok
+21131,Hampton (Vic.),20120,Balnarring,200.57,ok
+21132,Hampton East,20120,Balnarring,174.55,ok
+21133,Hampton Park,20120,Balnarring,,no_eligible_route
+21139,Harkaway,20120,Balnarring,,no_eligible_route
+21140,Harkness,20120,Balnarring,,no_eligible_route
+21145,Hastings (Vic.),20120,Balnarring,80.65,ok
+21152,Hawthorn (Vic.),20120,Balnarring,,no_eligible_route
+21153,Hawthorn East,20120,Balnarring,,no_eligible_route
+21158,Healesville,20120,Balnarring,,no_eligible_route
+21159,Heath Hill,20120,Balnarring,,no_eligible_route
+21161,Heathcote Junction,20120,Balnarring,,no_eligible_route
+21163,Heatherton,20120,Balnarring,196.9,ok
+21165,Heathmont,20120,Balnarring,,no_eligible_route
+21167,Heidelberg,20120,Balnarring,,no_eligible_route
+21168,Heidelberg Heights,20120,Balnarring,,no_eligible_route
+21169,Heidelberg West,20120,Balnarring,,no_eligible_route
+21176,Hesket,20120,Balnarring,,no_eligible_route
+21185,Highett,20120,Balnarring,163.12,ok
+21193,Hillside (Melton - Vic.),20120,Balnarring,,no_eligible_route
+21195,Hmas Cerberus,20120,Balnarring,84.97,ok
+21196,Hoddles Creek,20120,Balnarring,,no_eligible_route
+21202,Hopetoun Park,20120,Balnarring,,no_eligible_route
+21203,Hoppers Crossing,20120,Balnarring,,no_eligible_route
+21214,Hughesdale,20120,Balnarring,201.85,ok
+21215,Humevale,20120,Balnarring,,no_eligible_route
+21218,Huntingdale (Vic.),20120,Balnarring,206.28,ok
+21223,Hurstbridge,20120,Balnarring,,no_eligible_route
+21238,Iona,20120,Balnarring,,no_eligible_route
+21246,Ivanhoe (Vic.),20120,Balnarring,,no_eligible_route
+21247,Ivanhoe East,20120,Balnarring,,no_eligible_route
+21248,Jacana,20120,Balnarring,,no_eligible_route
+21277,Junction Village,20120,Balnarring,,no_eligible_route
+21284,Kalkallo,20120,Balnarring,,no_eligible_route
+21286,Kallista,20120,Balnarring,,no_eligible_route
+21287,Kalorama,20120,Balnarring,,no_eligible_route
+21294,Kangaroo Ground,20120,Balnarring,,no_eligible_route
+21312,Kealba,20120,Balnarring,,no_eligible_route
+21314,Keilor,20120,Balnarring,,no_eligible_route
+21315,Keilor Downs,20120,Balnarring,,no_eligible_route
+21316,Keilor East,20120,Balnarring,,no_eligible_route
+21317,Keilor Lodge,20120,Balnarring,,no_eligible_route
+21318,Keilor North,20120,Balnarring,,no_eligible_route
+21319,Keilor Park,20120,Balnarring,,no_eligible_route
+21327,Kensington (Vic.),20120,Balnarring,225.43,ok
+21333,Kerrie,20120,Balnarring,,no_eligible_route
+21336,Kew (Vic.),20120,Balnarring,,no_eligible_route
+21337,Kew East,20120,Balnarring,,no_eligible_route
+21339,Keysborough,20120,Balnarring,,no_eligible_route
+21354,Kilsyth,20120,Balnarring,,no_eligible_route
+21355,Kilsyth South,20120,Balnarring,,no_eligible_route
+21358,Kinglake,20120,Balnarring,,no_eligible_route
+21359,Kinglake Central,20120,Balnarring,,no_eligible_route
+21360,Kinglake West,20120,Balnarring,,no_eligible_route
+21362,Kings Park (Vic.),20120,Balnarring,,no_eligible_route
+21363,Kingsbury,20120,Balnarring,,no_eligible_route
+21365,Kingsville,20120,Balnarring,224.43,ok
+21374,Knoxfield,20120,Balnarring,,no_eligible_route
+21380,Koo Wee Rup,20120,Balnarring,,no_eligible_route
+21381,Koo Wee Rup North,20120,Balnarring,,no_eligible_route
+21393,Kooyong,20120,Balnarring,217.25,ok
+21411,Kurunjang,20120,Balnarring,,no_eligible_route
+21452,Lalor,20120,Balnarring,,no_eligible_route
+21456,Lancefield,20120,Balnarring,,no_eligible_route
+21459,Lang Lang,20120,Balnarring,,no_eligible_route
+21460,Lang Lang East,20120,Balnarring,,no_eligible_route
+21467,Langwarrin,20120,Balnarring,141.2,ok
+21468,Langwarrin South,20120,Balnarring,,no_eligible_route
+21473,Launching Place,20120,Balnarring,,no_eligible_route
+21476,Laverton (Vic.),20120,Balnarring,,no_eligible_route
+21477,Laverton North,20120,Balnarring,,no_eligible_route
+21504,Lilydale (Vic.),20120,Balnarring,,no_eligible_route
+21533,Long Forest,20120,Balnarring,,no_eligible_route
+21547,Lower Plenty,20120,Balnarring,,no_eligible_route
+21554,Lynbrook,20120,Balnarring,191.07,ok
+21555,Lyndhurst (Vic.),20120,Balnarring,,no_eligible_route
+21558,Lysterfield,20120,Balnarring,,no_eligible_route
+21559,Lysterfield South,20120,Balnarring,,no_eligible_route
+21561,Macclesfield (Vic.),20120,Balnarring,,no_eligible_route
+21562,Macedon,20120,Balnarring,,no_eligible_route
+21564,Macleod (Vic.),20120,Balnarring,,no_eligible_route
+21569,Maddingley,20120,Balnarring,,no_eligible_route
+21575,Maidstone,20120,Balnarring,247.62,ok
+21578,Main Ridge,20120,Balnarring,,no_eligible_route
+21586,Malvern (Vic.),20120,Balnarring,197.42,ok
+21587,Malvern East,20120,Balnarring,205.6,ok
+21588,Mambourin,20120,Balnarring,,no_eligible_route
+21597,Manor Lakes,20120,Balnarring,,no_eligible_route
+21604,Maribyrnong,20120,Balnarring,,no_eligible_route
+21619,Maryknoll,20120,Balnarring,,no_eligible_route
+21625,McCrae,20120,Balnarring,188.3,ok
+21629,McKinnon,20120,Balnarring,165.83,ok
+21635,Meadow Heights,20120,Balnarring,,no_eligible_route
+21640,Melbourne,20120,Balnarring,202.2,ok
+21641,Melbourne Airport,20120,Balnarring,,no_eligible_route
+21642,Melton (Vic.),20120,Balnarring,,no_eligible_route
+21643,Melton South,20120,Balnarring,,no_eligible_route
+21644,Melton West,20120,Balnarring,,no_eligible_route
+21648,Mentone,20120,Balnarring,159.78,ok
+21649,Menzies Creek,20120,Balnarring,,no_eligible_route
+21659,Mernda,20120,Balnarring,,no_eligible_route
+21662,Merricks,20120,Balnarring,121.85,walk_only
+21663,Merricks Beach,20120,Balnarring,88.47,walk_only
+21664,Merricks North,20120,Balnarring,68.62,walk_only
+21668,Merrimu,20120,Balnarring,,no_eligible_route
+21675,Mickleham,20120,Balnarring,,no_eligible_route
+21677,Middle Park (Vic.),20120,Balnarring,228.88,ok
+21683,Mill Park,20120,Balnarring,,no_eligible_route
+21685,Millgrove,20120,Balnarring,,no_eligible_route
+21706,Mitcham (Vic.),20120,Balnarring,,no_eligible_route
+21727,Monbulk,20120,Balnarring,,no_eligible_route
+21728,Monegeetta,20120,Balnarring,,no_eligible_route
+21731,Monomeith,20120,Balnarring,,no_eligible_route
+21732,Mont Albert,20120,Balnarring,,no_eligible_route
+21733,Mont Albert North,20120,Balnarring,,no_eligible_route
+21735,Montmorency,20120,Balnarring,,no_eligible_route
+21736,Montrose (Vic.),20120,Balnarring,,no_eligible_route
+21742,Moonee Ponds,20120,Balnarring,,no_eligible_route
+21746,Moorabbin,20120,Balnarring,187.43,ok
+21747,Moorabbin Airport,20120,Balnarring,,no_eligible_route
+21754,Moorooduc,20120,Balnarring,155.93,walk_only
+21755,Mooroolbark,20120,Balnarring,,no_eligible_route
+21760,Mordialloc,20120,Balnarring,164.97,ok
+21763,Mornington (Vic.),20120,Balnarring,232.53,walk_only
+21779,Mount Burnett,20120,Balnarring,,no_eligible_route
+21786,Mount Cottrell,20120,Balnarring,,no_eligible_route
+21787,Mount Dandenong,20120,Balnarring,,no_eligible_route
+21793,Mount Eliza,20120,Balnarring,137.28,ok
+21795,Mount Evelyn,20120,Balnarring,,no_eligible_route
+21801,Mount Macedon,20120,Balnarring,,no_eligible_route
+21803,Mount Martha,20120,Balnarring,156.82,ok
+21814,Mount Toolebewong,20120,Balnarring,,no_eligible_route
+21816,Mount Waverley,20120,Balnarring,,no_eligible_route
+21827,Mulgrave (Vic.),20120,Balnarring,,no_eligible_route
+21849,Murrumbeena,20120,Balnarring,201.97,ok
+21872,Nangana,20120,Balnarring,,no_eligible_route
+21878,Nar Nar Goon,20120,Balnarring,,no_eligible_route
+21879,Nar Nar Goon North,20120,Balnarring,,no_eligible_route
+21893,Narre Warren,20120,Balnarring,209.25,ok
+21894,Narre Warren East,20120,Balnarring,,no_eligible_route
+21895,Narre Warren North,20120,Balnarring,,no_eligible_route
+21896,Narre Warren South,20120,Balnarring,,no_eligible_route
+21921,New Gisborne,20120,Balnarring,,no_eligible_route
+21934,Newport (Vic.),20120,Balnarring,,no_eligible_route
+21942,Niddrie,20120,Balnarring,,no_eligible_route
+21952,Noble Park,20120,Balnarring,179.08,ok
+21953,Noble Park North,20120,Balnarring,212.27,ok
+21966,North Melbourne,20120,Balnarring,210.17,ok
+21969,North Warrandyte,20120,Balnarring,,no_eligible_route
+21971,Northcote,20120,Balnarring,,no_eligible_route
+21974,Notting Hill,20120,Balnarring,,no_eligible_route
+21985,Nunawading,20120,Balnarring,,no_eligible_route
+21991,Nutfield,20120,Balnarring,,no_eligible_route
+21998,Oak Park,20120,Balnarring,,no_eligible_route
+21999,Oaklands Junction,20120,Balnarring,,no_eligible_route
+22000,Oakleigh,20120,Balnarring,204.52,ok
+22001,Oakleigh East,20120,Balnarring,221.65,ok
+22002,Oakleigh South,20120,Balnarring,194.48,ok
+22006,Officer,20120,Balnarring,223.35,ok
+22007,Officer South,20120,Balnarring,,no_eligible_route
+22009,Olinda (Vic.),20120,Balnarring,,no_eligible_route
+22016,Ormond,20120,Balnarring,170.85,ok
+22027,Pakenham,20120,Balnarring,222.4,ok
+22028,Pakenham South,20120,Balnarring,,no_eligible_route
+22029,Pakenham Upper,20120,Balnarring,,no_eligible_route
+22032,Panton Hill,20120,Balnarring,,no_eligible_route
+22036,Park Orchards,20120,Balnarring,,no_eligible_route
+22037,Parkdale,20120,Balnarring,160.88,ok
+22038,Parkville (Vic.),20120,Balnarring,231.8,ok
+22041,Pascoe Vale,20120,Balnarring,,no_eligible_route
+22042,Pascoe Vale South,20120,Balnarring,,no_eligible_route
+22047,Patterson Lakes,20120,Balnarring,161.6,ok
+22050,Pearcedale,20120,Balnarring,,no_eligible_route
+22058,Pentland Hills,20120,Balnarring,,no_eligible_route
+22064,Pheasant Creek (Vic.),20120,Balnarring,,no_eligible_route
+22084,Plenty (Vic.),20120,Balnarring,,no_eligible_route
+22085,Plumpton (Vic.),20120,Balnarring,,no_eligible_route
+22086,Point Cook,20120,Balnarring,,no_eligible_route
+22087,Point Leo,20120,Balnarring,164.78,walk_only
+22107,Port Melbourne,20120,Balnarring,,no_eligible_route
+22113,Portsea,20120,Balnarring,,no_eligible_route
+22115,Powelltown,20120,Balnarring,,no_eligible_route
+22118,Prahran,20120,Balnarring,196.35,ok
+22121,Preston (Vic.),20120,Balnarring,,no_eligible_route
+22122,Princes Hill,20120,Balnarring,232.93,ok
+22132,Quandong,20120,Balnarring,,no_eligible_route
+22141,Ravenhall,20120,Balnarring,,no_eligible_route
+22148,Red Hill (Vic.),20120,Balnarring,144.45,walk_only
+22149,Red Hill South,20120,Balnarring,176.4,walk_only
+22160,Research,20120,Balnarring,,no_eligible_route
+22161,Reservoir (Vic.),20120,Balnarring,,no_eligible_route
+22170,Richmond (Vic.),20120,Balnarring,208.37,ok
+22172,Riddells Creek,20120,Balnarring,,no_eligible_route
+22174,Ringwood (Vic.),20120,Balnarring,,no_eligible_route
+22175,Ringwood East,20120,Balnarring,,no_eligible_route
+22176,Ringwood North,20120,Balnarring,,no_eligible_route
+22179,Ripponlea,20120,Balnarring,226.65,ok
+22185,Rochford,20120,Balnarring,,no_eligible_route
+22186,Rockbank,20120,Balnarring,,no_eligible_route
+22193,Romsey,20120,Balnarring,,no_eligible_route
+22194,Rosanna,20120,Balnarring,,no_eligible_route
+22198,Rosebud,20120,Balnarring,205.62,ok
+22207,Rowville,20120,Balnarring,,no_eligible_route
+22208,Roxburgh Park,20120,Balnarring,,no_eligible_route
+22220,Rye,20120,Balnarring,217.82,ok
+22221,Rythdale,20120,Balnarring,,no_eligible_route
+22222,Safety Beach (Vic.),20120,Balnarring,172.78,ok
+22232,Sandhurst,20120,Balnarring,168.32,ok
+22234,Sandringham (Vic.),20120,Balnarring,198.32,ok
+22239,Sassafras (Vic.),20120,Balnarring,,no_eligible_route
+22242,Scoresby,20120,Balnarring,,no_eligible_route
+22247,Seabrook,20120,Balnarring,,no_eligible_route
+22249,Seaford (Vic.),20120,Balnarring,148.37,ok
+22250,Seaholme,20120,Balnarring,,no_eligible_route
+22256,Seddon (Vic.),20120,Balnarring,215.08,ok
+22258,Selby,20120,Balnarring,,no_eligible_route
+22263,Seville,20120,Balnarring,,no_eligible_route
+22264,Seville East,20120,Balnarring,,no_eligible_route
+22278,Sherbrooke,20120,Balnarring,,no_eligible_route
+22279,Shoreham,20120,Balnarring,237.62,walk_only
+22281,Silvan,20120,Balnarring,,no_eligible_route
+22291,Skye (Vic.),20120,Balnarring,181.6,ok
+22295,Smiths Gully,20120,Balnarring,,no_eligible_route
+22303,Somers,20120,Balnarring,67.07,ok
+22304,Somerton (Vic.),20120,Balnarring,,no_eligible_route
+22305,Somerville (Vic.),20120,Balnarring,112.88,ok
+22306,Sorrento (Vic.),20120,Balnarring,208.58,ok
+22309,South Kingsville,20120,Balnarring,,no_eligible_route
+22310,South Melbourne,20120,Balnarring,213.82,ok
+22311,South Morang,20120,Balnarring,,no_eligible_route
+22313,South Wharf,20120,Balnarring,216.9,ok
+22314,South Yarra,20120,Balnarring,185.23,ok
+22315,Southbank,20120,Balnarring,206.9,ok
+22319,Spotswood,20120,Balnarring,,no_eligible_route
+22325,Springfield (Macedon Ranges - Vic.),20120,Balnarring,,no_eligible_route
+22328,Springvale (Vic.),20120,Balnarring,189.02,ok
+22329,Springvale South,20120,Balnarring,202.28,ok
+22330,St Albans (Vic.),20120,Balnarring,,no_eligible_route
+22332,St Andrews (Vic.),20120,Balnarring,,no_eligible_route
+22333,St Andrews Beach,20120,Balnarring,,no_eligible_route
+22339,St Helena,20120,Balnarring,,no_eligible_route
+22343,St Kilda (Vic.),20120,Balnarring,,no_eligible_route
+22344,St Kilda East,20120,Balnarring,212.58,ok
+22345,St Kilda West,20120,Balnarring,,no_eligible_route
+22355,Steels Creek,20120,Balnarring,,no_eligible_route
+22375,Strathewen,20120,Balnarring,,no_eligible_route
+22380,Strathmore (Vic.),20120,Balnarring,,no_eligible_route
+22381,Strathmore Heights,20120,Balnarring,,no_eligible_route
+22382,Strathtulloh,20120,Balnarring,,no_eligible_route
+22391,Sunbury,20120,Balnarring,,no_eligible_route
+22395,Sunshine (Vic.),20120,Balnarring,,no_eligible_route
+22396,Sunshine North,20120,Balnarring,,no_eligible_route
+22397,Sunshine West,20120,Balnarring,,no_eligible_route
+22399,Surrey Hills,20120,Balnarring,,no_eligible_route
+22414,Sydenham (Vic.),20120,Balnarring,,no_eligible_route
+22451,Tarneit,20120,Balnarring,,no_eligible_route
+22457,Tarrawarra,20120,Balnarring,,no_eligible_route
+22473,Taylors Hill,20120,Balnarring,,no_eligible_route
+22474,Taylors Lakes,20120,Balnarring,,no_eligible_route
+22476,Tecoma,20120,Balnarring,,no_eligible_route
+22483,Templestowe,20120,Balnarring,,no_eligible_route
+22484,Templestowe Lower,20120,Balnarring,,no_eligible_route
+22496,The Basin (Vic.),20120,Balnarring,,no_eligible_route
+22501,The Patch,20120,Balnarring,,no_eligible_route
+22504,Thomastown,20120,Balnarring,,no_eligible_route
+22508,Thornbury,20120,Balnarring,,no_eligible_route
+22509,Thornhill Park,20120,Balnarring,,no_eligible_route
+22514,Three Bridges,20120,Balnarring,,no_eligible_route
+22531,Tonimbuk,20120,Balnarring,,no_eligible_route
+22536,Toolangi,20120,Balnarring,,no_eligible_route
+22537,Toolern Vale,20120,Balnarring,,no_eligible_route
+22546,Tooradin,20120,Balnarring,,no_eligible_route
+22547,Toorak,20120,Balnarring,199.7,ok
+22550,Tootgarook,20120,Balnarring,201.23,ok
+22556,Tottenham (Vic.),20120,Balnarring,,no_eligible_route
+22572,Travancore,20120,Balnarring,238.67,ok
+22576,Tremont,20120,Balnarring,,no_eligible_route
+22582,Truganina,20120,Balnarring,,no_eligible_route
+22584,Tuerong,20120,Balnarring,117.25,walk_only
+22586,Tullamarine,20120,Balnarring,,no_eligible_route
+22594,Tyabb,20120,Balnarring,91.6,ok
+22598,Tynong,20120,Balnarring,,no_eligible_route
+22599,Tynong North,20120,Balnarring,,no_eligible_route
+22614,Upper Ferntree Gully,20120,Balnarring,,no_eligible_route
+22617,Upper Plenty,20120,Balnarring,,no_eligible_route
+22620,Upwey,20120,Balnarring,,no_eligible_route
+22627,Vermont,20120,Balnarring,,no_eligible_route
+22628,Vermont South,20120,Balnarring,,no_eligible_route
+22629,Vervale,20120,Balnarring,,no_eligible_route
+22633,Viewbank,20120,Balnarring,,no_eligible_route
+22661,Wallan,20120,Balnarring,,no_eligible_route
+22672,Wandin East,20120,Balnarring,,no_eligible_route
+22673,Wandin North,20120,Balnarring,,no_eligible_route
+22676,Wandong,20120,Balnarring,,no_eligible_route
+22685,Wantirna,20120,Balnarring,,no_eligible_route
+22686,Wantirna South,20120,Balnarring,,no_eligible_route
+22689,Warburton (Vic.),20120,Balnarring,,no_eligible_route
+22695,Warneet,20120,Balnarring,,no_eligible_route
+22702,Warrandyte,20120,Balnarring,,no_eligible_route
+22703,Warrandyte South,20120,Balnarring,,no_eligible_route
+22704,Warranwood,20120,Balnarring,,no_eligible_route
+22717,Waterford Park,20120,Balnarring,,no_eligible_route
+22720,Waterways,20120,Balnarring,181.43,ok
+22721,Watsonia,20120,Balnarring,,no_eligible_route
+22722,Watsonia North,20120,Balnarring,,no_eligible_route
+22723,Watsons Creek (Vic.),20120,Balnarring,,no_eligible_route
+22727,Wattle Glen,20120,Balnarring,,no_eligible_route
+22740,Weir Views,20120,Balnarring,,no_eligible_route
+22750,Werribee,20120,Balnarring,,no_eligible_route
+22751,Werribee South,20120,Balnarring,,no_eligible_route
+22753,Wesburn,20120,Balnarring,,no_eligible_route
+22756,West Footscray,20120,Balnarring,226.35,ok
+22757,West Melbourne,20120,Balnarring,238.87,ok
+22761,Westmeadows,20120,Balnarring,,no_eligible_route
+22766,Wheelers Hill,20120,Balnarring,,no_eligible_route
+22775,Whittlesea,20120,Balnarring,,no_eligible_route
+22784,Wildwood,20120,Balnarring,,no_eligible_route
+22791,Williams Landing,20120,Balnarring,,no_eligible_route
+22792,Williamstown (Vic.),20120,Balnarring,,no_eligible_route
+22793,Williamstown North,20120,Balnarring,,no_eligible_route
+22805,Windsor (Vic.),20120,Balnarring,207.48,ok
+22820,Wollert,20120,Balnarring,,no_eligible_route
+22825,Wonga Park,20120,Balnarring,,no_eligible_route
+22843,Woodstock (Vic.),20120,Balnarring,,no_eligible_route
+22857,Woori Yallock,20120,Balnarring,,no_eligible_route
+22883,Wyndham Vale,20120,Balnarring,,no_eligible_route
+22892,Yallambie,20120,Balnarring,,no_eligible_route
+22898,Yan Yean,20120,Balnarring,,no_eligible_route
+22906,Yannathan,20120,Balnarring,,no_eligible_route
+22910,Yarra Glen,20120,Balnarring,,no_eligible_route
+22911,Yarra Junction,20120,Balnarring,,no_eligible_route
+22916,Yarrambat,20120,Balnarring,,no_eligible_route
+22917,Yarraville,20120,Balnarring,236.48,ok
+22925,Yellingbo,20120,Balnarring,,no_eligible_route
+22930,Yering,20120,Balnarring,,no_eligible_route
+22941,Yuroke,20120,Balnarring,,no_eligible_route

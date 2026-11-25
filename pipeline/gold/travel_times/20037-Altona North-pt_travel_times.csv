@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20037,Altona North,75.17,ok
+20003,Aberfeldie,20037,Altona North,78.38,ok
+20011,Aintree,20037,Altona North,103.2,ok
+20015,Airport West,20037,Altona North,104.82,ok
+20017,Albanvale,20037,Altona North,91.33,ok
+20018,Albert Park (Vic.),20037,Altona North,69.28,ok
+20021,Albion (Vic.),20037,Altona North,64.7,ok
+20034,Alphington,20037,Altona North,83.17,ok
+20035,Altona (Vic.),20037,Altona North,43.43,ok
+20036,Altona Meadows,20037,Altona North,40.58,ok
+20037,Altona North,20037,Altona North,0.0,same_centroid
+20062,Ardeer,20037,Altona North,76.88,ok
+20066,Armadale (Vic.),20037,Altona North,75.4,ok
+20071,Arthurs Creek,20037,Altona North,,no_eligible_route
+20072,Arthurs Seat,20037,Altona North,241.92,ok
+20075,Ascot Vale,20037,Altona North,62.47,ok
+20077,Ashburton,20037,Altona North,82.95,ok
+20078,Ashwood,20037,Altona North,94.37,ok
+20079,Aspendale,20037,Altona North,116.65,ok
+20080,Aspendale Gardens,20037,Altona North,136.98,ok
+20082,Attwood,20037,Altona North,110.53,ok
+20089,Avondale Heights,20037,Altona North,75.6,ok
+20091,Avonsleigh,20037,Altona North,,no_eligible_route
+20095,Bacchus Marsh,20037,Altona North,,no_eligible_route
+20097,Badger Creek,20037,Altona North,200.03,ok
+20105,Balaclava (Vic.),20037,Altona North,78.2,ok
+20120,Balnarring,20037,Altona North,,no_eligible_route
+20121,Balnarring Beach,20037,Altona North,,no_eligible_route
+20123,Balwyn,20037,Altona North,101.13,ok
+20124,Balwyn North,20037,Altona North,101.07,ok
+20131,Bangholme,20037,Altona North,168.25,ok
+20169,Baxter,20037,Altona North,157.0,ok
+20171,Bayles,20037,Altona North,,no_eligible_route
+20173,Bayswater (Vic.),20037,Altona North,117.82,ok
+20174,Bayswater North,20037,Altona North,127.78,ok
+20175,Beaconsfield (Vic.),20037,Altona North,157.4,ok
+20176,Beaconsfield Upper,20037,Altona North,,no_eligible_route
+20182,Beaumaris (Vic.),20037,Altona North,114.53,ok
+20187,Beenak,20037,Altona North,,no_eligible_route
+20188,Belgrave,20037,Altona North,130.9,ok
+20189,Belgrave Heights,20037,Altona North,162.57,ok
+20190,Belgrave South,20037,Altona North,163.38,ok
+20198,Bellfield (Banyule - Vic.),20037,Altona North,95.92,ok
+20207,Bend Of Islands,20037,Altona North,,no_eligible_route
+20212,Benloch,20037,Altona North,,no_eligible_route
+20214,Bentleigh,20037,Altona North,98.43,ok
+20215,Bentleigh East,20037,Altona North,101.38,ok
+20224,Berwick,20037,Altona North,130.9,ok
+20233,Beveridge,20037,Altona North,141.08,ok
+20237,Big Pats Creek,20037,Altona North,,no_eligible_route
+20248,Bittern,20037,Altona North,174.98,ok
+20251,Black Rock (Vic.),20037,Altona North,114.85,ok
+20252,Blackburn,20037,Altona North,88.15,ok
+20253,Blackburn North,20037,Altona North,101.42,ok
+20254,Blackburn South,20037,Altona North,102.48,ok
+20257,Blairgowrie,20037,Altona North,235.95,ok
+20260,Blind Bight,20037,Altona North,,no_eligible_route
+20272,Bolinda,20037,Altona North,,no_eligible_route
+20278,Bonbeach,20037,Altona North,121.65,ok
+20280,Boneo,20037,Altona North,,no_eligible_route
+20282,Bonnie Brook,20037,Altona North,136.38,ok
+20304,Boronia,20037,Altona North,120.28,ok
+20307,Botanic Ridge,20037,Altona North,172.95,ok
+20314,Box Hill (Vic.),20037,Altona North,86.6,ok
+20315,Box Hill North,20037,Altona North,100.8,ok
+20316,Box Hill South,20037,Altona North,93.75,ok
+20320,Braeside,20037,Altona North,143.73,ok
+20324,Braybrook,20037,Altona North,59.1,ok
+20331,Briar Hill,20037,Altona North,121.88,ok
+20337,Brighton (Vic.),20037,Altona North,90.97,ok
+20338,Brighton East,20037,Altona North,97.22,ok
+20346,Broadmeadows (Vic.),20037,Altona North,103.47,ok
+20351,Brookfield (Vic.),20037,Altona North,163.5,ok
+20352,Brooklyn (Vic.),20037,Altona North,40.48,ok
+20361,Brunswick (Vic.),20037,Altona North,77.27,ok
+20362,Brunswick East,20037,Altona North,84.93,ok
+20363,Brunswick West,20037,Altona North,85.93,ok
+20381,Bulla (Vic.),20037,Altona North,143.1,ok
+20386,Bulleen,20037,Altona North,100.05,ok
+20387,Bullengarook,20037,Altona North,,no_eligible_route
+20399,Bundoora (Vic.),20037,Altona North,115.9,ok
+20411,Bunyip,20037,Altona North,,no_eligible_route
+20412,Bunyip North,20037,Altona North,,no_eligible_route
+20418,Burnley,20037,Altona North,77.57,ok
+20419,Burnside (Vic.),20037,Altona North,85.77,ok
+20420,Burnside Heights,20037,Altona North,93.58,ok
+20426,Burwood (Vic.),20037,Altona North,103.25,ok
+20427,Burwood East,20037,Altona North,100.48,ok
+20435,Bylands,20037,Altona North,,no_eligible_route
+20441,Cairnlea,20037,Altona North,76.53,ok
+20442,Calder Park,20037,Altona North,97.85,ok
+20443,Caldermeade,20037,Altona North,,no_eligible_route
+20453,Camberwell (Vic.),20037,Altona North,81.88,ok
+20455,Campbellfield,20037,Altona North,110.82,ok
+20466,Cannons Creek,20037,Altona North,,no_eligible_route
+20468,Canterbury (Vic.),20037,Altona North,85.58,ok
+20474,Cape Schanck,20037,Altona North,,no_eligible_route
+20476,Capel Sound,20037,Altona North,221.3,ok
+20487,Cardinia,20037,Altona North,,no_eligible_route
+20495,Carlton (Vic.),20037,Altona North,63.5,ok
+20496,Carlton North,20037,Altona North,81.67,ok
+20498,Carnegie,20037,Altona North,92.18,ok
+20500,Caroline Springs,20037,Altona North,92.23,ok
+20507,Carrum,20037,Altona North,121.47,ok
+20508,Carrum Downs,20037,Altona North,136.25,ok
+20512,Castella,20037,Altona North,,no_eligible_route
+20517,Catani,20037,Altona North,,no_eligible_route
+20521,Caulfield,20037,Altona North,93.68,ok
+20522,Caulfield East,20037,Altona North,85.38,ok
+20523,Caulfield North,20037,Altona North,85.5,ok
+20524,Caulfield South,20037,Altona North,98.22,ok
+20528,Chadstone,20037,Altona North,105.65,ok
+20537,Chelsea,20037,Altona North,118.72,ok
+20538,Chelsea Heights,20037,Altona North,142.83,ok
+20539,Cheltenham (Vic.),20037,Altona North,108.18,ok
+20541,Cherokee,20037,Altona North,,no_eligible_route
+20555,Chintin,20037,Altona North,,no_eligible_route
+20556,Chirnside Park,20037,Altona North,140.02,ok
+20559,Christmas Hills (Vic.),20037,Altona North,,no_eligible_route
+20560,Chum Creek,20037,Altona North,,no_eligible_route
+20566,Clarinda,20037,Altona North,113.48,ok
+20567,Clarkefield,20037,Altona North,,no_eligible_route
+20569,Clayton,20037,Altona North,104.82,ok
+20570,Clayton South,20037,Altona North,118.8,ok
+20572,Clematis,20037,Altona North,,no_eligible_route
+20574,Clifton Hill,20037,Altona North,73.25,ok
+20576,Clonbinane,20037,Altona North,,no_eligible_route
+20581,Clyde (Vic.),20037,Altona North,182.6,ok
+20582,Clyde North,20037,Altona North,153.92,ok
+20587,Cobaw,20037,Altona North,,no_eligible_route
+20590,Cobblebank,20037,Altona North,143.15,ok
+20596,Coburg,20037,Altona North,85.18,ok
+20597,Coburg North,20037,Altona North,94.75,ok
+20600,Cockatoo (Vic.),20037,Altona North,,no_eligible_route
+20601,Cocoroc,20037,Altona North,,no_eligible_route
+20605,Coimadai,20037,Altona North,,no_eligible_route
+20613,Coldstream (Vic.),20037,Altona North,,no_eligible_route
+20616,Collingwood (Vic.),20037,Altona North,72.62,ok
+20624,Coolaroo,20037,Altona North,105.03,ok
+20633,Cora Lynn,20037,Altona North,,no_eligible_route
+20654,Cottles Bridge,20037,Altona North,,no_eligible_route
+20661,Craigieburn,20037,Altona North,115.6,ok
+20662,Cranbourne,20037,Altona North,143.77,ok
+20663,Cranbourne East,20037,Altona North,143.2,ok
+20664,Cranbourne North,20037,Altona North,139.3,ok
+20665,Cranbourne South,20037,Altona North,176.3,ok
+20666,Cranbourne West,20037,Altona North,142.02,ok
+20670,Cremorne (Vic.),20037,Altona North,71.55,ok
+20674,Crib Point,20037,Altona North,183.95,ok
+20682,Croydon (Vic.),20037,Altona North,104.92,ok
+20683,Croydon Hills,20037,Altona North,129.25,ok
+20684,Croydon North,20037,Altona North,123.67,ok
+20685,Croydon South,20037,Altona North,131.67,ok
+20702,Dallas,20037,Altona North,109.18,ok
+20703,Dalmore,20037,Altona North,,no_eligible_route
+20707,Dandenong,20037,Altona North,115.08,ok
+20708,Dandenong North,20037,Altona North,132.12,ok
+20709,Dandenong South,20037,Altona North,136.13,ok
+20712,Darley,20037,Altona North,,no_eligible_route
+20716,Darraweit Guim,20037,Altona North,,no_eligible_route
+20724,Deanside,20037,Altona North,115.6,ok
+20728,Deepdene (Vic.),20037,Altona North,93.77,ok
+20729,Deer Park,20037,Altona North,74.72,ok
+20731,Delahey,20037,Altona North,86.72,ok
+20743,Derrimut,20037,Altona North,87.6,ok
+20748,Devon Meadows,20037,Altona North,189.35,ok
+20750,Dewhurst,20037,Altona North,,no_eligible_route
+20752,Diamond Creek,20037,Altona North,127.65,ok
+20754,Diggers Rest,20037,Altona North,92.8,ok
+20758,Dingley Village,20037,Altona North,125.08,ok
+20762,Dixons Creek,20037,Altona North,,no_eligible_route
+20766,Docklands,20037,Altona North,56.55,ok
+20769,Don Valley,20037,Altona North,,no_eligible_route
+20771,Doncaster,20037,Altona North,97.55,ok
+20772,Doncaster East,20037,Altona North,111.17,ok
+20773,Donnybrook (Vic.),20037,Altona North,143.45,ok
+20774,Donvale,20037,Altona North,117.93,ok
+20779,Doreen,20037,Altona North,139.13,ok
+20783,Doveton,20037,Altona North,134.03,ok
+20788,Dromana,20037,Altona North,231.08,ok
+20825,Eaglemont,20037,Altona North,98.7,ok
+20830,East Melbourne,20037,Altona North,65.77,ok
+20833,East Warburton,20037,Altona North,,no_eligible_route
+20843,Eden Park,20037,Altona North,,no_eligible_route
+20848,Edithvale,20037,Altona North,118.85,ok
+20864,Elsternwick,20037,Altona North,86.12,ok
+20865,Eltham (Vic.),20037,Altona North,124.62,ok
+20866,Eltham North,20037,Altona North,125.78,ok
+20867,Elwood,20037,Altona North,92.3,ok
+20868,Emerald (Vic.),20037,Altona North,,no_eligible_route
+20871,Endeavour Hills,20037,Altona North,141.37,ok
+20878,Epping (Vic.),20037,Altona North,130.9,ok
+20885,Essendon,20037,Altona North,84.62,ok
+20886,Essendon Fields,20037,Altona North,107.77,ok
+20887,Essendon North,20037,Altona North,88.87,ok
+20888,Essendon West,20037,Altona North,69.78,ok
+20889,Eumemmerring,20037,Altona North,138.87,ok
+20898,Exford,20037,Altona North,,no_eligible_route
+20899,Eynesbury,20037,Altona North,,no_eligible_route
+20901,Fairfield (Vic.),20037,Altona North,83.77,ok
+20909,Fawkner,20037,Altona North,103.27,ok
+20916,Fernshaw,20037,Altona North,,no_eligible_route
+20917,Ferntree Gully,20037,Altona North,127.05,ok
+20918,Ferny Creek,20037,Altona North,162.18,ok
+20920,Fingal (Vic.),20037,Altona North,,no_eligible_route
+20924,Fitzroy (Vic.),20037,Altona North,69.48,ok
+20925,Fitzroy North,20037,Altona North,80.55,ok
+20929,Flemington,20037,Altona North,73.68,ok
+20930,Flinders (Vic.),20037,Altona North,,no_eligible_route
+20935,Footscray,20037,Altona North,48.58,ok
+20937,Forest Hill (Vic.),20037,Altona North,103.47,ok
+20947,Frankston,20037,Altona North,142.43,ok
+20948,Frankston North,20037,Altona North,156.28,ok
+20949,Frankston South,20037,Altona North,168.37,ok
+20950,Fraser Rise,20037,Altona North,108.6,ok
+20965,Gardenvale,20037,Altona North,87.4,ok
+20966,Garfield,20037,Altona North,,no_eligible_route
+20967,Garfield North,20037,Altona North,,no_eligible_route
+20979,Gembrook,20037,Altona North,,no_eligible_route
+20995,Gilderoy,20037,Altona North,,no_eligible_route
+21001,Gisborne,20037,Altona North,,no_eligible_route
+21002,Gisborne South,20037,Altona North,,no_eligible_route
+21004,Gladstone Park,20037,Altona North,118.37,ok
+21005,Gladysdale,20037,Altona North,,no_eligible_route
+21009,Glen Huntly,20037,Altona North,89.97,ok
+21010,Glen Iris (Vic.),20037,Altona North,98.0,ok
+21013,Glen Waverley,20037,Altona North,108.58,ok
+21047,Glenroy (Vic.),20037,Altona North,99.02,ok
+21059,Goldie,20037,Altona North,,no_eligible_route
+21079,Gowanbrae,20037,Altona North,115.83,ok
+21087,Grangefields,20037,Altona North,141.83,ok
+21104,Greensborough,20037,Altona North,110.03,ok
+21105,Greenvale (Vic.),20037,Altona North,124.7,ok
+21115,Gruyere,20037,Altona North,,no_eligible_route
+21121,Guys Hill,20037,Altona North,,no_eligible_route
+21124,Hadfield,20037,Altona North,103.3,ok
+21125,Hallam,20037,Altona North,136.02,ok
+21131,Hampton (Vic.),20037,Altona North,99.8,ok
+21132,Hampton East,20037,Altona North,105.2,ok
+21133,Hampton Park,20037,Altona North,138.43,ok
+21139,Harkaway,20037,Altona North,,no_eligible_route
+21140,Harkness,20037,Altona North,164.98,ok
+21145,Hastings (Vic.),20037,Altona North,176.52,ok
+21152,Hawthorn (Vic.),20037,Altona North,76.75,ok
+21153,Hawthorn East,20037,Altona North,80.45,ok
+21158,Healesville,20037,Altona North,203.95,ok
+21159,Heath Hill,20037,Altona North,,no_eligible_route
+21161,Heathcote Junction,20037,Altona North,,no_eligible_route
+21163,Heatherton,20037,Altona North,121.5,ok
+21165,Heathmont,20037,Altona North,108.08,ok
+21167,Heidelberg,20037,Altona North,100.83,ok
+21168,Heidelberg Heights,20037,Altona North,104.0,ok
+21169,Heidelberg West,20037,Altona North,101.02,ok
+21176,Hesket,20037,Altona North,,no_eligible_route
+21185,Highett,20037,Altona North,97.97,ok
+21193,Hillside (Melton - Vic.),20037,Altona North,89.88,ok
+21195,Hmas Cerberus,20037,Altona North,,no_eligible_route
+21196,Hoddles Creek,20037,Altona North,,no_eligible_route
+21202,Hopetoun Park,20037,Altona North,,no_eligible_route
+21203,Hoppers Crossing,20037,Altona North,82.55,ok
+21214,Hughesdale,20037,Altona North,93.6,ok
+21215,Humevale,20037,Altona North,,no_eligible_route
+21218,Huntingdale (Vic.),20037,Altona North,99.03,ok
+21223,Hurstbridge,20037,Altona North,128.2,ok
+21238,Iona,20037,Altona North,,no_eligible_route
+21246,Ivanhoe (Vic.),20037,Altona North,87.77,ok
+21247,Ivanhoe East,20037,Altona North,93.35,ok
+21248,Jacana,20037,Altona North,103.58,ok
+21277,Junction Village,20037,Altona North,175.48,ok
+21284,Kalkallo,20037,Altona North,148.63,ok
+21286,Kallista,20037,Altona North,165.62,ok
+21287,Kalorama,20037,Altona North,131.88,ok
+21294,Kangaroo Ground,20037,Altona North,170.45,ok
+21312,Kealba,20037,Altona North,74.43,ok
+21314,Keilor,20037,Altona North,101.22,ok
+21315,Keilor Downs,20037,Altona North,87.82,ok
+21316,Keilor East,20037,Altona North,66.48,ok
+21317,Keilor Lodge,20037,Altona North,92.28,ok
+21318,Keilor North,20037,Altona North,98.35,ok
+21319,Keilor Park,20037,Altona North,92.62,ok
+21327,Kensington (Vic.),20037,Altona North,64.13,ok
+21333,Kerrie,20037,Altona North,,no_eligible_route
+21336,Kew (Vic.),20037,Altona North,86.1,ok
+21337,Kew East,20037,Altona North,89.13,ok
+21339,Keysborough,20037,Altona North,131.17,ok
+21354,Kilsyth,20037,Altona North,121.27,ok
+21355,Kilsyth South,20037,Altona North,136.35,ok
+21358,Kinglake,20037,Altona North,,no_eligible_route
+21359,Kinglake Central,20037,Altona North,,no_eligible_route
+21360,Kinglake West,20037,Altona North,,no_eligible_route
+21362,Kings Park (Vic.),20037,Altona North,81.67,ok
+21363,Kingsbury,20037,Altona North,115.12,ok
+21365,Kingsville,20037,Altona North,43.4,ok
+21374,Knoxfield,20037,Altona North,123.93,ok
+21380,Koo Wee Rup,20037,Altona North,,no_eligible_route
+21381,Koo Wee Rup North,20037,Altona North,,no_eligible_route
+21393,Kooyong,20037,Altona North,82.35,ok
+21411,Kurunjang,20037,Altona North,142.18,ok
+21452,Lalor,20037,Altona North,102.45,ok
+21456,Lancefield,20037,Altona North,,no_eligible_route
+21459,Lang Lang,20037,Altona North,,no_eligible_route
+21460,Lang Lang East,20037,Altona North,,no_eligible_route
+21467,Langwarrin,20037,Altona North,156.4,ok
+21468,Langwarrin South,20037,Altona North,,no_eligible_route
+21473,Launching Place,20037,Altona North,154.4,ok
+21476,Laverton (Vic.),20037,Altona North,39.83,ok
+21477,Laverton North,20037,Altona North,54.25,ok
+21504,Lilydale (Vic.),20037,Altona North,134.05,ok
+21533,Long Forest,20037,Altona North,,no_eligible_route
+21547,Lower Plenty,20037,Altona North,134.4,ok
+21554,Lynbrook,20037,Altona North,124.82,ok
+21555,Lyndhurst (Vic.),20037,Altona North,170.4,ok
+21558,Lysterfield,20037,Altona North,,no_eligible_route
+21559,Lysterfield South,20037,Altona North,186.98,ok
+21561,Macclesfield (Vic.),20037,Altona North,,no_eligible_route
+21562,Macedon,20037,Altona North,,no_eligible_route
+21564,Macleod (Vic.),20037,Altona North,103.12,ok
+21569,Maddingley,20037,Altona North,,no_eligible_route
+21575,Maidstone,20037,Altona North,65.15,ok
+21578,Main Ridge,20037,Altona North,,no_eligible_route
+21586,Malvern (Vic.),20037,Altona North,87.42,ok
+21587,Malvern East,20037,Altona North,94.95,ok
+21588,Mambourin,20037,Altona North,,no_eligible_route
+21597,Manor Lakes,20037,Altona North,112.5,ok
+21604,Maribyrnong,20037,Altona North,70.1,ok
+21619,Maryknoll,20037,Altona North,,no_eligible_route
+21625,McCrae,20037,Altona North,214.5,ok
+21629,McKinnon,20037,Altona North,87.27,ok
+21635,Meadow Heights,20037,Altona North,116.47,ok
+21640,Melbourne,20037,Altona North,67.13,ok
+21641,Melbourne Airport,20037,Altona North,,no_eligible_route
+21642,Melton (Vic.),20037,Altona North,150.37,ok
+21643,Melton South,20037,Altona North,162.73,ok
+21644,Melton West,20037,Altona North,138.37,ok
+21648,Mentone,20037,Altona North,102.95,ok
+21649,Menzies Creek,20037,Altona North,,no_eligible_route
+21659,Mernda,20037,Altona North,131.93,ok
+21662,Merricks,20037,Altona North,,no_eligible_route
+21663,Merricks Beach,20037,Altona North,,no_eligible_route
+21664,Merricks North,20037,Altona North,,no_eligible_route
+21668,Merrimu,20037,Altona North,,no_eligible_route
+21675,Mickleham,20037,Altona North,145.62,ok
+21677,Middle Park (Vic.),20037,Altona North,72.57,ok
+21683,Mill Park,20037,Altona North,126.42,ok
+21685,Millgrove,20037,Altona North,,no_eligible_route
+21706,Mitcham (Vic.),20037,Altona North,99.82,ok
+21727,Monbulk,20037,Altona North,173.07,ok
+21728,Monegeetta,20037,Altona North,,no_eligible_route
+21731,Monomeith,20037,Altona North,,no_eligible_route
+21732,Mont Albert,20037,Altona North,92.98,ok
+21733,Mont Albert North,20037,Altona North,101.97,ok
+21735,Montmorency,20037,Altona North,110.68,ok
+21736,Montrose (Vic.),20037,Altona North,124.18,ok
+21742,Moonee Ponds,20037,Altona North,71.82,ok
+21746,Moorabbin,20037,Altona North,111.17,ok
+21747,Moorabbin Airport,20037,Altona North,126.45,ok
+21754,Moorooduc,20037,Altona North,,no_eligible_route
+21755,Mooroolbark,20037,Altona North,114.12,ok
+21760,Mordialloc,20037,Altona North,118.25,ok
+21763,Mornington (Vic.),20037,Altona North,177.47,ok
+21779,Mount Burnett,20037,Altona North,,no_eligible_route
+21786,Mount Cottrell,20037,Altona North,,no_eligible_route
+21787,Mount Dandenong,20037,Altona North,135.88,ok
+21793,Mount Eliza,20037,Altona North,155.65,ok
+21795,Mount Evelyn,20037,Altona North,140.05,ok
+21801,Mount Macedon,20037,Altona North,,no_eligible_route
+21803,Mount Martha,20037,Altona North,183.02,ok
+21814,Mount Toolebewong,20037,Altona North,,no_eligible_route
+21816,Mount Waverley,20037,Altona North,100.02,ok
+21827,Mulgrave (Vic.),20037,Altona North,126.33,ok
+21849,Murrumbeena,20037,Altona North,93.72,ok
+21872,Nangana,20037,Altona North,,no_eligible_route
+21878,Nar Nar Goon,20037,Altona North,,no_eligible_route
+21879,Nar Nar Goon North,20037,Altona North,,no_eligible_route
+21893,Narre Warren,20037,Altona North,135.55,ok
+21894,Narre Warren East,20037,Altona North,,no_eligible_route
+21895,Narre Warren North,20037,Altona North,146.27,ok
+21896,Narre Warren South,20037,Altona North,138.82,ok
+21921,New Gisborne,20037,Altona North,,no_eligible_route
+21934,Newport (Vic.),20037,Altona North,42.57,ok
+21942,Niddrie,20037,Altona North,100.82,ok
+21952,Noble Park,20037,Altona North,105.82,ok
+21953,Noble Park North,20037,Altona North,135.48,ok
+21966,North Melbourne,20037,Altona North,64.95,ok
+21969,North Warrandyte,20037,Altona North,137.42,ok
+21971,Northcote,20037,Altona North,84.65,ok
+21974,Notting Hill,20037,Altona North,107.57,ok
+21985,Nunawading,20037,Altona North,92.3,ok
+21991,Nutfield,20037,Altona North,,no_eligible_route
+21998,Oak Park,20037,Altona North,91.25,ok
+21999,Oaklands Junction,20037,Altona North,,no_eligible_route
+22000,Oakleigh,20037,Altona North,93.78,ok
+22001,Oakleigh East,20037,Altona North,103.6,ok
+22002,Oakleigh South,20037,Altona North,105.42,ok
+22006,Officer,20037,Altona North,150.55,ok
+22007,Officer South,20037,Altona North,186.28,ok
+22009,Olinda (Vic.),20037,Altona North,160.53,ok
+22016,Ormond,20037,Altona North,87.7,ok
+22027,Pakenham,20037,Altona North,149.6,ok
+22028,Pakenham South,20037,Altona North,,no_eligible_route
+22029,Pakenham Upper,20037,Altona North,,no_eligible_route
+22032,Panton Hill,20037,Altona North,,no_eligible_route
+22036,Park Orchards,20037,Altona North,116.62,ok
+22037,Parkdale,20037,Altona North,108.03,ok
+22038,Parkville (Vic.),20037,Altona North,78.15,ok
+22041,Pascoe Vale,20037,Altona North,95.62,ok
+22042,Pascoe Vale South,20037,Altona North,91.35,ok
+22047,Patterson Lakes,20037,Altona North,130.33,ok
+22050,Pearcedale,20037,Altona North,193.6,ok
+22058,Pentland Hills,20037,Altona North,,no_eligible_route
+22064,Pheasant Creek (Vic.),20037,Altona North,,no_eligible_route
+22084,Plenty (Vic.),20037,Altona North,133.62,ok
+22085,Plumpton (Vic.),20037,Altona North,,no_eligible_route
+22086,Point Cook,20037,Altona North,77.27,ok
+22087,Point Leo,20037,Altona North,,no_eligible_route
+22107,Port Melbourne,20037,Altona North,68.87,ok
+22113,Portsea,20037,Altona North,,no_eligible_route
+22115,Powelltown,20037,Altona North,,no_eligible_route
+22118,Prahran,20037,Altona North,80.93,ok
+22121,Preston (Vic.),20037,Altona North,96.05,ok
+22122,Princes Hill,20037,Altona North,79.3,ok
+22132,Quandong,20037,Altona North,,no_eligible_route
+22141,Ravenhall,20037,Altona North,112.05,ok
+22148,Red Hill (Vic.),20037,Altona North,,no_eligible_route
+22149,Red Hill South,20037,Altona North,,no_eligible_route
+22160,Research,20037,Altona North,131.28,ok
+22161,Reservoir (Vic.),20037,Altona North,99.27,ok
+22170,Richmond (Vic.),20037,Altona North,76.88,ok
+22172,Riddells Creek,20037,Altona North,,no_eligible_route
+22174,Ringwood (Vic.),20037,Altona North,106.45,ok
+22175,Ringwood East,20037,Altona North,105.0,ok
+22176,Ringwood North,20037,Altona North,114.63,ok
+22179,Ripponlea,20037,Altona North,76.83,ok
+22185,Rochford,20037,Altona North,,no_eligible_route
+22186,Rockbank,20037,Altona North,118.63,ok
+22193,Romsey,20037,Altona North,,no_eligible_route
+22194,Rosanna,20037,Altona North,97.58,ok
+22198,Rosebud,20037,Altona North,231.82,ok
+22207,Rowville,20037,Altona North,137.42,ok
+22208,Roxburgh Park,20037,Altona North,108.87,ok
+22220,Rye,20037,Altona North,244.02,ok
+22221,Rythdale,20037,Altona North,,no_eligible_route
+22222,Safety Beach (Vic.),20037,Altona North,198.98,ok
+22232,Sandhurst,20037,Altona North,158.67,ok
+22234,Sandringham (Vic.),20037,Altona North,103.77,ok
+22239,Sassafras (Vic.),20037,Altona North,144.95,ok
+22242,Scoresby,20037,Altona North,120.58,ok
+22247,Seabrook,20037,Altona North,70.83,ok
+22249,Seaford (Vic.),20037,Altona North,133.57,ok
+22250,Seaholme,20037,Altona North,31.73,ok
+22256,Seddon (Vic.),20037,Altona North,44.88,ok
+22258,Selby,20037,Altona North,163.5,ok
+22263,Seville,20037,Altona North,165.57,ok
+22264,Seville East,20037,Altona North,152.45,ok
+22278,Sherbrooke,20037,Altona North,155.68,ok
+22279,Shoreham,20037,Altona North,,no_eligible_route
+22281,Silvan,20037,Altona North,165.17,ok
+22291,Skye (Vic.),20037,Altona North,169.53,ok
+22295,Smiths Gully,20037,Altona North,,no_eligible_route
+22303,Somers,20037,Altona North,,no_eligible_route
+22304,Somerton (Vic.),20037,Altona North,113.23,ok
+22305,Somerville (Vic.),20037,Altona North,181.57,ok
+22306,Sorrento (Vic.),20037,Altona North,234.78,ok
+22309,South Kingsville,20037,Altona North,39.33,ok
+22310,South Melbourne,20037,Altona North,63.87,ok
+22311,South Morang,20037,Altona North,126.15,ok
+22313,South Wharf,20037,Altona North,50.18,ok
+22314,South Yarra,20037,Altona North,67.33,ok
+22315,Southbank,20037,Altona North,65.35,ok
+22319,Spotswood,20037,Altona North,44.97,ok
+22325,Springfield (Macedon Ranges - Vic.),20037,Altona North,,no_eligible_route
+22328,Springvale (Vic.),20037,Altona North,106.78,ok
+22329,Springvale South,20037,Altona North,111.15,ok
+22330,St Albans (Vic.),20037,Altona North,66.7,ok
+22332,St Andrews (Vic.),20037,Altona North,,no_eligible_route
+22333,St Andrews Beach,20037,Altona North,,no_eligible_route
+22339,St Helena,20037,Altona North,114.87,ok
+22343,St Kilda (Vic.),20037,Altona North,81.42,ok
+22344,St Kilda East,20037,Altona North,88.02,ok
+22345,St Kilda West,20037,Altona North,71.25,ok
+22355,Steels Creek,20037,Altona North,,no_eligible_route
+22375,Strathewen,20037,Altona North,,no_eligible_route
+22380,Strathmore (Vic.),20037,Altona North,93.72,ok
+22381,Strathmore Heights,20037,Altona North,104.5,ok
+22382,Strathtulloh,20037,Altona North,,no_eligible_route
+22391,Sunbury,20037,Altona North,125.62,ok
+22395,Sunshine (Vic.),20037,Altona North,48.8,ok
+22396,Sunshine North,20037,Altona North,62.8,ok
+22397,Sunshine West,20037,Altona North,57.8,ok
+22399,Surrey Hills,20037,Altona North,93.4,ok
+22414,Sydenham (Vic.),20037,Altona North,81.1,ok
+22451,Tarneit,20037,Altona North,96.82,ok
+22457,Tarrawarra,20037,Altona North,179.55,ok
+22473,Taylors Hill,20037,Altona North,88.57,ok
+22474,Taylors Lakes,20037,Altona North,75.52,ok
+22476,Tecoma,20037,Altona North,127.9,ok
+22483,Templestowe,20037,Altona North,103.18,ok
+22484,Templestowe Lower,20037,Altona North,98.98,ok
+22496,The Basin (Vic.),20037,Altona North,136.08,ok
+22501,The Patch,20037,Altona North,163.63,ok
+22504,Thomastown,20037,Altona North,107.75,ok
+22508,Thornbury,20037,Altona North,90.53,ok
+22509,Thornhill Park,20037,Altona North,,no_eligible_route
+22514,Three Bridges,20037,Altona North,,no_eligible_route
+22531,Tonimbuk,20037,Altona North,,no_eligible_route
+22536,Toolangi,20037,Altona North,,no_eligible_route
+22537,Toolern Vale,20037,Altona North,,no_eligible_route
+22546,Tooradin,20037,Altona North,,no_eligible_route
+22547,Toorak,20037,Altona North,83.82,ok
+22550,Tootgarook,20037,Altona North,227.43,ok
+22556,Tottenham (Vic.),20037,Altona North,49.43,ok
+22572,Travancore,20037,Altona North,81.72,ok
+22576,Tremont,20037,Altona North,141.08,ok
+22582,Truganina,20037,Altona North,155.48,ok
+22584,Tuerong,20037,Altona North,,no_eligible_route
+22586,Tullamarine,20037,Altona North,116.05,ok
+22594,Tyabb,20037,Altona North,170.43,ok
+22598,Tynong,20037,Altona North,,no_eligible_route
+22599,Tynong North,20037,Altona North,,no_eligible_route
+22614,Upper Ferntree Gully,20037,Altona North,125.05,ok
+22617,Upper Plenty,20037,Altona North,,no_eligible_route
+22620,Upwey,20037,Altona North,127.77,ok
+22627,Vermont,20037,Altona North,114.9,ok
+22628,Vermont South,20037,Altona North,118.75,ok
+22629,Vervale,20037,Altona North,,no_eligible_route
+22633,Viewbank,20037,Altona North,106.58,ok
+22661,Wallan,20037,Altona North,,no_eligible_route
+22672,Wandin East,20037,Altona North,,no_eligible_route
+22673,Wandin North,20037,Altona North,138.53,ok
+22676,Wandong,20037,Altona North,,no_eligible_route
+22685,Wantirna,20037,Altona North,122.45,ok
+22686,Wantirna South,20037,Altona North,127.5,ok
+22689,Warburton (Vic.),20037,Altona North,,no_eligible_route
+22695,Warneet,20037,Altona North,,no_eligible_route
+22702,Warrandyte,20037,Altona North,124.35,ok
+22703,Warrandyte South,20037,Altona North,146.93,ok
+22704,Warranwood,20037,Altona North,124.25,ok
+22717,Waterford Park,20037,Altona North,,no_eligible_route
+22720,Waterways,20037,Altona North,133.58,ok
+22721,Watsonia,20037,Altona North,98.03,ok
+22722,Watsonia North,20037,Altona North,121.57,ok
+22723,Watsons Creek (Vic.),20037,Altona North,,no_eligible_route
+22727,Wattle Glen,20037,Altona North,131.95,ok
+22740,Weir Views,20037,Altona North,193.2,ok
+22750,Werribee,20037,Altona North,71.07,ok
+22751,Werribee South,20037,Altona North,108.08,ok
+22753,Wesburn,20037,Altona North,170.5,ok
+22756,West Footscray,20037,Altona North,35.8,ok
+22757,West Melbourne,20037,Altona North,76.23,ok
+22761,Westmeadows,20037,Altona North,103.28,ok
+22766,Wheelers Hill,20037,Altona North,112.02,ok
+22775,Whittlesea,20037,Altona North,,no_eligible_route
+22784,Wildwood,20037,Altona North,,no_eligible_route
+22791,Williams Landing,20037,Altona North,74.28,ok
+22792,Williamstown (Vic.),20037,Altona North,45.98,ok
+22793,Williamstown North,20037,Altona North,46.58,ok
+22805,Windsor (Vic.),20037,Altona North,74.1,ok
+22820,Wollert,20037,Altona North,138.97,ok
+22825,Wonga Park,20037,Altona North,140.28,ok
+22843,Woodstock (Vic.),20037,Altona North,,no_eligible_route
+22857,Woori Yallock,20037,Altona North,149.65,ok
+22883,Wyndham Vale,20037,Altona North,100.88,ok
+22892,Yallambie,20037,Altona North,120.32,ok
+22898,Yan Yean,20037,Altona North,157.7,ok
+22906,Yannathan,20037,Altona North,,no_eligible_route
+22910,Yarra Glen,20037,Altona North,176.85,ok
+22911,Yarra Junction,20037,Altona North,174.77,ok
+22916,Yarrambat,20037,Altona North,130.18,ok
+22917,Yarraville,20037,Altona North,41.55,ok
+22925,Yellingbo,20037,Altona North,,no_eligible_route
+22930,Yering,20037,Altona North,,no_eligible_route
+22941,Yuroke,20037,Altona North,166.23,ok

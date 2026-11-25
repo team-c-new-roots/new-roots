@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20072,Arthurs Seat,233.18,ok
+20003,Aberfeldie,20072,Arthurs Seat,,no_eligible_route
+20011,Aintree,20072,Arthurs Seat,,no_eligible_route
+20015,Airport West,20072,Arthurs Seat,,no_eligible_route
+20017,Albanvale,20072,Arthurs Seat,,no_eligible_route
+20018,Albert Park (Vic.),20072,Arthurs Seat,228.8,ok
+20021,Albion (Vic.),20072,Arthurs Seat,,no_eligible_route
+20034,Alphington,20072,Arthurs Seat,,no_eligible_route
+20035,Altona (Vic.),20072,Arthurs Seat,,no_eligible_route
+20036,Altona Meadows,20072,Arthurs Seat,,no_eligible_route
+20037,Altona North,20072,Arthurs Seat,,no_eligible_route
+20062,Ardeer,20072,Arthurs Seat,,no_eligible_route
+20066,Armadale (Vic.),20072,Arthurs Seat,190.83,ok
+20071,Arthurs Creek,20072,Arthurs Seat,,no_eligible_route
+20072,Arthurs Seat,20072,Arthurs Seat,0.0,same_centroid
+20075,Ascot Vale,20072,Arthurs Seat,,no_eligible_route
+20077,Ashburton,20072,Arthurs Seat,,no_eligible_route
+20078,Ashwood,20072,Arthurs Seat,,no_eligible_route
+20079,Aspendale,20072,Arthurs Seat,163.78,ok
+20080,Aspendale Gardens,20072,Arthurs Seat,,no_eligible_route
+20082,Attwood,20072,Arthurs Seat,,no_eligible_route
+20089,Avondale Heights,20072,Arthurs Seat,,no_eligible_route
+20091,Avonsleigh,20072,Arthurs Seat,,no_eligible_route
+20095,Bacchus Marsh,20072,Arthurs Seat,,no_eligible_route
+20097,Badger Creek,20072,Arthurs Seat,,no_eligible_route
+20105,Balaclava (Vic.),20072,Arthurs Seat,235.78,ok
+20120,Balnarring,20072,Arthurs Seat,,no_eligible_route
+20121,Balnarring Beach,20072,Arthurs Seat,,no_eligible_route
+20123,Balwyn,20072,Arthurs Seat,,no_eligible_route
+20124,Balwyn North,20072,Arthurs Seat,,no_eligible_route
+20131,Bangholme,20072,Arthurs Seat,,no_eligible_route
+20169,Baxter,20072,Arthurs Seat,,no_eligible_route
+20171,Bayles,20072,Arthurs Seat,,no_eligible_route
+20173,Bayswater (Vic.),20072,Arthurs Seat,,no_eligible_route
+20174,Bayswater North,20072,Arthurs Seat,,no_eligible_route
+20175,Beaconsfield (Vic.),20072,Arthurs Seat,239.55,ok
+20176,Beaconsfield Upper,20072,Arthurs Seat,,no_eligible_route
+20182,Beaumaris (Vic.),20072,Arthurs Seat,198.95,ok
+20187,Beenak,20072,Arthurs Seat,,no_eligible_route
+20188,Belgrave,20072,Arthurs Seat,,no_eligible_route
+20189,Belgrave Heights,20072,Arthurs Seat,,no_eligible_route
+20190,Belgrave South,20072,Arthurs Seat,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20072,Arthurs Seat,,no_eligible_route
+20207,Bend Of Islands,20072,Arthurs Seat,,no_eligible_route
+20212,Benloch,20072,Arthurs Seat,,no_eligible_route
+20214,Bentleigh,20072,Arthurs Seat,180.5,ok
+20215,Bentleigh East,20072,Arthurs Seat,207.33,ok
+20224,Berwick,20072,Arthurs Seat,212.35,ok
+20233,Beveridge,20072,Arthurs Seat,,no_eligible_route
+20237,Big Pats Creek,20072,Arthurs Seat,,no_eligible_route
+20248,Bittern,20072,Arthurs Seat,,no_eligible_route
+20251,Black Rock (Vic.),20072,Arthurs Seat,,no_eligible_route
+20252,Blackburn,20072,Arthurs Seat,,no_eligible_route
+20253,Blackburn North,20072,Arthurs Seat,,no_eligible_route
+20254,Blackburn South,20072,Arthurs Seat,,no_eligible_route
+20257,Blairgowrie,20072,Arthurs Seat,87.4,ok
+20260,Blind Bight,20072,Arthurs Seat,,no_eligible_route
+20272,Bolinda,20072,Arthurs Seat,,no_eligible_route
+20278,Bonbeach,20072,Arthurs Seat,157.5,ok
+20280,Boneo,20072,Arthurs Seat,129.27,walk_only
+20282,Bonnie Brook,20072,Arthurs Seat,,no_eligible_route
+20304,Boronia,20072,Arthurs Seat,,no_eligible_route
+20307,Botanic Ridge,20072,Arthurs Seat,,no_eligible_route
+20314,Box Hill (Vic.),20072,Arthurs Seat,,no_eligible_route
+20315,Box Hill North,20072,Arthurs Seat,,no_eligible_route
+20316,Box Hill South,20072,Arthurs Seat,,no_eligible_route
+20320,Braeside,20072,Arthurs Seat,,no_eligible_route
+20324,Braybrook,20072,Arthurs Seat,,no_eligible_route
+20331,Briar Hill,20072,Arthurs Seat,,no_eligible_route
+20337,Brighton (Vic.),20072,Arthurs Seat,,no_eligible_route
+20338,Brighton East,20072,Arthurs Seat,200.07,ok
+20346,Broadmeadows (Vic.),20072,Arthurs Seat,,no_eligible_route
+20351,Brookfield (Vic.),20072,Arthurs Seat,,no_eligible_route
+20352,Brooklyn (Vic.),20072,Arthurs Seat,,no_eligible_route
+20361,Brunswick (Vic.),20072,Arthurs Seat,,no_eligible_route
+20362,Brunswick East,20072,Arthurs Seat,,no_eligible_route
+20363,Brunswick West,20072,Arthurs Seat,,no_eligible_route
+20381,Bulla (Vic.),20072,Arthurs Seat,,no_eligible_route
+20386,Bulleen,20072,Arthurs Seat,,no_eligible_route
+20387,Bullengarook,20072,Arthurs Seat,,no_eligible_route
+20399,Bundoora (Vic.),20072,Arthurs Seat,,no_eligible_route
+20411,Bunyip,20072,Arthurs Seat,,no_eligible_route
+20412,Bunyip North,20072,Arthurs Seat,,no_eligible_route
+20418,Burnley,20072,Arthurs Seat,227.27,ok
+20419,Burnside (Vic.),20072,Arthurs Seat,,no_eligible_route
+20420,Burnside Heights,20072,Arthurs Seat,,no_eligible_route
+20426,Burwood (Vic.),20072,Arthurs Seat,,no_eligible_route
+20427,Burwood East,20072,Arthurs Seat,,no_eligible_route
+20435,Bylands,20072,Arthurs Seat,,no_eligible_route
+20441,Cairnlea,20072,Arthurs Seat,,no_eligible_route
+20442,Calder Park,20072,Arthurs Seat,,no_eligible_route
+20443,Caldermeade,20072,Arthurs Seat,,no_eligible_route
+20453,Camberwell (Vic.),20072,Arthurs Seat,,no_eligible_route
+20455,Campbellfield,20072,Arthurs Seat,,no_eligible_route
+20466,Cannons Creek,20072,Arthurs Seat,,no_eligible_route
+20468,Canterbury (Vic.),20072,Arthurs Seat,,no_eligible_route
+20474,Cape Schanck,20072,Arthurs Seat,188.52,walk_only
+20476,Capel Sound,20072,Arthurs Seat,69.75,ok
+20487,Cardinia,20072,Arthurs Seat,,no_eligible_route
+20495,Carlton (Vic.),20072,Arthurs Seat,218.82,ok
+20496,Carlton North,20072,Arthurs Seat,236.62,ok
+20498,Carnegie,20072,Arthurs Seat,198.25,ok
+20500,Caroline Springs,20072,Arthurs Seat,,no_eligible_route
+20507,Carrum,20072,Arthurs Seat,152.92,ok
+20508,Carrum Downs,20072,Arthurs Seat,158.02,ok
+20512,Castella,20072,Arthurs Seat,,no_eligible_route
+20517,Catani,20072,Arthurs Seat,,no_eligible_route
+20521,Caulfield,20072,Arthurs Seat,199.1,ok
+20522,Caulfield East,20072,Arthurs Seat,191.28,ok
+20523,Caulfield North,20072,Arthurs Seat,202.45,ok
+20524,Caulfield South,20072,Arthurs Seat,206.52,ok
+20528,Chadstone,20072,Arthurs Seat,238.33,ok
+20537,Chelsea,20072,Arthurs Seat,158.27,ok
+20538,Chelsea Heights,20072,Arthurs Seat,,no_eligible_route
+20539,Cheltenham (Vic.),20072,Arthurs Seat,179.62,ok
+20541,Cherokee,20072,Arthurs Seat,,no_eligible_route
+20555,Chintin,20072,Arthurs Seat,,no_eligible_route
+20556,Chirnside Park,20072,Arthurs Seat,,no_eligible_route
+20559,Christmas Hills (Vic.),20072,Arthurs Seat,,no_eligible_route
+20560,Chum Creek,20072,Arthurs Seat,,no_eligible_route
+20566,Clarinda,20072,Arthurs Seat,224.13,ok
+20567,Clarkefield,20072,Arthurs Seat,,no_eligible_route
+20569,Clayton,20072,Arthurs Seat,226.67,ok
+20570,Clayton South,20072,Arthurs Seat,,no_eligible_route
+20572,Clematis,20072,Arthurs Seat,,no_eligible_route
+20574,Clifton Hill,20072,Arthurs Seat,,no_eligible_route
+20576,Clonbinane,20072,Arthurs Seat,,no_eligible_route
+20581,Clyde (Vic.),20072,Arthurs Seat,,no_eligible_route
+20582,Clyde North,20072,Arthurs Seat,,no_eligible_route
+20587,Cobaw,20072,Arthurs Seat,,no_eligible_route
+20590,Cobblebank,20072,Arthurs Seat,,no_eligible_route
+20596,Coburg,20072,Arthurs Seat,,no_eligible_route
+20597,Coburg North,20072,Arthurs Seat,,no_eligible_route
+20600,Cockatoo (Vic.),20072,Arthurs Seat,,no_eligible_route
+20601,Cocoroc,20072,Arthurs Seat,,no_eligible_route
+20605,Coimadai,20072,Arthurs Seat,,no_eligible_route
+20613,Coldstream (Vic.),20072,Arthurs Seat,,no_eligible_route
+20616,Collingwood (Vic.),20072,Arthurs Seat,236.07,ok
+20624,Coolaroo,20072,Arthurs Seat,,no_eligible_route
+20633,Cora Lynn,20072,Arthurs Seat,,no_eligible_route
+20654,Cottles Bridge,20072,Arthurs Seat,,no_eligible_route
+20661,Craigieburn,20072,Arthurs Seat,,no_eligible_route
+20662,Cranbourne,20072,Arthurs Seat,164.6,ok
+20663,Cranbourne East,20072,Arthurs Seat,196.27,ok
+20664,Cranbourne North,20072,Arthurs Seat,,no_eligible_route
+20665,Cranbourne South,20072,Arthurs Seat,,no_eligible_route
+20666,Cranbourne West,20072,Arthurs Seat,182.17,ok
+20670,Cremorne (Vic.),20072,Arthurs Seat,206.43,ok
+20674,Crib Point,20072,Arthurs Seat,,no_eligible_route
+20682,Croydon (Vic.),20072,Arthurs Seat,,no_eligible_route
+20683,Croydon Hills,20072,Arthurs Seat,,no_eligible_route
+20684,Croydon North,20072,Arthurs Seat,,no_eligible_route
+20685,Croydon South,20072,Arthurs Seat,,no_eligible_route
+20702,Dallas,20072,Arthurs Seat,,no_eligible_route
+20703,Dalmore,20072,Arthurs Seat,,no_eligible_route
+20707,Dandenong,20072,Arthurs Seat,183.05,ok
+20708,Dandenong North,20072,Arthurs Seat,,no_eligible_route
+20709,Dandenong South,20072,Arthurs Seat,170.2,ok
+20712,Darley,20072,Arthurs Seat,,no_eligible_route
+20716,Darraweit Guim,20072,Arthurs Seat,,no_eligible_route
+20724,Deanside,20072,Arthurs Seat,,no_eligible_route
+20728,Deepdene (Vic.),20072,Arthurs Seat,,no_eligible_route
+20729,Deer Park,20072,Arthurs Seat,,no_eligible_route
+20731,Delahey,20072,Arthurs Seat,,no_eligible_route
+20743,Derrimut,20072,Arthurs Seat,,no_eligible_route
+20748,Devon Meadows,20072,Arthurs Seat,,no_eligible_route
+20750,Dewhurst,20072,Arthurs Seat,,no_eligible_route
+20752,Diamond Creek,20072,Arthurs Seat,,no_eligible_route
+20754,Diggers Rest,20072,Arthurs Seat,,no_eligible_route
+20758,Dingley Village,20072,Arthurs Seat,,no_eligible_route
+20762,Dixons Creek,20072,Arthurs Seat,,no_eligible_route
+20766,Docklands,20072,Arthurs Seat,236.18,ok
+20769,Don Valley,20072,Arthurs Seat,,no_eligible_route
+20771,Doncaster,20072,Arthurs Seat,,no_eligible_route
+20772,Doncaster East,20072,Arthurs Seat,,no_eligible_route
+20773,Donnybrook (Vic.),20072,Arthurs Seat,,no_eligible_route
+20774,Donvale,20072,Arthurs Seat,,no_eligible_route
+20779,Doreen,20072,Arthurs Seat,,no_eligible_route
+20783,Doveton,20072,Arthurs Seat,209.47,ok
+20788,Dromana,20072,Arthurs Seat,113.72,walk_only
+20825,Eaglemont,20072,Arthurs Seat,,no_eligible_route
+20830,East Melbourne,20072,Arthurs Seat,217.5,ok
+20833,East Warburton,20072,Arthurs Seat,,no_eligible_route
+20843,Eden Park,20072,Arthurs Seat,,no_eligible_route
+20848,Edithvale,20072,Arthurs Seat,164.43,ok
+20864,Elsternwick,20072,Arthurs Seat,214.85,ok
+20865,Eltham (Vic.),20072,Arthurs Seat,,no_eligible_route
+20866,Eltham North,20072,Arthurs Seat,,no_eligible_route
+20867,Elwood,20072,Arthurs Seat,,no_eligible_route
+20868,Emerald (Vic.),20072,Arthurs Seat,,no_eligible_route
+20871,Endeavour Hills,20072,Arthurs Seat,,no_eligible_route
+20878,Epping (Vic.),20072,Arthurs Seat,,no_eligible_route
+20885,Essendon,20072,Arthurs Seat,,no_eligible_route
+20886,Essendon Fields,20072,Arthurs Seat,,no_eligible_route
+20887,Essendon North,20072,Arthurs Seat,,no_eligible_route
+20888,Essendon West,20072,Arthurs Seat,,no_eligible_route
+20889,Eumemmerring,20072,Arthurs Seat,,no_eligible_route
+20898,Exford,20072,Arthurs Seat,,no_eligible_route
+20899,Eynesbury,20072,Arthurs Seat,,no_eligible_route
+20901,Fairfield (Vic.),20072,Arthurs Seat,,no_eligible_route
+20909,Fawkner,20072,Arthurs Seat,,no_eligible_route
+20916,Fernshaw,20072,Arthurs Seat,,no_eligible_route
+20917,Ferntree Gully,20072,Arthurs Seat,,no_eligible_route
+20918,Ferny Creek,20072,Arthurs Seat,,no_eligible_route
+20920,Fingal (Vic.),20072,Arthurs Seat,180.98,walk_only
+20924,Fitzroy (Vic.),20072,Arthurs Seat,234.95,ok
+20925,Fitzroy North,20072,Arthurs Seat,,no_eligible_route
+20929,Flemington,20072,Arthurs Seat,251.93,ok
+20930,Flinders (Vic.),20072,Arthurs Seat,152.03,walk_only
+20935,Footscray,20072,Arthurs Seat,224.02,ok
+20937,Forest Hill (Vic.),20072,Arthurs Seat,,no_eligible_route
+20947,Frankston,20072,Arthurs Seat,144.88,ok
+20948,Frankston North,20072,Arthurs Seat,146.73,ok
+20949,Frankston South,20072,Arthurs Seat,,no_eligible_route
+20950,Fraser Rise,20072,Arthurs Seat,,no_eligible_route
+20965,Gardenvale,20072,Arthurs Seat,214.93,ok
+20966,Garfield,20072,Arthurs Seat,,no_eligible_route
+20967,Garfield North,20072,Arthurs Seat,,no_eligible_route
+20979,Gembrook,20072,Arthurs Seat,,no_eligible_route
+20995,Gilderoy,20072,Arthurs Seat,,no_eligible_route
+21001,Gisborne,20072,Arthurs Seat,,no_eligible_route
+21002,Gisborne South,20072,Arthurs Seat,,no_eligible_route
+21004,Gladstone Park,20072,Arthurs Seat,,no_eligible_route
+21005,Gladysdale,20072,Arthurs Seat,,no_eligible_route
+21009,Glen Huntly,20072,Arthurs Seat,186.48,ok
+21010,Glen Iris (Vic.),20072,Arthurs Seat,,no_eligible_route
+21013,Glen Waverley,20072,Arthurs Seat,,no_eligible_route
+21047,Glenroy (Vic.),20072,Arthurs Seat,,no_eligible_route
+21059,Goldie,20072,Arthurs Seat,,no_eligible_route
+21079,Gowanbrae,20072,Arthurs Seat,,no_eligible_route
+21087,Grangefields,20072,Arthurs Seat,,no_eligible_route
+21104,Greensborough,20072,Arthurs Seat,,no_eligible_route
+21105,Greenvale (Vic.),20072,Arthurs Seat,,no_eligible_route
+21115,Gruyere,20072,Arthurs Seat,,no_eligible_route
+21121,Guys Hill,20072,Arthurs Seat,,no_eligible_route
+21124,Hadfield,20072,Arthurs Seat,,no_eligible_route
+21125,Hallam,20072,Arthurs Seat,218.47,ok
+21131,Hampton (Vic.),20072,Arthurs Seat,209.22,ok
+21132,Hampton East,20072,Arthurs Seat,183.2,ok
+21133,Hampton Park,20072,Arthurs Seat,,no_eligible_route
+21139,Harkaway,20072,Arthurs Seat,,no_eligible_route
+21140,Harkness,20072,Arthurs Seat,,no_eligible_route
+21145,Hastings (Vic.),20072,Arthurs Seat,,no_eligible_route
+21152,Hawthorn (Vic.),20072,Arthurs Seat,,no_eligible_route
+21153,Hawthorn East,20072,Arthurs Seat,,no_eligible_route
+21158,Healesville,20072,Arthurs Seat,,no_eligible_route
+21159,Heath Hill,20072,Arthurs Seat,,no_eligible_route
+21161,Heathcote Junction,20072,Arthurs Seat,,no_eligible_route
+21163,Heatherton,20072,Arthurs Seat,205.55,ok
+21165,Heathmont,20072,Arthurs Seat,,no_eligible_route
+21167,Heidelberg,20072,Arthurs Seat,,no_eligible_route
+21168,Heidelberg Heights,20072,Arthurs Seat,,no_eligible_route
+21169,Heidelberg West,20072,Arthurs Seat,,no_eligible_route
+21176,Hesket,20072,Arthurs Seat,,no_eligible_route
+21185,Highett,20072,Arthurs Seat,171.77,ok
+21193,Hillside (Melton - Vic.),20072,Arthurs Seat,,no_eligible_route
+21195,Hmas Cerberus,20072,Arthurs Seat,,no_eligible_route
+21196,Hoddles Creek,20072,Arthurs Seat,,no_eligible_route
+21202,Hopetoun Park,20072,Arthurs Seat,,no_eligible_route
+21203,Hoppers Crossing,20072,Arthurs Seat,,no_eligible_route
+21214,Hughesdale,20072,Arthurs Seat,210.5,ok
+21215,Humevale,20072,Arthurs Seat,,no_eligible_route
+21218,Huntingdale (Vic.),20072,Arthurs Seat,214.93,ok
+21223,Hurstbridge,20072,Arthurs Seat,,no_eligible_route
+21238,Iona,20072,Arthurs Seat,,no_eligible_route
+21246,Ivanhoe (Vic.),20072,Arthurs Seat,,no_eligible_route
+21247,Ivanhoe East,20072,Arthurs Seat,,no_eligible_route
+21248,Jacana,20072,Arthurs Seat,,no_eligible_route
+21277,Junction Village,20072,Arthurs Seat,,no_eligible_route
+21284,Kalkallo,20072,Arthurs Seat,,no_eligible_route
+21286,Kallista,20072,Arthurs Seat,,no_eligible_route
+21287,Kalorama,20072,Arthurs Seat,,no_eligible_route
+21294,Kangaroo Ground,20072,Arthurs Seat,,no_eligible_route
+21312,Kealba,20072,Arthurs Seat,,no_eligible_route
+21314,Keilor,20072,Arthurs Seat,,no_eligible_route
+21315,Keilor Downs,20072,Arthurs Seat,,no_eligible_route
+21316,Keilor East,20072,Arthurs Seat,,no_eligible_route
+21317,Keilor Lodge,20072,Arthurs Seat,,no_eligible_route
+21318,Keilor North,20072,Arthurs Seat,,no_eligible_route
+21319,Keilor Park,20072,Arthurs Seat,,no_eligible_route
+21327,Kensington (Vic.),20072,Arthurs Seat,234.08,ok
+21333,Kerrie,20072,Arthurs Seat,,no_eligible_route
+21336,Kew (Vic.),20072,Arthurs Seat,,no_eligible_route
+21337,Kew East,20072,Arthurs Seat,,no_eligible_route
+21339,Keysborough,20072,Arthurs Seat,,no_eligible_route
+21354,Kilsyth,20072,Arthurs Seat,,no_eligible_route
+21355,Kilsyth South,20072,Arthurs Seat,,no_eligible_route
+21358,Kinglake,20072,Arthurs Seat,,no_eligible_route
+21359,Kinglake Central,20072,Arthurs Seat,,no_eligible_route
+21360,Kinglake West,20072,Arthurs Seat,,no_eligible_route
+21362,Kings Park (Vic.),20072,Arthurs Seat,,no_eligible_route
+21363,Kingsbury,20072,Arthurs Seat,,no_eligible_route
+21365,Kingsville,20072,Arthurs Seat,233.08,ok
+21374,Knoxfield,20072,Arthurs Seat,,no_eligible_route
+21380,Koo Wee Rup,20072,Arthurs Seat,,no_eligible_route
+21381,Koo Wee Rup North,20072,Arthurs Seat,,no_eligible_route
+21393,Kooyong,20072,Arthurs Seat,225.9,ok
+21411,Kurunjang,20072,Arthurs Seat,,no_eligible_route
+21452,Lalor,20072,Arthurs Seat,,no_eligible_route
+21456,Lancefield,20072,Arthurs Seat,,no_eligible_route
+21459,Lang Lang,20072,Arthurs Seat,,no_eligible_route
+21460,Lang Lang East,20072,Arthurs Seat,,no_eligible_route
+21467,Langwarrin,20072,Arthurs Seat,158.85,ok
+21468,Langwarrin South,20072,Arthurs Seat,,no_eligible_route
+21473,Launching Place,20072,Arthurs Seat,,no_eligible_route
+21476,Laverton (Vic.),20072,Arthurs Seat,,no_eligible_route
+21477,Laverton North,20072,Arthurs Seat,,no_eligible_route
+21504,Lilydale (Vic.),20072,Arthurs Seat,,no_eligible_route
+21533,Long Forest,20072,Arthurs Seat,,no_eligible_route
+21547,Lower Plenty,20072,Arthurs Seat,,no_eligible_route
+21554,Lynbrook,20072,Arthurs Seat,199.72,ok
+21555,Lyndhurst (Vic.),20072,Arthurs Seat,,no_eligible_route
+21558,Lysterfield,20072,Arthurs Seat,,no_eligible_route
+21559,Lysterfield South,20072,Arthurs Seat,,no_eligible_route
+21561,Macclesfield (Vic.),20072,Arthurs Seat,,no_eligible_route
+21562,Macedon,20072,Arthurs Seat,,no_eligible_route
+21564,Macleod (Vic.),20072,Arthurs Seat,,no_eligible_route
+21569,Maddingley,20072,Arthurs Seat,,no_eligible_route
+21575,Maidstone,20072,Arthurs Seat,256.27,ok
+21578,Main Ridge,20072,Arthurs Seat,74.03,walk_only
+21586,Malvern (Vic.),20072,Arthurs Seat,206.07,ok
+21587,Malvern East,20072,Arthurs Seat,214.25,ok
+21588,Mambourin,20072,Arthurs Seat,,no_eligible_route
+21597,Manor Lakes,20072,Arthurs Seat,,no_eligible_route
+21604,Maribyrnong,20072,Arthurs Seat,,no_eligible_route
+21619,Maryknoll,20072,Arthurs Seat,,no_eligible_route
+21625,McCrae,20072,Arthurs Seat,42.07,walk_only
+21629,McKinnon,20072,Arthurs Seat,174.48,ok
+21635,Meadow Heights,20072,Arthurs Seat,,no_eligible_route
+21640,Melbourne,20072,Arthurs Seat,210.85,ok
+21641,Melbourne Airport,20072,Arthurs Seat,,no_eligible_route
+21642,Melton (Vic.),20072,Arthurs Seat,,no_eligible_route
+21643,Melton South,20072,Arthurs Seat,,no_eligible_route
+21644,Melton West,20072,Arthurs Seat,,no_eligible_route
+21648,Mentone,20072,Arthurs Seat,168.43,ok
+21649,Menzies Creek,20072,Arthurs Seat,,no_eligible_route
+21659,Mernda,20072,Arthurs Seat,,no_eligible_route
+21662,Merricks,20072,Arthurs Seat,201.93,walk_only
+21663,Merricks Beach,20072,Arthurs Seat,231.07,walk_only
+21664,Merricks North,20072,Arthurs Seat,195.42,walk_only
+21668,Merrimu,20072,Arthurs Seat,,no_eligible_route
+21675,Mickleham,20072,Arthurs Seat,,no_eligible_route
+21677,Middle Park (Vic.),20072,Arthurs Seat,237.53,ok
+21683,Mill Park,20072,Arthurs Seat,,no_eligible_route
+21685,Millgrove,20072,Arthurs Seat,,no_eligible_route
+21706,Mitcham (Vic.),20072,Arthurs Seat,,no_eligible_route
+21727,Monbulk,20072,Arthurs Seat,,no_eligible_route
+21728,Monegeetta,20072,Arthurs Seat,,no_eligible_route
+21731,Monomeith,20072,Arthurs Seat,,no_eligible_route
+21732,Mont Albert,20072,Arthurs Seat,,no_eligible_route
+21733,Mont Albert North,20072,Arthurs Seat,,no_eligible_route
+21735,Montmorency,20072,Arthurs Seat,,no_eligible_route
+21736,Montrose (Vic.),20072,Arthurs Seat,,no_eligible_route
+21742,Moonee Ponds,20072,Arthurs Seat,,no_eligible_route
+21746,Moorabbin,20072,Arthurs Seat,196.08,ok
+21747,Moorabbin Airport,20072,Arthurs Seat,,no_eligible_route
+21754,Moorooduc,20072,Arthurs Seat,,no_eligible_route
+21755,Mooroolbark,20072,Arthurs Seat,,no_eligible_route
+21760,Mordialloc,20072,Arthurs Seat,165.62,ok
+21763,Mornington (Vic.),20072,Arthurs Seat,121.55,ok
+21779,Mount Burnett,20072,Arthurs Seat,,no_eligible_route
+21786,Mount Cottrell,20072,Arthurs Seat,,no_eligible_route
+21787,Mount Dandenong,20072,Arthurs Seat,,no_eligible_route
+21793,Mount Eliza,20072,Arthurs Seat,112.47,ok
+21795,Mount Evelyn,20072,Arthurs Seat,,no_eligible_route
+21801,Mount Macedon,20072,Arthurs Seat,,no_eligible_route
+21803,Mount Martha,20072,Arthurs Seat,96.82,ok
+21814,Mount Toolebewong,20072,Arthurs Seat,,no_eligible_route
+21816,Mount Waverley,20072,Arthurs Seat,,no_eligible_route
+21827,Mulgrave (Vic.),20072,Arthurs Seat,,no_eligible_route
+21849,Murrumbeena,20072,Arthurs Seat,210.62,ok
+21872,Nangana,20072,Arthurs Seat,,no_eligible_route
+21878,Nar Nar Goon,20072,Arthurs Seat,,no_eligible_route
+21879,Nar Nar Goon North,20072,Arthurs Seat,,no_eligible_route
+21893,Narre Warren,20072,Arthurs Seat,217.9,ok
+21894,Narre Warren East,20072,Arthurs Seat,,no_eligible_route
+21895,Narre Warren North,20072,Arthurs Seat,,no_eligible_route
+21896,Narre Warren South,20072,Arthurs Seat,,no_eligible_route
+21921,New Gisborne,20072,Arthurs Seat,,no_eligible_route
+21934,Newport (Vic.),20072,Arthurs Seat,,no_eligible_route
+21942,Niddrie,20072,Arthurs Seat,,no_eligible_route
+21952,Noble Park,20072,Arthurs Seat,187.73,ok
+21953,Noble Park North,20072,Arthurs Seat,220.92,ok
+21966,North Melbourne,20072,Arthurs Seat,218.82,ok
+21969,North Warrandyte,20072,Arthurs Seat,,no_eligible_route
+21971,Northcote,20072,Arthurs Seat,,no_eligible_route
+21974,Notting Hill,20072,Arthurs Seat,,no_eligible_route
+21985,Nunawading,20072,Arthurs Seat,,no_eligible_route
+21991,Nutfield,20072,Arthurs Seat,,no_eligible_route
+21998,Oak Park,20072,Arthurs Seat,,no_eligible_route
+21999,Oaklands Junction,20072,Arthurs Seat,,no_eligible_route
+22000,Oakleigh,20072,Arthurs Seat,213.17,ok
+22001,Oakleigh East,20072,Arthurs Seat,230.3,ok
+22002,Oakleigh South,20072,Arthurs Seat,203.13,ok
+22006,Officer,20072,Arthurs Seat,232.0,ok
+22007,Officer South,20072,Arthurs Seat,,no_eligible_route
+22009,Olinda (Vic.),20072,Arthurs Seat,,no_eligible_route
+22016,Ormond,20072,Arthurs Seat,179.5,ok
+22027,Pakenham,20072,Arthurs Seat,231.05,ok
+22028,Pakenham South,20072,Arthurs Seat,,no_eligible_route
+22029,Pakenham Upper,20072,Arthurs Seat,,no_eligible_route
+22032,Panton Hill,20072,Arthurs Seat,,no_eligible_route
+22036,Park Orchards,20072,Arthurs Seat,,no_eligible_route
+22037,Parkdale,20072,Arthurs Seat,169.53,ok
+22038,Parkville (Vic.),20072,Arthurs Seat,240.45,ok
+22041,Pascoe Vale,20072,Arthurs Seat,,no_eligible_route
+22042,Pascoe Vale South,20072,Arthurs Seat,,no_eligible_route
+22047,Patterson Lakes,20072,Arthurs Seat,170.25,ok
+22050,Pearcedale,20072,Arthurs Seat,,no_eligible_route
+22058,Pentland Hills,20072,Arthurs Seat,,no_eligible_route
+22064,Pheasant Creek (Vic.),20072,Arthurs Seat,,no_eligible_route
+22084,Plenty (Vic.),20072,Arthurs Seat,,no_eligible_route
+22085,Plumpton (Vic.),20072,Arthurs Seat,,no_eligible_route
+22086,Point Cook,20072,Arthurs Seat,,no_eligible_route
+22087,Point Leo,20072,Arthurs Seat,188.72,walk_only
+22107,Port Melbourne,20072,Arthurs Seat,,no_eligible_route
+22113,Portsea,20072,Arthurs Seat,99.25,ok
+22115,Powelltown,20072,Arthurs Seat,,no_eligible_route
+22118,Prahran,20072,Arthurs Seat,205.0,ok
+22121,Preston (Vic.),20072,Arthurs Seat,,no_eligible_route
+22122,Princes Hill,20072,Arthurs Seat,241.58,ok
+22132,Quandong,20072,Arthurs Seat,,no_eligible_route
+22141,Ravenhall,20072,Arthurs Seat,,no_eligible_route
+22148,Red Hill (Vic.),20072,Arthurs Seat,92.9,walk_only
+22149,Red Hill South,20072,Arthurs Seat,143.28,walk_only
+22160,Research,20072,Arthurs Seat,,no_eligible_route
+22161,Reservoir (Vic.),20072,Arthurs Seat,,no_eligible_route
+22170,Richmond (Vic.),20072,Arthurs Seat,217.02,ok
+22172,Riddells Creek,20072,Arthurs Seat,,no_eligible_route
+22174,Ringwood (Vic.),20072,Arthurs Seat,,no_eligible_route
+22175,Ringwood East,20072,Arthurs Seat,,no_eligible_route
+22176,Ringwood North,20072,Arthurs Seat,,no_eligible_route
+22179,Ripponlea,20072,Arthurs Seat,235.3,ok
+22185,Rochford,20072,Arthurs Seat,,no_eligible_route
+22186,Rockbank,20072,Arthurs Seat,,no_eligible_route
+22193,Romsey,20072,Arthurs Seat,,no_eligible_route
+22194,Rosanna,20072,Arthurs Seat,,no_eligible_route
+22198,Rosebud,20072,Arthurs Seat,67.58,walk_only
+22207,Rowville,20072,Arthurs Seat,,no_eligible_route
+22208,Roxburgh Park,20072,Arthurs Seat,,no_eligible_route
+22220,Rye,20072,Arthurs Seat,94.47,ok
+22221,Rythdale,20072,Arthurs Seat,,no_eligible_route
+22222,Safety Beach (Vic.),20072,Arthurs Seat,92.27,ok
+22232,Sandhurst,20072,Arthurs Seat,,no_eligible_route
+22234,Sandringham (Vic.),20072,Arthurs Seat,206.97,ok
+22239,Sassafras (Vic.),20072,Arthurs Seat,,no_eligible_route
+22242,Scoresby,20072,Arthurs Seat,,no_eligible_route
+22247,Seabrook,20072,Arthurs Seat,,no_eligible_route
+22249,Seaford (Vic.),20072,Arthurs Seat,,no_eligible_route
+22250,Seaholme,20072,Arthurs Seat,,no_eligible_route
+22256,Seddon (Vic.),20072,Arthurs Seat,223.73,ok
+22258,Selby,20072,Arthurs Seat,,no_eligible_route
+22263,Seville,20072,Arthurs Seat,,no_eligible_route
+22264,Seville East,20072,Arthurs Seat,,no_eligible_route
+22278,Sherbrooke,20072,Arthurs Seat,,no_eligible_route
+22279,Shoreham,20072,Arthurs Seat,160.38,walk_only
+22281,Silvan,20072,Arthurs Seat,,no_eligible_route
+22291,Skye (Vic.),20072,Arthurs Seat,,no_eligible_route
+22295,Smiths Gully,20072,Arthurs Seat,,no_eligible_route
+22303,Somers,20072,Arthurs Seat,,no_eligible_route
+22304,Somerton (Vic.),20072,Arthurs Seat,,no_eligible_route
+22305,Somerville (Vic.),20072,Arthurs Seat,,no_eligible_route
+22306,Sorrento (Vic.),20072,Arthurs Seat,79.23,ok
+22309,South Kingsville,20072,Arthurs Seat,,no_eligible_route
+22310,South Melbourne,20072,Arthurs Seat,222.47,ok
+22311,South Morang,20072,Arthurs Seat,,no_eligible_route
+22313,South Wharf,20072,Arthurs Seat,225.55,ok
+22314,South Yarra,20072,Arthurs Seat,193.88,ok
+22315,Southbank,20072,Arthurs Seat,215.55,ok
+22319,Spotswood,20072,Arthurs Seat,,no_eligible_route
+22325,Springfield (Macedon Ranges - Vic.),20072,Arthurs Seat,,no_eligible_route
+22328,Springvale (Vic.),20072,Arthurs Seat,197.67,ok
+22329,Springvale South,20072,Arthurs Seat,,no_eligible_route
+22330,St Albans (Vic.),20072,Arthurs Seat,,no_eligible_route
+22332,St Andrews (Vic.),20072,Arthurs Seat,,no_eligible_route
+22333,St Andrews Beach,20072,Arthurs Seat,237.08,walk_only
+22339,St Helena,20072,Arthurs Seat,,no_eligible_route
+22343,St Kilda (Vic.),20072,Arthurs Seat,,no_eligible_route
+22344,St Kilda East,20072,Arthurs Seat,221.23,ok
+22345,St Kilda West,20072,Arthurs Seat,,no_eligible_route
+22355,Steels Creek,20072,Arthurs Seat,,no_eligible_route
+22375,Strathewen,20072,Arthurs Seat,,no_eligible_route
+22380,Strathmore (Vic.),20072,Arthurs Seat,,no_eligible_route
+22381,Strathmore Heights,20072,Arthurs Seat,,no_eligible_route
+22382,Strathtulloh,20072,Arthurs Seat,,no_eligible_route
+22391,Sunbury,20072,Arthurs Seat,,no_eligible_route
+22395,Sunshine (Vic.),20072,Arthurs Seat,,no_eligible_route
+22396,Sunshine North,20072,Arthurs Seat,,no_eligible_route
+22397,Sunshine West,20072,Arthurs Seat,,no_eligible_route
+22399,Surrey Hills,20072,Arthurs Seat,,no_eligible_route
+22414,Sydenham (Vic.),20072,Arthurs Seat,,no_eligible_route
+22451,Tarneit,20072,Arthurs Seat,,no_eligible_route
+22457,Tarrawarra,20072,Arthurs Seat,,no_eligible_route
+22473,Taylors Hill,20072,Arthurs Seat,,no_eligible_route
+22474,Taylors Lakes,20072,Arthurs Seat,,no_eligible_route
+22476,Tecoma,20072,Arthurs Seat,,no_eligible_route
+22483,Templestowe,20072,Arthurs Seat,,no_eligible_route
+22484,Templestowe Lower,20072,Arthurs Seat,,no_eligible_route
+22496,The Basin (Vic.),20072,Arthurs Seat,,no_eligible_route
+22501,The Patch,20072,Arthurs Seat,,no_eligible_route
+22504,Thomastown,20072,Arthurs Seat,,no_eligible_route
+22508,Thornbury,20072,Arthurs Seat,,no_eligible_route
+22509,Thornhill Park,20072,Arthurs Seat,,no_eligible_route
+22514,Three Bridges,20072,Arthurs Seat,,no_eligible_route
+22531,Tonimbuk,20072,Arthurs Seat,,no_eligible_route
+22536,Toolangi,20072,Arthurs Seat,,no_eligible_route
+22537,Toolern Vale,20072,Arthurs Seat,,no_eligible_route
+22546,Tooradin,20072,Arthurs Seat,,no_eligible_route
+22547,Toorak,20072,Arthurs Seat,208.35,ok
+22550,Tootgarook,20072,Arthurs Seat,76.88,ok
+22556,Tottenham (Vic.),20072,Arthurs Seat,,no_eligible_route
+22572,Travancore,20072,Arthurs Seat,247.32,ok
+22576,Tremont,20072,Arthurs Seat,,no_eligible_route
+22582,Truganina,20072,Arthurs Seat,,no_eligible_route
+22584,Tuerong,20072,Arthurs Seat,,no_eligible_route
+22586,Tullamarine,20072,Arthurs Seat,,no_eligible_route
+22594,Tyabb,20072,Arthurs Seat,,no_eligible_route
+22598,Tynong,20072,Arthurs Seat,,no_eligible_route
+22599,Tynong North,20072,Arthurs Seat,,no_eligible_route
+22614,Upper Ferntree Gully,20072,Arthurs Seat,,no_eligible_route
+22617,Upper Plenty,20072,Arthurs Seat,,no_eligible_route
+22620,Upwey,20072,Arthurs Seat,,no_eligible_route
+22627,Vermont,20072,Arthurs Seat,,no_eligible_route
+22628,Vermont South,20072,Arthurs Seat,,no_eligible_route
+22629,Vervale,20072,Arthurs Seat,,no_eligible_route
+22633,Viewbank,20072,Arthurs Seat,,no_eligible_route
+22661,Wallan,20072,Arthurs Seat,,no_eligible_route
+22672,Wandin East,20072,Arthurs Seat,,no_eligible_route
+22673,Wandin North,20072,Arthurs Seat,,no_eligible_route
+22676,Wandong,20072,Arthurs Seat,,no_eligible_route
+22685,Wantirna,20072,Arthurs Seat,,no_eligible_route
+22686,Wantirna South,20072,Arthurs Seat,,no_eligible_route
+22689,Warburton (Vic.),20072,Arthurs Seat,,no_eligible_route
+22695,Warneet,20072,Arthurs Seat,,no_eligible_route
+22702,Warrandyte,20072,Arthurs Seat,,no_eligible_route
+22703,Warrandyte South,20072,Arthurs Seat,,no_eligible_route
+22704,Warranwood,20072,Arthurs Seat,,no_eligible_route
+22717,Waterford Park,20072,Arthurs Seat,,no_eligible_route
+22720,Waterways,20072,Arthurs Seat,190.08,ok
+22721,Watsonia,20072,Arthurs Seat,,no_eligible_route
+22722,Watsonia North,20072,Arthurs Seat,,no_eligible_route
+22723,Watsons Creek (Vic.),20072,Arthurs Seat,,no_eligible_route
+22727,Wattle Glen,20072,Arthurs Seat,,no_eligible_route
+22740,Weir Views,20072,Arthurs Seat,,no_eligible_route
+22750,Werribee,20072,Arthurs Seat,,no_eligible_route
+22751,Werribee South,20072,Arthurs Seat,,no_eligible_route
+22753,Wesburn,20072,Arthurs Seat,,no_eligible_route
+22756,West Footscray,20072,Arthurs Seat,235.0,ok
+22757,West Melbourne,20072,Arthurs Seat,247.52,ok
+22761,Westmeadows,20072,Arthurs Seat,,no_eligible_route
+22766,Wheelers Hill,20072,Arthurs Seat,,no_eligible_route
+22775,Whittlesea,20072,Arthurs Seat,,no_eligible_route
+22784,Wildwood,20072,Arthurs Seat,,no_eligible_route
+22791,Williams Landing,20072,Arthurs Seat,,no_eligible_route
+22792,Williamstown (Vic.),20072,Arthurs Seat,,no_eligible_route
+22793,Williamstown North,20072,Arthurs Seat,,no_eligible_route
+22805,Windsor (Vic.),20072,Arthurs Seat,216.13,ok
+22820,Wollert,20072,Arthurs Seat,,no_eligible_route
+22825,Wonga Park,20072,Arthurs Seat,,no_eligible_route
+22843,Woodstock (Vic.),20072,Arthurs Seat,,no_eligible_route
+22857,Woori Yallock,20072,Arthurs Seat,,no_eligible_route
+22883,Wyndham Vale,20072,Arthurs Seat,,no_eligible_route
+22892,Yallambie,20072,Arthurs Seat,,no_eligible_route
+22898,Yan Yean,20072,Arthurs Seat,,no_eligible_route
+22906,Yannathan,20072,Arthurs Seat,,no_eligible_route
+22910,Yarra Glen,20072,Arthurs Seat,,no_eligible_route
+22911,Yarra Junction,20072,Arthurs Seat,,no_eligible_route
+22916,Yarrambat,20072,Arthurs Seat,,no_eligible_route
+22917,Yarraville,20072,Arthurs Seat,245.13,ok
+22925,Yellingbo,20072,Arthurs Seat,,no_eligible_route
+22930,Yering,20072,Arthurs Seat,,no_eligible_route
+22941,Yuroke,20072,Arthurs Seat,,no_eligible_route

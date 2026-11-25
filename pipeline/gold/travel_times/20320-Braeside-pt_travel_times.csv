@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20320,Braeside,108.25,ok
+20003,Aberfeldie,20320,Braeside,134.95,ok
+20011,Aintree,20320,Braeside,159.48,ok
+20015,Airport West,20320,Braeside,142.92,ok
+20017,Albanvale,20320,Braeside,145.57,ok
+20018,Albert Park (Vic.),20320,Braeside,107.35,ok
+20021,Albion (Vic.),20320,Braeside,119.42,ok
+20034,Alphington,20320,Braeside,116.37,ok
+20035,Altona (Vic.),20320,Braeside,135.25,ok
+20036,Altona Meadows,20320,Braeside,141.4,ok
+20037,Altona North,20320,Braeside,136.88,ok
+20062,Ardeer,20320,Braeside,137.65,ok
+20066,Armadale (Vic.),20320,Braeside,72.62,ok
+20071,Arthurs Creek,20320,Braeside,,no_eligible_route
+20072,Arthurs Seat,20320,Braeside,146.92,ok
+20075,Ascot Vale,20320,Braeside,114.35,ok
+20077,Ashburton,20320,Braeside,97.72,ok
+20078,Ashwood,20320,Braeside,93.65,ok
+20079,Aspendale,20320,Braeside,53.65,ok
+20080,Aspendale Gardens,20320,Braeside,48.78,walk_only
+20082,Attwood,20320,Braeside,165.87,ok
+20089,Avondale Heights,20320,Braeside,136.88,ok
+20091,Avonsleigh,20320,Braeside,,no_eligible_route
+20095,Bacchus Marsh,20320,Braeside,,no_eligible_route
+20097,Badger Creek,20320,Braeside,215.83,ok
+20105,Balaclava (Vic.),20320,Braeside,86.13,ok
+20120,Balnarring,20320,Braeside,172.23,ok
+20121,Balnarring Beach,20320,Braeside,168.77,ok
+20123,Balwyn,20320,Braeside,119.77,ok
+20124,Balwyn North,20320,Braeside,126.9,ok
+20131,Bangholme,20320,Braeside,95.25,ok
+20169,Baxter,20320,Braeside,89.72,ok
+20171,Bayles,20320,Braeside,,no_eligible_route
+20173,Bayswater (Vic.),20320,Braeside,117.72,ok
+20174,Bayswater North,20320,Braeside,138.6,ok
+20175,Beaconsfield (Vic.),20320,Braeside,107.83,ok
+20176,Beaconsfield Upper,20320,Braeside,,no_eligible_route
+20182,Beaumaris (Vic.),20320,Braeside,58.17,ok
+20187,Beenak,20320,Braeside,,no_eligible_route
+20188,Belgrave,20320,Braeside,122.83,ok
+20189,Belgrave Heights,20320,Braeside,,no_eligible_route
+20190,Belgrave South,20320,Braeside,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20320,Braeside,132.7,ok
+20207,Bend Of Islands,20320,Braeside,,no_eligible_route
+20212,Benloch,20320,Braeside,,no_eligible_route
+20214,Bentleigh,20320,Braeside,64.05,ok
+20215,Bentleigh East,20320,Braeside,62.78,ok
+20224,Berwick,20320,Braeside,85.88,ok
+20233,Beveridge,20320,Braeside,,no_eligible_route
+20237,Big Pats Creek,20320,Braeside,,no_eligible_route
+20248,Bittern,20320,Braeside,127.98,ok
+20251,Black Rock (Vic.),20320,Braeside,66.12,ok
+20252,Blackburn,20320,Braeside,107.88,ok
+20253,Blackburn North,20320,Braeside,109.05,ok
+20254,Blackburn South,20320,Braeside,104.4,ok
+20257,Blairgowrie,20320,Braeside,146.95,ok
+20260,Blind Bight,20320,Braeside,,no_eligible_route
+20272,Bolinda,20320,Braeside,,no_eligible_route
+20278,Bonbeach,20320,Braeside,58.65,ok
+20280,Boneo,20320,Braeside,,no_eligible_route
+20282,Bonnie Brook,20320,Braeside,192.03,ok
+20304,Boronia,20320,Braeside,108.43,ok
+20307,Botanic Ridge,20320,Braeside,116.03,ok
+20314,Box Hill (Vic.),20320,Braeside,100.33,ok
+20315,Box Hill North,20320,Braeside,108.32,ok
+20316,Box Hill South,20320,Braeside,97.2,ok
+20320,Braeside,20320,Braeside,0.0,same_centroid
+20324,Braybrook,20320,Braeside,129.68,ok
+20331,Briar Hill,20320,Braeside,143.85,ok
+20337,Brighton (Vic.),20320,Braeside,81.3,ok
+20338,Brighton East,20320,Braeside,70.45,ok
+20346,Broadmeadows (Vic.),20320,Braeside,142.27,ok
+20351,Brookfield (Vic.),20320,Braeside,,no_eligible_route
+20352,Brooklyn (Vic.),20320,Braeside,137.12,ok
+20361,Brunswick (Vic.),20320,Braeside,117.37,ok
+20362,Brunswick East,20320,Braeside,122.38,ok
+20363,Brunswick West,20320,Braeside,121.28,ok
+20381,Bulla (Vic.),20320,Braeside,,no_eligible_route
+20386,Bulleen,20320,Braeside,129.47,ok
+20387,Bullengarook,20320,Braeside,,no_eligible_route
+20399,Bundoora (Vic.),20320,Braeside,144.1,ok
+20411,Bunyip,20320,Braeside,,no_eligible_route
+20412,Bunyip North,20320,Braeside,,no_eligible_route
+20418,Burnley,20320,Braeside,100.63,ok
+20419,Burnside (Vic.),20320,Braeside,150.18,ok
+20420,Burnside Heights,20320,Braeside,152.38,ok
+20426,Burwood (Vic.),20320,Braeside,94.58,ok
+20427,Burwood East,20320,Braeside,93.0,ok
+20435,Bylands,20320,Braeside,,no_eligible_route
+20441,Cairnlea,20320,Braeside,127.57,ok
+20442,Calder Park,20320,Braeside,153.2,ok
+20443,Caldermeade,20320,Braeside,,no_eligible_route
+20453,Camberwell (Vic.),20320,Braeside,113.3,ok
+20455,Campbellfield,20320,Braeside,150.92,ok
+20466,Cannons Creek,20320,Braeside,,no_eligible_route
+20468,Canterbury (Vic.),20320,Braeside,120.42,ok
+20474,Cape Schanck,20320,Braeside,,no_eligible_route
+20476,Capel Sound,20320,Braeside,131.3,ok
+20487,Cardinia,20320,Braeside,,no_eligible_route
+20495,Carlton (Vic.),20320,Braeside,102.57,ok
+20496,Carlton North,20320,Braeside,119.15,ok
+20498,Carnegie,20320,Braeside,78.95,ok
+20500,Caroline Springs,20320,Braeside,147.27,ok
+20507,Carrum,20320,Braeside,58.47,ok
+20508,Carrum Downs,20320,Braeside,74.8,ok
+20512,Castella,20320,Braeside,,no_eligible_route
+20517,Catani,20320,Braeside,,no_eligible_route
+20521,Caulfield,20320,Braeside,82.08,ok
+20522,Caulfield East,20320,Braeside,73.07,ok
+20523,Caulfield North,20320,Braeside,82.65,ok
+20524,Caulfield South,20320,Braeside,71.9,ok
+20528,Chadstone,20320,Braeside,90.27,ok
+20537,Chelsea,20320,Braeside,55.72,ok
+20538,Chelsea Heights,20320,Braeside,54.78,ok
+20539,Cheltenham (Vic.),20320,Braeside,50.5,ok
+20541,Cherokee,20320,Braeside,,no_eligible_route
+20555,Chintin,20320,Braeside,,no_eligible_route
+20556,Chirnside Park,20320,Braeside,177.38,ok
+20559,Christmas Hills (Vic.),20320,Braeside,,no_eligible_route
+20560,Chum Creek,20320,Braeside,,no_eligible_route
+20566,Clarinda,20320,Braeside,48.13,ok
+20567,Clarkefield,20320,Braeside,,no_eligible_route
+20569,Clayton,20320,Braeside,65.28,ok
+20570,Clayton South,20320,Braeside,48.43,ok
+20572,Clematis,20320,Braeside,,no_eligible_route
+20574,Clifton Hill,20320,Braeside,103.4,ok
+20576,Clonbinane,20320,Braeside,,no_eligible_route
+20581,Clyde (Vic.),20320,Braeside,,no_eligible_route
+20582,Clyde North,20320,Braeside,107.63,ok
+20587,Cobaw,20320,Braeside,,no_eligible_route
+20590,Cobblebank,20320,Braeside,203.98,ok
+20596,Coburg,20320,Braeside,123.83,ok
+20597,Coburg North,20320,Braeside,133.4,ok
+20600,Cockatoo (Vic.),20320,Braeside,,no_eligible_route
+20601,Cocoroc,20320,Braeside,,no_eligible_route
+20605,Coimadai,20320,Braeside,,no_eligible_route
+20613,Coldstream (Vic.),20320,Braeside,,no_eligible_route
+20616,Collingwood (Vic.),20320,Braeside,102.72,ok
+20624,Coolaroo,20320,Braeside,143.13,ok
+20633,Cora Lynn,20320,Braeside,,no_eligible_route
+20654,Cottles Bridge,20320,Braeside,,no_eligible_route
+20661,Craigieburn,20320,Braeside,172.3,ok
+20662,Cranbourne,20320,Braeside,86.03,ok
+20663,Cranbourne East,20320,Braeside,96.92,ok
+20664,Cranbourne North,20320,Braeside,85.37,ok
+20665,Cranbourne South,20320,Braeside,119.38,ok
+20666,Cranbourne West,20320,Braeside,94.33,ok
+20670,Cremorne (Vic.),20320,Braeside,88.22,ok
+20674,Crib Point,20320,Braeside,131.92,ok
+20682,Croydon (Vic.),20320,Braeside,118.85,ok
+20683,Croydon Hills,20320,Braeside,152.48,ok
+20684,Croydon North,20320,Braeside,153.43,ok
+20685,Croydon South,20320,Braeside,154.45,ok
+20702,Dallas,20320,Braeside,149.57,ok
+20703,Dalmore,20320,Braeside,,no_eligible_route
+20707,Dandenong,20320,Braeside,66.23,ok
+20708,Dandenong North,20320,Braeside,80.27,ok
+20709,Dandenong South,20320,Braeside,87.28,ok
+20712,Darley,20320,Braeside,,no_eligible_route
+20716,Darraweit Guim,20320,Braeside,,no_eligible_route
+20724,Deanside,20320,Braeside,173.43,ok
+20728,Deepdene (Vic.),20320,Braeside,109.0,ok
+20729,Deer Park,20320,Braeside,135.13,ok
+20731,Delahey,20320,Braeside,144.47,ok
+20743,Derrimut,20320,Braeside,153.97,ok
+20748,Devon Meadows,20320,Braeside,,no_eligible_route
+20750,Dewhurst,20320,Braeside,,no_eligible_route
+20752,Diamond Creek,20320,Braeside,158.68,ok
+20754,Diggers Rest,20320,Braeside,152.25,ok
+20758,Dingley Village,20320,Braeside,29.8,ok
+20762,Dixons Creek,20320,Braeside,,no_eligible_route
+20766,Docklands,20320,Braeside,102.73,ok
+20769,Don Valley,20320,Braeside,,no_eligible_route
+20771,Doncaster,20320,Braeside,112.92,ok
+20772,Doncaster East,20320,Braeside,123.6,ok
+20773,Donnybrook (Vic.),20320,Braeside,,no_eligible_route
+20774,Donvale,20320,Braeside,120.33,ok
+20779,Doreen,20320,Braeside,173.97,ok
+20783,Doveton,20320,Braeside,80.75,ok
+20788,Dromana,20320,Braeside,144.92,ok
+20825,Eaglemont,20320,Braeside,134.7,ok
+20830,East Melbourne,20320,Braeside,99.0,ok
+20833,East Warburton,20320,Braeside,,no_eligible_route
+20843,Eden Park,20320,Braeside,,no_eligible_route
+20848,Edithvale,20320,Braeside,49.05,ok
+20864,Elsternwick,20320,Braeside,79.68,ok
+20865,Eltham (Vic.),20320,Braeside,144.82,ok
+20866,Eltham North,20320,Braeside,164.4,ok
+20867,Elwood,20320,Braeside,94.78,ok
+20868,Emerald (Vic.),20320,Braeside,,no_eligible_route
+20871,Endeavour Hills,20320,Braeside,85.08,ok
+20878,Epping (Vic.),20320,Braeside,171.38,ok
+20885,Essendon,20320,Braeside,124.57,ok
+20886,Essendon Fields,20320,Braeside,145.97,ok
+20887,Essendon North,20320,Braeside,126.97,ok
+20888,Essendon West,20320,Braeside,130.4,ok
+20889,Eumemmerring,20320,Braeside,77.92,ok
+20898,Exford,20320,Braeside,,no_eligible_route
+20899,Eynesbury,20320,Braeside,,no_eligible_route
+20901,Fairfield (Vic.),20320,Braeside,121.6,ok
+20909,Fawkner,20320,Braeside,143.37,ok
+20916,Fernshaw,20320,Braeside,,no_eligible_route
+20917,Ferntree Gully,20320,Braeside,96.58,ok
+20918,Ferny Creek,20320,Braeside,162.12,ok
+20920,Fingal (Vic.),20320,Braeside,,no_eligible_route
+20924,Fitzroy (Vic.),20320,Braeside,107.78,ok
+20925,Fitzroy North,20320,Braeside,115.38,ok
+20929,Flemington,20320,Braeside,122.88,ok
+20930,Flinders (Vic.),20320,Braeside,,no_eligible_route
+20935,Footscray,20320,Braeside,107.77,ok
+20937,Forest Hill (Vic.),20320,Braeside,92.03,ok
+20947,Frankston,20320,Braeside,70.67,ok
+20948,Frankston North,20320,Braeside,82.52,ok
+20949,Frankston South,20320,Braeside,95.7,ok
+20950,Fraser Rise,20320,Braeside,163.95,ok
+20965,Gardenvale,20320,Braeside,76.58,ok
+20966,Garfield,20320,Braeside,,no_eligible_route
+20967,Garfield North,20320,Braeside,,no_eligible_route
+20979,Gembrook,20320,Braeside,,no_eligible_route
+20995,Gilderoy,20320,Braeside,,no_eligible_route
+21001,Gisborne,20320,Braeside,,no_eligible_route
+21002,Gisborne South,20320,Braeside,,no_eligible_route
+21004,Gladstone Park,20320,Braeside,156.08,ok
+21005,Gladysdale,20320,Braeside,,no_eligible_route
+21009,Glen Huntly,20320,Braeside,68.27,ok
+21010,Glen Iris (Vic.),20320,Braeside,105.4,ok
+21013,Glen Waverley,20320,Braeside,73.63,ok
+21047,Glenroy (Vic.),20320,Braeside,137.12,ok
+21059,Goldie,20320,Braeside,,no_eligible_route
+21079,Gowanbrae,20320,Braeside,156.57,ok
+21087,Grangefields,20320,Braeside,196.48,ok
+21104,Greensborough,20320,Braeside,143.23,ok
+21105,Greenvale (Vic.),20320,Braeside,,no_eligible_route
+21115,Gruyere,20320,Braeside,,no_eligible_route
+21121,Guys Hill,20320,Braeside,,no_eligible_route
+21124,Hadfield,20320,Braeside,141.13,ok
+21125,Hallam,20320,Braeside,91.22,ok
+21131,Hampton (Vic.),20320,Braeside,67.52,ok
+21132,Hampton East,20320,Braeside,66.75,ok
+21133,Hampton Park,20320,Braeside,88.65,ok
+21139,Harkaway,20320,Braeside,,no_eligible_route
+21140,Harkness,20320,Braeside,,no_eligible_route
+21145,Hastings (Vic.),20320,Braeside,110.87,ok
+21152,Hawthorn (Vic.),20320,Braeside,93.13,ok
+21153,Hawthorn East,20320,Braeside,100.52,ok
+21158,Healesville,20320,Braeside,219.75,ok
+21159,Heath Hill,20320,Braeside,,no_eligible_route
+21161,Heathcote Junction,20320,Braeside,,no_eligible_route
+21163,Heatherton,20320,Braeside,47.78,ok
+21165,Heathmont,20320,Braeside,118.9,ok
+21167,Heidelberg,20320,Braeside,132.03,ok
+21168,Heidelberg Heights,20320,Braeside,138.83,ok
+21169,Heidelberg West,20320,Braeside,136.8,ok
+21176,Hesket,20320,Braeside,,no_eligible_route
+21185,Highett,20320,Braeside,54.32,ok
+21193,Hillside (Melton - Vic.),20320,Braeside,148.5,ok
+21195,Hmas Cerberus,20320,Braeside,165.12,ok
+21196,Hoddles Creek,20320,Braeside,,no_eligible_route
+21202,Hopetoun Park,20320,Braeside,,no_eligible_route
+21203,Hoppers Crossing,20320,Braeside,147.08,ok
+21214,Hughesdale,20320,Braeside,71.82,ok
+21215,Humevale,20320,Braeside,,no_eligible_route
+21218,Huntingdale (Vic.),20320,Braeside,71.68,ok
+21223,Hurstbridge,20320,Braeside,159.23,ok
+21238,Iona,20320,Braeside,,no_eligible_route
+21246,Ivanhoe (Vic.),20320,Braeside,120.97,ok
+21247,Ivanhoe East,20320,Braeside,131.18,ok
+21248,Jacana,20320,Braeside,141.68,ok
+21277,Junction Village,20320,Braeside,136.52,ok
+21284,Kalkallo,20320,Braeside,,no_eligible_route
+21286,Kallista,20320,Braeside,165.55,ok
+21287,Kalorama,20320,Braeside,157.37,ok
+21294,Kangaroo Ground,20320,Braeside,,no_eligible_route
+21312,Kealba,20320,Braeside,139.4,ok
+21314,Keilor,20320,Braeside,173.67,ok
+21315,Keilor Downs,20320,Braeside,146.77,ok
+21316,Keilor East,20320,Braeside,145.43,ok
+21317,Keilor Lodge,20320,Braeside,152.4,ok
+21318,Keilor North,20320,Braeside,159.12,ok
+21319,Keilor Park,20320,Braeside,153.45,ok
+21327,Kensington (Vic.),20320,Braeside,108.97,ok
+21333,Kerrie,20320,Braeside,,no_eligible_route
+21336,Kew (Vic.),20320,Braeside,107.17,ok
+21337,Kew East,20320,Braeside,123.2,ok
+21339,Keysborough,20320,Braeside,37.22,ok
+21354,Kilsyth,20320,Braeside,145.03,ok
+21355,Kilsyth South,20320,Braeside,164.23,ok
+21358,Kinglake,20320,Braeside,,no_eligible_route
+21359,Kinglake Central,20320,Braeside,,no_eligible_route
+21360,Kinglake West,20320,Braeside,,no_eligible_route
+21362,Kings Park (Vic.),20320,Braeside,142.9,ok
+21363,Kingsbury,20320,Braeside,144.32,ok
+21365,Kingsville,20320,Braeside,116.83,ok
+21374,Knoxfield,20320,Braeside,106.48,ok
+21380,Koo Wee Rup,20320,Braeside,,no_eligible_route
+21381,Koo Wee Rup North,20320,Braeside,,no_eligible_route
+21393,Kooyong,20320,Braeside,90.92,ok
+21411,Kurunjang,20320,Braeside,222.07,ok
+21452,Lalor,20320,Braeside,137.45,ok
+21456,Lancefield,20320,Braeside,,no_eligible_route
+21459,Lang Lang,20320,Braeside,,no_eligible_route
+21460,Lang Lang East,20320,Braeside,,no_eligible_route
+21467,Langwarrin,20320,Braeside,84.63,ok
+21468,Langwarrin South,20320,Braeside,,no_eligible_route
+21473,Launching Place,20320,Braeside,,no_eligible_route
+21476,Laverton (Vic.),20320,Braeside,130.85,ok
+21477,Laverton North,20320,Braeside,157.27,ok
+21504,Lilydale (Vic.),20320,Braeside,163.03,ok
+21533,Long Forest,20320,Braeside,,no_eligible_route
+21547,Lower Plenty,20320,Braeside,162.62,ok
+21554,Lynbrook,20320,Braeside,75.53,ok
+21555,Lyndhurst (Vic.),20320,Braeside,129.62,ok
+21558,Lysterfield,20320,Braeside,156.75,ok
+21559,Lysterfield South,20320,Braeside,139.2,ok
+21561,Macclesfield (Vic.),20320,Braeside,,no_eligible_route
+21562,Macedon,20320,Braeside,,no_eligible_route
+21564,Macleod (Vic.),20320,Braeside,136.32,ok
+21569,Maddingley,20320,Braeside,,no_eligible_route
+21575,Maidstone,20320,Braeside,122.58,ok
+21578,Main Ridge,20320,Braeside,,no_eligible_route
+21586,Malvern (Vic.),20320,Braeside,86.42,ok
+21587,Malvern East,20320,Braeside,87.53,ok
+21588,Mambourin,20320,Braeside,,no_eligible_route
+21597,Manor Lakes,20320,Braeside,188.05,ok
+21604,Maribyrnong,20320,Braeside,125.17,ok
+21619,Maryknoll,20320,Braeside,,no_eligible_route
+21625,McCrae,20320,Braeside,118.5,ok
+21629,McKinnon,20320,Braeside,56.27,ok
+21635,Meadow Heights,20320,Braeside,154.57,ok
+21640,Melbourne,20320,Braeside,92.43,ok
+21641,Melbourne Airport,20320,Braeside,,no_eligible_route
+21642,Melton (Vic.),20320,Braeside,206.2,ok
+21643,Melton South,20320,Braeside,219.8,ok
+21644,Melton West,20320,Braeside,215.03,ok
+21648,Mentone,20320,Braeside,34.08,ok
+21649,Menzies Creek,20320,Braeside,,no_eligible_route
+21659,Mernda,20320,Braeside,182.82,ok
+21662,Merricks,20320,Braeside,,no_eligible_route
+21663,Merricks Beach,20320,Braeside,,no_eligible_route
+21664,Merricks North,20320,Braeside,,no_eligible_route
+21668,Merrimu,20320,Braeside,,no_eligible_route
+21675,Mickleham,20320,Braeside,,no_eligible_route
+21677,Middle Park (Vic.),20320,Braeside,105.62,ok
+21683,Mill Park,20320,Braeside,161.53,ok
+21685,Millgrove,20320,Braeside,,no_eligible_route
+21706,Mitcham (Vic.),20320,Braeside,105.7,ok
+21727,Monbulk,20320,Braeside,173.0,ok
+21728,Monegeetta,20320,Braeside,,no_eligible_route
+21731,Monomeith,20320,Braeside,,no_eligible_route
+21732,Mont Albert,20320,Braeside,110.0,ok
+21733,Mont Albert North,20320,Braeside,125.1,ok
+21735,Montmorency,20320,Braeside,143.88,ok
+21736,Montrose (Vic.),20320,Braeside,147.25,ok
+21742,Moonee Ponds,20320,Braeside,111.03,ok
+21746,Moorabbin,20320,Braeside,67.38,ok
+21747,Moorabbin Airport,20320,Braeside,50.2,ok
+21754,Moorooduc,20320,Braeside,132.08,ok
+21755,Mooroolbark,20320,Braeside,150.35,ok
+21760,Mordialloc,20320,Braeside,35.37,ok
+21763,Mornington (Vic.),20320,Braeside,115.58,ok
+21779,Mount Burnett,20320,Braeside,,no_eligible_route
+21786,Mount Cottrell,20320,Braeside,,no_eligible_route
+21787,Mount Dandenong,20320,Braeside,155.08,ok
+21793,Mount Eliza,20320,Braeside,84.72,ok
+21795,Mount Evelyn,20320,Braeside,165.1,ok
+21801,Mount Macedon,20320,Braeside,,no_eligible_route
+21803,Mount Martha,20320,Braeside,110.82,ok
+21814,Mount Toolebewong,20320,Braeside,,no_eligible_route
+21816,Mount Waverley,20320,Braeside,77.0,ok
+21827,Mulgrave (Vic.),20320,Braeside,71.95,ok
+21849,Murrumbeena,20320,Braeside,75.95,ok
+21872,Nangana,20320,Braeside,,no_eligible_route
+21878,Nar Nar Goon,20320,Braeside,,no_eligible_route
+21879,Nar Nar Goon North,20320,Braeside,,no_eligible_route
+21893,Narre Warren,20320,Braeside,90.2,ok
+21894,Narre Warren East,20320,Braeside,,no_eligible_route
+21895,Narre Warren North,20320,Braeside,101.47,ok
+21896,Narre Warren South,20320,Braeside,92.8,ok
+21921,New Gisborne,20320,Braeside,,no_eligible_route
+21934,Newport (Vic.),20320,Braeside,115.7,ok
+21942,Niddrie,20320,Braeside,138.92,ok
+21952,Noble Park,20320,Braeside,52.45,ok
+21953,Noble Park North,20320,Braeside,67.75,ok
+21966,North Melbourne,20320,Braeside,102.57,ok
+21969,North Warrandyte,20320,Braeside,170.53,ok
+21971,Northcote,20320,Braeside,119.65,ok
+21974,Notting Hill,20320,Braeside,73.1,ok
+21985,Nunawading,20320,Braeside,95.68,ok
+21991,Nutfield,20320,Braeside,,no_eligible_route
+21998,Oak Park,20320,Braeside,129.35,ok
+21999,Oaklands Junction,20320,Braeside,,no_eligible_route
+22000,Oakleigh,20320,Braeside,71.5,ok
+22001,Oakleigh East,20320,Braeside,77.6,ok
+22002,Oakleigh South,20320,Braeside,59.07,ok
+22006,Officer,20320,Braeside,105.53,ok
+22007,Officer South,20320,Braeside,138.32,ok
+22009,Olinda (Vic.),20320,Braeside,163.43,ok
+22016,Ormond,20320,Braeside,61.28,ok
+22027,Pakenham,20320,Braeside,102.45,ok
+22028,Pakenham South,20320,Braeside,,no_eligible_route
+22029,Pakenham Upper,20320,Braeside,,no_eligible_route
+22032,Panton Hill,20320,Braeside,,no_eligible_route
+22036,Park Orchards,20320,Braeside,133.15,ok
+22037,Parkdale,20320,Braeside,40.28,ok
+22038,Parkville (Vic.),20320,Braeside,112.98,ok
+22041,Pascoe Vale,20320,Braeside,133.72,ok
+22042,Pascoe Vale South,20320,Braeside,129.45,ok
+22047,Patterson Lakes,20320,Braeside,61.63,ok
+22050,Pearcedale,20320,Braeside,,no_eligible_route
+22058,Pentland Hills,20320,Braeside,,no_eligible_route
+22064,Pheasant Creek (Vic.),20320,Braeside,,no_eligible_route
+22084,Plenty (Vic.),20320,Braeside,160.72,ok
+22085,Plumpton (Vic.),20320,Braeside,,no_eligible_route
+22086,Point Cook,20320,Braeside,147.08,ok
+22087,Point Leo,20320,Braeside,,no_eligible_route
+22107,Port Melbourne,20320,Braeside,111.93,ok
+22113,Portsea,20320,Braeside,162.8,ok
+22115,Powelltown,20320,Braeside,,no_eligible_route
+22118,Prahran,20320,Braeside,86.78,ok
+22121,Preston (Vic.),20320,Braeside,131.05,ok
+22122,Princes Hill,20320,Braeside,113.33,ok
+22132,Quandong,20320,Braeside,,no_eligible_route
+22141,Ravenhall,20320,Braeside,180.88,ok
+22148,Red Hill (Vic.),20320,Braeside,,no_eligible_route
+22149,Red Hill South,20320,Braeside,,no_eligible_route
+22160,Research,20320,Braeside,,no_eligible_route
+22161,Reservoir (Vic.),20320,Braeside,134.27,ok
+22170,Richmond (Vic.),20320,Braeside,94.73,ok
+22172,Riddells Creek,20320,Braeside,,no_eligible_route
+22174,Ringwood (Vic.),20320,Braeside,120.18,ok
+22175,Ringwood East,20320,Braeside,118.93,ok
+22176,Ringwood North,20320,Braeside,127.88,ok
+22179,Ripponlea,20320,Braeside,83.2,ok
+22185,Rochford,20320,Braeside,,no_eligible_route
+22186,Rockbank,20320,Braeside,179.47,ok
+22193,Romsey,20320,Braeside,,no_eligible_route
+22194,Rosanna,20320,Braeside,130.78,ok
+22198,Rosebud,20320,Braeside,134.82,ok
+22207,Rowville,20320,Braeside,84.33,ok
+22208,Roxburgh Park,20320,Braeside,159.2,ok
+22220,Rye,20320,Braeside,155.02,ok
+22221,Rythdale,20320,Braeside,,no_eligible_route
+22222,Safety Beach (Vic.),20320,Braeside,125.82,ok
+22232,Sandhurst,20320,Braeside,98.75,ok
+22234,Sandringham (Vic.),20320,Braeside,60.0,ok
+22239,Sassafras (Vic.),20320,Braeside,144.88,ok
+22242,Scoresby,20320,Braeside,101.13,ok
+22247,Seabrook,20320,Braeside,147.25,ok
+22249,Seaford (Vic.),20320,Braeside,68.8,ok
+22250,Seaholme,20320,Braeside,129.93,ok
+22256,Seddon (Vic.),20320,Braeside,105.48,ok
+22258,Selby,20320,Braeside,,no_eligible_route
+22263,Seville,20320,Braeside,,no_eligible_route
+22264,Seville East,20320,Braeside,,no_eligible_route
+22278,Sherbrooke,20320,Braeside,155.62,ok
+22279,Shoreham,20320,Braeside,,no_eligible_route
+22281,Silvan,20320,Braeside,165.1,ok
+22291,Skye (Vic.),20320,Braeside,78.93,ok
+22295,Smiths Gully,20320,Braeside,,no_eligible_route
+22303,Somers,20320,Braeside,153.25,ok
+22304,Somerton (Vic.),20320,Braeside,166.03,ok
+22305,Somerville (Vic.),20320,Braeside,114.97,ok
+22306,Sorrento (Vic.),20320,Braeside,142.78,ok
+22309,South Kingsville,20320,Braeside,131.18,ok
+22310,South Melbourne,20320,Braeside,104.67,ok
+22311,South Morang,20320,Braeside,165.13,ok
+22313,South Wharf,20320,Braeside,107.37,ok
+22314,South Yarra,20320,Braeside,75.67,ok
+22315,Southbank,20320,Braeside,98.33,ok
+22319,Spotswood,20320,Braeside,111.33,ok
+22325,Springfield (Macedon Ranges - Vic.),20320,Braeside,,no_eligible_route
+22328,Springvale (Vic.),20320,Braeside,50.1,ok
+22329,Springvale South,20320,Braeside,45.62,ok
+22330,St Albans (Vic.),20320,Braeside,122.05,ok
+22332,St Andrews (Vic.),20320,Braeside,,no_eligible_route
+22333,St Andrews Beach,20320,Braeside,,no_eligible_route
+22339,St Helena,20320,Braeside,161.9,ok
+22343,St Kilda (Vic.),20320,Braeside,94.9,ok
+22344,St Kilda East,20320,Braeside,87.33,ok
+22345,St Kilda West,20320,Braeside,101.77,ok
+22355,Steels Creek,20320,Braeside,,no_eligible_route
+22375,Strathewen,20320,Braeside,,no_eligible_route
+22380,Strathmore (Vic.),20320,Braeside,137.52,ok
+22381,Strathmore Heights,20320,Braeside,149.52,ok
+22382,Strathtulloh,20320,Braeside,,no_eligible_route
+22391,Sunbury,20320,Braeside,205.95,ok
+22395,Sunshine (Vic.),20320,Braeside,110.83,ok
+22396,Sunshine North,20320,Braeside,133.85,ok
+22397,Sunshine West,20320,Braeside,140.68,ok
+22399,Surrey Hills,20320,Braeside,105.88,ok
+22414,Sydenham (Vic.),20320,Braeside,136.45,ok
+22451,Tarneit,20320,Braeside,189.47,ok
+22457,Tarrawarra,20320,Braeside,195.35,ok
+22473,Taylors Hill,20320,Braeside,148.38,ok
+22474,Taylors Lakes,20320,Braeside,141.33,ok
+22476,Tecoma,20320,Braeside,119.83,ok
+22483,Templestowe,20320,Braeside,138.02,ok
+22484,Templestowe Lower,20320,Braeside,130.12,ok
+22496,The Basin (Vic.),20320,Braeside,136.02,ok
+22501,The Patch,20320,Braeside,163.57,ok
+22504,Thomastown,20320,Braeside,142.75,ok
+22508,Thornbury,20320,Braeside,125.53,ok
+22509,Thornhill Park,20320,Braeside,,no_eligible_route
+22514,Three Bridges,20320,Braeside,,no_eligible_route
+22531,Tonimbuk,20320,Braeside,,no_eligible_route
+22536,Toolangi,20320,Braeside,,no_eligible_route
+22537,Toolern Vale,20320,Braeside,,no_eligible_route
+22546,Tooradin,20320,Braeside,,no_eligible_route
+22547,Toorak,20320,Braeside,90.13,ok
+22550,Tootgarook,20320,Braeside,138.43,ok
+22556,Tottenham (Vic.),20320,Braeside,138.2,ok
+22572,Travancore,20320,Braeside,119.52,ok
+22576,Tremont,20320,Braeside,140.82,ok
+22582,Truganina,20320,Braeside,,no_eligible_route
+22584,Tuerong,20320,Braeside,,no_eligible_route
+22586,Tullamarine,20320,Braeside,158.75,ok
+22594,Tyabb,20320,Braeside,107.28,ok
+22598,Tynong,20320,Braeside,,no_eligible_route
+22599,Tynong North,20320,Braeside,,no_eligible_route
+22614,Upper Ferntree Gully,20320,Braeside,120.37,ok
+22617,Upper Plenty,20320,Braeside,,no_eligible_route
+22620,Upwey,20320,Braeside,119.7,ok
+22627,Vermont,20320,Braeside,102.0,ok
+22628,Vermont South,20320,Braeside,94.37,ok
+22629,Vervale,20320,Braeside,,no_eligible_route
+22633,Viewbank,20320,Braeside,164.98,ok
+22661,Wallan,20320,Braeside,,no_eligible_route
+22672,Wandin East,20320,Braeside,,no_eligible_route
+22673,Wandin North,20320,Braeside,,no_eligible_route
+22676,Wandong,20320,Braeside,,no_eligible_route
+22685,Wantirna,20320,Braeside,115.47,ok
+22686,Wantirna South,20320,Braeside,97.57,ok
+22689,Warburton (Vic.),20320,Braeside,,no_eligible_route
+22695,Warneet,20320,Braeside,,no_eligible_route
+22702,Warrandyte,20320,Braeside,136.78,ok
+22703,Warrandyte South,20320,Braeside,167.18,ok
+22704,Warranwood,20320,Braeside,144.85,ok
+22717,Waterford Park,20320,Braeside,,no_eligible_route
+22720,Waterways,20320,Braeside,31.22,walk_only
+22721,Watsonia,20320,Braeside,131.23,ok
+22722,Watsonia North,20320,Braeside,154.77,ok
+22723,Watsons Creek (Vic.),20320,Braeside,,no_eligible_route
+22727,Wattle Glen,20320,Braeside,162.98,ok
+22740,Weir Views,20320,Braeside,,no_eligible_route
+22750,Werribee,20320,Braeside,154.2,ok
+22751,Werribee South,20320,Braeside,,no_eligible_route
+22753,Wesburn,20320,Braeside,,no_eligible_route
+22756,West Footscray,20320,Braeside,114.93,ok
+22757,West Melbourne,20320,Braeside,119.87,ok
+22761,Westmeadows,20320,Braeside,147.33,ok
+22766,Wheelers Hill,20320,Braeside,95.68,ok
+22775,Whittlesea,20320,Braeside,,no_eligible_route
+22784,Wildwood,20320,Braeside,,no_eligible_route
+22791,Williams Landing,20320,Braeside,145.1,ok
+22792,Williamstown (Vic.),20320,Braeside,121.15,ok
+22793,Williamstown North,20320,Braeside,137.45,ok
+22805,Windsor (Vic.),20320,Braeside,86.13,ok
+22820,Wollert,20320,Braeside,191.97,ok
+22825,Wonga Park,20320,Braeside,,no_eligible_route
+22843,Woodstock (Vic.),20320,Braeside,,no_eligible_route
+22857,Woori Yallock,20320,Braeside,,no_eligible_route
+22883,Wyndham Vale,20320,Braeside,172.97,ok
+22892,Yallambie,20320,Braeside,164.3,ok
+22898,Yan Yean,20320,Braeside,193.48,ok
+22906,Yannathan,20320,Braeside,,no_eligible_route
+22910,Yarra Glen,20320,Braeside,192.65,ok
+22911,Yarra Junction,20320,Braeside,,no_eligible_route
+22916,Yarrambat,20320,Braeside,185.58,ok
+22917,Yarraville,20320,Braeside,117.08,ok
+22925,Yellingbo,20320,Braeside,,no_eligible_route
+22930,Yering,20320,Braeside,,no_eligible_route
+22941,Yuroke,20320,Braeside,,no_eligible_route

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20418,Burnley,43.65,ok
+20003,Aberfeldie,20418,Burnley,66.68,ok
+20011,Aintree,20418,Burnley,110.42,ok
+20015,Airport West,20418,Burnley,84.78,ok
+20017,Albanvale,20418,Burnley,87.88,ok
+20018,Albert Park (Vic.),20418,Burnley,49.25,ok
+20021,Albion (Vic.),20418,Burnley,69.28,ok
+20034,Alphington,20418,Burnley,50.3,ok
+20035,Altona (Vic.),20418,Burnley,72.38,ok
+20036,Altona Meadows,20418,Burnley,82.38,ok
+20037,Altona North,20418,Burnley,80.78,ok
+20062,Ardeer,20418,Burnley,83.43,ok
+20066,Armadale (Vic.),20418,Burnley,26.53,ok
+20071,Arthurs Creek,20418,Burnley,,no_eligible_route
+20072,Arthurs Seat,20418,Burnley,190.93,ok
+20075,Ascot Vale,20418,Burnley,59.52,ok
+20077,Ashburton,20418,Burnley,36.93,ok
+20078,Ashwood,20418,Burnley,48.13,ok
+20079,Aspendale,20418,Burnley,73.78,ok
+20080,Aspendale Gardens,20418,Burnley,92.12,ok
+20082,Attwood,20418,Burnley,88.5,ok
+20089,Avondale Heights,20418,Burnley,82.82,ok
+20091,Avonsleigh,20418,Burnley,133.52,ok
+20095,Bacchus Marsh,20418,Burnley,,no_eligible_route
+20097,Badger Creek,20418,Burnley,144.78,ok
+20105,Balaclava (Vic.),20418,Burnley,39.17,ok
+20120,Balnarring,20418,Burnley,179.4,ok
+20121,Balnarring Beach,20418,Burnley,175.93,ok
+20123,Balwyn,20418,Burnley,40.07,ok
+20124,Balwyn North,20418,Burnley,43.03,ok
+20131,Bangholme,20418,Burnley,125.38,ok
+20169,Baxter,20418,Burnley,112.13,ok
+20171,Bayles,20418,Burnley,,no_eligible_route
+20173,Bayswater (Vic.),20418,Burnley,65.58,ok
+20174,Bayswater North,20418,Burnley,85.55,ok
+20175,Beaconsfield (Vic.),20418,Burnley,122.87,ok
+20176,Beaconsfield Upper,20418,Burnley,,no_eligible_route
+20182,Beaumaris (Vic.),20418,Burnley,77.67,ok
+20187,Beenak,20418,Burnley,,no_eligible_route
+20188,Belgrave,20418,Burnley,78.67,ok
+20189,Belgrave Heights,20418,Burnley,110.33,ok
+20190,Belgrave South,20418,Burnley,111.52,ok
+20198,Bellfield (Banyule - Vic.),20418,Burnley,64.93,ok
+20207,Bend Of Islands,20418,Burnley,,no_eligible_route
+20212,Benloch,20418,Burnley,,no_eligible_route
+20214,Bentleigh,20418,Burnley,61.57,ok
+20215,Bentleigh East,20418,Burnley,63.45,ok
+20224,Berwick,20418,Burnley,97.03,ok
+20233,Beveridge,20418,Burnley,125.05,ok
+20237,Big Pats Creek,20418,Burnley,,no_eligible_route
+20248,Bittern,20418,Burnley,130.12,ok
+20251,Black Rock (Vic.),20418,Burnley,76.98,ok
+20252,Blackburn,20418,Burnley,44.9,ok
+20253,Blackburn North,20418,Burnley,59.18,ok
+20254,Blackburn South,20418,Burnley,58.25,ok
+20257,Blairgowrie,20418,Burnley,182.97,ok
+20260,Blind Bight,20418,Burnley,,no_eligible_route
+20272,Bolinda,20418,Burnley,,no_eligible_route
+20278,Bonbeach,20418,Burnley,78.78,ok
+20280,Boneo,20418,Burnley,,no_eligible_route
+20282,Bonnie Brook,20418,Burnley,142.97,ok
+20304,Boronia,20418,Burnley,68.05,ok
+20307,Botanic Ridge,20418,Burnley,140.9,ok
+20314,Box Hill (Vic.),20418,Burnley,42.03,ok
+20315,Box Hill North,20418,Burnley,49.78,ok
+20316,Box Hill South,20418,Burnley,47.62,ok
+20320,Braeside,20418,Burnley,100.58,ok
+20324,Braybrook,20418,Burnley,71.07,ok
+20331,Briar Hill,20418,Burnley,87.62,ok
+20337,Brighton (Vic.),20418,Burnley,53.93,ok
+20338,Brighton East,20418,Burnley,60.18,ok
+20346,Broadmeadows (Vic.),20418,Burnley,80.42,ok
+20351,Brookfield (Vic.),20418,Burnley,168.47,ok
+20352,Brooklyn (Vic.),20418,Burnley,75.82,ok
+20361,Brunswick (Vic.),20418,Burnley,53.23,ok
+20362,Brunswick East,20418,Burnley,59.9,ok
+20363,Brunswick West,20418,Burnley,62.42,ok
+20381,Bulla (Vic.),20418,Burnley,139.65,ok
+20386,Bulleen,20418,Burnley,69.07,ok
+20387,Bullengarook,20418,Burnley,,no_eligible_route
+20399,Bundoora (Vic.),20418,Burnley,82.03,ok
+20411,Bunyip,20418,Burnley,,no_eligible_route
+20412,Bunyip North,20418,Burnley,,no_eligible_route
+20418,Burnley,20418,Burnley,0.0,same_centroid
+20419,Burnside (Vic.),20418,Burnley,92.32,ok
+20420,Burnside Heights,20418,Burnley,100.13,ok
+20426,Burwood (Vic.),20418,Burnley,45.93,ok
+20427,Burwood East,20418,Burnley,51.93,ok
+20435,Bylands,20418,Burnley,,no_eligible_route
+20441,Cairnlea,20418,Burnley,77.5,ok
+20442,Calder Park,20418,Burnley,105.07,ok
+20443,Caldermeade,20418,Burnley,,no_eligible_route
+20453,Camberwell (Vic.),20418,Burnley,34.65,ok
+20455,Campbellfield,20418,Burnley,86.78,ok
+20466,Cannons Creek,20418,Burnley,,no_eligible_route
+20468,Canterbury (Vic.),20418,Burnley,35.35,ok
+20474,Cape Schanck,20418,Burnley,,no_eligible_route
+20476,Capel Sound,20418,Burnley,167.32,ok
+20487,Cardinia,20418,Burnley,,no_eligible_route
+20495,Carlton (Vic.),20418,Burnley,46.98,ok
+20496,Carlton North,20418,Burnley,60.08,ok
+20498,Carnegie,20418,Burnley,50.62,ok
+20500,Caroline Springs,20418,Burnley,95.2,ok
+20507,Carrum,20418,Burnley,78.6,ok
+20508,Carrum Downs,20418,Burnley,102.7,ok
+20512,Castella,20418,Burnley,,no_eligible_route
+20517,Catani,20418,Burnley,,no_eligible_route
+20521,Caulfield,20418,Burnley,48.33,ok
+20522,Caulfield East,20418,Burnley,46.45,ok
+20523,Caulfield North,20418,Burnley,36.93,ok
+20524,Caulfield South,20418,Burnley,48.72,ok
+20528,Chadstone,20418,Burnley,49.9,ok
+20537,Chelsea,20418,Burnley,75.85,ok
+20538,Chelsea Heights,20418,Burnley,92.53,ok
+20539,Cheltenham (Vic.),20418,Burnley,65.32,ok
+20541,Cherokee,20418,Burnley,,no_eligible_route
+20555,Chintin,20418,Burnley,,no_eligible_route
+20556,Chirnside Park,20418,Burnley,93.15,ok
+20559,Christmas Hills (Vic.),20418,Burnley,,no_eligible_route
+20560,Chum Creek,20418,Burnley,,no_eligible_route
+20566,Clarinda,20418,Burnley,78.7,ok
+20567,Clarkefield,20418,Burnley,,no_eligible_route
+20569,Clayton,20418,Burnley,66.55,ok
+20570,Clayton South,20418,Burnley,86.45,ok
+20572,Clematis,20418,Burnley,105.93,ok
+20574,Clifton Hill,20418,Burnley,43.3,ok
+20576,Clonbinane,20418,Burnley,,no_eligible_route
+20581,Clyde (Vic.),20418,Burnley,145.73,ok
+20582,Clyde North,20418,Burnley,119.57,ok
+20587,Cobaw,20418,Burnley,,no_eligible_route
+20590,Cobblebank,20418,Burnley,150.12,ok
+20596,Coburg,20418,Burnley,62.53,ok
+20597,Coburg North,20418,Burnley,73.33,ok
+20600,Cockatoo (Vic.),20418,Burnley,137.2,ok
+20601,Cocoroc,20418,Burnley,,no_eligible_route
+20605,Coimadai,20418,Burnley,,no_eligible_route
+20613,Coldstream (Vic.),20418,Burnley,,no_eligible_route
+20616,Collingwood (Vic.),20418,Burnley,41.62,ok
+20624,Coolaroo,20418,Burnley,82.2,ok
+20633,Cora Lynn,20418,Burnley,,no_eligible_route
+20654,Cottles Bridge,20418,Burnley,,no_eligible_route
+20661,Craigieburn,20418,Burnley,91.57,ok
+20662,Cranbourne,20418,Burnley,107.9,ok
+20663,Cranbourne East,20418,Burnley,112.68,ok
+20664,Cranbourne North,20418,Burnley,106.23,ok
+20665,Cranbourne South,20418,Burnley,144.25,ok
+20666,Cranbourne West,20418,Burnley,107.67,ok
+20670,Cremorne (Vic.),20418,Burnley,26.27,ok
+20674,Crib Point,20418,Burnley,139.08,ok
+20682,Croydon (Vic.),20418,Burnley,58.68,ok
+20683,Croydon Hills,20418,Burnley,82.43,ok
+20684,Croydon North,20418,Burnley,84.43,ok
+20685,Croydon South,20418,Burnley,84.8,ok
+20702,Dallas,20418,Burnley,85.43,ok
+20703,Dalmore,20418,Burnley,,no_eligible_route
+20707,Dandenong,20418,Burnley,82.63,ok
+20708,Dandenong North,20418,Burnley,96.1,ok
+20709,Dandenong South,20418,Burnley,101.0,ok
+20712,Darley,20418,Burnley,,no_eligible_route
+20716,Darraweit Guim,20418,Burnley,,no_eligible_route
+20724,Deanside,20418,Burnley,120.57,ok
+20728,Deepdene (Vic.),20418,Burnley,40.15,ok
+20729,Deer Park,20418,Burnley,81.27,ok
+20731,Delahey,20418,Burnley,91.4,ok
+20743,Derrimut,20418,Burnley,104.83,ok
+20748,Devon Meadows,20418,Burnley,152.48,ok
+20750,Dewhurst,20418,Burnley,,no_eligible_route
+20752,Diamond Creek,20418,Burnley,94.62,ok
+20754,Diggers Rest,20418,Burnley,98.38,ok
+20758,Dingley Village,20418,Burnley,79.22,ok
+20762,Dixons Creek,20418,Burnley,,no_eligible_route
+20766,Docklands,20418,Burnley,43.32,ok
+20769,Don Valley,20418,Burnley,,no_eligible_route
+20771,Doncaster,20418,Burnley,54.73,ok
+20772,Doncaster East,20418,Burnley,64.55,ok
+20773,Donnybrook (Vic.),20418,Burnley,114.58,ok
+20774,Donvale,20418,Burnley,72.28,ok
+20779,Doreen,20418,Burnley,114.1,ok
+20783,Doveton,20418,Burnley,98.47,ok
+20788,Dromana,20418,Burnley,178.1,ok
+20825,Eaglemont,20418,Burnley,69.63,ok
+20830,East Melbourne,20418,Burnley,35.9,ok
+20833,East Warburton,20418,Burnley,,no_eligible_route
+20843,Eden Park,20418,Burnley,,no_eligible_route
+20848,Edithvale,20418,Burnley,75.98,ok
+20864,Elsternwick,20418,Burnley,48.42,ok
+20865,Eltham (Vic.),20418,Burnley,92.75,ok
+20866,Eltham North,20418,Burnley,85.73,ok
+20867,Elwood,20418,Burnley,55.27,ok
+20868,Emerald (Vic.),20418,Burnley,133.12,ok
+20871,Endeavour Hills,20418,Burnley,109.95,ok
+20878,Epping (Vic.),20418,Burnley,102.52,ok
+20885,Essendon,20418,Burnley,65.43,ok
+20886,Essendon Fields,20418,Burnley,87.83,ok
+20887,Essendon North,20418,Burnley,68.83,ok
+20888,Essendon West,20418,Burnley,66.3,ok
+20889,Eumemmerring,20418,Burnley,99.63,ok
+20898,Exford,20418,Burnley,,no_eligible_route
+20899,Eynesbury,20418,Burnley,,no_eligible_route
+20901,Fairfield (Vic.),20418,Burnley,57.62,ok
+20909,Fawkner,20418,Burnley,79.23,ok
+20916,Fernshaw,20418,Burnley,,no_eligible_route
+20917,Ferntree Gully,20418,Burnley,75.28,ok
+20918,Ferny Creek,20418,Burnley,124.15,ok
+20920,Fingal (Vic.),20418,Burnley,,no_eligible_route
+20924,Fitzroy (Vic.),20418,Burnley,44.92,ok
+20925,Fitzroy North,20418,Burnley,53.52,ok
+20929,Flemington,20418,Burnley,59.05,ok
+20930,Flinders (Vic.),20418,Burnley,,no_eligible_route
+20935,Footscray,20418,Burnley,54.15,ok
+20937,Forest Hill (Vic.),20418,Burnley,56.23,ok
+20947,Frankston,20418,Burnley,95.57,ok
+20948,Frankston North,20418,Burnley,101.72,ok
+20949,Frankston South,20418,Burnley,122.72,ok
+20950,Fraser Rise,20418,Burnley,115.82,ok
+20965,Gardenvale,20418,Burnley,42.62,ok
+20966,Garfield,20418,Burnley,,no_eligible_route
+20967,Garfield North,20418,Burnley,,no_eligible_route
+20979,Gembrook,20418,Burnley,,no_eligible_route
+20995,Gilderoy,20418,Burnley,,no_eligible_route
+21001,Gisborne,20418,Burnley,,no_eligible_route
+21002,Gisborne South,20418,Burnley,,no_eligible_route
+21004,Gladstone Park,20418,Burnley,97.28,ok
+21005,Gladysdale,20418,Burnley,,no_eligible_route
+21009,Glen Huntly,20418,Burnley,53.1,ok
+21010,Glen Iris (Vic.),20418,Burnley,42.25,ok
+21013,Glen Waverley,20418,Burnley,51.35,ok
+21047,Glenroy (Vic.),20418,Burnley,74.52,ok
+21059,Goldie,20418,Burnley,,no_eligible_route
+21079,Gowanbrae,20418,Burnley,95.78,ok
+21087,Grangefields,20418,Burnley,147.42,ok
+21104,Greensborough,20418,Burnley,77.15,ok
+21105,Greenvale (Vic.),20418,Burnley,101.37,ok
+21115,Gruyere,20418,Burnley,,no_eligible_route
+21121,Guys Hill,20418,Burnley,,no_eligible_route
+21124,Hadfield,20418,Burnley,80.27,ok
+21125,Hallam,20418,Burnley,102.15,ok
+21131,Hampton (Vic.),20418,Burnley,59.83,ok
+21132,Hampton East,20418,Burnley,68.33,ok
+21133,Hampton Park,20418,Burnley,99.57,ok
+21139,Harkaway,20418,Burnley,,no_eligible_route
+21140,Harkness,20418,Burnley,169.95,ok
+21145,Hastings (Vic.),20418,Burnley,131.65,ok
+21152,Hawthorn (Vic.),20418,Burnley,25.78,walk_only
+21153,Hawthorn East,20418,Burnley,21.17,ok
+21158,Healesville,20418,Burnley,148.7,ok
+21159,Heath Hill,20418,Burnley,,no_eligible_route
+21161,Heathcote Junction,20418,Burnley,,no_eligible_route
+21163,Heatherton,20418,Burnley,82.43,ok
+21165,Heathmont,20418,Burnley,55.85,ok
+21167,Heidelberg,20418,Burnley,68.97,ok
+21168,Heidelberg Heights,20418,Burnley,70.97,ok
+21169,Heidelberg West,20418,Burnley,70.03,ok
+21176,Hesket,20418,Burnley,,no_eligible_route
+21185,Highett,20418,Burnley,61.1,ok
+21193,Hillside (Melton - Vic.),20418,Burnley,98.47,ok
+21195,Hmas Cerberus,20418,Burnley,172.28,ok
+21196,Hoddles Creek,20418,Burnley,,no_eligible_route
+21202,Hopetoun Park,20418,Burnley,,no_eligible_route
+21203,Hoppers Crossing,20418,Burnley,90.22,ok
+21214,Hughesdale,20418,Burnley,61.18,ok
+21215,Humevale,20418,Burnley,144.48,ok
+21218,Huntingdale (Vic.),20418,Burnley,66.62,ok
+21223,Hurstbridge,20418,Burnley,95.17,ok
+21238,Iona,20418,Burnley,,no_eligible_route
+21246,Ivanhoe (Vic.),20418,Burnley,54.9,ok
+21247,Ivanhoe East,20418,Burnley,61.98,ok
+21248,Jacana,20418,Burnley,82.55,ok
+21277,Junction Village,20418,Burnley,138.62,ok
+21284,Kalkallo,20418,Burnley,119.58,ok
+21286,Kallista,20418,Burnley,120.58,ok
+21287,Kalorama,20418,Burnley,88.65,ok
+21294,Kangaroo Ground,20418,Burnley,130.4,ok
+21312,Kealba,20418,Burnley,85.53,ok
+21314,Keilor,20418,Burnley,107.8,ok
+21315,Keilor Downs,20418,Burnley,94.32,ok
+21316,Keilor East,20418,Burnley,80.3,ok
+21317,Keilor Lodge,20418,Burnley,93.25,ok
+21318,Keilor North,20418,Burnley,89.0,ok
+21319,Keilor Park,20418,Burnley,89.58,ok
+21327,Kensington (Vic.),20418,Burnley,48.83,ok
+21333,Kerrie,20418,Burnley,,no_eligible_route
+21336,Kew (Vic.),20418,Burnley,38.82,ok
+21337,Kew East,20418,Burnley,51.52,ok
+21339,Keysborough,20418,Burnley,93.98,ok
+21354,Kilsyth,20418,Burnley,83.03,ok
+21355,Kilsyth South,20418,Burnley,94.32,ok
+21358,Kinglake,20418,Burnley,193.42,ok
+21359,Kinglake Central,20418,Burnley,,no_eligible_route
+21360,Kinglake West,20418,Burnley,147.45,ok
+21362,Kings Park (Vic.),20418,Burnley,84.63,ok
+21363,Kingsbury,20418,Burnley,81.25,ok
+21365,Kingsville,20418,Burnley,64.63,ok
+21374,Knoxfield,20418,Burnley,79.88,ok
+21380,Koo Wee Rup,20418,Burnley,,no_eligible_route
+21381,Koo Wee Rup North,20418,Burnley,,no_eligible_route
+21393,Kooyong,20418,Burnley,25.12,ok
+21411,Kurunjang,20418,Burnley,147.15,ok
+21452,Lalor,20418,Burnley,72.58,ok
+21456,Lancefield,20418,Burnley,,no_eligible_route
+21459,Lang Lang,20418,Burnley,,no_eligible_route
+21460,Lang Lang East,20418,Burnley,,no_eligible_route
+21467,Langwarrin,20418,Burnley,109.53,ok
+21468,Langwarrin South,20418,Burnley,,no_eligible_route
+21473,Launching Place,20418,Burnley,107.53,ok
+21476,Laverton (Vic.),20418,Burnley,70.98,ok
+21477,Laverton North,20418,Burnley,88.68,ok
+21504,Lilydale (Vic.),20418,Burnley,87.18,ok
+21533,Long Forest,20418,Burnley,,no_eligible_route
+21547,Lower Plenty,20418,Burnley,100.43,ok
+21554,Lynbrook,20418,Burnley,96.4,ok
+21555,Lyndhurst (Vic.),20418,Burnley,134.05,ok
+21558,Lysterfield,20418,Burnley,,no_eligible_route
+21559,Lysterfield South,20418,Burnley,122.48,ok
+21561,Macclesfield (Vic.),20418,Burnley,,no_eligible_route
+21562,Macedon,20418,Burnley,,no_eligible_route
+21564,Macleod (Vic.),20418,Burnley,70.25,ok
+21569,Maddingley,20418,Burnley,,no_eligible_route
+21575,Maidstone,20418,Burnley,69.52,ok
+21578,Main Ridge,20418,Burnley,,no_eligible_route
+21586,Malvern (Vic.),20418,Burnley,36.45,ok
+21587,Malvern East,20418,Burnley,37.72,ok
+21588,Mambourin,20418,Burnley,,no_eligible_route
+21597,Manor Lakes,20418,Burnley,122.45,ok
+21604,Maribyrnong,20418,Burnley,72.42,ok
+21619,Maryknoll,20418,Burnley,,no_eligible_route
+21625,McCrae,20418,Burnley,162.52,ok
+21629,McKinnon,20418,Burnley,50.4,ok
+21635,Meadow Heights,20418,Burnley,89.83,ok
+21640,Melbourne,20418,Burnley,32.0,ok
+21641,Melbourne Airport,20418,Burnley,,no_eligible_route
+21642,Melton (Vic.),20418,Burnley,152.33,ok
+21643,Melton South,20418,Burnley,165.93,ok
+21644,Melton West,20418,Burnley,143.33,ok
+21648,Mentone,20418,Burnley,60.08,ok
+21649,Menzies Creek,20418,Burnley,104.73,ok
+21659,Mernda,20418,Burnley,105.07,ok
+21662,Merricks,20418,Burnley,,no_eligible_route
+21663,Merricks Beach,20418,Burnley,,no_eligible_route
+21664,Merricks North,20418,Burnley,,no_eligible_route
+21668,Merrimu,20418,Burnley,,no_eligible_route
+21675,Mickleham,20418,Burnley,122.57,ok
+21677,Middle Park (Vic.),20418,Burnley,55.33,ok
+21683,Mill Park,20418,Burnley,91.67,ok
+21685,Millgrove,20418,Burnley,,no_eligible_route
+21706,Mitcham (Vic.),20418,Burnley,53.58,ok
+21727,Monbulk,20418,Burnley,128.03,ok
+21728,Monegeetta,20418,Burnley,,no_eligible_route
+21731,Monomeith,20418,Burnley,,no_eligible_route
+21732,Mont Albert,20418,Burnley,42.75,ok
+21733,Mont Albert North,20418,Burnley,53.55,ok
+21735,Montmorency,20418,Burnley,78.82,ok
+21736,Montrose (Vic.),20418,Burnley,79.95,ok
+21742,Moonee Ponds,20418,Burnley,50.9,ok
+21746,Moorabbin,20418,Burnley,79.15,ok
+21747,Moorabbin Airport,20418,Burnley,81.4,ok
+21754,Moorooduc,20418,Burnley,,no_eligible_route
+21755,Mooroolbark,20418,Burnley,73.88,ok
+21760,Mordialloc,20418,Burnley,75.38,ok
+21763,Mornington (Vic.),20418,Burnley,127.43,ok
+21779,Mount Burnett,20418,Burnley,,no_eligible_route
+21786,Mount Cottrell,20418,Burnley,,no_eligible_route
+21787,Mount Dandenong,20418,Burnley,99.1,ok
+21793,Mount Eliza,20418,Burnley,105.62,ok
+21795,Mount Evelyn,20418,Burnley,100.82,ok
+21801,Mount Macedon,20418,Burnley,,no_eligible_route
+21803,Mount Martha,20418,Burnley,129.03,ok
+21814,Mount Toolebewong,20418,Burnley,,no_eligible_route
+21816,Mount Waverley,20418,Burnley,42.78,ok
+21827,Mulgrave (Vic.),20418,Burnley,77.77,ok
+21849,Murrumbeena,20418,Burnley,60.05,ok
+21872,Nangana,20418,Burnley,,no_eligible_route
+21878,Nar Nar Goon,20418,Burnley,,no_eligible_route
+21879,Nar Nar Goon North,20418,Burnley,,no_eligible_route
+21893,Narre Warren,20418,Burnley,101.12,ok
+21894,Narre Warren East,20418,Burnley,,no_eligible_route
+21895,Narre Warren North,20418,Burnley,115.4,ok
+21896,Narre Warren South,20418,Burnley,106.02,ok
+21921,New Gisborne,20418,Burnley,,no_eligible_route
+21934,Newport (Vic.),20418,Burnley,55.83,ok
+21942,Niddrie,20418,Burnley,80.93,ok
+21952,Noble Park,20418,Burnley,73.4,ok
+21953,Noble Park North,20418,Burnley,98.42,ok
+21966,North Melbourne,20418,Burnley,48.28,ok
+21969,North Warrandyte,20418,Burnley,104.92,ok
+21971,Northcote,20418,Burnley,54.78,ok
+21974,Notting Hill,20418,Burnley,55.33,ok
+21985,Nunawading,20418,Burnley,46.07,ok
+21991,Nutfield,20418,Burnley,,no_eligible_route
+21998,Oak Park,20418,Burnley,70.22,ok
+21999,Oaklands Junction,20418,Burnley,,no_eligible_route
+22000,Oakleigh,20418,Burnley,60.4,ok
+22001,Oakleigh East,20418,Burnley,62.18,ok
+22002,Oakleigh South,20418,Burnley,71.8,ok
+22006,Officer,20418,Burnley,116.68,ok
+22007,Officer South,20418,Burnley,152.25,ok
+22009,Olinda (Vic.),20418,Burnley,124.3,ok
+22016,Ormond,20418,Burnley,50.83,ok
+22027,Pakenham,20418,Burnley,115.73,ok
+22028,Pakenham South,20418,Burnley,,no_eligible_route
+22029,Pakenham Upper,20418,Burnley,,no_eligible_route
+22032,Panton Hill,20418,Burnley,,no_eligible_route
+22036,Park Orchards,20418,Burnley,73.55,ok
+22037,Parkdale,20418,Burnley,65.17,ok
+22038,Parkville (Vic.),20418,Burnley,54.12,ok
+22041,Pascoe Vale,20418,Burnley,74.58,ok
+22042,Pascoe Vale South,20418,Burnley,70.32,ok
+22047,Patterson Lakes,20418,Burnley,88.47,ok
+22050,Pearcedale,20418,Burnley,161.55,ok
+22058,Pentland Hills,20418,Burnley,,no_eligible_route
+22064,Pheasant Creek (Vic.),20418,Burnley,163.1,ok
+22084,Plenty (Vic.),20418,Burnley,101.75,ok
+22085,Plumpton (Vic.),20418,Burnley,,no_eligible_route
+22086,Point Cook,20418,Burnley,89.22,ok
+22087,Point Leo,20418,Burnley,,no_eligible_route
+22107,Port Melbourne,20418,Burnley,50.83,ok
+22113,Portsea,20418,Burnley,198.82,ok
+22115,Powelltown,20418,Burnley,,no_eligible_route
+22118,Prahran,20418,Burnley,29.95,ok
+22121,Preston (Vic.),20418,Burnley,66.18,ok
+22122,Princes Hill,20418,Burnley,54.27,ok
+22132,Quandong,20418,Burnley,,no_eligible_route
+22141,Ravenhall,20418,Burnley,118.02,ok
+22148,Red Hill (Vic.),20418,Burnley,,no_eligible_route
+22149,Red Hill South,20418,Burnley,,no_eligible_route
+22160,Research,20418,Burnley,96.25,ok
+22161,Reservoir (Vic.),20418,Burnley,69.4,ok
+22170,Richmond (Vic.),20418,Burnley,24.45,ok
+22172,Riddells Creek,20418,Burnley,,no_eligible_route
+22174,Ringwood (Vic.),20418,Burnley,60.2,ok
+22175,Ringwood East,20418,Burnley,58.77,ok
+22176,Ringwood North,20418,Burnley,73.4,ok
+22179,Ripponlea,20418,Burnley,38.8,ok
+22185,Rochford,20418,Burnley,,no_eligible_route
+22186,Rockbank,20418,Burnley,125.6,ok
+22193,Romsey,20418,Burnley,,no_eligible_route
+22194,Rosanna,20418,Burnley,64.72,ok
+22198,Rosebud,20418,Burnley,178.83,ok
+22207,Rowville,20418,Burnley,78.23,ok
+22208,Roxburgh Park,20418,Burnley,86.83,ok
+22220,Rye,20418,Burnley,191.03,ok
+22221,Rythdale,20418,Burnley,,no_eligible_route
+22222,Safety Beach (Vic.),20418,Burnley,146.0,ok
+22232,Sandhurst,20418,Burnley,119.8,ok
+22234,Sandringham (Vic.),20418,Burnley,66.65,ok
+22239,Sassafras (Vic.),20418,Burnley,106.92,ok
+22242,Scoresby,20418,Burnley,79.97,ok
+22247,Seabrook,20418,Burnley,81.28,ok
+22249,Seaford (Vic.),20418,Burnley,90.7,ok
+22250,Seaholme,20418,Burnley,67.07,ok
+22256,Seddon (Vic.),20418,Burnley,51.08,ok
+22258,Selby,20418,Burnley,104.4,ok
+22263,Seville,20418,Burnley,118.7,ok
+22264,Seville East,20418,Burnley,105.58,ok
+22278,Sherbrooke,20418,Burnley,110.65,ok
+22279,Shoreham,20418,Burnley,,no_eligible_route
+22281,Silvan,20418,Burnley,120.13,ok
+22291,Skye (Vic.),20418,Burnley,112.72,ok
+22295,Smiths Gully,20418,Burnley,,no_eligible_route
+22303,Somers,20418,Burnley,160.42,ok
+22304,Somerton (Vic.),20418,Burnley,91.2,ok
+22305,Somerville (Vic.),20418,Burnley,136.7,ok
+22306,Sorrento (Vic.),20418,Burnley,178.8,ok
+22309,South Kingsville,20418,Burnley,70.08,ok
+22310,South Melbourne,20418,Burnley,42.3,ok
+22311,South Morang,20418,Burnley,95.28,ok
+22313,South Wharf,20418,Burnley,43.83,ok
+22314,South Yarra,20418,Burnley,28.33,ok
+22315,Southbank,20418,Burnley,37.87,ok
+22319,Spotswood,20418,Burnley,51.23,ok
+22325,Springfield (Macedon Ranges - Vic.),20418,Burnley,,no_eligible_route
+22328,Springvale (Vic.),20418,Burnley,74.37,ok
+22329,Springvale South,20418,Burnley,79.9,ok
+22330,St Albans (Vic.),20418,Burnley,71.92,ok
+22332,St Andrews (Vic.),20418,Burnley,,no_eligible_route
+22333,St Andrews Beach,20418,Burnley,,no_eligible_route
+22339,St Helena,20418,Burnley,83.0,ok
+22343,St Kilda (Vic.),20418,Burnley,41.38,ok
+22344,St Kilda East,20418,Burnley,30.47,ok
+22345,St Kilda West,20418,Burnley,55.18,ok
+22355,Steels Creek,20418,Burnley,,no_eligible_route
+22375,Strathewen,20418,Burnley,,no_eligible_route
+22380,Strathmore (Vic.),20418,Burnley,71.68,ok
+22381,Strathmore Heights,20418,Burnley,82.47,ok
+22382,Strathtulloh,20418,Burnley,,no_eligible_route
+22391,Sunbury,20418,Burnley,136.2,ok
+22395,Sunshine (Vic.),20418,Burnley,60.7,ok
+22396,Sunshine North,20418,Burnley,77.77,ok
+22397,Sunshine West,20418,Burnley,86.05,ok
+22399,Surrey Hills,20418,Burnley,43.17,ok
+22414,Sydenham (Vic.),20418,Burnley,86.32,ok
+22451,Tarneit,20418,Burnley,107.28,ok
+22457,Tarrawarra,20418,Burnley,124.3,ok
+22473,Taylors Hill,20418,Burnley,95.15,ok
+22474,Taylors Lakes,20418,Burnley,82.73,ok
+22476,Tecoma,20418,Burnley,75.67,ok
+22483,Templestowe,20418,Burnley,68.15,ok
+22484,Templestowe Lower,20418,Burnley,63.12,ok
+22496,The Basin (Vic.),20418,Burnley,91.35,ok
+22501,The Patch,20418,Burnley,118.6,ok
+22504,Thomastown,20418,Burnley,77.88,ok
+22508,Thornbury,20418,Burnley,60.67,ok
+22509,Thornhill Park,20418,Burnley,,no_eligible_route
+22514,Three Bridges,20418,Burnley,,no_eligible_route
+22531,Tonimbuk,20418,Burnley,,no_eligible_route
+22536,Toolangi,20418,Burnley,,no_eligible_route
+22537,Toolern Vale,20418,Burnley,,no_eligible_route
+22546,Tooradin,20418,Burnley,,no_eligible_route
+22547,Toorak,20418,Burnley,27.58,walk_only
+22550,Tootgarook,20418,Burnley,174.45,ok
+22556,Tottenham (Vic.),20418,Burnley,83.4,ok
+22572,Travancore,20418,Burnley,56.65,ok
+22576,Tremont,20418,Burnley,93.27,ok
+22582,Truganina,20418,Burnley,158.43,ok
+22584,Tuerong,20418,Burnley,,no_eligible_route
+22586,Tullamarine,20418,Burnley,96.63,ok
+22594,Tyabb,20418,Burnley,125.57,ok
+22598,Tynong,20418,Burnley,,no_eligible_route
+22599,Tynong North,20418,Burnley,,no_eligible_route
+22614,Upper Ferntree Gully,20418,Burnley,72.82,ok
+22617,Upper Plenty,20418,Burnley,,no_eligible_route
+22620,Upwey,20418,Burnley,75.53,ok
+22627,Vermont,20418,Burnley,67.13,ok
+22628,Vermont South,20418,Burnley,63.47,ok
+22629,Vervale,20418,Burnley,,no_eligible_route
+22633,Viewbank,20418,Burnley,74.72,ok
+22661,Wallan,20418,Burnley,,no_eligible_route
+22672,Wandin East,20418,Burnley,,no_eligible_route
+22673,Wandin North,20418,Burnley,91.67,ok
+22676,Wandong,20418,Burnley,,no_eligible_route
+22685,Wantirna,20418,Burnley,81.42,ok
+22686,Wantirna South,20418,Burnley,69.27,ok
+22689,Warburton (Vic.),20418,Burnley,,no_eligible_route
+22695,Warneet,20418,Burnley,,no_eligible_route
+22702,Warrandyte,20418,Burnley,86.82,ok
+22703,Warrandyte South,20418,Burnley,101.7,ok
+22704,Warranwood,20418,Burnley,79.37,ok
+22717,Waterford Park,20418,Burnley,,no_eligible_route
+22720,Waterways,20418,Burnley,94.77,ok
+22721,Watsonia,20418,Burnley,65.17,ok
+22722,Watsonia North,20418,Burnley,85.62,ok
+22723,Watsons Creek (Vic.),20418,Burnley,,no_eligible_route
+22727,Wattle Glen,20418,Burnley,98.92,ok
+22740,Weir Views,20418,Burnley,198.17,ok
+22750,Werribee,20418,Burnley,84.02,ok
+22751,Werribee South,20418,Burnley,122.03,ok
+22753,Wesburn,20418,Burnley,123.63,ok
+22756,West Footscray,20418,Burnley,63.87,ok
+22757,West Melbourne,20418,Burnley,57.8,ok
+22761,Westmeadows,20418,Burnley,83.25,ok
+22766,Wheelers Hill,20418,Burnley,69.4,ok
+22775,Whittlesea,20418,Burnley,,no_eligible_route
+22784,Wildwood,20418,Burnley,,no_eligible_route
+22791,Williams Landing,20418,Burnley,85.23,ok
+22792,Williamstown (Vic.),20418,Burnley,63.05,ok
+22793,Williamstown North,20418,Burnley,77.55,ok
+22805,Windsor (Vic.),20418,Burnley,36.07,ok
+22820,Wollert,20418,Burnley,111.1,ok
+22825,Wonga Park,20418,Burnley,79.22,ok
+22843,Woodstock (Vic.),20418,Burnley,,no_eligible_route
+22857,Woori Yallock,20418,Burnley,102.78,ok
+22883,Wyndham Vale,20418,Burnley,110.83,ok
+22892,Yallambie,20418,Burnley,84.45,ok
+22898,Yan Yean,20418,Burnley,128.83,ok
+22906,Yannathan,20418,Burnley,,no_eligible_route
+22910,Yarra Glen,20418,Burnley,121.6,ok
+22911,Yarra Junction,20418,Burnley,127.9,ok
+22916,Yarrambat,20418,Burnley,98.32,ok
+22917,Yarraville,20418,Burnley,56.98,ok
+22925,Yellingbo,20418,Burnley,,no_eligible_route
+22930,Yering,20418,Burnley,,no_eligible_route
+22941,Yuroke,20418,Burnley,146.9,ok

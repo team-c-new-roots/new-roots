@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20346,Broadmeadows (Vic.),61.73,ok
+20003,Aberfeldie,20346,Broadmeadows (Vic.),48.2,ok
+20011,Aintree,20346,Broadmeadows (Vic.),126.93,ok
+20015,Airport West,20346,Broadmeadows (Vic.),44.0,ok
+20017,Albanvale,20346,Broadmeadows (Vic.),104.4,ok
+20018,Albert Park (Vic.),20346,Broadmeadows (Vic.),65.38,ok
+20021,Albion (Vic.),20346,Broadmeadows (Vic.),80.83,ok
+20034,Alphington,20346,Broadmeadows (Vic.),65.58,ok
+20035,Altona (Vic.),20346,Broadmeadows (Vic.),83.9,ok
+20036,Altona Meadows,20346,Broadmeadows (Vic.),90.05,ok
+20037,Altona North,20346,Broadmeadows (Vic.),102.3,ok
+20062,Ardeer,20346,Broadmeadows (Vic.),86.95,ok
+20066,Armadale (Vic.),20346,Broadmeadows (Vic.),75.05,ok
+20071,Arthurs Creek,20346,Broadmeadows (Vic.),,no_eligible_route
+20072,Arthurs Seat,20346,Broadmeadows (Vic.),235.18,ok
+20075,Ascot Vale,20346,Broadmeadows (Vic.),45.35,ok
+20077,Ashburton,20346,Broadmeadows (Vic.),88.65,ok
+20078,Ashwood,20346,Broadmeadows (Vic.),97.85,ok
+20079,Aspendale,20346,Broadmeadows (Vic.),109.92,ok
+20080,Aspendale Gardens,20346,Broadmeadows (Vic.),130.25,ok
+20082,Attwood,20346,Broadmeadows (Vic.),38.83,ok
+20089,Avondale Heights,20346,Broadmeadows (Vic.),68.4,ok
+20091,Avonsleigh,20346,Broadmeadows (Vic.),,no_eligible_route
+20095,Bacchus Marsh,20346,Broadmeadows (Vic.),,no_eligible_route
+20097,Badger Creek,20346,Broadmeadows (Vic.),192.5,ok
+20105,Balaclava (Vic.),20346,Broadmeadows (Vic.),74.68,ok
+20120,Balnarring,20346,Broadmeadows (Vic.),,no_eligible_route
+20121,Balnarring Beach,20346,Broadmeadows (Vic.),,no_eligible_route
+20123,Balwyn,20346,Broadmeadows (Vic.),88.58,ok
+20124,Balwyn North,20346,Broadmeadows (Vic.),86.32,ok
+20131,Bangholme,20346,Broadmeadows (Vic.),161.52,ok
+20169,Baxter,20346,Broadmeadows (Vic.),150.27,ok
+20171,Bayles,20346,Broadmeadows (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),20346,Broadmeadows (Vic.),114.92,ok
+20174,Bayswater North,20346,Broadmeadows (Vic.),134.27,ok
+20175,Beaconsfield (Vic.),20346,Broadmeadows (Vic.),152.37,ok
+20176,Beaconsfield Upper,20346,Broadmeadows (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),20346,Broadmeadows (Vic.),107.8,ok
+20187,Beenak,20346,Broadmeadows (Vic.),,no_eligible_route
+20188,Belgrave,20346,Broadmeadows (Vic.),128.0,ok
+20189,Belgrave Heights,20346,Broadmeadows (Vic.),157.67,ok
+20190,Belgrave South,20346,Broadmeadows (Vic.),156.65,ok
+20198,Bellfield (Banyule - Vic.),20346,Broadmeadows (Vic.),72.93,ok
+20207,Bend Of Islands,20346,Broadmeadows (Vic.),,no_eligible_route
+20212,Benloch,20346,Broadmeadows (Vic.),,no_eligible_route
+20214,Bentleigh,20346,Broadmeadows (Vic.),98.08,ok
+20215,Bentleigh East,20346,Broadmeadows (Vic.),101.03,ok
+20224,Berwick,20346,Broadmeadows (Vic.),125.17,ok
+20233,Beveridge,20346,Broadmeadows (Vic.),75.45,ok
+20237,Big Pats Creek,20346,Broadmeadows (Vic.),,no_eligible_route
+20248,Bittern,20346,Broadmeadows (Vic.),168.25,ok
+20251,Black Rock (Vic.),20346,Broadmeadows (Vic.),108.12,ok
+20252,Blackburn,20346,Broadmeadows (Vic.),88.25,ok
+20253,Blackburn North,20346,Broadmeadows (Vic.),98.53,ok
+20254,Blackburn South,20346,Broadmeadows (Vic.),105.73,ok
+20257,Blairgowrie,20346,Broadmeadows (Vic.),229.22,ok
+20260,Blind Bight,20346,Broadmeadows (Vic.),,no_eligible_route
+20272,Bolinda,20346,Broadmeadows (Vic.),,no_eligible_route
+20278,Bonbeach,20346,Broadmeadows (Vic.),114.92,ok
+20280,Boneo,20346,Broadmeadows (Vic.),,no_eligible_route
+20282,Bonnie Brook,20346,Broadmeadows (Vic.),159.48,ok
+20304,Boronia,20346,Broadmeadows (Vic.),117.38,ok
+20307,Botanic Ridge,20346,Broadmeadows (Vic.),165.42,ok
+20314,Box Hill (Vic.),20346,Broadmeadows (Vic.),87.7,ok
+20315,Box Hill North,20346,Broadmeadows (Vic.),94.4,ok
+20316,Box Hill South,20346,Broadmeadows (Vic.),96.75,ok
+20320,Braeside,20346,Broadmeadows (Vic.),137.0,ok
+20324,Braybrook,20346,Broadmeadows (Vic.),72.93,ok
+20331,Briar Hill,20346,Broadmeadows (Vic.),60.9,ok
+20337,Brighton (Vic.),20346,Broadmeadows (Vic.),87.45,ok
+20338,Brighton East,20346,Broadmeadows (Vic.),94.32,ok
+20346,Broadmeadows (Vic.),20346,Broadmeadows (Vic.),0.0,same_centroid
+20351,Brookfield (Vic.),20346,Broadmeadows (Vic.),180.6,ok
+20352,Brooklyn (Vic.),20346,Broadmeadows (Vic.),95.22,ok
+20361,Brunswick (Vic.),20346,Broadmeadows (Vic.),50.33,ok
+20362,Brunswick East,20346,Broadmeadows (Vic.),70.25,ok
+20363,Brunswick West,20346,Broadmeadows (Vic.),50.58,ok
+20381,Bulla (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+20386,Bulleen,20346,Broadmeadows (Vic.),88.47,ok
+20387,Bullengarook,20346,Broadmeadows (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),20346,Broadmeadows (Vic.),42.3,ok
+20411,Bunyip,20346,Broadmeadows (Vic.),,no_eligible_route
+20412,Bunyip North,20346,Broadmeadows (Vic.),,no_eligible_route
+20418,Burnley,20346,Broadmeadows (Vic.),75.67,ok
+20419,Burnside (Vic.),20346,Broadmeadows (Vic.),98.45,ok
+20420,Burnside Heights,20346,Broadmeadows (Vic.),106.65,ok
+20426,Burwood (Vic.),20346,Broadmeadows (Vic.),102.07,ok
+20427,Burwood East,20346,Broadmeadows (Vic.),106.97,ok
+20435,Bylands,20346,Broadmeadows (Vic.),,no_eligible_route
+20441,Cairnlea,20346,Broadmeadows (Vic.),98.02,ok
+20442,Calder Park,20346,Broadmeadows (Vic.),121.58,ok
+20443,Caldermeade,20346,Broadmeadows (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),20346,Broadmeadows (Vic.),87.58,ok
+20455,Campbellfield,20346,Broadmeadows (Vic.),32.47,ok
+20466,Cannons Creek,20346,Broadmeadows (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),20346,Broadmeadows (Vic.),81.07,ok
+20474,Cape Schanck,20346,Broadmeadows (Vic.),,no_eligible_route
+20476,Capel Sound,20346,Broadmeadows (Vic.),214.57,ok
+20487,Cardinia,20346,Broadmeadows (Vic.),,no_eligible_route
+20495,Carlton (Vic.),20346,Broadmeadows (Vic.),66.65,ok
+20496,Carlton North,20346,Broadmeadows (Vic.),76.6,ok
+20498,Carnegie,20346,Broadmeadows (Vic.),88.68,ok
+20500,Caroline Springs,20346,Broadmeadows (Vic.),102.88,ok
+20507,Carrum,20346,Broadmeadows (Vic.),114.73,ok
+20508,Carrum Downs,20346,Broadmeadows (Vic.),139.35,ok
+20512,Castella,20346,Broadmeadows (Vic.),,no_eligible_route
+20517,Catani,20346,Broadmeadows (Vic.),,no_eligible_route
+20521,Caulfield,20346,Broadmeadows (Vic.),92.78,ok
+20522,Caulfield East,20346,Broadmeadows (Vic.),83.1,ok
+20523,Caulfield North,20346,Broadmeadows (Vic.),81.98,ok
+20524,Caulfield South,20346,Broadmeadows (Vic.),92.95,ok
+20528,Chadstone,20346,Broadmeadows (Vic.),99.75,ok
+20537,Chelsea,20346,Broadmeadows (Vic.),111.98,ok
+20538,Chelsea Heights,20346,Broadmeadows (Vic.),136.1,ok
+20539,Cheltenham (Vic.),20346,Broadmeadows (Vic.),101.45,ok
+20541,Cherokee,20346,Broadmeadows (Vic.),,no_eligible_route
+20555,Chintin,20346,Broadmeadows (Vic.),,no_eligible_route
+20556,Chirnside Park,20346,Broadmeadows (Vic.),133.28,ok
+20559,Christmas Hills (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+20560,Chum Creek,20346,Broadmeadows (Vic.),,no_eligible_route
+20566,Clarinda,20346,Broadmeadows (Vic.),107.83,ok
+20567,Clarkefield,20346,Broadmeadows (Vic.),,no_eligible_route
+20569,Clayton,20346,Broadmeadows (Vic.),101.92,ok
+20570,Clayton South,20346,Broadmeadows (Vic.),116.97,ok
+20572,Clematis,20346,Broadmeadows (Vic.),,no_eligible_route
+20574,Clifton Hill,20346,Broadmeadows (Vic.),52.7,ok
+20576,Clonbinane,20346,Broadmeadows (Vic.),,no_eligible_route
+20581,Clyde (Vic.),20346,Broadmeadows (Vic.),175.87,ok
+20582,Clyde North,20346,Broadmeadows (Vic.),151.02,ok
+20587,Cobaw,20346,Broadmeadows (Vic.),,no_eligible_route
+20590,Cobblebank,20346,Broadmeadows (Vic.),162.63,ok
+20596,Coburg,20346,Broadmeadows (Vic.),47.58,ok
+20597,Coburg North,20346,Broadmeadows (Vic.),42.32,ok
+20600,Cockatoo (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+20601,Cocoroc,20346,Broadmeadows (Vic.),,no_eligible_route
+20605,Coimadai,20346,Broadmeadows (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),20346,Broadmeadows (Vic.),61.73,ok
+20624,Coolaroo,20346,Broadmeadows (Vic.),18.42,ok
+20633,Cora Lynn,20346,Broadmeadows (Vic.),,no_eligible_route
+20654,Cottles Bridge,20346,Broadmeadows (Vic.),,no_eligible_route
+20661,Craigieburn,20346,Broadmeadows (Vic.),45.97,ok
+20662,Cranbourne,20346,Broadmeadows (Vic.),140.87,ok
+20663,Cranbourne East,20346,Broadmeadows (Vic.),140.3,ok
+20664,Cranbourne North,20346,Broadmeadows (Vic.),133.83,ok
+20665,Cranbourne South,20346,Broadmeadows (Vic.),168.77,ok
+20666,Cranbourne West,20346,Broadmeadows (Vic.),143.72,ok
+20670,Cremorne (Vic.),20346,Broadmeadows (Vic.),66.97,ok
+20674,Crib Point,20346,Broadmeadows (Vic.),177.22,ok
+20682,Croydon (Vic.),20346,Broadmeadows (Vic.),106.02,ok
+20683,Croydon Hills,20346,Broadmeadows (Vic.),126.33,ok
+20684,Croydon North,20346,Broadmeadows (Vic.),130.15,ok
+20685,Croydon South,20346,Broadmeadows (Vic.),124.93,ok
+20702,Dallas,20346,Broadmeadows (Vic.),15.82,ok
+20703,Dalmore,20346,Broadmeadows (Vic.),,no_eligible_route
+20707,Dandenong,20346,Broadmeadows (Vic.),112.77,ok
+20708,Dandenong North,20346,Broadmeadows (Vic.),132.65,ok
+20709,Dandenong South,20346,Broadmeadows (Vic.),139.23,ok
+20712,Darley,20346,Broadmeadows (Vic.),,no_eligible_route
+20716,Darraweit Guim,20346,Broadmeadows (Vic.),,no_eligible_route
+20724,Deanside,20346,Broadmeadows (Vic.),132.08,ok
+20728,Deepdene (Vic.),20346,Broadmeadows (Vic.),83.68,ok
+20729,Deer Park,20346,Broadmeadows (Vic.),83.78,ok
+20731,Delahey,20346,Broadmeadows (Vic.),107.07,ok
+20743,Derrimut,20346,Broadmeadows (Vic.),116.28,ok
+20748,Devon Meadows,20346,Broadmeadows (Vic.),182.62,ok
+20750,Dewhurst,20346,Broadmeadows (Vic.),,no_eligible_route
+20752,Diamond Creek,20346,Broadmeadows (Vic.),78.8,ok
+20754,Diggers Rest,20346,Broadmeadows (Vic.),96.83,ok
+20758,Dingley Village,20346,Broadmeadows (Vic.),118.35,ok
+20762,Dixons Creek,20346,Broadmeadows (Vic.),,no_eligible_route
+20766,Docklands,20346,Broadmeadows (Vic.),58.45,ok
+20769,Don Valley,20346,Broadmeadows (Vic.),,no_eligible_route
+20771,Doncaster,20346,Broadmeadows (Vic.),75.97,ok
+20772,Doncaster East,20346,Broadmeadows (Vic.),84.85,ok
+20773,Donnybrook (Vic.),20346,Broadmeadows (Vic.),75.98,ok
+20774,Donvale,20346,Broadmeadows (Vic.),117.4,ok
+20779,Doreen,20346,Broadmeadows (Vic.),90.38,ok
+20783,Doveton,20346,Broadmeadows (Vic.),124.98,ok
+20788,Dromana,20346,Broadmeadows (Vic.),224.35,ok
+20825,Eaglemont,20346,Broadmeadows (Vic.),82.92,ok
+20830,East Melbourne,20346,Broadmeadows (Vic.),60.77,ok
+20833,East Warburton,20346,Broadmeadows (Vic.),,no_eligible_route
+20843,Eden Park,20346,Broadmeadows (Vic.),,no_eligible_route
+20848,Edithvale,20346,Broadmeadows (Vic.),112.12,ok
+20864,Elsternwick,20346,Broadmeadows (Vic.),82.6,ok
+20865,Eltham (Vic.),20346,Broadmeadows (Vic.),75.13,ok
+20866,Eltham North,20346,Broadmeadows (Vic.),66.02,ok
+20867,Elwood,20346,Broadmeadows (Vic.),87.27,ok
+20868,Emerald (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+20871,Endeavour Hills,20346,Broadmeadows (Vic.),141.7,ok
+20878,Epping (Vic.),20346,Broadmeadows (Vic.),66.0,ok
+20885,Essendon,20346,Broadmeadows (Vic.),45.57,ok
+20886,Essendon Fields,20346,Broadmeadows (Vic.),54.87,ok
+20887,Essendon North,20346,Broadmeadows (Vic.),50.35,ok
+20888,Essendon West,20346,Broadmeadows (Vic.),46.43,ok
+20889,Eumemmerring,20346,Broadmeadows (Vic.),131.52,ok
+20898,Exford,20346,Broadmeadows (Vic.),,no_eligible_route
+20899,Eynesbury,20346,Broadmeadows (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),20346,Broadmeadows (Vic.),71.9,ok
+20909,Fawkner,20346,Broadmeadows (Vic.),44.32,ok
+20916,Fernshaw,20346,Broadmeadows (Vic.),,no_eligible_route
+20917,Ferntree Gully,20346,Broadmeadows (Vic.),127.13,ok
+20918,Ferny Creek,20346,Broadmeadows (Vic.),168.67,ok
+20920,Fingal (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),20346,Broadmeadows (Vic.),67.22,ok
+20925,Fitzroy North,20346,Broadmeadows (Vic.),67.73,ok
+20929,Flemington,20346,Broadmeadows (Vic.),50.18,ok
+20930,Flinders (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+20935,Footscray,20346,Broadmeadows (Vic.),57.82,ok
+20937,Forest Hill (Vic.),20346,Broadmeadows (Vic.),105.57,ok
+20947,Frankston,20346,Broadmeadows (Vic.),135.7,ok
+20948,Frankston North,20346,Broadmeadows (Vic.),153.77,ok
+20949,Frankston South,20346,Broadmeadows (Vic.),161.63,ok
+20950,Fraser Rise,20346,Broadmeadows (Vic.),132.33,ok
+20965,Gardenvale,20346,Broadmeadows (Vic.),83.88,ok
+20966,Garfield,20346,Broadmeadows (Vic.),,no_eligible_route
+20967,Garfield North,20346,Broadmeadows (Vic.),,no_eligible_route
+20979,Gembrook,20346,Broadmeadows (Vic.),,no_eligible_route
+20995,Gilderoy,20346,Broadmeadows (Vic.),,no_eligible_route
+21001,Gisborne,20346,Broadmeadows (Vic.),,no_eligible_route
+21002,Gisborne South,20346,Broadmeadows (Vic.),,no_eligible_route
+21004,Gladstone Park,20346,Broadmeadows (Vic.),37.47,ok
+21005,Gladysdale,20346,Broadmeadows (Vic.),,no_eligible_route
+21009,Glen Huntly,20346,Broadmeadows (Vic.),89.62,ok
+21010,Glen Iris (Vic.),20346,Broadmeadows (Vic.),89.77,ok
+21013,Glen Waverley,20346,Broadmeadows (Vic.),96.68,ok
+21047,Glenroy (Vic.),20346,Broadmeadows (Vic.),36.3,walk_only
+21059,Goldie,20346,Broadmeadows (Vic.),,no_eligible_route
+21079,Gowanbrae,20346,Broadmeadows (Vic.),46.3,ok
+21087,Grangefields,20346,Broadmeadows (Vic.),163.93,ok
+21104,Greensborough,20346,Broadmeadows (Vic.),56.47,ok
+21105,Greenvale (Vic.),20346,Broadmeadows (Vic.),54.8,ok
+21115,Gruyere,20346,Broadmeadows (Vic.),,no_eligible_route
+21121,Guys Hill,20346,Broadmeadows (Vic.),,no_eligible_route
+21124,Hadfield,20346,Broadmeadows (Vic.),43.83,ok
+21125,Hallam,20346,Broadmeadows (Vic.),130.28,ok
+21131,Hampton (Vic.),20346,Broadmeadows (Vic.),95.28,ok
+21132,Hampton East,20346,Broadmeadows (Vic.),104.85,ok
+21133,Hampton Park,20346,Broadmeadows (Vic.),132.7,ok
+21139,Harkaway,20346,Broadmeadows (Vic.),,no_eligible_route
+21140,Harkness,20346,Broadmeadows (Vic.),182.08,ok
+21145,Hastings (Vic.),20346,Broadmeadows (Vic.),169.78,ok
+21152,Hawthorn (Vic.),20346,Broadmeadows (Vic.),81.17,ok
+21153,Hawthorn East,20346,Broadmeadows (Vic.),79.55,ok
+21158,Healesville,20346,Broadmeadows (Vic.),196.42,ok
+21159,Heath Hill,20346,Broadmeadows (Vic.),,no_eligible_route
+21161,Heathcote Junction,20346,Broadmeadows (Vic.),,no_eligible_route
+21163,Heatherton,20346,Broadmeadows (Vic.),114.85,ok
+21165,Heathmont,20346,Broadmeadows (Vic.),105.18,ok
+21167,Heidelberg,20346,Broadmeadows (Vic.),82.38,ok
+21168,Heidelberg Heights,20346,Broadmeadows (Vic.),68.1,ok
+21169,Heidelberg West,20346,Broadmeadows (Vic.),70.25,ok
+21176,Hesket,20346,Broadmeadows (Vic.),,no_eligible_route
+21185,Highett,20346,Broadmeadows (Vic.),97.62,ok
+21193,Hillside (Melton - Vic.),20346,Broadmeadows (Vic.),110.98,ok
+21195,Hmas Cerberus,20346,Broadmeadows (Vic.),,no_eligible_route
+21196,Hoddles Creek,20346,Broadmeadows (Vic.),,no_eligible_route
+21202,Hopetoun Park,20346,Broadmeadows (Vic.),,no_eligible_route
+21203,Hoppers Crossing,20346,Broadmeadows (Vic.),101.73,ok
+21214,Hughesdale,20346,Broadmeadows (Vic.),91.32,ok
+21215,Humevale,20346,Broadmeadows (Vic.),,no_eligible_route
+21218,Huntingdale (Vic.),20346,Broadmeadows (Vic.),96.75,ok
+21223,Hurstbridge,20346,Broadmeadows (Vic.),79.08,ok
+21238,Iona,20346,Broadmeadows (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),20346,Broadmeadows (Vic.),70.18,ok
+21247,Ivanhoe East,20346,Broadmeadows (Vic.),87.6,ok
+21248,Jacana,20346,Broadmeadows (Vic.),24.0,ok
+21277,Junction Village,20346,Broadmeadows (Vic.),168.75,ok
+21284,Kalkallo,20346,Broadmeadows (Vic.),74.98,ok
+21286,Kallista,20346,Broadmeadows (Vic.),172.1,ok
+21287,Kalorama,20346,Broadmeadows (Vic.),138.37,ok
+21294,Kangaroo Ground,20346,Broadmeadows (Vic.),109.68,ok
+21312,Kealba,20346,Broadmeadows (Vic.),95.88,ok
+21314,Keilor,20346,Broadmeadows (Vic.),90.32,ok
+21315,Keilor Downs,20346,Broadmeadows (Vic.),109.55,ok
+21316,Keilor East,20346,Broadmeadows (Vic.),62.18,ok
+21317,Keilor Lodge,20346,Broadmeadows (Vic.),96.0,ok
+21318,Keilor North,20346,Broadmeadows (Vic.),69.52,ok
+21319,Keilor Park,20346,Broadmeadows (Vic.),71.72,ok
+21327,Kensington (Vic.),20346,Broadmeadows (Vic.),42.93,ok
+21333,Kerrie,20346,Broadmeadows (Vic.),,no_eligible_route
+21336,Kew (Vic.),20346,Broadmeadows (Vic.),74.32,ok
+21337,Kew East,20346,Broadmeadows (Vic.),77.38,ok
+21339,Keysborough,20346,Broadmeadows (Vic.),120.5,ok
+21354,Kilsyth,20346,Broadmeadows (Vic.),127.75,ok
+21355,Kilsyth South,20346,Broadmeadows (Vic.),140.45,ok
+21358,Kinglake,20346,Broadmeadows (Vic.),,no_eligible_route
+21359,Kinglake Central,20346,Broadmeadows (Vic.),,no_eligible_route
+21360,Kinglake West,20346,Broadmeadows (Vic.),123.73,ok
+21362,Kings Park (Vic.),20346,Broadmeadows (Vic.),102.15,ok
+21363,Kingsbury,20346,Broadmeadows (Vic.),62.57,ok
+21365,Kingsville,20346,Broadmeadows (Vic.),74.9,ok
+21374,Knoxfield,20346,Broadmeadows (Vic.),127.03,ok
+21380,Koo Wee Rup,20346,Broadmeadows (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,20346,Broadmeadows (Vic.),,no_eligible_route
+21393,Kooyong,20346,Broadmeadows (Vic.),70.45,ok
+21411,Kurunjang,20346,Broadmeadows (Vic.),159.28,ok
+21452,Lalor,20346,Broadmeadows (Vic.),44.87,ok
+21456,Lancefield,20346,Broadmeadows (Vic.),,no_eligible_route
+21459,Lang Lang,20346,Broadmeadows (Vic.),,no_eligible_route
+21460,Lang Lang East,20346,Broadmeadows (Vic.),,no_eligible_route
+21467,Langwarrin,20346,Broadmeadows (Vic.),149.67,ok
+21468,Langwarrin South,20346,Broadmeadows (Vic.),,no_eligible_route
+21473,Launching Place,20346,Broadmeadows (Vic.),147.67,ok
+21476,Laverton (Vic.),20346,Broadmeadows (Vic.),83.12,ok
+21477,Laverton North,20346,Broadmeadows (Vic.),111.92,ok
+21504,Lilydale (Vic.),20346,Broadmeadows (Vic.),127.32,ok
+21533,Long Forest,20346,Broadmeadows (Vic.),,no_eligible_route
+21547,Lower Plenty,20346,Broadmeadows (Vic.),90.72,ok
+21554,Lynbrook,20346,Broadmeadows (Vic.),123.92,ok
+21555,Lyndhurst (Vic.),20346,Broadmeadows (Vic.),167.5,ok
+21558,Lysterfield,20346,Broadmeadows (Vic.),,no_eligible_route
+21559,Lysterfield South,20346,Broadmeadows (Vic.),180.25,ok
+21561,Macclesfield (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+21562,Macedon,20346,Broadmeadows (Vic.),,no_eligible_route
+21564,Macleod (Vic.),20346,Broadmeadows (Vic.),72.23,ok
+21569,Maddingley,20346,Broadmeadows (Vic.),,no_eligible_route
+21575,Maidstone,20346,Broadmeadows (Vic.),69.55,ok
+21578,Main Ridge,20346,Broadmeadows (Vic.),,no_eligible_route
+21586,Malvern (Vic.),20346,Broadmeadows (Vic.),85.52,ok
+21587,Malvern East,20346,Broadmeadows (Vic.),83.05,ok
+21588,Mambourin,20346,Broadmeadows (Vic.),,no_eligible_route
+21597,Manor Lakes,20346,Broadmeadows (Vic.),138.97,ok
+21604,Maribyrnong,20346,Broadmeadows (Vic.),61.28,ok
+21619,Maryknoll,20346,Broadmeadows (Vic.),,no_eligible_route
+21625,McCrae,20346,Broadmeadows (Vic.),207.77,ok
+21629,McKinnon,20346,Broadmeadows (Vic.),86.92,ok
+21635,Meadow Heights,20346,Broadmeadows (Vic.),33.13,ok
+21640,Melbourne,20346,Broadmeadows (Vic.),59.13,ok
+21641,Melbourne Airport,20346,Broadmeadows (Vic.),175.35,walk_only
+21642,Melton (Vic.),20346,Broadmeadows (Vic.),164.85,ok
+21643,Melton South,20346,Broadmeadows (Vic.),178.45,ok
+21644,Melton West,20346,Broadmeadows (Vic.),155.47,ok
+21648,Mentone,20346,Broadmeadows (Vic.),96.22,ok
+21649,Menzies Creek,20346,Broadmeadows (Vic.),,no_eligible_route
+21659,Mernda,20346,Broadmeadows (Vic.),75.35,ok
+21662,Merricks,20346,Broadmeadows (Vic.),,no_eligible_route
+21663,Merricks Beach,20346,Broadmeadows (Vic.),,no_eligible_route
+21664,Merricks North,20346,Broadmeadows (Vic.),,no_eligible_route
+21668,Merrimu,20346,Broadmeadows (Vic.),,no_eligible_route
+21675,Mickleham,20346,Broadmeadows (Vic.),76.97,ok
+21677,Middle Park (Vic.),20346,Broadmeadows (Vic.),71.47,ok
+21683,Mill Park,20346,Broadmeadows (Vic.),68.95,ok
+21685,Millgrove,20346,Broadmeadows (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),20346,Broadmeadows (Vic.),99.92,ok
+21727,Monbulk,20346,Broadmeadows (Vic.),179.55,ok
+21728,Monegeetta,20346,Broadmeadows (Vic.),,no_eligible_route
+21731,Monomeith,20346,Broadmeadows (Vic.),,no_eligible_route
+21732,Mont Albert,20346,Broadmeadows (Vic.),88.08,ok
+21733,Mont Albert North,20346,Broadmeadows (Vic.),86.02,ok
+21735,Montmorency,20346,Broadmeadows (Vic.),61.2,ok
+21736,Montrose (Vic.),20346,Broadmeadows (Vic.),130.67,ok
+21742,Moonee Ponds,20346,Broadmeadows (Vic.),37.98,ok
+21746,Moorabbin,20346,Broadmeadows (Vic.),109.48,ok
+21747,Moorabbin Airport,20346,Broadmeadows (Vic.),119.72,ok
+21754,Moorooduc,20346,Broadmeadows (Vic.),,no_eligible_route
+21755,Mooroolbark,20346,Broadmeadows (Vic.),120.6,ok
+21760,Mordialloc,20346,Broadmeadows (Vic.),111.52,ok
+21763,Mornington (Vic.),20346,Broadmeadows (Vic.),172.95,ok
+21779,Mount Burnett,20346,Broadmeadows (Vic.),,no_eligible_route
+21786,Mount Cottrell,20346,Broadmeadows (Vic.),,no_eligible_route
+21787,Mount Dandenong,20346,Broadmeadows (Vic.),142.37,ok
+21793,Mount Eliza,20346,Broadmeadows (Vic.),151.13,ok
+21795,Mount Evelyn,20346,Broadmeadows (Vic.),146.53,ok
+21801,Mount Macedon,20346,Broadmeadows (Vic.),,no_eligible_route
+21803,Mount Martha,20346,Broadmeadows (Vic.),176.28,ok
+21814,Mount Toolebewong,20346,Broadmeadows (Vic.),,no_eligible_route
+21816,Mount Waverley,20346,Broadmeadows (Vic.),88.12,ok
+21827,Mulgrave (Vic.),20346,Broadmeadows (Vic.),121.57,ok
+21849,Murrumbeena,20346,Broadmeadows (Vic.),91.43,ok
+21872,Nangana,20346,Broadmeadows (Vic.),,no_eligible_route
+21878,Nar Nar Goon,20346,Broadmeadows (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,20346,Broadmeadows (Vic.),,no_eligible_route
+21893,Narre Warren,20346,Broadmeadows (Vic.),131.25,ok
+21894,Narre Warren East,20346,Broadmeadows (Vic.),,no_eligible_route
+21895,Narre Warren North,20346,Broadmeadows (Vic.),147.53,ok
+21896,Narre Warren South,20346,Broadmeadows (Vic.),132.08,ok
+21921,New Gisborne,20346,Broadmeadows (Vic.),,no_eligible_route
+21934,Newport (Vic.),20346,Broadmeadows (Vic.),67.97,ok
+21942,Niddrie,20346,Broadmeadows (Vic.),57.13,ok
+21952,Noble Park,20346,Broadmeadows (Vic.),103.53,ok
+21953,Noble Park North,20346,Broadmeadows (Vic.),136.72,ok
+21966,North Melbourne,20346,Broadmeadows (Vic.),54.92,ok
+21969,North Warrandyte,20346,Broadmeadows (Vic.),93.67,ok
+21971,Northcote,20346,Broadmeadows (Vic.),68.43,ok
+21974,Notting Hill,20346,Broadmeadows (Vic.),100.67,ok
+21985,Nunawading,20346,Broadmeadows (Vic.),92.4,ok
+21991,Nutfield,20346,Broadmeadows (Vic.),,no_eligible_route
+21998,Oak Park,20346,Broadmeadows (Vic.),33.45,ok
+21999,Oaklands Junction,20346,Broadmeadows (Vic.),217.77,walk_only
+22000,Oakleigh,20346,Broadmeadows (Vic.),90.88,ok
+22001,Oakleigh East,20346,Broadmeadows (Vic.),100.7,ok
+22002,Oakleigh South,20346,Broadmeadows (Vic.),103.52,ok
+22006,Officer,20346,Broadmeadows (Vic.),144.82,ok
+22007,Officer South,20346,Broadmeadows (Vic.),190.77,ok
+22009,Olinda (Vic.),20346,Broadmeadows (Vic.),167.02,ok
+22016,Ormond,20346,Broadmeadows (Vic.),83.35,ok
+22027,Pakenham,20346,Broadmeadows (Vic.),143.87,ok
+22028,Pakenham South,20346,Broadmeadows (Vic.),,no_eligible_route
+22029,Pakenham Upper,20346,Broadmeadows (Vic.),,no_eligible_route
+22032,Panton Hill,20346,Broadmeadows (Vic.),,no_eligible_route
+22036,Park Orchards,20346,Broadmeadows (Vic.),105.03,ok
+22037,Parkdale,20346,Broadmeadows (Vic.),101.3,ok
+22038,Parkville (Vic.),20346,Broadmeadows (Vic.),62.43,ok
+22041,Pascoe Vale,20346,Broadmeadows (Vic.),44.1,ok
+22042,Pascoe Vale South,20346,Broadmeadows (Vic.),41.33,ok
+22047,Patterson Lakes,20346,Broadmeadows (Vic.),123.6,ok
+22050,Pearcedale,20346,Broadmeadows (Vic.),186.07,ok
+22058,Pentland Hills,20346,Broadmeadows (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),20346,Broadmeadows (Vic.),139.38,ok
+22084,Plenty (Vic.),20346,Broadmeadows (Vic.),90.03,ok
+22085,Plumpton (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+22086,Point Cook,20346,Broadmeadows (Vic.),100.73,ok
+22087,Point Leo,20346,Broadmeadows (Vic.),,no_eligible_route
+22107,Port Melbourne,20346,Broadmeadows (Vic.),68.35,ok
+22113,Portsea,20346,Broadmeadows (Vic.),,no_eligible_route
+22115,Powelltown,20346,Broadmeadows (Vic.),,no_eligible_route
+22118,Prahran,20346,Broadmeadows (Vic.),77.42,ok
+22121,Preston (Vic.),20346,Broadmeadows (Vic.),56.43,ok
+22122,Princes Hill,20346,Broadmeadows (Vic.),66.07,ok
+22132,Quandong,20346,Broadmeadows (Vic.),,no_eligible_route
+22141,Ravenhall,20346,Broadmeadows (Vic.),119.53,ok
+22148,Red Hill (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+22149,Red Hill South,20346,Broadmeadows (Vic.),,no_eligible_route
+22160,Research,20346,Broadmeadows (Vic.),87.53,ok
+22161,Reservoir (Vic.),20346,Broadmeadows (Vic.),44.65,ok
+22170,Richmond (Vic.),20346,Broadmeadows (Vic.),71.95,ok
+22172,Riddells Creek,20346,Broadmeadows (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),20346,Broadmeadows (Vic.),106.53,ok
+22175,Ringwood East,20346,Broadmeadows (Vic.),106.1,ok
+22176,Ringwood North,20346,Broadmeadows (Vic.),111.62,ok
+22179,Ripponlea,20346,Broadmeadows (Vic.),73.32,ok
+22185,Rochford,20346,Broadmeadows (Vic.),,no_eligible_route
+22186,Rockbank,20346,Broadmeadows (Vic.),138.12,ok
+22193,Romsey,20346,Broadmeadows (Vic.),,no_eligible_route
+22194,Rosanna,20346,Broadmeadows (Vic.),74.72,ok
+22198,Rosebud,20346,Broadmeadows (Vic.),225.08,ok
+22207,Rowville,20346,Broadmeadows (Vic.),133.13,ok
+22208,Roxburgh Park,20346,Broadmeadows (Vic.),52.58,ok
+22220,Rye,20346,Broadmeadows (Vic.),237.28,ok
+22221,Rythdale,20346,Broadmeadows (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),20346,Broadmeadows (Vic.),192.25,ok
+22232,Sandhurst,20346,Broadmeadows (Vic.),151.93,ok
+22234,Sandringham (Vic.),20346,Broadmeadows (Vic.),97.87,ok
+22239,Sassafras (Vic.),20346,Broadmeadows (Vic.),151.43,ok
+22242,Scoresby,20346,Broadmeadows (Vic.),122.68,ok
+22247,Seabrook,20346,Broadmeadows (Vic.),94.32,ok
+22249,Seaford (Vic.),20346,Broadmeadows (Vic.),126.83,ok
+22250,Seaholme,20346,Broadmeadows (Vic.),78.58,ok
+22256,Seddon (Vic.),20346,Broadmeadows (Vic.),62.6,ok
+22258,Selby,20346,Broadmeadows (Vic.),160.6,ok
+22263,Seville,20346,Broadmeadows (Vic.),158.83,ok
+22264,Seville East,20346,Broadmeadows (Vic.),145.72,ok
+22278,Sherbrooke,20346,Broadmeadows (Vic.),162.17,ok
+22279,Shoreham,20346,Broadmeadows (Vic.),,no_eligible_route
+22281,Silvan,20346,Broadmeadows (Vic.),171.65,ok
+22291,Skye (Vic.),20346,Broadmeadows (Vic.),162.0,ok
+22295,Smiths Gully,20346,Broadmeadows (Vic.),,no_eligible_route
+22303,Somers,20346,Broadmeadows (Vic.),,no_eligible_route
+22304,Somerton (Vic.),20346,Broadmeadows (Vic.),33.88,ok
+22305,Somerville (Vic.),20346,Broadmeadows (Vic.),174.83,ok
+22306,Sorrento (Vic.),20346,Broadmeadows (Vic.),228.05,ok
+22309,South Kingsville,20346,Broadmeadows (Vic.),81.6,ok
+22310,South Melbourne,20346,Broadmeadows (Vic.),63.28,ok
+22311,South Morang,20346,Broadmeadows (Vic.),66.57,ok
+22313,South Wharf,20346,Broadmeadows (Vic.),62.07,ok
+22314,South Yarra,20346,Broadmeadows (Vic.),64.08,ok
+22315,Southbank,20346,Broadmeadows (Vic.),65.58,ok
+22319,Spotswood,20346,Broadmeadows (Vic.),62.75,ok
+22325,Springfield (Macedon Ranges - Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+22328,Springvale (Vic.),20346,Broadmeadows (Vic.),104.5,ok
+22329,Springvale South,20346,Broadmeadows (Vic.),105.62,ok
+22330,St Albans (Vic.),20346,Broadmeadows (Vic.),88.08,ok
+22332,St Andrews (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+22333,St Andrews Beach,20346,Broadmeadows (Vic.),,no_eligible_route
+22339,St Helena,20346,Broadmeadows (Vic.),58.28,ok
+22343,St Kilda (Vic.),20346,Broadmeadows (Vic.),77.52,ok
+22344,St Kilda East,20346,Broadmeadows (Vic.),83.4,ok
+22345,St Kilda West,20346,Broadmeadows (Vic.),72.35,ok
+22355,Steels Creek,20346,Broadmeadows (Vic.),,no_eligible_route
+22375,Strathewen,20346,Broadmeadows (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),20346,Broadmeadows (Vic.),47.1,ok
+22381,Strathmore Heights,20346,Broadmeadows (Vic.),42.37,ok
+22382,Strathtulloh,20346,Broadmeadows (Vic.),,no_eligible_route
+22391,Sunbury,20346,Broadmeadows (Vic.),,no_eligible_route
+22395,Sunshine (Vic.),20346,Broadmeadows (Vic.),77.22,ok
+22396,Sunshine North,20346,Broadmeadows (Vic.),76.75,ok
+22397,Sunshine West,20346,Broadmeadows (Vic.),94.18,ok
+22399,Surrey Hills,20346,Broadmeadows (Vic.),88.48,ok
+22414,Sydenham (Vic.),20346,Broadmeadows (Vic.),102.83,ok
+22451,Tarneit,20346,Broadmeadows (Vic.),119.8,ok
+22457,Tarrawarra,20346,Broadmeadows (Vic.),172.02,ok
+22473,Taylors Hill,20346,Broadmeadows (Vic.),111.67,ok
+22474,Taylors Lakes,20346,Broadmeadows (Vic.),87.68,ok
+22476,Tecoma,20346,Broadmeadows (Vic.),125.0,ok
+22483,Templestowe,20346,Broadmeadows (Vic.),82.43,ok
+22484,Templestowe Lower,20346,Broadmeadows (Vic.),87.4,ok
+22496,The Basin (Vic.),20346,Broadmeadows (Vic.),142.57,ok
+22501,The Patch,20346,Broadmeadows (Vic.),170.12,ok
+22504,Thomastown,20346,Broadmeadows (Vic.),50.17,ok
+22508,Thornbury,20346,Broadmeadows (Vic.),67.4,ok
+22509,Thornhill Park,20346,Broadmeadows (Vic.),,no_eligible_route
+22514,Three Bridges,20346,Broadmeadows (Vic.),,no_eligible_route
+22531,Tonimbuk,20346,Broadmeadows (Vic.),,no_eligible_route
+22536,Toolangi,20346,Broadmeadows (Vic.),,no_eligible_route
+22537,Toolern Vale,20346,Broadmeadows (Vic.),,no_eligible_route
+22546,Tooradin,20346,Broadmeadows (Vic.),,no_eligible_route
+22547,Toorak,20346,Broadmeadows (Vic.),79.63,ok
+22550,Tootgarook,20346,Broadmeadows (Vic.),220.7,ok
+22556,Tottenham (Vic.),20346,Broadmeadows (Vic.),97.75,ok
+22572,Travancore,20346,Broadmeadows (Vic.),53.88,ok
+22576,Tremont,20346,Broadmeadows (Vic.),142.6,ok
+22582,Truganina,20346,Broadmeadows (Vic.),168.95,ok
+22584,Tuerong,20346,Broadmeadows (Vic.),,no_eligible_route
+22586,Tullamarine,20346,Broadmeadows (Vic.),41.33,ok
+22594,Tyabb,20346,Broadmeadows (Vic.),163.7,ok
+22598,Tynong,20346,Broadmeadows (Vic.),,no_eligible_route
+22599,Tynong North,20346,Broadmeadows (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,20346,Broadmeadows (Vic.),122.15,ok
+22617,Upper Plenty,20346,Broadmeadows (Vic.),,no_eligible_route
+22620,Upwey,20346,Broadmeadows (Vic.),124.87,ok
+22627,Vermont,20346,Broadmeadows (Vic.),112.6,ok
+22628,Vermont South,20346,Broadmeadows (Vic.),117.92,ok
+22629,Vervale,20346,Broadmeadows (Vic.),,no_eligible_route
+22633,Viewbank,20346,Broadmeadows (Vic.),84.0,ok
+22661,Wallan,20346,Broadmeadows (Vic.),,no_eligible_route
+22672,Wandin East,20346,Broadmeadows (Vic.),,no_eligible_route
+22673,Wandin North,20346,Broadmeadows (Vic.),131.8,ok
+22676,Wandong,20346,Broadmeadows (Vic.),,no_eligible_route
+22685,Wantirna,20346,Broadmeadows (Vic.),123.3,ok
+22686,Wantirna South,20346,Broadmeadows (Vic.),122.98,ok
+22689,Warburton (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+22695,Warneet,20346,Broadmeadows (Vic.),,no_eligible_route
+22702,Warrandyte,20346,Broadmeadows (Vic.),92.8,ok
+22703,Warrandyte South,20346,Broadmeadows (Vic.),142.18,ok
+22704,Warranwood,20346,Broadmeadows (Vic.),119.85,ok
+22717,Waterford Park,20346,Broadmeadows (Vic.),,no_eligible_route
+22720,Waterways,20346,Broadmeadows (Vic.),130.05,ok
+22721,Watsonia,20346,Broadmeadows (Vic.),59.52,ok
+22722,Watsonia North,20346,Broadmeadows (Vic.),55.83,ok
+22723,Watsons Creek (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+22727,Wattle Glen,20346,Broadmeadows (Vic.),86.42,ok
+22740,Weir Views,20346,Broadmeadows (Vic.),210.3,ok
+22750,Werribee,20346,Broadmeadows (Vic.),96.15,ok
+22751,Werribee South,20346,Broadmeadows (Vic.),133.55,ok
+22753,Wesburn,20346,Broadmeadows (Vic.),163.77,ok
+22756,West Footscray,20346,Broadmeadows (Vic.),79.92,ok
+22757,West Melbourne,20346,Broadmeadows (Vic.),70.32,ok
+22761,Westmeadows,20346,Broadmeadows (Vic.),28.72,ok
+22766,Wheelers Hill,20346,Broadmeadows (Vic.),113.12,ok
+22775,Whittlesea,20346,Broadmeadows (Vic.),,no_eligible_route
+22784,Wildwood,20346,Broadmeadows (Vic.),,no_eligible_route
+22791,Williams Landing,20346,Broadmeadows (Vic.),97.37,ok
+22792,Williamstown (Vic.),20346,Broadmeadows (Vic.),71.57,ok
+22793,Williamstown North,20346,Broadmeadows (Vic.),87.05,ok
+22805,Windsor (Vic.),20346,Broadmeadows (Vic.),70.58,ok
+22820,Wollert,20346,Broadmeadows (Vic.),65.23,ok
+22825,Wonga Park,20346,Broadmeadows (Vic.),133.55,ok
+22843,Woodstock (Vic.),20346,Broadmeadows (Vic.),,no_eligible_route
+22857,Woori Yallock,20346,Broadmeadows (Vic.),142.92,ok
+22883,Wyndham Vale,20346,Broadmeadows (Vic.),126.35,ok
+22892,Yallambie,20346,Broadmeadows (Vic.),85.4,ok
+22898,Yan Yean,20346,Broadmeadows (Vic.),110.12,ok
+22906,Yannathan,20346,Broadmeadows (Vic.),,no_eligible_route
+22910,Yarra Glen,20346,Broadmeadows (Vic.),169.32,ok
+22911,Yarra Junction,20346,Broadmeadows (Vic.),168.03,ok
+22916,Yarrambat,20346,Broadmeadows (Vic.),80.5,ok
+22917,Yarraville,20346,Broadmeadows (Vic.),68.5,ok
+22925,Yellingbo,20346,Broadmeadows (Vic.),,no_eligible_route
+22930,Yering,20346,Broadmeadows (Vic.),,no_eligible_route
+22941,Yuroke,20346,Broadmeadows (Vic.),97.33,ok

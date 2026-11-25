@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20426,Burwood (Vic.),63.28,ok
+20003,Aberfeldie,20426,Burwood (Vic.),92.75,ok
+20011,Aintree,20426,Burwood (Vic.),135.9,ok
+20015,Airport West,20426,Burwood (Vic.),107.85,ok
+20017,Albanvale,20426,Burwood (Vic.),112.37,ok
+20018,Albert Park (Vic.),20426,Burwood (Vic.),72.32,ok
+20021,Albion (Vic.),20426,Burwood (Vic.),92.35,ok
+20034,Alphington,20426,Burwood (Vic.),70.08,ok
+20035,Altona (Vic.),20426,Burwood (Vic.),100.6,ok
+20036,Altona Meadows,20426,Burwood (Vic.),109.6,ok
+20037,Altona North,20426,Burwood (Vic.),114.0,ok
+20062,Ardeer,20426,Burwood (Vic.),106.5,ok
+20066,Armadale (Vic.),20426,Burwood (Vic.),52.82,ok
+20071,Arthurs Creek,20426,Burwood (Vic.),,no_eligible_route
+20072,Arthurs Seat,20426,Burwood (Vic.),205.27,ok
+20075,Ascot Vale,20426,Burwood (Vic.),83.42,ok
+20077,Ashburton,20426,Burwood (Vic.),27.2,ok
+20078,Ashwood,20426,Burwood (Vic.),24.05,ok
+20079,Aspendale,20426,Burwood (Vic.),84.27,ok
+20080,Aspendale Gardens,20426,Burwood (Vic.),99.35,ok
+20082,Attwood,20426,Burwood (Vic.),113.57,ok
+20089,Avondale Heights,20426,Burwood (Vic.),108.88,ok
+20091,Avonsleigh,20426,Burwood (Vic.),133.92,ok
+20095,Bacchus Marsh,20426,Burwood (Vic.),,no_eligible_route
+20097,Badger Creek,20426,Burwood (Vic.),131.75,ok
+20105,Balaclava (Vic.),20426,Burwood (Vic.),64.13,ok
+20120,Balnarring,20426,Burwood (Vic.),,no_eligible_route
+20121,Balnarring Beach,20426,Burwood (Vic.),,no_eligible_route
+20123,Balwyn,20426,Burwood (Vic.),41.08,ok
+20124,Balwyn North,20426,Burwood (Vic.),54.0,ok
+20131,Bangholme,20426,Burwood (Vic.),124.97,ok
+20169,Baxter,20426,Burwood (Vic.),132.07,ok
+20171,Bayles,20426,Burwood (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),20426,Burwood (Vic.),59.4,ok
+20174,Bayswater North,20426,Burwood (Vic.),76.77,ok
+20175,Beaconsfield (Vic.),20426,Burwood (Vic.),112.47,ok
+20176,Beaconsfield Upper,20426,Burwood (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),20426,Burwood (Vic.),81.15,ok
+20187,Beenak,20426,Burwood (Vic.),,no_eligible_route
+20188,Belgrave,20426,Burwood (Vic.),70.97,ok
+20189,Belgrave Heights,20426,Burwood (Vic.),103.53,ok
+20190,Belgrave South,20426,Burwood (Vic.),102.52,ok
+20198,Bellfield (Banyule - Vic.),20426,Burwood (Vic.),75.53,ok
+20207,Bend Of Islands,20426,Burwood (Vic.),,no_eligible_route
+20212,Benloch,20426,Burwood (Vic.),,no_eligible_route
+20214,Bentleigh,20426,Burwood (Vic.),61.15,ok
+20215,Bentleigh East,20426,Burwood (Vic.),48.2,ok
+20224,Berwick,20426,Burwood (Vic.),82.52,ok
+20233,Beveridge,20426,Burwood (Vic.),144.12,ok
+20237,Big Pats Creek,20426,Burwood (Vic.),,no_eligible_route
+20248,Bittern,20426,Burwood (Vic.),151.6,ok
+20251,Black Rock (Vic.),20426,Burwood (Vic.),86.95,ok
+20252,Blackburn,20426,Burwood (Vic.),35.3,ok
+20253,Blackburn North,20426,Burwood (Vic.),46.5,ok
+20254,Blackburn South,20426,Burwood (Vic.),32.62,ok
+20257,Blairgowrie,20426,Burwood (Vic.),197.3,ok
+20260,Blind Bight,20426,Burwood (Vic.),,no_eligible_route
+20272,Bolinda,20426,Burwood (Vic.),,no_eligible_route
+20278,Bonbeach,20426,Burwood (Vic.),89.27,ok
+20280,Boneo,20426,Burwood (Vic.),,no_eligible_route
+20282,Bonnie Brook,20426,Burwood (Vic.),171.18,ok
+20304,Boronia,20426,Burwood (Vic.),61.73,ok
+20307,Botanic Ridge,20426,Burwood (Vic.),123.38,ok
+20314,Box Hill (Vic.),20426,Burwood (Vic.),19.2,ok
+20315,Box Hill North,20426,Burwood (Vic.),29.18,ok
+20316,Box Hill South,20426,Burwood (Vic.),16.07,ok
+20320,Braeside,20426,Burwood (Vic.),106.2,ok
+20324,Braybrook,20426,Burwood (Vic.),99.55,ok
+20331,Briar Hill,20426,Burwood (Vic.),80.08,ok
+20337,Brighton (Vic.),20426,Burwood (Vic.),71.8,ok
+20338,Brighton East,20426,Burwood (Vic.),63.83,ok
+20346,Broadmeadows (Vic.),20426,Burwood (Vic.),107.2,ok
+20351,Brookfield (Vic.),20426,Burwood (Vic.),,no_eligible_route
+20352,Brooklyn (Vic.),20426,Burwood (Vic.),107.18,ok
+20361,Brunswick (Vic.),20426,Burwood (Vic.),80.3,ok
+20362,Brunswick East,20426,Burwood (Vic.),85.97,ok
+20363,Brunswick West,20426,Burwood (Vic.),88.97,ok
+20381,Bulla (Vic.),20426,Burwood (Vic.),167.87,ok
+20386,Bulleen,20426,Burwood (Vic.),57.33,ok
+20387,Bullengarook,20426,Burwood (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),20426,Burwood (Vic.),86.68,ok
+20411,Bunyip,20426,Burwood (Vic.),,no_eligible_route
+20412,Bunyip North,20426,Burwood (Vic.),,no_eligible_route
+20418,Burnley,20426,Burwood (Vic.),45.22,ok
+20419,Burnside (Vic.),20426,Burwood (Vic.),117.8,ok
+20420,Burnside Heights,20426,Burwood (Vic.),125.62,ok
+20426,Burwood (Vic.),20426,Burwood (Vic.),0.0,same_centroid
+20427,Burwood East,20426,Burwood (Vic.),17.35,ok
+20435,Bylands,20426,Burwood (Vic.),,no_eligible_route
+20441,Cairnlea,20426,Burwood (Vic.),103.98,ok
+20442,Calder Park,20426,Burwood (Vic.),129.55,ok
+20443,Caldermeade,20426,Burwood (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),20426,Burwood (Vic.),27.72,ok
+20455,Campbellfield,20426,Burwood (Vic.),113.85,ok
+20466,Cannons Creek,20426,Burwood (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),20426,Burwood (Vic.),43.97,ok
+20474,Cape Schanck,20426,Burwood (Vic.),,no_eligible_route
+20476,Capel Sound,20426,Burwood (Vic.),181.65,ok
+20487,Cardinia,20426,Burwood (Vic.),,no_eligible_route
+20495,Carlton (Vic.),20426,Burwood (Vic.),70.22,ok
+20496,Carlton North,20426,Burwood (Vic.),83.15,ok
+20498,Carnegie,20426,Burwood (Vic.),44.77,ok
+20500,Caroline Springs,20426,Burwood (Vic.),123.68,ok
+20507,Carrum,20426,Burwood (Vic.),89.08,ok
+20508,Carrum Downs,20426,Burwood (Vic.),100.32,ok
+20512,Castella,20426,Burwood (Vic.),,no_eligible_route
+20517,Catani,20426,Burwood (Vic.),,no_eligible_route
+20521,Caulfield,20426,Burwood (Vic.),60.5,ok
+20522,Caulfield East,20426,Burwood (Vic.),51.07,ok
+20523,Caulfield North,20426,Burwood (Vic.),54.95,ok
+20524,Caulfield South,20426,Burwood (Vic.),65.02,ok
+20528,Chadstone,20426,Burwood (Vic.),23.97,ok
+20537,Chelsea,20426,Burwood (Vic.),86.33,ok
+20538,Chelsea Heights,20426,Burwood (Vic.),100.47,ok
+20539,Cheltenham (Vic.),20426,Burwood (Vic.),68.82,ok
+20541,Cherokee,20426,Burwood (Vic.),,no_eligible_route
+20555,Chintin,20426,Burwood (Vic.),,no_eligible_route
+20556,Chirnside Park,20426,Burwood (Vic.),86.35,ok
+20559,Christmas Hills (Vic.),20426,Burwood (Vic.),,no_eligible_route
+20560,Chum Creek,20426,Burwood (Vic.),,no_eligible_route
+20566,Clarinda,20426,Burwood (Vic.),66.18,ok
+20567,Clarkefield,20426,Burwood (Vic.),,no_eligible_route
+20569,Clayton,20426,Burwood (Vic.),50.02,ok
+20570,Clayton South,20426,Burwood (Vic.),74.87,ok
+20572,Clematis,20426,Burwood (Vic.),106.33,ok
+20574,Clifton Hill,20426,Burwood (Vic.),64.37,ok
+20576,Clonbinane,20426,Burwood (Vic.),,no_eligible_route
+20581,Clyde (Vic.),20426,Burwood (Vic.),,no_eligible_route
+20582,Clyde North,20426,Burwood (Vic.),107.98,ok
+20587,Cobaw,20426,Burwood (Vic.),,no_eligible_route
+20590,Cobblebank,20426,Burwood (Vic.),172.18,ok
+20596,Coburg,20426,Burwood (Vic.),87.83,ok
+20597,Coburg North,20426,Burwood (Vic.),97.4,ok
+20600,Cockatoo (Vic.),20426,Burwood (Vic.),137.6,ok
+20601,Cocoroc,20426,Burwood (Vic.),,no_eligible_route
+20605,Coimadai,20426,Burwood (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),20426,Burwood (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),20426,Burwood (Vic.),53.92,ok
+20624,Coolaroo,20426,Burwood (Vic.),107.93,ok
+20633,Cora Lynn,20426,Burwood (Vic.),,no_eligible_route
+20654,Cottles Bridge,20426,Burwood (Vic.),,no_eligible_route
+20661,Craigieburn,20426,Burwood (Vic.),118.63,ok
+20662,Cranbourne,20426,Burwood (Vic.),91.38,ok
+20663,Cranbourne East,20426,Burwood (Vic.),97.27,ok
+20664,Cranbourne North,20426,Burwood (Vic.),92.72,ok
+20665,Cranbourne South,20426,Burwood (Vic.),126.73,ok
+20666,Cranbourne West,20426,Burwood (Vic.),96.08,ok
+20670,Cremorne (Vic.),20426,Burwood (Vic.),49.32,ok
+20674,Crib Point,20426,Burwood (Vic.),160.57,ok
+20682,Croydon (Vic.),20426,Burwood (Vic.),52.08,ok
+20683,Croydon Hills,20426,Burwood (Vic.),78.4,ok
+20684,Croydon North,20426,Burwood (Vic.),76.83,ok
+20685,Croydon South,20426,Burwood (Vic.),80.2,ok
+20702,Dallas,20426,Burwood (Vic.),109.63,ok
+20703,Dalmore,20426,Burwood (Vic.),,no_eligible_route
+20707,Dandenong,20426,Burwood (Vic.),70.15,ok
+20708,Dandenong North,20426,Burwood (Vic.),76.62,ok
+20709,Dandenong South,20426,Burwood (Vic.),92.48,ok
+20712,Darley,20426,Burwood (Vic.),,no_eligible_route
+20716,Darraweit Guim,20426,Burwood (Vic.),,no_eligible_route
+20724,Deanside,20426,Burwood (Vic.),141.63,ok
+20728,Deepdene (Vic.),20426,Burwood (Vic.),40.93,ok
+20729,Deer Park,20426,Burwood (Vic.),103.33,ok
+20731,Delahey,20426,Burwood (Vic.),119.88,ok
+20743,Derrimut,20426,Burwood (Vic.),126.63,ok
+20748,Devon Meadows,20426,Burwood (Vic.),,no_eligible_route
+20750,Dewhurst,20426,Burwood (Vic.),,no_eligible_route
+20752,Diamond Creek,20426,Burwood (Vic.),91.82,ok
+20754,Diggers Rest,20426,Burwood (Vic.),120.45,ok
+20758,Dingley Village,20426,Burwood (Vic.),83.03,ok
+20762,Dixons Creek,20426,Burwood (Vic.),,no_eligible_route
+20766,Docklands,20426,Burwood (Vic.),67.9,ok
+20769,Don Valley,20426,Burwood (Vic.),,no_eligible_route
+20771,Doncaster,20426,Burwood (Vic.),33.98,ok
+20772,Doncaster East,20426,Burwood (Vic.),57.95,ok
+20773,Donnybrook (Vic.),20426,Burwood (Vic.),147.8,ok
+20774,Donvale,20426,Burwood (Vic.),61.3,ok
+20779,Doreen,20426,Burwood (Vic.),141.17,ok
+20783,Doveton,20426,Burwood (Vic.),85.95,ok
+20788,Dromana,20426,Burwood (Vic.),192.43,ok
+20825,Eaglemont,20426,Burwood (Vic.),64.1,ok
+20830,East Melbourne,20426,Burwood (Vic.),45.85,ok
+20833,East Warburton,20426,Burwood (Vic.),,no_eligible_route
+20843,Eden Park,20426,Burwood (Vic.),,no_eligible_route
+20848,Edithvale,20426,Burwood (Vic.),82.2,ok
+20864,Elsternwick,20426,Burwood (Vic.),70.82,ok
+20865,Eltham (Vic.),20426,Burwood (Vic.),82.05,ok
+20866,Eltham North,20426,Burwood (Vic.),90.93,ok
+20867,Elwood,20426,Burwood (Vic.),76.6,ok
+20868,Emerald (Vic.),20426,Burwood (Vic.),133.52,ok
+20871,Endeavour Hills,20426,Burwood (Vic.),93.43,ok
+20878,Epping (Vic.),20426,Burwood (Vic.),119.72,ok
+20885,Essendon,20426,Burwood (Vic.),89.5,ok
+20886,Essendon Fields,20426,Burwood (Vic.),110.9,ok
+20887,Essendon North,20426,Burwood (Vic.),91.9,ok
+20888,Essendon West,20426,Burwood (Vic.),93.5,ok
+20889,Eumemmerring,20426,Burwood (Vic.),91.12,ok
+20898,Exford,20426,Burwood (Vic.),,no_eligible_route
+20899,Eynesbury,20426,Burwood (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),20426,Burwood (Vic.),74.8,ok
+20909,Fawkner,20426,Burwood (Vic.),106.3,ok
+20916,Fernshaw,20426,Burwood (Vic.),,no_eligible_route
+20917,Ferntree Gully,20426,Burwood (Vic.),46.62,ok
+20918,Ferny Creek,20426,Burwood (Vic.),115.15,ok
+20920,Fingal (Vic.),20426,Burwood (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),20426,Burwood (Vic.),64.68,ok
+20925,Fitzroy North,20426,Burwood (Vic.),72.58,ok
+20929,Flemington,20426,Burwood (Vic.),85.25,ok
+20930,Flinders (Vic.),20426,Burwood (Vic.),,no_eligible_route
+20935,Footscray,20426,Burwood (Vic.),77.92,ok
+20937,Forest Hill (Vic.),20426,Burwood (Vic.),32.0,ok
+20947,Frankston,20426,Burwood (Vic.),109.05,ok
+20948,Frankston North,20426,Burwood (Vic.),118.2,ok
+20949,Frankston South,20426,Burwood (Vic.),137.05,ok
+20950,Fraser Rise,20426,Burwood (Vic.),140.3,ok
+20965,Gardenvale,20426,Burwood (Vic.),64.28,ok
+20966,Garfield,20426,Burwood (Vic.),,no_eligible_route
+20967,Garfield North,20426,Burwood (Vic.),,no_eligible_route
+20979,Gembrook,20426,Burwood (Vic.),,no_eligible_route
+20995,Gilderoy,20426,Burwood (Vic.),,no_eligible_route
+21001,Gisborne,20426,Burwood (Vic.),,no_eligible_route
+21002,Gisborne South,20426,Burwood (Vic.),,no_eligible_route
+21004,Gladstone Park,20426,Burwood (Vic.),121.4,ok
+21005,Gladysdale,20426,Burwood (Vic.),,no_eligible_route
+21009,Glen Huntly,20426,Burwood (Vic.),56.93,ok
+21010,Glen Iris (Vic.),20426,Burwood (Vic.),36.2,ok
+21013,Glen Waverley,20426,Burwood (Vic.),39.77,ok
+21047,Glenroy (Vic.),20426,Burwood (Vic.),102.05,ok
+21059,Goldie,20426,Burwood (Vic.),,no_eligible_route
+21079,Gowanbrae,20426,Burwood (Vic.),121.5,ok
+21087,Grangefields,20426,Burwood (Vic.),171.28,ok
+21104,Greensborough,20426,Burwood (Vic.),65.02,ok
+21105,Greenvale (Vic.),20426,Burwood (Vic.),127.73,ok
+21115,Gruyere,20426,Burwood (Vic.),,no_eligible_route
+21121,Guys Hill,20426,Burwood (Vic.),,no_eligible_route
+21124,Hadfield,20426,Burwood (Vic.),108.33,ok
+21125,Hallam,20426,Burwood (Vic.),89.63,ok
+21131,Hampton (Vic.),20426,Burwood (Vic.),85.83,ok
+21132,Hampton East,20426,Burwood (Vic.),70.35,ok
+21133,Hampton Park,20426,Burwood (Vic.),89.52,ok
+21139,Harkaway,20426,Burwood (Vic.),,no_eligible_route
+21140,Harkness,20426,Burwood (Vic.),,no_eligible_route
+21145,Hastings (Vic.),20426,Burwood (Vic.),150.22,ok
+21152,Hawthorn (Vic.),20426,Burwood (Vic.),32.35,ok
+21153,Hawthorn East,20426,Burwood (Vic.),22.97,ok
+21158,Healesville,20426,Burwood (Vic.),,no_eligible_route
+21159,Heath Hill,20426,Burwood (Vic.),,no_eligible_route
+21161,Heathcote Junction,20426,Burwood (Vic.),,no_eligible_route
+21163,Heatherton,20426,Burwood (Vic.),67.12,ok
+21165,Heathmont,20426,Burwood (Vic.),46.82,ok
+21167,Heidelberg,20426,Burwood (Vic.),58.9,ok
+21168,Heidelberg Heights,20426,Burwood (Vic.),67.17,ok
+21169,Heidelberg West,20426,Burwood (Vic.),75.17,ok
+21176,Hesket,20426,Burwood (Vic.),,no_eligible_route
+21185,Highett,20426,Burwood (Vic.),69.58,ok
+21193,Hillside (Melton - Vic.),20426,Burwood (Vic.),120.53,ok
+21195,Hmas Cerberus,20426,Burwood (Vic.),,no_eligible_route
+21196,Hoddles Creek,20426,Burwood (Vic.),,no_eligible_route
+21202,Hopetoun Park,20426,Burwood (Vic.),,no_eligible_route
+21203,Hoppers Crossing,20426,Burwood (Vic.),115.28,ok
+21214,Hughesdale,20426,Burwood (Vic.),38.62,ok
+21215,Humevale,20426,Burwood (Vic.),,no_eligible_route
+21218,Huntingdale (Vic.),20426,Burwood (Vic.),49.87,ok
+21223,Hurstbridge,20426,Burwood (Vic.),92.37,ok
+21238,Iona,20426,Burwood (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),20426,Burwood (Vic.),66.1,ok
+21247,Ivanhoe East,20426,Burwood (Vic.),63.57,ok
+21248,Jacana,20426,Burwood (Vic.),106.62,ok
+21277,Junction Village,20426,Burwood (Vic.),132.72,ok
+21284,Kalkallo,20426,Burwood (Vic.),145.78,ok
+21286,Kallista,20426,Burwood (Vic.),112.7,ok
+21287,Kalorama,20426,Burwood (Vic.),87.05,ok
+21294,Kangaroo Ground,20426,Burwood (Vic.),115.6,ok
+21312,Kealba,20426,Burwood (Vic.),107.6,ok
+21314,Keilor,20426,Burwood (Vic.),134.0,ok
+21315,Keilor Downs,20426,Burwood (Vic.),119.7,ok
+21316,Keilor East,20426,Burwood (Vic.),107.87,ok
+21317,Keilor Lodge,20426,Burwood (Vic.),116.73,ok
+21318,Keilor North,20426,Burwood (Vic.),122.8,ok
+21319,Keilor Park,20426,Burwood (Vic.),115.78,ok
+21327,Kensington (Vic.),20426,Burwood (Vic.),73.9,ok
+21333,Kerrie,20426,Burwood (Vic.),,no_eligible_route
+21336,Kew (Vic.),20426,Burwood (Vic.),55.13,ok
+21337,Kew East,20426,Burwood (Vic.),66.92,ok
+21339,Keysborough,20426,Burwood (Vic.),83.47,ok
+21354,Kilsyth,20426,Burwood (Vic.),74.43,ok
+21355,Kilsyth South,20426,Burwood (Vic.),86.43,ok
+21358,Kinglake,20426,Burwood (Vic.),,no_eligible_route
+21359,Kinglake Central,20426,Burwood (Vic.),,no_eligible_route
+21360,Kinglake West,20426,Burwood (Vic.),,no_eligible_route
+21362,Kings Park (Vic.),20426,Burwood (Vic.),113.12,ok
+21363,Kingsbury,20426,Burwood (Vic.),98.27,ok
+21365,Kingsville,20426,Burwood (Vic.),88.83,ok
+21374,Knoxfield,20426,Burwood (Vic.),65.32,ok
+21380,Koo Wee Rup,20426,Burwood (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,20426,Burwood (Vic.),,no_eligible_route
+21393,Kooyong,20426,Burwood (Vic.),37.45,ok
+21411,Kurunjang,20426,Burwood (Vic.),190.27,ok
+21452,Lalor,20426,Burwood (Vic.),89.65,ok
+21456,Lancefield,20426,Burwood (Vic.),,no_eligible_route
+21459,Lang Lang,20426,Burwood (Vic.),,no_eligible_route
+21460,Lang Lang East,20426,Burwood (Vic.),,no_eligible_route
+21467,Langwarrin,20426,Burwood (Vic.),114.1,ok
+21468,Langwarrin South,20426,Burwood (Vic.),,no_eligible_route
+21473,Launching Place,20426,Burwood (Vic.),93.73,ok
+21476,Laverton (Vic.),20426,Burwood (Vic.),94.75,ok
+21477,Laverton North,20426,Burwood (Vic.),125.47,ok
+21504,Lilydale (Vic.),20426,Burwood (Vic.),79.38,ok
+21533,Long Forest,20426,Burwood (Vic.),,no_eligible_route
+21547,Lower Plenty,20426,Burwood (Vic.),81.73,ok
+21554,Lynbrook,20426,Burwood (Vic.),81.88,ok
+21555,Lyndhurst (Vic.),20426,Burwood (Vic.),124.47,ok
+21558,Lysterfield,20426,Burwood (Vic.),,no_eligible_route
+21559,Lysterfield South,20426,Burwood (Vic.),129.53,ok
+21561,Macclesfield (Vic.),20426,Burwood (Vic.),,no_eligible_route
+21562,Macedon,20426,Burwood (Vic.),,no_eligible_route
+21564,Macleod (Vic.),20426,Burwood (Vic.),78.45,ok
+21569,Maddingley,20426,Burwood (Vic.),,no_eligible_route
+21575,Maidstone,20426,Burwood (Vic.),97.73,ok
+21578,Main Ridge,20426,Burwood (Vic.),,no_eligible_route
+21586,Malvern (Vic.),20426,Burwood (Vic.),47.92,ok
+21587,Malvern East,20426,Burwood (Vic.),39.1,ok
+21588,Mambourin,20426,Burwood (Vic.),,no_eligible_route
+21597,Manor Lakes,20426,Burwood (Vic.),151.65,ok
+21604,Maribyrnong,20426,Burwood (Vic.),100.47,ok
+21619,Maryknoll,20426,Burwood (Vic.),,no_eligible_route
+21625,McCrae,20426,Burwood (Vic.),176.85,ok
+21629,McKinnon,20426,Burwood (Vic.),55.95,ok
+21635,Meadow Heights,20426,Burwood (Vic.),119.5,ok
+21640,Melbourne,20426,Burwood (Vic.),58.07,ok
+21641,Melbourne Airport,20426,Burwood (Vic.),,no_eligible_route
+21642,Melton (Vic.),20426,Burwood (Vic.),174.4,ok
+21643,Melton South,20426,Burwood (Vic.),188.0,ok
+21644,Melton West,20426,Burwood (Vic.),183.23,ok
+21648,Mentone,20426,Burwood (Vic.),52.23,ok
+21649,Menzies Creek,20426,Burwood (Vic.),105.13,ok
+21659,Mernda,20426,Burwood (Vic.),132.13,ok
+21662,Merricks,20426,Burwood (Vic.),,no_eligible_route
+21663,Merricks Beach,20426,Burwood (Vic.),,no_eligible_route
+21664,Merricks North,20426,Burwood (Vic.),,no_eligible_route
+21668,Merrimu,20426,Burwood (Vic.),,no_eligible_route
+21675,Mickleham,20426,Burwood (Vic.),150.63,ok
+21677,Middle Park (Vic.),20426,Burwood (Vic.),78.4,ok
+21683,Mill Park,20426,Burwood (Vic.),114.28,ok
+21685,Millgrove,20426,Burwood (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),20426,Burwood (Vic.),43.12,ok
+21727,Monbulk,20426,Burwood (Vic.),120.15,ok
+21728,Monegeetta,20426,Burwood (Vic.),,no_eligible_route
+21731,Monomeith,20426,Burwood (Vic.),,no_eligible_route
+21732,Mont Albert,20426,Burwood (Vic.),23.63,ok
+21733,Mont Albert North,20426,Burwood (Vic.),39.7,ok
+21735,Montmorency,20426,Burwood (Vic.),53.13,ok
+21736,Montrose (Vic.),20426,Burwood (Vic.),79.92,ok
+21742,Moonee Ponds,20426,Burwood (Vic.),75.97,ok
+21746,Moorabbin,20426,Burwood (Vic.),63.57,ok
+21747,Moorabbin Airport,20426,Burwood (Vic.),88.07,ok
+21754,Moorooduc,20426,Burwood (Vic.),,no_eligible_route
+21755,Mooroolbark,20426,Burwood (Vic.),72.27,ok
+21760,Mordialloc,20426,Burwood (Vic.),89.37,ok
+21763,Mornington (Vic.),20426,Burwood (Vic.),135.92,ok
+21779,Mount Burnett,20426,Burwood (Vic.),,no_eligible_route
+21786,Mount Cottrell,20426,Burwood (Vic.),,no_eligible_route
+21787,Mount Dandenong,20426,Burwood (Vic.),96.05,ok
+21793,Mount Eliza,20426,Burwood (Vic.),114.1,ok
+21795,Mount Evelyn,20426,Burwood (Vic.),91.22,ok
+21801,Mount Macedon,20426,Burwood (Vic.),,no_eligible_route
+21803,Mount Martha,20426,Burwood (Vic.),143.37,ok
+21814,Mount Toolebewong,20426,Burwood (Vic.),,no_eligible_route
+21816,Mount Waverley,20426,Burwood (Vic.),25.55,ok
+21827,Mulgrave (Vic.),20426,Burwood (Vic.),69.73,ok
+21849,Murrumbeena,20426,Burwood (Vic.),38.4,ok
+21872,Nangana,20426,Burwood (Vic.),,no_eligible_route
+21878,Nar Nar Goon,20426,Burwood (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,20426,Burwood (Vic.),,no_eligible_route
+21893,Narre Warren,20426,Burwood (Vic.),88.07,ok
+21894,Narre Warren East,20426,Burwood (Vic.),,no_eligible_route
+21895,Narre Warren North,20426,Burwood (Vic.),97.88,ok
+21896,Narre Warren South,20426,Burwood (Vic.),91.43,ok
+21921,New Gisborne,20426,Burwood (Vic.),,no_eligible_route
+21934,Newport (Vic.),20426,Burwood (Vic.),79.6,ok
+21942,Niddrie,20426,Burwood (Vic.),103.85,ok
+21952,Noble Park,20426,Burwood (Vic.),60.88,ok
+21953,Noble Park North,20426,Burwood (Vic.),78.43,ok
+21966,North Melbourne,20426,Burwood (Vic.),75.35,ok
+21969,North Warrandyte,20426,Burwood (Vic.),,no_eligible_route
+21971,Northcote,20426,Burwood (Vic.),76.85,ok
+21974,Notting Hill,20426,Burwood (Vic.),37.35,ok
+21985,Nunawading,20426,Burwood (Vic.),37.53,ok
+21991,Nutfield,20426,Burwood (Vic.),,no_eligible_route
+21998,Oak Park,20426,Burwood (Vic.),94.28,ok
+21999,Oaklands Junction,20426,Burwood (Vic.),,no_eligible_route
+22000,Oakleigh,20426,Burwood (Vic.),41.82,ok
+22001,Oakleigh East,20426,Burwood (Vic.),43.2,ok
+22002,Oakleigh South,20426,Burwood (Vic.),56.32,ok
+22006,Officer,20426,Burwood (Vic.),102.17,ok
+22007,Officer South,20426,Burwood (Vic.),137.73,ok
+22009,Olinda (Vic.),20426,Burwood (Vic.),115.7,ok
+22016,Ormond,20426,Burwood (Vic.),54.2,ok
+22027,Pakenham,20426,Burwood (Vic.),101.22,ok
+22028,Pakenham South,20426,Burwood (Vic.),,no_eligible_route
+22029,Pakenham Upper,20426,Burwood (Vic.),,no_eligible_route
+22032,Panton Hill,20426,Burwood (Vic.),,no_eligible_route
+22036,Park Orchards,20426,Burwood (Vic.),62.57,ok
+22037,Parkdale,20426,Burwood (Vic.),81.12,ok
+22038,Parkville (Vic.),20426,Burwood (Vic.),81.18,ok
+22041,Pascoe Vale,20426,Burwood (Vic.),98.65,ok
+22042,Pascoe Vale South,20426,Burwood (Vic.),94.38,ok
+22047,Patterson Lakes,20426,Burwood (Vic.),104.95,ok
+22050,Pearcedale,20426,Burwood (Vic.),144.03,ok
+22058,Pentland Hills,20426,Burwood (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),20426,Burwood (Vic.),,no_eligible_route
+22084,Plenty (Vic.),20426,Burwood (Vic.),101.95,ok
+22085,Plumpton (Vic.),20426,Burwood (Vic.),,no_eligible_route
+22086,Point Cook,20426,Burwood (Vic.),114.42,ok
+22087,Point Leo,20426,Burwood (Vic.),,no_eligible_route
+22107,Port Melbourne,20426,Burwood (Vic.),79.05,ok
+22113,Portsea,20426,Burwood (Vic.),218.42,ok
+22115,Powelltown,20426,Burwood (Vic.),,no_eligible_route
+22118,Prahran,20426,Burwood (Vic.),56.78,ok
+22121,Preston (Vic.),20426,Burwood (Vic.),85.05,ok
+22122,Princes Hill,20426,Burwood (Vic.),77.33,ok
+22132,Quandong,20426,Burwood (Vic.),,no_eligible_route
+22141,Ravenhall,20426,Burwood (Vic.),149.08,ok
+22148,Red Hill (Vic.),20426,Burwood (Vic.),,no_eligible_route
+22149,Red Hill South,20426,Burwood (Vic.),,no_eligible_route
+22160,Research,20426,Burwood (Vic.),89.45,ok
+22161,Reservoir (Vic.),20426,Burwood (Vic.),91.47,ok
+22170,Richmond (Vic.),20426,Burwood (Vic.),42.88,ok
+22172,Riddells Creek,20426,Burwood (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),20426,Burwood (Vic.),52.62,ok
+22175,Ringwood East,20426,Burwood (Vic.),53.73,ok
+22176,Ringwood North,20426,Burwood (Vic.),67.8,ok
+22179,Ripponlea,20426,Burwood (Vic.),62.37,ok
+22185,Rochford,20426,Burwood (Vic.),,no_eligible_route
+22186,Rockbank,20426,Burwood (Vic.),147.67,ok
+22193,Romsey,20426,Burwood (Vic.),,no_eligible_route
+22194,Rosanna,20426,Burwood (Vic.),72.92,ok
+22198,Rosebud,20426,Burwood (Vic.),193.17,ok
+22207,Rowville,20426,Burwood (Vic.),69.92,ok
+22208,Roxburgh Park,20426,Burwood (Vic.),111.9,ok
+22220,Rye,20426,Burwood (Vic.),205.37,ok
+22221,Rythdale,20426,Burwood (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),20426,Burwood (Vic.),160.33,ok
+22232,Sandhurst,20426,Burwood (Vic.),126.25,ok
+22234,Sandringham (Vic.),20426,Burwood (Vic.),84.57,ok
+22239,Sassafras (Vic.),20426,Burwood (Vic.),91.92,ok
+22242,Scoresby,20426,Burwood (Vic.),68.98,ok
+22247,Seabrook,20426,Burwood (Vic.),107.48,ok
+22249,Seaford (Vic.),20426,Burwood (Vic.),101.18,ok
+22250,Seaholme,20426,Burwood (Vic.),95.28,ok
+22256,Seddon (Vic.),20426,Burwood (Vic.),79.28,ok
+22258,Selby,20426,Burwood (Vic.),104.8,ok
+22263,Seville,20426,Burwood (Vic.),110.9,ok
+22264,Seville East,20426,Burwood (Vic.),97.78,ok
+22278,Sherbrooke,20426,Burwood (Vic.),102.77,ok
+22279,Shoreham,20426,Burwood (Vic.),,no_eligible_route
+22281,Silvan,20426,Burwood (Vic.),112.33,ok
+22291,Skye (Vic.),20426,Burwood (Vic.),108.63,ok
+22295,Smiths Gully,20426,Burwood (Vic.),,no_eligible_route
+22303,Somers,20426,Burwood (Vic.),,no_eligible_route
+22304,Somerton (Vic.),20426,Burwood (Vic.),116.27,ok
+22305,Somerville (Vic.),20426,Burwood (Vic.),155.32,ok
+22306,Sorrento (Vic.),20426,Burwood (Vic.),198.4,ok
+22309,South Kingsville,20426,Burwood (Vic.),98.28,ok
+22310,South Melbourne,20426,Burwood (Vic.),65.07,ok
+22311,South Morang,20426,Burwood (Vic.),122.33,ok
+22313,South Wharf,20426,Burwood (Vic.),67.9,ok
+22314,South Yarra,20426,Burwood (Vic.),54.53,ok
+22315,Southbank,20426,Burwood (Vic.),60.63,ok
+22319,Spotswood,20426,Burwood (Vic.),76.3,ok
+22325,Springfield (Macedon Ranges - Vic.),20426,Burwood (Vic.),,no_eligible_route
+22328,Springvale (Vic.),20426,Burwood (Vic.),63.85,ok
+22329,Springvale South,20426,Burwood (Vic.),59.92,ok
+22330,St Albans (Vic.),20426,Burwood (Vic.),94.98,ok
+22332,St Andrews (Vic.),20426,Burwood (Vic.),,no_eligible_route
+22333,St Andrews Beach,20426,Burwood (Vic.),,no_eligible_route
+22339,St Helena,20426,Burwood (Vic.),93.2,ok
+22343,St Kilda (Vic.),20426,Burwood (Vic.),64.57,ok
+22344,St Kilda East,20426,Burwood (Vic.),63.3,ok
+22345,St Kilda West,20426,Burwood (Vic.),77.08,ok
+22355,Steels Creek,20426,Burwood (Vic.),,no_eligible_route
+22375,Strathewen,20426,Burwood (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),20426,Burwood (Vic.),96.75,ok
+22381,Strathmore Heights,20426,Burwood (Vic.),107.53,ok
+22382,Strathtulloh,20426,Burwood (Vic.),,no_eligible_route
+22391,Sunbury,20426,Burwood (Vic.),160.68,ok
+22395,Sunshine (Vic.),20426,Burwood (Vic.),83.77,ok
+22396,Sunshine North,20426,Burwood (Vic.),105.98,ok
+22397,Sunshine West,20426,Burwood (Vic.),104.53,ok
+22399,Surrey Hills,20426,Burwood (Vic.),28.72,ok
+22414,Sydenham (Vic.),20426,Burwood (Vic.),109.38,ok
+22451,Tarneit,20426,Burwood (Vic.),133.48,ok
+22457,Tarrawarra,20426,Burwood (Vic.),111.27,ok
+22473,Taylors Hill,20426,Burwood (Vic.),123.37,ok
+22474,Taylors Lakes,20426,Burwood (Vic.),113.95,ok
+22476,Tecoma,20426,Burwood (Vic.),68.08,ok
+22483,Templestowe,20426,Burwood (Vic.),63.35,ok
+22484,Templestowe Lower,20426,Burwood (Vic.),56.48,ok
+22496,The Basin (Vic.),20426,Burwood (Vic.),83.47,ok
+22501,The Patch,20426,Burwood (Vic.),110.72,ok
+22504,Thomastown,20426,Burwood (Vic.),99.95,ok
+22508,Thornbury,20426,Burwood (Vic.),82.73,ok
+22509,Thornhill Park,20426,Burwood (Vic.),,no_eligible_route
+22514,Three Bridges,20426,Burwood (Vic.),,no_eligible_route
+22531,Tonimbuk,20426,Burwood (Vic.),,no_eligible_route
+22536,Toolangi,20426,Burwood (Vic.),,no_eligible_route
+22537,Toolern Vale,20426,Burwood (Vic.),,no_eligible_route
+22546,Tooradin,20426,Burwood (Vic.),,no_eligible_route
+22547,Toorak,20426,Burwood (Vic.),55.58,ok
+22550,Tootgarook,20426,Burwood (Vic.),188.78,ok
+22556,Tottenham (Vic.),20426,Burwood (Vic.),110.2,ok
+22572,Travancore,20426,Burwood (Vic.),84.75,ok
+22576,Tremont,20426,Burwood (Vic.),78.85,ok
+22582,Truganina,20426,Burwood (Vic.),191.63,ok
+22584,Tuerong,20426,Burwood (Vic.),,no_eligible_route
+22586,Tullamarine,20426,Burwood (Vic.),125.45,ok
+22594,Tyabb,20426,Burwood (Vic.),147.05,ok
+22598,Tynong,20426,Burwood (Vic.),,no_eligible_route
+22599,Tynong North,20426,Burwood (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,20426,Burwood (Vic.),58.4,ok
+22617,Upper Plenty,20426,Burwood (Vic.),,no_eligible_route
+22620,Upwey,20426,Burwood (Vic.),65.27,ok
+22627,Vermont,20426,Burwood (Vic.),37.68,ok
+22628,Vermont South,20426,Burwood (Vic.),29.22,ok
+22629,Vervale,20426,Burwood (Vic.),,no_eligible_route
+22633,Viewbank,20426,Burwood (Vic.),83.92,ok
+22661,Wallan,20426,Burwood (Vic.),,no_eligible_route
+22672,Wandin East,20426,Burwood (Vic.),,no_eligible_route
+22673,Wandin North,20426,Burwood (Vic.),77.87,ok
+22676,Wandong,20426,Burwood (Vic.),,no_eligible_route
+22685,Wantirna,20426,Burwood (Vic.),49.95,ok
+22686,Wantirna South,20426,Burwood (Vic.),47.77,ok
+22689,Warburton (Vic.),20426,Burwood (Vic.),,no_eligible_route
+22695,Warneet,20426,Burwood (Vic.),,no_eligible_route
+22702,Warrandyte,20426,Burwood (Vic.),74.05,ok
+22703,Warrandyte South,20426,Burwood (Vic.),96.02,ok
+22704,Warranwood,20426,Burwood (Vic.),72.33,ok
+22717,Waterford Park,20426,Burwood (Vic.),,no_eligible_route
+22720,Waterways,20426,Burwood (Vic.),92.35,ok
+22721,Watsonia,20426,Burwood (Vic.),72.37,ok
+22722,Watsonia North,20426,Burwood (Vic.),80.87,ok
+22723,Watsons Creek (Vic.),20426,Burwood (Vic.),,no_eligible_route
+22727,Wattle Glen,20426,Burwood (Vic.),96.12,ok
+22740,Weir Views,20426,Burwood (Vic.),,no_eligible_route
+22750,Werribee,20426,Burwood (Vic.),108.78,ok
+22751,Werribee South,20426,Burwood (Vic.),149.1,ok
+22753,Wesburn,20426,Burwood (Vic.),109.83,ok
+22756,West Footscray,20426,Burwood (Vic.),86.93,ok
+22757,West Melbourne,20426,Burwood (Vic.),80.87,ok
+22761,Westmeadows,20426,Burwood (Vic.),106.32,ok
+22766,Wheelers Hill,20426,Burwood (Vic.),56.42,ok
+22775,Whittlesea,20426,Burwood (Vic.),,no_eligible_route
+22784,Wildwood,20426,Burwood (Vic.),,no_eligible_route
+22791,Williams Landing,20426,Burwood (Vic.),105.08,ok
+22792,Williamstown (Vic.),20426,Burwood (Vic.),91.25,ok
+22793,Williamstown North,20426,Burwood (Vic.),99.73,ok
+22805,Windsor (Vic.),20426,Burwood (Vic.),53.3,ok
+22820,Wollert,20426,Burwood (Vic.),141.3,ok
+22825,Wonga Park,20426,Burwood (Vic.),79.18,ok
+22843,Woodstock (Vic.),20426,Burwood (Vic.),,no_eligible_route
+22857,Woori Yallock,20426,Burwood (Vic.),88.98,ok
+22883,Wyndham Vale,20426,Burwood (Vic.),141.03,ok
+22892,Yallambie,20426,Burwood (Vic.),83.47,ok
+22898,Yan Yean,20426,Burwood (Vic.),157.9,ok
+22906,Yannathan,20426,Burwood (Vic.),,no_eligible_route
+22910,Yarra Glen,20426,Burwood (Vic.),,no_eligible_route
+22911,Yarra Junction,20426,Burwood (Vic.),114.1,ok
+22916,Yarrambat,20426,Burwood (Vic.),99.52,ok
+22917,Yarraville,20426,Burwood (Vic.),82.05,ok
+22925,Yellingbo,20426,Burwood (Vic.),,no_eligible_route
+22930,Yering,20426,Burwood (Vic.),,no_eligible_route
+22941,Yuroke,20426,Burwood (Vic.),169.27,ok

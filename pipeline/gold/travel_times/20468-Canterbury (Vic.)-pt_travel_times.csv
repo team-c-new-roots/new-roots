@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20468,Canterbury (Vic.),47.77,ok
+20003,Aberfeldie,20468,Canterbury (Vic.),69.77,ok
+20011,Aintree,20468,Canterbury (Vic.),114.5,ok
+20015,Airport West,20468,Canterbury (Vic.),91.87,ok
+20017,Albanvale,20468,Canterbury (Vic.),94.97,ok
+20018,Albert Park (Vic.),20468,Canterbury (Vic.),54.33,ok
+20021,Albion (Vic.),20468,Canterbury (Vic.),75.37,ok
+20034,Alphington,20468,Canterbury (Vic.),54.28,ok
+20035,Altona (Vic.),20468,Canterbury (Vic.),80.77,ok
+20036,Altona Meadows,20468,Canterbury (Vic.),86.92,ok
+20037,Altona North,20468,Canterbury (Vic.),86.87,ok
+20062,Ardeer,20468,Canterbury (Vic.),84.52,ok
+20066,Armadale (Vic.),20468,Canterbury (Vic.),44.28,ok
+20071,Arthurs Creek,20468,Canterbury (Vic.),,no_eligible_route
+20072,Arthurs Seat,20468,Canterbury (Vic.),190.13,ok
+20075,Ascot Vale,20468,Canterbury (Vic.),63.3,ok
+20077,Ashburton,20468,Canterbury (Vic.),29.78,ok
+20078,Ashwood,20468,Canterbury (Vic.),47.98,ok
+20079,Aspendale,20468,Canterbury (Vic.),78.87,ok
+20080,Aspendale Gardens,20468,Canterbury (Vic.),103.5,ok
+20082,Attwood,20468,Canterbury (Vic.),95.58,ok
+20089,Avondale Heights,20468,Canterbury (Vic.),85.9,ok
+20091,Avonsleigh,20468,Canterbury (Vic.),120.53,ok
+20095,Bacchus Marsh,20468,Canterbury (Vic.),,no_eligible_route
+20097,Badger Creek,20468,Canterbury (Vic.),124.8,ok
+20105,Balaclava (Vic.),20468,Canterbury (Vic.),47.25,ok
+20120,Balnarring,20468,Canterbury (Vic.),184.48,ok
+20121,Balnarring Beach,20468,Canterbury (Vic.),181.02,ok
+20123,Balwyn,20468,Canterbury (Vic.),9.43,ok
+20124,Balwyn North,20468,Canterbury (Vic.),13.4,ok
+20131,Bangholme,20468,Canterbury (Vic.),136.77,ok
+20169,Baxter,20468,Canterbury (Vic.),116.93,ok
+20171,Bayles,20468,Canterbury (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),20468,Canterbury (Vic.),51.6,ok
+20174,Bayswater North,20468,Canterbury (Vic.),63.72,ok
+20175,Beaconsfield (Vic.),20468,Canterbury (Vic.),127.32,ok
+20176,Beaconsfield Upper,20468,Canterbury (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),20468,Canterbury (Vic.),83.75,ok
+20187,Beenak,20468,Canterbury (Vic.),,no_eligible_route
+20188,Belgrave,20468,Canterbury (Vic.),61.68,ok
+20189,Belgrave Heights,20468,Canterbury (Vic.),87.35,ok
+20190,Belgrave South,20468,Canterbury (Vic.),88.33,ok
+20198,Bellfield (Banyule - Vic.),20468,Canterbury (Vic.),63.28,ok
+20207,Bend Of Islands,20468,Canterbury (Vic.),,no_eligible_route
+20212,Benloch,20468,Canterbury (Vic.),,no_eligible_route
+20214,Bentleigh,20468,Canterbury (Vic.),67.65,ok
+20215,Bentleigh East,20468,Canterbury (Vic.),70.6,ok
+20224,Berwick,20468,Canterbury (Vic.),100.12,ok
+20233,Beveridge,20468,Canterbury (Vic.),125.13,ok
+20237,Big Pats Creek,20468,Canterbury (Vic.),,no_eligible_route
+20248,Bittern,20468,Canterbury (Vic.),135.2,ok
+20251,Black Rock (Vic.),20468,Canterbury (Vic.),80.07,ok
+20252,Blackburn,20468,Canterbury (Vic.),25.92,ok
+20253,Blackburn North,20468,Canterbury (Vic.),43.2,ok
+20254,Blackburn South,20468,Canterbury (Vic.),43.27,ok
+20257,Blairgowrie,20468,Canterbury (Vic.),182.17,ok
+20260,Blind Bight,20468,Canterbury (Vic.),,no_eligible_route
+20272,Bolinda,20468,Canterbury (Vic.),,no_eligible_route
+20278,Bonbeach,20468,Canterbury (Vic.),83.87,ok
+20280,Boneo,20468,Canterbury (Vic.),,no_eligible_route
+20282,Bonnie Brook,20468,Canterbury (Vic.),150.35,ok
+20304,Boronia,20468,Canterbury (Vic.),54.07,ok
+20307,Botanic Ridge,20468,Canterbury (Vic.),140.98,ok
+20314,Box Hill (Vic.),20468,Canterbury (Vic.),23.05,ok
+20315,Box Hill North,20468,Canterbury (Vic.),31.8,ok
+20316,Box Hill South,20468,Canterbury (Vic.),28.53,ok
+20320,Braeside,20468,Canterbury (Vic.),107.9,ok
+20324,Braybrook,20468,Canterbury (Vic.),77.15,ok
+20331,Briar Hill,20468,Canterbury (Vic.),81.7,ok
+20337,Brighton (Vic.),20468,Canterbury (Vic.),60.02,ok
+20338,Brighton East,20468,Canterbury (Vic.),68.27,ok
+20346,Broadmeadows (Vic.),20468,Canterbury (Vic.),87.5,ok
+20351,Brookfield (Vic.),20468,Canterbury (Vic.),168.55,ok
+20352,Brooklyn (Vic.),20468,Canterbury (Vic.),81.9,ok
+20361,Brunswick (Vic.),20468,Canterbury (Vic.),60.12,ok
+20362,Brunswick East,20468,Canterbury (Vic.),64.98,ok
+20363,Brunswick West,20468,Canterbury (Vic.),68.5,ok
+20381,Bulla (Vic.),20468,Canterbury (Vic.),152.73,ok
+20386,Bulleen,20468,Canterbury (Vic.),51.53,ok
+20387,Bullengarook,20468,Canterbury (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),20468,Canterbury (Vic.),83.2,ok
+20411,Bunyip,20468,Canterbury (Vic.),,no_eligible_route
+20412,Bunyip North,20468,Canterbury (Vic.),,no_eligible_route
+20418,Burnley,20468,Canterbury (Vic.),36.82,ok
+20419,Burnside (Vic.),20468,Canterbury (Vic.),95.7,ok
+20420,Burnside Heights,20468,Canterbury (Vic.),103.52,ok
+20426,Burwood (Vic.),20468,Canterbury (Vic.),38.25,ok
+20427,Burwood East,20468,Canterbury (Vic.),43.65,ok
+20435,Bylands,20468,Canterbury (Vic.),,no_eligible_route
+20441,Cairnlea,20468,Canterbury (Vic.),82.58,ok
+20442,Calder Park,20468,Canterbury (Vic.),113.45,ok
+20443,Caldermeade,20468,Canterbury (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),20468,Canterbury (Vic.),25.28,ok
+20455,Campbellfield,20468,Canterbury (Vic.),96.17,ok
+20466,Cannons Creek,20468,Canterbury (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),20468,Canterbury (Vic.),0.0,same_centroid
+20474,Cape Schanck,20468,Canterbury (Vic.),,no_eligible_route
+20476,Capel Sound,20468,Canterbury (Vic.),166.52,ok
+20487,Cardinia,20468,Canterbury (Vic.),,no_eligible_route
+20495,Carlton (Vic.),20468,Canterbury (Vic.),50.32,ok
+20496,Carlton North,20468,Canterbury (Vic.),62.3,ok
+20498,Carnegie,20468,Canterbury (Vic.),60.15,ok
+20500,Caroline Springs,20468,Canterbury (Vic.),100.28,ok
+20507,Carrum,20468,Canterbury (Vic.),83.68,ok
+20508,Carrum Downs,20468,Canterbury (Vic.),107.78,ok
+20512,Castella,20468,Canterbury (Vic.),,no_eligible_route
+20517,Catani,20468,Canterbury (Vic.),,no_eligible_route
+20521,Caulfield,20468,Canterbury (Vic.),59.45,ok
+20522,Caulfield East,20468,Canterbury (Vic.),52.05,ok
+20523,Caulfield North,20468,Canterbury (Vic.),50.97,ok
+20524,Caulfield South,20468,Canterbury (Vic.),64.9,ok
+20528,Chadstone,20468,Canterbury (Vic.),54.92,ok
+20537,Chelsea,20468,Canterbury (Vic.),80.93,ok
+20538,Chelsea Heights,20468,Canterbury (Vic.),105.62,ok
+20539,Cheltenham (Vic.),20468,Canterbury (Vic.),70.4,ok
+20541,Cherokee,20468,Canterbury (Vic.),,no_eligible_route
+20555,Chintin,20468,Canterbury (Vic.),,no_eligible_route
+20556,Chirnside Park,20468,Canterbury (Vic.),76.97,ok
+20559,Christmas Hills (Vic.),20468,Canterbury (Vic.),,no_eligible_route
+20560,Chum Creek,20468,Canterbury (Vic.),,no_eligible_route
+20566,Clarinda,20468,Canterbury (Vic.),79.88,ok
+20567,Clarkefield,20468,Canterbury (Vic.),,no_eligible_route
+20569,Clayton,20468,Canterbury (Vic.),67.02,ok
+20570,Clayton South,20468,Canterbury (Vic.),85.2,ok
+20572,Clematis,20468,Canterbury (Vic.),91.95,ok
+20574,Clifton Hill,20468,Canterbury (Vic.),47.47,ok
+20576,Clonbinane,20468,Canterbury (Vic.),,no_eligible_route
+20581,Clyde (Vic.),20468,Canterbury (Vic.),151.82,ok
+20582,Clyde North,20468,Canterbury (Vic.),128.63,ok
+20587,Cobaw,20468,Canterbury (Vic.),,no_eligible_route
+20590,Cobblebank,20468,Canterbury (Vic.),153.2,ok
+20596,Coburg,20468,Canterbury (Vic.),67.85,ok
+20597,Coburg North,20468,Canterbury (Vic.),78.42,ok
+20600,Cockatoo (Vic.),20468,Canterbury (Vic.),124.22,ok
+20601,Cocoroc,20468,Canterbury (Vic.),,no_eligible_route
+20605,Coimadai,20468,Canterbury (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),20468,Canterbury (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),20468,Canterbury (Vic.),37.88,ok
+20624,Coolaroo,20468,Canterbury (Vic.),88.58,ok
+20633,Cora Lynn,20468,Canterbury (Vic.),,no_eligible_route
+20654,Cottles Bridge,20468,Canterbury (Vic.),,no_eligible_route
+20661,Craigieburn,20468,Canterbury (Vic.),97.65,ok
+20662,Cranbourne,20468,Canterbury (Vic.),107.98,ok
+20663,Cranbourne East,20468,Canterbury (Vic.),117.77,ok
+20664,Cranbourne North,20468,Canterbury (Vic.),106.32,ok
+20665,Cranbourne South,20468,Canterbury (Vic.),144.33,ok
+20666,Cranbourne West,20468,Canterbury (Vic.),117.68,ok
+20670,Cremorne (Vic.),20468,Canterbury (Vic.),33.33,ok
+20674,Crib Point,20468,Canterbury (Vic.),144.17,ok
+20682,Croydon (Vic.),20468,Canterbury (Vic.),46.7,ok
+20683,Croydon Hills,20468,Canterbury (Vic.),68.02,ok
+20684,Croydon North,20468,Canterbury (Vic.),65.45,ok
+20685,Croydon South,20468,Canterbury (Vic.),70.62,ok
+20702,Dallas,20468,Canterbury (Vic.),89.52,ok
+20703,Dalmore,20468,Canterbury (Vic.),,no_eligible_route
+20707,Dandenong,20468,Canterbury (Vic.),87.72,ok
+20708,Dandenong North,20468,Canterbury (Vic.),87.52,ok
+20709,Dandenong South,20468,Canterbury (Vic.),109.8,ok
+20712,Darley,20468,Canterbury (Vic.),,no_eligible_route
+20716,Darraweit Guim,20468,Canterbury (Vic.),,no_eligible_route
+20724,Deanside,20468,Canterbury (Vic.),120.65,ok
+20728,Deepdene (Vic.),20468,Canterbury (Vic.),15.33,ok
+20729,Deer Park,20468,Canterbury (Vic.),82.35,ok
+20731,Delahey,20468,Canterbury (Vic.),95.02,ok
+20743,Derrimut,20468,Canterbury (Vic.),110.92,ok
+20748,Devon Meadows,20468,Canterbury (Vic.),158.57,ok
+20750,Dewhurst,20468,Canterbury (Vic.),,no_eligible_route
+20752,Diamond Creek,20468,Canterbury (Vic.),86.78,ok
+20754,Diggers Rest,20468,Canterbury (Vic.),106.77,ok
+20758,Dingley Village,20468,Canterbury (Vic.),83.3,ok
+20762,Dixons Creek,20468,Canterbury (Vic.),,no_eligible_route
+20766,Docklands,20468,Canterbury (Vic.),48.4,ok
+20769,Don Valley,20468,Canterbury (Vic.),,no_eligible_route
+20771,Doncaster,20468,Canterbury (Vic.),36.75,ok
+20772,Doncaster East,20468,Canterbury (Vic.),50.57,ok
+20773,Donnybrook (Vic.),20468,Canterbury (Vic.),120.67,ok
+20774,Donvale,20468,Canterbury (Vic.),61.3,ok
+20779,Doreen,20468,Canterbury (Vic.),120.18,ok
+20783,Doveton,20468,Canterbury (Vic.),102.7,ok
+20788,Dromana,20468,Canterbury (Vic.),177.3,ok
+20825,Eaglemont,20468,Canterbury (Vic.),55.02,ok
+20830,East Melbourne,20468,Canterbury (Vic.),39.98,ok
+20833,East Warburton,20468,Canterbury (Vic.),,no_eligible_route
+20843,Eden Park,20468,Canterbury (Vic.),,no_eligible_route
+20848,Edithvale,20468,Canterbury (Vic.),81.07,ok
+20864,Elsternwick,20468,Canterbury (Vic.),55.17,ok
+20865,Eltham (Vic.),20468,Canterbury (Vic.),82.67,ok
+20866,Eltham North,20468,Canterbury (Vic.),85.9,ok
+20867,Elwood,20468,Canterbury (Vic.),61.35,ok
+20868,Emerald (Vic.),20468,Canterbury (Vic.),119.13,ok
+20871,Endeavour Hills,20468,Canterbury (Vic.),110.03,ok
+20878,Epping (Vic.),20468,Canterbury (Vic.),108.6,ok
+20885,Essendon,20468,Canterbury (Vic.),70.52,ok
+20886,Essendon Fields,20468,Canterbury (Vic.),94.43,ok
+20887,Essendon North,20468,Canterbury (Vic.),75.92,ok
+20888,Essendon West,20468,Canterbury (Vic.),70.38,ok
+20889,Eumemmerring,20468,Canterbury (Vic.),104.72,ok
+20898,Exford,20468,Canterbury (Vic.),,no_eligible_route
+20899,Eynesbury,20468,Canterbury (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),20468,Canterbury (Vic.),60.7,ok
+20909,Fawkner,20468,Canterbury (Vic.),88.62,ok
+20916,Fernshaw,20468,Canterbury (Vic.),,no_eligible_route
+20917,Ferntree Gully,20468,Canterbury (Vic.),65.3,ok
+20918,Ferny Creek,20468,Canterbury (Vic.),99.97,ok
+20920,Fingal (Vic.),20468,Canterbury (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),20468,Canterbury (Vic.),47.1,ok
+20925,Fitzroy North,20468,Canterbury (Vic.),57.6,ok
+20929,Flemington,20468,Canterbury (Vic.),65.13,ok
+20930,Flinders (Vic.),20468,Canterbury (Vic.),,no_eligible_route
+20935,Footscray,20468,Canterbury (Vic.),57.23,ok
+20937,Forest Hill (Vic.),20468,Canterbury (Vic.),40.25,ok
+20947,Frankston,20468,Canterbury (Vic.),100.65,ok
+20948,Frankston North,20468,Canterbury (Vic.),106.8,ok
+20949,Frankston South,20468,Canterbury (Vic.),121.92,ok
+20950,Fraser Rise,20468,Canterbury (Vic.),124.2,ok
+20965,Gardenvale,20468,Canterbury (Vic.),56.45,ok
+20966,Garfield,20468,Canterbury (Vic.),,no_eligible_route
+20967,Garfield North,20468,Canterbury (Vic.),,no_eligible_route
+20979,Gembrook,20468,Canterbury (Vic.),,no_eligible_route
+20995,Gilderoy,20468,Canterbury (Vic.),,no_eligible_route
+21001,Gisborne,20468,Canterbury (Vic.),,no_eligible_route
+21002,Gisborne South,20468,Canterbury (Vic.),,no_eligible_route
+21004,Gladstone Park,20468,Canterbury (Vic.),102.37,ok
+21005,Gladysdale,20468,Canterbury (Vic.),,no_eligible_route
+21009,Glen Huntly,20468,Canterbury (Vic.),59.18,ok
+21010,Glen Iris (Vic.),20468,Canterbury (Vic.),29.52,ok
+21013,Glen Waverley,20468,Canterbury (Vic.),57.27,ok
+21047,Glenroy (Vic.),20468,Canterbury (Vic.),79.6,ok
+21059,Goldie,20468,Canterbury (Vic.),,no_eligible_route
+21079,Gowanbrae,20468,Canterbury (Vic.),104.75,ok
+21087,Grangefields,20468,Canterbury (Vic.),152.3,ok
+21104,Greensborough,20468,Canterbury (Vic.),63.98,ok
+21105,Greenvale (Vic.),20468,Canterbury (Vic.),107.75,ok
+21115,Gruyere,20468,Canterbury (Vic.),,no_eligible_route
+21121,Guys Hill,20468,Canterbury (Vic.),,no_eligible_route
+21124,Hadfield,20468,Canterbury (Vic.),90.65,ok
+21125,Hallam,20468,Canterbury (Vic.),105.23,ok
+21131,Hampton (Vic.),20468,Canterbury (Vic.),67.85,ok
+21132,Hampton East,20468,Canterbury (Vic.),74.42,ok
+21133,Hampton Park,20468,Canterbury (Vic.),103.12,ok
+21139,Harkaway,20468,Canterbury (Vic.),,no_eligible_route
+21140,Harkness,20468,Canterbury (Vic.),170.03,ok
+21145,Hastings (Vic.),20468,Canterbury (Vic.),135.08,ok
+21152,Hawthorn (Vic.),20468,Canterbury (Vic.),29.22,ok
+21153,Hawthorn East,20468,Canterbury (Vic.),19.0,ok
+21158,Healesville,20468,Canterbury (Vic.),130.72,ok
+21159,Heath Hill,20468,Canterbury (Vic.),,no_eligible_route
+21161,Heathcote Junction,20468,Canterbury (Vic.),,no_eligible_route
+21163,Heatherton,20468,Canterbury (Vic.),88.02,ok
+21165,Heathmont,20468,Canterbury (Vic.),38.87,ok
+21167,Heidelberg,20468,Canterbury (Vic.),63.52,ok
+21168,Heidelberg Heights,20468,Canterbury (Vic.),56.98,ok
+21169,Heidelberg West,20468,Canterbury (Vic.),66.13,ok
+21176,Hesket,20468,Canterbury (Vic.),,no_eligible_route
+21185,Highett,20468,Canterbury (Vic.),67.18,ok
+21193,Hillside (Melton - Vic.),20468,Canterbury (Vic.),102.55,ok
+21195,Hmas Cerberus,20468,Canterbury (Vic.),177.37,ok
+21196,Hoddles Creek,20468,Canterbury (Vic.),,no_eligible_route
+21202,Hopetoun Park,20468,Canterbury (Vic.),,no_eligible_route
+21203,Hoppers Crossing,20468,Canterbury (Vic.),97.58,ok
+21214,Hughesdale,20468,Canterbury (Vic.),66.27,ok
+21215,Humevale,20468,Canterbury (Vic.),150.57,ok
+21218,Huntingdale (Vic.),20468,Canterbury (Vic.),69.77,ok
+21223,Hurstbridge,20468,Canterbury (Vic.),87.33,ok
+21238,Iona,20468,Canterbury (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),20468,Canterbury (Vic.),42.15,ok
+21247,Ivanhoe East,20468,Canterbury (Vic.),37.62,ok
+21248,Jacana,20468,Canterbury (Vic.),87.63,ok
+21277,Junction Village,20468,Canterbury (Vic.),144.7,ok
+21284,Kalkallo,20468,Canterbury (Vic.),125.67,ok
+21286,Kallista,20468,Canterbury (Vic.),103.4,ok
+21287,Kalorama,20468,Canterbury (Vic.),76.67,ok
+21294,Kangaroo Ground,20468,Canterbury (Vic.),118.22,ok
+21312,Kealba,20468,Canterbury (Vic.),89.03,ok
+21314,Keilor,20468,Canterbury (Vic.),113.88,ok
+21315,Keilor Downs,20468,Canterbury (Vic.),102.72,ok
+21316,Keilor East,20468,Canterbury (Vic.),84.75,ok
+21317,Keilor Lodge,20468,Canterbury (Vic.),97.33,ok
+21318,Keilor North,20468,Canterbury (Vic.),100.38,ok
+21319,Keilor Park,20468,Canterbury (Vic.),93.67,ok
+21327,Kensington (Vic.),20468,Canterbury (Vic.),53.37,ok
+21333,Kerrie,20468,Canterbury (Vic.),,no_eligible_route
+21336,Kew (Vic.),20468,Canterbury (Vic.),37.4,ok
+21337,Kew East,20468,Canterbury (Vic.),40.88,ok
+21339,Keysborough,20468,Canterbury (Vic.),98.83,ok
+21354,Kilsyth,20468,Canterbury (Vic.),64.05,ok
+21355,Kilsyth South,20468,Canterbury (Vic.),79.13,ok
+21358,Kinglake,20468,Canterbury (Vic.),199.5,ok
+21359,Kinglake Central,20468,Canterbury (Vic.),,no_eligible_route
+21360,Kinglake West,20468,Canterbury (Vic.),153.53,ok
+21362,Kings Park (Vic.),20468,Canterbury (Vic.),90.72,ok
+21363,Kingsbury,20468,Canterbury (Vic.),82.22,ok
+21365,Kingsville,20468,Canterbury (Vic.),67.72,ok
+21374,Knoxfield,20468,Canterbury (Vic.),66.72,ok
+21380,Koo Wee Rup,20468,Canterbury (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,20468,Canterbury (Vic.),,no_eligible_route
+21393,Kooyong,20468,Canterbury (Vic.),36.4,ok
+21411,Kurunjang,20468,Canterbury (Vic.),147.23,ok
+21452,Lalor,20468,Canterbury (Vic.),79.67,ok
+21456,Lancefield,20468,Canterbury (Vic.),,no_eligible_route
+21459,Lang Lang,20468,Canterbury (Vic.),,no_eligible_route
+21460,Lang Lang East,20468,Canterbury (Vic.),,no_eligible_route
+21467,Langwarrin,20468,Canterbury (Vic.),114.62,ok
+21468,Langwarrin South,20468,Canterbury (Vic.),,no_eligible_route
+21473,Launching Place,20468,Canterbury (Vic.),90.35,ok
+21476,Laverton (Vic.),20468,Canterbury (Vic.),77.07,ok
+21477,Laverton North,20468,Canterbury (Vic.),93.77,ok
+21504,Lilydale (Vic.),20468,Canterbury (Vic.),70.0,ok
+21533,Long Forest,20468,Canterbury (Vic.),,no_eligible_route
+21547,Lower Plenty,20468,Canterbury (Vic.),84.35,ok
+21554,Lynbrook,20468,Canterbury (Vic.),97.48,ok
+21555,Lyndhurst (Vic.),20468,Canterbury (Vic.),146.07,ok
+21558,Lysterfield,20468,Canterbury (Vic.),128.28,ok
+21559,Lysterfield South,20468,Canterbury (Vic.),133.77,ok
+21561,Macclesfield (Vic.),20468,Canterbury (Vic.),,no_eligible_route
+21562,Macedon,20468,Canterbury (Vic.),,no_eligible_route
+21564,Macleod (Vic.),20468,Canterbury (Vic.),64.42,ok
+21569,Maddingley,20468,Canterbury (Vic.),,no_eligible_route
+21575,Maidstone,20468,Canterbury (Vic.),75.6,ok
+21578,Main Ridge,20468,Canterbury (Vic.),,no_eligible_route
+21586,Malvern (Vic.),20468,Canterbury (Vic.),40.23,ok
+21587,Malvern East,20468,Canterbury (Vic.),47.3,ok
+21588,Mambourin,20468,Canterbury (Vic.),,no_eligible_route
+21597,Manor Lakes,20468,Canterbury (Vic.),127.53,ok
+21604,Maribyrnong,20468,Canterbury (Vic.),76.35,ok
+21619,Maryknoll,20468,Canterbury (Vic.),,no_eligible_route
+21625,McCrae,20468,Canterbury (Vic.),161.72,ok
+21629,McKinnon,20468,Canterbury (Vic.),56.48,ok
+21635,Meadow Heights,20468,Canterbury (Vic.),100.52,ok
+21640,Melbourne,20468,Canterbury (Vic.),35.08,ok
+21641,Melbourne Airport,20468,Canterbury (Vic.),,no_eligible_route
+21642,Melton (Vic.),20468,Canterbury (Vic.),155.42,ok
+21643,Melton South,20468,Canterbury (Vic.),167.78,ok
+21644,Melton West,20468,Canterbury (Vic.),143.42,ok
+21648,Mentone,20468,Canterbury (Vic.),65.17,ok
+21649,Menzies Creek,20468,Canterbury (Vic.),90.75,ok
+21659,Mernda,20468,Canterbury (Vic.),110.15,ok
+21662,Merricks,20468,Canterbury (Vic.),,no_eligible_route
+21663,Merricks Beach,20468,Canterbury (Vic.),,no_eligible_route
+21664,Merricks North,20468,Canterbury (Vic.),,no_eligible_route
+21668,Merrimu,20468,Canterbury (Vic.),,no_eligible_route
+21675,Mickleham,20468,Canterbury (Vic.),129.65,ok
+21677,Middle Park (Vic.),20468,Canterbury (Vic.),60.42,ok
+21683,Mill Park,20468,Canterbury (Vic.),97.75,ok
+21685,Millgrove,20468,Canterbury (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),20468,Canterbury (Vic.),37.6,ok
+21727,Monbulk,20468,Canterbury (Vic.),110.85,ok
+21728,Monegeetta,20468,Canterbury (Vic.),,no_eligible_route
+21731,Monomeith,20468,Canterbury (Vic.),,no_eligible_route
+21732,Mont Albert,20468,Canterbury (Vic.),23.77,ok
+21733,Mont Albert North,20468,Canterbury (Vic.),27.9,ok
+21735,Montmorency,20468,Canterbury (Vic.),52.1,ok
+21736,Montrose (Vic.),20468,Canterbury (Vic.),69.97,ok
+21742,Moonee Ponds,20468,Canterbury (Vic.),56.98,ok
+21746,Moorabbin,20468,Canterbury (Vic.),82.73,ok
+21747,Moorabbin Airport,20468,Canterbury (Vic.),84.67,ok
+21754,Moorooduc,20468,Canterbury (Vic.),,no_eligible_route
+21755,Mooroolbark,20468,Canterbury (Vic.),63.9,ok
+21760,Mordialloc,20468,Canterbury (Vic.),80.47,ok
+21763,Mornington (Vic.),20468,Canterbury (Vic.),135.35,ok
+21779,Mount Burnett,20468,Canterbury (Vic.),,no_eligible_route
+21786,Mount Cottrell,20468,Canterbury (Vic.),,no_eligible_route
+21787,Mount Dandenong,20468,Canterbury (Vic.),84.67,ok
+21793,Mount Eliza,20468,Canterbury (Vic.),109.7,ok
+21795,Mount Evelyn,20468,Canterbury (Vic.),81.83,ok
+21801,Mount Macedon,20468,Canterbury (Vic.),,no_eligible_route
+21803,Mount Martha,20468,Canterbury (Vic.),128.23,ok
+21814,Mount Toolebewong,20468,Canterbury (Vic.),,no_eligible_route
+21816,Mount Waverley,20468,Canterbury (Vic.),44.55,ok
+21827,Mulgrave (Vic.),20468,Canterbury (Vic.),88.73,ok
+21849,Murrumbeena,20468,Canterbury (Vic.),66.38,ok
+21872,Nangana,20468,Canterbury (Vic.),,no_eligible_route
+21878,Nar Nar Goon,20468,Canterbury (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,20468,Canterbury (Vic.),,no_eligible_route
+21893,Narre Warren,20468,Canterbury (Vic.),104.22,ok
+21894,Narre Warren East,20468,Canterbury (Vic.),,no_eligible_route
+21895,Narre Warren North,20468,Canterbury (Vic.),115.48,ok
+21896,Narre Warren South,20468,Canterbury (Vic.),108.03,ok
+21921,New Gisborne,20468,Canterbury (Vic.),,no_eligible_route
+21934,Newport (Vic.),20468,Canterbury (Vic.),60.92,ok
+21942,Niddrie,20468,Canterbury (Vic.),87.87,ok
+21952,Noble Park,20468,Canterbury (Vic.),78.48,ok
+21953,Noble Park North,20468,Canterbury (Vic.),101.43,ok
+21966,North Melbourne,20468,Canterbury (Vic.),52.37,ok
+21969,North Warrandyte,20468,Canterbury (Vic.),95.93,ok
+21971,Northcote,20468,Canterbury (Vic.),61.87,ok
+21974,Notting Hill,20468,Canterbury (Vic.),60.35,ok
+21985,Nunawading,20468,Canterbury (Vic.),30.08,ok
+21991,Nutfield,20468,Canterbury (Vic.),,no_eligible_route
+21998,Oak Park,20468,Canterbury (Vic.),75.3,ok
+21999,Oaklands Junction,20468,Canterbury (Vic.),,no_eligible_route
+22000,Oakleigh,20468,Canterbury (Vic.),60.72,ok
+22001,Oakleigh East,20468,Canterbury (Vic.),67.2,ok
+22002,Oakleigh South,20468,Canterbury (Vic.),78.78,ok
+22006,Officer,20468,Canterbury (Vic.),119.77,ok
+22007,Officer South,20468,Canterbury (Vic.),152.33,ok
+22009,Olinda (Vic.),20468,Canterbury (Vic.),103.28,ok
+22016,Ormond,20468,Canterbury (Vic.),56.92,ok
+22027,Pakenham,20468,Canterbury (Vic.),118.82,ok
+22028,Pakenham South,20468,Canterbury (Vic.),,no_eligible_route
+22029,Pakenham Upper,20468,Canterbury (Vic.),,no_eligible_route
+22032,Panton Hill,20468,Canterbury (Vic.),,no_eligible_route
+22036,Park Orchards,20468,Canterbury (Vic.),58.57,ok
+22037,Parkdale,20468,Canterbury (Vic.),70.25,ok
+22038,Parkville (Vic.),20468,Canterbury (Vic.),58.2,ok
+22041,Pascoe Vale,20468,Canterbury (Vic.),79.67,ok
+22042,Pascoe Vale South,20468,Canterbury (Vic.),75.4,ok
+22047,Patterson Lakes,20468,Canterbury (Vic.),96.55,ok
+22050,Pearcedale,20468,Canterbury (Vic.),161.63,ok
+22058,Pentland Hills,20468,Canterbury (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),20468,Canterbury (Vic.),169.18,ok
+22084,Plenty (Vic.),20468,Canterbury (Vic.),96.92,ok
+22085,Plumpton (Vic.),20468,Canterbury (Vic.),,no_eligible_route
+22086,Point Cook,20468,Canterbury (Vic.),96.3,ok
+22087,Point Leo,20468,Canterbury (Vic.),,no_eligible_route
+22107,Port Melbourne,20468,Canterbury (Vic.),59.92,ok
+22113,Portsea,20468,Canterbury (Vic.),198.02,ok
+22115,Powelltown,20468,Canterbury (Vic.),,no_eligible_route
+22118,Prahran,20468,Canterbury (Vic.),47.8,ok
+22121,Preston (Vic.),20468,Canterbury (Vic.),73.27,ok
+22122,Princes Hill,20468,Canterbury (Vic.),58.35,ok
+22132,Quandong,20468,Canterbury (Vic.),,no_eligible_route
+22141,Ravenhall,20468,Canterbury (Vic.),131.1,ok
+22148,Red Hill (Vic.),20468,Canterbury (Vic.),,no_eligible_route
+22149,Red Hill South,20468,Canterbury (Vic.),,no_eligible_route
+22160,Research,20468,Canterbury (Vic.),89.07,ok
+22161,Reservoir (Vic.),20468,Canterbury (Vic.),76.48,ok
+22170,Richmond (Vic.),20468,Canterbury (Vic.),35.72,ok
+22172,Riddells Creek,20468,Canterbury (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),20468,Canterbury (Vic.),44.22,ok
+22175,Ringwood East,20468,Canterbury (Vic.),46.78,ok
+22176,Ringwood North,20468,Canterbury (Vic.),54.42,ok
+22179,Ripponlea,20468,Canterbury (Vic.),45.88,ok
+22185,Rochford,20468,Canterbury (Vic.),,no_eligible_route
+22186,Rockbank,20468,Canterbury (Vic.),128.68,ok
+22193,Romsey,20468,Canterbury (Vic.),,no_eligible_route
+22194,Rosanna,20468,Canterbury (Vic.),58.88,ok
+22198,Rosebud,20468,Canterbury (Vic.),178.03,ok
+22207,Rowville,20468,Canterbury (Vic.),81.38,ok
+22208,Roxburgh Park,20468,Canterbury (Vic.),95.92,ok
+22220,Rye,20468,Canterbury (Vic.),190.23,ok
+22221,Rythdale,20468,Canterbury (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),20468,Canterbury (Vic.),145.2,ok
+22232,Sandhurst,20468,Canterbury (Vic.),124.88,ok
+22234,Sandringham (Vic.),20468,Canterbury (Vic.),72.73,ok
+22239,Sassafras (Vic.),20468,Canterbury (Vic.),84.73,ok
+22242,Scoresby,20468,Canterbury (Vic.),80.6,ok
+22247,Seabrook,20468,Canterbury (Vic.),87.37,ok
+22249,Seaford (Vic.),20468,Canterbury (Vic.),95.78,ok
+22250,Seaholme,20468,Canterbury (Vic.),75.45,ok
+22256,Seddon (Vic.),20468,Canterbury (Vic.),54.17,ok
+22258,Selby,20468,Canterbury (Vic.),90.42,ok
+22263,Seville,20468,Canterbury (Vic.),101.52,ok
+22264,Seville East,20468,Canterbury (Vic.),88.4,ok
+22278,Sherbrooke,20468,Canterbury (Vic.),93.47,ok
+22279,Shoreham,20468,Canterbury (Vic.),,no_eligible_route
+22281,Silvan,20468,Canterbury (Vic.),96.9,ok
+22291,Skye (Vic.),20468,Canterbury (Vic.),111.92,ok
+22295,Smiths Gully,20468,Canterbury (Vic.),,no_eligible_route
+22303,Somers,20468,Canterbury (Vic.),165.08,ok
+22304,Somerton (Vic.),20468,Canterbury (Vic.),101.28,ok
+22305,Somerville (Vic.),20468,Canterbury (Vic.),140.18,ok
+22306,Sorrento (Vic.),20468,Canterbury (Vic.),178.0,ok
+22309,South Kingsville,20468,Canterbury (Vic.),73.17,ok
+22310,South Melbourne,20468,Canterbury (Vic.),49.38,ok
+22311,South Morang,20468,Canterbury (Vic.),101.37,ok
+22313,South Wharf,20468,Canterbury (Vic.),49.92,ok
+22314,South Yarra,20468,Canterbury (Vic.),34.55,ok
+22315,Southbank,20468,Canterbury (Vic.),42.78,ok
+22319,Spotswood,20468,Canterbury (Vic.),54.32,ok
+22325,Springfield (Macedon Ranges - Vic.),20468,Canterbury (Vic.),,no_eligible_route
+22328,Springvale (Vic.),20468,Canterbury (Vic.),74.3,ok
+22329,Springvale South,20468,Canterbury (Vic.),72.92,ok
+22330,St Albans (Vic.),20468,Canterbury (Vic.),78.0,ok
+22332,St Andrews (Vic.),20468,Canterbury (Vic.),,no_eligible_route
+22333,St Andrews Beach,20468,Canterbury (Vic.),,no_eligible_route
+22339,St Helena,20468,Canterbury (Vic.),88.17,ok
+22343,St Kilda (Vic.),20468,Canterbury (Vic.),49.58,ok
+22344,St Kilda East,20468,Canterbury (Vic.),52.32,ok
+22345,St Kilda West,20468,Canterbury (Vic.),60.3,ok
+22355,Steels Creek,20468,Canterbury (Vic.),,no_eligible_route
+22375,Strathewen,20468,Canterbury (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),20468,Canterbury (Vic.),81.77,ok
+22381,Strathmore Heights,20468,Canterbury (Vic.),92.55,ok
+22382,Strathtulloh,20468,Canterbury (Vic.),,no_eligible_route
+22391,Sunbury,20468,Canterbury (Vic.),139.58,ok
+22395,Sunshine (Vic.),20468,Canterbury (Vic.),66.78,ok
+22396,Sunshine North,20468,Canterbury (Vic.),84.85,ok
+22397,Sunshine West,20468,Canterbury (Vic.),96.95,ok
+22399,Surrey Hills,20468,Canterbury (Vic.),23.05,ok
+22414,Sydenham (Vic.),20468,Canterbury (Vic.),92.4,ok
+22451,Tarneit,20468,Canterbury (Vic.),113.37,ok
+22457,Tarrawarra,20468,Canterbury (Vic.),104.32,ok
+22473,Taylors Hill,20468,Canterbury (Vic.),102.22,ok
+22474,Taylors Lakes,20468,Canterbury (Vic.),94.12,ok
+22476,Tecoma,20468,Canterbury (Vic.),58.68,ok
+22483,Templestowe,20468,Canterbury (Vic.),58.32,ok
+22484,Templestowe Lower,20468,Canterbury (Vic.),53.28,ok
+22496,The Basin (Vic.),20468,Canterbury (Vic.),79.17,ok
+22501,The Patch,20468,Canterbury (Vic.),101.42,ok
+22504,Thomastown,20468,Canterbury (Vic.),84.97,ok
+22508,Thornbury,20468,Canterbury (Vic.),67.75,ok
+22509,Thornhill Park,20468,Canterbury (Vic.),,no_eligible_route
+22514,Three Bridges,20468,Canterbury (Vic.),,no_eligible_route
+22531,Tonimbuk,20468,Canterbury (Vic.),,no_eligible_route
+22536,Toolangi,20468,Canterbury (Vic.),,no_eligible_route
+22537,Toolern Vale,20468,Canterbury (Vic.),,no_eligible_route
+22546,Tooradin,20468,Canterbury (Vic.),,no_eligible_route
+22547,Toorak,20468,Canterbury (Vic.),45.58,ok
+22550,Tootgarook,20468,Canterbury (Vic.),173.65,ok
+22556,Tottenham (Vic.),20468,Canterbury (Vic.),89.48,ok
+22572,Travancore,20468,Canterbury (Vic.),61.73,ok
+22576,Tremont,20468,Canterbury (Vic.),76.87,ok
+22582,Truganina,20468,Canterbury (Vic.),164.52,ok
+22584,Tuerong,20468,Canterbury (Vic.),,no_eligible_route
+22586,Tullamarine,20468,Canterbury (Vic.),102.72,ok
+22594,Tyabb,20468,Canterbury (Vic.),130.65,ok
+22598,Tynong,20468,Canterbury (Vic.),,no_eligible_route
+22599,Tynong North,20468,Canterbury (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,20468,Canterbury (Vic.),58.83,ok
+22617,Upper Plenty,20468,Canterbury (Vic.),,no_eligible_route
+22620,Upwey,20468,Canterbury (Vic.),58.55,ok
+22627,Vermont,20468,Canterbury (Vic.),48.15,ok
+22628,Vermont South,20468,Canterbury (Vic.),55.78,ok
+22629,Vervale,20468,Canterbury (Vic.),,no_eligible_route
+22633,Viewbank,20468,Canterbury (Vic.),79.88,ok
+22661,Wallan,20468,Canterbury (Vic.),,no_eligible_route
+22672,Wandin East,20468,Canterbury (Vic.),,no_eligible_route
+22673,Wandin North,20468,Canterbury (Vic.),74.48,ok
+22676,Wandong,20468,Canterbury (Vic.),,no_eligible_route
+22685,Wantirna,20468,Canterbury (Vic.),63.83,ok
+22686,Wantirna South,20468,Canterbury (Vic.),71.77,ok
+22689,Warburton (Vic.),20468,Canterbury (Vic.),,no_eligible_route
+22695,Warneet,20468,Canterbury (Vic.),,no_eligible_route
+22702,Warrandyte,20468,Canterbury (Vic.),69.75,ok
+22703,Warrandyte South,20468,Canterbury (Vic.),82.72,ok
+22704,Warranwood,20468,Canterbury (Vic.),60.38,ok
+22717,Waterford Park,20468,Canterbury (Vic.),,no_eligible_route
+22720,Waterways,20468,Canterbury (Vic.),104.35,ok
+22721,Watsonia,20468,Canterbury (Vic.),59.33,ok
+22722,Watsonia North,20468,Canterbury (Vic.),80.78,ok
+22723,Watsons Creek (Vic.),20468,Canterbury (Vic.),,no_eligible_route
+22727,Wattle Glen,20468,Canterbury (Vic.),91.08,ok
+22740,Weir Views,20468,Canterbury (Vic.),198.25,ok
+22750,Werribee,20468,Canterbury (Vic.),90.1,ok
+22751,Werribee South,20468,Canterbury (Vic.),130.12,ok
+22753,Wesburn,20468,Canterbury (Vic.),106.45,ok
+22756,West Footscray,20468,Canterbury (Vic.),69.95,ok
+22757,West Melbourne,20468,Canterbury (Vic.),66.88,ok
+22761,Westmeadows,20468,Canterbury (Vic.),88.33,ok
+22766,Wheelers Hill,20468,Canterbury (Vic.),75.42,ok
+22775,Whittlesea,20468,Canterbury (Vic.),,no_eligible_route
+22784,Wildwood,20468,Canterbury (Vic.),,no_eligible_route
+22791,Williams Landing,20468,Canterbury (Vic.),91.32,ok
+22792,Williamstown (Vic.),20468,Canterbury (Vic.),63.13,ok
+22793,Williamstown North,20468,Canterbury (Vic.),77.63,ok
+22805,Windsor (Vic.),20468,Canterbury (Vic.),43.15,ok
+22820,Wollert,20468,Canterbury (Vic.),116.18,ok
+22825,Wonga Park,20468,Canterbury (Vic.),69.23,ok
+22843,Woodstock (Vic.),20468,Canterbury (Vic.),,no_eligible_route
+22857,Woori Yallock,20468,Canterbury (Vic.),85.6,ok
+22883,Wyndham Vale,20468,Canterbury (Vic.),115.92,ok
+22892,Yallambie,20468,Canterbury (Vic.),86.08,ok
+22898,Yan Yean,20468,Canterbury (Vic.),134.92,ok
+22906,Yannathan,20468,Canterbury (Vic.),,no_eligible_route
+22910,Yarra Glen,20468,Canterbury (Vic.),102.62,ok
+22911,Yarra Junction,20468,Canterbury (Vic.),110.72,ok
+22916,Yarrambat,20468,Canterbury (Vic.),87.48,ok
+22917,Yarraville,20468,Canterbury (Vic.),60.07,ok
+22925,Yellingbo,20468,Canterbury (Vic.),,no_eligible_route
+22930,Yering,20468,Canterbury (Vic.),,no_eligible_route
+22941,Yuroke,20468,Canterbury (Vic.),150.28,ok

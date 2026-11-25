@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20021,Albion (Vic.),63.68,ok
+20003,Aberfeldie,20021,Albion (Vic.),48.92,ok
+20011,Aintree,20021,Albion (Vic.),57.35,ok
+20015,Airport West,20021,Albion (Vic.),58.45,ok
+20017,Albanvale,20021,Albion (Vic.),41.43,ok
+20018,Albert Park (Vic.),20021,Albion (Vic.),63.8,ok
+20021,Albion (Vic.),20021,Albion (Vic.),0.0,same_centroid
+20034,Alphington,20021,Albion (Vic.),65.35,ok
+20035,Altona (Vic.),20021,Albion (Vic.),60.95,ok
+20036,Altona Meadows,20021,Albion (Vic.),62.1,ok
+20037,Altona North,20021,Albion (Vic.),55.12,ok
+20062,Ardeer,20021,Albion (Vic.),14.02,ok
+20066,Armadale (Vic.),20021,Albion (Vic.),58.07,ok
+20071,Arthurs Creek,20021,Albion (Vic.),,no_eligible_route
+20072,Arthurs Seat,20021,Albion (Vic.),205.6,ok
+20075,Ascot Vale,20021,Albion (Vic.),38.22,ok
+20077,Ashburton,20021,Albion (Vic.),76.68,ok
+20078,Ashwood,20021,Albion (Vic.),84.88,ok
+20079,Aspendale,20021,Albion (Vic.),92.33,ok
+20080,Aspendale Gardens,20021,Albion (Vic.),115.87,ok
+20082,Attwood,20021,Albion (Vic.),92.9,ok
+20089,Avondale Heights,20021,Albion (Vic.),33.38,ok
+20091,Avonsleigh,20021,Albion (Vic.),,no_eligible_route
+20095,Bacchus Marsh,20021,Albion (Vic.),,no_eligible_route
+20097,Badger Creek,20021,Albion (Vic.),172.53,ok
+20105,Balaclava (Vic.),20021,Albion (Vic.),66.72,ok
+20120,Balnarring,20021,Albion (Vic.),,no_eligible_route
+20121,Balnarring Beach,20021,Albion (Vic.),,no_eligible_route
+20123,Balwyn,20021,Albion (Vic.),82.82,ok
+20124,Balwyn North,20021,Albion (Vic.),85.03,ok
+20131,Bangholme,20021,Albion (Vic.),143.03,ok
+20169,Baxter,20021,Albion (Vic.),132.4,ok
+20171,Bayles,20021,Albion (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),20021,Albion (Vic.),97.33,ok
+20174,Bayswater North,20021,Albion (Vic.),114.3,ok
+20175,Beaconsfield (Vic.),20021,Albion (Vic.),127.53,ok
+20176,Beaconsfield Upper,20021,Albion (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),20021,Albion (Vic.),96.22,ok
+20187,Beenak,20021,Albion (Vic.),,no_eligible_route
+20188,Belgrave,20021,Albion (Vic.),110.42,ok
+20189,Belgrave Heights,20021,Albion (Vic.),139.08,ok
+20190,Belgrave South,20021,Albion (Vic.),138.07,ok
+20198,Bellfield (Banyule - Vic.),20021,Albion (Vic.),83.6,ok
+20207,Bend Of Islands,20021,Albion (Vic.),,no_eligible_route
+20212,Benloch,20021,Albion (Vic.),,no_eligible_route
+20214,Bentleigh,20021,Albion (Vic.),77.12,ok
+20215,Bentleigh East,20021,Albion (Vic.),78.52,ok
+20224,Berwick,20021,Albion (Vic.),103.58,ok
+20233,Beveridge,20021,Albion (Vic.),117.62,ok
+20237,Big Pats Creek,20021,Albion (Vic.),,no_eligible_route
+20248,Bittern,20021,Albion (Vic.),156.67,ok
+20251,Black Rock (Vic.),20021,Albion (Vic.),99.53,ok
+20252,Blackburn,20021,Albion (Vic.),73.67,ok
+20253,Blackburn North,20021,Albion (Vic.),83.93,ok
+20254,Blackburn South,20021,Albion (Vic.),92.0,ok
+20257,Blairgowrie,20021,Albion (Vic.),197.63,ok
+20260,Blind Bight,20021,Albion (Vic.),,no_eligible_route
+20272,Bolinda,20021,Albion (Vic.),,no_eligible_route
+20278,Bonbeach,20021,Albion (Vic.),97.33,ok
+20280,Boneo,20021,Albion (Vic.),,no_eligible_route
+20282,Bonnie Brook,20021,Albion (Vic.),93.52,ok
+20304,Boronia,20021,Albion (Vic.),99.8,ok
+20307,Botanic Ridge,20021,Albion (Vic.),141.45,ok
+20314,Box Hill (Vic.),20021,Albion (Vic.),73.12,ok
+20315,Box Hill North,20021,Albion (Vic.),81.53,ok
+20316,Box Hill South,20021,Albion (Vic.),79.27,ok
+20320,Braeside,20021,Albion (Vic.),118.15,ok
+20324,Braybrook,20021,Albion (Vic.),20.98,ok
+20331,Briar Hill,20021,Albion (Vic.),106.57,ok
+20337,Brighton (Vic.),20021,Albion (Vic.),79.48,ok
+20338,Brighton East,20021,Albion (Vic.),78.8,ok
+20346,Broadmeadows (Vic.),20021,Albion (Vic.),80.7,ok
+20351,Brookfield (Vic.),20021,Albion (Vic.),119.15,ok
+20352,Brooklyn (Vic.),20021,Albion (Vic.),38.53,ok
+20361,Brunswick (Vic.),20021,Albion (Vic.),53.58,ok
+20362,Brunswick East,20021,Albion (Vic.),66.87,ok
+20363,Brunswick West,20021,Albion (Vic.),55.53,ok
+20381,Bulla (Vic.),20021,Albion (Vic.),93.2,ok
+20386,Bulleen,20021,Albion (Vic.),88.73,ok
+20387,Bullengarook,20021,Albion (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),20021,Albion (Vic.),97.58,ok
+20411,Bunyip,20021,Albion (Vic.),,no_eligible_route
+20412,Bunyip North,20021,Albion (Vic.),,no_eligible_route
+20418,Burnley,20021,Albion (Vic.),69.08,ok
+20419,Burnside (Vic.),20021,Albion (Vic.),25.9,ok
+20420,Burnside Heights,20021,Albion (Vic.),34.72,ok
+20426,Burwood (Vic.),20021,Albion (Vic.),89.77,ok
+20427,Burwood East,20021,Albion (Vic.),90.0,ok
+20435,Bylands,20021,Albion (Vic.),,no_eligible_route
+20441,Cairnlea,20021,Albion (Vic.),29.63,ok
+20442,Calder Park,20021,Albion (Vic.),58.62,ok
+20443,Caldermeade,20021,Albion (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),20021,Albion (Vic.),75.62,ok
+20455,Campbellfield,20021,Albion (Vic.),96.33,ok
+20466,Cannons Creek,20021,Albion (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),20021,Albion (Vic.),71.1,ok
+20474,Cape Schanck,20021,Albion (Vic.),,no_eligible_route
+20476,Capel Sound,20021,Albion (Vic.),181.98,ok
+20487,Cardinia,20021,Albion (Vic.),,no_eligible_route
+20495,Carlton (Vic.),20021,Albion (Vic.),45.07,ok
+20496,Carlton North,20021,Albion (Vic.),56.8,ok
+20498,Carnegie,20021,Albion (Vic.),67.1,ok
+20500,Caroline Springs,20021,Albion (Vic.),35.95,ok
+20507,Carrum,20021,Albion (Vic.),97.15,ok
+20508,Carrum Downs,20021,Albion (Vic.),112.38,ok
+20512,Castella,20021,Albion (Vic.),,no_eligible_route
+20517,Catani,20021,Albion (Vic.),,no_eligible_route
+20521,Caulfield,20021,Albion (Vic.),68.82,ok
+20522,Caulfield East,20021,Albion (Vic.),61.52,ok
+20523,Caulfield North,20021,Albion (Vic.),60.43,ok
+20524,Caulfield South,20021,Albion (Vic.),73.35,ok
+20528,Chadstone,20021,Albion (Vic.),74.17,ok
+20537,Chelsea,20021,Albion (Vic.),94.4,ok
+20538,Chelsea Heights,20021,Albion (Vic.),109.08,ok
+20539,Cheltenham (Vic.),20021,Albion (Vic.),83.87,ok
+20541,Cherokee,20021,Albion (Vic.),,no_eligible_route
+20555,Chintin,20021,Albion (Vic.),,no_eligible_route
+20556,Chirnside Park,20021,Albion (Vic.),121.7,ok
+20559,Christmas Hills (Vic.),20021,Albion (Vic.),,no_eligible_route
+20560,Chum Creek,20021,Albion (Vic.),,no_eligible_route
+20566,Clarinda,20021,Albion (Vic.),85.25,ok
+20567,Clarkefield,20021,Albion (Vic.),,no_eligible_route
+20569,Clayton,20021,Albion (Vic.),79.95,ok
+20570,Clayton South,20021,Albion (Vic.),93.93,ok
+20572,Clematis,20021,Albion (Vic.),,no_eligible_route
+20574,Clifton Hill,20021,Albion (Vic.),59.33,ok
+20576,Clonbinane,20021,Albion (Vic.),,no_eligible_route
+20581,Clyde (Vic.),20021,Albion (Vic.),150.28,ok
+20582,Clyde North,20021,Albion (Vic.),128.05,ok
+20587,Cobaw,20021,Albion (Vic.),,no_eligible_route
+20590,Cobblebank,20021,Albion (Vic.),101.4,ok
+20596,Coburg,20021,Albion (Vic.),61.32,ok
+20597,Coburg North,20021,Albion (Vic.),71.88,ok
+20600,Cockatoo (Vic.),20021,Albion (Vic.),,no_eligible_route
+20601,Cocoroc,20021,Albion (Vic.),,no_eligible_route
+20605,Coimadai,20021,Albion (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),20021,Albion (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),20021,Albion (Vic.),59.1,ok
+20624,Coolaroo,20021,Albion (Vic.),81.57,ok
+20633,Cora Lynn,20021,Albion (Vic.),,no_eligible_route
+20654,Cottles Bridge,20021,Albion (Vic.),,no_eligible_route
+20661,Craigieburn,20021,Albion (Vic.),97.13,ok
+20662,Cranbourne,20021,Albion (Vic.),111.45,ok
+20663,Cranbourne East,20021,Albion (Vic.),118.33,ok
+20664,Cranbourne North,20021,Albion (Vic.),110.78,ok
+20665,Cranbourne South,20021,Albion (Vic.),144.8,ok
+20666,Cranbourne West,20021,Albion (Vic.),116.15,ok
+20670,Cremorne (Vic.),20021,Albion (Vic.),60.38,ok
+20674,Crib Point,20021,Albion (Vic.),165.63,ok
+20682,Croydon (Vic.),20021,Albion (Vic.),94.43,ok
+20683,Croydon Hills,20021,Albion (Vic.),114.75,ok
+20684,Croydon North,20021,Albion (Vic.),112.18,ok
+20685,Croydon South,20021,Albion (Vic.),113.35,ok
+20702,Dallas,20021,Albion (Vic.),90.68,ok
+20703,Dalmore,20021,Albion (Vic.),,no_eligible_route
+20707,Dandenong,20021,Albion (Vic.),91.18,ok
+20708,Dandenong North,20021,Albion (Vic.),107.25,ok
+20709,Dandenong South,20021,Albion (Vic.),107.55,ok
+20712,Darley,20021,Albion (Vic.),,no_eligible_route
+20716,Darraweit Guim,20021,Albion (Vic.),,no_eligible_route
+20724,Deanside,20021,Albion (Vic.),59.15,ok
+20728,Deepdene (Vic.),20021,Albion (Vic.),76.45,ok
+20729,Deer Park,20021,Albion (Vic.),11.85,ok
+20731,Delahey,20021,Albion (Vic.),43.95,ok
+20743,Derrimut,20021,Albion (Vic.),53.4,ok
+20748,Devon Meadows,20021,Albion (Vic.),157.03,ok
+20750,Dewhurst,20021,Albion (Vic.),,no_eligible_route
+20752,Diamond Creek,20021,Albion (Vic.),110.17,ok
+20754,Diggers Rest,20021,Albion (Vic.),51.93,ok
+20758,Dingley Village,20021,Albion (Vic.),95.77,ok
+20762,Dixons Creek,20021,Albion (Vic.),,no_eligible_route
+20766,Docklands,20021,Albion (Vic.),56.77,ok
+20769,Don Valley,20021,Albion (Vic.),,no_eligible_route
+20771,Doncaster,20021,Albion (Vic.),84.82,ok
+20772,Doncaster East,20021,Albion (Vic.),87.3,ok
+20773,Donnybrook (Vic.),20021,Albion (Vic.),119.13,ok
+20774,Donvale,20021,Albion (Vic.),107.03,ok
+20779,Doreen,20021,Albion (Vic.),132.65,ok
+20783,Doveton,20021,Albion (Vic.),103.17,ok
+20788,Dromana,20021,Albion (Vic.),192.77,ok
+20825,Eaglemont,20021,Albion (Vic.),78.22,ok
+20830,East Melbourne,20021,Albion (Vic.),53.45,ok
+20833,East Warburton,20021,Albion (Vic.),,no_eligible_route
+20843,Eden Park,20021,Albion (Vic.),,no_eligible_route
+20848,Edithvale,20021,Albion (Vic.),94.53,ok
+20864,Elsternwick,20021,Albion (Vic.),72.17,ok
+20865,Eltham (Vic.),20021,Albion (Vic.),109.3,ok
+20866,Eltham North,20021,Albion (Vic.),104.28,ok
+20867,Elwood,20021,Albion (Vic.),77.82,ok
+20868,Emerald (Vic.),20021,Albion (Vic.),,no_eligible_route
+20871,Endeavour Hills,20021,Albion (Vic.),110.5,ok
+20878,Epping (Vic.),20021,Albion (Vic.),114.43,ok
+20885,Essendon,20021,Albion (Vic.),49.35,ok
+20886,Essendon Fields,20021,Albion (Vic.),70.4,ok
+20887,Essendon North,20021,Albion (Vic.),51.4,ok
+20888,Essendon West,20021,Albion (Vic.),41.32,ok
+20889,Eumemmerring,20021,Albion (Vic.),106.18,ok
+20898,Exford,20021,Albion (Vic.),,no_eligible_route
+20899,Eynesbury,20021,Albion (Vic.),118.8,ok
+20901,Fairfield (Vic.),20021,Albion (Vic.),63.28,ok
+20909,Fawkner,20021,Albion (Vic.),88.78,ok
+20916,Fernshaw,20021,Albion (Vic.),,no_eligible_route
+20917,Ferntree Gully,20021,Albion (Vic.),101.17,ok
+20918,Ferny Creek,20021,Albion (Vic.),148.7,ok
+20920,Fingal (Vic.),20021,Albion (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),20021,Albion (Vic.),53.0,ok
+20925,Fitzroy North,20021,Albion (Vic.),62.8,ok
+20929,Flemington,20021,Albion (Vic.),43.62,ok
+20930,Flinders (Vic.),20021,Albion (Vic.),,no_eligible_route
+20935,Footscray,20021,Albion (Vic.),33.17,ok
+20937,Forest Hill (Vic.),20021,Albion (Vic.),90.98,ok
+20947,Frankston,20021,Albion (Vic.),117.12,ok
+20948,Frankston North,20021,Albion (Vic.),126.27,ok
+20949,Frankston South,20021,Albion (Vic.),137.38,ok
+20950,Fraser Rise,20021,Albion (Vic.),70.37,ok
+20965,Gardenvale,20021,Albion (Vic.),75.92,ok
+20966,Garfield,20021,Albion (Vic.),,no_eligible_route
+20967,Garfield North,20021,Albion (Vic.),,no_eligible_route
+20979,Gembrook,20021,Albion (Vic.),,no_eligible_route
+20995,Gilderoy,20021,Albion (Vic.),,no_eligible_route
+21001,Gisborne,20021,Albion (Vic.),,no_eligible_route
+21002,Gisborne South,20021,Albion (Vic.),,no_eligible_route
+21004,Gladstone Park,20021,Albion (Vic.),87.0,ok
+21005,Gladysdale,20021,Albion (Vic.),,no_eligible_route
+21009,Glen Huntly,20021,Albion (Vic.),68.65,ok
+21010,Glen Iris (Vic.),20021,Albion (Vic.),79.68,ok
+21013,Glen Waverley,20021,Albion (Vic.),90.1,ok
+21047,Glenroy (Vic.),20021,Albion (Vic.),75.55,ok
+21059,Goldie,20021,Albion (Vic.),,no_eligible_route
+21079,Gowanbrae,20021,Albion (Vic.),81.0,ok
+21087,Grangefields,20021,Albion (Vic.),95.8,ok
+21104,Greensborough,20021,Albion (Vic.),94.72,ok
+21105,Greenvale (Vic.),20021,Albion (Vic.),107.23,ok
+21115,Gruyere,20021,Albion (Vic.),,no_eligible_route
+21121,Guys Hill,20021,Albion (Vic.),,no_eligible_route
+21124,Hadfield,20021,Albion (Vic.),72.83,ok
+21125,Hallam,20021,Albion (Vic.),108.7,ok
+21131,Hampton (Vic.),20021,Albion (Vic.),87.32,ok
+21132,Hampton East,20021,Albion (Vic.),83.88,ok
+21133,Hampton Park,20021,Albion (Vic.),106.12,ok
+21139,Harkaway,20021,Albion (Vic.),,no_eligible_route
+21140,Harkness,20021,Albion (Vic.),120.53,ok
+21145,Hastings (Vic.),20021,Albion (Vic.),150.55,ok
+21152,Hawthorn (Vic.),20021,Albion (Vic.),67.48,ok
+21153,Hawthorn East,20021,Albion (Vic.),73.97,ok
+21158,Healesville,20021,Albion (Vic.),176.45,ok
+21159,Heath Hill,20021,Albion (Vic.),,no_eligible_route
+21161,Heathcote Junction,20021,Albion (Vic.),,no_eligible_route
+21163,Heatherton,20021,Albion (Vic.),92.27,ok
+21165,Heathmont,20021,Albion (Vic.),87.6,ok
+21167,Heidelberg,20021,Albion (Vic.),84.25,ok
+21168,Heidelberg Heights,20021,Albion (Vic.),86.52,ok
+21169,Heidelberg West,20021,Albion (Vic.),88.7,ok
+21176,Hesket,20021,Albion (Vic.),,no_eligible_route
+21185,Highett,20021,Albion (Vic.),76.65,ok
+21193,Hillside (Melton - Vic.),20021,Albion (Vic.),50.02,ok
+21195,Hmas Cerberus,20021,Albion (Vic.),,no_eligible_route
+21196,Hoddles Creek,20021,Albion (Vic.),,no_eligible_route
+21202,Hopetoun Park,20021,Albion (Vic.),,no_eligible_route
+21203,Hoppers Crossing,20021,Albion (Vic.),81.05,ok
+21214,Hughesdale,20021,Albion (Vic.),69.73,ok
+21215,Humevale,20021,Albion (Vic.),163.03,ok
+21218,Huntingdale (Vic.),20021,Albion (Vic.),75.17,ok
+21223,Hurstbridge,20021,Albion (Vic.),110.72,ok
+21238,Iona,20021,Albion (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),20021,Albion (Vic.),73.45,ok
+21247,Ivanhoe East,20021,Albion (Vic.),72.87,ok
+21248,Jacana,20021,Albion (Vic.),80.12,ok
+21277,Junction Village,20021,Albion (Vic.),143.17,ok
+21284,Kalkallo,20021,Albion (Vic.),134.73,ok
+21286,Kallista,20021,Albion (Vic.),147.13,ok
+21287,Kalorama,20021,Albion (Vic.),121.4,ok
+21294,Kangaroo Ground,20021,Albion (Vic.),138.95,ok
+21312,Kealba,20021,Albion (Vic.),36.2,ok
+21314,Keilor,20021,Albion (Vic.),61.98,ok
+21315,Keilor Downs,20021,Albion (Vic.),43.87,ok
+21316,Keilor East,20021,Albion (Vic.),39.02,ok
+21317,Keilor Lodge,20021,Albion (Vic.),44.72,ok
+21318,Keilor North,20021,Albion (Vic.),53.87,ok
+21319,Keilor Park,20021,Albion (Vic.),55.15,ok
+21327,Kensington (Vic.),20021,Albion (Vic.),43.05,ok
+21333,Kerrie,20021,Albion (Vic.),,no_eligible_route
+21336,Kew (Vic.),20021,Albion (Vic.),72.62,ok
+21337,Kew East,20021,Albion (Vic.),76.65,ok
+21339,Keysborough,20021,Albion (Vic.),102.3,ok
+21354,Kilsyth,20021,Albion (Vic.),110.78,ok
+21355,Kilsyth South,20021,Albion (Vic.),121.87,ok
+21358,Kinglake,20021,Albion (Vic.),211.97,ok
+21359,Kinglake Central,20021,Albion (Vic.),,no_eligible_route
+21360,Kinglake West,20021,Albion (Vic.),166.0,ok
+21362,Kings Park (Vic.),20021,Albion (Vic.),39.18,ok
+21363,Kingsbury,20021,Albion (Vic.),96.8,ok
+21365,Kingsville,20021,Albion (Vic.),37.27,ok
+21374,Knoxfield,20021,Albion (Vic.),102.07,ok
+21380,Koo Wee Rup,20021,Albion (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,20021,Albion (Vic.),,no_eligible_route
+21393,Kooyong,20021,Albion (Vic.),63.87,ok
+21411,Kurunjang,20021,Albion (Vic.),98.73,ok
+21452,Lalor,20021,Albion (Vic.),92.13,ok
+21456,Lancefield,20021,Albion (Vic.),,no_eligible_route
+21459,Lang Lang,20021,Albion (Vic.),,no_eligible_route
+21460,Lang Lang East,20021,Albion (Vic.),,no_eligible_route
+21467,Langwarrin,20021,Albion (Vic.),133.08,ok
+21468,Langwarrin South,20021,Albion (Vic.),,no_eligible_route
+21473,Launching Place,20021,Albion (Vic.),136.08,ok
+21476,Laverton (Vic.),20021,Albion (Vic.),61.53,ok
+21477,Laverton North,20021,Albion (Vic.),74.9,ok
+21504,Lilydale (Vic.),20021,Albion (Vic.),115.73,ok
+21533,Long Forest,20021,Albion (Vic.),,no_eligible_route
+21547,Lower Plenty,20021,Albion (Vic.),118.98,ok
+21554,Lynbrook,20021,Albion (Vic.),100.95,ok
+21555,Lyndhurst (Vic.),20021,Albion (Vic.),144.53,ok
+21558,Lysterfield,20021,Albion (Vic.),165.02,ok
+21559,Lysterfield South,20021,Albion (Vic.),154.67,ok
+21561,Macclesfield (Vic.),20021,Albion (Vic.),,no_eligible_route
+21562,Macedon,20021,Albion (Vic.),,no_eligible_route
+21564,Macleod (Vic.),20021,Albion (Vic.),87.8,ok
+21569,Maddingley,20021,Albion (Vic.),,no_eligible_route
+21575,Maidstone,20021,Albion (Vic.),16.68,ok
+21578,Main Ridge,20021,Albion (Vic.),,no_eligible_route
+21586,Malvern (Vic.),20021,Albion (Vic.),64.08,ok
+21587,Malvern East,20021,Albion (Vic.),72.98,ok
+21588,Mambourin,20021,Albion (Vic.),,no_eligible_route
+21597,Manor Lakes,20021,Albion (Vic.),111.0,ok
+21604,Maribyrnong,20021,Albion (Vic.),24.7,ok
+21619,Maryknoll,20021,Albion (Vic.),,no_eligible_route
+21625,McCrae,20021,Albion (Vic.),177.18,ok
+21629,McKinnon,20021,Albion (Vic.),65.95,ok
+21635,Meadow Heights,20021,Albion (Vic.),93.0,ok
+21640,Melbourne,20021,Albion (Vic.),48.55,ok
+21641,Melbourne Airport,20021,Albion (Vic.),211.87,walk_only
+21642,Melton (Vic.),20021,Albion (Vic.),98.92,ok
+21643,Melton South,20021,Albion (Vic.),85.28,ok
+21644,Melton West,20021,Albion (Vic.),93.92,ok
+21648,Mentone,20021,Albion (Vic.),78.63,ok
+21649,Menzies Creek,20021,Albion (Vic.),,no_eligible_route
+21659,Mernda,20021,Albion (Vic.),123.62,ok
+21662,Merricks,20021,Albion (Vic.),,no_eligible_route
+21663,Merricks Beach,20021,Albion (Vic.),,no_eligible_route
+21664,Merricks North,20021,Albion (Vic.),,no_eligible_route
+21668,Merrimu,20021,Albion (Vic.),,no_eligible_route
+21675,Mickleham,20021,Albion (Vic.),128.13,ok
+21677,Middle Park (Vic.),20021,Albion (Vic.),69.88,ok
+21683,Mill Park,20021,Albion (Vic.),110.22,ok
+21685,Millgrove,20021,Albion (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),20021,Albion (Vic.),85.33,ok
+21727,Monbulk,20021,Albion (Vic.),154.58,ok
+21728,Monegeetta,20021,Albion (Vic.),,no_eligible_route
+21731,Monomeith,20021,Albion (Vic.),,no_eligible_route
+21732,Mont Albert,20021,Albion (Vic.),75.5,ok
+21733,Mont Albert North,20021,Albion (Vic.),84.3,ok
+21735,Montmorency,20021,Albion (Vic.),95.37,ok
+21736,Montrose (Vic.),20021,Albion (Vic.),113.7,ok
+21742,Moonee Ponds,20021,Albion (Vic.),39.88,ok
+21746,Moorabbin,20021,Albion (Vic.),83.9,ok
+21747,Moorabbin Airport,20021,Albion (Vic.),100.13,ok
+21754,Moorooduc,20021,Albion (Vic.),,no_eligible_route
+21755,Mooroolbark,20021,Albion (Vic.),103.63,ok
+21760,Mordialloc,20021,Albion (Vic.),93.93,ok
+21763,Mornington (Vic.),20021,Albion (Vic.),150.82,ok
+21779,Mount Burnett,20021,Albion (Vic.),,no_eligible_route
+21786,Mount Cottrell,20021,Albion (Vic.),,no_eligible_route
+21787,Mount Dandenong,20021,Albion (Vic.),125.4,ok
+21793,Mount Eliza,20021,Albion (Vic.),125.17,ok
+21795,Mount Evelyn,20021,Albion (Vic.),129.57,ok
+21801,Mount Macedon,20021,Albion (Vic.),,no_eligible_route
+21803,Mount Martha,20021,Albion (Vic.),143.7,ok
+21814,Mount Toolebewong,20021,Albion (Vic.),,no_eligible_route
+21816,Mount Waverley,20021,Albion (Vic.),80.48,ok
+21827,Mulgrave (Vic.),20021,Albion (Vic.),96.43,ok
+21849,Murrumbeena,20021,Albion (Vic.),69.85,ok
+21872,Nangana,20021,Albion (Vic.),,no_eligible_route
+21878,Nar Nar Goon,20021,Albion (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,20021,Albion (Vic.),,no_eligible_route
+21893,Narre Warren,20021,Albion (Vic.),105.68,ok
+21894,Narre Warren East,20021,Albion (Vic.),,no_eligible_route
+21895,Narre Warren North,20021,Albion (Vic.),118.95,ok
+21896,Narre Warren South,20021,Albion (Vic.),110.5,ok
+21921,New Gisborne,20021,Albion (Vic.),,no_eligible_route
+21934,Newport (Vic.),20021,Albion (Vic.),44.55,ok
+21942,Niddrie,20021,Albion (Vic.),60.18,ok
+21952,Noble Park,20021,Albion (Vic.),81.95,ok
+21953,Noble Park North,20021,Albion (Vic.),99.17,ok
+21966,North Melbourne,20021,Albion (Vic.),41.08,ok
+21969,North Warrandyte,20021,Albion (Vic.),122.93,ok
+21971,Northcote,20021,Albion (Vic.),70.87,ok
+21974,Notting Hill,20021,Albion (Vic.),85.7,ok
+21985,Nunawading,20021,Albion (Vic.),77.82,ok
+21991,Nutfield,20021,Albion (Vic.),,no_eligible_route
+21998,Oak Park,20021,Albion (Vic.),67.78,ok
+21999,Oaklands Junction,20021,Albion (Vic.),,no_eligible_route
+22000,Oakleigh,20021,Albion (Vic.),68.92,ok
+22001,Oakleigh East,20021,Albion (Vic.),78.73,ok
+22002,Oakleigh South,20021,Albion (Vic.),78.55,ok
+22006,Officer,20021,Albion (Vic.),123.23,ok
+22007,Officer South,20021,Albion (Vic.),155.8,ok
+22009,Olinda (Vic.),20021,Albion (Vic.),150.02,ok
+22016,Ormond,20021,Albion (Vic.),66.38,ok
+22027,Pakenham,20021,Albion (Vic.),120.15,ok
+22028,Pakenham South,20021,Albion (Vic.),,no_eligible_route
+22029,Pakenham Upper,20021,Albion (Vic.),,no_eligible_route
+22032,Panton Hill,20021,Albion (Vic.),,no_eligible_route
+22036,Park Orchards,20021,Albion (Vic.),98.3,ok
+22037,Parkdale,20021,Albion (Vic.),83.72,ok
+22038,Parkville (Vic.),20021,Albion (Vic.),51.67,ok
+22041,Pascoe Vale,20021,Albion (Vic.),72.15,ok
+22042,Pascoe Vale South,20021,Albion (Vic.),65.42,ok
+22047,Patterson Lakes,20021,Albion (Vic.),112.02,ok
+22050,Pearcedale,20021,Albion (Vic.),162.1,ok
+22058,Pentland Hills,20021,Albion (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),20021,Albion (Vic.),181.65,ok
+22084,Plenty (Vic.),20021,Albion (Vic.),120.3,ok
+22085,Plumpton (Vic.),20021,Albion (Vic.),,no_eligible_route
+22086,Point Cook,20021,Albion (Vic.),78.77,ok
+22087,Point Leo,20021,Albion (Vic.),,no_eligible_route
+22107,Port Melbourne,20021,Albion (Vic.),64.38,ok
+22113,Portsea,20021,Albion (Vic.),213.48,ok
+22115,Powelltown,20021,Albion (Vic.),,no_eligible_route
+22118,Prahran,20021,Albion (Vic.),62.45,ok
+22121,Preston (Vic.),20021,Albion (Vic.),79.82,ok
+22122,Princes Hill,20021,Albion (Vic.),55.82,ok
+22132,Quandong,20021,Albion (Vic.),,no_eligible_route
+22141,Ravenhall,20021,Albion (Vic.),56.6,ok
+22148,Red Hill (Vic.),20021,Albion (Vic.),,no_eligible_route
+22149,Red Hill South,20021,Albion (Vic.),,no_eligible_route
+22160,Research,20021,Albion (Vic.),116.8,ok
+22161,Reservoir (Vic.),20021,Albion (Vic.),88.95,ok
+22170,Richmond (Vic.),20021,Albion (Vic.),63.4,ok
+22172,Riddells Creek,20021,Albion (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),20021,Albion (Vic.),91.95,ok
+22175,Ringwood East,20021,Albion (Vic.),94.52,ok
+22176,Ringwood North,20021,Albion (Vic.),104.15,ok
+22179,Ripponlea,20021,Albion (Vic.),65.35,ok
+22185,Rochford,20021,Albion (Vic.),,no_eligible_route
+22186,Rockbank,20021,Albion (Vic.),58.18,ok
+22193,Romsey,20021,Albion (Vic.),,no_eligible_route
+22194,Rosanna,20021,Albion (Vic.),82.27,ok
+22198,Rosebud,20021,Albion (Vic.),193.5,ok
+22207,Rowville,20021,Albion (Vic.),110.75,ok
+22208,Roxburgh Park,20021,Albion (Vic.),94.8,ok
+22220,Rye,20021,Albion (Vic.),205.7,ok
+22221,Rythdale,20021,Albion (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),20021,Albion (Vic.),160.67,ok
+22232,Sandhurst,20021,Albion (Vic.),140.35,ok
+22234,Sandringham (Vic.),20021,Albion (Vic.),89.28,ok
+22239,Sassafras (Vic.),20021,Albion (Vic.),131.47,ok
+22242,Scoresby,20021,Albion (Vic.),98.72,ok
+22247,Seabrook,20021,Albion (Vic.),73.35,ok
+22249,Seaford (Vic.),20021,Albion (Vic.),109.25,ok
+22250,Seaholme,20021,Albion (Vic.),45.25,ok
+22256,Seddon (Vic.),20021,Albion (Vic.),29.98,ok
+22258,Selby,20021,Albion (Vic.),143.02,ok
+22263,Seville,20021,Albion (Vic.),147.25,ok
+22264,Seville East,20021,Albion (Vic.),134.13,ok
+22278,Sherbrooke,20021,Albion (Vic.),137.2,ok
+22279,Shoreham,20021,Albion (Vic.),,no_eligible_route
+22281,Silvan,20021,Albion (Vic.),146.68,ok
+22291,Skye (Vic.),20021,Albion (Vic.),119.7,ok
+22295,Smiths Gully,20021,Albion (Vic.),,no_eligible_route
+22303,Somers,20021,Albion (Vic.),,no_eligible_route
+22304,Somerton (Vic.),20021,Albion (Vic.),101.75,ok
+22305,Somerville (Vic.),20021,Albion (Vic.),155.65,ok
+22306,Sorrento (Vic.),20021,Albion (Vic.),193.47,ok
+22309,South Kingsville,20021,Albion (Vic.),57.32,ok
+22310,South Melbourne,20021,Albion (Vic.),59.85,ok
+22311,South Morang,20021,Albion (Vic.),113.83,ok
+22313,South Wharf,20021,Albion (Vic.),59.75,ok
+22314,South Yarra,20021,Albion (Vic.),54.02,ok
+22315,Southbank,20021,Albion (Vic.),55.42,ok
+22319,Spotswood,20021,Albion (Vic.),42.78,ok
+22325,Springfield (Macedon Ranges - Vic.),20021,Albion (Vic.),,no_eligible_route
+22328,Springvale (Vic.),20021,Albion (Vic.),82.92,ok
+22329,Springvale South,20021,Albion (Vic.),84.65,ok
+22330,St Albans (Vic.),20021,Albion (Vic.),23.48,ok
+22332,St Andrews (Vic.),20021,Albion (Vic.),,no_eligible_route
+22333,St Andrews Beach,20021,Albion (Vic.),,no_eligible_route
+22339,St Helena,20021,Albion (Vic.),102.55,ok
+22343,St Kilda (Vic.),20021,Albion (Vic.),67.1,ok
+22344,St Kilda East,20021,Albion (Vic.),68.78,ok
+22345,St Kilda West,20021,Albion (Vic.),66.73,ok
+22355,Steels Creek,20021,Albion (Vic.),,no_eligible_route
+22375,Strathewen,20021,Albion (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),20021,Albion (Vic.),71.6,ok
+22381,Strathmore Heights,20021,Albion (Vic.),71.42,ok
+22382,Strathtulloh,20021,Albion (Vic.),131.93,ok
+22391,Sunbury,20021,Albion (Vic.),85.75,ok
+22395,Sunshine (Vic.),20021,Albion (Vic.),14.0,ok
+22396,Sunshine North,20021,Albion (Vic.),29.33,ok
+22397,Sunshine West,20021,Albion (Vic.),29.83,ok
+22399,Surrey Hills,20021,Albion (Vic.),75.9,ok
+22414,Sydenham (Vic.),20021,Albion (Vic.),40.63,ok
+22451,Tarneit,20021,Albion (Vic.),96.83,ok
+22457,Tarrawarra,20021,Albion (Vic.),152.05,ok
+22473,Taylors Hill,20021,Albion (Vic.),45.7,ok
+22474,Taylors Lakes,20021,Albion (Vic.),34.28,ok
+22476,Tecoma,20021,Albion (Vic.),107.42,ok
+22483,Templestowe,20021,Albion (Vic.),92.7,ok
+22484,Templestowe Lower,20021,Albion (Vic.),87.67,ok
+22496,The Basin (Vic.),20021,Albion (Vic.),118.6,ok
+22501,The Patch,20021,Albion (Vic.),145.15,ok
+22504,Thomastown,20021,Albion (Vic.),97.43,ok
+22508,Thornbury,20021,Albion (Vic.),77.03,ok
+22509,Thornhill Park,20021,Albion (Vic.),151.02,ok
+22514,Three Bridges,20021,Albion (Vic.),,no_eligible_route
+22531,Tonimbuk,20021,Albion (Vic.),,no_eligible_route
+22536,Toolangi,20021,Albion (Vic.),,no_eligible_route
+22537,Toolern Vale,20021,Albion (Vic.),,no_eligible_route
+22546,Tooradin,20021,Albion (Vic.),,no_eligible_route
+22547,Toorak,20021,Albion (Vic.),67.5,ok
+22550,Tootgarook,20021,Albion (Vic.),189.12,ok
+22556,Tottenham (Vic.),20021,Albion (Vic.),43.32,ok
+22572,Travancore,20021,Albion (Vic.),51.93,ok
+22576,Tremont,20021,Albion (Vic.),125.02,ok
+22582,Truganina,20021,Albion (Vic.),145.22,ok
+22584,Tuerong,20021,Albion (Vic.),,no_eligible_route
+22586,Tullamarine,20021,Albion (Vic.),81.18,ok
+22594,Tyabb,20021,Albion (Vic.),147.97,ok
+22598,Tynong,20021,Albion (Vic.),,no_eligible_route
+22599,Tynong North,20021,Albion (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,20021,Albion (Vic.),104.57,ok
+22617,Upper Plenty,20021,Albion (Vic.),,no_eligible_route
+22620,Upwey,20021,Albion (Vic.),107.28,ok
+22627,Vermont,20021,Albion (Vic.),98.88,ok
+22628,Vermont South,20021,Albion (Vic.),105.27,ok
+22629,Vervale,20021,Albion (Vic.),,no_eligible_route
+22633,Viewbank,20021,Albion (Vic.),94.27,ok
+22661,Wallan,20021,Albion (Vic.),,no_eligible_route
+22672,Wandin East,20021,Albion (Vic.),,no_eligible_route
+22673,Wandin North,20021,Albion (Vic.),120.22,ok
+22676,Wandong,20021,Albion (Vic.),,no_eligible_route
+22685,Wantirna,20021,Albion (Vic.),106.97,ok
+22686,Wantirna South,20021,Albion (Vic.),114.02,ok
+22689,Warburton (Vic.),20021,Albion (Vic.),,no_eligible_route
+22695,Warneet,20021,Albion (Vic.),,no_eligible_route
+22702,Warrandyte,20021,Albion (Vic.),100.48,ok
+22703,Warrandyte South,20021,Albion (Vic.),130.45,ok
+22704,Warranwood,20021,Albion (Vic.),108.12,ok
+22717,Waterford Park,20021,Albion (Vic.),,no_eligible_route
+22720,Waterways,20021,Albion (Vic.),109.08,ok
+22721,Watsonia,20021,Albion (Vic.),82.72,ok
+22722,Watsonia North,20021,Albion (Vic.),99.17,ok
+22723,Watsons Creek (Vic.),20021,Albion (Vic.),,no_eligible_route
+22727,Wattle Glen,20021,Albion (Vic.),114.47,ok
+22740,Weir Views,20021,Albion (Vic.),121.37,ok
+22750,Werribee,20021,Albion (Vic.),73.57,ok
+22751,Werribee South,20021,Albion (Vic.),113.58,ok
+22753,Wesburn,20021,Albion (Vic.),152.18,ok
+22756,West Footscray,20021,Albion (Vic.),30.42,ok
+22757,West Melbourne,20021,Albion (Vic.),56.82,ok
+22761,Westmeadows,20021,Albion (Vic.),81.58,ok
+22766,Wheelers Hill,20021,Albion (Vic.),90.15,ok
+22775,Whittlesea,20021,Albion (Vic.),,no_eligible_route
+22784,Wildwood,20021,Albion (Vic.),,no_eligible_route
+22791,Williams Landing,20021,Albion (Vic.),75.78,ok
+22792,Williamstown (Vic.),20021,Albion (Vic.),53.6,ok
+22793,Williamstown North,20021,Albion (Vic.),63.32,ok
+22805,Windsor (Vic.),20021,Albion (Vic.),62.62,ok
+22820,Wollert,20021,Albion (Vic.),112.67,ok
+22825,Wonga Park,20021,Albion (Vic.),121.97,ok
+22843,Woodstock (Vic.),20021,Albion (Vic.),,no_eligible_route
+22857,Woori Yallock,20021,Albion (Vic.),131.33,ok
+22883,Wyndham Vale,20021,Albion (Vic.),99.38,ok
+22892,Yallambie,20021,Albion (Vic.),103.0,ok
+22898,Yan Yean,20021,Albion (Vic.),145.38,ok
+22906,Yannathan,20021,Albion (Vic.),,no_eligible_route
+22910,Yarra Glen,20021,Albion (Vic.),149.35,ok
+22911,Yarra Junction,20021,Albion (Vic.),156.45,ok
+22916,Yarrambat,20021,Albion (Vic.),116.87,ok
+22917,Yarraville,20021,Albion (Vic.),41.1,ok
+22925,Yellingbo,20021,Albion (Vic.),,no_eligible_route
+22930,Yering,20021,Albion (Vic.),,no_eligible_route
+22941,Yuroke,20021,Albion (Vic.),142.77,ok

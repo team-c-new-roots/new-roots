@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20079,Aspendale,82.87,ok
+20003,Aberfeldie,20079,Aspendale,106.42,ok
+20011,Aintree,20079,Aspendale,138.15,ok
+20015,Airport West,20079,Aspendale,123.52,ok
+20017,Albanvale,20079,Aspendale,117.62,ok
+20018,Albert Park (Vic.),20079,Aspendale,85.98,ok
+20021,Albion (Vic.),20079,Aspendale,94.02,ok
+20034,Alphington,20079,Aspendale,87.03,ok
+20035,Altona (Vic.),20079,Aspendale,109.12,ok
+20036,Altona Meadows,20079,Aspendale,117.27,ok
+20037,Altona North,20079,Aspendale,115.52,ok
+20062,Ardeer,20079,Aspendale,108.17,ok
+20066,Armadale (Vic.),20079,Aspendale,49.25,ok
+20071,Arthurs Creek,20079,Aspendale,,no_eligible_route
+20072,Arthurs Seat,20079,Aspendale,,no_eligible_route
+20075,Ascot Vale,20079,Aspendale,95.95,ok
+20077,Ashburton,20079,Aspendale,85.87,ok
+20078,Ashwood,20079,Aspendale,85.73,ok
+20079,Aspendale,20079,Aspendale,0.0,same_centroid
+20080,Aspendale Gardens,20079,Aspendale,33.08,walk_only
+20082,Attwood,20079,Aspendale,130.23,ok
+20089,Avondale Heights,20079,Aspendale,110.55,ok
+20091,Avonsleigh,20079,Aspendale,,no_eligible_route
+20095,Bacchus Marsh,20079,Aspendale,,no_eligible_route
+20097,Badger Creek,20079,Aspendale,193.72,ok
+20105,Balaclava (Vic.),20079,Aspendale,62.8,ok
+20120,Balnarring,20079,Aspendale,145.45,ok
+20121,Balnarring Beach,20079,Aspendale,141.98,ok
+20123,Balwyn,20079,Aspendale,90.63,ok
+20124,Balwyn North,20079,Aspendale,98.77,ok
+20131,Bangholme,20079,Aspendale,78.43,ok
+20169,Baxter,20079,Aspendale,57.9,ok
+20171,Bayles,20079,Aspendale,,no_eligible_route
+20173,Bayswater (Vic.),20079,Aspendale,115.52,ok
+20174,Bayswater North,20079,Aspendale,125.48,ok
+20175,Beaconsfield (Vic.),20079,Aspendale,109.92,ok
+20176,Beaconsfield Upper,20079,Aspendale,,no_eligible_route
+20182,Beaumaris (Vic.),20079,Aspendale,42.4,ok
+20187,Beenak,20079,Aspendale,,no_eligible_route
+20188,Belgrave,20079,Aspendale,118.92,ok
+20189,Belgrave Heights,20079,Aspendale,158.27,ok
+20190,Belgrave South,20079,Aspendale,157.25,ok
+20198,Bellfield (Banyule - Vic.),20079,Aspendale,110.78,ok
+20207,Bend Of Islands,20079,Aspendale,,no_eligible_route
+20212,Benloch,20079,Aspendale,,no_eligible_route
+20214,Bentleigh,20079,Aspendale,38.92,ok
+20215,Bentleigh East,20079,Aspendale,46.25,ok
+20224,Berwick,20079,Aspendale,85.08,ok
+20233,Beveridge,20079,Aspendale,160.78,ok
+20237,Big Pats Creek,20079,Aspendale,,no_eligible_route
+20248,Bittern,20079,Aspendale,81.17,ok
+20251,Black Rock (Vic.),20079,Aspendale,49.2,ok
+20252,Blackburn,20079,Aspendale,85.85,ok
+20253,Blackburn North,20079,Aspendale,99.12,ok
+20254,Blackburn South,20079,Aspendale,100.18,ok
+20257,Blairgowrie,20079,Aspendale,118.13,ok
+20260,Blind Bight,20079,Aspendale,,no_eligible_route
+20272,Bolinda,20079,Aspendale,,no_eligible_route
+20278,Bonbeach,20079,Aspendale,29.83,ok
+20280,Boneo,20079,Aspendale,,no_eligible_route
+20282,Bonnie Brook,20079,Aspendale,170.7,ok
+20304,Boronia,20079,Aspendale,102.4,ok
+20307,Botanic Ridge,20079,Aspendale,110.95,ok
+20314,Box Hill (Vic.),20079,Aspendale,84.3,ok
+20315,Box Hill North,20079,Aspendale,98.5,ok
+20316,Box Hill South,20079,Aspendale,89.6,ok
+20320,Braeside,20079,Aspendale,55.92,ok
+20324,Braybrook,20079,Aspendale,99.8,ok
+20331,Briar Hill,20079,Aspendale,125.75,ok
+20337,Brighton (Vic.),20079,Aspendale,59.05,ok
+20338,Brighton East,20079,Aspendale,49.08,ok
+20346,Broadmeadows (Vic.),20079,Aspendale,123.87,ok
+20351,Brookfield (Vic.),20079,Aspendale,,no_eligible_route
+20352,Brooklyn (Vic.),20079,Aspendale,106.43,ok
+20361,Brunswick (Vic.),20079,Aspendale,91.97,ok
+20362,Brunswick East,20079,Aspendale,99.05,ok
+20363,Brunswick West,20079,Aspendale,97.15,ok
+20381,Bulla (Vic.),20079,Aspendale,,no_eligible_route
+20386,Bulleen,20079,Aspendale,106.92,ok
+20387,Bullengarook,20079,Aspendale,,no_eligible_route
+20399,Bundoora (Vic.),20079,Aspendale,123.22,ok
+20411,Bunyip,20079,Aspendale,,no_eligible_route
+20412,Bunyip North,20079,Aspendale,,no_eligible_route
+20418,Burnley,20079,Aspendale,79.27,ok
+20419,Burnside (Vic.),20079,Aspendale,117.05,ok
+20420,Burnside Heights,20079,Aspendale,124.87,ok
+20426,Burwood (Vic.),20079,Aspendale,86.67,ok
+20427,Burwood East,20079,Aspendale,83.92,ok
+20435,Bylands,20079,Aspendale,,no_eligible_route
+20441,Cairnlea,20079,Aspendale,109.23,ok
+20442,Calder Park,20079,Aspendale,127.8,ok
+20443,Caldermeade,20079,Aspendale,,no_eligible_route
+20453,Camberwell (Vic.),20079,Aspendale,84.8,ok
+20455,Campbellfield,20079,Aspendale,128.52,ok
+20466,Cannons Creek,20079,Aspendale,,no_eligible_route
+20468,Canterbury (Vic.),20079,Aspendale,83.28,ok
+20474,Cape Schanck,20079,Aspendale,,no_eligible_route
+20476,Capel Sound,20079,Aspendale,102.48,ok
+20487,Cardinia,20079,Aspendale,,no_eligible_route
+20495,Carlton (Vic.),20079,Aspendale,81.72,ok
+20496,Carlton North,20079,Aspendale,94.95,ok
+20498,Carnegie,20079,Aspendale,52.1,ok
+20500,Caroline Springs,20079,Aspendale,123.93,ok
+20507,Carrum,20079,Aspendale,29.65,ok
+20508,Carrum Downs,20079,Aspendale,48.75,ok
+20512,Castella,20079,Aspendale,,no_eligible_route
+20517,Catani,20079,Aspendale,,no_eligible_route
+20521,Caulfield,20079,Aspendale,55.95,ok
+20522,Caulfield East,20079,Aspendale,49.7,ok
+20523,Caulfield North,20079,Aspendale,56.62,ok
+20524,Caulfield South,20079,Aspendale,50.53,ok
+20528,Chadstone,20079,Aspendale,72.35,ok
+20537,Chelsea,20079,Aspendale,26.9,ok
+20538,Chelsea Heights,20079,Aspendale,36.05,ok
+20539,Cheltenham (Vic.),20079,Aspendale,38.03,ok
+20541,Cherokee,20079,Aspendale,,no_eligible_route
+20555,Chintin,20079,Aspendale,,no_eligible_route
+20556,Chirnside Park,20079,Aspendale,133.88,ok
+20559,Christmas Hills (Vic.),20079,Aspendale,,no_eligible_route
+20560,Chum Creek,20079,Aspendale,,no_eligible_route
+20566,Clarinda,20079,Aspendale,64.43,ok
+20567,Clarkefield,20079,Aspendale,,no_eligible_route
+20569,Clayton,20079,Aspendale,73.45,ok
+20570,Clayton South,20079,Aspendale,66.1,ok
+20572,Clematis,20079,Aspendale,,no_eligible_route
+20574,Clifton Hill,20079,Aspendale,76.03,ok
+20576,Clonbinane,20079,Aspendale,,no_eligible_route
+20581,Clyde (Vic.),20079,Aspendale,,no_eligible_route
+20582,Clyde North,20079,Aspendale,102.55,ok
+20587,Cobaw,20079,Aspendale,,no_eligible_route
+20590,Cobblebank,20079,Aspendale,179.85,ok
+20596,Coburg,20079,Aspendale,97.5,ok
+20597,Coburg North,20079,Aspendale,114.07,ok
+20600,Cockatoo (Vic.),20079,Aspendale,,no_eligible_route
+20601,Cocoroc,20079,Aspendale,,no_eligible_route
+20605,Coimadai,20079,Aspendale,,no_eligible_route
+20613,Coldstream (Vic.),20079,Aspendale,,no_eligible_route
+20616,Collingwood (Vic.),20079,Aspendale,75.35,ok
+20624,Coolaroo,20079,Aspendale,123.47,ok
+20633,Cora Lynn,20079,Aspendale,,no_eligible_route
+20654,Cottles Bridge,20079,Aspendale,,no_eligible_route
+20661,Craigieburn,20079,Aspendale,135.3,ok
+20662,Cranbourne,20079,Aspendale,59.33,ok
+20663,Cranbourne East,20079,Aspendale,96.0,ok
+20664,Cranbourne North,20079,Aspendale,91.28,ok
+20665,Cranbourne South,20079,Aspendale,114.3,ok
+20666,Cranbourne West,20079,Aspendale,81.25,ok
+20670,Cremorne (Vic.),20079,Aspendale,66.85,ok
+20674,Crib Point,20079,Aspendale,90.13,ok
+20682,Croydon (Vic.),20079,Aspendale,102.62,ok
+20683,Croydon Hills,20079,Aspendale,126.93,ok
+20684,Croydon North,20079,Aspendale,121.37,ok
+20685,Croydon South,20079,Aspendale,125.53,ok
+20702,Dallas,20079,Aspendale,125.17,ok
+20703,Dalmore,20079,Aspendale,,no_eligible_route
+20707,Dandenong,20079,Aspendale,68.25,ok
+20708,Dandenong North,20079,Aspendale,90.18,ok
+20709,Dandenong South,20079,Aspendale,64.93,ok
+20712,Darley,20079,Aspendale,,no_eligible_route
+20716,Darraweit Guim,20079,Aspendale,,no_eligible_route
+20724,Deanside,20079,Aspendale,149.3,ok
+20728,Deepdene (Vic.),20079,Aspendale,83.13,ok
+20729,Deer Park,20079,Aspendale,106.0,ok
+20731,Delahey,20079,Aspendale,120.13,ok
+20743,Derrimut,20079,Aspendale,131.88,ok
+20748,Devon Meadows,20079,Aspendale,,no_eligible_route
+20750,Dewhurst,20079,Aspendale,,no_eligible_route
+20752,Diamond Creek,20079,Aspendale,136.35,ok
+20754,Diggers Rest,20079,Aspendale,128.12,ok
+20758,Dingley Village,20079,Aspendale,48.95,ok
+20762,Dixons Creek,20079,Aspendale,,no_eligible_route
+20766,Docklands,20079,Aspendale,81.37,ok
+20769,Don Valley,20079,Aspendale,,no_eligible_route
+20771,Doncaster,20079,Aspendale,104.83,ok
+20772,Doncaster East,20079,Aspendale,108.8,ok
+20773,Donnybrook (Vic.),20079,Aspendale,168.32,ok
+20774,Donvale,20079,Aspendale,110.53,ok
+20779,Doreen,20079,Aspendale,149.83,ok
+20783,Doveton,20079,Aspendale,86.67,ok
+20788,Dromana,20079,Aspendale,,no_eligible_route
+20825,Eaglemont,20079,Aspendale,105.37,ok
+20830,East Melbourne,20079,Aspendale,71.63,ok
+20833,East Warburton,20079,Aspendale,,no_eligible_route
+20843,Eden Park,20079,Aspendale,,no_eligible_route
+20848,Edithvale,20079,Aspendale,25.27,ok
+20864,Elsternwick,20079,Aspendale,57.33,ok
+20865,Eltham (Vic.),20079,Aspendale,128.48,ok
+20866,Eltham North,20079,Aspendale,126.47,ok
+20867,Elwood,20079,Aspendale,71.6,ok
+20868,Emerald (Vic.),20079,Aspendale,,no_eligible_route
+20871,Endeavour Hills,20079,Aspendale,95.0,ok
+20878,Epping (Vic.),20079,Aspendale,144.25,ok
+20885,Essendon,20079,Aspendale,105.52,ok
+20886,Essendon Fields,20079,Aspendale,127.08,ok
+20887,Essendon North,20079,Aspendale,107.57,ok
+20888,Essendon West,20079,Aspendale,107.03,ok
+20889,Eumemmerring,20079,Aspendale,86.68,ok
+20898,Exford,20079,Aspendale,,no_eligible_route
+20899,Eynesbury,20079,Aspendale,,no_eligible_route
+20901,Fairfield (Vic.),20079,Aspendale,90.47,ok
+20909,Fawkner,20079,Aspendale,120.97,ok
+20916,Fernshaw,20079,Aspendale,,no_eligible_route
+20917,Ferntree Gully,20079,Aspendale,83.67,ok
+20918,Ferny Creek,20079,Aspendale,,no_eligible_route
+20920,Fingal (Vic.),20079,Aspendale,,no_eligible_route
+20924,Fitzroy (Vic.),20079,Aspendale,77.65,ok
+20925,Fitzroy North,20079,Aspendale,88.25,ok
+20929,Flemington,20079,Aspendale,97.38,ok
+20930,Flinders (Vic.),20079,Aspendale,,no_eligible_route
+20935,Footscray,20079,Aspendale,82.43,ok
+20937,Forest Hill (Vic.),20079,Aspendale,82.23,ok
+20947,Frankston,20079,Aspendale,42.62,ok
+20948,Frankston North,20079,Aspendale,51.92,ok
+20949,Frankston South,20079,Aspendale,63.88,ok
+20950,Fraser Rise,20079,Aspendale,138.55,ok
+20965,Gardenvale,20079,Aspendale,51.53,ok
+20966,Garfield,20079,Aspendale,,no_eligible_route
+20967,Garfield North,20079,Aspendale,,no_eligible_route
+20979,Gembrook,20079,Aspendale,,no_eligible_route
+20995,Gilderoy,20079,Aspendale,,no_eligible_route
+21001,Gisborne,20079,Aspendale,,no_eligible_route
+21002,Gisborne South,20079,Aspendale,,no_eligible_route
+21004,Gladstone Park,20079,Aspendale,138.07,ok
+21005,Gladysdale,20079,Aspendale,,no_eligible_route
+21009,Glen Huntly,20079,Aspendale,44.9,ok
+21010,Glen Iris (Vic.),20079,Aspendale,84.03,ok
+21013,Glen Waverley,20079,Aspendale,70.83,ok
+21047,Glenroy (Vic.),20079,Aspendale,118.25,ok
+21059,Goldie,20079,Aspendale,,no_eligible_route
+21079,Gowanbrae,20079,Aspendale,128.52,ok
+21087,Grangefields,20079,Aspendale,175.15,ok
+21104,Greensborough,20079,Aspendale,113.9,ok
+21105,Greenvale (Vic.),20079,Aspendale,144.4,ok
+21115,Gruyere,20079,Aspendale,,no_eligible_route
+21121,Guys Hill,20079,Aspendale,,no_eligible_route
+21124,Hadfield,20079,Aspendale,117.0,ok
+21125,Hallam,20079,Aspendale,90.2,ok
+21131,Hampton (Vic.),20079,Aspendale,43.38,ok
+21132,Hampton East,20079,Aspendale,41.62,ok
+21133,Hampton Park,20079,Aspendale,86.62,ok
+21139,Harkaway,20079,Aspendale,,no_eligible_route
+21140,Harkness,20079,Aspendale,,no_eligible_route
+21145,Hastings (Vic.),20079,Aspendale,79.05,ok
+21152,Hawthorn (Vic.),20079,Aspendale,71.77,ok
+21153,Hawthorn East,20079,Aspendale,75.53,ok
+21158,Healesville,20079,Aspendale,197.63,ok
+21159,Heath Hill,20079,Aspendale,,no_eligible_route
+21161,Heathcote Junction,20079,Aspendale,,no_eligible_route
+21163,Heatherton,20079,Aspendale,55.37,ok
+21165,Heathmont,20079,Aspendale,105.78,ok
+21167,Heidelberg,20079,Aspendale,108.17,ok
+21168,Heidelberg Heights,20079,Aspendale,112.67,ok
+21169,Heidelberg West,20079,Aspendale,101.88,ok
+21176,Hesket,20079,Aspendale,,no_eligible_route
+21185,Highett,20079,Aspendale,30.18,ok
+21193,Hillside (Melton - Vic.),20079,Aspendale,123.1,ok
+21195,Hmas Cerberus,20079,Aspendale,138.33,ok
+21196,Hoddles Creek,20079,Aspendale,,no_eligible_route
+21202,Hopetoun Park,20079,Aspendale,,no_eligible_route
+21203,Hoppers Crossing,20079,Aspendale,122.95,ok
+21214,Hughesdale,20079,Aspendale,62.92,ok
+21215,Humevale,20079,Aspendale,,no_eligible_route
+21218,Huntingdale (Vic.),20079,Aspendale,68.35,ok
+21223,Hurstbridge,20079,Aspendale,136.9,ok
+21238,Iona,20079,Aspendale,,no_eligible_route
+21246,Ivanhoe (Vic.),20079,Aspendale,91.63,ok
+21247,Ivanhoe East,20079,Aspendale,100.05,ok
+21248,Jacana,20079,Aspendale,123.28,ok
+21277,Junction Village,20079,Aspendale,,no_eligible_route
+21284,Kalkallo,20079,Aspendale,161.32,ok
+21286,Kallista,20079,Aspendale,162.32,ok
+21287,Kalorama,20079,Aspendale,129.58,ok
+21294,Kangaroo Ground,20079,Aspendale,165.13,ok
+21312,Kealba,20079,Aspendale,109.38,ok
+21314,Keilor,20079,Aspendale,149.53,ok
+21315,Keilor Downs,20079,Aspendale,121.37,ok
+21316,Keilor East,20079,Aspendale,112.18,ok
+21317,Keilor Lodge,20079,Aspendale,121.98,ok
+21318,Keilor North,20079,Aspendale,128.05,ok
+21319,Keilor Park,20079,Aspendale,129.32,ok
+21327,Kensington (Vic.),20079,Aspendale,83.02,ok
+21333,Kerrie,20079,Aspendale,,no_eligible_route
+21336,Kew (Vic.),20079,Aspendale,85.8,ok
+21337,Kew East,20079,Aspendale,96.1,ok
+21339,Keysborough,20079,Aspendale,46.42,ok
+21354,Kilsyth,20079,Aspendale,118.97,ok
+21355,Kilsyth South,20079,Aspendale,134.05,ok
+21358,Kinglake,20079,Aspendale,,no_eligible_route
+21359,Kinglake Central,20079,Aspendale,,no_eligible_route
+21360,Kinglake West,20079,Aspendale,,no_eligible_route
+21362,Kings Park (Vic.),20079,Aspendale,113.37,ok
+21363,Kingsbury,20079,Aspendale,124.55,ok
+21365,Kingsville,20079,Aspendale,94.5,ok
+21374,Knoxfield,20079,Aspendale,94.57,ok
+21380,Koo Wee Rup,20079,Aspendale,,no_eligible_route
+21381,Koo Wee Rup North,20079,Aspendale,,no_eligible_route
+21393,Kooyong,20079,Aspendale,69.55,ok
+21411,Kurunjang,20079,Aspendale,197.93,ok
+21452,Lalor,20079,Aspendale,107.32,ok
+21456,Lancefield,20079,Aspendale,,no_eligible_route
+21459,Lang Lang,20079,Aspendale,,no_eligible_route
+21460,Lang Lang East,20079,Aspendale,,no_eligible_route
+21467,Langwarrin,20079,Aspendale,58.58,ok
+21468,Langwarrin South,20079,Aspendale,80.47,ok
+21473,Launching Place,20079,Aspendale,148.27,ok
+21476,Laverton (Vic.),20079,Aspendale,106.72,ok
+21477,Laverton North,20079,Aspendale,132.15,ok
+21504,Lilydale (Vic.),20079,Aspendale,127.92,ok
+21533,Long Forest,20079,Aspendale,,no_eligible_route
+21547,Lower Plenty,20079,Aspendale,141.75,ok
+21554,Lynbrook,20079,Aspendale,85.45,ok
+21555,Lyndhurst (Vic.),20079,Aspendale,128.03,ok
+21558,Lysterfield,20079,Aspendale,148.52,ok
+21559,Lysterfield South,20079,Aspendale,137.17,ok
+21561,Macclesfield (Vic.),20079,Aspendale,,no_eligible_route
+21562,Macedon,20079,Aspendale,,no_eligible_route
+21564,Macleod (Vic.),20079,Aspendale,106.98,ok
+21569,Maddingley,20079,Aspendale,,no_eligible_route
+21575,Maidstone,20079,Aspendale,101.25,ok
+21578,Main Ridge,20079,Aspendale,,no_eligible_route
+21586,Malvern (Vic.),20079,Aspendale,62.28,ok
+21587,Malvern East,20079,Aspendale,66.17,ok
+21588,Mambourin,20079,Aspendale,,no_eligible_route
+21597,Manor Lakes,20079,Aspendale,160.18,ok
+21604,Maribyrnong,20079,Aspendale,105.05,ok
+21619,Maryknoll,20079,Aspendale,,no_eligible_route
+21625,McCrae,20079,Aspendale,89.68,ok
+21629,McKinnon,20079,Aspendale,32.9,ok
+21635,Meadow Heights,20079,Aspendale,136.17,ok
+21640,Melbourne,20079,Aspendale,69.73,ok
+21641,Melbourne Airport,20079,Aspendale,,no_eligible_route
+21642,Melton (Vic.),20079,Aspendale,182.07,ok
+21643,Melton South,20079,Aspendale,195.67,ok
+21644,Melton West,20079,Aspendale,190.9,ok
+21648,Mentone,20079,Aspendale,26.85,ok
+21649,Menzies Creek,20079,Aspendale,,no_eligible_route
+21659,Mernda,20079,Aspendale,146.8,ok
+21662,Merricks,20079,Aspendale,,no_eligible_route
+21663,Merricks Beach,20079,Aspendale,,no_eligible_route
+21664,Merricks North,20079,Aspendale,,no_eligible_route
+21668,Merrimu,20079,Aspendale,,no_eligible_route
+21675,Mickleham,20079,Aspendale,166.3,ok
+21677,Middle Park (Vic.),20079,Aspendale,88.7,ok
+21683,Mill Park,20079,Aspendale,137.4,ok
+21685,Millgrove,20079,Aspendale,,no_eligible_route
+21706,Mitcham (Vic.),20079,Aspendale,97.52,ok
+21727,Monbulk,20079,Aspendale,161.08,ok
+21728,Monegeetta,20079,Aspendale,,no_eligible_route
+21731,Monomeith,20079,Aspendale,,no_eligible_route
+21732,Mont Albert,20079,Aspendale,88.68,ok
+21733,Mont Albert North,20079,Aspendale,99.67,ok
+21735,Montmorency,20079,Aspendale,114.55,ok
+21736,Montrose (Vic.),20079,Aspendale,121.88,ok
+21742,Moonee Ponds,20079,Aspendale,85.63,ok
+21746,Moorabbin,20079,Aspendale,52.97,ok
+21747,Moorabbin Airport,20079,Aspendale,52.32,ok
+21754,Moorooduc,20079,Aspendale,94.27,ok
+21755,Mooroolbark,20079,Aspendale,111.82,ok
+21760,Mordialloc,20079,Aspendale,28.62,ok
+21763,Mornington (Vic.),20079,Aspendale,78.6,ok
+21779,Mount Burnett,20079,Aspendale,,no_eligible_route
+21786,Mount Cottrell,20079,Aspendale,,no_eligible_route
+21787,Mount Dandenong,20079,Aspendale,133.58,ok
+21793,Mount Eliza,20079,Aspendale,57.67,ok
+21795,Mount Evelyn,20079,Aspendale,137.75,ok
+21801,Mount Macedon,20079,Aspendale,,no_eligible_route
+21803,Mount Martha,20079,Aspendale,78.2,ok
+21814,Mount Toolebewong,20079,Aspendale,,no_eligible_route
+21816,Mount Waverley,20079,Aspendale,79.67,ok
+21827,Mulgrave (Vic.),20079,Aspendale,70.93,ok
+21849,Murrumbeena,20079,Aspendale,61.65,ok
+21872,Nangana,20079,Aspendale,,no_eligible_route
+21878,Nar Nar Goon,20079,Aspendale,,no_eligible_route
+21879,Nar Nar Goon North,20079,Aspendale,,no_eligible_route
+21893,Narre Warren,20079,Aspendale,89.18,ok
+21894,Narre Warren East,20079,Aspendale,,no_eligible_route
+21895,Narre Warren North,20079,Aspendale,100.45,ok
+21896,Narre Warren South,20079,Aspendale,92.0,ok
+21921,New Gisborne,20079,Aspendale,,no_eligible_route
+21934,Newport (Vic.),20079,Aspendale,90.57,ok
+21942,Niddrie,20079,Aspendale,119.52,ok
+21952,Noble Park,20079,Aspendale,62.65,ok
+21953,Noble Park North,20079,Aspendale,77.67,ok
+21966,North Melbourne,20079,Aspendale,77.23,ok
+21969,North Warrandyte,20079,Aspendale,144.12,ok
+21971,Northcote,20079,Aspendale,90.52,ok
+21974,Notting Hill,20079,Aspendale,75.77,ok
+21985,Nunawading,20079,Aspendale,86.77,ok
+21991,Nutfield,20079,Aspendale,,no_eligible_route
+21998,Oak Park,20079,Aspendale,103.95,ok
+21999,Oaklands Junction,20079,Aspendale,,no_eligible_route
+22000,Oakleigh,20079,Aspendale,65.1,ok
+22001,Oakleigh East,20079,Aspendale,74.92,ok
+22002,Oakleigh South,20079,Aspendale,52.57,ok
+22006,Officer,20079,Aspendale,104.73,ok
+22007,Officer South,20079,Aspendale,137.3,ok
+22009,Olinda (Vic.),20079,Aspendale,151.52,ok
+22016,Ormond,20079,Aspendale,37.92,ok
+22027,Pakenham,20079,Aspendale,103.78,ok
+22028,Pakenham South,20079,Aspendale,,no_eligible_route
+22029,Pakenham Upper,20079,Aspendale,,no_eligible_route
+22032,Panton Hill,20079,Aspendale,,no_eligible_route
+22036,Park Orchards,20079,Aspendale,114.8,ok
+22037,Parkdale,20079,Aspendale,27.95,ok
+22038,Parkville (Vic.),20079,Aspendale,88.85,ok
+22041,Pascoe Vale,20079,Aspendale,115.32,ok
+22042,Pascoe Vale South,20079,Aspendale,108.43,ok
+22047,Patterson Lakes,20079,Aspendale,36.52,ok
+22050,Pearcedale,20079,Aspendale,83.6,ok
+22058,Pentland Hills,20079,Aspendale,,no_eligible_route
+22064,Pheasant Creek (Vic.),20079,Aspendale,,no_eligible_route
+22084,Plenty (Vic.),20079,Aspendale,138.48,ok
+22085,Plumpton (Vic.),20079,Aspendale,,no_eligible_route
+22086,Point Cook,20079,Aspendale,122.95,ok
+22087,Point Leo,20079,Aspendale,,no_eligible_route
+22107,Port Melbourne,20079,Aspendale,87.57,ok
+22113,Portsea,20079,Aspendale,133.98,ok
+22115,Powelltown,20079,Aspendale,,no_eligible_route
+22118,Prahran,20079,Aspendale,65.42,ok
+22121,Preston (Vic.),20079,Aspendale,101.92,ok
+22122,Princes Hill,20079,Aspendale,86.0,ok
+22132,Quandong,20079,Aspendale,,no_eligible_route
+22141,Ravenhall,20079,Aspendale,156.75,ok
+22148,Red Hill (Vic.),20079,Aspendale,,no_eligible_route
+22149,Red Hill South,20079,Aspendale,,no_eligible_route
+22160,Research,20079,Aspendale,137.98,ok
+22161,Reservoir (Vic.),20079,Aspendale,104.13,ok
+22170,Richmond (Vic.),20079,Aspendale,74.37,ok
+22172,Riddells Creek,20079,Aspendale,,no_eligible_route
+22174,Ringwood (Vic.),20079,Aspendale,104.15,ok
+22175,Ringwood East,20079,Aspendale,102.7,ok
+22176,Ringwood North,20079,Aspendale,112.33,ok
+22179,Ripponlea,20079,Aspendale,62.62,ok
+22185,Rochford,20079,Aspendale,,no_eligible_route
+22186,Rockbank,20079,Aspendale,155.33,ok
+22193,Romsey,20079,Aspendale,,no_eligible_route
+22194,Rosanna,20079,Aspendale,101.45,ok
+22198,Rosebud,20079,Aspendale,106.0,ok
+22207,Rowville,20079,Aspendale,94.05,ok
+22208,Roxburgh Park,20079,Aspendale,128.57,ok
+22220,Rye,20079,Aspendale,126.2,ok
+22221,Rythdale,20079,Aspendale,,no_eligible_route
+22222,Safety Beach (Vic.),20079,Aspendale,95.17,ok
+22232,Sandhurst,20079,Aspendale,65.85,ok
+22234,Sandringham (Vic.),20079,Aspendale,50.08,ok
+22239,Sassafras (Vic.),20079,Aspendale,132.97,ok
+22242,Scoresby,20079,Aspendale,97.9,ok
+22247,Seabrook,20079,Aspendale,122.53,ok
+22249,Seaford (Vic.),20079,Aspendale,41.75,ok
+22250,Seaholme,20079,Aspendale,103.8,ok
+22256,Seddon (Vic.),20079,Aspendale,82.15,ok
+22258,Selby,20079,Aspendale,160.38,ok
+22263,Seville,20079,Aspendale,159.43,ok
+22264,Seville East,20079,Aspendale,146.32,ok
+22278,Sherbrooke,20079,Aspendale,143.7,ok
+22279,Shoreham,20079,Aspendale,,no_eligible_route
+22281,Silvan,20079,Aspendale,153.18,ok
+22291,Skye (Vic.),20079,Aspendale,60.88,ok
+22295,Smiths Gully,20079,Aspendale,,no_eligible_route
+22303,Somers,20079,Aspendale,126.47,ok
+22304,Somerton (Vic.),20079,Aspendale,132.93,ok
+22305,Somerville (Vic.),20079,Aspendale,82.15,ok
+22306,Sorrento (Vic.),20079,Aspendale,113.97,ok
+22309,South Kingsville,20079,Aspendale,106.82,ok
+22310,South Melbourne,20079,Aspendale,80.88,ok
+22311,South Morang,20079,Aspendale,139.0,ok
+22313,South Wharf,20079,Aspendale,83.57,ok
+22314,South Yarra,20079,Aspendale,52.3,ok
+22315,Southbank,20079,Aspendale,76.47,ok
+22319,Spotswood,20079,Aspendale,83.97,ok
+22325,Springfield (Macedon Ranges - Vic.),20079,Aspendale,,no_eligible_route
+22328,Springvale (Vic.),20079,Aspendale,51.68,ok
+22329,Springvale South,20079,Aspendale,42.82,ok
+22330,St Albans (Vic.),20079,Aspendale,96.65,ok
+22332,St Andrews (Vic.),20079,Aspendale,,no_eligible_route
+22333,St Andrews Beach,20079,Aspendale,,no_eligible_route
+22339,St Helena,20079,Aspendale,134.6,ok
+22343,St Kilda (Vic.),20079,Aspendale,70.53,ok
+22344,St Kilda East,20079,Aspendale,62.97,ok
+22345,St Kilda West,20079,Aspendale,78.75,ok
+22355,Steels Creek,20079,Aspendale,,no_eligible_route
+22375,Strathewen,20079,Aspendale,,no_eligible_route
+22380,Strathmore (Vic.),20079,Aspendale,113.42,ok
+22381,Strathmore Heights,20079,Aspendale,124.2,ok
+22382,Strathtulloh,20079,Aspendale,,no_eligible_route
+22391,Sunbury,20079,Aspendale,159.93,ok
+22395,Sunshine (Vic.),20079,Aspendale,85.43,ok
+22396,Sunshine North,20079,Aspendale,105.5,ok
+22397,Sunshine West,20079,Aspendale,109.78,ok
+22399,Surrey Hills,20079,Aspendale,89.08,ok
+22414,Sydenham (Vic.),20079,Aspendale,111.05,ok
+22451,Tarneit,20079,Aspendale,149.02,ok
+22457,Tarrawarra,20079,Aspendale,173.23,ok
+22473,Taylors Hill,20079,Aspendale,124.87,ok
+22474,Taylors Lakes,20079,Aspendale,119.93,ok
+22476,Tecoma,20079,Aspendale,106.92,ok
+22483,Templestowe,20079,Aspendale,109.88,ok
+22484,Templestowe Lower,20079,Aspendale,104.85,ok
+22496,The Basin (Vic.),20079,Aspendale,124.1,ok
+22501,The Patch,20079,Aspendale,151.65,ok
+22504,Thomastown,20079,Aspendale,112.62,ok
+22508,Thornbury,20079,Aspendale,96.4,ok
+22509,Thornhill Park,20079,Aspendale,,no_eligible_route
+22514,Three Bridges,20079,Aspendale,,no_eligible_route
+22531,Tonimbuk,20079,Aspendale,,no_eligible_route
+22536,Toolangi,20079,Aspendale,,no_eligible_route
+22537,Toolern Vale,20079,Aspendale,,no_eligible_route
+22546,Tooradin,20079,Aspendale,,no_eligible_route
+22547,Toorak,20079,Aspendale,68.68,ok
+22550,Tootgarook,20079,Aspendale,109.62,ok
+22556,Tottenham (Vic.),20079,Aspendale,113.97,ok
+22572,Travancore,20079,Aspendale,91.38,ok
+22576,Tremont,20079,Aspendale,137.95,ok
+22582,Truganina,20079,Aspendale,207.17,ok
+22584,Tuerong,20079,Aspendale,,no_eligible_route
+22586,Tullamarine,20079,Aspendale,144.25,ok
+22594,Tyabb,20079,Aspendale,75.47,ok
+22598,Tynong,20079,Aspendale,,no_eligible_route
+22599,Tynong North,20079,Aspendale,,no_eligible_route
+22614,Upper Ferntree Gully,20079,Aspendale,108.45,ok
+22617,Upper Plenty,20079,Aspendale,,no_eligible_route
+22620,Upwey,20079,Aspendale,115.78,ok
+22627,Vermont,20079,Aspendale,97.92,ok
+22628,Vermont South,20079,Aspendale,91.28,ok
+22629,Vervale,20079,Aspendale,,no_eligible_route
+22633,Viewbank,20079,Aspendale,120.45,ok
+22661,Wallan,20079,Aspendale,,no_eligible_route
+22672,Wandin East,20079,Aspendale,,no_eligible_route
+22673,Wandin North,20079,Aspendale,132.4,ok
+22676,Wandong,20079,Aspendale,,no_eligible_route
+22685,Wantirna,20079,Aspendale,117.67,ok
+22686,Wantirna South,20079,Aspendale,92.77,ok
+22689,Warburton (Vic.),20079,Aspendale,,no_eligible_route
+22695,Warneet,20079,Aspendale,,no_eligible_route
+22702,Warrandyte,20079,Aspendale,123.67,ok
+22703,Warrandyte South,20079,Aspendale,144.63,ok
+22704,Warranwood,20079,Aspendale,121.95,ok
+22717,Waterford Park,20079,Aspendale,,no_eligible_route
+22720,Waterways,20079,Aspendale,45.82,ok
+22721,Watsonia,20079,Aspendale,101.9,ok
+22722,Watsonia North,20079,Aspendale,125.43,ok
+22723,Watsons Creek (Vic.),20079,Aspendale,,no_eligible_route
+22727,Wattle Glen,20079,Aspendale,140.65,ok
+22740,Weir Views,20079,Aspendale,,no_eligible_route
+22750,Werribee,20079,Aspendale,122.75,ok
+22751,Werribee South,20079,Aspendale,,no_eligible_route
+22753,Wesburn,20079,Aspendale,164.37,ok
+22756,West Footscray,20079,Aspendale,92.6,ok
+22757,West Melbourne,20079,Aspendale,95.53,ok
+22761,Westmeadows,20079,Aspendale,122.98,ok
+22766,Wheelers Hill,20079,Aspendale,79.65,ok
+22775,Whittlesea,20079,Aspendale,,no_eligible_route
+22784,Wildwood,20079,Aspendale,,no_eligible_route
+22791,Williams Landing,20079,Aspendale,120.97,ok
+22792,Williamstown (Vic.),20079,Aspendale,97.78,ok
+22793,Williamstown North,20079,Aspendale,112.28,ok
+22805,Windsor (Vic.),20079,Aspendale,66.8,ok
+22820,Wollert,20079,Aspendale,156.83,ok
+22825,Wonga Park,20079,Aspendale,134.15,ok
+22843,Woodstock (Vic.),20079,Aspendale,,no_eligible_route
+22857,Woori Yallock,20079,Aspendale,143.52,ok
+22883,Wyndham Vale,20079,Aspendale,156.57,ok
+22892,Yallambie,20079,Aspendale,128.18,ok
+22898,Yan Yean,20079,Aspendale,163.57,ok
+22906,Yannathan,20079,Aspendale,,no_eligible_route
+22910,Yarra Glen,20079,Aspendale,170.53,ok
+22911,Yarra Junction,20079,Aspendale,168.63,ok
+22916,Yarrambat,20079,Aspendale,143.05,ok
+22917,Yarraville,20079,Aspendale,89.72,ok
+22925,Yellingbo,20079,Aspendale,,no_eligible_route
+22930,Yering,20079,Aspendale,,no_eligible_route
+22941,Yuroke,20079,Aspendale,185.93,ok

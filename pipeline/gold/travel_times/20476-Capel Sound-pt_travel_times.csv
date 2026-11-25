@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20476,Capel Sound,167.22,ok
+20003,Aberfeldie,20476,Capel Sound,202.47,ok
+20011,Aintree,20476,Capel Sound,,no_eligible_route
+20015,Airport West,20476,Capel Sound,,no_eligible_route
+20017,Albanvale,20476,Capel Sound,219.2,ok
+20018,Albert Park (Vic.),20476,Capel Sound,175.32,ok
+20021,Albion (Vic.),20476,Capel Sound,182.12,ok
+20034,Alphington,20476,Capel Sound,179.52,ok
+20035,Altona (Vic.),20476,Capel Sound,203.22,ok
+20036,Altona Meadows,20476,Capel Sound,240.92,ok
+20037,Altona North,20476,Capel Sound,,no_eligible_route
+20062,Ardeer,20476,Capel Sound,200.35,ok
+20066,Armadale (Vic.),20476,Capel Sound,134.35,ok
+20071,Arthurs Creek,20476,Capel Sound,,no_eligible_route
+20072,Arthurs Seat,20476,Capel Sound,81.88,ok
+20075,Ascot Vale,20476,Capel Sound,181.35,ok
+20077,Ashburton,20476,Capel Sound,172.1,ok
+20078,Ashwood,20476,Capel Sound,163.83,ok
+20079,Aspendale,20476,Capel Sound,107.3,ok
+20080,Aspendale Gardens,20476,Capel Sound,131.37,ok
+20082,Attwood,20476,Capel Sound,,no_eligible_route
+20089,Avondale Heights,20476,Capel Sound,231.53,ok
+20091,Avonsleigh,20476,Capel Sound,,no_eligible_route
+20095,Bacchus Marsh,20476,Capel Sound,,no_eligible_route
+20097,Badger Creek,20476,Capel Sound,,no_eligible_route
+20105,Balaclava (Vic.),20476,Capel Sound,155.32,ok
+20120,Balnarring,20476,Capel Sound,165.23,ok
+20121,Balnarring Beach,20476,Capel Sound,161.77,ok
+20123,Balwyn,20476,Capel Sound,177.73,ok
+20124,Balwyn North,20476,Capel Sound,178.87,ok
+20131,Bangholme,20476,Capel Sound,147.22,ok
+20169,Baxter,20476,Capel Sound,77.68,ok
+20171,Bayles,20476,Capel Sound,,no_eligible_route
+20173,Bayswater (Vic.),20476,Capel Sound,199.77,ok
+20174,Bayswater North,20476,Capel Sound,,no_eligible_route
+20175,Beaconsfield (Vic.),20476,Capel Sound,177.07,ok
+20176,Beaconsfield Upper,20476,Capel Sound,,no_eligible_route
+20182,Beaumaris (Vic.),20476,Capel Sound,142.47,ok
+20187,Beenak,20476,Capel Sound,,no_eligible_route
+20188,Belgrave,20476,Capel Sound,220.08,ok
+20189,Belgrave Heights,20476,Capel Sound,,no_eligible_route
+20190,Belgrave South,20476,Capel Sound,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20476,Capel Sound,212.78,ok
+20207,Bend Of Islands,20476,Capel Sound,,no_eligible_route
+20212,Benloch,20476,Capel Sound,,no_eligible_route
+20214,Bentleigh,20476,Capel Sound,124.02,ok
+20215,Bentleigh East,20476,Capel Sound,130.35,ok
+20224,Berwick,20476,Capel Sound,149.87,ok
+20233,Beveridge,20476,Capel Sound,,no_eligible_route
+20237,Big Pats Creek,20476,Capel Sound,,no_eligible_route
+20248,Bittern,20476,Capel Sound,115.95,ok
+20251,Black Rock (Vic.),20476,Capel Sound,163.1,ok
+20252,Blackburn,20476,Capel Sound,177.95,ok
+20253,Blackburn North,20476,Capel Sound,198.0,ok
+20254,Blackburn South,20476,Capel Sound,188.63,ok
+20257,Blairgowrie,20476,Capel Sound,43.78,ok
+20260,Blind Bight,20476,Capel Sound,,no_eligible_route
+20272,Bolinda,20476,Capel Sound,,no_eligible_route
+20278,Bonbeach,20476,Capel Sound,101.02,ok
+20280,Boneo,20476,Capel Sound,116.58,walk_only
+20282,Bonnie Brook,20476,Capel Sound,,no_eligible_route
+20304,Boronia,20476,Capel Sound,209.47,ok
+20307,Botanic Ridge,20476,Capel Sound,138.73,ok
+20314,Box Hill (Vic.),20476,Capel Sound,168.83,ok
+20315,Box Hill North,20476,Capel Sound,194.63,ok
+20316,Box Hill South,20476,Capel Sound,165.7,ok
+20320,Braeside,20476,Capel Sound,155.37,ok
+20324,Braybrook,20476,Capel Sound,196.52,ok
+20331,Briar Hill,20476,Capel Sound,218.23,ok
+20337,Brighton (Vic.),20476,Capel Sound,150.53,ok
+20338,Brighton East,20476,Capel Sound,143.58,ok
+20346,Broadmeadows (Vic.),20476,Capel Sound,204.97,ok
+20351,Brookfield (Vic.),20476,Capel Sound,,no_eligible_route
+20352,Brooklyn (Vic.),20476,Capel Sound,,no_eligible_route
+20361,Brunswick (Vic.),20476,Capel Sound,180.07,ok
+20362,Brunswick East,20476,Capel Sound,178.73,ok
+20363,Brunswick West,20476,Capel Sound,198.75,ok
+20381,Bulla (Vic.),20476,Capel Sound,,no_eligible_route
+20386,Bulleen,20476,Capel Sound,215.32,ok
+20387,Bullengarook,20476,Capel Sound,,no_eligible_route
+20399,Bundoora (Vic.),20476,Capel Sound,209.87,ok
+20411,Bunyip,20476,Capel Sound,,no_eligible_route
+20412,Bunyip North,20476,Capel Sound,,no_eligible_route
+20418,Burnley,20476,Capel Sound,163.37,ok
+20419,Burnside (Vic.),20476,Capel Sound,,no_eligible_route
+20420,Burnside Heights,20476,Capel Sound,,no_eligible_route
+20426,Burwood (Vic.),20476,Capel Sound,164.77,ok
+20427,Burwood East,20476,Capel Sound,172.42,ok
+20435,Bylands,20476,Capel Sound,,no_eligible_route
+20441,Cairnlea,20476,Capel Sound,204.77,ok
+20442,Calder Park,20476,Capel Sound,,no_eligible_route
+20443,Caldermeade,20476,Capel Sound,,no_eligible_route
+20453,Camberwell (Vic.),20476,Capel Sound,178.28,ok
+20455,Campbellfield,20476,Capel Sound,213.62,ok
+20466,Cannons Creek,20476,Capel Sound,,no_eligible_route
+20468,Canterbury (Vic.),20476,Capel Sound,168.38,ok
+20474,Cape Schanck,20476,Capel Sound,214.78,walk_only
+20476,Capel Sound,20476,Capel Sound,0.0,same_centroid
+20487,Cardinia,20476,Capel Sound,,no_eligible_route
+20495,Carlton (Vic.),20476,Capel Sound,165.33,ok
+20496,Carlton North,20476,Capel Sound,188.92,ok
+20498,Carnegie,20476,Capel Sound,136.92,ok
+20500,Caroline Springs,20476,Capel Sound,,no_eligible_route
+20507,Carrum,20476,Capel Sound,96.43,ok
+20508,Carrum Downs,20476,Capel Sound,88.53,ok
+20512,Castella,20476,Capel Sound,,no_eligible_route
+20517,Catani,20476,Capel Sound,,no_eligible_route
+20521,Caulfield,20476,Capel Sound,141.05,ok
+20522,Caulfield East,20476,Capel Sound,134.8,ok
+20523,Caulfield North,20476,Capel Sound,144.35,ok
+20524,Caulfield South,20476,Capel Sound,149.43,ok
+20528,Chadstone,20476,Capel Sound,161.72,ok
+20537,Chelsea,20476,Capel Sound,101.78,ok
+20538,Chelsea Heights,20476,Capel Sound,121.8,ok
+20539,Cheltenham (Vic.),20476,Capel Sound,123.13,ok
+20541,Cherokee,20476,Capel Sound,,no_eligible_route
+20555,Chintin,20476,Capel Sound,,no_eligible_route
+20556,Chirnside Park,20476,Capel Sound,,no_eligible_route
+20559,Christmas Hills (Vic.),20476,Capel Sound,,no_eligible_route
+20560,Chum Creek,20476,Capel Sound,,no_eligible_route
+20566,Clarinda,20476,Capel Sound,167.65,ok
+20567,Clarkefield,20476,Capel Sound,,no_eligible_route
+20569,Clayton,20476,Capel Sound,152.02,ok
+20570,Clayton South,20476,Capel Sound,159.5,ok
+20572,Clematis,20476,Capel Sound,,no_eligible_route
+20574,Clifton Hill,20476,Capel Sound,164.13,ok
+20576,Clonbinane,20476,Capel Sound,,no_eligible_route
+20581,Clyde (Vic.),20476,Capel Sound,161.57,ok
+20582,Clyde North,20476,Capel Sound,150.33,ok
+20587,Cobaw,20476,Capel Sound,,no_eligible_route
+20590,Cobblebank,20476,Capel Sound,,no_eligible_route
+20596,Coburg,20476,Capel Sound,189.37,ok
+20597,Coburg North,20476,Capel Sound,201.37,ok
+20600,Cockatoo (Vic.),20476,Capel Sound,,no_eligible_route
+20601,Cocoroc,20476,Capel Sound,,no_eligible_route
+20605,Coimadai,20476,Capel Sound,,no_eligible_route
+20613,Coldstream (Vic.),20476,Capel Sound,,no_eligible_route
+20616,Collingwood (Vic.),20476,Capel Sound,164.45,ok
+20624,Coolaroo,20476,Capel Sound,205.83,ok
+20633,Cora Lynn,20476,Capel Sound,,no_eligible_route
+20654,Cottles Bridge,20476,Capel Sound,,no_eligible_route
+20661,Craigieburn,20476,Capel Sound,235.0,ok
+20662,Cranbourne,20476,Capel Sound,101.12,ok
+20663,Cranbourne East,20476,Capel Sound,136.12,ok
+20664,Cranbourne North,20476,Capel Sound,,no_eligible_route
+20665,Cranbourne South,20476,Capel Sound,142.08,ok
+20666,Cranbourne West,20476,Capel Sound,118.68,ok
+20670,Cremorne (Vic.),20476,Capel Sound,149.95,ok
+20674,Crib Point,20476,Capel Sound,121.72,ok
+20682,Croydon (Vic.),20476,Capel Sound,211.72,ok
+20683,Croydon Hills,20476,Capel Sound,,no_eligible_route
+20684,Croydon North,20476,Capel Sound,,no_eligible_route
+20685,Croydon South,20476,Capel Sound,,no_eligible_route
+20702,Dallas,20476,Capel Sound,212.27,ok
+20703,Dalmore,20476,Capel Sound,,no_eligible_route
+20707,Dandenong,20476,Capel Sound,120.57,ok
+20708,Dandenong North,20476,Capel Sound,163.17,ok
+20709,Dandenong South,20476,Capel Sound,104.72,ok
+20712,Darley,20476,Capel Sound,,no_eligible_route
+20716,Darraweit Guim,20476,Capel Sound,,no_eligible_route
+20724,Deanside,20476,Capel Sound,,no_eligible_route
+20728,Deepdene (Vic.),20476,Capel Sound,170.23,ok
+20729,Deer Park,20476,Capel Sound,,no_eligible_route
+20731,Delahey,20476,Capel Sound,216.67,ok
+20743,Derrimut,20476,Capel Sound,,no_eligible_route
+20748,Devon Meadows,20476,Capel Sound,168.32,ok
+20750,Dewhurst,20476,Capel Sound,,no_eligible_route
+20752,Diamond Creek,20476,Capel Sound,221.83,ok
+20754,Diggers Rest,20476,Capel Sound,224.53,ok
+20758,Dingley Village,20476,Capel Sound,138.05,ok
+20762,Dixons Creek,20476,Capel Sound,,no_eligible_route
+20766,Docklands,20476,Capel Sound,163.47,ok
+20769,Don Valley,20476,Capel Sound,,no_eligible_route
+20771,Doncaster,20476,Capel Sound,178.62,ok
+20772,Doncaster East,20476,Capel Sound,188.95,ok
+20773,Donnybrook (Vic.),20476,Capel Sound,,no_eligible_route
+20774,Donvale,20476,Capel Sound,186.32,ok
+20779,Doreen,20476,Capel Sound,,no_eligible_route
+20783,Doveton,20476,Capel Sound,145.45,ok
+20788,Dromana,20476,Capel Sound,74.33,ok
+20825,Eaglemont,20476,Capel Sound,197.85,ok
+20830,East Melbourne,20476,Capel Sound,159.73,ok
+20833,East Warburton,20476,Capel Sound,,no_eligible_route
+20843,Eden Park,20476,Capel Sound,,no_eligible_route
+20848,Edithvale,20476,Capel Sound,107.95,ok
+20864,Elsternwick,20476,Capel Sound,156.92,ok
+20865,Eltham (Vic.),20476,Capel Sound,220.97,ok
+20866,Eltham North,20476,Capel Sound,235.35,ok
+20867,Elwood,20476,Capel Sound,167.7,ok
+20868,Emerald (Vic.),20476,Capel Sound,,no_eligible_route
+20871,Endeavour Hills,20476,Capel Sound,157.4,ok
+20878,Epping (Vic.),20476,Capel Sound,235.08,ok
+20885,Essendon,20476,Capel Sound,187.27,ok
+20886,Essendon Fields,20476,Capel Sound,,no_eligible_route
+20887,Essendon North,20476,Capel Sound,208.13,ok
+20888,Essendon West,20476,Capel Sound,210.5,ok
+20889,Eumemmerring,20476,Capel Sound,145.83,ok
+20898,Exford,20476,Capel Sound,,no_eligible_route
+20899,Eynesbury,20476,Capel Sound,,no_eligible_route
+20901,Fairfield (Vic.),20476,Capel Sound,185.83,ok
+20909,Fawkner,20476,Capel Sound,206.07,ok
+20916,Fernshaw,20476,Capel Sound,,no_eligible_route
+20917,Ferntree Gully,20476,Capel Sound,,no_eligible_route
+20918,Ferny Creek,20476,Capel Sound,,no_eligible_route
+20920,Fingal (Vic.),20476,Capel Sound,97.05,walk_only
+20924,Fitzroy (Vic.),20476,Capel Sound,172.12,ok
+20925,Fitzroy North,20476,Capel Sound,177.77,ok
+20929,Flemington,20476,Capel Sound,185.58,ok
+20930,Flinders (Vic.),20476,Capel Sound,214.62,walk_only
+20935,Footscray,20476,Capel Sound,170.53,ok
+20937,Forest Hill (Vic.),20476,Capel Sound,161.02,ok
+20947,Frankston,20476,Capel Sound,72.4,ok
+20948,Frankston North,20476,Capel Sound,82.25,ok
+20949,Frankston South,20476,Capel Sound,83.67,ok
+20950,Fraser Rise,20476,Capel Sound,,no_eligible_route
+20965,Gardenvale,20476,Capel Sound,152.1,ok
+20966,Garfield,20476,Capel Sound,,no_eligible_route
+20967,Garfield North,20476,Capel Sound,,no_eligible_route
+20979,Gembrook,20476,Capel Sound,,no_eligible_route
+20995,Gilderoy,20476,Capel Sound,,no_eligible_route
+21001,Gisborne,20476,Capel Sound,,no_eligible_route
+21002,Gisborne South,20476,Capel Sound,,no_eligible_route
+21004,Gladstone Park,20476,Capel Sound,219.17,ok
+21005,Gladysdale,20476,Capel Sound,,no_eligible_route
+21009,Glen Huntly,20476,Capel Sound,130.0,ok
+21010,Glen Iris (Vic.),20476,Capel Sound,162.13,ok
+21013,Glen Waverley,20476,Capel Sound,152.62,ok
+21047,Glenroy (Vic.),20476,Capel Sound,199.82,ok
+21059,Goldie,20476,Capel Sound,,no_eligible_route
+21079,Gowanbrae,20476,Capel Sound,221.5,ok
+21087,Grangefields,20476,Capel Sound,,no_eligible_route
+21104,Greensborough,20476,Capel Sound,206.38,ok
+21105,Greenvale (Vic.),20476,Capel Sound,,no_eligible_route
+21115,Gruyere,20476,Capel Sound,,no_eligible_route
+21121,Guys Hill,20476,Capel Sound,,no_eligible_route
+21124,Hadfield,20476,Capel Sound,208.1,ok
+21125,Hallam,20476,Capel Sound,150.55,ok
+21131,Hampton (Vic.),20476,Capel Sound,132.48,ok
+21132,Hampton East,20476,Capel Sound,126.72,ok
+21133,Hampton Park,20476,Capel Sound,156.4,ok
+21139,Harkaway,20476,Capel Sound,,no_eligible_route
+21140,Harkness,20476,Capel Sound,,no_eligible_route
+21145,Hastings (Vic.),20476,Capel Sound,98.83,ok
+21152,Hawthorn (Vic.),20476,Capel Sound,153.87,ok
+21153,Hawthorn East,20476,Capel Sound,173.25,ok
+21158,Healesville,20476,Capel Sound,,no_eligible_route
+21159,Heath Hill,20476,Capel Sound,,no_eligible_route
+21161,Heathcote Junction,20476,Capel Sound,,no_eligible_route
+21163,Heatherton,20476,Capel Sound,149.07,ok
+21165,Heathmont,20476,Capel Sound,191.85,ok
+21167,Heidelberg,20476,Capel Sound,200.65,ok
+21168,Heidelberg Heights,20476,Capel Sound,205.15,ok
+21169,Heidelberg West,20476,Capel Sound,217.25,ok
+21176,Hesket,20476,Capel Sound,,no_eligible_route
+21185,Highett,20476,Capel Sound,115.28,ok
+21193,Hillside (Melton - Vic.),20476,Capel Sound,,no_eligible_route
+21195,Hmas Cerberus,20476,Capel Sound,158.12,ok
+21196,Hoddles Creek,20476,Capel Sound,,no_eligible_route
+21202,Hopetoun Park,20476,Capel Sound,,no_eligible_route
+21203,Hoppers Crossing,20476,Capel Sound,240.2,ok
+21214,Hughesdale,20476,Capel Sound,145.58,ok
+21215,Humevale,20476,Capel Sound,,no_eligible_route
+21218,Huntingdale (Vic.),20476,Capel Sound,145.45,ok
+21223,Hurstbridge,20476,Capel Sound,222.38,ok
+21238,Iona,20476,Capel Sound,,no_eligible_route
+21246,Ivanhoe (Vic.),20476,Capel Sound,184.12,ok
+21247,Ivanhoe East,20476,Capel Sound,203.37,ok
+21248,Jacana,20476,Capel Sound,204.38,ok
+21277,Junction Village,20476,Capel Sound,154.45,ok
+21284,Kalkallo,20476,Capel Sound,,no_eligible_route
+21286,Kallista,20476,Capel Sound,,no_eligible_route
+21287,Kalorama,20476,Capel Sound,,no_eligible_route
+21294,Kangaroo Ground,20476,Capel Sound,,no_eligible_route
+21312,Kealba,20476,Capel Sound,214.33,ok
+21314,Keilor,20476,Capel Sound,,no_eligible_route
+21315,Keilor Downs,20476,Capel Sound,209.47,ok
+21316,Keilor East,20476,Capel Sound,,no_eligible_route
+21317,Keilor Lodge,20476,Capel Sound,,no_eligible_route
+21318,Keilor North,20476,Capel Sound,222.92,ok
+21319,Keilor Park,20476,Capel Sound,,no_eligible_route
+21327,Kensington (Vic.),20476,Capel Sound,171.67,ok
+21333,Kerrie,20476,Capel Sound,,no_eligible_route
+21336,Kew (Vic.),20476,Capel Sound,166.9,ok
+21337,Kew East,20476,Capel Sound,181.62,ok
+21339,Keysborough,20476,Capel Sound,146.58,ok
+21354,Kilsyth,20476,Capel Sound,,no_eligible_route
+21355,Kilsyth South,20476,Capel Sound,,no_eligible_route
+21358,Kinglake,20476,Capel Sound,,no_eligible_route
+21359,Kinglake Central,20476,Capel Sound,,no_eligible_route
+21360,Kinglake West,20476,Capel Sound,,no_eligible_route
+21362,Kings Park (Vic.),20476,Capel Sound,211.38,ok
+21363,Kingsbury,20476,Capel Sound,210.08,ok
+21365,Kingsville,20476,Capel Sound,179.6,ok
+21374,Knoxfield,20476,Capel Sound,178.73,ok
+21380,Koo Wee Rup,20476,Capel Sound,,no_eligible_route
+21381,Koo Wee Rup North,20476,Capel Sound,,no_eligible_route
+21393,Kooyong,20476,Capel Sound,152.65,ok
+21411,Kurunjang,20476,Capel Sound,,no_eligible_route
+21452,Lalor,20476,Capel Sound,195.42,ok
+21456,Lancefield,20476,Capel Sound,,no_eligible_route
+21459,Lang Lang,20476,Capel Sound,,no_eligible_route
+21460,Lang Lang East,20476,Capel Sound,,no_eligible_route
+21467,Langwarrin,20476,Capel Sound,89.75,ok
+21468,Langwarrin South,20476,Capel Sound,,no_eligible_route
+21473,Launching Place,20476,Capel Sound,,no_eligible_route
+21476,Laverton (Vic.),20476,Capel Sound,211.82,ok
+21477,Laverton North,20476,Capel Sound,,no_eligible_route
+21504,Lilydale (Vic.),20476,Capel Sound,243.42,ok
+21533,Long Forest,20476,Capel Sound,,no_eligible_route
+21547,Lower Plenty,20476,Capel Sound,240.02,ok
+21554,Lynbrook,20476,Capel Sound,137.23,ok
+21555,Lyndhurst (Vic.),20476,Capel Sound,,no_eligible_route
+21558,Lysterfield,20476,Capel Sound,,no_eligible_route
+21559,Lysterfield South,20476,Capel Sound,195.95,ok
+21561,Macclesfield (Vic.),20476,Capel Sound,,no_eligible_route
+21562,Macedon,20476,Capel Sound,,no_eligible_route
+21564,Macleod (Vic.),20476,Capel Sound,199.47,ok
+21569,Maddingley,20476,Capel Sound,,no_eligible_route
+21575,Maidstone,20476,Capel Sound,200.6,ok
+21578,Main Ridge,20476,Capel Sound,142.57,walk_only
+21586,Malvern (Vic.),20476,Capel Sound,141.38,ok
+21587,Malvern East,20476,Capel Sound,150.27,ok
+21588,Mambourin,20476,Capel Sound,,no_eligible_route
+21597,Manor Lakes,20476,Capel Sound,,no_eligible_route
+21604,Maribyrnong,20476,Capel Sound,201.25,ok
+21619,Maryknoll,20476,Capel Sound,,no_eligible_route
+21625,McCrae,20476,Capel Sound,41.92,ok
+21629,McKinnon,20476,Capel Sound,118.0,ok
+21635,Meadow Heights,20476,Capel Sound,217.27,ok
+21640,Melbourne,20476,Capel Sound,154.37,ok
+21641,Melbourne Airport,20476,Capel Sound,,no_eligible_route
+21642,Melton (Vic.),20476,Capel Sound,,no_eligible_route
+21643,Melton South,20476,Capel Sound,,no_eligible_route
+21644,Melton West,20476,Capel Sound,,no_eligible_route
+21648,Mentone,20476,Capel Sound,111.95,ok
+21649,Menzies Creek,20476,Capel Sound,,no_eligible_route
+21659,Mernda,20476,Capel Sound,241.77,ok
+21662,Merricks,20476,Capel Sound,,no_eligible_route
+21663,Merricks Beach,20476,Capel Sound,,no_eligible_route
+21664,Merricks North,20476,Capel Sound,,no_eligible_route
+21668,Merrimu,20476,Capel Sound,,no_eligible_route
+21675,Mickleham,20476,Capel Sound,,no_eligible_route
+21677,Middle Park (Vic.),20476,Capel Sound,184.05,ok
+21683,Mill Park,20476,Capel Sound,224.92,ok
+21685,Millgrove,20476,Capel Sound,,no_eligible_route
+21706,Mitcham (Vic.),20476,Capel Sound,186.45,ok
+21727,Monbulk,20476,Capel Sound,,no_eligible_route
+21728,Monegeetta,20476,Capel Sound,,no_eligible_route
+21731,Monomeith,20476,Capel Sound,,no_eligible_route
+21732,Mont Albert,20476,Capel Sound,175.78,ok
+21733,Mont Albert North,20476,Capel Sound,197.02,ok
+21735,Montmorency,20476,Capel Sound,207.03,ok
+21736,Montrose (Vic.),20476,Capel Sound,,no_eligible_route
+21742,Moonee Ponds,20476,Capel Sound,173.73,ok
+21746,Moorabbin,20476,Capel Sound,136.72,ok
+21747,Moorabbin Airport,20476,Capel Sound,140.42,ok
+21754,Moorooduc,20476,Capel Sound,96.43,ok
+21755,Mooroolbark,20476,Capel Sound,230.33,ok
+21760,Mordialloc,20476,Capel Sound,117.13,ok
+21763,Mornington (Vic.),20476,Capel Sound,80.45,ok
+21779,Mount Burnett,20476,Capel Sound,,no_eligible_route
+21786,Mount Cottrell,20476,Capel Sound,,no_eligible_route
+21787,Mount Dandenong,20476,Capel Sound,,no_eligible_route
+21793,Mount Eliza,20476,Capel Sound,71.37,ok
+21795,Mount Evelyn,20476,Capel Sound,,no_eligible_route
+21801,Mount Macedon,20476,Capel Sound,,no_eligible_route
+21803,Mount Martha,20476,Capel Sound,55.72,ok
+21814,Mount Toolebewong,20476,Capel Sound,,no_eligible_route
+21816,Mount Waverley,20476,Capel Sound,182.2,ok
+21827,Mulgrave (Vic.),20476,Capel Sound,162.07,ok
+21849,Murrumbeena,20476,Capel Sound,147.13,ok
+21872,Nangana,20476,Capel Sound,,no_eligible_route
+21878,Nar Nar Goon,20476,Capel Sound,,no_eligible_route
+21879,Nar Nar Goon North,20476,Capel Sound,,no_eligible_route
+21893,Narre Warren,20476,Capel Sound,156.95,ok
+21894,Narre Warren East,20476,Capel Sound,,no_eligible_route
+21895,Narre Warren North,20476,Capel Sound,197.73,ok
+21896,Narre Warren South,20476,Capel Sound,,no_eligible_route
+21921,New Gisborne,20476,Capel Sound,,no_eligible_route
+21934,Newport (Vic.),20476,Capel Sound,178.67,ok
+21942,Niddrie,20476,Capel Sound,,no_eligible_route
+21952,Noble Park,20476,Capel Sound,126.25,ok
+21953,Noble Park North,20476,Capel Sound,159.43,ok
+21966,North Melbourne,20476,Capel Sound,165.33,ok
+21969,North Warrandyte,20476,Capel Sound,,no_eligible_route
+21971,Northcote,20476,Capel Sound,178.62,ok
+21974,Notting Hill,20476,Capel Sound,170.85,ok
+21985,Nunawading,20476,Capel Sound,164.55,ok
+21991,Nutfield,20476,Capel Sound,,no_eligible_route
+21998,Oak Park,20476,Capel Sound,192.05,ok
+21999,Oaklands Junction,20476,Capel Sound,,no_eligible_route
+22000,Oakleigh,20476,Capel Sound,145.98,ok
+22001,Oakleigh East,20476,Capel Sound,160.82,ok
+22002,Oakleigh South,20476,Capel Sound,146.52,ok
+22006,Officer,20476,Capel Sound,169.52,ok
+22007,Officer South,20476,Capel Sound,204.08,ok
+22009,Olinda (Vic.),20476,Capel Sound,,no_eligible_route
+22016,Ormond,20476,Capel Sound,123.02,ok
+22027,Pakenham,20476,Capel Sound,168.57,ok
+22028,Pakenham South,20476,Capel Sound,,no_eligible_route
+22029,Pakenham Upper,20476,Capel Sound,,no_eligible_route
+22032,Panton Hill,20476,Capel Sound,,no_eligible_route
+22036,Park Orchards,20476,Capel Sound,,no_eligible_route
+22037,Parkdale,20476,Capel Sound,113.05,ok
+22038,Parkville (Vic.),20476,Capel Sound,185.03,ok
+22041,Pascoe Vale,20476,Capel Sound,196.42,ok
+22042,Pascoe Vale South,20476,Capel Sound,192.15,ok
+22047,Patterson Lakes,20476,Capel Sound,109.3,ok
+22050,Pearcedale,20476,Capel Sound,,no_eligible_route
+22058,Pentland Hills,20476,Capel Sound,,no_eligible_route
+22064,Pheasant Creek (Vic.),20476,Capel Sound,,no_eligible_route
+22084,Plenty (Vic.),20476,Capel Sound,,no_eligible_route
+22085,Plumpton (Vic.),20476,Capel Sound,,no_eligible_route
+22086,Point Cook,20476,Capel Sound,,no_eligible_route
+22087,Point Leo,20476,Capel Sound,,no_eligible_route
+22107,Port Melbourne,20476,Capel Sound,204.55,ok
+22113,Portsea,20476,Capel Sound,,no_eligible_route
+22115,Powelltown,20476,Capel Sound,,no_eligible_route
+22118,Prahran,20476,Capel Sound,148.52,ok
+22121,Preston (Vic.),20476,Capel Sound,190.02,ok
+22122,Princes Hill,20476,Capel Sound,182.1,ok
+22132,Quandong,20476,Capel Sound,,no_eligible_route
+22141,Ravenhall,20476,Capel Sound,,no_eligible_route
+22148,Red Hill (Vic.),20476,Capel Sound,202.17,walk_only
+22149,Red Hill South,20476,Capel Sound,,no_eligible_route
+22160,Research,20476,Capel Sound,,no_eligible_route
+22161,Reservoir (Vic.),20476,Capel Sound,192.23,ok
+22170,Richmond (Vic.),20476,Capel Sound,155.47,ok
+22172,Riddells Creek,20476,Capel Sound,,no_eligible_route
+22174,Ringwood (Vic.),20476,Capel Sound,184.65,ok
+22175,Ringwood East,20476,Capel Sound,211.8,ok
+22176,Ringwood North,20476,Capel Sound,214.1,ok
+22179,Ripponlea,20476,Capel Sound,152.38,ok
+22185,Rochford,20476,Capel Sound,,no_eligible_route
+22186,Rockbank,20476,Capel Sound,,no_eligible_route
+22193,Romsey,20476,Capel Sound,,no_eligible_route
+22194,Rosanna,20476,Capel Sound,193.93,ok
+22198,Rosebud,20476,Capel Sound,47.88,ok
+22207,Rowville,20476,Capel Sound,162.08,ok
+22208,Roxburgh Park,20476,Capel Sound,221.9,ok
+22220,Rye,20476,Capel Sound,89.32,walk_only
+22221,Rythdale,20476,Capel Sound,,no_eligible_route
+22222,Safety Beach (Vic.),20476,Capel Sound,50.17,ok
+22232,Sandhurst,20476,Capel Sound,113.48,ok
+22234,Sandringham (Vic.),20476,Capel Sound,140.23,ok
+22239,Sassafras (Vic.),20476,Capel Sound,,no_eligible_route
+22242,Scoresby,20476,Capel Sound,183.02,ok
+22247,Seabrook,20476,Capel Sound,228.22,ok
+22249,Seaford (Vic.),20476,Capel Sound,97.68,ok
+22250,Seaholme,20476,Capel Sound,197.9,ok
+22256,Seddon (Vic.),20476,Capel Sound,171.92,ok
+22258,Selby,20476,Capel Sound,,no_eligible_route
+22263,Seville,20476,Capel Sound,,no_eligible_route
+22264,Seville East,20476,Capel Sound,,no_eligible_route
+22278,Sherbrooke,20476,Capel Sound,,no_eligible_route
+22279,Shoreham,20476,Capel Sound,222.1,walk_only
+22281,Silvan,20476,Capel Sound,,no_eligible_route
+22291,Skye (Vic.),20476,Capel Sound,109.67,ok
+22295,Smiths Gully,20476,Capel Sound,,no_eligible_route
+22303,Somers,20476,Capel Sound,146.25,ok
+22304,Somerton (Vic.),20476,Capel Sound,235.87,ok
+22305,Somerville (Vic.),20476,Capel Sound,102.93,ok
+22306,Sorrento (Vic.),20476,Capel Sound,43.62,ok
+22309,South Kingsville,20476,Capel Sound,190.92,ok
+22310,South Melbourne,20476,Capel Sound,177.88,ok
+22311,South Morang,20476,Capel Sound,227.4,ok
+22313,South Wharf,20476,Capel Sound,165.87,ok
+22314,South Yarra,20476,Capel Sound,137.4,ok
+22315,Southbank,20476,Capel Sound,159.07,ok
+22319,Spotswood,20476,Capel Sound,172.07,ok
+22325,Springfield (Macedon Ranges - Vic.),20476,Capel Sound,,no_eligible_route
+22328,Springvale (Vic.),20476,Capel Sound,135.47,ok
+22329,Springvale South,20476,Capel Sound,126.6,ok
+22330,St Albans (Vic.),20476,Capel Sound,184.75,ok
+22332,St Andrews (Vic.),20476,Capel Sound,,no_eligible_route
+22333,St Andrews Beach,20476,Capel Sound,116.08,walk_only
+22339,St Helena,20476,Capel Sound,,no_eligible_route
+22343,St Kilda (Vic.),20476,Capel Sound,169.78,ok
+22344,St Kilda East,20476,Capel Sound,164.75,ok
+22345,St Kilda West,20476,Capel Sound,188.35,ok
+22355,Steels Creek,20476,Capel Sound,,no_eligible_route
+22375,Strathewen,20476,Capel Sound,,no_eligible_route
+22380,Strathmore (Vic.),20476,Capel Sound,200.22,ok
+22381,Strathmore Heights,20476,Capel Sound,214.47,ok
+22382,Strathtulloh,20476,Capel Sound,,no_eligible_route
+22391,Sunbury,20476,Capel Sound,,no_eligible_route
+22395,Sunshine (Vic.),20476,Capel Sound,173.53,ok
+22396,Sunshine North,20476,Capel Sound,203.33,ok
+22397,Sunshine West,20476,Capel Sound,205.7,ok
+22399,Surrey Hills,20476,Capel Sound,176.2,ok
+22414,Sydenham (Vic.),20476,Capel Sound,199.15,ok
+22451,Tarneit,20476,Capel Sound,,no_eligible_route
+22457,Tarrawarra,20476,Capel Sound,,no_eligible_route
+22473,Taylors Hill,20476,Capel Sound,,no_eligible_route
+22474,Taylors Lakes,20476,Capel Sound,204.03,ok
+22476,Tecoma,20476,Capel Sound,217.08,ok
+22483,Templestowe,20476,Capel Sound,220.43,ok
+22484,Templestowe Lower,20476,Capel Sound,191.85,ok
+22496,The Basin (Vic.),20476,Capel Sound,,no_eligible_route
+22501,The Patch,20476,Capel Sound,,no_eligible_route
+22504,Thomastown,20476,Capel Sound,200.72,ok
+22508,Thornbury,20476,Capel Sound,184.5,ok
+22509,Thornhill Park,20476,Capel Sound,,no_eligible_route
+22514,Three Bridges,20476,Capel Sound,,no_eligible_route
+22531,Tonimbuk,20476,Capel Sound,,no_eligible_route
+22536,Toolangi,20476,Capel Sound,,no_eligible_route
+22537,Toolern Vale,20476,Capel Sound,,no_eligible_route
+22546,Tooradin,20476,Capel Sound,,no_eligible_route
+22547,Toorak,20476,Capel Sound,151.78,ok
+22550,Tootgarook,20476,Capel Sound,33.27,ok
+22556,Tottenham (Vic.),20476,Capel Sound,200.97,ok
+22572,Travancore,20476,Capel Sound,175.48,ok
+22576,Tremont,20476,Capel Sound,,no_eligible_route
+22582,Truganina,20476,Capel Sound,,no_eligible_route
+22584,Tuerong,20476,Capel Sound,,no_eligible_route
+22586,Tullamarine,20476,Capel Sound,,no_eligible_route
+22594,Tyabb,20476,Capel Sound,95.25,ok
+22598,Tynong,20476,Capel Sound,,no_eligible_route
+22599,Tynong North,20476,Capel Sound,,no_eligible_route
+22614,Upper Ferntree Gully,20476,Capel Sound,,no_eligible_route
+22617,Upper Plenty,20476,Capel Sound,,no_eligible_route
+22620,Upwey,20476,Capel Sound,,no_eligible_route
+22627,Vermont,20476,Capel Sound,190.23,ok
+22628,Vermont South,20476,Capel Sound,178.5,ok
+22629,Vervale,20476,Capel Sound,,no_eligible_route
+22633,Viewbank,20476,Capel Sound,227.1,ok
+22661,Wallan,20476,Capel Sound,,no_eligible_route
+22672,Wandin East,20476,Capel Sound,,no_eligible_route
+22673,Wandin North,20476,Capel Sound,,no_eligible_route
+22676,Wandong,20476,Capel Sound,,no_eligible_route
+22685,Wantirna,20476,Capel Sound,179.02,ok
+22686,Wantirna South,20476,Capel Sound,173.3,ok
+22689,Warburton (Vic.),20476,Capel Sound,,no_eligible_route
+22695,Warneet,20476,Capel Sound,,no_eligible_route
+22702,Warrandyte,20476,Capel Sound,,no_eligible_route
+22703,Warrandyte South,20476,Capel Sound,,no_eligible_route
+22704,Warranwood,20476,Capel Sound,,no_eligible_route
+22717,Waterford Park,20476,Capel Sound,,no_eligible_route
+22720,Waterways,20476,Capel Sound,131.6,ok
+22721,Watsonia,20476,Capel Sound,194.38,ok
+22722,Watsonia North,20476,Capel Sound,217.92,ok
+22723,Watsons Creek (Vic.),20476,Capel Sound,,no_eligible_route
+22727,Wattle Glen,20476,Capel Sound,226.13,ok
+22740,Weir Views,20476,Capel Sound,,no_eligible_route
+22750,Werribee,20476,Capel Sound,239.22,ok
+22751,Werribee South,20476,Capel Sound,,no_eligible_route
+22753,Wesburn,20476,Capel Sound,,no_eligible_route
+22756,West Footscray,20476,Capel Sound,177.7,ok
+22757,West Melbourne,20476,Capel Sound,194.03,ok
+22761,Westmeadows,20476,Capel Sound,233.02,ok
+22766,Wheelers Hill,20476,Capel Sound,172.95,ok
+22775,Whittlesea,20476,Capel Sound,,no_eligible_route
+22784,Wildwood,20476,Capel Sound,,no_eligible_route
+22791,Williams Landing,20476,Capel Sound,226.07,ok
+22792,Williamstown (Vic.),20476,Capel Sound,180.88,ok
+22793,Williamstown North,20476,Capel Sound,200.42,ok
+22805,Windsor (Vic.),20476,Capel Sound,155.32,ok
+22820,Wollert,20476,Capel Sound,,no_eligible_route
+22825,Wonga Park,20476,Capel Sound,,no_eligible_route
+22843,Woodstock (Vic.),20476,Capel Sound,,no_eligible_route
+22857,Woori Yallock,20476,Capel Sound,,no_eligible_route
+22883,Wyndham Vale,20476,Capel Sound,,no_eligible_route
+22892,Yallambie,20476,Capel Sound,223.65,ok
+22898,Yan Yean,20476,Capel Sound,,no_eligible_route
+22906,Yannathan,20476,Capel Sound,,no_eligible_route
+22910,Yarra Glen,20476,Capel Sound,,no_eligible_route
+22911,Yarra Junction,20476,Capel Sound,,no_eligible_route
+22916,Yarrambat,20476,Capel Sound,,no_eligible_route
+22917,Yarraville,20476,Capel Sound,177.82,ok
+22925,Yellingbo,20476,Capel Sound,,no_eligible_route
+22930,Yering,20476,Capel Sound,,no_eligible_route
+22941,Yuroke,20476,Capel Sound,,no_eligible_route
