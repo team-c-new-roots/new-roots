@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22041,Pascoe Vale,58.25,ok
+20003,Aberfeldie,22041,Pascoe Vale,39.92,ok
+20011,Aintree,22041,Pascoe Vale,117.65,ok
+20015,Airport West,22041,Pascoe Vale,54.58,ok
+20017,Albanvale,22041,Pascoe Vale,95.12,ok
+20018,Albert Park (Vic.),22041,Pascoe Vale,57.48,ok
+20021,Albion (Vic.),22041,Pascoe Vale,71.55,ok
+20034,Alphington,22041,Pascoe Vale,61.1,ok
+20035,Altona (Vic.),22041,Pascoe Vale,74.62,ok
+20036,Altona Meadows,22041,Pascoe Vale,80.77,ok
+20037,Altona North,22041,Pascoe Vale,93.02,ok
+20062,Ardeer,22041,Pascoe Vale,77.67,ok
+20066,Armadale (Vic.),22041,Pascoe Vale,65.77,ok
+20071,Arthurs Creek,22041,Pascoe Vale,,no_eligible_route
+20072,Arthurs Seat,22041,Pascoe Vale,228.28,ok
+20075,Ascot Vale,22041,Pascoe Vale,38.45,ok
+20077,Ashburton,22041,Pascoe Vale,79.37,ok
+20078,Ashwood,22041,Pascoe Vale,88.57,ok
+20079,Aspendale,22041,Pascoe Vale,103.02,ok
+20080,Aspendale Gardens,22041,Pascoe Vale,123.35,ok
+20082,Attwood,22041,Pascoe Vale,51.35,ok
+20089,Avondale Heights,22041,Pascoe Vale,61.6,ok
+20091,Avonsleigh,22041,Pascoe Vale,,no_eligible_route
+20095,Bacchus Marsh,22041,Pascoe Vale,,no_eligible_route
+20097,Badger Creek,22041,Pascoe Vale,183.22,ok
+20105,Balaclava (Vic.),22041,Pascoe Vale,65.4,ok
+20120,Balnarring,22041,Pascoe Vale,,no_eligible_route
+20121,Balnarring Beach,22041,Pascoe Vale,,no_eligible_route
+20123,Balwyn,22041,Pascoe Vale,87.5,ok
+20124,Balwyn North,22041,Pascoe Vale,84.28,ok
+20131,Bangholme,22041,Pascoe Vale,154.62,ok
+20169,Baxter,22041,Pascoe Vale,143.37,ok
+20171,Bayles,22041,Pascoe Vale,,no_eligible_route
+20173,Bayswater (Vic.),22041,Pascoe Vale,106.58,ok
+20174,Bayswater North,22041,Pascoe Vale,116.55,ok
+20175,Beaconsfield (Vic.),22041,Pascoe Vale,141.78,ok
+20176,Beaconsfield Upper,22041,Pascoe Vale,,no_eligible_route
+20182,Beaumaris (Vic.),22041,Pascoe Vale,100.9,ok
+20187,Beenak,22041,Pascoe Vale,,no_eligible_route
+20188,Belgrave,22041,Pascoe Vale,119.67,ok
+20189,Belgrave Heights,22041,Pascoe Vale,150.77,ok
+20190,Belgrave South,22041,Pascoe Vale,149.75,ok
+20198,Bellfield (Banyule - Vic.),22041,Pascoe Vale,43.27,ok
+20207,Bend Of Islands,22041,Pascoe Vale,,no_eligible_route
+20212,Benloch,22041,Pascoe Vale,,no_eligible_route
+20214,Bentleigh,22041,Pascoe Vale,88.8,ok
+20215,Bentleigh East,22041,Pascoe Vale,91.75,ok
+20224,Berwick,22041,Pascoe Vale,117.27,ok
+20233,Beveridge,22041,Pascoe Vale,82.9,ok
+20237,Big Pats Creek,22041,Pascoe Vale,,no_eligible_route
+20248,Bittern,22041,Pascoe Vale,161.35,ok
+20251,Black Rock (Vic.),22041,Pascoe Vale,101.22,ok
+20252,Blackburn,22041,Pascoe Vale,81.35,ok
+20253,Blackburn North,22041,Pascoe Vale,82.9,ok
+20254,Blackburn South,22041,Pascoe Vale,99.68,ok
+20257,Blairgowrie,22041,Pascoe Vale,222.32,ok
+20260,Blind Bight,22041,Pascoe Vale,,no_eligible_route
+20272,Bolinda,22041,Pascoe Vale,,no_eligible_route
+20278,Bonbeach,22041,Pascoe Vale,108.02,ok
+20280,Boneo,22041,Pascoe Vale,,no_eligible_route
+20282,Bonnie Brook,22041,Pascoe Vale,150.2,ok
+20304,Boronia,22041,Pascoe Vale,109.05,ok
+20307,Botanic Ridge,22041,Pascoe Vale,156.13,ok
+20314,Box Hill (Vic.),22041,Pascoe Vale,80.47,ok
+20315,Box Hill North,22041,Pascoe Vale,89.07,ok
+20316,Box Hill South,22041,Pascoe Vale,86.52,ok
+20320,Braeside,22041,Pascoe Vale,130.1,ok
+20324,Braybrook,22041,Pascoe Vale,64.65,ok
+20331,Briar Hill,22041,Pascoe Vale,78.42,ok
+20337,Brighton (Vic.),22041,Pascoe Vale,78.17,ok
+20338,Brighton East,22041,Pascoe Vale,85.42,ok
+20346,Broadmeadows (Vic.),22041,Pascoe Vale,41.15,ok
+20351,Brookfield (Vic.),22041,Pascoe Vale,173.7,ok
+20352,Brooklyn (Vic.),22041,Pascoe Vale,85.93,ok
+20361,Brunswick (Vic.),22041,Pascoe Vale,29.73,ok
+20362,Brunswick East,22041,Pascoe Vale,40.37,ok
+20363,Brunswick West,22041,Pascoe Vale,24.87,ok
+20381,Bulla (Vic.),22041,Pascoe Vale,118.12,ok
+20386,Bulleen,22041,Pascoe Vale,72.35,ok
+20387,Bullengarook,22041,Pascoe Vale,,no_eligible_route
+20399,Bundoora (Vic.),22041,Pascoe Vale,53.83,ok
+20411,Bunyip,22041,Pascoe Vale,,no_eligible_route
+20412,Bunyip North,22041,Pascoe Vale,,no_eligible_route
+20418,Burnley,22041,Pascoe Vale,68.77,ok
+20419,Burnside (Vic.),22041,Pascoe Vale,89.17,ok
+20420,Burnside Heights,22041,Pascoe Vale,97.37,ok
+20426,Burwood (Vic.),22041,Pascoe Vale,95.17,ok
+20427,Burwood East,22041,Pascoe Vale,95.63,ok
+20435,Bylands,22041,Pascoe Vale,,no_eligible_route
+20441,Cairnlea,22041,Pascoe Vale,88.73,ok
+20442,Calder Park,22041,Pascoe Vale,112.3,ok
+20443,Caldermeade,22041,Pascoe Vale,,no_eligible_route
+20453,Camberwell (Vic.),22041,Pascoe Vale,78.3,ok
+20455,Campbellfield,22041,Pascoe Vale,59.15,ok
+20466,Cannons Creek,22041,Pascoe Vale,,no_eligible_route
+20468,Canterbury (Vic.),22041,Pascoe Vale,74.35,ok
+20474,Cape Schanck,22041,Pascoe Vale,,no_eligible_route
+20476,Capel Sound,22041,Pascoe Vale,207.67,ok
+20487,Cardinia,22041,Pascoe Vale,,no_eligible_route
+20495,Carlton (Vic.),22041,Pascoe Vale,47.0,ok
+20496,Carlton North,22041,Pascoe Vale,47.58,ok
+20498,Carnegie,22041,Pascoe Vale,80.78,ok
+20500,Caroline Springs,22041,Pascoe Vale,93.6,ok
+20507,Carrum,22041,Pascoe Vale,107.83,ok
+20508,Carrum Downs,22041,Pascoe Vale,130.07,ok
+20512,Castella,22041,Pascoe Vale,,no_eligible_route
+20517,Catani,22041,Pascoe Vale,,no_eligible_route
+20521,Caulfield,22041,Pascoe Vale,84.47,ok
+20522,Caulfield East,22041,Pascoe Vale,74.2,ok
+20523,Caulfield North,22041,Pascoe Vale,72.7,ok
+20524,Caulfield South,22041,Pascoe Vale,86.05,ok
+20528,Chadstone,22041,Pascoe Vale,91.42,ok
+20537,Chelsea,22041,Pascoe Vale,105.08,ok
+20538,Chelsea Heights,22041,Pascoe Vale,129.2,ok
+20539,Cheltenham (Vic.),22041,Pascoe Vale,94.55,ok
+20541,Cherokee,22041,Pascoe Vale,,no_eligible_route
+20555,Chintin,22041,Pascoe Vale,,no_eligible_route
+20556,Chirnside Park,22041,Pascoe Vale,126.38,ok
+20559,Christmas Hills (Vic.),22041,Pascoe Vale,,no_eligible_route
+20560,Chum Creek,22041,Pascoe Vale,,no_eligible_route
+20566,Clarinda,22041,Pascoe Vale,99.93,ok
+20567,Clarkefield,22041,Pascoe Vale,,no_eligible_route
+20569,Clayton,22041,Pascoe Vale,92.63,ok
+20570,Clayton South,22041,Pascoe Vale,108.62,ok
+20572,Clematis,22041,Pascoe Vale,,no_eligible_route
+20574,Clifton Hill,22041,Pascoe Vale,49.22,ok
+20576,Clonbinane,22041,Pascoe Vale,,no_eligible_route
+20581,Clyde (Vic.),22041,Pascoe Vale,168.97,ok
+20582,Clyde North,22041,Pascoe Vale,141.73,ok
+20587,Cobaw,22041,Pascoe Vale,,no_eligible_route
+20590,Cobblebank,22041,Pascoe Vale,157.97,ok
+20596,Coburg,22041,Pascoe Vale,20.02,ok
+20597,Coburg North,22041,Pascoe Vale,31.13,ok
+20600,Cockatoo (Vic.),22041,Pascoe Vale,,no_eligible_route
+20601,Cocoroc,22041,Pascoe Vale,,no_eligible_route
+20605,Coimadai,22041,Pascoe Vale,,no_eligible_route
+20613,Coldstream (Vic.),22041,Pascoe Vale,,no_eligible_route
+20616,Collingwood (Vic.),22041,Pascoe Vale,56.38,ok
+20624,Coolaroo,22041,Pascoe Vale,39.58,ok
+20633,Cora Lynn,22041,Pascoe Vale,,no_eligible_route
+20654,Cottles Bridge,22041,Pascoe Vale,,no_eligible_route
+20661,Craigieburn,22041,Pascoe Vale,53.42,ok
+20662,Cranbourne,22041,Pascoe Vale,131.58,ok
+20663,Cranbourne East,22041,Pascoe Vale,131.02,ok
+20664,Cranbourne North,22041,Pascoe Vale,126.93,ok
+20665,Cranbourne South,22041,Pascoe Vale,159.48,ok
+20666,Cranbourne West,22041,Pascoe Vale,134.43,ok
+20670,Cremorne (Vic.),22041,Pascoe Vale,60.07,ok
+20674,Crib Point,22041,Pascoe Vale,170.32,ok
+20682,Croydon (Vic.),22041,Pascoe Vale,98.12,ok
+20683,Croydon Hills,22041,Pascoe Vale,119.43,ok
+20684,Croydon North,22041,Pascoe Vale,120.87,ok
+20685,Croydon South,22041,Pascoe Vale,118.03,ok
+20702,Dallas,22041,Pascoe Vale,44.98,ok
+20703,Dalmore,22041,Pascoe Vale,,no_eligible_route
+20707,Dandenong,22041,Pascoe Vale,103.9,ok
+20708,Dandenong North,22041,Pascoe Vale,123.37,ok
+20709,Dandenong South,22041,Pascoe Vale,123.8,ok
+20712,Darley,22041,Pascoe Vale,,no_eligible_route
+20716,Darraweit Guim,22041,Pascoe Vale,,no_eligible_route
+20724,Deanside,22041,Pascoe Vale,125.8,ok
+20728,Deepdene (Vic.),22041,Pascoe Vale,81.63,ok
+20729,Deer Park,22041,Pascoe Vale,74.5,ok
+20731,Delahey,22041,Pascoe Vale,99.63,ok
+20743,Derrimut,22041,Pascoe Vale,113.07,ok
+20748,Devon Meadows,22041,Pascoe Vale,175.72,ok
+20750,Dewhurst,22041,Pascoe Vale,,no_eligible_route
+20752,Diamond Creek,22041,Pascoe Vale,97.42,ok
+20754,Diggers Rest,22041,Pascoe Vale,87.55,ok
+20758,Dingley Village,22041,Pascoe Vale,111.45,ok
+20762,Dixons Creek,22041,Pascoe Vale,,no_eligible_route
+20766,Docklands,22041,Pascoe Vale,51.55,ok
+20769,Don Valley,22041,Pascoe Vale,,no_eligible_route
+20771,Doncaster,22041,Pascoe Vale,64.48,ok
+20772,Doncaster East,22041,Pascoe Vale,83.55,ok
+20773,Donnybrook (Vic.),22041,Pascoe Vale,83.43,ok
+20774,Donvale,22041,Pascoe Vale,109.88,ok
+20779,Doreen,22041,Pascoe Vale,99.9,ok
+20783,Doveton,22041,Pascoe Vale,115.7,ok
+20788,Dromana,22041,Pascoe Vale,217.45,ok
+20825,Eaglemont,22041,Pascoe Vale,58.58,ok
+20830,East Melbourne,22041,Pascoe Vale,55.13,ok
+20833,East Warburton,22041,Pascoe Vale,,no_eligible_route
+20843,Eden Park,22041,Pascoe Vale,,no_eligible_route
+20848,Edithvale,22041,Pascoe Vale,105.22,ok
+20864,Elsternwick,22041,Pascoe Vale,73.32,ok
+20865,Eltham (Vic.),22041,Pascoe Vale,87.65,ok
+20866,Eltham North,22041,Pascoe Vale,93.53,ok
+20867,Elwood,22041,Pascoe Vale,79.5,ok
+20868,Emerald (Vic.),22041,Pascoe Vale,,no_eligible_route
+20871,Endeavour Hills,22041,Pascoe Vale,125.75,ok
+20878,Epping (Vic.),22041,Pascoe Vale,73.72,ok
+20885,Essendon,22041,Pascoe Vale,29.28,ok
+20886,Essendon Fields,22041,Pascoe Vale,57.07,ok
+20887,Essendon North,22041,Pascoe Vale,30.48,ok
+20888,Essendon West,22041,Pascoe Vale,39.53,ok
+20889,Eumemmerring,22041,Pascoe Vale,122.23,ok
+20898,Exford,22041,Pascoe Vale,,no_eligible_route
+20899,Eynesbury,22041,Pascoe Vale,,no_eligible_route
+20901,Fairfield (Vic.),22041,Pascoe Vale,56.3,ok
+20909,Fawkner,22041,Pascoe Vale,35.5,ok
+20916,Fernshaw,22041,Pascoe Vale,,no_eligible_route
+20917,Ferntree Gully,22041,Pascoe Vale,115.42,ok
+20918,Ferny Creek,22041,Pascoe Vale,150.95,ok
+20920,Fingal (Vic.),22041,Pascoe Vale,,no_eligible_route
+20924,Fitzroy (Vic.),22041,Pascoe Vale,48.55,ok
+20925,Fitzroy North,22041,Pascoe Vale,46.28,ok
+20929,Flemington,22041,Pascoe Vale,43.28,ok
+20930,Flinders (Vic.),22041,Pascoe Vale,,no_eligible_route
+20935,Footscray,22041,Pascoe Vale,50.92,ok
+20937,Forest Hill (Vic.),22041,Pascoe Vale,98.67,ok
+20947,Frankston,22041,Pascoe Vale,128.8,ok
+20948,Frankston North,22041,Pascoe Vale,145.03,ok
+20949,Frankston South,22041,Pascoe Vale,154.73,ok
+20950,Fraser Rise,22041,Pascoe Vale,123.05,ok
+20965,Gardenvale,22041,Pascoe Vale,74.6,ok
+20966,Garfield,22041,Pascoe Vale,,no_eligible_route
+20967,Garfield North,22041,Pascoe Vale,,no_eligible_route
+20979,Gembrook,22041,Pascoe Vale,,no_eligible_route
+20995,Gilderoy,22041,Pascoe Vale,,no_eligible_route
+21001,Gisborne,22041,Pascoe Vale,,no_eligible_route
+21002,Gisborne South,22041,Pascoe Vale,,no_eligible_route
+21004,Gladstone Park,22041,Pascoe Vale,57.07,ok
+21005,Gladysdale,22041,Pascoe Vale,,no_eligible_route
+21009,Glen Huntly,22041,Pascoe Vale,80.33,ok
+21010,Glen Iris (Vic.),22041,Pascoe Vale,82.87,ok
+21013,Glen Waverley,22041,Pascoe Vale,89.78,ok
+21047,Glenroy (Vic.),22041,Pascoe Vale,25.25,ok
+21059,Goldie,22041,Pascoe Vale,,no_eligible_route
+21079,Gowanbrae,22041,Pascoe Vale,50.48,ok
+21087,Grangefields,22041,Pascoe Vale,154.65,ok
+21104,Greensborough,22041,Pascoe Vale,73.95,ok
+21105,Greenvale (Vic.),22041,Pascoe Vale,63.52,ok
+21115,Gruyere,22041,Pascoe Vale,,no_eligible_route
+21121,Guys Hill,22041,Pascoe Vale,,no_eligible_route
+21124,Hadfield,22041,Pascoe Vale,18.63,ok
+21125,Hallam,22041,Pascoe Vale,122.95,ok
+21131,Hampton (Vic.),22041,Pascoe Vale,86.0,ok
+21132,Hampton East,22041,Pascoe Vale,95.57,ok
+21133,Hampton Park,22041,Pascoe Vale,124.37,ok
+21139,Harkaway,22041,Pascoe Vale,,no_eligible_route
+21140,Harkness,22041,Pascoe Vale,175.18,ok
+21145,Hastings (Vic.),22041,Pascoe Vale,162.88,ok
+21152,Hawthorn (Vic.),22041,Pascoe Vale,70.73,ok
+21153,Hawthorn East,22041,Pascoe Vale,72.65,ok
+21158,Healesville,22041,Pascoe Vale,187.13,ok
+21159,Heath Hill,22041,Pascoe Vale,,no_eligible_route
+21161,Heathcote Junction,22041,Pascoe Vale,,no_eligible_route
+21163,Heatherton,22041,Pascoe Vale,106.95,ok
+21165,Heathmont,22041,Pascoe Vale,96.85,ok
+21167,Heidelberg,22041,Pascoe Vale,50.77,ok
+21168,Heidelberg Heights,22041,Pascoe Vale,56.77,ok
+21169,Heidelberg West,22041,Pascoe Vale,50.62,ok
+21176,Hesket,22041,Pascoe Vale,,no_eligible_route
+21185,Highett,22041,Pascoe Vale,88.33,ok
+21193,Hillside (Melton - Vic.),22041,Pascoe Vale,107.6,ok
+21195,Hmas Cerberus,22041,Pascoe Vale,,no_eligible_route
+21196,Hoddles Creek,22041,Pascoe Vale,,no_eligible_route
+21202,Hopetoun Park,22041,Pascoe Vale,,no_eligible_route
+21203,Hoppers Crossing,22041,Pascoe Vale,92.45,ok
+21214,Hughesdale,22041,Pascoe Vale,82.42,ok
+21215,Humevale,22041,Pascoe Vale,130.28,ok
+21218,Huntingdale (Vic.),22041,Pascoe Vale,87.85,ok
+21223,Hurstbridge,22041,Pascoe Vale,97.97,ok
+21238,Iona,22041,Pascoe Vale,,no_eligible_route
+21246,Ivanhoe (Vic.),22041,Pascoe Vale,57.25,ok
+21247,Ivanhoe East,22041,Pascoe Vale,58.32,ok
+21248,Jacana,22041,Pascoe Vale,37.08,ok
+21277,Junction Village,22041,Pascoe Vale,161.85,ok
+21284,Kalkallo,22041,Pascoe Vale,82.43,ok
+21286,Kallista,22041,Pascoe Vale,154.38,ok
+21287,Kalorama,22041,Pascoe Vale,129.08,ok
+21294,Kangaroo Ground,22041,Pascoe Vale,121.2,ok
+21312,Kealba,22041,Pascoe Vale,89.88,ok
+21314,Keilor,22041,Pascoe Vale,85.03,ok
+21315,Keilor Downs,22041,Pascoe Vale,100.27,ok
+21316,Keilor East,22041,Pascoe Vale,55.9,ok
+21317,Keilor Lodge,22041,Pascoe Vale,86.72,ok
+21318,Keilor North,22041,Pascoe Vale,60.23,ok
+21319,Keilor Park,22041,Pascoe Vale,64.82,ok
+21327,Kensington (Vic.),22041,Pascoe Vale,36.03,ok
+21333,Kerrie,22041,Pascoe Vale,,no_eligible_route
+21336,Kew (Vic.),22041,Pascoe Vale,69.87,ok
+21337,Kew East,22041,Pascoe Vale,73.9,ok
+21339,Keysborough,22041,Pascoe Vale,111.22,ok
+21354,Kilsyth,22041,Pascoe Vale,118.47,ok
+21355,Kilsyth South,22041,Pascoe Vale,133.55,ok
+21358,Kinglake,22041,Pascoe Vale,,no_eligible_route
+21359,Kinglake Central,22041,Pascoe Vale,,no_eligible_route
+21360,Kinglake West,22041,Pascoe Vale,133.25,ok
+21362,Kings Park (Vic.),22041,Pascoe Vale,92.87,ok
+21363,Kingsbury,22041,Pascoe Vale,55.05,ok
+21365,Kingsville,22041,Pascoe Vale,66.87,ok
+21374,Knoxfield,22041,Pascoe Vale,116.32,ok
+21380,Koo Wee Rup,22041,Pascoe Vale,,no_eligible_route
+21381,Koo Wee Rup North,22041,Pascoe Vale,,no_eligible_route
+21393,Kooyong,22041,Pascoe Vale,63.55,ok
+21411,Kurunjang,22041,Pascoe Vale,152.38,ok
+21452,Lalor,22041,Pascoe Vale,58.38,ok
+21456,Lancefield,22041,Pascoe Vale,,no_eligible_route
+21459,Lang Lang,22041,Pascoe Vale,,no_eligible_route
+21460,Lang Lang East,22041,Pascoe Vale,,no_eligible_route
+21467,Langwarrin,22041,Pascoe Vale,142.77,ok
+21468,Langwarrin South,22041,Pascoe Vale,,no_eligible_route
+21473,Launching Place,22041,Pascoe Vale,140.77,ok
+21476,Laverton (Vic.),22041,Pascoe Vale,74.22,ok
+21477,Laverton North,22041,Pascoe Vale,102.63,ok
+21504,Lilydale (Vic.),22041,Pascoe Vale,120.42,ok
+21533,Long Forest,22041,Pascoe Vale,,no_eligible_route
+21547,Lower Plenty,22041,Pascoe Vale,89.23,ok
+21554,Lynbrook,22041,Pascoe Vale,114.63,ok
+21555,Lyndhurst (Vic.),22041,Pascoe Vale,158.22,ok
+21558,Lysterfield,22041,Pascoe Vale,,no_eligible_route
+21559,Lysterfield South,22041,Pascoe Vale,173.35,ok
+21561,Macclesfield (Vic.),22041,Pascoe Vale,,no_eligible_route
+21562,Macedon,22041,Pascoe Vale,,no_eligible_route
+21564,Macleod (Vic.),22041,Pascoe Vale,69.75,ok
+21569,Maddingley,22041,Pascoe Vale,,no_eligible_route
+21575,Maidstone,22041,Pascoe Vale,61.27,ok
+21578,Main Ridge,22041,Pascoe Vale,,no_eligible_route
+21586,Malvern (Vic.),22041,Pascoe Vale,77.78,ok
+21587,Malvern East,22041,Pascoe Vale,76.15,ok
+21588,Mambourin,22041,Pascoe Vale,,no_eligible_route
+21597,Manor Lakes,22041,Pascoe Vale,129.68,ok
+21604,Maribyrnong,22041,Pascoe Vale,53.0,ok
+21619,Maryknoll,22041,Pascoe Vale,,no_eligible_route
+21625,McCrae,22041,Pascoe Vale,200.87,ok
+21629,McKinnon,22041,Pascoe Vale,77.63,ok
+21635,Meadow Heights,22041,Pascoe Vale,50.85,ok
+21640,Melbourne,22041,Pascoe Vale,51.23,ok
+21641,Melbourne Airport,22041,Pascoe Vale,182.98,walk_only
+21642,Melton (Vic.),22041,Pascoe Vale,160.18,ok
+21643,Melton South,22041,Pascoe Vale,172.93,ok
+21644,Melton West,22041,Pascoe Vale,148.57,ok
+21648,Mentone,22041,Pascoe Vale,89.32,ok
+21649,Menzies Creek,22041,Pascoe Vale,,no_eligible_route
+21659,Mernda,22041,Pascoe Vale,90.2,ok
+21662,Merricks,22041,Pascoe Vale,,no_eligible_route
+21663,Merricks Beach,22041,Pascoe Vale,,no_eligible_route
+21664,Merricks North,22041,Pascoe Vale,,no_eligible_route
+21668,Merrimu,22041,Pascoe Vale,,no_eligible_route
+21675,Mickleham,22041,Pascoe Vale,84.42,ok
+21677,Middle Park (Vic.),22041,Pascoe Vale,63.57,ok
+21683,Mill Park,22041,Pascoe Vale,77.47,ok
+21685,Millgrove,22041,Pascoe Vale,,no_eligible_route
+21706,Mitcham (Vic.),22041,Pascoe Vale,93.02,ok
+21727,Monbulk,22041,Pascoe Vale,161.83,ok
+21728,Monegeetta,22041,Pascoe Vale,,no_eligible_route
+21731,Monomeith,22041,Pascoe Vale,,no_eligible_route
+21732,Mont Albert,22041,Pascoe Vale,81.18,ok
+21733,Mont Albert North,22041,Pascoe Vale,88.53,ok
+21735,Montmorency,22041,Pascoe Vale,76.37,ok
+21736,Montrose (Vic.),22041,Pascoe Vale,121.38,ok
+21742,Moonee Ponds,22041,Pascoe Vale,31.08,ok
+21746,Moorabbin,22041,Pascoe Vale,98.15,ok
+21747,Moorabbin Airport,22041,Pascoe Vale,112.82,ok
+21754,Moorooduc,22041,Pascoe Vale,,no_eligible_route
+21755,Mooroolbark,22041,Pascoe Vale,111.32,ok
+21760,Mordialloc,22041,Pascoe Vale,104.62,ok
+21763,Mornington (Vic.),22041,Pascoe Vale,163.67,ok
+21779,Mount Burnett,22041,Pascoe Vale,,no_eligible_route
+21786,Mount Cottrell,22041,Pascoe Vale,,no_eligible_route
+21787,Mount Dandenong,22041,Pascoe Vale,133.08,ok
+21793,Mount Eliza,22041,Pascoe Vale,141.85,ok
+21795,Mount Evelyn,22041,Pascoe Vale,137.25,ok
+21801,Mount Macedon,22041,Pascoe Vale,,no_eligible_route
+21803,Mount Martha,22041,Pascoe Vale,169.38,ok
+21814,Mount Toolebewong,22041,Pascoe Vale,,no_eligible_route
+21816,Mount Waverley,22041,Pascoe Vale,81.22,ok
+21827,Mulgrave (Vic.),22041,Pascoe Vale,112.68,ok
+21849,Murrumbeena,22041,Pascoe Vale,82.53,ok
+21872,Nangana,22041,Pascoe Vale,,no_eligible_route
+21878,Nar Nar Goon,22041,Pascoe Vale,,no_eligible_route
+21879,Nar Nar Goon North,22041,Pascoe Vale,,no_eligible_route
+21893,Narre Warren,22041,Pascoe Vale,119.93,ok
+21894,Narre Warren East,22041,Pascoe Vale,,no_eligible_route
+21895,Narre Warren North,22041,Pascoe Vale,138.2,ok
+21896,Narre Warren South,22041,Pascoe Vale,125.18,ok
+21921,New Gisborne,22041,Pascoe Vale,,no_eligible_route
+21934,Newport (Vic.),22041,Pascoe Vale,59.07,ok
+21942,Niddrie,22041,Pascoe Vale,50.58,ok
+21952,Noble Park,22041,Pascoe Vale,94.63,ok
+21953,Noble Park North,22041,Pascoe Vale,127.82,ok
+21966,North Melbourne,22041,Pascoe Vale,45.95,ok
+21969,North Warrandyte,22041,Pascoe Vale,109.18,ok
+21971,Northcote,22041,Pascoe Vale,47.05,ok
+21974,Notting Hill,22041,Pascoe Vale,93.77,ok
+21985,Nunawading,22041,Pascoe Vale,85.5,ok
+21991,Nutfield,22041,Pascoe Vale,,no_eligible_route
+21998,Oak Park,22041,Pascoe Vale,22.93,ok
+21999,Oaklands Junction,22041,Pascoe Vale,,no_eligible_route
+22000,Oakleigh,22041,Pascoe Vale,81.6,ok
+22001,Oakleigh East,22041,Pascoe Vale,91.42,ok
+22002,Oakleigh South,22041,Pascoe Vale,94.23,ok
+22006,Officer,22041,Pascoe Vale,136.92,ok
+22007,Officer South,22041,Pascoe Vale,175.05,ok
+22009,Olinda (Vic.),22041,Pascoe Vale,152.27,ok
+22016,Ormond,22041,Pascoe Vale,78.07,ok
+22027,Pakenham,22041,Pascoe Vale,134.4,ok
+22028,Pakenham South,22041,Pascoe Vale,,no_eligible_route
+22029,Pakenham Upper,22041,Pascoe Vale,,no_eligible_route
+22032,Panton Hill,22041,Pascoe Vale,,no_eligible_route
+22036,Park Orchards,22041,Pascoe Vale,102.98,ok
+22037,Parkdale,22041,Pascoe Vale,94.4,ok
+22038,Parkville (Vic.),22041,Pascoe Vale,39.25,ok
+22041,Pascoe Vale,22041,Pascoe Vale,0.0,same_centroid
+22042,Pascoe Vale South,22041,Pascoe Vale,16.85,ok
+22047,Patterson Lakes,22041,Pascoe Vale,116.7,ok
+22050,Pearcedale,22041,Pascoe Vale,176.78,ok
+22058,Pentland Hills,22041,Pascoe Vale,,no_eligible_route
+22064,Pheasant Creek (Vic.),22041,Pascoe Vale,148.9,ok
+22084,Plenty (Vic.),22041,Pascoe Vale,100.55,ok
+22085,Plumpton (Vic.),22041,Pascoe Vale,,no_eligible_route
+22086,Point Cook,22041,Pascoe Vale,91.45,ok
+22087,Point Leo,22041,Pascoe Vale,,no_eligible_route
+22107,Port Melbourne,22041,Pascoe Vale,59.07,ok
+22113,Portsea,22041,Pascoe Vale,,no_eligible_route
+22115,Powelltown,22041,Pascoe Vale,,no_eligible_route
+22118,Prahran,22041,Pascoe Vale,68.13,ok
+22121,Preston (Vic.),22041,Pascoe Vale,35.62,ok
+22122,Princes Hill,22041,Pascoe Vale,38.47,ok
+22132,Quandong,22041,Pascoe Vale,,no_eligible_route
+22141,Ravenhall,22041,Pascoe Vale,110.25,ok
+22148,Red Hill (Vic.),22041,Pascoe Vale,,no_eligible_route
+22149,Red Hill South,22041,Pascoe Vale,,no_eligible_route
+22160,Research,22041,Pascoe Vale,101.53,ok
+22161,Reservoir (Vic.),22041,Pascoe Vale,41.78,ok
+22170,Richmond (Vic.),22041,Pascoe Vale,66.08,ok
+22172,Riddells Creek,22041,Pascoe Vale,,no_eligible_route
+22174,Ringwood (Vic.),22041,Pascoe Vale,99.63,ok
+22175,Ringwood East,22041,Pascoe Vale,99.2,ok
+22176,Ringwood North,22041,Pascoe Vale,109.57,ok
+22179,Ripponlea,22041,Pascoe Vale,64.03,ok
+22185,Rochford,22041,Pascoe Vale,,no_eligible_route
+22186,Rockbank,22041,Pascoe Vale,133.45,ok
+22193,Romsey,22041,Pascoe Vale,,no_eligible_route
+22194,Rosanna,22041,Pascoe Vale,57.7,ok
+22198,Rosebud,22041,Pascoe Vale,218.18,ok
+22207,Rowville,22041,Pascoe Vale,125.0,ok
+22208,Roxburgh Park,22041,Pascoe Vale,50.68,ok
+22220,Rye,22041,Pascoe Vale,230.38,ok
+22221,Rythdale,22041,Pascoe Vale,,no_eligible_route
+22222,Safety Beach (Vic.),22041,Pascoe Vale,185.35,ok
+22232,Sandhurst,22041,Pascoe Vale,145.03,ok
+22234,Sandringham (Vic.),22041,Pascoe Vale,90.88,ok
+22239,Sassafras (Vic.),22041,Pascoe Vale,133.72,ok
+22242,Scoresby,22041,Pascoe Vale,112.97,ok
+22247,Seabrook,22041,Pascoe Vale,85.03,ok
+22249,Seaford (Vic.),22041,Pascoe Vale,119.93,ok
+22250,Seaholme,22041,Pascoe Vale,69.3,ok
+22256,Seddon (Vic.),22041,Pascoe Vale,53.32,ok
+22258,Selby,22041,Pascoe Vale,152.27,ok
+22263,Seville,22041,Pascoe Vale,151.93,ok
+22264,Seville East,22041,Pascoe Vale,138.82,ok
+22278,Sherbrooke,22041,Pascoe Vale,144.45,ok
+22279,Shoreham,22041,Pascoe Vale,,no_eligible_route
+22281,Silvan,22041,Pascoe Vale,153.93,ok
+22291,Skye (Vic.),22041,Pascoe Vale,152.72,ok
+22295,Smiths Gully,22041,Pascoe Vale,,no_eligible_route
+22303,Somers,22041,Pascoe Vale,,no_eligible_route
+22304,Somerton (Vic.),22041,Pascoe Vale,57.13,ok
+22305,Somerville (Vic.),22041,Pascoe Vale,167.93,ok
+22306,Sorrento (Vic.),22041,Pascoe Vale,221.15,ok
+22309,South Kingsville,22041,Pascoe Vale,72.32,ok
+22310,South Melbourne,22041,Pascoe Vale,56.38,ok
+22311,South Morang,22041,Pascoe Vale,81.08,ok
+22313,South Wharf,22041,Pascoe Vale,55.17,ok
+22314,South Yarra,22041,Pascoe Vale,54.8,ok
+22315,Southbank,22041,Pascoe Vale,55.38,ok
+22319,Spotswood,22041,Pascoe Vale,53.47,ok
+22325,Springfield (Macedon Ranges - Vic.),22041,Pascoe Vale,,no_eligible_route
+22328,Springvale (Vic.),22041,Pascoe Vale,95.6,ok
+22329,Springvale South,22041,Pascoe Vale,96.33,ok
+22330,St Albans (Vic.),22041,Pascoe Vale,79.15,ok
+22332,St Andrews (Vic.),22041,Pascoe Vale,,no_eligible_route
+22333,St Andrews Beach,22041,Pascoe Vale,,no_eligible_route
+22339,St Helena,22041,Pascoe Vale,81.8,ok
+22343,St Kilda (Vic.),22041,Pascoe Vale,69.62,ok
+22344,St Kilda East,22041,Pascoe Vale,75.22,ok
+22345,St Kilda West,22041,Pascoe Vale,65.45,ok
+22355,Steels Creek,22041,Pascoe Vale,,no_eligible_route
+22375,Strathewen,22041,Pascoe Vale,,no_eligible_route
+22380,Strathmore (Vic.),22041,Pascoe Vale,38.2,walk_only
+22381,Strathmore Heights,22041,Pascoe Vale,39.73,ok
+22382,Strathtulloh,22041,Pascoe Vale,,no_eligible_route
+22391,Sunbury,22041,Pascoe Vale,,no_eligible_route
+22395,Sunshine (Vic.),22041,Pascoe Vale,67.93,ok
+22396,Sunshine North,22041,Pascoe Vale,72.42,ok
+22397,Sunshine West,22041,Pascoe Vale,97.9,ok
+22399,Surrey Hills,22041,Pascoe Vale,81.58,ok
+22414,Sydenham (Vic.),22041,Pascoe Vale,93.55,ok
+22451,Tarneit,22041,Pascoe Vale,110.52,ok
+22457,Tarrawarra,22041,Pascoe Vale,162.73,ok
+22473,Taylors Hill,22041,Pascoe Vale,102.38,ok
+22474,Taylors Lakes,22041,Pascoe Vale,78.4,ok
+22476,Tecoma,22041,Pascoe Vale,116.67,ok
+22483,Templestowe,22041,Pascoe Vale,91.95,ok
+22484,Templestowe Lower,22041,Pascoe Vale,84.82,ok
+22496,The Basin (Vic.),22041,Pascoe Vale,124.85,ok
+22501,The Patch,22041,Pascoe Vale,152.4,ok
+22504,Thomastown,22041,Pascoe Vale,65.68,ok
+22508,Thornbury,22041,Pascoe Vale,45.15,ok
+22509,Thornhill Park,22041,Pascoe Vale,,no_eligible_route
+22514,Three Bridges,22041,Pascoe Vale,,no_eligible_route
+22531,Tonimbuk,22041,Pascoe Vale,,no_eligible_route
+22536,Toolangi,22041,Pascoe Vale,,no_eligible_route
+22537,Toolern Vale,22041,Pascoe Vale,,no_eligible_route
+22546,Tooradin,22041,Pascoe Vale,,no_eligible_route
+22547,Toorak,22041,Pascoe Vale,72.73,ok
+22550,Tootgarook,22041,Pascoe Vale,213.8,ok
+22556,Tottenham (Vic.),22041,Pascoe Vale,88.47,ok
+22572,Travancore,22041,Pascoe Vale,46.98,ok
+22576,Tremont,22041,Pascoe Vale,129.85,ok
+22582,Truganina,22041,Pascoe Vale,159.67,ok
+22584,Tuerong,22041,Pascoe Vale,,no_eligible_route
+22586,Tullamarine,22041,Pascoe Vale,64.13,ok
+22594,Tyabb,22041,Pascoe Vale,156.8,ok
+22598,Tynong,22041,Pascoe Vale,,no_eligible_route
+22599,Tynong North,22041,Pascoe Vale,,no_eligible_route
+22614,Upper Ferntree Gully,22041,Pascoe Vale,113.82,ok
+22617,Upper Plenty,22041,Pascoe Vale,,no_eligible_route
+22620,Upwey,22041,Pascoe Vale,116.53,ok
+22627,Vermont,22041,Pascoe Vale,103.32,ok
+22628,Vermont South,22041,Pascoe Vale,107.52,ok
+22629,Vervale,22041,Pascoe Vale,,no_eligible_route
+22633,Viewbank,22041,Pascoe Vale,70.52,ok
+22661,Wallan,22041,Pascoe Vale,,no_eligible_route
+22672,Wandin East,22041,Pascoe Vale,,no_eligible_route
+22673,Wandin North,22041,Pascoe Vale,124.9,ok
+22676,Wandong,22041,Pascoe Vale,,no_eligible_route
+22685,Wantirna,22041,Pascoe Vale,116.25,ok
+22686,Wantirna South,22041,Pascoe Vale,113.7,ok
+22689,Warburton (Vic.),22041,Pascoe Vale,,no_eligible_route
+22695,Warneet,22041,Pascoe Vale,,no_eligible_route
+22702,Warrandyte,22041,Pascoe Vale,97.73,ok
+22703,Warrandyte South,22041,Pascoe Vale,140.13,ok
+22704,Warranwood,22041,Pascoe Vale,117.8,ok
+22717,Waterford Park,22041,Pascoe Vale,,no_eligible_route
+22720,Waterways,22041,Pascoe Vale,120.77,ok
+22721,Watsonia,22041,Pascoe Vale,61.82,ok
+22722,Watsonia North,22041,Pascoe Vale,66.42,ok
+22723,Watsons Creek (Vic.),22041,Pascoe Vale,,no_eligible_route
+22727,Wattle Glen,22041,Pascoe Vale,101.72,ok
+22740,Weir Views,22041,Pascoe Vale,203.4,ok
+22750,Werribee,22041,Pascoe Vale,87.25,ok
+22751,Werribee South,22041,Pascoe Vale,124.27,ok
+22753,Wesburn,22041,Pascoe Vale,156.87,ok
+22756,West Footscray,22041,Pascoe Vale,70.63,ok
+22757,West Melbourne,22041,Pascoe Vale,61.03,ok
+22761,Westmeadows,22041,Pascoe Vale,44.1,ok
+22766,Wheelers Hill,22041,Pascoe Vale,103.83,ok
+22775,Whittlesea,22041,Pascoe Vale,,no_eligible_route
+22784,Wildwood,22041,Pascoe Vale,,no_eligible_route
+22791,Williams Landing,22041,Pascoe Vale,88.47,ok
+22792,Williamstown (Vic.),22041,Pascoe Vale,66.28,ok
+22793,Williamstown North,22041,Pascoe Vale,80.82,ok
+22805,Windsor (Vic.),22041,Pascoe Vale,61.3,ok
+22820,Wollert,22041,Pascoe Vale,74.95,ok
+22825,Wonga Park,22041,Pascoe Vale,126.65,ok
+22843,Woodstock (Vic.),22041,Pascoe Vale,,no_eligible_route
+22857,Woori Yallock,22041,Pascoe Vale,136.02,ok
+22883,Wyndham Vale,22041,Pascoe Vale,117.07,ok
+22892,Yallambie,22041,Pascoe Vale,73.25,ok
+22898,Yan Yean,22041,Pascoe Vale,114.63,ok
+22906,Yannathan,22041,Pascoe Vale,,no_eligible_route
+22910,Yarra Glen,22041,Pascoe Vale,160.03,ok
+22911,Yarra Junction,22041,Pascoe Vale,161.13,ok
+22916,Yarrambat,22041,Pascoe Vale,97.12,ok
+22917,Yarraville,22041,Pascoe Vale,59.22,ok
+22925,Yellingbo,22041,Pascoe Vale,,no_eligible_route
+22930,Yering,22041,Pascoe Vale,,no_eligible_route
+22941,Yuroke,22041,Pascoe Vale,107.05,ok

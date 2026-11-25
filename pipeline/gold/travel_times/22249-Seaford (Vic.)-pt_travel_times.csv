@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22249,Seaford (Vic.),95.35,ok
+20003,Aberfeldie,22249,Seaford (Vic.),123.65,ok
+20011,Aintree,22249,Seaford (Vic.),155.38,ok
+20015,Airport West,22249,Seaford (Vic.),134.75,ok
+20017,Albanvale,22249,Seaford (Vic.),134.85,ok
+20018,Albert Park (Vic.),22249,Seaford (Vic.),102.12,ok
+20021,Albion (Vic.),22249,Seaford (Vic.),111.25,ok
+20034,Alphington,22249,Seaford (Vic.),104.27,ok
+20035,Altona (Vic.),22249,Seaford (Vic.),128.35,ok
+20036,Altona Meadows,22249,Seaford (Vic.),134.5,ok
+20037,Altona North,22249,Seaford (Vic.),132.75,ok
+20062,Ardeer,22249,Seaford (Vic.),125.4,ok
+20066,Armadale (Vic.),22249,Seaford (Vic.),66.48,ok
+20071,Arthurs Creek,22249,Seaford (Vic.),,no_eligible_route
+20072,Arthurs Seat,22249,Seaford (Vic.),103.02,ok
+20075,Ascot Vale,22249,Seaford (Vic.),106.18,ok
+20077,Ashburton,22249,Seaford (Vic.),99.35,ok
+20078,Ashwood,22249,Seaford (Vic.),96.97,ok
+20079,Aspendale,22249,Seaford (Vic.),39.43,ok
+20080,Aspendale Gardens,22249,Seaford (Vic.),51.03,ok
+20082,Attwood,22249,Seaford (Vic.),147.47,ok
+20089,Avondale Heights,22249,Seaford (Vic.),127.78,ok
+20091,Avonsleigh,22249,Seaford (Vic.),,no_eligible_route
+20095,Bacchus Marsh,22249,Seaford (Vic.),,no_eligible_route
+20097,Badger Creek,22249,Seaford (Vic.),210.95,ok
+20105,Balaclava (Vic.),22249,Seaford (Vic.),80.03,ok
+20120,Balnarring,22249,Seaford (Vic.),138.37,ok
+20121,Balnarring Beach,22249,Seaford (Vic.),134.9,ok
+20123,Balwyn,22249,Seaford (Vic.),107.87,ok
+20124,Balwyn North,22249,Seaford (Vic.),113.0,ok
+20131,Bangholme,22249,Seaford (Vic.),72.88,ok
+20169,Baxter,22249,Seaford (Vic.),50.82,ok
+20171,Bayles,22249,Seaford (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),22249,Seaford (Vic.),132.1,ok
+20174,Bayswater North,22249,Seaford (Vic.),142.72,ok
+20175,Beaconsfield (Vic.),22249,Seaford (Vic.),111.03,ok
+20176,Beaconsfield Upper,22249,Seaford (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),22249,Seaford (Vic.),60.63,ok
+20187,Beenak,22249,Seaford (Vic.),,no_eligible_route
+20188,Belgrave,22249,Seaford (Vic.),122.83,ok
+20189,Belgrave Heights,22249,Seaford (Vic.),,no_eligible_route
+20190,Belgrave South,22249,Seaford (Vic.),,no_eligible_route
+20198,Bellfield (Banyule - Vic.),22249,Seaford (Vic.),115.02,ok
+20207,Bend Of Islands,22249,Seaford (Vic.),,no_eligible_route
+20212,Benloch,22249,Seaford (Vic.),,no_eligible_route
+20214,Bentleigh,22249,Seaford (Vic.),56.15,ok
+20215,Bentleigh East,22249,Seaford (Vic.),63.48,ok
+20224,Berwick,22249,Seaford (Vic.),86.15,ok
+20233,Beveridge,22249,Seaford (Vic.),178.02,ok
+20237,Big Pats Creek,22249,Seaford (Vic.),,no_eligible_route
+20248,Bittern,22249,Seaford (Vic.),88.47,ok
+20251,Black Rock (Vic.),22249,Seaford (Vic.),66.43,ok
+20252,Blackburn,22249,Seaford (Vic.),103.08,ok
+20253,Blackburn North,22249,Seaford (Vic.),113.22,ok
+20254,Blackburn South,22249,Seaford (Vic.),117.42,ok
+20257,Blairgowrie,22249,Seaford (Vic.),105.05,ok
+20260,Blind Bight,22249,Seaford (Vic.),,no_eligible_route
+20272,Bolinda,22249,Seaford (Vic.),,no_eligible_route
+20278,Bonbeach,22249,Seaford (Vic.),33.15,ok
+20280,Boneo,22249,Seaford (Vic.),,no_eligible_route
+20282,Bonnie Brook,22249,Seaford (Vic.),187.93,ok
+20304,Boronia,22249,Seaford (Vic.),115.32,ok
+20307,Botanic Ridge,22249,Seaford (Vic.),103.07,ok
+20314,Box Hill (Vic.),22249,Seaford (Vic.),101.53,ok
+20315,Box Hill North,22249,Seaford (Vic.),109.95,ok
+20316,Box Hill South,22249,Seaford (Vic.),98.83,ok
+20320,Braeside,22249,Seaford (Vic.),73.15,ok
+20324,Braybrook,22249,Seaford (Vic.),123.1,ok
+20331,Briar Hill,22249,Seaford (Vic.),140.85,ok
+20337,Brighton (Vic.),22249,Seaford (Vic.),71.67,ok
+20338,Brighton East,22249,Seaford (Vic.),66.32,ok
+20346,Broadmeadows (Vic.),22249,Seaford (Vic.),134.1,ok
+20351,Brookfield (Vic.),22249,Seaford (Vic.),,no_eligible_route
+20352,Brooklyn (Vic.),22249,Seaford (Vic.),123.67,ok
+20361,Brunswick (Vic.),22249,Seaford (Vic.),109.2,ok
+20362,Brunswick East,22249,Seaford (Vic.),112.28,ok
+20363,Brunswick West,22249,Seaford (Vic.),113.38,ok
+20381,Bulla (Vic.),22249,Seaford (Vic.),,no_eligible_route
+20386,Bulleen,22249,Seaford (Vic.),124.15,ok
+20387,Bullengarook,22249,Seaford (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),22249,Seaford (Vic.),135.0,ok
+20411,Bunyip,22249,Seaford (Vic.),,no_eligible_route
+20412,Bunyip North,22249,Seaford (Vic.),,no_eligible_route
+20418,Burnley,22249,Seaford (Vic.),96.5,ok
+20419,Burnside (Vic.),22249,Seaford (Vic.),134.28,ok
+20420,Burnside Heights,22249,Seaford (Vic.),142.1,ok
+20426,Burwood (Vic.),22249,Seaford (Vic.),97.9,ok
+20427,Burwood East,22249,Seaford (Vic.),101.83,ok
+20435,Bylands,22249,Seaford (Vic.),,no_eligible_route
+20441,Cairnlea,22249,Seaford (Vic.),126.47,ok
+20442,Calder Park,22249,Seaford (Vic.),145.03,ok
+20443,Caldermeade,22249,Seaford (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),22249,Seaford (Vic.),97.87,ok
+20455,Campbellfield,22249,Seaford (Vic.),142.75,ok
+20466,Cannons Creek,22249,Seaford (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),22249,Seaford (Vic.),100.52,ok
+20474,Cape Schanck,22249,Seaford (Vic.),,no_eligible_route
+20476,Capel Sound,22249,Seaford (Vic.),87.4,ok
+20487,Cardinia,22249,Seaford (Vic.),,no_eligible_route
+20495,Carlton (Vic.),22249,Seaford (Vic.),97.47,ok
+20496,Carlton North,22249,Seaford (Vic.),108.18,ok
+20498,Carnegie,22249,Seaford (Vic.),66.05,ok
+20500,Caroline Springs,22249,Seaford (Vic.),146.17,ok
+20507,Carrum,22249,Seaford (Vic.),22.87,ok
+20508,Carrum Downs,22249,Seaford (Vic.),21.82,ok
+20512,Castella,22249,Seaford (Vic.),,no_eligible_route
+20517,Catani,22249,Seaford (Vic.),,no_eligible_route
+20521,Caulfield,22249,Seaford (Vic.),73.18,ok
+20522,Caulfield East,22249,Seaford (Vic.),66.93,ok
+20523,Caulfield North,22249,Seaford (Vic.),71.85,ok
+20524,Caulfield South,22249,Seaford (Vic.),67.77,ok
+20528,Chadstone,22249,Seaford (Vic.),90.58,ok
+20537,Chelsea,22249,Seaford (Vic.),33.92,ok
+20538,Chelsea Heights,22249,Seaford (Vic.),41.47,ok
+20539,Cheltenham (Vic.),22249,Seaford (Vic.),55.27,ok
+20541,Cherokee,22249,Seaford (Vic.),,no_eligible_route
+20555,Chintin,22249,Seaford (Vic.),,no_eligible_route
+20556,Chirnside Park,22249,Seaford (Vic.),170.27,ok
+20559,Christmas Hills (Vic.),22249,Seaford (Vic.),,no_eligible_route
+20560,Chum Creek,22249,Seaford (Vic.),,no_eligible_route
+20566,Clarinda,22249,Seaford (Vic.),79.03,ok
+20567,Clarkefield,22249,Seaford (Vic.),,no_eligible_route
+20569,Clayton,22249,Seaford (Vic.),83.25,ok
+20570,Clayton South,22249,Seaford (Vic.),85.35,ok
+20572,Clematis,22249,Seaford (Vic.),,no_eligible_route
+20574,Clifton Hill,22249,Seaford (Vic.),93.27,ok
+20576,Clonbinane,22249,Seaford (Vic.),,no_eligible_route
+20581,Clyde (Vic.),22249,Seaford (Vic.),,no_eligible_route
+20582,Clyde North,22249,Seaford (Vic.),82.0,ok
+20587,Cobaw,22249,Seaford (Vic.),,no_eligible_route
+20590,Cobblebank,22249,Seaford (Vic.),197.08,ok
+20596,Coburg,22249,Seaford (Vic.),114.73,ok
+20597,Coburg North,22249,Seaford (Vic.),124.3,ok
+20600,Cockatoo (Vic.),22249,Seaford (Vic.),,no_eligible_route
+20601,Cocoroc,22249,Seaford (Vic.),,no_eligible_route
+20605,Coimadai,22249,Seaford (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),22249,Seaford (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),22249,Seaford (Vic.),92.58,ok
+20624,Coolaroo,22249,Seaford (Vic.),134.97,ok
+20633,Cora Lynn,22249,Seaford (Vic.),,no_eligible_route
+20654,Cottles Bridge,22249,Seaford (Vic.),,no_eligible_route
+20661,Craigieburn,22249,Seaford (Vic.),152.53,ok
+20662,Cranbourne,22249,Seaford (Vic.),47.78,ok
+20663,Cranbourne East,22249,Seaford (Vic.),76.07,ok
+20664,Cranbourne North,22249,Seaford (Vic.),69.73,ok
+20665,Cranbourne South,22249,Seaford (Vic.),106.42,ok
+20666,Cranbourne West,22249,Seaford (Vic.),58.32,ok
+20670,Cremorne (Vic.),22249,Seaford (Vic.),82.08,ok
+20674,Crib Point,22249,Seaford (Vic.),94.85,ok
+20682,Croydon (Vic.),22249,Seaford (Vic.),118.85,ok
+20683,Croydon Hills,22249,Seaford (Vic.),144.18,ok
+20684,Croydon North,22249,Seaford (Vic.),138.6,ok
+20685,Croydon South,22249,Seaford (Vic.),150.85,ok
+20702,Dallas,22249,Seaford (Vic.),141.4,ok
+20703,Dalmore,22249,Seaford (Vic.),,no_eligible_route
+20707,Dandenong,22249,Seaford (Vic.),68.03,ok
+20708,Dandenong North,22249,Seaford (Vic.),93.43,ok
+20709,Dandenong South,22249,Seaford (Vic.),49.05,ok
+20712,Darley,22249,Seaford (Vic.),,no_eligible_route
+20716,Darraweit Guim,22249,Seaford (Vic.),,no_eligible_route
+20724,Deanside,22249,Seaford (Vic.),166.53,ok
+20728,Deepdene (Vic.),22249,Seaford (Vic.),100.37,ok
+20729,Deer Park,22249,Seaford (Vic.),123.23,ok
+20731,Delahey,22249,Seaford (Vic.),139.9,ok
+20743,Derrimut,22249,Seaford (Vic.),145.8,ok
+20748,Devon Meadows,22249,Seaford (Vic.),,no_eligible_route
+20750,Dewhurst,22249,Seaford (Vic.),,no_eligible_route
+20752,Diamond Creek,22249,Seaford (Vic.),155.58,ok
+20754,Diggers Rest,22249,Seaford (Vic.),145.35,ok
+20758,Dingley Village,22249,Seaford (Vic.),66.18,ok
+20762,Dixons Creek,22249,Seaford (Vic.),,no_eligible_route
+20766,Docklands,22249,Seaford (Vic.),96.28,ok
+20769,Don Valley,22249,Seaford (Vic.),,no_eligible_route
+20771,Doncaster,22249,Seaford (Vic.),112.75,ok
+20772,Doncaster East,22249,Seaford (Vic.),112.72,ok
+20773,Donnybrook (Vic.),22249,Seaford (Vic.),238.48,ok
+20774,Donvale,22249,Seaford (Vic.),119.45,ok
+20779,Doreen,22249,Seaford (Vic.),167.07,ok
+20783,Doveton,22249,Seaford (Vic.),87.78,ok
+20788,Dromana,22249,Seaford (Vic.),101.02,ok
+20825,Eaglemont,22249,Seaford (Vic.),122.6,ok
+20830,East Melbourne,22249,Seaford (Vic.),88.87,ok
+20833,East Warburton,22249,Seaford (Vic.),,no_eligible_route
+20843,Eden Park,22249,Seaford (Vic.),,no_eligible_route
+20848,Edithvale,22249,Seaford (Vic.),37.77,ok
+20864,Elsternwick,22249,Seaford (Vic.),74.57,ok
+20865,Eltham (Vic.),22249,Seaford (Vic.),141.82,ok
+20866,Eltham North,22249,Seaford (Vic.),145.7,ok
+20867,Elwood,22249,Seaford (Vic.),88.83,ok
+20868,Emerald (Vic.),22249,Seaford (Vic.),,no_eligible_route
+20871,Endeavour Hills,22249,Seaford (Vic.),96.07,ok
+20878,Epping (Vic.),22249,Seaford (Vic.),160.37,ok
+20885,Essendon,22249,Seaford (Vic.),116.4,ok
+20886,Essendon Fields,22249,Seaford (Vic.),137.8,ok
+20887,Essendon North,22249,Seaford (Vic.),118.8,ok
+20888,Essendon West,22249,Seaford (Vic.),124.27,ok
+20889,Eumemmerring,22249,Seaford (Vic.),87.8,ok
+20898,Exford,22249,Seaford (Vic.),,no_eligible_route
+20899,Eynesbury,22249,Seaford (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),22249,Seaford (Vic.),110.58,ok
+20909,Fawkner,22249,Seaford (Vic.),135.2,ok
+20916,Fernshaw,22249,Seaford (Vic.),,no_eligible_route
+20917,Ferntree Gully,22249,Seaford (Vic.),96.58,ok
+20918,Ferny Creek,22249,Seaford (Vic.),165.32,ok
+20920,Fingal (Vic.),22249,Seaford (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),22249,Seaford (Vic.),94.88,ok
+20925,Fitzroy North,22249,Seaford (Vic.),101.48,ok
+20929,Flemington,22249,Seaford (Vic.),114.72,ok
+20930,Flinders (Vic.),22249,Seaford (Vic.),,no_eligible_route
+20935,Footscray,22249,Seaford (Vic.),99.67,ok
+20937,Forest Hill (Vic.),22249,Seaford (Vic.),92.15,ok
+20947,Frankston,22249,Seaford (Vic.),35.53,ok
+20948,Frankston North,22249,Seaford (Vic.),38.1,ok
+20949,Frankston South,22249,Seaford (Vic.),56.8,ok
+20950,Fraser Rise,22249,Seaford (Vic.),155.78,ok
+20965,Gardenvale,22249,Seaford (Vic.),65.77,ok
+20966,Garfield,22249,Seaford (Vic.),,no_eligible_route
+20967,Garfield North,22249,Seaford (Vic.),,no_eligible_route
+20979,Gembrook,22249,Seaford (Vic.),,no_eligible_route
+20995,Gilderoy,22249,Seaford (Vic.),,no_eligible_route
+21001,Gisborne,22249,Seaford (Vic.),,no_eligible_route
+21002,Gisborne South,22249,Seaford (Vic.),,no_eligible_route
+21004,Gladstone Park,22249,Seaford (Vic.),147.92,ok
+21005,Gladysdale,22249,Seaford (Vic.),,no_eligible_route
+21009,Glen Huntly,22249,Seaford (Vic.),62.13,ok
+21010,Glen Iris (Vic.),22249,Seaford (Vic.),96.27,ok
+21013,Glen Waverley,22249,Seaford (Vic.),82.75,ok
+21047,Glenroy (Vic.),22249,Seaford (Vic.),128.95,ok
+21059,Goldie,22249,Seaford (Vic.),,no_eligible_route
+21079,Gowanbrae,22249,Seaford (Vic.),148.4,ok
+21087,Grangefields,22249,Seaford (Vic.),192.38,ok
+21104,Greensborough,22249,Seaford (Vic.),131.13,ok
+21105,Greenvale (Vic.),22249,Seaford (Vic.),161.63,ok
+21115,Gruyere,22249,Seaford (Vic.),,no_eligible_route
+21121,Guys Hill,22249,Seaford (Vic.),,no_eligible_route
+21124,Hadfield,22249,Seaford (Vic.),134.23,ok
+21125,Hallam,22249,Seaford (Vic.),91.27,ok
+21131,Hampton (Vic.),22249,Seaford (Vic.),60.62,ok
+21132,Hampton East,22249,Seaford (Vic.),58.85,ok
+21133,Hampton Park,22249,Seaford (Vic.),70.53,ok
+21139,Harkaway,22249,Seaford (Vic.),,no_eligible_route
+21140,Harkness,22249,Seaford (Vic.),,no_eligible_route
+21145,Hastings (Vic.),22249,Seaford (Vic.),71.97,ok
+21152,Hawthorn (Vic.),22249,Seaford (Vic.),83.0,ok
+21153,Hawthorn East,22249,Seaford (Vic.),86.38,ok
+21158,Healesville,22249,Seaford (Vic.),214.87,ok
+21159,Heath Hill,22249,Seaford (Vic.),,no_eligible_route
+21161,Heathcote Junction,22249,Seaford (Vic.),,no_eligible_route
+21163,Heatherton,22249,Seaford (Vic.),69.6,ok
+21165,Heathmont,22249,Seaford (Vic.),123.02,ok
+21167,Heidelberg,22249,Seaford (Vic.),125.4,ok
+21168,Heidelberg Heights,22249,Seaford (Vic.),128.37,ok
+21169,Heidelberg West,22249,Seaford (Vic.),119.12,ok
+21176,Hesket,22249,Seaford (Vic.),,no_eligible_route
+21185,Highett,22249,Seaford (Vic.),47.42,ok
+21193,Hillside (Melton - Vic.),22249,Seaford (Vic.),140.33,ok
+21195,Hmas Cerberus,22249,Seaford (Vic.),131.25,ok
+21196,Hoddles Creek,22249,Seaford (Vic.),,no_eligible_route
+21202,Hopetoun Park,22249,Seaford (Vic.),,no_eligible_route
+21203,Hoppers Crossing,22249,Seaford (Vic.),140.18,ok
+21214,Hughesdale,22249,Seaford (Vic.),73.07,ok
+21215,Humevale,22249,Seaford (Vic.),,no_eligible_route
+21218,Huntingdale (Vic.),22249,Seaford (Vic.),84.58,ok
+21223,Hurstbridge,22249,Seaford (Vic.),156.13,ok
+21238,Iona,22249,Seaford (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),22249,Seaford (Vic.),108.87,ok
+21247,Ivanhoe East,22249,Seaford (Vic.),124.28,ok
+21248,Jacana,22249,Seaford (Vic.),133.52,ok
+21277,Junction Village,22249,Seaford (Vic.),,no_eligible_route
+21284,Kalkallo,22249,Seaford (Vic.),222.55,ok
+21286,Kallista,22249,Seaford (Vic.),168.75,ok
+21287,Kalorama,22249,Seaford (Vic.),146.82,ok
+21294,Kangaroo Ground,22249,Seaford (Vic.),,no_eligible_route
+21312,Kealba,22249,Seaford (Vic.),126.62,ok
+21314,Keilor,22249,Seaford (Vic.),166.77,ok
+21315,Keilor Downs,22249,Seaford (Vic.),138.6,ok
+21316,Keilor East,22249,Seaford (Vic.),129.42,ok
+21317,Keilor Lodge,22249,Seaford (Vic.),139.22,ok
+21318,Keilor North,22249,Seaford (Vic.),145.28,ok
+21319,Keilor Park,22249,Seaford (Vic.),146.55,ok
+21327,Kensington (Vic.),22249,Seaford (Vic.),100.25,ok
+21333,Kerrie,22249,Seaford (Vic.),,no_eligible_route
+21336,Kew (Vic.),22249,Seaford (Vic.),96.03,ok
+21337,Kew East,22249,Seaford (Vic.),112.07,ok
+21339,Keysborough,22249,Seaford (Vic.),67.33,ok
+21354,Kilsyth,22249,Seaford (Vic.),136.2,ok
+21355,Kilsyth South,22249,Seaford (Vic.),151.28,ok
+21358,Kinglake,22249,Seaford (Vic.),,no_eligible_route
+21359,Kinglake Central,22249,Seaford (Vic.),,no_eligible_route
+21360,Kinglake West,22249,Seaford (Vic.),,no_eligible_route
+21362,Kings Park (Vic.),22249,Seaford (Vic.),140.52,ok
+21363,Kingsbury,22249,Seaford (Vic.),135.22,ok
+21365,Kingsville,22249,Seaford (Vic.),108.73,ok
+21374,Knoxfield,22249,Seaford (Vic.),100.25,ok
+21380,Koo Wee Rup,22249,Seaford (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,22249,Seaford (Vic.),,no_eligible_route
+21393,Kooyong,22249,Seaford (Vic.),86.78,ok
+21411,Kurunjang,22249,Seaford (Vic.),215.17,ok
+21452,Lalor,22249,Seaford (Vic.),124.55,ok
+21456,Lancefield,22249,Seaford (Vic.),,no_eligible_route
+21459,Lang Lang,22249,Seaford (Vic.),,no_eligible_route
+21460,Lang Lang East,22249,Seaford (Vic.),,no_eligible_route
+21467,Langwarrin,22249,Seaford (Vic.),51.5,ok
+21468,Langwarrin South,22249,Seaford (Vic.),73.38,ok
+21473,Launching Place,22249,Seaford (Vic.),,no_eligible_route
+21476,Laverton (Vic.),22249,Seaford (Vic.),123.95,ok
+21477,Laverton North,22249,Seaford (Vic.),149.38,ok
+21504,Lilydale (Vic.),22249,Seaford (Vic.),149.0,ok
+21533,Long Forest,22249,Seaford (Vic.),,no_eligible_route
+21547,Lower Plenty,22249,Seaford (Vic.),158.42,ok
+21554,Lynbrook,22249,Seaford (Vic.),71.32,ok
+21555,Lyndhurst (Vic.),22249,Seaford (Vic.),121.93,ok
+21558,Lysterfield,22249,Seaford (Vic.),149.63,ok
+21559,Lysterfield South,22249,Seaford (Vic.),138.28,ok
+21561,Macclesfield (Vic.),22249,Seaford (Vic.),,no_eligible_route
+21562,Macedon,22249,Seaford (Vic.),,no_eligible_route
+21564,Macleod (Vic.),22249,Seaford (Vic.),124.22,ok
+21569,Maddingley,22249,Seaford (Vic.),,no_eligible_route
+21575,Maidstone,22249,Seaford (Vic.),118.48,ok
+21578,Main Ridge,22249,Seaford (Vic.),,no_eligible_route
+21586,Malvern (Vic.),22249,Seaford (Vic.),74.52,ok
+21587,Malvern East,22249,Seaford (Vic.),83.4,ok
+21588,Mambourin,22249,Seaford (Vic.),,no_eligible_route
+21597,Manor Lakes,22249,Seaford (Vic.),177.42,ok
+21604,Maribyrnong,22249,Seaford (Vic.),117.0,ok
+21619,Maryknoll,22249,Seaford (Vic.),,no_eligible_route
+21625,McCrae,22249,Seaford (Vic.),74.6,ok
+21629,McKinnon,22249,Seaford (Vic.),50.13,ok
+21635,Meadow Heights,22249,Seaford (Vic.),146.4,ok
+21640,Melbourne,22249,Seaford (Vic.),83.97,ok
+21641,Melbourne Airport,22249,Seaford (Vic.),,no_eligible_route
+21642,Melton (Vic.),22249,Seaford (Vic.),199.3,ok
+21643,Melton South,22249,Seaford (Vic.),212.9,ok
+21644,Melton West,22249,Seaford (Vic.),208.13,ok
+21648,Mentone,22249,Seaford (Vic.),44.08,ok
+21649,Menzies Creek,22249,Seaford (Vic.),,no_eligible_route
+21659,Mernda,22249,Seaford (Vic.),164.03,ok
+21662,Merricks,22249,Seaford (Vic.),,no_eligible_route
+21663,Merricks Beach,22249,Seaford (Vic.),,no_eligible_route
+21664,Merricks North,22249,Seaford (Vic.),,no_eligible_route
+21668,Merrimu,22249,Seaford (Vic.),,no_eligible_route
+21675,Mickleham,22249,Seaford (Vic.),184.53,ok
+21677,Middle Park (Vic.),22249,Seaford (Vic.),100.63,ok
+21683,Mill Park,22249,Seaford (Vic.),147.77,ok
+21685,Millgrove,22249,Seaford (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),22249,Seaford (Vic.),112.58,ok
+21727,Monbulk,22249,Seaford (Vic.),176.2,ok
+21728,Monegeetta,22249,Seaford (Vic.),,no_eligible_route
+21731,Monomeith,22249,Seaford (Vic.),,no_eligible_route
+21732,Mont Albert,22249,Seaford (Vic.),107.92,ok
+21733,Mont Albert North,22249,Seaford (Vic.),116.9,ok
+21735,Montmorency,22249,Seaford (Vic.),131.78,ok
+21736,Montrose (Vic.),22249,Seaford (Vic.),139.12,ok
+21742,Moonee Ponds,22249,Seaford (Vic.),102.87,ok
+21746,Moorabbin,22249,Seaford (Vic.),69.28,ok
+21747,Moorabbin Airport,22249,Seaford (Vic.),69.55,ok
+21754,Moorooduc,22249,Seaford (Vic.),88.07,ok
+21755,Mooroolbark,22249,Seaford (Vic.),129.05,ok
+21760,Mordialloc,22249,Seaford (Vic.),45.85,ok
+21763,Mornington (Vic.),22249,Seaford (Vic.),71.87,ok
+21779,Mount Burnett,22249,Seaford (Vic.),,no_eligible_route
+21786,Mount Cottrell,22249,Seaford (Vic.),,no_eligible_route
+21787,Mount Dandenong,22249,Seaford (Vic.),150.82,ok
+21793,Mount Eliza,22249,Seaford (Vic.),46.22,ok
+21795,Mount Evelyn,22249,Seaford (Vic.),154.98,ok
+21801,Mount Macedon,22249,Seaford (Vic.),,no_eligible_route
+21803,Mount Martha,22249,Seaford (Vic.),66.75,ok
+21814,Mount Toolebewong,22249,Seaford (Vic.),,no_eligible_route
+21816,Mount Waverley,22249,Seaford (Vic.),96.9,ok
+21827,Mulgrave (Vic.),22249,Seaford (Vic.),82.68,ok
+21849,Murrumbeena,22249,Seaford (Vic.),71.88,ok
+21872,Nangana,22249,Seaford (Vic.),,no_eligible_route
+21878,Nar Nar Goon,22249,Seaford (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,22249,Seaford (Vic.),,no_eligible_route
+21893,Narre Warren,22249,Seaford (Vic.),87.63,ok
+21894,Narre Warren East,22249,Seaford (Vic.),,no_eligible_route
+21895,Narre Warren North,22249,Seaford (Vic.),96.9,ok
+21896,Narre Warren South,22249,Seaford (Vic.),78.92,ok
+21921,New Gisborne,22249,Seaford (Vic.),,no_eligible_route
+21934,Newport (Vic.),22249,Seaford (Vic.),107.8,ok
+21942,Niddrie,22249,Seaford (Vic.),130.75,ok
+21952,Noble Park,22249,Seaford (Vic.),74.53,ok
+21953,Noble Park North,22249,Seaford (Vic.),95.58,ok
+21966,North Melbourne,22249,Seaford (Vic.),94.47,ok
+21969,North Warrandyte,22249,Seaford (Vic.),159.65,ok
+21971,Northcote,22249,Seaford (Vic.),107.75,ok
+21974,Notting Hill,22249,Seaford (Vic.),93.0,ok
+21985,Nunawading,22249,Seaford (Vic.),95.68,ok
+21991,Nutfield,22249,Seaford (Vic.),,no_eligible_route
+21998,Oak Park,22249,Seaford (Vic.),121.18,ok
+21999,Oaklands Junction,22249,Seaford (Vic.),,no_eligible_route
+22000,Oakleigh,22249,Seaford (Vic.),79.33,ok
+22001,Oakleigh East,22249,Seaford (Vic.),89.15,ok
+22002,Oakleigh South,22249,Seaford (Vic.),69.8,ok
+22006,Officer,22249,Seaford (Vic.),105.8,ok
+22007,Officer South,22249,Seaford (Vic.),138.37,ok
+22009,Olinda (Vic.),22249,Seaford (Vic.),166.63,ok
+22016,Ormond,22249,Seaford (Vic.),55.15,ok
+22027,Pakenham,22249,Seaford (Vic.),104.85,ok
+22028,Pakenham South,22249,Seaford (Vic.),,no_eligible_route
+22029,Pakenham Upper,22249,Seaford (Vic.),,no_eligible_route
+22032,Panton Hill,22249,Seaford (Vic.),,no_eligible_route
+22036,Park Orchards,22249,Seaford (Vic.),128.98,ok
+22037,Parkdale,22249,Seaford (Vic.),45.18,ok
+22038,Parkville (Vic.),22249,Seaford (Vic.),105.08,ok
+22041,Pascoe Vale,22249,Seaford (Vic.),125.55,ok
+22042,Pascoe Vale South,22249,Seaford (Vic.),121.28,ok
+22047,Patterson Lakes,22249,Seaford (Vic.),28.97,ok
+22050,Pearcedale,22249,Seaford (Vic.),76.52,ok
+22058,Pentland Hills,22249,Seaford (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),22249,Seaford (Vic.),,no_eligible_route
+22084,Plenty (Vic.),22249,Seaford (Vic.),155.72,ok
+22085,Plumpton (Vic.),22249,Seaford (Vic.),,no_eligible_route
+22086,Point Cook,22249,Seaford (Vic.),140.18,ok
+22087,Point Leo,22249,Seaford (Vic.),,no_eligible_route
+22107,Port Melbourne,22249,Seaford (Vic.),105.8,ok
+22113,Portsea,22249,Seaford (Vic.),121.9,ok
+22115,Powelltown,22249,Seaford (Vic.),,no_eligible_route
+22118,Prahran,22249,Seaford (Vic.),80.65,ok
+22121,Preston (Vic.),22249,Seaford (Vic.),119.15,ok
+22122,Princes Hill,22249,Seaford (Vic.),103.23,ok
+22132,Quandong,22249,Seaford (Vic.),,no_eligible_route
+22141,Ravenhall,22249,Seaford (Vic.),173.98,ok
+22148,Red Hill (Vic.),22249,Seaford (Vic.),,no_eligible_route
+22149,Red Hill South,22249,Seaford (Vic.),,no_eligible_route
+22160,Research,22249,Seaford (Vic.),,no_eligible_route
+22161,Reservoir (Vic.),22249,Seaford (Vic.),121.37,ok
+22170,Richmond (Vic.),22249,Seaford (Vic.),92.67,ok
+22172,Riddells Creek,22249,Seaford (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),22249,Seaford (Vic.),110.98,ok
+22175,Ringwood East,22249,Seaford (Vic.),118.93,ok
+22176,Ringwood North,22249,Seaford (Vic.),123.72,ok
+22179,Ripponlea,22249,Seaford (Vic.),79.85,ok
+22185,Rochford,22249,Seaford (Vic.),,no_eligible_route
+22186,Rockbank,22249,Seaford (Vic.),172.57,ok
+22193,Romsey,22249,Seaford (Vic.),,no_eligible_route
+22194,Rosanna,22249,Seaford (Vic.),118.68,ok
+22198,Rosebud,22249,Seaford (Vic.),90.92,ok
+22207,Rowville,22249,Seaford (Vic.),91.42,ok
+22208,Roxburgh Park,22249,Seaford (Vic.),145.8,ok
+22220,Rye,22249,Seaford (Vic.),112.12,ok
+22221,Rythdale,22249,Seaford (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),22249,Seaford (Vic.),79.92,ok
+22232,Sandhurst,22249,Seaford (Vic.),37.77,ok
+22234,Sandringham (Vic.),22249,Seaford (Vic.),67.37,ok
+22239,Sassafras (Vic.),22249,Seaford (Vic.),148.08,ok
+22242,Scoresby,22249,Seaford (Vic.),102.95,ok
+22247,Seabrook,22249,Seaford (Vic.),139.77,ok
+22249,Seaford (Vic.),22249,Seaford (Vic.),0.0,same_centroid
+22250,Seaholme,22249,Seaford (Vic.),123.03,ok
+22256,Seddon (Vic.),22249,Seaford (Vic.),99.38,ok
+22258,Selby,22249,Seaford (Vic.),,no_eligible_route
+22263,Seville,22249,Seaford (Vic.),,no_eligible_route
+22264,Seville East,22249,Seaford (Vic.),,no_eligible_route
+22278,Sherbrooke,22249,Seaford (Vic.),158.82,ok
+22279,Shoreham,22249,Seaford (Vic.),,no_eligible_route
+22281,Silvan,22249,Seaford (Vic.),168.3,ok
+22291,Skye (Vic.),22249,Seaford (Vic.),40.33,ok
+22295,Smiths Gully,22249,Seaford (Vic.),,no_eligible_route
+22303,Somers,22249,Seaford (Vic.),119.38,ok
+22304,Somerton (Vic.),22249,Seaford (Vic.),150.17,ok
+22305,Somerville (Vic.),22249,Seaford (Vic.),75.07,ok
+22306,Sorrento (Vic.),22249,Seaford (Vic.),101.88,ok
+22309,South Kingsville,22249,Seaford (Vic.),120.05,ok
+22310,South Melbourne,22249,Seaford (Vic.),100.27,ok
+22311,South Morang,22249,Seaford (Vic.),156.53,ok
+22313,South Wharf,22249,Seaford (Vic.),99.0,ok
+22314,South Yarra,22249,Seaford (Vic.),69.53,ok
+22315,Southbank,22249,Seaford (Vic.),91.17,ok
+22319,Spotswood,22249,Seaford (Vic.),101.2,ok
+22325,Springfield (Macedon Ranges - Vic.),22249,Seaford (Vic.),,no_eligible_route
+22328,Springvale (Vic.),22249,Seaford (Vic.),63.6,ok
+22329,Springvale South,22249,Seaford (Vic.),54.73,ok
+22330,St Albans (Vic.),22249,Seaford (Vic.),113.88,ok
+22332,St Andrews (Vic.),22249,Seaford (Vic.),,no_eligible_route
+22333,St Andrews Beach,22249,Seaford (Vic.),,no_eligible_route
+22339,St Helena,22249,Seaford (Vic.),151.83,ok
+22343,St Kilda (Vic.),22249,Seaford (Vic.),87.25,ok
+22344,St Kilda East,22249,Seaford (Vic.),80.2,ok
+22345,St Kilda West,22249,Seaford (Vic.),92.98,ok
+22355,Steels Creek,22249,Seaford (Vic.),,no_eligible_route
+22375,Strathewen,22249,Seaford (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),22249,Seaford (Vic.),129.35,ok
+22381,Strathmore Heights,22249,Seaford (Vic.),141.35,ok
+22382,Strathtulloh,22249,Seaford (Vic.),,no_eligible_route
+22391,Sunbury,22249,Seaford (Vic.),177.17,ok
+22395,Sunshine (Vic.),22249,Seaford (Vic.),102.67,ok
+22396,Sunshine North,22249,Seaford (Vic.),122.73,ok
+22397,Sunshine West,22249,Seaford (Vic.),127.02,ok
+22399,Surrey Hills,22249,Seaford (Vic.),108.33,ok
+22414,Sydenham (Vic.),22249,Seaford (Vic.),128.28,ok
+22451,Tarneit,22249,Seaford (Vic.),173.05,ok
+22457,Tarrawarra,22249,Seaford (Vic.),190.47,ok
+22473,Taylors Hill,22249,Seaford (Vic.),144.28,ok
+22474,Taylors Lakes,22249,Seaford (Vic.),133.17,ok
+22476,Tecoma,22249,Seaford (Vic.),119.83,ok
+22483,Templestowe,22249,Seaford (Vic.),122.12,ok
+22484,Templestowe Lower,22249,Seaford (Vic.),119.08,ok
+22496,The Basin (Vic.),22249,Seaford (Vic.),139.22,ok
+22501,The Patch,22249,Seaford (Vic.),166.77,ok
+22504,Thomastown,22249,Seaford (Vic.),129.85,ok
+22508,Thornbury,22249,Seaford (Vic.),113.63,ok
+22509,Thornhill Park,22249,Seaford (Vic.),,no_eligible_route
+22514,Three Bridges,22249,Seaford (Vic.),,no_eligible_route
+22531,Tonimbuk,22249,Seaford (Vic.),,no_eligible_route
+22536,Toolangi,22249,Seaford (Vic.),,no_eligible_route
+22537,Toolern Vale,22249,Seaford (Vic.),,no_eligible_route
+22546,Tooradin,22249,Seaford (Vic.),,no_eligible_route
+22547,Toorak,22249,Seaford (Vic.),84.0,ok
+22550,Tootgarook,22249,Seaford (Vic.),94.53,ok
+22556,Tottenham (Vic.),22249,Seaford (Vic.),130.1,ok
+22572,Travancore,22249,Seaford (Vic.),109.62,ok
+22576,Tremont,22249,Seaford (Vic.),144.22,ok
+22582,Truganina,22249,Seaford (Vic.),230.63,ok
+22584,Tuerong,22249,Seaford (Vic.),,no_eligible_route
+22586,Tullamarine,22249,Seaford (Vic.),152.13,ok
+22594,Tyabb,22249,Seaford (Vic.),68.38,ok
+22598,Tynong,22249,Seaford (Vic.),,no_eligible_route
+22599,Tynong North,22249,Seaford (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,22249,Seaford (Vic.),110.37,ok
+22617,Upper Plenty,22249,Seaford (Vic.),,no_eligible_route
+22620,Upwey,22249,Seaford (Vic.),119.7,ok
+22627,Vermont,22249,Seaford (Vic.),110.83,ok
+22628,Vermont South,22249,Seaford (Vic.),104.2,ok
+22629,Vervale,22249,Seaford (Vic.),,no_eligible_route
+22633,Viewbank,22249,Seaford (Vic.),150.15,ok
+22661,Wallan,22249,Seaford (Vic.),,no_eligible_route
+22672,Wandin East,22249,Seaford (Vic.),,no_eligible_route
+22673,Wandin North,22249,Seaford (Vic.),,no_eligible_route
+22676,Wandong,22249,Seaford (Vic.),,no_eligible_route
+22685,Wantirna,22249,Seaford (Vic.),111.3,ok
+22686,Wantirna South,22249,Seaford (Vic.),104.58,ok
+22689,Warburton (Vic.),22249,Seaford (Vic.),,no_eligible_route
+22695,Warneet,22249,Seaford (Vic.),,no_eligible_route
+22702,Warrandyte,22249,Seaford (Vic.),125.9,ok
+22703,Warrandyte South,22249,Seaford (Vic.),160.07,ok
+22704,Warranwood,22249,Seaford (Vic.),137.73,ok
+22717,Waterford Park,22249,Seaford (Vic.),,no_eligible_route
+22720,Waterways,22249,Seaford (Vic.),58.73,ok
+22721,Watsonia,22249,Seaford (Vic.),119.13,ok
+22722,Watsonia North,22249,Seaford (Vic.),142.67,ok
+22723,Watsons Creek (Vic.),22249,Seaford (Vic.),,no_eligible_route
+22727,Wattle Glen,22249,Seaford (Vic.),159.88,ok
+22740,Weir Views,22249,Seaford (Vic.),,no_eligible_route
+22750,Werribee,22249,Seaford (Vic.),139.98,ok
+22751,Werribee South,22249,Seaford (Vic.),,no_eligible_route
+22753,Wesburn,22249,Seaford (Vic.),,no_eligible_route
+22756,West Footscray,22249,Seaford (Vic.),106.83,ok
+22757,West Melbourne,22249,Seaford (Vic.),112.77,ok
+22761,Westmeadows,22249,Seaford (Vic.),139.17,ok
+22766,Wheelers Hill,22249,Seaford (Vic.),85.57,ok
+22775,Whittlesea,22249,Seaford (Vic.),,no_eligible_route
+22784,Wildwood,22249,Seaford (Vic.),,no_eligible_route
+22791,Williams Landing,22249,Seaford (Vic.),138.2,ok
+22792,Williamstown (Vic.),22249,Seaford (Vic.),110.02,ok
+22793,Williamstown North,22249,Seaford (Vic.),129.52,ok
+22805,Windsor (Vic.),22249,Seaford (Vic.),84.03,ok
+22820,Wollert,22249,Seaford (Vic.),176.07,ok
+22825,Wonga Park,22249,Seaford (Vic.),180.22,ok
+22843,Woodstock (Vic.),22249,Seaford (Vic.),,no_eligible_route
+22857,Woori Yallock,22249,Seaford (Vic.),,no_eligible_route
+22883,Wyndham Vale,22249,Seaford (Vic.),164.8,ok
+22892,Yallambie,22249,Seaford (Vic.),145.42,ok
+22898,Yan Yean,22249,Seaford (Vic.),175.8,ok
+22906,Yannathan,22249,Seaford (Vic.),,no_eligible_route
+22910,Yarra Glen,22249,Seaford (Vic.),187.77,ok
+22911,Yarra Junction,22249,Seaford (Vic.),,no_eligible_route
+22916,Yarrambat,22249,Seaford (Vic.),161.28,ok
+22917,Yarraville,22249,Seaford (Vic.),106.95,ok
+22925,Yellingbo,22249,Seaford (Vic.),,no_eligible_route
+22930,Yering,22249,Seaford (Vic.),,no_eligible_route
+22941,Yuroke,22249,Seaford (Vic.),203.17,ok

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22484,Templestowe Lower,35.48,ok
+20003,Aberfeldie,22484,Templestowe Lower,79.97,ok
+20011,Aintree,22484,Templestowe Lower,125.3,ok
+20015,Airport West,22484,Templestowe Lower,95.0,ok
+20017,Albanvale,22484,Templestowe Lower,102.77,ok
+20018,Albert Park (Vic.),22484,Templestowe Lower,65.03,ok
+20021,Albion (Vic.),22484,Templestowe Lower,82.17,ok
+20034,Alphington,22484,Templestowe Lower,39.77,ok
+20035,Altona (Vic.),22484,Templestowe Lower,93.27,ok
+20036,Altona Meadows,22484,Templestowe Lower,101.42,ok
+20037,Altona North,22484,Templestowe Lower,100.67,ok
+20062,Ardeer,22484,Templestowe Lower,99.32,ok
+20066,Armadale (Vic.),22484,Templestowe Lower,58.42,ok
+20071,Arthurs Creek,22484,Templestowe Lower,,no_eligible_route
+20072,Arthurs Seat,22484,Templestowe Lower,207.93,ok
+20075,Ascot Vale,22484,Templestowe Lower,66.1,ok
+20077,Ashburton,22484,Templestowe Lower,72.02,ok
+20078,Ashwood,22484,Templestowe Lower,71.47,ok
+20079,Aspendale,22484,Templestowe Lower,97.67,ok
+20080,Aspendale Gardens,22484,Templestowe Lower,120.0,ok
+20082,Attwood,22484,Templestowe Lower,106.38,ok
+20089,Avondale Heights,22484,Templestowe Lower,97.77,ok
+20091,Avonsleigh,22484,Templestowe Lower,144.15,ok
+20095,Bacchus Marsh,22484,Templestowe Lower,,no_eligible_route
+20097,Badger Creek,22484,Templestowe Lower,149.42,ok
+20105,Balaclava (Vic.),22484,Templestowe Lower,65.05,ok
+20120,Balnarring,22484,Templestowe Lower,,no_eligible_route
+20121,Balnarring Beach,22484,Templestowe Lower,,no_eligible_route
+20123,Balwyn,22484,Templestowe Lower,49.17,ok
+20124,Balwyn North,22484,Templestowe Lower,33.88,ok
+20131,Bangholme,22484,Templestowe Lower,151.27,ok
+20169,Baxter,22484,Templestowe Lower,134.73,ok
+20171,Bayles,22484,Templestowe Lower,,no_eligible_route
+20173,Bayswater (Vic.),22484,Templestowe Lower,76.22,ok
+20174,Bayswater North,22484,Templestowe Lower,97.57,ok
+20175,Beaconsfield (Vic.),22484,Templestowe Lower,143.87,ok
+20176,Beaconsfield Upper,22484,Templestowe Lower,,no_eligible_route
+20182,Beaumaris (Vic.),22484,Templestowe Lower,97.55,ok
+20187,Beenak,22484,Templestowe Lower,,no_eligible_route
+20188,Belgrave,22484,Templestowe Lower,89.3,ok
+20189,Belgrave Heights,22484,Templestowe Lower,120.97,ok
+20190,Belgrave South,22484,Templestowe Lower,121.33,ok
+20198,Bellfield (Banyule - Vic.),22484,Templestowe Lower,40.22,ok
+20207,Bend Of Islands,22484,Templestowe Lower,,no_eligible_route
+20212,Benloch,22484,Templestowe Lower,,no_eligible_route
+20214,Bentleigh,22484,Templestowe Lower,81.45,ok
+20215,Bentleigh East,22484,Templestowe Lower,84.4,ok
+20224,Berwick,22484,Templestowe Lower,117.92,ok
+20233,Beveridge,22484,Templestowe Lower,136.93,ok
+20237,Big Pats Creek,22484,Templestowe Lower,,no_eligible_route
+20248,Bittern,22484,Templestowe Lower,158.0,ok
+20251,Black Rock (Vic.),22484,Templestowe Lower,97.87,ok
+20252,Blackburn,22484,Templestowe Lower,48.08,ok
+20253,Blackburn North,22484,Templestowe Lower,44.67,ok
+20254,Blackburn South,22484,Templestowe Lower,68.53,ok
+20257,Blairgowrie,22484,Templestowe Lower,199.97,ok
+20260,Blind Bight,22484,Templestowe Lower,,no_eligible_route
+20272,Bolinda,22484,Templestowe Lower,,no_eligible_route
+20278,Bonbeach,22484,Templestowe Lower,102.67,ok
+20280,Boneo,22484,Templestowe Lower,,no_eligible_route
+20282,Bonnie Brook,22484,Templestowe Lower,157.85,ok
+20304,Boronia,22484,Templestowe Lower,78.68,ok
+20307,Botanic Ridge,22484,Templestowe Lower,158.78,ok
+20314,Box Hill (Vic.),22484,Templestowe Lower,44.03,ok
+20315,Box Hill North,22484,Templestowe Lower,39.5,ok
+20316,Box Hill South,22484,Templestowe Lower,45.53,ok
+20320,Braeside,22484,Templestowe Lower,126.75,ok
+20324,Braybrook,22484,Templestowe Lower,83.95,ok
+20331,Briar Hill,22484,Templestowe Lower,52.27,ok
+20337,Brighton (Vic.),22484,Templestowe Lower,77.82,ok
+20338,Brighton East,22484,Templestowe Lower,81.07,ok
+20346,Broadmeadows (Vic.),22484,Templestowe Lower,87.35,ok
+20351,Brookfield (Vic.),22484,Templestowe Lower,186.35,ok
+20352,Brooklyn (Vic.),22484,Templestowe Lower,94.58,ok
+20361,Brunswick (Vic.),22484,Templestowe Lower,63.92,ok
+20362,Brunswick East,22484,Templestowe Lower,52.78,ok
+20363,Brunswick West,22484,Templestowe Lower,70.3,ok
+20381,Bulla (Vic.),22484,Templestowe Lower,154.53,ok
+20386,Bulleen,22484,Templestowe Lower,21.88,ok
+20387,Bullengarook,22484,Templestowe Lower,,no_eligible_route
+20399,Bundoora (Vic.),22484,Templestowe Lower,55.58,ok
+20411,Bunyip,22484,Templestowe Lower,,no_eligible_route
+20412,Bunyip North,22484,Templestowe Lower,,no_eligible_route
+20418,Burnley,22484,Templestowe Lower,65.42,ok
+20419,Burnside (Vic.),22484,Templestowe Lower,110.2,ok
+20420,Burnside Heights,22484,Templestowe Lower,113.2,ok
+20426,Burwood (Vic.),22484,Templestowe Lower,56.03,ok
+20427,Burwood East,22484,Templestowe Lower,67.65,ok
+20435,Bylands,22484,Templestowe Lower,,no_eligible_route
+20441,Cairnlea,22484,Templestowe Lower,93.38,ok
+20442,Calder Park,22484,Templestowe Lower,119.95,ok
+20443,Caldermeade,22484,Templestowe Lower,,no_eligible_route
+20453,Camberwell (Vic.),22484,Templestowe Lower,70.95,ok
+20455,Campbellfield,22484,Templestowe Lower,98.67,ok
+20466,Cannons Creek,22484,Templestowe Lower,,no_eligible_route
+20468,Canterbury (Vic.),22484,Templestowe Lower,52.0,ok
+20474,Cape Schanck,22484,Templestowe Lower,,no_eligible_route
+20476,Capel Sound,22484,Templestowe Lower,184.32,ok
+20487,Cardinia,22484,Templestowe Lower,,no_eligible_route
+20495,Carlton (Vic.),22484,Templestowe Lower,39.03,ok
+20496,Carlton North,22484,Templestowe Lower,55.1,ok
+20498,Carnegie,22484,Templestowe Lower,79.97,ok
+20500,Caroline Springs,22484,Templestowe Lower,108.08,ok
+20507,Carrum,22484,Templestowe Lower,102.48,ok
+20508,Carrum Downs,22484,Templestowe Lower,126.58,ok
+20512,Castella,22484,Templestowe Lower,,no_eligible_route
+20517,Catani,22484,Templestowe Lower,,no_eligible_route
+20521,Caulfield,22484,Templestowe Lower,78.97,ok
+20522,Caulfield East,22484,Templestowe Lower,69.85,ok
+20523,Caulfield North,22484,Templestowe Lower,65.35,ok
+20524,Caulfield South,22484,Templestowe Lower,82.7,ok
+20528,Chadstone,22484,Templestowe Lower,67.57,ok
+20537,Chelsea,22484,Templestowe Lower,99.73,ok
+20538,Chelsea Heights,22484,Templestowe Lower,123.42,ok
+20539,Cheltenham (Vic.),22484,Templestowe Lower,89.2,ok
+20541,Cherokee,22484,Templestowe Lower,,no_eligible_route
+20555,Chintin,22484,Templestowe Lower,,no_eligible_route
+20556,Chirnside Park,22484,Templestowe Lower,101.88,ok
+20559,Christmas Hills (Vic.),22484,Templestowe Lower,,no_eligible_route
+20560,Chum Creek,22484,Templestowe Lower,,no_eligible_route
+20566,Clarinda,22484,Templestowe Lower,99.88,ok
+20567,Clarkefield,22484,Templestowe Lower,,no_eligible_route
+20569,Clayton,22484,Templestowe Lower,87.02,ok
+20570,Clayton South,22484,Templestowe Lower,105.2,ok
+20572,Clematis,22484,Templestowe Lower,116.57,ok
+20574,Clifton Hill,22484,Templestowe Lower,33.18,ok
+20576,Clonbinane,22484,Templestowe Lower,,no_eligible_route
+20581,Clyde (Vic.),22484,Templestowe Lower,165.62,ok
+20582,Clyde North,22484,Templestowe Lower,147.43,ok
+20587,Cobaw,22484,Templestowe Lower,,no_eligible_route
+20590,Cobblebank,22484,Templestowe Lower,165.0,ok
+20596,Coburg,22484,Templestowe Lower,63.77,ok
+20597,Coburg North,22484,Templestowe Lower,72.22,ok
+20600,Cockatoo (Vic.),22484,Templestowe Lower,147.83,ok
+20601,Cocoroc,22484,Templestowe Lower,,no_eligible_route
+20605,Coimadai,22484,Templestowe Lower,,no_eligible_route
+20613,Coldstream (Vic.),22484,Templestowe Lower,,no_eligible_route
+20616,Collingwood (Vic.),22484,Templestowe Lower,26.6,ok
+20624,Coolaroo,22484,Templestowe Lower,90.62,ok
+20633,Cora Lynn,22484,Templestowe Lower,,no_eligible_route
+20654,Cottles Bridge,22484,Templestowe Lower,,no_eligible_route
+20661,Craigieburn,22484,Templestowe Lower,106.45,ok
+20662,Cranbourne,22484,Templestowe Lower,128.78,ok
+20663,Cranbourne East,22484,Templestowe Lower,139.57,ok
+20664,Cranbourne North,22484,Templestowe Lower,128.12,ok
+20665,Cranbourne South,22484,Templestowe Lower,162.13,ok
+20666,Cranbourne West,22484,Templestowe Lower,137.08,ok
+20670,Cremorne (Vic.),22484,Templestowe Lower,44.95,ok
+20674,Crib Point,22484,Templestowe Lower,166.97,ok
+20682,Croydon (Vic.),22484,Templestowe Lower,69.47,ok
+20683,Croydon Hills,22484,Templestowe Lower,90.68,ok
+20684,Croydon North,22484,Templestowe Lower,89.07,ok
+20685,Croydon South,22484,Templestowe Lower,93.53,ok
+20702,Dallas,22484,Templestowe Lower,92.32,ok
+20703,Dalmore,22484,Templestowe Lower,,no_eligible_route
+20707,Dandenong,22484,Templestowe Lower,101.55,ok
+20708,Dandenong North,22484,Templestowe Lower,112.28,ok
+20709,Dandenong South,22484,Templestowe Lower,121.88,ok
+20712,Darley,22484,Templestowe Lower,,no_eligible_route
+20716,Darraweit Guim,22484,Templestowe Lower,,no_eligible_route
+20724,Deanside,22484,Templestowe Lower,134.45,ok
+20728,Deepdene (Vic.),22484,Templestowe Lower,41.17,ok
+20729,Deer Park,22484,Templestowe Lower,96.15,ok
+20731,Delahey,22484,Templestowe Lower,104.28,ok
+20743,Derrimut,22484,Templestowe Lower,117.72,ok
+20748,Devon Meadows,22484,Templestowe Lower,172.37,ok
+20750,Dewhurst,22484,Templestowe Lower,,no_eligible_route
+20752,Diamond Creek,22484,Templestowe Lower,68.0,ok
+20754,Diggers Rest,22484,Templestowe Lower,113.27,ok
+20758,Dingley Village,22484,Templestowe Lower,101.1,ok
+20762,Dixons Creek,22484,Templestowe Lower,,no_eligible_route
+20766,Docklands,22484,Templestowe Lower,57.2,ok
+20769,Don Valley,22484,Templestowe Lower,,no_eligible_route
+20771,Doncaster,22484,Templestowe Lower,17.95,ok
+20772,Doncaster East,22484,Templestowe Lower,34.0,ok
+20773,Donnybrook (Vic.),22484,Templestowe Lower,134.47,ok
+20774,Donvale,22484,Templestowe Lower,49.53,ok
+20779,Doreen,22484,Templestowe Lower,96.15,ok
+20783,Doveton,22484,Templestowe Lower,119.5,ok
+20788,Dromana,22484,Templestowe Lower,195.1,ok
+20825,Eaglemont,22484,Templestowe Lower,32.78,ok
+20830,East Melbourne,22484,Templestowe Lower,33.32,ok
+20833,East Warburton,22484,Templestowe Lower,,no_eligible_route
+20843,Eden Park,22484,Templestowe Lower,,no_eligible_route
+20848,Edithvale,22484,Templestowe Lower,99.87,ok
+20864,Elsternwick,22484,Templestowe Lower,65.5,ok
+20865,Eltham (Vic.),22484,Templestowe Lower,50.23,ok
+20866,Eltham North,22484,Templestowe Lower,58.77,ok
+20867,Elwood,22484,Templestowe Lower,61.42,ok
+20868,Emerald (Vic.),22484,Templestowe Lower,143.75,ok
+20871,Endeavour Hills,22484,Templestowe Lower,127.83,ok
+20878,Epping (Vic.),22484,Templestowe Lower,94.7,ok
+20885,Essendon,22484,Templestowe Lower,71.37,ok
+20886,Essendon Fields,22484,Templestowe Lower,94.23,ok
+20887,Essendon North,22484,Templestowe Lower,72.57,ok
+20888,Essendon West,22484,Templestowe Lower,76.18,ok
+20889,Eumemmerring,22484,Templestowe Lower,129.88,ok
+20898,Exford,22484,Templestowe Lower,,no_eligible_route
+20899,Eynesbury,22484,Templestowe Lower,,no_eligible_route
+20901,Fairfield (Vic.),22484,Templestowe Lower,44.48,ok
+20909,Fawkner,22484,Templestowe Lower,89.13,ok
+20916,Fernshaw,22484,Templestowe Lower,,no_eligible_route
+20917,Ferntree Gully,22484,Templestowe Lower,79.43,ok
+20918,Ferny Creek,22484,Templestowe Lower,133.97,ok
+20920,Fingal (Vic.),22484,Templestowe Lower,,no_eligible_route
+20924,Fitzroy (Vic.),22484,Templestowe Lower,34.82,ok
+20925,Fitzroy North,22484,Templestowe Lower,42.4,ok
+20929,Flemington,22484,Templestowe Lower,68.93,ok
+20930,Flinders (Vic.),22484,Templestowe Lower,,no_eligible_route
+20935,Footscray,22484,Templestowe Lower,69.02,ok
+20937,Forest Hill (Vic.),22484,Templestowe Lower,55.87,ok
+20947,Frankston,22484,Templestowe Lower,121.45,ok
+20948,Frankston North,22484,Templestowe Lower,133.3,ok
+20949,Frankston South,22484,Templestowe Lower,139.72,ok
+20950,Fraser Rise,22484,Templestowe Lower,130.7,ok
+20965,Gardenvale,22484,Templestowe Lower,74.25,ok
+20966,Garfield,22484,Templestowe Lower,,no_eligible_route
+20967,Garfield North,22484,Templestowe Lower,,no_eligible_route
+20979,Gembrook,22484,Templestowe Lower,,no_eligible_route
+20995,Gilderoy,22484,Templestowe Lower,,no_eligible_route
+21001,Gisborne,22484,Templestowe Lower,,no_eligible_route
+21002,Gisborne South,22484,Templestowe Lower,,no_eligible_route
+21004,Gladstone Park,22484,Templestowe Lower,107.22,ok
+21005,Gladysdale,22484,Templestowe Lower,,no_eligible_route
+21009,Glen Huntly,22484,Templestowe Lower,72.98,ok
+21010,Glen Iris (Vic.),22484,Templestowe Lower,77.85,ok
+21013,Glen Waverley,22484,Templestowe Lower,71.88,ok
+21047,Glenroy (Vic.),22484,Templestowe Lower,86.4,ok
+21059,Goldie,22484,Templestowe Lower,,no_eligible_route
+21079,Gowanbrae,22484,Templestowe Lower,109.55,ok
+21087,Grangefields,22484,Templestowe Lower,162.3,ok
+21104,Greensborough,22484,Templestowe Lower,42.57,ok
+21105,Greenvale (Vic.),22484,Templestowe Lower,116.55,ok
+21115,Gruyere,22484,Templestowe Lower,,no_eligible_route
+21121,Guys Hill,22484,Templestowe Lower,,no_eligible_route
+21124,Hadfield,22484,Templestowe Lower,81.15,ok
+21125,Hallam,22484,Templestowe Lower,123.03,ok
+21131,Hampton (Vic.),22484,Templestowe Lower,85.65,ok
+21132,Hampton East,22484,Templestowe Lower,88.22,ok
+21133,Hampton Park,22484,Templestowe Lower,126.45,ok
+21139,Harkaway,22484,Templestowe Lower,,no_eligible_route
+21140,Harkness,22484,Templestowe Lower,187.83,ok
+21145,Hastings (Vic.),22484,Templestowe Lower,152.88,ok
+21152,Hawthorn (Vic.),22484,Templestowe Lower,61.28,ok
+21153,Hawthorn East,22484,Templestowe Lower,58.47,ok
+21158,Healesville,22484,Templestowe Lower,153.33,ok
+21159,Heath Hill,22484,Templestowe Lower,,no_eligible_route
+21161,Heathcote Junction,22484,Templestowe Lower,,no_eligible_route
+21163,Heatherton,22484,Templestowe Lower,104.45,ok
+21165,Heathmont,22484,Templestowe Lower,66.48,ok
+21167,Heidelberg,22484,Templestowe Lower,29.58,ok
+21168,Heidelberg Heights,22484,Templestowe Lower,38.85,ok
+21169,Heidelberg West,22484,Templestowe Lower,40.85,ok
+21176,Hesket,22484,Templestowe Lower,,no_eligible_route
+21185,Highett,22484,Templestowe Lower,80.98,ok
+21193,Hillside (Melton - Vic.),22484,Templestowe Lower,113.35,ok
+21195,Hmas Cerberus,22484,Templestowe Lower,,no_eligible_route
+21196,Hoddles Creek,22484,Templestowe Lower,,no_eligible_route
+21202,Hopetoun Park,22484,Templestowe Lower,,no_eligible_route
+21203,Hoppers Crossing,22484,Templestowe Lower,108.1,ok
+21214,Hughesdale,22484,Templestowe Lower,83.72,ok
+21215,Humevale,22484,Templestowe Lower,139.87,ok
+21218,Huntingdale (Vic.),22484,Templestowe Lower,89.5,ok
+21223,Hurstbridge,22484,Templestowe Lower,68.55,ok
+21238,Iona,22484,Templestowe Lower,,no_eligible_route
+21246,Ivanhoe (Vic.),22484,Templestowe Lower,36.93,ok
+21247,Ivanhoe East,22484,Templestowe Lower,35.4,ok
+21248,Jacana,22484,Templestowe Lower,92.43,ok
+21277,Junction Village,22484,Templestowe Lower,158.5,ok
+21284,Kalkallo,22484,Templestowe Lower,128.47,ok
+21286,Kallista,22484,Templestowe Lower,130.4,ok
+21287,Kalorama,22484,Templestowe Lower,106.28,ok
+21294,Kangaroo Ground,22484,Templestowe Lower,82.78,ok
+21312,Kealba,22484,Templestowe Lower,100.42,ok
+21314,Keilor,22484,Templestowe Lower,116.68,ok
+21315,Keilor Downs,22484,Templestowe Lower,108.92,ok
+21316,Keilor East,22484,Templestowe Lower,90.55,ok
+21317,Keilor Lodge,22484,Templestowe Lower,110.05,ok
+21318,Keilor North,22484,Templestowe Lower,102.88,ok
+21319,Keilor Park,22484,Templestowe Lower,98.47,ok
+21327,Kensington (Vic.),22484,Templestowe Lower,59.72,ok
+21333,Kerrie,22484,Templestowe Lower,,no_eligible_route
+21336,Kew (Vic.),22484,Templestowe Lower,35.1,ok
+21337,Kew East,22484,Templestowe Lower,27.6,ok
+21339,Keysborough,22484,Templestowe Lower,116.63,ok
+21354,Kilsyth,22484,Templestowe Lower,93.67,ok
+21355,Kilsyth South,22484,Templestowe Lower,103.75,ok
+21358,Kinglake,22484,Templestowe Lower,188.8,ok
+21359,Kinglake Central,22484,Templestowe Lower,,no_eligible_route
+21360,Kinglake West,22484,Templestowe Lower,142.83,ok
+21362,Kings Park (Vic.),22484,Templestowe Lower,97.52,ok
+21363,Kingsbury,22484,Templestowe Lower,61.95,ok
+21365,Kingsville,22484,Templestowe Lower,78.65,ok
+21374,Knoxfield,22484,Templestowe Lower,90.72,ok
+21380,Koo Wee Rup,22484,Templestowe Lower,,no_eligible_route
+21381,Koo Wee Rup North,22484,Templestowe Lower,,no_eligible_route
+21393,Kooyong,22484,Templestowe Lower,63.2,ok
+21411,Kurunjang,22484,Templestowe Lower,165.03,ok
+21452,Lalor,22484,Templestowe Lower,67.47,ok
+21456,Lancefield,22484,Templestowe Lower,,no_eligible_route
+21459,Lang Lang,22484,Templestowe Lower,,no_eligible_route
+21460,Lang Lang East,22484,Templestowe Lower,,no_eligible_route
+21467,Langwarrin,22484,Templestowe Lower,135.42,ok
+21468,Langwarrin South,22484,Templestowe Lower,,no_eligible_route
+21473,Launching Place,22484,Templestowe Lower,116.27,ok
+21476,Laverton (Vic.),22484,Templestowe Lower,88.87,ok
+21477,Laverton North,22484,Templestowe Lower,118.28,ok
+21504,Lilydale (Vic.),22484,Templestowe Lower,95.92,ok
+21533,Long Forest,22484,Templestowe Lower,,no_eligible_route
+21547,Lower Plenty,22484,Templestowe Lower,49.4,ok
+21554,Lynbrook,22484,Templestowe Lower,111.28,ok
+21555,Lyndhurst (Vic.),22484,Templestowe Lower,166.87,ok
+21558,Lysterfield,22484,Templestowe Lower,,no_eligible_route
+21559,Lysterfield South,22484,Templestowe Lower,150.12,ok
+21561,Macclesfield (Vic.),22484,Templestowe Lower,,no_eligible_route
+21562,Macedon,22484,Templestowe Lower,,no_eligible_route
+21564,Macleod (Vic.),22484,Templestowe Lower,48.13,ok
+21569,Maddingley,22484,Templestowe Lower,,no_eligible_route
+21575,Maidstone,22484,Templestowe Lower,84.4,ok
+21578,Main Ridge,22484,Templestowe Lower,,no_eligible_route
+21586,Malvern (Vic.),22484,Templestowe Lower,70.43,ok
+21587,Malvern East,22484,Templestowe Lower,75.8,ok
+21588,Mambourin,22484,Templestowe Lower,,no_eligible_route
+21597,Manor Lakes,22484,Templestowe Lower,153.72,ok
+21604,Maribyrnong,22484,Templestowe Lower,84.15,ok
+21619,Maryknoll,22484,Templestowe Lower,,no_eligible_route
+21625,McCrae,22484,Templestowe Lower,179.52,ok
+21629,McKinnon,22484,Templestowe Lower,70.28,ok
+21635,Meadow Heights,22484,Templestowe Lower,103.72,ok
+21640,Melbourne,22484,Templestowe Lower,53.88,ok
+21641,Melbourne Airport,22484,Templestowe Lower,,no_eligible_route
+21642,Melton (Vic.),22484,Templestowe Lower,167.22,ok
+21643,Melton South,22484,Templestowe Lower,180.82,ok
+21644,Melton West,22484,Templestowe Lower,161.22,ok
+21648,Mentone,22484,Templestowe Lower,83.97,ok
+21649,Menzies Creek,22484,Templestowe Lower,115.37,ok
+21659,Mernda,22484,Templestowe Lower,100.95,ok
+21662,Merricks,22484,Templestowe Lower,,no_eligible_route
+21663,Merricks Beach,22484,Templestowe Lower,,no_eligible_route
+21664,Merricks North,22484,Templestowe Lower,,no_eligible_route
+21668,Merrimu,22484,Templestowe Lower,,no_eligible_route
+21675,Mickleham,22484,Templestowe Lower,137.45,ok
+21677,Middle Park (Vic.),22484,Templestowe Lower,68.42,ok
+21683,Mill Park,22484,Templestowe Lower,77.18,ok
+21685,Millgrove,22484,Templestowe Lower,,no_eligible_route
+21706,Mitcham (Vic.),22484,Templestowe Lower,58.92,ok
+21727,Monbulk,22484,Templestowe Lower,137.85,ok
+21728,Monegeetta,22484,Templestowe Lower,,no_eligible_route
+21731,Monomeith,22484,Templestowe Lower,,no_eligible_route
+21732,Mont Albert,22484,Templestowe Lower,45.3,ok
+21733,Mont Albert North,22484,Templestowe Lower,43.88,ok
+21735,Montmorency,22484,Templestowe Lower,37.32,ok
+21736,Montrose (Vic.),22484,Templestowe Lower,99.58,ok
+21742,Moonee Ponds,22484,Templestowe Lower,61.78,ok
+21746,Moorabbin,22484,Templestowe Lower,98.17,ok
+21747,Moorabbin Airport,22484,Templestowe Lower,102.47,ok
+21754,Moorooduc,22484,Templestowe Lower,,no_eligible_route
+21755,Mooroolbark,22484,Templestowe Lower,89.93,ok
+21760,Mordialloc,22484,Templestowe Lower,99.27,ok
+21763,Mornington (Vic.),22484,Templestowe Lower,153.15,ok
+21779,Mount Burnett,22484,Templestowe Lower,,no_eligible_route
+21786,Mount Cottrell,22484,Templestowe Lower,,no_eligible_route
+21787,Mount Dandenong,22484,Templestowe Lower,116.73,ok
+21793,Mount Eliza,22484,Templestowe Lower,127.5,ok
+21795,Mount Evelyn,22484,Templestowe Lower,110.45,ok
+21801,Mount Macedon,22484,Templestowe Lower,,no_eligible_route
+21803,Mount Martha,22484,Templestowe Lower,146.03,ok
+21814,Mount Toolebewong,22484,Templestowe Lower,,no_eligible_route
+21816,Mount Waverley,22484,Templestowe Lower,61.55,ok
+21827,Mulgrave (Vic.),22484,Templestowe Lower,105.35,ok
+21849,Murrumbeena,22484,Templestowe Lower,84.18,ok
+21872,Nangana,22484,Templestowe Lower,,no_eligible_route
+21878,Nar Nar Goon,22484,Templestowe Lower,,no_eligible_route
+21879,Nar Nar Goon North,22484,Templestowe Lower,,no_eligible_route
+21893,Narre Warren,22484,Templestowe Lower,122.02,ok
+21894,Narre Warren East,22484,Templestowe Lower,,no_eligible_route
+21895,Narre Warren North,22484,Templestowe Lower,133.28,ok
+21896,Narre Warren South,22484,Templestowe Lower,127.83,ok
+21921,New Gisborne,22484,Templestowe Lower,,no_eligible_route
+21934,Newport (Vic.),22484,Templestowe Lower,73.72,ok
+21942,Niddrie,22484,Templestowe Lower,87.95,ok
+21952,Noble Park,22484,Templestowe Lower,96.28,ok
+21953,Noble Park North,22484,Templestowe Lower,117.08,ok
+21966,North Melbourne,22484,Templestowe Lower,57.12,ok
+21969,North Warrandyte,22484,Templestowe Lower,59.55,ok
+21971,Northcote,22484,Templestowe Lower,49.2,ok
+21974,Notting Hill,22484,Templestowe Lower,79.97,ok
+21985,Nunawading,22484,Templestowe Lower,50.28,ok
+21991,Nutfield,22484,Templestowe Lower,,no_eligible_route
+21998,Oak Park,22484,Templestowe Lower,80.1,ok
+21999,Oaklands Junction,22484,Templestowe Lower,,no_eligible_route
+22000,Oakleigh,22484,Templestowe Lower,83.18,ok
+22001,Oakleigh East,22484,Templestowe Lower,78.2,ok
+22002,Oakleigh South,22484,Templestowe Lower,91.82,ok
+22006,Officer,22484,Templestowe Lower,137.57,ok
+22007,Officer South,22484,Templestowe Lower,170.13,ok
+22009,Olinda (Vic.),22484,Templestowe Lower,134.28,ok
+22016,Ormond,22484,Templestowe Lower,70.72,ok
+22027,Pakenham,22484,Templestowe Lower,134.55,ok
+22028,Pakenham South,22484,Templestowe Lower,,no_eligible_route
+22029,Pakenham Upper,22484,Templestowe Lower,,no_eligible_route
+22032,Panton Hill,22484,Templestowe Lower,,no_eligible_route
+22036,Park Orchards,22484,Templestowe Lower,61.33,ok
+22037,Parkdale,22484,Templestowe Lower,89.05,ok
+22038,Parkville (Vic.),22484,Templestowe Lower,60.0,ok
+22041,Pascoe Vale,22484,Templestowe Lower,79.97,ok
+22042,Pascoe Vale South,22484,Templestowe Lower,64.78,ok
+22047,Patterson Lakes,22484,Templestowe Lower,113.35,ok
+22050,Pearcedale,22484,Templestowe Lower,179.43,ok
+22058,Pentland Hills,22484,Templestowe Lower,,no_eligible_route
+22064,Pheasant Creek (Vic.),22484,Templestowe Lower,158.48,ok
+22084,Plenty (Vic.),22484,Templestowe Lower,69.13,ok
+22085,Plumpton (Vic.),22484,Templestowe Lower,,no_eligible_route
+22086,Point Cook,22484,Templestowe Lower,108.1,ok
+22087,Point Leo,22484,Templestowe Lower,,no_eligible_route
+22107,Port Melbourne,22484,Templestowe Lower,65.0,ok
+22113,Portsea,22484,Templestowe Lower,215.82,ok
+22115,Powelltown,22484,Templestowe Lower,,no_eligible_route
+22118,Prahran,22484,Templestowe Lower,61.78,ok
+22121,Preston (Vic.),22484,Templestowe Lower,48.73,ok
+22122,Princes Hill,22484,Templestowe Lower,51.1,ok
+22132,Quandong,22484,Templestowe Lower,,no_eligible_route
+22141,Ravenhall,22484,Templestowe Lower,141.9,ok
+22148,Red Hill (Vic.),22484,Templestowe Lower,,no_eligible_route
+22149,Red Hill South,22484,Templestowe Lower,,no_eligible_route
+22160,Research,22484,Templestowe Lower,62.12,ok
+22161,Reservoir (Vic.),22484,Templestowe Lower,61.57,ok
+22170,Richmond (Vic.),22484,Templestowe Lower,45.73,ok
+22172,Riddells Creek,22484,Templestowe Lower,,no_eligible_route
+22174,Ringwood (Vic.),22484,Templestowe Lower,70.83,ok
+22175,Ringwood East,22484,Templestowe Lower,71.4,ok
+22176,Ringwood North,22484,Templestowe Lower,67.3,ok
+22179,Ripponlea,22484,Templestowe Lower,63.68,ok
+22185,Rochford,22484,Templestowe Lower,,no_eligible_route
+22186,Rockbank,22484,Templestowe Lower,140.48,ok
+22193,Romsey,22484,Templestowe Lower,,no_eligible_route
+22194,Rosanna,22484,Templestowe Lower,42.6,ok
+22198,Rosebud,22484,Templestowe Lower,195.83,ok
+22207,Rowville,22484,Templestowe Lower,101.63,ok
+22208,Roxburgh Park,22484,Templestowe Lower,104.72,ok
+22220,Rye,22484,Templestowe Lower,208.03,ok
+22221,Rythdale,22484,Templestowe Lower,,no_eligible_route
+22222,Safety Beach (Vic.),22484,Templestowe Lower,163.0,ok
+22232,Sandhurst,22484,Templestowe Lower,141.68,ok
+22234,Sandringham (Vic.),22484,Templestowe Lower,90.53,ok
+22239,Sassafras (Vic.),22484,Templestowe Lower,116.73,ok
+22242,Scoresby,22484,Templestowe Lower,101.22,ok
+22247,Seabrook,22484,Templestowe Lower,103.68,ok
+22249,Seaford (Vic.),22484,Templestowe Lower,114.58,ok
+22250,Seaholme,22484,Templestowe Lower,86.57,ok
+22256,Seddon (Vic.),22484,Templestowe Lower,67.8,ok
+22258,Selby,22484,Templestowe Lower,117.88,ok
+22263,Seville,22484,Templestowe Lower,127.43,ok
+22264,Seville East,22484,Templestowe Lower,114.32,ok
+22278,Sherbrooke,22484,Templestowe Lower,120.47,ok
+22279,Shoreham,22484,Templestowe Lower,,no_eligible_route
+22281,Silvan,22484,Templestowe Lower,129.95,ok
+22291,Skye (Vic.),22484,Templestowe Lower,129.72,ok
+22295,Smiths Gully,22484,Templestowe Lower,,no_eligible_route
+22303,Somers,22484,Templestowe Lower,,no_eligible_route
+22304,Somerton (Vic.),22484,Templestowe Lower,103.08,ok
+22305,Somerville (Vic.),22484,Templestowe Lower,157.98,ok
+22306,Sorrento (Vic.),22484,Templestowe Lower,195.8,ok
+22309,South Kingsville,22484,Templestowe Lower,87.52,ok
+22310,South Melbourne,22484,Templestowe Lower,58.45,ok
+22311,South Morang,22484,Templestowe Lower,91.37,ok
+22313,South Wharf,22484,Templestowe Lower,56.18,ok
+22314,South Yarra,22484,Templestowe Lower,46.07,ok
+22315,Southbank,22484,Templestowe Lower,51.73,ok
+22319,Spotswood,22484,Templestowe Lower,72.12,ok
+22325,Springfield (Macedon Ranges - Vic.),22484,Templestowe Lower,,no_eligible_route
+22328,Springvale (Vic.),22484,Templestowe Lower,95.92,ok
+22329,Springvale South,22484,Templestowe Lower,95.53,ok
+22330,St Albans (Vic.),22484,Templestowe Lower,84.8,ok
+22332,St Andrews (Vic.),22484,Templestowe Lower,,no_eligible_route
+22333,St Andrews Beach,22484,Templestowe Lower,,no_eligible_route
+22339,St Helena,22484,Templestowe Lower,63.38,ok
+22343,St Kilda (Vic.),22484,Templestowe Lower,49.38,ok
+22344,St Kilda East,22484,Templestowe Lower,69.98,ok
+22345,St Kilda West,22484,Templestowe Lower,65.07,ok
+22355,Steels Creek,22484,Templestowe Lower,,no_eligible_route
+22375,Strathewen,22484,Templestowe Lower,,no_eligible_route
+22380,Strathmore (Vic.),22484,Templestowe Lower,86.57,ok
+22381,Strathmore Heights,22484,Templestowe Lower,95.73,ok
+22382,Strathtulloh,22484,Templestowe Lower,,no_eligible_route
+22391,Sunbury,22484,Templestowe Lower,153.08,ok
+22395,Sunshine (Vic.),22484,Templestowe Lower,73.58,ok
+22396,Sunshine North,22484,Templestowe Lower,92.65,ok
+22397,Sunshine West,22484,Templestowe Lower,99.93,ok
+22399,Surrey Hills,22484,Templestowe Lower,57.95,ok
+22414,Sydenham (Vic.),22484,Templestowe Lower,99.2,ok
+22451,Tarneit,22484,Templestowe Lower,128.65,ok
+22457,Tarrawarra,22484,Templestowe Lower,128.93,ok
+22473,Taylors Hill,22484,Templestowe Lower,109.02,ok
+22474,Taylors Lakes,22484,Templestowe Lower,96.62,ok
+22476,Tecoma,22484,Templestowe Lower,86.3,ok
+22483,Templestowe,22484,Templestowe Lower,17.25,ok
+22484,Templestowe Lower,22484,Templestowe Lower,0.0,same_centroid
+22496,The Basin (Vic.),22484,Templestowe Lower,101.87,ok
+22501,The Patch,22484,Templestowe Lower,128.42,ok
+22504,Thomastown,22484,Templestowe Lower,72.77,ok
+22508,Thornbury,22484,Templestowe Lower,55.2,ok
+22509,Thornhill Park,22484,Templestowe Lower,,no_eligible_route
+22514,Three Bridges,22484,Templestowe Lower,,no_eligible_route
+22531,Tonimbuk,22484,Templestowe Lower,,no_eligible_route
+22536,Toolangi,22484,Templestowe Lower,,no_eligible_route
+22537,Toolern Vale,22484,Templestowe Lower,,no_eligible_route
+22546,Tooradin,22484,Templestowe Lower,,no_eligible_route
+22547,Toorak,22484,Templestowe Lower,61.83,ok
+22550,Tootgarook,22484,Templestowe Lower,191.45,ok
+22556,Tottenham (Vic.),22484,Templestowe Lower,100.02,ok
+22572,Travancore,22484,Templestowe Lower,65.53,ok
+22576,Tremont,22484,Templestowe Lower,103.9,ok
+22582,Truganina,22484,Templestowe Lower,178.32,ok
+22584,Tuerong,22484,Templestowe Lower,,no_eligible_route
+22586,Tullamarine,22484,Templestowe Lower,111.5,ok
+22594,Tyabb,22484,Templestowe Lower,150.3,ok
+22598,Tynong,22484,Templestowe Lower,,no_eligible_route
+22599,Tynong North,22484,Templestowe Lower,,no_eligible_route
+22614,Upper Ferntree Gully,22484,Templestowe Lower,83.45,ok
+22617,Upper Plenty,22484,Templestowe Lower,,no_eligible_route
+22620,Upwey,22484,Templestowe Lower,86.17,ok
+22627,Vermont,22484,Templestowe Lower,69.6,ok
+22628,Vermont South,22484,Templestowe Lower,77.83,ok
+22629,Vervale,22484,Templestowe Lower,,no_eligible_route
+22633,Viewbank,22484,Templestowe Lower,49.6,ok
+22661,Wallan,22484,Templestowe Lower,,no_eligible_route
+22672,Wandin East,22484,Templestowe Lower,,no_eligible_route
+22673,Wandin North,22484,Templestowe Lower,100.4,ok
+22676,Wandong,22484,Templestowe Lower,,no_eligible_route
+22685,Wantirna,22484,Templestowe Lower,77.15,ok
+22686,Wantirna South,22484,Templestowe Lower,96.53,ok
+22689,Warburton (Vic.),22484,Templestowe Lower,,no_eligible_route
+22695,Warneet,22484,Templestowe Lower,,no_eligible_route
+22702,Warrandyte,22484,Templestowe Lower,42.37,ok
+22703,Warrandyte South,22484,Templestowe Lower,72.5,ok
+22704,Warranwood,22484,Templestowe Lower,62.03,ok
+22717,Waterford Park,22484,Templestowe Lower,,no_eligible_route
+22720,Waterways,22484,Templestowe Lower,119.97,ok
+22721,Watsonia,22484,Templestowe Lower,43.05,ok
+22722,Watsonia North,22484,Templestowe Lower,54.05,ok
+22723,Watsons Creek (Vic.),22484,Templestowe Lower,,no_eligible_route
+22727,Wattle Glen,22484,Templestowe Lower,72.3,ok
+22740,Weir Views,22484,Templestowe Lower,216.05,ok
+22750,Werribee,22484,Templestowe Lower,101.9,ok
+22751,Werribee South,22484,Templestowe Lower,147.92,ok
+22753,Wesburn,22484,Templestowe Lower,132.37,ok
+22756,West Footscray,22484,Templestowe Lower,76.75,ok
+22757,West Melbourne,22484,Templestowe Lower,68.68,ok
+22761,Westmeadows,22484,Templestowe Lower,99.13,ok
+22766,Wheelers Hill,22484,Templestowe Lower,81.03,ok
+22775,Whittlesea,22484,Templestowe Lower,,no_eligible_route
+22784,Wildwood,22484,Templestowe Lower,,no_eligible_route
+22791,Williams Landing,22484,Templestowe Lower,103.12,ok
+22792,Williamstown (Vic.),22484,Templestowe Lower,80.93,ok
+22793,Williamstown North,22484,Templestowe Lower,95.43,ok
+22805,Windsor (Vic.),22484,Templestowe Lower,56.0,ok
+22820,Wollert,22484,Templestowe Lower,123.98,ok
+22825,Wonga Park,22484,Templestowe Lower,98.85,ok
+22843,Woodstock (Vic.),22484,Templestowe Lower,,no_eligible_route
+22857,Woori Yallock,22484,Templestowe Lower,111.52,ok
+22883,Wyndham Vale,22484,Templestowe Lower,138.65,ok
+22892,Yallambie,22484,Templestowe Lower,51.65,ok
+22898,Yan Yean,22484,Templestowe Lower,120.72,ok
+22906,Yannathan,22484,Templestowe Lower,,no_eligible_route
+22910,Yarra Glen,22484,Templestowe Lower,126.23,ok
+22911,Yarra Junction,22484,Templestowe Lower,136.63,ok
+22916,Yarrambat,22484,Templestowe Lower,66.75,ok
+22917,Yarraville,22484,Templestowe Lower,77.87,ok
+22925,Yellingbo,22484,Templestowe Lower,,no_eligible_route
+22930,Yering,22484,Templestowe Lower,,no_eligible_route
+22941,Yuroke,22484,Templestowe Lower,162.08,ok

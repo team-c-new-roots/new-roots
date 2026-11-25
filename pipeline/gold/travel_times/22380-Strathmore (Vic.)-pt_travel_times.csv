@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22380,Strathmore (Vic.),64.13,ok
+20003,Aberfeldie,22380,Strathmore (Vic.),36.08,ok
+20011,Aintree,22380,Strathmore (Vic.),114.37,ok
+20015,Airport West,22380,Strathmore (Vic.),27.43,ok
+20017,Albanvale,22380,Strathmore (Vic.),91.88,ok
+20018,Albert Park (Vic.),22380,Strathmore (Vic.),57.25,ok
+20021,Albion (Vic.),22380,Strathmore (Vic.),67.32,ok
+20034,Alphington,22380,Strathmore (Vic.),65.3,ok
+20035,Altona (Vic.),22380,Strathmore (Vic.),70.38,ok
+20036,Altona Meadows,22380,Strathmore (Vic.),76.53,ok
+20037,Altona North,22380,Strathmore (Vic.),88.78,ok
+20062,Ardeer,22380,Strathmore (Vic.),73.43,ok
+20066,Armadale (Vic.),22380,Strathmore (Vic.),61.53,ok
+20071,Arthurs Creek,22380,Strathmore (Vic.),,no_eligible_route
+20072,Arthurs Seat,22380,Strathmore (Vic.),228.05,ok
+20075,Ascot Vale,22380,Strathmore (Vic.),36.45,ok
+20077,Ashburton,22380,Strathmore (Vic.),75.13,ok
+20078,Ashwood,22380,Strathmore (Vic.),85.33,ok
+20079,Aspendale,22380,Strathmore (Vic.),102.78,ok
+20080,Aspendale Gardens,22380,Strathmore (Vic.),123.12,ok
+20082,Attwood,22380,Strathmore (Vic.),53.5,ok
+20089,Avondale Heights,22380,Strathmore (Vic.),49.37,ok
+20091,Avonsleigh,22380,Strathmore (Vic.),,no_eligible_route
+20095,Bacchus Marsh,22380,Strathmore (Vic.),,no_eligible_route
+20097,Badger Creek,22380,Strathmore (Vic.),182.98,ok
+20105,Balaclava (Vic.),22380,Strathmore (Vic.),62.17,ok
+20120,Balnarring,22380,Strathmore (Vic.),,no_eligible_route
+20121,Balnarring Beach,22380,Strathmore (Vic.),,no_eligible_route
+20123,Balwyn,22380,Strathmore (Vic.),87.27,ok
+20124,Balwyn North,22380,Strathmore (Vic.),88.92,ok
+20131,Bangholme,22380,Strathmore (Vic.),154.38,ok
+20169,Baxter,22380,Strathmore (Vic.),143.13,ok
+20171,Bayles,22380,Strathmore (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),22380,Strathmore (Vic.),107.78,ok
+20174,Bayswater North,22380,Strathmore (Vic.),121.75,ok
+20175,Beaconsfield (Vic.),22380,Strathmore (Vic.),145.23,ok
+20176,Beaconsfield Upper,22380,Strathmore (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),22380,Strathmore (Vic.),100.67,ok
+20187,Beenak,22380,Strathmore (Vic.),,no_eligible_route
+20188,Belgrave,22380,Strathmore (Vic.),120.87,ok
+20189,Belgrave Heights,22380,Strathmore (Vic.),150.53,ok
+20190,Belgrave South,22380,Strathmore (Vic.),149.52,ok
+20198,Bellfield (Banyule - Vic.),22380,Strathmore (Vic.),62.65,ok
+20207,Bend Of Islands,22380,Strathmore (Vic.),,no_eligible_route
+20212,Benloch,22380,Strathmore (Vic.),,no_eligible_route
+20214,Bentleigh,22380,Strathmore (Vic.),84.57,ok
+20215,Bentleigh East,22380,Strathmore (Vic.),87.52,ok
+20224,Berwick,22380,Strathmore (Vic.),118.03,ok
+20233,Beveridge,22380,Strathmore (Vic.),86.7,ok
+20237,Big Pats Creek,22380,Strathmore (Vic.),,no_eligible_route
+20248,Bittern,22380,Strathmore (Vic.),161.12,ok
+20251,Black Rock (Vic.),22380,Strathmore (Vic.),98.98,ok
+20252,Blackburn,22380,Strathmore (Vic.),81.12,ok
+20253,Blackburn North,22380,Strathmore (Vic.),88.1,ok
+20254,Blackburn South,22380,Strathmore (Vic.),96.45,ok
+20257,Blairgowrie,22380,Strathmore (Vic.),222.08,ok
+20260,Blind Bight,22380,Strathmore (Vic.),,no_eligible_route
+20272,Bolinda,22380,Strathmore (Vic.),,no_eligible_route
+20278,Bonbeach,22380,Strathmore (Vic.),107.78,ok
+20280,Boneo,22380,Strathmore (Vic.),,no_eligible_route
+20282,Bonnie Brook,22380,Strathmore (Vic.),146.92,ok
+20304,Boronia,22380,Strathmore (Vic.),110.25,ok
+20307,Botanic Ridge,22380,Strathmore (Vic.),155.9,ok
+20314,Box Hill (Vic.),22380,Strathmore (Vic.),80.23,ok
+20315,Box Hill North,22380,Strathmore (Vic.),89.98,ok
+20316,Box Hill South,22380,Strathmore (Vic.),87.72,ok
+20320,Braeside,22380,Strathmore (Vic.),129.87,ok
+20324,Braybrook,22380,Strathmore (Vic.),60.42,ok
+20331,Briar Hill,22380,Strathmore (Vic.),93.27,ok
+20337,Brighton (Vic.),22380,Strathmore (Vic.),74.93,ok
+20338,Brighton East,22380,Strathmore (Vic.),85.18,ok
+20346,Broadmeadows (Vic.),22380,Strathmore (Vic.),45.42,ok
+20351,Brookfield (Vic.),22380,Strathmore (Vic.),173.47,ok
+20352,Brooklyn (Vic.),22380,Strathmore (Vic.),81.7,ok
+20361,Brunswick (Vic.),22380,Strathmore (Vic.),45.03,ok
+20362,Brunswick East,22380,Strathmore (Vic.),50.7,ok
+20363,Brunswick West,22380,Strathmore (Vic.),34.67,ok
+20381,Bulla (Vic.),22380,Strathmore (Vic.),98.22,ok
+20386,Bulleen,22380,Strathmore (Vic.),84.55,ok
+20387,Bullengarook,22380,Strathmore (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),22380,Strathmore (Vic.),72.03,ok
+20411,Bunyip,22380,Strathmore (Vic.),,no_eligible_route
+20412,Bunyip North,22380,Strathmore (Vic.),,no_eligible_route
+20418,Burnley,22380,Strathmore (Vic.),68.53,ok
+20419,Burnside (Vic.),22380,Strathmore (Vic.),84.93,ok
+20420,Burnside Heights,22380,Strathmore (Vic.),93.13,ok
+20426,Burwood (Vic.),22380,Strathmore (Vic.),94.93,ok
+20427,Burwood East,22380,Strathmore (Vic.),94.45,ok
+20435,Bylands,22380,Strathmore (Vic.),,no_eligible_route
+20441,Cairnlea,22380,Strathmore (Vic.),89.38,ok
+20442,Calder Park,22380,Strathmore (Vic.),109.07,ok
+20443,Caldermeade,22380,Strathmore (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),22380,Strathmore (Vic.),74.07,ok
+20455,Campbellfield,22380,Strathmore (Vic.),62.78,ok
+20466,Cannons Creek,22380,Strathmore (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),22380,Strathmore (Vic.),75.55,ok
+20474,Cape Schanck,22380,Strathmore (Vic.),,no_eligible_route
+20476,Capel Sound,22380,Strathmore (Vic.),207.43,ok
+20487,Cardinia,22380,Strathmore (Vic.),,no_eligible_route
+20495,Carlton (Vic.),22380,Strathmore (Vic.),53.13,ok
+20496,Carlton North,22380,Strathmore (Vic.),57.92,ok
+20498,Carnegie,22380,Strathmore (Vic.),76.77,ok
+20500,Caroline Springs,22380,Strathmore (Vic.),89.37,ok
+20507,Carrum,22380,Strathmore (Vic.),107.6,ok
+20508,Carrum Downs,22380,Strathmore (Vic.),126.83,ok
+20512,Castella,22380,Strathmore (Vic.),,no_eligible_route
+20517,Catani,22380,Strathmore (Vic.),,no_eligible_route
+20521,Caulfield,22380,Strathmore (Vic.),83.27,ok
+20522,Caulfield East,22380,Strathmore (Vic.),69.97,ok
+20523,Caulfield North,22380,Strathmore (Vic.),69.47,ok
+20524,Caulfield South,22380,Strathmore (Vic.),85.82,ok
+20528,Chadstone,22380,Strathmore (Vic.),87.62,ok
+20537,Chelsea,22380,Strathmore (Vic.),104.85,ok
+20538,Chelsea Heights,22380,Strathmore (Vic.),128.97,ok
+20539,Cheltenham (Vic.),22380,Strathmore (Vic.),94.32,ok
+20541,Cherokee,22380,Strathmore (Vic.),,no_eligible_route
+20555,Chintin,22380,Strathmore (Vic.),,no_eligible_route
+20556,Chirnside Park,22380,Strathmore (Vic.),126.15,ok
+20559,Christmas Hills (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+20560,Chum Creek,22380,Strathmore (Vic.),,no_eligible_route
+20566,Clarinda,22380,Strathmore (Vic.),99.07,ok
+20567,Clarkefield,22380,Strathmore (Vic.),,no_eligible_route
+20569,Clayton,22380,Strathmore (Vic.),88.4,ok
+20570,Clayton South,22380,Strathmore (Vic.),104.38,ok
+20572,Clematis,22380,Strathmore (Vic.),,no_eligible_route
+20574,Clifton Hill,22380,Strathmore (Vic.),59.38,ok
+20576,Clonbinane,22380,Strathmore (Vic.),,no_eligible_route
+20581,Clyde (Vic.),22380,Strathmore (Vic.),168.73,ok
+20582,Clyde North,22380,Strathmore (Vic.),137.5,ok
+20587,Cobaw,22380,Strathmore (Vic.),,no_eligible_route
+20590,Cobblebank,22380,Strathmore (Vic.),149.97,ok
+20596,Coburg,22380,Strathmore (Vic.),32.67,ok
+20597,Coburg North,22380,Strathmore (Vic.),49.93,ok
+20600,Cockatoo (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+20601,Cocoroc,22380,Strathmore (Vic.),,no_eligible_route
+20605,Coimadai,22380,Strathmore (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),22380,Strathmore (Vic.),64.78,ok
+20624,Coolaroo,22380,Strathmore (Vic.),43.38,ok
+20633,Cora Lynn,22380,Strathmore (Vic.),,no_eligible_route
+20654,Cottles Bridge,22380,Strathmore (Vic.),,no_eligible_route
+20661,Craigieburn,22380,Strathmore (Vic.),55.57,ok
+20662,Cranbourne,22380,Strathmore (Vic.),127.35,ok
+20663,Cranbourne East,22380,Strathmore (Vic.),126.78,ok
+20664,Cranbourne North,22380,Strathmore (Vic.),126.7,ok
+20665,Cranbourne South,22380,Strathmore (Vic.),159.25,ok
+20666,Cranbourne West,22380,Strathmore (Vic.),131.6,ok
+20670,Cremorne (Vic.),22380,Strathmore (Vic.),57.92,ok
+20674,Crib Point,22380,Strathmore (Vic.),170.08,ok
+20682,Croydon (Vic.),22380,Strathmore (Vic.),98.88,ok
+20683,Croydon Hills,22380,Strathmore (Vic.),119.2,ok
+20684,Croydon North,22380,Strathmore (Vic.),117.63,ok
+20685,Croydon South,22380,Strathmore (Vic.),117.8,ok
+20702,Dallas,22380,Strathmore (Vic.),47.13,ok
+20703,Dalmore,22380,Strathmore (Vic.),,no_eligible_route
+20707,Dandenong,22380,Strathmore (Vic.),99.67,ok
+20708,Dandenong North,22380,Strathmore (Vic.),121.7,ok
+20709,Dandenong South,22380,Strathmore (Vic.),126.0,ok
+20712,Darley,22380,Strathmore (Vic.),,no_eligible_route
+20716,Darraweit Guim,22380,Strathmore (Vic.),,no_eligible_route
+20724,Deanside,22380,Strathmore (Vic.),125.57,ok
+20728,Deepdene (Vic.),22380,Strathmore (Vic.),79.9,ok
+20729,Deer Park,22380,Strathmore (Vic.),70.27,ok
+20731,Delahey,22380,Strathmore (Vic.),99.93,ok
+20743,Derrimut,22380,Strathmore (Vic.),109.15,ok
+20748,Devon Meadows,22380,Strathmore (Vic.),175.48,ok
+20750,Dewhurst,22380,Strathmore (Vic.),,no_eligible_route
+20752,Diamond Creek,22380,Strathmore (Vic.),107.17,ok
+20754,Diggers Rest,22380,Strathmore (Vic.),,no_eligible_route
+20758,Dingley Village,22380,Strathmore (Vic.),111.22,ok
+20762,Dixons Creek,22380,Strathmore (Vic.),,no_eligible_route
+20766,Docklands,22380,Strathmore (Vic.),48.62,ok
+20769,Don Valley,22380,Strathmore (Vic.),,no_eligible_route
+20771,Doncaster,22380,Strathmore (Vic.),83.68,ok
+20772,Doncaster East,22380,Strathmore (Vic.),88.75,ok
+20773,Donnybrook (Vic.),22380,Strathmore (Vic.),87.23,ok
+20774,Donvale,22380,Strathmore (Vic.),111.9,ok
+20779,Doreen,22380,Strathmore (Vic.),109.1,ok
+20783,Doveton,22380,Strathmore (Vic.),111.47,ok
+20788,Dromana,22380,Strathmore (Vic.),217.22,ok
+20825,Eaglemont,22380,Strathmore (Vic.),79.68,ok
+20830,East Melbourne,22380,Strathmore (Vic.),51.9,ok
+20833,East Warburton,22380,Strathmore (Vic.),,no_eligible_route
+20843,Eden Park,22380,Strathmore (Vic.),,no_eligible_route
+20848,Edithvale,22380,Strathmore (Vic.),104.98,ok
+20864,Elsternwick,22380,Strathmore (Vic.),70.08,ok
+20865,Eltham (Vic.),22380,Strathmore (Vic.),106.5,ok
+20866,Eltham North,22380,Strathmore (Vic.),98.38,ok
+20867,Elwood,22380,Strathmore (Vic.),76.27,ok
+20868,Emerald (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+20871,Endeavour Hills,22380,Strathmore (Vic.),130.95,ok
+20878,Epping (Vic.),22380,Strathmore (Vic.),76.52,ok
+20885,Essendon,22380,Strathmore (Vic.),23.72,ok
+20886,Essendon Fields,22380,Strathmore (Vic.),38.17,ok
+20887,Essendon North,22380,Strathmore (Vic.),22.48,ok
+20888,Essendon West,22380,Strathmore (Vic.),32.3,ok
+20889,Eumemmerring,22380,Strathmore (Vic.),119.0,ok
+20898,Exford,22380,Strathmore (Vic.),,no_eligible_route
+20899,Eynesbury,22380,Strathmore (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),22380,Strathmore (Vic.),68.13,ok
+20909,Fawkner,22380,Strathmore (Vic.),59.22,ok
+20916,Fernshaw,22380,Strathmore (Vic.),,no_eligible_route
+20917,Ferntree Gully,22380,Strathmore (Vic.),113.62,ok
+20918,Ferny Creek,22380,Strathmore (Vic.),156.15,ok
+20920,Fingal (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),22380,Strathmore (Vic.),62.9,ok
+20925,Fitzroy North,22380,Strathmore (Vic.),54.45,ok
+20929,Flemington,22380,Strathmore (Vic.),42.05,ok
+20930,Flinders (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+20935,Footscray,22380,Strathmore (Vic.),50.68,ok
+20937,Forest Hill (Vic.),22380,Strathmore (Vic.),97.43,ok
+20947,Frankston,22380,Strathmore (Vic.),128.57,ok
+20948,Frankston North,22380,Strathmore (Vic.),145.87,ok
+20949,Frankston South,22380,Strathmore (Vic.),154.5,ok
+20950,Fraser Rise,22380,Strathmore (Vic.),119.82,ok
+20965,Gardenvale,22380,Strathmore (Vic.),71.37,ok
+20966,Garfield,22380,Strathmore (Vic.),,no_eligible_route
+20967,Garfield North,22380,Strathmore (Vic.),,no_eligible_route
+20979,Gembrook,22380,Strathmore (Vic.),,no_eligible_route
+20995,Gilderoy,22380,Strathmore (Vic.),,no_eligible_route
+21001,Gisborne,22380,Strathmore (Vic.),,no_eligible_route
+21002,Gisborne South,22380,Strathmore (Vic.),,no_eligible_route
+21004,Gladstone Park,22380,Strathmore (Vic.),47.05,ok
+21005,Gladysdale,22380,Strathmore (Vic.),,no_eligible_route
+21009,Glen Huntly,22380,Strathmore (Vic.),76.1,ok
+21010,Glen Iris (Vic.),22380,Strathmore (Vic.),82.63,ok
+21013,Glen Waverley,22380,Strathmore (Vic.),89.55,ok
+21047,Glenroy (Vic.),22380,Strathmore (Vic.),37.52,ok
+21059,Goldie,22380,Strathmore (Vic.),,no_eligible_route
+21079,Gowanbrae,22380,Strathmore (Vic.),40.18,ok
+21087,Grangefields,22380,Strathmore (Vic.),151.42,ok
+21104,Greensborough,22380,Strathmore (Vic.),88.83,ok
+21105,Greenvale (Vic.),22380,Strathmore (Vic.),65.67,ok
+21115,Gruyere,22380,Strathmore (Vic.),,no_eligible_route
+21121,Guys Hill,22380,Strathmore (Vic.),,no_eligible_route
+21124,Hadfield,22380,Strathmore (Vic.),42.35,ok
+21125,Hallam,22380,Strathmore (Vic.),123.15,ok
+21131,Hampton (Vic.),22380,Strathmore (Vic.),82.77,ok
+21132,Hampton East,22380,Strathmore (Vic.),91.33,ok
+21133,Hampton Park,22380,Strathmore (Vic.),125.57,ok
+21139,Harkaway,22380,Strathmore (Vic.),,no_eligible_route
+21140,Harkness,22380,Strathmore (Vic.),174.95,ok
+21145,Hastings (Vic.),22380,Strathmore (Vic.),162.65,ok
+21152,Hawthorn (Vic.),22380,Strathmore (Vic.),68.93,ok
+21153,Hawthorn East,22380,Strathmore (Vic.),72.42,ok
+21158,Healesville,22380,Strathmore (Vic.),186.9,ok
+21159,Heath Hill,22380,Strathmore (Vic.),,no_eligible_route
+21161,Heathcote Junction,22380,Strathmore (Vic.),,no_eligible_route
+21163,Heatherton,22380,Strathmore (Vic.),106.72,ok
+21165,Heathmont,22380,Strathmore (Vic.),98.05,ok
+21167,Heidelberg,22380,Strathmore (Vic.),71.97,ok
+21168,Heidelberg Heights,22380,Strathmore (Vic.),66.82,ok
+21169,Heidelberg West,22380,Strathmore (Vic.),62.82,ok
+21176,Hesket,22380,Strathmore (Vic.),,no_eligible_route
+21185,Highett,22380,Strathmore (Vic.),84.1,ok
+21193,Hillside (Melton - Vic.),22380,Strathmore (Vic.),100.42,ok
+21195,Hmas Cerberus,22380,Strathmore (Vic.),,no_eligible_route
+21196,Hoddles Creek,22380,Strathmore (Vic.),,no_eligible_route
+21202,Hopetoun Park,22380,Strathmore (Vic.),,no_eligible_route
+21203,Hoppers Crossing,22380,Strathmore (Vic.),89.22,ok
+21214,Hughesdale,22380,Strathmore (Vic.),78.18,ok
+21215,Humevale,22380,Strathmore (Vic.),145.13,ok
+21218,Huntingdale (Vic.),22380,Strathmore (Vic.),83.62,ok
+21223,Hurstbridge,22380,Strathmore (Vic.),107.45,ok
+21238,Iona,22380,Strathmore (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),22380,Strathmore (Vic.),64.45,ok
+21247,Ivanhoe East,22380,Strathmore (Vic.),78.0,ok
+21248,Jacana,22380,Strathmore (Vic.),46.55,ok
+21277,Junction Village,22380,Strathmore (Vic.),160.23,ok
+21284,Kalkallo,22380,Strathmore (Vic.),86.23,ok
+21286,Kallista,22380,Strathmore (Vic.),159.58,ok
+21287,Kalorama,22380,Strathmore (Vic.),125.85,ok
+21294,Kangaroo Ground,22380,Strathmore (Vic.),143.4,ok
+21312,Kealba,22380,Strathmore (Vic.),83.75,ok
+21314,Keilor,22380,Strathmore (Vic.),75.75,ok
+21315,Keilor Downs,22380,Strathmore (Vic.),83.8,ok
+21316,Keilor East,22380,Strathmore (Vic.),48.67,ok
+21317,Keilor Lodge,22380,Strathmore (Vic.),77.43,ok
+21318,Keilor North,22380,Strathmore (Vic.),52.98,ok
+21319,Keilor Park,22380,Strathmore (Vic.),56.58,ok
+21327,Kensington (Vic.),22380,Strathmore (Vic.),31.8,ok
+21333,Kerrie,22380,Strathmore (Vic.),,no_eligible_route
+21336,Kew (Vic.),22380,Strathmore (Vic.),77.13,ok
+21337,Kew East,22380,Strathmore (Vic.),83.1,ok
+21339,Keysborough,22380,Strathmore (Vic.),106.98,ok
+21354,Kilsyth,22380,Strathmore (Vic.),115.23,ok
+21355,Kilsyth South,22380,Strathmore (Vic.),130.32,ok
+21358,Kinglake,22380,Strathmore (Vic.),194.07,ok
+21359,Kinglake Central,22380,Strathmore (Vic.),,no_eligible_route
+21360,Kinglake West,22380,Strathmore (Vic.),148.1,ok
+21362,Kings Park (Vic.),22380,Strathmore (Vic.),94.37,ok
+21363,Kingsbury,22380,Strathmore (Vic.),70.9,ok
+21365,Kingsville,22380,Strathmore (Vic.),62.63,ok
+21374,Knoxfield,22380,Strathmore (Vic.),114.52,ok
+21380,Koo Wee Rup,22380,Strathmore (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,22380,Strathmore (Vic.),,no_eligible_route
+21393,Kooyong,22380,Strathmore (Vic.),63.32,ok
+21411,Kurunjang,22380,Strathmore (Vic.),152.15,ok
+21452,Lalor,22380,Strathmore (Vic.),78.07,ok
+21456,Lancefield,22380,Strathmore (Vic.),,no_eligible_route
+21459,Lang Lang,22380,Strathmore (Vic.),,no_eligible_route
+21460,Lang Lang East,22380,Strathmore (Vic.),,no_eligible_route
+21467,Langwarrin,22380,Strathmore (Vic.),142.53,ok
+21468,Langwarrin South,22380,Strathmore (Vic.),,no_eligible_route
+21473,Launching Place,22380,Strathmore (Vic.),140.53,ok
+21476,Laverton (Vic.),22380,Strathmore (Vic.),71.98,ok
+21477,Laverton North,22380,Strathmore (Vic.),99.4,ok
+21504,Lilydale (Vic.),22380,Strathmore (Vic.),120.18,ok
+21533,Long Forest,22380,Strathmore (Vic.),,no_eligible_route
+21547,Lower Plenty,22380,Strathmore (Vic.),112.03,ok
+21554,Lynbrook,22380,Strathmore (Vic.),110.4,ok
+21555,Lyndhurst (Vic.),22380,Strathmore (Vic.),153.98,ok
+21558,Lysterfield,22380,Strathmore (Vic.),,no_eligible_route
+21559,Lysterfield South,22380,Strathmore (Vic.),173.12,ok
+21561,Macclesfield (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+21562,Macedon,22380,Strathmore (Vic.),,no_eligible_route
+21564,Macleod (Vic.),22380,Strathmore (Vic.),85.25,ok
+21569,Maddingley,22380,Strathmore (Vic.),,no_eligible_route
+21575,Maidstone,22380,Strathmore (Vic.),56.53,ok
+21578,Main Ridge,22380,Strathmore (Vic.),,no_eligible_route
+21586,Malvern (Vic.),22380,Strathmore (Vic.),73.55,ok
+21587,Malvern East,22380,Strathmore (Vic.),75.92,ok
+21588,Mambourin,22380,Strathmore (Vic.),,no_eligible_route
+21597,Manor Lakes,22380,Strathmore (Vic.),128.92,ok
+21604,Maribyrnong,22380,Strathmore (Vic.),47.27,ok
+21619,Maryknoll,22380,Strathmore (Vic.),,no_eligible_route
+21625,McCrae,22380,Strathmore (Vic.),200.63,ok
+21629,McKinnon,22380,Strathmore (Vic.),73.4,ok
+21635,Meadow Heights,22380,Strathmore (Vic.),53.0,ok
+21640,Melbourne,22380,Strathmore (Vic.),47.0,ok
+21641,Melbourne Airport,22380,Strathmore (Vic.),171.47,walk_only
+21642,Melton (Vic.),22380,Strathmore (Vic.),160.33,ok
+21643,Melton South,22380,Strathmore (Vic.),172.7,ok
+21644,Melton West,22380,Strathmore (Vic.),148.33,ok
+21648,Mentone,22380,Strathmore (Vic.),89.08,ok
+21649,Menzies Creek,22380,Strathmore (Vic.),,no_eligible_route
+21659,Mernda,22380,Strathmore (Vic.),92.35,ok
+21662,Merricks,22380,Strathmore (Vic.),,no_eligible_route
+21663,Merricks Beach,22380,Strathmore (Vic.),,no_eligible_route
+21664,Merricks North,22380,Strathmore (Vic.),,no_eligible_route
+21668,Merrimu,22380,Strathmore (Vic.),,no_eligible_route
+21675,Mickleham,22380,Strathmore (Vic.),87.57,ok
+21677,Middle Park (Vic.),22380,Strathmore (Vic.),63.33,ok
+21683,Mill Park,22380,Strathmore (Vic.),90.32,ok
+21685,Millgrove,22380,Strathmore (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),22380,Strathmore (Vic.),92.78,ok
+21727,Monbulk,22380,Strathmore (Vic.),167.03,ok
+21728,Monegeetta,22380,Strathmore (Vic.),,no_eligible_route
+21731,Monomeith,22380,Strathmore (Vic.),,no_eligible_route
+21732,Mont Albert,22380,Strathmore (Vic.),80.95,ok
+21733,Mont Albert North,22380,Strathmore (Vic.),90.73,ok
+21735,Montmorency,22380,Strathmore (Vic.),92.82,ok
+21736,Montrose (Vic.),22380,Strathmore (Vic.),118.15,ok
+21742,Moonee Ponds,22380,Strathmore (Vic.),20.77,ok
+21746,Moorabbin,22380,Strathmore (Vic.),102.35,ok
+21747,Moorabbin Airport,22380,Strathmore (Vic.),112.58,ok
+21754,Moorooduc,22380,Strathmore (Vic.),,no_eligible_route
+21755,Mooroolbark,22380,Strathmore (Vic.),108.08,ok
+21760,Mordialloc,22380,Strathmore (Vic.),104.38,ok
+21763,Mornington (Vic.),22380,Strathmore (Vic.),165.17,ok
+21779,Mount Burnett,22380,Strathmore (Vic.),,no_eligible_route
+21786,Mount Cottrell,22380,Strathmore (Vic.),,no_eligible_route
+21787,Mount Dandenong,22380,Strathmore (Vic.),129.85,ok
+21793,Mount Eliza,22380,Strathmore (Vic.),142.62,ok
+21795,Mount Evelyn,22380,Strathmore (Vic.),134.02,ok
+21801,Mount Macedon,22380,Strathmore (Vic.),,no_eligible_route
+21803,Mount Martha,22380,Strathmore (Vic.),169.15,ok
+21814,Mount Toolebewong,22380,Strathmore (Vic.),,no_eligible_route
+21816,Mount Waverley,22380,Strathmore (Vic.),80.98,ok
+21827,Mulgrave (Vic.),22380,Strathmore (Vic.),114.43,ok
+21849,Murrumbeena,22380,Strathmore (Vic.),78.3,ok
+21872,Nangana,22380,Strathmore (Vic.),,no_eligible_route
+21878,Nar Nar Goon,22380,Strathmore (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,22380,Strathmore (Vic.),,no_eligible_route
+21893,Narre Warren,22380,Strathmore (Vic.),124.12,ok
+21894,Narre Warren East,22380,Strathmore (Vic.),,no_eligible_route
+21895,Narre Warren North,22380,Strathmore (Vic.),140.4,ok
+21896,Narre Warren South,22380,Strathmore (Vic.),124.95,ok
+21921,New Gisborne,22380,Strathmore (Vic.),,no_eligible_route
+21934,Newport (Vic.),22380,Strathmore (Vic.),55.83,ok
+21942,Niddrie,22380,Strathmore (Vic.),38.78,ok
+21952,Noble Park,22380,Strathmore (Vic.),90.4,ok
+21953,Noble Park North,22380,Strathmore (Vic.),125.07,ok
+21966,North Melbourne,22380,Strathmore (Vic.),41.72,ok
+21969,North Warrandyte,22380,Strathmore (Vic.),115.38,ok
+21971,Northcote,22380,Strathmore (Vic.),61.32,ok
+21974,Notting Hill,22380,Strathmore (Vic.),93.53,ok
+21985,Nunawading,22380,Strathmore (Vic.),85.27,ok
+21991,Nutfield,22380,Strathmore (Vic.),,no_eligible_route
+21998,Oak Park,22380,Strathmore (Vic.),26.07,ok
+21999,Oaklands Junction,22380,Strathmore (Vic.),,no_eligible_route
+22000,Oakleigh,22380,Strathmore (Vic.),77.37,ok
+22001,Oakleigh East,22380,Strathmore (Vic.),87.18,ok
+22002,Oakleigh South,22380,Strathmore (Vic.),90.0,ok
+22006,Officer,22380,Strathmore (Vic.),137.68,ok
+22007,Officer South,22380,Strathmore (Vic.),181.25,ok
+22009,Olinda (Vic.),22380,Strathmore (Vic.),154.5,ok
+22016,Ormond,22380,Strathmore (Vic.),73.83,ok
+22027,Pakenham,22380,Strathmore (Vic.),136.73,ok
+22028,Pakenham South,22380,Strathmore (Vic.),,no_eligible_route
+22029,Pakenham Upper,22380,Strathmore (Vic.),,no_eligible_route
+22032,Panton Hill,22380,Strathmore (Vic.),,no_eligible_route
+22036,Park Orchards,22380,Strathmore (Vic.),102.75,ok
+22037,Parkdale,22380,Strathmore (Vic.),94.17,ok
+22038,Parkville (Vic.),22380,Strathmore (Vic.),46.05,ok
+22041,Pascoe Vale,22380,Strathmore (Vic.),32.83,ok
+22042,Pascoe Vale South,22380,Strathmore (Vic.),27.42,ok
+22047,Patterson Lakes,22380,Strathmore (Vic.),116.47,ok
+22050,Pearcedale,22380,Strathmore (Vic.),176.55,ok
+22058,Pentland Hills,22380,Strathmore (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),22380,Strathmore (Vic.),163.75,ok
+22084,Plenty (Vic.),22380,Strathmore (Vic.),107.73,ok
+22085,Plumpton (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+22086,Point Cook,22380,Strathmore (Vic.),88.22,ok
+22087,Point Leo,22380,Strathmore (Vic.),,no_eligible_route
+22107,Port Melbourne,22380,Strathmore (Vic.),58.83,ok
+22113,Portsea,22380,Strathmore (Vic.),,no_eligible_route
+22115,Powelltown,22380,Strathmore (Vic.),,no_eligible_route
+22118,Prahran,22380,Strathmore (Vic.),64.9,ok
+22121,Preston (Vic.),22380,Strathmore (Vic.),53.25,ok
+22122,Princes Hill,22380,Strathmore (Vic.),49.67,ok
+22132,Quandong,22380,Strathmore (Vic.),,no_eligible_route
+22141,Ravenhall,22380,Strathmore (Vic.),106.02,ok
+22148,Red Hill (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+22149,Red Hill South,22380,Strathmore (Vic.),,no_eligible_route
+22160,Research,22380,Strathmore (Vic.),109.25,ok
+22161,Reservoir (Vic.),22380,Strathmore (Vic.),62.85,ok
+22170,Richmond (Vic.),22380,Strathmore (Vic.),59.43,ok
+22172,Riddells Creek,22380,Strathmore (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),22380,Strathmore (Vic.),99.4,ok
+22175,Ringwood East,22380,Strathmore (Vic.),98.97,ok
+22176,Ringwood North,22380,Strathmore (Vic.),108.6,ok
+22179,Ripponlea,22380,Strathmore (Vic.),60.8,ok
+22185,Rochford,22380,Strathmore (Vic.),,no_eligible_route
+22186,Rockbank,22380,Strathmore (Vic.),125.45,ok
+22193,Romsey,22380,Strathmore (Vic.),,no_eligible_route
+22194,Rosanna,22380,Strathmore (Vic.),75.9,ok
+22198,Rosebud,22380,Strathmore (Vic.),217.95,ok
+22207,Rowville,22380,Strathmore (Vic.),122.65,ok
+22208,Roxburgh Park,22380,Strathmore (Vic.),52.83,ok
+22220,Rye,22380,Strathmore (Vic.),230.15,ok
+22221,Rythdale,22380,Strathmore (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),22380,Strathmore (Vic.),185.12,ok
+22232,Sandhurst,22380,Strathmore (Vic.),144.8,ok
+22234,Sandringham (Vic.),22380,Strathmore (Vic.),87.65,ok
+22239,Sassafras (Vic.),22380,Strathmore (Vic.),138.92,ok
+22242,Scoresby,22380,Strathmore (Vic.),109.17,ok
+22247,Seabrook,22380,Strathmore (Vic.),88.38,ok
+22249,Seaford (Vic.),22380,Strathmore (Vic.),119.7,ok
+22250,Seaholme,22380,Strathmore (Vic.),65.07,ok
+22256,Seddon (Vic.),22380,Strathmore (Vic.),49.08,ok
+22258,Selby,22380,Strathmore (Vic.),153.47,ok
+22263,Seville,22380,Strathmore (Vic.),151.7,ok
+22264,Seville East,22380,Strathmore (Vic.),138.58,ok
+22278,Sherbrooke,22380,Strathmore (Vic.),149.65,ok
+22279,Shoreham,22380,Strathmore (Vic.),,no_eligible_route
+22281,Silvan,22380,Strathmore (Vic.),159.13,ok
+22291,Skye (Vic.),22380,Strathmore (Vic.),152.48,ok
+22295,Smiths Gully,22380,Strathmore (Vic.),,no_eligible_route
+22303,Somers,22380,Strathmore (Vic.),,no_eligible_route
+22304,Somerton (Vic.),22380,Strathmore (Vic.),60.93,ok
+22305,Somerville (Vic.),22380,Strathmore (Vic.),167.7,ok
+22306,Sorrento (Vic.),22380,Strathmore (Vic.),220.92,ok
+22309,South Kingsville,22380,Strathmore (Vic.),68.08,ok
+22310,South Melbourne,22380,Strathmore (Vic.),56.15,ok
+22311,South Morang,22380,Strathmore (Vic.),99.92,ok
+22313,South Wharf,22380,Strathmore (Vic.),50.93,ok
+22314,South Yarra,22380,Strathmore (Vic.),51.57,ok
+22315,Southbank,22380,Strathmore (Vic.),54.45,ok
+22319,Spotswood,22380,Strathmore (Vic.),49.23,ok
+22325,Springfield (Macedon Ranges - Vic.),22380,Strathmore (Vic.),,no_eligible_route
+22328,Springvale (Vic.),22380,Strathmore (Vic.),91.37,ok
+22329,Springvale South,22380,Strathmore (Vic.),93.1,ok
+22330,St Albans (Vic.),22380,Strathmore (Vic.),74.92,ok
+22332,St Andrews (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+22333,St Andrews Beach,22380,Strathmore (Vic.),,no_eligible_route
+22339,St Helena,22380,Strathmore (Vic.),92.65,ok
+22343,St Kilda (Vic.),22380,Strathmore (Vic.),69.38,ok
+22344,St Kilda East,22380,Strathmore (Vic.),71.98,ok
+22345,St Kilda West,22380,Strathmore (Vic.),64.22,ok
+22355,Steels Creek,22380,Strathmore (Vic.),,no_eligible_route
+22375,Strathewen,22380,Strathmore (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),22380,Strathmore (Vic.),0.0,same_centroid
+22381,Strathmore Heights,22380,Strathmore (Vic.),17.42,ok
+22382,Strathtulloh,22380,Strathmore (Vic.),,no_eligible_route
+22391,Sunbury,22380,Strathmore (Vic.),,no_eligible_route
+22395,Sunshine (Vic.),22380,Strathmore (Vic.),63.7,ok
+22396,Sunshine North,22380,Strathmore (Vic.),64.62,ok
+22397,Sunshine West,22380,Strathmore (Vic.),87.05,ok
+22399,Surrey Hills,22380,Strathmore (Vic.),81.35,ok
+22414,Sydenham (Vic.),22380,Strathmore (Vic.),89.32,ok
+22451,Tarneit,22380,Strathmore (Vic.),107.28,ok
+22457,Tarrawarra,22380,Strathmore (Vic.),162.5,ok
+22473,Taylors Hill,22380,Strathmore (Vic.),99.1,ok
+22474,Taylors Lakes,22380,Strathmore (Vic.),73.12,ok
+22476,Tecoma,22380,Strathmore (Vic.),117.87,ok
+22483,Templestowe,22380,Strathmore (Vic.),90.15,ok
+22484,Templestowe Lower,22380,Strathmore (Vic.),85.12,ok
+22496,The Basin (Vic.),22380,Strathmore (Vic.),130.05,ok
+22501,The Patch,22380,Strathmore (Vic.),157.6,ok
+22504,Thomastown,22380,Strathmore (Vic.),79.57,ok
+22508,Thornbury,22380,Strathmore (Vic.),52.75,ok
+22509,Thornhill Park,22380,Strathmore (Vic.),,no_eligible_route
+22514,Three Bridges,22380,Strathmore (Vic.),,no_eligible_route
+22531,Tonimbuk,22380,Strathmore (Vic.),,no_eligible_route
+22536,Toolangi,22380,Strathmore (Vic.),,no_eligible_route
+22537,Toolern Vale,22380,Strathmore (Vic.),,no_eligible_route
+22546,Tooradin,22380,Strathmore (Vic.),,no_eligible_route
+22547,Toorak,22380,Strathmore (Vic.),69.95,ok
+22550,Tootgarook,22380,Strathmore (Vic.),213.57,ok
+22556,Tottenham (Vic.),22380,Strathmore (Vic.),86.23,ok
+22572,Travancore,22380,Strathmore (Vic.),33.2,ok
+22576,Tremont,22380,Strathmore (Vic.),135.05,ok
+22582,Truganina,22380,Strathmore (Vic.),161.17,ok
+22584,Tuerong,22380,Strathmore (Vic.),,no_eligible_route
+22586,Tullamarine,22380,Strathmore (Vic.),35.18,ok
+22594,Tyabb,22380,Strathmore (Vic.),156.57,ok
+22598,Tynong,22380,Strathmore (Vic.),,no_eligible_route
+22599,Tynong North,22380,Strathmore (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,22380,Strathmore (Vic.),115.02,ok
+22617,Upper Plenty,22380,Strathmore (Vic.),,no_eligible_route
+22620,Upwey,22380,Strathmore (Vic.),117.73,ok
+22627,Vermont,22380,Strathmore (Vic.),103.08,ok
+22628,Vermont South,22380,Strathmore (Vic.),110.23,ok
+22629,Vervale,22380,Strathmore (Vic.),,no_eligible_route
+22633,Viewbank,22380,Strathmore (Vic.),82.72,ok
+22661,Wallan,22380,Strathmore (Vic.),,no_eligible_route
+22672,Wandin East,22380,Strathmore (Vic.),,no_eligible_route
+22673,Wandin North,22380,Strathmore (Vic.),124.67,ok
+22676,Wandong,22380,Strathmore (Vic.),,no_eligible_route
+22685,Wantirna,22380,Strathmore (Vic.),116.02,ok
+22686,Wantirna South,22380,Strathmore (Vic.),115.2,ok
+22689,Warburton (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+22695,Warneet,22380,Strathmore (Vic.),,no_eligible_route
+22702,Warrandyte,22380,Strathmore (Vic.),103.93,ok
+22703,Warrandyte South,22380,Strathmore (Vic.),139.9,ok
+22704,Warranwood,22380,Strathmore (Vic.),117.57,ok
+22717,Waterford Park,22380,Strathmore (Vic.),,no_eligible_route
+22720,Waterways,22380,Strathmore (Vic.),117.53,ok
+22721,Watsonia,22380,Strathmore (Vic.),79.1,ok
+22722,Watsonia North,22380,Strathmore (Vic.),88.2,ok
+22723,Watsons Creek (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+22727,Wattle Glen,22380,Strathmore (Vic.),111.92,ok
+22740,Weir Views,22380,Strathmore (Vic.),203.17,ok
+22750,Werribee,22380,Strathmore (Vic.),87.02,ok
+22751,Werribee South,22380,Strathmore (Vic.),121.03,ok
+22753,Wesburn,22380,Strathmore (Vic.),156.63,ok
+22756,West Footscray,22380,Strathmore (Vic.),66.4,ok
+22757,West Melbourne,22380,Strathmore (Vic.),60.8,ok
+22761,Westmeadows,22380,Strathmore (Vic.),46.25,ok
+22766,Wheelers Hill,22380,Strathmore (Vic.),99.6,ok
+22775,Whittlesea,22380,Strathmore (Vic.),,no_eligible_route
+22784,Wildwood,22380,Strathmore (Vic.),,no_eligible_route
+22791,Williams Landing,22380,Strathmore (Vic.),86.23,ok
+22792,Williamstown (Vic.),22380,Strathmore (Vic.),67.78,ok
+22793,Williamstown North,22380,Strathmore (Vic.),77.58,ok
+22805,Windsor (Vic.),22380,Strathmore (Vic.),58.07,ok
+22820,Wollert,22380,Strathmore (Vic.),74.1,ok
+22825,Wonga Park,22380,Strathmore (Vic.),126.42,ok
+22843,Woodstock (Vic.),22380,Strathmore (Vic.),,no_eligible_route
+22857,Woori Yallock,22380,Strathmore (Vic.),135.78,ok
+22883,Wyndham Vale,22380,Strathmore (Vic.),113.83,ok
+22892,Yallambie,22380,Strathmore (Vic.),96.05,ok
+22898,Yan Yean,22380,Strathmore (Vic.),129.48,ok
+22906,Yannathan,22380,Strathmore (Vic.),,no_eligible_route
+22910,Yarra Glen,22380,Strathmore (Vic.),159.8,ok
+22911,Yarra Junction,22380,Strathmore (Vic.),160.9,ok
+22916,Yarrambat,22380,Strathmore (Vic.),112.7,ok
+22917,Yarraville,22380,Strathmore (Vic.),54.98,ok
+22925,Yellingbo,22380,Strathmore (Vic.),,no_eligible_route
+22930,Yering,22380,Strathmore (Vic.),,no_eligible_route
+22941,Yuroke,22380,Strathmore (Vic.),110.85,ok

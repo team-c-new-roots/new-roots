@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22250,Seaholme,61.47,ok
+20003,Aberfeldie,22250,Seaholme,66.02,ok
+20011,Aintree,22250,Seaholme,93.78,ok
+20015,Airport West,22250,Seaholme,82.12,ok
+20017,Albanvale,22250,Seaholme,70.25,ok
+20018,Albert Park (Vic.),22250,Seaholme,56.58,ok
+20021,Albion (Vic.),22250,Seaholme,52.62,ok
+20034,Alphington,22250,Seaholme,66.63,ok
+20035,Altona (Vic.),22250,Seaholme,22.72,ok
+20036,Altona Meadows,22250,Seaholme,22.48,ok
+20037,Altona North,22250,Seaholme,33.13,ok
+20062,Ardeer,22250,Seaholme,60.8,ok
+20066,Armadale (Vic.),22250,Seaholme,62.87,ok
+20071,Arthurs Creek,22250,Seaholme,,no_eligible_route
+20072,Arthurs Seat,22250,Seaholme,230.38,ok
+20075,Ascot Vale,22250,Seaholme,53.38,ok
+20077,Ashburton,22250,Seaholme,72.47,ok
+20078,Ashwood,22250,Seaholme,81.67,ok
+20079,Aspendale,22250,Seaholme,105.12,ok
+20080,Aspendale Gardens,22250,Seaholme,120.87,ok
+20082,Attwood,22250,Seaholme,85.83,ok
+20089,Avondale Heights,22250,Seaholme,66.73,ok
+20091,Avonsleigh,22250,Seaholme,,no_eligible_route
+20095,Bacchus Marsh,22250,Seaholme,,no_eligible_route
+20097,Badger Creek,22250,Seaholme,175.32,ok
+20105,Balaclava (Vic.),22250,Seaholme,58.5,ok
+20120,Balnarring,22250,Seaholme,,no_eligible_route
+20121,Balnarring Beach,22250,Seaholme,,no_eligible_route
+20123,Balwyn,22250,Seaholme,89.6,ok
+20124,Balwyn North,22250,Seaholme,84.37,ok
+20131,Bangholme,22250,Seaholme,156.72,ok
+20169,Baxter,22250,Seaholme,145.47,ok
+20171,Bayles,22250,Seaholme,,no_eligible_route
+20173,Bayswater (Vic.),22250,Seaholme,96.12,ok
+20174,Bayswater North,22250,Seaholme,117.08,ok
+20175,Beaconsfield (Vic.),22250,Seaholme,143.32,ok
+20176,Beaconsfield Upper,22250,Seaholme,,no_eligible_route
+20182,Beaumaris (Vic.),22250,Seaholme,101.88,ok
+20187,Beenak,22250,Seaholme,,no_eligible_route
+20188,Belgrave,22250,Seaholme,120.23,ok
+20189,Belgrave Heights,22250,Seaholme,151.9,ok
+20190,Belgrave South,22250,Seaholme,151.85,ok
+20198,Bellfield (Banyule - Vic.),22250,Seaholme,84.38,ok
+20207,Bend Of Islands,22250,Seaholme,,no_eligible_route
+20212,Benloch,22250,Seaholme,,no_eligible_route
+20214,Bentleigh,22250,Seaholme,83.9,ok
+20215,Bentleigh East,22250,Seaholme,83.67,ok
+20224,Berwick,22250,Seaholme,116.4,ok
+20233,Beveridge,22250,Seaholme,130.42,ok
+20237,Big Pats Creek,22250,Seaholme,,no_eligible_route
+20248,Bittern,22250,Seaholme,163.45,ok
+20251,Black Rock (Vic.),22250,Seaholme,95.32,ok
+20252,Blackburn,22250,Seaholme,72.45,ok
+20253,Blackburn North,22250,Seaholme,90.72,ok
+20254,Blackburn South,22250,Seaholme,88.78,ok
+20257,Blairgowrie,22250,Seaholme,224.42,ok
+20260,Blind Bight,22250,Seaholme,,no_eligible_route
+20272,Bolinda,22250,Seaholme,,no_eligible_route
+20278,Bonbeach,22250,Seaholme,110.12,ok
+20280,Boneo,22250,Seaholme,,no_eligible_route
+20282,Bonnie Brook,22250,Seaholme,126.33,ok
+20304,Boronia,22250,Seaholme,98.58,ok
+20307,Botanic Ridge,22250,Seaholme,148.23,ok
+20314,Box Hill (Vic.),22250,Seaholme,71.9,ok
+20315,Box Hill North,22250,Seaholme,78.32,ok
+20316,Box Hill South,22250,Seaholme,84.05,ok
+20320,Braeside,22250,Seaholme,132.2,ok
+20324,Braybrook,22250,Seaholme,44.43,ok
+20331,Briar Hill,22250,Seaholme,105.35,ok
+20337,Brighton (Vic.),22250,Seaholme,71.27,ok
+20338,Brighton East,22250,Seaholme,77.52,ok
+20346,Broadmeadows (Vic.),22250,Seaholme,77.75,ok
+20351,Brookfield (Vic.),22250,Seaholme,148.83,ok
+20352,Brooklyn (Vic.),22250,Seaholme,27.18,ok
+20361,Brunswick (Vic.),22250,Seaholme,50.57,ok
+20362,Brunswick East,22250,Seaholme,73.12,ok
+20363,Brunswick West,22250,Seaholme,62.75,ok
+20381,Bulla (Vic.),22250,Seaholme,,no_eligible_route
+20386,Bulleen,22250,Seaholme,88.52,ok
+20387,Bullengarook,22250,Seaholme,,no_eligible_route
+20399,Bundoora (Vic.),22250,Seaholme,99.37,ok
+20411,Bunyip,22250,Seaholme,,no_eligible_route
+20412,Bunyip North,22250,Seaholme,,no_eligible_route
+20418,Burnley,22250,Seaholme,65.87,ok
+20419,Burnside (Vic.),22250,Seaholme,69.68,ok
+20420,Burnside Heights,22250,Seaholme,82.68,ok
+20426,Burwood (Vic.),22250,Seaholme,93.55,ok
+20427,Burwood East,22250,Seaholme,90.78,ok
+20435,Bylands,22250,Seaholme,,no_eligible_route
+20441,Cairnlea,22250,Seaholme,59.87,ok
+20442,Calder Park,22250,Seaholme,93.43,ok
+20443,Caldermeade,22250,Seaholme,,no_eligible_route
+20453,Camberwell (Vic.),22250,Seaholme,71.4,ok
+20455,Campbellfield,22250,Seaholme,84.12,ok
+20466,Cannons Creek,22250,Seaholme,,no_eligible_route
+20468,Canterbury (Vic.),22250,Seaholme,72.88,ok
+20474,Cape Schanck,22250,Seaholme,,no_eligible_route
+20476,Capel Sound,22250,Seaholme,209.77,ok
+20487,Cardinia,22250,Seaholme,,no_eligible_route
+20495,Carlton (Vic.),22250,Seaholme,50.85,ok
+20496,Carlton North,22250,Seaholme,67.58,ok
+20498,Carnegie,22250,Seaholme,72.88,ok
+20500,Caroline Springs,22250,Seaholme,78.57,ok
+20507,Carrum,22250,Seaholme,109.93,ok
+20508,Carrum Downs,22250,Seaholme,118.17,ok
+20512,Castella,22250,Seaholme,,no_eligible_route
+20517,Catani,22250,Seaholme,,no_eligible_route
+20521,Caulfield,22250,Seaholme,76.57,ok
+20522,Caulfield East,22250,Seaholme,67.3,ok
+20523,Caulfield North,22250,Seaholme,65.8,ok
+20524,Caulfield South,22250,Seaholme,81.75,ok
+20528,Chadstone,22250,Seaholme,87.08,ok
+20537,Chelsea,22250,Seaholme,107.18,ok
+20538,Chelsea Heights,22250,Seaholme,122.87,ok
+20539,Cheltenham (Vic.),22250,Seaholme,96.65,ok
+20541,Cherokee,22250,Seaholme,,no_eligible_route
+20555,Chintin,22250,Seaholme,,no_eligible_route
+20556,Chirnside Park,22250,Seaholme,128.48,ok
+20559,Christmas Hills (Vic.),22250,Seaholme,,no_eligible_route
+20560,Chum Creek,22250,Seaholme,,no_eligible_route
+20566,Clarinda,22250,Seaholme,92.03,ok
+20567,Clarkefield,22250,Seaholme,,no_eligible_route
+20569,Clayton,22250,Seaholme,90.55,ok
+20570,Clayton South,22250,Seaholme,101.17,ok
+20572,Clematis,22250,Seaholme,,no_eligible_route
+20574,Clifton Hill,22250,Seaholme,59.72,ok
+20576,Clonbinane,22250,Seaholme,,no_eligible_route
+20581,Clyde (Vic.),22250,Seaholme,171.07,ok
+20582,Clyde North,22250,Seaholme,135.83,ok
+20587,Cobaw,22250,Seaholme,,no_eligible_route
+20590,Cobblebank,22250,Seaholme,133.48,ok
+20596,Coburg,22250,Seaholme,59.87,ok
+20597,Coburg North,22250,Seaholme,71.87,ok
+20600,Cockatoo (Vic.),22250,Seaholme,,no_eligible_route
+20601,Cocoroc,22250,Seaholme,,no_eligible_route
+20605,Coimadai,22250,Seaholme,,no_eligible_route
+20613,Coldstream (Vic.),22250,Seaholme,,no_eligible_route
+20616,Collingwood (Vic.),22250,Seaholme,61.95,ok
+20624,Coolaroo,22250,Seaholme,78.53,ok
+20633,Cora Lynn,22250,Seaholme,,no_eligible_route
+20654,Cottles Bridge,22250,Seaholme,,no_eligible_route
+20661,Craigieburn,22250,Seaholme,87.9,ok
+20662,Cranbourne,22250,Seaholme,118.23,ok
+20663,Cranbourne East,22250,Seaholme,129.12,ok
+20664,Cranbourne North,22250,Seaholme,117.57,ok
+20665,Cranbourne South,22250,Seaholme,151.58,ok
+20666,Cranbourne West,22250,Seaholme,126.53,ok
+20670,Cremorne (Vic.),22250,Seaholme,54.25,ok
+20674,Crib Point,22250,Seaholme,172.42,ok
+20682,Croydon (Vic.),22250,Seaholme,91.22,ok
+20683,Croydon Hills,22250,Seaholme,112.53,ok
+20684,Croydon North,22250,Seaholme,113.97,ok
+20685,Croydon South,22250,Seaholme,120.13,ok
+20702,Dallas,22250,Seaholme,82.77,ok
+20703,Dalmore,22250,Seaholme,,no_eligible_route
+20707,Dandenong,22250,Seaholme,97.0,ok
+20708,Dandenong North,22250,Seaholme,115.47,ok
+20709,Dandenong South,22250,Seaholme,118.05,ok
+20712,Darley,22250,Seaholme,,no_eligible_route
+20716,Darraweit Guim,22250,Seaholme,,no_eligible_route
+20724,Deanside,22250,Seaholme,103.93,ok
+20728,Deepdene (Vic.),22250,Seaholme,78.23,ok
+20729,Deer Park,22250,Seaholme,58.63,ok
+20731,Delahey,22250,Seaholme,72.77,ok
+20743,Derrimut,22250,Seaholme,77.52,ok
+20748,Devon Meadows,22250,Seaholme,177.82,ok
+20750,Dewhurst,22250,Seaholme,,no_eligible_route
+20752,Diamond Creek,22250,Seaholme,116.98,ok
+20754,Diggers Rest,22250,Seaholme,84.75,ok
+20758,Dingley Village,22250,Seaholme,107.55,ok
+20762,Dixons Creek,22250,Seaholme,,no_eligible_route
+20766,Docklands,22250,Seaholme,45.88,ok
+20769,Don Valley,22250,Seaholme,,no_eligible_route
+20771,Doncaster,22250,Seaholme,83.12,ok
+20772,Doncaster East,22250,Seaholme,91.08,ok
+20773,Donnybrook (Vic.),22250,Seaholme,119.92,ok
+20774,Donvale,22250,Seaholme,108.23,ok
+20779,Doreen,22250,Seaholme,128.47,ok
+20783,Doveton,22250,Seaholme,109.95,ok
+20788,Dromana,22250,Seaholme,219.55,ok
+20825,Eaglemont,22250,Seaholme,84.97,ok
+20830,East Melbourne,22250,Seaholme,52.23,ok
+20833,East Warburton,22250,Seaholme,,no_eligible_route
+20843,Eden Park,22250,Seaholme,,no_eligible_route
+20848,Edithvale,22250,Seaholme,107.32,ok
+20864,Elsternwick,22250,Seaholme,66.42,ok
+20865,Eltham (Vic.),22250,Seaholme,108.08,ok
+20866,Eltham North,22250,Seaholme,101.07,ok
+20867,Elwood,22250,Seaholme,72.6,ok
+20868,Emerald (Vic.),22250,Seaholme,,no_eligible_route
+20871,Endeavour Hills,22250,Seaholme,117.28,ok
+20878,Epping (Vic.),22250,Seaholme,115.2,ok
+20885,Essendon,22250,Seaholme,61.77,ok
+20886,Essendon Fields,22250,Seaholme,85.17,ok
+20887,Essendon North,22250,Seaholme,66.17,ok
+20888,Essendon West,22250,Seaholme,59.12,ok
+20889,Eumemmerring,22250,Seaholme,115.33,ok
+20898,Exford,22250,Seaholme,,no_eligible_route
+20899,Eynesbury,22250,Seaholme,170.58,ok
+20901,Fairfield (Vic.),22250,Seaholme,72.95,ok
+20909,Fawkner,22250,Seaholme,76.57,ok
+20916,Fernshaw,22250,Seaholme,,no_eligible_route
+20917,Ferntree Gully,22250,Seaholme,108.97,ok
+20918,Ferny Creek,22250,Seaholme,152.48,ok
+20920,Fingal (Vic.),22250,Seaholme,,no_eligible_route
+20924,Fitzroy (Vic.),22250,Seaholme,58.25,ok
+20925,Fitzroy North,22250,Seaholme,70.85,ok
+20929,Flemington,22250,Seaholme,55.38,ok
+20930,Flinders (Vic.),22250,Seaholme,,no_eligible_route
+20935,Footscray,22250,Seaholme,36.93,ok
+20937,Forest Hill (Vic.),22250,Seaholme,87.77,ok
+20947,Frankston,22250,Seaholme,125.9,ok
+20948,Frankston North,22250,Seaholme,142.2,ok
+20949,Frankston South,22250,Seaholme,156.83,ok
+20950,Fraser Rise,22250,Seaholme,105.18,ok
+20965,Gardenvale,22250,Seaholme,67.7,ok
+20966,Garfield,22250,Seaholme,,no_eligible_route
+20967,Garfield North,22250,Seaholme,,no_eligible_route
+20979,Gembrook,22250,Seaholme,,no_eligible_route
+20995,Gilderoy,22250,Seaholme,,no_eligible_route
+21001,Gisborne,22250,Seaholme,,no_eligible_route
+21002,Gisborne South,22250,Seaholme,,no_eligible_route
+21004,Gladstone Park,22250,Seaholme,92.62,ok
+21005,Gladysdale,22250,Seaholme,,no_eligible_route
+21009,Glen Huntly,22250,Seaholme,75.43,ok
+21010,Glen Iris (Vic.),22250,Seaholme,79.97,ok
+21013,Glen Waverley,22250,Seaholme,86.88,ok
+21047,Glenroy (Vic.),22250,Seaholme,69.85,ok
+21059,Goldie,22250,Seaholme,,no_eligible_route
+21079,Gowanbrae,22250,Seaholme,92.12,ok
+21087,Grangefields,22250,Seaholme,131.78,ok
+21104,Greensborough,22250,Seaholme,93.5,ok
+21105,Greenvale (Vic.),22250,Seaholme,98.0,ok
+21115,Gruyere,22250,Seaholme,,no_eligible_route
+21121,Guys Hill,22250,Seaholme,,no_eligible_route
+21124,Hadfield,22250,Seaholme,78.6,ok
+21125,Hallam,22250,Seaholme,120.05,ok
+21131,Hampton (Vic.),22250,Seaholme,79.1,ok
+21132,Hampton East,22250,Seaholme,90.67,ok
+21133,Hampton Park,22250,Seaholme,122.93,ok
+21139,Harkaway,22250,Seaholme,,no_eligible_route
+21140,Harkness,22250,Seaholme,150.32,ok
+21145,Hastings (Vic.),22250,Seaholme,164.98,ok
+21152,Hawthorn (Vic.),22250,Seaholme,66.27,ok
+21153,Hawthorn East,22250,Seaholme,69.78,ok
+21158,Healesville,22250,Seaholme,179.23,ok
+21159,Heath Hill,22250,Seaholme,,no_eligible_route
+21161,Heathcote Junction,22250,Seaholme,,no_eligible_route
+21163,Heatherton,22250,Seaholme,99.05,ok
+21165,Heathmont,22250,Seaholme,86.38,ok
+21167,Heidelberg,22250,Seaholme,87.77,ok
+21168,Heidelberg Heights,22250,Seaholme,92.27,ok
+21169,Heidelberg West,22250,Seaholme,89.48,ok
+21176,Hesket,22250,Seaholme,,no_eligible_route
+21185,Highett,22250,Seaholme,83.43,ok
+21193,Hillside (Melton - Vic.),22250,Seaholme,82.83,ok
+21195,Hmas Cerberus,22250,Seaholme,,no_eligible_route
+21196,Hoddles Creek,22250,Seaholme,,no_eligible_route
+21202,Hopetoun Park,22250,Seaholme,,no_eligible_route
+21203,Hoppers Crossing,22250,Seaholme,57.83,ok
+21214,Hughesdale,22250,Seaholme,75.52,ok
+21215,Humevale,22250,Seaholme,,no_eligible_route
+21218,Huntingdale (Vic.),22250,Seaholme,80.95,ok
+21223,Hurstbridge,22250,Seaholme,117.53,ok
+21238,Iona,22250,Seaholme,,no_eligible_route
+21246,Ivanhoe (Vic.),22250,Seaholme,71.23,ok
+21247,Ivanhoe East,22250,Seaholme,83.65,ok
+21248,Jacana,22250,Seaholme,78.88,ok
+21277,Junction Village,22250,Seaholme,160.57,ok
+21284,Kalkallo,22250,Seaholme,124.92,ok
+21286,Kallista,22250,Seaholme,155.92,ok
+21287,Kalorama,22250,Seaholme,122.18,ok
+21294,Kangaroo Ground,22250,Seaholme,139.73,ok
+21312,Kealba,22250,Seaholme,70.02,ok
+21314,Keilor,22250,Seaholme,95.8,ok
+21315,Keilor Downs,22250,Seaholme,76.68,ok
+21316,Keilor East,22250,Seaholme,55.82,ok
+21317,Keilor Lodge,22250,Seaholme,77.53,ok
+21318,Keilor North,22250,Seaholme,83.68,ok
+21319,Keilor Park,22250,Seaholme,81.95,ok
+21327,Kensington (Vic.),22250,Seaholme,39.42,ok
+21333,Kerrie,22250,Seaholme,,no_eligible_route
+21336,Kew (Vic.),22250,Seaholme,75.37,ok
+21337,Kew East,22250,Seaholme,78.47,ok
+21339,Keysborough,22250,Seaholme,109.32,ok
+21354,Kilsyth,22250,Seaholme,111.57,ok
+21355,Kilsyth South,22250,Seaholme,118.65,ok
+21358,Kinglake,22250,Seaholme,,no_eligible_route
+21359,Kinglake Central,22250,Seaholme,,no_eligible_route
+21360,Kinglake West,22250,Seaholme,,no_eligible_route
+21362,Kings Park (Vic.),22250,Seaholme,71.0,ok
+21363,Kingsbury,22250,Seaholme,98.58,ok
+21365,Kingsville,22250,Seaholme,27.73,ok
+21374,Knoxfield,22250,Seaholme,105.85,ok
+21380,Koo Wee Rup,22250,Seaholme,,no_eligible_route
+21381,Koo Wee Rup North,22250,Seaholme,,no_eligible_route
+21393,Kooyong,22250,Seaholme,60.65,ok
+21411,Kurunjang,22250,Seaholme,127.52,ok
+21452,Lalor,22250,Seaholme,90.92,ok
+21456,Lancefield,22250,Seaholme,,no_eligible_route
+21459,Lang Lang,22250,Seaholme,,no_eligible_route
+21460,Lang Lang East,22250,Seaholme,,no_eligible_route
+21467,Langwarrin,22250,Seaholme,140.95,ok
+21468,Langwarrin South,22250,Seaholme,,no_eligible_route
+21473,Launching Place,22250,Seaholme,142.87,ok
+21476,Laverton (Vic.),22250,Seaholme,31.52,ok
+21477,Laverton North,22250,Seaholme,54.02,ok
+21504,Lilydale (Vic.),22250,Seaholme,122.52,ok
+21533,Long Forest,22250,Seaholme,,no_eligible_route
+21547,Lower Plenty,22250,Seaholme,116.77,ok
+21554,Lynbrook,22250,Seaholme,106.73,ok
+21555,Lyndhurst (Vic.),22250,Seaholme,156.32,ok
+21558,Lysterfield,22250,Seaholme,,no_eligible_route
+21559,Lysterfield South,22250,Seaholme,165.45,ok
+21561,Macclesfield (Vic.),22250,Seaholme,,no_eligible_route
+21562,Macedon,22250,Seaholme,,no_eligible_route
+21564,Macleod (Vic.),22250,Seaholme,86.58,ok
+21569,Maddingley,22250,Seaholme,,no_eligible_route
+21575,Maidstone,22250,Seaholme,50.48,ok
+21578,Main Ridge,22250,Seaholme,,no_eligible_route
+21586,Malvern (Vic.),22250,Seaholme,72.88,ok
+21587,Malvern East,22250,Seaholme,73.25,ok
+21588,Mambourin,22250,Seaholme,,no_eligible_route
+21597,Manor Lakes,22250,Seaholme,87.78,ok
+21604,Maribyrnong,22250,Seaholme,59.37,ok
+21619,Maryknoll,22250,Seaholme,,no_eligible_route
+21625,McCrae,22250,Seaholme,202.97,ok
+21629,McKinnon,22250,Seaholme,72.73,ok
+21635,Meadow Heights,22250,Seaholme,91.77,ok
+21640,Melbourne,22250,Seaholme,49.85,ok
+21641,Melbourne Airport,22250,Seaholme,,no_eligible_route
+21642,Melton (Vic.),22250,Seaholme,135.7,ok
+21643,Melton South,22250,Seaholme,137.07,ok
+21644,Melton West,22250,Seaholme,123.7,ok
+21648,Mentone,22250,Seaholme,91.42,ok
+21649,Menzies Creek,22250,Seaholme,,no_eligible_route
+21659,Mernda,22250,Seaholme,120.4,ok
+21662,Merricks,22250,Seaholme,,no_eligible_route
+21663,Merricks Beach,22250,Seaholme,,no_eligible_route
+21664,Merricks North,22250,Seaholme,,no_eligible_route
+21668,Merrimu,22250,Seaholme,,no_eligible_route
+21675,Mickleham,22250,Seaholme,119.9,ok
+21677,Middle Park (Vic.),22250,Seaholme,61.9,ok
+21683,Mill Park,22250,Seaholme,114.88,ok
+21685,Millgrove,22250,Seaholme,,no_eligible_route
+21706,Mitcham (Vic.),22250,Seaholme,84.12,ok
+21727,Monbulk,22250,Seaholme,163.37,ok
+21728,Monegeetta,22250,Seaholme,,no_eligible_route
+21731,Monomeith,22250,Seaholme,,no_eligible_route
+21732,Mont Albert,22250,Seaholme,72.28,ok
+21733,Mont Albert North,22250,Seaholme,83.07,ok
+21735,Montmorency,22250,Seaholme,94.15,ok
+21736,Montrose (Vic.),22250,Seaholme,114.48,ok
+21742,Moonee Ponds,22250,Seaholme,48.23,ok
+21746,Moorabbin,22250,Seaholme,93.08,ok
+21747,Moorabbin Airport,22250,Seaholme,109.92,ok
+21754,Moorooduc,22250,Seaholme,,no_eligible_route
+21755,Mooroolbark,22250,Seaholme,104.42,ok
+21760,Mordialloc,22250,Seaholme,106.22,ok
+21763,Mornington (Vic.),22250,Seaholme,168.42,ok
+21779,Mount Burnett,22250,Seaholme,,no_eligible_route
+21786,Mount Cottrell,22250,Seaholme,,no_eligible_route
+21787,Mount Dandenong,22250,Seaholme,126.18,ok
+21793,Mount Eliza,22250,Seaholme,138.95,ok
+21795,Mount Evelyn,22250,Seaholme,130.35,ok
+21801,Mount Macedon,22250,Seaholme,,no_eligible_route
+21803,Mount Martha,22250,Seaholme,171.48,ok
+21814,Mount Toolebewong,22250,Seaholme,,no_eligible_route
+21816,Mount Waverley,22250,Seaholme,78.32,ok
+21827,Mulgrave (Vic.),22250,Seaholme,109.25,ok
+21849,Murrumbeena,22250,Seaholme,75.63,ok
+21872,Nangana,22250,Seaholme,,no_eligible_route
+21878,Nar Nar Goon,22250,Seaholme,,no_eligible_route
+21879,Nar Nar Goon North,22250,Seaholme,,no_eligible_route
+21893,Narre Warren,22250,Seaholme,121.47,ok
+21894,Narre Warren East,22250,Seaholme,,no_eligible_route
+21895,Narre Warren North,22250,Seaholme,131.77,ok
+21896,Narre Warren South,22250,Seaholme,127.28,ok
+21921,New Gisborne,22250,Seaholme,,no_eligible_route
+21934,Newport (Vic.),22250,Seaholme,23.97,ok
+21942,Niddrie,22250,Seaholme,78.12,ok
+21952,Noble Park,22250,Seaholme,87.73,ok
+21953,Noble Park North,22250,Seaholme,120.92,ok
+21966,North Melbourne,22250,Seaholme,47.45,ok
+21969,North Warrandyte,22250,Seaholme,127.72,ok
+21971,Northcote,22250,Seaholme,73.12,ok
+21974,Notting Hill,22250,Seaholme,91.87,ok
+21985,Nunawading,22250,Seaholme,76.6,ok
+21991,Nutfield,22250,Seaholme,,no_eligible_route
+21998,Oak Park,22250,Seaholme,66.55,ok
+21999,Oaklands Junction,22250,Seaholme,,no_eligible_route
+22000,Oakleigh,22250,Seaholme,78.18,ok
+22001,Oakleigh East,22250,Seaholme,89.23,ok
+22002,Oakleigh South,22250,Seaholme,87.33,ok
+22006,Officer,22250,Seaholme,136.05,ok
+22007,Officer South,22250,Seaholme,170.62,ok
+22009,Olinda (Vic.),22250,Seaholme,150.83,ok
+22016,Ormond,22250,Seaholme,73.17,ok
+22027,Pakenham,22250,Seaholme,135.1,ok
+22028,Pakenham South,22250,Seaholme,,no_eligible_route
+22029,Pakenham Upper,22250,Seaholme,,no_eligible_route
+22032,Panton Hill,22250,Seaholme,,no_eligible_route
+22036,Park Orchards,22250,Seaholme,105.08,ok
+22037,Parkdale,22250,Seaholme,96.5,ok
+22038,Parkville (Vic.),22250,Seaholme,55.53,ok
+22041,Pascoe Vale,22250,Seaholme,70.92,ok
+22042,Pascoe Vale South,22250,Seaholme,66.65,ok
+22047,Patterson Lakes,22250,Seaholme,118.8,ok
+22050,Pearcedale,22250,Seaholme,168.88,ok
+22058,Pentland Hills,22250,Seaholme,,no_eligible_route
+22064,Pheasant Creek (Vic.),22250,Seaholme,,no_eligible_route
+22084,Plenty (Vic.),22250,Seaholme,116.08,ok
+22085,Plumpton (Vic.),22250,Seaholme,,no_eligible_route
+22086,Point Cook,22250,Seaholme,56.55,ok
+22087,Point Leo,22250,Seaholme,,no_eligible_route
+22107,Port Melbourne,22250,Seaholme,61.17,ok
+22113,Portsea,22250,Seaholme,,no_eligible_route
+22115,Powelltown,22250,Seaholme,,no_eligible_route
+22118,Prahran,22250,Seaholme,61.23,ok
+22121,Preston (Vic.),22250,Seaholme,79.58,ok
+22122,Princes Hill,22250,Seaholme,63.07,ok
+22132,Quandong,22250,Seaholme,,no_eligible_route
+22141,Ravenhall,22250,Seaholme,97.38,ok
+22148,Red Hill (Vic.),22250,Seaholme,,no_eligible_route
+22149,Red Hill South,22250,Seaholme,,no_eligible_route
+22160,Research,22250,Seaholme,120.07,ok
+22161,Reservoir (Vic.),22250,Seaholme,87.73,ok
+22170,Richmond (Vic.),22250,Seaholme,60.18,ok
+22172,Riddells Creek,22250,Seaholme,,no_eligible_route
+22174,Ringwood (Vic.),22250,Seaholme,90.73,ok
+22175,Ringwood East,22250,Seaholme,91.3,ok
+22176,Ringwood North,22250,Seaholme,104.93,ok
+22179,Ripponlea,22250,Seaholme,57.13,ok
+22185,Rochford,22250,Seaholme,,no_eligible_route
+22186,Rockbank,22250,Seaholme,108.97,ok
+22193,Romsey,22250,Seaholme,,no_eligible_route
+22194,Rosanna,22250,Seaholme,81.05,ok
+22198,Rosebud,22250,Seaholme,220.28,ok
+22207,Rowville,22250,Seaholme,118.98,ok
+22208,Roxburgh Park,22250,Seaholme,86.17,ok
+22220,Rye,22250,Seaholme,232.48,ok
+22221,Rythdale,22250,Seaholme,,no_eligible_route
+22222,Safety Beach (Vic.),22250,Seaholme,187.45,ok
+22232,Sandhurst,22250,Seaholme,147.13,ok
+22234,Sandringham (Vic.),22250,Seaholme,83.98,ok
+22239,Sassafras (Vic.),22250,Seaholme,135.25,ok
+22242,Scoresby,22250,Seaholme,111.5,ok
+22247,Seabrook,22250,Seaholme,44.62,ok
+22249,Seaford (Vic.),22250,Seaholme,122.03,ok
+22250,Seaholme,22250,Seaholme,0.0,same_centroid
+22256,Seddon (Vic.),22250,Seaholme,31.83,ok
+22258,Selby,22250,Seaholme,153.8,ok
+22263,Seville,22250,Seaholme,154.03,ok
+22264,Seville East,22250,Seaholme,140.92,ok
+22278,Sherbrooke,22250,Seaholme,145.98,ok
+22279,Shoreham,22250,Seaholme,,no_eligible_route
+22281,Silvan,22250,Seaholme,155.47,ok
+22291,Skye (Vic.),22250,Seaholme,144.82,ok
+22295,Smiths Gully,22250,Seaholme,,no_eligible_route
+22303,Somers,22250,Seaholme,,no_eligible_route
+22304,Somerton (Vic.),22250,Seaholme,88.53,ok
+22305,Somerville (Vic.),22250,Seaholme,170.03,ok
+22306,Sorrento (Vic.),22250,Seaholme,223.25,ok
+22309,South Kingsville,22250,Seaholme,34.9,ok
+22310,South Melbourne,22250,Seaholme,53.2,ok
+22311,South Morang,22250,Seaholme,114.62,ok
+22313,South Wharf,22250,Seaholme,44.73,ok
+22314,South Yarra,22250,Seaholme,47.9,ok
+22315,Southbank,22250,Seaholme,52.45,ok
+22319,Spotswood,22250,Seaholme,21.72,ok
+22325,Springfield (Macedon Ranges - Vic.),22250,Seaholme,,no_eligible_route
+22328,Springvale (Vic.),22250,Seaholme,88.7,ok
+22329,Springvale South,22250,Seaholme,89.43,ok
+22330,St Albans (Vic.),22250,Seaholme,55.28,ok
+22332,St Andrews (Vic.),22250,Seaholme,,no_eligible_route
+22333,St Andrews Beach,22250,Seaholme,,no_eligible_route
+22339,St Helena,22250,Seaholme,103.33,ok
+22343,St Kilda (Vic.),22250,Seaholme,69.88,ok
+22344,St Kilda East,22250,Seaholme,68.32,ok
+22345,St Kilda West,22250,Seaholme,60.58,ok
+22355,Steels Creek,22250,Seaholme,,no_eligible_route
+22375,Strathewen,22250,Seaholme,,no_eligible_route
+22380,Strathmore (Vic.),22250,Seaholme,72.02,ok
+22381,Strathmore Heights,22250,Seaholme,82.8,ok
+22382,Strathtulloh,22250,Seaholme,190.95,ok
+22391,Sunbury,22250,Seaholme,120.57,ok
+22395,Sunshine (Vic.),22250,Seaholme,36.13,ok
+22396,Sunshine North,22250,Seaholme,48.13,ok
+22397,Sunshine West,22250,Seaholme,48.72,ok
+22399,Surrey Hills,22250,Seaholme,72.68,ok
+22414,Sydenham (Vic.),22250,Seaholme,71.62,ok
+22451,Tarneit,22250,Seaholme,76.1,ok
+22457,Tarrawarra,22250,Seaholme,154.83,ok
+22473,Taylors Hill,22250,Seaholme,78.52,ok
+22474,Taylors Lakes,22250,Seaholme,70.1,ok
+22476,Tecoma,22250,Seaholme,117.23,ok
+22483,Templestowe,22250,Seaholme,92.48,ok
+22484,Templestowe Lower,22250,Seaholme,87.45,ok
+22496,The Basin (Vic.),22250,Seaholme,126.38,ok
+22501,The Patch,22250,Seaholme,153.93,ok
+22504,Thomastown,22250,Seaholme,96.22,ok
+22508,Thornbury,22250,Seaholme,79.0,ok
+22509,Thornhill Park,22250,Seaholme,,no_eligible_route
+22514,Three Bridges,22250,Seaholme,,no_eligible_route
+22531,Tonimbuk,22250,Seaholme,,no_eligible_route
+22536,Toolangi,22250,Seaholme,,no_eligible_route
+22537,Toolern Vale,22250,Seaholme,,no_eligible_route
+22546,Tooradin,22250,Seaholme,,no_eligible_route
+22547,Toorak,22250,Seaholme,68.28,ok
+22550,Tootgarook,22250,Seaholme,215.9,ok
+22556,Tottenham (Vic.),22250,Seaholme,34.77,ok
+22572,Travancore,22250,Seaholme,56.5,ok
+22576,Tremont,22250,Seaholme,123.8,ok
+22582,Truganina,22250,Seaholme,134.77,ok
+22584,Tuerong,22250,Seaholme,,no_eligible_route
+22586,Tullamarine,22250,Seaholme,95.95,ok
+22594,Tyabb,22250,Seaholme,158.9,ok
+22598,Tynong,22250,Seaholme,,no_eligible_route
+22599,Tynong North,22250,Seaholme,,no_eligible_route
+22614,Upper Ferntree Gully,22250,Seaholme,103.35,ok
+22617,Upper Plenty,22250,Seaholme,,no_eligible_route
+22620,Upwey,22250,Seaholme,116.6,ok
+22627,Vermont,22250,Seaholme,95.42,ok
+22628,Vermont South,22250,Seaholme,103.55,ok
+22629,Vervale,22250,Seaholme,,no_eligible_route
+22633,Viewbank,22250,Seaholme,95.05,ok
+22661,Wallan,22250,Seaholme,,no_eligible_route
+22672,Wandin East,22250,Seaholme,,no_eligible_route
+22673,Wandin North,22250,Seaholme,127.0,ok
+22676,Wandong,22250,Seaholme,,no_eligible_route
+22685,Wantirna,22250,Seaholme,103.75,ok
+22686,Wantirna South,22250,Seaholme,112.05,ok
+22689,Warburton (Vic.),22250,Seaholme,,no_eligible_route
+22695,Warneet,22250,Seaholme,,no_eligible_route
+22702,Warrandyte,22250,Seaholme,112.85,ok
+22703,Warrandyte South,22250,Seaholme,127.23,ok
+22704,Warranwood,22250,Seaholme,104.9,ok
+22717,Waterford Park,22250,Seaholme,,no_eligible_route
+22720,Waterways,22250,Seaholme,113.87,ok
+22721,Watsonia,22250,Seaholme,81.5,ok
+22722,Watsonia North,22250,Seaholme,100.95,ok
+22723,Watsons Creek (Vic.),22250,Seaholme,,no_eligible_route
+22727,Wattle Glen,22250,Seaholme,121.28,ok
+22740,Weir Views,22250,Seaholme,160.15,ok
+22750,Werribee,22250,Seaholme,50.35,ok
+22751,Werribee South,22250,Seaholme,87.37,ok
+22753,Wesburn,22250,Seaholme,158.97,ok
+22756,West Footscray,22250,Seaholme,30.75,ok
+22757,West Melbourne,22250,Seaholme,56.47,ok
+22761,Westmeadows,22250,Seaholme,78.58,ok
+22766,Wheelers Hill,22250,Seaholme,93.93,ok
+22775,Whittlesea,22250,Seaholme,,no_eligible_route
+22784,Wildwood,22250,Seaholme,,no_eligible_route
+22791,Williams Landing,22250,Seaholme,52.57,ok
+22792,Williamstown (Vic.),22250,Seaholme,21.95,ok
+22793,Williamstown North,22250,Seaholme,21.55,ok
+22805,Windsor (Vic.),22250,Seaholme,54.4,ok
+22820,Wollert,22250,Seaholme,106.43,ok
+22825,Wonga Park,22250,Seaholme,128.75,ok
+22843,Woodstock (Vic.),22250,Seaholme,,no_eligible_route
+22857,Woori Yallock,22250,Seaholme,138.12,ok
+22883,Wyndham Vale,22250,Seaholme,76.17,ok
+22892,Yallambie,22250,Seaholme,100.78,ok
+22898,Yan Yean,22250,Seaholme,146.17,ok
+22906,Yannathan,22250,Seaholme,,no_eligible_route
+22910,Yarra Glen,22250,Seaholme,152.13,ok
+22911,Yarra Junction,22250,Seaholme,163.23,ok
+22916,Yarrambat,22250,Seaholme,116.65,ok
+22917,Yarraville,22250,Seaholme,31.92,ok
+22925,Yellingbo,22250,Seaholme,,no_eligible_route
+22930,Yering,22250,Seaholme,,no_eligible_route
+22941,Yuroke,22250,Seaholme,142.23,ok

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22263,Seville,139.27,ok
+20003,Aberfeldie,22263,Seville,177.77,ok
+20011,Aintree,22263,Seville,,no_eligible_route
+20015,Airport West,22263,Seville,,no_eligible_route
+20017,Albanvale,22263,Seville,201.5,ok
+20018,Albert Park (Vic.),22263,Seville,147.38,ok
+20021,Albion (Vic.),22263,Seville,164.42,ok
+20034,Alphington,22263,Seville,143.43,ok
+20035,Altona (Vic.),22263,Seville,165.52,ok
+20036,Altona Meadows,22263,Seville,203.22,ok
+20037,Altona North,22263,Seville,,no_eligible_route
+20062,Ardeer,22263,Seville,182.65,ok
+20066,Armadale (Vic.),22263,Seville,131.67,ok
+20071,Arthurs Creek,22263,Seville,,no_eligible_route
+20072,Arthurs Seat,22263,Seville,,no_eligible_route
+20075,Ascot Vale,22263,Seville,156.65,ok
+20077,Ashburton,22263,Seville,135.38,ok
+20078,Ashwood,22263,Seville,129.78,ok
+20079,Aspendale,22263,Seville,188.92,ok
+20080,Aspendale Gardens,22263,Seville,183.92,ok
+20082,Attwood,22263,Seville,210.87,ok
+20089,Avondale Heights,22263,Seville,200.95,ok
+20091,Avonsleigh,22263,Seville,225.43,walk_only
+20095,Bacchus Marsh,22263,Seville,,no_eligible_route
+20097,Badger Creek,22263,Seville,117.12,ok
+20105,Balaclava (Vic.),22263,Seville,134.3,ok
+20120,Balnarring,22263,Seville,,no_eligible_route
+20121,Balnarring Beach,22263,Seville,,no_eligible_route
+20123,Balwyn,22263,Seville,122.45,ok
+20124,Balwyn North,22263,Seville,146.3,ok
+20131,Bangholme,22263,Seville,,no_eligible_route
+20169,Baxter,22263,Seville,,no_eligible_route
+20171,Bayles,22263,Seville,,no_eligible_route
+20173,Bayswater (Vic.),22263,Seville,113.92,ok
+20174,Bayswater North,22263,Seville,95.35,ok
+20175,Beaconsfield (Vic.),22263,Seville,198.37,ok
+20176,Beaconsfield Upper,22263,Seville,,no_eligible_route
+20182,Beaumaris (Vic.),22263,Seville,182.32,ok
+20187,Beenak,22263,Seville,,no_eligible_route
+20188,Belgrave,22263,Seville,111.3,ok
+20189,Belgrave Heights,22263,Seville,138.67,ok
+20190,Belgrave South,22263,Seville,137.65,ok
+20198,Bellfield (Banyule - Vic.),22263,Seville,160.18,ok
+20207,Bend Of Islands,22263,Seville,,no_eligible_route
+20212,Benloch,22263,Seville,,no_eligible_route
+20214,Bentleigh,22263,Seville,151.7,ok
+20215,Bentleigh East,22263,Seville,156.05,ok
+20224,Berwick,22263,Seville,171.17,ok
+20233,Beveridge,22263,Seville,,no_eligible_route
+20237,Big Pats Creek,22263,Seville,,no_eligible_route
+20248,Bittern,22263,Seville,,no_eligible_route
+20251,Black Rock (Vic.),22263,Seville,186.4,ok
+20252,Blackburn,22263,Seville,94.23,ok
+20253,Blackburn North,22263,Seville,109.92,ok
+20254,Blackburn South,22263,Seville,118.32,ok
+20257,Blairgowrie,22263,Seville,,no_eligible_route
+20260,Blind Bight,22263,Seville,,no_eligible_route
+20272,Bolinda,22263,Seville,,no_eligible_route
+20278,Bonbeach,22263,Seville,193.92,ok
+20280,Boneo,22263,Seville,,no_eligible_route
+20282,Bonnie Brook,22263,Seville,,no_eligible_route
+20304,Boronia,22263,Seville,105.38,ok
+20307,Botanic Ridge,22263,Seville,,no_eligible_route
+20314,Box Hill (Vic.),22263,Seville,101.7,ok
+20315,Box Hill North,22263,Seville,125.1,ok
+20316,Box Hill South,22263,Seville,108.85,ok
+20320,Braeside,22263,Seville,198.53,ok
+20324,Braybrook,22263,Seville,177.83,ok
+20331,Briar Hill,22263,Seville,146.85,ok
+20337,Brighton (Vic.),22263,Seville,147.07,ok
+20338,Brighton East,22263,Seville,163.93,ok
+20346,Broadmeadows (Vic.),22263,Seville,180.27,ok
+20351,Brookfield (Vic.),22263,Seville,,no_eligible_route
+20352,Brooklyn (Vic.),22263,Seville,,no_eligible_route
+20361,Brunswick (Vic.),22263,Seville,145.17,ok
+20362,Brunswick East,22263,Seville,153.45,ok
+20363,Brunswick West,22263,Seville,165.45,ok
+20381,Bulla (Vic.),22263,Seville,,no_eligible_route
+20386,Bulleen,22263,Seville,135.27,ok
+20387,Bullengarook,22263,Seville,,no_eligible_route
+20399,Bundoora (Vic.),22263,Seville,141.62,ok
+20411,Bunyip,22263,Seville,,no_eligible_route
+20412,Bunyip North,22263,Seville,,no_eligible_route
+20418,Burnley,22263,Seville,129.87,ok
+20419,Burnside (Vic.),22263,Seville,,no_eligible_route
+20420,Burnside Heights,22263,Seville,,no_eligible_route
+20426,Burwood (Vic.),22263,Seville,118.35,ok
+20427,Burwood East,22263,Seville,128.58,ok
+20435,Bylands,22263,Seville,,no_eligible_route
+20441,Cairnlea,22263,Seville,187.07,ok
+20442,Calder Park,22263,Seville,,no_eligible_route
+20443,Caldermeade,22263,Seville,,no_eligible_route
+20453,Camberwell (Vic.),22263,Seville,127.38,ok
+20455,Campbellfield,22263,Seville,188.92,ok
+20466,Cannons Creek,22263,Seville,,no_eligible_route
+20468,Canterbury (Vic.),22263,Seville,108.68,ok
+20474,Cape Schanck,22263,Seville,,no_eligible_route
+20476,Capel Sound,22263,Seville,,no_eligible_route
+20487,Cardinia,22263,Seville,,no_eligible_route
+20495,Carlton (Vic.),22263,Seville,141.12,ok
+20496,Carlton North,22263,Seville,151.22,ok
+20498,Carnegie,22263,Seville,156.0,ok
+20500,Caroline Springs,22263,Seville,,no_eligible_route
+20507,Carrum,22263,Seville,178.73,ok
+20508,Carrum Downs,22263,Seville,184.97,ok
+20512,Castella,22263,Seville,,no_eligible_route
+20517,Catani,22263,Seville,,no_eligible_route
+20521,Caulfield,22263,Seville,157.37,ok
+20522,Caulfield East,22263,Seville,142.1,ok
+20523,Caulfield North,22263,Seville,148.17,ok
+20524,Caulfield South,22263,Seville,162.55,ok
+20528,Chadstone,22263,Seville,134.67,ok
+20537,Chelsea,22263,Seville,177.03,ok
+20538,Chelsea Heights,22263,Seville,189.32,ok
+20539,Cheltenham (Vic.),22263,Seville,163.3,ok
+20541,Cherokee,22263,Seville,,no_eligible_route
+20555,Chintin,22263,Seville,,no_eligible_route
+20556,Chirnside Park,22263,Seville,82.28,ok
+20559,Christmas Hills (Vic.),22263,Seville,,no_eligible_route
+20560,Chum Creek,22263,Seville,,no_eligible_route
+20566,Clarinda,22263,Seville,180.7,ok
+20567,Clarkefield,22263,Seville,,no_eligible_route
+20569,Clayton,22263,Seville,149.33,ok
+20570,Clayton South,22263,Seville,179.63,ok
+20572,Clematis,22263,Seville,,no_eligible_route
+20574,Clifton Hill,22263,Seville,137.52,ok
+20576,Clonbinane,22263,Seville,,no_eligible_route
+20581,Clyde (Vic.),22263,Seville,,no_eligible_route
+20582,Clyde North,22263,Seville,,no_eligible_route
+20587,Cobaw,22263,Seville,,no_eligible_route
+20590,Cobblebank,22263,Seville,,no_eligible_route
+20596,Coburg,22263,Seville,150.9,ok
+20597,Coburg North,22263,Seville,160.47,ok
+20600,Cockatoo (Vic.),22263,Seville,,no_eligible_route
+20601,Cocoroc,22263,Seville,,no_eligible_route
+20605,Coimadai,22263,Seville,,no_eligible_route
+20613,Coldstream (Vic.),22263,Seville,,no_eligible_route
+20616,Collingwood (Vic.),22263,Seville,139.92,ok
+20624,Coolaroo,22263,Seville,181.13,ok
+20633,Cora Lynn,22263,Seville,,no_eligible_route
+20654,Cottles Bridge,22263,Seville,,no_eligible_route
+20661,Craigieburn,22263,Seville,210.3,ok
+20662,Cranbourne,22263,Seville,210.82,ok
+20663,Cranbourne East,22263,Seville,224.92,ok
+20664,Cranbourne North,22263,Seville,,no_eligible_route
+20665,Cranbourne South,22263,Seville,,no_eligible_route
+20666,Cranbourne West,22263,Seville,222.88,ok
+20670,Cremorne (Vic.),22263,Seville,123.85,ok
+20674,Crib Point,22263,Seville,,no_eligible_route
+20682,Croydon (Vic.),22263,Seville,72.92,ok
+20683,Croydon Hills,22263,Seville,98.78,ok
+20684,Croydon North,22263,Seville,77.55,ok
+20685,Croydon South,22263,Seville,105.93,ok
+20702,Dallas,22263,Seville,187.57,ok
+20703,Dalmore,22263,Seville,,no_eligible_route
+20707,Dandenong,22263,Seville,152.48,ok
+20708,Dandenong North,22263,Seville,152.9,ok
+20709,Dandenong South,22263,Seville,170.13,ok
+20712,Darley,22263,Seville,,no_eligible_route
+20716,Darraweit Guim,22263,Seville,,no_eligible_route
+20724,Deanside,22263,Seville,,no_eligible_route
+20728,Deepdene (Vic.),22263,Seville,120.3,ok
+20729,Deer Park,22263,Seville,,no_eligible_route
+20731,Delahey,22263,Seville,198.97,ok
+20743,Derrimut,22263,Seville,,no_eligible_route
+20748,Devon Meadows,22263,Seville,,no_eligible_route
+20750,Dewhurst,22263,Seville,,no_eligible_route
+20752,Diamond Creek,22263,Seville,176.65,ok
+20754,Diggers Rest,22263,Seville,206.83,ok
+20758,Dingley Village,22263,Seville,197.65,ok
+20762,Dixons Creek,22263,Seville,,no_eligible_route
+20766,Docklands,22263,Seville,141.38,ok
+20769,Don Valley,22263,Seville,,no_eligible_route
+20771,Doncaster,22263,Seville,117.92,ok
+20772,Doncaster East,22263,Seville,111.88,ok
+20773,Donnybrook (Vic.),22263,Seville,,no_eligible_route
+20774,Donvale,22263,Seville,139.08,ok
+20779,Doreen,22263,Seville,,no_eligible_route
+20783,Doveton,22263,Seville,165.27,ok
+20788,Dromana,22263,Seville,,no_eligible_route
+20825,Eaglemont,22263,Seville,141.03,ok
+20830,East Melbourne,22263,Seville,130.03,ok
+20833,East Warburton,22263,Seville,,no_eligible_route
+20843,Eden Park,22263,Seville,,no_eligible_route
+20848,Edithvale,22263,Seville,168.52,ok
+20864,Elsternwick,22263,Seville,142.22,ok
+20865,Eltham (Vic.),22263,Seville,170.98,ok
+20866,Eltham North,22263,Seville,179.05,ok
+20867,Elwood,22263,Seville,148.4,ok
+20868,Emerald (Vic.),22263,Seville,,no_eligible_route
+20871,Endeavour Hills,22263,Seville,,no_eligible_route
+20878,Epping (Vic.),22263,Seville,188.03,ok
+20885,Essendon,22263,Seville,162.57,ok
+20886,Essendon Fields,22263,Seville,,no_eligible_route
+20887,Essendon North,22263,Seville,183.43,ok
+20888,Essendon West,22263,Seville,185.8,ok
+20889,Eumemmerring,22263,Seville,,no_eligible_route
+20898,Exford,22263,Seville,,no_eligible_route
+20899,Eynesbury,22263,Seville,,no_eligible_route
+20901,Fairfield (Vic.),22263,Seville,149.75,ok
+20909,Fawkner,22263,Seville,181.37,ok
+20916,Fernshaw,22263,Seville,,no_eligible_route
+20917,Ferntree Gully,22263,Seville,121.75,ok
+20918,Ferny Creek,22263,Seville,,no_eligible_route
+20920,Fingal (Vic.),22263,Seville,,no_eligible_route
+20924,Fitzroy (Vic.),22263,Seville,140.05,ok
+20925,Fitzroy North,22263,Seville,146.65,ok
+20929,Flemington,22263,Seville,160.88,ok
+20930,Flinders (Vic.),22263,Seville,,no_eligible_route
+20935,Footscray,22263,Seville,147.28,ok
+20937,Forest Hill (Vic.),22263,Seville,111.57,ok
+20947,Frankston,22263,Seville,207.02,ok
+20948,Frankston North,22263,Seville,208.82,ok
+20949,Frankston South,22263,Seville,,no_eligible_route
+20950,Fraser Rise,22263,Seville,,no_eligible_route
+20965,Gardenvale,22263,Seville,143.5,ok
+20966,Garfield,22263,Seville,,no_eligible_route
+20967,Garfield North,22263,Seville,,no_eligible_route
+20979,Gembrook,22263,Seville,,no_eligible_route
+20995,Gilderoy,22263,Seville,,no_eligible_route
+21001,Gisborne,22263,Seville,,no_eligible_route
+21002,Gisborne South,22263,Seville,,no_eligible_route
+21004,Gladstone Park,22263,Seville,194.47,ok
+21005,Gladysdale,22263,Seville,,no_eligible_route
+21009,Glen Huntly,22263,Seville,144.23,ok
+21010,Glen Iris (Vic.),22263,Seville,139.1,ok
+21013,Glen Waverley,22263,Seville,136.13,ok
+21047,Glenroy (Vic.),22263,Seville,175.12,ok
+21059,Goldie,22263,Seville,,no_eligible_route
+21079,Gowanbrae,22263,Seville,196.8,ok
+21087,Grangefields,22263,Seville,,no_eligible_route
+21104,Greensborough,22263,Seville,131.32,ok
+21105,Greenvale (Vic.),22263,Seville,,no_eligible_route
+21115,Gruyere,22263,Seville,170.28,walk_only
+21121,Guys Hill,22263,Seville,,no_eligible_route
+21124,Hadfield,22263,Seville,183.4,ok
+21125,Hallam,22263,Seville,190.28,ok
+21131,Hampton (Vic.),22263,Seville,153.9,ok
+21132,Hampton East,22263,Seville,158.47,ok
+21133,Hampton Park,22263,Seville,207.85,ok
+21139,Harkaway,22263,Seville,,no_eligible_route
+21140,Harkness,22263,Seville,,no_eligible_route
+21145,Hastings (Vic.),22263,Seville,,no_eligible_route
+21152,Hawthorn (Vic.),22263,Seville,122.27,ok
+21153,Hawthorn East,22263,Seville,120.33,ok
+21158,Healesville,22263,Seville,,no_eligible_route
+21159,Heath Hill,22263,Seville,,no_eligible_route
+21161,Heathcote Junction,22263,Seville,,no_eligible_route
+21163,Heatherton,22263,Seville,183.58,ok
+21165,Heathmont,22263,Seville,93.18,ok
+21167,Heidelberg,22263,Seville,137.83,ok
+21168,Heidelberg Heights,22263,Seville,161.42,ok
+21169,Heidelberg West,22263,Seville,164.28,ok
+21176,Hesket,22263,Seville,,no_eligible_route
+21185,Highett,22263,Seville,151.23,ok
+21193,Hillside (Melton - Vic.),22263,Seville,,no_eligible_route
+21195,Hmas Cerberus,22263,Seville,,no_eligible_route
+21196,Hoddles Creek,22263,Seville,,no_eligible_route
+21202,Hopetoun Park,22263,Seville,,no_eligible_route
+21203,Hoppers Crossing,22263,Seville,202.5,ok
+21214,Hughesdale,22263,Seville,143.03,ok
+21215,Humevale,22263,Seville,,no_eligible_route
+21218,Huntingdale (Vic.),22263,Seville,163.75,ok
+21223,Hurstbridge,22263,Seville,186.3,ok
+21238,Iona,22263,Seville,,no_eligible_route
+21246,Ivanhoe (Vic.),22263,Seville,148.03,ok
+21247,Ivanhoe East,22263,Seville,153.0,ok
+21248,Jacana,22263,Seville,179.68,ok
+21277,Junction Village,22263,Seville,,no_eligible_route
+21284,Kalkallo,22263,Seville,,no_eligible_route
+21286,Kallista,22263,Seville,124.0,ok
+21287,Kalorama,22263,Seville,112.37,ok
+21294,Kangaroo Ground,22263,Seville,,no_eligible_route
+21312,Kealba,22263,Seville,196.63,ok
+21314,Keilor,22263,Seville,,no_eligible_route
+21315,Keilor Downs,22263,Seville,191.77,ok
+21316,Keilor East,22263,Seville,,no_eligible_route
+21317,Keilor Lodge,22263,Seville,,no_eligible_route
+21318,Keilor North,22263,Seville,205.22,ok
+21319,Keilor Park,22263,Seville,,no_eligible_route
+21327,Kensington (Vic.),22263,Seville,143.42,ok
+21333,Kerrie,22263,Seville,,no_eligible_route
+21336,Kew (Vic.),22263,Seville,130.72,ok
+21337,Kew East,22263,Seville,147.23,ok
+21339,Keysborough,22263,Seville,191.28,ok
+21354,Kilsyth,22263,Seville,99.1,ok
+21355,Kilsyth South,22263,Seville,122.0,ok
+21358,Kinglake,22263,Seville,,no_eligible_route
+21359,Kinglake Central,22263,Seville,,no_eligible_route
+21360,Kinglake West,22263,Seville,,no_eligible_route
+21362,Kings Park (Vic.),22263,Seville,193.68,ok
+21363,Kingsbury,22263,Seville,175.42,ok
+21365,Kingsville,22263,Seville,157.77,ok
+21374,Knoxfield,22263,Seville,131.13,ok
+21380,Koo Wee Rup,22263,Seville,,no_eligible_route
+21381,Koo Wee Rup North,22263,Seville,,no_eligible_route
+21393,Kooyong,22263,Seville,135.45,ok
+21411,Kurunjang,22263,Seville,,no_eligible_route
+21452,Lalor,22263,Seville,170.72,ok
+21456,Lancefield,22263,Seville,,no_eligible_route
+21459,Lang Lang,22263,Seville,,no_eligible_route
+21460,Lang Lang East,22263,Seville,,no_eligible_route
+21467,Langwarrin,22263,Seville,,no_eligible_route
+21468,Langwarrin South,22263,Seville,,no_eligible_route
+21473,Launching Place,22263,Seville,44.5,ok
+21476,Laverton (Vic.),22263,Seville,174.12,ok
+21477,Laverton North,22263,Seville,,no_eligible_route
+21504,Lilydale (Vic.),22263,Seville,48.43,ok
+21533,Long Forest,22263,Seville,,no_eligible_route
+21547,Lower Plenty,22263,Seville,154.67,ok
+21554,Lynbrook,22263,Seville,178.53,ok
+21555,Lyndhurst (Vic.),22263,Seville,,no_eligible_route
+21558,Lysterfield,22263,Seville,,no_eligible_route
+21559,Lysterfield South,22263,Seville,,no_eligible_route
+21561,Macclesfield (Vic.),22263,Seville,196.55,walk_only
+21562,Macedon,22263,Seville,,no_eligible_route
+21564,Macleod (Vic.),22263,Seville,163.38,ok
+21569,Maddingley,22263,Seville,,no_eligible_route
+21575,Maidstone,22263,Seville,177.03,ok
+21578,Main Ridge,22263,Seville,,no_eligible_route
+21586,Malvern (Vic.),22263,Seville,131.98,ok
+21587,Malvern East,22263,Seville,148.05,ok
+21588,Mambourin,22263,Seville,,no_eligible_route
+21597,Manor Lakes,22263,Seville,,no_eligible_route
+21604,Maribyrnong,22263,Seville,172.17,ok
+21619,Maryknoll,22263,Seville,,no_eligible_route
+21625,McCrae,22263,Seville,,no_eligible_route
+21629,McKinnon,22263,Seville,141.53,ok
+21635,Meadow Heights,22263,Seville,192.57,ok
+21640,Melbourne,22263,Seville,125.13,ok
+21641,Melbourne Airport,22263,Seville,,no_eligible_route
+21642,Melton (Vic.),22263,Seville,,no_eligible_route
+21643,Melton South,22263,Seville,,no_eligible_route
+21644,Melton West,22263,Seville,,no_eligible_route
+21648,Mentone,22263,Seville,147.88,ok
+21649,Menzies Creek,22263,Seville,,no_eligible_route
+21659,Mernda,22263,Seville,217.07,ok
+21662,Merricks,22263,Seville,,no_eligible_route
+21663,Merricks Beach,22263,Seville,,no_eligible_route
+21664,Merricks North,22263,Seville,,no_eligible_route
+21668,Merrimu,22263,Seville,,no_eligible_route
+21675,Mickleham,22263,Seville,,no_eligible_route
+21677,Middle Park (Vic.),22263,Seville,153.47,ok
+21683,Mill Park,22263,Seville,171.93,ok
+21685,Millgrove,22263,Seville,,no_eligible_route
+21706,Mitcham (Vic.),22263,Seville,93.88,ok
+21727,Monbulk,22263,Seville,114.98,ok
+21728,Monegeetta,22263,Seville,,no_eligible_route
+21731,Monomeith,22263,Seville,,no_eligible_route
+21732,Mont Albert,22263,Seville,108.08,ok
+21733,Mont Albert North,22263,Seville,131.25,ok
+21735,Montmorency,22263,Seville,135.03,ok
+21736,Montrose (Vic.),22263,Seville,92.53,ok
+21742,Moonee Ponds,22263,Seville,149.03,ok
+21746,Moorabbin,22263,Seville,168.47,ok
+21747,Moorabbin Airport,22263,Seville,,no_eligible_route
+21754,Moorooduc,22263,Seville,,no_eligible_route
+21755,Mooroolbark,22263,Seville,80.22,ok
+21760,Mordialloc,22263,Seville,174.95,ok
+21763,Mornington (Vic.),22263,Seville,,no_eligible_route
+21779,Mount Burnett,22263,Seville,,no_eligible_route
+21786,Mount Cottrell,22263,Seville,,no_eligible_route
+21787,Mount Dandenong,22263,Seville,195.48,walk_only
+21793,Mount Eliza,22263,Seville,,no_eligible_route
+21795,Mount Evelyn,22263,Seville,77.48,ok
+21801,Mount Macedon,22263,Seville,,no_eligible_route
+21803,Mount Martha,22263,Seville,,no_eligible_route
+21814,Mount Toolebewong,22263,Seville,,no_eligible_route
+21816,Mount Waverley,22263,Seville,154.73,ok
+21827,Mulgrave (Vic.),22263,Seville,168.72,ok
+21849,Murrumbeena,22263,Seville,152.02,ok
+21872,Nangana,22263,Seville,163.32,walk_only
+21878,Nar Nar Goon,22263,Seville,,no_eligible_route
+21879,Nar Nar Goon North,22263,Seville,,no_eligible_route
+21893,Narre Warren,22263,Seville,176.72,ok
+21894,Narre Warren East,22263,Seville,,no_eligible_route
+21895,Narre Warren North,22263,Seville,,no_eligible_route
+21896,Narre Warren South,22263,Seville,,no_eligible_route
+21921,New Gisborne,22263,Seville,,no_eligible_route
+21934,Newport (Vic.),22263,Seville,150.97,ok
+21942,Niddrie,22263,Seville,,no_eligible_route
+21952,Noble Park,22263,Seville,150.53,ok
+21953,Noble Park North,22263,Seville,,no_eligible_route
+21966,North Melbourne,22263,Seville,145.92,ok
+21969,North Warrandyte,22263,Seville,158.38,ok
+21971,Northcote,22263,Seville,151.65,ok
+21974,Notting Hill,22263,Seville,135.67,ok
+21985,Nunawading,22263,Seville,92.35,ok
+21991,Nutfield,22263,Seville,,no_eligible_route
+21998,Oak Park,22263,Seville,167.35,ok
+21999,Oaklands Junction,22263,Seville,,no_eligible_route
+22000,Oakleigh,22263,Seville,143.68,ok
+22001,Oakleigh East,22263,Seville,161.92,ok
+22002,Oakleigh South,22263,Seville,153.53,ok
+22006,Officer,22263,Seville,190.82,ok
+22007,Officer South,22263,Seville,,no_eligible_route
+22009,Olinda (Vic.),22263,Seville,186.73,walk_only
+22016,Ormond,22263,Seville,141.97,ok
+22027,Pakenham,22263,Seville,189.87,ok
+22028,Pakenham South,22263,Seville,,no_eligible_route
+22029,Pakenham Upper,22263,Seville,,no_eligible_route
+22032,Panton Hill,22263,Seville,,no_eligible_route
+22036,Park Orchards,22263,Seville,103.0,ok
+22037,Parkdale,22263,Seville,166.3,ok
+22038,Parkville (Vic.),22263,Seville,147.92,ok
+22041,Pascoe Vale,22263,Seville,171.72,ok
+22042,Pascoe Vale South,22263,Seville,167.45,ok
+22047,Patterson Lakes,22263,Seville,211.07,ok
+22050,Pearcedale,22263,Seville,,no_eligible_route
+22058,Pentland Hills,22263,Seville,,no_eligible_route
+22064,Pheasant Creek (Vic.),22263,Seville,,no_eligible_route
+22084,Plenty (Vic.),22263,Seville,153.88,ok
+22085,Plumpton (Vic.),22263,Seville,,no_eligible_route
+22086,Point Cook,22263,Seville,,no_eligible_route
+22087,Point Leo,22263,Seville,,no_eligible_route
+22107,Port Melbourne,22263,Seville,157.25,ok
+22113,Portsea,22263,Seville,,no_eligible_route
+22115,Powelltown,22263,Seville,,no_eligible_route
+22118,Prahran,22263,Seville,135.03,ok
+22121,Preston (Vic.),22263,Seville,165.32,ok
+22122,Princes Hill,22263,Seville,144.4,ok
+22132,Quandong,22263,Seville,,no_eligible_route
+22141,Ravenhall,22263,Seville,,no_eligible_route
+22148,Red Hill (Vic.),22263,Seville,,no_eligible_route
+22149,Red Hill South,22263,Seville,,no_eligible_route
+22160,Research,22263,Seville,,no_eligible_route
+22161,Reservoir (Vic.),22263,Seville,167.53,ok
+22170,Richmond (Vic.),22263,Seville,130.53,ok
+22172,Riddells Creek,22263,Seville,,no_eligible_route
+22174,Ringwood (Vic.),22263,Seville,86.23,ok
+22175,Ringwood East,22263,Seville,85.08,ok
+22176,Ringwood North,22263,Seville,97.73,ok
+22179,Ripponlea,22263,Seville,132.93,ok
+22185,Rochford,22263,Seville,,no_eligible_route
+22186,Rockbank,22263,Seville,,no_eligible_route
+22193,Romsey,22263,Seville,,no_eligible_route
+22194,Rosanna,22263,Seville,157.85,ok
+22198,Rosebud,22263,Seville,,no_eligible_route
+22207,Rowville,22263,Seville,161.05,ok
+22208,Roxburgh Park,22263,Seville,197.2,ok
+22220,Rye,22263,Seville,,no_eligible_route
+22221,Rythdale,22263,Seville,,no_eligible_route
+22222,Safety Beach (Vic.),22263,Seville,,no_eligible_route
+22232,Sandhurst,22263,Seville,212.9,ok
+22234,Sandringham (Vic.),22263,Seville,158.78,ok
+22239,Sassafras (Vic.),22263,Seville,141.05,ok
+22242,Scoresby,22263,Seville,,no_eligible_route
+22247,Seabrook,22263,Seville,190.52,ok
+22249,Seaford (Vic.),22263,Seville,190.83,ok
+22250,Seaholme,22263,Seville,160.2,ok
+22256,Seddon (Vic.),22263,Seville,144.22,ok
+22258,Selby,22263,Seville,143.57,ok
+22263,Seville,22263,Seville,0.0,same_centroid
+22264,Seville East,22263,Seville,42.55,ok
+22278,Sherbrooke,22263,Seville,123.15,ok
+22279,Shoreham,22263,Seville,,no_eligible_route
+22281,Silvan,22263,Seville,96.22,ok
+22291,Skye (Vic.),22263,Seville,,no_eligible_route
+22295,Smiths Gully,22263,Seville,,no_eligible_route
+22303,Somers,22263,Seville,,no_eligible_route
+22304,Somerton (Vic.),22263,Seville,200.13,ok
+22305,Somerville (Vic.),22263,Seville,,no_eligible_route
+22306,Sorrento (Vic.),22263,Seville,,no_eligible_route
+22309,South Kingsville,22263,Seville,163.22,ok
+22310,South Melbourne,22263,Seville,147.43,ok
+22311,South Morang,22263,Seville,186.75,ok
+22313,South Wharf,22263,Seville,139.97,ok
+22314,South Yarra,22263,Seville,123.6,ok
+22315,Southbank,22263,Seville,132.78,ok
+22319,Spotswood,22263,Seville,144.37,ok
+22325,Springfield (Macedon Ranges - Vic.),22263,Seville,,no_eligible_route
+22328,Springvale (Vic.),22263,Seville,141.33,ok
+22329,Springvale South,22263,Seville,137.23,ok
+22330,St Albans (Vic.),22263,Seville,167.05,ok
+22332,St Andrews (Vic.),22263,Seville,,no_eligible_route
+22333,St Andrews Beach,22263,Seville,,no_eligible_route
+22339,St Helena,22263,Seville,151.0,ok
+22343,St Kilda (Vic.),22263,Seville,143.68,ok
+22344,St Kilda East,22263,Seville,144.12,ok
+22345,St Kilda West,22263,Seville,151.32,ok
+22355,Steels Creek,22263,Seville,,no_eligible_route
+22375,Strathewen,22263,Seville,,no_eligible_route
+22380,Strathmore (Vic.),22263,Seville,175.52,ok
+22381,Strathmore Heights,22263,Seville,189.77,ok
+22382,Strathtulloh,22263,Seville,,no_eligible_route
+22391,Sunbury,22263,Seville,,no_eligible_route
+22395,Sunshine (Vic.),22263,Seville,155.83,ok
+22396,Sunshine North,22263,Seville,185.63,ok
+22397,Sunshine West,22263,Seville,188.0,ok
+22399,Surrey Hills,22263,Seville,108.48,ok
+22414,Sydenham (Vic.),22263,Seville,181.45,ok
+22451,Tarneit,22263,Seville,,no_eligible_route
+22457,Tarrawarra,22263,Seville,96.63,ok
+22473,Taylors Hill,22263,Seville,,no_eligible_route
+22474,Taylors Lakes,22263,Seville,186.33,ok
+22476,Tecoma,22263,Seville,113.0,ok
+22483,Templestowe,22263,Seville,132.3,ok
+22484,Templestowe Lower,22263,Seville,135.42,ok
+22496,The Basin (Vic.),22263,Seville,132.18,ok
+22501,The Patch,22263,Seville,122.18,ok
+22504,Thomastown,22263,Seville,176.02,ok
+22508,Thornbury,22263,Seville,159.8,ok
+22509,Thornhill Park,22263,Seville,,no_eligible_route
+22514,Three Bridges,22263,Seville,,no_eligible_route
+22531,Tonimbuk,22263,Seville,,no_eligible_route
+22536,Toolangi,22263,Seville,,no_eligible_route
+22537,Toolern Vale,22263,Seville,,no_eligible_route
+22546,Tooradin,22263,Seville,,no_eligible_route
+22547,Toorak,22263,Seville,147.08,ok
+22550,Tootgarook,22263,Seville,,no_eligible_route
+22556,Tottenham (Vic.),22263,Seville,183.27,ok
+22572,Travancore,22263,Seville,157.82,ok
+22576,Tremont,22263,Seville,137.18,ok
+22582,Truganina,22263,Seville,,no_eligible_route
+22584,Tuerong,22263,Seville,,no_eligible_route
+22586,Tullamarine,22263,Seville,221.62,ok
+22594,Tyabb,22263,Seville,,no_eligible_route
+22598,Tynong,22263,Seville,,no_eligible_route
+22599,Tynong North,22263,Seville,,no_eligible_route
+22614,Upper Ferntree Gully,22263,Seville,110.15,ok
+22617,Upper Plenty,22263,Seville,,no_eligible_route
+22620,Upwey,22263,Seville,112.87,ok
+22627,Vermont,22263,Seville,111.0,ok
+22628,Vermont South,22263,Seville,117.35,ok
+22629,Vervale,22263,Seville,,no_eligible_route
+22633,Viewbank,22263,Seville,172.48,ok
+22661,Wallan,22263,Seville,,no_eligible_route
+22672,Wandin East,22263,Seville,55.77,walk_only
+22673,Wandin North,22263,Seville,39.33,ok
+22676,Wandong,22263,Seville,,no_eligible_route
+22685,Wantirna,22263,Seville,118.55,ok
+22686,Wantirna South,22263,Seville,135.68,ok
+22689,Warburton (Vic.),22263,Seville,,no_eligible_route
+22695,Warneet,22263,Seville,,no_eligible_route
+22702,Warrandyte,22263,Seville,128.65,ok
+22703,Warrandyte South,22263,Seville,143.03,ok
+22704,Warranwood,22263,Seville,108.88,ok
+22717,Waterford Park,22263,Seville,,no_eligible_route
+22720,Waterways,22263,Seville,175.67,ok
+22721,Watsonia,22263,Seville,151.52,ok
+22722,Watsonia North,22263,Seville,146.17,ok
+22723,Watsons Creek (Vic.),22263,Seville,,no_eligible_route
+22727,Wattle Glen,22263,Seville,190.05,ok
+22740,Weir Views,22263,Seville,,no_eligible_route
+22750,Werribee,22263,Seville,201.52,ok
+22751,Werribee South,22263,Seville,,no_eligible_route
+22753,Wesburn,22263,Seville,60.6,ok
+22756,West Footscray,22263,Seville,160.0,ok
+22757,West Melbourne,22263,Seville,171.78,ok
+22761,Westmeadows,22263,Seville,192.33,ok
+22766,Wheelers Hill,22263,Seville,,no_eligible_route
+22775,Whittlesea,22263,Seville,,no_eligible_route
+22784,Wildwood,22263,Seville,,no_eligible_route
+22791,Williams Landing,22263,Seville,188.37,ok
+22792,Williamstown (Vic.),22263,Seville,156.18,ok
+22793,Williamstown North,22263,Seville,172.72,ok
+22805,Windsor (Vic.),22263,Seville,130.2,ok
+22820,Wollert,22263,Seville,,no_eligible_route
+22825,Wonga Park,22263,Seville,80.78,ok
+22843,Woodstock (Vic.),22263,Seville,,no_eligible_route
+22857,Woori Yallock,22263,Seville,39.75,ok
+22883,Wyndham Vale,22263,Seville,,no_eligible_route
+22892,Yallambie,22263,Seville,168.73,ok
+22898,Yan Yean,22263,Seville,,no_eligible_route
+22906,Yannathan,22263,Seville,,no_eligible_route
+22910,Yarra Glen,22263,Seville,,no_eligible_route
+22911,Yarra Junction,22263,Seville,64.87,ok
+22916,Yarrambat,22263,Seville,181.75,ok
+22917,Yarraville,22263,Seville,150.12,ok
+22925,Yellingbo,22263,Seville,121.95,walk_only
+22930,Yering,22263,Seville,,no_eligible_route
+22941,Yuroke,22263,Seville,,no_eligible_route

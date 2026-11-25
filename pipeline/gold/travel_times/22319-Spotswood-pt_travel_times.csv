@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22319,Spotswood,46.78,ok
+20003,Aberfeldie,22319,Spotswood,48.33,ok
+20011,Aintree,22319,Spotswood,79.07,ok
+20015,Airport West,22319,Spotswood,65.53,ok
+20017,Albanvale,22319,Spotswood,62.53,ok
+20018,Albert Park (Vic.),22319,Spotswood,41.9,ok
+20021,Albion (Vic.),22319,Spotswood,39.93,ok
+20034,Alphington,22319,Spotswood,51.95,ok
+20035,Altona (Vic.),22319,Spotswood,28.88,ok
+20036,Altona Meadows,22319,Spotswood,41.03,ok
+20037,Altona North,22319,Spotswood,52.27,ok
+20062,Ardeer,22319,Spotswood,53.08,ok
+20066,Armadale (Vic.),22319,Spotswood,46.18,ok
+20071,Arthurs Creek,22319,Spotswood,,no_eligible_route
+20072,Arthurs Seat,22319,Spotswood,201.7,ok
+20075,Ascot Vale,22319,Spotswood,39.7,ok
+20077,Ashburton,22319,Spotswood,58.78,ok
+20078,Ashwood,22319,Spotswood,65.98,ok
+20079,Aspendale,22319,Spotswood,81.43,ok
+20080,Aspendale Gardens,22319,Spotswood,99.77,ok
+20082,Attwood,22319,Spotswood,70.15,ok
+20089,Avondale Heights,22319,Spotswood,52.47,ok
+20091,Avonsleigh,22319,Spotswood,148.37,ok
+20095,Bacchus Marsh,22319,Spotswood,,no_eligible_route
+20097,Badger Creek,22319,Spotswood,156.63,ok
+20105,Balaclava (Vic.),22319,Spotswood,42.82,ok
+20120,Balnarring,22319,Spotswood,187.05,ok
+20121,Balnarring Beach,22319,Spotswood,183.58,ok
+20123,Balwyn,22319,Spotswood,63.92,ok
+20124,Balwyn North,22319,Spotswood,67.88,ok
+20131,Bangholme,22319,Spotswood,133.03,ok
+20169,Baxter,22319,Spotswood,119.78,ok
+20171,Bayles,22319,Spotswood,,no_eligible_route
+20173,Bayswater (Vic.),22319,Spotswood,78.43,ok
+20174,Bayswater North,22319,Spotswood,96.6,ok
+20175,Beaconsfield (Vic.),22319,Spotswood,117.63,ok
+20176,Beaconsfield Upper,22319,Spotswood,,no_eligible_route
+20182,Beaumaris (Vic.),22319,Spotswood,86.2,ok
+20187,Beenak,22319,Spotswood,,no_eligible_route
+20188,Belgrave,22319,Spotswood,91.52,ok
+20189,Belgrave Heights,22319,Spotswood,120.18,ok
+20190,Belgrave South,22319,Spotswood,119.17,ok
+20198,Bellfield (Banyule - Vic.),22319,Spotswood,68.7,ok
+20207,Bend Of Islands,22319,Spotswood,,no_eligible_route
+20212,Benloch,22319,Spotswood,,no_eligible_route
+20214,Bentleigh,22319,Spotswood,68.67,ok
+20215,Bentleigh East,22319,Spotswood,68.62,ok
+20224,Berwick,22319,Spotswood,93.68,ok
+20233,Beveridge,22319,Spotswood,101.7,ok
+20237,Big Pats Creek,22319,Spotswood,,no_eligible_route
+20248,Bittern,22319,Spotswood,137.77,ok
+20251,Black Rock (Vic.),22319,Spotswood,76.63,ok
+20252,Blackburn,22319,Spotswood,54.77,ok
+20253,Blackburn North,22319,Spotswood,73.75,ok
+20254,Blackburn South,22319,Spotswood,73.1,ok
+20257,Blairgowrie,22319,Spotswood,193.73,ok
+20260,Blind Bight,22319,Spotswood,,no_eligible_route
+20272,Bolinda,22319,Spotswood,,no_eligible_route
+20278,Bonbeach,22319,Spotswood,86.43,ok
+20280,Boneo,22319,Spotswood,,no_eligible_route
+20282,Bonnie Brook,22319,Spotswood,111.62,ok
+20304,Boronia,22319,Spotswood,80.9,ok
+20307,Botanic Ridge,22319,Spotswood,132.55,ok
+20314,Box Hill (Vic.),22319,Spotswood,54.22,ok
+20315,Box Hill North,22319,Spotswood,62.63,ok
+20316,Box Hill South,22319,Spotswood,60.37,ok
+20320,Braeside,22319,Spotswood,108.23,ok
+20324,Braybrook,22319,Spotswood,44.72,ok
+20331,Briar Hill,22319,Spotswood,88.67,ok
+20337,Brighton (Vic.),22319,Spotswood,55.58,ok
+20338,Brighton East,22319,Spotswood,61.83,ok
+20346,Broadmeadows (Vic.),22319,Spotswood,62.07,ok
+20351,Brookfield (Vic.),22319,Spotswood,140.12,ok
+20352,Brooklyn (Vic.),22319,Spotswood,48.5,ok
+20361,Brunswick (Vic.),22319,Spotswood,34.88,ok
+20362,Brunswick East,22319,Spotswood,57.43,ok
+20363,Brunswick West,22319,Spotswood,44.07,ok
+20381,Bulla (Vic.),22319,Spotswood,112.3,ok
+20386,Bulleen,22319,Spotswood,72.83,ok
+20387,Bullengarook,22319,Spotswood,,no_eligible_route
+20399,Bundoora (Vic.),22319,Spotswood,84.68,ok
+20411,Bunyip,22319,Spotswood,,no_eligible_route
+20412,Bunyip North,22319,Spotswood,,no_eligible_route
+20418,Burnley,22319,Spotswood,50.18,ok
+20419,Burnside (Vic.),22319,Spotswood,61.97,ok
+20420,Burnside Heights,22319,Spotswood,69.78,ok
+20426,Burwood (Vic.),22319,Spotswood,70.87,ok
+20427,Burwood East,22319,Spotswood,74.1,ok
+20435,Bylands,22319,Spotswood,,no_eligible_route
+20441,Cairnlea,22319,Spotswood,47.15,ok
+20442,Calder Park,22319,Spotswood,78.72,ok
+20443,Caldermeade,22319,Spotswood,,no_eligible_route
+20453,Camberwell (Vic.),22319,Spotswood,57.72,ok
+20455,Campbellfield,22319,Spotswood,68.43,ok
+20466,Cannons Creek,22319,Spotswood,,no_eligible_route
+20468,Canterbury (Vic.),22319,Spotswood,52.2,ok
+20474,Cape Schanck,22319,Spotswood,,no_eligible_route
+20476,Capel Sound,22319,Spotswood,178.08,ok
+20487,Cardinia,22319,Spotswood,,no_eligible_route
+20495,Carlton (Vic.),22319,Spotswood,35.17,ok
+20496,Carlton North,22319,Spotswood,52.28,ok
+20498,Carnegie,22319,Spotswood,58.2,ok
+20500,Caroline Springs,22319,Spotswood,71.85,ok
+20507,Carrum,22319,Spotswood,86.25,ok
+20508,Carrum Downs,22319,Spotswood,109.48,ok
+20512,Castella,22319,Spotswood,,no_eligible_route
+20517,Catani,22319,Spotswood,,no_eligible_route
+20521,Caulfield,22319,Spotswood,57.88,ok
+20522,Caulfield East,22319,Spotswood,51.62,ok
+20523,Caulfield North,22319,Spotswood,50.12,ok
+20524,Caulfield South,22319,Spotswood,59.47,ok
+20528,Chadstone,22319,Spotswood,67.27,ok
+20537,Chelsea,22319,Spotswood,83.5,ok
+20538,Chelsea Heights,22319,Spotswood,105.18,ok
+20539,Cheltenham (Vic.),22319,Spotswood,72.97,ok
+20541,Cherokee,22319,Spotswood,,no_eligible_route
+20555,Chintin,22319,Spotswood,,no_eligible_route
+20556,Chirnside Park,22319,Spotswood,102.8,ok
+20559,Christmas Hills (Vic.),22319,Spotswood,,no_eligible_route
+20560,Chum Creek,22319,Spotswood,,no_eligible_route
+20566,Clarinda,22319,Spotswood,77.35,ok
+20567,Clarkefield,22319,Spotswood,,no_eligible_route
+20569,Clayton,22319,Spotswood,73.37,ok
+20570,Clayton South,22319,Spotswood,86.48,ok
+20572,Clematis,22319,Spotswood,120.78,ok
+20574,Clifton Hill,22319,Spotswood,44.03,ok
+20576,Clonbinane,22319,Spotswood,,no_eligible_route
+20581,Clyde (Vic.),22319,Spotswood,145.38,ok
+20582,Clyde North,22319,Spotswood,120.15,ok
+20587,Cobaw,22319,Spotswood,,no_eligible_route
+20590,Cobblebank,22319,Spotswood,124.77,ok
+20596,Coburg,22319,Spotswood,44.18,ok
+20597,Coburg North,22319,Spotswood,56.18,ok
+20600,Cockatoo (Vic.),22319,Spotswood,152.05,ok
+20601,Cocoroc,22319,Spotswood,,no_eligible_route
+20605,Coimadai,22319,Spotswood,,no_eligible_route
+20613,Coldstream (Vic.),22319,Spotswood,,no_eligible_route
+20616,Collingwood (Vic.),22319,Spotswood,47.43,ok
+20624,Coolaroo,22319,Spotswood,58.38,ok
+20633,Cora Lynn,22319,Spotswood,,no_eligible_route
+20654,Cottles Bridge,22319,Spotswood,,no_eligible_route
+20661,Craigieburn,22319,Spotswood,72.22,ok
+20662,Cranbourne,22319,Spotswood,102.55,ok
+20663,Cranbourne East,22319,Spotswood,112.33,ok
+20664,Cranbourne North,22319,Spotswood,100.88,ok
+20665,Cranbourne South,22319,Spotswood,135.9,ok
+20666,Cranbourne West,22319,Spotswood,110.85,ok
+20670,Cremorne (Vic.),22319,Spotswood,38.57,ok
+20674,Crib Point,22319,Spotswood,146.73,ok
+20682,Croydon (Vic.),22319,Spotswood,75.53,ok
+20683,Croydon Hills,22319,Spotswood,95.85,ok
+20684,Croydon North,22319,Spotswood,96.28,ok
+20685,Croydon South,22319,Spotswood,94.45,ok
+20702,Dallas,22319,Spotswood,62.08,ok
+20703,Dalmore,22319,Spotswood,,no_eligible_route
+20707,Dandenong,22319,Spotswood,81.32,ok
+20708,Dandenong North,22319,Spotswood,99.78,ok
+20709,Dandenong South,22319,Spotswood,99.65,ok
+20712,Darley,22319,Spotswood,,no_eligible_route
+20716,Darraweit Guim,22319,Spotswood,,no_eligible_route
+20724,Deanside,22319,Spotswood,92.08,ok
+20728,Deepdene (Vic.),22319,Spotswood,63.55,ok
+20729,Deer Park,22319,Spotswood,50.92,ok
+20731,Delahey,22319,Spotswood,64.58,ok
+20743,Derrimut,22319,Spotswood,78.8,ok
+20748,Devon Meadows,22319,Spotswood,152.13,ok
+20750,Dewhurst,22319,Spotswood,,no_eligible_route
+20752,Diamond Creek,22319,Spotswood,92.27,ok
+20754,Diggers Rest,22319,Spotswood,70.03,ok
+20758,Dingley Village,22319,Spotswood,86.87,ok
+20762,Dixons Creek,22319,Spotswood,,no_eligible_route
+20766,Docklands,22319,Spotswood,31.97,ok
+20769,Don Valley,22319,Spotswood,,no_eligible_route
+20771,Doncaster,22319,Spotswood,67.43,ok
+20772,Doncaster East,22319,Spotswood,75.4,ok
+20773,Donnybrook (Vic.),22319,Spotswood,94.23,ok
+20774,Donvale,22319,Spotswood,87.13,ok
+20779,Doreen,22319,Spotswood,113.75,ok
+20783,Doveton,22319,Spotswood,94.27,ok
+20788,Dromana,22319,Spotswood,188.87,ok
+20825,Eaglemont,22319,Spotswood,68.28,ok
+20830,East Melbourne,22319,Spotswood,36.55,ok
+20833,East Warburton,22319,Spotswood,,no_eligible_route
+20843,Eden Park,22319,Spotswood,,no_eligible_route
+20848,Edithvale,22319,Spotswood,83.63,ok
+20864,Elsternwick,22319,Spotswood,50.73,ok
+20865,Eltham (Vic.),22319,Spotswood,91.4,ok
+20866,Eltham North,22319,Spotswood,85.38,ok
+20867,Elwood,22319,Spotswood,56.78,ok
+20868,Emerald (Vic.),22319,Spotswood,147.97,ok
+20871,Endeavour Hills,22319,Spotswood,101.6,ok
+20878,Epping (Vic.),22319,Spotswood,92.52,ok
+20885,Essendon,22319,Spotswood,46.08,ok
+20886,Essendon Fields,22319,Spotswood,67.0,ok
+20887,Essendon North,22319,Spotswood,50.1,ok
+20888,Essendon West,22319,Spotswood,49.95,ok
+20889,Eumemmerring,22319,Spotswood,99.28,ok
+20898,Exford,22319,Spotswood,,no_eligible_route
+20899,Eynesbury,22319,Spotswood,159.87,ok
+20901,Fairfield (Vic.),22319,Spotswood,58.38,ok
+20909,Fawkner,22319,Spotswood,60.88,ok
+20916,Fernshaw,22319,Spotswood,,no_eligible_route
+20917,Ferntree Gully,22319,Spotswood,90.13,ok
+20918,Ferny Creek,22319,Spotswood,131.8,ok
+20920,Fingal (Vic.),22319,Spotswood,,no_eligible_route
+20924,Fitzroy (Vic.),22319,Spotswood,44.1,ok
+20925,Fitzroy North,22319,Spotswood,54.58,ok
+20929,Flemington,22319,Spotswood,35.3,ok
+20930,Flinders (Vic.),22319,Spotswood,,no_eligible_route
+20935,Footscray,22319,Spotswood,21.55,ok
+20937,Forest Hill (Vic.),22319,Spotswood,68.08,ok
+20947,Frankston,22319,Spotswood,103.22,ok
+20948,Frankston North,22319,Spotswood,109.37,ok
+20949,Frankston South,22319,Spotswood,133.48,ok
+20950,Fraser Rise,22319,Spotswood,90.47,ok
+20965,Gardenvale,22319,Spotswood,52.02,ok
+20966,Garfield,22319,Spotswood,,no_eligible_route
+20967,Garfield North,22319,Spotswood,,no_eligible_route
+20979,Gembrook,22319,Spotswood,,no_eligible_route
+20995,Gilderoy,22319,Spotswood,,no_eligible_route
+21001,Gisborne,22319,Spotswood,,no_eligible_route
+21002,Gisborne South,22319,Spotswood,,no_eligible_route
+21004,Gladstone Park,22319,Spotswood,76.93,ok
+21005,Gladysdale,22319,Spotswood,,no_eligible_route
+21009,Glen Huntly,22319,Spotswood,61.62,ok
+21010,Glen Iris (Vic.),22319,Spotswood,60.78,ok
+21013,Glen Waverley,22319,Spotswood,71.2,ok
+21047,Glenroy (Vic.),22319,Spotswood,54.17,ok
+21059,Goldie,22319,Spotswood,,no_eligible_route
+21079,Gowanbrae,22319,Spotswood,80.08,ok
+21087,Grangefields,22319,Spotswood,117.07,ok
+21104,Greensborough,22319,Spotswood,76.82,ok
+21105,Greenvale (Vic.),22319,Spotswood,82.32,ok
+21115,Gruyere,22319,Spotswood,,no_eligible_route
+21121,Guys Hill,22319,Spotswood,,no_eligible_route
+21124,Hadfield,22319,Spotswood,56.2,ok
+21125,Hallam,22319,Spotswood,98.8,ok
+21131,Hampton (Vic.),22319,Spotswood,63.42,ok
+21132,Hampton East,22319,Spotswood,75.98,ok
+21133,Hampton Park,22319,Spotswood,97.68,ok
+21139,Harkaway,22319,Spotswood,,no_eligible_route
+21140,Harkness,22319,Spotswood,141.6,ok
+21145,Hastings (Vic.),22319,Spotswood,139.3,ok
+21152,Hawthorn (Vic.),22319,Spotswood,49.58,ok
+21153,Hawthorn East,22319,Spotswood,57.7,ok
+21158,Healesville,22319,Spotswood,160.55,ok
+21159,Heath Hill,22319,Spotswood,,no_eligible_route
+21161,Heathcote Junction,22319,Spotswood,,no_eligible_route
+21163,Heatherton,22319,Spotswood,83.37,ok
+21165,Heathmont,22319,Spotswood,68.7,ok
+21167,Heidelberg,22319,Spotswood,69.62,ok
+21168,Heidelberg Heights,22319,Spotswood,70.62,ok
+21169,Heidelberg West,22319,Spotswood,73.8,ok
+21176,Hesket,22319,Spotswood,,no_eligible_route
+21185,Highett,22319,Spotswood,68.75,ok
+21193,Hillside (Melton - Vic.),22319,Spotswood,70.12,ok
+21195,Hmas Cerberus,22319,Spotswood,179.93,ok
+21196,Hoddles Creek,22319,Spotswood,,no_eligible_route
+21202,Hopetoun Park,22319,Spotswood,,no_eligible_route
+21203,Hoppers Crossing,22319,Spotswood,54.0,ok
+21214,Hughesdale,22319,Spotswood,59.83,ok
+21215,Humevale,22319,Spotswood,144.13,ok
+21218,Huntingdale (Vic.),22319,Spotswood,65.27,ok
+21223,Hurstbridge,22319,Spotswood,92.82,ok
+21238,Iona,22319,Spotswood,,no_eligible_route
+21246,Ivanhoe (Vic.),22319,Spotswood,55.55,ok
+21247,Ivanhoe East,22319,Spotswood,67.93,ok
+21248,Jacana,22319,Spotswood,63.2,ok
+21277,Junction Village,22319,Spotswood,138.27,ok
+21284,Kalkallo,22319,Spotswood,114.23,ok
+21286,Kallista,22319,Spotswood,128.23,ok
+21287,Kalorama,22319,Spotswood,106.5,ok
+21294,Kangaroo Ground,22319,Spotswood,124.05,ok
+21312,Kealba,22319,Spotswood,55.3,ok
+21314,Keilor,22319,Spotswood,81.08,ok
+21315,Keilor Downs,22319,Spotswood,65.68,ok
+21316,Keilor East,22319,Spotswood,57.1,ok
+21317,Keilor Lodge,22319,Spotswood,66.82,ok
+21318,Keilor North,22319,Spotswood,74.97,ok
+21319,Keilor Park,22319,Spotswood,73.23,ok
+21327,Kensington (Vic.),22319,Spotswood,23.73,ok
+21333,Kerrie,22319,Spotswood,,no_eligible_route
+21336,Kew (Vic.),22319,Spotswood,61.87,ok
+21337,Kew East,22319,Spotswood,65.75,ok
+21339,Keysborough,22319,Spotswood,90.63,ok
+21354,Kilsyth,22319,Spotswood,95.88,ok
+21355,Kilsyth South,22319,Spotswood,101.97,ok
+21358,Kinglake,22319,Spotswood,193.07,ok
+21359,Kinglake Central,22319,Spotswood,,no_eligible_route
+21360,Kinglake West,22319,Spotswood,147.1,ok
+21362,Kings Park (Vic.),22319,Spotswood,56.28,ok
+21363,Kingsbury,22319,Spotswood,83.9,ok
+21365,Kingsville,22319,Spotswood,22.3,ok
+21374,Knoxfield,22319,Spotswood,92.17,ok
+21380,Koo Wee Rup,22319,Spotswood,,no_eligible_route
+21381,Koo Wee Rup North,22319,Spotswood,,no_eligible_route
+21393,Kooyong,22319,Spotswood,44.97,ok
+21411,Kurunjang,22319,Spotswood,118.8,ok
+21452,Lalor,22319,Spotswood,73.23,ok
+21456,Lancefield,22319,Spotswood,,no_eligible_route
+21459,Lang Lang,22319,Spotswood,,no_eligible_route
+21460,Lang Lang East,22319,Spotswood,,no_eligible_route
+21467,Langwarrin,22319,Spotswood,117.18,ok
+21468,Langwarrin South,22319,Spotswood,,no_eligible_route
+21473,Launching Place,22319,Spotswood,117.18,ok
+21476,Laverton (Vic.),22319,Spotswood,32.48,ok
+21477,Laverton North,22319,Spotswood,45.18,ok
+21504,Lilydale (Vic.),22319,Spotswood,96.83,ok
+21533,Long Forest,22319,Spotswood,,no_eligible_route
+21547,Lower Plenty,22319,Spotswood,100.08,ok
+21554,Lynbrook,22319,Spotswood,91.05,ok
+21555,Lyndhurst (Vic.),22319,Spotswood,140.63,ok
+21558,Lysterfield,22319,Spotswood,149.12,ok
+21559,Lysterfield South,22319,Spotswood,149.77,ok
+21561,Macclesfield (Vic.),22319,Spotswood,,no_eligible_route
+21562,Macedon,22319,Spotswood,,no_eligible_route
+21564,Macleod (Vic.),22319,Spotswood,69.9,ok
+21569,Maddingley,22319,Spotswood,,no_eligible_route
+21575,Maidstone,22319,Spotswood,38.17,ok
+21578,Main Ridge,22319,Spotswood,,no_eligible_route
+21586,Malvern (Vic.),22319,Spotswood,55.2,ok
+21587,Malvern East,22319,Spotswood,57.57,ok
+21588,Mambourin,22319,Spotswood,,no_eligible_route
+21597,Manor Lakes,22319,Spotswood,83.95,ok
+21604,Maribyrnong,22319,Spotswood,43.68,ok
+21619,Maryknoll,22319,Spotswood,,no_eligible_route
+21625,McCrae,22319,Spotswood,173.28,ok
+21629,McKinnon,22319,Spotswood,57.05,ok
+21635,Meadow Heights,22319,Spotswood,72.65,ok
+21640,Melbourne,22319,Spotswood,33.92,ok
+21641,Melbourne Airport,22319,Spotswood,,no_eligible_route
+21642,Melton (Vic.),22319,Spotswood,126.98,ok
+21643,Melton South,22319,Spotswood,126.35,ok
+21644,Melton West,22319,Spotswood,114.98,ok
+21648,Mentone,22319,Spotswood,67.73,ok
+21649,Menzies Creek,22319,Spotswood,119.58,ok
+21659,Mernda,22319,Spotswood,104.72,ok
+21662,Merricks,22319,Spotswood,,no_eligible_route
+21663,Merricks Beach,22319,Spotswood,,no_eligible_route
+21664,Merricks North,22319,Spotswood,,no_eligible_route
+21668,Merrimu,22319,Spotswood,,no_eligible_route
+21675,Mickleham,22319,Spotswood,104.22,ok
+21677,Middle Park (Vic.),22319,Spotswood,47.98,ok
+21683,Mill Park,22319,Spotswood,91.32,ok
+21685,Millgrove,22319,Spotswood,,no_eligible_route
+21706,Mitcham (Vic.),22319,Spotswood,66.43,ok
+21727,Monbulk,22319,Spotswood,135.68,ok
+21728,Monegeetta,22319,Spotswood,,no_eligible_route
+21731,Monomeith,22319,Spotswood,,no_eligible_route
+21732,Mont Albert,22319,Spotswood,56.6,ok
+21733,Mont Albert North,22319,Spotswood,65.4,ok
+21735,Montmorency,22319,Spotswood,77.47,ok
+21736,Montrose (Vic.),22319,Spotswood,98.8,ok
+21742,Moonee Ponds,22319,Spotswood,32.55,ok
+21746,Moorabbin,22319,Spotswood,74.0,ok
+21747,Moorabbin Airport,22319,Spotswood,89.05,ok
+21754,Moorooduc,22319,Spotswood,,no_eligible_route
+21755,Mooroolbark,22319,Spotswood,88.73,ok
+21760,Mordialloc,22319,Spotswood,83.03,ok
+21763,Mornington (Vic.),22319,Spotswood,135.08,ok
+21779,Mount Burnett,22319,Spotswood,,no_eligible_route
+21786,Mount Cottrell,22319,Spotswood,,no_eligible_route
+21787,Mount Dandenong,22319,Spotswood,110.5,ok
+21793,Mount Eliza,22319,Spotswood,113.27,ok
+21795,Mount Evelyn,22319,Spotswood,113.67,ok
+21801,Mount Macedon,22319,Spotswood,,no_eligible_route
+21803,Mount Martha,22319,Spotswood,139.8,ok
+21814,Mount Toolebewong,22319,Spotswood,,no_eligible_route
+21816,Mount Waverley,22319,Spotswood,62.63,ok
+21827,Mulgrave (Vic.),22319,Spotswood,88.53,ok
+21849,Murrumbeena,22319,Spotswood,59.95,ok
+21872,Nangana,22319,Spotswood,,no_eligible_route
+21878,Nar Nar Goon,22319,Spotswood,,no_eligible_route
+21879,Nar Nar Goon North,22319,Spotswood,,no_eligible_route
+21893,Narre Warren,22319,Spotswood,95.78,ok
+21894,Narre Warren East,22319,Spotswood,,no_eligible_route
+21895,Narre Warren North,22319,Spotswood,115.05,ok
+21896,Narre Warren South,22319,Spotswood,101.6,ok
+21921,New Gisborne,22319,Spotswood,,no_eligible_route
+21934,Newport (Vic.),22319,Spotswood,14.33,ok
+21942,Niddrie,22319,Spotswood,60.72,ok
+21952,Noble Park,22319,Spotswood,72.05,ok
+21953,Noble Park North,22319,Spotswood,92.27,ok
+21966,North Melbourne,22319,Spotswood,31.77,ok
+21969,North Warrandyte,22319,Spotswood,102.03,ok
+21971,Northcote,22319,Spotswood,55.43,ok
+21974,Notting Hill,22319,Spotswood,75.8,ok
+21985,Nunawading,22319,Spotswood,58.92,ok
+21991,Nutfield,22319,Spotswood,,no_eligible_route
+21998,Oak Park,22319,Spotswood,50.87,ok
+21999,Oaklands Junction,22319,Spotswood,,no_eligible_route
+22000,Oakleigh,22319,Spotswood,62.5,ok
+22001,Oakleigh East,22319,Spotswood,73.83,ok
+22002,Oakleigh South,22319,Spotswood,71.65,ok
+22006,Officer,22319,Spotswood,113.33,ok
+22007,Officer South,22319,Spotswood,151.9,ok
+22009,Olinda (Vic.),22319,Spotswood,132.12,ok
+22016,Ormond,22319,Spotswood,58.48,ok
+22027,Pakenham,22319,Spotswood,110.25,ok
+22028,Pakenham South,22319,Spotswood,,no_eligible_route
+22029,Pakenham Upper,22319,Spotswood,,no_eligible_route
+22032,Panton Hill,22319,Spotswood,,no_eligible_route
+22036,Park Orchards,22319,Spotswood,89.4,ok
+22037,Parkdale,22319,Spotswood,72.82,ok
+22038,Parkville (Vic.),22319,Spotswood,39.85,ok
+22041,Pascoe Vale,22319,Spotswood,55.23,ok
+22042,Pascoe Vale South,22319,Spotswood,50.97,ok
+22047,Patterson Lakes,22319,Spotswood,96.12,ok
+22050,Pearcedale,22319,Spotswood,153.2,ok
+22058,Pentland Hills,22319,Spotswood,,no_eligible_route
+22064,Pheasant Creek (Vic.),22319,Spotswood,162.75,ok
+22084,Plenty (Vic.),22319,Spotswood,104.4,ok
+22085,Plumpton (Vic.),22319,Spotswood,,no_eligible_route
+22086,Point Cook,22319,Spotswood,52.72,ok
+22087,Point Leo,22319,Spotswood,,no_eligible_route
+22107,Port Melbourne,22319,Spotswood,42.48,ok
+22113,Portsea,22319,Spotswood,209.58,ok
+22115,Powelltown,22319,Spotswood,,no_eligible_route
+22118,Prahran,22319,Spotswood,45.55,ok
+22121,Preston (Vic.),22319,Spotswood,63.9,ok
+22122,Princes Hill,22319,Spotswood,47.38,ok
+22132,Quandong,22319,Spotswood,,no_eligible_route
+22141,Ravenhall,22319,Spotswood,92.67,ok
+22148,Red Hill (Vic.),22319,Spotswood,,no_eligible_route
+22149,Red Hill South,22319,Spotswood,,no_eligible_route
+22160,Research,22319,Spotswood,95.9,ok
+22161,Reservoir (Vic.),22319,Spotswood,70.05,ok
+22170,Richmond (Vic.),22319,Spotswood,44.5,ok
+22172,Riddells Creek,22319,Spotswood,,no_eligible_route
+22174,Ringwood (Vic.),22319,Spotswood,73.05,ok
+22175,Ringwood East,22319,Spotswood,75.62,ok
+22176,Ringwood North,22319,Spotswood,89.25,ok
+22179,Ripponlea,22319,Spotswood,41.45,ok
+22185,Rochford,22319,Spotswood,,no_eligible_route
+22186,Rockbank,22319,Spotswood,98.33,ok
+22193,Romsey,22319,Spotswood,,no_eligible_route
+22194,Rosanna,22319,Spotswood,64.37,ok
+22198,Rosebud,22319,Spotswood,189.6,ok
+22207,Rowville,22319,Spotswood,98.85,ok
+22208,Roxburgh Park,22319,Spotswood,70.48,ok
+22220,Rye,22319,Spotswood,201.8,ok
+22221,Rythdale,22319,Spotswood,,no_eligible_route
+22222,Safety Beach (Vic.),22319,Spotswood,156.77,ok
+22232,Sandhurst,22319,Spotswood,127.45,ok
+22234,Sandringham (Vic.),22319,Spotswood,67.38,ok
+22239,Sassafras (Vic.),22319,Spotswood,114.57,ok
+22242,Scoresby,22319,Spotswood,95.82,ok
+22247,Seabrook,22319,Spotswood,48.88,ok
+22249,Seaford (Vic.),22319,Spotswood,98.35,ok
+22250,Seaholme,22319,Spotswood,23.57,ok
+22256,Seddon (Vic.),22319,Spotswood,16.65,ok
+22258,Selby,22319,Spotswood,119.25,ok
+22263,Seville,22319,Spotswood,128.35,ok
+22264,Seville East,22319,Spotswood,115.23,ok
+22278,Sherbrooke,22319,Spotswood,118.3,ok
+22279,Shoreham,22319,Spotswood,,no_eligible_route
+22281,Silvan,22319,Spotswood,127.78,ok
+22291,Skye (Vic.),22319,Spotswood,112.8,ok
+22295,Smiths Gully,22319,Spotswood,,no_eligible_route
+22303,Somers,22319,Spotswood,168.07,ok
+22304,Somerton (Vic.),22319,Spotswood,72.85,ok
+22305,Somerville (Vic.),22319,Spotswood,144.35,ok
+22306,Sorrento (Vic.),22319,Spotswood,189.57,ok
+22309,South Kingsville,22319,Spotswood,23.57,walk_only
+22310,South Melbourne,22319,Spotswood,39.8,ok
+22311,South Morang,22319,Spotswood,94.93,ok
+22313,South Wharf,22319,Spotswood,35.73,ok
+22314,South Yarra,22319,Spotswood,32.22,ok
+22315,Southbank,22319,Spotswood,36.77,ok
+22319,Spotswood,22319,Spotswood,0.0,same_centroid
+22325,Springfield (Macedon Ranges - Vic.),22319,Spotswood,,no_eligible_route
+22328,Springvale (Vic.),22319,Spotswood,73.02,ok
+22329,Springvale South,22319,Spotswood,73.75,ok
+22330,St Albans (Vic.),22319,Spotswood,42.57,ok
+22332,St Andrews (Vic.),22319,Spotswood,,no_eligible_route
+22333,St Andrews Beach,22319,Spotswood,,no_eligible_route
+22339,St Helena,22319,Spotswood,87.65,ok
+22343,St Kilda (Vic.),22319,Spotswood,54.03,ok
+22344,St Kilda East,22319,Spotswood,52.63,ok
+22345,St Kilda West,22319,Spotswood,47.87,ok
+22355,Steels Creek,22319,Spotswood,,no_eligible_route
+22375,Strathewen,22319,Spotswood,,no_eligible_route
+22380,Strathmore (Vic.),22319,Spotswood,55.33,ok
+22381,Strathmore Heights,22319,Spotswood,66.12,ok
+22382,Strathtulloh,22319,Spotswood,180.23,ok
+22391,Sunbury,22319,Spotswood,104.85,ok
+22395,Sunshine (Vic.),22319,Spotswood,31.35,ok
+22396,Sunshine North,22319,Spotswood,49.42,ok
+22397,Sunshine West,22319,Spotswood,56.7,ok
+22399,Surrey Hills,22319,Spotswood,57.0,ok
+22414,Sydenham (Vic.),22319,Spotswood,58.9,ok
+22451,Tarneit,22319,Spotswood,71.27,ok
+22457,Tarrawarra,22319,Spotswood,136.15,ok
+22473,Taylors Hill,22319,Spotswood,66.97,ok
+22474,Taylors Lakes,22319,Spotswood,53.38,ok
+22476,Tecoma,22319,Spotswood,88.52,ok
+22483,Templestowe,22319,Spotswood,76.8,ok
+22484,Templestowe Lower,22319,Spotswood,71.77,ok
+22496,The Basin (Vic.),22319,Spotswood,99.0,ok
+22501,The Patch,22319,Spotswood,126.25,ok
+22504,Thomastown,22319,Spotswood,78.53,ok
+22508,Thornbury,22319,Spotswood,61.32,ok
+22509,Thornhill Park,22319,Spotswood,,no_eligible_route
+22514,Three Bridges,22319,Spotswood,,no_eligible_route
+22531,Tonimbuk,22319,Spotswood,,no_eligible_route
+22536,Toolangi,22319,Spotswood,,no_eligible_route
+22537,Toolern Vale,22319,Spotswood,,no_eligible_route
+22546,Tooradin,22319,Spotswood,,no_eligible_route
+22547,Toorak,22319,Spotswood,52.6,ok
+22550,Tootgarook,22319,Spotswood,185.22,ok
+22556,Tottenham (Vic.),22319,Spotswood,51.38,ok
+22572,Travancore,22319,Spotswood,40.82,ok
+22576,Tremont,22319,Spotswood,106.12,ok
+22582,Truganina,22319,Spotswood,132.93,ok
+22584,Tuerong,22319,Spotswood,,no_eligible_route
+22586,Tullamarine,22319,Spotswood,75.28,ok
+22594,Tyabb,22319,Spotswood,133.22,ok
+22598,Tynong,22319,Spotswood,,no_eligible_route
+22599,Tynong North,22319,Spotswood,,no_eligible_route
+22614,Upper Ferntree Gully,22319,Spotswood,85.67,ok
+22617,Upper Plenty,22319,Spotswood,,no_eligible_route
+22620,Upwey,22319,Spotswood,88.38,ok
+22627,Vermont,22319,Spotswood,77.98,ok
+22628,Vermont South,22319,Spotswood,86.87,ok
+22629,Vervale,22319,Spotswood,,no_eligible_route
+22633,Viewbank,22319,Spotswood,79.37,ok
+22661,Wallan,22319,Spotswood,,no_eligible_route
+22672,Wandin East,22319,Spotswood,,no_eligible_route
+22673,Wandin North,22319,Spotswood,101.32,ok
+22676,Wandong,22319,Spotswood,,no_eligible_route
+22685,Wantirna,22319,Spotswood,88.07,ok
+22686,Wantirna South,22319,Spotswood,92.12,ok
+22689,Warburton (Vic.),22319,Spotswood,,no_eligible_route
+22695,Warneet,22319,Spotswood,,no_eligible_route
+22702,Warrandyte,22319,Spotswood,90.58,ok
+22703,Warrandyte South,22319,Spotswood,111.55,ok
+22704,Warranwood,22319,Spotswood,89.22,ok
+22717,Waterford Park,22319,Spotswood,,no_eligible_route
+22720,Waterways,22319,Spotswood,98.18,ok
+22721,Watsonia,22319,Spotswood,64.82,ok
+22722,Watsonia North,22319,Spotswood,83.27,ok
+22723,Watsons Creek (Vic.),22319,Spotswood,,no_eligible_route
+22727,Wattle Glen,22319,Spotswood,96.57,ok
+22740,Weir Views,22319,Spotswood,149.43,ok
+22750,Werribee,22319,Spotswood,47.52,ok
+22751,Werribee South,22319,Spotswood,85.53,ok
+22753,Wesburn,22319,Spotswood,133.28,ok
+22756,West Footscray,22319,Spotswood,34.52,ok
+22757,West Melbourne,22319,Spotswood,40.78,ok
+22761,Westmeadows,22319,Spotswood,62.9,ok
+22766,Wheelers Hill,22319,Spotswood,80.25,ok
+22775,Whittlesea,22319,Spotswood,,no_eligible_route
+22784,Wildwood,22319,Spotswood,,no_eligible_route
+22791,Williams Landing,22319,Spotswood,46.73,ok
+22792,Williamstown (Vic.),22319,Spotswood,16.55,ok
+22793,Williamstown North,22319,Spotswood,30.05,ok
+22805,Windsor (Vic.),22319,Spotswood,38.72,ok
+22820,Wollert,22319,Spotswood,90.75,ok
+22825,Wonga Park,22319,Spotswood,103.07,ok
+22843,Woodstock (Vic.),22319,Spotswood,,no_eligible_route
+22857,Woori Yallock,22319,Spotswood,112.43,ok
+22883,Wyndham Vale,22319,Spotswood,72.33,ok
+22892,Yallambie,22319,Spotswood,84.1,ok
+22898,Yan Yean,22319,Spotswood,128.48,ok
+22906,Yannathan,22319,Spotswood,,no_eligible_route
+22910,Yarra Glen,22319,Spotswood,133.45,ok
+22911,Yarra Junction,22319,Spotswood,137.55,ok
+22916,Yarrambat,22319,Spotswood,101.97,ok
+22917,Yarraville,22319,Spotswood,13.5,ok
+22925,Yellingbo,22319,Spotswood,,no_eligible_route
+22930,Yering,22319,Spotswood,,no_eligible_route
+22941,Yuroke,22319,Spotswood,126.55,ok

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22234,Sandringham (Vic.),60.0,ok
+20003,Aberfeldie,22234,Sandringham (Vic.),85.6,ok
+20011,Aintree,22234,Sandringham (Vic.),131.03,ok
+20015,Airport West,22234,Sandringham (Vic.),105.7,ok
+20017,Albanvale,22234,Sandringham (Vic.),116.8,ok
+20018,Albert Park (Vic.),22234,Sandringham (Vic.),57.9,ok
+20021,Albion (Vic.),22234,Sandringham (Vic.),88.9,ok
+20034,Alphington,22234,Sandringham (Vic.),72.92,ok
+20035,Altona (Vic.),22234,Sandringham (Vic.),91.3,ok
+20036,Altona Meadows,22234,Sandringham (Vic.),96.0,ok
+20037,Altona North,22234,Sandringham (Vic.),104.7,ok
+20062,Ardeer,22234,Sandringham (Vic.),100.35,ok
+20066,Armadale (Vic.),22234,Sandringham (Vic.),46.73,ok
+20071,Arthurs Creek,22234,Sandringham (Vic.),,no_eligible_route
+20072,Arthurs Seat,22234,Sandringham (Vic.),151.05,ok
+20075,Ascot Vale,22234,Sandringham (Vic.),77.13,ok
+20077,Ashburton,22234,Sandringham (Vic.),71.05,ok
+20078,Ashwood,22234,Sandringham (Vic.),80.25,ok
+20079,Aspendale,22234,Sandringham (Vic.),48.78,ok
+20080,Aspendale Gardens,22234,Sandringham (Vic.),70.12,ok
+20082,Attwood,22234,Sandringham (Vic.),111.42,ok
+20089,Avondale Heights,22234,Sandringham (Vic.),95.43,ok
+20091,Avonsleigh,22234,Sandringham (Vic.),,no_eligible_route
+20095,Bacchus Marsh,22234,Sandringham (Vic.),,no_eligible_route
+20097,Badger Creek,22234,Sandringham (Vic.),163.9,ok
+20105,Balaclava (Vic.),22234,Sandringham (Vic.),30.1,ok
+20120,Balnarring,22234,Sandringham (Vic.),170.62,ok
+20121,Balnarring Beach,22234,Sandringham (Vic.),167.15,ok
+20123,Balwyn,22234,Sandringham (Vic.),74.18,ok
+20124,Balwyn North,22234,Sandringham (Vic.),78.15,ok
+20131,Bangholme,22234,Sandringham (Vic.),103.38,ok
+20169,Baxter,22234,Sandringham (Vic.),93.85,ok
+20171,Bayles,22234,Sandringham (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),22234,Sandringham (Vic.),94.7,ok
+20174,Bayswater North,22234,Sandringham (Vic.),112.87,ok
+20175,Beaconsfield (Vic.),22234,Sandringham (Vic.),123.45,ok
+20176,Beaconsfield Upper,22234,Sandringham (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),22234,Sandringham (Vic.),22.93,ok
+20187,Beenak,22234,Sandringham (Vic.),,no_eligible_route
+20188,Belgrave,22234,Sandringham (Vic.),107.78,ok
+20189,Belgrave Heights,22234,Sandringham (Vic.),136.45,ok
+20190,Belgrave South,22234,Sandringham (Vic.),135.43,ok
+20198,Bellfield (Banyule - Vic.),22234,Sandringham (Vic.),92.97,ok
+20207,Bend Of Islands,22234,Sandringham (Vic.),,no_eligible_route
+20212,Benloch,22234,Sandringham (Vic.),,no_eligible_route
+20214,Bentleigh,22234,Sandringham (Vic.),37.4,ok
+20215,Bentleigh East,22234,Sandringham (Vic.),38.68,ok
+20224,Berwick,22234,Sandringham (Vic.),95.25,ok
+20233,Beveridge,22234,Sandringham (Vic.),140.97,ok
+20237,Big Pats Creek,22234,Sandringham (Vic.),,no_eligible_route
+20248,Bittern,22234,Sandringham (Vic.),121.33,ok
+20251,Black Rock (Vic.),22234,Sandringham (Vic.),19.37,ok
+20252,Blackburn,22234,Sandringham (Vic.),69.03,ok
+20253,Blackburn North,22234,Sandringham (Vic.),78.0,ok
+20254,Blackburn South,22234,Sandringham (Vic.),85.37,ok
+20257,Blairgowrie,22234,Sandringham (Vic.),151.08,ok
+20260,Blind Bight,22234,Sandringham (Vic.),,no_eligible_route
+20272,Bolinda,22234,Sandringham (Vic.),,no_eligible_route
+20278,Bonbeach,22234,Sandringham (Vic.),53.78,ok
+20280,Boneo,22234,Sandringham (Vic.),,no_eligible_route
+20282,Bonnie Brook,22234,Sandringham (Vic.),167.88,ok
+20304,Boronia,22234,Sandringham (Vic.),97.17,ok
+20307,Botanic Ridge,22234,Sandringham (Vic.),144.12,ok
+20314,Box Hill (Vic.),22234,Sandringham (Vic.),68.48,ok
+20315,Box Hill North,22234,Sandringham (Vic.),77.9,ok
+20316,Box Hill South,22234,Sandringham (Vic.),76.63,ok
+20320,Braeside,22234,Sandringham (Vic.),67.25,ok
+20324,Braybrook,22234,Sandringham (Vic.),89.75,ok
+20331,Briar Hill,22234,Sandringham (Vic.),111.4,ok
+20337,Brighton (Vic.),22234,Sandringham (Vic.),27.57,ok
+20338,Brighton East,22234,Sandringham (Vic.),37.8,ok
+20346,Broadmeadows (Vic.),22234,Sandringham (Vic.),103.33,ok
+20351,Brookfield (Vic.),22234,Sandringham (Vic.),184.38,ok
+20352,Brooklyn (Vic.),22234,Sandringham (Vic.),98.47,ok
+20361,Brunswick (Vic.),22234,Sandringham (Vic.),70.85,ok
+20362,Brunswick East,22234,Sandringham (Vic.),81.82,ok
+20363,Brunswick West,22234,Sandringham (Vic.),86.03,ok
+20381,Bulla (Vic.),22234,Sandringham (Vic.),168.57,ok
+20386,Bulleen,22234,Sandringham (Vic.),82.8,ok
+20387,Bullengarook,22234,Sandringham (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),22234,Sandringham (Vic.),104.95,ok
+20411,Bunyip,22234,Sandringham (Vic.),,no_eligible_route
+20412,Bunyip North,22234,Sandringham (Vic.),,no_eligible_route
+20418,Burnley,22234,Sandringham (Vic.),64.45,ok
+20419,Burnside (Vic.),22234,Sandringham (Vic.),112.23,ok
+20420,Burnside Heights,22234,Sandringham (Vic.),119.93,ok
+20426,Burwood (Vic.),22234,Sandringham (Vic.),73.15,ok
+20427,Burwood East,22234,Sandringham (Vic.),87.37,ok
+20435,Bylands,22234,Sandringham (Vic.),,no_eligible_route
+20441,Cairnlea,22234,Sandringham (Vic.),99.12,ok
+20442,Calder Park,22234,Sandringham (Vic.),129.98,ok
+20443,Caldermeade,22234,Sandringham (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),22234,Sandringham (Vic.),69.98,ok
+20455,Campbellfield,22234,Sandringham (Vic.),110.4,ok
+20466,Cannons Creek,22234,Sandringham (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),22234,Sandringham (Vic.),65.17,ok
+20474,Cape Schanck,22234,Sandringham (Vic.),,no_eligible_route
+20476,Capel Sound,22234,Sandringham (Vic.),135.43,ok
+20487,Cardinia,22234,Sandringham (Vic.),,no_eligible_route
+20495,Carlton (Vic.),22234,Sandringham (Vic.),65.6,ok
+20496,Carlton North,22234,Sandringham (Vic.),78.7,ok
+20498,Carnegie,22234,Sandringham (Vic.),46.7,ok
+20500,Caroline Springs,22234,Sandringham (Vic.),114.82,ok
+20507,Carrum,22234,Sandringham (Vic.),53.6,ok
+20508,Carrum Downs,22234,Sandringham (Vic.),76.7,ok
+20512,Castella,22234,Sandringham (Vic.),,no_eligible_route
+20517,Catani,22234,Sandringham (Vic.),,no_eligible_route
+20521,Caulfield,22234,Sandringham (Vic.),40.85,ok
+20522,Caulfield East,22234,Sandringham (Vic.),47.18,ok
+20523,Caulfield North,22234,Sandringham (Vic.),44.38,ok
+20524,Caulfield South,22234,Sandringham (Vic.),42.43,ok
+20528,Chadstone,22234,Sandringham (Vic.),63.53,ok
+20537,Chelsea,22234,Sandringham (Vic.),50.85,ok
+20538,Chelsea Heights,22234,Sandringham (Vic.),70.53,ok
+20539,Cheltenham (Vic.),22234,Sandringham (Vic.),24.7,ok
+20541,Cherokee,22234,Sandringham (Vic.),,no_eligible_route
+20555,Chintin,22234,Sandringham (Vic.),,no_eligible_route
+20556,Chirnside Park,22234,Sandringham (Vic.),115.77,ok
+20559,Christmas Hills (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+20560,Chum Creek,22234,Sandringham (Vic.),,no_eligible_route
+20566,Clarinda,22234,Sandringham (Vic.),54.7,ok
+20567,Clarkefield,22234,Sandringham (Vic.),,no_eligible_route
+20569,Clayton,22234,Sandringham (Vic.),65.22,ok
+20570,Clayton South,22234,Sandringham (Vic.),63.83,ok
+20572,Clematis,22234,Sandringham (Vic.),,no_eligible_route
+20574,Clifton Hill,22234,Sandringham (Vic.),59.92,ok
+20576,Clonbinane,22234,Sandringham (Vic.),,no_eligible_route
+20581,Clyde (Vic.),22234,Sandringham (Vic.),145.73,ok
+20582,Clyde North,22234,Sandringham (Vic.),122.55,ok
+20587,Cobaw,22234,Sandringham (Vic.),,no_eligible_route
+20590,Cobblebank,22234,Sandringham (Vic.),169.03,ok
+20596,Coburg,22234,Sandringham (Vic.),85.68,ok
+20597,Coburg North,22234,Sandringham (Vic.),95.25,ok
+20600,Cockatoo (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+20601,Cocoroc,22234,Sandringham (Vic.),,no_eligible_route
+20605,Coimadai,22234,Sandringham (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),22234,Sandringham (Vic.),58.23,ok
+20624,Coolaroo,22234,Sandringham (Vic.),104.65,ok
+20633,Cora Lynn,22234,Sandringham (Vic.),,no_eligible_route
+20654,Cottles Bridge,22234,Sandringham (Vic.),,no_eligible_route
+20661,Craigieburn,22234,Sandringham (Vic.),116.48,ok
+20662,Cranbourne,22234,Sandringham (Vic.),89.33,ok
+20663,Cranbourne East,22234,Sandringham (Vic.),111.83,ok
+20664,Cranbourne North,22234,Sandringham (Vic.),104.92,ok
+20665,Cranbourne South,22234,Sandringham (Vic.),147.47,ok
+20666,Cranbourne West,22234,Sandringham (Vic.),105.2,ok
+20670,Cremorne (Vic.),22234,Sandringham (Vic.),47.73,ok
+20674,Crib Point,22234,Sandringham (Vic.),130.3,ok
+20682,Croydon (Vic.),22234,Sandringham (Vic.),85.8,ok
+20683,Croydon Hills,22234,Sandringham (Vic.),108.82,ok
+20684,Croydon North,22234,Sandringham (Vic.),103.55,ok
+20685,Croydon South,22234,Sandringham (Vic.),107.42,ok
+20702,Dallas,22234,Sandringham (Vic.),107.35,ok
+20703,Dalmore,22234,Sandringham (Vic.),,no_eligible_route
+20707,Dandenong,22234,Sandringham (Vic.),78.2,ok
+20708,Dandenong North,22234,Sandringham (Vic.),99.75,ok
+20709,Dandenong South,22234,Sandringham (Vic.),92.88,ok
+20712,Darley,22234,Sandringham (Vic.),,no_eligible_route
+20716,Darraweit Guim,22234,Sandringham (Vic.),,no_eligible_route
+20724,Deanside,22234,Sandringham (Vic.),136.48,ok
+20728,Deepdene (Vic.),22234,Sandringham (Vic.),75.82,ok
+20729,Deer Park,22234,Sandringham (Vic.),98.18,ok
+20731,Delahey,22234,Sandringham (Vic.),110.85,ok
+20743,Derrimut,22234,Sandringham (Vic.),124.45,ok
+20748,Devon Meadows,22234,Sandringham (Vic.),,no_eligible_route
+20750,Dewhurst,22234,Sandringham (Vic.),,no_eligible_route
+20752,Diamond Creek,22234,Sandringham (Vic.),118.53,ok
+20754,Diggers Rest,22234,Sandringham (Vic.),125.6,ok
+20758,Dingley Village,22234,Sandringham (Vic.),49.22,ok
+20762,Dixons Creek,22234,Sandringham (Vic.),,no_eligible_route
+20766,Docklands,22234,Sandringham (Vic.),63.93,ok
+20769,Don Valley,22234,Sandringham (Vic.),,no_eligible_route
+20771,Doncaster,22234,Sandringham (Vic.),80.88,ok
+20772,Doncaster East,22234,Sandringham (Vic.),89.67,ok
+20773,Donnybrook (Vic.),22234,Sandringham (Vic.),139.5,ok
+20774,Donvale,22234,Sandringham (Vic.),104.4,ok
+20779,Doreen,22234,Sandringham (Vic.),128.72,ok
+20783,Doveton,22234,Sandringham (Vic.),88.47,ok
+20788,Dromana,22234,Sandringham (Vic.),149.05,ok
+20825,Eaglemont,22234,Sandringham (Vic.),91.25,ok
+20830,East Melbourne,22234,Sandringham (Vic.),58.52,ok
+20833,East Warburton,22234,Sandringham (Vic.),,no_eligible_route
+20843,Eden Park,22234,Sandringham (Vic.),,no_eligible_route
+20848,Edithvale,22234,Sandringham (Vic.),50.98,ok
+20864,Elsternwick,22234,Sandringham (Vic.),33.7,ok
+20865,Eltham (Vic.),22234,Sandringham (Vic.),115.67,ok
+20866,Eltham North,22234,Sandringham (Vic.),108.35,ok
+20867,Elwood,22234,Sandringham (Vic.),38.17,ok
+20868,Emerald (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+20871,Endeavour Hills,22234,Sandringham (Vic.),111.57,ok
+20878,Epping (Vic.),22234,Sandringham (Vic.),124.43,ok
+20885,Essendon,22234,Sandringham (Vic.),86.35,ok
+20886,Essendon Fields,22234,Sandringham (Vic.),108.75,ok
+20887,Essendon North,22234,Sandringham (Vic.),89.75,ok
+20888,Essendon West,22234,Sandringham (Vic.),86.22,ok
+20889,Eumemmerring,22234,Sandringham (Vic.),94.68,ok
+20898,Exford,22234,Sandringham (Vic.),,no_eligible_route
+20899,Eynesbury,22234,Sandringham (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),22234,Sandringham (Vic.),78.65,ok
+20909,Fawkner,22234,Sandringham (Vic.),102.85,ok
+20916,Fernshaw,22234,Sandringham (Vic.),,no_eligible_route
+20917,Ferntree Gully,22234,Sandringham (Vic.),104.62,ok
+20918,Ferny Creek,22234,Sandringham (Vic.),148.07,ok
+20920,Fingal (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),22234,Sandringham (Vic.),67.83,ok
+20925,Fitzroy North,22234,Sandringham (Vic.),71.67,ok
+20929,Flemington,22234,Sandringham (Vic.),79.97,ok
+20930,Flinders (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+20935,Footscray,22234,Sandringham (Vic.),68.77,ok
+20937,Forest Hill (Vic.),22234,Sandringham (Vic.),87.08,ok
+20947,Frankston,22234,Sandringham (Vic.),66.57,ok
+20948,Frankston North,22234,Sandringham (Vic.),77.87,ok
+20949,Frankston South,22234,Sandringham (Vic.),99.83,ok
+20950,Fraser Rise,22234,Sandringham (Vic.),140.73,ok
+20965,Gardenvale,22234,Sandringham (Vic.),28.88,ok
+20966,Garfield,22234,Sandringham (Vic.),,no_eligible_route
+20967,Garfield North,22234,Sandringham (Vic.),,no_eligible_route
+20979,Gembrook,22234,Sandringham (Vic.),,no_eligible_route
+20995,Gilderoy,22234,Sandringham (Vic.),,no_eligible_route
+21001,Gisborne,22234,Sandringham (Vic.),,no_eligible_route
+21002,Gisborne South,22234,Sandringham (Vic.),,no_eligible_route
+21004,Gladstone Park,22234,Sandringham (Vic.),118.2,ok
+21005,Gladysdale,22234,Sandringham (Vic.),,no_eligible_route
+21009,Glen Huntly,22234,Sandringham (Vic.),44.38,ok
+21010,Glen Iris (Vic.),22234,Sandringham (Vic.),72.27,ok
+21013,Glen Waverley,22234,Sandringham (Vic.),85.47,ok
+21047,Glenroy (Vic.),22234,Sandringham (Vic.),98.9,ok
+21059,Goldie,22234,Sandringham (Vic.),,no_eligible_route
+21079,Gowanbrae,22234,Sandringham (Vic.),116.7,ok
+21087,Grangefields,22234,Sandringham (Vic.),168.13,ok
+21104,Greensborough,22234,Sandringham (Vic.),99.77,ok
+21105,Greenvale (Vic.),22234,Sandringham (Vic.),124.58,ok
+21115,Gruyere,22234,Sandringham (Vic.),,no_eligible_route
+21121,Guys Hill,22234,Sandringham (Vic.),,no_eligible_route
+21124,Hadfield,22234,Sandringham (Vic.),104.88,ok
+21125,Hallam,22234,Sandringham (Vic.),101.37,ok
+21131,Hampton (Vic.),22234,Sandringham (Vic.),22.38,ok
+21132,Hampton East,22234,Sandringham (Vic.),20.13,ok
+21133,Hampton Park,22234,Sandringham (Vic.),101.57,ok
+21139,Harkaway,22234,Sandringham (Vic.),,no_eligible_route
+21140,Harkness,22234,Sandringham (Vic.),185.87,ok
+21145,Hastings (Vic.),22234,Sandringham (Vic.),115.0,ok
+21152,Hawthorn (Vic.),22234,Sandringham (Vic.),63.65,ok
+21153,Hawthorn East,22234,Sandringham (Vic.),68.33,ok
+21158,Healesville,22234,Sandringham (Vic.),167.82,ok
+21159,Heath Hill,22234,Sandringham (Vic.),,no_eligible_route
+21161,Heathcote Junction,22234,Sandringham (Vic.),,no_eligible_route
+21163,Heatherton,22234,Sandringham (Vic.),57.02,ok
+21165,Heathmont,22234,Sandringham (Vic.),84.97,ok
+21167,Heidelberg,22234,Sandringham (Vic.),91.58,ok
+21168,Heidelberg Heights,22234,Sandringham (Vic.),94.88,ok
+21169,Heidelberg West,22234,Sandringham (Vic.),98.07,ok
+21176,Hesket,22234,Sandringham (Vic.),,no_eligible_route
+21185,Highett,22234,Sandringham (Vic.),16.72,ok
+21193,Hillside (Melton - Vic.),22234,Sandringham (Vic.),118.38,ok
+21195,Hmas Cerberus,22234,Sandringham (Vic.),163.5,ok
+21196,Hoddles Creek,22234,Sandringham (Vic.),,no_eligible_route
+21202,Hopetoun Park,22234,Sandringham (Vic.),,no_eligible_route
+21203,Hoppers Crossing,22234,Sandringham (Vic.),107.4,ok
+21214,Hughesdale,22234,Sandringham (Vic.),55.93,ok
+21215,Humevale,22234,Sandringham (Vic.),,no_eligible_route
+21218,Huntingdale (Vic.),22234,Sandringham (Vic.),61.18,ok
+21223,Hurstbridge,22234,Sandringham (Vic.),119.08,ok
+21238,Iona,22234,Sandringham (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),22234,Sandringham (Vic.),77.52,ok
+21247,Ivanhoe East,22234,Sandringham (Vic.),87.07,ok
+21248,Jacana,22234,Sandringham (Vic.),103.47,ok
+21277,Junction Village,22234,Sandringham (Vic.),,no_eligible_route
+21284,Kalkallo,22234,Sandringham (Vic.),143.5,ok
+21286,Kallista,22234,Sandringham (Vic.),144.5,ok
+21287,Kalorama,22234,Sandringham (Vic.),120.77,ok
+21294,Kangaroo Ground,22234,Sandringham (Vic.),144.32,ok
+21312,Kealba,22234,Sandringham (Vic.),106.57,ok
+21314,Keilor,22234,Sandringham (Vic.),130.72,ok
+21315,Keilor Downs,22234,Sandringham (Vic.),116.25,ok
+21316,Keilor East,22234,Sandringham (Vic.),100.58,ok
+21317,Keilor Lodge,22234,Sandringham (Vic.),113.17,ok
+21318,Keilor North,22234,Sandringham (Vic.),119.23,ok
+21319,Keilor Park,22234,Sandringham (Vic.),109.5,ok
+21327,Kensington (Vic.),22234,Sandringham (Vic.),67.9,ok
+21333,Kerrie,22234,Sandringham (Vic.),,no_eligible_route
+21336,Kew (Vic.),22234,Sandringham (Vic.),70.67,ok
+21337,Kew East,22234,Sandringham (Vic.),80.67,ok
+21339,Keysborough,22234,Sandringham (Vic.),78.03,ok
+21354,Kilsyth,22234,Sandringham (Vic.),110.15,ok
+21355,Kilsyth South,22234,Sandringham (Vic.),118.23,ok
+21358,Kinglake,22234,Sandringham (Vic.),,no_eligible_route
+21359,Kinglake Central,22234,Sandringham (Vic.),,no_eligible_route
+21360,Kinglake West,22234,Sandringham (Vic.),,no_eligible_route
+21362,Kings Park (Vic.),22234,Sandringham (Vic.),104.25,ok
+21363,Kingsbury,22234,Sandringham (Vic.),104.17,ok
+21365,Kingsville,22234,Sandringham (Vic.),79.95,ok
+21374,Knoxfield,22234,Sandringham (Vic.),104.52,ok
+21380,Koo Wee Rup,22234,Sandringham (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,22234,Sandringham (Vic.),,no_eligible_route
+21393,Kooyong,22234,Sandringham (Vic.),59.23,ok
+21411,Kurunjang,22234,Sandringham (Vic.),163.07,ok
+21452,Lalor,22234,Sandringham (Vic.),91.2,ok
+21456,Lancefield,22234,Sandringham (Vic.),,no_eligible_route
+21459,Lang Lang,22234,Sandringham (Vic.),,no_eligible_route
+21460,Lang Lang East,22234,Sandringham (Vic.),,no_eligible_route
+21467,Langwarrin,22234,Sandringham (Vic.),82.53,ok
+21468,Langwarrin South,22234,Sandringham (Vic.),,no_eligible_route
+21473,Launching Place,22234,Sandringham (Vic.),130.15,ok
+21476,Laverton (Vic.),22234,Sandringham (Vic.),85.6,ok
+21477,Laverton North,22234,Sandringham (Vic.),123.32,ok
+21504,Lilydale (Vic.),22234,Sandringham (Vic.),109.8,ok
+21533,Long Forest,22234,Sandringham (Vic.),,no_eligible_route
+21547,Lower Plenty,22234,Sandringham (Vic.),122.45,ok
+21554,Lynbrook,22234,Sandringham (Vic.),96.4,ok
+21555,Lyndhurst (Vic.),22234,Sandringham (Vic.),142.98,ok
+21558,Lysterfield,22234,Sandringham (Vic.),163.47,ok
+21559,Lysterfield South,22234,Sandringham (Vic.),152.12,ok
+21561,Macclesfield (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+21562,Macedon,22234,Sandringham (Vic.),,no_eligible_route
+21564,Macleod (Vic.),22234,Sandringham (Vic.),92.87,ok
+21569,Maddingley,22234,Sandringham (Vic.),,no_eligible_route
+21575,Maidstone,22234,Sandringham (Vic.),84.78,ok
+21578,Main Ridge,22234,Sandringham (Vic.),,no_eligible_route
+21586,Malvern (Vic.),22234,Sandringham (Vic.),55.17,ok
+21587,Malvern East,22234,Sandringham (Vic.),59.18,ok
+21588,Mambourin,22234,Sandringham (Vic.),,no_eligible_route
+21597,Manor Lakes,22234,Sandringham (Vic.),146.37,ok
+21604,Maribyrnong,22234,Sandringham (Vic.),85.03,ok
+21619,Maryknoll,22234,Sandringham (Vic.),,no_eligible_route
+21625,McCrae,22234,Sandringham (Vic.),122.63,ok
+21629,McKinnon,22234,Sandringham (Vic.),30.38,ok
+21635,Meadow Heights,22234,Sandringham (Vic.),116.35,ok
+21640,Melbourne,22234,Sandringham (Vic.),52.9,ok
+21641,Melbourne Airport,22234,Sandringham (Vic.),,no_eligible_route
+21642,Melton (Vic.),22234,Sandringham (Vic.),171.25,ok
+21643,Melton South,22234,Sandringham (Vic.),183.62,ok
+21644,Melton West,22234,Sandringham (Vic.),159.25,ok
+21648,Mentone,22234,Sandringham (Vic.),31.95,ok
+21649,Menzies Creek,22234,Sandringham (Vic.),,no_eligible_route
+21659,Mernda,22234,Sandringham (Vic.),125.68,ok
+21662,Merricks,22234,Sandringham (Vic.),,no_eligible_route
+21663,Merricks Beach,22234,Sandringham (Vic.),,no_eligible_route
+21664,Merricks North,22234,Sandringham (Vic.),,no_eligible_route
+21668,Merrimu,22234,Sandringham (Vic.),,no_eligible_route
+21675,Mickleham,22234,Sandringham (Vic.),145.48,ok
+21677,Middle Park (Vic.),22234,Sandringham (Vic.),55.07,ok
+21683,Mill Park,22234,Sandringham (Vic.),116.28,ok
+21685,Millgrove,22234,Sandringham (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),22234,Sandringham (Vic.),80.7,ok
+21727,Monbulk,22234,Sandringham (Vic.),151.95,ok
+21728,Monegeetta,22234,Sandringham (Vic.),,no_eligible_route
+21731,Monomeith,22234,Sandringham (Vic.),,no_eligible_route
+21732,Mont Albert,22234,Sandringham (Vic.),68.87,ok
+21733,Mont Albert North,22234,Sandringham (Vic.),81.67,ok
+21735,Montmorency,22234,Sandringham (Vic.),101.73,ok
+21736,Montrose (Vic.),22234,Sandringham (Vic.),113.07,ok
+21742,Moonee Ponds,22234,Sandringham (Vic.),64.52,ok
+21746,Moorabbin,22234,Sandringham (Vic.),31.23,ok
+21747,Moorabbin Airport,22234,Sandringham (Vic.),55.63,ok
+21754,Moorooduc,22234,Sandringham (Vic.),127.6,ok
+21755,Mooroolbark,22234,Sandringham (Vic.),103.0,ok
+21760,Mordialloc,22234,Sandringham (Vic.),50.38,ok
+21763,Mornington (Vic.),22234,Sandringham (Vic.),105.43,ok
+21779,Mount Burnett,22234,Sandringham (Vic.),,no_eligible_route
+21786,Mount Cottrell,22234,Sandringham (Vic.),,no_eligible_route
+21787,Mount Dandenong,22234,Sandringham (Vic.),124.77,ok
+21793,Mount Eliza,22234,Sandringham (Vic.),81.62,ok
+21795,Mount Evelyn,22234,Sandringham (Vic.),124.93,ok
+21801,Mount Macedon,22234,Sandringham (Vic.),,no_eligible_route
+21803,Mount Martha,22234,Sandringham (Vic.),110.15,ok
+21814,Mount Toolebewong,22234,Sandringham (Vic.),,no_eligible_route
+21816,Mount Waverley,22234,Sandringham (Vic.),69.85,ok
+21827,Mulgrave (Vic.),22234,Sandringham (Vic.),89.1,ok
+21849,Murrumbeena,22234,Sandringham (Vic.),50.72,ok
+21872,Nangana,22234,Sandringham (Vic.),,no_eligible_route
+21878,Nar Nar Goon,22234,Sandringham (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,22234,Sandringham (Vic.),,no_eligible_route
+21893,Narre Warren,22234,Sandringham (Vic.),97.35,ok
+21894,Narre Warren East,22234,Sandringham (Vic.),,no_eligible_route
+21895,Narre Warren North,22234,Sandringham (Vic.),117.4,ok
+21896,Narre Warren South,22234,Sandringham (Vic.),103.17,ok
+21921,New Gisborne,22234,Sandringham (Vic.),,no_eligible_route
+21934,Newport (Vic.),22234,Sandringham (Vic.),70.45,ok
+21942,Niddrie,22234,Sandringham (Vic.),101.7,ok
+21952,Noble Park,22234,Sandringham (Vic.),74.62,ok
+21953,Noble Park North,22234,Sandringham (Vic.),95.83,ok
+21966,North Melbourne,22234,Sandringham (Vic.),68.4,ok
+21969,North Warrandyte,22234,Sandringham (Vic.),126.3,ok
+21971,Northcote,22234,Sandringham (Vic.),72.93,ok
+21974,Notting Hill,22234,Sandringham (Vic.),77.65,ok
+21985,Nunawading,22234,Sandringham (Vic.),73.18,ok
+21991,Nutfield,22234,Sandringham (Vic.),,no_eligible_route
+21998,Oak Park,22234,Sandringham (Vic.),91.13,ok
+21999,Oaklands Junction,22234,Sandringham (Vic.),,no_eligible_route
+22000,Oakleigh,22234,Sandringham (Vic.),63.03,ok
+22001,Oakleigh East,22234,Sandringham (Vic.),73.77,ok
+22002,Oakleigh South,22234,Sandringham (Vic.),55.45,ok
+22006,Officer,22234,Sandringham (Vic.),114.9,ok
+22007,Officer South,22234,Sandringham (Vic.),155.47,ok
+22009,Olinda (Vic.),22234,Sandringham (Vic.),148.38,ok
+22016,Ormond,22234,Sandringham (Vic.),35.4,ok
+22027,Pakenham,22234,Sandringham (Vic.),111.82,ok
+22028,Pakenham South,22234,Sandringham (Vic.),,no_eligible_route
+22029,Pakenham Upper,22234,Sandringham (Vic.),,no_eligible_route
+22032,Panton Hill,22234,Sandringham (Vic.),,no_eligible_route
+22036,Park Orchards,22234,Sandringham (Vic.),92.37,ok
+22037,Parkdale,22234,Sandringham (Vic.),40.17,ok
+22038,Parkville (Vic.),22234,Sandringham (Vic.),76.73,ok
+22041,Pascoe Vale,22234,Sandringham (Vic.),95.5,ok
+22042,Pascoe Vale South,22234,Sandringham (Vic.),91.23,ok
+22047,Patterson Lakes,22234,Sandringham (Vic.),61.47,ok
+22050,Pearcedale,22234,Sandringham (Vic.),,no_eligible_route
+22058,Pentland Hills,22234,Sandringham (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+22084,Plenty (Vic.),22234,Sandringham (Vic.),124.67,ok
+22085,Plumpton (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+22086,Point Cook,22234,Sandringham (Vic.),109.13,ok
+22087,Point Leo,22234,Sandringham (Vic.),,no_eligible_route
+22107,Port Melbourne,22234,Sandringham (Vic.),67.93,ok
+22113,Portsea,22234,Sandringham (Vic.),166.93,ok
+22115,Powelltown,22234,Sandringham (Vic.),,no_eligible_route
+22118,Prahran,22234,Sandringham (Vic.),46.5,ok
+22121,Preston (Vic.),22234,Sandringham (Vic.),84.8,ok
+22122,Princes Hill,22234,Sandringham (Vic.),72.88,ok
+22132,Quandong,22234,Sandringham (Vic.),,no_eligible_route
+22141,Ravenhall,22234,Sandringham (Vic.),146.93,ok
+22148,Red Hill (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+22149,Red Hill South,22234,Sandringham (Vic.),,no_eligible_route
+22160,Research,22234,Sandringham (Vic.),120.17,ok
+22161,Reservoir (Vic.),22234,Sandringham (Vic.),88.02,ok
+22170,Richmond (Vic.),22234,Sandringham (Vic.),56.25,ok
+22172,Riddells Creek,22234,Sandringham (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),22234,Sandringham (Vic.),87.33,ok
+22175,Ringwood East,22234,Sandringham (Vic.),85.88,ok
+22176,Ringwood North,22234,Sandringham (Vic.),98.95,ok
+22179,Ripponlea,22234,Sandringham (Vic.),27.17,ok
+22185,Rochford,22234,Sandringham (Vic.),,no_eligible_route
+22186,Rockbank,22234,Sandringham (Vic.),144.52,ok
+22193,Romsey,22234,Sandringham (Vic.),,no_eligible_route
+22194,Rosanna,22234,Sandringham (Vic.),87.33,ok
+22198,Rosebud,22234,Sandringham (Vic.),138.95,ok
+22207,Rowville,22234,Sandringham (Vic.),103.0,ok
+22208,Roxburgh Park,22234,Sandringham (Vic.),109.75,ok
+22220,Rye,22234,Sandringham (Vic.),159.15,ok
+22221,Rythdale,22234,Sandringham (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),22234,Sandringham (Vic.),128.5,ok
+22232,Sandhurst,22234,Sandringham (Vic.),89.8,ok
+22234,Sandringham (Vic.),22234,Sandringham (Vic.),0.0,same_centroid
+22239,Sassafras (Vic.),22234,Sandringham (Vic.),130.83,ok
+22242,Scoresby,22234,Sandringham (Vic.),99.17,ok
+22247,Seabrook,22234,Sandringham (Vic.),96.42,ok
+22249,Seaford (Vic.),22234,Sandringham (Vic.),65.7,ok
+22250,Seaholme,22234,Sandringham (Vic.),85.98,ok
+22256,Seddon (Vic.),22234,Sandringham (Vic.),68.7,ok
+22258,Selby,22234,Sandringham (Vic.),140.38,ok
+22263,Seville,22234,Sandringham (Vic.),141.32,ok
+22264,Seville East,22234,Sandringham (Vic.),128.2,ok
+22278,Sherbrooke,22234,Sandringham (Vic.),134.57,ok
+22279,Shoreham,22234,Sandringham (Vic.),,no_eligible_route
+22281,Silvan,22234,Sandringham (Vic.),144.05,ok
+22291,Skye (Vic.),22234,Sandringham (Vic.),81.88,ok
+22295,Smiths Gully,22234,Sandringham (Vic.),,no_eligible_route
+22303,Somers,22234,Sandringham (Vic.),151.63,ok
+22304,Somerton (Vic.),22234,Sandringham (Vic.),114.12,ok
+22305,Somerville (Vic.),22234,Sandringham (Vic.),119.1,ok
+22306,Sorrento (Vic.),22234,Sandringham (Vic.),146.92,ok
+22309,South Kingsville,22234,Sandringham (Vic.),87.7,ok
+22310,South Melbourne,22234,Sandringham (Vic.),60.85,ok
+22311,South Morang,22234,Sandringham (Vic.),121.9,ok
+22313,South Wharf,22234,Sandringham (Vic.),66.75,ok
+22314,South Yarra,22234,Sandringham (Vic.),33.08,ok
+22315,Southbank,22234,Sandringham (Vic.),57.62,ok
+22319,Spotswood,22234,Sandringham (Vic.),68.85,ok
+22325,Springfield (Macedon Ranges - Vic.),22234,Sandringham (Vic.),,no_eligible_route
+22328,Springvale (Vic.),22234,Sandringham (Vic.),75.58,ok
+22329,Springvale South,22234,Sandringham (Vic.),71.77,ok
+22330,St Albans (Vic.),22234,Sandringham (Vic.),91.53,ok
+22332,St Andrews (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+22333,St Andrews Beach,22234,Sandringham (Vic.),,no_eligible_route
+22339,St Helena,22234,Sandringham (Vic.),111.92,ok
+22343,St Kilda (Vic.),22234,Sandringham (Vic.),39.52,ok
+22344,St Kilda East,22234,Sandringham (Vic.),41.92,ok
+22345,St Kilda West,22234,Sandringham (Vic.),51.22,ok
+22355,Steels Creek,22234,Sandringham (Vic.),,no_eligible_route
+22375,Strathewen,22234,Sandringham (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),22234,Sandringham (Vic.),94.6,ok
+22381,Strathmore Heights,22234,Sandringham (Vic.),105.38,ok
+22382,Strathtulloh,22234,Sandringham (Vic.),,no_eligible_route
+22391,Sunbury,22234,Sandringham (Vic.),157.12,ok
+22395,Sunshine (Vic.),22234,Sandringham (Vic.),80.32,ok
+22396,Sunshine North,22234,Sandringham (Vic.),102.68,ok
+22397,Sunshine West,22234,Sandringham (Vic.),108.97,ok
+22399,Surrey Hills,22234,Sandringham (Vic.),69.27,ok
+22414,Sydenham (Vic.),22234,Sandringham (Vic.),107.7,ok
+22451,Tarneit,22234,Sandringham (Vic.),123.45,ok
+22457,Tarrawarra,22234,Sandringham (Vic.),143.42,ok
+22473,Taylors Hill,22234,Sandringham (Vic.),115.75,ok
+22474,Taylors Lakes,22234,Sandringham (Vic.),110.63,ok
+22476,Tecoma,22234,Sandringham (Vic.),104.78,ok
+22483,Templestowe,22234,Sandringham (Vic.),92.07,ok
+22484,Templestowe Lower,22234,Sandringham (Vic.),87.03,ok
+22496,The Basin (Vic.),22234,Sandringham (Vic.),115.97,ok
+22501,The Patch,22234,Sandringham (Vic.),142.52,ok
+22504,Thomastown,22234,Sandringham (Vic.),96.5,ok
+22508,Thornbury,22234,Sandringham (Vic.),79.1,ok
+22509,Thornhill Park,22234,Sandringham (Vic.),,no_eligible_route
+22514,Three Bridges,22234,Sandringham (Vic.),,no_eligible_route
+22531,Tonimbuk,22234,Sandringham (Vic.),,no_eligible_route
+22536,Toolangi,22234,Sandringham (Vic.),,no_eligible_route
+22537,Toolern Vale,22234,Sandringham (Vic.),,no_eligible_route
+22546,Tooradin,22234,Sandringham (Vic.),,no_eligible_route
+22547,Toorak,22234,Sandringham (Vic.),52.57,ok
+22550,Tootgarook,22234,Sandringham (Vic.),142.57,ok
+22556,Tottenham (Vic.),22234,Sandringham (Vic.),99.85,ok
+22572,Travancore,22234,Sandringham (Vic.),76.57,ok
+22576,Tremont,22234,Sandringham (Vic.),122.38,ok
+22582,Truganina,22234,Sandringham (Vic.),171.05,ok
+22584,Tuerong,22234,Sandringham (Vic.),,no_eligible_route
+22586,Tullamarine,22234,Sandringham (Vic.),121.55,ok
+22594,Tyabb,22234,Sandringham (Vic.),111.42,ok
+22598,Tynong,22234,Sandringham (Vic.),,no_eligible_route
+22599,Tynong North,22234,Sandringham (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,22234,Sandringham (Vic.),101.93,ok
+22617,Upper Plenty,22234,Sandringham (Vic.),,no_eligible_route
+22620,Upwey,22234,Sandringham (Vic.),104.65,ok
+22627,Vermont,22234,Sandringham (Vic.),90.25,ok
+22628,Vermont South,22234,Sandringham (Vic.),100.13,ok
+22629,Vervale,22234,Sandringham (Vic.),,no_eligible_route
+22633,Viewbank,22234,Sandringham (Vic.),99.63,ok
+22661,Wallan,22234,Sandringham (Vic.),,no_eligible_route
+22672,Wandin East,22234,Sandringham (Vic.),,no_eligible_route
+22673,Wandin North,22234,Sandringham (Vic.),114.28,ok
+22676,Wandong,22234,Sandringham (Vic.),,no_eligible_route
+22685,Wantirna,22234,Sandringham (Vic.),103.33,ok
+22686,Wantirna South,22234,Sandringham (Vic.),107.08,ok
+22689,Warburton (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+22695,Warneet,22234,Sandringham (Vic.),,no_eligible_route
+22702,Warrandyte,22234,Sandringham (Vic.),104.85,ok
+22703,Warrandyte South,22234,Sandringham (Vic.),126.82,ok
+22704,Warranwood,22234,Sandringham (Vic.),104.48,ok
+22717,Waterford Park,22234,Sandringham (Vic.),,no_eligible_route
+22720,Waterways,22234,Sandringham (Vic.),72.63,ok
+22721,Watsonia,22234,Sandringham (Vic.),87.78,ok
+22722,Watsonia North,22234,Sandringham (Vic.),104.53,ok
+22723,Watsons Creek (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+22727,Wattle Glen,22234,Sandringham (Vic.),122.83,ok
+22740,Weir Views,22234,Sandringham (Vic.),214.08,ok
+22750,Werribee,22234,Sandringham (Vic.),103.93,ok
+22751,Werribee South,22234,Sandringham (Vic.),145.95,ok
+22753,Wesburn,22234,Sandringham (Vic.),146.25,ok
+22756,West Footscray,22234,Sandringham (Vic.),83.48,ok
+22757,West Melbourne,22234,Sandringham (Vic.),80.42,ok
+22761,Westmeadows,22234,Sandringham (Vic.),104.17,ok
+22766,Wheelers Hill,22234,Sandringham (Vic.),88.6,ok
+22775,Whittlesea,22234,Sandringham (Vic.),,no_eligible_route
+22784,Wildwood,22234,Sandringham (Vic.),,no_eligible_route
+22791,Williams Landing,22234,Sandringham (Vic.),99.85,ok
+22792,Williamstown (Vic.),22234,Sandringham (Vic.),77.67,ok
+22793,Williamstown North,22234,Sandringham (Vic.),92.2,ok
+22805,Windsor (Vic.),22234,Sandringham (Vic.),30.1,ok
+22820,Wollert,22234,Sandringham (Vic.),136.02,ok
+22825,Wonga Park,22234,Sandringham (Vic.),116.03,ok
+22843,Woodstock (Vic.),22234,Sandringham (Vic.),,no_eligible_route
+22857,Woori Yallock,22234,Sandringham (Vic.),125.4,ok
+22883,Wyndham Vale,22234,Sandringham (Vic.),138.75,ok
+22892,Yallambie,22234,Sandringham (Vic.),109.37,ok
+22898,Yan Yean,22234,Sandringham (Vic.),154.75,ok
+22906,Yannathan,22234,Sandringham (Vic.),,no_eligible_route
+22910,Yarra Glen,22234,Sandringham (Vic.),140.72,ok
+22911,Yarra Junction,22234,Sandringham (Vic.),150.52,ok
+22916,Yarrambat,22234,Sandringham (Vic.),122.23,ok
+22917,Yarraville,22234,Sandringham (Vic.),74.6,ok
+22925,Yellingbo,22234,Sandringham (Vic.),,no_eligible_route
+22930,Yering,22234,Sandringham (Vic.),,no_eligible_route
+22941,Yuroke,22234,Sandringham (Vic.),166.12,ok

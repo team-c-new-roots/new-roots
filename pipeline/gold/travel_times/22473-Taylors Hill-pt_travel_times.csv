@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22473,Taylors Hill,89.53,ok
+20003,Aberfeldie,22473,Taylors Hill,85.5,ok
+20011,Aintree,22473,Taylors Hill,37.0,ok
+20015,Airport West,22473,Taylors Hill,86.32,ok
+20017,Albanvale,22473,Taylors Hill,43.25,ok
+20018,Albert Park (Vic.),22473,Taylors Hill,90.55,ok
+20021,Albion (Vic.),22473,Taylors Hill,44.72,ok
+20034,Alphington,22473,Taylors Hill,94.7,ok
+20035,Altona (Vic.),22473,Taylors Hill,89.78,ok
+20036,Altona Meadows,22473,Taylors Hill,86.93,ok
+20037,Altona North,22473,Taylors Hill,89.18,ok
+20062,Ardeer,22473,Taylors Hill,44.72,ok
+20066,Armadale (Vic.),22473,Taylors Hill,83.92,ok
+20071,Arthurs Creek,22473,Taylors Hill,,no_eligible_route
+20072,Arthurs Seat,22473,Taylors Hill,242.2,ok
+20075,Ascot Vale,22473,Taylors Hill,80.2,ok
+20077,Ashburton,22473,Taylors Hill,101.53,ok
+20078,Ashwood,22473,Taylors Hill,113.12,ok
+20079,Aspendale,22473,Taylors Hill,124.18,ok
+20080,Aspendale Gardens,22473,Taylors Hill,145.72,ok
+20082,Attwood,22473,Taylors Hill,116.73,ok
+20089,Avondale Heights,22473,Taylors Hill,74.23,ok
+20091,Avonsleigh,22473,Taylors Hill,,no_eligible_route
+20095,Bacchus Marsh,22473,Taylors Hill,,no_eligible_route
+20097,Badger Creek,22473,Taylors Hill,206.38,ok
+20105,Balaclava (Vic.),22473,Taylors Hill,98.22,ok
+20120,Balnarring,22473,Taylors Hill,,no_eligible_route
+20121,Balnarring Beach,22473,Taylors Hill,,no_eligible_route
+20123,Balwyn,22473,Taylors Hill,112.87,ok
+20124,Balwyn North,22473,Taylors Hill,111.63,ok
+20131,Bangholme,22473,Taylors Hill,177.88,ok
+20169,Baxter,22473,Taylors Hill,,no_eligible_route
+20171,Bayles,22473,Taylors Hill,,no_eligible_route
+20173,Bayswater (Vic.),22473,Taylors Hill,127.18,ok
+20174,Bayswater North,22473,Taylors Hill,149.9,ok
+20175,Beaconsfield (Vic.),22473,Taylors Hill,154.38,ok
+20176,Beaconsfield Upper,22473,Taylors Hill,,no_eligible_route
+20182,Beaumaris (Vic.),22473,Taylors Hill,133.7,ok
+20187,Beenak,22473,Taylors Hill,,no_eligible_route
+20188,Belgrave,22473,Taylors Hill,140.27,ok
+20189,Belgrave Heights,22473,Taylors Hill,171.93,ok
+20190,Belgrave South,22473,Taylors Hill,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),22473,Taylors Hill,112.45,ok
+20207,Bend Of Islands,22473,Taylors Hill,,no_eligible_route
+20212,Benloch,22473,Taylors Hill,,no_eligible_route
+20214,Bentleigh,22473,Taylors Hill,100.97,ok
+20215,Bentleigh East,22473,Taylors Hill,105.12,ok
+20224,Berwick,22473,Taylors Hill,130.43,ok
+20233,Beveridge,22473,Taylors Hill,150.45,ok
+20237,Big Pats Creek,22473,Taylors Hill,,no_eligible_route
+20248,Bittern,22473,Taylors Hill,,no_eligible_route
+20251,Black Rock (Vic.),22473,Taylors Hill,129.13,ok
+20252,Blackburn,22473,Taylors Hill,104.52,ok
+20253,Blackburn North,22473,Taylors Hill,115.5,ok
+20254,Blackburn South,22473,Taylors Hill,120.85,ok
+20257,Blairgowrie,22473,Taylors Hill,236.23,ok
+20260,Blind Bight,22473,Taylors Hill,,no_eligible_route
+20272,Bolinda,22473,Taylors Hill,,no_eligible_route
+20278,Bonbeach,22473,Taylors Hill,129.18,ok
+20280,Boneo,22473,Taylors Hill,,no_eligible_route
+20282,Bonnie Brook,22473,Taylors Hill,72.55,ok
+20304,Boronia,22473,Taylors Hill,129.65,ok
+20307,Botanic Ridge,22473,Taylors Hill,165.3,ok
+20314,Box Hill (Vic.),22473,Taylors Hill,101.63,ok
+20315,Box Hill North,22473,Taylors Hill,113.13,ok
+20316,Box Hill South,22473,Taylors Hill,115.87,ok
+20320,Braeside,22473,Taylors Hill,150.58,ok
+20324,Braybrook,22473,Taylors Hill,61.83,ok
+20331,Briar Hill,22473,Taylors Hill,133.42,ok
+20337,Brighton (Vic.),22473,Taylors Hill,111.33,ok
+20338,Brighton East,22473,Taylors Hill,111.65,ok
+20346,Broadmeadows (Vic.),22473,Taylors Hill,112.42,ok
+20351,Brookfield (Vic.),22473,Taylors Hill,126.15,ok
+20352,Brooklyn (Vic.),22473,Taylors Hill,73.12,ok
+20361,Brunswick (Vic.),22473,Taylors Hill,77.43,ok
+20362,Brunswick East,22473,Taylors Hill,90.55,ok
+20363,Brunswick West,22473,Taylors Hill,85.82,ok
+20381,Bulla (Vic.),22473,Taylors Hill,91.05,ok
+20386,Bulleen,22473,Taylors Hill,120.58,ok
+20387,Bullengarook,22473,Taylors Hill,,no_eligible_route
+20399,Bundoora (Vic.),22473,Taylors Hill,130.43,ok
+20411,Bunyip,22473,Taylors Hill,,no_eligible_route
+20412,Bunyip North,22473,Taylors Hill,,no_eligible_route
+20418,Burnley,22473,Taylors Hill,94.93,ok
+20419,Burnside (Vic.),22473,Taylors Hill,32.7,ok
+20420,Burnside Heights,22473,Taylors Hill,13.98,ok
+20426,Burwood (Vic.),22473,Taylors Hill,115.33,ok
+20427,Burwood East,22473,Taylors Hill,119.85,ok
+20435,Bylands,22473,Taylors Hill,,no_eligible_route
+20441,Cairnlea,22473,Taylors Hill,49.9,ok
+20442,Calder Park,22473,Taylors Hill,39.78,ok
+20443,Caldermeade,22473,Taylors Hill,,no_eligible_route
+20453,Camberwell (Vic.),22473,Taylors Hill,100.47,ok
+20455,Campbellfield,22473,Taylors Hill,120.18,ok
+20466,Cannons Creek,22473,Taylors Hill,,no_eligible_route
+20468,Canterbury (Vic.),22473,Taylors Hill,94.95,ok
+20474,Cape Schanck,22473,Taylors Hill,,no_eligible_route
+20476,Capel Sound,22473,Taylors Hill,221.58,ok
+20487,Cardinia,22473,Taylors Hill,,no_eligible_route
+20495,Carlton (Vic.),22473,Taylors Hill,67.92,ok
+20496,Carlton North,22473,Taylors Hill,83.03,ok
+20498,Carnegie,22473,Taylors Hill,89.95,ok
+20500,Caroline Springs,22473,Taylors Hill,17.8,ok
+20507,Carrum,22473,Taylors Hill,129.0,ok
+20508,Carrum Downs,22473,Taylors Hill,140.23,ok
+20512,Castella,22473,Taylors Hill,,no_eligible_route
+20517,Catani,22473,Taylors Hill,,no_eligible_route
+20521,Caulfield,22473,Taylors Hill,96.67,ok
+20522,Caulfield East,22473,Taylors Hill,84.37,ok
+20523,Caulfield North,22473,Taylors Hill,89.03,ok
+20524,Caulfield South,22473,Taylors Hill,105.95,ok
+20528,Chadstone,22473,Taylors Hill,103.77,ok
+20537,Chelsea,22473,Taylors Hill,126.25,ok
+20538,Chelsea Heights,22473,Taylors Hill,139.93,ok
+20539,Cheltenham (Vic.),22473,Taylors Hill,115.72,ok
+20541,Cherokee,22473,Taylors Hill,,no_eligible_route
+20555,Chintin,22473,Taylors Hill,,no_eligible_route
+20556,Chirnside Park,22473,Taylors Hill,181.08,ok
+20559,Christmas Hills (Vic.),22473,Taylors Hill,,no_eligible_route
+20560,Chum Creek,22473,Taylors Hill,,no_eligible_route
+20566,Clarinda,22473,Taylors Hill,109.1,ok
+20567,Clarkefield,22473,Taylors Hill,,no_eligible_route
+20569,Clayton,22473,Taylors Hill,107.8,ok
+20570,Clayton South,22473,Taylors Hill,118.23,ok
+20572,Clematis,22473,Taylors Hill,,no_eligible_route
+20574,Clifton Hill,22473,Taylors Hill,87.78,ok
+20576,Clonbinane,22473,Taylors Hill,,no_eligible_route
+20581,Clyde (Vic.),22473,Taylors Hill,182.88,ok
+20582,Clyde North,22473,Taylors Hill,152.9,ok
+20587,Cobaw,22473,Taylors Hill,,no_eligible_route
+20590,Cobblebank,22473,Taylors Hill,100.23,ok
+20596,Coburg,22473,Taylors Hill,85.17,ok
+20597,Coburg North,22473,Taylors Hill,94.73,ok
+20600,Cockatoo (Vic.),22473,Taylors Hill,,no_eligible_route
+20601,Cocoroc,22473,Taylors Hill,,no_eligible_route
+20605,Coimadai,22473,Taylors Hill,,no_eligible_route
+20613,Coldstream (Vic.),22473,Taylors Hill,,no_eligible_route
+20616,Collingwood (Vic.),22473,Taylors Hill,85.73,ok
+20624,Coolaroo,22473,Taylors Hill,114.4,ok
+20633,Cora Lynn,22473,Taylors Hill,,no_eligible_route
+20654,Cottles Bridge,22473,Taylors Hill,,no_eligible_route
+20661,Craigieburn,22473,Taylors Hill,124.97,ok
+20662,Cranbourne,22473,Taylors Hill,143.08,ok
+20663,Cranbourne East,22473,Taylors Hill,149.08,ok
+20664,Cranbourne North,22473,Taylors Hill,140.1,ok
+20665,Cranbourne South,22473,Taylors Hill,168.65,ok
+20666,Cranbourne West,22473,Taylors Hill,143.6,ok
+20670,Cremorne (Vic.),22473,Taylors Hill,85.52,ok
+20674,Crib Point,22473,Taylors Hill,,no_eligible_route
+20682,Croydon (Vic.),22473,Taylors Hill,122.28,ok
+20683,Croydon Hills,22473,Taylors Hill,143.6,ok
+20684,Croydon North,22473,Taylors Hill,145.78,ok
+20685,Croydon South,22473,Taylors Hill,153.28,ok
+20702,Dallas,22473,Taylors Hill,118.83,ok
+20703,Dalmore,22473,Taylors Hill,,no_eligible_route
+20707,Dandenong,22473,Taylors Hill,114.07,ok
+20708,Dandenong North,22473,Taylors Hill,132.53,ok
+20709,Dandenong South,22473,Taylors Hill,136.4,ok
+20712,Darley,22473,Taylors Hill,,no_eligible_route
+20716,Darraweit Guim,22473,Taylors Hill,,no_eligible_route
+20724,Deanside,22473,Taylors Hill,50.02,ok
+20728,Deepdene (Vic.),22473,Taylors Hill,105.3,ok
+20729,Deer Park,22473,Taylors Hill,38.55,ok
+20731,Delahey,22473,Taylors Hill,34.47,walk_only
+20743,Derrimut,22473,Taylors Hill,85.27,ok
+20748,Devon Meadows,22473,Taylors Hill,189.63,ok
+20750,Dewhurst,22473,Taylors Hill,,no_eligible_route
+20752,Diamond Creek,22473,Taylors Hill,137.02,ok
+20754,Diggers Rest,22473,Taylors Hill,46.78,ok
+20758,Dingley Village,22473,Taylors Hill,124.62,ok
+20762,Dixons Creek,22473,Taylors Hill,,no_eligible_route
+20766,Docklands,22473,Taylors Hill,83.72,ok
+20769,Don Valley,22473,Taylors Hill,,no_eligible_route
+20771,Doncaster,22473,Taylors Hill,111.42,ok
+20772,Doncaster East,22473,Taylors Hill,114.15,ok
+20773,Donnybrook (Vic.),22473,Taylors Hill,151.73,ok
+20774,Donvale,22473,Taylors Hill,136.88,ok
+20779,Doreen,22473,Taylors Hill,162.25,ok
+20783,Doveton,22473,Taylors Hill,131.02,ok
+20788,Dromana,22473,Taylors Hill,231.37,ok
+20825,Eaglemont,22473,Taylors Hill,111.07,ok
+20830,East Melbourne,22473,Taylors Hill,80.3,ok
+20833,East Warburton,22473,Taylors Hill,,no_eligible_route
+20843,Eden Park,22473,Taylors Hill,,no_eligible_route
+20848,Edithvale,22473,Taylors Hill,123.78,ok
+20864,Elsternwick,22473,Taylors Hill,98.02,ok
+20865,Eltham (Vic.),22473,Taylors Hill,136.15,ok
+20866,Eltham North,22473,Taylors Hill,132.13,ok
+20867,Elwood,22473,Taylors Hill,103.67,ok
+20868,Emerald (Vic.),22473,Taylors Hill,,no_eligible_route
+20871,Endeavour Hills,22473,Taylors Hill,138.35,ok
+20878,Epping (Vic.),22473,Taylors Hill,140.27,ok
+20885,Essendon,22473,Taylors Hill,69.82,ok
+20886,Essendon Fields,22473,Taylors Hill,96.23,ok
+20887,Essendon North,22473,Taylors Hill,72.17,ok
+20888,Essendon West,22473,Taylors Hill,76.9,ok
+20889,Eumemmerring,22473,Taylors Hill,132.4,ok
+20898,Exford,22473,Taylors Hill,,no_eligible_route
+20899,Eynesbury,22473,Taylors Hill,117.63,ok
+20901,Fairfield (Vic.),22473,Taylors Hill,96.13,ok
+20909,Fawkner,22473,Taylors Hill,112.63,ok
+20916,Fernshaw,22473,Taylors Hill,,no_eligible_route
+20917,Ferntree Gully,22473,Taylors Hill,128.02,ok
+20918,Ferny Creek,22473,Taylors Hill,184.3,ok
+20920,Fingal (Vic.),22473,Taylors Hill,,no_eligible_route
+20924,Fitzroy (Vic.),22473,Taylors Hill,80.6,ok
+20925,Fitzroy North,22473,Taylors Hill,89.92,ok
+20929,Flemington,22473,Taylors Hill,78.05,ok
+20930,Flinders (Vic.),22473,Taylors Hill,,no_eligible_route
+20935,Footscray,22473,Taylors Hill,60.13,ok
+20937,Forest Hill (Vic.),22473,Taylors Hill,125.58,ok
+20947,Frankston,22473,Taylors Hill,142.97,ok
+20948,Frankston North,22473,Taylors Hill,161.12,ok
+20949,Frankston South,22473,Taylors Hill,,no_eligible_route
+20950,Fraser Rise,22473,Taylors Hill,62.95,ok
+20965,Gardenvale,22473,Taylors Hill,107.77,ok
+20966,Garfield,22473,Taylors Hill,,no_eligible_route
+20967,Garfield North,22473,Taylors Hill,,no_eligible_route
+20979,Gembrook,22473,Taylors Hill,,no_eligible_route
+20995,Gilderoy,22473,Taylors Hill,,no_eligible_route
+21001,Gisborne,22473,Taylors Hill,,no_eligible_route
+21002,Gisborne South,22473,Taylors Hill,,no_eligible_route
+21004,Gladstone Park,22473,Taylors Hill,110.4,ok
+21005,Gladysdale,22473,Taylors Hill,,no_eligible_route
+21009,Glen Huntly,22473,Taylors Hill,92.5,ok
+21010,Glen Iris (Vic.),22473,Taylors Hill,111.78,ok
+21013,Glen Waverley,22473,Taylors Hill,118.7,ok
+21047,Glenroy (Vic.),22473,Taylors Hill,106.38,ok
+21059,Goldie,22473,Taylors Hill,,no_eligible_route
+21079,Gowanbrae,22473,Taylors Hill,103.95,ok
+21087,Grangefields,22473,Taylors Hill,78.0,ok
+21104,Greensborough,22473,Taylors Hill,121.57,ok
+21105,Greenvale (Vic.),22473,Taylors Hill,134.07,ok
+21115,Gruyere,22473,Taylors Hill,,no_eligible_route
+21121,Guys Hill,22473,Taylors Hill,,no_eligible_route
+21124,Hadfield,22473,Taylors Hill,108.42,ok
+21125,Hallam,22473,Taylors Hill,135.55,ok
+21131,Hampton (Vic.),22473,Taylors Hill,116.43,ok
+21132,Hampton East,22473,Taylors Hill,107.73,ok
+21133,Hampton Park,22473,Taylors Hill,136.97,ok
+21139,Harkaway,22473,Taylors Hill,,no_eligible_route
+21140,Harkness,22473,Taylors Hill,127.53,ok
+21145,Hastings (Vic.),22473,Taylors Hill,,no_eligible_route
+21152,Hawthorn (Vic.),22473,Taylors Hill,95.33,ok
+21153,Hawthorn East,22473,Taylors Hill,97.82,ok
+21158,Healesville,22473,Taylors Hill,210.3,ok
+21159,Heath Hill,22473,Taylors Hill,,no_eligible_route
+21161,Heathcote Junction,22473,Taylors Hill,,no_eligible_route
+21163,Heatherton,22473,Taylors Hill,116.12,ok
+21165,Heathmont,22473,Taylors Hill,117.45,ok
+21167,Heidelberg,22473,Taylors Hill,113.37,ok
+21168,Heidelberg Heights,22473,Taylors Hill,113.37,ok
+21169,Heidelberg West,22473,Taylors Hill,117.55,ok
+21176,Hesket,22473,Taylors Hill,,no_eligible_route
+21185,Highett,22473,Taylors Hill,100.5,ok
+21193,Hillside (Melton - Vic.),22473,Taylors Hill,32.87,ok
+21195,Hmas Cerberus,22473,Taylors Hill,,no_eligible_route
+21196,Hoddles Creek,22473,Taylors Hill,,no_eligible_route
+21202,Hopetoun Park,22473,Taylors Hill,,no_eligible_route
+21203,Hoppers Crossing,22473,Taylors Hill,110.37,ok
+21214,Hughesdale,22473,Taylors Hill,92.58,ok
+21215,Humevale,22473,Taylors Hill,,no_eligible_route
+21218,Huntingdale (Vic.),22473,Taylors Hill,98.02,ok
+21223,Hurstbridge,22473,Taylors Hill,137.57,ok
+21238,Iona,22473,Taylors Hill,,no_eligible_route
+21246,Ivanhoe (Vic.),22473,Taylors Hill,99.3,ok
+21247,Ivanhoe East,22473,Taylors Hill,105.72,ok
+21248,Jacana,22473,Taylors Hill,108.53,ok
+21277,Junction Village,22473,Taylors Hill,175.77,ok
+21284,Kalkallo,22473,Taylors Hill,155.73,ok
+21286,Kallista,22473,Taylors Hill,187.73,ok
+21287,Kalorama,22473,Taylors Hill,154.0,ok
+21294,Kangaroo Ground,22473,Taylors Hill,171.55,ok
+21312,Kealba,22473,Taylors Hill,46.8,ok
+21314,Keilor,22473,Taylors Hill,59.83,ok
+21315,Keilor Downs,22473,Taylors Hill,44.18,ok
+21316,Keilor East,22473,Taylors Hill,73.6,ok
+21317,Keilor Lodge,22473,Taylors Hill,42.65,ok
+21318,Keilor North,22473,Taylors Hill,48.47,ok
+21319,Keilor Park,22473,Taylors Hill,59.98,ok
+21327,Kensington (Vic.),22473,Taylors Hill,70.9,ok
+21333,Kerrie,22473,Taylors Hill,,no_eligible_route
+21336,Kew (Vic.),22473,Taylors Hill,99.22,ok
+21337,Kew East,22473,Taylors Hill,103.25,ok
+21339,Keysborough,22473,Taylors Hill,128.15,ok
+21354,Kilsyth,22473,Taylors Hill,143.38,ok
+21355,Kilsyth South,22473,Taylors Hill,158.47,ok
+21358,Kinglake,22473,Taylors Hill,,no_eligible_route
+21359,Kinglake Central,22473,Taylors Hill,,no_eligible_route
+21360,Kinglake West,22473,Taylors Hill,,no_eligible_route
+21362,Kings Park (Vic.),22473,Taylors Hill,25.93,ok
+21363,Kingsbury,22473,Taylors Hill,129.65,ok
+21365,Kingsville,22473,Taylors Hill,60.12,ok
+21374,Knoxfield,22473,Taylors Hill,128.92,ok
+21380,Koo Wee Rup,22473,Taylors Hill,,no_eligible_route
+21381,Koo Wee Rup North,22473,Taylors Hill,,no_eligible_route
+21393,Kooyong,22473,Taylors Hill,92.47,ok
+21411,Kurunjang,22473,Taylors Hill,105.73,ok
+21452,Lalor,22473,Taylors Hill,120.73,ok
+21456,Lancefield,22473,Taylors Hill,,no_eligible_route
+21459,Lang Lang,22473,Taylors Hill,,no_eligible_route
+21460,Lang Lang East,22473,Taylors Hill,,no_eligible_route
+21467,Langwarrin,22473,Taylors Hill,160.32,ok
+21468,Langwarrin South,22473,Taylors Hill,,no_eligible_route
+21473,Launching Place,22473,Taylors Hill,,no_eligible_route
+21476,Laverton (Vic.),22473,Taylors Hill,85.38,ok
+21477,Laverton North,22473,Taylors Hill,101.57,ok
+21504,Lilydale (Vic.),22473,Taylors Hill,153.58,ok
+21533,Long Forest,22473,Taylors Hill,,no_eligible_route
+21547,Lower Plenty,22473,Taylors Hill,147.83,ok
+21554,Lynbrook,22473,Taylors Hill,123.8,ok
+21555,Lyndhurst (Vic.),22473,Taylors Hill,188.13,ok
+21558,Lysterfield,22473,Taylors Hill,,no_eligible_route
+21559,Lysterfield South,22473,Taylors Hill,182.52,ok
+21561,Macclesfield (Vic.),22473,Taylors Hill,,no_eligible_route
+21562,Macedon,22473,Taylors Hill,,no_eligible_route
+21564,Macleod (Vic.),22473,Taylors Hill,114.65,ok
+21569,Maddingley,22473,Taylors Hill,,no_eligible_route
+21575,Maidstone,22473,Taylors Hill,58.53,ok
+21578,Main Ridge,22473,Taylors Hill,,no_eligible_route
+21586,Malvern (Vic.),22473,Taylors Hill,90.93,ok
+21587,Malvern East,22473,Taylors Hill,99.92,ok
+21588,Mambourin,22473,Taylors Hill,,no_eligible_route
+21597,Manor Lakes,22473,Taylors Hill,138.85,ok
+21604,Maribyrnong,22473,Taylors Hill,66.55,ok
+21619,Maryknoll,22473,Taylors Hill,,no_eligible_route
+21625,McCrae,22473,Taylors Hill,214.78,ok
+21629,McKinnon,22473,Taylors Hill,89.8,ok
+21635,Meadow Heights,22473,Taylors Hill,125.83,ok
+21640,Melbourne,22473,Taylors Hill,72.4,ok
+21641,Melbourne Airport,22473,Taylors Hill,210.08,walk_only
+21642,Melton (Vic.),22473,Taylors Hill,105.92,ok
+21643,Melton South,22473,Taylors Hill,84.12,ok
+21644,Melton West,22473,Taylors Hill,100.92,ok
+21648,Mentone,22473,Taylors Hill,109.15,ok
+21649,Menzies Creek,22473,Taylors Hill,,no_eligible_route
+21659,Mernda,22473,Taylors Hill,163.52,ok
+21662,Merricks,22473,Taylors Hill,,no_eligible_route
+21663,Merricks Beach,22473,Taylors Hill,,no_eligible_route
+21664,Merricks North,22473,Taylors Hill,,no_eligible_route
+21668,Merrimu,22473,Taylors Hill,,no_eligible_route
+21675,Mickleham,22473,Taylors Hill,156.97,ok
+21677,Middle Park (Vic.),22473,Taylors Hill,93.93,ok
+21683,Mill Park,22473,Taylors Hill,145.7,ok
+21685,Millgrove,22473,Taylors Hill,,no_eligible_route
+21706,Mitcham (Vic.),22473,Taylors Hill,116.18,ok
+21727,Monbulk,22473,Taylors Hill,195.18,ok
+21728,Monegeetta,22473,Taylors Hill,,no_eligible_route
+21731,Monomeith,22473,Taylors Hill,,no_eligible_route
+21732,Mont Albert,22473,Taylors Hill,102.35,ok
+21733,Mont Albert North,22473,Taylors Hill,114.13,ok
+21735,Montmorency,22473,Taylors Hill,122.22,ok
+21736,Montrose (Vic.),22473,Taylors Hill,146.27,ok
+21742,Moonee Ponds,22473,Taylors Hill,79.25,ok
+21746,Moorabbin,22473,Taylors Hill,110.75,ok
+21747,Moorabbin Airport,22473,Taylors Hill,126.98,ok
+21754,Moorooduc,22473,Taylors Hill,,no_eligible_route
+21755,Mooroolbark,22473,Taylors Hill,136.23,ok
+21760,Mordialloc,22473,Taylors Hill,123.28,ok
+21763,Mornington (Vic.),22473,Taylors Hill,178.83,ok
+21779,Mount Burnett,22473,Taylors Hill,,no_eligible_route
+21786,Mount Cottrell,22473,Taylors Hill,,no_eligible_route
+21787,Mount Dandenong,22473,Taylors Hill,158.0,ok
+21793,Mount Eliza,22473,Taylors Hill,157.02,ok
+21795,Mount Evelyn,22473,Taylors Hill,162.17,ok
+21801,Mount Macedon,22473,Taylors Hill,,no_eligible_route
+21803,Mount Martha,22473,Taylors Hill,183.3,ok
+21814,Mount Toolebewong,22473,Taylors Hill,,no_eligible_route
+21816,Mount Waverley,22473,Taylors Hill,110.13,ok
+21827,Mulgrave (Vic.),22473,Taylors Hill,125.03,ok
+21849,Murrumbeena,22473,Taylors Hill,92.7,ok
+21872,Nangana,22473,Taylors Hill,,no_eligible_route
+21878,Nar Nar Goon,22473,Taylors Hill,,no_eligible_route
+21879,Nar Nar Goon North,22473,Taylors Hill,,no_eligible_route
+21893,Narre Warren,22473,Taylors Hill,132.53,ok
+21894,Narre Warren East,22473,Taylors Hill,,no_eligible_route
+21895,Narre Warren North,22473,Taylors Hill,154.55,ok
+21896,Narre Warren South,22473,Taylors Hill,138.35,ok
+21921,New Gisborne,22473,Taylors Hill,,no_eligible_route
+21934,Newport (Vic.),22473,Taylors Hill,70.23,ok
+21942,Niddrie,22473,Taylors Hill,77.02,ok
+21952,Noble Park,22473,Taylors Hill,104.8,ok
+21953,Noble Park North,22473,Taylors Hill,137.98,ok
+21966,North Melbourne,22473,Taylors Hill,63.93,ok
+21969,North Warrandyte,22473,Taylors Hill,159.53,ok
+21971,Northcote,22473,Taylors Hill,102.18,ok
+21974,Notting Hill,22473,Taylors Hill,112.55,ok
+21985,Nunawading,22473,Taylors Hill,108.67,ok
+21991,Nutfield,22473,Taylors Hill,,no_eligible_route
+21998,Oak Park,22473,Taylors Hill,100.62,ok
+21999,Oaklands Junction,22473,Taylors Hill,,no_eligible_route
+22000,Oakleigh,22473,Taylors Hill,95.25,ok
+22001,Oakleigh East,22473,Taylors Hill,106.58,ok
+22002,Oakleigh South,22473,Taylors Hill,104.4,ok
+22006,Officer,22473,Taylors Hill,150.08,ok
+22007,Officer South,22473,Taylors Hill,190.65,ok
+22009,Olinda (Vic.),22473,Taylors Hill,182.65,ok
+22016,Ormond,22473,Taylors Hill,90.23,ok
+22027,Pakenham,22473,Taylors Hill,147.0,ok
+22028,Pakenham South,22473,Taylors Hill,,no_eligible_route
+22029,Pakenham Upper,22473,Taylors Hill,,no_eligible_route
+22032,Panton Hill,22473,Taylors Hill,,no_eligible_route
+22036,Park Orchards,22473,Taylors Hill,141.27,ok
+22037,Parkdale,22473,Taylors Hill,115.57,ok
+22038,Parkville (Vic.),22473,Taylors Hill,76.52,ok
+22041,Pascoe Vale,22473,Taylors Hill,104.98,ok
+22042,Pascoe Vale South,22473,Taylors Hill,97.1,ok
+22047,Patterson Lakes,22473,Taylors Hill,146.33,ok
+22050,Pearcedale,22473,Taylors Hill,185.95,ok
+22058,Pentland Hills,22473,Taylors Hill,,no_eligible_route
+22064,Pheasant Creek (Vic.),22473,Taylors Hill,,no_eligible_route
+22084,Plenty (Vic.),22473,Taylors Hill,146.53,ok
+22085,Plumpton (Vic.),22473,Taylors Hill,187.9,walk_only
+22086,Point Cook,22473,Taylors Hill,101.62,ok
+22087,Point Leo,22473,Taylors Hill,,no_eligible_route
+22107,Port Melbourne,22473,Taylors Hill,91.98,ok
+22113,Portsea,22473,Taylors Hill,,no_eligible_route
+22115,Powelltown,22473,Taylors Hill,,no_eligible_route
+22118,Prahran,22473,Taylors Hill,85.3,ok
+22121,Preston (Vic.),22473,Taylors Hill,114.4,ok
+22122,Princes Hill,22473,Taylors Hill,83.67,ok
+22132,Quandong,22473,Taylors Hill,,no_eligible_route
+22141,Ravenhall,22473,Taylors Hill,44.17,ok
+22148,Red Hill (Vic.),22473,Taylors Hill,,no_eligible_route
+22149,Red Hill South,22473,Taylors Hill,,no_eligible_route
+22160,Research,22473,Taylors Hill,151.88,ok
+22161,Reservoir (Vic.),22473,Taylors Hill,117.55,ok
+22170,Richmond (Vic.),22473,Taylors Hill,87.83,ok
+22172,Riddells Creek,22473,Taylors Hill,,no_eligible_route
+22174,Ringwood (Vic.),22473,Taylors Hill,122.82,ok
+22175,Ringwood East,22473,Taylors Hill,122.37,ok
+22176,Ringwood North,22473,Taylors Hill,136.0,ok
+22179,Ripponlea,22473,Taylors Hill,95.35,ok
+22185,Rochford,22473,Taylors Hill,,no_eligible_route
+22186,Rockbank,22473,Taylors Hill,52.27,ok
+22193,Romsey,22473,Taylors Hill,,no_eligible_route
+22194,Rosanna,22473,Taylors Hill,109.12,ok
+22198,Rosebud,22473,Taylors Hill,232.1,ok
+22207,Rowville,22473,Taylors Hill,137.6,ok
+22208,Roxburgh Park,22473,Taylors Hill,118.23,ok
+22220,Rye,22473,Taylors Hill,244.3,ok
+22221,Rythdale,22473,Taylors Hill,,no_eligible_route
+22222,Safety Beach (Vic.),22473,Taylors Hill,199.27,ok
+22232,Sandhurst,22473,Taylors Hill,168.17,ok
+22234,Sandringham (Vic.),22473,Taylors Hill,123.05,ok
+22239,Sassafras (Vic.),22473,Taylors Hill,167.07,ok
+22242,Scoresby,22473,Taylors Hill,125.57,ok
+22247,Seabrook,22473,Taylors Hill,99.95,ok
+22249,Seaford (Vic.),22473,Taylors Hill,141.1,ok
+22250,Seaholme,22473,Taylors Hill,78.08,ok
+22256,Seddon (Vic.),22473,Taylors Hill,54.82,ok
+22258,Selby,22473,Taylors Hill,172.87,ok
+22263,Seville,22473,Taylors Hill,,no_eligible_route
+22264,Seville East,22473,Taylors Hill,,no_eligible_route
+22278,Sherbrooke,22473,Taylors Hill,177.8,ok
+22279,Shoreham,22473,Taylors Hill,,no_eligible_route
+22281,Silvan,22473,Taylors Hill,187.28,ok
+22291,Skye (Vic.),22473,Taylors Hill,161.88,ok
+22295,Smiths Gully,22473,Taylors Hill,,no_eligible_route
+22303,Somers,22473,Taylors Hill,,no_eligible_route
+22304,Somerton (Vic.),22473,Taylors Hill,122.6,ok
+22305,Somerville (Vic.),22473,Taylors Hill,,no_eligible_route
+22306,Sorrento (Vic.),22473,Taylors Hill,235.07,ok
+22309,South Kingsville,22473,Taylors Hill,80.53,ok
+22310,South Melbourne,22473,Taylors Hill,83.7,ok
+22311,South Morang,22473,Taylors Hill,150.68,ok
+22313,South Wharf,22473,Taylors Hill,84.7,ok
+22314,South Yarra,22473,Taylors Hill,78.87,ok
+22315,Southbank,22473,Taylors Hill,79.27,ok
+22319,Spotswood,22473,Taylors Hill,68.63,ok
+22325,Springfield (Macedon Ranges - Vic.),22473,Taylors Hill,,no_eligible_route
+22328,Springvale (Vic.),22473,Taylors Hill,105.77,ok
+22329,Springvale South,22473,Taylors Hill,108.5,ok
+22330,St Albans (Vic.),22473,Taylors Hill,37.82,ok
+22332,St Andrews (Vic.),22473,Taylors Hill,,no_eligible_route
+22333,St Andrews Beach,22473,Taylors Hill,,no_eligible_route
+22339,St Helena,22473,Taylors Hill,136.43,ok
+22343,St Kilda (Vic.),22473,Taylors Hill,91.6,ok
+22344,St Kilda East,22473,Taylors Hill,97.38,ok
+22345,St Kilda West,22473,Taylors Hill,89.58,ok
+22355,Steels Creek,22473,Taylors Hill,,no_eligible_route
+22375,Strathewen,22473,Taylors Hill,,no_eligible_route
+22380,Strathmore (Vic.),22473,Taylors Hill,106.57,ok
+22381,Strathmore Heights,22473,Taylors Hill,88.25,ok
+22382,Strathtulloh,22473,Taylors Hill,138.93,ok
+22391,Sunbury,22473,Taylors Hill,83.6,ok
+22395,Sunshine (Vic.),22473,Taylors Hill,42.1,ok
+22396,Sunshine North,22473,Taylors Hill,64.33,ok
+22397,Sunshine West,22473,Taylors Hill,66.45,ok
+22399,Surrey Hills,22473,Taylors Hill,102.77,ok
+22414,Sydenham (Vic.),22473,Taylors Hill,24.97,ok
+22451,Tarneit,22473,Taylors Hill,108.35,ok
+22457,Tarrawarra,22473,Taylors Hill,185.9,ok
+22473,Taylors Hill,22473,Taylors Hill,0.0,same_centroid
+22474,Taylors Lakes,22473,Taylors Hill,23.13,ok
+22476,Tecoma,22473,Taylors Hill,137.27,ok
+22483,Templestowe,22473,Taylors Hill,118.55,ok
+22484,Templestowe Lower,22473,Taylors Hill,115.52,ok
+22496,The Basin (Vic.),22473,Taylors Hill,158.2,ok
+22501,The Patch,22473,Taylors Hill,185.75,ok
+22504,Thomastown,22473,Taylors Hill,126.03,ok
+22508,Thornbury,22473,Taylors Hill,102.15,ok
+22509,Thornhill Park,22473,Taylors Hill,158.02,ok
+22514,Three Bridges,22473,Taylors Hill,,no_eligible_route
+22531,Tonimbuk,22473,Taylors Hill,,no_eligible_route
+22536,Toolangi,22473,Taylors Hill,,no_eligible_route
+22537,Toolern Vale,22473,Taylors Hill,,no_eligible_route
+22546,Tooradin,22473,Taylors Hill,,no_eligible_route
+22547,Toorak,22473,Taylors Hill,96.92,ok
+22550,Tootgarook,22473,Taylors Hill,227.72,ok
+22556,Tottenham (Vic.),22473,Taylors Hill,76.53,ok
+22572,Travancore,22473,Taylors Hill,82.05,ok
+22576,Tremont,22473,Taylors Hill,154.87,ok
+22582,Truganina,22473,Taylors Hill,114.25,ok
+22584,Tuerong,22473,Taylors Hill,,no_eligible_route
+22586,Tullamarine,22473,Taylors Hill,95.23,ok
+22594,Tyabb,22473,Taylors Hill,,no_eligible_route
+22598,Tynong,22473,Taylors Hill,,no_eligible_route
+22599,Tynong North,22473,Taylors Hill,,no_eligible_route
+22614,Upper Ferntree Gully,22473,Taylors Hill,134.42,ok
+22617,Upper Plenty,22473,Taylors Hill,,no_eligible_route
+22620,Upwey,22473,Taylors Hill,137.13,ok
+22627,Vermont,22473,Taylors Hill,126.23,ok
+22628,Vermont South,22473,Taylors Hill,133.8,ok
+22629,Vervale,22473,Taylors Hill,,no_eligible_route
+22633,Viewbank,22473,Taylors Hill,126.87,ok
+22661,Wallan,22473,Taylors Hill,,no_eligible_route
+22672,Wandin East,22473,Taylors Hill,,no_eligible_route
+22673,Wandin North,22473,Taylors Hill,,no_eligible_route
+22676,Wandong,22473,Taylors Hill,,no_eligible_route
+22685,Wantirna,22473,Taylors Hill,139.17,ok
+22686,Wantirna South,22473,Taylors Hill,143.87,ok
+22689,Warburton (Vic.),22473,Taylors Hill,,no_eligible_route
+22695,Warneet,22473,Taylors Hill,,no_eligible_route
+22702,Warrandyte,22473,Taylors Hill,127.33,ok
+22703,Warrandyte South,22473,Taylors Hill,169.05,ok
+22704,Warranwood,22473,Taylors Hill,146.37,ok
+22717,Waterford Park,22473,Taylors Hill,,no_eligible_route
+22720,Waterways,22473,Taylors Hill,130.93,ok
+22721,Watsonia,22473,Taylors Hill,109.57,ok
+22722,Watsonia North,22473,Taylors Hill,132.77,ok
+22723,Watsons Creek (Vic.),22473,Taylors Hill,,no_eligible_route
+22727,Wattle Glen,22473,Taylors Hill,141.32,ok
+22740,Weir Views,22473,Taylors Hill,107.2,ok
+22750,Werribee,22473,Taylors Hill,96.42,ok
+22751,Werribee South,22473,Taylors Hill,149.18,ok
+22753,Wesburn,22473,Taylors Hill,,no_eligible_route
+22756,West Footscray,22473,Taylors Hill,53.27,ok
+22757,West Melbourne,22473,Taylors Hill,83.25,ok
+22761,Westmeadows,22473,Taylors Hill,104.42,ok
+22766,Wheelers Hill,22473,Taylors Hill,117.0,ok
+22775,Whittlesea,22473,Taylors Hill,,no_eligible_route
+22784,Wildwood,22473,Taylors Hill,,no_eligible_route
+22791,Williams Landing,22473,Taylors Hill,99.63,ok
+22792,Williamstown (Vic.),22473,Taylors Hill,78.57,ok
+22793,Williamstown North,22473,Taylors Hill,86.93,ok
+22805,Windsor (Vic.),22473,Taylors Hill,92.02,ok
+22820,Wollert,22473,Taylors Hill,151.25,ok
+22825,Wonga Park,22473,Taylors Hill,187.4,ok
+22843,Woodstock (Vic.),22473,Taylors Hill,,no_eligible_route
+22857,Woori Yallock,22473,Taylors Hill,,no_eligible_route
+22883,Wyndham Vale,22473,Taylors Hill,133.17,ok
+22892,Yallambie,22473,Taylors Hill,131.6,ok
+22898,Yan Yean,22473,Taylors Hill,177.23,ok
+22906,Yannathan,22473,Taylors Hill,,no_eligible_route
+22910,Yarra Glen,22473,Taylors Hill,183.2,ok
+22911,Yarra Junction,22473,Taylors Hill,,no_eligible_route
+22916,Yarrambat,22473,Taylors Hill,147.72,ok
+22917,Yarraville,22473,Taylors Hill,70.7,ok
+22925,Yellingbo,22473,Taylors Hill,,no_eligible_route
+22930,Yering,22473,Taylors Hill,,no_eligible_route
+22941,Yuroke,22473,Taylors Hill,175.6,ok
