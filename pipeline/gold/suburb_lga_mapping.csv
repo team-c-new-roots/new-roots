@@ -1,0 +1,1054 @@
+suburb_id,suburb_name,lga_name,lga_weighting
+20002,Abbotsford (Vic.),Yarra,0.9999999999996481
+20002,Abbotsford (Vic.),Boroondara,3.5194973094417403e-13
+20003,Aberfeldie,Moonee Valley,0.9999999999999463
+20003,Aberfeldie,Maribyrnong,5.3683767385608225e-14
+20011,Aintree,Melton,1.0
+20015,Airport West,Moonee Valley,0.9999999999999806
+20015,Airport West,Brimbank,1.944763598955794e-14
+20017,Albanvale,Brimbank,0.9999999999999608
+20017,Albanvale,Melton,3.918265377589396e-14
+20018,Albert Park (Vic.),Port Phillip,1.0
+20021,Albion (Vic.),Brimbank,1.0
+20034,Alphington,Yarra,0.5175046846441814
+20034,Alphington,Darebin,0.48249531535553275
+20034,Alphington,Banyule,1.6102563713696283e-13
+20034,Alphington,Boroondara,1.2483033261246472e-13
+20035,Altona (Vic.),Hobsons Bay,0.9999999999999941
+20035,Altona (Vic.),Wyndham,5.881941384423708e-15
+20036,Altona Meadows,Hobsons Bay,0.999999999999954
+20036,Altona Meadows,Wyndham,4.5974576611667923e-14
+20037,Altona North,Hobsons Bay,0.9999999999999625
+20037,Altona North,Wyndham,3.7521521809877224e-14
+20062,Ardeer,Brimbank,1.0
+20066,Armadale (Vic.),Stonnington,0.9999999999999453
+20066,Armadale (Vic.),Glen Eira,5.483160401728527e-14
+20071,Arthurs Creek,Nillumbik,0.999999999999997
+20071,Arthurs Creek,Whittlesea,3.0472736947617597e-15
+20072,Arthurs Seat,Mornington Penin'a,1.0
+20075,Ascot Vale,Moonee Valley,0.9999999999999161
+20075,Ascot Vale,Merri-bek,4.514930732620758e-14
+20075,Ascot Vale,Maribyrnong,1.9682060896000604e-14
+20075,Ascot Vale,Melbourne,1.910866971326833e-14
+20077,Ashburton,Boroondara,0.9999999999998781
+20077,Ashburton,Stonnington,6.112397538255928e-14
+20077,Ashburton,Monash,6.081791644358024e-14
+20078,Ashwood,Monash,0.9999999999999856
+20078,Ashwood,Boroondara,1.1135395071776085e-14
+20078,Ashwood,Stonnington,3.262027051951828e-15
+20079,Aspendale,Kingston,1.0
+20080,Aspendale Gardens,Kingston,0.9999999999999853
+20080,Aspendale Gardens,Greater Dandenong,1.460433903272784e-14
+20082,Attwood,Hume,1.0
+20089,Avondale Heights,Moonee Valley,0.999999999999896
+20089,Avondale Heights,Maribyrnong,6.677680605783903e-14
+20089,Avondale Heights,Brimbank,3.722437898130539e-14
+20091,Avonsleigh,Cardinia,0.9999999999999699
+20091,Avonsleigh,Yarra Ranges,3.004700586670867e-14
+20095,Bacchus Marsh,Moorabool,1.0
+20097,Badger Creek,Yarra Ranges,1.0
+20105,Balaclava (Vic.),Port Phillip,0.9999999999999641
+20105,Balaclava (Vic.),Glen Eira,3.5891145072060993e-14
+20120,Balnarring,Mornington Penin'a,1.0
+20121,Balnarring Beach,Mornington Penin'a,1.0
+20123,Balwyn,Boroondara,0.9999999999999928
+20123,Balwyn,Whitehorse,7.208511836013223e-15
+20124,Balwyn North,Boroondara,0.9909853731718458
+20124,Balwyn North,Whitehorse,0.00901462682810278
+20124,Balwyn North,Manningham,4.041883636971458e-14
+20124,Balwyn North,Banyule,1.1014962846158231e-14
+20131,Bangholme,Greater Dandenong,0.9999999999999892
+20131,Bangholme,Kingston,1.082537268794451e-14
+20169,Baxter,Mornington Penin'a,0.9999999999999643
+20169,Baxter,Frankston,3.569949597637504e-14
+20171,Bayles,Cardinia,1.0
+20173,Bayswater (Vic.),Knox,0.9999999999999015
+20173,Bayswater (Vic.),Maroondah,9.854717889028711e-14
+20174,Bayswater North,Maroondah,0.999999999999976
+20174,Bayswater North,Knox,2.4000720949666053e-14
+20175,Beaconsfield (Vic.),Cardinia,0.9419210349244296
+20175,Beaconsfield (Vic.),Casey,0.058078965075570387
+20176,Beaconsfield Upper,Cardinia,0.9999999999999809
+20176,Beaconsfield Upper,Casey,1.141307774569297e-14
+20176,Beaconsfield Upper,Yarra Ranges,7.708933091804296e-15
+20182,Beaumaris (Vic.),Bayside,0.9999999999999396
+20182,Beaumaris (Vic.),Kingston,6.04453907071626e-14
+20187,Beenak,Yarra Ranges,0.9999999999999488
+20187,Beenak,Cardinia,5.116721465153075e-14
+20188,Belgrave,Yarra Ranges,1.0
+20189,Belgrave Heights,Yarra Ranges,1.0
+20190,Belgrave South,Yarra Ranges,0.9999999999999981
+20190,Belgrave South,Cardinia,1.962403775062113e-15
+20198,Bellfield (Banyule - Vic.),Banyule,0.9999999999998715
+20198,Bellfield (Banyule - Vic.),Darebin,1.2842700816214063e-13
+20207,Bend Of Islands,Nillumbik,0.9999999999998761
+20207,Bend Of Islands,Manningham,1.239211305990278e-13
+20212,Benloch,Macedon Ranges,0.9999999999999413
+20212,Benloch,Mitchell,5.876008129093104e-14
+20214,Bentleigh,Glen Eira,0.999999999999986
+20214,Bentleigh,Bayside,1.3924047693023728e-14
+20214,Bentleigh,Kingston,1.1341302963480555e-16
+20215,Bentleigh East,Glen Eira,0.9999999999999174
+20215,Bentleigh East,Kingston,4.8674241074674346e-14
+20215,Bentleigh East,Monash,3.400553774984226e-14
+20224,Berwick,Casey,0.999999999999968
+20224,Berwick,Cardinia,3.199850185709907e-14
+20233,Beveridge,Mitchell,0.657908745816069
+20233,Beveridge,Whittlesea,0.34209125418390607
+20233,Beveridge,Macedon Ranges,1.465177553708472e-14
+20233,Beveridge,Hume,1.028682179460324e-14
+20237,Big Pats Creek,Yarra Ranges,1.0
+20248,Bittern,Mornington Penin'a,1.0
+20251,Black Rock (Vic.),Bayside,1.0
+20252,Blackburn,Whitehorse,1.0
+20253,Blackburn North,Whitehorse,0.999999999999796
+20253,Blackburn North,Manningham,2.0397430358644533e-13
+20254,Blackburn South,Whitehorse,1.0
+20257,Blairgowrie,Mornington Penin'a,1.0
+20260,Blind Bight,Casey,1.0
+20272,Bolinda,Macedon Ranges,1.0
+20278,Bonbeach,Kingston,1.0
+20280,Boneo,Mornington Penin'a,1.0
+20282,Bonnie Brook,Melton,1.0
+20304,Boronia,Knox,0.999999999999983
+20304,Boronia,Maroondah,1.2095068002743002e-14
+20304,Boronia,Yarra Ranges,4.849890928573598e-15
+20307,Botanic Ridge,Casey,1.0
+20314,Box Hill (Vic.),Whitehorse,1.0
+20315,Box Hill North,Whitehorse,0.9999999999998902
+20315,Box Hill North,Manningham,1.0973962139947528e-13
+20316,Box Hill South,Whitehorse,1.0
+20320,Braeside,Kingston,0.9999999999999516
+20320,Braeside,Greater Dandenong,4.843296246118651e-14
+20324,Braybrook,Maribyrnong,0.9999999999999248
+20324,Braybrook,Moonee Valley,5.814924126388488e-14
+20324,Braybrook,Brimbank,1.698476041183238e-14
+20331,Briar Hill,Banyule,0.999999999999902
+20331,Briar Hill,Nillumbik,9.806662375688492e-14
+20337,Brighton (Vic.),Bayside,0.9999999999999175
+20337,Brighton (Vic.),Glen Eira,5.952088824599542e-14
+20337,Brighton (Vic.),Port Phillip,2.2886961132521108e-14
+20338,Brighton East,Bayside,0.986402505997653
+20338,Brighton East,Glen Eira,0.013597494002347077
+20346,Broadmeadows (Vic.),Hume,0.9999999999999771
+20346,Broadmeadows (Vic.),Merri-bek,2.288421586034303e-14
+20351,Brookfield (Vic.),Melton,0.9999999999999913
+20351,Brookfield (Vic.),Moorabool,8.63010121093561e-15
+20352,Brooklyn (Vic.),Brimbank,0.606601140142557
+20352,Brooklyn (Vic.),Hobsons Bay,0.39339885985732104
+20352,Brooklyn (Vic.),Maribyrnong,1.0163049734449106e-13
+20352,Brooklyn (Vic.),Wyndham,2.048208219828621e-14
+20361,Brunswick (Vic.),Merri-bek,1.0
+20361,Brunswick (Vic.),Melbourne,8.483114593551837e-17
+20362,Brunswick East,Merri-bek,0.9999999999997843
+20362,Brunswick East,Darebin,1.8099102653739787e-13
+20362,Brunswick East,Yarra,3.487103763916333e-14
+20363,Brunswick West,Merri-bek,0.9999999999999448
+20363,Brunswick West,Moonee Valley,5.452893240417334e-14
+20363,Brunswick West,Melbourne,5.560972117820941e-16
+20381,Bulla (Vic.),Hume,0.9999999999999953
+20381,Bulla (Vic.),Brimbank,4.6585763195092646e-15
+20386,Bulleen,Manningham,0.999999999999826
+20386,Bulleen,Banyule,1.177620960685906e-13
+20386,Bulleen,Boroondara,5.6239590262172886e-14
+20387,Bullengarook,Macedon Ranges,0.9999999999999809
+20387,Bullengarook,Moorabool,1.9102850875546902e-14
+20399,Bundoora (Vic.),Whittlesea,0.4222060910493364
+20399,Bundoora (Vic.),Darebin,0.34394996248303117
+20399,Bundoora (Vic.),Banyule,0.23384394646757173
+20399,Bundoora (Vic.),Nillumbik,6.083213304170448e-14
+20411,Bunyip,Cardinia,0.9999999999999741
+20411,Bunyip,Baw Baw,2.5809785665709965e-14
+20412,Bunyip North,Cardinia,0.9999999999999715
+20412,Bunyip North,Baw Baw,2.8530432798071415e-14
+20418,Burnley,Yarra,0.9999999999996093
+20418,Burnley,Boroondara,2.7418814214591474e-13
+20418,Burnley,Stonnington,1.1653388164490892e-13
+20419,Burnside (Vic.),Melton,0.9999999999999208
+20419,Burnside (Vic.),Brimbank,7.908470503165445e-14
+20420,Burnside Heights,Melton,0.9999999999998103
+20420,Burnside Heights,Brimbank,1.8968700081585793e-13
+20426,Burwood (Vic.),Whitehorse,0.828470766816271
+20426,Burwood (Vic.),Monash,0.1715292331837213
+20426,Burwood (Vic.),Boroondara,7.718390473791408e-15
+20427,Burwood East,Whitehorse,1.0
+20427,Burwood East,Monash,5.735663423877478e-17
+20435,Bylands,Mitchell,0.7230111375684017
+20435,Bylands,Macedon Ranges,0.27698886243159837
+20441,Cairnlea,Brimbank,1.0
+20442,Calder Park,Brimbank,0.999999999999992
+20442,Calder Park,Melton,7.37616291411569e-15
+20442,Calder Park,Hume,5.537538571749192e-16
+20443,Caldermeade,Cardinia,1.0
+20453,Camberwell (Vic.),Boroondara,0.9999999999999875
+20453,Camberwell (Vic.),Whitehorse,1.254933492174789e-14
+20455,Campbellfield,Hume,0.9999999999999253
+20455,Campbellfield,Whittlesea,7.473709109674865e-14
+20466,Cannons Creek,Casey,1.0
+20468,Canterbury (Vic.),Boroondara,1.0
+20474,Cape Schanck,Mornington Penin'a,1.0
+20476,Capel Sound,Mornington Penin'a,1.0
+20487,Cardinia,Cardinia,0.9999999999999977
+20487,Cardinia,Casey,2.3529516441539035e-15
+20495,Carlton (Vic.),Melbourne,0.9999999999999024
+20495,Carlton (Vic.),Yarra,9.766951492190218e-14
+20496,Carlton North,Yarra,0.5119562912434
+20496,Carlton North,Melbourne,0.48804370875655073
+20496,Carlton North,Merri-bek,4.924566486030852e-14
+20498,Carnegie,Glen Eira,0.9999999999999017
+20498,Carnegie,Stonnington,9.822932303721558e-14
+20500,Caroline Springs,Melton,1.0
+20507,Carrum,Kingston,0.9999999999999252
+20507,Carrum,Frankston,7.486273714215587e-14
+20508,Carrum Downs,Frankston,0.9999999999999643
+20508,Carrum Downs,Greater Dandenong,2.2028238205416073e-14
+20508,Carrum Downs,Kingston,1.366310912816087e-14
+20512,Castella,Murrindindi,0.9999999999999626
+20512,Castella,Yarra Ranges,3.735613370036247e-14
+20517,Catani,Cardinia,0.9999999999999937
+20517,Catani,Baw Baw,6.346918031927575e-15
+20521,Caulfield,Glen Eira,1.0
+20522,Caulfield East,Glen Eira,0.9999999999998392
+20522,Caulfield East,Stonnington,1.6072108279240777e-13
+20523,Caulfield North,Glen Eira,0.9999999999999202
+20523,Caulfield North,Stonnington,7.540238834861527e-14
+20523,Caulfield North,Port Phillip,4.478504964719474e-15
+20524,Caulfield South,Glen Eira,1.0
+20528,Chadstone,Monash,0.999999999999989
+20528,Chadstone,Stonnington,1.1049650903884061e-14
+20537,Chelsea,Kingston,1.0
+20538,Chelsea Heights,Kingston,0.999999999999998
+20538,Chelsea Heights,Greater Dandenong,2.009323423606351e-15
+20539,Cheltenham (Vic.),Kingston,0.682980206835308
+20539,Cheltenham (Vic.),Bayside,0.31701979316469203
+20541,Cherokee,Macedon Ranges,1.0
+20555,Chintin,Macedon Ranges,1.0
+20556,Chirnside Park,Yarra Ranges,0.9999999999999714
+20556,Chirnside Park,Nillumbik,1.6688143979971897e-14
+20556,Chirnside Park,Maroondah,9.681176182555421e-15
+20556,Chirnside Park,Manningham,2.2934965980811784e-15
+20559,Christmas Hills (Vic.),Nillumbik,0.999999999999963
+20559,Christmas Hills (Vic.),Yarra Ranges,3.663699770713876e-14
+20559,Christmas Hills (Vic.),Manningham,2.5602672978591773e-16
+20560,Chum Creek,Yarra Ranges,1.0
+20566,Clarinda,Kingston,0.9999999999999399
+20566,Clarinda,Monash,6.016483272299975e-14
+20567,Clarkefield,Macedon Ranges,0.8295343090960653
+20567,Clarkefield,Hume,0.17046569090392616
+20567,Clarkefield,Mitchell,8.531031610659188e-15
+20569,Clayton,Monash,0.9999999999999835
+20569,Clayton,Kingston,1.1393503151225366e-14
+20569,Clayton,Greater Dandenong,5.2029980276076735e-15
+20570,Clayton South,Kingston,0.9999999999999031
+20570,Clayton South,Monash,9.15648145903231e-14
+20570,Clayton South,Greater Dandenong,5.4520616274935824e-15
+20572,Clematis,Cardinia,0.9999999999998717
+20572,Clematis,Yarra Ranges,1.283176576771263e-13
+20574,Clifton Hill,Yarra,0.9999999999999174
+20574,Clifton Hill,Darebin,8.263257530445575e-14
+20576,Clonbinane,Mitchell,0.9999999999999878
+20576,Clonbinane,Murrindindi,8.370202339689796e-15
+20576,Clonbinane,Whittlesea,3.874079072642206e-15
+20581,Clyde (Vic.),Casey,0.9999999999999079
+20581,Clyde (Vic.),Cardinia,9.213666890125001e-14
+20582,Clyde North,Casey,0.9999999999999607
+20582,Clyde North,Cardinia,3.926624677398672e-14
+20587,Cobaw,Macedon Ranges,1.0
+20590,Cobblebank,Melton,1.0
+20596,Coburg,Merri-bek,0.9999999999999019
+20596,Coburg,Darebin,9.815306793085707e-14
+20597,Coburg North,Merri-bek,0.9999999999999049
+20597,Coburg North,Darebin,9.520525857870177e-14
+20600,Cockatoo (Vic.),Cardinia,0.9999999999999944
+20600,Cockatoo (Vic.),Yarra Ranges,5.569861339484433e-15
+20601,Cocoroc,Wyndham,0.9999999999999934
+20601,Cocoroc,Greater Geelong,6.554448517504518e-15
+20605,Coimadai,Moorabool,0.9999999999999312
+20605,Coimadai,Macedon Ranges,5.150762646969923e-14
+20605,Coimadai,Melton,1.7267407270597868e-14
+20613,Coldstream (Vic.),Yarra Ranges,0.9999999999999966
+20613,Coldstream (Vic.),Nillumbik,3.440279796577967e-15
+20616,Collingwood (Vic.),Yarra,0.999999999999968
+20616,Collingwood (Vic.),Melbourne,3.193427509919144e-14
+20624,Coolaroo,Hume,1.0
+20633,Cora Lynn,Cardinia,1.0
+20654,Cottles Bridge,Nillumbik,1.0
+20661,Craigieburn,Hume,0.9999999999999541
+20661,Craigieburn,Whittlesea,4.5810232176870565e-14
+20662,Cranbourne,Casey,1.0
+20663,Cranbourne East,Casey,1.0
+20664,Cranbourne North,Casey,1.0
+20665,Cranbourne South,Casey,0.999999999999994
+20665,Cranbourne South,Frankston,6.000888343156641e-15
+20666,Cranbourne West,Casey,0.9999999999999973
+20666,Cranbourne West,Frankston,2.6725162514631482e-15
+20670,Cremorne (Vic.),Yarra,0.99999999999979
+20670,Cremorne (Vic.),Stonnington,2.100556805650994e-13
+20674,Crib Point,Mornington Penin'a,1.0
+20682,Croydon (Vic.),Maroondah,0.9999999999999564
+20682,Croydon (Vic.),Yarra Ranges,4.360269163518281e-14
+20683,Croydon Hills,Maroondah,0.9999999999999759
+20683,Croydon Hills,Manningham,2.417700175979341e-14
+20684,Croydon North,Maroondah,0.999999999999862
+20684,Croydon North,Manningham,1.3567146393132778e-13
+20684,Croydon North,Yarra Ranges,2.312871307692967e-15
+20685,Croydon South,Maroondah,1.0
+20702,Dallas,Hume,1.0
+20703,Dalmore,Cardinia,0.9999999999999895
+20703,Dalmore,Casey,1.061015663548479e-14
+20707,Dandenong,Greater Dandenong,0.9999999999999524
+20707,Dandenong,Casey,4.764463910413268e-14
+20708,Dandenong North,Greater Dandenong,0.9999999999999024
+20708,Dandenong North,Casey,3.4586140200917245e-14
+20708,Dandenong North,Monash,3.150999881094612e-14
+20708,Dandenong North,Knox,3.139869408932039e-14
+20709,Dandenong South,Greater Dandenong,0.9999999999999724
+20709,Dandenong South,Casey,2.764443590411258e-14
+20712,Darley,Moorabool,1.0
+20716,Darraweit Guim,Macedon Ranges,0.9999999999999482
+20716,Darraweit Guim,Mitchell,5.179508061207105e-14
+20724,Deanside,Melton,1.0
+20728,Deepdene (Vic.),Boroondara,1.0
+20729,Deer Park,Brimbank,0.9999999999999974
+20729,Deer Park,Melton,2.6192892209964885e-15
+20731,Delahey,Brimbank,0.9999999999999937
+20731,Delahey,Melton,6.433514932812157e-15
+20743,Derrimut,Brimbank,0.9999999999999404
+20743,Derrimut,Wyndham,5.3913335984728826e-14
+20743,Derrimut,Melton,5.687599771480522e-15
+20748,Devon Meadows,Casey,1.0
+20750,Dewhurst,Cardinia,1.0
+20752,Diamond Creek,Nillumbik,0.9999999999999998
+20752,Diamond Creek,Banyule,2.432867097134924e-16
+20754,Diggers Rest,Melton,0.7659395974068859
+20754,Diggers Rest,Hume,0.23406040259311417
+20754,Diggers Rest,Brimbank,9.145037737769225e-17
+20758,Dingley Village,Kingston,0.9999999999999613
+20758,Dingley Village,Greater Dandenong,3.872143990267837e-14
+20762,Dixons Creek,Yarra Ranges,0.9999999999999927
+20762,Dixons Creek,Murrindindi,7.367448922023226e-15
+20766,Docklands,Melbourne,0.9999999999999747
+20766,Docklands,Port Phillip,2.5253098812033322e-14
+20769,Don Valley,Yarra Ranges,1.0
+20771,Doncaster,Manningham,0.9999999999999771
+20771,Doncaster,Whitehorse,1.5139342985173508e-14
+20771,Doncaster,Boroondara,7.58565250310528e-15
+20772,Doncaster East,Manningham,0.9999999999999803
+20772,Doncaster East,Whitehorse,1.9663556850241316e-14
+20773,Donnybrook (Vic.),Whittlesea,0.9999999999999477
+20773,Donnybrook (Vic.),Mitchell,3.170598783402289e-14
+20773,Donnybrook (Vic.),Hume,2.0554697048538155e-14
+20774,Donvale,Manningham,0.999999999999981
+20774,Donvale,Whitehorse,1.83003031237782e-14
+20774,Donvale,Maroondah,6.929829216266688e-16
+20779,Doreen,Nillumbik,0.5513744580660115
+20779,Doreen,Whittlesea,0.4486255419339885
+20783,Doveton,Casey,0.9999999999999204
+20783,Doveton,Greater Dandenong,7.954962628553128e-14
+20788,Dromana,Mornington Penin'a,1.0
+20825,Eaglemont,Banyule,0.9999999999998688
+20825,Eaglemont,Manningham,1.3121165228058425e-13
+20830,East Melbourne,Melbourne,0.999999999999455
+20830,East Melbourne,Yarra,5.450028256601316e-13
+20833,East Warburton,Yarra Ranges,0.9999999999999788
+20833,East Warburton,Murrindindi,1.7068083059430065e-14
+20833,East Warburton,Baw Baw,4.221584577894192e-15
+20843,Eden Park,Whittlesea,0.9999999999999812
+20843,Eden Park,Mitchell,1.8765881656737743e-14
+20848,Edithvale,Kingston,1.0
+20864,Elsternwick,Glen Eira,0.9999999999999588
+20864,Elsternwick,Bayside,2.784235867160954e-14
+20864,Elsternwick,Port Phillip,1.3295608257459236e-14
+20865,Eltham (Vic.),Nillumbik,0.9979272865025052
+20865,Eltham (Vic.),Banyule,0.002072713497475982
+20865,Eltham (Vic.),Manningham,1.888739396158119e-14
+20866,Eltham North,Nillumbik,0.7306642340229954
+20866,Eltham North,Banyule,0.2693357659770045
+20867,Elwood,Port Phillip,0.9999999999999896
+20867,Elwood,Bayside,1.0369775851128475e-14
+20868,Emerald (Vic.),Cardinia,0.9407506977845966
+20868,Emerald (Vic.),Yarra Ranges,0.059249302215403345
+20871,Endeavour Hills,Casey,0.9999999999999584
+20871,Endeavour Hills,Knox,3.5225533340871715e-14
+20871,Endeavour Hills,Greater Dandenong,6.4564800446174e-15
+20878,Epping (Vic.),Whittlesea,0.999999999999988
+20878,Epping (Vic.),Hume,1.1952531378642725e-14
+20885,Essendon,Moonee Valley,0.9999999999999222
+20885,Essendon,Merri-bek,7.779682990483748e-14
+20886,Essendon Fields,Moonee Valley,1.0
+20887,Essendon North,Moonee Valley,1.0
+20888,Essendon West,Moonee Valley,0.9999999999999666
+20888,Essendon West,Maribyrnong,3.3433600680309926e-14
+20889,Eumemmerring,Casey,0.9999999999995581
+20889,Eumemmerring,Greater Dandenong,4.4195772028201853e-13
+20898,Exford,Melton,1.0
+20899,Eynesbury,Melton,0.5232291930747138
+20899,Eynesbury,Wyndham,0.47677080692528606
+20899,Eynesbury,Moorabool,1.2611165957400062e-17
+20901,Fairfield (Vic.),Yarra,0.5686938243689701
+20901,Fairfield (Vic.),Darebin,0.43130617563084944
+20901,Fairfield (Vic.),Boroondara,1.803616706580427e-13
+20909,Fawkner,Merri-bek,0.972205691401264
+20909,Fawkner,Hume,0.027794308598599913
+20909,Fawkner,Darebin,1.361354380356584e-13
+20916,Fernshaw,Yarra Ranges,0.999999999999974
+20916,Fernshaw,Murrindindi,2.5964250037765194e-14
+20917,Ferntree Gully,Knox,0.999999999999956
+20917,Ferntree Gully,Yarra Ranges,4.3870617310324706e-14
+20918,Ferny Creek,Yarra Ranges,1.0
+20920,Fingal (Vic.),Mornington Penin'a,1.0
+20924,Fitzroy (Vic.),Yarra,0.9999999999999878
+20924,Fitzroy (Vic.),Melbourne,1.2237938761231326e-14
+20925,Fitzroy North,Yarra,0.9350525988145858
+20925,Fitzroy North,Merri-bek,0.06494740118534577
+20925,Fitzroy North,Darebin,6.845370029083346e-14
+20929,Flemington,Melbourne,0.5956849279438965
+20929,Flemington,Moonee Valley,0.40431507205607414
+20929,Flemington,Maribyrnong,2.933684161390513e-14
+20930,Flinders (Vic.),Mornington Penin'a,1.0
+20935,Footscray,Maribyrnong,0.9999999999998676
+20935,Footscray,Melbourne,1.3135247772678731e-13
+20935,Footscray,Moonee Valley,1.0185962364215279e-15
+20937,Forest Hill (Vic.),Whitehorse,1.0
+20947,Frankston,Frankston,1.0
+20948,Frankston North,Frankston,1.0
+20949,Frankston South,Frankston,0.9999999999999789
+20949,Frankston South,Mornington Penin'a,2.1134702580292664e-14
+20950,Fraser Rise,Melton,1.0
+20965,Gardenvale,Glen Eira,0.9999999999996959
+20965,Gardenvale,Bayside,3.0417401959346003e-13
+20966,Garfield,Cardinia,1.0
+20967,Garfield North,Cardinia,1.0
+20979,Gembrook,Cardinia,0.9999999999999649
+20979,Gembrook,Yarra Ranges,2.377448928577686e-14
+20979,Gembrook,Baw Baw,1.1413651815433425e-14
+20995,Gilderoy,Yarra Ranges,0.9999999999999941
+20995,Gilderoy,Cardinia,5.871497314470967e-15
+21001,Gisborne,Macedon Ranges,0.999999999999984
+21001,Gisborne,Hume,1.5918741256626215e-14
+21001,Gisborne,Melton,1.021350182672834e-16
+21002,Gisborne South,Macedon Ranges,0.9999999999999993
+21002,Gisborne South,Melton,6.270922285269199e-16
+21004,Gladstone Park,Hume,0.9999999999999405
+21004,Gladstone Park,Merri-bek,5.956315472371015e-14
+21005,Gladysdale,Yarra Ranges,1.0
+21009,Glen Huntly,Glen Eira,1.0
+21010,Glen Iris (Vic.),Boroondara,0.6722056733334473
+21010,Glen Iris (Vic.),Stonnington,0.3277943266665499
+21010,Glen Iris (Vic.),Monash,2.7377327962069776e-15
+21013,Glen Waverley,Monash,0.9999999999999314
+21013,Glen Waverley,Knox,5.0277462844982285e-14
+21013,Glen Waverley,Whitehorse,1.8289935963948876e-14
+21047,Glenroy (Vic.),Merri-bek,0.9999999999999423
+21047,Glenroy (Vic.),Hume,5.4240790652422774e-14
+21047,Glenroy (Vic.),Moonee Valley,3.5527763563138786e-15
+21059,Goldie,Macedon Ranges,0.9999999999999427
+21059,Goldie,Mitchell,5.729552523985668e-14
+21079,Gowanbrae,Merri-bek,0.9999999999997629
+21079,Gowanbrae,Hume,2.371021764799954e-13
+21087,Grangefields,Melton,1.0
+21104,Greensborough,Banyule,0.7201311596304797
+21104,Greensborough,Nillumbik,0.2798688403695005
+21104,Greensborough,Whittlesea,1.975058711521559e-14
+21105,Greenvale (Vic.),Hume,1.0
+21115,Gruyere,Yarra Ranges,1.0
+21121,Guys Hill,Cardinia,0.999999999999941
+21121,Guys Hill,Casey,5.903860349075081e-14
+21124,Hadfield,Merri-bek,1.0
+21125,Hallam,Casey,1.0
+21131,Hampton (Vic.),Bayside,1.0
+21132,Hampton East,Bayside,0.9999999999999867
+21132,Hampton East,Kingston,1.326636320118952e-14
+21133,Hampton Park,Casey,0.9999999999999958
+21133,Hampton Park,Greater Dandenong,4.137394495404756e-15
+21139,Harkaway,Casey,0.9999999999999497
+21139,Harkaway,Cardinia,5.0195865042460025e-14
+21140,Harkness,Melton,0.9999999999999781
+21140,Harkness,Moorabool,2.1829112506886524e-14
+21145,Hastings (Vic.),Mornington Penin'a,1.0
+21152,Hawthorn (Vic.),Boroondara,0.999999999999953
+21152,Hawthorn (Vic.),Stonnington,2.8090811585111152e-14
+21152,Hawthorn (Vic.),Yarra,1.8762630110686904e-14
+21153,Hawthorn East,Boroondara,0.9999999999999928
+21153,Hawthorn East,Stonnington,7.257974464641175e-15
+21158,Healesville,Yarra Ranges,1.0
+21159,Heath Hill,Cardinia,0.6388841521342732
+21159,Heath Hill,Baw Baw,0.3611158478657269
+21161,Heathcote Junction,Mitchell,1.0
+21163,Heatherton,Kingston,1.0
+21165,Heathmont,Maroondah,0.9999999999999505
+21165,Heathmont,Knox,4.94798281358057e-14
+21167,Heidelberg,Banyule,0.9999999999998068
+21167,Heidelberg,Manningham,1.9320098708520087e-13
+21168,Heidelberg Heights,Banyule,1.0
+21169,Heidelberg West,Banyule,0.9999999999999427
+21169,Heidelberg West,Darebin,5.732173009463731e-14
+21176,Hesket,Macedon Ranges,1.0
+21185,Highett,Bayside,0.5792506082227874
+21185,Highett,Kingston,0.4207493917772125
+21193,Hillside (Melton - Vic.),Melton,0.9526675282408481
+21193,Hillside (Melton - Vic.),Brimbank,0.04733247175915181
+21195,Hmas Cerberus,Mornington Penin'a,1.0
+21196,Hoddles Creek,Yarra Ranges,1.0
+21202,Hopetoun Park,Moorabool,0.9999999999999609
+21202,Hopetoun Park,Melton,3.9071236025222864e-14
+21203,Hoppers Crossing,Wyndham,1.0
+21214,Hughesdale,Monash,0.9999999999998441
+21214,Hughesdale,Stonnington,1.299856105718293e-13
+21214,Hughesdale,Glen Eira,2.5889624600117618e-14
+21215,Humevale,Whittlesea,0.9999999999999857
+21215,Humevale,Nillumbik,8.795943521534599e-15
+21215,Humevale,Murrindindi,4.2939053285945745e-15
+21215,Humevale,Mitchell,1.2462630437758771e-15
+21218,Huntingdale (Vic.),Monash,1.0
+21223,Hurstbridge,Nillumbik,1.0
+21238,Iona,Cardinia,1.0
+21246,Ivanhoe (Vic.),Banyule,0.9999999999998918
+21246,Ivanhoe (Vic.),Boroondara,5.4132891149400425e-14
+21246,Ivanhoe (Vic.),Darebin,3.624447998792816e-14
+21246,Ivanhoe (Vic.),Yarra,1.7834381680740477e-14
+21247,Ivanhoe East,Banyule,0.9999999999998463
+21247,Ivanhoe East,Manningham,1.2437432096817223e-13
+21247,Ivanhoe East,Boroondara,2.935108477195216e-14
+21248,Jacana,Hume,0.9999999999999911
+21248,Jacana,Merri-bek,8.945095930825122e-15
+21277,Junction Village,Casey,1.0
+21284,Kalkallo,Hume,0.9999999999999177
+21284,Kalkallo,Whittlesea,8.218453671618915e-14
+21286,Kallista,Yarra Ranges,0.9999999999999964
+21286,Kallista,Cardinia,3.5427577340930987e-15
+21287,Kalorama,Yarra Ranges,1.0
+21294,Kangaroo Ground,Nillumbik,0.999999999999988
+21294,Kangaroo Ground,Manningham,1.1988137994815649e-14
+21312,Kealba,Brimbank,1.0
+21314,Keilor,Brimbank,0.6548475573797168
+21314,Keilor,Hume,0.3451524426202833
+21315,Keilor Downs,Brimbank,1.0
+21316,Keilor East,Moonee Valley,0.603700044593794
+21316,Keilor East,Brimbank,0.39629995540620594
+21317,Keilor Lodge,Brimbank,1.0
+21318,Keilor North,Brimbank,0.9999999999998108
+21318,Keilor North,Hume,1.8922853687095472e-13
+21319,Keilor Park,Brimbank,0.9999999999998844
+21319,Keilor Park,Hume,1.1557736509933928e-13
+21327,Kensington (Vic.),Melbourne,0.9950433242421711
+21327,Kensington (Vic.),Moonee Valley,0.004956675757828766
+21333,Kerrie,Macedon Ranges,1.0
+21336,Kew (Vic.),Boroondara,0.9999999999998488
+21336,Kew (Vic.),Yarra,1.511369686228052e-13
+21337,Kew East,Boroondara,0.9999999999998312
+21337,Kew East,Banyule,1.363614671035825e-13
+21337,Kew East,Yarra,3.247752883244488e-14
+21339,Keysborough,Greater Dandenong,0.9999999999999976
+21339,Keysborough,Kingston,2.4640713782429815e-15
+21354,Kilsyth,Yarra Ranges,0.8834358393825106
+21354,Kilsyth,Maroondah,0.11656416061748948
+21354,Kilsyth,Knox,6.663312053005293e-17
+21355,Kilsyth South,Maroondah,0.9999999999998339
+21355,Kilsyth South,Knox,1.1463266561769433e-13
+21355,Kilsyth South,Yarra Ranges,5.151452462414429e-14
+21358,Kinglake,Murrindindi,0.6702663397454743
+21358,Kinglake,Nillumbik,0.32973366025452544
+21358,Kinglake,Yarra Ranges,1.3160019356693792e-16
+21359,Kinglake Central,Murrindindi,0.9999999999999816
+21359,Kinglake Central,Nillumbik,1.8352278693822442e-14
+21360,Kinglake West,Murrindindi,0.5890861654375894
+21360,Kinglake West,Nillumbik,0.26853205952513204
+21360,Kinglake West,Whittlesea,0.14238177503726862
+21360,Kinglake West,Mitchell,1.0006511318611854e-14
+21362,Kings Park (Vic.),Brimbank,0.9999999999999869
+21362,Kings Park (Vic.),Melton,1.3088936197304715e-14
+21363,Kingsbury,Darebin,1.0
+21365,Kingsville,Maribyrnong,1.0
+21374,Knoxfield,Knox,1.0
+21380,Koo Wee Rup,Cardinia,0.9999999999999988
+21380,Koo Wee Rup,Casey,1.2276174780858208e-15
+21381,Koo Wee Rup North,Cardinia,1.0
+21393,Kooyong,Stonnington,0.9999999999996941
+21393,Kooyong,Boroondara,3.058485512461068e-13
+21411,Kurunjang,Melton,1.0
+21452,Lalor,Whittlesea,1.0
+21456,Lancefield,Macedon Ranges,0.9999999999999943
+21456,Lancefield,Mitchell,5.620142593552024e-15
+21459,Lang Lang,Cardinia,0.6527640268691881
+21459,Lang Lang,Bass Coast,0.3053328771771327
+21459,Lang Lang,South Gippsland,0.041903095953679116
+21460,Lang Lang East,Cardinia,0.9999999999999678
+21460,Lang Lang East,South Gippsland,3.226030983424235e-14
+21467,Langwarrin,Frankston,0.9999999999999458
+21467,Langwarrin,Casey,5.415827549566951e-14
+21468,Langwarrin South,Frankston,0.9999999999999285
+21468,Langwarrin South,Casey,7.109121227596995e-14
+21468,Langwarrin South,Mornington Penin'a,4.624661387265314e-16
+21473,Launching Place,Yarra Ranges,1.0
+21476,Laverton (Vic.),Hobsons Bay,0.5385141811465356
+21476,Laverton (Vic.),Wyndham,0.46148581885346446
+21477,Laverton North,Wyndham,0.9999999999999671
+21477,Laverton North,Hobsons Bay,1.9165636009289596e-14
+21477,Laverton North,Brimbank,1.3689087403982984e-14
+21504,Lilydale (Vic.),Yarra Ranges,1.0
+21533,Long Forest,Moorabool,0.9999999999998869
+21533,Long Forest,Melton,1.1316105203112241e-13
+21547,Lower Plenty,Banyule,0.9999999999998083
+21547,Lower Plenty,Nillumbik,1.3278395774557115e-13
+21547,Lower Plenty,Manningham,5.891178542039994e-14
+21554,Lynbrook,Casey,0.9999999999999982
+21554,Lynbrook,Greater Dandenong,1.7966553321832044e-15
+21555,Lyndhurst (Vic.),Greater Dandenong,0.6469009546501704
+21555,Lyndhurst (Vic.),Casey,0.35309904534982955
+21555,Lyndhurst (Vic.),Frankston,6.132461346399406e-18
+21558,Lysterfield,Yarra Ranges,0.5534605071312766
+21558,Lysterfield,Knox,0.44653949286869166
+21558,Lysterfield,Casey,3.1770584061138634e-14
+21559,Lysterfield South,Casey,0.9999999999998894
+21559,Lysterfield South,Knox,1.1052211078435964e-13
+21561,Macclesfield (Vic.),Yarra Ranges,0.9999999999999767
+21561,Macclesfield (Vic.),Cardinia,2.328776673916474e-14
+21562,Macedon,Macedon Ranges,1.0
+21564,Macleod (Vic.),Banyule,0.6045888950034624
+21564,Macleod (Vic.),Darebin,0.39541110499653764
+21569,Maddingley,Moorabool,1.0
+21575,Maidstone,Maribyrnong,0.9999999999999648
+21575,Maidstone,Moonee Valley,3.5256251263721596e-14
+21578,Main Ridge,Mornington Penin'a,1.0
+21586,Malvern (Vic.),Stonnington,0.9999999999999372
+21586,Malvern (Vic.),Boroondara,3.4702533861944745e-14
+21586,Malvern (Vic.),Glen Eira,2.8219662467907065e-14
+21587,Malvern East,Stonnington,0.9999999999998948
+21587,Malvern East,Boroondara,8.914160607491442e-14
+21587,Malvern East,Monash,8.401769423812507e-15
+21587,Malvern East,Glen Eira,7.752181464707808e-15
+21588,Mambourin,Wyndham,1.0
+21597,Manor Lakes,Wyndham,1.0
+21604,Maribyrnong,Maribyrnong,0.9999999999998423
+21604,Maribyrnong,Moonee Valley,1.5774285548001228e-13
+21619,Maryknoll,Cardinia,1.0
+21625,McCrae,Mornington Penin'a,1.0
+21629,McKinnon,Glen Eira,0.9999999999999799
+21629,McKinnon,Bayside,2.004371272018441e-14
+21635,Meadow Heights,Hume,1.0
+21640,Melbourne,Melbourne,0.8210430361135855
+21640,Melbourne,Port Phillip,0.17895696388641297
+21640,Melbourne,Yarra,1.3054478461091037e-15
+21640,Melbourne,Stonnington,1.617784309097262e-16
+21641,Melbourne Airport,Hume,0.9999999999999978
+21641,Melbourne Airport,Brimbank,2.253008019880569e-15
+21642,Melton (Vic.),Melton,1.0
+21643,Melton South,Melton,1.0
+21644,Melton West,Melton,0.9999999999999633
+21644,Melton West,Moorabool,3.6787384264696286e-14
+21648,Mentone,Kingston,0.9999999999999954
+21648,Mentone,Bayside,4.48929659111633e-15
+21649,Menzies Creek,Yarra Ranges,0.5677108443918119
+21649,Menzies Creek,Cardinia,0.4322891556081881
+21659,Mernda,Whittlesea,1.0
+21662,Merricks,Mornington Penin'a,1.0
+21663,Merricks Beach,Mornington Penin'a,1.0
+21664,Merricks North,Mornington Penin'a,1.0
+21668,Merrimu,Moorabool,1.0
+21675,Mickleham,Hume,0.9999999999999704
+21675,Mickleham,Mitchell,2.2404550178328393e-14
+21675,Mickleham,Macedon Ranges,7.221512365370815e-15
+21677,Middle Park (Vic.),Port Phillip,1.0
+21683,Mill Park,Whittlesea,0.9999999999999521
+21683,Mill Park,Nillumbik,4.79429822780193e-14
+21685,Millgrove,Yarra Ranges,1.0
+21706,Mitcham (Vic.),Whitehorse,0.9999999999999409
+21706,Mitcham (Vic.),Manningham,5.706298166199637e-14
+21706,Mitcham (Vic.),Maroondah,1.9483924188789344e-15
+21727,Monbulk,Yarra Ranges,1.0
+21728,Monegeetta,Macedon Ranges,1.0
+21731,Monomeith,Cardinia,1.0
+21732,Mont Albert,Whitehorse,0.9579660127054284
+21732,Mont Albert,Boroondara,0.04203398729457164
+21733,Mont Albert North,Whitehorse,0.999999999999893
+21733,Mont Albert North,Manningham,8.52692681295229e-14
+21733,Mont Albert North,Boroondara,2.1668170729231423e-14
+21735,Montmorency,Banyule,0.9999999999999923
+21735,Montmorency,Nillumbik,7.659846806347519e-15
+21736,Montrose (Vic.),Yarra Ranges,1.0
+21742,Moonee Ponds,Moonee Valley,0.9999999999999023
+21742,Moonee Ponds,Merri-bek,9.445556146053082e-14
+21742,Moonee Ponds,Maribyrnong,3.2591990158547106e-15
+21746,Moorabbin,Kingston,0.9999999999997966
+21746,Moorabbin,Glen Eira,1.901758727248016e-13
+21746,Moorabbin,Bayside,1.3335749264548092e-14
+21747,Moorabbin Airport,Kingston,1.0
+21754,Moorooduc,Mornington Penin'a,1.0
+21755,Mooroolbark,Yarra Ranges,0.9999999999999829
+21755,Mooroolbark,Maroondah,1.7161197781994753e-14
+21760,Mordialloc,Kingston,1.0
+21763,Mornington (Vic.),Mornington Penin'a,1.0
+21779,Mount Burnett,Cardinia,1.0
+21786,Mount Cottrell,Melton,0.6382141992283884
+21786,Mount Cottrell,Wyndham,0.36178580077161165
+21787,Mount Dandenong,Yarra Ranges,1.0
+21793,Mount Eliza,Mornington Penin'a,0.9999999999999751
+21793,Mount Eliza,Frankston,2.4891530550563435e-14
+21795,Mount Evelyn,Yarra Ranges,1.0
+21801,Mount Macedon,Macedon Ranges,1.0
+21803,Mount Martha,Mornington Penin'a,1.0
+21814,Mount Toolebewong,Yarra Ranges,1.0
+21816,Mount Waverley,Monash,0.9999999999999872
+21816,Mount Waverley,Whitehorse,1.274130383990183e-14
+21827,Mulgrave (Vic.),Monash,0.9999999999999097
+21827,Mulgrave (Vic.),Knox,5.5829806986477407e-14
+21827,Mulgrave (Vic.),Greater Dandenong,3.445121047496338e-14
+21849,Murrumbeena,Glen Eira,0.999999999999907
+21849,Murrumbeena,Monash,7.200459339690293e-14
+21849,Murrumbeena,Stonnington,2.1071242072464932e-14
+21872,Nangana,Cardinia,0.999999999999814
+21872,Nangana,Yarra Ranges,1.859854315602707e-13
+21878,Nar Nar Goon,Cardinia,1.0
+21879,Nar Nar Goon North,Cardinia,1.0
+21893,Narre Warren,Casey,1.0
+21894,Narre Warren East,Yarra Ranges,0.9999999999999138
+21894,Narre Warren East,Casey,6.693604197673711e-14
+21894,Narre Warren East,Cardinia,1.9093335182685932e-14
+21895,Narre Warren North,Casey,0.9999999999999374
+21895,Narre Warren North,Yarra Ranges,5.887396759050008e-14
+21895,Narre Warren North,Knox,3.771686787247383e-15
+21896,Narre Warren South,Casey,1.0
+21921,New Gisborne,Macedon Ranges,1.0
+21934,Newport (Vic.),Hobsons Bay,0.999999999999944
+21934,Newport (Vic.),Melbourne,5.590494397171707e-14
+21942,Niddrie,Moonee Valley,1.0
+21952,Noble Park,Greater Dandenong,1.0
+21953,Noble Park North,Greater Dandenong,0.9999999999999161
+21953,Noble Park North,Monash,8.398285914702345e-14
+21966,North Melbourne,Melbourne,1.0
+21966,North Melbourne,Moonee Valley,3.669739212143917e-17
+21969,North Warrandyte,Nillumbik,0.9999999999998387
+21969,North Warrandyte,Manningham,1.6120832362772235e-13
+21971,Northcote,Darebin,0.9999999999999467
+21971,Northcote,Merri-bek,2.871071570641407e-14
+21971,Northcote,Yarra,2.4552348290292196e-14
+21974,Notting Hill,Monash,1.0
+21985,Nunawading,Whitehorse,0.975077896927616
+21985,Nunawading,Manningham,0.024922103072383954
+21991,Nutfield,Nillumbik,1.0
+21998,Oak Park,Merri-bek,0.999999999999965
+21998,Oak Park,Moonee Valley,3.4990401671968716e-14
+21999,Oaklands Junction,Hume,1.0
+22000,Oakleigh,Monash,0.9999999999999882
+22000,Oakleigh,Stonnington,1.1731100231477123e-14
+22001,Oakleigh East,Monash,1.0
+22002,Oakleigh South,Monash,0.577023501761436
+22002,Oakleigh South,Kingston,0.4229764982385598
+22002,Oakleigh South,Glen Eira,4.2049641348278244e-15
+22006,Officer,Cardinia,0.9999999999999883
+22006,Officer,Casey,1.1744116173101485e-14
+22007,Officer South,Cardinia,0.9999999999999876
+22007,Officer South,Casey,1.2467462918364154e-14
+22009,Olinda (Vic.),Yarra Ranges,1.0
+22016,Ormond,Glen Eira,0.9999999999999941
+22016,Ormond,Bayside,5.880877156314314e-15
+22027,Pakenham,Cardinia,1.0
+22028,Pakenham South,Cardinia,1.0
+22029,Pakenham Upper,Cardinia,1.0
+22032,Panton Hill,Nillumbik,1.0
+22036,Park Orchards,Manningham,0.9909902583958251
+22036,Park Orchards,Maroondah,0.009009741604174969
+22037,Parkdale,Kingston,1.0
+22038,Parkville (Vic.),Melbourne,0.9920707545218481
+22038,Parkville (Vic.),Merri-bek,0.007929245478137089
+22038,Parkville (Vic.),Moonee Valley,1.4807785431161694e-14
+22041,Pascoe Vale,Merri-bek,0.999999999999976
+22041,Pascoe Vale,Moonee Valley,2.387057457458926e-14
+22042,Pascoe Vale South,Merri-bek,0.9999999999999649
+22042,Pascoe Vale South,Moonee Valley,3.512258274066854e-14
+22047,Patterson Lakes,Kingston,0.9999999999999069
+22047,Patterson Lakes,Greater Dandenong,5.2102673613649614e-14
+22047,Patterson Lakes,Frankston,4.106630219028947e-14
+22050,Pearcedale,Casey,0.9318996004444349
+22050,Pearcedale,Mornington Penin'a,0.06810039955556198
+22050,Pearcedale,Frankston,3.0959678031441744e-15
+22058,Pentland Hills,Moorabool,1.0
+22064,Pheasant Creek (Vic.),Murrindindi,0.9999999999999998
+22064,Pheasant Creek (Vic.),Nillumbik,1.5478028316859437e-16
+22084,Plenty (Vic.),Nillumbik,0.9999999999999202
+22084,Plenty (Vic.),Whittlesea,7.97463811575702e-14
+22085,Plumpton (Vic.),Melton,1.0
+22086,Point Cook,Wyndham,0.9999999999999767
+22086,Point Cook,Hobsons Bay,2.334972992660172e-14
+22087,Point Leo,Mornington Penin'a,1.0
+22107,Port Melbourne,Melbourne,0.5266532803193013
+22107,Port Melbourne,Port Phillip,0.4733467196806896
+22107,Port Melbourne,Hobsons Bay,9.20685509004073e-15
+22113,Portsea,Mornington Penin'a,1.0
+22115,Powelltown,Yarra Ranges,0.9999999999999489
+22115,Powelltown,Baw Baw,4.456088714361076e-14
+22115,Powelltown,Cardinia,6.551052468576321e-15
+22118,Prahran,Stonnington,1.0
+22121,Preston (Vic.),Darebin,0.9999999999999476
+22121,Preston (Vic.),Banyule,4.806308522189581e-14
+22121,Preston (Vic.),Merri-bek,4.414517391557929e-15
+22122,Princes Hill,Yarra,0.999999999999717
+22122,Princes Hill,Melbourne,2.1931993053274487e-13
+22122,Princes Hill,Merri-bek,6.368025801691881e-14
+22132,Quandong,Wyndham,0.9999999999999966
+22132,Quandong,Greater Geelong,1.856879247951729e-15
+22132,Quandong,Moorabool,1.550431069122273e-15
+22141,Ravenhall,Melton,0.9999999999999573
+22141,Ravenhall,Brimbank,4.2735196441260237e-14
+22148,Red Hill (Vic.),Mornington Penin'a,1.0
+22149,Red Hill South,Mornington Penin'a,1.0
+22160,Research,Nillumbik,1.0
+22161,Reservoir (Vic.),Darebin,0.9999999999999251
+22161,Reservoir (Vic.),Whittlesea,4.557702203334934e-14
+22161,Reservoir (Vic.),Merri-bek,1.898309417519194e-14
+22161,Reservoir (Vic.),Banyule,1.0361451481657996e-14
+22161,Reservoir (Vic.),Hume,5.413037793722879e-26
+22170,Richmond (Vic.),Yarra,0.999999999999936
+22170,Richmond (Vic.),Boroondara,4.9901651428477885e-14
+22170,Richmond (Vic.),Stonnington,9.741287445803662e-15
+22170,Richmond (Vic.),Melbourne,4.213887856342752e-15
+22172,Riddells Creek,Macedon Ranges,0.9999999999999898
+22172,Riddells Creek,Hume,1.0343253868965495e-14
+22174,Ringwood (Vic.),Maroondah,0.9999999999999954
+22174,Ringwood (Vic.),Knox,4.16034211470539e-15
+22174,Ringwood (Vic.),Whitehorse,4.4197543069782125e-16
+22175,Ringwood East,Maroondah,1.0
+22176,Ringwood North,Maroondah,0.8883172975809641
+22176,Ringwood North,Manningham,0.11168270241903577
+22179,Ripponlea,Port Phillip,0.9999999999998893
+22179,Ripponlea,Glen Eira,1.1063406976295487e-13
+22185,Rochford,Macedon Ranges,1.0
+22186,Rockbank,Melton,1.0
+22193,Romsey,Macedon Ranges,1.0
+22194,Rosanna,Banyule,1.0
+22198,Rosebud,Mornington Penin'a,1.0
+22207,Rowville,Knox,0.9999999999999617
+22207,Rowville,Casey,2.1386705413380966e-14
+22207,Rowville,Monash,1.0983185120427504e-14
+22207,Rowville,Greater Dandenong,5.965419427095776e-15
+22208,Roxburgh Park,Hume,1.0
+22220,Rye,Mornington Penin'a,1.0
+22221,Rythdale,Cardinia,1.0
+22222,Safety Beach (Vic.),Mornington Penin'a,1.0
+22232,Sandhurst,Frankston,0.9999999999997639
+22232,Sandhurst,Greater Dandenong,2.36175783167867e-13
+22234,Sandringham (Vic.),Bayside,1.0
+22239,Sassafras (Vic.),Yarra Ranges,0.9999999999998909
+22239,Sassafras (Vic.),Knox,1.0908120480083406e-13
+22242,Scoresby,Knox,0.9999999999999369
+22242,Scoresby,Monash,6.304103667832197e-14
+22247,Seabrook,Hobsons Bay,0.9999999999999659
+22247,Seabrook,Wyndham,3.411241948529385e-14
+22249,Seaford (Vic.),Frankston,0.9999999999999608
+22249,Seaford (Vic.),Kingston,3.928530002980936e-14
+22250,Seaholme,Hobsons Bay,1.0
+22256,Seddon (Vic.),Maribyrnong,1.0
+22258,Selby,Yarra Ranges,0.9999999999999949
+22258,Selby,Cardinia,5.14920561173962e-15
+22263,Seville,Yarra Ranges,1.0
+22264,Seville East,Yarra Ranges,1.0
+22278,Sherbrooke,Yarra Ranges,1.0
+22279,Shoreham,Mornington Penin'a,1.0
+22281,Silvan,Yarra Ranges,1.0
+22291,Skye (Vic.),Frankston,0.999999999999937
+22291,Skye (Vic.),Casey,4.751829856791445e-14
+22291,Skye (Vic.),Greater Dandenong,1.5394699404119388e-14
+22295,Smiths Gully,Nillumbik,1.0
+22303,Somers,Mornington Penin'a,1.0
+22304,Somerton (Vic.),Hume,0.9999999999998708
+22304,Somerton (Vic.),Whittlesea,1.2920257708364882e-13
+22305,Somerville (Vic.),Mornington Penin'a,0.9999999999999697
+22305,Somerville (Vic.),Casey,3.0344630475221175e-14
+22306,Sorrento (Vic.),Mornington Penin'a,1.0
+22309,South Kingsville,Hobsons Bay,1.0
+22310,South Melbourne,Port Phillip,0.9999999999999687
+22310,South Melbourne,Melbourne,3.1270268478483757e-14
+22311,South Morang,Whittlesea,0.9999999999999353
+22311,South Morang,Nillumbik,6.476192141776948e-14
+22313,South Wharf,Melbourne,0.9999999999999994
+22313,South Wharf,Port Phillip,5.328378211544791e-16
+22314,South Yarra,Stonnington,0.7096711423233744
+22314,South Yarra,Melbourne,0.29032885767656913
+22314,South Yarra,Yarra,5.6456444479907946e-14
+22315,Southbank,Melbourne,0.828263886143621
+22315,Southbank,Port Phillip,0.171736113856379
+22319,Spotswood,Hobsons Bay,0.9999999999998861
+22319,Spotswood,Maribyrnong,1.081106471634355e-13
+22319,Spotswood,Melbourne,5.8632643264776214e-15
+22325,Springfield (Macedon Ranges - Vic.),Macedon Ranges,0.9999999999999217
+22325,Springfield (Macedon Ranges - Vic.),Mitchell,7.823936271918216e-14
+22328,Springvale (Vic.),Greater Dandenong,0.9999999999999106
+22328,Springvale (Vic.),Monash,8.566522939539146e-14
+22328,Springvale (Vic.),Kingston,3.714716376097081e-15
+22329,Springvale South,Greater Dandenong,0.999999999999978
+22329,Springvale South,Kingston,2.202305172508207e-14
+22330,St Albans (Vic.),Brimbank,1.0
+22332,St Andrews (Vic.),Nillumbik,1.0
+22333,St Andrews Beach,Mornington Penin'a,1.0
+22339,St Helena,Banyule,0.9999999999998631
+22339,St Helena,Nillumbik,1.3691275093179421e-13
+22343,St Kilda (Vic.),Port Phillip,0.9999999999999202
+22343,St Kilda (Vic.),Stonnington,7.979814583820395e-14
+22344,St Kilda East,Port Phillip,0.57663898238331
+22344,St Kilda East,Glen Eira,0.42336101761666584
+22344,St Kilda East,Stonnington,2.4081520597686568e-14
+22345,St Kilda West,Port Phillip,1.0
+22355,Steels Creek,Yarra Ranges,0.9999999999999553
+22355,Steels Creek,Murrindindi,2.3042720969856758e-14
+22355,Steels Creek,Nillumbik,2.167275404815399e-14
+22375,Strathewen,Nillumbik,1.0
+22380,Strathmore (Vic.),Moonee Valley,0.9999999999996819
+22380,Strathmore (Vic.),Merri-bek,3.1805537600998573e-13
+22381,Strathmore Heights,Moonee Valley,0.9999999999996093
+22381,Strathmore Heights,Merri-bek,3.906622588938301e-13
+22382,Strathtulloh,Melton,1.0
+22391,Sunbury,Hume,0.9999999999999665
+22391,Sunbury,Macedon Ranges,3.00188954280129e-14
+22391,Sunbury,Melton,3.5191991382869422e-15
+22395,Sunshine (Vic.),Brimbank,0.9999999999999138
+22395,Sunshine (Vic.),Maribyrnong,8.628220326684129e-14
+22396,Sunshine North,Brimbank,0.9999999999999672
+22396,Sunshine North,Moonee Valley,3.0850952444694664e-14
+22396,Sunshine North,Maribyrnong,1.8659515543887846e-15
+22397,Sunshine West,Brimbank,1.0
+22399,Surrey Hills,Boroondara,0.6169918510428871
+22399,Surrey Hills,Whitehorse,0.3830081489571129
+22414,Sydenham (Vic.),Brimbank,0.9999999999999948
+22414,Sydenham (Vic.),Melton,5.237722992152307e-15
+22451,Tarneit,Wyndham,0.9999999999999651
+22451,Tarneit,Melton,3.4831610278982365e-14
+22457,Tarrawarra,Yarra Ranges,1.0
+22473,Taylors Hill,Melton,0.999999999999909
+22473,Taylors Hill,Brimbank,9.095438873556661e-14
+22474,Taylors Lakes,Brimbank,1.0
+22476,Tecoma,Yarra Ranges,1.0
+22483,Templestowe,Manningham,0.9999999999999387
+22483,Templestowe,Nillumbik,4.592132113179734e-14
+22483,Templestowe,Banyule,1.5356262849174883e-14
+22484,Templestowe Lower,Manningham,0.9999999999999064
+22484,Templestowe Lower,Banyule,9.350784479720148e-14
+22496,The Basin (Vic.),Knox,0.9999999999997281
+22496,The Basin (Vic.),Yarra Ranges,2.718845402217733e-13
+22501,The Patch,Yarra Ranges,1.0
+22504,Thomastown,Whittlesea,0.9999999999999273
+22504,Thomastown,Darebin,4.4872618487768814e-14
+22504,Thomastown,Hume,2.7954742097479932e-14
+22508,Thornbury,Darebin,0.9999999999999439
+22508,Thornbury,Banyule,4.157311295509635e-14
+22508,Thornbury,Merri-bek,1.4442220376719276e-14
+22509,Thornhill Park,Melton,1.0
+22514,Three Bridges,Yarra Ranges,1.0
+22514,Three Bridges,Cardinia,5.53030762536451e-17
+22531,Tonimbuk,Cardinia,0.9999999999999831
+22531,Tonimbuk,Baw Baw,1.691050910774224e-14
+22536,Toolangi,Murrindindi,0.7874313234219674
+22536,Toolangi,Yarra Ranges,0.21256867657803255
+22537,Toolern Vale,Melton,0.9999999999999826
+22537,Toolern Vale,Moorabool,9.230782664426452e-15
+22537,Toolern Vale,Macedon Ranges,8.176568444265026e-15
+22546,Tooradin,Casey,0.9624375785270283
+22546,Tooradin,Cardinia,0.03756242147297174
+22547,Toorak,Stonnington,0.9999999999999287
+22547,Toorak,Yarra,6.138600386637953e-14
+22547,Toorak,Boroondara,9.856242958907229e-15
+22550,Tootgarook,Mornington Penin'a,1.0
+22556,Tottenham (Vic.),Maribyrnong,0.9999999999998866
+22556,Tottenham (Vic.),Brimbank,1.1326805498893836e-13
+22572,Travancore,Moonee Valley,0.9999999999995898
+22572,Travancore,Melbourne,4.102682324625381e-13
+22576,Tremont,Yarra Ranges,0.9999999999999635
+22576,Tremont,Knox,3.647809214233441e-14
+22582,Truganina,Melton,0.5727034001133849
+22582,Truganina,Wyndham,0.4272965998866104
+22582,Truganina,Brimbank,4.681561413080759e-15
+22584,Tuerong,Mornington Penin'a,1.0
+22586,Tullamarine,Hume,0.5964302470705475
+22586,Tullamarine,Brimbank,0.38416835917126874
+22586,Tullamarine,Merri-bek,0.019401393758183616
+22586,Tullamarine,Moonee Valley,1.9506362621581658e-16
+22594,Tyabb,Mornington Penin'a,1.0
+22598,Tynong,Cardinia,1.0
+22599,Tynong North,Cardinia,1.0
+22614,Upper Ferntree Gully,Knox,0.716659477440983
+22614,Upper Ferntree Gully,Yarra Ranges,0.283340522559017
+22617,Upper Plenty,Mitchell,0.999999999999976
+22617,Upper Plenty,Whittlesea,2.3987242572008443e-14
+22620,Upwey,Yarra Ranges,1.0
+22627,Vermont,Whitehorse,0.9517598556135302
+22627,Vermont,Maroondah,0.04824014438645267
+22627,Vermont,Knox,1.72262531137578e-14
+22628,Vermont South,Whitehorse,0.9999999999998918
+22628,Vermont South,Knox,7.974564044009467e-14
+22628,Vermont South,Monash,2.8545111260489815e-14
+22629,Vervale,Cardinia,1.0
+22633,Viewbank,Banyule,0.9999999999999154
+22633,Viewbank,Manningham,8.452445184333347e-14
+22661,Wallan,Mitchell,0.9999999999999915
+22661,Wallan,Macedon Ranges,8.608272177413956e-15
+22672,Wandin East,Yarra Ranges,1.0
+22673,Wandin North,Yarra Ranges,1.0
+22676,Wandong,Mitchell,1.0
+22685,Wantirna,Knox,0.9999999999999122
+22685,Wantirna,Whitehorse,4.772273861541189e-14
+22685,Wantirna,Maroondah,4.0077576925659754e-14
+22686,Wantirna South,Knox,0.9999999999999539
+22686,Wantirna South,Monash,3.308919418307519e-14
+22686,Wantirna South,Whitehorse,1.3020256681097666e-14
+22689,Warburton (Vic.),Yarra Ranges,1.0
+22695,Warneet,Casey,1.0
+22702,Warrandyte,Manningham,0.9999999999999055
+22702,Warrandyte,Nillumbik,9.461497557977084e-14
+22703,Warrandyte South,Manningham,0.9999999999999996
+22703,Warrandyte South,Maroondah,3.9505482660460436e-16
+22704,Warranwood,Maroondah,0.9999999999998791
+22704,Warranwood,Manningham,1.2090673105397397e-13
+22717,Waterford Park,Mitchell,1.0
+22720,Waterways,Kingston,0.9999999999997247
+22720,Waterways,Greater Dandenong,2.7538377264975026e-13
+22721,Watsonia,Banyule,0.9999999999999992
+22721,Watsonia,Darebin,8.986961946847815e-16
+22722,Watsonia North,Banyule,0.9999999999996844
+22722,Watsonia North,Nillumbik,3.15590709725046e-13
+22723,Watsons Creek (Vic.),Nillumbik,1.0
+22727,Wattle Glen,Nillumbik,1.0
+22740,Weir Views,Melton,1.0
+22750,Werribee,Wyndham,1.0
+22751,Werribee South,Wyndham,1.0
+22753,Wesburn,Yarra Ranges,1.0
+22756,West Footscray,Maribyrnong,1.0
+22757,West Melbourne,Melbourne,0.9999999999999831
+22757,West Melbourne,Maribyrnong,1.681675728147927e-14
+22761,Westmeadows,Hume,1.0
+22766,Wheelers Hill,Monash,0.9999999999999314
+22766,Wheelers Hill,Knox,6.864202587597842e-14
+22775,Whittlesea,Whittlesea,0.999999999999962
+22775,Whittlesea,Mitchell,3.806262341637178e-14
+22784,Wildwood,Hume,1.0
+22791,Williams Landing,Wyndham,1.0
+22792,Williamstown (Vic.),Hobsons Bay,1.0
+22793,Williamstown North,Hobsons Bay,1.0
+22805,Windsor (Vic.),Stonnington,0.9484741815908305
+22805,Windsor (Vic.),Port Phillip,0.05152581840913627
+22805,Windsor (Vic.),Melbourne,3.3166871708444236e-14
+22820,Wollert,Whittlesea,0.9999999999999893
+22820,Wollert,Hume,1.0667300028766662e-14
+22825,Wonga Park,Manningham,0.9139417498960367
+22825,Wonga Park,Yarra Ranges,0.07955003366504897
+22825,Wonga Park,Maroondah,0.0065082164388494575
+22825,Wonga Park,Nillumbik,6.485399969405693e-14
+22843,Woodstock (Vic.),Whittlesea,1.0
+22857,Woori Yallock,Yarra Ranges,1.0
+22883,Wyndham Vale,Wyndham,1.0
+22892,Yallambie,Banyule,1.0
+22898,Yan Yean,Whittlesea,0.9999999999999916
+22898,Yan Yean,Nillumbik,8.382841397408067e-15
+22906,Yannathan,Cardinia,1.0
+22910,Yarra Glen,Yarra Ranges,0.9999999999999962
+22910,Yarra Glen,Nillumbik,3.885641768894632e-15
+22911,Yarra Junction,Yarra Ranges,1.0
+22916,Yarrambat,Nillumbik,0.9999999999999594
+22916,Yarrambat,Whittlesea,4.065002202053446e-14
+22917,Yarraville,Maribyrnong,0.9999999999998126
+22917,Yarraville,Hobsons Bay,1.822693401687933e-13
+22917,Yarraville,Melbourne,5.0400269182790445e-15
+22925,Yellingbo,Yarra Ranges,0.9999999999999882
+22925,Yellingbo,Cardinia,1.1801266041997416e-14
+22930,Yering,Yarra Ranges,0.999999999999989
+22930,Yering,Nillumbik,1.1116900554551508e-14
+22941,Yuroke,Hume,1.0
