@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22685,Wantirna,86.0,ok
+20003,Aberfeldie,22685,Wantirna,111.53,ok
+20011,Aintree,22685,Wantirna,158.82,ok
+20015,Airport West,22685,Wantirna,126.23,ok
+20017,Albanvale,22685,Wantirna,143.33,ok
+20018,Albert Park (Vic.),22685,Wantirna,94.32,ok
+20021,Albion (Vic.),22685,Wantirna,116.73,ok
+20034,Alphington,22685,Wantirna,91.75,ok
+20035,Altona (Vic.),22685,Wantirna,117.83,ok
+20036,Altona Meadows,22685,Wantirna,124.78,ok
+20037,Altona North,22685,Wantirna,124.18,ok
+20062,Ardeer,22685,Wantirna,130.88,ok
+20066,Armadale (Vic.),22685,Wantirna,82.0,ok
+20071,Arthurs Creek,22685,Wantirna,,no_eligible_route
+20072,Arthurs Seat,22685,Wantirna,,no_eligible_route
+20075,Ascot Vale,22685,Wantirna,97.67,ok
+20077,Ashburton,22685,Wantirna,69.82,ok
+20078,Ashwood,22685,Wantirna,67.47,ok
+20079,Aspendale,22685,Wantirna,,no_eligible_route
+20080,Aspendale Gardens,22685,Wantirna,112.08,ok
+20082,Attwood,22685,Wantirna,137.95,ok
+20089,Avondale Heights,22685,Wantirna,123.27,ok
+20091,Avonsleigh,22685,Wantirna,115.0,ok
+20095,Bacchus Marsh,22685,Wantirna,,no_eligible_route
+20097,Badger Creek,22685,Wantirna,128.38,ok
+20105,Balaclava (Vic.),22685,Wantirna,83.62,ok
+20120,Balnarring,22685,Wantirna,,no_eligible_route
+20121,Balnarring Beach,22685,Wantirna,,no_eligible_route
+20123,Balwyn,22685,Wantirna,65.77,ok
+20124,Balwyn North,22685,Wantirna,71.63,ok
+20131,Bangholme,22685,Wantirna,,no_eligible_route
+20169,Baxter,22685,Wantirna,144.68,ok
+20171,Bayles,22685,Wantirna,,no_eligible_route
+20173,Bayswater (Vic.),22685,Wantirna,35.33,ok
+20174,Bayswater North,22685,Wantirna,54.28,ok
+20175,Beaconsfield (Vic.),22685,Wantirna,117.42,ok
+20176,Beaconsfield Upper,22685,Wantirna,,no_eligible_route
+20182,Beaumaris (Vic.),22685,Wantirna,120.35,ok
+20187,Beenak,22685,Wantirna,,no_eligible_route
+20188,Belgrave,22685,Wantirna,62.25,ok
+20189,Belgrave Heights,22685,Wantirna,90.82,ok
+20190,Belgrave South,22685,Wantirna,86.8,ok
+20198,Bellfield (Banyule - Vic.),22685,Wantirna,95.73,ok
+20207,Bend Of Islands,22685,Wantirna,,no_eligible_route
+20212,Benloch,22685,Wantirna,,no_eligible_route
+20214,Bentleigh,22685,Wantirna,96.07,ok
+20215,Bentleigh East,22685,Wantirna,82.12,ok
+20224,Berwick,22685,Wantirna,88.58,ok
+20233,Beveridge,22685,Wantirna,168.5,ok
+20237,Big Pats Creek,22685,Wantirna,,no_eligible_route
+20248,Bittern,22685,Wantirna,162.67,ok
+20251,Black Rock (Vic.),22685,Wantirna,125.43,ok
+20252,Blackburn,22685,Wantirna,42.5,ok
+20253,Blackburn North,22685,Wantirna,46.65,ok
+20254,Blackburn South,22685,Wantirna,60.7,ok
+20257,Blairgowrie,22685,Wantirna,207.63,ok
+20260,Blind Bight,22685,Wantirna,,no_eligible_route
+20272,Bolinda,22685,Wantirna,,no_eligible_route
+20278,Bonbeach,22685,Wantirna,,no_eligible_route
+20280,Boneo,22685,Wantirna,,no_eligible_route
+20282,Bonnie Brook,22685,Wantirna,191.37,ok
+20304,Boronia,22685,Wantirna,42.07,ok
+20307,Botanic Ridge,22685,Wantirna,131.45,ok
+20314,Box Hill (Vic.),22685,Wantirna,49.97,ok
+20315,Box Hill North,22685,Wantirna,55.52,ok
+20316,Box Hill South,22685,Wantirna,50.3,ok
+20320,Braeside,22685,Wantirna,,no_eligible_route
+20324,Braybrook,22685,Wantirna,119.87,ok
+20331,Briar Hill,22685,Wantirna,89.28,ok
+20337,Brighton (Vic.),22685,Wantirna,96.38,ok
+20338,Brighton East,22685,Wantirna,97.75,ok
+20346,Broadmeadows (Vic.),22685,Wantirna,123.65,ok
+20351,Brookfield (Vic.),22685,Wantirna,,no_eligible_route
+20352,Brooklyn (Vic.),22685,Wantirna,123.8,ok
+20361,Brunswick (Vic.),22685,Wantirna,94.48,ok
+20362,Brunswick East,22685,Wantirna,103.77,ok
+20363,Brunswick West,22685,Wantirna,108.82,ok
+20381,Bulla (Vic.),22685,Wantirna,,no_eligible_route
+20386,Bulleen,22685,Wantirna,81.53,ok
+20387,Bullengarook,22685,Wantirna,,no_eligible_route
+20399,Bundoora (Vic.),22685,Wantirna,95.88,ok
+20411,Bunyip,22685,Wantirna,,no_eligible_route
+20412,Bunyip North,22685,Wantirna,,no_eligible_route
+20418,Burnley,22685,Wantirna,77.18,ok
+20419,Burnside (Vic.),22685,Wantirna,141.72,ok
+20420,Burnside Heights,22685,Wantirna,149.53,ok
+20426,Burwood (Vic.),22685,Wantirna,46.38,ok
+20427,Burwood East,22685,Wantirna,44.45,ok
+20435,Bylands,22685,Wantirna,,no_eligible_route
+20441,Cairnlea,22685,Wantirna,126.9,ok
+20442,Calder Park,22685,Wantirna,150.52,ok
+20443,Caldermeade,22685,Wantirna,,no_eligible_route
+20453,Camberwell (Vic.),22685,Wantirna,69.08,ok
+20455,Campbellfield,22685,Wantirna,128.23,ok
+20466,Cannons Creek,22685,Wantirna,,no_eligible_route
+20468,Canterbury (Vic.),22685,Wantirna,56.95,ok
+20474,Cape Schanck,22685,Wantirna,,no_eligible_route
+20476,Capel Sound,22685,Wantirna,192.98,ok
+20487,Cardinia,22685,Wantirna,,no_eligible_route
+20495,Carlton (Vic.),22685,Wantirna,88.55,ok
+20496,Carlton North,22685,Wantirna,100.53,ok
+20498,Carnegie,22685,Wantirna,80.2,ok
+20500,Caroline Springs,22685,Wantirna,146.6,ok
+20507,Carrum,22685,Wantirna,112.53,ok
+20508,Carrum Downs,22685,Wantirna,93.38,ok
+20512,Castella,22685,Wantirna,,no_eligible_route
+20517,Catani,22685,Wantirna,,no_eligible_route
+20521,Caulfield,22685,Wantirna,101.62,ok
+20522,Caulfield East,22685,Wantirna,89.9,ok
+20523,Caulfield North,22685,Wantirna,89.32,ok
+20524,Caulfield South,22685,Wantirna,92.2,ok
+20528,Chadstone,22685,Wantirna,65.18,ok
+20537,Chelsea,22685,Wantirna,109.45,ok
+20538,Chelsea Heights,22685,Wantirna,117.08,ok
+20539,Cheltenham (Vic.),22685,Wantirna,102.25,ok
+20541,Cherokee,22685,Wantirna,,no_eligible_route
+20555,Chintin,22685,Wantirna,,no_eligible_route
+20556,Chirnside Park,22685,Wantirna,76.6,ok
+20559,Christmas Hills (Vic.),22685,Wantirna,,no_eligible_route
+20560,Chum Creek,22685,Wantirna,,no_eligible_route
+20566,Clarinda,22685,Wantirna,81.1,ok
+20567,Clarkefield,22685,Wantirna,,no_eligible_route
+20569,Clayton,22685,Wantirna,65.02,ok
+20570,Clayton South,22685,Wantirna,236.5,walk_only
+20572,Clematis,22685,Wantirna,86.42,ok
+20574,Clifton Hill,22685,Wantirna,85.83,ok
+20576,Clonbinane,22685,Wantirna,,no_eligible_route
+20581,Clyde (Vic.),22685,Wantirna,,no_eligible_route
+20582,Clyde North,22685,Wantirna,118.1,ok
+20587,Cobaw,22685,Wantirna,,no_eligible_route
+20590,Cobblebank,22685,Wantirna,196.57,ok
+20596,Coburg,22685,Wantirna,101.22,ok
+20597,Coburg North,22685,Wantirna,110.78,ok
+20600,Cockatoo (Vic.),22685,Wantirna,118.68,ok
+20601,Cocoroc,22685,Wantirna,,no_eligible_route
+20605,Coimadai,22685,Wantirna,,no_eligible_route
+20613,Coldstream (Vic.),22685,Wantirna,,no_eligible_route
+20616,Collingwood (Vic.),22685,Wantirna,76.12,ok
+20624,Coolaroo,22685,Wantirna,122.18,ok
+20633,Cora Lynn,22685,Wantirna,,no_eligible_route
+20654,Cottles Bridge,22685,Wantirna,,no_eligible_route
+20661,Craigieburn,22685,Wantirna,143.02,ok
+20662,Cranbourne,22685,Wantirna,96.45,ok
+20663,Cranbourne East,22685,Wantirna,102.33,ok
+20664,Cranbourne North,22685,Wantirna,95.78,ok
+20665,Cranbourne South,22685,Wantirna,134.8,ok
+20666,Cranbourne West,22685,Wantirna,107.15,ok
+20670,Cremorne (Vic.),22685,Wantirna,71.17,ok
+20674,Crib Point,22685,Wantirna,171.63,ok
+20682,Croydon (Vic.),22685,Wantirna,42.33,ok
+20683,Croydon Hills,22685,Wantirna,66.08,ok
+20684,Croydon North,22685,Wantirna,68.08,ok
+20685,Croydon South,22685,Wantirna,56.13,ok
+20702,Dallas,22685,Wantirna,123.88,ok
+20703,Dalmore,22685,Wantirna,,no_eligible_route
+20707,Dandenong,22685,Wantirna,61.9,ok
+20708,Dandenong North,22685,Wantirna,62.32,ok
+20709,Dandenong South,22685,Wantirna,87.55,ok
+20712,Darley,22685,Wantirna,,no_eligible_route
+20716,Darraweit Guim,22685,Wantirna,,no_eligible_route
+20724,Deanside,22685,Wantirna,166.02,ok
+20728,Deepdene (Vic.),22685,Wantirna,63.62,ok
+20729,Deer Park,22685,Wantirna,127.72,ok
+20731,Delahey,22685,Wantirna,143.8,ok
+20743,Derrimut,22685,Wantirna,151.28,ok
+20748,Devon Meadows,22685,Wantirna,,no_eligible_route
+20750,Dewhurst,22685,Wantirna,,no_eligible_route
+20752,Diamond Creek,22685,Wantirna,120.07,ok
+20754,Diggers Rest,22685,Wantirna,144.83,ok
+20758,Dingley Village,22685,Wantirna,91.22,ok
+20762,Dixons Creek,22685,Wantirna,,no_eligible_route
+20766,Docklands,22685,Wantirna,91.77,ok
+20769,Don Valley,22685,Wantirna,,no_eligible_route
+20771,Doncaster,22685,Wantirna,56.18,ok
+20772,Doncaster East,22685,Wantirna,61.43,ok
+20773,Donnybrook (Vic.),22685,Wantirna,167.03,ok
+20774,Donvale,22685,Wantirna,60.88,ok
+20779,Doreen,22685,Wantirna,,no_eligible_route
+20783,Doveton,22685,Wantirna,76.68,ok
+20788,Dromana,22685,Wantirna,,no_eligible_route
+20825,Eaglemont,22685,Wantirna,88.3,ok
+20830,East Melbourne,22685,Wantirna,78.35,ok
+20833,East Warburton,22685,Wantirna,,no_eligible_route
+20843,Eden Park,22685,Wantirna,,no_eligible_route
+20848,Edithvale,22685,Wantirna,91.78,ok
+20864,Elsternwick,22685,Wantirna,91.53,ok
+20865,Eltham (Vic.),22685,Wantirna,89.25,ok
+20866,Eltham North,22685,Wantirna,101.18,ok
+20867,Elwood,22685,Wantirna,96.98,ok
+20868,Emerald (Vic.),22685,Wantirna,113.6,ok
+20871,Endeavour Hills,22685,Wantirna,76.32,ok
+20878,Epping (Vic.),22685,Wantirna,139.97,ok
+20885,Essendon,22685,Wantirna,106.88,ok
+20886,Essendon Fields,22685,Wantirna,125.8,ok
+20887,Essendon North,22685,Wantirna,109.9,ok
+20888,Essendon West,22685,Wantirna,107.75,ok
+20889,Eumemmerring,22685,Wantirna,77.18,ok
+20898,Exford,22685,Wantirna,,no_eligible_route
+20899,Eynesbury,22685,Wantirna,,no_eligible_route
+20901,Fairfield (Vic.),22685,Wantirna,102.02,ok
+20909,Fawkner,22685,Wantirna,120.68,ok
+20916,Fernshaw,22685,Wantirna,,no_eligible_route
+20917,Ferntree Gully,22685,Wantirna,39.9,ok
+20918,Ferny Creek,22685,Wantirna,99.6,ok
+20920,Fingal (Vic.),22685,Wantirna,,no_eligible_route
+20924,Fitzroy (Vic.),22685,Wantirna,83.37,ok
+20925,Fitzroy North,22685,Wantirna,90.97,ok
+20929,Flemington,22685,Wantirna,100.5,ok
+20930,Flinders (Vic.),22685,Wantirna,,no_eligible_route
+20935,Footscray,22685,Wantirna,96.6,ok
+20937,Forest Hill (Vic.),22685,Wantirna,39.72,ok
+20947,Frankston,22685,Wantirna,119.12,ok
+20948,Frankston North,22685,Wantirna,113.42,ok
+20949,Frankston South,22685,Wantirna,156.05,ok
+20950,Fraser Rise,22685,Wantirna,161.27,ok
+20965,Gardenvale,22685,Wantirna,92.82,ok
+20966,Garfield,22685,Wantirna,,no_eligible_route
+20967,Garfield North,22685,Wantirna,,no_eligible_route
+20979,Gembrook,22685,Wantirna,,no_eligible_route
+20995,Gilderoy,22685,Wantirna,,no_eligible_route
+21001,Gisborne,22685,Wantirna,,no_eligible_route
+21002,Gisborne South,22685,Wantirna,,no_eligible_route
+21004,Gladstone Park,22685,Wantirna,138.78,ok
+21005,Gladysdale,22685,Wantirna,,no_eligible_route
+21009,Glen Huntly,22685,Wantirna,95.03,ok
+21010,Glen Iris (Vic.),22685,Wantirna,78.82,ok
+21013,Glen Waverley,22685,Wantirna,43.4,ok
+21047,Glenroy (Vic.),22685,Wantirna,117.97,ok
+21059,Goldie,22685,Wantirna,,no_eligible_route
+21079,Gowanbrae,22685,Wantirna,139.88,ok
+21087,Grangefields,22685,Wantirna,195.67,ok
+21104,Greensborough,22685,Wantirna,83.63,ok
+21105,Greenvale (Vic.),22685,Wantirna,150.12,ok
+21115,Gruyere,22685,Wantirna,,no_eligible_route
+21121,Guys Hill,22685,Wantirna,,no_eligible_route
+21124,Hadfield,22685,Wantirna,122.72,ok
+21125,Hallam,22685,Wantirna,93.27,ok
+21131,Hampton (Vic.),22685,Wantirna,106.22,ok
+21132,Hampton East,22685,Wantirna,111.3,ok
+21133,Hampton Park,22685,Wantirna,92.58,ok
+21139,Harkaway,22685,Wantirna,,no_eligible_route
+21140,Harkness,22685,Wantirna,,no_eligible_route
+21145,Hastings (Vic.),22685,Wantirna,164.2,ok
+21152,Hawthorn (Vic.),22685,Wantirna,69.58,ok
+21153,Hawthorn East,22685,Wantirna,61.33,ok
+21158,Healesville,22685,Wantirna,130.35,ok
+21159,Heath Hill,22685,Wantirna,,no_eligible_route
+21161,Heathcote Junction,22685,Wantirna,,no_eligible_route
+21163,Heatherton,22685,Wantirna,88.12,ok
+21165,Heathmont,22685,Wantirna,38.42,ok
+21167,Heidelberg,22685,Wantirna,86.1,ok
+21168,Heidelberg Heights,22685,Wantirna,94.37,ok
+21169,Heidelberg West,22685,Wantirna,95.37,ok
+21176,Hesket,22685,Wantirna,,no_eligible_route
+21185,Highett,22685,Wantirna,104.65,ok
+21193,Hillside (Melton - Vic.),22685,Wantirna,144.92,ok
+21195,Hmas Cerberus,22685,Wantirna,,no_eligible_route
+21196,Hoddles Creek,22685,Wantirna,,no_eligible_route
+21202,Hopetoun Park,22685,Wantirna,,no_eligible_route
+21203,Hoppers Crossing,22685,Wantirna,130.62,ok
+21214,Hughesdale,22685,Wantirna,72.38,ok
+21215,Humevale,22685,Wantirna,,no_eligible_route
+21218,Huntingdale (Vic.),22685,Wantirna,69.38,ok
+21223,Hurstbridge,22685,Wantirna,120.62,ok
+21238,Iona,22685,Wantirna,,no_eligible_route
+21246,Ivanhoe (Vic.),22685,Wantirna,96.35,ok
+21247,Ivanhoe East,22685,Wantirna,94.9,ok
+21248,Jacana,22685,Wantirna,124.0,ok
+21277,Junction Village,22685,Wantirna,135.78,ok
+21284,Kalkallo,22685,Wantirna,160.03,ok
+21286,Kallista,22685,Wantirna,103.03,ok
+21287,Kalorama,22685,Wantirna,72.3,ok
+21294,Kangaroo Ground,22685,Wantirna,110.72,ok
+21312,Kealba,22685,Wantirna,131.98,ok
+21314,Keilor,22685,Wantirna,148.25,ok
+21315,Keilor Downs,22685,Wantirna,144.08,ok
+21316,Keilor East,22685,Wantirna,122.12,ok
+21317,Keilor Lodge,22685,Wantirna,147.7,ok
+21318,Keilor North,22685,Wantirna,153.77,ok
+21319,Keilor Park,22685,Wantirna,130.03,ok
+21327,Kensington (Vic.),22685,Wantirna,91.28,ok
+21333,Kerrie,22685,Wantirna,,no_eligible_route
+21336,Kew (Vic.),22685,Wantirna,75.03,ok
+21337,Kew East,22685,Wantirna,80.12,ok
+21339,Keysborough,22685,Wantirna,92.53,ok
+21354,Kilsyth,22685,Wantirna,65.63,ok
+21355,Kilsyth South,22685,Wantirna,71.65,ok
+21358,Kinglake,22685,Wantirna,,no_eligible_route
+21359,Kinglake Central,22685,Wantirna,,no_eligible_route
+21360,Kinglake West,22685,Wantirna,,no_eligible_route
+21362,Kings Park (Vic.),22685,Wantirna,142.23,ok
+21363,Kingsbury,22685,Wantirna,117.68,ok
+21365,Kingsville,22685,Wantirna,110.08,ok
+21374,Knoxfield,22685,Wantirna,48.58,ok
+21380,Koo Wee Rup,22685,Wantirna,,no_eligible_route
+21381,Koo Wee Rup North,22685,Wantirna,,no_eligible_route
+21393,Kooyong,22685,Wantirna,76.08,ok
+21411,Kurunjang,22685,Wantirna,214.65,ok
+21452,Lalor,22685,Wantirna,120.03,ok
+21456,Lancefield,22685,Wantirna,,no_eligible_route
+21459,Lang Lang,22685,Wantirna,,no_eligible_route
+21460,Lang Lang East,22685,Wantirna,,no_eligible_route
+21467,Langwarrin,22685,Wantirna,120.17,ok
+21468,Langwarrin South,22685,Wantirna,,no_eligible_route
+21473,Launching Place,22685,Wantirna,89.98,ok
+21476,Laverton (Vic.),22685,Wantirna,113.43,ok
+21477,Laverton North,22685,Wantirna,149.85,ok
+21504,Lilydale (Vic.),22685,Wantirna,69.63,ok
+21533,Long Forest,22685,Wantirna,,no_eligible_route
+21547,Lower Plenty,22685,Wantirna,100.93,ok
+21554,Lynbrook,22685,Wantirna,84.95,ok
+21555,Lyndhurst (Vic.),22685,Wantirna,135.53,ok
+21558,Lysterfield,22685,Wantirna,185.68,walk_only
+21559,Lysterfield South,22685,Wantirna,193.17,walk_only
+21561,Macclesfield (Vic.),22685,Wantirna,,no_eligible_route
+21562,Macedon,22685,Wantirna,,no_eligible_route
+21564,Macleod (Vic.),22685,Wantirna,104.65,ok
+21569,Maddingley,22685,Wantirna,,no_eligible_route
+21575,Maidstone,22685,Wantirna,113.97,ok
+21578,Main Ridge,22685,Wantirna,,no_eligible_route
+21586,Malvern (Vic.),22685,Wantirna,77.12,ok
+21587,Malvern East,22685,Wantirna,69.02,ok
+21588,Mambourin,22685,Wantirna,,no_eligible_route
+21597,Manor Lakes,22685,Wantirna,164.9,ok
+21604,Maribyrnong,22685,Wantirna,115.48,ok
+21619,Maryknoll,22685,Wantirna,,no_eligible_route
+21625,McCrae,22685,Wantirna,,no_eligible_route
+21629,McKinnon,22685,Wantirna,98.85,ok
+21635,Meadow Heights,22685,Wantirna,136.88,ok
+21640,Melbourne,22685,Wantirna,72.45,ok
+21641,Melbourne Airport,22685,Wantirna,,no_eligible_route
+21642,Melton (Vic.),22685,Wantirna,198.78,ok
+21643,Melton South,22685,Wantirna,212.38,ok
+21644,Melton West,22685,Wantirna,207.62,ok
+21648,Mentone,22685,Wantirna,95.15,ok
+21649,Menzies Creek,22685,Wantirna,85.22,ok
+21659,Mernda,22685,Wantirna,154.52,ok
+21662,Merricks,22685,Wantirna,,no_eligible_route
+21663,Merricks Beach,22685,Wantirna,,no_eligible_route
+21664,Merricks North,22685,Wantirna,,no_eligible_route
+21668,Merrimu,22685,Wantirna,,no_eligible_route
+21675,Mickleham,22685,Wantirna,172.97,ok
+21677,Middle Park (Vic.),22685,Wantirna,95.72,ok
+21683,Mill Park,22685,Wantirna,123.53,ok
+21685,Millgrove,22685,Wantirna,,no_eligible_route
+21706,Mitcham (Vic.),22685,Wantirna,35.8,ok
+21727,Monbulk,22685,Wantirna,110.48,ok
+21728,Monegeetta,22685,Wantirna,,no_eligible_route
+21731,Monomeith,22685,Wantirna,,no_eligible_route
+21732,Mont Albert,22685,Wantirna,56.35,ok
+21733,Mont Albert North,22685,Wantirna,68.2,ok
+21735,Montmorency,22685,Wantirna,80.33,ok
+21736,Montrose (Vic.),22685,Wantirna,63.6,ok
+21742,Moonee Ponds,22685,Wantirna,93.35,ok
+21746,Moorabbin,22685,Wantirna,96.78,ok
+21747,Moorabbin Airport,22685,Wantirna,101.22,ok
+21754,Moorooduc,22685,Wantirna,,no_eligible_route
+21755,Mooroolbark,22685,Wantirna,57.53,ok
+21760,Mordialloc,22685,Wantirna,,no_eligible_route
+21763,Mornington (Vic.),22685,Wantirna,155.98,ok
+21779,Mount Burnett,22685,Wantirna,,no_eligible_route
+21786,Mount Cottrell,22685,Wantirna,,no_eligible_route
+21787,Mount Dandenong,22685,Wantirna,82.75,ok
+21793,Mount Eliza,22685,Wantirna,134.17,ok
+21795,Mount Evelyn,22685,Wantirna,81.47,ok
+21801,Mount Macedon,22685,Wantirna,,no_eligible_route
+21803,Mount Martha,22685,Wantirna,154.7,ok
+21814,Mount Toolebewong,22685,Wantirna,,no_eligible_route
+21816,Mount Waverley,22685,Wantirna,57.05,ok
+21827,Mulgrave (Vic.),22685,Wantirna,73.33,ok
+21849,Murrumbeena,22685,Wantirna,76.87,ok
+21872,Nangana,22685,Wantirna,,no_eligible_route
+21878,Nar Nar Goon,22685,Wantirna,,no_eligible_route
+21879,Nar Nar Goon North,22685,Wantirna,,no_eligible_route
+21893,Narre Warren,22685,Wantirna,92.97,ok
+21894,Narre Warren East,22685,Wantirna,,no_eligible_route
+21895,Narre Warren North,22685,Wantirna,105.95,ok
+21896,Narre Warren South,22685,Wantirna,95.5,ok
+21921,New Gisborne,22685,Wantirna,,no_eligible_route
+21934,Newport (Vic.),22685,Wantirna,98.28,ok
+21942,Niddrie,22685,Wantirna,119.52,ok
+21952,Noble Park,22685,Wantirna,76.27,ok
+21953,Noble Park North,22685,Wantirna,83.17,ok
+21966,North Melbourne,22685,Wantirna,92.68,ok
+21969,North Warrandyte,22685,Wantirna,80.57,ok
+21971,Northcote,22685,Wantirna,99.97,ok
+21974,Notting Hill,22685,Wantirna,49.82,ok
+21985,Nunawading,22685,Wantirna,34.1,ok
+21991,Nutfield,22685,Wantirna,,no_eligible_route
+21998,Oak Park,22685,Wantirna,111.67,ok
+21999,Oaklands Junction,22685,Wantirna,,no_eligible_route
+22000,Oakleigh,22685,Wantirna,62.43,ok
+22001,Oakleigh East,22685,Wantirna,67.63,ok
+22002,Oakleigh South,22685,Wantirna,73.43,ok
+22006,Officer,22685,Wantirna,108.23,ok
+22007,Officer South,22685,Wantirna,142.8,ok
+22009,Olinda (Vic.),22685,Wantirna,102.92,ok
+22016,Ormond,22685,Wantirna,86.23,ok
+22027,Pakenham,22685,Wantirna,107.28,ok
+22028,Pakenham South,22685,Wantirna,,no_eligible_route
+22029,Pakenham Upper,22685,Wantirna,,no_eligible_route
+22032,Panton Hill,22685,Wantirna,,no_eligible_route
+22036,Park Orchards,22685,Wantirna,51.32,ok
+22037,Parkdale,22685,Wantirna,115.32,ok
+22038,Parkville (Vic.),22685,Wantirna,96.23,ok
+22041,Pascoe Vale,22685,Wantirna,116.03,ok
+22042,Pascoe Vale South,22685,Wantirna,111.77,ok
+22047,Patterson Lakes,22685,Wantirna,122.23,ok
+22050,Pearcedale,22685,Wantirna,152.1,ok
+22058,Pentland Hills,22685,Wantirna,,no_eligible_route
+22064,Pheasant Creek (Vic.),22685,Wantirna,,no_eligible_route
+22084,Plenty (Vic.),22685,Wantirna,114.2,ok
+22085,Plumpton (Vic.),22685,Wantirna,,no_eligible_route
+22086,Point Cook,22685,Wantirna,134.67,ok
+22087,Point Leo,22685,Wantirna,,no_eligible_route
+22107,Port Melbourne,22685,Wantirna,96.57,ok
+22113,Portsea,22685,Wantirna,,no_eligible_route
+22115,Powelltown,22685,Wantirna,,no_eligible_route
+22118,Prahran,22685,Wantirna,85.17,ok
+22121,Preston (Vic.),22685,Wantirna,105.25,ok
+22122,Princes Hill,22685,Wantirna,94.72,ok
+22132,Quandong,22685,Wantirna,,no_eligible_route
+22141,Ravenhall,22685,Wantirna,173.47,ok
+22148,Red Hill (Vic.),22685,Wantirna,,no_eligible_route
+22149,Red Hill South,22685,Wantirna,,no_eligible_route
+22160,Research,22685,Wantirna,86.47,ok
+22161,Reservoir (Vic.),22685,Wantirna,116.85,ok
+22170,Richmond (Vic.),22685,Wantirna,77.85,ok
+22172,Riddells Creek,22685,Wantirna,,no_eligible_route
+22174,Ringwood (Vic.),22685,Wantirna,32.22,ok
+22175,Ringwood East,22685,Wantirna,42.42,ok
+22176,Ringwood North,22685,Wantirna,44.05,ok
+22179,Ripponlea,22685,Wantirna,82.25,ok
+22185,Rochford,22685,Wantirna,,no_eligible_route
+22186,Rockbank,22685,Wantirna,172.05,ok
+22193,Romsey,22685,Wantirna,,no_eligible_route
+22194,Rosanna,22685,Wantirna,97.43,ok
+22198,Rosebud,22685,Wantirna,,no_eligible_route
+22207,Rowville,22685,Wantirna,52.13,ok
+22208,Roxburgh Park,22685,Wantirna,136.28,ok
+22220,Rye,22685,Wantirna,215.7,ok
+22221,Rythdale,22685,Wantirna,,no_eligible_route
+22222,Safety Beach (Vic.),22685,Wantirna,170.67,ok
+22232,Sandhurst,22685,Wantirna,119.32,ok
+22234,Sandringham (Vic.),22685,Wantirna,114.1,ok
+22239,Sassafras (Vic.),22685,Wantirna,84.37,ok
+22242,Scoresby,22685,Wantirna,53.33,ok
+22247,Seabrook,22685,Wantirna,121.73,ok
+22249,Seaford (Vic.),22685,Wantirna,112.4,ok
+22250,Seaholme,22685,Wantirna,112.52,ok
+22256,Seddon (Vic.),22685,Wantirna,96.53,ok
+22258,Selby,22685,Wantirna,84.88,ok
+22263,Seville,22685,Wantirna,101.15,ok
+22264,Seville East,22685,Wantirna,88.03,ok
+22278,Sherbrooke,22685,Wantirna,93.1,ok
+22279,Shoreham,22685,Wantirna,,no_eligible_route
+22281,Silvan,22685,Wantirna,96.53,ok
+22291,Skye (Vic.),22685,Wantirna,103.7,ok
+22295,Smiths Gully,22685,Wantirna,,no_eligible_route
+22303,Somers,22685,Wantirna,,no_eligible_route
+22304,Somerton (Vic.),22685,Wantirna,133.65,ok
+22305,Somerville (Vic.),22685,Wantirna,169.25,ok
+22306,Sorrento (Vic.),22685,Wantirna,206.47,ok
+22309,South Kingsville,22685,Wantirna,115.53,ok
+22310,South Melbourne,22685,Wantirna,83.75,ok
+22311,South Morang,22685,Wantirna,137.72,ok
+22313,South Wharf,22685,Wantirna,89.75,ok
+22314,South Yarra,22685,Wantirna,73.02,ok
+22315,Southbank,22685,Wantirna,79.32,ok
+22319,Spotswood,22685,Wantirna,96.68,ok
+22325,Springfield (Macedon Ranges - Vic.),22685,Wantirna,,no_eligible_route
+22328,Springvale (Vic.),22685,Wantirna,81.03,ok
+22329,Springvale South,22685,Wantirna,73.5,ok
+22330,St Albans (Vic.),22685,Wantirna,119.37,ok
+22332,St Andrews (Vic.),22685,Wantirna,,no_eligible_route
+22333,St Andrews Beach,22685,Wantirna,,no_eligible_route
+22339,St Helena,22685,Wantirna,110.32,ok
+22343,St Kilda (Vic.),22685,Wantirna,84.95,ok
+22344,St Kilda East,22685,Wantirna,88.68,ok
+22345,St Kilda West,22685,Wantirna,94.67,ok
+22355,Steels Creek,22685,Wantirna,,no_eligible_route
+22375,Strathewen,22685,Wantirna,,no_eligible_route
+22380,Strathmore (Vic.),22685,Wantirna,119.83,ok
+22381,Strathmore Heights,22685,Wantirna,127.3,ok
+22382,Strathtulloh,22685,Wantirna,,no_eligible_route
+22391,Sunbury,22685,Wantirna,182.65,ok
+22395,Sunshine (Vic.),22685,Wantirna,108.15,ok
+22396,Sunshine North,22685,Wantirna,128.22,ok
+22397,Sunshine West,22685,Wantirna,135.5,ok
+22399,Surrey Hills,22685,Wantirna,56.75,ok
+22414,Sydenham (Vic.),22685,Wantirna,133.77,ok
+22451,Tarneit,22685,Wantirna,147.73,ok
+22457,Tarrawarra,22685,Wantirna,105.95,ok
+22473,Taylors Hill,22685,Wantirna,147.72,ok
+22474,Taylors Lakes,22685,Wantirna,138.65,ok
+22476,Tecoma,22685,Wantirna,58.37,ok
+22483,Templestowe,22685,Wantirna,85.55,ok
+22484,Templestowe Lower,22685,Wantirna,80.68,ok
+22496,The Basin (Vic.),22685,Wantirna,63.68,ok
+22501,The Patch,22685,Wantirna,101.05,ok
+22504,Thomastown,22685,Wantirna,125.33,ok
+22508,Thornbury,22685,Wantirna,108.12,ok
+22509,Thornhill Park,22685,Wantirna,,no_eligible_route
+22514,Three Bridges,22685,Wantirna,,no_eligible_route
+22531,Tonimbuk,22685,Wantirna,,no_eligible_route
+22536,Toolangi,22685,Wantirna,,no_eligible_route
+22537,Toolern Vale,22685,Wantirna,,no_eligible_route
+22546,Tooradin,22685,Wantirna,,no_eligible_route
+22547,Toorak,22685,Wantirna,86.4,ok
+22550,Tootgarook,22685,Wantirna,199.12,ok
+22556,Tottenham (Vic.),22685,Wantirna,133.67,ok
+22572,Travancore,22685,Wantirna,95.1,ok
+22576,Tremont,22685,Wantirna,76.13,ok
+22582,Truganina,22685,Wantirna,211.88,ok
+22584,Tuerong,22685,Wantirna,,no_eligible_route
+22586,Tullamarine,22685,Wantirna,145.22,ok
+22594,Tyabb,22685,Wantirna,158.12,ok
+22598,Tynong,22685,Wantirna,,no_eligible_route
+22599,Tynong North,22685,Wantirna,,no_eligible_route
+22614,Upper Ferntree Gully,22685,Wantirna,53.68,ok
+22617,Upper Plenty,22685,Wantirna,,no_eligible_route
+22620,Upwey,22685,Wantirna,55.55,ok
+22627,Vermont,22685,Wantirna,12.55,ok
+22628,Vermont South,22685,Wantirna,26.62,ok
+22629,Vervale,22685,Wantirna,,no_eligible_route
+22633,Viewbank,22685,Wantirna,112.12,ok
+22661,Wallan,22685,Wantirna,,no_eligible_route
+22672,Wandin East,22685,Wantirna,,no_eligible_route
+22673,Wandin North,22685,Wantirna,74.12,ok
+22676,Wandong,22685,Wantirna,,no_eligible_route
+22685,Wantirna,22685,Wantirna,0.0,same_centroid
+22686,Wantirna South,22685,Wantirna,28.23,ok
+22689,Warburton (Vic.),22685,Wantirna,,no_eligible_route
+22695,Warneet,22685,Wantirna,,no_eligible_route
+22702,Warrandyte,22685,Wantirna,62.97,ok
+22703,Warrandyte South,22685,Wantirna,76.35,ok
+22704,Warranwood,22685,Wantirna,53.02,ok
+22717,Waterford Park,22685,Wantirna,,no_eligible_route
+22720,Waterways,22685,Wantirna,105.08,ok
+22721,Watsonia,22685,Wantirna,97.57,ok
+22722,Watsonia North,22685,Wantirna,99.43,ok
+22723,Watsons Creek (Vic.),22685,Wantirna,,no_eligible_route
+22727,Wattle Glen,22685,Wantirna,124.37,ok
+22740,Weir Views,22685,Wantirna,,no_eligible_route
+22750,Werribee,22685,Wantirna,127.47,ok
+22751,Werribee South,22685,Wantirna,,no_eligible_route
+22753,Wesburn,22685,Wantirna,106.08,ok
+22756,West Footscray,22685,Wantirna,111.32,ok
+22757,West Melbourne,22685,Wantirna,104.2,ok
+22761,Westmeadows,22685,Wantirna,130.7,ok
+22766,Wheelers Hill,22685,Wantirna,54.22,ok
+22775,Whittlesea,22685,Wantirna,,no_eligible_route
+22784,Wildwood,22685,Wantirna,,no_eligible_route
+22791,Williams Landing,22685,Wantirna,127.68,ok
+22792,Williamstown (Vic.),22685,Wantirna,105.5,ok
+22793,Williamstown North,22685,Wantirna,119.98,ok
+22805,Windsor (Vic.),22685,Wantirna,79.52,ok
+22820,Wollert,22685,Wantirna,155.55,ok
+22825,Wonga Park,22685,Wantirna,62.87,ok
+22843,Woodstock (Vic.),22685,Wantirna,,no_eligible_route
+22857,Woori Yallock,22685,Wantirna,85.23,ok
+22883,Wyndham Vale,22685,Wantirna,151.23,ok
+22892,Yallambie,22685,Wantirna,103.72,ok
+22898,Yan Yean,22685,Wantirna,171.28,ok
+22906,Yannathan,22685,Wantirna,,no_eligible_route
+22910,Yarra Glen,22685,Wantirna,102.25,ok
+22911,Yarra Junction,22685,Wantirna,110.35,ok
+22916,Yarrambat,22685,Wantirna,113.77,ok
+22917,Yarraville,22685,Wantirna,102.43,ok
+22925,Yellingbo,22685,Wantirna,,no_eligible_route
+22930,Yering,22685,Wantirna,,no_eligible_route
+22941,Yuroke,22685,Wantirna,193.65,ok

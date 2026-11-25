@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22756,West Footscray,56.78,ok
+20003,Aberfeldie,22756,West Footscray,59.48,ok
+20011,Aintree,22756,West Footscray,69.55,ok
+20015,Airport West,22756,West Footscray,74.7,ok
+20017,Albanvale,22756,West Footscray,48.02,ok
+20018,Albert Park (Vic.),22756,West Footscray,51.9,ok
+20021,Albion (Vic.),22756,West Footscray,30.42,ok
+20034,Alphington,22756,West Footscray,59.93,ok
+20035,Altona (Vic.),22756,West Footscray,52.7,ok
+20036,Altona Meadows,22756,West Footscray,46.62,ok
+20037,Altona North,22756,West Footscray,37.23,ok
+20062,Ardeer,22756,West Footscray,38.57,ok
+20066,Armadale (Vic.),22756,West Footscray,51.17,ok
+20071,Arthurs Creek,22756,West Footscray,,no_eligible_route
+20072,Arthurs Seat,22756,West Footscray,200.18,ok
+20075,Ascot Vale,22756,West Footscray,32.7,ok
+20077,Ashburton,22756,West Footscray,67.78,ok
+20078,Ashwood,22756,West Footscray,79.47,ok
+20079,Aspendale,22756,West Footscray,86.92,ok
+20080,Aspendale Gardens,22756,West Footscray,110.45,ok
+20082,Attwood,22756,West Footscray,91.15,ok
+20089,Avondale Heights,22756,West Footscray,49.63,ok
+20091,Avonsleigh,22756,West Footscray,,no_eligible_route
+20095,Bacchus Marsh,22756,West Footscray,,no_eligible_route
+20097,Badger Creek,22756,West Footscray,167.12,ok
+20105,Balaclava (Vic.),22756,West Footscray,56.82,ok
+20120,Balnarring,22756,West Footscray,,no_eligible_route
+20121,Balnarring Beach,22756,West Footscray,,no_eligible_route
+20123,Balwyn,22756,West Footscray,77.4,ok
+20124,Balwyn North,22756,West Footscray,81.37,ok
+20131,Bangholme,22756,West Footscray,137.62,ok
+20169,Baxter,22756,West Footscray,126.98,ok
+20171,Bayles,22756,West Footscray,,no_eligible_route
+20173,Bayswater (Vic.),22756,West Footscray,91.43,ok
+20174,Bayswater North,22756,West Footscray,108.88,ok
+20175,Beaconsfield (Vic.),22756,West Footscray,122.12,ok
+20176,Beaconsfield Upper,22756,West Footscray,,no_eligible_route
+20182,Beaumaris (Vic.),22756,West Footscray,90.8,ok
+20187,Beenak,22756,West Footscray,,no_eligible_route
+20188,Belgrave,22756,West Footscray,104.52,ok
+20189,Belgrave Heights,22756,West Footscray,133.18,ok
+20190,Belgrave South,22756,West Footscray,132.17,ok
+20198,Bellfield (Banyule - Vic.),22756,West Footscray,78.18,ok
+20207,Bend Of Islands,22756,West Footscray,,no_eligible_route
+20212,Benloch,22756,West Footscray,,no_eligible_route
+20214,Bentleigh,22756,West Footscray,71.7,ok
+20215,Bentleigh East,22756,West Footscray,73.1,ok
+20224,Berwick,22756,West Footscray,98.17,ok
+20233,Beveridge,22756,West Footscray,123.18,ok
+20237,Big Pats Creek,22756,West Footscray,,no_eligible_route
+20248,Bittern,22756,West Footscray,151.25,ok
+20251,Black Rock (Vic.),22756,West Footscray,92.63,ok
+20252,Blackburn,22756,West Footscray,67.77,ok
+20253,Blackburn North,22756,West Footscray,78.52,ok
+20254,Blackburn South,22756,West Footscray,86.58,ok
+20257,Blairgowrie,22756,West Footscray,192.22,ok
+20260,Blind Bight,22756,West Footscray,,no_eligible_route
+20272,Bolinda,22756,West Footscray,,no_eligible_route
+20278,Bonbeach,22756,West Footscray,91.92,ok
+20280,Boneo,22756,West Footscray,,no_eligible_route
+20282,Bonnie Brook,22756,West Footscray,104.1,ok
+20304,Boronia,22756,West Footscray,93.9,ok
+20307,Botanic Ridge,22756,West Footscray,136.03,ok
+20314,Box Hill (Vic.),22756,West Footscray,67.22,ok
+20315,Box Hill North,22756,West Footscray,76.12,ok
+20316,Box Hill South,22756,West Footscray,73.37,ok
+20320,Braeside,22756,West Footscray,112.73,ok
+20324,Braybrook,22756,West Footscray,29.23,ok
+20331,Briar Hill,22756,West Footscray,101.15,ok
+20337,Brighton (Vic.),22756,West Footscray,69.58,ok
+20338,Brighton East,22756,West Footscray,73.38,ok
+20346,Broadmeadows (Vic.),22756,West Footscray,76.78,ok
+20351,Brookfield (Vic.),22756,West Footscray,136.35,ok
+20352,Brooklyn (Vic.),22756,West Footscray,21.37,ok
+20361,Brunswick (Vic.),22756,West Footscray,49.17,ok
+20362,Brunswick East,22756,West Footscray,60.55,ok
+20363,Brunswick West,22756,West Footscray,56.55,ok
+20381,Bulla (Vic.),22756,West Footscray,105.3,ok
+20386,Bulleen,22756,West Footscray,83.32,ok
+20387,Bullengarook,22756,West Footscray,,no_eligible_route
+20399,Bundoora (Vic.),22756,West Footscray,92.17,ok
+20411,Bunyip,22756,West Footscray,,no_eligible_route
+20412,Bunyip North,22756,West Footscray,,no_eligible_route
+20418,Burnley,22756,West Footscray,61.18,ok
+20419,Burnside (Vic.),22756,West Footscray,47.45,ok
+20420,Burnside Heights,22756,West Footscray,57.78,ok
+20426,Burwood (Vic.),22756,West Footscray,83.87,ok
+20427,Burwood East,22756,West Footscray,84.58,ok
+20435,Bylands,22756,West Footscray,,no_eligible_route
+20441,Cairnlea,22756,West Footscray,37.63,ok
+20442,Calder Park,22756,West Footscray,70.2,ok
+20443,Caldermeade,22756,West Footscray,,no_eligible_route
+20453,Camberwell (Vic.),22756,West Footscray,66.72,ok
+20455,Campbellfield,22756,West Footscray,90.92,ok
+20466,Cannons Creek,22756,West Footscray,,no_eligible_route
+20468,Canterbury (Vic.),22756,West Footscray,64.2,ok
+20474,Cape Schanck,22756,West Footscray,,no_eligible_route
+20476,Capel Sound,22756,West Footscray,176.57,ok
+20487,Cardinia,22756,West Footscray,,no_eligible_route
+20495,Carlton (Vic.),22756,West Footscray,37.17,ok
+20496,Carlton North,22756,West Footscray,49.9,ok
+20498,Carnegie,22756,West Footscray,60.42,ok
+20500,Caroline Springs,22756,West Footscray,55.33,ok
+20507,Carrum,22756,West Footscray,91.73,ok
+20508,Carrum Downs,22756,West Footscray,110.97,ok
+20512,Castella,22756,West Footscray,,no_eligible_route
+20517,Catani,22756,West Footscray,,no_eligible_route
+20521,Caulfield,22756,West Footscray,63.4,ok
+20522,Caulfield East,22756,West Footscray,53.62,ok
+20523,Caulfield North,22756,West Footscray,55.02,ok
+20524,Caulfield South,22756,West Footscray,67.93,ok
+20528,Chadstone,22756,West Footscray,68.75,ok
+20537,Chelsea,22756,West Footscray,88.98,ok
+20538,Chelsea Heights,22756,West Footscray,103.67,ok
+20539,Cheltenham (Vic.),22756,West Footscray,78.45,ok
+20541,Cherokee,22756,West Footscray,,no_eligible_route
+20555,Chintin,22756,West Footscray,,no_eligible_route
+20556,Chirnside Park,22756,West Footscray,116.28,ok
+20559,Christmas Hills (Vic.),22756,West Footscray,,no_eligible_route
+20560,Chum Creek,22756,West Footscray,,no_eligible_route
+20566,Clarinda,22756,West Footscray,79.83,ok
+20567,Clarkefield,22756,West Footscray,,no_eligible_route
+20569,Clayton,22756,West Footscray,74.53,ok
+20570,Clayton South,22756,West Footscray,88.52,ok
+20572,Clematis,22756,West Footscray,,no_eligible_route
+20574,Clifton Hill,22756,West Footscray,53.92,ok
+20576,Clonbinane,22756,West Footscray,,no_eligible_route
+20581,Clyde (Vic.),22756,West Footscray,144.87,ok
+20582,Clyde North,22756,West Footscray,122.63,ok
+20587,Cobaw,22756,West Footscray,,no_eligible_route
+20590,Cobblebank,22756,West Footscray,108.25,ok
+20596,Coburg,22756,West Footscray,56.9,ok
+20597,Coburg North,22756,West Footscray,67.47,ok
+20600,Cockatoo (Vic.),22756,West Footscray,,no_eligible_route
+20601,Cocoroc,22756,West Footscray,,no_eligible_route
+20605,Coimadai,22756,West Footscray,,no_eligible_route
+20613,Coldstream (Vic.),22756,West Footscray,,no_eligible_route
+20616,Collingwood (Vic.),22756,West Footscray,51.2,ok
+20624,Coolaroo,22756,West Footscray,71.38,ok
+20633,Cora Lynn,22756,West Footscray,,no_eligible_route
+20654,Cottles Bridge,22756,West Footscray,,no_eligible_route
+20661,Craigieburn,22756,West Footscray,93.22,ok
+20662,Cranbourne,22756,West Footscray,103.55,ok
+20663,Cranbourne East,22756,West Footscray,112.92,ok
+20664,Cranbourne North,22756,West Footscray,101.88,ok
+20665,Cranbourne South,22756,West Footscray,139.38,ok
+20666,Cranbourne West,22756,West Footscray,110.73,ok
+20670,Cremorne (Vic.),22756,West Footscray,52.57,ok
+20674,Crib Point,22756,West Footscray,160.22,ok
+20682,Croydon (Vic.),22756,West Footscray,89.02,ok
+20683,Croydon Hills,22756,West Footscray,109.33,ok
+20684,Croydon North,22756,West Footscray,106.77,ok
+20685,Croydon South,22756,West Footscray,107.93,ok
+20702,Dallas,22756,West Footscray,82.92,ok
+20703,Dalmore,22756,West Footscray,,no_eligible_route
+20707,Dandenong,22756,West Footscray,83.28,ok
+20708,Dandenong North,22756,West Footscray,101.83,ok
+20709,Dandenong South,22756,West Footscray,102.13,ok
+20712,Darley,22756,West Footscray,,no_eligible_route
+20716,Darraweit Guim,22756,West Footscray,,no_eligible_route
+20724,Deanside,22756,West Footscray,77.7,ok
+20728,Deepdene (Vic.),22756,West Footscray,69.55,ok
+20729,Deer Park,22756,West Footscray,36.4,ok
+20731,Delahey,22756,West Footscray,50.53,ok
+20743,Derrimut,22756,West Footscray,65.97,ok
+20748,Devon Meadows,22756,West Footscray,151.62,ok
+20750,Dewhurst,22756,West Footscray,,no_eligible_route
+20752,Diamond Creek,22756,West Footscray,104.75,ok
+20754,Diggers Rest,22756,West Footscray,62.52,ok
+20758,Dingley Village,22756,West Footscray,90.35,ok
+20762,Dixons Creek,22756,West Footscray,,no_eligible_route
+20766,Docklands,22756,West Footscray,43.87,ok
+20769,Don Valley,22756,West Footscray,,no_eligible_route
+20771,Doncaster,22756,West Footscray,78.92,ok
+20772,Doncaster East,22756,West Footscray,81.88,ok
+20773,Donnybrook (Vic.),22756,West Footscray,113.72,ok
+20774,Donvale,22756,West Footscray,101.13,ok
+20779,Doreen,22756,West Footscray,126.75,ok
+20783,Doveton,22756,West Footscray,97.75,ok
+20788,Dromana,22756,West Footscray,187.35,ok
+20825,Eaglemont,22756,West Footscray,72.8,ok
+20830,East Melbourne,22756,West Footscray,47.55,ok
+20833,East Warburton,22756,West Footscray,,no_eligible_route
+20843,Eden Park,22756,West Footscray,,no_eligible_route
+20848,Edithvale,22756,West Footscray,89.12,ok
+20864,Elsternwick,22756,West Footscray,64.73,ok
+20865,Eltham (Vic.),22756,West Footscray,103.88,ok
+20866,Eltham North,22756,West Footscray,98.87,ok
+20867,Elwood,22756,West Footscray,68.78,ok
+20868,Emerald (Vic.),22756,West Footscray,,no_eligible_route
+20871,Endeavour Hills,22756,West Footscray,105.08,ok
+20878,Epping (Vic.),22756,West Footscray,105.52,ok
+20885,Essendon,22756,West Footscray,57.43,ok
+20886,Essendon Fields,22756,West Footscray,78.48,ok
+20887,Essendon North,22756,West Footscray,59.48,ok
+20888,Essendon West,22756,West Footscray,50.88,ok
+20889,Eumemmerring,22756,West Footscray,100.77,ok
+20898,Exford,22756,West Footscray,,no_eligible_route
+20899,Eynesbury,22756,West Footscray,144.35,ok
+20901,Fairfield (Vic.),22756,West Footscray,57.87,ok
+20909,Fawkner,22756,West Footscray,77.88,ok
+20916,Fernshaw,22756,West Footscray,,no_eligible_route
+20917,Ferntree Gully,22756,West Footscray,95.75,ok
+20918,Ferny Creek,22756,West Footscray,143.28,ok
+20920,Fingal (Vic.),22756,West Footscray,,no_eligible_route
+20924,Fitzroy (Vic.),22756,West Footscray,45.1,ok
+20925,Fitzroy North,22756,West Footscray,54.65,ok
+20929,Flemington,22756,West Footscray,43.3,ok
+20930,Flinders (Vic.),22756,West Footscray,,no_eligible_route
+20935,Footscray,22756,West Footscray,16.82,ok
+20937,Forest Hill (Vic.),22756,West Footscray,85.57,ok
+20947,Frankston,22756,West Footscray,111.7,ok
+20948,Frankston North,22756,West Footscray,120.85,ok
+20949,Frankston South,22756,West Footscray,131.97,ok
+20950,Fraser Rise,22756,West Footscray,78.47,ok
+20965,Gardenvale,22756,West Footscray,66.02,ok
+20966,Garfield,22756,West Footscray,,no_eligible_route
+20967,Garfield North,22756,West Footscray,,no_eligible_route
+20979,Gembrook,22756,West Footscray,,no_eligible_route
+20995,Gilderoy,22756,West Footscray,,no_eligible_route
+21001,Gisborne,22756,West Footscray,,no_eligible_route
+21002,Gisborne South,22756,West Footscray,,no_eligible_route
+21004,Gladstone Park,22756,West Footscray,88.75,ok
+21005,Gladysdale,22756,West Footscray,,no_eligible_route
+21009,Glen Huntly,22756,West Footscray,63.23,ok
+21010,Glen Iris (Vic.),22756,West Footscray,74.27,ok
+21013,Glen Waverley,22756,West Footscray,84.2,ok
+21047,Glenroy (Vic.),22756,West Footscray,71.63,ok
+21059,Goldie,22756,West Footscray,,no_eligible_route
+21079,Gowanbrae,22756,West Footscray,89.08,ok
+21087,Grangefields,22756,West Footscray,109.35,ok
+21104,Greensborough,22756,West Footscray,89.3,ok
+21105,Greenvale (Vic.),22756,West Footscray,102.32,ok
+21115,Gruyere,22756,West Footscray,,no_eligible_route
+21121,Guys Hill,22756,West Footscray,,no_eligible_route
+21124,Hadfield,22756,West Footscray,76.4,ok
+21125,Hallam,22756,West Footscray,103.28,ok
+21131,Hampton (Vic.),22756,West Footscray,77.42,ok
+21132,Hampton East,22756,West Footscray,78.47,ok
+21133,Hampton Park,22756,West Footscray,98.68,ok
+21139,Harkaway,22756,West Footscray,,no_eligible_route
+21140,Harkness,22756,West Footscray,145.97,ok
+21145,Hastings (Vic.),22756,West Footscray,145.13,ok
+21152,Hawthorn (Vic.),22756,West Footscray,60.58,ok
+21153,Hawthorn East,22756,West Footscray,67.07,ok
+21158,Healesville,22756,West Footscray,171.03,ok
+21159,Heath Hill,22756,West Footscray,,no_eligible_route
+21161,Heathcote Junction,22756,West Footscray,,no_eligible_route
+21163,Heatherton,22756,West Footscray,86.85,ok
+21165,Heathmont,22756,West Footscray,81.7,ok
+21167,Heidelberg,22756,West Footscray,78.83,ok
+21168,Heidelberg Heights,22756,West Footscray,81.1,ok
+21169,Heidelberg West,22756,West Footscray,83.28,ok
+21176,Hesket,22756,West Footscray,,no_eligible_route
+21185,Highett,22756,West Footscray,71.23,ok
+21193,Hillside (Melton - Vic.),22756,West Footscray,56.6,ok
+21195,Hmas Cerberus,22756,West Footscray,,no_eligible_route
+21196,Hoddles Creek,22756,West Footscray,,no_eligible_route
+21202,Hopetoun Park,22756,West Footscray,,no_eligible_route
+21203,Hoppers Crossing,22756,West Footscray,67.87,ok
+21214,Hughesdale,22756,West Footscray,61.83,ok
+21215,Humevale,22756,West Footscray,157.13,ok
+21218,Huntingdale (Vic.),22756,West Footscray,67.27,ok
+21223,Hurstbridge,22756,West Footscray,105.3,ok
+21238,Iona,22756,West Footscray,,no_eligible_route
+21246,Ivanhoe (Vic.),22756,West Footscray,66.55,ok
+21247,Ivanhoe East,22756,West Footscray,67.45,ok
+21248,Jacana,22756,West Footscray,76.2,ok
+21277,Junction Village,22756,West Footscray,137.75,ok
+21284,Kalkallo,22756,West Footscray,129.32,ok
+21286,Kallista,22756,West Footscray,141.23,ok
+21287,Kalorama,22756,West Footscray,115.98,ok
+21294,Kangaroo Ground,22756,West Footscray,133.53,ok
+21312,Kealba,22756,West Footscray,42.78,ok
+21314,Keilor,22756,West Footscray,69.57,ok
+21315,Keilor Downs,22756,West Footscray,50.45,ok
+21316,Keilor East,22756,West Footscray,47.58,ok
+21317,Keilor Lodge,22756,West Footscray,51.3,ok
+21318,Keilor North,22756,West Footscray,67.45,ok
+21319,Keilor Park,22756,West Footscray,70.72,ok
+21327,Kensington (Vic.),22756,West Footscray,31.15,ok
+21333,Kerrie,22756,West Footscray,,no_eligible_route
+21336,Kew (Vic.),22756,West Footscray,67.2,ok
+21337,Kew East,22756,West Footscray,71.23,ok
+21339,Keysborough,22756,West Footscray,95.88,ok
+21354,Kilsyth,22756,West Footscray,105.37,ok
+21355,Kilsyth South,22756,West Footscray,116.45,ok
+21358,Kinglake,22756,West Footscray,206.07,ok
+21359,Kinglake Central,22756,West Footscray,,no_eligible_route
+21360,Kinglake West,22756,West Footscray,160.1,ok
+21362,Kings Park (Vic.),22756,West Footscray,45.77,ok
+21363,Kingsbury,22756,West Footscray,91.38,ok
+21365,Kingsville,22756,West Footscray,17.63,ok
+21374,Knoxfield,22756,West Footscray,96.65,ok
+21380,Koo Wee Rup,22756,West Footscray,,no_eligible_route
+21381,Koo Wee Rup North,22756,West Footscray,,no_eligible_route
+21393,Kooyong,22756,West Footscray,57.97,ok
+21411,Kurunjang,22756,West Footscray,102.28,ok
+21452,Lalor,22756,West Footscray,86.72,ok
+21456,Lancefield,22756,West Footscray,,no_eligible_route
+21459,Lang Lang,22756,West Footscray,,no_eligible_route
+21460,Lang Lang East,22756,West Footscray,,no_eligible_route
+21467,Langwarrin,22756,West Footscray,126.27,ok
+21468,Langwarrin South,22756,West Footscray,,no_eligible_route
+21473,Launching Place,22756,West Footscray,130.67,ok
+21476,Laverton (Vic.),22756,West Footscray,39.67,ok
+21477,Laverton North,22756,West Footscray,51.08,ok
+21504,Lilydale (Vic.),22756,West Footscray,110.32,ok
+21533,Long Forest,22756,West Footscray,,no_eligible_route
+21547,Lower Plenty,22756,West Footscray,113.57,ok
+21554,Lynbrook,22756,West Footscray,93.05,ok
+21555,Lyndhurst (Vic.),22756,West Footscray,139.12,ok
+21558,Lysterfield,22756,West Footscray,159.6,ok
+21559,Lysterfield South,22756,West Footscray,149.25,ok
+21561,Macclesfield (Vic.),22756,West Footscray,,no_eligible_route
+21562,Macedon,22756,West Footscray,,no_eligible_route
+21564,Macleod (Vic.),22756,West Footscray,79.6,ok
+21569,Maddingley,22756,West Footscray,,no_eligible_route
+21575,Maidstone,22756,West Footscray,31.77,ok
+21578,Main Ridge,22756,West Footscray,,no_eligible_route
+21586,Malvern (Vic.),22756,West Footscray,58.67,ok
+21587,Malvern East,22756,West Footscray,66.08,ok
+21588,Mambourin,22756,West Footscray,,no_eligible_route
+21597,Manor Lakes,22756,West Footscray,104.57,ok
+21604,Maribyrnong,22756,West Footscray,41.95,ok
+21619,Maryknoll,22756,West Footscray,,no_eligible_route
+21625,McCrae,22756,West Footscray,171.77,ok
+21629,McKinnon,22756,West Footscray,60.53,ok
+21635,Meadow Heights,22756,West Footscray,85.65,ok
+21640,Melbourne,22756,West Footscray,41.65,ok
+21641,Melbourne Airport,22756,West Footscray,,no_eligible_route
+21642,Melton (Vic.),22756,West Footscray,112.47,ok
+21643,Melton South,22756,West Footscray,110.83,ok
+21644,Melton West,22756,West Footscray,98.47,ok
+21648,Mentone,22756,West Footscray,73.22,ok
+21649,Menzies Creek,22756,West Footscray,,no_eligible_route
+21659,Mernda,22756,West Footscray,118.2,ok
+21662,Merricks,22756,West Footscray,,no_eligible_route
+21663,Merricks Beach,22756,West Footscray,,no_eligible_route
+21664,Merricks North,22756,West Footscray,,no_eligible_route
+21668,Merrimu,22756,West Footscray,,no_eligible_route
+21675,Mickleham,22756,West Footscray,123.22,ok
+21677,Middle Park (Vic.),22756,West Footscray,57.98,ok
+21683,Mill Park,22756,West Footscray,104.32,ok
+21685,Millgrove,22756,West Footscray,,no_eligible_route
+21706,Mitcham (Vic.),22756,West Footscray,79.43,ok
+21727,Monbulk,22756,West Footscray,148.68,ok
+21728,Monegeetta,22756,West Footscray,,no_eligible_route
+21731,Monomeith,22756,West Footscray,,no_eligible_route
+21732,Mont Albert,22756,West Footscray,70.08,ok
+21733,Mont Albert North,22756,West Footscray,78.4,ok
+21735,Montmorency,22756,West Footscray,89.95,ok
+21736,Montrose (Vic.),22756,West Footscray,108.28,ok
+21742,Moonee Ponds,22756,West Footscray,43.05,ok
+21746,Moorabbin,22756,West Footscray,78.48,ok
+21747,Moorabbin Airport,22756,West Footscray,94.72,ok
+21754,Moorooduc,22756,West Footscray,,no_eligible_route
+21755,Mooroolbark,22756,West Footscray,98.22,ok
+21760,Mordialloc,22756,West Footscray,88.52,ok
+21763,Mornington (Vic.),22756,West Footscray,145.4,ok
+21779,Mount Burnett,22756,West Footscray,,no_eligible_route
+21786,Mount Cottrell,22756,West Footscray,,no_eligible_route
+21787,Mount Dandenong,22756,West Footscray,119.98,ok
+21793,Mount Eliza,22756,West Footscray,119.75,ok
+21795,Mount Evelyn,22756,West Footscray,124.15,ok
+21801,Mount Macedon,22756,West Footscray,,no_eligible_route
+21803,Mount Martha,22756,West Footscray,138.28,ok
+21814,Mount Toolebewong,22756,West Footscray,,no_eligible_route
+21816,Mount Waverley,22756,West Footscray,75.07,ok
+21827,Mulgrave (Vic.),22756,West Footscray,91.02,ok
+21849,Murrumbeena,22756,West Footscray,61.95,ok
+21872,Nangana,22756,West Footscray,,no_eligible_route
+21878,Nar Nar Goon,22756,West Footscray,,no_eligible_route
+21879,Nar Nar Goon North,22756,West Footscray,,no_eligible_route
+21893,Narre Warren,22756,West Footscray,100.27,ok
+21894,Narre Warren East,22756,West Footscray,,no_eligible_route
+21895,Narre Warren North,22756,West Footscray,113.53,ok
+21896,Narre Warren South,22756,West Footscray,105.08,ok
+21921,New Gisborne,22756,West Footscray,,no_eligible_route
+21934,Newport (Vic.),22756,West Footscray,34.48,ok
+21942,Niddrie,22756,West Footscray,71.43,ok
+21952,Noble Park,22756,West Footscray,74.05,ok
+21953,Noble Park North,22756,West Footscray,93.75,ok
+21966,North Melbourne,22756,West Footscray,33.18,ok
+21969,North Warrandyte,22756,West Footscray,117.52,ok
+21971,Northcote,22756,West Footscray,65.45,ok
+21974,Notting Hill,22756,West Footscray,79.0,ok
+21985,Nunawading,22756,West Footscray,71.92,ok
+21991,Nutfield,22756,West Footscray,,no_eligible_route
+21998,Oak Park,22756,West Footscray,63.87,ok
+21999,Oaklands Junction,22756,West Footscray,,no_eligible_route
+22000,Oakleigh,22756,West Footscray,63.5,ok
+22001,Oakleigh East,22756,West Footscray,73.32,ok
+22002,Oakleigh South,22756,West Footscray,73.13,ok
+22006,Officer,22756,West Footscray,117.82,ok
+22007,Officer South,22756,West Footscray,150.38,ok
+22009,Olinda (Vic.),22756,West Footscray,144.6,ok
+22016,Ormond,22756,West Footscray,60.97,ok
+22027,Pakenham,22756,West Footscray,114.73,ok
+22028,Pakenham South,22756,West Footscray,,no_eligible_route
+22029,Pakenham Upper,22756,West Footscray,,no_eligible_route
+22032,Panton Hill,22756,West Footscray,,no_eligible_route
+22036,Park Orchards,22756,West Footscray,92.88,ok
+22037,Parkdale,22756,West Footscray,78.3,ok
+22038,Parkville (Vic.),22756,West Footscray,46.25,ok
+22041,Pascoe Vale,22756,West Footscray,68.23,ok
+22042,Pascoe Vale South,22756,West Footscray,63.97,ok
+22047,Patterson Lakes,22756,West Footscray,106.6,ok
+22050,Pearcedale,22756,West Footscray,156.68,ok
+22058,Pentland Hills,22756,West Footscray,,no_eligible_route
+22064,Pheasant Creek (Vic.),22756,West Footscray,175.75,ok
+22084,Plenty (Vic.),22756,West Footscray,114.88,ok
+22085,Plumpton (Vic.),22756,West Footscray,,no_eligible_route
+22086,Point Cook,22756,West Footscray,66.87,ok
+22087,Point Leo,22756,West Footscray,,no_eligible_route
+22107,Port Melbourne,22756,West Footscray,53.48,ok
+22113,Portsea,22756,West Footscray,208.07,ok
+22115,Powelltown,22756,West Footscray,,no_eligible_route
+22118,Prahran,22756,West Footscray,57.03,ok
+22121,Preston (Vic.),22756,West Footscray,76.23,ok
+22122,Princes Hill,22756,West Footscray,51.92,ok
+22132,Quandong,22756,West Footscray,,no_eligible_route
+22141,Ravenhall,22756,West Footscray,84.83,ok
+22148,Red Hill (Vic.),22756,West Footscray,,no_eligible_route
+22149,Red Hill South,22756,West Footscray,,no_eligible_route
+22160,Research,22756,West Footscray,111.38,ok
+22161,Reservoir (Vic.),22756,West Footscray,83.53,ok
+22170,Richmond (Vic.),22756,West Footscray,57.5,ok
+22172,Riddells Creek,22756,West Footscray,,no_eligible_route
+22174,Ringwood (Vic.),22756,West Footscray,86.05,ok
+22175,Ringwood East,22756,West Footscray,89.1,ok
+22176,Ringwood North,22756,West Footscray,98.73,ok
+22179,Ripponlea,22756,West Footscray,55.45,ok
+22185,Rochford,22756,West Footscray,,no_eligible_route
+22186,Rockbank,22756,West Footscray,83.73,ok
+22193,Romsey,22756,West Footscray,,no_eligible_route
+22194,Rosanna,22756,West Footscray,76.37,ok
+22198,Rosebud,22756,West Footscray,188.08,ok
+22207,Rowville,22756,West Footscray,105.33,ok
+22208,Roxburgh Park,22756,West Footscray,91.48,ok
+22220,Rye,22756,West Footscray,200.28,ok
+22221,Rythdale,22756,West Footscray,,no_eligible_route
+22222,Safety Beach (Vic.),22756,West Footscray,155.25,ok
+22232,Sandhurst,22756,West Footscray,134.93,ok
+22234,Sandringham (Vic.),22756,West Footscray,82.3,ok
+22239,Sassafras (Vic.),22756,West Footscray,126.05,ok
+22242,Scoresby,22756,West Footscray,93.3,ok
+22247,Seabrook,22756,West Footscray,66.03,ok
+22249,Seaford (Vic.),22756,West Footscray,103.83,ok
+22250,Seaholme,22756,West Footscray,37.77,ok
+22256,Seddon (Vic.),22756,West Footscray,13.12,ok
+22258,Selby,22756,West Footscray,137.12,ok
+22263,Seville,22756,West Footscray,141.83,ok
+22264,Seville East,22756,West Footscray,128.72,ok
+22278,Sherbrooke,22756,West Footscray,131.3,ok
+22279,Shoreham,22756,West Footscray,,no_eligible_route
+22281,Silvan,22756,West Footscray,140.78,ok
+22291,Skye (Vic.),22756,West Footscray,114.28,ok
+22295,Smiths Gully,22756,West Footscray,,no_eligible_route
+22303,Somers,22756,West Footscray,,no_eligible_route
+22304,Somerton (Vic.),22756,West Footscray,89.85,ok
+22305,Somerville (Vic.),22756,West Footscray,150.23,ok
+22306,Sorrento (Vic.),22756,West Footscray,188.05,ok
+22309,South Kingsville,22756,West Footscray,41.22,ok
+22310,South Melbourne,22756,West Footscray,49.48,ok
+22311,South Morang,22756,West Footscray,107.93,ok
+22313,South Wharf,22756,West Footscray,46.85,ok
+22314,South Yarra,22756,West Footscray,46.22,ok
+22315,Southbank,22756,West Footscray,47.52,ok
+22319,Spotswood,22756,West Footscray,36.88,ok
+22325,Springfield (Macedon Ranges - Vic.),22756,West Footscray,,no_eligible_route
+22328,Springvale (Vic.),22756,West Footscray,75.02,ok
+22329,Springvale South,22756,West Footscray,79.23,ok
+22330,St Albans (Vic.),22756,West Footscray,33.05,ok
+22332,St Andrews (Vic.),22756,West Footscray,,no_eligible_route
+22333,St Andrews Beach,22756,West Footscray,,no_eligible_route
+22339,St Helena,22756,West Footscray,97.13,ok
+22343,St Kilda (Vic.),22756,West Footscray,59.2,ok
+22344,St Kilda East,22756,West Footscray,63.37,ok
+22345,St Kilda West,22756,West Footscray,56.87,ok
+22355,Steels Creek,22756,West Footscray,,no_eligible_route
+22375,Strathewen,22756,West Footscray,,no_eligible_route
+22380,Strathmore (Vic.),22756,West Footscray,72.03,ok
+22381,Strathmore Heights,22756,West Footscray,82.03,ok
+22382,Strathtulloh,22756,West Footscray,164.72,ok
+22391,Sunbury,22756,West Footscray,97.85,ok
+22395,Sunshine (Vic.),22756,West Footscray,21.83,ok
+22396,Sunshine North,22756,West Footscray,39.9,ok
+22397,Sunshine West,22756,West Footscray,42.4,ok
+22399,Surrey Hills,22756,West Footscray,70.48,ok
+22414,Sydenham (Vic.),22756,West Footscray,47.45,ok
+22451,Tarneit,22756,West Footscray,85.93,ok
+22457,Tarrawarra,22756,West Footscray,146.63,ok
+22473,Taylors Hill,22756,West Footscray,52.28,ok
+22474,Taylors Lakes,22756,West Footscray,41.87,ok
+22476,Tecoma,22756,West Footscray,101.52,ok
+22483,Templestowe,22756,West Footscray,87.28,ok
+22484,Templestowe Lower,22756,West Footscray,82.25,ok
+22496,The Basin (Vic.),22756,West Footscray,112.7,ok
+22501,The Patch,22756,West Footscray,139.25,ok
+22504,Thomastown,22756,West Footscray,92.02,ok
+22508,Thornbury,22756,West Footscray,71.62,ok
+22509,Thornhill Park,22756,West Footscray,,no_eligible_route
+22514,Three Bridges,22756,West Footscray,,no_eligible_route
+22531,Tonimbuk,22756,West Footscray,,no_eligible_route
+22536,Toolangi,22756,West Footscray,,no_eligible_route
+22537,Toolern Vale,22756,West Footscray,,no_eligible_route
+22546,Tooradin,22756,West Footscray,,no_eligible_route
+22547,Toorak,22756,West Footscray,62.08,ok
+22550,Tootgarook,22756,West Footscray,183.7,ok
+22556,Tottenham (Vic.),22756,West Footscray,29.9,ok
+22572,Travancore,22756,West Footscray,51.85,ok
+22576,Tremont,22756,West Footscray,119.12,ok
+22582,Truganina,22756,West Footscray,148.57,ok
+22584,Tuerong,22756,West Footscray,,no_eligible_route
+22586,Tullamarine,22756,West Footscray,88.28,ok
+22594,Tyabb,22756,West Footscray,142.55,ok
+22598,Tynong,22756,West Footscray,,no_eligible_route
+22599,Tynong North,22756,West Footscray,,no_eligible_route
+22614,Upper Ferntree Gully,22756,West Footscray,98.67,ok
+22617,Upper Plenty,22756,West Footscray,,no_eligible_route
+22620,Upwey,22756,West Footscray,101.38,ok
+22627,Vermont,22756,West Footscray,93.47,ok
+22628,Vermont South,22756,West Footscray,99.85,ok
+22629,Vervale,22756,West Footscray,,no_eligible_route
+22633,Viewbank,22756,West Footscray,88.85,ok
+22661,Wallan,22756,West Footscray,,no_eligible_route
+22672,Wandin East,22756,West Footscray,,no_eligible_route
+22673,Wandin North,22756,West Footscray,114.8,ok
+22676,Wandong,22756,West Footscray,,no_eligible_route
+22685,Wantirna,22756,West Footscray,101.55,ok
+22686,Wantirna South,22756,West Footscray,106.37,ok
+22689,Warburton (Vic.),22756,West Footscray,,no_eligible_route
+22695,Warneet,22756,West Footscray,,no_eligible_route
+22702,Warrandyte,22756,West Footscray,95.07,ok
+22703,Warrandyte South,22756,West Footscray,125.03,ok
+22704,Warranwood,22756,West Footscray,102.7,ok
+22717,Waterford Park,22756,West Footscray,,no_eligible_route
+22720,Waterways,22756,West Footscray,103.67,ok
+22721,Watsonia,22756,West Footscray,77.3,ok
+22722,Watsonia North,22756,West Footscray,93.75,ok
+22723,Watsons Creek (Vic.),22756,West Footscray,,no_eligible_route
+22727,Wattle Glen,22756,West Footscray,109.05,ok
+22740,Weir Views,22756,West Footscray,133.92,ok
+22750,Werribee,22756,West Footscray,65.67,ok
+22751,Werribee South,22756,West Footscray,102.68,ok
+22753,Wesburn,22756,West Footscray,146.77,ok
+22756,West Footscray,22756,West Footscray,0.0,same_centroid
+22757,West Melbourne,22756,West Footscray,44.47,ok
+22761,Westmeadows,22756,West Footscray,83.9,ok
+22766,Wheelers Hill,22756,West Footscray,84.73,ok
+22775,Whittlesea,22756,West Footscray,,no_eligible_route
+22784,Wildwood,22756,West Footscray,,no_eligible_route
+22791,Williams Landing,22756,West Footscray,63.88,ok
+22792,Williamstown (Vic.),22756,West Footscray,44.73,ok
+22793,Williamstown North,22756,West Footscray,48.27,ok
+22805,Windsor (Vic.),22756,West Footscray,52.72,ok
+22820,Wollert,22756,West Footscray,111.75,ok
+22825,Wonga Park,22756,West Footscray,116.55,ok
+22843,Woodstock (Vic.),22756,West Footscray,,no_eligible_route
+22857,Woori Yallock,22756,West Footscray,125.92,ok
+22883,Wyndham Vale,22756,West Footscray,89.48,ok
+22892,Yallambie,22756,West Footscray,97.58,ok
+22898,Yan Yean,22756,West Footscray,138.48,ok
+22906,Yannathan,22756,West Footscray,,no_eligible_route
+22910,Yarra Glen,22756,West Footscray,143.93,ok
+22911,Yarra Junction,22756,West Footscray,151.03,ok
+22916,Yarrambat,22756,West Footscray,111.45,ok
+22917,Yarraville,22756,West Footscray,26.12,ok
+22925,Yellingbo,22756,West Footscray,,no_eligible_route
+22930,Yering,22756,West Footscray,,no_eligible_route
+22941,Yuroke,22756,West Footscray,141.85,ok

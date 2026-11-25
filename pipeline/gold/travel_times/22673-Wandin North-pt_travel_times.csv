@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22673,Wandin North,121.6,ok
+20003,Aberfeldie,22673,Wandin North,158.55,ok
+20011,Aintree,22673,Wandin North,,no_eligible_route
+20015,Airport West,22673,Wandin North,163.25,ok
+20017,Albanvale,22673,Wandin North,196.83,ok
+20018,Albert Park (Vic.),22673,Wandin North,119.72,ok
+20021,Albion (Vic.),22673,Wandin North,159.75,ok
+20034,Alphington,22673,Wandin North,115.77,ok
+20035,Altona (Vic.),22673,Wandin North,160.85,ok
+20036,Altona Meadows,22673,Wandin North,185.55,ok
+20037,Altona North,22673,Wandin North,,no_eligible_route
+20062,Ardeer,22673,Wandin North,177.98,ok
+20066,Armadale (Vic.),22673,Wandin North,116.0,ok
+20071,Arthurs Creek,22673,Wandin North,,no_eligible_route
+20072,Arthurs Seat,22673,Wandin North,,no_eligible_route
+20075,Ascot Vale,22673,Wandin North,134.68,ok
+20077,Ashburton,22673,Wandin North,104.6,ok
+20078,Ashwood,22673,Wandin North,114.12,ok
+20079,Aspendale,22673,Wandin North,162.25,ok
+20080,Aspendale Gardens,22673,Wandin North,165.25,ok
+20082,Attwood,22673,Wandin North,186.2,ok
+20089,Avondale Heights,22673,Wandin North,176.35,ok
+20091,Avonsleigh,22673,Wandin North,,no_eligible_route
+20095,Bacchus Marsh,22673,Wandin North,,no_eligible_route
+20097,Badger Creek,22673,Wandin North,104.45,ok
+20105,Balaclava (Vic.),22673,Wandin North,119.63,ok
+20120,Balnarring,22673,Wandin North,,no_eligible_route
+20121,Balnarring Beach,22673,Wandin North,,no_eligible_route
+20123,Balwyn,22673,Wandin North,94.78,ok
+20124,Balwyn North,22673,Wandin North,110.03,ok
+20131,Bangholme,22673,Wandin North,,no_eligible_route
+20169,Baxter,22673,Wandin North,,no_eligible_route
+20171,Bayles,22673,Wandin North,,no_eligible_route
+20173,Bayswater (Vic.),22673,Wandin North,81.75,ok
+20174,Bayswater North,22673,Wandin North,66.68,ok
+20175,Beaconsfield (Vic.),22673,Wandin North,,no_eligible_route
+20176,Beaconsfield Upper,22673,Wandin North,,no_eligible_route
+20182,Beaumaris (Vic.),22673,Wandin North,170.65,ok
+20187,Beenak,22673,Wandin North,,no_eligible_route
+20188,Belgrave,22673,Wandin North,83.63,ok
+20189,Belgrave Heights,22673,Wandin North,116.0,ok
+20190,Belgrave South,22673,Wandin North,114.98,ok
+20198,Bellfield (Banyule - Vic.),22673,Wandin North,143.8,ok
+20207,Bend Of Islands,22673,Wandin North,,no_eligible_route
+20212,Benloch,22673,Wandin North,,no_eligible_route
+20214,Bentleigh,22673,Wandin North,139.03,ok
+20215,Bentleigh East,22673,Wandin North,136.43,ok
+20224,Berwick,22673,Wandin North,166.5,ok
+20233,Beveridge,22673,Wandin North,,no_eligible_route
+20237,Big Pats Creek,22673,Wandin North,,no_eligible_route
+20248,Bittern,22673,Wandin North,,no_eligible_route
+20251,Black Rock (Vic.),22673,Wandin North,,no_eligible_route
+20252,Blackburn,22673,Wandin North,69.57,ok
+20253,Blackburn North,22673,Wandin North,91.62,ok
+20254,Blackburn South,22673,Wandin North,93.92,ok
+20257,Blairgowrie,22673,Wandin North,,no_eligible_route
+20260,Blind Bight,22673,Wandin North,,no_eligible_route
+20272,Bolinda,22673,Wandin North,,no_eligible_route
+20278,Bonbeach,22673,Wandin North,167.25,ok
+20280,Boneo,22673,Wandin North,,no_eligible_route
+20282,Bonnie Brook,22673,Wandin North,,no_eligible_route
+20304,Boronia,22673,Wandin North,74.4,ok
+20307,Botanic Ridge,22673,Wandin North,,no_eligible_route
+20314,Box Hill (Vic.),22673,Wandin North,74.03,ok
+20315,Box Hill North,22673,Wandin North,99.18,ok
+20316,Box Hill South,22673,Wandin North,84.93,ok
+20320,Braeside,22673,Wandin North,,no_eligible_route
+20324,Braybrook,22673,Wandin North,154.08,ok
+20331,Briar Hill,22673,Wandin North,121.35,ok
+20337,Brighton (Vic.),22673,Wandin North,140.73,ok
+20338,Brighton East,22673,Wandin North,143.72,ok
+20346,Broadmeadows (Vic.),22673,Wandin North,155.72,ok
+20351,Brookfield (Vic.),22673,Wandin North,,no_eligible_route
+20352,Brooklyn (Vic.),22673,Wandin North,166.32,ok
+20361,Brunswick (Vic.),22673,Wandin North,117.5,ok
+20362,Brunswick East,22673,Wandin North,133.37,ok
+20363,Brunswick West,22673,Wandin North,141.88,ok
+20381,Bulla (Vic.),22673,Wandin North,,no_eligible_route
+20386,Bulleen,22673,Wandin North,133.6,ok
+20387,Bullengarook,22673,Wandin North,,no_eligible_route
+20399,Bundoora (Vic.),22673,Wandin North,127.95,ok
+20411,Bunyip,22673,Wandin North,,no_eligible_route
+20412,Bunyip North,22673,Wandin North,,no_eligible_route
+20418,Burnley,22673,Wandin North,105.2,ok
+20419,Burnside (Vic.),22673,Wandin North,,no_eligible_route
+20420,Burnside Heights,22673,Wandin North,,no_eligible_route
+20426,Burwood (Vic.),22673,Wandin North,101.68,ok
+20427,Burwood East,22673,Wandin North,91.92,ok
+20435,Bylands,22673,Wandin North,,no_eligible_route
+20441,Cairnlea,22673,Wandin North,182.4,ok
+20442,Calder Park,22673,Wandin North,,no_eligible_route
+20443,Caldermeade,22673,Wandin North,,no_eligible_route
+20453,Camberwell (Vic.),22673,Wandin North,103.53,ok
+20455,Campbellfield,22673,Wandin North,171.25,ok
+20466,Cannons Creek,22673,Wandin North,,no_eligible_route
+20468,Canterbury (Vic.),22673,Wandin North,81.02,ok
+20474,Cape Schanck,22673,Wandin North,,no_eligible_route
+20476,Capel Sound,22673,Wandin North,,no_eligible_route
+20487,Cardinia,22673,Wandin North,,no_eligible_route
+20495,Carlton (Vic.),22673,Wandin North,115.45,ok
+20496,Carlton North,22673,Wandin North,137.55,ok
+20498,Carnegie,22673,Wandin North,134.55,ok
+20500,Caroline Springs,22673,Wandin North,,no_eligible_route
+20507,Carrum,22673,Wandin North,167.07,ok
+20508,Carrum Downs,22673,Wandin North,166.3,ok
+20512,Castella,22673,Wandin North,,no_eligible_route
+20517,Catani,22673,Wandin North,,no_eligible_route
+20521,Caulfield,22673,Wandin North,133.73,ok
+20522,Caulfield East,22673,Wandin North,125.42,ok
+20523,Caulfield North,22673,Wandin North,120.35,ok
+20524,Caulfield South,22673,Wandin North,138.27,ok
+20528,Chadstone,22673,Wandin North,114.22,ok
+20537,Chelsea,22673,Wandin North,158.37,ok
+20538,Chelsea Heights,22673,Wandin North,,no_eligible_route
+20539,Cheltenham (Vic.),22673,Wandin North,151.63,ok
+20541,Cherokee,22673,Wandin North,,no_eligible_route
+20555,Chintin,22673,Wandin North,,no_eligible_route
+20556,Chirnside Park,22673,Wandin North,50.62,ok
+20559,Christmas Hills (Vic.),22673,Wandin North,,no_eligible_route
+20560,Chum Creek,22673,Wandin North,,no_eligible_route
+20566,Clarinda,22673,Wandin North,126.53,ok
+20567,Clarkefield,22673,Wandin North,,no_eligible_route
+20569,Clayton,22673,Wandin North,112.67,ok
+20570,Clayton South,22673,Wandin North,131.85,ok
+20572,Clematis,22673,Wandin North,,no_eligible_route
+20574,Clifton Hill,22673,Wandin North,109.85,ok
+20576,Clonbinane,22673,Wandin North,,no_eligible_route
+20581,Clyde (Vic.),22673,Wandin North,,no_eligible_route
+20582,Clyde North,22673,Wandin North,,no_eligible_route
+20587,Cobaw,22673,Wandin North,,no_eligible_route
+20590,Cobblebank,22673,Wandin North,,no_eligible_route
+20596,Coburg,22673,Wandin North,123.23,ok
+20597,Coburg North,22673,Wandin North,132.8,ok
+20600,Cockatoo (Vic.),22673,Wandin North,,no_eligible_route
+20601,Cocoroc,22673,Wandin North,,no_eligible_route
+20605,Coimadai,22673,Wandin North,,no_eligible_route
+20613,Coldstream (Vic.),22673,Wandin North,182.9,walk_only
+20616,Collingwood (Vic.),22673,Wandin North,109.18,ok
+20624,Coolaroo,22673,Wandin North,153.47,ok
+20633,Cora Lynn,22673,Wandin North,,no_eligible_route
+20654,Cottles Bridge,22673,Wandin North,,no_eligible_route
+20661,Craigieburn,22673,Wandin North,192.63,ok
+20662,Cranbourne,22673,Wandin North,174.15,ok
+20663,Cranbourne East,22673,Wandin North,188.25,ok
+20664,Cranbourne North,22673,Wandin North,,no_eligible_route
+20665,Cranbourne South,22673,Wandin North,,no_eligible_route
+20666,Cranbourne West,22673,Wandin North,186.22,ok
+20670,Cremorne (Vic.),22673,Wandin North,96.18,ok
+20674,Crib Point,22673,Wandin North,,no_eligible_route
+20682,Croydon (Vic.),22673,Wandin North,51.9,ok
+20683,Croydon Hills,22673,Wandin North,74.85,ok
+20684,Croydon North,22673,Wandin North,52.98,ok
+20685,Croydon South,22673,Wandin North,68.27,ok
+20702,Dallas,22673,Wandin North,169.9,ok
+20703,Dalmore,22673,Wandin North,,no_eligible_route
+20707,Dandenong,22673,Wandin North,126.82,ok
+20708,Dandenong North,22673,Wandin North,125.23,ok
+20709,Dandenong South,22673,Wandin North,165.47,ok
+20712,Darley,22673,Wandin North,,no_eligible_route
+20716,Darraweit Guim,22673,Wandin North,,no_eligible_route
+20724,Deanside,22673,Wandin North,,no_eligible_route
+20728,Deepdene (Vic.),22673,Wandin North,92.63,ok
+20729,Deer Park,22673,Wandin North,,no_eligible_route
+20731,Delahey,22673,Wandin North,194.3,ok
+20743,Derrimut,22673,Wandin North,,no_eligible_route
+20748,Devon Meadows,22673,Wandin North,,no_eligible_route
+20750,Dewhurst,22673,Wandin North,,no_eligible_route
+20752,Diamond Creek,22673,Wandin North,143.27,ok
+20754,Diggers Rest,22673,Wandin North,202.17,ok
+20758,Dingley Village,22673,Wandin North,,no_eligible_route
+20762,Dixons Creek,22673,Wandin North,,no_eligible_route
+20766,Docklands,22673,Wandin North,115.78,ok
+20769,Don Valley,22673,Wandin North,,no_eligible_route
+20771,Doncaster,22673,Wandin North,89.25,ok
+20772,Doncaster East,22673,Wandin North,93.22,ok
+20773,Donnybrook (Vic.),22673,Wandin North,,no_eligible_route
+20774,Donvale,22673,Wandin North,94.95,ok
+20779,Doreen,22673,Wandin North,,no_eligible_route
+20783,Doveton,22673,Wandin North,138.6,ok
+20788,Dromana,22673,Wandin North,,no_eligible_route
+20825,Eaglemont,22673,Wandin North,139.37,ok
+20830,East Melbourne,22673,Wandin North,102.37,ok
+20833,East Warburton,22673,Wandin North,,no_eligible_route
+20843,Eden Park,22673,Wandin North,,no_eligible_route
+20848,Edithvale,22673,Wandin North,149.85,ok
+20864,Elsternwick,22673,Wandin North,121.08,ok
+20865,Eltham (Vic.),22673,Wandin North,121.32,ok
+20866,Eltham North,22673,Wandin North,133.85,ok
+20867,Elwood,22673,Wandin North,126.73,ok
+20868,Emerald (Vic.),22673,Wandin North,,no_eligible_route
+20871,Endeavour Hills,22673,Wandin North,155.03,ok
+20878,Epping (Vic.),22673,Wandin North,165.98,ok
+20885,Essendon,22673,Wandin North,134.9,ok
+20886,Essendon Fields,22673,Wandin North,166.3,ok
+20887,Essendon North,22673,Wandin North,147.3,ok
+20888,Essendon West,22673,Wandin North,154.77,ok
+20889,Eumemmerring,22673,Wandin North,143.47,ok
+20898,Exford,22673,Wandin North,,no_eligible_route
+20899,Eynesbury,22673,Wandin North,,no_eligible_route
+20901,Fairfield (Vic.),22673,Wandin North,132.08,ok
+20909,Fawkner,22673,Wandin North,163.7,ok
+20916,Fernshaw,22673,Wandin North,,no_eligible_route
+20917,Ferntree Gully,22673,Wandin North,99.28,ok
+20918,Ferny Creek,22673,Wandin North,114.5,ok
+20920,Fingal (Vic.),22673,Wandin North,,no_eligible_route
+20924,Fitzroy (Vic.),22673,Wandin North,112.38,ok
+20925,Fitzroy North,22673,Wandin North,118.98,ok
+20929,Flemington,22673,Wandin North,143.22,ok
+20930,Flinders (Vic.),22673,Wandin North,,no_eligible_route
+20935,Footscray,22673,Wandin North,122.62,ok
+20937,Forest Hill (Vic.),22673,Wandin North,86.78,ok
+20947,Frankston,22673,Wandin North,195.35,ok
+20948,Frankston North,22673,Wandin North,190.15,ok
+20949,Frankston South,22673,Wandin North,,no_eligible_route
+20950,Fraser Rise,22673,Wandin North,,no_eligible_route
+20965,Gardenvale,22673,Wandin North,138.83,ok
+20966,Garfield,22673,Wandin North,,no_eligible_route
+20967,Garfield North,22673,Wandin North,,no_eligible_route
+20979,Gembrook,22673,Wandin North,,no_eligible_route
+20995,Gilderoy,22673,Wandin North,,no_eligible_route
+21001,Gisborne,22673,Wandin North,,no_eligible_route
+21002,Gisborne South,22673,Wandin North,,no_eligible_route
+21004,Gladstone Park,22673,Wandin North,166.8,ok
+21005,Gladysdale,22673,Wandin North,,no_eligible_route
+21009,Glen Huntly,22673,Wandin North,130.57,ok
+21010,Glen Iris (Vic.),22673,Wandin North,116.43,ok
+21013,Glen Waverley,22673,Wandin North,102.47,ok
+21047,Glenroy (Vic.),22673,Wandin North,147.45,ok
+21059,Goldie,22673,Wandin North,,no_eligible_route
+21079,Gowanbrae,22673,Wandin North,176.9,ok
+21087,Grangefields,22673,Wandin North,,no_eligible_route
+21104,Greensborough,22673,Wandin North,112.65,ok
+21105,Greenvale (Vic.),22673,Wandin North,,no_eligible_route
+21115,Gruyere,22673,Wandin North,138.4,walk_only
+21121,Guys Hill,22673,Wandin North,,no_eligible_route
+21124,Hadfield,22673,Wandin North,155.73,ok
+21125,Hallam,22673,Wandin North,148.18,ok
+21131,Hampton (Vic.),22673,Wandin North,149.23,ok
+21132,Hampton East,22673,Wandin North,145.8,ok
+21133,Hampton Park,22673,Wandin North,154.03,ok
+21139,Harkaway,22673,Wandin North,,no_eligible_route
+21140,Harkness,22673,Wandin North,,no_eligible_route
+21145,Hastings (Vic.),22673,Wandin North,,no_eligible_route
+21152,Hawthorn (Vic.),22673,Wandin North,94.6,ok
+21153,Hawthorn East,22673,Wandin North,92.67,ok
+21158,Healesville,22673,Wandin North,108.37,ok
+21159,Heath Hill,22673,Wandin North,,no_eligible_route
+21161,Heathcote Junction,22673,Wandin North,,no_eligible_route
+21163,Heatherton,22673,Wandin North,154.92,ok
+21165,Heathmont,22673,Wandin North,74.6,ok
+21167,Heidelberg,22673,Wandin North,136.17,ok
+21168,Heidelberg Heights,22673,Wandin North,149.87,ok
+21169,Heidelberg West,22673,Wandin North,143.43,ok
+21176,Hesket,22673,Wandin North,,no_eligible_route
+21185,Highett,22673,Wandin North,138.57,ok
+21193,Hillside (Melton - Vic.),22673,Wandin North,,no_eligible_route
+21195,Hmas Cerberus,22673,Wandin North,,no_eligible_route
+21196,Hoddles Creek,22673,Wandin North,,no_eligible_route
+21202,Hopetoun Park,22673,Wandin North,,no_eligible_route
+21203,Hoppers Crossing,22673,Wandin North,172.68,ok
+21214,Hughesdale,22673,Wandin North,129.37,ok
+21215,Humevale,22673,Wandin North,,no_eligible_route
+21218,Huntingdale (Vic.),22673,Wandin North,126.45,ok
+21223,Hurstbridge,22673,Wandin North,148.63,ok
+21238,Iona,22673,Wandin North,,no_eligible_route
+21246,Ivanhoe (Vic.),22673,Wandin North,120.37,ok
+21247,Ivanhoe East,22673,Wandin North,140.1,ok
+21248,Jacana,22673,Wandin North,152.02,ok
+21277,Junction Village,22673,Wandin North,,no_eligible_route
+21284,Kalkallo,22673,Wandin North,,no_eligible_route
+21286,Kallista,22673,Wandin North,102.33,ok
+21287,Kalorama,22673,Wandin North,77.32,ok
+21294,Kangaroo Ground,22673,Wandin North,,no_eligible_route
+21312,Kealba,22673,Wandin North,191.97,ok
+21314,Keilor,22673,Wandin North,,no_eligible_route
+21315,Keilor Downs,22673,Wandin North,187.1,ok
+21316,Keilor East,22673,Wandin North,165.77,ok
+21317,Keilor Lodge,22673,Wandin North,,no_eligible_route
+21318,Keilor North,22673,Wandin North,,no_eligible_route
+21319,Keilor Park,22673,Wandin North,,no_eligible_route
+21327,Kensington (Vic.),22673,Wandin North,119.3,ok
+21333,Kerrie,22673,Wandin North,,no_eligible_route
+21336,Kew (Vic.),22673,Wandin North,103.05,ok
+21337,Kew East,22673,Wandin North,114.68,ok
+21339,Keysborough,22673,Wandin North,152.83,ok
+21354,Kilsyth,22673,Wandin North,68.43,ok
+21355,Kilsyth South,22673,Wandin North,91.48,ok
+21358,Kinglake,22673,Wandin North,,no_eligible_route
+21359,Kinglake Central,22673,Wandin North,,no_eligible_route
+21360,Kinglake West,22673,Wandin North,,no_eligible_route
+21362,Kings Park (Vic.),22673,Wandin North,189.02,ok
+21363,Kingsbury,22673,Wandin North,150.48,ok
+21365,Kingsville,22673,Wandin North,133.1,ok
+21374,Knoxfield,22673,Wandin North,99.37,ok
+21380,Koo Wee Rup,22673,Wandin North,,no_eligible_route
+21381,Koo Wee Rup North,22673,Wandin North,,no_eligible_route
+21393,Kooyong,22673,Wandin North,110.78,ok
+21411,Kurunjang,22673,Wandin North,,no_eligible_route
+21452,Lalor,22673,Wandin North,143.05,ok
+21456,Lancefield,22673,Wandin North,,no_eligible_route
+21459,Lang Lang,22673,Wandin North,,no_eligible_route
+21460,Lang Lang East,22673,Wandin North,,no_eligible_route
+21467,Langwarrin,22673,Wandin North,,no_eligible_route
+21468,Langwarrin South,22673,Wandin North,,no_eligible_route
+21473,Launching Place,22673,Wandin North,25.47,ok
+21476,Laverton (Vic.),22673,Wandin North,146.45,ok
+21477,Laverton North,22673,Wandin North,197.48,ok
+21504,Lilydale (Vic.),22673,Wandin North,21.77,ok
+21533,Long Forest,22673,Wandin North,,no_eligible_route
+21547,Lower Plenty,22673,Wandin North,135.0,ok
+21554,Lynbrook,22673,Wandin North,154.87,ok
+21555,Lyndhurst (Vic.),22673,Wandin North,,no_eligible_route
+21558,Lysterfield,22673,Wandin North,,no_eligible_route
+21559,Lysterfield South,22673,Wandin North,,no_eligible_route
+21561,Macclesfield (Vic.),22673,Wandin North,,no_eligible_route
+21562,Macedon,22673,Wandin North,,no_eligible_route
+21564,Macleod (Vic.),22673,Wandin North,145.72,ok
+21569,Maddingley,22673,Wandin North,,no_eligible_route
+21575,Maidstone,22673,Wandin North,146.98,ok
+21578,Main Ridge,22673,Wandin North,,no_eligible_route
+21586,Malvern (Vic.),22673,Wandin North,107.32,ok
+21587,Malvern East,22673,Wandin North,123.38,ok
+21588,Mambourin,22673,Wandin North,,no_eligible_route
+21597,Manor Lakes,22673,Wandin North,208.38,ok
+21604,Maribyrnong,22673,Wandin North,161.73,ok
+21619,Maryknoll,22673,Wandin North,,no_eligible_route
+21625,McCrae,22673,Wandin North,,no_eligible_route
+21629,McKinnon,22673,Wandin North,127.87,ok
+21635,Meadow Heights,22673,Wandin North,164.9,ok
+21640,Melbourne,22673,Wandin North,97.47,ok
+21641,Melbourne Airport,22673,Wandin North,,no_eligible_route
+21642,Melton (Vic.),22673,Wandin North,,no_eligible_route
+21643,Melton South,22673,Wandin North,,no_eligible_route
+21644,Melton West,22673,Wandin North,,no_eligible_route
+21648,Mentone,22673,Wandin North,136.22,ok
+21649,Menzies Creek,22673,Wandin North,,no_eligible_route
+21659,Mernda,22673,Wandin North,189.65,ok
+21662,Merricks,22673,Wandin North,,no_eligible_route
+21663,Merricks Beach,22673,Wandin North,,no_eligible_route
+21664,Merricks North,22673,Wandin North,,no_eligible_route
+21668,Merrimu,22673,Wandin North,,no_eligible_route
+21675,Mickleham,22673,Wandin North,,no_eligible_route
+21677,Middle Park (Vic.),22673,Wandin North,125.8,ok
+21683,Mill Park,22673,Wandin North,146.55,ok
+21685,Millgrove,22673,Wandin North,,no_eligible_route
+21706,Mitcham (Vic.),22673,Wandin North,71.22,ok
+21727,Monbulk,22673,Wandin North,93.32,ok
+21728,Monegeetta,22673,Wandin North,,no_eligible_route
+21731,Monomeith,22673,Wandin North,,no_eligible_route
+21732,Mont Albert,22673,Wandin North,85.47,ok
+21733,Mont Albert North,22673,Wandin North,91.22,ok
+21735,Montmorency,22673,Wandin North,122.37,ok
+21736,Montrose (Vic.),22673,Wandin North,61.87,ok
+21742,Moonee Ponds,22673,Wandin North,121.37,ok
+21746,Moorabbin,22673,Wandin North,161.62,ok
+21747,Moorabbin Airport,22673,Wandin North,,no_eligible_route
+21754,Moorooduc,22673,Wandin North,,no_eligible_route
+21755,Mooroolbark,22673,Wandin North,61.28,ok
+21760,Mordialloc,22673,Wandin North,163.28,ok
+21763,Mornington (Vic.),22673,Wandin North,,no_eligible_route
+21779,Mount Burnett,22673,Wandin North,,no_eligible_route
+21786,Mount Cottrell,22673,Wandin North,,no_eligible_route
+21787,Mount Dandenong,22673,Wandin North,80.32,ok
+21793,Mount Eliza,22673,Wandin North,,no_eligible_route
+21795,Mount Evelyn,22673,Wandin North,49.82,ok
+21801,Mount Macedon,22673,Wandin North,,no_eligible_route
+21803,Mount Martha,22673,Wandin North,,no_eligible_route
+21814,Mount Toolebewong,22673,Wandin North,,no_eligible_route
+21816,Mount Waverley,22673,Wandin North,117.2,ok
+21827,Mulgrave (Vic.),22673,Wandin North,134.25,ok
+21849,Murrumbeena,22673,Wandin North,131.65,ok
+21872,Nangana,22673,Wandin North,214.13,walk_only
+21878,Nar Nar Goon,22673,Wandin North,,no_eligible_route
+21879,Nar Nar Goon North,22673,Wandin North,,no_eligible_route
+21893,Narre Warren,22673,Wandin North,172.05,ok
+21894,Narre Warren East,22673,Wandin North,,no_eligible_route
+21895,Narre Warren North,22673,Wandin North,,no_eligible_route
+21896,Narre Warren South,22673,Wandin North,179.2,ok
+21921,New Gisborne,22673,Wandin North,,no_eligible_route
+21934,Newport (Vic.),22673,Wandin North,126.3,ok
+21942,Niddrie,22673,Wandin North,159.25,ok
+21952,Noble Park,22673,Wandin North,135.87,ok
+21953,Noble Park North,22673,Wandin North,149.53,ok
+21966,North Melbourne,22673,Wandin North,120.75,ok
+21969,North Warrandyte,22673,Wandin North,,no_eligible_route
+21971,Northcote,22673,Wandin North,126.25,ok
+21974,Notting Hill,22673,Wandin North,100.0,ok
+21985,Nunawading,22673,Wandin North,67.68,ok
+21991,Nutfield,22673,Wandin North,,no_eligible_route
+21998,Oak Park,22673,Wandin North,139.68,ok
+21999,Oaklands Junction,22673,Wandin North,,no_eligible_route
+22000,Oakleigh,22673,Wandin North,121.5,ok
+22001,Oakleigh East,22673,Wandin North,122.33,ok
+22002,Oakleigh South,22673,Wandin North,115.47,ok
+22006,Officer,22673,Wandin North,186.15,ok
+22007,Officer South,22673,Wandin North,,no_eligible_route
+22009,Olinda (Vic.),22673,Wandin North,158.02,walk_only
+22016,Ormond,22673,Wandin North,128.3,ok
+22027,Pakenham,22673,Wandin North,185.2,ok
+22028,Pakenham South,22673,Wandin North,,no_eligible_route
+22029,Pakenham Upper,22673,Wandin North,,no_eligible_route
+22032,Panton Hill,22673,Wandin North,,no_eligible_route
+22036,Park Orchards,22673,Wandin North,82.33,ok
+22037,Parkdale,22673,Wandin North,153.63,ok
+22038,Parkville (Vic.),22673,Wandin North,133.58,ok
+22041,Pascoe Vale,22673,Wandin North,154.05,ok
+22042,Pascoe Vale South,22673,Wandin North,149.78,ok
+22047,Patterson Lakes,22673,Wandin North,,no_eligible_route
+22050,Pearcedale,22673,Wandin North,,no_eligible_route
+22058,Pentland Hills,22673,Wandin North,,no_eligible_route
+22064,Pheasant Creek (Vic.),22673,Wandin North,,no_eligible_route
+22084,Plenty (Vic.),22673,Wandin North,144.22,ok
+22085,Plumpton (Vic.),22673,Wandin North,,no_eligible_route
+22086,Point Cook,22673,Wandin North,,no_eligible_route
+22087,Point Leo,22673,Wandin North,,no_eligible_route
+22107,Port Melbourne,22673,Wandin North,139.58,ok
+22113,Portsea,22673,Wandin North,,no_eligible_route
+22115,Powelltown,22673,Wandin North,,no_eligible_route
+22118,Prahran,22673,Wandin North,119.18,ok
+22121,Preston (Vic.),22673,Wandin North,137.65,ok
+22122,Princes Hill,22673,Wandin North,119.73,ok
+22132,Quandong,22673,Wandin North,,no_eligible_route
+22141,Ravenhall,22673,Wandin North,,no_eligible_route
+22148,Red Hill (Vic.),22673,Wandin North,,no_eligible_route
+22149,Red Hill South,22673,Wandin North,,no_eligible_route
+22160,Research,22673,Wandin North,129.72,ok
+22161,Reservoir (Vic.),22673,Wandin North,139.87,ok
+22170,Richmond (Vic.),22673,Wandin North,105.57,ok
+22172,Riddells Creek,22673,Wandin North,,no_eligible_route
+22174,Ringwood (Vic.),22673,Wandin North,66.57,ok
+22175,Ringwood East,22673,Wandin North,62.42,ok
+22176,Ringwood North,22673,Wandin North,77.07,ok
+22179,Ripponlea,22673,Wandin North,118.27,ok
+22185,Rochford,22673,Wandin North,,no_eligible_route
+22186,Rockbank,22673,Wandin North,,no_eligible_route
+22193,Romsey,22673,Wandin North,,no_eligible_route
+22194,Rosanna,22673,Wandin North,136.45,ok
+22198,Rosebud,22673,Wandin North,,no_eligible_route
+22207,Rowville,22673,Wandin North,119.38,ok
+22208,Roxburgh Park,22673,Wandin North,179.53,ok
+22220,Rye,22673,Wandin North,,no_eligible_route
+22221,Rythdale,22673,Wandin North,,no_eligible_route
+22222,Safety Beach (Vic.),22673,Wandin North,,no_eligible_route
+22232,Sandhurst,22673,Wandin North,,no_eligible_route
+22234,Sandringham (Vic.),22673,Wandin North,154.12,ok
+22239,Sassafras (Vic.),22673,Wandin North,92.9,ok
+22242,Scoresby,22673,Wandin North,,no_eligible_route
+22247,Seabrook,22673,Wandin North,162.85,ok
+22249,Seaford (Vic.),22673,Wandin North,179.17,ok
+22250,Seaholme,22673,Wandin North,155.53,ok
+22256,Seddon (Vic.),22673,Wandin North,119.55,ok
+22258,Selby,22673,Wandin North,121.9,ok
+22263,Seville,22673,Wandin North,34.63,ok
+22264,Seville East,22673,Wandin North,22.52,ok
+22278,Sherbrooke,22673,Wandin North,101.48,ok
+22279,Shoreham,22673,Wandin North,,no_eligible_route
+22281,Silvan,22673,Wandin North,74.55,ok
+22291,Skye (Vic.),22673,Wandin North,,no_eligible_route
+22295,Smiths Gully,22673,Wandin North,,no_eligible_route
+22303,Somers,22673,Wandin North,,no_eligible_route
+22304,Somerton (Vic.),22673,Wandin North,187.92,ok
+22305,Somerville (Vic.),22673,Wandin North,,no_eligible_route
+22306,Sorrento (Vic.),22673,Wandin North,,no_eligible_route
+22309,South Kingsville,22673,Wandin North,138.55,ok
+22310,South Melbourne,22673,Wandin North,119.77,ok
+22311,South Morang,22673,Wandin North,173.93,ok
+22313,South Wharf,22673,Wandin North,112.3,ok
+22314,South Yarra,22673,Wandin North,95.93,ok
+22315,Southbank,22673,Wandin North,105.12,ok
+22319,Spotswood,22673,Wandin North,119.7,ok
+22325,Springfield (Macedon Ranges - Vic.),22673,Wandin North,,no_eligible_route
+22328,Springvale (Vic.),22673,Wandin North,134.95,ok
+22329,Springvale South,22673,Wandin North,133.57,ok
+22330,St Albans (Vic.),22673,Wandin North,152.38,ok
+22332,St Andrews (Vic.),22673,Wandin North,,no_eligible_route
+22333,St Andrews Beach,22673,Wandin North,,no_eligible_route
+22339,St Helena,22673,Wandin North,140.33,ok
+22343,St Kilda (Vic.),22673,Wandin North,116.02,ok
+22344,St Kilda East,22673,Wandin North,122.7,ok
+22345,St Kilda West,22673,Wandin North,123.65,ok
+22355,Steels Creek,22673,Wandin North,,no_eligible_route
+22375,Strathewen,22673,Wandin North,,no_eligible_route
+22380,Strathmore (Vic.),22673,Wandin North,157.85,ok
+22381,Strathmore Heights,22673,Wandin North,162.1,ok
+22382,Strathtulloh,22673,Wandin North,,no_eligible_route
+22391,Sunbury,22673,Wandin North,,no_eligible_route
+22395,Sunshine (Vic.),22673,Wandin North,141.17,ok
+22396,Sunshine North,22673,Wandin North,169.23,ok
+22397,Sunshine West,22673,Wandin North,183.33,ok
+22399,Surrey Hills,22673,Wandin North,80.82,ok
+22414,Sydenham (Vic.),22673,Wandin North,166.78,ok
+22451,Tarneit,22673,Wandin North,211.83,ok
+22457,Tarrawarra,22673,Wandin North,83.97,ok
+22473,Taylors Hill,22673,Wandin North,,no_eligible_route
+22474,Taylors Lakes,22673,Wandin North,171.67,ok
+22476,Tecoma,22673,Wandin North,96.33,ok
+22483,Templestowe,22673,Wandin North,115.9,ok
+22484,Templestowe Lower,22673,Wandin North,118.53,ok
+22496,The Basin (Vic.),22673,Wandin North,95.52,ok
+22501,The Patch,22673,Wandin North,100.52,ok
+22504,Thomastown,22673,Wandin North,148.35,ok
+22508,Thornbury,22673,Wandin North,132.13,ok
+22509,Thornhill Park,22673,Wandin North,,no_eligible_route
+22514,Three Bridges,22673,Wandin North,,no_eligible_route
+22531,Tonimbuk,22673,Wandin North,,no_eligible_route
+22536,Toolangi,22673,Wandin North,,no_eligible_route
+22537,Toolern Vale,22673,Wandin North,,no_eligible_route
+22546,Tooradin,22673,Wandin North,,no_eligible_route
+22547,Toorak,22673,Wandin North,118.98,ok
+22550,Tootgarook,22673,Wandin North,,no_eligible_route
+22556,Tottenham (Vic.),22673,Wandin North,167.7,ok
+22572,Travancore,22673,Wandin North,132.12,ok
+22576,Tremont,22673,Wandin North,111.93,ok
+22582,Truganina,22673,Wandin North,,no_eligible_route
+22584,Tuerong,22673,Wandin North,,no_eligible_route
+22586,Tullamarine,22673,Wandin North,179.08,ok
+22594,Tyabb,22673,Wandin North,,no_eligible_route
+22598,Tynong,22673,Wandin North,,no_eligible_route
+22599,Tynong North,22673,Wandin North,,no_eligible_route
+22614,Upper Ferntree Gully,22673,Wandin North,91.48,ok
+22617,Upper Plenty,22673,Wandin North,,no_eligible_route
+22620,Upwey,22673,Wandin North,104.73,ok
+22627,Vermont,22673,Wandin North,78.8,ok
+22628,Vermont South,22673,Wandin North,88.68,ok
+22629,Vervale,22673,Wandin North,,no_eligible_route
+22633,Viewbank,22673,Wandin North,,no_eligible_route
+22661,Wallan,22673,Wandin North,,no_eligible_route
+22672,Wandin East,22673,Wandin North,65.42,walk_only
+22673,Wandin North,22673,Wandin North,0.0,same_centroid
+22676,Wandong,22673,Wandin North,,no_eligible_route
+22685,Wantirna,22673,Wandin North,89.48,ok
+22686,Wantirna South,22673,Wandin North,103.33,ok
+22689,Warburton (Vic.),22673,Wandin North,,no_eligible_route
+22695,Warneet,22673,Wandin North,,no_eligible_route
+22702,Warrandyte,22673,Wandin North,100.98,ok
+22703,Warrandyte South,22673,Wandin North,115.37,ok
+22704,Warranwood,22673,Wandin North,90.22,ok
+22717,Waterford Park,22673,Wandin North,,no_eligible_route
+22720,Waterways,22673,Wandin North,,no_eligible_route
+22721,Watsonia,22673,Wandin North,130.63,ok
+22722,Watsonia North,22673,Wandin North,131.5,ok
+22723,Watsons Creek (Vic.),22673,Wandin North,,no_eligible_route
+22727,Wattle Glen,22673,Wandin North,152.38,ok
+22740,Weir Views,22673,Wandin North,,no_eligible_route
+22750,Werribee,22673,Wandin North,173.85,ok
+22751,Werribee South,22673,Wandin North,,no_eligible_route
+22753,Wesburn,22673,Wandin North,45.57,ok
+22756,West Footscray,22673,Wandin North,139.13,ok
+22757,West Melbourne,22673,Wandin North,145.47,ok
+22761,Westmeadows,22673,Wandin North,167.67,ok
+22766,Wheelers Hill,22673,Wandin North,114.07,ok
+22775,Whittlesea,22673,Wandin North,,no_eligible_route
+22784,Wildwood,22673,Wandin North,,no_eligible_route
+22791,Williams Landing,22673,Wandin North,160.7,ok
+22792,Williamstown (Vic.),22673,Wandin North,128.52,ok
+22793,Williamstown North,22673,Wandin North,158.05,ok
+22805,Windsor (Vic.),22673,Wandin North,115.53,ok
+22820,Wollert,22673,Wandin North,209.73,ok
+22825,Wonga Park,22673,Wandin North,,no_eligible_route
+22843,Woodstock (Vic.),22673,Wandin North,,no_eligible_route
+22857,Woori Yallock,22673,Wandin North,20.72,ok
+22883,Wyndham Vale,22673,Wandin North,193.3,ok
+22892,Yallambie,22673,Wandin North,142.73,ok
+22898,Yan Yean,22673,Wandin North,188.3,ok
+22906,Yannathan,22673,Wandin North,,no_eligible_route
+22910,Yarra Glen,22673,Wandin North,80.27,ok
+22911,Yarra Junction,22673,Wandin North,48.83,ok
+22916,Yarrambat,22673,Wandin North,144.78,ok
+22917,Yarraville,22673,Wandin North,125.45,ok
+22925,Yellingbo,22673,Wandin North,172.78,walk_only
+22930,Yering,22673,Wandin North,190.37,walk_only
+22941,Yuroke,22673,Wandin North,,no_eligible_route

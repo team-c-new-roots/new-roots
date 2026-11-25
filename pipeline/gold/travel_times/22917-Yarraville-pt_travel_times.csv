@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22917,Yarraville,51.98,ok
+20003,Aberfeldie,22917,Yarraville,54.53,ok
+20011,Aintree,22917,Yarraville,77.37,ok
+20015,Airport West,22917,Yarraville,71.73,ok
+20017,Albanvale,22917,Yarraville,60.95,ok
+20018,Albert Park (Vic.),22917,Yarraville,48.1,ok
+20021,Albion (Vic.),22917,Yarraville,38.23,ok
+20034,Alphington,22917,Yarraville,57.15,ok
+20035,Altona (Vic.),22917,Yarraville,38.63,ok
+20036,Altona Meadows,22917,Yarraville,44.78,ok
+20037,Altona North,22917,Yarraville,48.2,ok
+20062,Ardeer,22917,Yarraville,49.38,ok
+20066,Armadale (Vic.),22917,Yarraville,52.38,ok
+20071,Arthurs Creek,22917,Yarraville,,no_eligible_route
+20072,Arthurs Seat,22917,Yarraville,207.9,ok
+20075,Ascot Vale,22917,Yarraville,31.0,ok
+20077,Ashburton,22917,Yarraville,62.98,ok
+20078,Ashwood,22917,Yarraville,72.18,ok
+20079,Aspendale,22917,Yarraville,88.63,ok
+20080,Aspendale Gardens,22917,Yarraville,105.97,ok
+20082,Attwood,22917,Yarraville,76.35,ok
+20089,Avondale Heights,22917,Yarraville,52.03,ok
+20091,Avonsleigh,22917,Yarraville,154.57,ok
+20095,Bacchus Marsh,22917,Yarraville,,no_eligible_route
+20097,Badger Creek,22917,Yarraville,162.83,ok
+20105,Balaclava (Vic.),22917,Yarraville,49.02,ok
+20120,Balnarring,22917,Yarraville,,no_eligible_route
+20121,Balnarring Beach,22917,Yarraville,,no_eligible_route
+20123,Balwyn,22917,Yarraville,70.12,ok
+20124,Balwyn North,22917,Yarraville,74.08,ok
+20131,Bangholme,22917,Yarraville,139.23,ok
+20169,Baxter,22917,Yarraville,134.7,ok
+20171,Bayles,22917,Yarraville,,no_eligible_route
+20173,Bayswater (Vic.),22917,Yarraville,84.63,ok
+20174,Bayswater North,22917,Yarraville,102.8,ok
+20175,Beaconsfield (Vic.),22917,Yarraville,123.83,ok
+20176,Beaconsfield Upper,22917,Yarraville,,no_eligible_route
+20182,Beaumaris (Vic.),22917,Yarraville,92.4,ok
+20187,Beenak,22917,Yarraville,,no_eligible_route
+20188,Belgrave,22917,Yarraville,97.72,ok
+20189,Belgrave Heights,22917,Yarraville,126.38,ok
+20190,Belgrave South,22917,Yarraville,125.37,ok
+20198,Bellfield (Banyule - Vic.),22917,Yarraville,74.9,ok
+20207,Bend Of Islands,22917,Yarraville,,no_eligible_route
+20212,Benloch,22917,Yarraville,,no_eligible_route
+20214,Bentleigh,22917,Yarraville,74.87,ok
+20215,Bentleigh East,22917,Yarraville,74.82,ok
+20224,Berwick,22917,Yarraville,99.88,ok
+20233,Beveridge,22917,Yarraville,107.9,ok
+20237,Big Pats Creek,22917,Yarraville,,no_eligible_route
+20248,Bittern,22917,Yarraville,153.97,ok
+20251,Black Rock (Vic.),22917,Yarraville,82.83,ok
+20252,Blackburn,22917,Yarraville,60.97,ok
+20253,Blackburn North,22917,Yarraville,81.02,ok
+20254,Blackburn South,22917,Yarraville,79.3,ok
+20257,Blairgowrie,22917,Yarraville,199.93,ok
+20260,Blind Bight,22917,Yarraville,,no_eligible_route
+20272,Bolinda,22917,Yarraville,,no_eligible_route
+20278,Bonbeach,22917,Yarraville,93.63,ok
+20280,Boneo,22917,Yarraville,,no_eligible_route
+20282,Bonnie Brook,22917,Yarraville,109.92,ok
+20304,Boronia,22917,Yarraville,87.1,ok
+20307,Botanic Ridge,22917,Yarraville,138.85,ok
+20314,Box Hill (Vic.),22917,Yarraville,60.42,ok
+20315,Box Hill North,22917,Yarraville,68.83,ok
+20316,Box Hill South,22917,Yarraville,66.57,ok
+20320,Braeside,22917,Yarraville,114.43,ok
+20324,Braybrook,22917,Yarraville,41.08,ok
+20331,Briar Hill,22917,Yarraville,95.87,ok
+20337,Brighton (Vic.),22917,Yarraville,61.78,ok
+20338,Brighton East,22917,Yarraville,68.03,ok
+20346,Broadmeadows (Vic.),22917,Yarraville,68.27,ok
+20351,Brookfield (Vic.),22917,Yarraville,133.42,ok
+20352,Brooklyn (Vic.),22917,Yarraville,40.3,ok
+20361,Brunswick (Vic.),22917,Yarraville,41.08,ok
+20362,Brunswick East,22917,Yarraville,63.63,ok
+20363,Brunswick West,22917,Yarraville,52.92,ok
+20381,Bulla (Vic.),22917,Yarraville,,no_eligible_route
+20386,Bulleen,22917,Yarraville,79.03,ok
+20387,Bullengarook,22917,Yarraville,,no_eligible_route
+20399,Bundoora (Vic.),22917,Yarraville,90.88,ok
+20411,Bunyip,22917,Yarraville,,no_eligible_route
+20412,Bunyip North,22917,Yarraville,,no_eligible_route
+20418,Burnley,22917,Yarraville,56.38,ok
+20419,Burnside (Vic.),22917,Yarraville,60.27,ok
+20420,Burnside Heights,22917,Yarraville,68.08,ok
+20426,Burwood (Vic.),22917,Yarraville,77.07,ok
+20427,Burwood East,22917,Yarraville,80.3,ok
+20435,Bylands,22917,Yarraville,,no_eligible_route
+20441,Cairnlea,22917,Yarraville,45.45,ok
+20442,Calder Park,22917,Yarraville,77.02,ok
+20443,Caldermeade,22917,Yarraville,,no_eligible_route
+20453,Camberwell (Vic.),22917,Yarraville,61.92,ok
+20455,Campbellfield,22917,Yarraville,74.63,ok
+20466,Cannons Creek,22917,Yarraville,,no_eligible_route
+20468,Canterbury (Vic.),22917,Yarraville,58.4,ok
+20474,Cape Schanck,22917,Yarraville,,no_eligible_route
+20476,Capel Sound,22917,Yarraville,184.28,ok
+20487,Cardinia,22917,Yarraville,,no_eligible_route
+20495,Carlton (Vic.),22917,Yarraville,39.13,ok
+20496,Carlton North,22917,Yarraville,56.58,ok
+20498,Carnegie,22917,Yarraville,64.4,ok
+20500,Caroline Springs,22917,Yarraville,65.15,ok
+20507,Carrum,22917,Yarraville,93.45,ok
+20508,Carrum Downs,22917,Yarraville,115.78,ok
+20512,Castella,22917,Yarraville,,no_eligible_route
+20517,Catani,22917,Yarraville,,no_eligible_route
+20521,Caulfield,22917,Yarraville,64.08,ok
+20522,Caulfield East,22917,Yarraville,57.82,ok
+20523,Caulfield North,22917,Yarraville,56.32,ok
+20524,Caulfield South,22917,Yarraville,65.67,ok
+20528,Chadstone,22917,Yarraville,73.47,ok
+20537,Chelsea,22917,Yarraville,90.7,ok
+20538,Chelsea Heights,22917,Yarraville,111.38,ok
+20539,Cheltenham (Vic.),22917,Yarraville,80.17,ok
+20541,Cherokee,22917,Yarraville,,no_eligible_route
+20555,Chintin,22917,Yarraville,,no_eligible_route
+20556,Chirnside Park,22917,Yarraville,109.0,ok
+20559,Christmas Hills (Vic.),22917,Yarraville,,no_eligible_route
+20560,Chum Creek,22917,Yarraville,,no_eligible_route
+20566,Clarinda,22917,Yarraville,83.55,ok
+20567,Clarkefield,22917,Yarraville,,no_eligible_route
+20569,Clayton,22917,Yarraville,79.57,ok
+20570,Clayton South,22917,Yarraville,92.33,ok
+20572,Clematis,22917,Yarraville,126.98,ok
+20574,Clifton Hill,22917,Yarraville,50.23,ok
+20576,Clonbinane,22917,Yarraville,,no_eligible_route
+20581,Clyde (Vic.),22917,Yarraville,151.58,ok
+20582,Clyde North,22917,Yarraville,125.45,ok
+20587,Cobaw,22917,Yarraville,,no_eligible_route
+20590,Cobblebank,22917,Yarraville,133.07,ok
+20596,Coburg,22917,Yarraville,50.38,ok
+20597,Coburg North,22917,Yarraville,62.38,ok
+20600,Cockatoo (Vic.),22917,Yarraville,158.25,ok
+20601,Cocoroc,22917,Yarraville,,no_eligible_route
+20605,Coimadai,22917,Yarraville,,no_eligible_route
+20613,Coldstream (Vic.),22917,Yarraville,,no_eligible_route
+20616,Collingwood (Vic.),22917,Yarraville,54.17,ok
+20624,Coolaroo,22917,Yarraville,64.58,ok
+20633,Cora Lynn,22917,Yarraville,,no_eligible_route
+20654,Cottles Bridge,22917,Yarraville,,no_eligible_route
+20661,Craigieburn,22917,Yarraville,78.42,ok
+20662,Cranbourne,22917,Yarraville,108.75,ok
+20663,Cranbourne East,22917,Yarraville,118.53,ok
+20664,Cranbourne North,22917,Yarraville,107.08,ok
+20665,Cranbourne South,22917,Yarraville,142.2,ok
+20666,Cranbourne West,22917,Yarraville,113.55,ok
+20670,Cremorne (Vic.),22917,Yarraville,44.77,ok
+20674,Crib Point,22917,Yarraville,162.93,ok
+20682,Croydon (Vic.),22917,Yarraville,81.73,ok
+20683,Croydon Hills,22917,Yarraville,102.05,ok
+20684,Croydon North,22917,Yarraville,102.48,ok
+20685,Croydon South,22917,Yarraville,100.65,ok
+20702,Dallas,22917,Yarraville,71.98,ok
+20703,Dalmore,22917,Yarraville,,no_eligible_route
+20707,Dandenong,22917,Yarraville,87.52,ok
+20708,Dandenong North,22917,Yarraville,110.65,ok
+20709,Dandenong South,22917,Yarraville,105.85,ok
+20712,Darley,22917,Yarraville,,no_eligible_route
+20716,Darraweit Guim,22917,Yarraville,,no_eligible_route
+20724,Deanside,22917,Yarraville,90.38,ok
+20728,Deepdene (Vic.),22917,Yarraville,67.75,ok
+20729,Deer Park,22917,Yarraville,47.22,ok
+20731,Delahey,22917,Yarraville,62.88,ok
+20743,Derrimut,22917,Yarraville,75.78,ok
+20748,Devon Meadows,22917,Yarraville,158.33,ok
+20750,Dewhurst,22917,Yarraville,,no_eligible_route
+20752,Diamond Creek,22917,Yarraville,100.47,ok
+20754,Diggers Rest,22917,Yarraville,68.33,ok
+20758,Dingley Village,22917,Yarraville,96.17,ok
+20762,Dixons Creek,22917,Yarraville,,no_eligible_route
+20766,Docklands,22917,Yarraville,37.78,ok
+20769,Don Valley,22917,Yarraville,,no_eligible_route
+20771,Doncaster,22917,Yarraville,73.63,ok
+20772,Doncaster East,22917,Yarraville,80.7,ok
+20773,Donnybrook (Vic.),22917,Yarraville,100.43,ok
+20774,Donvale,22917,Yarraville,93.33,ok
+20779,Doreen,22917,Yarraville,119.95,ok
+20783,Doveton,22917,Yarraville,100.47,ok
+20788,Dromana,22917,Yarraville,195.07,ok
+20825,Eaglemont,22917,Yarraville,76.48,ok
+20830,East Melbourne,22917,Yarraville,42.75,ok
+20833,East Warburton,22917,Yarraville,,no_eligible_route
+20843,Eden Park,22917,Yarraville,,no_eligible_route
+20848,Edithvale,22917,Yarraville,90.83,ok
+20864,Elsternwick,22917,Yarraville,56.93,ok
+20865,Eltham (Vic.),22917,Yarraville,98.6,ok
+20866,Eltham North,22917,Yarraville,91.58,ok
+20867,Elwood,22917,Yarraville,62.98,ok
+20868,Emerald (Vic.),22917,Yarraville,154.17,ok
+20871,Endeavour Hills,22917,Yarraville,107.8,ok
+20878,Epping (Vic.),22917,Yarraville,98.72,ok
+20885,Essendon,22917,Yarraville,52.28,ok
+20886,Essendon Fields,22917,Yarraville,73.2,ok
+20887,Essendon North,22917,Yarraville,56.3,ok
+20888,Essendon West,22917,Yarraville,56.15,ok
+20889,Eumemmerring,22917,Yarraville,105.48,ok
+20898,Exford,22917,Yarraville,,no_eligible_route
+20899,Eynesbury,22917,Yarraville,158.17,ok
+20901,Fairfield (Vic.),22917,Yarraville,64.47,ok
+20909,Fawkner,22917,Yarraville,67.08,ok
+20916,Fernshaw,22917,Yarraville,,no_eligible_route
+20917,Ferntree Gully,22917,Yarraville,96.33,ok
+20918,Ferny Creek,22917,Yarraville,138.0,ok
+20920,Fingal (Vic.),22917,Yarraville,,no_eligible_route
+20924,Fitzroy (Vic.),22917,Yarraville,48.07,ok
+20925,Fitzroy North,22917,Yarraville,61.37,ok
+20929,Flemington,22917,Yarraville,41.5,ok
+20930,Flinders (Vic.),22917,Yarraville,,no_eligible_route
+20935,Footscray,22917,Yarraville,17.55,ok
+20937,Forest Hill (Vic.),22917,Yarraville,78.28,ok
+20947,Frankston,22917,Yarraville,110.42,ok
+20948,Frankston North,22917,Yarraville,128.37,ok
+20949,Frankston South,22917,Yarraville,134.78,ok
+20950,Fraser Rise,22917,Yarraville,88.77,ok
+20965,Gardenvale,22917,Yarraville,58.22,ok
+20966,Garfield,22917,Yarraville,,no_eligible_route
+20967,Garfield North,22917,Yarraville,,no_eligible_route
+20979,Gembrook,22917,Yarraville,,no_eligible_route
+20995,Gilderoy,22917,Yarraville,,no_eligible_route
+21001,Gisborne,22917,Yarraville,,no_eligible_route
+21002,Gisborne South,22917,Yarraville,,no_eligible_route
+21004,Gladstone Park,22917,Yarraville,83.13,ok
+21005,Gladysdale,22917,Yarraville,,no_eligible_route
+21009,Glen Huntly,22917,Yarraville,67.82,ok
+21010,Glen Iris (Vic.),22917,Yarraville,66.98,ok
+21013,Glen Waverley,22917,Yarraville,77.4,ok
+21047,Glenroy (Vic.),22917,Yarraville,60.37,ok
+21059,Goldie,22917,Yarraville,,no_eligible_route
+21079,Gowanbrae,22917,Yarraville,86.28,ok
+21087,Grangefields,22917,Yarraville,115.37,ok
+21104,Greensborough,22917,Yarraville,84.02,ok
+21105,Greenvale (Vic.),22917,Yarraville,88.52,ok
+21115,Gruyere,22917,Yarraville,,no_eligible_route
+21121,Guys Hill,22917,Yarraville,,no_eligible_route
+21124,Hadfield,22917,Yarraville,69.12,ok
+21125,Hallam,22917,Yarraville,105.0,ok
+21131,Hampton (Vic.),22917,Yarraville,69.62,ok
+21132,Hampton East,22917,Yarraville,82.18,ok
+21133,Hampton Park,22917,Yarraville,103.88,ok
+21139,Harkaway,22917,Yarraville,,no_eligible_route
+21140,Harkness,22917,Yarraville,134.9,ok
+21145,Hastings (Vic.),22917,Yarraville,152.85,ok
+21152,Hawthorn (Vic.),22917,Yarraville,55.78,ok
+21153,Hawthorn East,22917,Yarraville,61.27,ok
+21158,Healesville,22917,Yarraville,166.75,ok
+21159,Heath Hill,22917,Yarraville,,no_eligible_route
+21161,Heathcote Junction,22917,Yarraville,,no_eligible_route
+21163,Heatherton,22917,Yarraville,90.57,ok
+21165,Heathmont,22917,Yarraville,74.9,ok
+21167,Heidelberg,22917,Yarraville,79.28,ok
+21168,Heidelberg Heights,22917,Yarraville,76.82,ok
+21169,Heidelberg West,22917,Yarraville,80.0,ok
+21176,Hesket,22917,Yarraville,,no_eligible_route
+21185,Highett,22917,Yarraville,74.95,ok
+21193,Hillside (Melton - Vic.),22917,Yarraville,67.42,ok
+21195,Hmas Cerberus,22917,Yarraville,,no_eligible_route
+21196,Hoddles Creek,22917,Yarraville,,no_eligible_route
+21202,Hopetoun Park,22917,Yarraville,,no_eligible_route
+21203,Hoppers Crossing,22917,Yarraville,61.47,ok
+21214,Hughesdale,22917,Yarraville,66.03,ok
+21215,Humevale,22917,Yarraville,150.33,ok
+21218,Huntingdale (Vic.),22917,Yarraville,71.47,ok
+21223,Hurstbridge,22917,Yarraville,101.02,ok
+21238,Iona,22917,Yarraville,,no_eligible_route
+21246,Ivanhoe (Vic.),22917,Yarraville,61.75,ok
+21247,Ivanhoe East,22917,Yarraville,74.13,ok
+21248,Jacana,22917,Yarraville,69.4,ok
+21277,Junction Village,22917,Yarraville,144.47,ok
+21284,Kalkallo,22917,Yarraville,120.43,ok
+21286,Kallista,22917,Yarraville,134.43,ok
+21287,Kalorama,22917,Yarraville,112.7,ok
+21294,Kangaroo Ground,22917,Yarraville,130.25,ok
+21312,Kealba,22917,Yarraville,53.6,ok
+21314,Keilor,22917,Yarraville,83.38,ok
+21315,Keilor Downs,22917,Yarraville,64.27,ok
+21316,Keilor East,22917,Yarraville,55.4,ok
+21317,Keilor Lodge,22917,Yarraville,62.2,ok
+21318,Keilor North,22917,Yarraville,68.27,ok
+21319,Keilor Park,22917,Yarraville,74.8,ok
+21327,Kensington (Vic.),22917,Yarraville,27.7,ok
+21333,Kerrie,22917,Yarraville,,no_eligible_route
+21336,Kew (Vic.),22917,Yarraville,68.07,ok
+21337,Kew East,22917,Yarraville,72.95,ok
+21339,Keysborough,22917,Yarraville,97.6,ok
+21354,Kilsyth,22917,Yarraville,102.08,ok
+21355,Kilsyth South,22917,Yarraville,109.17,ok
+21358,Kinglake,22917,Yarraville,199.27,ok
+21359,Kinglake Central,22917,Yarraville,,no_eligible_route
+21360,Kinglake West,22917,Yarraville,153.3,ok
+21362,Kings Park (Vic.),22917,Yarraville,54.58,ok
+21363,Kingsbury,22917,Yarraville,90.1,ok
+21365,Kingsville,22917,Yarraville,11.43,ok
+21374,Knoxfield,22917,Yarraville,98.37,ok
+21380,Koo Wee Rup,22917,Yarraville,,no_eligible_route
+21381,Koo Wee Rup North,22917,Yarraville,,no_eligible_route
+21393,Kooyong,22917,Yarraville,51.17,ok
+21411,Kurunjang,22917,Yarraville,112.1,ok
+21452,Lalor,22917,Yarraville,80.43,ok
+21456,Lancefield,22917,Yarraville,,no_eligible_route
+21459,Lang Lang,22917,Yarraville,,no_eligible_route
+21460,Lang Lang East,22917,Yarraville,,no_eligible_route
+21467,Langwarrin,22917,Yarraville,126.38,ok
+21468,Langwarrin South,22917,Yarraville,,no_eligible_route
+21473,Launching Place,22917,Yarraville,123.38,ok
+21476,Laverton (Vic.),22917,Yarraville,42.23,ok
+21477,Laverton North,22917,Yarraville,54.93,ok
+21504,Lilydale (Vic.),22917,Yarraville,103.03,ok
+21533,Long Forest,22917,Yarraville,,no_eligible_route
+21547,Lower Plenty,22917,Yarraville,106.28,ok
+21554,Lynbrook,22917,Yarraville,98.25,ok
+21555,Lyndhurst (Vic.),22917,Yarraville,141.93,ok
+21558,Lysterfield,22917,Yarraville,155.32,ok
+21559,Lysterfield South,22917,Yarraville,155.63,ok
+21561,Macclesfield (Vic.),22917,Yarraville,,no_eligible_route
+21562,Macedon,22917,Yarraville,,no_eligible_route
+21564,Macleod (Vic.),22917,Yarraville,78.1,ok
+21569,Maddingley,22917,Yarraville,,no_eligible_route
+21575,Maidstone,22917,Yarraville,34.47,ok
+21578,Main Ridge,22917,Yarraville,,no_eligible_route
+21586,Malvern (Vic.),22917,Yarraville,61.4,ok
+21587,Malvern East,22917,Yarraville,63.77,ok
+21588,Mambourin,22917,Yarraville,,no_eligible_route
+21597,Manor Lakes,22917,Yarraville,93.7,ok
+21604,Maribyrnong,22917,Yarraville,43.37,ok
+21619,Maryknoll,22917,Yarraville,,no_eligible_route
+21625,McCrae,22917,Yarraville,179.48,ok
+21629,McKinnon,22917,Yarraville,64.25,ok
+21635,Meadow Heights,22917,Yarraville,78.85,ok
+21640,Melbourne,22917,Yarraville,36.62,ok
+21641,Melbourne Airport,22917,Yarraville,,no_eligible_route
+21642,Melton (Vic.),22917,Yarraville,120.28,ok
+21643,Melton South,22917,Yarraville,124.65,ok
+21644,Melton West,22917,Yarraville,108.28,ok
+21648,Mentone,22917,Yarraville,74.93,ok
+21649,Menzies Creek,22917,Yarraville,125.78,ok
+21659,Mernda,22917,Yarraville,110.92,ok
+21662,Merricks,22917,Yarraville,,no_eligible_route
+21663,Merricks Beach,22917,Yarraville,,no_eligible_route
+21664,Merricks North,22917,Yarraville,,no_eligible_route
+21668,Merrimu,22917,Yarraville,,no_eligible_route
+21675,Mickleham,22917,Yarraville,110.42,ok
+21677,Middle Park (Vic.),22917,Yarraville,54.18,ok
+21683,Mill Park,22917,Yarraville,97.52,ok
+21685,Millgrove,22917,Yarraville,,no_eligible_route
+21706,Mitcham (Vic.),22917,Yarraville,72.63,ok
+21727,Monbulk,22917,Yarraville,141.88,ok
+21728,Monegeetta,22917,Yarraville,,no_eligible_route
+21731,Monomeith,22917,Yarraville,,no_eligible_route
+21732,Mont Albert,22917,Yarraville,62.8,ok
+21733,Mont Albert North,22917,Yarraville,71.6,ok
+21735,Montmorency,22917,Yarraville,84.67,ok
+21736,Montrose (Vic.),22917,Yarraville,105.0,ok
+21742,Moonee Ponds,22917,Yarraville,38.75,ok
+21746,Moorabbin,22917,Yarraville,80.2,ok
+21747,Moorabbin Airport,22917,Yarraville,97.53,ok
+21754,Moorooduc,22917,Yarraville,,no_eligible_route
+21755,Mooroolbark,22917,Yarraville,94.93,ok
+21760,Mordialloc,22917,Yarraville,90.23,ok
+21763,Mornington (Vic.),22917,Yarraville,141.28,ok
+21779,Mount Burnett,22917,Yarraville,,no_eligible_route
+21786,Mount Cottrell,22917,Yarraville,,no_eligible_route
+21787,Mount Dandenong,22917,Yarraville,116.7,ok
+21793,Mount Eliza,22917,Yarraville,119.47,ok
+21795,Mount Evelyn,22917,Yarraville,120.87,ok
+21801,Mount Macedon,22917,Yarraville,,no_eligible_route
+21803,Mount Martha,22917,Yarraville,146.0,ok
+21814,Mount Toolebewong,22917,Yarraville,,no_eligible_route
+21816,Mount Waverley,22917,Yarraville,68.83,ok
+21827,Mulgrave (Vic.),22917,Yarraville,94.73,ok
+21849,Murrumbeena,22917,Yarraville,66.15,ok
+21872,Nangana,22917,Yarraville,,no_eligible_route
+21878,Nar Nar Goon,22917,Yarraville,,no_eligible_route
+21879,Nar Nar Goon North,22917,Yarraville,,no_eligible_route
+21893,Narre Warren,22917,Yarraville,101.98,ok
+21894,Narre Warren East,22917,Yarraville,,no_eligible_route
+21895,Narre Warren North,22917,Yarraville,115.35,ok
+21896,Narre Warren South,22917,Yarraville,107.8,ok
+21921,New Gisborne,22917,Yarraville,,no_eligible_route
+21934,Newport (Vic.),22917,Yarraville,17.73,ok
+21942,Niddrie,22917,Yarraville,66.92,ok
+21952,Noble Park,22917,Yarraville,78.25,ok
+21953,Noble Park North,22917,Yarraville,105.57,ok
+21966,North Melbourne,22917,Yarraville,37.48,ok
+21969,North Warrandyte,22917,Yarraville,108.23,ok
+21971,Northcote,22917,Yarraville,62.63,ok
+21974,Notting Hill,22917,Yarraville,82.0,ok
+21985,Nunawading,22917,Yarraville,65.12,ok
+21991,Nutfield,22917,Yarraville,,no_eligible_route
+21998,Oak Park,22917,Yarraville,57.07,ok
+21999,Oaklands Junction,22917,Yarraville,,no_eligible_route
+22000,Oakleigh,22917,Yarraville,68.7,ok
+22001,Oakleigh East,22917,Yarraville,80.03,ok
+22002,Oakleigh South,22917,Yarraville,77.78,ok
+22006,Officer,22917,Yarraville,119.53,ok
+22007,Officer South,22917,Yarraville,164.28,ok
+22009,Olinda (Vic.),22917,Yarraville,138.32,ok
+22016,Ormond,22917,Yarraville,64.68,ok
+22027,Pakenham,22917,Yarraville,116.45,ok
+22028,Pakenham South,22917,Yarraville,,no_eligible_route
+22029,Pakenham Upper,22917,Yarraville,,no_eligible_route
+22032,Panton Hill,22917,Yarraville,,no_eligible_route
+22036,Park Orchards,22917,Yarraville,95.6,ok
+22037,Parkdale,22917,Yarraville,80.02,ok
+22038,Parkville (Vic.),22917,Yarraville,46.05,ok
+22041,Pascoe Vale,22917,Yarraville,61.43,ok
+22042,Pascoe Vale South,22917,Yarraville,57.17,ok
+22047,Patterson Lakes,22917,Yarraville,102.32,ok
+22050,Pearcedale,22917,Yarraville,159.5,ok
+22058,Pentland Hills,22917,Yarraville,,no_eligible_route
+22064,Pheasant Creek (Vic.),22917,Yarraville,168.95,ok
+22084,Plenty (Vic.),22917,Yarraville,110.6,ok
+22085,Plumpton (Vic.),22917,Yarraville,,no_eligible_route
+22086,Point Cook,22917,Yarraville,60.47,ok
+22087,Point Leo,22917,Yarraville,,no_eligible_route
+22107,Port Melbourne,22917,Yarraville,48.68,ok
+22113,Portsea,22917,Yarraville,215.78,ok
+22115,Powelltown,22917,Yarraville,,no_eligible_route
+22118,Prahran,22917,Yarraville,51.75,ok
+22121,Preston (Vic.),22917,Yarraville,70.1,ok
+22122,Princes Hill,22917,Yarraville,53.58,ok
+22132,Quandong,22917,Yarraville,,no_eligible_route
+22141,Ravenhall,22917,Yarraville,96.63,ok
+22148,Red Hill (Vic.),22917,Yarraville,,no_eligible_route
+22149,Red Hill South,22917,Yarraville,,no_eligible_route
+22160,Research,22917,Yarraville,102.1,ok
+22161,Reservoir (Vic.),22917,Yarraville,77.25,ok
+22170,Richmond (Vic.),22917,Yarraville,50.7,ok
+22172,Riddells Creek,22917,Yarraville,,no_eligible_route
+22174,Ringwood (Vic.),22917,Yarraville,79.25,ok
+22175,Ringwood East,22917,Yarraville,81.82,ok
+22176,Ringwood North,22917,Yarraville,95.45,ok
+22179,Ripponlea,22917,Yarraville,47.65,ok
+22185,Rochford,22917,Yarraville,,no_eligible_route
+22186,Rockbank,22917,Yarraville,93.55,ok
+22193,Romsey,22917,Yarraville,,no_eligible_route
+22194,Rosanna,22917,Yarraville,71.57,ok
+22198,Rosebud,22917,Yarraville,195.8,ok
+22207,Rowville,22917,Yarraville,107.05,ok
+22208,Roxburgh Park,22917,Yarraville,76.68,ok
+22220,Rye,22917,Yarraville,208.0,ok
+22221,Rythdale,22917,Yarraville,,no_eligible_route
+22222,Safety Beach (Vic.),22917,Yarraville,162.97,ok
+22232,Sandhurst,22917,Yarraville,137.65,ok
+22234,Sandringham (Vic.),22917,Yarraville,73.58,ok
+22239,Sassafras (Vic.),22917,Yarraville,120.77,ok
+22242,Scoresby,22917,Yarraville,95.02,ok
+22247,Seabrook,22917,Yarraville,58.63,ok
+22249,Seaford (Vic.),22917,Yarraville,105.55,ok
+22250,Seaholme,22917,Yarraville,33.32,ok
+22256,Seddon (Vic.),22917,Yarraville,13.48,ok
+22258,Selby,22917,Yarraville,125.45,ok
+22263,Seville,22917,Yarraville,134.55,ok
+22264,Seville East,22917,Yarraville,121.43,ok
+22278,Sherbrooke,22917,Yarraville,124.5,ok
+22279,Shoreham,22917,Yarraville,,no_eligible_route
+22281,Silvan,22917,Yarraville,133.98,ok
+22291,Skye (Vic.),22917,Yarraville,126.1,ok
+22295,Smiths Gully,22917,Yarraville,,no_eligible_route
+22303,Somers,22917,Yarraville,,no_eligible_route
+22304,Somerton (Vic.),22917,Yarraville,79.05,ok
+22305,Somerville (Vic.),22917,Yarraville,157.95,ok
+22306,Sorrento (Vic.),22917,Yarraville,195.77,ok
+22309,South Kingsville,22917,Yarraville,21.35,ok
+22310,South Melbourne,22917,Yarraville,45.1,ok
+22311,South Morang,22917,Yarraville,101.13,ok
+22313,South Wharf,22917,Yarraville,36.63,ok
+22314,South Yarra,22917,Yarraville,38.42,ok
+22315,Southbank,22917,Yarraville,42.97,ok
+22319,Spotswood,22917,Yarraville,14.55,ok
+22325,Springfield (Macedon Ranges - Vic.),22917,Yarraville,,no_eligible_route
+22328,Springvale (Vic.),22917,Yarraville,79.22,ok
+22329,Springvale South,22917,Yarraville,82.05,ok
+22330,St Albans (Vic.),22917,Yarraville,40.87,ok
+22332,St Andrews (Vic.),22917,Yarraville,,no_eligible_route
+22333,St Andrews Beach,22917,Yarraville,,no_eligible_route
+22339,St Helena,22917,Yarraville,93.85,ok
+22343,St Kilda (Vic.),22917,Yarraville,59.65,ok
+22344,St Kilda East,22917,Yarraville,56.95,ok
+22345,St Kilda West,22917,Yarraville,54.07,ok
+22355,Steels Creek,22917,Yarraville,,no_eligible_route
+22375,Strathewen,22917,Yarraville,,no_eligible_route
+22380,Strathmore (Vic.),22917,Yarraville,61.53,ok
+22381,Strathmore Heights,22917,Yarraville,72.32,ok
+22382,Strathtulloh,22917,Yarraville,178.53,ok
+22391,Sunbury,22917,Yarraville,104.15,ok
+22395,Sunshine (Vic.),22917,Yarraville,29.65,ok
+22396,Sunshine North,22917,Yarraville,47.72,ok
+22397,Sunshine West,22917,Yarraville,52.22,ok
+22399,Surrey Hills,22917,Yarraville,63.2,ok
+22414,Sydenham (Vic.),22917,Yarraville,57.2,ok
+22451,Tarneit,22917,Yarraville,81.1,ok
+22457,Tarrawarra,22917,Yarraville,142.35,ok
+22473,Taylors Hill,22917,Yarraville,65.27,ok
+22474,Taylors Lakes,22917,Yarraville,57.68,ok
+22476,Tecoma,22917,Yarraville,94.72,ok
+22483,Templestowe,22917,Yarraville,83.0,ok
+22484,Templestowe Lower,22917,Yarraville,77.97,ok
+22496,The Basin (Vic.),22917,Yarraville,105.9,ok
+22501,The Patch,22917,Yarraville,132.45,ok
+22504,Thomastown,22917,Yarraville,85.73,ok
+22508,Thornbury,22917,Yarraville,68.52,ok
+22509,Thornhill Park,22917,Yarraville,,no_eligible_route
+22514,Three Bridges,22917,Yarraville,,no_eligible_route
+22531,Tonimbuk,22917,Yarraville,,no_eligible_route
+22536,Toolangi,22917,Yarraville,,no_eligible_route
+22537,Toolern Vale,22917,Yarraville,,no_eligible_route
+22546,Tooradin,22917,Yarraville,,no_eligible_route
+22547,Toorak,22917,Yarraville,58.8,ok
+22550,Tootgarook,22917,Yarraville,191.42,ok
+22556,Tottenham (Vic.),22917,Yarraville,36.07,ok
+22572,Travancore,22917,Yarraville,47.5,ok
+22576,Tremont,22917,Yarraville,112.32,ok
+22582,Truganina,22917,Yarraville,136.68,ok
+22584,Tuerong,22917,Yarraville,,no_eligible_route
+22586,Tullamarine,22917,Yarraville,79.58,ok
+22594,Tyabb,22917,Yarraville,149.42,ok
+22598,Tynong,22917,Yarraville,,no_eligible_route
+22599,Tynong North,22917,Yarraville,,no_eligible_route
+22614,Upper Ferntree Gully,22917,Yarraville,91.87,ok
+22617,Upper Plenty,22917,Yarraville,,no_eligible_route
+22620,Upwey,22917,Yarraville,94.58,ok
+22627,Vermont,22917,Yarraville,85.93,ok
+22628,Vermont South,22917,Yarraville,94.07,ok
+22629,Vervale,22917,Yarraville,,no_eligible_route
+22633,Viewbank,22917,Yarraville,85.57,ok
+22661,Wallan,22917,Yarraville,,no_eligible_route
+22672,Wandin East,22917,Yarraville,,no_eligible_route
+22673,Wandin North,22917,Yarraville,107.52,ok
+22676,Wandong,22917,Yarraville,,no_eligible_route
+22685,Wantirna,22917,Yarraville,94.27,ok
+22686,Wantirna South,22917,Yarraville,98.32,ok
+22689,Warburton (Vic.),22917,Yarraville,,no_eligible_route
+22695,Warneet,22917,Yarraville,,no_eligible_route
+22702,Warrandyte,22917,Yarraville,93.88,ok
+22703,Warrandyte South,22917,Yarraville,117.75,ok
+22704,Warranwood,22917,Yarraville,95.42,ok
+22717,Waterford Park,22917,Yarraville,,no_eligible_route
+22720,Waterways,22917,Yarraville,106.48,ok
+22721,Watsonia,22917,Yarraville,72.02,ok
+22722,Watsonia North,22917,Yarraville,91.47,ok
+22723,Watsons Creek (Vic.),22917,Yarraville,,no_eligible_route
+22727,Wattle Glen,22917,Yarraville,104.77,ok
+22740,Weir Views,22917,Yarraville,147.73,ok
+22750,Werribee,22917,Yarraville,57.27,ok
+22751,Werribee South,22917,Yarraville,100.85,ok
+22753,Wesburn,22917,Yarraville,139.48,ok
+22756,West Footscray,22917,Yarraville,27.02,ok
+22757,West Melbourne,22917,Yarraville,44.2,ok
+22761,Westmeadows,22917,Yarraville,69.1,ok
+22766,Wheelers Hill,22917,Yarraville,86.45,ok
+22775,Whittlesea,22917,Yarraville,,no_eligible_route
+22784,Wildwood,22917,Yarraville,,no_eligible_route
+22791,Williams Landing,22917,Yarraville,56.48,ok
+22792,Williamstown (Vic.),22917,Yarraville,20.98,ok
+22793,Williamstown North,22917,Yarraville,29.37,ok
+22805,Windsor (Vic.),22917,Yarraville,44.92,ok
+22820,Wollert,22917,Yarraville,96.95,ok
+22825,Wonga Park,22917,Yarraville,109.27,ok
+22843,Woodstock (Vic.),22917,Yarraville,,no_eligible_route
+22857,Woori Yallock,22917,Yarraville,118.63,ok
+22883,Wyndham Vale,22917,Yarraville,82.08,ok
+22892,Yallambie,22917,Yarraville,90.3,ok
+22898,Yan Yean,22917,Yarraville,134.68,ok
+22906,Yannathan,22917,Yarraville,,no_eligible_route
+22910,Yarra Glen,22917,Yarraville,139.65,ok
+22911,Yarra Junction,22917,Yarraville,143.75,ok
+22916,Yarrambat,22917,Yarraville,108.17,ok
+22917,Yarraville,22917,Yarraville,0.0,same_centroid
+22925,Yellingbo,22917,Yarraville,,no_eligible_route
+22930,Yering,22917,Yarraville,,no_eligible_route
+22941,Yuroke,22917,Yarraville,132.75,ok
