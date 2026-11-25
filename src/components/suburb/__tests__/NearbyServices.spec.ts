@@ -4,7 +4,7 @@ import { i18n } from '@/i18n'
 import type { ObtRow } from '@/types/scoring'
 import NearbyServices from '../NearbyServices.vue'
 
-function row(id: string, figures: Record<string, number | null>): ObtRow {
+function row(id: string, figures: Record<string, string | number | null>): ObtRow {
   return { suburb_id: id, suburb_name: id, suburb_area_km2: 1, ...figures }
 }
 
@@ -18,10 +18,17 @@ function texts(obt: ObtRow, all: ObtRow[]) {
 
 // US 4.3
 describe('nearby services', () => {
-  const near = row('a', { pharmacy_proximity_value: 0.34, gp_proximity_value: 1.6 })
+  const near = row('a', {
+    pharmacy_proximity_value: 0.34,
+    pharmacy_proximity_name: 'Brady Road Pharmacy',
+    gp_proximity_value: 1.6,
+  })
 
   it('gives a walk up to 20 minutes with the distance after it, and just the distance past that', () => {
-    expect(texts(near, [near])).toEqual(['PharmacyAbout 5 minutes’ walk (350 m)', 'GP1.6 km away'])
+    expect(texts(near, [near])).toEqual([
+      'PharmacyNearest pharmacy is Brady Road Pharmacy, about 5 minutes’ walk (350\u00a0m)',
+      'GPNearest GP is 1.6\u00a0km away',
+    ])
   })
 
   it('says plainly when one suburb has no figure that others have', () => {

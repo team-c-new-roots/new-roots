@@ -91,12 +91,12 @@ def read_rows(path):
 # isn't in the lookup, it's added below
 SCORED_TOPICS = {"Affordability", "Education", "Healthcare", "Safety", "Transport", "Language", "Community"}
 
-# US 4.3, nearby services. the GP distance is the OBT's own, the other two are
-# worked out here from Gold features the same way the pipeline does its
+# US 4.3, nearby services. the GP score is the OBT's own, the other two are
+# worked out here from Gold features, along with the nearest of each by name the same way the pipeline does its
 # proximities (nearest point to the suburb's centroid in EPSG:7855, scored
 # 0-100 between the 10th and 90th percentiles). equal weights, agreed 24 Nov
 ESSENTIALS = {
-    "gp_proximity": None,
+    "gp_proximity": {"general practice"},
     "pharmacy_proximity": {"pharmacy"},
     "services_australia_proximity": {"services australia centre", "services australia", "centrelink office"},
 }
@@ -184,23 +184,26 @@ def export_essentials(gold, obt_rows, suburbs):
         kind = row["feature_subtype"].strip().lower()
         lon, lat = number(row["x_coord"]), number(row["y_coord"])
         if lon is not None and lat is not None:
-            points.setdefault(kind, []).append(to_metres.transform(lon, lat))
+            points.setdefault(kind, []).append((*to_metres.transform(lon, lat), row["name"].strip()))
 
     by_id = {suburb["suburb_id"]: suburb for suburb in suburbs}
     for metric, kinds in ESSENTIALS.items():
-        if kinds is None:
-            continue
         found = [point for kind in kinds for point in points.get(kind, [])]
         if not found:
             print(f"no {' or '.join(sorted(kinds))} in the features table, so {metric} is blank for now")
-        distances = [
-            min(math.hypot(centre.x - x, centre.y - y) for x, y in found) / 1000 if found else None
+        nearest = [
+            min(((math.hypot(centre.x - x, centre.y - y), name) for x, y, name in found)) if found else None
             for centre in centres
         ]
-        for row, distance, rank, score in zip(
-            obt_rows, distances, rankings(distances), proximity_scores(distances)
+        distances = [None if near is None else near[0] / 1000 for near in nearest]
+        for row, near, distance, rank, score in zip(
+            obt_rows, nearest, distances, rankings(distances), proximity_scores(distances)
         ):
             suburb = by_id[row["suburb_id"].strip()]
+            suburb[f"{metric}_name"] = near[1] or None if near else None
+            # the GP figures stay the OBT's, only its name comes from here
+            if metric == "gp_proximity":
+                continue
             suburb[f"{metric}_value"] = rounded(distance, 6)
             suburb[f"{metric}_ranking"] = rank
             suburb[f"{metric}_score"] = score

@@ -326,8 +326,7 @@ export default {
     healthcare: 'Doctors and hospitals',
     healthcareHint: 'Distance to the nearest GP and hospital.',
     essentials: 'Nearby services',
-    // add the Services Australia centre back in once its locations are in Gold
-    essentialsHint: 'How far it is to the nearest pharmacy and GP.',
+    essentialsHint: 'How far it is to the nearest pharmacy, GP and Services Australia centre.',
     transport: 'Public transport',
     transportHint: 'Bus and tram stops nearby, and how far it is to a train station.',
     language: 'Language community',
@@ -653,8 +652,15 @@ export default {
   },
   nearbyServices: {
     title: 'Nearby services',
-    walk: 'About {minutes} minutes’ walk ({distance})',
-    underFive: 'Under 5 minutes’ walk ({distance})',
+    named: '{nearest} is {place}, {how}',
+    unnamed: '{nearest} is {how}',
+    nearest: {
+      pharmacy: 'Nearest pharmacy',
+      gp: 'Nearest GP',
+      servicesAustralia: 'Nearest centre',
+    },
+    walk: 'about {minutes} minutes’ walk ({distance})',
+    underFive: 'under 5 minutes’ walk ({distance})',
     away: '{distance} away',
     missing: 'We don’t have a figure for {suburb} yet.',
     types: {
@@ -669,7 +675,8 @@ export default {
       'A busy road, railway or creek can make the real walk longer, so check the route on a map before you rely on it.',
     healthSource:
       'Pharmacies and GPs: Geoscience Australia, from the National Health Services Directory.',
-    centrelinkSource: 'Services Australia centres: Services Australia office locations.',
+    centrelinkSource:
+      'Services Australia centres: Services Australia Office Locations, through the Digital Atlas of Australia.',
   },
   communityPlaces: {
     title: 'Libraries and community centres',
@@ -831,7 +838,7 @@ export default {
       payments: 'Centrelink payment rates: each March and September, when the rates change.',
       census: 'Languages spoken at home: from the Census, which runs every five years.',
       places:
-        'Schools, English classes, doctors, pharmacies, public transport and crime figures: we check for new versions every quarter.',
+        'Schools, English classes, doctors, pharmacies, Services Australia centres, public transport and crime figures: we check for new versions every quarter.',
     },
     disclaimerHeading: 'A starting point, not the only source',
     disclaimer1:
@@ -858,7 +865,6 @@ export default {
       vicmap:
         'Distance to the nearest primary and secondary school, and community places such as libraries, community centres, neighbourhood houses and halls. Also the places you can show on the map.',
       health: 'Distance to the nearest GP, hospital and pharmacy.',
-      // for the dataset in src/data/datasets.ts, once it's back in
       servicesAustralia: 'Distance to the nearest Services Australia centre.',
       transport: 'Bus and tram stops, and distance to the nearest train station.',
       amep: 'Where free English classes are held.',

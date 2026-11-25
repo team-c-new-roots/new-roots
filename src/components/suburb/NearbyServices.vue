@@ -36,14 +36,21 @@ const rows = computed(() =>
   shown.value.map((service) => {
     const km = metricValue(props.obt, service.metric)
     const name = t(`nearbyServices.types.${service.key}`)
+    const place = props.obt?.[`${service.metric}_name`]
     let text: string
     if (km === null) text = t('nearbyServices.missing', { suburb: props.suburb })
     else {
       const minutes = walkingMinutes(km)
       const far = distance(km)
-      if (minutes > WALK_LIMIT_MINUTES) text = t('nearbyServices.away', { distance: far })
-      else if (minutes === 0) text = t('nearbyServices.underFive', { distance: far })
-      else text = t('nearbyServices.walk', { minutes, distance: far })
+      let how: string
+      if (minutes > WALK_LIMIT_MINUTES) how = t('nearbyServices.away', { distance: far })
+      else if (minutes === 0) how = t('nearbyServices.underFive', { distance: far })
+      else how = t('nearbyServices.walk', { minutes, distance: far })
+      const nearest = t(`nearbyServices.nearest.${service.key}`)
+      text =
+        typeof place === 'string' && place
+          ? t('nearbyServices.named', { nearest, place, how })
+          : t('nearbyServices.unnamed', { nearest, how })
     }
     return { ...service, name, text, missing: km === null }
   }),
