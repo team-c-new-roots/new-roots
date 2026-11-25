@@ -13,6 +13,10 @@ import ConfirmDialog from '@/components/ui/ConfirmDialog.vue'
 
 defineOptions({ inheritAttrs: false })
 
+// a circle beside the word on the steps and results. a full width pill in
+// the menu, so it lines up with the theme options and Clear my details
+withDefaults(defineProps<{ variant?: 'circle' | 'pill' }>(), { variant: 'circle' })
+
 const { t } = useI18n()
 const saved = useSavedStore()
 const dialog = ref<InstanceType<typeof ConfirmDialog> | null>(null)
@@ -36,11 +40,12 @@ function confirm() {
   <button
     v-bind="$attrs"
     type="button"
-    class="save-toggle"
+    :class="variant === 'pill' ? 'btn btn--outline btn--block save-pill' : 'save-toggle'"
     :aria-pressed="saved.on ? 'true' : 'false'"
     @click="onClick"
   >
-    <span class="save-toggle__circle" aria-hidden="true">
+    <Bookmark v-if="variant === 'pill'" :size="20" aria-hidden="true" />
+    <span v-else class="save-toggle__circle" aria-hidden="true">
       <Bookmark :size="20" />
     </span>
     {{ t('save.button') }}
@@ -99,6 +104,16 @@ function confirm() {
 }
 
 .save-toggle[aria-pressed='true'] .save-toggle__circle svg {
+  fill: currentColor;
+}
+.save-pill[aria-pressed='true'],
+.save-pill[aria-pressed='true']:hover {
+  border-color: var(--nr-chosen);
+  background: var(--nr-chosen);
+  color: var(--nr-chosen-ink);
+}
+
+.save-pill[aria-pressed='true'] svg {
   fill: currentColor;
 }
 </style>

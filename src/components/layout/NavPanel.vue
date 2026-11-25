@@ -79,9 +79,18 @@ function onClick(event: MouseEvent) {
 
       <div class="nav-panel__footer">
         <ThemePicker id="menu-theme" />
-        <!-- US 2.7, here too so saving can be turned off from any page -->
-        <SaveToggle v-if="answers.hasAnswers" />
-        <ClearDetailsButton v-if="answers.hasAnswers" class="btn--block" @cleared="leave" />
+        <!-- two groups, how it looks and what happens to your answers. Save
+             is here too so it can be turned off from any page (US 2.7) -->
+        <div
+          v-if="answers.hasAnswers"
+          class="nav-panel__details"
+          role="group"
+          aria-labelledby="menu-details"
+        >
+          <p id="menu-details" class="legend-heading">{{ t('nav.yourDetails') }}</p>
+          <SaveToggle variant="pill" />
+          <ClearDetailsButton class="btn--block" @cleared="leave" />
+        </div>
       </div>
     </div>
   </dialog>
@@ -174,9 +183,33 @@ function onClick(event: MouseEvent) {
   padding-top: 1.5rem;
 }
 
-/* the theme options stacked, one per row, since the panel is narrow */
+/* the theme options stacked, one per row, since the panel is narrow. full
+   width and the same height as Save and Clear, so the footer reads as one
+   column of pills in two groups */
 .nav-panel__footer :deep(.choice-group__options) {
   flex-direction: column;
   align-items: stretch;
+}
+
+.nav-panel__footer :deep(.choice),
+.nav-panel__footer :deep(.choice__body) {
+  width: 100%;
+}
+
+.nav-panel__footer :deep(.choice__body),
+.nav-panel__footer :deep(.btn) {
+  justify-content: center;
+  min-height: 3rem;
+  padding-block: 0.5rem;
+}
+
+.nav-panel__details {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+.nav-panel__details .legend-heading {
+  margin: 0;
 }
 </style>

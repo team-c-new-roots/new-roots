@@ -17,6 +17,7 @@ export default {
     dismiss: 'Dismiss',
   },
   nav: {
+    yourDetails: 'Your details',
     label: 'Main menu',
     intro: 'Intro',
     findSuburbs: 'Find suburbs',
