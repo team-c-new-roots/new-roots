@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21564,Macleod (Vic.),42.67,ok
+20003,Aberfeldie,21564,Macleod (Vic.),79.9,ok
+20011,Aintree,21564,Macleod (Vic.),127.63,ok
+20015,Airport West,21564,Macleod (Vic.),94.0,ok
+20017,Albanvale,21564,Macleod (Vic.),103.1,ok
+20018,Albert Park (Vic.),21564,Macleod (Vic.),66.47,ok
+20021,Albion (Vic.),21564,Macleod (Vic.),86.5,ok
+20034,Alphington,21564,Macleod (Vic.),23.33,ok
+20035,Altona (Vic.),21564,Macleod (Vic.),95.6,ok
+20036,Altona Meadows,21564,Macleod (Vic.),101.55,ok
+20037,Altona North,21564,Macleod (Vic.),98.0,ok
+20062,Ardeer,21564,Macleod (Vic.),97.65,ok
+20066,Armadale (Vic.),21564,Macleod (Vic.),59.75,ok
+20071,Arthurs Creek,21564,Macleod (Vic.),,no_eligible_route
+20072,Arthurs Seat,21564,Macleod (Vic.),209.27,ok
+20075,Ascot Vale,21564,Macleod (Vic.),70.43,ok
+20077,Ashburton,21564,Macleod (Vic.),71.35,ok
+20078,Ashwood,21564,Macleod (Vic.),90.55,ok
+20079,Aspendale,21564,Macleod (Vic.),98.0,ok
+20080,Aspendale Gardens,21564,Macleod (Vic.),118.33,ok
+20082,Attwood,21564,Macleod (Vic.),101.4,ok
+20089,Avondale Heights,21564,Macleod (Vic.),96.03,ok
+20091,Avonsleigh,21564,Macleod (Vic.),,no_eligible_route
+20095,Bacchus Marsh,21564,Macleod (Vic.),,no_eligible_route
+20097,Badger Creek,21564,Macleod (Vic.),167.2,ok
+20105,Balaclava (Vic.),21564,Macleod (Vic.),69.38,ok
+20120,Balnarring,21564,Macleod (Vic.),,no_eligible_route
+20121,Balnarring Beach,21564,Macleod (Vic.),,no_eligible_route
+20123,Balwyn,21564,Macleod (Vic.),62.32,ok
+20124,Balwyn North,21564,Macleod (Vic.),54.25,ok
+20131,Bangholme,21564,Macleod (Vic.),149.6,ok
+20169,Baxter,21564,Macleod (Vic.),136.07,ok
+20171,Bayles,21564,Macleod (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),21564,Macleod (Vic.),96.0,ok
+20174,Bayswater North,21564,Macleod (Vic.),102.27,ok
+20175,Beaconsfield (Vic.),21564,Macleod (Vic.),147.45,ok
+20176,Beaconsfield Upper,21564,Macleod (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),21564,Macleod (Vic.),95.88,ok
+20187,Beenak,21564,Macleod (Vic.),,no_eligible_route
+20188,Belgrave,21564,Macleod (Vic.),109.08,ok
+20189,Belgrave Heights,21564,Macleod (Vic.),139.75,ok
+20190,Belgrave South,21564,Macleod (Vic.),138.73,ok
+20198,Bellfield (Banyule - Vic.),21564,Macleod (Vic.),32.55,ok
+20207,Bend Of Islands,21564,Macleod (Vic.),,no_eligible_route
+20212,Benloch,21564,Macleod (Vic.),,no_eligible_route
+20214,Bentleigh,21564,Macleod (Vic.),82.78,ok
+20215,Bentleigh East,21564,Macleod (Vic.),91.73,ok
+20224,Berwick,21564,Macleod (Vic.),110.25,ok
+20233,Beveridge,21564,Macleod (Vic.),132.95,ok
+20237,Big Pats Creek,21564,Macleod (Vic.),,no_eligible_route
+20248,Bittern,21564,Macleod (Vic.),156.33,ok
+20251,Black Rock (Vic.),21564,Macleod (Vic.),101.68,ok
+20252,Blackburn,21564,Macleod (Vic.),66.33,ok
+20253,Blackburn North,21564,Macleod (Vic.),62.6,ok
+20254,Blackburn South,21564,Macleod (Vic.),78.53,ok
+20257,Blairgowrie,21564,Macleod (Vic.),201.3,ok
+20260,Blind Bight,21564,Macleod (Vic.),,no_eligible_route
+20272,Bolinda,21564,Macleod (Vic.),,no_eligible_route
+20278,Bonbeach,21564,Macleod (Vic.),103.0,ok
+20280,Boneo,21564,Macleod (Vic.),,no_eligible_route
+20282,Bonnie Brook,21564,Macleod (Vic.),160.18,ok
+20304,Boronia,21564,Macleod (Vic.),98.47,ok
+20307,Botanic Ridge,21564,Macleod (Vic.),160.12,ok
+20314,Box Hill (Vic.),21564,Macleod (Vic.),54.67,ok
+20315,Box Hill North,21564,Macleod (Vic.),52.48,ok
+20316,Box Hill South,21564,Macleod (Vic.),58.93,ok
+20320,Braeside,21564,Macleod (Vic.),125.08,ok
+20324,Braybrook,21564,Macleod (Vic.),92.28,ok
+20331,Briar Hill,21564,Macleod (Vic.),34.52,ok
+20337,Brighton (Vic.),21564,Macleod (Vic.),82.15,ok
+20338,Brighton East,21564,Macleod (Vic.),87.57,ok
+20346,Broadmeadows (Vic.),21564,Macleod (Vic.),71.15,ok
+20351,Brookfield (Vic.),21564,Macleod (Vic.),187.68,ok
+20352,Brooklyn (Vic.),21564,Macleod (Vic.),94.03,ok
+20361,Brunswick (Vic.),21564,Macleod (Vic.),52.53,ok
+20362,Brunswick East,21564,Macleod (Vic.),50.72,ok
+20363,Brunswick West,21564,Macleod (Vic.),59.12,ok
+20381,Bulla (Vic.),21564,Macleod (Vic.),162.87,ok
+20386,Bulleen,21564,Macleod (Vic.),35.77,ok
+20387,Bullengarook,21564,Macleod (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),21564,Macleod (Vic.),31.93,ok
+20411,Bunyip,21564,Macleod (Vic.),,no_eligible_route
+20412,Bunyip North,21564,Macleod (Vic.),,no_eligible_route
+20418,Burnley,21564,Macleod (Vic.),67.75,ok
+20419,Burnside (Vic.),21564,Macleod (Vic.),106.53,ok
+20420,Burnside Heights,21564,Macleod (Vic.),114.35,ok
+20426,Burwood (Vic.),21564,Macleod (Vic.),68.43,ok
+20427,Burwood East,21564,Macleod (Vic.),80.67,ok
+20435,Bylands,21564,Macleod (Vic.),,no_eligible_route
+20441,Cairnlea,21564,Macleod (Vic.),99.72,ok
+20442,Calder Park,21564,Macleod (Vic.),120.28,ok
+20443,Caldermeade,21564,Macleod (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),21564,Macleod (Vic.),70.28,ok
+20455,Campbellfield,21564,Macleod (Vic.),93.68,ok
+20466,Cannons Creek,21564,Macleod (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),21564,Macleod (Vic.),69.33,ok
+20474,Cape Schanck,21564,Macleod (Vic.),,no_eligible_route
+20476,Capel Sound,21564,Macleod (Vic.),185.65,ok
+20487,Cardinia,21564,Macleod (Vic.),,no_eligible_route
+20495,Carlton (Vic.),21564,Macleod (Vic.),49.37,ok
+20496,Carlton North,21564,Macleod (Vic.),58.83,ok
+20498,Carnegie,21564,Macleod (Vic.),83.3,ok
+20500,Caroline Springs,21564,Macleod (Vic.),116.42,ok
+20507,Carrum,21564,Macleod (Vic.),102.82,ok
+20508,Carrum Downs,21564,Macleod (Vic.),127.92,ok
+20512,Castella,21564,Macleod (Vic.),,no_eligible_route
+20517,Catani,21564,Macleod (Vic.),,no_eligible_route
+20521,Caulfield,21564,Macleod (Vic.),79.48,ok
+20522,Caulfield East,21564,Macleod (Vic.),71.18,ok
+20523,Caulfield North,21564,Macleod (Vic.),72.1,ok
+20524,Caulfield South,21564,Macleod (Vic.),82.02,ok
+20528,Chadstone,21564,Macleod (Vic.),91.27,ok
+20537,Chelsea,21564,Macleod (Vic.),100.07,ok
+20538,Chelsea Heights,21564,Macleod (Vic.),115.75,ok
+20539,Cheltenham (Vic.),21564,Macleod (Vic.),89.53,ok
+20541,Cherokee,21564,Macleod (Vic.),,no_eligible_route
+20555,Chintin,21564,Macleod (Vic.),,no_eligible_route
+20556,Chirnside Park,21564,Macleod (Vic.),117.37,ok
+20559,Christmas Hills (Vic.),21564,Macleod (Vic.),,no_eligible_route
+20560,Chum Creek,21564,Macleod (Vic.),,no_eligible_route
+20566,Clarinda,21564,Macleod (Vic.),103.92,ok
+20567,Clarkefield,21564,Macleod (Vic.),,no_eligible_route
+20569,Clayton,21564,Macleod (Vic.),99.62,ok
+20570,Clayton South,21564,Macleod (Vic.),113.05,ok
+20572,Clematis,21564,Macleod (Vic.),,no_eligible_route
+20574,Clifton Hill,21564,Macleod (Vic.),27.63,ok
+20576,Clonbinane,21564,Macleod (Vic.),,no_eligible_route
+20581,Clyde (Vic.),21564,Macleod (Vic.),173.95,ok
+20582,Clyde North,21564,Macleod (Vic.),147.72,ok
+20587,Cobaw,21564,Macleod (Vic.),,no_eligible_route
+20590,Cobblebank,21564,Macleod (Vic.),169.33,ok
+20596,Coburg,21564,Macleod (Vic.),56.78,ok
+20597,Coburg North,21564,Macleod (Vic.),54.9,ok
+20600,Cockatoo (Vic.),21564,Macleod (Vic.),,no_eligible_route
+20601,Cocoroc,21564,Macleod (Vic.),,no_eligible_route
+20605,Coimadai,21564,Macleod (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),21564,Macleod (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),21564,Macleod (Vic.),38.42,ok
+20624,Coolaroo,21564,Macleod (Vic.),86.1,ok
+20633,Cora Lynn,21564,Macleod (Vic.),,no_eligible_route
+20654,Cottles Bridge,21564,Macleod (Vic.),,no_eligible_route
+20661,Craigieburn,21564,Macleod (Vic.),104.78,ok
+20662,Cranbourne,21564,Macleod (Vic.),130.12,ok
+20663,Cranbourne East,21564,Macleod (Vic.),138.0,ok
+20664,Cranbourne North,21564,Macleod (Vic.),129.45,ok
+20665,Cranbourne South,21564,Macleod (Vic.),163.47,ok
+20666,Cranbourne West,21564,Macleod (Vic.),136.82,ok
+20670,Cremorne (Vic.),21564,Macleod (Vic.),57.28,ok
+20674,Crib Point,21564,Macleod (Vic.),165.3,ok
+20682,Croydon (Vic.),21564,Macleod (Vic.),86.1,ok
+20683,Croydon Hills,21564,Macleod (Vic.),102.77,ok
+20684,Croydon North,21564,Macleod (Vic.),106.85,ok
+20685,Croydon South,21564,Macleod (Vic.),109.02,ok
+20702,Dallas,21564,Macleod (Vic.),86.65,ok
+20703,Dalmore,21564,Macleod (Vic.),,no_eligible_route
+20707,Dandenong,21564,Macleod (Vic.),97.85,ok
+20708,Dandenong North,21564,Macleod (Vic.),126.92,ok
+20709,Dandenong South,21564,Macleod (Vic.),128.93,ok
+20712,Darley,21564,Macleod (Vic.),,no_eligible_route
+20716,Darraweit Guim,21564,Macleod (Vic.),,no_eligible_route
+20724,Deanside,21564,Macleod (Vic.),138.78,ok
+20728,Deepdene (Vic.),21564,Macleod (Vic.),45.5,ok
+20729,Deer Park,21564,Macleod (Vic.),95.48,ok
+20731,Delahey,21564,Macleod (Vic.),112.15,ok
+20743,Derrimut,21564,Macleod (Vic.),123.37,ok
+20748,Devon Meadows,21564,Macleod (Vic.),180.7,ok
+20750,Dewhurst,21564,Macleod (Vic.),,no_eligible_route
+20752,Diamond Creek,21564,Macleod (Vic.),44.13,ok
+20754,Diggers Rest,21564,Macleod (Vic.),117.6,ok
+20758,Dingley Village,21564,Macleod (Vic.),102.43,ok
+20762,Dixons Creek,21564,Macleod (Vic.),,no_eligible_route
+20766,Docklands,21564,Macleod (Vic.),59.53,ok
+20769,Don Valley,21564,Macleod (Vic.),,no_eligible_route
+20771,Doncaster,21564,Macleod (Vic.),40.9,ok
+20772,Doncaster East,21564,Macleod (Vic.),56.08,ok
+20773,Donnybrook (Vic.),21564,Macleod (Vic.),123.48,ok
+20774,Donvale,21564,Macleod (Vic.),86.3,ok
+20779,Doreen,21564,Macleod (Vic.),72.28,ok
+20783,Doveton,21564,Macleod (Vic.),121.83,ok
+20788,Dromana,21564,Macleod (Vic.),196.43,ok
+20825,Eaglemont,21564,Macleod (Vic.),27.85,ok
+20830,East Melbourne,21564,Macleod (Vic.),33.7,ok
+20833,East Warburton,21564,Macleod (Vic.),,no_eligible_route
+20843,Eden Park,21564,Macleod (Vic.),,no_eligible_route
+20848,Edithvale,21564,Macleod (Vic.),100.2,ok
+20864,Elsternwick,21564,Macleod (Vic.),77.3,ok
+20865,Eltham (Vic.),21564,Macleod (Vic.),43.27,ok
+20866,Eltham North,21564,Macleod (Vic.),38.52,ok
+20867,Elwood,21564,Macleod (Vic.),73.75,ok
+20868,Emerald (Vic.),21564,Macleod (Vic.),,no_eligible_route
+20871,Endeavour Hills,21564,Macleod (Vic.),129.17,ok
+20878,Epping (Vic.),21564,Macleod (Vic.),83.05,ok
+20885,Essendon,21564,Macleod (Vic.),71.38,ok
+20886,Essendon Fields,21564,Macleod (Vic.),97.05,ok
+20887,Essendon North,21564,Macleod (Vic.),72.58,ok
+20888,Essendon West,21564,Macleod (Vic.),79.52,ok
+20889,Eumemmerring,21564,Macleod (Vic.),124.22,ok
+20898,Exford,21564,Macleod (Vic.),,no_eligible_route
+20899,Eynesbury,21564,Macleod (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),21564,Macleod (Vic.),34.63,ok
+20909,Fawkner,21564,Macleod (Vic.),72.23,ok
+20916,Fernshaw,21564,Macleod (Vic.),,no_eligible_route
+20917,Ferntree Gully,21564,Macleod (Vic.),93.83,ok
+20918,Ferny Creek,21564,Macleod (Vic.),140.37,ok
+20920,Fingal (Vic.),21564,Macleod (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),21564,Macleod (Vic.),46.15,ok
+20925,Fitzroy North,21564,Macleod (Vic.),45.02,ok
+20929,Flemington,21564,Macleod (Vic.),72.27,ok
+20930,Flinders (Vic.),21564,Macleod (Vic.),,no_eligible_route
+20935,Footscray,21564,Macleod (Vic.),73.37,ok
+20937,Forest Hill (Vic.),21564,Macleod (Vic.),77.95,ok
+20947,Frankston,21564,Macleod (Vic.),122.78,ok
+20948,Frankston North,21564,Macleod (Vic.),132.93,ok
+20949,Frankston South,21564,Macleod (Vic.),141.05,ok
+20950,Fraser Rise,21564,Macleod (Vic.),131.03,ok
+20965,Gardenvale,21564,Macleod (Vic.),78.58,ok
+20966,Garfield,21564,Macleod (Vic.),,no_eligible_route
+20967,Garfield North,21564,Macleod (Vic.),,no_eligible_route
+20979,Gembrook,21564,Macleod (Vic.),,no_eligible_route
+20995,Gilderoy,21564,Macleod (Vic.),,no_eligible_route
+21001,Gisborne,21564,Macleod (Vic.),,no_eligible_route
+21002,Gisborne South,21564,Macleod (Vic.),,no_eligible_route
+21004,Gladstone Park,21564,Macleod (Vic.),93.18,ok
+21005,Gladysdale,21564,Macleod (Vic.),,no_eligible_route
+21009,Glen Huntly,21564,Macleod (Vic.),74.32,ok
+21010,Glen Iris (Vic.),21564,Macleod (Vic.),74.18,ok
+21013,Glen Waverley,21564,Macleod (Vic.),88.77,ok
+21047,Glenroy (Vic.),21564,Macleod (Vic.),83.98,ok
+21059,Goldie,21564,Macleod (Vic.),,no_eligible_route
+21079,Gowanbrae,21564,Macleod (Vic.),100.0,ok
+21087,Grangefields,21564,Macleod (Vic.),164.63,ok
+21104,Greensborough,21564,Macleod (Vic.),27.08,ok
+21105,Greenvale (Vic.),21564,Macleod (Vic.),112.25,ok
+21115,Gruyere,21564,Macleod (Vic.),,no_eligible_route
+21121,Guys Hill,21564,Macleod (Vic.),,no_eligible_route
+21124,Hadfield,21564,Macleod (Vic.),72.48,ok
+21125,Hallam,21564,Macleod (Vic.),125.37,ok
+21131,Hampton (Vic.),21564,Macleod (Vic.),91.98,ok
+21132,Hampton East,21564,Macleod (Vic.),89.55,ok
+21133,Hampton Park,21564,Macleod (Vic.),127.78,ok
+21139,Harkaway,21564,Macleod (Vic.),,no_eligible_route
+21140,Harkness,21564,Macleod (Vic.),189.17,ok
+21145,Hastings (Vic.),21564,Macleod (Vic.),154.22,ok
+21152,Hawthorn (Vic.),21564,Macleod (Vic.),66.15,ok
+21153,Hawthorn East,21564,Macleod (Vic.),56.8,ok
+21158,Healesville,21564,Macleod (Vic.),171.12,ok
+21159,Heath Hill,21564,Macleod (Vic.),,no_eligible_route
+21161,Heathcote Junction,21564,Macleod (Vic.),,no_eligible_route
+21163,Heatherton,21564,Macleod (Vic.),102.85,ok
+21165,Heathmont,21564,Macleod (Vic.),86.27,ok
+21167,Heidelberg,21564,Macleod (Vic.),29.18,ok
+21168,Heidelberg Heights,21564,Macleod (Vic.),20.87,ok
+21169,Heidelberg West,21564,Macleod (Vic.),27.18,ok
+21176,Hesket,21564,Macleod (Vic.),,no_eligible_route
+21185,Highett,21564,Macleod (Vic.),82.32,ok
+21193,Hillside (Melton - Vic.),21564,Macleod (Vic.),115.58,ok
+21195,Hmas Cerberus,21564,Macleod (Vic.),,no_eligible_route
+21196,Hoddles Creek,21564,Macleod (Vic.),,no_eligible_route
+21202,Hopetoun Park,21564,Macleod (Vic.),,no_eligible_route
+21203,Hoppers Crossing,21564,Macleod (Vic.),108.43,ok
+21214,Hughesdale,21564,Macleod (Vic.),85.4,ok
+21215,Humevale,21564,Macleod (Vic.),126.0,ok
+21218,Huntingdale (Vic.),21564,Macleod (Vic.),90.83,ok
+21223,Hurstbridge,21564,Macleod (Vic.),44.68,ok
+21238,Iona,21564,Macleod (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),21564,Macleod (Vic.),21.27,ok
+21247,Ivanhoe East,21564,Macleod (Vic.),33.5,ok
+21248,Jacana,21564,Macleod (Vic.),81.1,ok
+21277,Junction Village,21564,Macleod (Vic.),166.83,ok
+21284,Kalkallo,21564,Macleod (Vic.),132.8,ok
+21286,Kallista,21564,Macleod (Vic.),143.8,ok
+21287,Kalorama,21564,Macleod (Vic.),119.07,ok
+21294,Kangaroo Ground,21564,Macleod (Vic.),75.92,ok
+21312,Kealba,21564,Macleod (Vic.),98.87,ok
+21314,Keilor,21564,Macleod (Vic.),121.02,ok
+21315,Keilor Downs,21564,Macleod (Vic.),110.25,ok
+21316,Keilor East,21564,Macleod (Vic.),92.52,ok
+21317,Keilor Lodge,21564,Macleod (Vic.),107.47,ok
+21318,Keilor North,21564,Macleod (Vic.),104.22,ok
+21319,Keilor Park,21564,Macleod (Vic.),102.8,ok
+21327,Kensington (Vic.),21564,Macleod (Vic.),63.05,ok
+21333,Kerrie,21564,Macleod (Vic.),,no_eligible_route
+21336,Kew (Vic.),21564,Macleod (Vic.),53.25,ok
+21337,Kew East,21564,Macleod (Vic.),49.95,ok
+21339,Keysborough,21564,Macleod (Vic.),118.58,ok
+21354,Kilsyth,21564,Macleod (Vic.),108.45,ok
+21355,Kilsyth South,21564,Macleod (Vic.),121.53,ok
+21358,Kinglake,21564,Macleod (Vic.),,no_eligible_route
+21359,Kinglake Central,21564,Macleod (Vic.),,no_eligible_route
+21360,Kinglake West,21564,Macleod (Vic.),138.35,ok
+21362,Kings Park (Vic.),21564,Macleod (Vic.),105.85,ok
+21363,Kingsbury,21564,Macleod (Vic.),26.62,ok
+21365,Kingsville,21564,Macleod (Vic.),82.98,ok
+21374,Knoxfield,21564,Macleod (Vic.),113.22,ok
+21380,Koo Wee Rup,21564,Macleod (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,21564,Macleod (Vic.),,no_eligible_route
+21393,Kooyong,21564,Macleod (Vic.),68.53,ok
+21411,Kurunjang,21564,Macleod (Vic.),166.37,ok
+21452,Lalor,21564,Macleod (Vic.),53.48,ok
+21456,Lancefield,21564,Macleod (Vic.),,no_eligible_route
+21459,Lang Lang,21564,Macleod (Vic.),,no_eligible_route
+21460,Lang Lang East,21564,Macleod (Vic.),,no_eligible_route
+21467,Langwarrin,21564,Macleod (Vic.),136.75,ok
+21468,Langwarrin South,21564,Macleod (Vic.),,no_eligible_route
+21473,Launching Place,21564,Macleod (Vic.),131.75,ok
+21476,Laverton (Vic.),21564,Macleod (Vic.),90.2,ok
+21477,Laverton North,21564,Macleod (Vic.),118.62,ok
+21504,Lilydale (Vic.),21564,Macleod (Vic.),111.4,ok
+21533,Long Forest,21564,Macleod (Vic.),,no_eligible_route
+21547,Lower Plenty,21564,Macleod (Vic.),55.23,ok
+21554,Lynbrook,21564,Macleod (Vic.),117.62,ok
+21555,Lyndhurst (Vic.),21564,Macleod (Vic.),165.2,ok
+21558,Lysterfield,21564,Macleod (Vic.),168.68,ok
+21559,Lysterfield South,21564,Macleod (Vic.),178.33,ok
+21561,Macclesfield (Vic.),21564,Macleod (Vic.),,no_eligible_route
+21562,Macedon,21564,Macleod (Vic.),,no_eligible_route
+21564,Macleod (Vic.),21564,Macleod (Vic.),0.0,same_centroid
+21569,Maddingley,21564,Macleod (Vic.),,no_eligible_route
+21575,Maidstone,21564,Macleod (Vic.),88.73,ok
+21578,Main Ridge,21564,Macleod (Vic.),,no_eligible_route
+21586,Malvern (Vic.),21564,Macleod (Vic.),68.07,ok
+21587,Malvern East,21564,Macleod (Vic.),75.13,ok
+21588,Mambourin,21564,Macleod (Vic.),,no_eligible_route
+21597,Manor Lakes,21564,Macleod (Vic.),147.13,ok
+21604,Maribyrnong,21564,Macleod (Vic.),86.48,ok
+21619,Maryknoll,21564,Macleod (Vic.),,no_eligible_route
+21625,McCrae,21564,Macleod (Vic.),180.85,ok
+21629,McKinnon,21564,Macleod (Vic.),71.62,ok
+21635,Meadow Heights,21564,Macleod (Vic.),94.52,ok
+21640,Melbourne,21564,Macleod (Vic.),57.22,ok
+21641,Melbourne Airport,21564,Macleod (Vic.),,no_eligible_route
+21642,Melton (Vic.),21564,Macleod (Vic.),171.55,ok
+21643,Melton South,21564,Macleod (Vic.),185.15,ok
+21644,Melton West,21564,Macleod (Vic.),162.55,ok
+21648,Mentone,21564,Macleod (Vic.),84.3,ok
+21649,Menzies Creek,21564,Macleod (Vic.),,no_eligible_route
+21659,Mernda,21564,Macleod (Vic.),83.97,ok
+21662,Merricks,21564,Macleod (Vic.),,no_eligible_route
+21663,Merricks Beach,21564,Macleod (Vic.),,no_eligible_route
+21664,Merricks North,21564,Macleod (Vic.),,no_eligible_route
+21668,Merrimu,21564,Macleod (Vic.),,no_eligible_route
+21675,Mickleham,21564,Macleod (Vic.),135.78,ok
+21677,Middle Park (Vic.),21564,Macleod (Vic.),72.55,ok
+21683,Mill Park,21564,Macleod (Vic.),60.03,ok
+21685,Millgrove,21564,Macleod (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),21564,Macleod (Vic.),78.0,ok
+21727,Monbulk,21564,Macleod (Vic.),151.25,ok
+21728,Monegeetta,21564,Macleod (Vic.),,no_eligible_route
+21731,Monomeith,21564,Macleod (Vic.),,no_eligible_route
+21732,Mont Albert,21564,Macleod (Vic.),64.6,ok
+21733,Mont Albert North,21564,Macleod (Vic.),61.12,ok
+21735,Montmorency,21564,Macleod (Vic.),28.72,ok
+21736,Montrose (Vic.),21564,Macleod (Vic.),110.92,ok
+21742,Moonee Ponds,21564,Macleod (Vic.),64.77,ok
+21746,Moorabbin,21564,Macleod (Vic.),99.45,ok
+21747,Moorabbin Airport,21564,Macleod (Vic.),103.8,ok
+21754,Moorooduc,21564,Macleod (Vic.),,no_eligible_route
+21755,Mooroolbark,21564,Macleod (Vic.),101.3,ok
+21760,Mordialloc,21564,Macleod (Vic.),99.6,ok
+21763,Mornington (Vic.),21564,Macleod (Vic.),154.48,ok
+21779,Mount Burnett,21564,Macleod (Vic.),,no_eligible_route
+21786,Mount Cottrell,21564,Macleod (Vic.),,no_eligible_route
+21787,Mount Dandenong,21564,Macleod (Vic.),123.07,ok
+21793,Mount Eliza,21564,Macleod (Vic.),128.83,ok
+21795,Mount Evelyn,21564,Macleod (Vic.),127.23,ok
+21801,Mount Macedon,21564,Macleod (Vic.),,no_eligible_route
+21803,Mount Martha,21564,Macleod (Vic.),147.37,ok
+21814,Mount Toolebewong,21564,Macleod (Vic.),,no_eligible_route
+21816,Mount Waverley,21564,Macleod (Vic.),80.2,ok
+21827,Mulgrave (Vic.),21564,Macleod (Vic.),115.93,ok
+21849,Murrumbeena,21564,Macleod (Vic.),85.52,ok
+21872,Nangana,21564,Macleod (Vic.),,no_eligible_route
+21878,Nar Nar Goon,21564,Macleod (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,21564,Macleod (Vic.),,no_eligible_route
+21893,Narre Warren,21564,Macleod (Vic.),125.8,ok
+21894,Narre Warren East,21564,Macleod (Vic.),,no_eligible_route
+21895,Narre Warren North,21564,Macleod (Vic.),135.62,ok
+21896,Narre Warren South,21564,Macleod (Vic.),130.17,ok
+21921,New Gisborne,21564,Macleod (Vic.),,no_eligible_route
+21934,Newport (Vic.),21564,Macleod (Vic.),75.05,ok
+21942,Niddrie,21564,Macleod (Vic.),90.0,ok
+21952,Noble Park,21564,Macleod (Vic.),97.62,ok
+21953,Noble Park North,21564,Macleod (Vic.),128.6,ok
+21966,North Melbourne,21564,Macleod (Vic.),63.45,ok
+21969,North Warrandyte,21564,Macleod (Vic.),56.9,ok
+21971,Northcote,21564,Macleod (Vic.),39.13,ok
+21974,Notting Hill,21564,Macleod (Vic.),88.75,ok
+21985,Nunawading,21564,Macleod (Vic.),70.48,ok
+21991,Nutfield,21564,Macleod (Vic.),,no_eligible_route
+21998,Oak Park,21564,Macleod (Vic.),82.12,ok
+21999,Oaklands Junction,21564,Macleod (Vic.),,no_eligible_route
+22000,Oakleigh,21564,Macleod (Vic.),88.07,ok
+22001,Oakleigh East,21564,Macleod (Vic.),98.4,ok
+22002,Oakleigh South,21564,Macleod (Vic.),97.05,ok
+22006,Officer,21564,Macleod (Vic.),129.9,ok
+22007,Officer South,21564,Macleod (Vic.),181.47,ok
+22009,Olinda (Vic.),21564,Macleod (Vic.),141.68,ok
+22016,Ormond,21564,Macleod (Vic.),63.05,ok
+22027,Pakenham,21564,Macleod (Vic.),128.95,ok
+22028,Pakenham South,21564,Macleod (Vic.),,no_eligible_route
+22029,Pakenham Upper,21564,Macleod (Vic.),,no_eligible_route
+22032,Panton Hill,21564,Macleod (Vic.),,no_eligible_route
+22036,Park Orchards,21564,Macleod (Vic.),76.97,ok
+22037,Parkdale,21564,Macleod (Vic.),89.38,ok
+22038,Parkville (Vic.),21564,Macleod (Vic.),65.33,ok
+22041,Pascoe Vale,21564,Macleod (Vic.),70.75,ok
+22042,Pascoe Vale South,21564,Macleod (Vic.),64.8,ok
+22047,Patterson Lakes,21564,Macleod (Vic.),111.68,ok
+22050,Pearcedale,21564,Macleod (Vic.),180.77,ok
+22058,Pentland Hills,21564,Macleod (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),21564,Macleod (Vic.),154.0,ok
+22084,Plenty (Vic.),21564,Macleod (Vic.),54.27,ok
+22085,Plumpton (Vic.),21564,Macleod (Vic.),,no_eligible_route
+22086,Point Cook,21564,Macleod (Vic.),107.43,ok
+22087,Point Leo,21564,Macleod (Vic.),,no_eligible_route
+22107,Port Melbourne,21564,Macleod (Vic.),66.05,ok
+22113,Portsea,21564,Macleod (Vic.),217.15,ok
+22115,Powelltown,21564,Macleod (Vic.),,no_eligible_route
+22118,Prahran,21564,Macleod (Vic.),66.55,ok
+22121,Preston (Vic.),21564,Macleod (Vic.),37.08,ok
+22122,Princes Hill,21564,Macleod (Vic.),51.43,ok
+22132,Quandong,21564,Macleod (Vic.),,no_eligible_route
+22141,Ravenhall,21564,Macleod (Vic.),146.23,ok
+22148,Red Hill (Vic.),21564,Macleod (Vic.),,no_eligible_route
+22149,Red Hill South,21564,Macleod (Vic.),,no_eligible_route
+22160,Research,21564,Macleod (Vic.),50.77,ok
+22161,Reservoir (Vic.),21564,Macleod (Vic.),39.55,ok
+22170,Richmond (Vic.),21564,Macleod (Vic.),51.07,ok
+22172,Riddells Creek,21564,Macleod (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),21564,Macleod (Vic.),87.03,ok
+22175,Ringwood East,21564,Macleod (Vic.),86.18,ok
+22176,Ringwood North,21564,Macleod (Vic.),83.55,ok
+22179,Ripponlea,21564,Macleod (Vic.),68.02,ok
+22185,Rochford,21564,Macleod (Vic.),,no_eligible_route
+22186,Rockbank,21564,Macleod (Vic.),144.82,ok
+22193,Romsey,21564,Macleod (Vic.),,no_eligible_route
+22194,Rosanna,21564,Macleod (Vic.),19.65,ok
+22198,Rosebud,21564,Macleod (Vic.),197.17,ok
+22207,Rowville,21564,Macleod (Vic.),123.42,ok
+22208,Roxburgh Park,21564,Macleod (Vic.),104.05,ok
+22220,Rye,21564,Macleod (Vic.),209.37,ok
+22221,Rythdale,21564,Macleod (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),21564,Macleod (Vic.),164.33,ok
+22232,Sandhurst,21564,Macleod (Vic.),140.02,ok
+22234,Sandringham (Vic.),21564,Macleod (Vic.),95.95,ok
+22239,Sassafras (Vic.),21564,Macleod (Vic.),123.13,ok
+22242,Scoresby,21564,Macleod (Vic.),111.38,ok
+22247,Seabrook,21564,Macleod (Vic.),98.5,ok
+22249,Seaford (Vic.),21564,Macleod (Vic.),114.92,ok
+22250,Seaholme,21564,Macleod (Vic.),90.28,ok
+22256,Seddon (Vic.),21564,Macleod (Vic.),72.3,ok
+22258,Selby,21564,Macleod (Vic.),143.68,ok
+22263,Seville,21564,Macleod (Vic.),142.92,ok
+22264,Seville East,21564,Macleod (Vic.),129.8,ok
+22278,Sherbrooke,21564,Macleod (Vic.),133.87,ok
+22279,Shoreham,21564,Macleod (Vic.),,no_eligible_route
+22281,Silvan,21564,Macleod (Vic.),143.35,ok
+22291,Skye (Vic.),21564,Macleod (Vic.),131.05,ok
+22295,Smiths Gully,21564,Macleod (Vic.),,no_eligible_route
+22303,Somers,21564,Macleod (Vic.),,no_eligible_route
+22304,Somerton (Vic.),21564,Macleod (Vic.),97.35,ok
+22305,Somerville (Vic.),21564,Macleod (Vic.),159.32,ok
+22306,Sorrento (Vic.),21564,Macleod (Vic.),197.13,ok
+22309,South Kingsville,21564,Macleod (Vic.),91.3,ok
+22310,South Melbourne,21564,Macleod (Vic.),64.78,ok
+22311,South Morang,21564,Macleod (Vic.),76.78,ok
+22313,South Wharf,21564,Macleod (Vic.),62.03,ok
+22314,South Yarra,21564,Macleod (Vic.),42.68,ok
+22315,Southbank,21564,Macleod (Vic.),64.8,ok
+22319,Spotswood,21564,Macleod (Vic.),73.45,ok
+22325,Springfield (Macedon Ranges - Vic.),21564,Macleod (Vic.),,no_eligible_route
+22328,Springvale (Vic.),21564,Macleod (Vic.),98.58,ok
+22329,Springvale South,21564,Macleod (Vic.),98.32,ok
+22330,St Albans (Vic.),21564,Macleod (Vic.),89.13,ok
+22332,St Andrews (Vic.),21564,Macleod (Vic.),,no_eligible_route
+22333,St Andrews Beach,21564,Macleod (Vic.),,no_eligible_route
+22339,St Helena,21564,Macleod (Vic.),34.52,ok
+22343,St Kilda (Vic.),21564,Macleod (Vic.),61.72,ok
+22344,St Kilda East,21564,Macleod (Vic.),70.45,ok
+22345,St Kilda West,21564,Macleod (Vic.),73.4,ok
+22355,Steels Creek,21564,Macleod (Vic.),,no_eligible_route
+22375,Strathewen,21564,Macleod (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),21564,Macleod (Vic.),83.9,ok
+22381,Strathmore Heights,21564,Macleod (Vic.),94.68,ok
+22382,Strathtulloh,21564,Macleod (Vic.),,no_eligible_route
+22391,Sunbury,21564,Macleod (Vic.),149.42,ok
+22395,Sunshine (Vic.),21564,Macleod (Vic.),74.92,ok
+22396,Sunshine North,21564,Macleod (Vic.),94.98,ok
+22397,Sunshine West,21564,Macleod (Vic.),95.27,ok
+22399,Surrey Hills,21564,Macleod (Vic.),67.88,ok
+22414,Sydenham (Vic.),21564,Macleod (Vic.),103.53,ok
+22451,Tarneit,21564,Macleod (Vic.),124.5,ok
+22457,Tarrawarra,21564,Macleod (Vic.),146.72,ok
+22473,Taylors Hill,21564,Macleod (Vic.),116.53,ok
+22474,Taylors Lakes,21564,Macleod (Vic.),97.95,ok
+22476,Tecoma,21564,Macleod (Vic.),106.08,ok
+22483,Templestowe,21564,Macleod (Vic.),51.67,ok
+22484,Templestowe Lower,21564,Macleod (Vic.),53.77,ok
+22496,The Basin (Vic.),21564,Macleod (Vic.),114.27,ok
+22501,The Patch,21564,Macleod (Vic.),141.82,ok
+22504,Thomastown,21564,Macleod (Vic.),58.78,ok
+22508,Thornbury,21564,Macleod (Vic.),40.53,ok
+22509,Thornhill Park,21564,Macleod (Vic.),,no_eligible_route
+22514,Three Bridges,21564,Macleod (Vic.),,no_eligible_route
+22531,Tonimbuk,21564,Macleod (Vic.),,no_eligible_route
+22536,Toolangi,21564,Macleod (Vic.),,no_eligible_route
+22537,Toolern Vale,21564,Macleod (Vic.),,no_eligible_route
+22546,Tooradin,21564,Macleod (Vic.),,no_eligible_route
+22547,Toorak,21564,Macleod (Vic.),66.17,ok
+22550,Tootgarook,21564,Macleod (Vic.),192.78,ok
+22556,Tottenham (Vic.),21564,Macleod (Vic.),101.62,ok
+22572,Travancore,21564,Macleod (Vic.),70.38,ok
+22576,Tremont,21564,Macleod (Vic.),119.27,ok
+22582,Truganina,21564,Macleod (Vic.),176.65,ok
+22584,Tuerong,21564,Macleod (Vic.),,no_eligible_route
+22586,Tullamarine,21564,Macleod (Vic.),98.78,ok
+22594,Tyabb,21564,Macleod (Vic.),151.63,ok
+22598,Tynong,21564,Macleod (Vic.),,no_eligible_route
+22599,Tynong North,21564,Macleod (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,21564,Macleod (Vic.),103.23,ok
+22617,Upper Plenty,21564,Macleod (Vic.),,no_eligible_route
+22620,Upwey,21564,Macleod (Vic.),105.95,ok
+22627,Vermont,21564,Macleod (Vic.),89.38,ok
+22628,Vermont South,21564,Macleod (Vic.),96.93,ok
+22629,Vervale,21564,Macleod (Vic.),,no_eligible_route
+22633,Viewbank,21564,Macleod (Vic.),26.93,ok
+22661,Wallan,21564,Macleod (Vic.),,no_eligible_route
+22672,Wandin East,21564,Macleod (Vic.),,no_eligible_route
+22673,Wandin North,21564,Macleod (Vic.),115.88,ok
+22676,Wandong,21564,Macleod (Vic.),,no_eligible_route
+22685,Wantirna,21564,Macleod (Vic.),96.93,ok
+22686,Wantirna South,21564,Macleod (Vic.),99.4,ok
+22689,Warburton (Vic.),21564,Macleod (Vic.),,no_eligible_route
+22695,Warneet,21564,Macleod (Vic.),,no_eligible_route
+22702,Warrandyte,21564,Macleod (Vic.),59.03,ok
+22703,Warrandyte South,21564,Macleod (Vic.),84.58,ok
+22704,Warranwood,21564,Macleod (Vic.),74.12,ok
+22717,Waterford Park,21564,Macleod (Vic.),,no_eligible_route
+22720,Waterways,21564,Macleod (Vic.),120.98,ok
+22721,Watsonia,21564,Macleod (Vic.),16.68,ok
+22722,Watsonia North,21564,Macleod (Vic.),32.15,ok
+22723,Watsons Creek (Vic.),21564,Macleod (Vic.),,no_eligible_route
+22727,Wattle Glen,21564,Macleod (Vic.),48.43,ok
+22740,Weir Views,21564,Macleod (Vic.),217.38,ok
+22750,Werribee,21564,Macleod (Vic.),103.23,ok
+22751,Werribee South,21564,Macleod (Vic.),140.25,ok
+22753,Wesburn,21564,Macleod (Vic.),147.85,ok
+22756,West Footscray,21564,Macleod (Vic.),81.08,ok
+22757,West Melbourne,21564,Macleod (Vic.),70.02,ok
+22761,Westmeadows,21564,Macleod (Vic.),84.82,ok
+22766,Wheelers Hill,21564,Macleod (Vic.),102.82,ok
+22775,Whittlesea,21564,Macleod (Vic.),,no_eligible_route
+22784,Wildwood,21564,Macleod (Vic.),,no_eligible_route
+22791,Williams Landing,21564,Macleod (Vic.),104.45,ok
+22792,Williamstown (Vic.),21564,Macleod (Vic.),82.27,ok
+22793,Williamstown North,21564,Macleod (Vic.),96.77,ok
+22805,Windsor (Vic.),21564,Macleod (Vic.),65.28,ok
+22820,Wollert,21564,Macleod (Vic.),121.65,ok
+22825,Wonga Park,21564,Macleod (Vic.),117.63,ok
+22843,Woodstock (Vic.),21564,Macleod (Vic.),,no_eligible_route
+22857,Woori Yallock,21564,Macleod (Vic.),127.0,ok
+22883,Wyndham Vale,21564,Macleod (Vic.),132.05,ok
+22892,Yallambie,21564,Macleod (Vic.),36.82,walk_only
+22898,Yan Yean,21564,Macleod (Vic.),107.35,ok
+22906,Yannathan,21564,Macleod (Vic.),,no_eligible_route
+22910,Yarra Glen,21564,Macleod (Vic.),144.02,ok
+22911,Yarra Junction,21564,Macleod (Vic.),152.12,ok
+22916,Yarrambat,21564,Macleod (Vic.),51.83,ok
+22917,Yarraville,21564,Macleod (Vic.),78.2,ok
+22925,Yellingbo,21564,Macleod (Vic.),,no_eligible_route
+22930,Yering,21564,Macleod (Vic.),,no_eligible_route
+22941,Yuroke,21564,Macleod (Vic.),160.42,ok

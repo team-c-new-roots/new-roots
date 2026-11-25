@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21597,Manor Lakes,127.73,ok
+20003,Aberfeldie,21597,Manor Lakes,139.68,ok
+20011,Aintree,21597,Manor Lakes,159.95,ok
+20015,Airport West,21597,Manor Lakes,156.72,ok
+20017,Albanvale,21597,Manor Lakes,155.48,ok
+20018,Albert Park (Vic.),21597,Manor Lakes,127.85,ok
+20021,Albion (Vic.),21597,Manor Lakes,128.88,ok
+20034,Alphington,21597,Manor Lakes,131.9,ok
+20035,Altona (Vic.),21597,Manor Lakes,98.98,ok
+20036,Altona Meadows,21597,Manor Lakes,115.98,ok
+20037,Altona North,21597,Manor Lakes,134.97,ok
+20062,Ardeer,21597,Manor Lakes,143.03,ok
+20066,Armadale (Vic.),21597,Manor Lakes,131.13,ok
+20071,Arthurs Creek,21597,Manor Lakes,,no_eligible_route
+20072,Arthurs Seat,21597,Manor Lakes,,no_eligible_route
+20075,Ascot Vale,21597,Manor Lakes,125.65,ok
+20077,Ashburton,21597,Manor Lakes,151.32,ok
+20078,Ashwood,21597,Manor Lakes,172.85,ok
+20079,Aspendale,21597,Manor Lakes,173.38,ok
+20080,Aspendale Gardens,21597,Manor Lakes,204.92,ok
+20082,Attwood,21597,Manor Lakes,177.92,ok
+20089,Avondale Heights,21597,Manor Lakes,145.42,ok
+20091,Avonsleigh,21597,Manor Lakes,,no_eligible_route
+20095,Bacchus Marsh,21597,Manor Lakes,,no_eligible_route
+20097,Badger Creek,21597,Manor Lakes,,no_eligible_route
+20105,Balaclava (Vic.),21597,Manor Lakes,144.88,ok
+20120,Balnarring,21597,Manor Lakes,,no_eligible_route
+20121,Balnarring Beach,21597,Manor Lakes,,no_eligible_route
+20123,Balwyn,21597,Manor Lakes,158.07,ok
+20124,Balwyn North,21597,Manor Lakes,154.63,ok
+20131,Bangholme,21597,Manor Lakes,229.08,ok
+20169,Baxter,21597,Manor Lakes,,no_eligible_route
+20171,Bayles,21597,Manor Lakes,,no_eligible_route
+20173,Bayswater (Vic.),21597,Manor Lakes,187.38,ok
+20174,Bayswater North,21597,Manor Lakes,213.82,ok
+20175,Beaconsfield (Vic.),21597,Manor Lakes,199.83,ok
+20176,Beaconsfield Upper,21597,Manor Lakes,,no_eligible_route
+20182,Beaumaris (Vic.),21597,Manor Lakes,198.2,ok
+20187,Beenak,21597,Manor Lakes,,no_eligible_route
+20188,Belgrave,21597,Manor Lakes,200.47,ok
+20189,Belgrave Heights,21597,Manor Lakes,232.13,ok
+20190,Belgrave South,21597,Manor Lakes,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21597,Manor Lakes,162.65,ok
+20207,Bend Of Islands,21597,Manor Lakes,,no_eligible_route
+20212,Benloch,21597,Manor Lakes,,no_eligible_route
+20214,Bentleigh,21597,Manor Lakes,151.17,ok
+20215,Bentleigh East,21597,Manor Lakes,159.52,ok
+20224,Berwick,21597,Manor Lakes,172.63,ok
+20233,Beveridge,21597,Manor Lakes,,no_eligible_route
+20237,Big Pats Creek,21597,Manor Lakes,,no_eligible_route
+20248,Bittern,21597,Manor Lakes,,no_eligible_route
+20251,Black Rock (Vic.),21597,Manor Lakes,199.87,ok
+20252,Blackburn,21597,Manor Lakes,149.72,ok
+20253,Blackburn North,21597,Manor Lakes,161.7,ok
+20254,Blackburn South,21597,Manor Lakes,173.8,ok
+20257,Blairgowrie,21597,Manor Lakes,,no_eligible_route
+20260,Blind Bight,21597,Manor Lakes,,no_eligible_route
+20272,Bolinda,21597,Manor Lakes,,no_eligible_route
+20278,Bonbeach,21597,Manor Lakes,178.38,ok
+20280,Boneo,21597,Manor Lakes,,no_eligible_route
+20282,Bonnie Brook,21597,Manor Lakes,204.15,ok
+20304,Boronia,21597,Manor Lakes,189.85,ok
+20307,Botanic Ridge,21597,Manor Lakes,,no_eligible_route
+20314,Box Hill (Vic.),21597,Manor Lakes,146.83,ok
+20315,Box Hill North,21597,Manor Lakes,157.58,ok
+20316,Box Hill South,21597,Manor Lakes,163.32,ok
+20320,Braeside,21597,Manor Lakes,220.75,ok
+20324,Braybrook,21597,Manor Lakes,129.73,ok
+20331,Briar Hill,21597,Manor Lakes,170.62,ok
+20337,Brighton (Vic.),21597,Manor Lakes,160.53,ok
+20338,Brighton East,21597,Manor Lakes,162.85,ok
+20346,Broadmeadows (Vic.),21597,Manor Lakes,148.73,ok
+20351,Brookfield (Vic.),21597,Manor Lakes,,no_eligible_route
+20352,Brooklyn (Vic.),21597,Manor Lakes,135.42,ok
+20361,Brunswick (Vic.),21597,Manor Lakes,123.83,ok
+20362,Brunswick East,21597,Manor Lakes,134.92,ok
+20363,Brunswick West,21597,Manor Lakes,147.02,ok
+20381,Bulla (Vic.),21597,Manor Lakes,,no_eligible_route
+20386,Bulleen,21597,Manor Lakes,171.78,ok
+20387,Bullengarook,21597,Manor Lakes,,no_eligible_route
+20399,Bundoora (Vic.),21597,Manor Lakes,153.63,ok
+20411,Bunyip,21597,Manor Lakes,,no_eligible_route
+20412,Bunyip North,21597,Manor Lakes,,no_eligible_route
+20418,Burnley,21597,Manor Lakes,139.13,ok
+20419,Burnside (Vic.),21597,Manor Lakes,154.92,ok
+20420,Burnside Heights,21597,Manor Lakes,164.5,ok
+20426,Burwood (Vic.),21597,Manor Lakes,162.47,ok
+20427,Burwood East,21597,Manor Lakes,167.13,ok
+20435,Bylands,21597,Manor Lakes,,no_eligible_route
+20441,Cairnlea,21597,Manor Lakes,139.68,ok
+20442,Calder Park,21597,Manor Lakes,172.67,ok
+20443,Caldermeade,21597,Manor Lakes,,no_eligible_route
+20453,Camberwell (Vic.),21597,Manor Lakes,150.25,ok
+20455,Campbellfield,21597,Manor Lakes,169.38,ok
+20466,Cannons Creek,21597,Manor Lakes,,no_eligible_route
+20468,Canterbury (Vic.),21597,Manor Lakes,140.15,ok
+20474,Cape Schanck,21597,Manor Lakes,,no_eligible_route
+20476,Capel Sound,21597,Manor Lakes,,no_eligible_route
+20487,Cardinia,21597,Manor Lakes,,no_eligible_route
+20495,Carlton (Vic.),21597,Manor Lakes,115.12,ok
+20496,Carlton North,21597,Manor Lakes,142.23,ok
+20498,Carnegie,21597,Manor Lakes,139.37,ok
+20500,Caroline Springs,21597,Manor Lakes,159.38,ok
+20507,Carrum,21597,Manor Lakes,178.2,ok
+20508,Carrum Downs,21597,Manor Lakes,206.43,ok
+20512,Castella,21597,Manor Lakes,,no_eligible_route
+20517,Catani,21597,Manor Lakes,,no_eligible_route
+20521,Caulfield,21597,Manor Lakes,151.83,ok
+20522,Caulfield East,21597,Manor Lakes,132.57,ok
+20523,Caulfield North,21597,Manor Lakes,138.73,ok
+20524,Caulfield South,21597,Manor Lakes,157.02,ok
+20528,Chadstone,21597,Manor Lakes,174.02,ok
+20537,Chelsea,21597,Manor Lakes,175.45,ok
+20538,Chelsea Heights,21597,Manor Lakes,209.92,ok
+20539,Cheltenham (Vic.),21597,Manor Lakes,165.92,ok
+20541,Cherokee,21597,Manor Lakes,,no_eligible_route
+20555,Chintin,21597,Manor Lakes,,no_eligible_route
+20556,Chirnside Park,21597,Manor Lakes,,no_eligible_route
+20559,Christmas Hills (Vic.),21597,Manor Lakes,,no_eligible_route
+20560,Chum Creek,21597,Manor Lakes,,no_eligible_route
+20566,Clarinda,21597,Manor Lakes,177.37,ok
+20567,Clarkefield,21597,Manor Lakes,,no_eligible_route
+20569,Clayton,21597,Manor Lakes,156.95,ok
+20570,Clayton South,21597,Manor Lakes,168.77,ok
+20572,Clematis,21597,Manor Lakes,,no_eligible_route
+20574,Clifton Hill,21597,Manor Lakes,125.98,ok
+20576,Clonbinane,21597,Manor Lakes,,no_eligible_route
+20581,Clyde (Vic.),21597,Manor Lakes,,no_eligible_route
+20582,Clyde North,21597,Manor Lakes,,no_eligible_route
+20587,Cobaw,21597,Manor Lakes,,no_eligible_route
+20590,Cobblebank,21597,Manor Lakes,192.3,ok
+20596,Coburg,21597,Manor Lakes,133.13,ok
+20597,Coburg North,21597,Manor Lakes,151.93,ok
+20600,Cockatoo (Vic.),21597,Manor Lakes,,no_eligible_route
+20601,Cocoroc,21597,Manor Lakes,,no_eligible_route
+20605,Coimadai,21597,Manor Lakes,,no_eligible_route
+20613,Coldstream (Vic.),21597,Manor Lakes,,no_eligible_route
+20616,Collingwood (Vic.),21597,Manor Lakes,125.33,ok
+20624,Coolaroo,21597,Manor Lakes,152.33,ok
+20633,Cora Lynn,21597,Manor Lakes,,no_eligible_route
+20654,Cottles Bridge,21597,Manor Lakes,,no_eligible_route
+20661,Craigieburn,21597,Manor Lakes,180.13,ok
+20662,Cranbourne,21597,Manor Lakes,199.28,ok
+20663,Cranbourne East,21597,Manor Lakes,213.38,ok
+20664,Cranbourne North,21597,Manor Lakes,,no_eligible_route
+20665,Cranbourne South,21597,Manor Lakes,,no_eligible_route
+20666,Cranbourne West,21597,Manor Lakes,223.35,ok
+20670,Cremorne (Vic.),21597,Manor Lakes,129.72,ok
+20674,Crib Point,21597,Manor Lakes,,no_eligible_route
+20682,Croydon (Vic.),21597,Manor Lakes,166.48,ok
+20683,Croydon Hills,21597,Manor Lakes,204.38,ok
+20684,Croydon North,21597,Manor Lakes,,no_eligible_route
+20685,Croydon South,21597,Manor Lakes,197.48,ok
+20702,Dallas,21597,Manor Lakes,160.73,ok
+20703,Dalmore,21597,Manor Lakes,,no_eligible_route
+20707,Dandenong,21597,Manor Lakes,160.23,ok
+20708,Dandenong North,21597,Manor Lakes,202.93,ok
+20709,Dandenong South,21597,Manor Lakes,208.03,ok
+20712,Darley,21597,Manor Lakes,,no_eligible_route
+20716,Darraweit Guim,21597,Manor Lakes,,no_eligible_route
+20724,Deanside,21597,Manor Lakes,176.3,ok
+20728,Deepdene (Vic.),21597,Manor Lakes,151.0,ok
+20729,Deer Park,21597,Manor Lakes,139.87,ok
+20731,Delahey,21597,Manor Lakes,156.58,ok
+20743,Derrimut,21597,Manor Lakes,159.83,ok
+20748,Devon Meadows,21597,Manor Lakes,,no_eligible_route
+20750,Dewhurst,21597,Manor Lakes,,no_eligible_route
+20752,Diamond Creek,21597,Manor Lakes,174.22,ok
+20754,Diggers Rest,21597,Manor Lakes,156.98,ok
+20758,Dingley Village,21597,Manor Lakes,219.12,ok
+20762,Dixons Creek,21597,Manor Lakes,,no_eligible_route
+20766,Docklands,21597,Manor Lakes,107.82,ok
+20769,Don Valley,21597,Manor Lakes,,no_eligible_route
+20771,Doncaster,21597,Manor Lakes,156.87,ok
+20772,Doncaster East,21597,Manor Lakes,160.35,ok
+20773,Donnybrook (Vic.),21597,Manor Lakes,,no_eligible_route
+20774,Donvale,21597,Manor Lakes,181.68,ok
+20779,Doreen,21597,Manor Lakes,,no_eligible_route
+20783,Doveton,21597,Manor Lakes,193.12,ok
+20788,Dromana,21597,Manor Lakes,,no_eligible_route
+20825,Eaglemont,21597,Manor Lakes,150.23,ok
+20830,East Melbourne,21597,Manor Lakes,118.5,ok
+20833,East Warburton,21597,Manor Lakes,,no_eligible_route
+20843,Eden Park,21597,Manor Lakes,,no_eligible_route
+20848,Edithvale,21597,Manor Lakes,175.58,ok
+20864,Elsternwick,21597,Manor Lakes,144.22,ok
+20865,Eltham (Vic.),21597,Manor Lakes,173.35,ok
+20866,Eltham North,21597,Manor Lakes,199.73,ok
+20867,Elwood,21597,Manor Lakes,149.87,ok
+20868,Emerald (Vic.),21597,Manor Lakes,,no_eligible_route
+20871,Endeavour Hills,21597,Manor Lakes,,no_eligible_route
+20878,Epping (Vic.),21597,Manor Lakes,184.05,ok
+20885,Essendon,21597,Manor Lakes,131.03,ok
+20886,Essendon Fields,21597,Manor Lakes,155.95,ok
+20887,Essendon North,21597,Manor Lakes,140.05,ok
+20888,Essendon West,21597,Manor Lakes,135.9,ok
+20889,Eumemmerring,21597,Manor Lakes,,no_eligible_route
+20898,Exford,21597,Manor Lakes,,no_eligible_route
+20899,Eynesbury,21597,Manor Lakes,159.42,walk_only
+20901,Fairfield (Vic.),21597,Manor Lakes,150.22,ok
+20909,Fawkner,21597,Manor Lakes,149.83,ok
+20916,Fernshaw,21597,Manor Lakes,,no_eligible_route
+20917,Ferntree Gully,21597,Manor Lakes,206.22,ok
+20918,Ferny Creek,21597,Manor Lakes,,no_eligible_route
+20920,Fingal (Vic.),21597,Manor Lakes,,no_eligible_route
+20924,Fitzroy (Vic.),21597,Manor Lakes,123.02,ok
+20925,Fitzroy North,21597,Manor Lakes,134.02,ok
+20929,Flemington,21597,Manor Lakes,134.23,ok
+20930,Flinders (Vic.),21597,Manor Lakes,,no_eligible_route
+20935,Footscray,21597,Manor Lakes,97.5,ok
+20937,Forest Hill (Vic.),21597,Manor Lakes,166.03,ok
+20947,Frankston,21597,Manor Lakes,206.48,ok
+20948,Frankston North,21597,Manor Lakes,213.32,ok
+20949,Frankston South,21597,Manor Lakes,,no_eligible_route
+20950,Fraser Rise,21597,Manor Lakes,183.42,ok
+20965,Gardenvale,21597,Manor Lakes,156.97,ok
+20966,Garfield,21597,Manor Lakes,,no_eligible_route
+20967,Garfield North,21597,Manor Lakes,,no_eligible_route
+20979,Gembrook,21597,Manor Lakes,,no_eligible_route
+20995,Gilderoy,21597,Manor Lakes,,no_eligible_route
+21001,Gisborne,21597,Manor Lakes,,no_eligible_route
+21002,Gisborne South,21597,Manor Lakes,,no_eligible_route
+21004,Gladstone Park,21597,Manor Lakes,162.93,ok
+21005,Gladysdale,21597,Manor Lakes,,no_eligible_route
+21009,Glen Huntly,21597,Manor Lakes,143.7,ok
+21010,Glen Iris (Vic.),21597,Manor Lakes,162.82,ok
+21013,Glen Waverley,21597,Manor Lakes,169.73,ok
+21047,Glenroy (Vic.),21597,Manor Lakes,147.12,ok
+21059,Goldie,21597,Manor Lakes,,no_eligible_route
+21079,Gowanbrae,21597,Manor Lakes,169.27,ok
+21087,Grangefields,21597,Manor Lakes,193.0,ok
+21104,Greensborough,21597,Manor Lakes,158.77,ok
+21105,Greenvale (Vic.),21597,Manor Lakes,,no_eligible_route
+21115,Gruyere,21597,Manor Lakes,,no_eligible_route
+21121,Guys Hill,21597,Manor Lakes,,no_eligible_route
+21124,Hadfield,21597,Manor Lakes,160.87,ok
+21125,Hallam,21597,Manor Lakes,178.75,ok
+21131,Hampton (Vic.),21597,Manor Lakes,167.37,ok
+21132,Hampton East,21597,Manor Lakes,157.93,ok
+21133,Hampton Park,21597,Manor Lakes,196.32,ok
+21139,Harkaway,21597,Manor Lakes,,no_eligible_route
+21140,Harkness,21597,Manor Lakes,,no_eligible_route
+21145,Hastings (Vic.),21597,Manor Lakes,,no_eligible_route
+21152,Hawthorn (Vic.),21597,Manor Lakes,139.53,ok
+21153,Hawthorn East,21597,Manor Lakes,133.02,ok
+21158,Healesville,21597,Manor Lakes,,no_eligible_route
+21159,Heath Hill,21597,Manor Lakes,,no_eligible_route
+21161,Heathcote Junction,21597,Manor Lakes,,no_eligible_route
+21163,Heatherton,21597,Manor Lakes,176.37,ok
+21165,Heathmont,21597,Manor Lakes,177.65,ok
+21167,Heidelberg,21597,Manor Lakes,165.03,ok
+21168,Heidelberg Heights,21597,Manor Lakes,157.53,ok
+21169,Heidelberg West,21597,Manor Lakes,166.75,ok
+21176,Hesket,21597,Manor Lakes,,no_eligible_route
+21185,Highett,21597,Manor Lakes,150.7,ok
+21193,Hillside (Melton - Vic.),21597,Manor Lakes,157.07,ok
+21195,Hmas Cerberus,21597,Manor Lakes,,no_eligible_route
+21196,Hoddles Creek,21597,Manor Lakes,,no_eligible_route
+21202,Hopetoun Park,21597,Manor Lakes,,no_eligible_route
+21203,Hoppers Crossing,21597,Manor Lakes,89.03,ok
+21214,Hughesdale,21597,Manor Lakes,140.78,ok
+21215,Humevale,21597,Manor Lakes,,no_eligible_route
+21218,Huntingdale (Vic.),21597,Manor Lakes,145.22,ok
+21223,Hurstbridge,21597,Manor Lakes,174.77,ok
+21238,Iona,21597,Manor Lakes,,no_eligible_route
+21246,Ivanhoe (Vic.),21597,Manor Lakes,136.5,ok
+21247,Ivanhoe East,21597,Manor Lakes,168.17,ok
+21248,Jacana,21597,Manor Lakes,148.15,ok
+21277,Junction Village,21597,Manor Lakes,,no_eligible_route
+21284,Kalkallo,21597,Manor Lakes,,no_eligible_route
+21286,Kallista,21597,Manor Lakes,,no_eligible_route
+21287,Kalorama,21597,Manor Lakes,,no_eligible_route
+21294,Kangaroo Ground,21597,Manor Lakes,,no_eligible_route
+21312,Kealba,21597,Manor Lakes,144.13,ok
+21314,Keilor,21597,Manor Lakes,178.4,ok
+21315,Keilor Downs,21597,Manor Lakes,156.23,ok
+21316,Keilor East,21597,Manor Lakes,150.27,ok
+21317,Keilor Lodge,21597,Manor Lakes,159.85,ok
+21318,Keilor North,21597,Manor Lakes,165.92,ok
+21319,Keilor Park,21597,Manor Lakes,158.18,ok
+21327,Kensington (Vic.),21597,Manor Lakes,103.68,ok
+21333,Kerrie,21597,Manor Lakes,,no_eligible_route
+21336,Kew (Vic.),21597,Manor Lakes,144.82,ok
+21337,Kew East,21597,Manor Lakes,157.38,ok
+21339,Keysborough,21597,Manor Lakes,212.75,ok
+21354,Kilsyth,21597,Manor Lakes,,no_eligible_route
+21355,Kilsyth South,21597,Manor Lakes,,no_eligible_route
+21358,Kinglake,21597,Manor Lakes,,no_eligible_route
+21359,Kinglake Central,21597,Manor Lakes,,no_eligible_route
+21360,Kinglake West,21597,Manor Lakes,,no_eligible_route
+21362,Kings Park (Vic.),21597,Manor Lakes,155.02,ok
+21363,Kingsbury,21597,Manor Lakes,153.85,ok
+21365,Kingsville,21597,Manor Lakes,122.08,ok
+21374,Knoxfield,21597,Manor Lakes,217.5,ok
+21380,Koo Wee Rup,21597,Manor Lakes,,no_eligible_route
+21381,Koo Wee Rup North,21597,Manor Lakes,,no_eligible_route
+21393,Kooyong,21597,Manor Lakes,143.5,ok
+21411,Kurunjang,21597,Manor Lakes,210.38,ok
+21452,Lalor,21597,Manor Lakes,159.18,ok
+21456,Lancefield,21597,Manor Lakes,,no_eligible_route
+21459,Lang Lang,21597,Manor Lakes,,no_eligible_route
+21460,Lang Lang East,21597,Manor Lakes,,no_eligible_route
+21467,Langwarrin,21597,Manor Lakes,,no_eligible_route
+21468,Langwarrin South,21597,Manor Lakes,,no_eligible_route
+21473,Launching Place,21597,Manor Lakes,,no_eligible_route
+21476,Laverton (Vic.),21597,Manor Lakes,83.77,ok
+21477,Laverton North,21597,Manor Lakes,121.0,ok
+21504,Lilydale (Vic.),21597,Manor Lakes,198.18,ok
+21533,Long Forest,21597,Manor Lakes,,no_eligible_route
+21547,Lower Plenty,21597,Manor Lakes,201.13,ok
+21554,Lynbrook,21597,Manor Lakes,180.0,ok
+21555,Lyndhurst (Vic.),21597,Manor Lakes,,no_eligible_route
+21558,Lysterfield,21597,Manor Lakes,,no_eligible_route
+21559,Lysterfield South,21597,Manor Lakes,,no_eligible_route
+21561,Macclesfield (Vic.),21597,Manor Lakes,,no_eligible_route
+21562,Macedon,21597,Manor Lakes,,no_eligible_route
+21564,Macleod (Vic.),21597,Manor Lakes,151.85,ok
+21569,Maddingley,21597,Manor Lakes,,no_eligible_route
+21575,Maidstone,21597,Manor Lakes,125.12,ok
+21578,Main Ridge,21597,Manor Lakes,,no_eligible_route
+21586,Malvern (Vic.),21597,Manor Lakes,143.15,ok
+21587,Malvern East,21597,Manor Lakes,155.03,ok
+21588,Mambourin,21597,Manor Lakes,,no_eligible_route
+21597,Manor Lakes,21597,Manor Lakes,0.0,same_centroid
+21604,Maribyrnong,21597,Manor Lakes,127.63,ok
+21619,Maryknoll,21597,Manor Lakes,,no_eligible_route
+21625,McCrae,21597,Manor Lakes,,no_eligible_route
+21629,McKinnon,21597,Manor Lakes,141.0,ok
+21635,Meadow Heights,21597,Manor Lakes,165.03,ok
+21640,Melbourne,21597,Manor Lakes,108.87,ok
+21641,Melbourne Airport,21597,Manor Lakes,,no_eligible_route
+21642,Melton (Vic.),21597,Manor Lakes,194.52,ok
+21643,Melton South,21597,Manor Lakes,208.12,ok
+21644,Melton West,21597,Manor Lakes,203.35,ok
+21648,Mentone,21597,Manor Lakes,160.68,ok
+21649,Menzies Creek,21597,Manor Lakes,,no_eligible_route
+21659,Mernda,21597,Manor Lakes,205.53,ok
+21662,Merricks,21597,Manor Lakes,,no_eligible_route
+21663,Merricks Beach,21597,Manor Lakes,,no_eligible_route
+21664,Merricks North,21597,Manor Lakes,,no_eligible_route
+21668,Merrimu,21597,Manor Lakes,,no_eligible_route
+21675,Mickleham,21597,Manor Lakes,,no_eligible_route
+21677,Middle Park (Vic.),21597,Manor Lakes,133.93,ok
+21683,Mill Park,21597,Manor Lakes,186.37,ok
+21685,Millgrove,21597,Manor Lakes,,no_eligible_route
+21706,Mitcham (Vic.),21597,Manor Lakes,161.38,ok
+21727,Monbulk,21597,Manor Lakes,,no_eligible_route
+21728,Monegeetta,21597,Manor Lakes,,no_eligible_route
+21731,Monomeith,21597,Manor Lakes,,no_eligible_route
+21732,Mont Albert,21597,Manor Lakes,147.55,ok
+21733,Mont Albert North,21597,Manor Lakes,168.78,ok
+21735,Montmorency,21597,Manor Lakes,159.42,ok
+21736,Montrose (Vic.),21597,Manor Lakes,,no_eligible_route
+21742,Moonee Ponds,21597,Manor Lakes,117.5,ok
+21746,Moorabbin,21597,Manor Lakes,171.93,ok
+21747,Moorabbin Airport,21597,Manor Lakes,206.62,ok
+21754,Moorooduc,21597,Manor Lakes,,no_eligible_route
+21755,Mooroolbark,21597,Manor Lakes,185.1,ok
+21760,Mordialloc,21597,Manor Lakes,174.98,ok
+21763,Mornington (Vic.),21597,Manor Lakes,,no_eligible_route
+21779,Mount Burnett,21597,Manor Lakes,,no_eligible_route
+21786,Mount Cottrell,21597,Manor Lakes,,no_eligible_route
+21787,Mount Dandenong,21597,Manor Lakes,,no_eligible_route
+21793,Mount Eliza,21597,Manor Lakes,,no_eligible_route
+21795,Mount Evelyn,21597,Manor Lakes,,no_eligible_route
+21801,Mount Macedon,21597,Manor Lakes,,no_eligible_route
+21803,Mount Martha,21597,Manor Lakes,,no_eligible_route
+21814,Mount Toolebewong,21597,Manor Lakes,,no_eligible_route
+21816,Mount Waverley,21597,Manor Lakes,161.17,ok
+21827,Mulgrave (Vic.),21597,Manor Lakes,191.05,ok
+21849,Murrumbeena,21597,Manor Lakes,140.9,ok
+21872,Nangana,21597,Manor Lakes,,no_eligible_route
+21878,Nar Nar Goon,21597,Manor Lakes,,no_eligible_route
+21879,Nar Nar Goon North,21597,Manor Lakes,,no_eligible_route
+21893,Narre Warren,21597,Manor Lakes,178.18,ok
+21894,Narre Warren East,21597,Manor Lakes,,no_eligible_route
+21895,Narre Warren North,21597,Manor Lakes,,no_eligible_route
+21896,Narre Warren South,21597,Manor Lakes,229.62,ok
+21921,New Gisborne,21597,Manor Lakes,,no_eligible_route
+21934,Newport (Vic.),21597,Manor Lakes,85.23,ok
+21942,Niddrie,21597,Manor Lakes,149.67,ok
+21952,Noble Park,21597,Manor Lakes,152.0,ok
+21953,Noble Park North,21597,Manor Lakes,185.18,ok
+21966,North Melbourne,21597,Manor Lakes,106.72,ok
+21969,North Warrandyte,21597,Manor Lakes,207.28,ok
+21971,Northcote,21597,Manor Lakes,131.92,ok
+21974,Notting Hill,21597,Manor Lakes,187.97,ok
+21985,Nunawading,21597,Manor Lakes,153.87,ok
+21991,Nutfield,21597,Manor Lakes,,no_eligible_route
+21998,Oak Park,21597,Manor Lakes,135.82,ok
+21999,Oaklands Junction,21597,Manor Lakes,,no_eligible_route
+22000,Oakleigh,21597,Manor Lakes,143.45,ok
+22001,Oakleigh East,21597,Manor Lakes,160.58,ok
+22002,Oakleigh South,21597,Manor Lakes,157.0,ok
+22006,Officer,21597,Manor Lakes,192.28,ok
+22007,Officer South,21597,Manor Lakes,,no_eligible_route
+22009,Olinda (Vic.),21597,Manor Lakes,,no_eligible_route
+22016,Ormond,21597,Manor Lakes,141.43,ok
+22027,Pakenham,21597,Manor Lakes,191.33,ok
+22028,Pakenham South,21597,Manor Lakes,,no_eligible_route
+22029,Pakenham Upper,21597,Manor Lakes,,no_eligible_route
+22032,Panton Hill,21597,Manor Lakes,,no_eligible_route
+22036,Park Orchards,21597,Manor Lakes,,no_eligible_route
+22037,Parkdale,21597,Manor Lakes,165.77,ok
+22038,Parkville (Vic.),21597,Manor Lakes,140.12,ok
+22041,Pascoe Vale,21597,Manor Lakes,140.18,ok
+22042,Pascoe Vale South,21597,Manor Lakes,135.92,ok
+22047,Patterson Lakes,21597,Manor Lakes,195.53,ok
+22050,Pearcedale,21597,Manor Lakes,,no_eligible_route
+22058,Pentland Hills,21597,Manor Lakes,,no_eligible_route
+22064,Pheasant Creek (Vic.),21597,Manor Lakes,,no_eligible_route
+22084,Plenty (Vic.),21597,Manor Lakes,195.68,ok
+22085,Plumpton (Vic.),21597,Manor Lakes,,no_eligible_route
+22086,Point Cook,21597,Manor Lakes,110.82,ok
+22087,Point Leo,21597,Manor Lakes,,no_eligible_route
+22107,Port Melbourne,21597,Manor Lakes,128.43,ok
+22113,Portsea,21597,Manor Lakes,,no_eligible_route
+22115,Powelltown,21597,Manor Lakes,,no_eligible_route
+22118,Prahran,21597,Manor Lakes,137.5,ok
+22121,Preston (Vic.),21597,Manor Lakes,140.7,ok
+22122,Princes Hill,21597,Manor Lakes,140.6,ok
+22132,Quandong,21597,Manor Lakes,156.88,walk_only
+22141,Ravenhall,21597,Manor Lakes,155.33,ok
+22148,Red Hill (Vic.),21597,Manor Lakes,,no_eligible_route
+22149,Red Hill South,21597,Manor Lakes,,no_eligible_route
+22160,Research,21597,Manor Lakes,,no_eligible_route
+22161,Reservoir (Vic.),21597,Manor Lakes,156.0,ok
+22170,Richmond (Vic.),21597,Manor Lakes,122.45,ok
+22172,Riddells Creek,21597,Manor Lakes,,no_eligible_route
+22174,Ringwood (Vic.),21597,Manor Lakes,168.02,ok
+22175,Ringwood East,21597,Manor Lakes,166.57,ok
+22176,Ringwood North,21597,Manor Lakes,197.47,ok
+22179,Ripponlea,21597,Manor Lakes,141.55,ok
+22185,Rochford,21597,Manor Lakes,,no_eligible_route
+22186,Rockbank,21597,Manor Lakes,131.07,ok
+22193,Romsey,21597,Manor Lakes,,no_eligible_route
+22194,Rosanna,21597,Manor Lakes,146.32,ok
+22198,Rosebud,21597,Manor Lakes,,no_eligible_route
+22207,Rowville,21597,Manor Lakes,201.18,ok
+22208,Roxburgh Park,21597,Manor Lakes,165.67,ok
+22220,Rye,21597,Manor Lakes,,no_eligible_route
+22221,Rythdale,21597,Manor Lakes,,no_eligible_route
+22222,Safety Beach (Vic.),21597,Manor Lakes,,no_eligible_route
+22232,Sandhurst,21597,Manor Lakes,234.37,ok
+22234,Sandringham (Vic.),21597,Manor Lakes,172.25,ok
+22239,Sassafras (Vic.),21597,Manor Lakes,,no_eligible_route
+22242,Scoresby,21597,Manor Lakes,221.78,ok
+22247,Seabrook,21597,Manor Lakes,108.98,ok
+22249,Seaford (Vic.),21597,Manor Lakes,190.3,ok
+22250,Seaholme,21597,Manor Lakes,103.67,ok
+22256,Seddon (Vic.),21597,Manor Lakes,96.6,ok
+22258,Selby,21597,Manor Lakes,233.07,ok
+22263,Seville,21597,Manor Lakes,,no_eligible_route
+22264,Seville East,21597,Manor Lakes,,no_eligible_route
+22278,Sherbrooke,21597,Manor Lakes,,no_eligible_route
+22279,Shoreham,21597,Manor Lakes,,no_eligible_route
+22281,Silvan,21597,Manor Lakes,,no_eligible_route
+22291,Skye (Vic.),21597,Manor Lakes,239.53,ok
+22295,Smiths Gully,21597,Manor Lakes,,no_eligible_route
+22303,Somers,21597,Manor Lakes,,no_eligible_route
+22304,Somerton (Vic.),21597,Manor Lakes,175.8,ok
+22305,Somerville (Vic.),21597,Manor Lakes,,no_eligible_route
+22306,Sorrento (Vic.),21597,Manor Lakes,,no_eligible_route
+22309,South Kingsville,21597,Manor Lakes,106.87,ok
+22310,South Melbourne,21597,Manor Lakes,122.08,ok
+22311,South Morang,21597,Manor Lakes,191.17,ok
+22313,South Wharf,21597,Manor Lakes,110.8,ok
+22314,South Yarra,21597,Manor Lakes,123.07,ok
+22315,Southbank,21597,Manor Lakes,113.58,ok
+22319,Spotswood,21597,Manor Lakes,85.98,ok
+22325,Springfield (Macedon Ranges - Vic.),21597,Manor Lakes,,no_eligible_route
+22328,Springvale (Vic.),21597,Manor Lakes,152.97,ok
+22329,Springvale South,21597,Manor Lakes,174.23,ok
+22330,St Albans (Vic.),21597,Manor Lakes,128.52,ok
+22332,St Andrews (Vic.),21597,Manor Lakes,,no_eligible_route
+22333,St Andrews Beach,21597,Manor Lakes,,no_eligible_route
+22339,St Helena,21597,Manor Lakes,192.63,ok
+22343,St Kilda (Vic.),21597,Manor Lakes,139.15,ok
+22344,St Kilda East,21597,Manor Lakes,148.7,ok
+22345,St Kilda West,21597,Manor Lakes,136.27,ok
+22355,Steels Creek,21597,Manor Lakes,,no_eligible_route
+22375,Strathewen,21597,Manor Lakes,,no_eligible_route
+22380,Strathmore (Vic.),21597,Manor Lakes,147.98,ok
+22381,Strathmore Heights,21597,Manor Lakes,162.23,ok
+22382,Strathtulloh,21597,Manor Lakes,,no_eligible_route
+22391,Sunbury,21597,Manor Lakes,210.68,ok
+22395,Sunshine (Vic.),21597,Manor Lakes,117.3,ok
+22396,Sunshine North,21597,Manor Lakes,147.37,ok
+22397,Sunshine West,21597,Manor Lakes,147.65,ok
+22399,Surrey Hills,21597,Manor Lakes,147.97,ok
+22414,Sydenham (Vic.),21597,Manor Lakes,145.92,ok
+22451,Tarneit,21597,Manor Lakes,88.75,ok
+22457,Tarrawarra,21597,Manor Lakes,,no_eligible_route
+22473,Taylors Hill,21597,Manor Lakes,160.5,ok
+22474,Taylors Lakes,21597,Manor Lakes,147.8,ok
+22476,Tecoma,21597,Manor Lakes,197.47,ok
+22483,Templestowe,21597,Manor Lakes,169.75,ok
+22484,Templestowe Lower,21597,Manor Lakes,166.72,ok
+22496,The Basin (Vic.),21597,Manor Lakes,,no_eligible_route
+22501,The Patch,21597,Manor Lakes,,no_eligible_route
+22504,Thomastown,21597,Manor Lakes,164.48,ok
+22508,Thornbury,21597,Manor Lakes,138.08,ok
+22509,Thornhill Park,21597,Manor Lakes,,no_eligible_route
+22514,Three Bridges,21597,Manor Lakes,,no_eligible_route
+22531,Tonimbuk,21597,Manor Lakes,,no_eligible_route
+22536,Toolangi,21597,Manor Lakes,,no_eligible_route
+22537,Toolern Vale,21597,Manor Lakes,,no_eligible_route
+22546,Tooradin,21597,Manor Lakes,,no_eligible_route
+22547,Toorak,21597,Manor Lakes,142.55,ok
+22550,Tootgarook,21597,Manor Lakes,,no_eligible_route
+22556,Tottenham (Vic.),21597,Manor Lakes,143.0,ok
+22572,Travancore,21597,Manor Lakes,130.28,ok
+22576,Tremont,21597,Manor Lakes,215.07,ok
+22582,Truganina,21597,Manor Lakes,150.03,ok
+22584,Tuerong,21597,Manor Lakes,,no_eligible_route
+22586,Tullamarine,21597,Manor Lakes,174.42,ok
+22594,Tyabb,21597,Manor Lakes,,no_eligible_route
+22598,Tynong,21597,Manor Lakes,,no_eligible_route
+22599,Tynong North,21597,Manor Lakes,,no_eligible_route
+22614,Upper Ferntree Gully,21597,Manor Lakes,194.62,ok
+22617,Upper Plenty,21597,Manor Lakes,,no_eligible_route
+22620,Upwey,21597,Manor Lakes,197.33,ok
+22627,Vermont,21597,Manor Lakes,186.22,ok
+22628,Vermont South,21597,Manor Lakes,178.0,ok
+22629,Vervale,21597,Manor Lakes,,no_eligible_route
+22633,Viewbank,21597,Manor Lakes,191.48,ok
+22661,Wallan,21597,Manor Lakes,,no_eligible_route
+22672,Wandin East,21597,Manor Lakes,,no_eligible_route
+22673,Wandin North,21597,Manor Lakes,,no_eligible_route
+22676,Wandong,21597,Manor Lakes,,no_eligible_route
+22685,Wantirna,21597,Manor Lakes,195.62,ok
+22686,Wantirna South,21597,Manor Lakes,200.78,ok
+22689,Warburton (Vic.),21597,Manor Lakes,,no_eligible_route
+22695,Warneet,21597,Manor Lakes,,no_eligible_route
+22702,Warrandyte,21597,Manor Lakes,173.53,ok
+22703,Warrandyte South,21597,Manor Lakes,,no_eligible_route
+22704,Warranwood,21597,Manor Lakes,,no_eligible_route
+22717,Waterford Park,21597,Manor Lakes,,no_eligible_route
+22720,Waterways,21597,Manor Lakes,197.13,ok
+22721,Watsonia,21597,Manor Lakes,146.77,ok
+22722,Watsonia North,21597,Manor Lakes,170.3,ok
+22723,Watsons Creek (Vic.),21597,Manor Lakes,,no_eligible_route
+22727,Wattle Glen,21597,Manor Lakes,178.52,ok
+22740,Weir Views,21597,Manor Lakes,,no_eligible_route
+22750,Werribee,21597,Manor Lakes,52.4,ok
+22751,Werribee South,21597,Manor Lakes,103.63,ok
+22753,Wesburn,21597,Manor Lakes,,no_eligible_route
+22756,West Footscray,21597,Manor Lakes,123.47,ok
+22757,West Melbourne,21597,Manor Lakes,116.73,ok
+22761,Westmeadows,21597,Manor Lakes,160.38,ok
+22766,Wheelers Hill,21597,Manor Lakes,205.68,ok
+22775,Whittlesea,21597,Manor Lakes,,no_eligible_route
+22784,Wildwood,21597,Manor Lakes,,no_eligible_route
+22791,Williams Landing,21597,Manor Lakes,98.55,ok
+22792,Williamstown (Vic.),21597,Manor Lakes,108.35,ok
+22793,Williamstown North,21597,Manor Lakes,115.73,ok
+22805,Windsor (Vic.),21597,Manor Lakes,137.47,ok
+22820,Wollert,21597,Manor Lakes,196.7,ok
+22825,Wonga Park,21597,Manor Lakes,,no_eligible_route
+22843,Woodstock (Vic.),21597,Manor Lakes,,no_eligible_route
+22857,Woori Yallock,21597,Manor Lakes,,no_eligible_route
+22883,Wyndham Vale,21597,Manor Lakes,49.77,ok
+22892,Yallambie,21597,Manor Lakes,188.03,ok
+22898,Yan Yean,21597,Manor Lakes,223.43,ok
+22906,Yannathan,21597,Manor Lakes,,no_eligible_route
+22910,Yarra Glen,21597,Manor Lakes,,no_eligible_route
+22911,Yarra Junction,21597,Manor Lakes,,no_eligible_route
+22916,Yarrambat,21597,Manor Lakes,207.45,ok
+22917,Yarraville,21597,Manor Lakes,96.18,ok
+22925,Yellingbo,21597,Manor Lakes,,no_eligible_route
+22930,Yering,21597,Manor Lakes,,no_eligible_route
+22941,Yuroke,21597,Manor Lakes,,no_eligible_route

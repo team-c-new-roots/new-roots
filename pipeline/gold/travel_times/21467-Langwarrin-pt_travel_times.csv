@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21467,Langwarrin,119.27,ok
+20003,Aberfeldie,21467,Langwarrin,153.97,ok
+20011,Aintree,21467,Langwarrin,180.82,ok
+20015,Airport West,21467,Langwarrin,158.67,ok
+20017,Albanvale,21467,Langwarrin,166.9,ok
+20018,Albert Park (Vic.),21467,Langwarrin,130.13,ok
+20021,Albion (Vic.),21467,Langwarrin,135.17,ok
+20034,Alphington,21467,Langwarrin,126.7,ok
+20035,Altona (Vic.),21467,Langwarrin,152.78,ok
+20036,Altona Meadows,21467,Langwarrin,164.73,ok
+20037,Altona North,21467,Langwarrin,179.18,ok
+20062,Ardeer,21467,Langwarrin,153.4,ok
+20066,Armadale (Vic.),21467,Langwarrin,89.4,ok
+20071,Arthurs Creek,21467,Langwarrin,,no_eligible_route
+20072,Arthurs Seat,21467,Langwarrin,,no_eligible_route
+20075,Ascot Vale,21467,Langwarrin,130.1,ok
+20077,Ashburton,21467,Langwarrin,123.27,ok
+20078,Ashwood,21467,Langwarrin,120.88,ok
+20079,Aspendale,21467,Langwarrin,61.87,ok
+20080,Aspendale Gardens,21467,Langwarrin,80.93,ok
+20082,Attwood,21467,Langwarrin,181.62,ok
+20089,Avondale Heights,21467,Langwarrin,158.22,ok
+20091,Avonsleigh,21467,Langwarrin,,no_eligible_route
+20095,Bacchus Marsh,21467,Langwarrin,,no_eligible_route
+20097,Badger Creek,21467,Langwarrin,,no_eligible_route
+20105,Balaclava (Vic.),21467,Langwarrin,103.95,ok
+20120,Balnarring,21467,Langwarrin,,no_eligible_route
+20121,Balnarring Beach,21467,Langwarrin,,no_eligible_route
+20123,Balwyn,21467,Langwarrin,140.78,ok
+20124,Balwyn North,21467,Langwarrin,142.43,ok
+20131,Bangholme,21467,Langwarrin,96.78,ok
+20169,Baxter,21467,Langwarrin,59.73,ok
+20171,Bayles,21467,Langwarrin,,no_eligible_route
+20173,Bayswater (Vic.),21467,Langwarrin,144.38,ok
+20174,Bayswater North,21467,Langwarrin,170.15,ok
+20175,Beaconsfield (Vic.),21467,Langwarrin,103.03,ok
+20176,Beaconsfield Upper,21467,Langwarrin,,no_eligible_route
+20182,Beaumaris (Vic.),21467,Langwarrin,83.07,ok
+20187,Beenak,21467,Langwarrin,,no_eligible_route
+20188,Belgrave,21467,Langwarrin,146.75,ok
+20189,Belgrave Heights,21467,Langwarrin,,no_eligible_route
+20190,Belgrave South,21467,Langwarrin,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21467,Langwarrin,138.93,ok
+20207,Bend Of Islands,21467,Langwarrin,,no_eligible_route
+20212,Benloch,21467,Langwarrin,,no_eligible_route
+20214,Bentleigh,21467,Langwarrin,79.07,ok
+20215,Bentleigh East,21467,Langwarrin,89.92,ok
+20224,Berwick,21467,Langwarrin,75.83,ok
+20233,Beveridge,21467,Langwarrin,,no_eligible_route
+20237,Big Pats Creek,21467,Langwarrin,,no_eligible_route
+20248,Bittern,21467,Langwarrin,,no_eligible_route
+20251,Black Rock (Vic.),21467,Langwarrin,88.87,ok
+20252,Blackburn,21467,Langwarrin,131.53,ok
+20253,Blackburn North,21467,Langwarrin,137.98,ok
+20254,Blackburn South,21467,Langwarrin,146.48,ok
+20257,Blairgowrie,21467,Langwarrin,105.97,ok
+20260,Blind Bight,21467,Langwarrin,230.98,walk_only
+20272,Bolinda,21467,Langwarrin,,no_eligible_route
+20278,Bonbeach,21467,Langwarrin,55.58,ok
+20280,Boneo,21467,Langwarrin,,no_eligible_route
+20282,Bonnie Brook,21467,Langwarrin,213.37,ok
+20304,Boronia,21467,Langwarrin,139.23,ok
+20307,Botanic Ridge,21467,Langwarrin,56.7,ok
+20314,Box Hill (Vic.),21467,Langwarrin,125.88,ok
+20315,Box Hill North,21467,Langwarrin,133.87,ok
+20316,Box Hill South,21467,Langwarrin,122.75,ok
+20320,Braeside,21467,Langwarrin,103.98,ok
+20324,Braybrook,21467,Langwarrin,147.02,ok
+20331,Briar Hill,21467,Langwarrin,165.42,ok
+20337,Brighton (Vic.),21467,Langwarrin,102.58,ok
+20338,Brighton East,21467,Langwarrin,92.23,ok
+20346,Broadmeadows (Vic.),21467,Langwarrin,158.02,ok
+20351,Brookfield (Vic.),21467,Langwarrin,,no_eligible_route
+20352,Brooklyn (Vic.),21467,Langwarrin,161.73,ok
+20361,Brunswick (Vic.),21467,Langwarrin,133.12,ok
+20362,Brunswick East,21467,Langwarrin,136.2,ok
+20363,Brunswick West,21467,Langwarrin,137.3,ok
+20381,Bulla (Vic.),21467,Langwarrin,,no_eligible_route
+20386,Bulleen,21467,Langwarrin,147.58,ok
+20387,Bullengarook,21467,Langwarrin,,no_eligible_route
+20399,Bundoora (Vic.),21467,Langwarrin,162.88,ok
+20411,Bunyip,21467,Langwarrin,,no_eligible_route
+20412,Bunyip North,21467,Langwarrin,,no_eligible_route
+20418,Burnley,21467,Langwarrin,126.42,ok
+20419,Burnside (Vic.),21467,Langwarrin,174.1,ok
+20420,Burnside Heights,21467,Langwarrin,173.72,ok
+20426,Burwood (Vic.),21467,Langwarrin,121.82,ok
+20427,Burwood East,21467,Langwarrin,125.27,ok
+20435,Bylands,21467,Langwarrin,,no_eligible_route
+20441,Cairnlea,21467,Langwarrin,148.9,ok
+20442,Calder Park,21467,Langwarrin,168.95,ok
+20443,Caldermeade,21467,Langwarrin,,no_eligible_route
+20453,Camberwell (Vic.),21467,Langwarrin,128.78,ok
+20455,Campbellfield,21467,Langwarrin,166.67,ok
+20466,Cannons Creek,21467,Langwarrin,,no_eligible_route
+20468,Canterbury (Vic.),21467,Langwarrin,124.95,ok
+20474,Cape Schanck,21467,Langwarrin,,no_eligible_route
+20476,Capel Sound,21467,Langwarrin,90.32,ok
+20487,Cardinia,21467,Langwarrin,,no_eligible_route
+20495,Carlton (Vic.),21467,Langwarrin,122.87,ok
+20496,Carlton North,21467,Langwarrin,132.97,ok
+20498,Carnegie,21467,Langwarrin,89.97,ok
+20500,Caroline Springs,21467,Langwarrin,168.6,ok
+20507,Carrum,21467,Langwarrin,51.0,ok
+20508,Carrum Downs,21467,Langwarrin,55.1,ok
+20512,Castella,21467,Langwarrin,,no_eligible_route
+20517,Catani,21467,Langwarrin,,no_eligible_route
+20521,Caulfield,21467,Langwarrin,96.1,ok
+20522,Caulfield East,21467,Langwarrin,89.85,ok
+20523,Caulfield North,21467,Langwarrin,95.77,ok
+20524,Caulfield South,21467,Langwarrin,97.68,ok
+20528,Chadstone,21467,Langwarrin,113.02,ok
+20537,Chelsea,21467,Langwarrin,56.35,ok
+20538,Chelsea Heights,21467,Langwarrin,71.37,ok
+20539,Cheltenham (Vic.),21467,Langwarrin,77.7,ok
+20541,Cherokee,21467,Langwarrin,,no_eligible_route
+20555,Chintin,21467,Langwarrin,,no_eligible_route
+20556,Chirnside Park,21467,Langwarrin,198.9,ok
+20559,Christmas Hills (Vic.),21467,Langwarrin,,no_eligible_route
+20560,Chum Creek,21467,Langwarrin,,no_eligible_route
+20566,Clarinda,21467,Langwarrin,102.95,ok
+20567,Clarkefield,21467,Langwarrin,,no_eligible_route
+20569,Clayton,21467,Langwarrin,105.68,ok
+20570,Clayton South,21467,Langwarrin,109.27,ok
+20572,Clematis,21467,Langwarrin,,no_eligible_route
+20574,Clifton Hill,21467,Langwarrin,117.18,ok
+20576,Clonbinane,21467,Langwarrin,,no_eligible_route
+20581,Clyde (Vic.),21467,Langwarrin,79.53,ok
+20582,Clyde North,21467,Langwarrin,59.3,ok
+20587,Cobaw,21467,Langwarrin,,no_eligible_route
+20590,Cobblebank,21467,Langwarrin,,no_eligible_route
+20596,Coburg,21467,Langwarrin,138.65,ok
+20597,Coburg North,21467,Langwarrin,148.22,ok
+20600,Cockatoo (Vic.),21467,Langwarrin,,no_eligible_route
+20601,Cocoroc,21467,Langwarrin,,no_eligible_route
+20605,Coimadai,21467,Langwarrin,,no_eligible_route
+20613,Coldstream (Vic.),21467,Langwarrin,,no_eligible_route
+20616,Collingwood (Vic.),21467,Langwarrin,116.5,ok
+20624,Coolaroo,21467,Langwarrin,158.88,ok
+20633,Cora Lynn,21467,Langwarrin,,no_eligible_route
+20654,Cottles Bridge,21467,Langwarrin,,no_eligible_route
+20661,Craigieburn,21467,Langwarrin,188.05,ok
+20662,Cranbourne,21467,Langwarrin,22.08,ok
+20663,Cranbourne East,21467,Langwarrin,53.48,ok
+20664,Cranbourne North,21467,Langwarrin,42.03,ok
+20665,Cranbourne South,21467,Langwarrin,60.05,ok
+20666,Cranbourne West,21467,Langwarrin,42.65,ok
+20670,Cremorne (Vic.),21467,Langwarrin,106.0,ok
+20674,Crib Point,21467,Langwarrin,103.77,ok
+20682,Croydon (Vic.),21467,Langwarrin,142.77,ok
+20683,Croydon Hills,21467,Langwarrin,174.6,ok
+20684,Croydon North,21467,Langwarrin,174.95,ok
+20685,Croydon South,21467,Langwarrin,163.18,ok
+20702,Dallas,21467,Langwarrin,165.32,ok
+20703,Dalmore,21467,Langwarrin,,no_eligible_route
+20707,Dandenong,21467,Langwarrin,76.7,ok
+20708,Dandenong North,21467,Langwarrin,95.07,ok
+20709,Dandenong South,21467,Langwarrin,68.28,ok
+20712,Darley,21467,Langwarrin,,no_eligible_route
+20716,Darraweit Guim,21467,Langwarrin,,no_eligible_route
+20724,Deanside,21467,Langwarrin,194.83,ok
+20728,Deepdene (Vic.),21467,Langwarrin,128.3,ok
+20729,Deer Park,21467,Langwarrin,169.38,ok
+20731,Delahey,21467,Langwarrin,165.8,ok
+20743,Derrimut,21467,Langwarrin,169.72,ok
+20748,Devon Meadows,21467,Langwarrin,85.28,ok
+20750,Dewhurst,21467,Langwarrin,,no_eligible_route
+20752,Diamond Creek,21467,Langwarrin,172.5,ok
+20754,Diggers Rest,21467,Langwarrin,177.58,ok
+20758,Dingley Village,21467,Langwarrin,90.62,ok
+20762,Dixons Creek,21467,Langwarrin,,no_eligible_route
+20766,Docklands,21467,Langwarrin,120.2,ok
+20769,Don Valley,21467,Langwarrin,,no_eligible_route
+20771,Doncaster,21467,Langwarrin,137.67,ok
+20772,Doncaster East,21467,Langwarrin,136.63,ok
+20773,Donnybrook (Vic.),21467,Langwarrin,,no_eligible_route
+20774,Donvale,21467,Langwarrin,143.37,ok
+20779,Doreen,21467,Langwarrin,,no_eligible_route
+20783,Doveton,21467,Langwarrin,89.27,ok
+20788,Dromana,21467,Langwarrin,,no_eligible_route
+20825,Eaglemont,21467,Langwarrin,145.03,ok
+20830,East Melbourne,21467,Langwarrin,112.78,ok
+20833,East Warburton,21467,Langwarrin,,no_eligible_route
+20843,Eden Park,21467,Langwarrin,,no_eligible_route
+20848,Edithvale,21467,Langwarrin,61.68,ok
+20864,Elsternwick,21467,Langwarrin,97.0,ok
+20865,Eltham (Vic.),21467,Langwarrin,168.15,ok
+20866,Eltham North,21467,Langwarrin,182.53,ok
+20867,Elwood,21467,Langwarrin,111.27,ok
+20868,Emerald (Vic.),21467,Langwarrin,,no_eligible_route
+20871,Endeavour Hills,21467,Langwarrin,101.37,ok
+20878,Epping (Vic.),21467,Langwarrin,184.28,ok
+20885,Essendon,21467,Langwarrin,140.32,ok
+20886,Essendon Fields,21467,Langwarrin,161.72,ok
+20887,Essendon North,21467,Langwarrin,142.72,ok
+20888,Essendon West,21467,Langwarrin,150.18,ok
+20889,Eumemmerring,21467,Langwarrin,81.38,ok
+20898,Exford,21467,Langwarrin,,no_eligible_route
+20899,Eynesbury,21467,Langwarrin,,no_eligible_route
+20901,Fairfield (Vic.),21467,Langwarrin,133.02,ok
+20909,Fawkner,21467,Langwarrin,159.12,ok
+20916,Fernshaw,21467,Langwarrin,,no_eligible_route
+20917,Ferntree Gully,21467,Langwarrin,120.5,ok
+20918,Ferny Creek,21467,Langwarrin,,no_eligible_route
+20920,Fingal (Vic.),21467,Langwarrin,,no_eligible_route
+20924,Fitzroy (Vic.),21467,Langwarrin,118.8,ok
+20925,Fitzroy North,21467,Langwarrin,125.4,ok
+20929,Flemington,21467,Langwarrin,138.63,ok
+20930,Flinders (Vic.),21467,Langwarrin,,no_eligible_route
+20935,Footscray,21467,Langwarrin,123.58,ok
+20937,Forest Hill (Vic.),21467,Langwarrin,116.07,ok
+20947,Frankston,21467,Langwarrin,21.83,ok
+20948,Frankston North,21467,Langwarrin,53.3,ok
+20949,Frankston South,21467,Langwarrin,65.72,ok
+20950,Fraser Rise,21467,Langwarrin,179.7,ok
+20965,Gardenvale,21467,Langwarrin,95.68,ok
+20966,Garfield,21467,Langwarrin,,no_eligible_route
+20967,Garfield North,21467,Langwarrin,,no_eligible_route
+20979,Gembrook,21467,Langwarrin,,no_eligible_route
+20995,Gilderoy,21467,Langwarrin,,no_eligible_route
+21001,Gisborne,21467,Langwarrin,,no_eligible_route
+21002,Gisborne South,21467,Langwarrin,,no_eligible_route
+21004,Gladstone Park,21467,Langwarrin,171.83,ok
+21005,Gladysdale,21467,Langwarrin,,no_eligible_route
+21009,Glen Huntly,21467,Langwarrin,85.05,ok
+21010,Glen Iris (Vic.),21467,Langwarrin,120.18,ok
+21013,Glen Waverley,21467,Langwarrin,106.67,ok
+21047,Glenroy (Vic.),21467,Langwarrin,152.87,ok
+21059,Goldie,21467,Langwarrin,,no_eligible_route
+21079,Gowanbrae,21467,Langwarrin,172.32,ok
+21087,Grangefields,21467,Langwarrin,217.82,ok
+21104,Greensborough,21467,Langwarrin,153.57,ok
+21105,Greenvale (Vic.),21467,Langwarrin,,no_eligible_route
+21115,Gruyere,21467,Langwarrin,,no_eligible_route
+21121,Guys Hill,21467,Langwarrin,,no_eligible_route
+21124,Hadfield,21467,Langwarrin,161.15,ok
+21125,Hallam,21467,Langwarrin,74.87,ok
+21131,Hampton (Vic.),21467,Langwarrin,87.05,ok
+21132,Hampton East,21467,Langwarrin,82.28,ok
+21133,Hampton Park,21467,Langwarrin,62.83,ok
+21139,Harkaway,21467,Langwarrin,,no_eligible_route
+21140,Harkness,21467,Langwarrin,,no_eligible_route
+21145,Hastings (Vic.),21467,Langwarrin,80.88,ok
+21152,Hawthorn (Vic.),21467,Langwarrin,113.92,ok
+21153,Hawthorn East,21467,Langwarrin,117.3,ok
+21158,Healesville,21467,Langwarrin,,no_eligible_route
+21159,Heath Hill,21467,Langwarrin,,no_eligible_route
+21161,Heathcote Junction,21467,Langwarrin,,no_eligible_route
+21163,Heatherton,21467,Langwarrin,93.52,ok
+21165,Heathmont,21467,Langwarrin,139.82,ok
+21167,Heidelberg,21467,Langwarrin,147.83,ok
+21168,Heidelberg Heights,21467,Langwarrin,152.28,ok
+21169,Heidelberg West,21467,Langwarrin,143.03,ok
+21176,Hesket,21467,Langwarrin,,no_eligible_route
+21185,Highett,21467,Langwarrin,69.85,ok
+21193,Hillside (Melton - Vic.),21467,Langwarrin,164.25,ok
+21195,Hmas Cerberus,21467,Langwarrin,,no_eligible_route
+21196,Hoddles Creek,21467,Langwarrin,,no_eligible_route
+21202,Hopetoun Park,21467,Langwarrin,,no_eligible_route
+21203,Hoppers Crossing,21467,Langwarrin,168.1,ok
+21214,Hughesdale,21467,Langwarrin,99.55,ok
+21215,Humevale,21467,Langwarrin,,no_eligible_route
+21218,Huntingdale (Vic.),21467,Langwarrin,99.42,ok
+21223,Hurstbridge,21467,Langwarrin,173.05,ok
+21238,Iona,21467,Langwarrin,,no_eligible_route
+21246,Ivanhoe (Vic.),21467,Langwarrin,131.3,ok
+21247,Ivanhoe East,21467,Langwarrin,150.97,ok
+21248,Jacana,21467,Langwarrin,157.43,ok
+21277,Junction Village,21467,Langwarrin,71.42,ok
+21284,Kalkallo,21467,Langwarrin,,no_eligible_route
+21286,Kallista,21467,Langwarrin,,no_eligible_route
+21287,Kalorama,21467,Langwarrin,,no_eligible_route
+21294,Kangaroo Ground,21467,Langwarrin,,no_eligible_route
+21312,Kealba,21467,Langwarrin,167.38,ok
+21314,Keilor,21467,Langwarrin,,no_eligible_route
+21315,Keilor Downs,21467,Langwarrin,162.52,ok
+21316,Keilor East,21467,Langwarrin,160.33,ok
+21317,Keilor Lodge,21467,Langwarrin,181.43,ok
+21318,Keilor North,21467,Langwarrin,175.97,ok
+21319,Keilor Park,21467,Langwarrin,,no_eligible_route
+21327,Kensington (Vic.),21467,Langwarrin,124.72,ok
+21333,Kerrie,21467,Langwarrin,,no_eligible_route
+21336,Kew (Vic.),21467,Langwarrin,126.95,ok
+21337,Kew East,21467,Langwarrin,135.98,ok
+21339,Keysborough,21467,Langwarrin,85.25,ok
+21354,Kilsyth,21467,Langwarrin,,no_eligible_route
+21355,Kilsyth South,21467,Langwarrin,,no_eligible_route
+21358,Kinglake,21467,Langwarrin,,no_eligible_route
+21359,Kinglake Central,21467,Langwarrin,,no_eligible_route
+21360,Kinglake West,21467,Langwarrin,,no_eligible_route
+21362,Kings Park (Vic.),21467,Langwarrin,164.23,ok
+21363,Kingsbury,21467,Langwarrin,165.65,ok
+21365,Kingsville,21467,Langwarrin,132.65,ok
+21374,Knoxfield,21467,Langwarrin,116.97,ok
+21380,Koo Wee Rup,21467,Langwarrin,,no_eligible_route
+21381,Koo Wee Rup North,21467,Langwarrin,,no_eligible_route
+21393,Kooyong,21467,Langwarrin,112.7,ok
+21411,Kurunjang,21467,Langwarrin,,no_eligible_route
+21452,Lalor,21467,Langwarrin,148.47,ok
+21456,Lancefield,21467,Langwarrin,,no_eligible_route
+21459,Lang Lang,21467,Langwarrin,,no_eligible_route
+21460,Lang Lang East,21467,Langwarrin,,no_eligible_route
+21467,Langwarrin,21467,Langwarrin,0.0,same_centroid
+21468,Langwarrin South,21467,Langwarrin,80.38,walk_only
+21473,Launching Place,21467,Langwarrin,,no_eligible_route
+21476,Laverton (Vic.),21467,Langwarrin,148.38,ok
+21477,Laverton North,21467,Langwarrin,188.42,ok
+21504,Lilydale (Vic.),21467,Langwarrin,174.47,ok
+21533,Long Forest,21467,Langwarrin,,no_eligible_route
+21547,Lower Plenty,21467,Langwarrin,187.2,ok
+21554,Lynbrook,21467,Langwarrin,63.62,ok
+21555,Lyndhurst (Vic.),21467,Langwarrin,96.57,ok
+21558,Lysterfield,21467,Langwarrin,,no_eligible_route
+21559,Lysterfield South,21467,Langwarrin,139.92,ok
+21561,Macclesfield (Vic.),21467,Langwarrin,,no_eligible_route
+21562,Macedon,21467,Langwarrin,,no_eligible_route
+21564,Macleod (Vic.),21467,Langwarrin,146.65,ok
+21569,Maddingley,21467,Langwarrin,,no_eligible_route
+21575,Maidstone,21467,Langwarrin,142.4,ok
+21578,Main Ridge,21467,Langwarrin,,no_eligible_route
+21586,Malvern (Vic.),21467,Langwarrin,98.43,ok
+21587,Malvern East,21467,Langwarrin,106.83,ok
+21588,Mambourin,21467,Langwarrin,,no_eligible_route
+21597,Manor Lakes,21467,Langwarrin,199.85,ok
+21604,Maribyrnong,21467,Langwarrin,140.92,ok
+21619,Maryknoll,21467,Langwarrin,,no_eligible_route
+21625,McCrae,21467,Langwarrin,77.52,ok
+21629,McKinnon,21467,Langwarrin,74.05,ok
+21635,Meadow Heights,21467,Langwarrin,170.32,ok
+21640,Melbourne,21467,Langwarrin,107.88,ok
+21641,Melbourne Airport,21467,Langwarrin,,no_eligible_route
+21642,Melton (Vic.),21467,Langwarrin,,no_eligible_route
+21643,Melton South,21467,Langwarrin,,no_eligible_route
+21644,Melton West,21467,Langwarrin,,no_eligible_route
+21648,Mentone,21467,Langwarrin,66.52,ok
+21649,Menzies Creek,21467,Langwarrin,,no_eligible_route
+21659,Mernda,21467,Langwarrin,194.82,ok
+21662,Merricks,21467,Langwarrin,,no_eligible_route
+21663,Merricks Beach,21467,Langwarrin,,no_eligible_route
+21664,Merricks North,21467,Langwarrin,,no_eligible_route
+21668,Merrimu,21467,Langwarrin,,no_eligible_route
+21675,Mickleham,21467,Langwarrin,,no_eligible_route
+21677,Middle Park (Vic.),21467,Langwarrin,124.55,ok
+21683,Mill Park,21467,Langwarrin,171.68,ok
+21685,Millgrove,21467,Langwarrin,,no_eligible_route
+21706,Mitcham (Vic.),21467,Langwarrin,136.5,ok
+21727,Monbulk,21467,Langwarrin,,no_eligible_route
+21728,Monegeetta,21467,Langwarrin,,no_eligible_route
+21731,Monomeith,21467,Langwarrin,,no_eligible_route
+21732,Mont Albert,21467,Langwarrin,132.35,ok
+21733,Mont Albert North,21467,Langwarrin,149.85,ok
+21735,Montmorency,21467,Langwarrin,154.22,ok
+21736,Montrose (Vic.),21467,Langwarrin,,no_eligible_route
+21742,Moonee Ponds,21467,Langwarrin,126.78,ok
+21746,Moorabbin,21467,Langwarrin,92.63,ok
+21747,Moorabbin Airport,21467,Langwarrin,91.98,ok
+21754,Moorooduc,21467,Langwarrin,91.1,ok
+21755,Mooroolbark,21467,Langwarrin,161.38,ok
+21760,Mordialloc,21467,Langwarrin,71.7,ok
+21763,Mornington (Vic.),21467,Langwarrin,75.43,ok
+21779,Mount Burnett,21467,Langwarrin,,no_eligible_route
+21786,Mount Cottrell,21467,Langwarrin,,no_eligible_route
+21787,Mount Dandenong,21467,Langwarrin,,no_eligible_route
+21793,Mount Eliza,21467,Langwarrin,55.5,ok
+21795,Mount Evelyn,21467,Langwarrin,,no_eligible_route
+21801,Mount Macedon,21467,Langwarrin,,no_eligible_route
+21803,Mount Martha,21467,Langwarrin,76.03,ok
+21814,Mount Toolebewong,21467,Langwarrin,,no_eligible_route
+21816,Mount Waverley,21467,Langwarrin,122.53,ok
+21827,Mulgrave (Vic.),21467,Langwarrin,106.6,ok
+21849,Murrumbeena,21467,Langwarrin,102.8,ok
+21872,Nangana,21467,Langwarrin,,no_eligible_route
+21878,Nar Nar Goon,21467,Langwarrin,,no_eligible_route
+21879,Nar Nar Goon North,21467,Langwarrin,,no_eligible_route
+21893,Narre Warren,21467,Langwarrin,59.93,ok
+21894,Narre Warren East,21467,Langwarrin,,no_eligible_route
+21895,Narre Warren North,21467,Langwarrin,69.2,ok
+21896,Narre Warren South,21467,Langwarrin,51.22,ok
+21921,New Gisborne,21467,Langwarrin,,no_eligible_route
+21934,Newport (Vic.),21467,Langwarrin,131.72,ok
+21942,Niddrie,21467,Langwarrin,154.67,ok
+21952,Noble Park,21467,Langwarrin,80.22,ok
+21953,Noble Park North,21467,Langwarrin,104.82,ok
+21966,North Melbourne,21467,Langwarrin,118.38,ok
+21969,North Warrandyte,21467,Langwarrin,183.57,ok
+21971,Northcote,21467,Langwarrin,131.67,ok
+21974,Notting Hill,21467,Langwarrin,115.95,ok
+21985,Nunawading,21467,Langwarrin,119.6,ok
+21991,Nutfield,21467,Langwarrin,,no_eligible_route
+21998,Oak Park,21467,Langwarrin,145.1,ok
+21999,Oaklands Junction,21467,Langwarrin,,no_eligible_route
+22000,Oakleigh,21467,Langwarrin,97.17,ok
+22001,Oakleigh East,21467,Langwarrin,106.98,ok
+22002,Oakleigh South,21467,Langwarrin,102.7,ok
+22006,Officer,21467,Langwarrin,95.48,ok
+22007,Officer South,21467,Langwarrin,135.05,ok
+22009,Olinda (Vic.),21467,Langwarrin,,no_eligible_route
+22016,Ormond,21467,Langwarrin,79.07,ok
+22027,Pakenham,21467,Langwarrin,94.53,ok
+22028,Pakenham South,21467,Langwarrin,,no_eligible_route
+22029,Pakenham Upper,21467,Langwarrin,,no_eligible_route
+22032,Panton Hill,21467,Langwarrin,,no_eligible_route
+22036,Park Orchards,21467,Langwarrin,144.67,ok
+22037,Parkdale,21467,Langwarrin,67.62,ok
+22038,Parkville (Vic.),21467,Langwarrin,129.0,ok
+22041,Pascoe Vale,21467,Langwarrin,149.47,ok
+22042,Pascoe Vale South,21467,Langwarrin,145.2,ok
+22047,Patterson Lakes,21467,Langwarrin,58.87,ok
+22050,Pearcedale,21467,Langwarrin,78.35,ok
+22058,Pentland Hills,21467,Langwarrin,,no_eligible_route
+22064,Pheasant Creek (Vic.),21467,Langwarrin,,no_eligible_route
+22084,Plenty (Vic.),21467,Langwarrin,178.15,ok
+22085,Plumpton (Vic.),21467,Langwarrin,,no_eligible_route
+22086,Point Cook,21467,Langwarrin,177.28,ok
+22087,Point Leo,21467,Langwarrin,,no_eligible_route
+22107,Port Melbourne,21467,Langwarrin,131.23,ok
+22113,Portsea,21467,Langwarrin,132.82,ok
+22115,Powelltown,21467,Langwarrin,,no_eligible_route
+22118,Prahran,21467,Langwarrin,104.57,ok
+22121,Preston (Vic.),21467,Langwarrin,143.07,ok
+22122,Princes Hill,21467,Langwarrin,127.15,ok
+22132,Quandong,21467,Langwarrin,,no_eligible_route
+22141,Ravenhall,21467,Langwarrin,,no_eligible_route
+22148,Red Hill (Vic.),21467,Langwarrin,,no_eligible_route
+22149,Red Hill South,21467,Langwarrin,,no_eligible_route
+22160,Research,21467,Langwarrin,,no_eligible_route
+22161,Reservoir (Vic.),21467,Langwarrin,145.28,ok
+22170,Richmond (Vic.),21467,Langwarrin,116.58,ok
+22172,Riddells Creek,21467,Langwarrin,,no_eligible_route
+22174,Ringwood (Vic.),21467,Langwarrin,132.62,ok
+22175,Ringwood East,21467,Langwarrin,142.85,ok
+22176,Ringwood North,21467,Langwarrin,139.4,ok
+22179,Ripponlea,21467,Langwarrin,102.28,ok
+22185,Rochford,21467,Langwarrin,,no_eligible_route
+22186,Rockbank,21467,Langwarrin,202.18,ok
+22193,Romsey,21467,Langwarrin,,no_eligible_route
+22194,Rosanna,21467,Langwarrin,141.12,ok
+22198,Rosebud,21467,Langwarrin,93.83,ok
+22207,Rowville,21467,Langwarrin,108.05,ok
+22208,Roxburgh Park,21467,Langwarrin,174.95,ok
+22220,Rye,21467,Langwarrin,114.03,ok
+22221,Rythdale,21467,Langwarrin,,no_eligible_route
+22222,Safety Beach (Vic.),21467,Langwarrin,84.83,ok
+22232,Sandhurst,21467,Langwarrin,78.87,ok
+22234,Sandringham (Vic.),21467,Langwarrin,97.0,ok
+22239,Sassafras (Vic.),21467,Langwarrin,,no_eligible_route
+22242,Scoresby,21467,Langwarrin,118.05,ok
+22247,Seabrook,21467,Langwarrin,162.2,ok
+22249,Seaford (Vic.),21467,Langwarrin,51.25,ok
+22250,Seaholme,21467,Langwarrin,147.47,ok
+22256,Seddon (Vic.),21467,Langwarrin,123.3,ok
+22258,Selby,21467,Langwarrin,,no_eligible_route
+22263,Seville,21467,Langwarrin,,no_eligible_route
+22264,Seville East,21467,Langwarrin,,no_eligible_route
+22278,Sherbrooke,21467,Langwarrin,,no_eligible_route
+22279,Shoreham,21467,Langwarrin,,no_eligible_route
+22281,Silvan,21467,Langwarrin,,no_eligible_route
+22291,Skye (Vic.),21467,Langwarrin,32.95,ok
+22295,Smiths Gully,21467,Langwarrin,,no_eligible_route
+22303,Somers,21467,Langwarrin,,no_eligible_route
+22304,Somerton (Vic.),21467,Langwarrin,185.4,ok
+22305,Somerville (Vic.),21467,Langwarrin,84.98,ok
+22306,Sorrento (Vic.),21467,Langwarrin,112.8,ok
+22309,South Kingsville,21467,Langwarrin,143.97,ok
+22310,South Melbourne,21467,Langwarrin,129.95,ok
+22311,South Morang,21467,Langwarrin,180.45,ok
+22313,South Wharf,21467,Langwarrin,122.92,ok
+22314,South Yarra,21467,Langwarrin,92.45,ok
+22315,Southbank,21467,Langwarrin,115.12,ok
+22319,Spotswood,21467,Langwarrin,125.12,ok
+22325,Springfield (Macedon Ranges - Vic.),21467,Langwarrin,,no_eligible_route
+22328,Springvale (Vic.),21467,Langwarrin,87.52,ok
+22329,Springvale South,21467,Langwarrin,78.65,ok
+22330,St Albans (Vic.),21467,Langwarrin,137.8,ok
+22332,St Andrews (Vic.),21467,Langwarrin,,no_eligible_route
+22333,St Andrews Beach,21467,Langwarrin,,no_eligible_route
+22339,St Helena,21467,Langwarrin,174.27,ok
+22343,St Kilda (Vic.),21467,Langwarrin,110.2,ok
+22344,St Kilda East,21467,Langwarrin,104.12,ok
+22345,St Kilda West,21467,Langwarrin,116.9,ok
+22355,Steels Creek,21467,Langwarrin,,no_eligible_route
+22375,Strathewen,21467,Langwarrin,,no_eligible_route
+22380,Strathmore (Vic.),21467,Langwarrin,153.27,ok
+22381,Strathmore Heights,21467,Langwarrin,165.27,ok
+22382,Strathtulloh,21467,Langwarrin,,no_eligible_route
+22391,Sunbury,21467,Langwarrin,,no_eligible_route
+22395,Sunshine (Vic.),21467,Langwarrin,126.58,ok
+22396,Sunshine North,21467,Langwarrin,153.65,ok
+22397,Sunshine West,21467,Langwarrin,156.43,ok
+22399,Surrey Hills,21467,Langwarrin,132.77,ok
+22414,Sydenham (Vic.),21467,Langwarrin,152.2,ok
+22451,Tarneit,21467,Langwarrin,195.48,ok
+22457,Tarrawarra,21467,Langwarrin,,no_eligible_route
+22473,Taylors Hill,21467,Langwarrin,169.72,ok
+22474,Taylors Lakes,21467,Langwarrin,157.08,ok
+22476,Tecoma,21467,Langwarrin,143.75,ok
+22483,Templestowe,21467,Langwarrin,146.03,ok
+22484,Templestowe Lower,21467,Langwarrin,143.0,ok
+22496,The Basin (Vic.),21467,Langwarrin,177.22,ok
+22501,The Patch,21467,Langwarrin,,no_eligible_route
+22504,Thomastown,21467,Langwarrin,153.77,ok
+22508,Thornbury,21467,Langwarrin,137.55,ok
+22509,Thornhill Park,21467,Langwarrin,,no_eligible_route
+22514,Three Bridges,21467,Langwarrin,,no_eligible_route
+22531,Tonimbuk,21467,Langwarrin,,no_eligible_route
+22536,Toolangi,21467,Langwarrin,,no_eligible_route
+22537,Toolern Vale,21467,Langwarrin,,no_eligible_route
+22546,Tooradin,21467,Langwarrin,,no_eligible_route
+22547,Toorak,21467,Langwarrin,107.92,ok
+22550,Tootgarook,21467,Langwarrin,97.45,ok
+22556,Tottenham (Vic.),21467,Langwarrin,154.02,ok
+22572,Travancore,21467,Langwarrin,135.57,ok
+22576,Tremont,21467,Langwarrin,154.73,ok
+22582,Truganina,21467,Langwarrin,,no_eligible_route
+22584,Tuerong,21467,Langwarrin,,no_eligible_route
+22586,Tullamarine,21467,Langwarrin,176.05,ok
+22594,Tyabb,21467,Langwarrin,77.3,ok
+22598,Tynong,21467,Langwarrin,,no_eligible_route
+22599,Tynong North,21467,Langwarrin,,no_eligible_route
+22614,Upper Ferntree Gully,21467,Langwarrin,134.28,ok
+22617,Upper Plenty,21467,Langwarrin,,no_eligible_route
+22620,Upwey,21467,Langwarrin,143.62,ok
+22627,Vermont,21467,Langwarrin,134.27,ok
+22628,Vermont South,21467,Langwarrin,126.63,ok
+22629,Vervale,21467,Langwarrin,,no_eligible_route
+22633,Viewbank,21467,Langwarrin,174.28,ok
+22661,Wallan,21467,Langwarrin,,no_eligible_route
+22672,Wandin East,21467,Langwarrin,,no_eligible_route
+22673,Wandin North,21467,Langwarrin,,no_eligible_route
+22676,Wandong,21467,Langwarrin,,no_eligible_route
+22685,Wantirna,21467,Langwarrin,126.98,ok
+22686,Wantirna South,21467,Langwarrin,120.27,ok
+22689,Warburton (Vic.),21467,Langwarrin,,no_eligible_route
+22695,Warneet,21467,Langwarrin,,no_eligible_route
+22702,Warrandyte,21467,Langwarrin,149.82,ok
+22703,Warrandyte South,21467,Langwarrin,,no_eligible_route
+22704,Warranwood,21467,Langwarrin,170.85,ok
+22717,Waterford Park,21467,Langwarrin,,no_eligible_route
+22720,Waterways,21467,Langwarrin,81.65,ok
+22721,Watsonia,21467,Langwarrin,141.57,ok
+22722,Watsonia North,21467,Langwarrin,165.1,ok
+22723,Watsons Creek (Vic.),21467,Langwarrin,,no_eligible_route
+22727,Wattle Glen,21467,Langwarrin,176.8,ok
+22740,Weir Views,21467,Langwarrin,,no_eligible_route
+22750,Werribee,21467,Langwarrin,162.42,ok
+22751,Werribee South,21467,Langwarrin,,no_eligible_route
+22753,Wesburn,21467,Langwarrin,,no_eligible_route
+22756,West Footscray,21467,Langwarrin,130.75,ok
+22757,West Melbourne,21467,Langwarrin,141.2,ok
+22761,Westmeadows,21467,Langwarrin,163.08,ok
+22766,Wheelers Hill,21467,Langwarrin,109.48,ok
+22775,Whittlesea,21467,Langwarrin,,no_eligible_route
+22784,Wildwood,21467,Langwarrin,,no_eligible_route
+22791,Williams Landing,21467,Langwarrin,162.63,ok
+22792,Williamstown (Vic.),21467,Langwarrin,133.93,ok
+22793,Williamstown North,21467,Langwarrin,153.47,ok
+22805,Windsor (Vic.),21467,Langwarrin,107.47,ok
+22820,Wollert,21467,Langwarrin,205.15,ok
+22825,Wonga Park,21467,Langwarrin,,no_eligible_route
+22843,Woodstock (Vic.),21467,Langwarrin,,no_eligible_route
+22857,Woori Yallock,21467,Langwarrin,,no_eligible_route
+22883,Wyndham Vale,21467,Langwarrin,188.72,ok
+22892,Yallambie,21467,Langwarrin,170.83,ok
+22898,Yan Yean,21467,Langwarrin,199.72,ok
+22906,Yannathan,21467,Langwarrin,,no_eligible_route
+22910,Yarra Glen,21467,Langwarrin,,no_eligible_route
+22911,Yarra Junction,21467,Langwarrin,,no_eligible_route
+22916,Yarrambat,21467,Langwarrin,196.02,ok
+22917,Yarraville,21467,Langwarrin,130.87,ok
+22925,Yellingbo,21467,Langwarrin,,no_eligible_route
+22930,Yering,21467,Langwarrin,,no_eligible_route
+22941,Yuroke,21467,Langwarrin,,no_eligible_route

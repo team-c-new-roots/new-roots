@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21640,Melbourne,30.7,ok
+20003,Aberfeldie,21640,Melbourne,48.25,ok
+20011,Aintree,21640,Melbourne,90.68,ok
+20015,Airport West,21640,Melbourne,68.45,ok
+20017,Albanvale,21640,Melbourne,70.15,ok
+20018,Albert Park (Vic.),21640,Melbourne,27.97,ok
+20021,Albion (Vic.),21640,Melbourne,53.55,ok
+20034,Alphington,21640,Melbourne,35.87,ok
+20035,Altona (Vic.),21640,Melbourne,56.95,ok
+20036,Altona Meadows,21640,Melbourne,63.95,ok
+20037,Altona North,21640,Melbourne,74.35,ok
+20062,Ardeer,21640,Melbourne,62.7,ok
+20066,Armadale (Vic.),21640,Melbourne,27.78,ok
+20071,Arthurs Creek,21640,Melbourne,,no_eligible_route
+20072,Arthurs Seat,21640,Melbourne,181.6,ok
+20075,Ascot Vale,21640,Melbourne,41.78,ok
+20077,Ashburton,21640,Melbourne,50.7,ok
+20078,Ashwood,21640,Melbourne,55.93,ok
+20079,Aspendale,21640,Melbourne,68.33,ok
+20080,Aspendale Gardens,21640,Melbourne,89.08,ok
+20082,Attwood,21640,Melbourne,73.07,ok
+20089,Avondale Heights,21640,Melbourne,64.38,ok
+20091,Avonsleigh,21640,Melbourne,142.28,ok
+20095,Bacchus Marsh,21640,Melbourne,,no_eligible_route
+20097,Badger Creek,21640,Melbourne,145.77,ok
+20105,Balaclava (Vic.),21640,Melbourne,29.55,ok
+20120,Balnarring,21640,Melbourne,179.97,ok
+20121,Balnarring Beach,21640,Melbourne,176.5,ok
+20123,Balwyn,21640,Melbourne,53.83,ok
+20124,Balwyn North,21640,Melbourne,56.57,ok
+20131,Bangholme,21640,Melbourne,115.75,ok
+20169,Baxter,21640,Melbourne,111.42,ok
+20171,Bayles,21640,Melbourne,,no_eligible_route
+20173,Bayswater (Vic.),21640,Melbourne,72.35,ok
+20174,Bayswater North,21640,Melbourne,90.52,ok
+20175,Beaconsfield (Vic.),21640,Melbourne,97.25,ok
+20176,Beaconsfield Upper,21640,Melbourne,,no_eligible_route
+20182,Beaumaris (Vic.),21640,Melbourne,71.6,ok
+20187,Beenak,21640,Melbourne,,no_eligible_route
+20188,Belgrave,21640,Melbourne,85.43,ok
+20189,Belgrave Heights,21640,Melbourne,114.1,ok
+20190,Belgrave South,21640,Melbourne,113.08,ok
+20198,Bellfield (Banyule - Vic.),21640,Melbourne,53.62,ok
+20207,Bend Of Islands,21640,Melbourne,,no_eligible_route
+20212,Benloch,21640,Melbourne,,no_eligible_route
+20214,Bentleigh,21640,Melbourne,54.12,ok
+20215,Bentleigh East,21640,Melbourne,51.18,ok
+20224,Berwick,21640,Melbourne,76.3,ok
+20233,Beveridge,21640,Melbourne,103.62,ok
+20237,Big Pats Creek,21640,Melbourne,,no_eligible_route
+20248,Bittern,21640,Melbourne,130.68,ok
+20251,Black Rock (Vic.),21640,Melbourne,64.55,ok
+20252,Blackburn,21640,Melbourne,48.68,ok
+20253,Blackburn North,21640,Melbourne,55.95,ok
+20254,Blackburn South,21640,Melbourne,66.02,ok
+20257,Blairgowrie,21640,Melbourne,175.63,ok
+20260,Blind Bight,21640,Melbourne,,no_eligible_route
+20272,Bolinda,21640,Melbourne,,no_eligible_route
+20278,Bonbeach,21640,Melbourne,73.33,ok
+20280,Boneo,21640,Melbourne,,no_eligible_route
+20282,Bonnie Brook,21640,Melbourne,123.23,ok
+20304,Boronia,21640,Melbourne,74.82,ok
+20307,Botanic Ridge,21640,Melbourne,115.45,ok
+20314,Box Hill (Vic.),21640,Melbourne,47.17,ok
+20315,Box Hill North,21640,Melbourne,55.55,ok
+20316,Box Hill South,21640,Melbourne,54.28,ok
+20320,Braeside,21640,Melbourne,90.87,ok
+20324,Braybrook,21640,Melbourne,56.33,ok
+20331,Briar Hill,21640,Melbourne,64.18,ok
+20337,Brighton (Vic.),21640,Melbourne,44.5,ok
+20338,Brighton East,21640,Melbourne,50.75,ok
+20346,Broadmeadows (Vic.),21640,Melbourne,63.98,ok
+20351,Brookfield (Vic.),21640,Melbourne,147.73,ok
+20352,Brooklyn (Vic.),21640,Melbourne,62.38,ok
+20361,Brunswick (Vic.),21640,Melbourne,37.8,ok
+20362,Brunswick East,21640,Melbourne,37.47,ok
+20363,Brunswick West,21640,Melbourne,48.98,ok
+20381,Bulla (Vic.),21640,Melbourne,131.83,ok
+20386,Bulleen,21640,Melbourne,55.75,ok
+20387,Bullengarook,21640,Melbourne,,no_eligible_route
+20399,Bundoora (Vic.),21640,Melbourne,67.6,ok
+20411,Bunyip,21640,Melbourne,,no_eligible_route
+20412,Bunyip North,21640,Melbourne,,no_eligible_route
+20418,Burnley,21640,Melbourne,37.1,ok
+20419,Burnside (Vic.),21640,Melbourne,72.93,ok
+20420,Burnside Heights,21640,Melbourne,80.75,ok
+20426,Burwood (Vic.),21640,Melbourne,63.53,ok
+20427,Burwood East,21640,Melbourne,64.43,ok
+20435,Bylands,21640,Melbourne,,no_eligible_route
+20441,Cairnlea,21640,Melbourne,61.77,ok
+20442,Calder Park,21640,Melbourne,87.33,ok
+20443,Caldermeade,21640,Melbourne,,no_eligible_route
+20453,Camberwell (Vic.),21640,Melbourne,49.63,ok
+20455,Campbellfield,21640,Melbourne,71.35,ok
+20466,Cannons Creek,21640,Melbourne,,no_eligible_route
+20468,Canterbury (Vic.),21640,Melbourne,47.3,ok
+20474,Cape Schanck,21640,Melbourne,,no_eligible_route
+20476,Capel Sound,21640,Melbourne,160.98,ok
+20487,Cardinia,21640,Melbourne,,no_eligible_route
+20495,Carlton (Vic.),21640,Melbourne,25.55,ok
+20496,Carlton North,21640,Melbourne,36.78,ok
+20498,Carnegie,21640,Melbourne,37.82,ok
+20500,Caroline Springs,21640,Melbourne,79.47,ok
+20507,Carrum,21640,Melbourne,73.15,ok
+20508,Carrum Downs,21640,Melbourne,92.25,ok
+20512,Castella,21640,Melbourne,,no_eligible_route
+20517,Catani,21640,Melbourne,,no_eligible_route
+20521,Caulfield,21640,Melbourne,40.53,ok
+20522,Caulfield East,21640,Melbourne,34.23,ok
+20523,Caulfield North,21640,Melbourne,33.73,ok
+20524,Caulfield South,21640,Melbourne,45.07,ok
+20528,Chadstone,21640,Melbourne,47.88,ok
+20537,Chelsea,21640,Melbourne,70.4,ok
+20538,Chelsea Heights,21640,Melbourne,88.08,ok
+20539,Cheltenham (Vic.),21640,Melbourne,59.87,ok
+20541,Cherokee,21640,Melbourne,,no_eligible_route
+20555,Chintin,21640,Melbourne,,no_eligible_route
+20556,Chirnside Park,21640,Melbourne,95.93,ok
+20559,Christmas Hills (Vic.),21640,Melbourne,,no_eligible_route
+20560,Chum Creek,21640,Melbourne,,no_eligible_route
+20566,Clarinda,21640,Melbourne,60.25,ok
+20567,Clarkefield,21640,Melbourne,,no_eligible_route
+20569,Clayton,21640,Melbourne,52.67,ok
+20570,Clayton South,21640,Melbourne,64.83,ok
+20572,Clematis,21640,Melbourne,114.7,ok
+20574,Clifton Hill,21640,Melbourne,28.95,ok
+20576,Clonbinane,21640,Melbourne,,no_eligible_route
+20581,Clyde (Vic.),21640,Melbourne,,no_eligible_route
+20582,Clyde North,21640,Melbourne,99.77,ok
+20587,Cobaw,21640,Melbourne,,no_eligible_route
+20590,Cobblebank,21640,Melbourne,133.38,ok
+20596,Coburg,21640,Melbourne,47.1,ok
+20597,Coburg North,21640,Melbourne,58.9,ok
+20600,Cockatoo (Vic.),21640,Melbourne,145.97,ok
+20601,Cocoroc,21640,Melbourne,,no_eligible_route
+20605,Coimadai,21640,Melbourne,,no_eligible_route
+20613,Coldstream (Vic.),21640,Melbourne,,no_eligible_route
+20616,Collingwood (Vic.),21640,Melbourne,31.35,ok
+20624,Coolaroo,21640,Melbourne,61.3,ok
+20633,Cora Lynn,21640,Melbourne,,no_eligible_route
+20654,Cottles Bridge,21640,Melbourne,,no_eligible_route
+20661,Craigieburn,21640,Melbourne,75.13,ok
+20662,Cranbourne,21640,Melbourne,83.45,ok
+20663,Cranbourne East,21640,Melbourne,91.05,ok
+20664,Cranbourne North,21640,Melbourne,82.5,ok
+20665,Cranbourne South,21640,Melbourne,118.8,ok
+20666,Cranbourne West,21640,Melbourne,87.87,ok
+20670,Cremorne (Vic.),21640,Melbourne,27.48,ok
+20674,Crib Point,21640,Melbourne,139.65,ok
+20682,Croydon (Vic.),21640,Melbourne,67.45,ok
+20683,Croydon Hills,21640,Melbourne,87.77,ok
+20684,Croydon North,21640,Melbourne,83.2,ok
+20685,Croydon South,21640,Melbourne,87.58,ok
+20702,Dallas,21640,Melbourne,66.7,ok
+20703,Dalmore,21640,Melbourne,,no_eligible_route
+20707,Dandenong,21640,Melbourne,63.9,ok
+20708,Dandenong North,21640,Melbourne,81.4,ok
+20709,Dandenong South,21640,Melbourne,82.55,ok
+20712,Darley,21640,Melbourne,,no_eligible_route
+20716,Darraweit Guim,21640,Melbourne,,no_eligible_route
+20724,Deanside,21640,Melbourne,99.83,ok
+20728,Deepdene (Vic.),21640,Melbourne,52.47,ok
+20729,Deer Park,21640,Melbourne,60.53,ok
+20731,Delahey,21640,Melbourne,72.97,ok
+20743,Derrimut,21640,Melbourne,87.42,ok
+20748,Devon Meadows,21640,Melbourne,,no_eligible_route
+20750,Dewhurst,21640,Melbourne,,no_eligible_route
+20752,Diamond Creek,21640,Melbourne,73.18,ok
+20754,Diggers Rest,21640,Melbourne,81.65,ok
+20758,Dingley Village,21640,Melbourne,68.48,ok
+20762,Dixons Creek,21640,Melbourne,,no_eligible_route
+20766,Docklands,21640,Melbourne,26.88,ok
+20769,Don Valley,21640,Melbourne,,no_eligible_route
+20771,Doncaster,21640,Melbourne,55.83,ok
+20772,Doncaster East,21640,Melbourne,58.32,ok
+20773,Donnybrook (Vic.),21640,Melbourne,96.33,ok
+20774,Donvale,21640,Melbourne,79.05,ok
+20779,Doreen,21640,Melbourne,97.0,ok
+20783,Doveton,21640,Melbourne,75.73,ok
+20788,Dromana,21640,Melbourne,170.77,ok
+20825,Eaglemont,21640,Melbourne,49.2,ok
+20830,East Melbourne,21640,Melbourne,21.47,ok
+20833,East Warburton,21640,Melbourne,,no_eligible_route
+20843,Eden Park,21640,Melbourne,,no_eligible_route
+20848,Edithvale,21640,Melbourne,70.53,ok
+20864,Elsternwick,21640,Melbourne,33.88,ok
+20865,Eltham (Vic.),21640,Melbourne,72.32,ok
+20866,Eltham North,21640,Melbourne,72.63,ok
+20867,Elwood,21640,Melbourne,39.53,ok
+20868,Emerald (Vic.),21640,Melbourne,141.88,ok
+20871,Endeavour Hills,21640,Melbourne,85.5,ok
+20878,Epping (Vic.),21640,Melbourne,86.08,ok
+20885,Essendon,21640,Melbourne,48.28,ok
+20886,Essendon Fields,21640,Melbourne,69.92,ok
+20887,Essendon North,21640,Melbourne,53.02,ok
+20888,Essendon West,21640,Melbourne,48.87,ok
+20889,Eumemmerring,21640,Melbourne,80.18,ok
+20898,Exford,21640,Melbourne,,no_eligible_route
+20899,Eynesbury,21640,Melbourne,167.48,ok
+20901,Fairfield (Vic.),21640,Melbourne,38.3,ok
+20909,Fawkner,21640,Melbourne,63.8,ok
+20916,Fernshaw,21640,Melbourne,,no_eligible_route
+20917,Ferntree Gully,21640,Melbourne,83.17,ok
+20918,Ferny Creek,21640,Melbourne,125.72,ok
+20920,Fingal (Vic.),21640,Melbourne,,no_eligible_route
+20924,Fitzroy (Vic.),21640,Melbourne,24.48,ok
+20925,Fitzroy North,21640,Melbourne,34.08,ok
+20929,Flemington,21640,Melbourne,42.62,ok
+20930,Flinders (Vic.),21640,Melbourne,,no_eligible_route
+20935,Footscray,21640,Melbourne,36.72,ok
+20937,Forest Hill (Vic.),21640,Melbourne,63.22,ok
+20947,Frankston,21640,Melbourne,90.12,ok
+20948,Frankston North,21640,Melbourne,99.97,ok
+20949,Frankston South,21640,Melbourne,116.4,ok
+20950,Fraser Rise,21640,Melbourne,98.08,ok
+20965,Gardenvale,21640,Melbourne,40.93,ok
+20966,Garfield,21640,Melbourne,,no_eligible_route
+20967,Garfield North,21640,Melbourne,,no_eligible_route
+20979,Gembrook,21640,Melbourne,,no_eligible_route
+20995,Gilderoy,21640,Melbourne,,no_eligible_route
+21001,Gisborne,21640,Melbourne,,no_eligible_route
+21002,Gisborne South,21640,Melbourne,,no_eligible_route
+21004,Gladstone Park,21640,Melbourne,79.85,ok
+21005,Gladysdale,21640,Melbourne,,no_eligible_route
+21009,Glen Huntly,21640,Melbourne,44.37,ok
+21010,Glen Iris (Vic.),21640,Melbourne,50.05,ok
+21013,Glen Waverley,21640,Melbourne,58.12,ok
+21047,Glenroy (Vic.),21640,Melbourne,57.08,ok
+21059,Goldie,21640,Melbourne,,no_eligible_route
+21079,Gowanbrae,21640,Melbourne,79.53,ok
+21087,Grangefields,21640,Melbourne,128.68,ok
+21104,Greensborough,21640,Melbourne,57.73,ok
+21105,Greenvale (Vic.),21640,Melbourne,85.23,ok
+21115,Gruyere,21640,Melbourne,,no_eligible_route
+21121,Guys Hill,21640,Melbourne,,no_eligible_route
+21124,Hadfield,21640,Melbourne,62.3,ok
+21125,Hallam,21640,Melbourne,81.42,ok
+21131,Hampton (Vic.),21640,Melbourne,52.33,ok
+21132,Hampton East,21640,Melbourne,60.88,ok
+21133,Hampton Park,21640,Melbourne,79.3,ok
+21139,Harkaway,21640,Melbourne,,no_eligible_route
+21140,Harkness,21640,Melbourne,149.22,ok
+21145,Hastings (Vic.),21640,Melbourne,129.57,ok
+21152,Hawthorn (Vic.),21640,Melbourne,40.5,ok
+21153,Hawthorn East,21640,Melbourne,43.98,ok
+21158,Healesville,21640,Melbourne,149.68,ok
+21159,Heath Hill,21640,Melbourne,,no_eligible_route
+21161,Heathcote Junction,21640,Melbourne,,no_eligible_route
+21163,Heatherton,21640,Melbourne,67.27,ok
+21165,Heathmont,21640,Melbourne,62.62,ok
+21167,Heidelberg,21640,Melbourne,51.53,ok
+21168,Heidelberg Heights,21640,Melbourne,51.53,ok
+21169,Heidelberg West,21640,Melbourne,57.72,ok
+21176,Hesket,21640,Melbourne,,no_eligible_route
+21185,Highett,21640,Melbourne,53.65,ok
+21193,Hillside (Melton - Vic.),21640,Melbourne,79.73,ok
+21195,Hmas Cerberus,21640,Melbourne,172.85,ok
+21196,Hoddles Creek,21640,Melbourne,,no_eligible_route
+21202,Hopetoun Park,21640,Melbourne,,no_eligible_route
+21203,Hoppers Crossing,21640,Melbourne,72.78,ok
+21214,Hughesdale,21640,Melbourne,42.45,ok
+21215,Humevale,21640,Melbourne,128.05,ok
+21218,Huntingdale (Vic.),21640,Melbourne,47.88,ok
+21223,Hurstbridge,21640,Melbourne,73.73,ok
+21238,Iona,21640,Melbourne,,no_eligible_route
+21246,Ivanhoe (Vic.),21640,Melbourne,36.47,ok
+21247,Ivanhoe East,21640,Melbourne,47.85,ok
+21248,Jacana,21640,Melbourne,66.12,ok
+21277,Junction Village,21640,Melbourne,122.5,ok
+21284,Kalkallo,21640,Melbourne,113.15,ok
+21286,Kallista,21640,Melbourne,122.15,ok
+21287,Kalorama,21640,Melbourne,99.42,ok
+21294,Kangaroo Ground,21640,Melbourne,110.97,ok
+21312,Kealba,21640,Melbourne,66.27,ok
+21314,Keilor,21640,Melbourne,90.7,ok
+21315,Keilor Downs,21640,Melbourne,73.58,ok
+21316,Keilor East,21640,Melbourne,63.23,ok
+21317,Keilor Lodge,21640,Melbourne,74.43,ok
+21318,Keilor North,21640,Melbourne,72.75,ok
+21319,Keilor Park,21640,Melbourne,72.15,ok
+21327,Kensington (Vic.),21640,Melbourne,33.4,ok
+21333,Kerrie,21640,Melbourne,,no_eligible_route
+21336,Kew (Vic.),21640,Melbourne,45.62,ok
+21337,Kew East,21640,Melbourne,49.67,ok
+21339,Keysborough,21640,Melbourne,71.25,ok
+21354,Kilsyth,21640,Melbourne,86.98,ok
+21355,Kilsyth South,21640,Melbourne,95.88,ok
+21358,Kinglake,21640,Melbourne,176.98,ok
+21359,Kinglake Central,21640,Melbourne,,no_eligible_route
+21360,Kinglake West,21640,Melbourne,131.02,ok
+21362,Kings Park (Vic.),21640,Melbourne,70.9,ok
+21363,Kingsbury,21640,Melbourne,66.82,ok
+21365,Kingsville,21640,Melbourne,47.9,ok
+21374,Knoxfield,21640,Melbourne,83.07,ok
+21380,Koo Wee Rup,21640,Melbourne,,no_eligible_route
+21381,Koo Wee Rup North,21640,Melbourne,,no_eligible_route
+21393,Kooyong,21640,Melbourne,31.88,ok
+21411,Kurunjang,21640,Melbourne,126.42,ok
+21452,Lalor,21640,Melbourne,58.15,ok
+21456,Lancefield,21640,Melbourne,,no_eligible_route
+21459,Lang Lang,21640,Melbourne,,no_eligible_route
+21460,Lang Lang East,21640,Melbourne,,no_eligible_route
+21467,Langwarrin,21640,Melbourne,106.17,ok
+21468,Langwarrin South,21640,Melbourne,,no_eligible_route
+21473,Launching Place,21640,Melbourne,110.32,ok
+21476,Laverton (Vic.),21640,Melbourne,53.55,ok
+21477,Laverton North,21640,Melbourne,70.25,ok
+21504,Lilydale (Vic.),21640,Melbourne,89.97,ok
+21533,Long Forest,21640,Melbourne,,no_eligible_route
+21547,Lower Plenty,21640,Melbourne,83.0,ok
+21554,Lynbrook,21640,Melbourne,73.67,ok
+21555,Lyndhurst (Vic.),21640,Melbourne,116.25,ok
+21558,Lysterfield,21640,Melbourne,139.73,ok
+21559,Lysterfield South,21640,Melbourne,129.95,ok
+21561,Macclesfield (Vic.),21640,Melbourne,,no_eligible_route
+21562,Macedon,21640,Melbourne,,no_eligible_route
+21564,Macleod (Vic.),21640,Melbourne,50.82,ok
+21569,Maddingley,21640,Melbourne,,no_eligible_route
+21575,Maidstone,21640,Melbourne,53.08,ok
+21578,Main Ridge,21640,Melbourne,,no_eligible_route
+21586,Malvern (Vic.),21640,Melbourne,30.82,ok
+21587,Malvern East,21640,Melbourne,44.48,ok
+21588,Mambourin,21640,Melbourne,,no_eligible_route
+21597,Manor Lakes,21640,Melbourne,104.02,ok
+21604,Maribyrnong,21640,Melbourne,54.83,ok
+21619,Maryknoll,21640,Melbourne,,no_eligible_route
+21625,McCrae,21640,Melbourne,154.18,ok
+21629,McKinnon,21640,Melbourne,42.95,ok
+21635,Meadow Heights,21640,Melbourne,72.57,ok
+21640,Melbourne,21640,Melbourne,0.0,same_centroid
+21641,Melbourne Airport,21640,Melbourne,,no_eligible_route
+21642,Melton (Vic.),21640,Melbourne,134.6,ok
+21643,Melton South,21640,Melbourne,133.97,ok
+21644,Melton West,21640,Melbourne,122.6,ok
+21648,Mentone,21640,Melbourne,54.63,ok
+21649,Menzies Creek,21640,Melbourne,113.5,ok
+21659,Mernda,21640,Melbourne,87.63,ok
+21662,Merricks,21640,Melbourne,,no_eligible_route
+21663,Merricks Beach,21640,Melbourne,,no_eligible_route
+21664,Merricks North,21640,Melbourne,,no_eligible_route
+21668,Merrimu,21640,Melbourne,,no_eligible_route
+21675,Mickleham,21640,Melbourne,106.13,ok
+21677,Middle Park (Vic.),21640,Melbourne,31.35,ok
+21683,Mill Park,21640,Melbourne,75.23,ok
+21685,Millgrove,21640,Melbourne,,no_eligible_route
+21706,Mitcham (Vic.),21640,Melbourne,60.35,ok
+21727,Monbulk,21640,Melbourne,129.6,ok
+21728,Monegeetta,21640,Melbourne,,no_eligible_route
+21731,Monomeith,21640,Melbourne,,no_eligible_route
+21732,Mont Albert,21640,Melbourne,49.52,ok
+21733,Mont Albert North,21640,Melbourne,59.32,ok
+21735,Montmorency,21640,Melbourne,58.38,ok
+21736,Montrose (Vic.),21640,Melbourne,91.72,ok
+21742,Moonee Ponds,21640,Melbourne,35.47,ok
+21746,Moorabbin,21640,Melbourne,62.62,ok
+21747,Moorabbin Airport,21640,Melbourne,77.62,ok
+21754,Moorooduc,21640,Melbourne,137.77,ok
+21755,Mooroolbark,21640,Melbourne,86.07,ok
+21760,Mordialloc,21640,Melbourne,69.93,ok
+21763,Mornington (Vic.),21640,Melbourne,122.1,ok
+21779,Mount Burnett,21640,Melbourne,,no_eligible_route
+21786,Mount Cottrell,21640,Melbourne,,no_eligible_route
+21787,Mount Dandenong,21640,Melbourne,102.42,ok
+21793,Mount Eliza,21640,Melbourne,102.17,ok
+21795,Mount Evelyn,21640,Melbourne,102.58,ok
+21801,Mount Macedon,21640,Melbourne,,no_eligible_route
+21803,Mount Martha,21640,Melbourne,122.7,ok
+21814,Mount Toolebewong,21640,Melbourne,,no_eligible_route
+21816,Mount Waverley,21640,Melbourne,49.55,ok
+21827,Mulgrave (Vic.),21640,Melbourne,71.43,ok
+21849,Murrumbeena,21640,Melbourne,42.57,ok
+21872,Nangana,21640,Melbourne,,no_eligible_route
+21878,Nar Nar Goon,21640,Melbourne,,no_eligible_route
+21879,Nar Nar Goon North,21640,Melbourne,,no_eligible_route
+21893,Narre Warren,21640,Melbourne,80.4,ok
+21894,Narre Warren East,21640,Melbourne,,no_eligible_route
+21895,Narre Warren North,21640,Melbourne,91.67,ok
+21896,Narre Warren South,21640,Melbourne,83.22,ok
+21921,New Gisborne,21640,Melbourne,,no_eligible_route
+21934,Newport (Vic.),21640,Melbourne,38.4,ok
+21942,Niddrie,21640,Melbourne,63.63,ok
+21952,Noble Park,21640,Melbourne,54.67,ok
+21953,Noble Park North,21640,Melbourne,71.88,ok
+21966,North Melbourne,21640,Melbourne,33.85,ok
+21969,North Warrandyte,21640,Melbourne,85.95,ok
+21971,Northcote,21640,Melbourne,40.35,ok
+21974,Notting Hill,21640,Melbourne,56.9,ok
+21985,Nunawading,21640,Melbourne,52.83,ok
+21991,Nutfield,21640,Melbourne,,no_eligible_route
+21998,Oak Park,21640,Melbourne,53.78,ok
+21999,Oaklands Junction,21640,Melbourne,,no_eligible_route
+22000,Oakleigh,21640,Melbourne,41.63,ok
+22001,Oakleigh East,21640,Melbourne,51.45,ok
+22002,Oakleigh South,21640,Melbourne,52.1,ok
+22006,Officer,21640,Melbourne,95.95,ok
+22007,Officer South,21640,Melbourne,128.52,ok
+22009,Olinda (Vic.),21640,Melbourne,126.03,ok
+22016,Ormond,21640,Melbourne,43.38,ok
+22027,Pakenham,21640,Melbourne,91.87,ok
+22028,Pakenham South,21640,Melbourne,,no_eligible_route
+22029,Pakenham Upper,21640,Melbourne,,no_eligible_route
+22032,Panton Hill,21640,Melbourne,,no_eligible_route
+22036,Park Orchards,21640,Melbourne,70.32,ok
+22037,Parkdale,21640,Melbourne,59.72,ok
+22038,Parkville (Vic.),21640,Melbourne,36.68,ok
+22041,Pascoe Vale,21640,Melbourne,58.15,ok
+22042,Pascoe Vale South,21640,Melbourne,53.88,ok
+22047,Patterson Lakes,21640,Melbourne,89.03,ok
+22050,Pearcedale,21640,Melbourne,136.1,ok
+22058,Pentland Hills,21640,Melbourne,,no_eligible_route
+22064,Pheasant Creek (Vic.),21640,Melbourne,146.67,ok
+22084,Plenty (Vic.),21640,Melbourne,83.32,ok
+22085,Plumpton (Vic.),21640,Melbourne,,no_eligible_route
+22086,Point Cook,21640,Melbourne,71.78,ok
+22087,Point Leo,21640,Melbourne,,no_eligible_route
+22107,Port Melbourne,21640,Melbourne,35.65,ok
+22113,Portsea,21640,Melbourne,192.5,ok
+22115,Powelltown,21640,Melbourne,,no_eligible_route
+22118,Prahran,21640,Melbourne,25.17,ok
+22121,Preston (Vic.),21640,Melbourne,51.75,ok
+22122,Princes Hill,21640,Melbourne,31.83,ok
+22132,Quandong,21640,Melbourne,,no_eligible_route
+22141,Ravenhall,21640,Melbourne,103.63,ok
+22148,Red Hill (Vic.),21640,Melbourne,,no_eligible_route
+22149,Red Hill South,21640,Melbourne,,no_eligible_route
+22160,Research,21640,Melbourne,79.82,ok
+22161,Reservoir (Vic.),21640,Melbourne,54.97,ok
+22170,Richmond (Vic.),21640,Melbourne,29.42,ok
+22172,Riddells Creek,21640,Melbourne,,no_eligible_route
+22174,Ringwood (Vic.),21640,Melbourne,66.97,ok
+22175,Ringwood East,21640,Melbourne,67.53,ok
+22176,Ringwood North,21640,Melbourne,76.9,ok
+22179,Ripponlea,21640,Melbourne,30.37,ok
+22185,Rochford,21640,Melbourne,,no_eligible_route
+22186,Rockbank,21640,Melbourne,107.87,ok
+22193,Romsey,21640,Melbourne,,no_eligible_route
+22194,Rosanna,21640,Melbourne,45.28,ok
+22198,Rosebud,21640,Melbourne,171.5,ok
+22207,Rowville,21640,Melbourne,81.75,ok
+22208,Roxburgh Park,21640,Melbourne,72.4,ok
+22220,Rye,21640,Melbourne,183.7,ok
+22221,Rythdale,21640,Melbourne,,no_eligible_route
+22222,Safety Beach (Vic.),21640,Melbourne,138.67,ok
+22232,Sandhurst,21640,Melbourne,118.57,ok
+22234,Sandringham (Vic.),21640,Melbourne,54.3,ok
+22239,Sassafras (Vic.),21640,Melbourne,108.48,ok
+22242,Scoresby,21640,Melbourne,77.72,ok
+22247,Seabrook,21640,Melbourne,66.37,ok
+22249,Seaford (Vic.),21640,Melbourne,85.25,ok
+22250,Seaholme,21640,Melbourne,51.63,ok
+22256,Seddon (Vic.),21640,Melbourne,35.65,ok
+22258,Selby,21640,Melbourne,113.17,ok
+22263,Seville,21640,Melbourne,121.48,ok
+22264,Seville East,21640,Melbourne,108.37,ok
+22278,Sherbrooke,21640,Melbourne,112.22,ok
+22279,Shoreham,21640,Melbourne,,no_eligible_route
+22281,Silvan,21640,Melbourne,120.65,ok
+22291,Skye (Vic.),21640,Melbourne,92.42,ok
+22295,Smiths Gully,21640,Melbourne,,no_eligible_route
+22303,Somers,21640,Melbourne,160.98,ok
+22304,Somerton (Vic.),21640,Melbourne,80.85,ok
+22305,Somerville (Vic.),21640,Melbourne,134.67,ok
+22306,Sorrento (Vic.),21640,Melbourne,172.48,ok
+22309,South Kingsville,21640,Melbourne,54.65,ok
+22310,South Melbourne,21640,Melbourne,19.12,ok
+22311,South Morang,21640,Melbourne,78.85,ok
+22313,South Wharf,21640,Melbourne,28.87,ok
+22314,South Yarra,21640,Melbourne,18.12,ok
+22315,Southbank,21640,Melbourne,14.68,walk_only
+22319,Spotswood,21640,Melbourne,35.8,ok
+22325,Springfield (Macedon Ranges - Vic.),21640,Melbourne,,no_eligible_route
+22328,Springvale (Vic.),21640,Melbourne,55.63,ok
+22329,Springvale South,21640,Melbourne,55.37,ok
+22330,St Albans (Vic.),21640,Melbourne,56.18,ok
+22332,St Andrews (Vic.),21640,Melbourne,,no_eligible_route
+22333,St Andrews Beach,21640,Melbourne,,no_eligible_route
+22339,St Helena,21640,Melbourne,67.57,ok
+22343,St Kilda (Vic.),21640,Melbourne,26.77,ok
+22344,St Kilda East,21640,Melbourne,33.5,ok
+22345,St Kilda West,21640,Melbourne,28.45,ok
+22355,Steels Creek,21640,Melbourne,,no_eligible_route
+22375,Strathewen,21640,Melbourne,,no_eligible_route
+22380,Strathmore (Vic.),21640,Melbourne,55.25,ok
+22381,Strathmore Heights,21640,Melbourne,66.03,ok
+22382,Strathtulloh,21640,Melbourne,187.85,ok
+22391,Sunbury,21640,Melbourne,116.82,ok
+22395,Sunshine (Vic.),21640,Melbourne,44.97,ok
+22396,Sunshine North,21640,Melbourne,60.03,ok
+22397,Sunshine West,21640,Melbourne,65.32,ok
+22399,Surrey Hills,21640,Melbourne,49.92,ok
+22414,Sydenham (Vic.),21640,Melbourne,70.58,ok
+22451,Tarneit,21640,Melbourne,90.85,ok
+22457,Tarrawarra,21640,Melbourne,125.28,ok
+22473,Taylors Hill,21640,Melbourne,75.42,ok
+22474,Taylors Lakes,21640,Melbourne,65.0,ok
+22476,Tecoma,21640,Melbourne,82.43,ok
+22483,Templestowe,21640,Melbourne,63.72,ok
+22484,Templestowe Lower,21640,Melbourne,58.68,ok
+22496,The Basin (Vic.),21640,Melbourne,93.62,ok
+22501,The Patch,21640,Melbourne,120.17,ok
+22504,Thomastown,21640,Melbourne,63.45,ok
+22508,Thornbury,21640,Melbourne,46.23,ok
+22509,Thornhill Park,21640,Melbourne,,no_eligible_route
+22514,Three Bridges,21640,Melbourne,,no_eligible_route
+22531,Tonimbuk,21640,Melbourne,,no_eligible_route
+22536,Toolangi,21640,Melbourne,,no_eligible_route
+22537,Toolern Vale,21640,Melbourne,,no_eligible_route
+22546,Tooradin,21640,Melbourne,,no_eligible_route
+22547,Toorak,21640,Melbourne,29.22,ok
+22550,Tootgarook,21640,Melbourne,167.12,ok
+22556,Tottenham (Vic.),21640,Melbourne,68.5,ok
+22572,Travancore,21640,Melbourne,40.22,ok
+22576,Tremont,21640,Melbourne,100.03,ok
+22582,Truganina,21640,Melbourne,141.0,ok
+22584,Tuerong,21640,Melbourne,,no_eligible_route
+22586,Tullamarine,21640,Melbourne,78.2,ok
+22594,Tyabb,21640,Melbourne,126.13,ok
+22598,Tynong,21640,Melbourne,,no_eligible_route
+22599,Tynong North,21640,Melbourne,,no_eligible_route
+22614,Upper Ferntree Gully,21640,Melbourne,79.58,ok
+22617,Upper Plenty,21640,Melbourne,,no_eligible_route
+22620,Upwey,21640,Melbourne,82.3,ok
+22627,Vermont,21640,Melbourne,72.12,ok
+22628,Vermont South,21640,Melbourne,75.8,ok
+22629,Vervale,21640,Melbourne,,no_eligible_route
+22633,Viewbank,21640,Melbourne,52.28,ok
+22661,Wallan,21640,Melbourne,,no_eligible_route
+22672,Wandin East,21640,Melbourne,,no_eligible_route
+22673,Wandin North,21640,Melbourne,94.45,ok
+22676,Wandong,21640,Melbourne,,no_eligible_route
+22685,Wantirna,21640,Melbourne,80.98,ok
+22686,Wantirna South,21640,Melbourne,77.07,ok
+22689,Warburton (Vic.),21640,Melbourne,,no_eligible_route
+22695,Warneet,21640,Melbourne,,no_eligible_route
+22702,Warrandyte,21640,Melbourne,79.5,ok
+22703,Warrandyte South,21640,Melbourne,104.47,ok
+22704,Warranwood,21640,Melbourne,82.13,ok
+22717,Waterford Park,21640,Melbourne,,no_eligible_route
+22720,Waterways,21640,Melbourne,81.8,ok
+22721,Watsonia,21640,Melbourne,45.73,ok
+22722,Watsonia North,21640,Melbourne,65.18,ok
+22723,Watsons Creek (Vic.),21640,Melbourne,,no_eligible_route
+22727,Wattle Glen,21640,Melbourne,77.48,ok
+22740,Weir Views,21640,Melbourne,157.05,ok
+22750,Werribee,21640,Melbourne,66.58,ok
+22751,Werribee South,21640,Melbourne,104.6,ok
+22753,Wesburn,21640,Melbourne,126.42,ok
+22756,West Footscray,21640,Melbourne,47.43,ok
+22757,West Melbourne,21640,Melbourne,42.37,ok
+22761,Westmeadows,21640,Melbourne,65.82,ok
+22766,Wheelers Hill,21640,Melbourne,63.87,ok
+22775,Whittlesea,21640,Melbourne,,no_eligible_route
+22784,Wildwood,21640,Melbourne,,no_eligible_route
+22791,Williams Landing,21640,Melbourne,67.8,ok
+22792,Williamstown (Vic.),21640,Melbourne,44.62,ok
+22793,Williamstown North,21640,Melbourne,57.1,ok
+22805,Windsor (Vic.),21640,Melbourne,23.13,ok
+22820,Wollert,21640,Melbourne,93.67,ok
+22825,Wonga Park,21640,Melbourne,92.17,ok
+22843,Woodstock (Vic.),21640,Melbourne,,no_eligible_route
+22857,Woori Yallock,21640,Melbourne,105.57,ok
+22883,Wyndham Vale,21640,Melbourne,92.4,ok
+22892,Yallambie,21640,Melbourne,64.02,ok
+22898,Yan Yean,21640,Melbourne,111.4,ok
+22906,Yannathan,21640,Melbourne,,no_eligible_route
+22910,Yarra Glen,21640,Melbourne,122.58,ok
+22911,Yarra Junction,21640,Melbourne,130.68,ok
+22916,Yarrambat,21640,Melbourne,82.88,ok
+22917,Yarraville,21640,Melbourne,41.55,ok
+22925,Yellingbo,21640,Melbourne,,no_eligible_route
+22930,Yering,21640,Melbourne,,no_eligible_route
+22941,Yuroke,21640,Melbourne,128.77,ok

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21746,Moorabbin,79.63,ok
+20003,Aberfeldie,21746,Moorabbin,104.58,ok
+20011,Aintree,21746,Moorabbin,126.47,ok
+20015,Airport West,21746,Moorabbin,115.28,ok
+20017,Albanvale,21746,Moorabbin,105.38,ok
+20018,Albert Park (Vic.),21746,Moorabbin,80.98,ok
+20021,Albion (Vic.),21746,Moorabbin,87.33,ok
+20034,Alphington,21746,Moorabbin,83.35,ok
+20035,Altona (Vic.),21746,Moorabbin,109.88,ok
+20036,Altona Meadows,21746,Moorabbin,113.03,ok
+20037,Altona North,21746,Moorabbin,117.83,ok
+20062,Ardeer,21746,Moorabbin,106.48,ok
+20066,Armadale (Vic.),21746,Moorabbin,47.52,ok
+20071,Arthurs Creek,21746,Moorabbin,,no_eligible_route
+20072,Arthurs Seat,21746,Moorabbin,155.38,ok
+20075,Ascot Vale,21746,Moorabbin,90.55,ok
+20077,Ashburton,21746,Moorabbin,64.43,ok
+20078,Ashwood,21746,Moorabbin,52.2,ok
+20079,Aspendale,21746,Moorabbin,49.4,ok
+20080,Aspendale Gardens,21746,Moorabbin,68.27,ok
+20082,Attwood,21746,Moorabbin,131.0,ok
+20089,Avondale Heights,21746,Moorabbin,108.87,ok
+20091,Avonsleigh,21746,Moorabbin,,no_eligible_route
+20095,Bacchus Marsh,21746,Moorabbin,,no_eligible_route
+20097,Badger Creek,21746,Moorabbin,,no_eligible_route
+20105,Balaclava (Vic.),21746,Moorabbin,56.12,ok
+20120,Balnarring,21746,Moorabbin,170.02,ok
+20121,Balnarring Beach,21746,Moorabbin,166.55,ok
+20123,Balwyn,21746,Moorabbin,91.4,ok
+20124,Balwyn North,21746,Moorabbin,97.23,ok
+20131,Bangholme,21746,Moorabbin,107.72,ok
+20169,Baxter,21746,Moorabbin,97.0,ok
+20171,Bayles,21746,Moorabbin,,no_eligible_route
+20173,Bayswater (Vic.),21746,Moorabbin,110.83,ok
+20174,Bayswater North,21746,Moorabbin,122.0,ok
+20175,Beaconsfield (Vic.),21746,Moorabbin,104.4,ok
+20176,Beaconsfield Upper,21746,Moorabbin,,no_eligible_route
+20182,Beaumaris (Vic.),21746,Moorabbin,34.43,ok
+20187,Beenak,21746,Moorabbin,,no_eligible_route
+20188,Belgrave,21746,Moorabbin,110.47,ok
+20189,Belgrave Heights,21746,Moorabbin,,no_eligible_route
+20190,Belgrave South,21746,Moorabbin,140.02,ok
+20198,Bellfield (Banyule - Vic.),21746,Moorabbin,102.55,ok
+20207,Bend Of Islands,21746,Moorabbin,,no_eligible_route
+20212,Benloch,21746,Moorabbin,,no_eligible_route
+20214,Bentleigh,21746,Moorabbin,27.17,ok
+20215,Bentleigh East,21746,Moorabbin,21.18,ok
+20224,Berwick,21746,Moorabbin,77.45,ok
+20233,Beveridge,21746,Moorabbin,161.55,ok
+20237,Big Pats Creek,21746,Moorabbin,,no_eligible_route
+20248,Bittern,21746,Moorabbin,120.73,ok
+20251,Black Rock (Vic.),21746,Moorabbin,41.08,ok
+20252,Blackburn,21746,Moorabbin,80.9,ok
+20253,Blackburn North,21746,Moorabbin,91.43,ok
+20254,Blackburn South,21746,Moorabbin,79.37,ok
+20257,Blairgowrie,21746,Moorabbin,155.42,ok
+20260,Blind Bight,21746,Moorabbin,,no_eligible_route
+20272,Bolinda,21746,Moorabbin,,no_eligible_route
+20278,Bonbeach,21746,Moorabbin,54.4,ok
+20280,Boneo,21746,Moorabbin,,no_eligible_route
+20282,Bonnie Brook,21746,Moorabbin,159.02,ok
+20304,Boronia,21746,Moorabbin,109.28,ok
+20307,Botanic Ridge,21746,Moorabbin,119.95,ok
+20314,Box Hill (Vic.),21746,Moorabbin,60.05,ok
+20315,Box Hill North,21746,Moorabbin,68.03,ok
+20316,Box Hill South,21746,Moorabbin,64.92,ok
+20320,Braeside,21746,Moorabbin,71.02,ok
+20324,Braybrook,21746,Moorabbin,91.57,ok
+20331,Briar Hill,21746,Moorabbin,122.93,ok
+20337,Brighton (Vic.),21746,Moorabbin,40.33,ok
+20338,Brighton East,21746,Moorabbin,35.4,ok
+20346,Broadmeadows (Vic.),21746,Moorabbin,117.63,ok
+20351,Brookfield (Vic.),21746,Moorabbin,,no_eligible_route
+20352,Brooklyn (Vic.),21746,Moorabbin,104.35,ok
+20361,Brunswick (Vic.),21746,Moorabbin,81.08,ok
+20362,Brunswick East,21746,Moorabbin,89.37,ok
+20363,Brunswick West,21746,Moorabbin,87.92,ok
+20381,Bulla (Vic.),21746,Moorabbin,160.7,ok
+20386,Bulleen,21746,Moorabbin,91.18,ok
+20387,Bullengarook,21746,Moorabbin,,no_eligible_route
+20399,Bundoora (Vic.),21746,Moorabbin,111.08,ok
+20411,Bunyip,21746,Moorabbin,,no_eligible_route
+20412,Bunyip North,21746,Moorabbin,,no_eligible_route
+20418,Burnley,21746,Moorabbin,76.35,ok
+20419,Burnside (Vic.),21746,Moorabbin,117.82,ok
+20420,Burnside Heights,21746,Moorabbin,119.37,ok
+20426,Burwood (Vic.),21746,Moorabbin,57.53,ok
+20427,Burwood East,21746,Moorabbin,67.88,ok
+20435,Bylands,21746,Moorabbin,,no_eligible_route
+20441,Cairnlea,21746,Moorabbin,94.55,ok
+20442,Calder Park,21746,Moorabbin,122.57,ok
+20443,Caldermeade,21746,Moorabbin,,no_eligible_route
+20453,Camberwell (Vic.),21746,Moorabbin,75.7,ok
+20455,Campbellfield,21746,Moorabbin,120.28,ok
+20466,Cannons Creek,21746,Moorabbin,,no_eligible_route
+20468,Canterbury (Vic.),21746,Moorabbin,81.55,ok
+20474,Cape Schanck,21746,Moorabbin,,no_eligible_route
+20476,Capel Sound,21746,Moorabbin,139.77,ok
+20487,Cardinia,21746,Moorabbin,,no_eligible_route
+20495,Carlton (Vic.),21746,Moorabbin,69.55,ok
+20496,Carlton North,21746,Moorabbin,86.13,ok
+20498,Carnegie,21746,Moorabbin,38.22,ok
+20500,Caroline Springs,21746,Moorabbin,114.25,ok
+20507,Carrum,21746,Moorabbin,54.22,ok
+20508,Carrum Downs,21746,Moorabbin,79.32,ok
+20512,Castella,21746,Moorabbin,,no_eligible_route
+20517,Catani,21746,Moorabbin,,no_eligible_route
+20521,Caulfield,21746,Moorabbin,54.22,ok
+20522,Caulfield East,21746,Moorabbin,43.55,ok
+20523,Caulfield North,21746,Moorabbin,52.38,ok
+20524,Caulfield South,21746,Moorabbin,52.85,ok
+20528,Chadstone,21746,Moorabbin,35.67,ok
+20537,Chelsea,21746,Moorabbin,51.47,ok
+20538,Chelsea Heights,21746,Moorabbin,72.87,ok
+20539,Cheltenham (Vic.),21746,Moorabbin,18.33,ok
+20541,Cherokee,21746,Moorabbin,,no_eligible_route
+20555,Chintin,21746,Moorabbin,,no_eligible_route
+20556,Chirnside Park,21746,Moorabbin,129.2,ok
+20559,Christmas Hills (Vic.),21746,Moorabbin,,no_eligible_route
+20560,Chum Creek,21746,Moorabbin,,no_eligible_route
+20566,Clarinda,21746,Moorabbin,27.12,ok
+20567,Clarkefield,21746,Moorabbin,,no_eligible_route
+20569,Clayton,21746,Moorabbin,47.72,ok
+20570,Clayton South,21746,Moorabbin,36.25,ok
+20572,Clematis,21746,Moorabbin,,no_eligible_route
+20574,Clifton Hill,21746,Moorabbin,73.43,ok
+20576,Clonbinane,21746,Moorabbin,,no_eligible_route
+20581,Clyde (Vic.),21746,Moorabbin,,no_eligible_route
+20582,Clyde North,21746,Moorabbin,98.92,ok
+20587,Cobaw,21746,Moorabbin,,no_eligible_route
+20590,Cobblebank,21746,Moorabbin,173.17,ok
+20596,Coburg,21746,Moorabbin,90.82,ok
+20597,Coburg North,21746,Moorabbin,102.83,ok
+20600,Cockatoo (Vic.),21746,Moorabbin,,no_eligible_route
+20601,Cocoroc,21746,Moorabbin,,no_eligible_route
+20605,Coimadai,21746,Moorabbin,,no_eligible_route
+20613,Coldstream (Vic.),21746,Moorabbin,,no_eligible_route
+20616,Collingwood (Vic.),21746,Moorabbin,80.28,ok
+20624,Coolaroo,21746,Moorabbin,115.23,ok
+20633,Cora Lynn,21746,Moorabbin,,no_eligible_route
+20654,Cottles Bridge,21746,Moorabbin,,no_eligible_route
+20661,Craigieburn,21746,Moorabbin,136.07,ok
+20662,Cranbourne,21746,Moorabbin,84.95,ok
+20663,Cranbourne East,21746,Moorabbin,94.83,ok
+20664,Cranbourne North,21746,Moorabbin,88.12,ok
+20665,Cranbourne South,21746,Moorabbin,123.3,ok
+20666,Cranbourne West,21746,Moorabbin,87.02,ok
+20670,Cremorne (Vic.),21746,Moorabbin,65.12,ok
+20674,Crib Point,21746,Moorabbin,129.7,ok
+20682,Croydon (Vic.),21746,Moorabbin,101.93,ok
+20683,Croydon Hills,21746,Moorabbin,122.25,ok
+20684,Croydon North,21746,Moorabbin,122.13,ok
+20685,Croydon South,21746,Moorabbin,120.85,ok
+20702,Dallas,21746,Moorabbin,116.93,ok
+20703,Dalmore,21746,Moorabbin,,no_eligible_route
+20707,Dandenong,21746,Moorabbin,63.08,ok
+20708,Dandenong North,21746,Moorabbin,84.18,ok
+20709,Dandenong South,21746,Moorabbin,83.42,ok
+20712,Darley,21746,Moorabbin,,no_eligible_route
+20716,Darraweit Guim,21746,Moorabbin,,no_eligible_route
+20724,Deanside,21746,Moorabbin,142.62,ok
+20728,Deepdene (Vic.),21746,Moorabbin,83.9,ok
+20729,Deer Park,21746,Moorabbin,103.32,ok
+20731,Delahey,21746,Moorabbin,111.45,ok
+20743,Derrimut,21746,Moorabbin,119.65,ok
+20748,Devon Meadows,21746,Moorabbin,,no_eligible_route
+20750,Dewhurst,21746,Moorabbin,,no_eligible_route
+20752,Diamond Creek,21746,Moorabbin,125.67,ok
+20754,Diggers Rest,21746,Moorabbin,120.43,ok
+20758,Dingley Village,21746,Moorabbin,47.37,ok
+20762,Dixons Creek,21746,Moorabbin,,no_eligible_route
+20766,Docklands,21746,Moorabbin,73.82,ok
+20769,Don Valley,21746,Moorabbin,,no_eligible_route
+20771,Doncaster,21746,Moorabbin,72.83,ok
+20772,Doncaster East,21746,Moorabbin,103.88,ok
+20773,Donnybrook (Vic.),21746,Moorabbin,160.08,ok
+20774,Donvale,21746,Moorabbin,107.53,ok
+20779,Doreen,21746,Moorabbin,149.73,ok
+20783,Doveton,21746,Moorabbin,77.88,ok
+20788,Dromana,21746,Moorabbin,153.38,ok
+20825,Eaglemont,21746,Moorabbin,102.13,ok
+20830,East Melbourne,21746,Moorabbin,69.95,ok
+20833,East Warburton,21746,Moorabbin,,no_eligible_route
+20843,Eden Park,21746,Moorabbin,,no_eligible_route
+20848,Edithvale,21746,Moorabbin,51.6,ok
+20864,Elsternwick,21746,Moorabbin,57.72,ok
+20865,Eltham (Vic.),21746,Moorabbin,122.9,ok
+20866,Eltham North,21746,Moorabbin,121.78,ok
+20867,Elwood,21746,Moorabbin,61.77,ok
+20868,Emerald (Vic.),21746,Moorabbin,,no_eligible_route
+20871,Endeavour Hills,21746,Moorabbin,85.37,ok
+20878,Epping (Vic.),21746,Moorabbin,145.65,ok
+20885,Essendon,21746,Moorabbin,97.28,ok
+20886,Essendon Fields,21746,Moorabbin,118.85,ok
+20887,Essendon North,21746,Moorabbin,99.33,ok
+20888,Essendon West,21746,Moorabbin,100.8,ok
+20889,Eumemmerring,21746,Moorabbin,82.42,ok
+20898,Exford,21746,Moorabbin,,no_eligible_route
+20899,Eynesbury,21746,Moorabbin,,no_eligible_route
+20901,Fairfield (Vic.),21746,Moorabbin,90.12,ok
+20909,Fawkner,21746,Moorabbin,112.73,ok
+20916,Fernshaw,21746,Moorabbin,,no_eligible_route
+20917,Ferntree Gully,21746,Moorabbin,86.12,ok
+20918,Ferny Creek,21746,Moorabbin,,no_eligible_route
+20920,Fingal (Vic.),21746,Moorabbin,,no_eligible_route
+20924,Fitzroy (Vic.),21746,Moorabbin,75.42,ok
+20925,Fitzroy North,21746,Moorabbin,83.02,ok
+20929,Flemington,21746,Moorabbin,89.15,ok
+20930,Flinders (Vic.),21746,Moorabbin,,no_eligible_route
+20935,Footscray,21746,Moorabbin,74.75,ok
+20937,Forest Hill (Vic.),21746,Moorabbin,76.23,ok
+20947,Frankston,21746,Moorabbin,72.18,ok
+20948,Frankston North,21746,Moorabbin,87.03,ok
+20949,Frankston South,21746,Moorabbin,104.17,ok
+20950,Fraser Rise,21746,Moorabbin,133.32,ok
+20965,Gardenvale,21746,Moorabbin,45.3,ok
+20966,Garfield,21746,Moorabbin,,no_eligible_route
+20967,Garfield North,21746,Moorabbin,,no_eligible_route
+20979,Gembrook,21746,Moorabbin,,no_eligible_route
+20995,Gilderoy,21746,Moorabbin,,no_eligible_route
+21001,Gisborne,21746,Moorabbin,,no_eligible_route
+21002,Gisborne South,21746,Moorabbin,,no_eligible_route
+21004,Gladstone Park,21746,Moorabbin,131.83,ok
+21005,Gladysdale,21746,Moorabbin,,no_eligible_route
+21009,Glen Huntly,21746,Moorabbin,44.17,ok
+21010,Glen Iris (Vic.),21746,Moorabbin,72.73,ok
+21013,Glen Waverley,21746,Moorabbin,63.83,ok
+21047,Glenroy (Vic.),21746,Moorabbin,111.02,ok
+21059,Goldie,21746,Moorabbin,,no_eligible_route
+21079,Gowanbrae,21746,Moorabbin,120.28,ok
+21087,Grangefields,21746,Moorabbin,168.47,ok
+21104,Greensborough,21746,Moorabbin,110.22,ok
+21105,Greenvale (Vic.),21746,Moorabbin,140.72,ok
+21115,Gruyere,21746,Moorabbin,,no_eligible_route
+21121,Guys Hill,21746,Moorabbin,,no_eligible_route
+21124,Hadfield,21746,Moorabbin,110.32,ok
+21125,Hallam,21746,Moorabbin,82.57,ok
+21131,Hampton (Vic.),21746,Moorabbin,40.27,ok
+21132,Hampton East,21746,Moorabbin,33.72,ok
+21133,Hampton Park,21746,Moorabbin,82.98,ok
+21139,Harkaway,21746,Moorabbin,,no_eligible_route
+21140,Harkness,21746,Moorabbin,,no_eligible_route
+21145,Hastings (Vic.),21746,Moorabbin,115.15,ok
+21152,Hawthorn (Vic.),21746,Moorabbin,71.03,ok
+21153,Hawthorn East,21746,Moorabbin,76.3,ok
+21158,Healesville,21746,Moorabbin,190.95,ok
+21159,Heath Hill,21746,Moorabbin,,no_eligible_route
+21161,Heathcote Junction,21746,Moorabbin,,no_eligible_route
+21163,Heatherton,21746,Moorabbin,32.25,ok
+21165,Heathmont,21746,Moorabbin,101.1,ok
+21167,Heidelberg,21746,Moorabbin,93.75,ok
+21168,Heidelberg Heights,21746,Moorabbin,104.47,ok
+21169,Heidelberg West,21746,Moorabbin,101.02,ok
+21176,Hesket,21746,Moorabbin,,no_eligible_route
+21185,Highett,21746,Moorabbin,24.4,ok
+21193,Hillside (Melton - Vic.),21746,Moorabbin,117.87,ok
+21195,Hmas Cerberus,21746,Moorabbin,162.9,ok
+21196,Hoddles Creek,21746,Moorabbin,,no_eligible_route
+21202,Hopetoun Park,21746,Moorabbin,,no_eligible_route
+21203,Hoppers Crossing,21746,Moorabbin,122.85,ok
+21214,Hughesdale,21746,Moorabbin,31.18,ok
+21215,Humevale,21746,Moorabbin,,no_eligible_route
+21218,Huntingdale (Vic.),21746,Moorabbin,47.67,ok
+21223,Hurstbridge,21746,Moorabbin,126.22,ok
+21238,Iona,21746,Moorabbin,,no_eligible_route
+21246,Ivanhoe (Vic.),21746,Moorabbin,87.95,ok
+21247,Ivanhoe East,21746,Moorabbin,100.37,ok
+21248,Jacana,21746,Moorabbin,117.05,ok
+21277,Junction Village,21746,Moorabbin,133.65,ok
+21284,Kalkallo,21746,Moorabbin,153.08,ok
+21286,Kallista,21746,Moorabbin,145.08,ok
+21287,Kalorama,21746,Moorabbin,130.35,ok
+21294,Kangaroo Ground,21746,Moorabbin,160.45,ok
+21312,Kealba,21746,Moorabbin,108.58,ok
+21314,Keilor,21746,Moorabbin,132.48,ok
+21315,Keilor Downs,21746,Moorabbin,112.82,ok
+21316,Keilor East,21746,Moorabbin,105.5,ok
+21317,Keilor Lodge,21746,Moorabbin,109.75,ok
+21318,Keilor North,21746,Moorabbin,115.82,ok
+21319,Keilor Park,21746,Moorabbin,123.08,ok
+21327,Kensington (Vic.),21746,Moorabbin,82.0,ok
+21333,Kerrie,21746,Moorabbin,,no_eligible_route
+21336,Kew (Vic.),21746,Moorabbin,85.07,ok
+21337,Kew East,21746,Moorabbin,96.87,ok
+21339,Keysborough,21746,Moorabbin,73.6,ok
+21354,Kilsyth,21746,Moorabbin,119.73,ok
+21355,Kilsyth South,21746,Moorabbin,136.37,ok
+21358,Kinglake,21746,Moorabbin,,no_eligible_route
+21359,Kinglake Central,21746,Moorabbin,,no_eligible_route
+21360,Kinglake West,21746,Moorabbin,,no_eligible_route
+21362,Kings Park (Vic.),21746,Moorabbin,105.13,ok
+21363,Kingsbury,21746,Moorabbin,111.3,ok
+21365,Kingsville,21746,Moorabbin,83.82,ok
+21374,Knoxfield,21746,Moorabbin,86.02,ok
+21380,Koo Wee Rup,21746,Moorabbin,,no_eligible_route
+21381,Koo Wee Rup North,21746,Moorabbin,,no_eligible_route
+21393,Kooyong,21746,Moorabbin,68.82,ok
+21411,Kurunjang,21746,Moorabbin,191.25,ok
+21452,Lalor,21746,Moorabbin,108.58,ok
+21456,Lancefield,21746,Moorabbin,,no_eligible_route
+21459,Lang Lang,21746,Moorabbin,,no_eligible_route
+21460,Lang Lang East,21746,Moorabbin,,no_eligible_route
+21467,Langwarrin,21746,Moorabbin,88.53,ok
+21468,Langwarrin South,21746,Moorabbin,,no_eligible_route
+21473,Launching Place,21746,Moorabbin,143.58,ok
+21476,Laverton (Vic.),21746,Moorabbin,105.48,ok
+21477,Laverton North,21746,Moorabbin,132.92,ok
+21504,Lilydale (Vic.),21746,Moorabbin,123.23,ok
+21533,Long Forest,21746,Moorabbin,,no_eligible_route
+21547,Lower Plenty,21746,Moorabbin,123.58,ok
+21554,Lynbrook,21746,Moorabbin,72.82,ok
+21555,Lyndhurst (Vic.),21746,Moorabbin,115.4,ok
+21558,Lysterfield,21746,Moorabbin,,no_eligible_route
+21559,Lysterfield South,21746,Moorabbin,133.62,ok
+21561,Macclesfield (Vic.),21746,Moorabbin,,no_eligible_route
+21562,Macedon,21746,Moorabbin,,no_eligible_route
+21564,Macleod (Vic.),21746,Moorabbin,103.3,ok
+21569,Maddingley,21746,Moorabbin,,no_eligible_route
+21575,Maidstone,21746,Moorabbin,89.57,ok
+21578,Main Ridge,21746,Moorabbin,,no_eligible_route
+21586,Malvern (Vic.),21746,Moorabbin,62.18,ok
+21587,Malvern East,21746,Moorabbin,43.47,ok
+21588,Mambourin,21746,Moorabbin,,no_eligible_route
+21597,Manor Lakes,21746,Moorabbin,156.95,ok
+21604,Maribyrnong,21746,Moorabbin,95.53,ok
+21619,Maryknoll,21746,Moorabbin,,no_eligible_route
+21625,McCrae,21746,Moorabbin,126.97,ok
+21629,McKinnon,21746,Moorabbin,31.17,ok
+21635,Meadow Heights,21746,Moorabbin,129.93,ok
+21640,Melbourne,21746,Moorabbin,61.42,ok
+21641,Melbourne Airport,21746,Moorabbin,,no_eligible_route
+21642,Melton (Vic.),21746,Moorabbin,175.38,ok
+21643,Melton South,21746,Moorabbin,188.98,ok
+21644,Melton West,21746,Moorabbin,184.22,ok
+21648,Mentone,21746,Moorabbin,32.9,ok
+21649,Menzies Creek,21746,Moorabbin,,no_eligible_route
+21659,Mernda,21746,Moorabbin,147.57,ok
+21662,Merricks,21746,Moorabbin,,no_eligible_route
+21663,Merricks Beach,21746,Moorabbin,,no_eligible_route
+21664,Merricks North,21746,Moorabbin,,no_eligible_route
+21668,Merrimu,21746,Moorabbin,,no_eligible_route
+21675,Mickleham,21746,Moorabbin,161.62,ok
+21677,Middle Park (Vic.),21746,Moorabbin,80.65,ok
+21683,Mill Park,21746,Moorabbin,137.05,ok
+21685,Millgrove,21746,Moorabbin,,no_eligible_route
+21706,Mitcham (Vic.),21746,Moorabbin,95.83,ok
+21727,Monbulk,21746,Moorabbin,152.53,ok
+21728,Monegeetta,21746,Moorabbin,,no_eligible_route
+21731,Monomeith,21746,Moorabbin,,no_eligible_route
+21732,Mont Albert,21746,Moorabbin,64.92,ok
+21733,Mont Albert North,21746,Moorabbin,89.45,ok
+21735,Montmorency,21746,Moorabbin,102.98,ok
+21736,Montrose (Vic.),21746,Moorabbin,122.65,ok
+21742,Moonee Ponds,21746,Moorabbin,84.4,ok
+21746,Moorabbin,21746,Moorabbin,0.0,same_centroid
+21747,Moorabbin Airport,21746,Moorabbin,51.2,ok
+21754,Moorooduc,21746,Moorabbin,124.83,ok
+21755,Mooroolbark,21746,Moorabbin,112.58,ok
+21760,Mordialloc,21746,Moorabbin,51.0,ok
+21763,Mornington (Vic.),21746,Moorabbin,106.05,ok
+21779,Mount Burnett,21746,Moorabbin,,no_eligible_route
+21786,Mount Cottrell,21746,Moorabbin,,no_eligible_route
+21787,Mount Dandenong,21746,Moorabbin,134.35,ok
+21793,Mount Eliza,21746,Moorabbin,84.23,ok
+21795,Mount Evelyn,21746,Moorabbin,138.52,ok
+21801,Mount Macedon,21746,Moorabbin,,no_eligible_route
+21803,Mount Martha,21746,Moorabbin,108.3,ok
+21814,Mount Toolebewong,21746,Moorabbin,,no_eligible_route
+21816,Mount Waverley,21746,Moorabbin,45.98,ok
+21827,Mulgrave (Vic.),21746,Moorabbin,70.33,ok
+21849,Murrumbeena,21746,Moorabbin,29.25,ok
+21872,Nangana,21746,Moorabbin,,no_eligible_route
+21878,Nar Nar Goon,21746,Moorabbin,,no_eligible_route
+21879,Nar Nar Goon North,21746,Moorabbin,,no_eligible_route
+21893,Narre Warren,21746,Moorabbin,78.63,ok
+21894,Narre Warren East,21746,Moorabbin,,no_eligible_route
+21895,Narre Warren North,21746,Moorabbin,88.45,ok
+21896,Narre Warren South,21746,Moorabbin,86.37,ok
+21921,New Gisborne,21746,Moorabbin,,no_eligible_route
+21934,Newport (Vic.),21746,Moorabbin,89.88,ok
+21942,Niddrie,21746,Moorabbin,111.28,ok
+21952,Noble Park,21746,Moorabbin,53.82,ok
+21953,Noble Park North,21746,Moorabbin,71.67,ok
+21966,North Melbourne,21746,Moorabbin,69.55,ok
+21969,North Warrandyte,21746,Moorabbin,135.88,ok
+21971,Northcote,21746,Moorabbin,88.37,ok
+21974,Notting Hill,21746,Moorabbin,55.45,ok
+21985,Nunawading,21746,Moorabbin,80.77,ok
+21991,Nutfield,21746,Moorabbin,,no_eligible_route
+21998,Oak Park,21746,Moorabbin,104.72,ok
+21999,Oaklands Junction,21746,Moorabbin,,no_eligible_route
+22000,Oakleigh,21746,Moorabbin,43.38,ok
+22001,Oakleigh East,21746,Moorabbin,54.92,ok
+22002,Oakleigh South,21746,Moorabbin,38.23,ok
+22006,Officer,21746,Moorabbin,97.1,ok
+22007,Officer South,21746,Moorabbin,131.3,ok
+22009,Olinda (Vic.),21746,Moorabbin,,no_eligible_route
+22016,Ormond,21746,Moorabbin,35.22,ok
+22027,Pakenham,21746,Moorabbin,91.78,ok
+22028,Pakenham South,21746,Moorabbin,,no_eligible_route
+22029,Pakenham Upper,21746,Moorabbin,,no_eligible_route
+22032,Panton Hill,21746,Moorabbin,,no_eligible_route
+22036,Park Orchards,21746,Moorabbin,105.8,ok
+22037,Parkdale,21746,Moorabbin,40.78,ok
+22038,Parkville (Vic.),21746,Moorabbin,79.62,ok
+22041,Pascoe Vale,21746,Moorabbin,109.08,ok
+22042,Pascoe Vale South,21746,Moorabbin,101.75,ok
+22047,Patterson Lakes,21746,Moorabbin,62.08,ok
+22050,Pearcedale,21746,Moorabbin,,no_eligible_route
+22058,Pentland Hills,21746,Moorabbin,,no_eligible_route
+22064,Pheasant Creek (Vic.),21746,Moorabbin,,no_eligible_route
+22084,Plenty (Vic.),21746,Moorabbin,134.8,ok
+22085,Plumpton (Vic.),21746,Moorabbin,,no_eligible_route
+22086,Point Cook,21746,Moorabbin,122.85,ok
+22087,Point Leo,21746,Moorabbin,,no_eligible_route
+22107,Port Melbourne,21746,Moorabbin,89.47,ok
+22113,Portsea,21746,Moorabbin,171.27,ok
+22115,Powelltown,21746,Moorabbin,,no_eligible_route
+22118,Prahran,21746,Moorabbin,63.68,ok
+22121,Preston (Vic.),21746,Moorabbin,98.15,ok
+22122,Princes Hill,21746,Moorabbin,80.77,ok
+22132,Quandong,21746,Moorabbin,,no_eligible_route
+22141,Ravenhall,21746,Moorabbin,150.07,ok
+22148,Red Hill (Vic.),21746,Moorabbin,,no_eligible_route
+22149,Red Hill South,21746,Moorabbin,,no_eligible_route
+22160,Research,21746,Moorabbin,129.75,ok
+22161,Reservoir (Vic.),21746,Moorabbin,105.4,ok
+22170,Richmond (Vic.),21746,Moorabbin,72.63,ok
+22172,Riddells Creek,21746,Moorabbin,,no_eligible_route
+22174,Ringwood (Vic.),21746,Moorabbin,102.45,ok
+22175,Ringwood East,21746,Moorabbin,102.02,ok
+22176,Ringwood North,21746,Moorabbin,112.38,ok
+22179,Ripponlea,21746,Moorabbin,53.18,ok
+22185,Rochford,21746,Moorabbin,,no_eligible_route
+22186,Rockbank,21746,Moorabbin,147.83,ok
+22193,Romsey,21746,Moorabbin,,no_eligible_route
+22194,Rosanna,21746,Moorabbin,97.77,ok
+22198,Rosebud,21746,Moorabbin,143.28,ok
+22207,Rowville,21746,Moorabbin,83.62,ok
+22208,Roxburgh Park,21746,Moorabbin,129.33,ok
+22220,Rye,21746,Moorabbin,163.48,ok
+22221,Rythdale,21746,Moorabbin,,no_eligible_route
+22222,Safety Beach (Vic.),21746,Moorabbin,125.27,ok
+22232,Sandhurst,21746,Moorabbin,90.42,ok
+22234,Sandringham (Vic.),21746,Moorabbin,35.37,ok
+22239,Sassafras (Vic.),21746,Moorabbin,,no_eligible_route
+22242,Scoresby,21746,Moorabbin,80.67,ok
+22247,Seabrook,21746,Moorabbin,114.78,ok
+22249,Seaford (Vic.),21746,Moorabbin,70.32,ok
+22250,Seaholme,21746,Moorabbin,104.57,ok
+22256,Seddon (Vic.),21746,Moorabbin,74.47,ok
+22258,Selby,21746,Moorabbin,,no_eligible_route
+22263,Seville,21746,Moorabbin,154.75,ok
+22264,Seville East,21746,Moorabbin,141.63,ok
+22278,Sherbrooke,21746,Moorabbin,135.15,ok
+22279,Shoreham,21746,Moorabbin,,no_eligible_route
+22281,Silvan,21746,Moorabbin,144.63,ok
+22291,Skye (Vic.),21746,Moorabbin,82.83,ok
+22295,Smiths Gully,21746,Moorabbin,,no_eligible_route
+22303,Somers,21746,Moorabbin,151.03,ok
+22304,Somerton (Vic.),21746,Moorabbin,125.7,ok
+22305,Somerville (Vic.),21746,Moorabbin,120.25,ok
+22306,Sorrento (Vic.),21746,Moorabbin,151.25,ok
+22309,South Kingsville,21746,Moorabbin,106.03,ok
+22310,South Melbourne,21746,Moorabbin,72.2,ok
+22311,South Morang,21746,Moorabbin,140.57,ok
+22313,South Wharf,21746,Moorabbin,78.8,ok
+22314,South Yarra,21746,Moorabbin,51.57,ok
+22315,Southbank,21746,Moorabbin,66.23,ok
+22319,Spotswood,21746,Moorabbin,83.28,ok
+22325,Springfield (Macedon Ranges - Vic.),21746,Moorabbin,,no_eligible_route
+22328,Springvale (Vic.),21746,Moorabbin,54.78,ok
+22329,Springvale South,21746,Moorabbin,60.52,ok
+22330,St Albans (Vic.),21746,Moorabbin,89.97,ok
+22332,St Andrews (Vic.),21746,Moorabbin,,no_eligible_route
+22333,St Andrews Beach,21746,Moorabbin,,no_eligible_route
+22339,St Helena,21746,Moorabbin,127.53,ok
+22343,St Kilda (Vic.),21746,Moorabbin,65.92,ok
+22344,St Kilda East,21746,Moorabbin,63.23,ok
+22345,St Kilda West,21746,Moorabbin,74.52,ok
+22355,Steels Creek,21746,Moorabbin,,no_eligible_route
+22375,Strathewen,21746,Moorabbin,,no_eligible_route
+22380,Strathmore (Vic.),21746,Moorabbin,112.88,ok
+22381,Strathmore Heights,21746,Moorabbin,120.35,ok
+22382,Strathtulloh,21746,Moorabbin,,no_eligible_route
+22391,Sunbury,21746,Moorabbin,160.7,ok
+22395,Sunshine (Vic.),21746,Moorabbin,78.75,ok
+22396,Sunshine North,21746,Moorabbin,98.82,ok
+22397,Sunshine West,21746,Moorabbin,97.55,ok
+22399,Surrey Hills,21746,Moorabbin,70.28,ok
+22414,Sydenham (Vic.),21746,Moorabbin,105.82,ok
+22451,Tarneit,21746,Moorabbin,140.78,ok
+22457,Tarrawarra,21746,Moorabbin,,no_eligible_route
+22473,Taylors Hill,21746,Moorabbin,115.37,ok
+22474,Taylors Lakes,21746,Moorabbin,106.78,ok
+22476,Tecoma,21746,Moorabbin,107.58,ok
+22483,Templestowe,21746,Moorabbin,110.57,ok
+22484,Templestowe Lower,21746,Moorabbin,91.33,ok
+22496,The Basin (Vic.),21746,Moorabbin,,no_eligible_route
+22501,The Patch,21746,Moorabbin,143.1,ok
+22504,Thomastown,21746,Moorabbin,113.88,ok
+22508,Thornbury,21746,Moorabbin,94.53,ok
+22509,Thornhill Park,21746,Moorabbin,,no_eligible_route
+22514,Three Bridges,21746,Moorabbin,,no_eligible_route
+22531,Tonimbuk,21746,Moorabbin,,no_eligible_route
+22536,Toolangi,21746,Moorabbin,,no_eligible_route
+22537,Toolern Vale,21746,Moorabbin,,no_eligible_route
+22546,Tooradin,21746,Moorabbin,,no_eligible_route
+22547,Toorak,21746,Moorabbin,67.03,ok
+22550,Tootgarook,21746,Moorabbin,146.9,ok
+22556,Tottenham (Vic.),21746,Moorabbin,105.73,ok
+22572,Travancore,21746,Moorabbin,83.15,ok
+22576,Tremont,21746,Moorabbin,,no_eligible_route
+22582,Truganina,21746,Moorabbin,202.48,ok
+22584,Tuerong,21746,Moorabbin,,no_eligible_route
+22586,Tullamarine,21746,Moorabbin,131.67,ok
+22594,Tyabb,21746,Moorabbin,112.57,ok
+22598,Tynong,21746,Moorabbin,,no_eligible_route
+22599,Tynong North,21746,Moorabbin,,no_eligible_route
+22614,Upper Ferntree Gully,21746,Moorabbin,105.35,ok
+22617,Upper Plenty,21746,Moorabbin,,no_eligible_route
+22620,Upwey,21746,Moorabbin,104.77,ok
+22627,Vermont,21746,Moorabbin,94.37,ok
+22628,Vermont South,21746,Moorabbin,85.65,ok
+22629,Vervale,21746,Moorabbin,,no_eligible_route
+22633,Viewbank,21746,Moorabbin,115.77,ok
+22661,Wallan,21746,Moorabbin,,no_eligible_route
+22672,Wandin East,21746,Moorabbin,,no_eligible_route
+22673,Wandin North,21746,Moorabbin,127.72,ok
+22676,Wandong,21746,Moorabbin,,no_eligible_route
+22685,Wantirna,21746,Moorabbin,112.07,ok
+22686,Wantirna South,21746,Moorabbin,85.52,ok
+22689,Warburton (Vic.),21746,Moorabbin,,no_eligible_route
+22695,Warneet,21746,Moorabbin,,no_eligible_route
+22702,Warrandyte,21746,Moorabbin,121.98,ok
+22703,Warrandyte South,21746,Moorabbin,142.95,ok
+22704,Warranwood,21746,Moorabbin,116.62,ok
+22717,Waterford Park,21746,Moorabbin,,no_eligible_route
+22720,Waterways,21746,Moorabbin,74.5,ok
+22721,Watsonia,21746,Moorabbin,98.22,ok
+22722,Watsonia North,21746,Moorabbin,121.67,ok
+22723,Watsons Creek (Vic.),21746,Moorabbin,,no_eligible_route
+22727,Wattle Glen,21746,Moorabbin,129.97,ok
+22740,Weir Views,21746,Moorabbin,,no_eligible_route
+22750,Werribee,21746,Moorabbin,119.52,ok
+22751,Werribee South,21746,Moorabbin,,no_eligible_route
+22753,Wesburn,21746,Moorabbin,159.68,ok
+22756,West Footscray,21746,Moorabbin,81.92,ok
+22757,West Melbourne,21746,Moorabbin,96.8,ok
+22761,Westmeadows,21746,Moorabbin,123.75,ok
+22766,Wheelers Hill,21746,Moorabbin,70.1,ok
+22775,Whittlesea,21746,Moorabbin,,no_eligible_route
+22784,Wildwood,21746,Moorabbin,,no_eligible_route
+22791,Williams Landing,21746,Moorabbin,119.73,ok
+22792,Williamstown (Vic.),21746,Moorabbin,98.55,ok
+22793,Williamstown North,21746,Moorabbin,110.58,ok
+22805,Windsor (Vic.),21746,Moorabbin,56.12,ok
+22820,Wollert,21746,Moorabbin,148.6,ok
+22825,Wonga Park,21746,Moorabbin,129.47,ok
+22843,Woodstock (Vic.),21746,Moorabbin,,no_eligible_route
+22857,Woori Yallock,21746,Moorabbin,138.83,ok
+22883,Wyndham Vale,21746,Moorabbin,148.33,ok
+22892,Yallambie,21746,Moorabbin,125.32,ok
+22898,Yan Yean,21746,Moorabbin,164.33,ok
+22906,Yannathan,21746,Moorabbin,,no_eligible_route
+22910,Yarra Glen,21746,Moorabbin,,no_eligible_route
+22911,Yarra Junction,21746,Moorabbin,163.95,ok
+22916,Yarrambat,21746,Moorabbin,138.37,ok
+22917,Yarraville,21746,Moorabbin,87.05,ok
+22925,Yellingbo,21746,Moorabbin,,no_eligible_route
+22930,Yering,21746,Moorabbin,,no_eligible_route
+22941,Yuroke,21746,Moorabbin,186.7,ok

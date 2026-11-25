@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21558,Lysterfield,,no_eligible_route
+20003,Aberfeldie,21558,Lysterfield,,no_eligible_route
+20011,Aintree,21558,Lysterfield,,no_eligible_route
+20015,Airport West,21558,Lysterfield,,no_eligible_route
+20017,Albanvale,21558,Lysterfield,219.1,ok
+20018,Albert Park (Vic.),21558,Lysterfield,175.22,ok
+20021,Albion (Vic.),21558,Lysterfield,182.02,ok
+20034,Alphington,21558,Lysterfield,,no_eligible_route
+20035,Altona (Vic.),21558,Lysterfield,,no_eligible_route
+20036,Altona Meadows,21558,Lysterfield,,no_eligible_route
+20037,Altona North,21558,Lysterfield,,no_eligible_route
+20062,Ardeer,21558,Lysterfield,200.25,ok
+20066,Armadale (Vic.),21558,Lysterfield,149.25,ok
+20071,Arthurs Creek,21558,Lysterfield,,no_eligible_route
+20072,Arthurs Seat,21558,Lysterfield,,no_eligible_route
+20075,Ascot Vale,21558,Lysterfield,181.25,ok
+20077,Ashburton,21558,Lysterfield,,no_eligible_route
+20078,Ashwood,21558,Lysterfield,143.4,ok
+20079,Aspendale,21558,Lysterfield,,no_eligible_route
+20080,Aspendale Gardens,21558,Lysterfield,,no_eligible_route
+20082,Attwood,21558,Lysterfield,,no_eligible_route
+20089,Avondale Heights,21558,Lysterfield,,no_eligible_route
+20091,Avonsleigh,21558,Lysterfield,,no_eligible_route
+20095,Bacchus Marsh,21558,Lysterfield,,no_eligible_route
+20097,Badger Creek,21558,Lysterfield,,no_eligible_route
+20105,Balaclava (Vic.),21558,Lysterfield,,no_eligible_route
+20120,Balnarring,21558,Lysterfield,,no_eligible_route
+20121,Balnarring Beach,21558,Lysterfield,,no_eligible_route
+20123,Balwyn,21558,Lysterfield,,no_eligible_route
+20124,Balwyn North,21558,Lysterfield,,no_eligible_route
+20131,Bangholme,21558,Lysterfield,,no_eligible_route
+20169,Baxter,21558,Lysterfield,,no_eligible_route
+20171,Bayles,21558,Lysterfield,,no_eligible_route
+20173,Bayswater (Vic.),21558,Lysterfield,173.22,walk_only
+20174,Bayswater North,21558,Lysterfield,194.42,walk_only
+20175,Beaconsfield (Vic.),21558,Lysterfield,,no_eligible_route
+20176,Beaconsfield Upper,21558,Lysterfield,,no_eligible_route
+20182,Beaumaris (Vic.),21558,Lysterfield,,no_eligible_route
+20187,Beenak,21558,Lysterfield,,no_eligible_route
+20188,Belgrave,21558,Lysterfield,89.03,walk_only
+20189,Belgrave Heights,21558,Lysterfield,69.4,walk_only
+20190,Belgrave South,21558,Lysterfield,89.87,walk_only
+20198,Bellfield (Banyule - Vic.),21558,Lysterfield,,no_eligible_route
+20207,Bend Of Islands,21558,Lysterfield,,no_eligible_route
+20212,Benloch,21558,Lysterfield,,no_eligible_route
+20214,Bentleigh,21558,Lysterfield,,no_eligible_route
+20215,Bentleigh East,21558,Lysterfield,,no_eligible_route
+20224,Berwick,21558,Lysterfield,234.05,walk_only
+20233,Beveridge,21558,Lysterfield,,no_eligible_route
+20237,Big Pats Creek,21558,Lysterfield,,no_eligible_route
+20248,Bittern,21558,Lysterfield,,no_eligible_route
+20251,Black Rock (Vic.),21558,Lysterfield,,no_eligible_route
+20252,Blackburn,21558,Lysterfield,140.83,ok
+20253,Blackburn North,21558,Lysterfield,,no_eligible_route
+20254,Blackburn South,21558,Lysterfield,,no_eligible_route
+20257,Blairgowrie,21558,Lysterfield,,no_eligible_route
+20260,Blind Bight,21558,Lysterfield,,no_eligible_route
+20272,Bolinda,21558,Lysterfield,,no_eligible_route
+20278,Bonbeach,21558,Lysterfield,,no_eligible_route
+20280,Boneo,21558,Lysterfield,,no_eligible_route
+20282,Bonnie Brook,21558,Lysterfield,,no_eligible_route
+20304,Boronia,21558,Lysterfield,91.52,ok
+20307,Botanic Ridge,21558,Lysterfield,,no_eligible_route
+20314,Box Hill (Vic.),21558,Lysterfield,148.3,ok
+20315,Box Hill North,21558,Lysterfield,,no_eligible_route
+20316,Box Hill South,21558,Lysterfield,159.7,ok
+20320,Braeside,21558,Lysterfield,,no_eligible_route
+20324,Braybrook,21558,Lysterfield,196.42,ok
+20331,Briar Hill,21558,Lysterfield,,no_eligible_route
+20337,Brighton (Vic.),21558,Lysterfield,,no_eligible_route
+20338,Brighton East,21558,Lysterfield,,no_eligible_route
+20346,Broadmeadows (Vic.),21558,Lysterfield,204.87,ok
+20351,Brookfield (Vic.),21558,Lysterfield,,no_eligible_route
+20352,Brooklyn (Vic.),21558,Lysterfield,,no_eligible_route
+20361,Brunswick (Vic.),21558,Lysterfield,179.97,ok
+20362,Brunswick East,21558,Lysterfield,,no_eligible_route
+20363,Brunswick West,21558,Lysterfield,,no_eligible_route
+20381,Bulla (Vic.),21558,Lysterfield,,no_eligible_route
+20386,Bulleen,21558,Lysterfield,,no_eligible_route
+20387,Bullengarook,21558,Lysterfield,,no_eligible_route
+20399,Bundoora (Vic.),21558,Lysterfield,,no_eligible_route
+20411,Bunyip,21558,Lysterfield,,no_eligible_route
+20412,Bunyip North,21558,Lysterfield,,no_eligible_route
+20418,Burnley,21558,Lysterfield,155.03,ok
+20419,Burnside (Vic.),21558,Lysterfield,,no_eligible_route
+20420,Burnside Heights,21558,Lysterfield,,no_eligible_route
+20426,Burwood (Vic.),21558,Lysterfield,141.43,ok
+20427,Burwood East,21558,Lysterfield,,no_eligible_route
+20435,Bylands,21558,Lysterfield,,no_eligible_route
+20441,Cairnlea,21558,Lysterfield,204.67,ok
+20442,Calder Park,21558,Lysterfield,,no_eligible_route
+20443,Caldermeade,21558,Lysterfield,,no_eligible_route
+20453,Camberwell (Vic.),21558,Lysterfield,,no_eligible_route
+20455,Campbellfield,21558,Lysterfield,,no_eligible_route
+20466,Cannons Creek,21558,Lysterfield,,no_eligible_route
+20468,Canterbury (Vic.),21558,Lysterfield,155.28,ok
+20474,Cape Schanck,21558,Lysterfield,,no_eligible_route
+20476,Capel Sound,21558,Lysterfield,,no_eligible_route
+20487,Cardinia,21558,Lysterfield,,no_eligible_route
+20495,Carlton (Vic.),21558,Lysterfield,165.23,ok
+20496,Carlton North,21558,Lysterfield,,no_eligible_route
+20498,Carnegie,21558,Lysterfield,149.18,ok
+20500,Caroline Springs,21558,Lysterfield,,no_eligible_route
+20507,Carrum,21558,Lysterfield,,no_eligible_route
+20508,Carrum Downs,21558,Lysterfield,148.57,ok
+20512,Castella,21558,Lysterfield,,no_eligible_route
+20517,Catani,21558,Lysterfield,,no_eligible_route
+20521,Caulfield,21558,Lysterfield,,no_eligible_route
+20522,Caulfield East,21558,Lysterfield,148.32,ok
+20523,Caulfield North,21558,Lysterfield,151.25,ok
+20524,Caulfield South,21558,Lysterfield,,no_eligible_route
+20528,Chadstone,21558,Lysterfield,,no_eligible_route
+20537,Chelsea,21558,Lysterfield,,no_eligible_route
+20538,Chelsea Heights,21558,Lysterfield,,no_eligible_route
+20539,Cheltenham (Vic.),21558,Lysterfield,164.9,ok
+20541,Cherokee,21558,Lysterfield,,no_eligible_route
+20555,Chintin,21558,Lysterfield,,no_eligible_route
+20556,Chirnside Park,21558,Lysterfield,,no_eligible_route
+20559,Christmas Hills (Vic.),21558,Lysterfield,,no_eligible_route
+20560,Chum Creek,21558,Lysterfield,,no_eligible_route
+20566,Clarinda,21558,Lysterfield,152.98,ok
+20567,Clarkefield,21558,Lysterfield,,no_eligible_route
+20569,Clayton,21558,Lysterfield,115.25,ok
+20570,Clayton South,21558,Lysterfield,,no_eligible_route
+20572,Clematis,21558,Lysterfield,190.0,walk_only
+20574,Clifton Hill,21558,Lysterfield,187.12,ok
+20576,Clonbinane,21558,Lysterfield,,no_eligible_route
+20581,Clyde (Vic.),21558,Lysterfield,,no_eligible_route
+20582,Clyde North,21558,Lysterfield,,no_eligible_route
+20587,Cobaw,21558,Lysterfield,,no_eligible_route
+20590,Cobblebank,21558,Lysterfield,,no_eligible_route
+20596,Coburg,21558,Lysterfield,189.27,ok
+20597,Coburg North,21558,Lysterfield,,no_eligible_route
+20600,Cockatoo (Vic.),21558,Lysterfield,,no_eligible_route
+20601,Cocoroc,21558,Lysterfield,,no_eligible_route
+20605,Coimadai,21558,Lysterfield,,no_eligible_route
+20613,Coldstream (Vic.),21558,Lysterfield,,no_eligible_route
+20616,Collingwood (Vic.),21558,Lysterfield,,no_eligible_route
+20624,Coolaroo,21558,Lysterfield,205.73,ok
+20633,Cora Lynn,21558,Lysterfield,,no_eligible_route
+20654,Cottles Bridge,21558,Lysterfield,,no_eligible_route
+20661,Craigieburn,21558,Lysterfield,,no_eligible_route
+20662,Cranbourne,21558,Lysterfield,,no_eligible_route
+20663,Cranbourne East,21558,Lysterfield,,no_eligible_route
+20664,Cranbourne North,21558,Lysterfield,,no_eligible_route
+20665,Cranbourne South,21558,Lysterfield,,no_eligible_route
+20666,Cranbourne West,21558,Lysterfield,,no_eligible_route
+20670,Cremorne (Vic.),21558,Lysterfield,156.98,ok
+20674,Crib Point,21558,Lysterfield,,no_eligible_route
+20682,Croydon (Vic.),21558,Lysterfield,,no_eligible_route
+20683,Croydon Hills,21558,Lysterfield,,no_eligible_route
+20684,Croydon North,21558,Lysterfield,,no_eligible_route
+20685,Croydon South,21558,Lysterfield,213.5,walk_only
+20702,Dallas,21558,Lysterfield,,no_eligible_route
+20703,Dalmore,21558,Lysterfield,,no_eligible_route
+20707,Dandenong,21558,Lysterfield,123.0,ok
+20708,Dandenong North,21558,Lysterfield,108.43,ok
+20709,Dandenong South,21558,Lysterfield,,no_eligible_route
+20712,Darley,21558,Lysterfield,,no_eligible_route
+20716,Darraweit Guim,21558,Lysterfield,,no_eligible_route
+20724,Deanside,21558,Lysterfield,,no_eligible_route
+20728,Deepdene (Vic.),21558,Lysterfield,,no_eligible_route
+20729,Deer Park,21558,Lysterfield,,no_eligible_route
+20731,Delahey,21558,Lysterfield,216.57,ok
+20743,Derrimut,21558,Lysterfield,,no_eligible_route
+20748,Devon Meadows,21558,Lysterfield,,no_eligible_route
+20750,Dewhurst,21558,Lysterfield,,no_eligible_route
+20752,Diamond Creek,21558,Lysterfield,,no_eligible_route
+20754,Diggers Rest,21558,Lysterfield,224.43,ok
+20758,Dingley Village,21558,Lysterfield,,no_eligible_route
+20762,Dixons Creek,21558,Lysterfield,,no_eligible_route
+20766,Docklands,21558,Lysterfield,,no_eligible_route
+20769,Don Valley,21558,Lysterfield,,no_eligible_route
+20771,Doncaster,21558,Lysterfield,,no_eligible_route
+20772,Doncaster East,21558,Lysterfield,,no_eligible_route
+20773,Donnybrook (Vic.),21558,Lysterfield,,no_eligible_route
+20774,Donvale,21558,Lysterfield,,no_eligible_route
+20779,Doreen,21558,Lysterfield,,no_eligible_route
+20783,Doveton,21558,Lysterfield,137.22,walk_only
+20788,Dromana,21558,Lysterfield,,no_eligible_route
+20825,Eaglemont,21558,Lysterfield,,no_eligible_route
+20830,East Melbourne,21558,Lysterfield,171.32,ok
+20833,East Warburton,21558,Lysterfield,,no_eligible_route
+20843,Eden Park,21558,Lysterfield,,no_eligible_route
+20848,Edithvale,21558,Lysterfield,153.12,ok
+20864,Elsternwick,21558,Lysterfield,,no_eligible_route
+20865,Eltham (Vic.),21558,Lysterfield,,no_eligible_route
+20866,Eltham North,21558,Lysterfield,,no_eligible_route
+20867,Elwood,21558,Lysterfield,,no_eligible_route
+20868,Emerald (Vic.),21558,Lysterfield,224.73,walk_only
+20871,Endeavour Hills,21558,Lysterfield,94.93,walk_only
+20878,Epping (Vic.),21558,Lysterfield,,no_eligible_route
+20885,Essendon,21558,Lysterfield,187.17,ok
+20886,Essendon Fields,21558,Lysterfield,,no_eligible_route
+20887,Essendon North,21558,Lysterfield,,no_eligible_route
+20888,Essendon West,21558,Lysterfield,,no_eligible_route
+20889,Eumemmerring,21558,Lysterfield,141.48,walk_only
+20898,Exford,21558,Lysterfield,,no_eligible_route
+20899,Eynesbury,21558,Lysterfield,,no_eligible_route
+20901,Fairfield (Vic.),21558,Lysterfield,,no_eligible_route
+20909,Fawkner,21558,Lysterfield,205.97,ok
+20916,Fernshaw,21558,Lysterfield,,no_eligible_route
+20917,Ferntree Gully,21558,Lysterfield,106.55,walk_only
+20918,Ferny Creek,21558,Lysterfield,138.47,walk_only
+20920,Fingal (Vic.),21558,Lysterfield,,no_eligible_route
+20924,Fitzroy (Vic.),21558,Lysterfield,176.8,ok
+20925,Fitzroy North,21558,Lysterfield,,no_eligible_route
+20929,Flemington,21558,Lysterfield,,no_eligible_route
+20930,Flinders (Vic.),21558,Lysterfield,,no_eligible_route
+20935,Footscray,21558,Lysterfield,170.43,ok
+20937,Forest Hill (Vic.),21558,Lysterfield,,no_eligible_route
+20947,Frankston,21558,Lysterfield,,no_eligible_route
+20948,Frankston North,21558,Lysterfield,,no_eligible_route
+20949,Frankston South,21558,Lysterfield,,no_eligible_route
+20950,Fraser Rise,21558,Lysterfield,,no_eligible_route
+20965,Gardenvale,21558,Lysterfield,,no_eligible_route
+20966,Garfield,21558,Lysterfield,,no_eligible_route
+20967,Garfield North,21558,Lysterfield,,no_eligible_route
+20979,Gembrook,21558,Lysterfield,,no_eligible_route
+20995,Gilderoy,21558,Lysterfield,,no_eligible_route
+21001,Gisborne,21558,Lysterfield,,no_eligible_route
+21002,Gisborne South,21558,Lysterfield,,no_eligible_route
+21004,Gladstone Park,21558,Lysterfield,219.07,ok
+21005,Gladysdale,21558,Lysterfield,,no_eligible_route
+21009,Glen Huntly,21558,Lysterfield,,no_eligible_route
+21010,Glen Iris (Vic.),21558,Lysterfield,152.37,ok
+21013,Glen Waverley,21558,Lysterfield,121.8,ok
+21047,Glenroy (Vic.),21558,Lysterfield,199.72,ok
+21059,Goldie,21558,Lysterfield,,no_eligible_route
+21079,Gowanbrae,21558,Lysterfield,221.4,ok
+21087,Grangefields,21558,Lysterfield,,no_eligible_route
+21104,Greensborough,21558,Lysterfield,178.97,ok
+21105,Greenvale (Vic.),21558,Lysterfield,,no_eligible_route
+21115,Gruyere,21558,Lysterfield,,no_eligible_route
+21121,Guys Hill,21558,Lysterfield,222.48,walk_only
+21124,Hadfield,21558,Lysterfield,,no_eligible_route
+21125,Hallam,21558,Lysterfield,148.57,walk_only
+21131,Hampton (Vic.),21558,Lysterfield,,no_eligible_route
+21132,Hampton East,21558,Lysterfield,,no_eligible_route
+21133,Hampton Park,21558,Lysterfield,200.1,walk_only
+21139,Harkaway,21558,Lysterfield,170.88,walk_only
+21140,Harkness,21558,Lysterfield,,no_eligible_route
+21145,Hastings (Vic.),21558,Lysterfield,,no_eligible_route
+21152,Hawthorn (Vic.),21558,Lysterfield,,no_eligible_route
+21153,Hawthorn East,21558,Lysterfield,,no_eligible_route
+21158,Healesville,21558,Lysterfield,,no_eligible_route
+21159,Heath Hill,21558,Lysterfield,,no_eligible_route
+21161,Heathcote Junction,21558,Lysterfield,,no_eligible_route
+21163,Heatherton,21558,Lysterfield,,no_eligible_route
+21165,Heathmont,21558,Lysterfield,97.53,ok
+21167,Heidelberg,21558,Lysterfield,,no_eligible_route
+21168,Heidelberg Heights,21558,Lysterfield,,no_eligible_route
+21169,Heidelberg West,21558,Lysterfield,,no_eligible_route
+21176,Hesket,21558,Lysterfield,,no_eligible_route
+21185,Highett,21558,Lysterfield,168.83,ok
+21193,Hillside (Melton - Vic.),21558,Lysterfield,,no_eligible_route
+21195,Hmas Cerberus,21558,Lysterfield,,no_eligible_route
+21196,Hoddles Creek,21558,Lysterfield,,no_eligible_route
+21202,Hopetoun Park,21558,Lysterfield,,no_eligible_route
+21203,Hoppers Crossing,21558,Lysterfield,,no_eligible_route
+21214,Hughesdale,21558,Lysterfield,129.72,ok
+21215,Humevale,21558,Lysterfield,,no_eligible_route
+21218,Huntingdale (Vic.),21558,Lysterfield,118.35,ok
+21223,Hurstbridge,21558,Lysterfield,,no_eligible_route
+21238,Iona,21558,Lysterfield,,no_eligible_route
+21246,Ivanhoe (Vic.),21558,Lysterfield,,no_eligible_route
+21247,Ivanhoe East,21558,Lysterfield,,no_eligible_route
+21248,Jacana,21558,Lysterfield,204.28,ok
+21277,Junction Village,21558,Lysterfield,,no_eligible_route
+21284,Kalkallo,21558,Lysterfield,,no_eligible_route
+21286,Kallista,21558,Lysterfield,172.2,walk_only
+21287,Kalorama,21558,Lysterfield,,no_eligible_route
+21294,Kangaroo Ground,21558,Lysterfield,,no_eligible_route
+21312,Kealba,21558,Lysterfield,214.23,ok
+21314,Keilor,21558,Lysterfield,,no_eligible_route
+21315,Keilor Downs,21558,Lysterfield,209.37,ok
+21316,Keilor East,21558,Lysterfield,,no_eligible_route
+21317,Keilor Lodge,21558,Lysterfield,,no_eligible_route
+21318,Keilor North,21558,Lysterfield,222.82,ok
+21319,Keilor Park,21558,Lysterfield,,no_eligible_route
+21327,Kensington (Vic.),21558,Lysterfield,171.57,ok
+21333,Kerrie,21558,Lysterfield,,no_eligible_route
+21336,Kew (Vic.),21558,Lysterfield,,no_eligible_route
+21337,Kew East,21558,Lysterfield,,no_eligible_route
+21339,Keysborough,21558,Lysterfield,,no_eligible_route
+21354,Kilsyth,21558,Lysterfield,236.38,walk_only
+21355,Kilsyth South,21558,Lysterfield,199.35,walk_only
+21358,Kinglake,21558,Lysterfield,,no_eligible_route
+21359,Kinglake Central,21558,Lysterfield,,no_eligible_route
+21360,Kinglake West,21558,Lysterfield,,no_eligible_route
+21362,Kings Park (Vic.),21558,Lysterfield,211.28,ok
+21363,Kingsbury,21558,Lysterfield,,no_eligible_route
+21365,Kingsville,21558,Lysterfield,179.5,ok
+21374,Knoxfield,21558,Lysterfield,114.92,walk_only
+21380,Koo Wee Rup,21558,Lysterfield,,no_eligible_route
+21381,Koo Wee Rup North,21558,Lysterfield,,no_eligible_route
+21393,Kooyong,21558,Lysterfield,148.42,ok
+21411,Kurunjang,21558,Lysterfield,,no_eligible_route
+21452,Lalor,21558,Lysterfield,215.32,ok
+21456,Lancefield,21558,Lysterfield,,no_eligible_route
+21459,Lang Lang,21558,Lysterfield,,no_eligible_route
+21460,Lang Lang East,21558,Lysterfield,,no_eligible_route
+21467,Langwarrin,21558,Lysterfield,,no_eligible_route
+21468,Langwarrin South,21558,Lysterfield,,no_eligible_route
+21473,Launching Place,21558,Lysterfield,,no_eligible_route
+21476,Laverton (Vic.),21558,Lysterfield,,no_eligible_route
+21477,Laverton North,21558,Lysterfield,,no_eligible_route
+21504,Lilydale (Vic.),21558,Lysterfield,,no_eligible_route
+21533,Long Forest,21558,Lysterfield,,no_eligible_route
+21547,Lower Plenty,21558,Lysterfield,,no_eligible_route
+21554,Lynbrook,21558,Lysterfield,233.98,walk_only
+21555,Lyndhurst (Vic.),21558,Lysterfield,,no_eligible_route
+21558,Lysterfield,21558,Lysterfield,0.0,same_centroid
+21559,Lysterfield South,21558,Lysterfield,66.25,walk_only
+21561,Macclesfield (Vic.),21558,Lysterfield,,no_eligible_route
+21562,Macedon,21558,Lysterfield,,no_eligible_route
+21564,Macleod (Vic.),21558,Lysterfield,,no_eligible_route
+21569,Maddingley,21558,Lysterfield,,no_eligible_route
+21575,Maidstone,21558,Lysterfield,194.63,ok
+21578,Main Ridge,21558,Lysterfield,,no_eligible_route
+21586,Malvern (Vic.),21558,Lysterfield,148.45,ok
+21587,Malvern East,21558,Lysterfield,141.35,ok
+21588,Mambourin,21558,Lysterfield,,no_eligible_route
+21597,Manor Lakes,21558,Lysterfield,,no_eligible_route
+21604,Maribyrnong,21558,Lysterfield,189.77,ok
+21619,Maryknoll,21558,Lysterfield,,no_eligible_route
+21625,McCrae,21558,Lysterfield,,no_eligible_route
+21629,McKinnon,21558,Lysterfield,,no_eligible_route
+21635,Meadow Heights,21558,Lysterfield,,no_eligible_route
+21640,Melbourne,21558,Lysterfield,158.1,ok
+21641,Melbourne Airport,21558,Lysterfield,,no_eligible_route
+21642,Melton (Vic.),21558,Lysterfield,,no_eligible_route
+21643,Melton South,21558,Lysterfield,,no_eligible_route
+21644,Melton West,21558,Lysterfield,,no_eligible_route
+21648,Mentone,21558,Lysterfield,149.48,ok
+21649,Menzies Creek,21558,Lysterfield,163.6,walk_only
+21659,Mernda,21558,Lysterfield,,no_eligible_route
+21662,Merricks,21558,Lysterfield,,no_eligible_route
+21663,Merricks Beach,21558,Lysterfield,,no_eligible_route
+21664,Merricks North,21558,Lysterfield,,no_eligible_route
+21668,Merrimu,21558,Lysterfield,,no_eligible_route
+21675,Mickleham,21558,Lysterfield,,no_eligible_route
+21677,Middle Park (Vic.),21558,Lysterfield,,no_eligible_route
+21683,Mill Park,21558,Lysterfield,,no_eligible_route
+21685,Millgrove,21558,Lysterfield,,no_eligible_route
+21706,Mitcham (Vic.),21558,Lysterfield,,no_eligible_route
+21727,Monbulk,21558,Lysterfield,221.67,walk_only
+21728,Monegeetta,21558,Lysterfield,,no_eligible_route
+21731,Monomeith,21558,Lysterfield,,no_eligible_route
+21732,Mont Albert,21558,Lysterfield,154.68,ok
+21733,Mont Albert North,21558,Lysterfield,,no_eligible_route
+21735,Montmorency,21558,Lysterfield,,no_eligible_route
+21736,Montrose (Vic.),21558,Lysterfield,,no_eligible_route
+21742,Moonee Ponds,21558,Lysterfield,173.63,ok
+21746,Moorabbin,21558,Lysterfield,,no_eligible_route
+21747,Moorabbin Airport,21558,Lysterfield,,no_eligible_route
+21754,Moorooduc,21558,Lysterfield,,no_eligible_route
+21755,Mooroolbark,21558,Lysterfield,,no_eligible_route
+21760,Mordialloc,21558,Lysterfield,,no_eligible_route
+21763,Mornington (Vic.),21558,Lysterfield,,no_eligible_route
+21779,Mount Burnett,21558,Lysterfield,,no_eligible_route
+21786,Mount Cottrell,21558,Lysterfield,,no_eligible_route
+21787,Mount Dandenong,21558,Lysterfield,220.33,walk_only
+21793,Mount Eliza,21558,Lysterfield,,no_eligible_route
+21795,Mount Evelyn,21558,Lysterfield,,no_eligible_route
+21801,Mount Macedon,21558,Lysterfield,,no_eligible_route
+21803,Mount Martha,21558,Lysterfield,,no_eligible_route
+21814,Mount Toolebewong,21558,Lysterfield,,no_eligible_route
+21816,Mount Waverley,21558,Lysterfield,129.38,ok
+21827,Mulgrave (Vic.),21558,Lysterfield,116.52,ok
+21849,Murrumbeena,21558,Lysterfield,139.62,ok
+21872,Nangana,21558,Lysterfield,,no_eligible_route
+21878,Nar Nar Goon,21558,Lysterfield,,no_eligible_route
+21879,Nar Nar Goon North,21558,Lysterfield,,no_eligible_route
+21893,Narre Warren,21558,Lysterfield,167.07,walk_only
+21894,Narre Warren East,21558,Lysterfield,102.83,walk_only
+21895,Narre Warren North,21558,Lysterfield,94.97,walk_only
+21896,Narre Warren South,21558,Lysterfield,222.08,walk_only
+21921,New Gisborne,21558,Lysterfield,,no_eligible_route
+21934,Newport (Vic.),21558,Lysterfield,,no_eligible_route
+21942,Niddrie,21558,Lysterfield,,no_eligible_route
+21952,Noble Park,21558,Lysterfield,205.03,walk_only
+21953,Noble Park North,21558,Lysterfield,173.53,walk_only
+21966,North Melbourne,21558,Lysterfield,165.23,ok
+21969,North Warrandyte,21558,Lysterfield,,no_eligible_route
+21971,Northcote,21558,Lysterfield,,no_eligible_route
+21974,Notting Hill,21558,Lysterfield,238.83,walk_only
+21985,Nunawading,21558,Lysterfield,137.7,ok
+21991,Nutfield,21558,Lysterfield,,no_eligible_route
+21998,Oak Park,21558,Lysterfield,191.95,ok
+21999,Oaklands Junction,21558,Lysterfield,,no_eligible_route
+22000,Oakleigh,21558,Lysterfield,117.77,ok
+22001,Oakleigh East,21558,Lysterfield,129.5,ok
+22002,Oakleigh South,21558,Lysterfield,126.73,ok
+22006,Officer,21558,Lysterfield,,no_eligible_route
+22007,Officer South,21558,Lysterfield,,no_eligible_route
+22009,Olinda (Vic.),21558,Lysterfield,195.35,walk_only
+22016,Ormond,21558,Lysterfield,150.57,ok
+22027,Pakenham,21558,Lysterfield,167.47,ok
+22028,Pakenham South,21558,Lysterfield,,no_eligible_route
+22029,Pakenham Upper,21558,Lysterfield,,no_eligible_route
+22032,Panton Hill,21558,Lysterfield,,no_eligible_route
+22036,Park Orchards,21558,Lysterfield,120.6,ok
+22037,Parkdale,21558,Lysterfield,169.4,ok
+22038,Parkville (Vic.),21558,Lysterfield,,no_eligible_route
+22041,Pascoe Vale,21558,Lysterfield,196.32,ok
+22042,Pascoe Vale South,21558,Lysterfield,,no_eligible_route
+22047,Patterson Lakes,21558,Lysterfield,,no_eligible_route
+22050,Pearcedale,21558,Lysterfield,,no_eligible_route
+22058,Pentland Hills,21558,Lysterfield,,no_eligible_route
+22064,Pheasant Creek (Vic.),21558,Lysterfield,,no_eligible_route
+22084,Plenty (Vic.),21558,Lysterfield,,no_eligible_route
+22085,Plumpton (Vic.),21558,Lysterfield,,no_eligible_route
+22086,Point Cook,21558,Lysterfield,,no_eligible_route
+22087,Point Leo,21558,Lysterfield,,no_eligible_route
+22107,Port Melbourne,21558,Lysterfield,,no_eligible_route
+22113,Portsea,21558,Lysterfield,,no_eligible_route
+22115,Powelltown,21558,Lysterfield,,no_eligible_route
+22118,Prahran,21558,Lysterfield,163.42,ok
+22121,Preston (Vic.),21558,Lysterfield,,no_eligible_route
+22122,Princes Hill,21558,Lysterfield,,no_eligible_route
+22132,Quandong,21558,Lysterfield,,no_eligible_route
+22141,Ravenhall,21558,Lysterfield,,no_eligible_route
+22148,Red Hill (Vic.),21558,Lysterfield,,no_eligible_route
+22149,Red Hill South,21558,Lysterfield,,no_eligible_route
+22160,Research,21558,Lysterfield,,no_eligible_route
+22161,Reservoir (Vic.),21558,Lysterfield,,no_eligible_route
+22170,Richmond (Vic.),21558,Lysterfield,,no_eligible_route
+22172,Riddells Creek,21558,Lysterfield,,no_eligible_route
+22174,Ringwood (Vic.),21558,Lysterfield,107.13,ok
+22175,Ringwood East,21558,Lysterfield,227.98,walk_only
+22176,Ringwood North,21558,Lysterfield,115.33,ok
+22179,Ripponlea,21558,Lysterfield,,no_eligible_route
+22185,Rochford,21558,Lysterfield,,no_eligible_route
+22186,Rockbank,21558,Lysterfield,,no_eligible_route
+22193,Romsey,21558,Lysterfield,,no_eligible_route
+22194,Rosanna,21558,Lysterfield,,no_eligible_route
+22198,Rosebud,21558,Lysterfield,,no_eligible_route
+22207,Rowville,21558,Lysterfield,82.3,ok
+22208,Roxburgh Park,21558,Lysterfield,221.8,ok
+22220,Rye,21558,Lysterfield,,no_eligible_route
+22221,Rythdale,21558,Lysterfield,,no_eligible_route
+22222,Safety Beach (Vic.),21558,Lysterfield,,no_eligible_route
+22232,Sandhurst,21558,Lysterfield,,no_eligible_route
+22234,Sandringham (Vic.),21558,Lysterfield,,no_eligible_route
+22239,Sassafras (Vic.),21558,Lysterfield,154.63,walk_only
+22242,Scoresby,21558,Lysterfield,137.38,walk_only
+22247,Seabrook,21558,Lysterfield,,no_eligible_route
+22249,Seaford (Vic.),21558,Lysterfield,,no_eligible_route
+22250,Seaholme,21558,Lysterfield,,no_eligible_route
+22256,Seddon (Vic.),21558,Lysterfield,170.15,ok
+22258,Selby,21558,Lysterfield,123.03,walk_only
+22263,Seville,21558,Lysterfield,,no_eligible_route
+22264,Seville East,21558,Lysterfield,,no_eligible_route
+22278,Sherbrooke,21558,Lysterfield,141.32,walk_only
+22279,Shoreham,21558,Lysterfield,,no_eligible_route
+22281,Silvan,21558,Lysterfield,,no_eligible_route
+22291,Skye (Vic.),21558,Lysterfield,,no_eligible_route
+22295,Smiths Gully,21558,Lysterfield,,no_eligible_route
+22303,Somers,21558,Lysterfield,,no_eligible_route
+22304,Somerton (Vic.),21558,Lysterfield,,no_eligible_route
+22305,Somerville (Vic.),21558,Lysterfield,,no_eligible_route
+22306,Sorrento (Vic.),21558,Lysterfield,,no_eligible_route
+22309,South Kingsville,21558,Lysterfield,,no_eligible_route
+22310,South Melbourne,21558,Lysterfield,168.88,ok
+22311,South Morang,21558,Lysterfield,,no_eligible_route
+22313,South Wharf,21558,Lysterfield,,no_eligible_route
+22314,South Yarra,21558,Lysterfield,152.3,ok
+22315,Southbank,21558,Lysterfield,162.47,ok
+22319,Spotswood,21558,Lysterfield,,no_eligible_route
+22325,Springfield (Macedon Ranges - Vic.),21558,Lysterfield,,no_eligible_route
+22328,Springvale (Vic.),21558,Lysterfield,229.72,walk_only
+22329,Springvale South,21558,Lysterfield,137.83,ok
+22330,St Albans (Vic.),21558,Lysterfield,184.65,ok
+22332,St Andrews (Vic.),21558,Lysterfield,,no_eligible_route
+22333,St Andrews Beach,21558,Lysterfield,,no_eligible_route
+22339,St Helena,21558,Lysterfield,,no_eligible_route
+22343,St Kilda (Vic.),21558,Lysterfield,,no_eligible_route
+22344,St Kilda East,21558,Lysterfield,,no_eligible_route
+22345,St Kilda West,21558,Lysterfield,,no_eligible_route
+22355,Steels Creek,21558,Lysterfield,,no_eligible_route
+22375,Strathewen,21558,Lysterfield,,no_eligible_route
+22380,Strathmore (Vic.),21558,Lysterfield,200.12,ok
+22381,Strathmore Heights,21558,Lysterfield,,no_eligible_route
+22382,Strathtulloh,21558,Lysterfield,,no_eligible_route
+22391,Sunbury,21558,Lysterfield,,no_eligible_route
+22395,Sunshine (Vic.),21558,Lysterfield,173.43,ok
+22396,Sunshine North,21558,Lysterfield,203.23,ok
+22397,Sunshine West,21558,Lysterfield,205.6,ok
+22399,Surrey Hills,21558,Lysterfield,155.08,ok
+22414,Sydenham (Vic.),21558,Lysterfield,199.05,ok
+22451,Tarneit,21558,Lysterfield,,no_eligible_route
+22457,Tarrawarra,21558,Lysterfield,,no_eligible_route
+22473,Taylors Hill,21558,Lysterfield,,no_eligible_route
+22474,Taylors Lakes,21558,Lysterfield,203.93,ok
+22476,Tecoma,21558,Lysterfield,90.62,walk_only
+22483,Templestowe,21558,Lysterfield,,no_eligible_route
+22484,Templestowe Lower,21558,Lysterfield,,no_eligible_route
+22496,The Basin (Vic.),21558,Lysterfield,173.13,walk_only
+22501,The Patch,21558,Lysterfield,185.67,walk_only
+22504,Thomastown,21558,Lysterfield,,no_eligible_route
+22508,Thornbury,21558,Lysterfield,,no_eligible_route
+22509,Thornhill Park,21558,Lysterfield,,no_eligible_route
+22514,Three Bridges,21558,Lysterfield,,no_eligible_route
+22531,Tonimbuk,21558,Lysterfield,,no_eligible_route
+22536,Toolangi,21558,Lysterfield,,no_eligible_route
+22537,Toolern Vale,21558,Lysterfield,,no_eligible_route
+22546,Tooradin,21558,Lysterfield,,no_eligible_route
+22547,Toorak,21558,Lysterfield,154.25,ok
+22550,Tootgarook,21558,Lysterfield,,no_eligible_route
+22556,Tottenham (Vic.),21558,Lysterfield,200.87,ok
+22572,Travancore,21558,Lysterfield,,no_eligible_route
+22576,Tremont,21558,Lysterfield,122.52,walk_only
+22582,Truganina,21558,Lysterfield,,no_eligible_route
+22584,Tuerong,21558,Lysterfield,,no_eligible_route
+22586,Tullamarine,21558,Lysterfield,,no_eligible_route
+22594,Tyabb,21558,Lysterfield,,no_eligible_route
+22598,Tynong,21558,Lysterfield,,no_eligible_route
+22599,Tynong North,21558,Lysterfield,,no_eligible_route
+22614,Upper Ferntree Gully,21558,Lysterfield,101.9,walk_only
+22617,Upper Plenty,21558,Lysterfield,,no_eligible_route
+22620,Upwey,21558,Lysterfield,72.95,walk_only
+22627,Vermont,21558,Lysterfield,230.4,walk_only
+22628,Vermont South,21558,Lysterfield,223.33,walk_only
+22629,Vervale,21558,Lysterfield,,no_eligible_route
+22633,Viewbank,21558,Lysterfield,,no_eligible_route
+22661,Wallan,21558,Lysterfield,,no_eligible_route
+22672,Wandin East,21558,Lysterfield,,no_eligible_route
+22673,Wandin North,21558,Lysterfield,,no_eligible_route
+22676,Wandong,21558,Lysterfield,,no_eligible_route
+22685,Wantirna,21558,Lysterfield,185.68,walk_only
+22686,Wantirna South,21558,Lysterfield,163.02,walk_only
+22689,Warburton (Vic.),21558,Lysterfield,,no_eligible_route
+22695,Warneet,21558,Lysterfield,,no_eligible_route
+22702,Warrandyte,21558,Lysterfield,,no_eligible_route
+22703,Warrandyte South,21558,Lysterfield,,no_eligible_route
+22704,Warranwood,21558,Lysterfield,,no_eligible_route
+22717,Waterford Park,21558,Lysterfield,,no_eligible_route
+22720,Waterways,21558,Lysterfield,,no_eligible_route
+22721,Watsonia,21558,Lysterfield,,no_eligible_route
+22722,Watsonia North,21558,Lysterfield,,no_eligible_route
+22723,Watsons Creek (Vic.),21558,Lysterfield,,no_eligible_route
+22727,Wattle Glen,21558,Lysterfield,,no_eligible_route
+22740,Weir Views,21558,Lysterfield,,no_eligible_route
+22750,Werribee,21558,Lysterfield,,no_eligible_route
+22751,Werribee South,21558,Lysterfield,,no_eligible_route
+22753,Wesburn,21558,Lysterfield,,no_eligible_route
+22756,West Footscray,21558,Lysterfield,177.6,ok
+22757,West Melbourne,21558,Lysterfield,,no_eligible_route
+22761,Westmeadows,21558,Lysterfield,,no_eligible_route
+22766,Wheelers Hill,21558,Lysterfield,104.43,ok
+22775,Whittlesea,21558,Lysterfield,,no_eligible_route
+22784,Wildwood,21558,Lysterfield,,no_eligible_route
+22791,Williams Landing,21558,Lysterfield,,no_eligible_route
+22792,Williamstown (Vic.),21558,Lysterfield,,no_eligible_route
+22793,Williamstown North,21558,Lysterfield,,no_eligible_route
+22805,Windsor (Vic.),21558,Lysterfield,,no_eligible_route
+22820,Wollert,21558,Lysterfield,,no_eligible_route
+22825,Wonga Park,21558,Lysterfield,,no_eligible_route
+22843,Woodstock (Vic.),21558,Lysterfield,,no_eligible_route
+22857,Woori Yallock,21558,Lysterfield,,no_eligible_route
+22883,Wyndham Vale,21558,Lysterfield,,no_eligible_route
+22892,Yallambie,21558,Lysterfield,,no_eligible_route
+22898,Yan Yean,21558,Lysterfield,,no_eligible_route
+22906,Yannathan,21558,Lysterfield,,no_eligible_route
+22910,Yarra Glen,21558,Lysterfield,,no_eligible_route
+22911,Yarra Junction,21558,Lysterfield,,no_eligible_route
+22916,Yarrambat,21558,Lysterfield,,no_eligible_route
+22917,Yarraville,21558,Lysterfield,191.55,ok
+22925,Yellingbo,21558,Lysterfield,,no_eligible_route
+22930,Yering,21558,Lysterfield,,no_eligible_route
+22941,Yuroke,21558,Lysterfield,,no_eligible_route

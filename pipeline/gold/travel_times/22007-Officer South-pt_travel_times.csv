@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22007,Officer South,153.75,ok
+20003,Aberfeldie,22007,Officer South,192.25,ok
+20011,Aintree,22007,Officer South,,no_eligible_route
+20015,Airport West,22007,Officer South,,no_eligible_route
+20017,Albanvale,22007,Officer South,207.98,ok
+20018,Albert Park (Vic.),22007,Officer South,154.1,ok
+20021,Albion (Vic.),22007,Officer South,170.9,ok
+20034,Alphington,22007,Officer South,157.92,ok
+20035,Altona (Vic.),22007,Officer South,193.0,ok
+20036,Altona Meadows,22007,Officer South,217.7,ok
+20037,Altona North,22007,Officer South,205.52,ok
+20062,Ardeer,22007,Officer South,189.13,ok
+20066,Armadale (Vic.),22007,Officer South,134.45,ok
+20071,Arthurs Creek,22007,Officer South,,no_eligible_route
+20072,Arthurs Seat,22007,Officer South,,no_eligible_route
+20075,Ascot Vale,22007,Officer South,171.13,ok
+20077,Ashburton,22007,Officer South,140.0,ok
+20078,Ashwood,22007,Officer South,137.62,ok
+20079,Aspendale,22007,Officer South,152.08,ok
+20080,Aspendale Gardens,22007,Officer South,141.15,ok
+20082,Attwood,22007,Officer South,225.35,ok
+20089,Avondale Heights,22007,Officer South,204.53,ok
+20091,Avonsleigh,22007,Officer South,,no_eligible_route
+20095,Bacchus Marsh,22007,Officer South,,no_eligible_route
+20097,Badger Creek,22007,Officer South,,no_eligible_route
+20105,Balaclava (Vic.),22007,Officer South,140.68,ok
+20120,Balnarring,22007,Officer South,,no_eligible_route
+20121,Balnarring Beach,22007,Officer South,,no_eligible_route
+20123,Balwyn,22007,Officer South,168.52,ok
+20124,Balwyn North,22007,Officer South,171.65,ok
+20131,Bangholme,22007,Officer South,147.1,ok
+20169,Baxter,22007,Officer South,,no_eligible_route
+20171,Bayles,22007,Officer South,,no_eligible_route
+20173,Bayswater (Vic.),22007,Officer South,150.2,ok
+20174,Bayswater North,22007,Officer South,175.97,ok
+20175,Beaconsfield (Vic.),22007,Officer South,100.85,ok
+20176,Beaconsfield Upper,22007,Officer South,193.32,walk_only
+20182,Beaumaris (Vic.),22007,Officer South,162.13,ok
+20187,Beenak,22007,Officer South,,no_eligible_route
+20188,Belgrave,22007,Officer South,163.48,ok
+20189,Belgrave Heights,22007,Officer South,195.15,ok
+20190,Belgrave South,22007,Officer South,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),22007,Officer South,174.67,ok
+20207,Bend Of Islands,22007,Officer South,,no_eligible_route
+20212,Benloch,22007,Officer South,,no_eligible_route
+20214,Bentleigh,22007,Officer South,142.18,ok
+20215,Bentleigh East,22007,Officer South,130.53,ok
+20224,Berwick,22007,Officer South,78.65,ok
+20233,Beveridge,22007,Officer South,,no_eligible_route
+20237,Big Pats Creek,22007,Officer South,,no_eligible_route
+20248,Bittern,22007,Officer South,,no_eligible_route
+20251,Black Rock (Vic.),22007,Officer South,184.25,ok
+20252,Blackburn,22007,Officer South,148.27,ok
+20253,Blackburn North,22007,Officer South,157.4,ok
+20254,Blackburn South,22007,Officer South,157.95,ok
+20257,Blairgowrie,22007,Officer South,,no_eligible_route
+20260,Blind Bight,22007,Officer South,,no_eligible_route
+20272,Bolinda,22007,Officer South,,no_eligible_route
+20278,Bonbeach,22007,Officer South,152.4,ok
+20280,Boneo,22007,Officer South,,no_eligible_route
+20282,Bonnie Brook,22007,Officer South,,no_eligible_route
+20304,Boronia,22007,Officer South,155.97,ok
+20307,Botanic Ridge,22007,Officer South,148.52,ok
+20314,Box Hill (Vic.),22007,Officer South,142.62,ok
+20315,Box Hill North,22007,Officer South,150.6,ok
+20316,Box Hill South,22007,Officer South,139.48,ok
+20320,Braeside,22007,Officer South,152.68,ok
+20324,Braybrook,22007,Officer South,183.18,ok
+20331,Briar Hill,22007,Officer South,184.5,ok
+20337,Brighton (Vic.),22007,Officer South,160.32,ok
+20338,Brighton East,22007,Officer South,155.87,ok
+20346,Broadmeadows (Vic.),22007,Officer South,194.75,ok
+20351,Brookfield (Vic.),22007,Officer South,,no_eligible_route
+20352,Brooklyn (Vic.),22007,Officer South,178.47,ok
+20361,Brunswick (Vic.),22007,Officer South,159.65,ok
+20362,Brunswick East,22007,Officer South,159.52,ok
+20363,Brunswick West,22007,Officer South,164.03,ok
+20381,Bulla (Vic.),22007,Officer South,,no_eligible_route
+20386,Bulleen,22007,Officer South,171.75,ok
+20387,Bullengarook,22007,Officer South,,no_eligible_route
+20399,Bundoora (Vic.),22007,Officer South,189.1,ok
+20411,Bunyip,22007,Officer South,,no_eligible_route
+20412,Bunyip North,22007,Officer South,,no_eligible_route
+20418,Burnley,22007,Officer South,158.15,ok
+20419,Burnside (Vic.),22007,Officer South,,no_eligible_route
+20420,Burnside Heights,22007,Officer South,,no_eligible_route
+20426,Burwood (Vic.),22007,Officer South,138.55,ok
+20427,Burwood East,22007,Officer South,145.2,ok
+20435,Bylands,22007,Officer South,,no_eligible_route
+20441,Cairnlea,22007,Officer South,193.55,ok
+20442,Calder Park,22007,Officer South,,no_eligible_route
+20443,Caldermeade,22007,Officer South,,no_eligible_route
+20453,Camberwell (Vic.),22007,Officer South,152.27,ok
+20455,Campbellfield,22007,Officer South,203.4,ok
+20466,Cannons Creek,22007,Officer South,,no_eligible_route
+20468,Canterbury (Vic.),22007,Officer South,163.17,ok
+20474,Cape Schanck,22007,Officer South,,no_eligible_route
+20476,Capel Sound,22007,Officer South,,no_eligible_route
+20487,Cardinia,22007,Officer South,91.53,walk_only
+20495,Carlton (Vic.),22007,Officer South,144.12,ok
+20496,Carlton North,22007,Officer South,161.92,ok
+20498,Carnegie,22007,Officer South,123.45,ok
+20500,Caroline Springs,22007,Officer South,,no_eligible_route
+20507,Carrum,22007,Officer South,152.22,ok
+20508,Carrum Downs,22007,Officer South,125.45,ok
+20512,Castella,22007,Officer South,,no_eligible_route
+20517,Catani,22007,Officer South,,no_eligible_route
+20521,Caulfield,22007,Officer South,140.03,ok
+20522,Caulfield East,22007,Officer South,121.12,ok
+20523,Caulfield North,22007,Officer South,125.13,ok
+20524,Caulfield South,22007,Officer South,150.42,ok
+20528,Chadstone,22007,Officer South,133.23,ok
+20537,Chelsea,22007,Officer South,137.52,ok
+20538,Chelsea Heights,22007,Officer South,148.8,ok
+20539,Cheltenham (Vic.),22007,Officer South,137.95,ok
+20541,Cherokee,22007,Officer South,,no_eligible_route
+20555,Chintin,22007,Officer South,,no_eligible_route
+20556,Chirnside Park,22007,Officer South,,no_eligible_route
+20559,Christmas Hills (Vic.),22007,Officer South,,no_eligible_route
+20560,Chum Creek,22007,Officer South,,no_eligible_route
+20566,Clarinda,22007,Officer South,132.32,ok
+20567,Clarkefield,22007,Officer South,,no_eligible_route
+20569,Clayton,22007,Officer South,121.8,ok
+20570,Clayton South,22007,Officer South,129.28,ok
+20572,Clematis,22007,Officer South,,no_eligible_route
+20574,Clifton Hill,22007,Officer South,152.0,ok
+20576,Clonbinane,22007,Officer South,,no_eligible_route
+20581,Clyde (Vic.),22007,Officer South,171.35,ok
+20582,Clyde North,22007,Officer South,119.17,ok
+20587,Cobaw,22007,Officer South,,no_eligible_route
+20590,Cobblebank,22007,Officer South,,no_eligible_route
+20596,Coburg,22007,Officer South,165.38,ok
+20597,Coburg North,22007,Officer South,174.95,ok
+20600,Cockatoo (Vic.),22007,Officer South,,no_eligible_route
+20601,Cocoroc,22007,Officer South,,no_eligible_route
+20605,Coimadai,22007,Officer South,,no_eligible_route
+20613,Coldstream (Vic.),22007,Officer South,,no_eligible_route
+20616,Collingwood (Vic.),22007,Officer South,154.4,ok
+20624,Coolaroo,22007,Officer South,195.62,ok
+20633,Cora Lynn,22007,Officer South,,no_eligible_route
+20654,Cottles Bridge,22007,Officer South,,no_eligible_route
+20661,Craigieburn,22007,Officer South,224.78,ok
+20662,Cranbourne,22007,Officer South,113.52,ok
+20663,Cranbourne East,22007,Officer South,129.4,ok
+20664,Cranbourne North,22007,Officer South,96.32,ok
+20665,Cranbourne South,22007,Officer South,151.87,ok
+20666,Cranbourne West,22007,Officer South,126.82,ok
+20670,Cremorne (Vic.),22007,Officer South,149.45,ok
+20674,Crib Point,22007,Officer South,,no_eligible_route
+20682,Croydon (Vic.),22007,Officer South,159.5,ok
+20683,Croydon Hills,22007,Officer South,197.4,ok
+20684,Croydon North,22007,Officer South,,no_eligible_route
+20685,Croydon South,22007,Officer South,169.0,ok
+20702,Dallas,22007,Officer South,202.05,ok
+20703,Dalmore,22007,Officer South,136.37,walk_only
+20707,Dandenong,22007,Officer South,91.52,ok
+20708,Dandenong North,22007,Officer South,126.95,ok
+20709,Dandenong South,22007,Officer South,123.05,ok
+20712,Darley,22007,Officer South,,no_eligible_route
+20716,Darraweit Guim,22007,Officer South,,no_eligible_route
+20724,Deanside,22007,Officer South,,no_eligible_route
+20728,Deepdene (Vic.),22007,Officer South,160.52,ok
+20729,Deer Park,22007,Officer South,,no_eligible_route
+20731,Delahey,22007,Officer South,205.45,ok
+20743,Derrimut,22007,Officer South,,no_eligible_route
+20748,Devon Meadows,22007,Officer South,178.1,ok
+20750,Dewhurst,22007,Officer South,,no_eligible_route
+20752,Diamond Creek,22007,Officer South,200.23,ok
+20754,Diggers Rest,22007,Officer South,213.32,ok
+20758,Dingley Village,22007,Officer South,125.28,ok
+20762,Dixons Creek,22007,Officer South,,no_eligible_route
+20766,Docklands,22007,Officer South,157.93,ok
+20769,Don Valley,22007,Officer South,,no_eligible_route
+20771,Doncaster,22007,Officer South,154.4,ok
+20772,Doncaster East,22007,Officer South,159.37,ok
+20773,Donnybrook (Vic.),22007,Officer South,,no_eligible_route
+20774,Donvale,22007,Officer South,160.1,ok
+20779,Doreen,22007,Officer South,,no_eligible_route
+20783,Doveton,22007,Officer South,110.23,ok
+20788,Dromana,22007,Officer South,248.83,ok
+20825,Eaglemont,22007,Officer South,176.25,ok
+20830,East Melbourne,22007,Officer South,144.52,ok
+20833,East Warburton,22007,Officer South,,no_eligible_route
+20843,Eden Park,22007,Officer South,,no_eligible_route
+20848,Edithvale,22007,Officer South,122.0,ok
+20864,Elsternwick,22007,Officer South,158.35,ok
+20865,Eltham (Vic.),22007,Officer South,185.47,ok
+20866,Eltham North,22007,Officer South,202.05,ok
+20867,Elwood,22007,Officer South,165.33,ok
+20868,Emerald (Vic.),22007,Officer South,,no_eligible_route
+20871,Endeavour Hills,22007,Officer South,117.57,ok
+20878,Epping (Vic.),22007,Officer South,221.48,ok
+20885,Essendon,22007,Officer South,177.05,ok
+20886,Essendon Fields,22007,Officer South,,no_eligible_route
+20887,Essendon North,22007,Officer South,197.92,ok
+20888,Essendon West,22007,Officer South,190.37,ok
+20889,Eumemmerring,22007,Officer South,107.2,ok
+20898,Exford,22007,Officer South,,no_eligible_route
+20899,Eynesbury,22007,Officer South,,no_eligible_route
+20901,Fairfield (Vic.),22007,Officer South,164.23,ok
+20909,Fawkner,22007,Officer South,195.85,ok
+20916,Fernshaw,22007,Officer South,,no_eligible_route
+20917,Ferntree Gully,22007,Officer South,137.23,ok
+20918,Ferny Creek,22007,Officer South,,no_eligible_route
+20920,Fingal (Vic.),22007,Officer South,,no_eligible_route
+20924,Fitzroy (Vic.),22007,Officer South,154.53,ok
+20925,Fitzroy North,22007,Officer South,159.72,ok
+20929,Flemington,22007,Officer South,175.37,ok
+20930,Flinders (Vic.),22007,Officer South,,no_eligible_route
+20935,Footscray,22007,Officer South,149.32,ok
+20937,Forest Hill (Vic.),22007,Officer South,132.8,ok
+20947,Frankston,22007,Officer South,143.05,ok
+20948,Frankston North,22007,Officer South,149.3,ok
+20949,Frankston South,22007,Officer South,,no_eligible_route
+20950,Fraser Rise,22007,Officer South,,no_eligible_route
+20965,Gardenvale,22007,Officer South,156.25,ok
+20966,Garfield,22007,Officer South,,no_eligible_route
+20967,Garfield North,22007,Officer South,,no_eligible_route
+20979,Gembrook,22007,Officer South,,no_eligible_route
+20995,Gilderoy,22007,Officer South,,no_eligible_route
+21001,Gisborne,22007,Officer South,,no_eligible_route
+21002,Gisborne South,22007,Officer South,,no_eligible_route
+21004,Gladstone Park,22007,Officer South,208.95,ok
+21005,Gladysdale,22007,Officer South,,no_eligible_route
+21009,Glen Huntly,22007,Officer South,130.72,ok
+21010,Glen Iris (Vic.),22007,Officer South,148.3,ok
+21013,Glen Waverley,22007,Officer South,123.4,ok
+21047,Glenroy (Vic.),22007,Officer South,189.6,ok
+21059,Goldie,22007,Officer South,,no_eligible_route
+21079,Gowanbrae,22007,Officer South,211.28,ok
+21087,Grangefields,22007,Officer South,,no_eligible_route
+21104,Greensborough,22007,Officer South,178.8,ok
+21105,Greenvale (Vic.),22007,Officer South,,no_eligible_route
+21115,Gruyere,22007,Officer South,,no_eligible_route
+21121,Guys Hill,22007,Officer South,191.53,walk_only
+21124,Hadfield,22007,Officer South,197.88,ok
+21125,Hallam,22007,Officer South,98.57,ok
+21131,Hampton (Vic.),22007,Officer South,162.98,ok
+21132,Hampton East,22007,Officer South,144.95,ok
+21133,Hampton Park,22007,Officer South,106.18,ok
+21139,Harkaway,22007,Officer South,,no_eligible_route
+21140,Harkness,22007,Officer South,,no_eligible_route
+21145,Hastings (Vic.),22007,Officer South,,no_eligible_route
+21152,Hawthorn (Vic.),22007,Officer South,141.65,ok
+21153,Hawthorn East,22007,Officer South,145.03,ok
+21158,Healesville,22007,Officer South,,no_eligible_route
+21159,Heath Hill,22007,Officer South,,no_eligible_route
+21161,Heathcote Junction,22007,Officer South,,no_eligible_route
+21163,Heatherton,22007,Officer South,139.33,ok
+21165,Heathmont,22007,Officer South,170.67,ok
+21167,Heidelberg,22007,Officer South,174.32,ok
+21168,Heidelberg Heights,22007,Officer South,183.55,ok
+21169,Heidelberg West,22007,Officer South,178.77,ok
+21176,Hesket,22007,Officer South,,no_eligible_route
+21185,Highett,22007,Officer South,137.72,ok
+21193,Hillside (Melton - Vic.),22007,Officer South,,no_eligible_route
+21195,Hmas Cerberus,22007,Officer South,,no_eligible_route
+21196,Hoddles Creek,22007,Officer South,,no_eligible_route
+21202,Hopetoun Park,22007,Officer South,,no_eligible_route
+21203,Hoppers Crossing,22007,Officer South,216.98,ok
+21214,Hughesdale,22007,Officer South,114.37,ok
+21215,Humevale,22007,Officer South,,no_eligible_route
+21218,Huntingdale (Vic.),22007,Officer South,114.23,ok
+21223,Hurstbridge,22007,Officer South,200.78,ok
+21238,Iona,22007,Officer South,,no_eligible_route
+21246,Ivanhoe (Vic.),22007,Officer South,162.52,ok
+21247,Ivanhoe East,22007,Officer South,182.18,ok
+21248,Jacana,22007,Officer South,194.17,ok
+21277,Junction Village,22007,Officer South,160.85,ok
+21284,Kalkallo,22007,Officer South,,no_eligible_route
+21286,Kallista,22007,Officer South,,no_eligible_route
+21287,Kalorama,22007,Officer South,,no_eligible_route
+21294,Kangaroo Ground,22007,Officer South,,no_eligible_route
+21312,Kealba,22007,Officer South,203.12,ok
+21314,Keilor,22007,Officer South,,no_eligible_route
+21315,Keilor Downs,22007,Officer South,198.25,ok
+21316,Keilor East,22007,Officer South,188.07,ok
+21317,Keilor Lodge,22007,Officer South,238.92,ok
+21318,Keilor North,22007,Officer South,211.7,ok
+21319,Keilor Park,22007,Officer South,,no_eligible_route
+21327,Kensington (Vic.),22007,Officer South,159.38,ok
+21333,Kerrie,22007,Officer South,,no_eligible_route
+21336,Kew (Vic.),22007,Officer South,154.68,ok
+21337,Kew East,22007,Officer South,172.72,ok
+21339,Keysborough,22007,Officer South,129.98,ok
+21354,Kilsyth,22007,Officer South,,no_eligible_route
+21355,Kilsyth South,22007,Officer South,,no_eligible_route
+21358,Kinglake,22007,Officer South,,no_eligible_route
+21359,Kinglake Central,22007,Officer South,,no_eligible_route
+21360,Kinglake West,22007,Officer South,,no_eligible_route
+21362,Kings Park (Vic.),22007,Officer South,200.17,ok
+21363,Kingsbury,22007,Officer South,193.87,ok
+21365,Kingsville,22007,Officer South,158.38,ok
+21374,Knoxfield,22007,Officer South,132.7,ok
+21380,Koo Wee Rup,22007,Officer South,201.57,walk_only
+21381,Koo Wee Rup North,22007,Officer South,237.07,walk_only
+21393,Kooyong,22007,Officer South,140.43,ok
+21411,Kurunjang,22007,Officer South,,no_eligible_route
+21452,Lalor,22007,Officer South,184.2,ok
+21456,Lancefield,22007,Officer South,,no_eligible_route
+21459,Lang Lang,22007,Officer South,,no_eligible_route
+21460,Lang Lang East,22007,Officer South,,no_eligible_route
+21467,Langwarrin,22007,Officer South,141.23,ok
+21468,Langwarrin South,22007,Officer South,,no_eligible_route
+21473,Launching Place,22007,Officer South,,no_eligible_route
+21476,Laverton (Vic.),22007,Officer South,188.6,ok
+21477,Laverton North,22007,Officer South,,no_eligible_route
+21504,Lilydale (Vic.),22007,Officer South,191.2,ok
+21533,Long Forest,22007,Officer South,,no_eligible_route
+21547,Lower Plenty,22007,Officer South,194.15,ok
+21554,Lynbrook,22007,Officer South,108.02,ok
+21555,Lyndhurst (Vic.),22007,Officer South,156.6,ok
+21558,Lysterfield,22007,Officer South,,no_eligible_route
+21559,Lysterfield South,22007,Officer South,175.73,ok
+21561,Macclesfield (Vic.),22007,Officer South,,no_eligible_route
+21562,Macedon,22007,Officer South,,no_eligible_route
+21564,Macleod (Vic.),22007,Officer South,177.87,ok
+21569,Maddingley,22007,Officer South,,no_eligible_route
+21575,Maidstone,22007,Officer South,181.57,ok
+21578,Main Ridge,22007,Officer South,,no_eligible_route
+21586,Malvern (Vic.),22007,Officer South,135.15,ok
+21587,Malvern East,22007,Officer South,130.93,ok
+21588,Mambourin,22007,Officer South,,no_eligible_route
+21597,Manor Lakes,22007,Officer South,,no_eligible_route
+21604,Maribyrnong,22007,Officer South,179.65,ok
+21619,Maryknoll,22007,Officer South,,no_eligible_route
+21625,McCrae,22007,Officer South,,no_eligible_route
+21629,McKinnon,22007,Officer South,128.02,ok
+21635,Meadow Heights,22007,Officer South,207.05,ok
+21640,Melbourne,22007,Officer South,136.98,ok
+21641,Melbourne Airport,22007,Officer South,,no_eligible_route
+21642,Melton (Vic.),22007,Officer South,,no_eligible_route
+21643,Melton South,22007,Officer South,,no_eligible_route
+21644,Melton West,22007,Officer South,,no_eligible_route
+21648,Mentone,22007,Officer South,132.37,ok
+21649,Menzies Creek,22007,Officer South,,no_eligible_route
+21659,Mernda,22007,Officer South,230.55,ok
+21662,Merricks,22007,Officer South,,no_eligible_route
+21663,Merricks Beach,22007,Officer South,,no_eligible_route
+21664,Merricks North,22007,Officer South,,no_eligible_route
+21668,Merrimu,22007,Officer South,,no_eligible_route
+21675,Mickleham,22007,Officer South,,no_eligible_route
+21677,Middle Park (Vic.),22007,Officer South,159.15,ok
+21683,Mill Park,22007,Officer South,213.7,ok
+21685,Millgrove,22007,Officer South,,no_eligible_route
+21706,Mitcham (Vic.),22007,Officer South,153.23,ok
+21727,Monbulk,22007,Officer South,,no_eligible_route
+21728,Monegeetta,22007,Officer South,,no_eligible_route
+21731,Monomeith,22007,Officer South,,no_eligible_route
+21732,Mont Albert,22007,Officer South,161.08,ok
+21733,Mont Albert North,22007,Officer South,166.58,ok
+21735,Montmorency,22007,Officer South,182.52,ok
+21736,Montrose (Vic.),22007,Officer South,,no_eligible_route
+21742,Moonee Ponds,22007,Officer South,163.52,ok
+21746,Moorabbin,22007,Officer South,137.97,ok
+21747,Moorabbin Airport,22007,Officer South,135.28,ok
+21754,Moorooduc,22007,Officer South,,no_eligible_route
+21755,Mooroolbark,22007,Officer South,178.12,ok
+21760,Mordialloc,22007,Officer South,157.72,ok
+21763,Mornington (Vic.),22007,Officer South,188.05,ok
+21779,Mount Burnett,22007,Officer South,,no_eligible_route
+21786,Mount Cottrell,22007,Officer South,,no_eligible_route
+21787,Mount Dandenong,22007,Officer South,,no_eligible_route
+21793,Mount Eliza,22007,Officer South,166.23,ok
+21795,Mount Evelyn,22007,Officer South,,no_eligible_route
+21801,Mount Macedon,22007,Officer South,,no_eligible_route
+21803,Mount Martha,22007,Officer South,205.52,ok
+21814,Mount Toolebewong,22007,Officer South,,no_eligible_route
+21816,Mount Waverley,22007,Officer South,130.55,ok
+21827,Mulgrave (Vic.),22007,Officer South,123.33,ok
+21849,Murrumbeena,22007,Officer South,118.5,ok
+21872,Nangana,22007,Officer South,,no_eligible_route
+21878,Nar Nar Goon,22007,Officer South,217.55,walk_only
+21879,Nar Nar Goon North,22007,Officer South,,no_eligible_route
+21893,Narre Warren,22007,Officer South,92.2,ok
+21894,Narre Warren East,22007,Officer South,,no_eligible_route
+21895,Narre Warren North,22007,Officer South,123.02,ok
+21896,Narre Warren South,22007,Officer South,94.57,ok
+21921,New Gisborne,22007,Officer South,,no_eligible_route
+21934,Newport (Vic.),22007,Officer South,168.45,ok
+21942,Niddrie,22007,Officer South,223.73,ok
+21952,Noble Park,22007,Officer South,95.03,ok
+21953,Noble Park North,22007,Officer South,129.22,ok
+21966,North Melbourne,22007,Officer South,144.12,ok
+21969,North Warrandyte,22007,Officer South,230.3,ok
+21971,Northcote,22007,Officer South,166.13,ok
+21974,Notting Hill,22007,Officer South,137.4,ok
+21985,Nunawading,22007,Officer South,136.33,ok
+21991,Nutfield,22007,Officer South,,no_eligible_route
+21998,Oak Park,22007,Officer South,181.83,ok
+21999,Oaklands Junction,22007,Officer South,,no_eligible_route
+22000,Oakleigh,22007,Officer South,114.77,ok
+22001,Oakleigh East,22007,Officer South,129.8,ok
+22002,Oakleigh South,22007,Officer South,112.62,ok
+22006,Officer,22007,Officer South,84.2,ok
+22007,Officer South,22007,Officer South,0.0,same_centroid
+22009,Olinda (Vic.),22007,Officer South,,no_eligible_route
+22016,Ormond,22007,Officer South,124.33,ok
+22027,Pakenham,22007,Officer South,61.28,ok
+22028,Pakenham South,22007,Officer South,226.1,walk_only
+22029,Pakenham Upper,22007,Officer South,207.5,walk_only
+22032,Panton Hill,22007,Officer South,,no_eligible_route
+22036,Park Orchards,22007,Officer South,,no_eligible_route
+22037,Parkdale,22007,Officer South,150.18,ok
+22038,Parkville (Vic.),22007,Officer South,155.73,ok
+22041,Pascoe Vale,22007,Officer South,186.2,ok
+22042,Pascoe Vale South,22007,Officer South,174.32,ok
+22047,Patterson Lakes,22007,Officer South,153.3,ok
+22050,Pearcedale,22007,Officer South,169.17,ok
+22058,Pentland Hills,22007,Officer South,,no_eligible_route
+22064,Pheasant Creek (Vic.),22007,Officer South,,no_eligible_route
+22084,Plenty (Vic.),22007,Officer South,201.37,ok
+22085,Plumpton (Vic.),22007,Officer South,,no_eligible_route
+22086,Point Cook,22007,Officer South,,no_eligible_route
+22087,Point Leo,22007,Officer South,,no_eligible_route
+22107,Port Melbourne,22007,Officer South,171.73,ok
+22113,Portsea,22007,Officer South,,no_eligible_route
+22115,Powelltown,22007,Officer South,,no_eligible_route
+22118,Prahran,22007,Officer South,145.52,ok
+22121,Preston (Vic.),22007,Officer South,178.8,ok
+22122,Princes Hill,22007,Officer South,161.88,ok
+22132,Quandong,22007,Officer South,,no_eligible_route
+22141,Ravenhall,22007,Officer South,,no_eligible_route
+22148,Red Hill (Vic.),22007,Officer South,,no_eligible_route
+22149,Red Hill South,22007,Officer South,,no_eligible_route
+22160,Research,22007,Officer South,,no_eligible_route
+22161,Reservoir (Vic.),22007,Officer South,181.02,ok
+22170,Richmond (Vic.),22007,Officer South,149.05,ok
+22172,Riddells Creek,22007,Officer South,,no_eligible_route
+22174,Ringwood (Vic.),22007,Officer South,160.43,ok
+22175,Ringwood East,22007,Officer South,159.58,ok
+22176,Ringwood North,22007,Officer South,189.88,ok
+22179,Ripponlea,22007,Officer South,152.7,ok
+22185,Rochford,22007,Officer South,,no_eligible_route
+22186,Rockbank,22007,Officer South,,no_eligible_route
+22193,Romsey,22007,Officer South,,no_eligible_route
+22194,Rosanna,22007,Officer South,172.33,ok
+22198,Rosebud,22007,Officer South,,no_eligible_route
+22207,Rowville,22007,Officer South,125.87,ok
+22208,Roxburgh Park,22007,Officer South,211.68,ok
+22220,Rye,22007,Officer South,,no_eligible_route
+22221,Rythdale,22007,Officer South,134.12,walk_only
+22222,Safety Beach (Vic.),22007,Officer South,216.73,ok
+22232,Sandhurst,22007,Officer South,151.38,ok
+22234,Sandringham (Vic.),22007,Officer South,176.82,ok
+22239,Sassafras (Vic.),22007,Officer South,,no_eligible_route
+22242,Scoresby,22007,Officer South,134.78,ok
+22247,Seabrook,22007,Officer South,205.0,ok
+22249,Seaford (Vic.),22007,Officer South,151.73,ok
+22250,Seaholme,22007,Officer South,187.68,ok
+22256,Seddon (Vic.),22007,Officer South,149.03,ok
+22258,Selby,22007,Officer South,,no_eligible_route
+22263,Seville,22007,Officer South,,no_eligible_route
+22264,Seville East,22007,Officer South,,no_eligible_route
+22278,Sherbrooke,22007,Officer South,,no_eligible_route
+22279,Shoreham,22007,Officer South,,no_eligible_route
+22281,Silvan,22007,Officer South,,no_eligible_route
+22291,Skye (Vic.),22007,Officer South,120.77,ok
+22295,Smiths Gully,22007,Officer South,,no_eligible_route
+22303,Somers,22007,Officer South,,no_eligible_route
+22304,Somerton (Vic.),22007,Officer South,214.62,ok
+22305,Somerville (Vic.),22007,Officer South,,no_eligible_route
+22306,Sorrento (Vic.),22007,Officer South,,no_eligible_route
+22309,South Kingsville,22007,Officer South,180.7,ok
+22310,South Melbourne,22007,Officer South,146.92,ok
+22311,South Morang,22007,Officer South,216.18,ok
+22313,South Wharf,22007,Officer South,151.92,ok
+22314,South Yarra,22007,Officer South,137.47,ok
+22315,Southbank,22007,Officer South,143.48,ok
+22319,Spotswood,22007,Officer South,161.85,ok
+22325,Springfield (Macedon Ranges - Vic.),22007,Officer South,,no_eligible_route
+22328,Springvale (Vic.),22007,Officer South,105.97,ok
+22329,Springvale South,22007,Officer South,106.72,ok
+22330,St Albans (Vic.),22007,Officer South,173.53,ok
+22332,St Andrews (Vic.),22007,Officer South,,no_eligible_route
+22333,St Andrews Beach,22007,Officer South,,no_eligible_route
+22339,St Helena,22007,Officer South,198.48,ok
+22343,St Kilda (Vic.),22007,Officer South,147.9,ok
+22344,St Kilda East,22007,Officer South,140.85,ok
+22345,St Kilda West,22007,Officer South,152.8,ok
+22355,Steels Creek,22007,Officer South,,no_eligible_route
+22375,Strathewen,22007,Officer South,,no_eligible_route
+22380,Strathmore (Vic.),22007,Officer South,190.0,ok
+22381,Strathmore Heights,22007,Officer South,204.25,ok
+22382,Strathtulloh,22007,Officer South,,no_eligible_route
+22391,Sunbury,22007,Officer South,,no_eligible_route
+22395,Sunshine (Vic.),22007,Officer South,162.32,ok
+22396,Sunshine North,22007,Officer South,181.38,ok
+22397,Sunshine West,22007,Officer South,195.48,ok
+22399,Surrey Hills,22007,Officer South,160.03,ok
+22414,Sydenham (Vic.),22007,Officer South,187.93,ok
+22451,Tarneit,22007,Officer South,,no_eligible_route
+22457,Tarrawarra,22007,Officer South,,no_eligible_route
+22473,Taylors Hill,22007,Officer South,,no_eligible_route
+22474,Taylors Lakes,22007,Officer South,192.82,ok
+22476,Tecoma,22007,Officer South,160.48,ok
+22483,Templestowe,22007,Officer South,179.05,ok
+22484,Templestowe Lower,22007,Officer South,171.9,ok
+22496,The Basin (Vic.),22007,Officer South,213.03,ok
+22501,The Patch,22007,Officer South,,no_eligible_route
+22504,Thomastown,22007,Officer South,189.5,ok
+22508,Thornbury,22007,Officer South,173.28,ok
+22509,Thornhill Park,22007,Officer South,,no_eligible_route
+22514,Three Bridges,22007,Officer South,,no_eligible_route
+22531,Tonimbuk,22007,Officer South,,no_eligible_route
+22536,Toolangi,22007,Officer South,,no_eligible_route
+22537,Toolern Vale,22007,Officer South,,no_eligible_route
+22546,Tooradin,22007,Officer South,202.17,walk_only
+22547,Toorak,22007,Officer South,142.13,ok
+22550,Tootgarook,22007,Officer South,,no_eligible_route
+22556,Tottenham (Vic.),22007,Officer South,179.85,ok
+22572,Travancore,22007,Officer South,172.3,ok
+22576,Tremont,22007,Officer South,171.47,ok
+22582,Truganina,22007,Officer South,,no_eligible_route
+22584,Tuerong,22007,Officer South,,no_eligible_route
+22586,Tullamarine,22007,Officer South,236.1,ok
+22594,Tyabb,22007,Officer South,,no_eligible_route
+22598,Tynong,22007,Officer South,,no_eligible_route
+22599,Tynong North,22007,Officer South,,no_eligible_route
+22614,Upper Ferntree Gully,22007,Officer South,151.02,ok
+22617,Upper Plenty,22007,Officer South,,no_eligible_route
+22620,Upwey,22007,Officer South,160.35,ok
+22627,Vermont,22007,Officer South,162.02,ok
+22628,Vermont South,22007,Officer South,150.28,ok
+22629,Vervale,22007,Officer South,,no_eligible_route
+22633,Viewbank,22007,Officer South,205.5,ok
+22661,Wallan,22007,Officer South,,no_eligible_route
+22672,Wandin East,22007,Officer South,,no_eligible_route
+22673,Wandin North,22007,Officer South,,no_eligible_route
+22676,Wandong,22007,Officer South,,no_eligible_route
+22685,Wantirna,22007,Officer South,159.8,ok
+22686,Wantirna South,22007,Officer South,138.08,ok
+22689,Warburton (Vic.),22007,Officer South,,no_eligible_route
+22695,Warneet,22007,Officer South,,no_eligible_route
+22702,Warrandyte,22007,Officer South,196.55,ok
+22703,Warrandyte South,22007,Officer South,,no_eligible_route
+22704,Warranwood,22007,Officer South,,no_eligible_route
+22717,Waterford Park,22007,Officer South,,no_eligible_route
+22720,Waterways,22007,Officer South,134.15,ok
+22721,Watsonia,22007,Officer South,172.78,ok
+22722,Watsonia North,22007,Officer South,193.65,ok
+22723,Watsons Creek (Vic.),22007,Officer South,,no_eligible_route
+22727,Wattle Glen,22007,Officer South,204.53,ok
+22740,Weir Views,22007,Officer South,,no_eligible_route
+22750,Werribee,22007,Officer South,216.0,ok
+22751,Werribee South,22007,Officer South,,no_eligible_route
+22753,Wesburn,22007,Officer South,,no_eligible_route
+22756,West Footscray,22007,Officer South,160.3,ok
+22757,West Melbourne,22007,Officer South,172.82,ok
+22761,Westmeadows,22007,Officer South,206.82,ok
+22766,Wheelers Hill,22007,Officer South,126.22,ok
+22775,Whittlesea,22007,Officer South,,no_eligible_route
+22784,Wildwood,22007,Officer South,,no_eligible_route
+22791,Williams Landing,22007,Officer South,202.85,ok
+22792,Williamstown (Vic.),22007,Officer South,170.67,ok
+22793,Williamstown North,22007,Officer South,190.2,ok
+22805,Windsor (Vic.),22007,Officer South,145.48,ok
+22820,Wollert,22007,Officer South,,no_eligible_route
+22825,Wonga Park,22007,Officer South,,no_eligible_route
+22843,Woodstock (Vic.),22007,Officer South,,no_eligible_route
+22857,Woori Yallock,22007,Officer South,,no_eligible_route
+22883,Wyndham Vale,22007,Officer South,,no_eligible_route
+22892,Yallambie,22007,Officer South,202.05,ok
+22898,Yan Yean,22007,Officer South,,no_eligible_route
+22906,Yannathan,22007,Officer South,,no_eligible_route
+22910,Yarra Glen,22007,Officer South,,no_eligible_route
+22911,Yarra Junction,22007,Officer South,,no_eligible_route
+22916,Yarrambat,22007,Officer South,217.7,ok
+22917,Yarraville,22007,Officer South,167.6,ok
+22925,Yellingbo,22007,Officer South,,no_eligible_route
+22930,Yering,22007,Officer South,,no_eligible_route
+22941,Yuroke,22007,Officer South,,no_eligible_route

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21896,Narre Warren South,100.82,ok
+20003,Aberfeldie,21896,Narre Warren South,132.37,ok
+20011,Aintree,21896,Narre Warren South,148.1,ok
+20015,Airport West,21896,Narre Warren South,142.47,ok
+20017,Albanvale,21896,Narre Warren South,134.18,ok
+20018,Albert Park (Vic.),21896,Narre Warren South,99.93,ok
+20021,Albion (Vic.),21896,Narre Warren South,108.97,ok
+20034,Alphington,21896,Narre Warren South,104.98,ok
+20035,Altona (Vic.),21896,Narre Warren South,140.07,ok
+20036,Altona Meadows,21896,Narre Warren South,151.22,ok
+20037,Altona North,21896,Narre Warren South,141.47,ok
+20062,Ardeer,21896,Narre Warren South,127.2,ok
+20066,Armadale (Vic.),21896,Narre Warren South,74.2,ok
+20071,Arthurs Creek,21896,Narre Warren South,,no_eligible_route
+20072,Arthurs Seat,21896,Narre Warren South,,no_eligible_route
+20075,Ascot Vale,21896,Narre Warren South,113.9,ok
+20077,Ashburton,21896,Narre Warren South,91.95,ok
+20078,Ashwood,21896,Narre Warren South,83.68,ok
+20079,Aspendale,21896,Narre Warren South,109.15,ok
+20080,Aspendale Gardens,21896,Narre Warren South,97.47,ok
+20082,Attwood,21896,Narre Warren South,165.42,ok
+20089,Avondale Heights,21896,Narre Warren South,125.5,ok
+20091,Avonsleigh,21896,Narre Warren South,130.35,ok
+20095,Bacchus Marsh,21896,Narre Warren South,,no_eligible_route
+20097,Badger Creek,21896,Narre Warren South,210.67,ok
+20105,Balaclava (Vic.),21896,Narre Warren South,87.75,ok
+20120,Balnarring,21896,Narre Warren South,,no_eligible_route
+20121,Balnarring Beach,21896,Narre Warren South,,no_eligible_route
+20123,Balwyn,21896,Narre Warren South,118.58,ok
+20124,Balwyn North,21896,Narre Warren South,119.72,ok
+20131,Bangholme,21896,Narre Warren South,229.97,walk_only
+20169,Baxter,21896,Narre Warren South,117.35,ok
+20171,Bayles,21896,Narre Warren South,,no_eligible_route
+20173,Bayswater (Vic.),21896,Narre Warren South,110.27,ok
+20174,Bayswater North,21896,Narre Warren South,116.63,ok
+20175,Beaconsfield (Vic.),21896,Narre Warren South,63.92,ok
+20176,Beaconsfield Upper,21896,Narre Warren South,218.93,walk_only
+20182,Beaumaris (Vic.),21896,Narre Warren South,95.35,ok
+20187,Beenak,21896,Narre Warren South,,no_eligible_route
+20188,Belgrave,21896,Narre Warren South,117.65,ok
+20189,Belgrave Heights,21896,Narre Warren South,,no_eligible_route
+20190,Belgrave South,21896,Narre Warren South,235.17,walk_only
+20198,Bellfield (Banyule - Vic.),21896,Narre Warren South,122.73,ok
+20207,Bend Of Islands,21896,Narre Warren South,,no_eligible_route
+20212,Benloch,21896,Narre Warren South,,no_eligible_route
+20214,Bentleigh,21896,Narre Warren South,76.35,ok
+20215,Bentleigh East,21896,Narre Warren South,63.4,ok
+20224,Berwick,21896,Narre Warren South,36.72,ok
+20233,Beveridge,21896,Narre Warren South,,no_eligible_route
+20237,Big Pats Creek,21896,Narre Warren South,,no_eligible_route
+20248,Bittern,21896,Narre Warren South,135.33,ok
+20251,Black Rock (Vic.),21896,Narre Warren South,112.67,ok
+20252,Blackburn,21896,Narre Warren South,98.17,ok
+20253,Blackburn North,21896,Narre Warren South,124.47,ok
+20254,Blackburn South,21896,Narre Warren South,101.88,ok
+20257,Blairgowrie,21896,Narre Warren South,184.77,ok
+20260,Blind Bight,21896,Narre Warren South,,no_eligible_route
+20272,Bolinda,21896,Narre Warren South,,no_eligible_route
+20278,Bonbeach,21896,Narre Warren South,105.47,ok
+20280,Boneo,21896,Narre Warren South,,no_eligible_route
+20282,Bonnie Brook,21896,Narre Warren South,180.65,ok
+20304,Boronia,21896,Narre Warren South,104.42,ok
+20307,Botanic Ridge,21896,Narre Warren South,80.77,ok
+20314,Box Hill (Vic.),21896,Narre Warren South,90.68,ok
+20315,Box Hill North,21896,Narre Warren South,108.67,ok
+20316,Box Hill South,21896,Narre Warren South,87.55,ok
+20320,Braeside,21896,Narre Warren South,104.52,ok
+20324,Braybrook,21896,Narre Warren South,118.3,ok
+20331,Briar Hill,21896,Narre Warren South,141.3,ok
+20337,Brighton (Vic.),21896,Narre Warren South,88.88,ok
+20338,Brighton East,21896,Narre Warren South,78.03,ok
+20346,Broadmeadows (Vic.),21896,Narre Warren South,141.82,ok
+20351,Brookfield (Vic.),21896,Narre Warren South,,no_eligible_route
+20352,Brooklyn (Vic.),21896,Narre Warren South,129.65,ok
+20361,Brunswick (Vic.),21896,Narre Warren South,106.72,ok
+20362,Brunswick East,21896,Narre Warren South,111.0,ok
+20363,Brunswick West,21896,Narre Warren South,112.1,ok
+20381,Bulla (Vic.),21896,Narre Warren South,,no_eligible_route
+20386,Bulleen,21896,Narre Warren South,129.82,ok
+20387,Bullengarook,21896,Narre Warren South,,no_eligible_route
+20399,Bundoora (Vic.),21896,Narre Warren South,132.72,ok
+20411,Bunyip,21896,Narre Warren South,,no_eligible_route
+20412,Bunyip North,21896,Narre Warren South,,no_eligible_route
+20418,Burnley,21896,Narre Warren South,100.3,ok
+20419,Burnside (Vic.),21896,Narre Warren South,141.38,ok
+20420,Burnside Heights,21896,Narre Warren South,141.0,ok
+20426,Burwood (Vic.),21896,Narre Warren South,84.62,ok
+20427,Burwood East,21896,Narre Warren South,88.55,ok
+20435,Bylands,21896,Narre Warren South,,no_eligible_route
+20441,Cairnlea,21896,Narre Warren South,116.18,ok
+20442,Calder Park,21896,Narre Warren South,152.75,ok
+20443,Caldermeade,21896,Narre Warren South,,no_eligible_route
+20453,Camberwell (Vic.),21896,Narre Warren South,103.33,ok
+20455,Campbellfield,21896,Narre Warren South,150.47,ok
+20466,Cannons Creek,21896,Narre Warren South,,no_eligible_route
+20468,Canterbury (Vic.),21896,Narre Warren South,115.23,ok
+20474,Cape Schanck,21896,Narre Warren South,,no_eligible_route
+20476,Capel Sound,21896,Narre Warren South,169.12,ok
+20487,Cardinia,21896,Narre Warren South,219.07,walk_only
+20495,Carlton (Vic.),21896,Narre Warren South,91.18,ok
+20496,Carlton North,21896,Narre Warren South,107.77,ok
+20498,Carnegie,21896,Narre Warren South,68.52,ok
+20500,Caroline Springs,21896,Narre Warren South,135.88,ok
+20507,Carrum,21896,Narre Warren South,105.28,ok
+20508,Carrum Downs,21896,Narre Warren South,75.52,ok
+20512,Castella,21896,Narre Warren South,,no_eligible_route
+20517,Catani,21896,Narre Warren South,,no_eligible_route
+20521,Caulfield,21896,Narre Warren South,80.05,ok
+20522,Caulfield East,21896,Narre Warren South,66.18,ok
+20523,Caulfield North,21896,Narre Warren South,72.2,ok
+20524,Caulfield South,21896,Narre Warren South,81.48,ok
+20528,Chadstone,21896,Narre Warren South,80.3,ok
+20537,Chelsea,21896,Narre Warren South,92.58,ok
+20538,Chelsea Heights,21896,Narre Warren South,96.52,ok
+20539,Cheltenham (Vic.),21896,Narre Warren South,72.02,ok
+20541,Cherokee,21896,Narre Warren South,,no_eligible_route
+20555,Chintin,21896,Narre Warren South,,no_eligible_route
+20556,Chirnside Park,21896,Narre Warren South,172.78,ok
+20559,Christmas Hills (Vic.),21896,Narre Warren South,,no_eligible_route
+20560,Chum Creek,21896,Narre Warren South,,no_eligible_route
+20566,Clarinda,21896,Narre Warren South,68.75,ok
+20567,Clarkefield,21896,Narre Warren South,,no_eligible_route
+20569,Clayton,21896,Narre Warren South,65.87,ok
+20570,Clayton South,21896,Narre Warren South,74.07,ok
+20572,Clematis,21896,Narre Warren South,118.77,ok
+20574,Clifton Hill,21896,Narre Warren South,99.07,ok
+20576,Clonbinane,21896,Narre Warren South,,no_eligible_route
+20581,Clyde (Vic.),21896,Narre Warren South,192.85,walk_only
+20582,Clyde North,21896,Narre Warren South,55.72,ok
+20587,Cobaw,21896,Narre Warren South,,no_eligible_route
+20590,Cobblebank,21896,Narre Warren South,196.8,ok
+20596,Coburg,21896,Narre Warren South,112.45,ok
+20597,Coburg North,21896,Narre Warren South,122.02,ok
+20600,Cockatoo (Vic.),21896,Narre Warren South,124.9,ok
+20601,Cocoroc,21896,Narre Warren South,,no_eligible_route
+20605,Coimadai,21896,Narre Warren South,,no_eligible_route
+20613,Coldstream (Vic.),21896,Narre Warren South,,no_eligible_route
+20616,Collingwood (Vic.),21896,Narre Warren South,100.42,ok
+20624,Coolaroo,21896,Narre Warren South,142.68,ok
+20633,Cora Lynn,21896,Narre Warren South,,no_eligible_route
+20654,Cottles Bridge,21896,Narre Warren South,,no_eligible_route
+20661,Craigieburn,21896,Narre Warren South,168.22,ok
+20662,Cranbourne,21896,Narre Warren South,38.12,ok
+20663,Cranbourne East,21896,Narre Warren South,52.22,ok
+20664,Cranbourne North,21896,Narre Warren South,13.92,ok
+20665,Cranbourne South,21896,Narre Warren South,85.47,ok
+20666,Cranbourne West,21896,Narre Warren South,64.82,ok
+20670,Cremorne (Vic.),21896,Narre Warren South,89.8,ok
+20674,Crib Point,21896,Narre Warren South,144.3,ok
+20682,Croydon (Vic.),21896,Narre Warren South,117.57,ok
+20683,Croydon Hills,21896,Narre Warren South,134.9,ok
+20684,Croydon North,21896,Narre Warren South,148.83,ok
+20685,Croydon South,21896,Narre Warren South,125.38,ok
+20702,Dallas,21896,Narre Warren South,149.12,ok
+20703,Dalmore,21896,Narre Warren South,,no_eligible_route
+20707,Dandenong,21896,Narre Warren South,38.58,ok
+20708,Dandenong North,21896,Narre Warren South,78.45,ok
+20709,Dandenong South,21896,Narre Warren South,72.12,ok
+20712,Darley,21896,Narre Warren South,,no_eligible_route
+20716,Darraweit Guim,21896,Narre Warren South,,no_eligible_route
+20724,Deanside,21896,Narre Warren South,162.12,ok
+20728,Deepdene (Vic.),21896,Narre Warren South,104.58,ok
+20729,Deer Park,21896,Narre Warren South,127.95,ok
+20731,Delahey,21896,Narre Warren South,133.08,ok
+20743,Derrimut,21896,Narre Warren South,153.52,ok
+20748,Devon Meadows,21896,Narre Warren South,234.85,walk_only
+20750,Dewhurst,21896,Narre Warren South,,no_eligible_route
+20752,Diamond Creek,21896,Narre Warren South,147.3,ok
+20754,Diggers Rest,21896,Narre Warren South,145.07,ok
+20758,Dingley Village,21896,Narre Warren South,59.35,ok
+20762,Dixons Creek,21896,Narre Warren South,,no_eligible_route
+20766,Docklands,21896,Narre Warren South,94.0,ok
+20769,Don Valley,21896,Narre Warren South,,no_eligible_route
+20771,Doncaster,21896,Narre Warren South,112.47,ok
+20772,Doncaster East,21896,Narre Warren South,120.43,ok
+20773,Donnybrook (Vic.),21896,Narre Warren South,,no_eligible_route
+20774,Donvale,21896,Narre Warren South,128.17,ok
+20779,Doreen,21896,Narre Warren South,,no_eligible_route
+20783,Doveton,21896,Narre Warren South,53.65,ok
+20788,Dromana,21896,Narre Warren South,179.9,ok
+20825,Eaglemont,21896,Narre Warren South,123.32,ok
+20830,East Melbourne,21896,Narre Warren South,91.58,ok
+20833,East Warburton,21896,Narre Warren South,,no_eligible_route
+20843,Eden Park,21896,Narre Warren South,,no_eligible_route
+20848,Edithvale,21896,Narre Warren South,81.07,ok
+20864,Elsternwick,21896,Narre Warren South,89.27,ok
+20865,Eltham (Vic.),21896,Narre Warren South,143.53,ok
+20866,Eltham North,21896,Narre Warren South,160.6,ok
+20867,Elwood,21896,Narre Warren South,101.82,ok
+20868,Emerald (Vic.),21896,Narre Warren South,,no_eligible_route
+20871,Endeavour Hills,21896,Narre Warren South,76.25,ok
+20878,Epping (Vic.),21896,Narre Warren South,168.08,ok
+20885,Essendon,21896,Narre Warren South,124.12,ok
+20886,Essendon Fields,21896,Narre Warren South,145.52,ok
+20887,Essendon North,21896,Narre Warren South,126.52,ok
+20888,Essendon West,21896,Narre Warren South,133.98,ok
+20889,Eumemmerring,21896,Narre Warren South,43.78,ok
+20898,Exford,21896,Narre Warren South,,no_eligible_route
+20899,Eynesbury,21896,Narre Warren South,,no_eligible_route
+20901,Fairfield (Vic.),21896,Narre Warren South,111.3,ok
+20909,Fawkner,21896,Narre Warren South,142.92,ok
+20916,Fernshaw,21896,Narre Warren South,,no_eligible_route
+20917,Ferntree Gully,21896,Narre Warren South,93.3,ok
+20918,Ferny Creek,21896,Narre Warren South,,no_eligible_route
+20920,Fingal (Vic.),21896,Narre Warren South,,no_eligible_route
+20924,Fitzroy (Vic.),21896,Narre Warren South,100.6,ok
+20925,Fitzroy North,21896,Narre Warren South,108.2,ok
+20929,Flemington,21896,Narre Warren South,122.43,ok
+20930,Flinders (Vic.),21896,Narre Warren South,,no_eligible_route
+20935,Footscray,21896,Narre Warren South,96.38,ok
+20937,Forest Hill (Vic.),21896,Narre Warren South,90.87,ok
+20947,Frankston,21896,Narre Warren South,74.65,ok
+20948,Frankston North,21896,Narre Warren South,75.08,ok
+20949,Frankston South,21896,Narre Warren South,124.52,ok
+20950,Fraser Rise,21896,Narre Warren South,163.5,ok
+20965,Gardenvale,21896,Narre Warren South,79.48,ok
+20966,Garfield,21896,Narre Warren South,,no_eligible_route
+20967,Garfield North,21896,Narre Warren South,,no_eligible_route
+20979,Gembrook,21896,Narre Warren South,,no_eligible_route
+20995,Gilderoy,21896,Narre Warren South,,no_eligible_route
+21001,Gisborne,21896,Narre Warren South,,no_eligible_route
+21002,Gisborne South,21896,Narre Warren South,,no_eligible_route
+21004,Gladstone Park,21896,Narre Warren South,155.63,ok
+21005,Gladysdale,21896,Narre Warren South,,no_eligible_route
+21009,Glen Huntly,21896,Narre Warren South,80.37,ok
+21010,Glen Iris (Vic.),21896,Narre Warren South,103.98,ok
+21013,Glen Waverley,21896,Narre Warren South,75.47,ok
+21047,Glenroy (Vic.),21896,Narre Warren South,136.67,ok
+21059,Goldie,21896,Narre Warren South,,no_eligible_route
+21079,Gowanbrae,21896,Narre Warren South,156.12,ok
+21087,Grangefields,21896,Narre Warren South,185.1,ok
+21104,Greensborough,21896,Narre Warren South,131.85,ok
+21105,Greenvale (Vic.),21896,Narre Warren South,,no_eligible_route
+21115,Gruyere,21896,Narre Warren South,,no_eligible_route
+21121,Guys Hill,21896,Narre Warren South,160.32,walk_only
+21124,Hadfield,21896,Narre Warren South,133.95,ok
+21125,Hallam,21896,Narre Warren South,50.07,ok
+21131,Hampton (Vic.),21896,Narre Warren South,93.33,ok
+21132,Hampton East,21896,Narre Warren South,97.4,ok
+21133,Hampton Park,21896,Narre Warren South,31.25,ok
+21139,Harkaway,21896,Narre Warren South,153.65,walk_only
+21140,Harkness,21896,Narre Warren South,,no_eligible_route
+21145,Hastings (Vic.),21896,Narre Warren South,136.87,ok
+21152,Hawthorn (Vic.),21896,Narre Warren South,87.72,ok
+21153,Hawthorn East,21896,Narre Warren South,93.1,ok
+21158,Healesville,21896,Narre Warren South,214.58,ok
+21159,Heath Hill,21896,Narre Warren South,,no_eligible_route
+21161,Heathcote Junction,21896,Narre Warren South,,no_eligible_route
+21163,Heatherton,21896,Narre Warren South,77.4,ok
+21165,Heathmont,21896,Narre Warren South,112.7,ok
+21167,Heidelberg,21896,Narre Warren South,125.78,ok
+21168,Heidelberg Heights,21896,Narre Warren South,130.62,ok
+21169,Heidelberg West,21896,Narre Warren South,126.83,ok
+21176,Hesket,21896,Narre Warren South,,no_eligible_route
+21185,Highett,21896,Narre Warren South,83.67,ok
+21193,Hillside (Melton - Vic.),21896,Narre Warren South,145.15,ok
+21195,Hmas Cerberus,21896,Narre Warren South,,no_eligible_route
+21196,Hoddles Creek,21896,Narre Warren South,,no_eligible_route
+21202,Hopetoun Park,21896,Narre Warren South,,no_eligible_route
+21203,Hoppers Crossing,21896,Narre Warren South,151.9,ok
+21214,Hughesdale,21896,Narre Warren South,59.43,ok
+21215,Humevale,21896,Narre Warren South,,no_eligible_route
+21218,Huntingdale (Vic.),21896,Narre Warren South,60.3,ok
+21223,Hurstbridge,21896,Narre Warren South,147.85,ok
+21238,Iona,21896,Narre Warren South,,no_eligible_route
+21246,Ivanhoe (Vic.),21896,Narre Warren South,109.58,ok
+21247,Ivanhoe East,21896,Narre Warren South,124.0,ok
+21248,Jacana,21896,Narre Warren South,141.23,ok
+21277,Junction Village,21896,Narre Warren South,157.37,walk_only
+21284,Kalkallo,21896,Narre Warren South,,no_eligible_route
+21286,Kallista,21896,Narre Warren South,145.58,ok
+21287,Kalorama,21896,Narre Warren South,,no_eligible_route
+21294,Kangaroo Ground,21896,Narre Warren South,,no_eligible_route
+21312,Kealba,21896,Narre Warren South,132.22,ok
+21314,Keilor,21896,Narre Warren South,185.83,ok
+21315,Keilor Downs,21896,Narre Warren South,136.32,ok
+21316,Keilor East,21896,Narre Warren South,144.98,ok
+21317,Keilor Lodge,21896,Narre Warren South,147.93,ok
+21318,Keilor North,21896,Narre Warren South,154.0,ok
+21319,Keilor Park,21896,Narre Warren South,157.27,ok
+21327,Kensington (Vic.),21896,Narre Warren South,107.97,ok
+21333,Kerrie,21896,Narre Warren South,,no_eligible_route
+21336,Kew (Vic.),21896,Narre Warren South,100.75,ok
+21337,Kew East,21896,Narre Warren South,119.78,ok
+21339,Keysborough,21896,Narre Warren South,66.97,ok
+21354,Kilsyth,21896,Narre Warren South,139.87,ok
+21355,Kilsyth South,21896,Narre Warren South,131.0,ok
+21358,Kinglake,21896,Narre Warren South,,no_eligible_route
+21359,Kinglake Central,21896,Narre Warren South,,no_eligible_route
+21360,Kinglake West,21896,Narre Warren South,,no_eligible_route
+21362,Kings Park (Vic.),21896,Narre Warren South,131.52,ok
+21363,Kingsbury,21896,Narre Warren South,132.93,ok
+21365,Kingsville,21896,Narre Warren South,105.45,ok
+21374,Knoxfield,21896,Narre Warren South,82.77,ok
+21380,Koo Wee Rup,21896,Narre Warren South,,no_eligible_route
+21381,Koo Wee Rup North,21896,Narre Warren South,,no_eligible_route
+21393,Kooyong,21896,Narre Warren South,86.5,ok
+21411,Kurunjang,21896,Narre Warren South,214.88,ok
+21452,Lalor,21896,Narre Warren South,132.27,ok
+21456,Lancefield,21896,Narre Warren South,,no_eligible_route
+21459,Lang Lang,21896,Narre Warren South,,no_eligible_route
+21460,Lang Lang East,21896,Narre Warren South,,no_eligible_route
+21467,Langwarrin,21896,Narre Warren South,72.83,ok
+21468,Langwarrin South,21896,Narre Warren South,,no_eligible_route
+21473,Launching Place,21896,Narre Warren South,,no_eligible_route
+21476,Laverton (Vic.),21896,Narre Warren South,135.67,ok
+21477,Laverton North,21896,Narre Warren South,176.7,ok
+21504,Lilydale (Vic.),21896,Narre Warren South,157.87,ok
+21533,Long Forest,21896,Narre Warren South,,no_eligible_route
+21547,Lower Plenty,21896,Narre Warren South,164.22,ok
+21554,Lynbrook,21896,Narre Warren South,41.03,ok
+21555,Lyndhurst (Vic.),21896,Narre Warren South,136.45,walk_only
+21558,Lysterfield,21896,Narre Warren South,222.07,walk_only
+21559,Lysterfield South,21896,Narre Warren South,114.8,ok
+21561,Macclesfield (Vic.),21896,Narre Warren South,,no_eligible_route
+21562,Macedon,21896,Narre Warren South,,no_eligible_route
+21564,Macleod (Vic.),21896,Narre Warren South,124.93,ok
+21569,Maddingley,21896,Narre Warren South,,no_eligible_route
+21575,Maidstone,21896,Narre Warren South,111.2,ok
+21578,Main Ridge,21896,Narre Warren South,,no_eligible_route
+21586,Malvern (Vic.),21896,Narre Warren South,81.22,ok
+21587,Malvern East,21896,Narre Warren South,77.0,ok
+21588,Mambourin,21896,Narre Warren South,,no_eligible_route
+21597,Manor Lakes,21896,Narre Warren South,187.6,ok
+21604,Maribyrnong,21896,Narre Warren South,120.0,ok
+21619,Maryknoll,21896,Narre Warren South,,no_eligible_route
+21625,McCrae,21896,Narre Warren South,164.32,ok
+21629,McKinnon,21896,Narre Warren South,80.08,ok
+21635,Meadow Heights,21896,Narre Warren South,154.12,ok
+21640,Melbourne,21896,Narre Warren South,83.05,ok
+21641,Melbourne Airport,21896,Narre Warren South,,no_eligible_route
+21642,Melton (Vic.),21896,Narre Warren South,199.02,ok
+21643,Melton South,21896,Narre Warren South,212.62,ok
+21644,Melton West,21896,Narre Warren South,207.85,ok
+21648,Mentone,21896,Narre Warren South,74.43,ok
+21649,Menzies Creek,21896,Narre Warren South,122.4,ok
+21659,Mernda,21896,Narre Warren South,178.62,ok
+21662,Merricks,21896,Narre Warren South,,no_eligible_route
+21663,Merricks Beach,21896,Narre Warren South,,no_eligible_route
+21664,Merricks North,21896,Narre Warren South,,no_eligible_route
+21668,Merrimu,21896,Narre Warren South,,no_eligible_route
+21675,Mickleham,21896,Narre Warren South,,no_eligible_route
+21677,Middle Park (Vic.),21896,Narre Warren South,106.02,ok
+21683,Mill Park,21896,Narre Warren South,155.48,ok
+21685,Millgrove,21896,Narre Warren South,,no_eligible_route
+21706,Mitcham (Vic.),21896,Narre Warren South,113.97,ok
+21727,Monbulk,21896,Narre Warren South,159.72,ok
+21728,Monegeetta,21896,Narre Warren South,,no_eligible_route
+21731,Monomeith,21896,Narre Warren South,,no_eligible_route
+21732,Mont Albert,21896,Narre Warren South,105.63,ok
+21733,Mont Albert North,21896,Narre Warren South,123.65,ok
+21735,Montmorency,21896,Narre Warren South,132.5,ok
+21736,Montrose (Vic.),21896,Narre Warren South,142.08,ok
+21742,Moonee Ponds,21896,Narre Warren South,110.58,ok
+21746,Moorabbin,21896,Narre Warren South,87.03,ok
+21747,Moorabbin Airport,21896,Narre Warren South,69.35,ok
+21754,Moorooduc,21896,Narre Warren South,,no_eligible_route
+21755,Mooroolbark,21896,Narre Warren South,145.18,ok
+21760,Mordialloc,21896,Narre Warren South,95.22,ok
+21763,Mornington (Vic.),21896,Narre Warren South,137.95,ok
+21779,Mount Burnett,21896,Narre Warren South,107.53,ok
+21786,Mount Cottrell,21896,Narre Warren South,,no_eligible_route
+21787,Mount Dandenong,21896,Narre Warren South,160.8,ok
+21793,Mount Eliza,21896,Narre Warren South,112.3,ok
+21795,Mount Evelyn,21896,Narre Warren South,155.77,ok
+21801,Mount Macedon,21896,Narre Warren South,,no_eligible_route
+21803,Mount Martha,21896,Narre Warren South,130.83,ok
+21814,Mount Toolebewong,21896,Narre Warren South,,no_eligible_route
+21816,Mount Waverley,21896,Narre Warren South,92.67,ok
+21827,Mulgrave (Vic.),21896,Narre Warren South,88.57,ok
+21849,Murrumbeena,21896,Narre Warren South,63.57,ok
+21872,Nangana,21896,Narre Warren South,,no_eligible_route
+21878,Nar Nar Goon,21896,Narre Warren South,,no_eligible_route
+21879,Nar Nar Goon North,21896,Narre Warren South,,no_eligible_route
+21893,Narre Warren,21896,Narre Warren South,18.82,ok
+21894,Narre Warren East,21896,Narre Warren South,199.83,walk_only
+21895,Narre Warren North,21896,Narre Warren South,29.08,ok
+21896,Narre Warren South,21896,Narre Warren South,0.0,same_centroid
+21921,New Gisborne,21896,Narre Warren South,,no_eligible_route
+21934,Newport (Vic.),21896,Narre Warren South,115.52,ok
+21942,Niddrie,21896,Narre Warren South,138.47,ok
+21952,Noble Park,21896,Narre Warren South,41.1,ok
+21953,Noble Park North,21896,Narre Warren South,67.3,ok
+21966,North Melbourne,21896,Narre Warren South,91.18,ok
+21969,North Warrandyte,21896,Narre Warren South,167.93,ok
+21971,Northcote,21896,Narre Warren South,110.0,ok
+21974,Notting Hill,21896,Narre Warren South,73.72,ok
+21985,Nunawading,21896,Narre Warren South,94.4,ok
+21991,Nutfield,21896,Narre Warren South,,no_eligible_route
+21998,Oak Park,21896,Narre Warren South,128.9,ok
+21999,Oaklands Junction,21896,Narre Warren South,,no_eligible_route
+22000,Oakleigh,21896,Narre Warren South,60.83,ok
+22001,Oakleigh East,21896,Narre Warren South,75.67,ok
+22002,Oakleigh South,21896,Narre Warren South,59.68,ok
+22006,Officer,21896,Narre Warren South,56.37,ok
+22007,Officer South,21896,Narre Warren South,90.93,ok
+22009,Olinda (Vic.),21896,Narre Warren South,,no_eligible_route
+22016,Ormond,21896,Narre Warren South,69.4,ok
+22027,Pakenham,21896,Narre Warren South,50.28,ok
+22028,Pakenham South,21896,Narre Warren South,,no_eligible_route
+22029,Pakenham Upper,21896,Narre Warren South,83.48,ok
+22032,Panton Hill,21896,Narre Warren South,,no_eligible_route
+22036,Park Orchards,21896,Narre Warren South,117.55,ok
+22037,Parkdale,21896,Narre Warren South,106.85,ok
+22038,Parkville (Vic.),21896,Narre Warren South,103.8,ok
+22041,Pascoe Vale,21896,Narre Warren South,133.27,ok
+22042,Pascoe Vale South,21896,Narre Warren South,125.38,ok
+22047,Patterson Lakes,21896,Narre Warren South,103.37,ok
+22050,Pearcedale,21896,Narre Warren South,,no_eligible_route
+22058,Pentland Hills,21896,Narre Warren South,,no_eligible_route
+22064,Pheasant Creek (Vic.),21896,Narre Warren South,,no_eligible_route
+22084,Plenty (Vic.),21896,Narre Warren South,159.43,ok
+22085,Plumpton (Vic.),21896,Narre Warren South,,no_eligible_route
+22086,Point Cook,21896,Narre Warren South,172.57,ok
+22087,Point Leo,21896,Narre Warren South,,no_eligible_route
+22107,Port Melbourne,21896,Narre Warren South,116.52,ok
+22113,Portsea,21896,Narre Warren South,200.62,ok
+22115,Powelltown,21896,Narre Warren South,,no_eligible_route
+22118,Prahran,21896,Narre Warren South,88.37,ok
+22121,Preston (Vic.),21896,Narre Warren South,119.78,ok
+22122,Princes Hill,21896,Narre Warren South,101.95,ok
+22132,Quandong,21896,Narre Warren South,,no_eligible_route
+22141,Ravenhall,21896,Narre Warren South,173.7,ok
+22148,Red Hill (Vic.),21896,Narre Warren South,,no_eligible_route
+22149,Red Hill South,21896,Narre Warren South,,no_eligible_route
+22160,Research,21896,Narre Warren South,,no_eligible_route
+22161,Reservoir (Vic.),21896,Narre Warren South,129.08,ok
+22170,Richmond (Vic.),21896,Narre Warren South,96.12,ok
+22172,Riddells Creek,21896,Narre Warren South,,no_eligible_route
+22174,Ringwood (Vic.),21896,Narre Warren South,105.5,ok
+22175,Ringwood East,21896,Narre Warren South,124.92,ok
+22176,Ringwood North,21896,Narre Warren South,112.28,ok
+22179,Ripponlea,21896,Narre Warren South,93.57,ok
+22185,Rochford,21896,Narre Warren South,,no_eligible_route
+22186,Rockbank,21896,Narre Warren South,169.47,ok
+22193,Romsey,21896,Narre Warren South,,no_eligible_route
+22194,Rosanna,21896,Narre Warren South,119.4,ok
+22198,Rosebud,21896,Narre Warren South,180.63,ok
+22207,Rowville,21896,Narre Warren South,79.93,ok
+22208,Roxburgh Park,21896,Narre Warren South,158.75,ok
+22220,Rye,21896,Narre Warren South,192.83,ok
+22221,Rythdale,21896,Narre Warren South,,no_eligible_route
+22222,Safety Beach (Vic.),21896,Narre Warren South,147.8,ok
+22232,Sandhurst,21896,Narre Warren South,101.45,ok
+22234,Sandringham (Vic.),21896,Narre Warren South,101.08,ok
+22239,Sassafras (Vic.),21896,Narre Warren South,150.6,ok
+22242,Scoresby,21896,Narre Warren South,92.47,ok
+22247,Seabrook,21896,Narre Warren South,152.07,ok
+22249,Seaford (Vic.),21896,Narre Warren South,83.45,ok
+22250,Seaholme,21896,Narre Warren South,134.75,ok
+22256,Seddon (Vic.),21896,Narre Warren South,96.1,ok
+22258,Selby,21896,Narre Warren South,129.73,ok
+22263,Seville,21896,Narre Warren South,,no_eligible_route
+22264,Seville East,21896,Narre Warren South,,no_eligible_route
+22278,Sherbrooke,21896,Narre Warren South,142.33,ok
+22279,Shoreham,21896,Narre Warren South,,no_eligible_route
+22281,Silvan,21896,Narre Warren South,151.82,ok
+22291,Skye (Vic.),21896,Narre Warren South,49.37,ok
+22295,Smiths Gully,21896,Narre Warren South,,no_eligible_route
+22303,Somers,21896,Narre Warren South,,no_eligible_route
+22304,Somerton (Vic.),21896,Narre Warren South,163.88,ok
+22305,Somerville (Vic.),21896,Narre Warren South,142.78,ok
+22306,Sorrento (Vic.),21896,Narre Warren South,180.6,ok
+22309,South Kingsville,21896,Narre Warren South,127.77,ok
+22310,South Melbourne,21896,Narre Warren South,93.83,ok
+22311,South Morang,21896,Narre Warren South,164.25,ok
+22313,South Wharf,21896,Narre Warren South,95.98,ok
+22314,South Yarra,21896,Narre Warren South,77.25,ok
+22315,Southbank,21896,Narre Warren South,93.22,ok
+22319,Spotswood,21896,Narre Warren South,108.92,ok
+22325,Springfield (Macedon Ranges - Vic.),21896,Narre Warren South,,no_eligible_route
+22328,Springvale (Vic.),21896,Narre Warren South,51.03,ok
+22329,Springvale South,21896,Narre Warren South,61.78,ok
+22330,St Albans (Vic.),21896,Narre Warren South,111.6,ok
+22332,St Andrews (Vic.),21896,Narre Warren South,,no_eligible_route
+22333,St Andrews Beach,21896,Narre Warren South,,no_eligible_route
+22339,St Helena,21896,Narre Warren South,152.72,ok
+22343,St Kilda (Vic.),21896,Narre Warren South,94.97,ok
+22344,St Kilda East,21896,Narre Warren South,87.92,ok
+22345,St Kilda West,21896,Narre Warren South,100.7,ok
+22355,Steels Creek,21896,Narre Warren South,,no_eligible_route
+22375,Strathewen,21896,Narre Warren South,,no_eligible_route
+22380,Strathmore (Vic.),21896,Narre Warren South,137.07,ok
+22381,Strathmore Heights,21896,Narre Warren South,149.07,ok
+22382,Strathtulloh,21896,Narre Warren South,,no_eligible_route
+22391,Sunbury,21896,Narre Warren South,198.77,ok
+22395,Sunshine (Vic.),21896,Narre Warren South,100.38,ok
+22396,Sunshine North,21896,Narre Warren South,130.18,ok
+22397,Sunshine West,21896,Narre Warren South,132.55,ok
+22399,Surrey Hills,21896,Narre Warren South,95.92,ok
+22414,Sydenham (Vic.),21896,Narre Warren South,127.93,ok
+22451,Tarneit,21896,Narre Warren South,190.77,ok
+22457,Tarrawarra,21896,Narre Warren South,190.18,ok
+22473,Taylors Hill,21896,Narre Warren South,137.0,ok
+22474,Taylors Lakes,21896,Narre Warren South,135.12,ok
+22476,Tecoma,21896,Narre Warren South,114.77,ok
+22483,Templestowe,21896,Narre Warren South,129.83,ok
+22484,Templestowe Lower,21896,Narre Warren South,126.8,ok
+22496,The Basin (Vic.),21896,Narre Warren South,141.73,ok
+22501,The Patch,21896,Narre Warren South,150.28,ok
+22504,Thomastown,21896,Narre Warren South,137.57,ok
+22508,Thornbury,21896,Narre Warren South,116.17,ok
+22509,Thornhill Park,21896,Narre Warren South,,no_eligible_route
+22514,Three Bridges,21896,Narre Warren South,,no_eligible_route
+22531,Tonimbuk,21896,Narre Warren South,,no_eligible_route
+22536,Toolangi,21896,Narre Warren South,,no_eligible_route
+22537,Toolern Vale,21896,Narre Warren South,,no_eligible_route
+22546,Tooradin,21896,Narre Warren South,,no_eligible_route
+22547,Toorak,21896,Narre Warren South,87.2,ok
+22550,Tootgarook,21896,Narre Warren South,176.25,ok
+22556,Tottenham (Vic.),21896,Narre Warren South,126.82,ok
+22572,Travancore,21896,Narre Warren South,111.33,ok
+22576,Tremont,21896,Narre Warren South,125.53,ok
+22582,Truganina,21896,Narre Warren South,,no_eligible_route
+22584,Tuerong,21896,Narre Warren South,,no_eligible_route
+22586,Tullamarine,21896,Narre Warren South,158.3,ok
+22594,Tyabb,21896,Narre Warren South,130.78,ok
+22598,Tynong,21896,Narre Warren South,,no_eligible_route
+22599,Tynong North,21896,Narre Warren South,,no_eligible_route
+22614,Upper Ferntree Gully,21896,Narre Warren South,105.08,ok
+22617,Upper Plenty,21896,Narre Warren South,,no_eligible_route
+22620,Upwey,21896,Narre Warren South,111.95,ok
+22627,Vermont,21896,Narre Warren South,101.55,ok
+22628,Vermont South,21896,Narre Warren South,93.92,ok
+22629,Vervale,21896,Narre Warren South,,no_eligible_route
+22633,Viewbank,21896,Narre Warren South,152.57,ok
+22661,Wallan,21896,Narre Warren South,,no_eligible_route
+22672,Wandin East,21896,Narre Warren South,,no_eligible_route
+22673,Wandin North,21896,Narre Warren South,,no_eligible_route
+22676,Wandong,21896,Narre Warren South,,no_eligible_route
+22685,Wantirna,21896,Narre Warren South,99.87,ok
+22686,Wantirna South,21896,Narre Warren South,93.15,ok
+22689,Warburton (Vic.),21896,Narre Warren South,,no_eligible_route
+22695,Warneet,21896,Narre Warren South,,no_eligible_route
+22702,Warrandyte,21896,Narre Warren South,133.62,ok
+22703,Warrandyte South,21896,Narre Warren South,152.58,ok
+22704,Warranwood,21896,Narre Warren South,129.9,ok
+22717,Waterford Park,21896,Narre Warren South,,no_eligible_route
+22720,Waterways,21896,Narre Warren South,88.22,ok
+22721,Watsonia,21896,Narre Warren South,119.85,ok
+22722,Watsonia North,21896,Narre Warren South,143.38,ok
+22723,Watsons Creek (Vic.),21896,Narre Warren South,,no_eligible_route
+22727,Wattle Glen,21896,Narre Warren South,151.6,ok
+22740,Weir Views,21896,Narre Warren South,,no_eligible_route
+22750,Werribee,21896,Narre Warren South,155.07,ok
+22751,Werribee South,21896,Narre Warren South,,no_eligible_route
+22753,Wesburn,21896,Narre Warren South,,no_eligible_route
+22756,West Footscray,21896,Narre Warren South,103.55,ok
+22757,West Melbourne,21896,Narre Warren South,108.48,ok
+22761,Westmeadows,21896,Narre Warren South,146.88,ok
+22766,Wheelers Hill,21896,Narre Warren South,93.35,ok
+22775,Whittlesea,21896,Narre Warren South,,no_eligible_route
+22784,Wildwood,21896,Narre Warren South,,no_eligible_route
+22791,Williams Landing,21896,Narre Warren South,149.92,ok
+22792,Williamstown (Vic.),21896,Narre Warren South,117.73,ok
+22793,Williamstown North,21896,Narre Warren South,137.27,ok
+22805,Windsor (Vic.),21896,Narre Warren South,91.03,ok
+22820,Wollert,21896,Narre Warren South,184.78,ok
+22825,Wonga Park,21896,Narre Warren South,,no_eligible_route
+22843,Woodstock (Vic.),21896,Narre Warren South,,no_eligible_route
+22857,Woori Yallock,21896,Narre Warren South,,no_eligible_route
+22883,Wyndham Vale,21896,Narre Warren South,172.52,ok
+22892,Yallambie,21896,Narre Warren South,149.12,ok
+22898,Yan Yean,21896,Narre Warren South,183.52,ok
+22906,Yannathan,21896,Narre Warren South,,no_eligible_route
+22910,Yarra Glen,21896,Narre Warren South,187.48,ok
+22911,Yarra Junction,21896,Narre Warren South,,no_eligible_route
+22916,Yarrambat,21896,Narre Warren South,191.3,ok
+22917,Yarraville,21896,Narre Warren South,111.58,ok
+22925,Yellingbo,21896,Narre Warren South,,no_eligible_route
+22930,Yering,21896,Narre Warren South,,no_eligible_route
+22941,Yuroke,21896,Narre Warren South,,no_eligible_route

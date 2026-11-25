@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21547,Lower Plenty,69.97,ok
+20003,Aberfeldie,21547,Lower Plenty,107.95,ok
+20011,Aintree,21547,Lower Plenty,161.22,ok
+20015,Airport West,21547,Lower Plenty,108.28,ok
+20017,Albanvale,21547,Lower Plenty,147.58,ok
+20018,Albert Park (Vic.),21547,Lower Plenty,97.62,ok
+20021,Albion (Vic.),21547,Lower Plenty,120.98,ok
+20034,Alphington,21547,Lower Plenty,57.92,ok
+20035,Altona (Vic.),21547,Lower Plenty,123.65,ok
+20036,Altona Meadows,21547,Lower Plenty,136.9,ok
+20037,Altona North,21547,Lower Plenty,127.15,ok
+20062,Ardeer,21547,Lower Plenty,131.23,ok
+20066,Armadale (Vic.),21547,Lower Plenty,89.8,ok
+20071,Arthurs Creek,21547,Lower Plenty,,no_eligible_route
+20072,Arthurs Seat,21547,Lower Plenty,,no_eligible_route
+20075,Ascot Vale,21547,Lower Plenty,99.2,ok
+20077,Ashburton,21547,Lower Plenty,86.12,ok
+20078,Ashwood,21547,Lower Plenty,87.02,ok
+20079,Aspendale,21547,Lower Plenty,137.77,ok
+20080,Aspendale Gardens,21547,Lower Plenty,131.48,ok
+20082,Attwood,21547,Lower Plenty,105.3,ok
+20089,Avondale Heights,21547,Lower Plenty,129.08,ok
+20091,Avonsleigh,21547,Lower Plenty,,no_eligible_route
+20095,Bacchus Marsh,21547,Lower Plenty,,no_eligible_route
+20097,Badger Creek,21547,Lower Plenty,163.68,ok
+20105,Balaclava (Vic.),21547,Lower Plenty,97.65,ok
+20120,Balnarring,21547,Lower Plenty,,no_eligible_route
+20121,Balnarring Beach,21547,Lower Plenty,,no_eligible_route
+20123,Balwyn,21547,Lower Plenty,70.3,ok
+20124,Balwyn North,21547,Lower Plenty,65.98,ok
+20131,Bangholme,21547,Lower Plenty,192.67,ok
+20169,Baxter,21547,Lower Plenty,,no_eligible_route
+20171,Bayles,21547,Lower Plenty,,no_eligible_route
+20173,Bayswater (Vic.),21547,Lower Plenty,92.77,ok
+20174,Bayswater North,21547,Lower Plenty,92.45,ok
+20175,Beaconsfield (Vic.),21547,Lower Plenty,159.93,ok
+20176,Beaconsfield Upper,21547,Lower Plenty,,no_eligible_route
+20182,Beaumaris (Vic.),21547,Lower Plenty,138.47,ok
+20187,Beenak,21547,Lower Plenty,,no_eligible_route
+20188,Belgrave,21547,Lower Plenty,103.85,ok
+20189,Belgrave Heights,21547,Lower Plenty,137.23,ok
+20190,Belgrave South,21547,Lower Plenty,136.22,ok
+20198,Bellfield (Banyule - Vic.),21547,Lower Plenty,63.92,ok
+20207,Bend Of Islands,21547,Lower Plenty,,no_eligible_route
+20212,Benloch,21547,Lower Plenty,,no_eligible_route
+20214,Bentleigh,21547,Lower Plenty,112.83,ok
+20215,Bentleigh East,21547,Lower Plenty,110.95,ok
+20224,Berwick,21547,Lower Plenty,131.02,ok
+20233,Beveridge,21547,Lower Plenty,151.85,ok
+20237,Big Pats Creek,21547,Lower Plenty,,no_eligible_route
+20248,Bittern,21547,Lower Plenty,,no_eligible_route
+20251,Black Rock (Vic.),21547,Lower Plenty,144.27,ok
+20252,Blackburn,21547,Lower Plenty,57.35,ok
+20253,Blackburn North,21547,Lower Plenty,55.95,ok
+20254,Blackburn South,21547,Lower Plenty,74.15,ok
+20257,Blairgowrie,21547,Lower Plenty,,no_eligible_route
+20260,Blind Bight,21547,Lower Plenty,,no_eligible_route
+20272,Bolinda,21547,Lower Plenty,,no_eligible_route
+20278,Bonbeach,21547,Lower Plenty,141.42,ok
+20280,Boneo,21547,Lower Plenty,,no_eligible_route
+20282,Bonnie Brook,21547,Lower Plenty,193.77,ok
+20304,Boronia,21547,Lower Plenty,95.23,ok
+20307,Botanic Ridge,21547,Lower Plenty,184.88,ok
+20314,Box Hill (Vic.),21547,Lower Plenty,58.47,ok
+20315,Box Hill North,21547,Lower Plenty,56.25,ok
+20316,Box Hill South,21547,Lower Plenty,64.7,ok
+20320,Braeside,21547,Lower Plenty,164.57,ok
+20324,Braybrook,21547,Lower Plenty,120.5,ok
+20331,Briar Hill,21547,Lower Plenty,44.42,ok
+20337,Brighton (Vic.),21547,Lower Plenty,113.63,ok
+20338,Brighton East,21547,Lower Plenty,116.88,ok
+20346,Broadmeadows (Vic.),21547,Lower Plenty,80.05,ok
+20351,Brookfield (Vic.),21547,Lower Plenty,,no_eligible_route
+20352,Brooklyn (Vic.),21547,Lower Plenty,127.38,ok
+20361,Brunswick (Vic.),21547,Lower Plenty,90.73,ok
+20362,Brunswick East,21547,Lower Plenty,89.27,ok
+20363,Brunswick West,21547,Lower Plenty,98.33,ok
+20381,Bulla (Vic.),21547,Lower Plenty,,no_eligible_route
+20386,Bulleen,21547,Lower Plenty,57.37,ok
+20387,Bullengarook,21547,Lower Plenty,,no_eligible_route
+20399,Bundoora (Vic.),21547,Lower Plenty,49.28,ok
+20411,Bunyip,21547,Lower Plenty,,no_eligible_route
+20412,Bunyip North,21547,Lower Plenty,,no_eligible_route
+20418,Burnley,21547,Lower Plenty,96.8,ok
+20419,Burnside (Vic.),21547,Lower Plenty,140.12,ok
+20420,Burnside Heights,21547,Lower Plenty,147.93,ok
+20426,Burwood (Vic.),21547,Lower Plenty,73.93,ok
+20427,Burwood East,21547,Lower Plenty,72.15,ok
+20435,Bylands,21547,Lower Plenty,,no_eligible_route
+20441,Cairnlea,21547,Lower Plenty,129.87,ok
+20442,Calder Park,21547,Lower Plenty,155.87,ok
+20443,Caldermeade,21547,Lower Plenty,,no_eligible_route
+20453,Camberwell (Vic.),21547,Lower Plenty,80.1,ok
+20455,Campbellfield,21547,Lower Plenty,116.9,ok
+20466,Cannons Creek,21547,Lower Plenty,,no_eligible_route
+20468,Canterbury (Vic.),21547,Lower Plenty,79.25,ok
+20474,Cape Schanck,21547,Lower Plenty,,no_eligible_route
+20476,Capel Sound,21547,Lower Plenty,,no_eligible_route
+20487,Cardinia,21547,Lower Plenty,,no_eligible_route
+20495,Carlton (Vic.),21547,Lower Plenty,78.13,ok
+20496,Carlton North,21547,Lower Plenty,89.4,ok
+20498,Carnegie,21547,Lower Plenty,109.53,ok
+20500,Caroline Springs,21547,Lower Plenty,149.57,ok
+20507,Carrum,21547,Lower Plenty,142.58,ok
+20508,Carrum Downs,21547,Lower Plenty,139.82,ok
+20512,Castella,21547,Lower Plenty,,no_eligible_route
+20517,Catani,21547,Lower Plenty,,no_eligible_route
+20521,Caulfield,21547,Lower Plenty,110.6,ok
+20522,Caulfield East,21547,Lower Plenty,101.23,ok
+20523,Caulfield North,21547,Lower Plenty,101.83,ok
+20524,Caulfield South,21547,Lower Plenty,115.78,ok
+20528,Chadstone,21547,Lower Plenty,84.73,ok
+20537,Chelsea,21547,Lower Plenty,124.6,ok
+20538,Chelsea Heights,21547,Lower Plenty,136.88,ok
+20539,Cheltenham (Vic.),21547,Lower Plenty,122.03,ok
+20541,Cherokee,21547,Lower Plenty,,no_eligible_route
+20555,Chintin,21547,Lower Plenty,,no_eligible_route
+20556,Chirnside Park,21547,Lower Plenty,125.13,ok
+20559,Christmas Hills (Vic.),21547,Lower Plenty,,no_eligible_route
+20560,Chum Creek,21547,Lower Plenty,,no_eligible_route
+20566,Clarinda,21547,Lower Plenty,106.77,ok
+20567,Clarkefield,21547,Lower Plenty,,no_eligible_route
+20569,Clayton,21547,Lower Plenty,92.9,ok
+20570,Clayton South,21547,Lower Plenty,112.08,ok
+20572,Clematis,21547,Lower Plenty,,no_eligible_route
+20574,Clifton Hill,21547,Lower Plenty,66.68,ok
+20576,Clonbinane,21547,Lower Plenty,,no_eligible_route
+20581,Clyde (Vic.),21547,Lower Plenty,,no_eligible_route
+20582,Clyde North,21547,Lower Plenty,172.48,ok
+20587,Cobaw,21547,Lower Plenty,,no_eligible_route
+20590,Cobblebank,21547,Lower Plenty,200.82,ok
+20596,Coburg,21547,Lower Plenty,82.68,ok
+20597,Coburg North,21547,Lower Plenty,94.8,ok
+20600,Cockatoo (Vic.),21547,Lower Plenty,,no_eligible_route
+20601,Cocoroc,21547,Lower Plenty,,no_eligible_route
+20605,Coimadai,21547,Lower Plenty,,no_eligible_route
+20613,Coldstream (Vic.),21547,Lower Plenty,,no_eligible_route
+20616,Collingwood (Vic.),21547,Lower Plenty,61.08,ok
+20624,Coolaroo,21547,Lower Plenty,93.53,ok
+20633,Cora Lynn,21547,Lower Plenty,,no_eligible_route
+20654,Cottles Bridge,21547,Lower Plenty,,no_eligible_route
+20661,Craigieburn,21547,Lower Plenty,126.37,ok
+20662,Cranbourne,21547,Lower Plenty,154.38,ok
+20663,Cranbourne East,21547,Lower Plenty,168.48,ok
+20664,Cranbourne North,21547,Lower Plenty,185.35,ok
+20665,Cranbourne South,21547,Lower Plenty,188.23,ok
+20666,Cranbourne West,21547,Lower Plenty,163.18,ok
+20670,Cremorne (Vic.),21547,Lower Plenty,81.43,ok
+20674,Crib Point,21547,Lower Plenty,,no_eligible_route
+20682,Croydon (Vic.),21547,Lower Plenty,83.58,ok
+20683,Croydon Hills,21547,Lower Plenty,104.95,ok
+20684,Croydon North,21547,Lower Plenty,102.33,ok
+20685,Croydon South,21547,Lower Plenty,116.58,ok
+20702,Dallas,21547,Lower Plenty,92.93,ok
+20703,Dalmore,21547,Lower Plenty,,no_eligible_route
+20707,Dandenong,21547,Lower Plenty,118.62,ok
+20708,Dandenong North,21547,Lower Plenty,119.83,ok
+20709,Dandenong South,21547,Lower Plenty,141.42,ok
+20712,Darley,21547,Lower Plenty,,no_eligible_route
+20716,Darraweit Guim,21547,Lower Plenty,,no_eligible_route
+20724,Deanside,21547,Lower Plenty,170.27,ok
+20728,Deepdene (Vic.),21547,Lower Plenty,68.15,ok
+20729,Deer Park,21547,Lower Plenty,129.07,ok
+20731,Delahey,21547,Lower Plenty,145.73,ok
+20743,Derrimut,21547,Lower Plenty,157.1,ok
+20748,Devon Meadows,21547,Lower Plenty,,no_eligible_route
+20750,Dewhurst,21547,Lower Plenty,,no_eligible_route
+20752,Diamond Creek,21547,Lower Plenty,59.42,ok
+20754,Diggers Rest,21547,Lower Plenty,149.08,ok
+20758,Dingley Village,21547,Lower Plenty,137.08,ok
+20762,Dixons Creek,21547,Lower Plenty,,no_eligible_route
+20766,Docklands,21547,Lower Plenty,93.07,ok
+20769,Don Valley,21547,Lower Plenty,,no_eligible_route
+20771,Doncaster,21547,Lower Plenty,37.25,ok
+20772,Doncaster East,21547,Lower Plenty,45.55,ok
+20773,Donnybrook (Vic.),21547,Lower Plenty,150.38,ok
+20774,Donvale,21547,Lower Plenty,77.78,ok
+20779,Doreen,21547,Lower Plenty,92.83,ok
+20783,Doveton,21547,Lower Plenty,137.83,ok
+20788,Dromana,21547,Lower Plenty,259.02,ok
+20825,Eaglemont,21547,Lower Plenty,58.97,ok
+20830,East Melbourne,21547,Lower Plenty,67.8,ok
+20833,East Warburton,21547,Lower Plenty,,no_eligible_route
+20843,Eden Park,21547,Lower Plenty,,no_eligible_route
+20848,Edithvale,21547,Lower Plenty,115.37,ok
+20864,Elsternwick,21547,Lower Plenty,105.32,ok
+20865,Eltham (Vic.),21547,Lower Plenty,47.83,ok
+20866,Eltham North,21547,Lower Plenty,58.37,ok
+20867,Elwood,21547,Lower Plenty,97.9,ok
+20868,Emerald (Vic.),21547,Lower Plenty,,no_eligible_route
+20871,Endeavour Hills,21547,Lower Plenty,163.55,ok
+20878,Epping (Vic.),21547,Lower Plenty,101.7,ok
+20885,Essendon,21547,Lower Plenty,96.28,ok
+20886,Essendon Fields,21547,Lower Plenty,120.75,ok
+20887,Essendon North,21547,Lower Plenty,97.48,ok
+20888,Essendon West,21547,Lower Plenty,107.57,ok
+20889,Eumemmerring,21547,Lower Plenty,151.98,ok
+20898,Exford,21547,Lower Plenty,,no_eligible_route
+20899,Eynesbury,21547,Lower Plenty,,no_eligible_route
+20901,Fairfield (Vic.),21547,Lower Plenty,68.22,ok
+20909,Fawkner,21547,Lower Plenty,88.83,ok
+20916,Fernshaw,21547,Lower Plenty,,no_eligible_route
+20917,Ferntree Gully,21547,Lower Plenty,93.32,ok
+20918,Ferny Creek,21547,Lower Plenty,140.85,ok
+20920,Fingal (Vic.),21547,Lower Plenty,,no_eligible_route
+20924,Fitzroy (Vic.),21547,Lower Plenty,73.4,ok
+20925,Fitzroy North,21547,Lower Plenty,73.32,ok
+20929,Flemington,21547,Lower Plenty,100.42,ok
+20930,Flinders (Vic.),21547,Lower Plenty,,no_eligible_route
+20935,Footscray,21547,Lower Plenty,101.32,ok
+20937,Forest Hill (Vic.),21547,Lower Plenty,68.13,ok
+20947,Frankston,21547,Lower Plenty,161.37,ok
+20948,Frankston North,21547,Lower Plenty,170.38,ok
+20949,Frankston South,21547,Lower Plenty,,no_eligible_route
+20950,Fraser Rise,21547,Lower Plenty,166.62,ok
+20965,Gardenvale,21547,Lower Plenty,110.07,ok
+20966,Garfield,21547,Lower Plenty,,no_eligible_route
+20967,Garfield North,21547,Lower Plenty,,no_eligible_route
+20979,Gembrook,21547,Lower Plenty,,no_eligible_route
+20995,Gilderoy,21547,Lower Plenty,,no_eligible_route
+21001,Gisborne,21547,Lower Plenty,,no_eligible_route
+21002,Gisborne South,21547,Lower Plenty,,no_eligible_route
+21004,Gladstone Park,21547,Lower Plenty,102.75,ok
+21005,Gladysdale,21547,Lower Plenty,,no_eligible_route
+21009,Glen Huntly,21547,Lower Plenty,104.37,ok
+21010,Glen Iris (Vic.),21547,Lower Plenty,105.95,ok
+21013,Glen Waverley,21547,Lower Plenty,81.7,ok
+21047,Glenroy (Vic.),21547,Lower Plenty,101.92,ok
+21059,Goldie,21547,Lower Plenty,,no_eligible_route
+21079,Gowanbrae,21547,Lower Plenty,110.58,ok
+21087,Grangefields,21547,Lower Plenty,198.22,ok
+21104,Greensborough,21547,Lower Plenty,35.98,ok
+21105,Greenvale (Vic.),21547,Lower Plenty,125.17,ok
+21115,Gruyere,21547,Lower Plenty,,no_eligible_route
+21121,Guys Hill,21547,Lower Plenty,,no_eligible_route
+21124,Hadfield,21547,Lower Plenty,95.07,ok
+21125,Hallam,21547,Lower Plenty,138.85,ok
+21131,Hampton (Vic.),21547,Lower Plenty,122.13,ok
+21132,Hampton East,21547,Lower Plenty,119.6,ok
+21133,Hampton Park,21547,Lower Plenty,150.27,ok
+21139,Harkaway,21547,Lower Plenty,,no_eligible_route
+21140,Harkness,21547,Lower Plenty,,no_eligible_route
+21145,Hastings (Vic.),21547,Lower Plenty,,no_eligible_route
+21152,Hawthorn (Vic.),21547,Lower Plenty,88.43,ok
+21153,Hawthorn East,21547,Lower Plenty,81.6,ok
+21158,Healesville,21547,Lower Plenty,167.6,ok
+21159,Heath Hill,21547,Lower Plenty,,no_eligible_route
+21161,Heathcote Junction,21547,Lower Plenty,,no_eligible_route
+21163,Heatherton,21547,Lower Plenty,123.42,ok
+21165,Heathmont,21547,Lower Plenty,81.03,ok
+21167,Heidelberg,21547,Lower Plenty,45.9,ok
+21168,Heidelberg Heights,21547,Lower Plenty,50.17,ok
+21169,Heidelberg West,21547,Lower Plenty,54.12,ok
+21176,Hesket,21547,Lower Plenty,,no_eligible_route
+21185,Highett,21547,Lower Plenty,112.37,ok
+21193,Hillside (Melton - Vic.),21547,Lower Plenty,149.17,ok
+21195,Hmas Cerberus,21547,Lower Plenty,,no_eligible_route
+21196,Hoddles Creek,21547,Lower Plenty,,no_eligible_route
+21202,Hopetoun Park,21547,Lower Plenty,,no_eligible_route
+21203,Hoppers Crossing,21547,Lower Plenty,141.58,ok
+21214,Hughesdale,21547,Lower Plenty,101.77,ok
+21215,Humevale,21547,Lower Plenty,130.28,ok
+21218,Huntingdale (Vic.),21547,Lower Plenty,106.68,ok
+21223,Hurstbridge,21547,Lower Plenty,58.97,ok
+21238,Iona,21547,Lower Plenty,,no_eligible_route
+21246,Ivanhoe (Vic.),21547,Lower Plenty,54.85,ok
+21247,Ivanhoe East,21547,Lower Plenty,67.08,ok
+21248,Jacana,21547,Lower Plenty,89.28,ok
+21277,Junction Village,21547,Lower Plenty,197.22,ok
+21284,Kalkallo,21547,Lower Plenty,143.38,ok
+21286,Kallista,21547,Lower Plenty,144.28,ok
+21287,Kalorama,21547,Lower Plenty,110.55,ok
+21294,Kangaroo Ground,21547,Lower Plenty,83.38,ok
+21312,Kealba,21547,Lower Plenty,132.45,ok
+21314,Keilor,21547,Lower Plenty,153.17,ok
+21315,Keilor Downs,21547,Lower Plenty,148.33,ok
+21316,Keilor East,21547,Lower Plenty,119.57,ok
+21317,Keilor Lodge,21547,Lower Plenty,151.95,ok
+21318,Keilor North,21547,Lower Plenty,158.02,ok
+21319,Keilor Park,21547,Lower Plenty,132.85,ok
+21327,Kensington (Vic.),21547,Lower Plenty,93.1,ok
+21333,Kerrie,21547,Lower Plenty,,no_eligible_route
+21336,Kew (Vic.),21547,Lower Plenty,76.58,ok
+21337,Kew East,21547,Lower Plenty,69.08,ok
+21339,Keysborough,21547,Lower Plenty,119.07,ok
+21354,Kilsyth,21547,Lower Plenty,98.88,ok
+21355,Kilsyth South,21547,Lower Plenty,115.02,ok
+21358,Kinglake,21547,Lower Plenty,179.22,ok
+21359,Kinglake Central,21547,Lower Plenty,,no_eligible_route
+21360,Kinglake West,21547,Lower Plenty,133.25,ok
+21362,Kings Park (Vic.),21547,Lower Plenty,148.53,ok
+21363,Kingsbury,21547,Lower Plenty,66.52,ok
+21365,Kingsville,21547,Lower Plenty,115.9,ok
+21374,Knoxfield,21547,Lower Plenty,105.6,ok
+21380,Koo Wee Rup,21547,Lower Plenty,,no_eligible_route
+21381,Koo Wee Rup North,21547,Lower Plenty,,no_eligible_route
+21393,Kooyong,21547,Lower Plenty,94.37,ok
+21411,Kurunjang,21547,Lower Plenty,218.9,ok
+21452,Lalor,21547,Lower Plenty,78.53,ok
+21456,Lancefield,21547,Lower Plenty,,no_eligible_route
+21459,Lang Lang,21547,Lower Plenty,,no_eligible_route
+21460,Lang Lang East,21547,Lower Plenty,,no_eligible_route
+21467,Langwarrin,21547,Lower Plenty,175.33,ok
+21468,Langwarrin South,21547,Lower Plenty,,no_eligible_route
+21473,Launching Place,21547,Lower Plenty,139.52,ok
+21476,Laverton (Vic.),21547,Lower Plenty,125.35,ok
+21477,Laverton North,21547,Lower Plenty,154.77,ok
+21504,Lilydale (Vic.),21547,Lower Plenty,110.88,ok
+21533,Long Forest,21547,Lower Plenty,,no_eligible_route
+21547,Lower Plenty,21547,Lower Plenty,0.0,same_centroid
+21554,Lynbrook,21547,Lower Plenty,135.1,ok
+21555,Lyndhurst (Vic.),21547,Lower Plenty,,no_eligible_route
+21558,Lysterfield,21547,Lower Plenty,,no_eligible_route
+21559,Lysterfield South,21547,Lower Plenty,,no_eligible_route
+21561,Macclesfield (Vic.),21547,Lower Plenty,,no_eligible_route
+21562,Macedon,21547,Lower Plenty,,no_eligible_route
+21564,Macleod (Vic.),21547,Lower Plenty,51.75,ok
+21569,Maddingley,21547,Lower Plenty,,no_eligible_route
+21575,Maidstone,21547,Lower Plenty,115.88,ok
+21578,Main Ridge,21547,Lower Plenty,,no_eligible_route
+21586,Malvern (Vic.),21547,Lower Plenty,98.72,ok
+21587,Malvern East,21547,Lower Plenty,99.48,ok
+21588,Mambourin,21547,Lower Plenty,,no_eligible_route
+21597,Manor Lakes,21547,Lower Plenty,177.28,ok
+21604,Maribyrnong,21547,Lower Plenty,115.53,ok
+21619,Maryknoll,21547,Lower Plenty,,no_eligible_route
+21625,McCrae,21547,Lower Plenty,,no_eligible_route
+21629,McKinnon,21547,Lower Plenty,101.67,ok
+21635,Meadow Heights,21547,Lower Plenty,102.8,ok
+21640,Melbourne,21547,Lower Plenty,86.37,ok
+21641,Melbourne Airport,21547,Lower Plenty,,no_eligible_route
+21642,Melton (Vic.),21547,Lower Plenty,203.03,ok
+21643,Melton South,21547,Lower Plenty,216.63,ok
+21644,Melton West,21547,Lower Plenty,211.87,ok
+21648,Mentone,21547,Lower Plenty,106.62,ok
+21649,Menzies Creek,21547,Lower Plenty,,no_eligible_route
+21659,Mernda,21547,Lower Plenty,98.87,ok
+21662,Merricks,21547,Lower Plenty,,no_eligible_route
+21663,Merricks Beach,21547,Lower Plenty,,no_eligible_route
+21664,Merricks North,21547,Lower Plenty,,no_eligible_route
+21668,Merrimu,21547,Lower Plenty,,no_eligible_route
+21675,Mickleham,21547,Lower Plenty,155.37,ok
+21677,Middle Park (Vic.),21547,Lower Plenty,101.9,ok
+21683,Mill Park,21547,Lower Plenty,69.88,ok
+21685,Millgrove,21547,Lower Plenty,,no_eligible_route
+21706,Mitcham (Vic.),21547,Lower Plenty,70.32,ok
+21727,Monbulk,21547,Lower Plenty,151.73,ok
+21728,Monegeetta,21547,Lower Plenty,,no_eligible_route
+21731,Monomeith,21547,Lower Plenty,,no_eligible_route
+21732,Mont Albert,21547,Lower Plenty,62.73,ok
+21733,Mont Albert North,21547,Lower Plenty,51.58,ok
+21735,Montmorency,21547,Lower Plenty,28.73,ok
+21736,Montrose (Vic.),21547,Lower Plenty,101.1,ok
+21742,Moonee Ponds,21547,Lower Plenty,95.17,ok
+21746,Moorabbin,21547,Lower Plenty,116.33,ok
+21747,Moorabbin Airport,21547,Lower Plenty,139.45,ok
+21754,Moorooduc,21547,Lower Plenty,,no_eligible_route
+21755,Mooroolbark,21547,Lower Plenty,92.78,ok
+21760,Mordialloc,21547,Lower Plenty,137.65,ok
+21763,Mornington (Vic.),21547,Lower Plenty,198.23,ok
+21779,Mount Burnett,21547,Lower Plenty,,no_eligible_route
+21786,Mount Cottrell,21547,Lower Plenty,,no_eligible_route
+21787,Mount Dandenong,21547,Lower Plenty,114.55,ok
+21793,Mount Eliza,21547,Lower Plenty,169.42,ok
+21795,Mount Evelyn,21547,Lower Plenty,118.72,ok
+21801,Mount Macedon,21547,Lower Plenty,,no_eligible_route
+21803,Mount Martha,21547,Lower Plenty,215.7,ok
+21814,Mount Toolebewong,21547,Lower Plenty,,no_eligible_route
+21816,Mount Waverley,21547,Lower Plenty,80.72,ok
+21827,Mulgrave (Vic.),21547,Lower Plenty,113.62,ok
+21849,Murrumbeena,21547,Lower Plenty,104.17,ok
+21872,Nangana,21547,Lower Plenty,,no_eligible_route
+21878,Nar Nar Goon,21547,Lower Plenty,,no_eligible_route
+21879,Nar Nar Goon North,21547,Lower Plenty,,no_eligible_route
+21893,Narre Warren,21547,Lower Plenty,138.28,ok
+21894,Narre Warren East,21547,Lower Plenty,,no_eligible_route
+21895,Narre Warren North,21547,Lower Plenty,196.2,ok
+21896,Narre Warren South,21547,Lower Plenty,175.12,ok
+21921,New Gisborne,21547,Lower Plenty,,no_eligible_route
+21934,Newport (Vic.),21547,Lower Plenty,109.1,ok
+21942,Niddrie,21547,Lower Plenty,116.05,ok
+21952,Noble Park,21547,Lower Plenty,112.1,ok
+21953,Noble Park North,21547,Lower Plenty,129.77,ok
+21966,North Melbourne,21547,Lower Plenty,88.65,ok
+21969,North Warrandyte,21547,Lower Plenty,71.37,ok
+21971,Northcote,21547,Lower Plenty,75.85,ok
+21974,Notting Hill,21547,Lower Plenty,80.23,ok
+21985,Nunawading,21547,Lower Plenty,61.33,ok
+21991,Nutfield,21547,Lower Plenty,,no_eligible_route
+21998,Oak Park,21547,Lower Plenty,104.12,ok
+21999,Oaklands Junction,21547,Lower Plenty,,no_eligible_route
+22000,Oakleigh,21547,Lower Plenty,100.35,ok
+22001,Oakleigh East,21547,Lower Plenty,97.37,ok
+22002,Oakleigh South,21547,Lower Plenty,95.7,ok
+22006,Officer,21547,Lower Plenty,150.67,ok
+22007,Officer South,21547,Lower Plenty,197.95,ok
+22009,Olinda (Vic.),21547,Lower Plenty,139.2,ok
+22016,Ormond,21547,Lower Plenty,102.1,ok
+22027,Pakenham,21547,Lower Plenty,149.72,ok
+22028,Pakenham South,21547,Lower Plenty,,no_eligible_route
+22029,Pakenham Upper,21547,Lower Plenty,,no_eligible_route
+22032,Panton Hill,21547,Lower Plenty,,no_eligible_route
+22036,Park Orchards,21547,Lower Plenty,73.45,ok
+22037,Parkdale,21547,Lower Plenty,126.53,ok
+22038,Parkville (Vic.),21547,Lower Plenty,93.48,ok
+22041,Pascoe Vale,21547,Lower Plenty,93.88,ok
+22042,Pascoe Vale South,21547,Lower Plenty,91.17,ok
+22047,Patterson Lakes,21547,Lower Plenty,157.12,ok
+22050,Pearcedale,21547,Lower Plenty,205.53,ok
+22058,Pentland Hills,21547,Lower Plenty,,no_eligible_route
+22064,Pheasant Creek (Vic.),21547,Lower Plenty,148.9,ok
+22084,Plenty (Vic.),21547,Lower Plenty,64.55,ok
+22085,Plumpton (Vic.),21547,Lower Plenty,,no_eligible_route
+22086,Point Cook,21547,Lower Plenty,144.58,ok
+22087,Point Leo,21547,Lower Plenty,,no_eligible_route
+22107,Port Melbourne,21547,Lower Plenty,101.48,ok
+22113,Portsea,21547,Lower Plenty,,no_eligible_route
+22115,Powelltown,21547,Lower Plenty,,no_eligible_route
+22118,Prahran,21547,Lower Plenty,96.6,ok
+22121,Preston (Vic.),21547,Lower Plenty,73.28,ok
+22122,Princes Hill,21547,Lower Plenty,84.32,ok
+22132,Quandong,21547,Lower Plenty,,no_eligible_route
+22141,Ravenhall,21547,Lower Plenty,177.72,ok
+22148,Red Hill (Vic.),21547,Lower Plenty,,no_eligible_route
+22149,Red Hill South,21547,Lower Plenty,,no_eligible_route
+22160,Research,21547,Lower Plenty,62.72,ok
+22161,Reservoir (Vic.),21547,Lower Plenty,79.48,ok
+22170,Richmond (Vic.),21547,Lower Plenty,81.7,ok
+22172,Riddells Creek,21547,Lower Plenty,,no_eligible_route
+22174,Ringwood (Vic.),21547,Lower Plenty,77.52,ok
+22175,Ringwood East,21547,Lower Plenty,83.67,ok
+22176,Ringwood North,21547,Lower Plenty,78.42,ok
+22179,Ripponlea,21547,Lower Plenty,99.5,ok
+22185,Rochford,21547,Lower Plenty,,no_eligible_route
+22186,Rockbank,21547,Lower Plenty,176.3,ok
+22193,Romsey,21547,Lower Plenty,,no_eligible_route
+22194,Rosanna,21547,Lower Plenty,34.78,ok
+22198,Rosebud,21547,Lower Plenty,,no_eligible_route
+22207,Rowville,21547,Lower Plenty,114.9,ok
+22208,Roxburgh Park,21547,Lower Plenty,119.63,ok
+22220,Rye,21547,Lower Plenty,,no_eligible_route
+22221,Rythdale,21547,Lower Plenty,,no_eligible_route
+22222,Safety Beach (Vic.),21547,Lower Plenty,226.92,ok
+22232,Sandhurst,21547,Lower Plenty,174.47,ok
+22234,Sandringham (Vic.),21547,Lower Plenty,127.02,ok
+22239,Sassafras (Vic.),21547,Lower Plenty,123.62,ok
+22242,Scoresby,21547,Lower Plenty,102.87,ok
+22247,Seabrook,21547,Lower Plenty,136.63,ok
+22249,Seaford (Vic.),21547,Lower Plenty,154.68,ok
+22250,Seaholme,21547,Lower Plenty,118.33,ok
+22256,Seddon (Vic.),21547,Lower Plenty,102.35,ok
+22258,Selby,21547,Lower Plenty,140.17,ok
+22263,Seville,21547,Lower Plenty,150.68,ok
+22264,Seville East,21547,Lower Plenty,137.57,ok
+22278,Sherbrooke,21547,Lower Plenty,134.35,ok
+22279,Shoreham,21547,Lower Plenty,,no_eligible_route
+22281,Silvan,21547,Lower Plenty,143.83,ok
+22291,Skye (Vic.),21547,Lower Plenty,181.47,ok
+22295,Smiths Gully,21547,Lower Plenty,,no_eligible_route
+22303,Somers,21547,Lower Plenty,,no_eligible_route
+22304,Somerton (Vic.),21547,Lower Plenty,108.0,ok
+22305,Somerville (Vic.),21547,Lower Plenty,,no_eligible_route
+22306,Sorrento (Vic.),21547,Lower Plenty,,no_eligible_route
+22309,South Kingsville,21547,Lower Plenty,121.35,ok
+22310,South Melbourne,21547,Lower Plenty,93.67,ok
+22311,South Morang,21547,Lower Plenty,85.07,ok
+22313,South Wharf,21547,Lower Plenty,92.67,ok
+22314,South Yarra,21547,Lower Plenty,81.73,ok
+22315,Southbank,21547,Lower Plenty,88.22,ok
+22319,Spotswood,21547,Lower Plenty,102.5,ok
+22325,Springfield (Macedon Ranges - Vic.),21547,Lower Plenty,,no_eligible_route
+22328,Springvale (Vic.),21547,Lower Plenty,101.18,ok
+22329,Springvale South,21547,Lower Plenty,99.8,ok
+22330,St Albans (Vic.),21547,Lower Plenty,123.62,ok
+22332,St Andrews (Vic.),21547,Lower Plenty,,no_eligible_route
+22333,St Andrews Beach,21547,Lower Plenty,,no_eligible_route
+22339,St Helena,21547,Lower Plenty,56.83,ok
+22343,St Kilda (Vic.),21547,Lower Plenty,85.87,ok
+22344,St Kilda East,21547,Lower Plenty,102.47,ok
+22345,St Kilda West,21547,Lower Plenty,100.58,ok
+22355,Steels Creek,21547,Lower Plenty,,no_eligible_route
+22375,Strathewen,21547,Lower Plenty,,no_eligible_route
+22380,Strathmore (Vic.),21547,Lower Plenty,111.85,ok
+22381,Strathmore Heights,21547,Lower Plenty,110.65,ok
+22382,Strathtulloh,21547,Lower Plenty,,no_eligible_route
+22391,Sunbury,21547,Lower Plenty,183.0,ok
+22395,Sunshine (Vic.),21547,Lower Plenty,112.4,ok
+22396,Sunshine North,21547,Lower Plenty,126.42,ok
+22397,Sunshine West,21547,Lower Plenty,139.75,ok
+22399,Surrey Hills,21547,Lower Plenty,60.65,ok
+22414,Sydenham (Vic.),21547,Lower Plenty,138.02,ok
+22451,Tarneit,21547,Lower Plenty,163.08,ok
+22457,Tarrawarra,21547,Lower Plenty,143.2,ok
+22473,Taylors Hill,21547,Lower Plenty,150.12,ok
+22474,Taylors Lakes,21547,Lower Plenty,142.9,ok
+22476,Tecoma,21547,Lower Plenty,100.85,ok
+22483,Templestowe,21547,Lower Plenty,41.85,ok
+22484,Templestowe Lower,21547,Lower Plenty,47.45,ok
+22496,The Basin (Vic.),21547,Lower Plenty,114.75,ok
+22501,The Patch,21547,Lower Plenty,142.3,ok
+22504,Thomastown,21547,Lower Plenty,83.5,ok
+22508,Thornbury,21547,Lower Plenty,75.72,ok
+22509,Thornhill Park,21547,Lower Plenty,,no_eligible_route
+22514,Three Bridges,21547,Lower Plenty,,no_eligible_route
+22531,Tonimbuk,21547,Lower Plenty,,no_eligible_route
+22536,Toolangi,21547,Lower Plenty,,no_eligible_route
+22537,Toolern Vale,21547,Lower Plenty,,no_eligible_route
+22546,Tooradin,21547,Lower Plenty,,no_eligible_route
+22547,Toorak,21547,Lower Plenty,97.65,ok
+22550,Tootgarook,21547,Lower Plenty,,no_eligible_route
+22556,Tottenham (Vic.),21547,Lower Plenty,136.6,ok
+22572,Travancore,21547,Lower Plenty,98.02,ok
+22576,Tremont,21547,Lower Plenty,119.75,ok
+22582,Truganina,21547,Lower Plenty,236.47,ok
+22584,Tuerong,21547,Lower Plenty,,no_eligible_route
+22586,Tullamarine,21547,Lower Plenty,107.97,ok
+22594,Tyabb,21547,Lower Plenty,,no_eligible_route
+22598,Tynong,21547,Lower Plenty,,no_eligible_route
+22599,Tynong North,21547,Lower Plenty,,no_eligible_route
+22614,Upper Ferntree Gully,21547,Lower Plenty,100.0,ok
+22617,Upper Plenty,21547,Lower Plenty,,no_eligible_route
+22620,Upwey,21547,Lower Plenty,100.72,ok
+22627,Vermont,21547,Lower Plenty,78.88,ok
+22628,Vermont South,21547,Lower Plenty,90.1,ok
+22629,Vervale,21547,Lower Plenty,,no_eligible_route
+22633,Viewbank,21547,Lower Plenty,33.83,walk_only
+22661,Wallan,21547,Lower Plenty,,no_eligible_route
+22672,Wandin East,21547,Lower Plenty,,no_eligible_route
+22673,Wandin North,21547,Lower Plenty,123.65,ok
+22676,Wandong,21547,Lower Plenty,,no_eligible_route
+22685,Wantirna,21547,Lower Plenty,91.72,ok
+22686,Wantirna South,21547,Lower Plenty,98.88,ok
+22689,Warburton (Vic.),21547,Lower Plenty,,no_eligible_route
+22695,Warneet,21547,Lower Plenty,,no_eligible_route
+22702,Warrandyte,21547,Lower Plenty,55.63,ok
+22703,Warrandyte South,21547,Lower Plenty,86.77,ok
+22704,Warranwood,21547,Lower Plenty,76.3,ok
+22717,Waterford Park,21547,Lower Plenty,,no_eligible_route
+22720,Waterways,21547,Lower Plenty,123.23,ok
+22721,Watsonia,21547,Lower Plenty,46.97,ok
+22722,Watsonia North,21547,Lower Plenty,45.47,ok
+22723,Watsons Creek (Vic.),21547,Lower Plenty,,no_eligible_route
+22727,Wattle Glen,21547,Lower Plenty,63.72,ok
+22740,Weir Views,21547,Lower Plenty,,no_eligible_route
+22750,Werribee,21547,Lower Plenty,144.75,ok
+22751,Werribee South,21547,Lower Plenty,,no_eligible_route
+22753,Wesburn,21547,Lower Plenty,155.62,ok
+22756,West Footscray,21547,Lower Plenty,115.57,ok
+22757,West Melbourne,21547,Lower Plenty,98.17,ok
+22761,Westmeadows,21547,Lower Plenty,94.0,ok
+22766,Wheelers Hill,21547,Lower Plenty,94.3,ok
+22775,Whittlesea,21547,Lower Plenty,,no_eligible_route
+22784,Wildwood,21547,Lower Plenty,,no_eligible_route
+22791,Williams Landing,21547,Lower Plenty,139.6,ok
+22792,Williamstown (Vic.),21547,Lower Plenty,118.43,ok
+22793,Williamstown North,21547,Lower Plenty,128.78,ok
+22805,Windsor (Vic.),21547,Lower Plenty,92.48,ok
+22820,Wollert,21547,Lower Plenty,138.07,ok
+22825,Wonga Park,21547,Lower Plenty,125.4,ok
+22843,Woodstock (Vic.),21547,Lower Plenty,,no_eligible_route
+22857,Woori Yallock,21547,Lower Plenty,134.77,ok
+22883,Wyndham Vale,21547,Lower Plenty,162.2,ok
+22892,Yallambie,21547,Lower Plenty,41.07,ok
+22898,Yan Yean,21547,Lower Plenty,114.63,ok
+22906,Yannathan,21547,Lower Plenty,,no_eligible_route
+22910,Yarra Glen,21547,Lower Plenty,140.5,ok
+22911,Yarra Junction,21547,Lower Plenty,159.88,ok
+22916,Yarrambat,21547,Lower Plenty,60.12,ok
+22917,Yarraville,21547,Lower Plenty,108.25,ok
+22925,Yellingbo,21547,Lower Plenty,,no_eligible_route
+22930,Yering,21547,Lower Plenty,,no_eligible_route
+22941,Yuroke,21547,Lower Plenty,177.0,ok
