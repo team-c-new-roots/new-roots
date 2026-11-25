@@ -327,6 +327,9 @@ export default {
     healthcareHint: 'Distance to the nearest GP and hospital.',
     essentials: 'Nearby services',
     essentialsHint: 'How far it is to the nearest pharmacy, GP and Services Australia centre.',
+    commute: 'Travel time to your places',
+    commuteHint:
+      'Public transport time to the places you picked, arriving by 8:30 am on a weekday.',
     transport: 'Public transport',
     transportHint: 'Bus and tram stops nearby, and how far it is to a train station.',
     language: 'Language community',
@@ -566,6 +569,10 @@ export default {
     readyLink: 'What agents can and can’t ask for',
     searchTitle: 'Look for homes in your suburbs',
     searchBody: 'Search each suburb on a rental website, and check each rent against your budget.',
+    tripTitle: 'Check the trip from each home',
+    tripBody:
+      'Our travel times go from suburb to suburb. Once you find a home you like, check the trip from its address to work, school or English class.',
+    tripPlanner: 'Transport Victoria journey planner',
     helpTitle: 'Get help with applying',
     helpBody:
       'A settlement worker or Tenants Victoria can help with applications, bonds and your rights as a renter.',
@@ -589,6 +596,7 @@ export default {
     rankOf: 'Ranked {rank} of {total}',
     rankHint: 'Compared with other Melbourne suburbs, where 1 is best.',
     dataBehind: 'The data behind it',
+    contents: 'On this page',
     rent: '{home} median {amount} a week',
     rentMissing: 'The Rental Report has no figure for this home in {suburb} yet.',
     rentSource: 'Rental Report, latest quarter',
@@ -649,6 +657,31 @@ export default {
     paperOver: 'Move-in: at least {amount} (bond plus one month’s rent in advance)',
     summaryNote:
       'Bond and rent in advance are each capped at one month’s rent up to {limit} a week. Source: {cav}.',
+  },
+  keyPlaces: {
+    heading: 'Places you need to get to (optional)',
+    hint: 'Like your work or an English class. Pick the suburb it’s in, and we’ll show how long public transport takes from each suburb on a weekday morning. We never ask for an address.',
+    error: 'The list of suburbs didn’t load. Check your connection, then come back to this step.',
+    first: 'First place',
+    second: 'Second place, if you have one',
+    none: 'No place',
+  },
+  travel: {
+    title: 'Travel to your places',
+    empty:
+      'Add up to 2 places you need to get to, like work or an English class, to see public transport times from here.',
+    add: 'Add places on step 4',
+    same: '{place} is this suburb',
+    transit: 'About {minutes} minutes to {place} by public transport',
+    walk: 'About {minutes} minutes’ walk to {place}',
+    none: 'No public transport gets you to {place} by 8:30 am',
+    noteTitle: 'How we work these out',
+    method:
+      'These are public transport times from the middle of {suburb} to the middle of each place’s suburb, on a Wednesday, arriving by 8:30 am. Your real trip depends on the exact addresses.',
+    check:
+      'Once you’ve found a home on a rental website, check the trip from its address in {google} or the {planner}.',
+    planner: 'Transport Victoria journey planner',
+    source: 'Travel times: worked out by the New Roots data team from public transport timetables.',
   },
   nearbyServices: {
     title: 'Nearby services',
@@ -778,6 +811,7 @@ export default {
     step2: 'Ask your caseworker about bond loans',
     stepApply: 'Get your ID and proof of income ready, like Centrelink letters',
     step3: 'Check school zones on {findMySchool}',
+    stepTrip: 'Check the trip from each home’s address in {google} or the {planner}',
     privacy: 'No names, addresses or visa details are included.',
     print: 'Print or save as PDF',
     back: 'Back to results',
@@ -819,7 +853,7 @@ export default {
       'If you only earn a wage, we use 30% of it and don’t add rent assistance. Many people seeking asylum can’t get Centrelink, so this keeps the budget honest.',
     rankHeading: 'How we rank suburbs',
     rank1:
-      'Each suburb gets a score out of 100 for eight topics: budget fit, schools and English classes, doctors and hospitals, nearby services, public transport, language community, community places and reported crime.',
+      'Each suburb gets a score out of 100 for eight topics: budget fit, schools and English classes, doctors and hospitals, nearby services, public transport, language community, community places and reported crime. If you add places you need to get to, travel time to them is a ninth.',
     rank2:
       'You choose how much each topic matters. Budget fit always counts most, and reported crime starts at Not important.',
     rank3:

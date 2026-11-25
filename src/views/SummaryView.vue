@@ -11,6 +11,7 @@ import {
   Printer,
   Users,
   Wallet,
+  TramFront,
 } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
 import { useResults } from '@/composables/useResults'
@@ -23,6 +24,7 @@ import { DATA_UPDATED } from '@/data/datasets'
 import { MOVE_IN } from '@/data/move-in'
 import { moveInCost } from '@/services/moveIn'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
+import { GOOGLE_TRANSIT, JOURNEY_PLANNER } from '@/data/journeyPlanners'
 import ResultsGate from '@/components/results/ResultsGate.vue'
 import logoLight1x from '@/assets/brand/logo-on-light.webp'
 import logoLight2x from '@/assets/brand/logo-on-light@2x.webp'
@@ -35,7 +37,7 @@ import logoLight2x from '@/assets/brand/logo-on-light@2x.webp'
 
 const { t, d } = useI18n()
 const answers = useAnswersStore()
-const { status, errorKind, derived, retry } = useResults()
+const { status, errorKind, derived, data, retry } = useResults()
 const { money, home, monthYear, fullDate, km } = useFormat()
 const facts = useSuburbFacts()
 const summary = useSummary(derived)
@@ -72,6 +74,11 @@ function distances(item: SuburbResult): string[] {
     schools.length ? t('summary.schools', { list: schools.join(', ') }) : null,
     facts.englishLine(item),
   ].filter((line): line is string => line !== null)
+}
+
+// US 4.2, the travel time to each place they picked
+function trips(item: SuburbResult) {
+  return data.value ? facts.travelLines(item, data.value) : []
 }
 
 // US 1.3, on screen and paper, so the caseworker sees the upfront cost too.
@@ -178,12 +185,27 @@ function print() {
                     <component :is="fact.icon" :size="18" aria-hidden="true" />
                     {{ fact.text }}
                   </li>
+                  <li
+                    v-for="trip in trips(item)"
+                    :key="`trip-${trip.key}`"
+                    class="summary__distance"
+                  >
+                    <TramFront :size="18" aria-hidden="true" />
+                    {{ trip.text }}
+                  </li>
                 </ul>
                 <p v-if="moveInLine(item, true)" class="summary__distances print-only">
                   {{ moveInLine(item, true) }}
                 </p>
                 <p v-if="distances(item).length" class="summary__distances print-only">
                   {{ distances(item).join(' · ') }}
+                </p>
+                <p v-if="trips(item).length" class="summary__distances print-only">
+                  {{
+                    trips(item)
+                      .map((trip) => trip.text)
+                      .join(' · ')
+                  }}
                 </p>
               </div>
               <button type="button" class="summary__remove no-print" @click="remove(item)">
@@ -246,6 +268,17 @@ function print() {
         <li>
           <Check :size="22" aria-hidden="true" />
           <span>{{ t('summary.stepApply') }}</span>
+        </li>
+        <li>
+          <Check :size="22" aria-hidden="true" />
+          <I18nT keypath="summary.stepTrip" tag="span" scope="global">
+            <template #google>
+              <ExternalLink :href="GOOGLE_TRANSIT">Google Maps</ExternalLink>
+            </template>
+            <template #planner>
+              <ExternalLink :href="JOURNEY_PLANNER">{{ t('travel.planner') }}</ExternalLink>
+            </template>
+          </I18nT>
         </li>
         <li>
           <Check :size="22" aria-hidden="true" />

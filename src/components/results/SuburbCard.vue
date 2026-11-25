@@ -2,7 +2,7 @@
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { SHORTLIST_MAX } from '@/stores/answers'
-import { Check, CircleAlert, House, Languages, MapPin, Plus } from '@lucide/vue'
+import { Check, CircleAlert, House, Languages, MapPin, Plus, TramFront } from '@lucide/vue'
 import type { MapData } from '@/types/scoring'
 import type { SuburbResult } from '@/services/results'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
@@ -37,6 +37,7 @@ const rent = computed(() => facts.rentLine(props.item))
 const estimate = computed(() => facts.estimateLine(props.item))
 const language = computed(() => facts.languageLine(props.item, props.data))
 const distances = computed(() => facts.distanceFacts(props.item))
+const travel = computed(() => facts.travelLines(props.item, props.data))
 </script>
 
 <template>
@@ -64,6 +65,10 @@ const distances = computed(() => facts.distanceFacts(props.item))
       <li v-if="language">
         <Languages :size="18" aria-hidden="true" />
         <span>{{ language }}</span>
+      </li>
+      <li v-for="trip in travel" :key="trip.key">
+        <TramFront :size="18" aria-hidden="true" />
+        <span>{{ trip.text }}</span>
       </li>
     </ul>
 

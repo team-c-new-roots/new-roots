@@ -40,6 +40,7 @@ interface RequestAnswers {
   importance: Record<RatedTopic, Importance>
   incomeWeekly: number
   home: Pick<ScoreRequest, 'bedrooms' | 'dwelling_type'>
+  places: string[]
 }
 
 export function toScoreRequest(answers: RequestAnswers): ScoreRequest {
@@ -59,7 +60,10 @@ export function toScoreRequest(answers: RequestAnswers): ScoreRequest {
       Transport: LEVELS[importance.Transport],
       Language: answers.censusLanguage ? LEVELS[importance.Language] : 'not important',
       Community: LEVELS[importance.Community],
+      // only with a place to get to, otherwise there's nothing to score
+      ...(answers.places.length ? { Commute: LEVELS[importance.Commute] } : {}),
     },
+    ...(answers.places.length ? { key_places: [...answers.places] } : {}),
   }
 }
 
@@ -83,6 +87,7 @@ const COLUMN: Record<TopicName, keyof ResultRow> = {
   Transport: 'transport_score',
   Language: 'language_score',
   Community: 'community_score',
+  Commute: 'commute_score',
 }
 
 function asNumber(value: unknown): number | null {
@@ -174,6 +179,7 @@ export function scoreSuburbs(
       transport_score: null,
       language_score: null,
       community_score: null,
+      commute_score: null,
       overall_score: null,
       overall_rank: null,
       selected_home: null,

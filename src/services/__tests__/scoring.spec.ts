@@ -252,6 +252,7 @@ describe('the rest of the rules', () => {
         Education: 'very',
         Healthcare: 'important',
         Essentials: 'important',
+        Commute: 'important',
         Transport: 'not',
         Language: 'very',
         Community: 'important',
@@ -259,10 +260,14 @@ describe('the rest of the rules', () => {
       },
       incomeWeekly: 700,
       home: { bedrooms: 1, dwelling_type: 'flat' },
+      places: [],
     })
     expect(sent.topic_importance.Affordability).toBe('very important')
     expect(sent.topic_importance.Language).toBe('not important')
     expect(sent.topic_importance.Education).toBe('very important')
+    // no place to get to, so travel time isn't sent at all (US 4.2)
+    expect(sent.topic_importance.Commute).toBeUndefined()
+    expect(sent.key_places).toBeUndefined()
   })
 
   it('ranks all 572 suburbs from the real data in well under a frame', () => {

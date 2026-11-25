@@ -7,6 +7,7 @@ import {
   Bus,
   Languages,
   Library,
+  TramFront,
   ShieldCheck,
 } from '@lucide/vue'
 import type { Importance, RatedTopic, TopicName } from '@/types'
@@ -29,6 +30,8 @@ export const TOPICS: TopicInfo[] = [
   // US 4.3, a pharmacy, GP and Services Australia centre within walking distance
   { id: 'Essentials', key: 'essentials', icon: Store, score: 'essentials_score' },
   { id: 'Transport', key: 'transport', icon: Bus, score: 'transport_score' },
+  // US 4.2, only shown once the household picks a place to get to
+  { id: 'Commute', key: 'commute', icon: TramFront, score: 'commute_score' },
   { id: 'Language', key: 'language', icon: Languages, score: 'language_score' },
   { id: 'Community', key: 'community', icon: Library, score: 'community_score' },
   { id: 'Safety', key: 'safety', icon: ShieldCheck, score: 'safety_score' },
@@ -53,6 +56,7 @@ export const DEFAULT_IMPORTANCE: Record<RatedTopic, Importance> = {
   Transport: 'important',
   Language: 'important',
   Community: 'important',
+  Commute: 'important',
   Safety: 'not',
 }
 

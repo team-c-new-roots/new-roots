@@ -21,6 +21,7 @@ function row(id: string, overrides: Partial<ResultRow> = {}): ResultRow {
     education_score: 50,
     healthcare_score: 50,
     essentials_score: 50,
+    commute_score: null,
     safety_score: 50,
     transport_score: 50,
     language_score: 50,

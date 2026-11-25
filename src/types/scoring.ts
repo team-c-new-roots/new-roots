@@ -15,7 +15,12 @@ export interface ScoreRequest {
   dwelling_type: 'house' | 'flat' | 'both'
   // weekly, rent assistance and the energy supplement included
   income: number
-  topic_importance: Record<TopicName, ImportanceLevel>
+  topic_importance: Record<Exclude<TopicName, 'Commute'>, ImportanceLevel> & {
+    Commute?: ImportanceLevel
+  }
+  // suburb ids of the places they need to get to (US 4.2). app only, the
+  // scoring module doesn't know about them
+  key_places?: string[]
 }
 
 export interface ResultRow {
@@ -32,6 +37,7 @@ export interface ResultRow {
   transport_score: number | null
   language_score: number | null
   community_score: number | null
+  commute_score: number | null
   overall_score: number | null
   overall_rank: number | null
   // which home the rent is for. Either uses whichever is cheaper in each suburb

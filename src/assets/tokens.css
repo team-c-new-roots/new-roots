@@ -54,6 +54,9 @@
   --nr-trend-area: var(--nr-wine);
   --nr-trend-city: #8c7166;
 
+  /* the arrow on a drop-down list, in each theme's link colour */
+  --nr-select-arrow: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%237b282b' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+
   /* place pins are a white disc with a dark ring in every theme. wherever
      the white fades into a fill the ring doesn't, so the pin is at least
      4:1 against every map colour in every theme (WCAG wants 3:1). each
@@ -145,6 +148,7 @@
 
     --nr-trend-area: #e9843e;
     --nr-trend-city: #dfccbc;
+    --nr-select-arrow: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffb678' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
   }
 
   /* high contrast, for low vision. black on white everywhere (21:1), blue
@@ -182,5 +186,6 @@
 
     --nr-trend-area: #000000;
     --nr-trend-city: #0040b0;
+    --nr-select-arrow: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000000' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
   }
 }

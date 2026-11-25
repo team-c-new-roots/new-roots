@@ -1247,7 +1247,7 @@ function onPick(event: Event) {
   border: 2px solid var(--nr-border-strong);
   border-radius: var(--nr-radius-sm);
   background-color: var(--nr-surface-raised);
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%237b282b' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-image: var(--nr-select-arrow);
   background-position: right 0.85rem center;
   background-repeat: no-repeat;
   background-size: 1.25rem;

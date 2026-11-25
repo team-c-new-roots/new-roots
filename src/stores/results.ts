@@ -9,6 +9,7 @@ import {
   type DataErrorKind,
 } from '@/services/appData'
 import { scoreSuburbs } from '@/services/scoring'
+import { loadTravel, withTravel } from '@/services/travel'
 
 export type ResultsStatus = 'idle' | 'loading' | 'ready' | 'error'
 
@@ -34,6 +35,15 @@ export const useResultsStore = defineStore('results', () => {
     try {
       appData = await loadAppData()
       if (request.selected_language) language = await loadLanguage(request.selected_language)
+      // a file for each place they need to get to, added as the Commute topic
+      const places = request.key_places ?? []
+      if (places.length) {
+        const files = await Promise.all(places.map((id) => loadTravel(id)))
+        appData = withTravel(
+          appData,
+          places.map((id, index) => ({ id, file: files[index]! })),
+        )
+      }
     } catch (error) {
       if (requestKey.value !== key) return
       errorKind.value = error instanceof DataError ? error.kind : 'network'

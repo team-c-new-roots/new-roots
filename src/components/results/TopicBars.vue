@@ -19,8 +19,11 @@ const props = defineProps<{
 
 const { t } = useI18n()
 
+// travel time only exists once they've picked a place to get to (US 4.2)
 const rows = computed(() =>
-  TOPICS.map((topic) => {
+  TOPICS.filter(
+    (topic) => topic.id !== 'Commute' || typeof props.suburb.row.commute_score === 'number',
+  ).map((topic) => {
     const raw = props.suburb.row[topic.score]
     const score = typeof raw === 'number' ? Math.round(raw) : null
     let note: string | undefined

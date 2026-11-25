@@ -4,7 +4,8 @@ import { BookOpen, GraduationCap, School } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
 import { useFormat } from '@/composables/useFormat'
 import { useLanguageName } from '@/composables/useLanguageName'
-import { languageShare, metricValue, type SuburbResult } from '@/services/results'
+import { cleanName, languageShare, metricValue, type SuburbResult } from '@/services/results'
+import { travelMetric, type TripKind } from '@/services/travel'
 import type { HomeLabel } from '@/types'
 import type { MapData } from '@/types/scoring'
 
@@ -101,7 +102,30 @@ export function useSuburbFacts() {
     return facts
   }
 
+  // US 4.2, the travel time to each place they picked, for the card and the
+  // suburb page. rounded to 5 minutes, since they're suburb to suburb
+  function travelLines(suburb: SuburbResult, data: MapData) {
+    const names = new Map(data.obt.map((row) => [row.suburb_id, cleanName(row.suburb_name)]))
+    return answers.places.map((id, index) => {
+      const metric = travelMetric(index)
+      const place = names.get(id) ?? id
+      const kind = (suburb.obt?.[`${metric}_kind`] ?? 'none') as TripKind
+      const raw = metricValue(suburb.obt, metric)
+      const minutes = raw === null ? null : Math.max(5, Math.round(raw / 5) * 5)
+      let text: string
+      if (kind === 'same') text = t('travel.same', { place })
+      else if (kind === 'transit' && minutes !== null)
+        text = t('travel.transit', { place, minutes })
+      // a walk of over an hour isn't a way to get there
+      else if (kind === 'walk' && minutes !== null && minutes <= 60)
+        text = t('travel.walk', { place, minutes })
+      else text = t('travel.none', { place })
+      return { key: id, place, kind, minutes, text }
+    })
+  }
+
   return {
+    travelLines,
     rentHome,
     schoolMetrics,
     homeFor,

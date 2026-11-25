@@ -75,6 +75,9 @@ export const useAnswersStore = defineStore('answers', () => {
   // the data team's name for a language found by searching, to show it back
   const communityLanguageLabel = ref<string | null>(null)
   const importance = reactive<Record<RatedTopic, Importance>>({ ...DEFAULT_IMPORTANCE })
+  // US 4.2, suburb ids of up to two places they need to get to, like work or
+  // an English class. a suburb, never an address
+  const places = ref<string[]>([])
   // null means follow the default, which depends on whether there are children
   const chosenSchoolNeed = ref<SchoolNeed | null>(null)
 
@@ -147,6 +150,7 @@ export const useAnswersStore = defineStore('answers', () => {
       communityLanguage.value !== null ||
       chosenSchoolNeed.value !== null ||
       shortlist.value !== null ||
+      places.value.length > 0 ||
       (Object.keys(DEFAULT_IMPORTANCE) as RatedTopic[]).some(
         (topic) => importance[topic] !== DEFAULT_IMPORTANCE[topic],
       ),
@@ -190,9 +194,11 @@ export const useAnswersStore = defineStore('answers', () => {
     Object.assign(importance, DEFAULT_IMPORTANCE)
     chosenSchoolNeed.value = null
     shortlist.value = null
+    places.value = []
   }
 
   return {
+    places,
     adults,
     children,
     chosenBedrooms,

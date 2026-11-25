@@ -1,10 +1,11 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
-import { ClipboardList, Handshake, ListChecks, Printer, Search } from '@lucide/vue'
+import { ClipboardList, Handshake, ListChecks, Printer, Route, Search } from '@lucide/vue'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
+import { GOOGLE_TRANSIT, JOURNEY_PLANNER } from '@/data/journeyPlanners'
 
 /* the results answer "where", this answers "what now" (teacher feedback:
-   lots of information, not much to act on). five steps in the order people
+   lots of information, not much to act on). six steps in the order people
    take them, each with something to tap. what agents can ask for comes from
    Consumer Affairs Victoria's rules for the standard application form, which
    all private rentals have used since 31 March 2026 */
@@ -55,6 +56,17 @@ const { t } = useI18n()
               >realestate.com.au</ExternalLink
             >
             <ExternalLink href="https://www.domain.com.au/rent/">Domain</ExternalLink>
+          </p>
+        </div>
+      </li>
+      <li>
+        <Route :size="24" aria-hidden="true" />
+        <div>
+          <h3>{{ t('nextSteps.tripTitle') }}</h3>
+          <p>{{ t('nextSteps.tripBody') }}</p>
+          <p class="next-steps__links">
+            <ExternalLink :href="GOOGLE_TRANSIT">Google Maps</ExternalLink>
+            <ExternalLink :href="JOURNEY_PLANNER">{{ t('nextSteps.tripPlanner') }}</ExternalLink>
           </p>
         </div>
       </li>

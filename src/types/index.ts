@@ -25,6 +25,9 @@ export type TopicName =
   | 'Transport'
   | 'Language'
   | 'Community'
+  // US 4.2, travel time to the places the household picks. only scored once
+  // they pick one, from the travel files rather than the OBT
+  | 'Commute'
 
 // affordability isn't rated, suburbs within budget always come first (US 2.2)
 export type RatedTopic = Exclude<TopicName, 'Affordability'>

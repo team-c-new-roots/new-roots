@@ -21,6 +21,7 @@ export function useResults() {
       importance: answers.importance,
       incomeWeekly: budget.incomeWeekly,
       home: answers.home.request,
+      places: answers.places,
     })
   })
 
@@ -44,6 +45,7 @@ export function useResults() {
     for (const [topic, level] of Object.entries(answers.importance)) {
       if (level === 'not') continue
       if (topic === 'Language' && !answers.censusLanguage) continue
+      if (topic === 'Commute' && !answers.places.length) continue
       topics.add(topic as TopicName)
     }
     return topics

@@ -29,7 +29,9 @@ import ResultsGate from '@/components/results/ResultsGate.vue'
 import DataNote from '@/components/results/DataNote.vue'
 import RentTrend from '@/components/results/RentTrend.vue'
 import NearbyServices from '@/components/suburb/NearbyServices.vue'
+import TravelTimes from '@/components/suburb/TravelTimes.vue'
 import CommunityPlaces from '@/components/suburb/CommunityPlaces.vue'
+import SuburbContents from '@/components/suburb/SuburbContents.vue'
 
 /* why a suburb ranks where it does: a score for each of the eight topics,
    what it does best and worst on, then the figures behind it with their
@@ -102,6 +104,16 @@ watchEffect(() => {
   if (item.value) document.title = `${item.value.name} | ${t('app.name')}`
 })
 
+// the quick links at the top, in page order
+const contents = computed(() => [
+  { id: 'why-heading', label: t('suburb.why') },
+  { id: 'data-heading', label: t('suburb.dataBehind') },
+  { id: 'travel-heading', label: t('travel.title') },
+  { id: 'nearby-heading', label: t('nearbyServices.title') },
+  { id: 'community-heading', label: t('communityPlaces.title') },
+  { id: 'rent-trend-heading', label: t('rentTrend.title') },
+])
+
 function toggleSummary() {
   const entry = item.value
   if (!entry) return
@@ -133,6 +145,8 @@ function toggleSummary() {
         <p v-if="item.match !== null" class="suburb__match">
           {{ t('suburb.match', { score: item.match }) }}
         </p>
+
+        <SuburbContents :sections="contents" />
 
         <section aria-labelledby="why-heading">
           <h2 id="why-heading">{{ t('suburb.why') }}</h2>
@@ -311,6 +325,7 @@ function toggleSummary() {
           <DataNote compact />
         </section>
 
+        <TravelTimes :item="item!" :data="data!" />
         <NearbyServices :obt="item!.obt" :suburb="item!.name" :all="data!.obt" />
         <CommunityPlaces :suburb-id="item!.id" :suburb="item!.name" />
 
@@ -349,6 +364,20 @@ function toggleSummary() {
 </template>
 
 <style scoped>
+/* clear of the sticky header when a quick link scrolls to a heading */
+.suburb :deep(h2[id]) {
+  scroll-margin-top: 6rem;
+}
+
+.suburb :deep(h2[id]:focus) {
+  outline: none;
+}
+
+.suburb :deep(h2[id]:focus-visible) {
+  outline: 3px solid var(--nr-focus);
+  outline-offset: 4px;
+}
+
 .suburb__back {
   margin-inline-start: -0.75rem;
   margin-bottom: 0.5rem;
