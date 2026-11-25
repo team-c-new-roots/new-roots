@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21760,Mordialloc,84.18,ok
+20003,Aberfeldie,21760,Mordialloc,106.48,ok
+20011,Aintree,21760,Mordialloc,141.93,ok
+20015,Airport West,21760,Mordialloc,127.3,ok
+20017,Albanvale,21760,Mordialloc,117.68,ok
+20018,Albert Park (Vic.),21760,Mordialloc,86.05,ok
+20021,Albion (Vic.),21760,Mordialloc,97.8,ok
+20034,Alphington,21760,Mordialloc,90.82,ok
+20035,Altona (Vic.),21760,Mordialloc,112.9,ok
+20036,Altona Meadows,21760,Mordialloc,121.05,ok
+20037,Altona North,21760,Mordialloc,115.58,ok
+20062,Ardeer,21760,Mordialloc,111.95,ok
+20066,Armadale (Vic.),21760,Mordialloc,51.32,ok
+20071,Arthurs Creek,21760,Mordialloc,,no_eligible_route
+20072,Arthurs Seat,21760,Mordialloc,,no_eligible_route
+20075,Ascot Vale,21760,Mordialloc,99.73,ok
+20077,Ashburton,21760,Mordialloc,85.93,ok
+20078,Ashwood,21760,Mordialloc,84.7,ok
+20079,Aspendale,21760,Mordialloc,29.58,ok
+20080,Aspendale Gardens,21760,Mordialloc,29.03,ok
+20082,Attwood,21760,Mordialloc,134.02,ok
+20089,Avondale Heights,21760,Mordialloc,114.33,ok
+20091,Avonsleigh,21760,Mordialloc,154.47,ok
+20095,Bacchus Marsh,21760,Mordialloc,,no_eligible_route
+20097,Badger Creek,21760,Mordialloc,197.5,ok
+20105,Balaclava (Vic.),21760,Mordialloc,66.58,ok
+20120,Balnarring,21760,Mordialloc,,no_eligible_route
+20121,Balnarring Beach,21760,Mordialloc,136.53,ok
+20123,Balwyn,21760,Mordialloc,94.42,ok
+20124,Balwyn North,21760,Mordialloc,100.15,ok
+20131,Bangholme,21760,Mordialloc,80.22,ok
+20169,Baxter,21760,Mordialloc,70.45,ok
+20171,Bayles,21760,Mordialloc,,no_eligible_route
+20173,Bayswater (Vic.),21760,Mordialloc,116.7,ok
+20174,Bayswater North,21760,Mordialloc,129.27,ok
+20175,Beaconsfield (Vic.),21760,Mordialloc,102.13,ok
+20176,Beaconsfield Upper,21760,Mordialloc,,no_eligible_route
+20182,Beaumaris (Vic.),21760,Mordialloc,43.37,ok
+20187,Beenak,21760,Mordialloc,,no_eligible_route
+20188,Belgrave,21760,Mordialloc,128.47,ok
+20189,Belgrave Heights,21760,Mordialloc,159.45,ok
+20190,Belgrave South,21760,Mordialloc,158.43,ok
+20198,Bellfield (Banyule - Vic.),21760,Mordialloc,114.57,ok
+20207,Bend Of Islands,21760,Mordialloc,,no_eligible_route
+20212,Benloch,21760,Mordialloc,,no_eligible_route
+20214,Bentleigh,21760,Mordialloc,39.98,ok
+20215,Bentleigh East,21760,Mordialloc,46.32,ok
+20224,Berwick,21760,Mordialloc,79.18,ok
+20233,Beveridge,21760,Mordialloc,164.57,ok
+20237,Big Pats Creek,21760,Mordialloc,,no_eligible_route
+20248,Bittern,21760,Mordialloc,90.72,ok
+20251,Black Rock (Vic.),21760,Mordialloc,51.17,ok
+20252,Blackburn,21760,Mordialloc,89.63,ok
+20253,Blackburn North,21760,Mordialloc,102.9,ok
+20254,Blackburn South,21760,Mordialloc,98.08,ok
+20257,Blairgowrie,21760,Mordialloc,127.68,ok
+20260,Blind Bight,21760,Mordialloc,,no_eligible_route
+20272,Bolinda,21760,Mordialloc,,no_eligible_route
+20278,Bonbeach,21760,Mordialloc,34.58,ok
+20280,Boneo,21760,Mordialloc,,no_eligible_route
+20282,Bonnie Brook,21760,Mordialloc,174.48,ok
+20304,Boronia,21760,Mordialloc,111.95,ok
+20307,Botanic Ridge,21760,Mordialloc,120.5,ok
+20314,Box Hill (Vic.),21760,Mordialloc,87.97,ok
+20315,Box Hill North,21760,Mordialloc,95.95,ok
+20316,Box Hill South,21760,Mordialloc,84.83,ok
+20320,Braeside,21760,Mordialloc,38.78,walk_only
+20324,Braybrook,21760,Mordialloc,103.58,ok
+20331,Briar Hill,21760,Mordialloc,129.53,ok
+20337,Brighton (Vic.),21760,Mordialloc,60.0,ok
+20338,Brighton East,21760,Mordialloc,49.15,ok
+20346,Broadmeadows (Vic.),21760,Mordialloc,124.93,ok
+20351,Brookfield (Vic.),21760,Mordialloc,,no_eligible_route
+20352,Brooklyn (Vic.),21760,Mordialloc,110.22,ok
+20361,Brunswick (Vic.),21760,Mordialloc,95.75,ok
+20362,Brunswick East,21760,Mordialloc,101.23,ok
+20363,Brunswick West,21760,Mordialloc,100.22,ok
+20381,Bulla (Vic.),21760,Mordialloc,,no_eligible_route
+20386,Bulleen,21760,Mordialloc,110.7,ok
+20387,Bullengarook,21760,Mordialloc,,no_eligible_route
+20399,Bundoora (Vic.),21760,Mordialloc,126.95,ok
+20411,Bunyip,21760,Mordialloc,,no_eligible_route
+20412,Bunyip North,21760,Mordialloc,,no_eligible_route
+20418,Burnley,21760,Mordialloc,79.33,ok
+20419,Burnside (Vic.),21760,Mordialloc,120.83,ok
+20420,Burnside Heights,21760,Mordialloc,128.65,ok
+20426,Burwood (Vic.),21760,Mordialloc,85.63,ok
+20427,Burwood East,21760,Mordialloc,84.02,ok
+20435,Bylands,21760,Mordialloc,,no_eligible_route
+20441,Cairnlea,21760,Mordialloc,113.02,ok
+20442,Calder Park,21760,Mordialloc,134.87,ok
+20443,Caldermeade,21760,Mordialloc,,no_eligible_route
+20453,Camberwell (Vic.),21760,Mordialloc,84.87,ok
+20455,Campbellfield,21760,Mordialloc,129.7,ok
+20466,Cannons Creek,21760,Mordialloc,,no_eligible_route
+20468,Canterbury (Vic.),21760,Mordialloc,84.47,ok
+20474,Cape Schanck,21760,Mordialloc,,no_eligible_route
+20476,Capel Sound,21760,Mordialloc,112.03,ok
+20487,Cardinia,21760,Mordialloc,,no_eligible_route
+20495,Carlton (Vic.),21760,Mordialloc,84.78,ok
+20496,Carlton North,21760,Mordialloc,98.0,ok
+20498,Carnegie,21760,Mordialloc,54.17,ok
+20500,Caroline Springs,21760,Mordialloc,127.72,ok
+20507,Carrum,21760,Mordialloc,34.4,ok
+20508,Carrum Downs,21760,Mordialloc,53.5,ok
+20512,Castella,21760,Mordialloc,,no_eligible_route
+20517,Catani,21760,Mordialloc,,no_eligible_route
+20521,Caulfield,21760,Mordialloc,56.02,ok
+20522,Caulfield East,21760,Mordialloc,51.77,ok
+20523,Caulfield North,21760,Mordialloc,57.68,ok
+20524,Caulfield South,21760,Mordialloc,50.6,ok
+20528,Chadstone,21760,Mordialloc,73.53,ok
+20537,Chelsea,21760,Mordialloc,31.65,ok
+20538,Chelsea Heights,21760,Mordialloc,34.75,ok
+20539,Cheltenham (Vic.),21760,Mordialloc,38.1,ok
+20541,Cherokee,21760,Mordialloc,,no_eligible_route
+20555,Chintin,21760,Mordialloc,,no_eligible_route
+20556,Chirnside Park,21760,Mordialloc,135.07,ok
+20559,Christmas Hills (Vic.),21760,Mordialloc,,no_eligible_route
+20560,Chum Creek,21760,Mordialloc,,no_eligible_route
+20566,Clarinda,21760,Mordialloc,41.82,ok
+20567,Clarkefield,21760,Mordialloc,,no_eligible_route
+20569,Clayton,21760,Mordialloc,58.97,ok
+20570,Clayton South,21760,Mordialloc,41.12,ok
+20572,Clematis,21760,Mordialloc,138.52,ok
+20574,Clifton Hill,21760,Mordialloc,79.82,ok
+20576,Clonbinane,21760,Mordialloc,,no_eligible_route
+20581,Clyde (Vic.),21760,Mordialloc,,no_eligible_route
+20582,Clyde North,21760,Mordialloc,109.3,ok
+20587,Cobaw,21760,Mordialloc,,no_eligible_route
+20590,Cobblebank,21760,Mordialloc,183.63,ok
+20596,Coburg,21760,Mordialloc,101.28,ok
+20597,Coburg North,21760,Mordialloc,115.13,ok
+20600,Cockatoo (Vic.),21760,Mordialloc,158.15,ok
+20601,Cocoroc,21760,Mordialloc,,no_eligible_route
+20605,Coimadai,21760,Mordialloc,,no_eligible_route
+20613,Coldstream (Vic.),21760,Mordialloc,,no_eligible_route
+20616,Collingwood (Vic.),21760,Mordialloc,79.13,ok
+20624,Coolaroo,21760,Mordialloc,125.12,ok
+20633,Cora Lynn,21760,Mordialloc,,no_eligible_route
+20654,Cottles Bridge,21760,Mordialloc,,no_eligible_route
+20661,Craigieburn,21760,Mordialloc,139.08,ok
+20662,Cranbourne,21760,Mordialloc,66.08,ok
+20663,Cranbourne East,21760,Mordialloc,88.58,ok
+20664,Cranbourne North,21760,Mordialloc,87.85,ok
+20665,Cranbourne South,21760,Mordialloc,123.85,ok
+20666,Cranbourne West,21760,Mordialloc,90.8,ok
+20670,Cremorne (Vic.),21760,Mordialloc,66.92,ok
+20674,Crib Point,21760,Mordialloc,99.68,ok
+20682,Croydon (Vic.),21760,Mordialloc,106.4,ok
+20683,Croydon Hills,21760,Mordialloc,128.12,ok
+20684,Croydon North,21760,Mordialloc,125.15,ok
+20685,Croydon South,21760,Mordialloc,126.72,ok
+20702,Dallas,21760,Mordialloc,128.35,ok
+20703,Dalmore,21760,Mordialloc,,no_eligible_route
+20707,Dandenong,21760,Mordialloc,62.35,ok
+20708,Dandenong North,21760,Mordialloc,84.88,ok
+20709,Dandenong South,21760,Mordialloc,69.68,ok
+20712,Darley,21760,Mordialloc,,no_eligible_route
+20716,Darraweit Guim,21760,Mordialloc,,no_eligible_route
+20724,Deanside,21760,Mordialloc,153.08,ok
+20728,Deepdene (Vic.),21760,Mordialloc,86.92,ok
+20729,Deer Park,21760,Mordialloc,109.78,ok
+20731,Delahey,21760,Mordialloc,123.92,ok
+20743,Derrimut,21760,Mordialloc,131.95,ok
+20748,Devon Meadows,21760,Mordialloc,,no_eligible_route
+20750,Dewhurst,21760,Mordialloc,,no_eligible_route
+20752,Diamond Creek,21760,Mordialloc,140.13,ok
+20754,Diggers Rest,21760,Mordialloc,131.9,ok
+20758,Dingley Village,21760,Mordialloc,39.0,ok
+20762,Dixons Creek,21760,Mordialloc,,no_eligible_route
+20766,Docklands,21760,Mordialloc,81.43,ok
+20769,Don Valley,21760,Mordialloc,,no_eligible_route
+20771,Doncaster,21760,Mordialloc,99.75,ok
+20772,Doncaster East,21760,Mordialloc,111.67,ok
+20773,Donnybrook (Vic.),21760,Mordialloc,172.1,ok
+20774,Donvale,21760,Mordialloc,114.63,ok
+20779,Doreen,21760,Mordialloc,153.62,ok
+20783,Doveton,21760,Mordialloc,72.62,ok
+20788,Dromana,21760,Mordialloc,136.02,ok
+20825,Eaglemont,21760,Mordialloc,109.15,ok
+20830,East Melbourne,21760,Mordialloc,75.42,ok
+20833,East Warburton,21760,Mordialloc,,no_eligible_route
+20843,Eden Park,21760,Mordialloc,,no_eligible_route
+20848,Edithvale,21760,Mordialloc,31.78,ok
+20864,Elsternwick,21760,Mordialloc,58.38,ok
+20865,Eltham (Vic.),21760,Mordialloc,132.27,ok
+20866,Eltham North,21760,Mordialloc,127.65,ok
+20867,Elwood,21760,Mordialloc,75.38,ok
+20868,Emerald (Vic.),21760,Mordialloc,144.82,ok
+20871,Endeavour Hills,21760,Mordialloc,89.7,ok
+20878,Epping (Vic.),21760,Mordialloc,144.95,ok
+20885,Essendon,21760,Mordialloc,107.23,ok
+20886,Essendon Fields,21760,Mordialloc,130.87,ok
+20887,Essendon North,21760,Mordialloc,111.35,ok
+20888,Essendon West,21760,Mordialloc,109.1,ok
+20889,Eumemmerring,21760,Mordialloc,72.78,ok
+20898,Exford,21760,Mordialloc,,no_eligible_route
+20899,Eynesbury,21760,Mordialloc,,no_eligible_route
+20901,Fairfield (Vic.),21760,Mordialloc,94.25,ok
+20909,Fawkner,21760,Mordialloc,122.15,ok
+20916,Fernshaw,21760,Mordialloc,,no_eligible_route
+20917,Ferntree Gully,21760,Mordialloc,93.22,ok
+20918,Ferny Creek,21760,Mordialloc,159.75,ok
+20920,Fingal (Vic.),21760,Mordialloc,,no_eligible_route
+20924,Fitzroy (Vic.),21760,Mordialloc,81.43,ok
+20925,Fitzroy North,21760,Mordialloc,92.03,ok
+20929,Flemington,21760,Mordialloc,98.85,ok
+20930,Flinders (Vic.),21760,Mordialloc,,no_eligible_route
+20935,Footscray,21760,Mordialloc,86.22,ok
+20937,Forest Hill (Vic.),21760,Mordialloc,86.33,ok
+20947,Frankston,21760,Mordialloc,51.37,ok
+20948,Frankston North,21760,Mordialloc,61.22,ok
+20949,Frankston South,21760,Mordialloc,76.43,ok
+20950,Fraser Rise,21760,Mordialloc,145.62,ok
+20965,Gardenvale,21760,Mordialloc,55.32,ok
+20966,Garfield,21760,Mordialloc,,no_eligible_route
+20967,Garfield North,21760,Mordialloc,,no_eligible_route
+20979,Gembrook,21760,Mordialloc,,no_eligible_route
+20995,Gilderoy,21760,Mordialloc,,no_eligible_route
+21001,Gisborne,21760,Mordialloc,,no_eligible_route
+21002,Gisborne South,21760,Mordialloc,,no_eligible_route
+21004,Gladstone Park,21760,Mordialloc,139.13,ok
+21005,Gladysdale,21760,Mordialloc,,no_eligible_route
+21009,Glen Huntly,21760,Mordialloc,46.97,ok
+21010,Glen Iris (Vic.),21760,Mordialloc,84.1,ok
+21013,Glen Waverley,21760,Mordialloc,66.93,ok
+21047,Glenroy (Vic.),21760,Mordialloc,119.78,ok
+21059,Goldie,21760,Mordialloc,,no_eligible_route
+21079,Gowanbrae,21760,Mordialloc,132.3,ok
+21087,Grangefields,21760,Mordialloc,178.93,ok
+21104,Greensborough,21760,Mordialloc,117.68,ok
+21105,Greenvale (Vic.),21760,Mordialloc,146.58,ok
+21115,Gruyere,21760,Mordialloc,,no_eligible_route
+21121,Guys Hill,21760,Mordialloc,,no_eligible_route
+21124,Hadfield,21760,Mordialloc,120.78,ok
+21125,Hallam,21760,Mordialloc,84.3,ok
+21131,Hampton (Vic.),21760,Mordialloc,47.17,ok
+21132,Hampton East,21760,Mordialloc,42.68,ok
+21133,Hampton Park,21760,Mordialloc,88.18,ok
+21139,Harkaway,21760,Mordialloc,,no_eligible_route
+21140,Harkness,21760,Mordialloc,,no_eligible_route
+21145,Hastings (Vic.),21760,Mordialloc,91.6,ok
+21152,Hawthorn (Vic.),21760,Mordialloc,71.83,ok
+21153,Hawthorn East,21760,Mordialloc,79.22,ok
+21158,Healesville,21760,Mordialloc,201.42,ok
+21159,Heath Hill,21760,Mordialloc,,no_eligible_route
+21161,Heathcote Junction,21760,Mordialloc,,no_eligible_route
+21163,Heatherton,21760,Mordialloc,41.47,ok
+21165,Heathmont,21760,Mordialloc,106.97,ok
+21167,Heidelberg,21760,Mordialloc,110.88,ok
+21168,Heidelberg Heights,21760,Mordialloc,116.45,ok
+21169,Heidelberg West,21760,Mordialloc,105.67,ok
+21176,Hesket,21760,Mordialloc,,no_eligible_route
+21185,Highett,21760,Mordialloc,30.25,ok
+21193,Hillside (Melton - Vic.),21760,Mordialloc,126.88,ok
+21195,Hmas Cerberus,21760,Mordialloc,,no_eligible_route
+21196,Hoddles Creek,21760,Mordialloc,,no_eligible_route
+21202,Hopetoun Park,21760,Mordialloc,,no_eligible_route
+21203,Hoppers Crossing,21760,Mordialloc,126.73,ok
+21214,Hughesdale,21760,Mordialloc,62.98,ok
+21215,Humevale,21760,Mordialloc,,no_eligible_route
+21218,Huntingdale (Vic.),21760,Mordialloc,63.37,ok
+21223,Hurstbridge,21760,Mordialloc,140.68,ok
+21238,Iona,21760,Mordialloc,,no_eligible_route
+21246,Ivanhoe (Vic.),21760,Mordialloc,95.42,ok
+21247,Ivanhoe East,21760,Mordialloc,103.83,ok
+21248,Jacana,21760,Mordialloc,124.35,ok
+21277,Junction Village,21760,Mordialloc,,no_eligible_route
+21284,Kalkallo,21760,Mordialloc,165.1,ok
+21286,Kallista,21760,Mordialloc,163.5,ok
+21287,Kalorama,21760,Mordialloc,133.37,ok
+21294,Kangaroo Ground,21760,Mordialloc,166.32,ok
+21312,Kealba,21760,Mordialloc,113.17,ok
+21314,Keilor,21760,Mordialloc,153.32,ok
+21315,Keilor Downs,21760,Mordialloc,125.12,ok
+21316,Keilor East,21760,Mordialloc,115.97,ok
+21317,Keilor Lodge,21760,Mordialloc,122.05,ok
+21318,Keilor North,21760,Mordialloc,128.12,ok
+21319,Keilor Park,21760,Mordialloc,131.38,ok
+21327,Kensington (Vic.),21760,Mordialloc,86.8,ok
+21333,Kerrie,21760,Mordialloc,,no_eligible_route
+21336,Kew (Vic.),21760,Mordialloc,85.87,ok
+21337,Kew East,21760,Mordialloc,99.88,ok
+21339,Keysborough,21760,Mordialloc,30.52,ok
+21354,Kilsyth,21760,Mordialloc,122.75,ok
+21355,Kilsyth South,21760,Mordialloc,137.83,ok
+21358,Kinglake,21760,Mordialloc,,no_eligible_route
+21359,Kinglake Central,21760,Mordialloc,,no_eligible_route
+21360,Kinglake West,21760,Mordialloc,,no_eligible_route
+21362,Kings Park (Vic.),21760,Mordialloc,117.15,ok
+21363,Kingsbury,21760,Mordialloc,126.17,ok
+21365,Kingsville,21760,Mordialloc,98.13,ok
+21374,Knoxfield,21760,Mordialloc,97.83,ok
+21380,Koo Wee Rup,21760,Mordialloc,,no_eligible_route
+21381,Koo Wee Rup North,21760,Mordialloc,,no_eligible_route
+21393,Kooyong,21760,Mordialloc,69.62,ok
+21411,Kurunjang,21760,Mordialloc,201.72,ok
+21452,Lalor,21760,Mordialloc,111.1,ok
+21456,Lancefield,21760,Mordialloc,,no_eligible_route
+21459,Lang Lang,21760,Mordialloc,,no_eligible_route
+21460,Lang Lang East,21760,Mordialloc,,no_eligible_route
+21467,Langwarrin,21760,Mordialloc,68.13,ok
+21468,Langwarrin South,21760,Mordialloc,,no_eligible_route
+21473,Launching Place,21760,Mordialloc,149.45,ok
+21476,Laverton (Vic.),21760,Mordialloc,110.5,ok
+21477,Laverton North,21760,Mordialloc,135.93,ok
+21504,Lilydale (Vic.),21760,Mordialloc,129.1,ok
+21533,Long Forest,21760,Mordialloc,,no_eligible_route
+21547,Lower Plenty,21760,Mordialloc,145.53,ok
+21554,Lynbrook,21760,Mordialloc,75.55,ok
+21555,Lyndhurst (Vic.),21760,Mordialloc,122.73,ok
+21558,Lysterfield,21760,Mordialloc,151.62,ok
+21559,Lysterfield South,21760,Mordialloc,140.27,ok
+21561,Macclesfield (Vic.),21760,Mordialloc,,no_eligible_route
+21562,Macedon,21760,Mordialloc,,no_eligible_route
+21564,Macleod (Vic.),21760,Mordialloc,110.77,ok
+21569,Maddingley,21760,Mordialloc,,no_eligible_route
+21575,Maidstone,21760,Mordialloc,105.03,ok
+21578,Main Ridge,21760,Mordialloc,,no_eligible_route
+21586,Malvern (Vic.),21760,Mordialloc,62.35,ok
+21587,Malvern East,21760,Mordialloc,66.23,ok
+21588,Mambourin,21760,Mordialloc,,no_eligible_route
+21597,Manor Lakes,21760,Mordialloc,163.97,ok
+21604,Maribyrnong,21760,Mordialloc,107.83,ok
+21619,Maryknoll,21760,Mordialloc,,no_eligible_route
+21625,McCrae,21760,Mordialloc,99.23,ok
+21629,McKinnon,21760,Mordialloc,34.97,ok
+21635,Meadow Heights,21760,Mordialloc,137.23,ok
+21640,Melbourne,21760,Mordialloc,70.8,ok
+21641,Melbourne Airport,21760,Mordialloc,,no_eligible_route
+21642,Melton (Vic.),21760,Mordialloc,185.85,ok
+21643,Melton South,21760,Mordialloc,199.45,ok
+21644,Melton West,21760,Mordialloc,194.68,ok
+21648,Mentone,21760,Mordialloc,26.92,ok
+21649,Menzies Creek,21760,Mordialloc,152.47,ok
+21659,Mernda,21760,Mordialloc,150.58,ok
+21662,Merricks,21760,Mordialloc,,no_eligible_route
+21663,Merricks Beach,21760,Mordialloc,,no_eligible_route
+21664,Merricks North,21760,Mordialloc,,no_eligible_route
+21668,Merrimu,21760,Mordialloc,,no_eligible_route
+21675,Mickleham,21760,Mordialloc,167.48,ok
+21677,Middle Park (Vic.),21760,Mordialloc,90.58,ok
+21683,Mill Park,21760,Mordialloc,140.22,ok
+21685,Millgrove,21760,Mordialloc,,no_eligible_route
+21706,Mitcham (Vic.),21760,Mordialloc,101.3,ok
+21727,Monbulk,21760,Mordialloc,170.63,ok
+21728,Monegeetta,21760,Mordialloc,,no_eligible_route
+21731,Monomeith,21760,Mordialloc,,no_eligible_route
+21732,Mont Albert,21760,Mordialloc,89.87,ok
+21733,Mont Albert North,21760,Mordialloc,102.93,ok
+21735,Montmorency,21760,Mordialloc,118.33,ok
+21736,Montrose (Vic.),21760,Mordialloc,125.67,ok
+21742,Moonee Ponds,21760,Mordialloc,89.42,ok
+21746,Moorabbin,21760,Mordialloc,54.57,ok
+21747,Moorabbin Airport,21760,Mordialloc,43.88,ok
+21754,Moorooduc,21760,Mordialloc,99.02,ok
+21755,Mooroolbark,21760,Mordialloc,115.6,ok
+21760,Mordialloc,21760,Mordialloc,0.0,same_centroid
+21763,Mornington (Vic.),21760,Mordialloc,83.35,ok
+21779,Mount Burnett,21760,Mordialloc,,no_eligible_route
+21786,Mount Cottrell,21760,Mordialloc,,no_eligible_route
+21787,Mount Dandenong,21760,Mordialloc,137.37,ok
+21793,Mount Eliza,21760,Mordialloc,63.42,ok
+21795,Mount Evelyn,21760,Mordialloc,141.53,ok
+21801,Mount Macedon,21760,Mordialloc,,no_eligible_route
+21803,Mount Martha,21760,Mordialloc,83.95,ok
+21814,Mount Toolebewong,21760,Mordialloc,,no_eligible_route
+21816,Mount Waverley,21760,Mordialloc,70.68,ok
+21827,Mulgrave (Vic.),21760,Mordialloc,65.63,ok
+21849,Murrumbeena,21760,Mordialloc,62.52,ok
+21872,Nangana,21760,Mordialloc,,no_eligible_route
+21878,Nar Nar Goon,21760,Mordialloc,,no_eligible_route
+21879,Nar Nar Goon North,21760,Mordialloc,,no_eligible_route
+21893,Narre Warren,21760,Mordialloc,83.88,ok
+21894,Narre Warren East,21760,Mordialloc,,no_eligible_route
+21895,Narre Warren North,21760,Mordialloc,95.15,ok
+21896,Narre Warren South,21760,Mordialloc,86.1,ok
+21921,New Gisborne,21760,Mordialloc,,no_eligible_route
+21934,Newport (Vic.),21760,Mordialloc,94.35,ok
+21942,Niddrie,21760,Mordialloc,123.3,ok
+21952,Noble Park,21760,Mordialloc,45.75,ok
+21953,Noble Park North,21760,Mordialloc,72.37,ok
+21966,North Melbourne,21760,Mordialloc,83.3,ok
+21969,North Warrandyte,21760,Mordialloc,147.9,ok
+21971,Northcote,21760,Mordialloc,94.3,ok
+21974,Notting Hill,21760,Mordialloc,66.78,ok
+21985,Nunawading,21760,Mordialloc,90.87,ok
+21991,Nutfield,21760,Mordialloc,,no_eligible_route
+21998,Oak Park,21760,Mordialloc,107.73,ok
+21999,Oaklands Junction,21760,Mordialloc,,no_eligible_route
+22000,Oakleigh,21760,Mordialloc,63.9,ok
+22001,Oakleigh East,21760,Mordialloc,71.62,ok
+22002,Oakleigh South,21760,Mordialloc,52.63,ok
+22006,Officer,21760,Mordialloc,98.83,ok
+22007,Officer South,21760,Mordialloc,132.0,ok
+22009,Olinda (Vic.),21760,Mordialloc,161.07,ok
+22016,Ormond,21760,Mordialloc,39.98,ok
+22027,Pakenham,21760,Mordialloc,96.75,ok
+22028,Pakenham South,21760,Mordialloc,,no_eligible_route
+22029,Pakenham Upper,21760,Mordialloc,,no_eligible_route
+22032,Panton Hill,21760,Mordialloc,,no_eligible_route
+22036,Park Orchards,21760,Mordialloc,115.5,ok
+22037,Parkdale,21760,Mordialloc,18.63,ok
+22038,Parkville (Vic.),21760,Mordialloc,91.92,ok
+22041,Pascoe Vale,21760,Mordialloc,116.38,ok
+22042,Pascoe Vale South,21760,Mordialloc,112.12,ok
+22047,Patterson Lakes,21760,Mordialloc,45.6,ok
+22050,Pearcedale,21760,Mordialloc,,no_eligible_route
+22058,Pentland Hills,21760,Mordialloc,,no_eligible_route
+22064,Pheasant Creek (Vic.),21760,Mordialloc,,no_eligible_route
+22084,Plenty (Vic.),21760,Mordialloc,142.27,ok
+22085,Plumpton (Vic.),21760,Mordialloc,,no_eligible_route
+22086,Point Cook,21760,Mordialloc,126.73,ok
+22087,Point Leo,21760,Mordialloc,,no_eligible_route
+22107,Port Melbourne,21760,Mordialloc,90.63,ok
+22113,Portsea,21760,Mordialloc,143.53,ok
+22115,Powelltown,21760,Mordialloc,,no_eligible_route
+22118,Prahran,21760,Mordialloc,65.48,ok
+22121,Preston (Vic.),21760,Mordialloc,108.98,ok
+22122,Princes Hill,21760,Mordialloc,92.18,ok
+22132,Quandong,21760,Mordialloc,,no_eligible_route
+22141,Ravenhall,21760,Mordialloc,160.53,ok
+22148,Red Hill (Vic.),21760,Mordialloc,,no_eligible_route
+22149,Red Hill South,21760,Mordialloc,,no_eligible_route
+22160,Research,21760,Mordialloc,141.77,ok
+22161,Reservoir (Vic.),21760,Mordialloc,107.92,ok
+22170,Richmond (Vic.),21760,Mordialloc,75.55,ok
+22172,Riddells Creek,21760,Mordialloc,,no_eligible_route
+22174,Ringwood (Vic.),21760,Mordialloc,107.93,ok
+22175,Ringwood East,21760,Mordialloc,106.48,ok
+22176,Ringwood North,21760,Mordialloc,116.12,ok
+22179,Ripponlea,21760,Mordialloc,66.4,ok
+22185,Rochford,21760,Mordialloc,,no_eligible_route
+22186,Rockbank,21760,Mordialloc,159.12,ok
+22193,Romsey,21760,Mordialloc,,no_eligible_route
+22194,Rosanna,21760,Mordialloc,105.23,ok
+22198,Rosebud,21760,Mordialloc,115.55,ok
+22207,Rowville,21760,Mordialloc,88.95,ok
+22208,Roxburgh Park,21760,Mordialloc,132.35,ok
+22220,Rye,21760,Mordialloc,135.75,ok
+22221,Rythdale,21760,Mordialloc,,no_eligible_route
+22222,Safety Beach (Vic.),21760,Mordialloc,99.92,ok
+22232,Sandhurst,21760,Mordialloc,75.4,ok
+22234,Sandringham (Vic.),21760,Mordialloc,52.15,ok
+22239,Sassafras (Vic.),21760,Mordialloc,142.52,ok
+22242,Scoresby,21760,Mordialloc,98.77,ok
+22247,Seabrook,21760,Mordialloc,126.32,ok
+22249,Seaford (Vic.),21760,Mordialloc,46.5,ok
+22250,Seaholme,21760,Mordialloc,107.58,ok
+22256,Seddon (Vic.),21760,Mordialloc,85.93,ok
+22258,Selby,21760,Mordialloc,159.8,ok
+22263,Seville,21760,Mordialloc,160.62,ok
+22264,Seville East,21760,Mordialloc,147.5,ok
+22278,Sherbrooke,21760,Mordialloc,153.25,ok
+22279,Shoreham,21760,Mordialloc,,no_eligible_route
+22281,Silvan,21760,Mordialloc,163.05,ok
+22291,Skye (Vic.),21760,Mordialloc,58.63,ok
+22295,Smiths Gully,21760,Mordialloc,,no_eligible_route
+22303,Somers,21760,Mordialloc,121.02,ok
+22304,Somerton (Vic.),21760,Mordialloc,134.12,ok
+22305,Somerville (Vic.),21760,Mordialloc,95.7,ok
+22306,Sorrento (Vic.),21760,Mordialloc,123.52,ok
+22309,South Kingsville,21760,Mordialloc,109.88,ok
+22310,South Melbourne,21760,Mordialloc,83.22,ok
+22311,South Morang,21760,Mordialloc,142.78,ok
+22313,South Wharf,21760,Mordialloc,83.63,ok
+22314,South Yarra,21760,Mordialloc,54.37,ok
+22315,Southbank,21760,Mordialloc,78.53,ok
+22319,Spotswood,21760,Mordialloc,87.75,ok
+22325,Springfield (Macedon Ranges - Vic.),21760,Mordialloc,,no_eligible_route
+22328,Springvale (Vic.),21760,Mordialloc,47.78,ok
+22329,Springvale South,21760,Mordialloc,45.92,ok
+22330,St Albans (Vic.),21760,Mordialloc,100.43,ok
+22332,St Andrews (Vic.),21760,Mordialloc,,no_eligible_route
+22333,St Andrews Beach,21760,Mordialloc,,no_eligible_route
+22339,St Helena,21760,Mordialloc,138.38,ok
+22343,St Kilda (Vic.),21760,Mordialloc,73.6,ok
+22344,St Kilda East,21760,Mordialloc,66.03,ok
+22345,St Kilda West,21760,Mordialloc,82.53,ok
+22355,Steels Creek,21760,Mordialloc,,no_eligible_route
+22375,Strathewen,21760,Mordialloc,,no_eligible_route
+22380,Strathmore (Vic.),21760,Mordialloc,117.2,ok
+22381,Strathmore Heights,21760,Mordialloc,127.98,ok
+22382,Strathtulloh,21760,Mordialloc,,no_eligible_route
+22391,Sunbury,21760,Mordialloc,163.72,ok
+22395,Sunshine (Vic.),21760,Mordialloc,89.22,ok
+22396,Sunshine North,21760,Mordialloc,109.28,ok
+22397,Sunshine West,21760,Mordialloc,109.85,ok
+22399,Surrey Hills,21760,Mordialloc,90.27,ok
+22414,Sydenham (Vic.),21760,Mordialloc,114.83,ok
+22451,Tarneit,21760,Mordialloc,152.8,ok
+22457,Tarrawarra,21760,Mordialloc,177.02,ok
+22473,Taylors Hill,21760,Mordialloc,128.65,ok
+22474,Taylors Lakes,21760,Mordialloc,123.0,ok
+22476,Tecoma,21760,Mordialloc,116.47,ok
+22483,Templestowe,21760,Mordialloc,108.67,ok
+22484,Templestowe Lower,21760,Mordialloc,108.63,ok
+22496,The Basin (Vic.),21760,Mordialloc,133.65,ok
+22501,The Patch,21760,Mordialloc,161.2,ok
+22504,Thomastown,21760,Mordialloc,116.4,ok
+22508,Thornbury,21760,Mordialloc,100.18,ok
+22509,Thornhill Park,21760,Mordialloc,,no_eligible_route
+22514,Three Bridges,21760,Mordialloc,,no_eligible_route
+22531,Tonimbuk,21760,Mordialloc,,no_eligible_route
+22536,Toolangi,21760,Mordialloc,,no_eligible_route
+22537,Toolern Vale,21760,Mordialloc,,no_eligible_route
+22546,Tooradin,21760,Mordialloc,,no_eligible_route
+22547,Toorak,21760,Mordialloc,68.83,ok
+22550,Tootgarook,21760,Mordialloc,119.17,ok
+22556,Tottenham (Vic.),21760,Mordialloc,117.75,ok
+22572,Travancore,21760,Mordialloc,95.17,ok
+22576,Tremont,21760,Mordialloc,138.45,ok
+22582,Truganina,21760,Mordialloc,208.35,ok
+22584,Tuerong,21760,Mordialloc,,no_eligible_route
+22586,Tullamarine,21760,Mordialloc,148.03,ok
+22594,Tyabb,21760,Mordialloc,86.17,ok
+22598,Tynong,21760,Mordialloc,,no_eligible_route
+22599,Tynong North,21760,Mordialloc,,no_eligible_route
+22614,Upper Ferntree Gully,21760,Mordialloc,118.0,ok
+22617,Upper Plenty,21760,Mordialloc,,no_eligible_route
+22620,Upwey,21760,Mordialloc,116.33,ok
+22627,Vermont,21760,Mordialloc,93.02,ok
+22628,Vermont South,21760,Mordialloc,85.38,ok
+22629,Vervale,21760,Mordialloc,,no_eligible_route
+22633,Viewbank,21760,Mordialloc,121.63,ok
+22661,Wallan,21760,Mordialloc,,no_eligible_route
+22672,Wandin East,21760,Mordialloc,,no_eligible_route
+22673,Wandin North,21760,Mordialloc,133.58,ok
+22676,Wandong,21760,Mordialloc,,no_eligible_route
+22685,Wantirna,21760,Mordialloc,113.33,ok
+22686,Wantirna South,21760,Mordialloc,90.87,ok
+22689,Warburton (Vic.),21760,Mordialloc,,no_eligible_route
+22695,Warneet,21760,Mordialloc,,no_eligible_route
+22702,Warrandyte,21760,Mordialloc,112.45,ok
+22703,Warrandyte South,21760,Mordialloc,148.42,ok
+22704,Warranwood,21760,Mordialloc,125.73,ok
+22717,Waterford Park,21760,Mordialloc,,no_eligible_route
+22720,Waterways,21760,Mordialloc,30.5,ok
+22721,Watsonia,21760,Mordialloc,105.68,ok
+22722,Watsonia North,21760,Mordialloc,127.53,ok
+22723,Watsons Creek (Vic.),21760,Mordialloc,,no_eligible_route
+22727,Wattle Glen,21760,Mordialloc,144.43,ok
+22740,Weir Views,21760,Mordialloc,,no_eligible_route
+22750,Werribee,21760,Mordialloc,125.93,ok
+22751,Werribee South,21760,Mordialloc,,no_eligible_route
+22753,Wesburn,21760,Mordialloc,165.55,ok
+22756,West Footscray,21760,Mordialloc,95.67,ok
+22757,West Melbourne,21760,Mordialloc,95.6,ok
+22761,Westmeadows,21760,Mordialloc,126.77,ok
+22766,Wheelers Hill,21760,Mordialloc,83.45,ok
+22775,Whittlesea,21760,Mordialloc,,no_eligible_route
+22784,Wildwood,21760,Mordialloc,,no_eligible_route
+22791,Williams Landing,21760,Mordialloc,124.75,ok
+22792,Williamstown (Vic.),21760,Mordialloc,99.85,ok
+22793,Williamstown North,21760,Mordialloc,116.07,ok
+22805,Windsor (Vic.),21760,Mordialloc,66.87,ok
+22820,Wollert,21760,Mordialloc,158.9,ok
+22825,Wonga Park,21760,Mordialloc,135.33,ok
+22843,Woodstock (Vic.),21760,Mordialloc,,no_eligible_route
+22857,Woori Yallock,21760,Mordialloc,144.7,ok
+22883,Wyndham Vale,21760,Mordialloc,160.35,ok
+22892,Yallambie,21760,Mordialloc,131.97,ok
+22898,Yan Yean,21760,Mordialloc,167.35,ok
+22906,Yannathan,21760,Mordialloc,,no_eligible_route
+22910,Yarra Glen,21760,Mordialloc,174.32,ok
+22911,Yarra Junction,21760,Mordialloc,169.82,ok
+22916,Yarrambat,21760,Mordialloc,144.23,ok
+22917,Yarraville,21760,Mordialloc,93.5,ok
+22925,Yellingbo,21760,Mordialloc,,no_eligible_route
+22930,Yering,21760,Mordialloc,,no_eligible_route
+22941,Yuroke,21760,Mordialloc,189.72,ok

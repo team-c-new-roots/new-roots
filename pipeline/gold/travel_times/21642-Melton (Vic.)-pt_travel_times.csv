@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21642,Melton (Vic.),125.02,ok
+20003,Aberfeldie,21642,Melton (Vic.),122.23,ok
+20011,Aintree,21642,Melton (Vic.),55.65,ok
+20015,Airport West,21642,Melton (Vic.),146.8,ok
+20017,Albanvale,21642,Melton (Vic.),87.63,ok
+20018,Albert Park (Vic.),21642,Melton (Vic.),135.3,ok
+20021,Albion (Vic.),21642,Melton (Vic.),68.18,ok
+20034,Alphington,21642,Melton (Vic.),136.18,ok
+20035,Altona (Vic.),21642,Melton (Vic.),131.27,ok
+20036,Altona Meadows,21642,Melton (Vic.),129.42,ok
+20037,Altona North,21642,Melton (Vic.),125.43,ok
+20062,Ardeer,21642,Melton (Vic.),72.67,ok
+20066,Armadale (Vic.),21642,Melton (Vic.),123.4,ok
+20071,Arthurs Creek,21642,Melton (Vic.),,no_eligible_route
+20072,Arthurs Seat,21642,Melton (Vic.),,no_eligible_route
+20075,Ascot Vale,21642,Melton (Vic.),126.93,ok
+20077,Ashburton,21642,Melton (Vic.),156.02,ok
+20078,Ashwood,21642,Melton (Vic.),166.88,ok
+20079,Aspendale,21642,Melton (Vic.),165.67,ok
+20080,Aspendale Gardens,21642,Melton (Vic.),205.9,ok
+20082,Attwood,21642,Melton (Vic.),195.62,ok
+20089,Avondale Heights,21642,Melton (Vic.),127.8,ok
+20091,Avonsleigh,21642,Melton (Vic.),,no_eligible_route
+20095,Bacchus Marsh,21642,Melton (Vic.),215.7,walk_only
+20097,Badger Creek,21642,Melton (Vic.),,no_eligible_route
+20105,Balaclava (Vic.),21642,Melton (Vic.),138.48,ok
+20120,Balnarring,21642,Melton (Vic.),,no_eligible_route
+20121,Balnarring Beach,21642,Melton (Vic.),,no_eligible_route
+20123,Balwyn,21642,Melton (Vic.),159.78,ok
+20124,Balwyn North,21642,Melton (Vic.),146.92,ok
+20131,Bangholme,21642,Melton (Vic.),230.37,ok
+20169,Baxter,21642,Melton (Vic.),,no_eligible_route
+20171,Bayles,21642,Melton (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),21642,Melton (Vic.),183.67,ok
+20174,Bayswater North,21642,Melton (Vic.),210.1,ok
+20175,Beaconsfield (Vic.),21642,Melton (Vic.),192.12,ok
+20176,Beaconsfield Upper,21642,Melton (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),21642,Melton (Vic.),188.07,ok
+20187,Beenak,21642,Melton (Vic.),,no_eligible_route
+20188,Belgrave,21642,Melton (Vic.),196.75,ok
+20189,Belgrave Heights,21642,Melton (Vic.),228.42,ok
+20190,Belgrave South,21642,Melton (Vic.),,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21642,Melton (Vic.),163.93,ok
+20207,Bend Of Islands,21642,Melton (Vic.),,no_eligible_route
+20212,Benloch,21642,Melton (Vic.),,no_eligible_route
+20214,Bentleigh,21642,Melton (Vic.),143.45,ok
+20215,Bentleigh East,21642,Melton (Vic.),151.8,ok
+20224,Berwick,21642,Melton (Vic.),164.92,ok
+20233,Beveridge,21642,Melton (Vic.),,no_eligible_route
+20237,Big Pats Creek,21642,Melton (Vic.),,no_eligible_route
+20248,Bittern,21642,Melton (Vic.),,no_eligible_route
+20251,Black Rock (Vic.),21642,Melton (Vic.),192.15,ok
+20252,Blackburn,21642,Melton (Vic.),161.0,ok
+20253,Blackburn North,21642,Melton (Vic.),162.98,ok
+20254,Blackburn South,21642,Melton (Vic.),175.68,ok
+20257,Blairgowrie,21642,Melton (Vic.),,no_eligible_route
+20260,Blind Bight,21642,Melton (Vic.),,no_eligible_route
+20272,Bolinda,21642,Melton (Vic.),,no_eligible_route
+20278,Bonbeach,21642,Melton (Vic.),170.67,ok
+20280,Boneo,21642,Melton (Vic.),,no_eligible_route
+20282,Bonnie Brook,21642,Melton (Vic.),123.57,ok
+20304,Boronia,21642,Melton (Vic.),186.13,ok
+20307,Botanic Ridge,21642,Melton (Vic.),,no_eligible_route
+20314,Box Hill (Vic.),21642,Melton (Vic.),158.12,ok
+20315,Box Hill North,21642,Melton (Vic.),169.87,ok
+20316,Box Hill South,21642,Melton (Vic.),168.75,ok
+20320,Braeside,21642,Melton (Vic.),225.98,ok
+20324,Braybrook,21642,Melton (Vic.),100.18,ok
+20331,Briar Hill,21642,Melton (Vic.),174.9,ok
+20337,Brighton (Vic.),21642,Melton (Vic.),152.82,ok
+20338,Brighton East,21642,Melton (Vic.),149.13,ok
+20346,Broadmeadows (Vic.),21642,Melton (Vic.),164.02,ok
+20351,Brookfield (Vic.),21642,Melton (Vic.),97.08,ok
+20352,Brooklyn (Vic.),21642,Melton (Vic.),111.85,ok
+20361,Brunswick (Vic.),21642,Melton (Vic.),117.92,ok
+20362,Brunswick East,21642,Melton (Vic.),127.2,ok
+20363,Brunswick West,21642,Melton (Vic.),138.2,ok
+20381,Bulla (Vic.),21642,Melton (Vic.),168.53,ok
+20386,Bulleen,21642,Melton (Vic.),153.07,ok
+20387,Bullengarook,21642,Melton (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),21642,Melton (Vic.),173.92,ok
+20411,Bunyip,21642,Melton (Vic.),,no_eligible_route
+20412,Bunyip North,21642,Melton (Vic.),,no_eligible_route
+20418,Burnley,21642,Melton (Vic.),143.42,ok
+20419,Burnside (Vic.),21642,Melton (Vic.),61.17,ok
+20420,Burnside Heights,21642,Melton (Vic.),80.4,ok
+20426,Burwood (Vic.),21642,Melton (Vic.),154.75,ok
+20427,Burwood East,21642,Melton (Vic.),159.42,ok
+20435,Bylands,21642,Melton (Vic.),,no_eligible_route
+20441,Cairnlea,21642,Melton (Vic.),84.75,ok
+20442,Calder Park,21642,Melton (Vic.),101.18,ok
+20443,Caldermeade,21642,Melton (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),21642,Melton (Vic.),152.25,ok
+20455,Campbellfield,21642,Melton (Vic.),161.67,ok
+20466,Cannons Creek,21642,Melton (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),21642,Melton (Vic.),151.43,ok
+20474,Cape Schanck,21642,Melton (Vic.),,no_eligible_route
+20476,Capel Sound,21642,Melton (Vic.),,no_eligible_route
+20487,Cardinia,21642,Melton (Vic.),,no_eligible_route
+20495,Carlton (Vic.),21642,Melton (Vic.),107.4,ok
+20496,Carlton North,21642,Melton (Vic.),124.97,ok
+20498,Carnegie,21642,Melton (Vic.),131.65,ok
+20500,Caroline Springs,21642,Melton (Vic.),65.25,ok
+20507,Carrum,21642,Melton (Vic.),170.48,ok
+20508,Carrum Downs,21642,Melton (Vic.),186.72,ok
+20512,Castella,21642,Melton (Vic.),,no_eligible_route
+20517,Catani,21642,Melton (Vic.),,no_eligible_route
+20521,Caulfield,21642,Melton (Vic.),139.15,ok
+20522,Caulfield East,21642,Melton (Vic.),124.85,ok
+20523,Caulfield North,21642,Melton (Vic.),131.02,ok
+20524,Caulfield South,21642,Melton (Vic.),143.68,ok
+20528,Chadstone,21642,Melton (Vic.),160.9,ok
+20537,Chelsea,21642,Melton (Vic.),167.73,ok
+20538,Chelsea Heights,21642,Melton (Vic.),194.2,ok
+20539,Cheltenham (Vic.),21642,Melton (Vic.),158.2,ok
+20541,Cherokee,21642,Melton (Vic.),,no_eligible_route
+20555,Chintin,21642,Melton (Vic.),,no_eligible_route
+20556,Chirnside Park,21642,Melton (Vic.),,no_eligible_route
+20559,Christmas Hills (Vic.),21642,Melton (Vic.),,no_eligible_route
+20560,Chum Creek,21642,Melton (Vic.),,no_eligible_route
+20566,Clarinda,21642,Melton (Vic.),169.65,ok
+20567,Clarkefield,21642,Melton (Vic.),,no_eligible_route
+20569,Clayton,21642,Melton (Vic.),149.23,ok
+20570,Clayton South,21642,Melton (Vic.),161.05,ok
+20572,Clematis,21642,Melton (Vic.),,no_eligible_route
+20574,Clifton Hill,21642,Melton (Vic.),123.27,ok
+20576,Clonbinane,21642,Melton (Vic.),,no_eligible_route
+20581,Clyde (Vic.),21642,Melton (Vic.),,no_eligible_route
+20582,Clyde North,21642,Melton (Vic.),,no_eligible_route
+20587,Cobaw,21642,Melton (Vic.),,no_eligible_route
+20590,Cobblebank,21642,Melton (Vic.),67.95,ok
+20596,Coburg,21642,Melton (Vic.),123.65,ok
+20597,Coburg North,21642,Melton (Vic.),133.22,ok
+20600,Cockatoo (Vic.),21642,Melton (Vic.),,no_eligible_route
+20601,Cocoroc,21642,Melton (Vic.),,no_eligible_route
+20605,Coimadai,21642,Melton (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),21642,Melton (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),21642,Melton (Vic.),125.67,ok
+20624,Coolaroo,21642,Melton (Vic.),164.88,ok
+20633,Cora Lynn,21642,Melton (Vic.),,no_eligible_route
+20654,Cottles Bridge,21642,Melton (Vic.),,no_eligible_route
+20661,Craigieburn,21642,Melton (Vic.),181.42,ok
+20662,Cranbourne,21642,Melton (Vic.),183.57,ok
+20663,Cranbourne East,21642,Melton (Vic.),197.67,ok
+20664,Cranbourne North,21642,Melton (Vic.),221.48,ok
+20665,Cranbourne South,21642,Melton (Vic.),,no_eligible_route
+20666,Cranbourne West,21642,Melton (Vic.),195.63,ok
+20670,Cremorne (Vic.),21642,Melton (Vic.),122.0,ok
+20674,Crib Point,21642,Melton (Vic.),,no_eligible_route
+20682,Croydon (Vic.),21642,Melton (Vic.),197.77,ok
+20683,Croydon Hills,21642,Melton (Vic.),235.67,ok
+20684,Croydon North,21642,Melton (Vic.),,no_eligible_route
+20685,Croydon South,21642,Melton (Vic.),228.77,ok
+20702,Dallas,21642,Melton (Vic.),160.32,ok
+20703,Dalmore,21642,Melton (Vic.),,no_eligible_route
+20707,Dandenong,21642,Melton (Vic.),152.52,ok
+20708,Dandenong North,21642,Melton (Vic.),204.22,ok
+20709,Dandenong South,21642,Melton (Vic.),175.88,ok
+20712,Darley,21642,Melton (Vic.),,no_eligible_route
+20716,Darraweit Guim,21642,Melton (Vic.),,no_eligible_route
+20724,Deanside,21642,Melton (Vic.),66.0,ok
+20728,Deepdene (Vic.),21642,Melton (Vic.),152.28,ok
+20729,Deer Park,21642,Melton (Vic.),65.02,ok
+20731,Delahey,21642,Melton (Vic.),93.82,ok
+20743,Derrimut,21642,Melton (Vic.),117.83,ok
+20748,Devon Meadows,21642,Melton (Vic.),,no_eligible_route
+20750,Dewhurst,21642,Melton (Vic.),,no_eligible_route
+20752,Diamond Creek,21642,Melton (Vic.),178.5,ok
+20754,Diggers Rest,21642,Melton (Vic.),108.27,ok
+20758,Dingley Village,21642,Melton (Vic.),220.4,ok
+20762,Dixons Creek,21642,Melton (Vic.),,no_eligible_route
+20766,Docklands,21642,Melton (Vic.),120.1,ok
+20769,Don Valley,21642,Melton (Vic.),,no_eligible_route
+20771,Doncaster,21642,Melton (Vic.),158.15,ok
+20772,Doncaster East,21642,Melton (Vic.),161.63,ok
+20773,Donnybrook (Vic.),21642,Melton (Vic.),,no_eligible_route
+20774,Donvale,21642,Melton (Vic.),182.97,ok
+20779,Doreen,21642,Melton (Vic.),,no_eligible_route
+20783,Doveton,21642,Melton (Vic.),185.4,ok
+20788,Dromana,21642,Melton (Vic.),,no_eligible_route
+20825,Eaglemont,21642,Melton (Vic.),154.52,ok
+20830,East Melbourne,21642,Melton (Vic.),115.78,ok
+20833,East Warburton,21642,Melton (Vic.),,no_eligible_route
+20843,Eden Park,21642,Melton (Vic.),,no_eligible_route
+20848,Edithvale,21642,Melton (Vic.),167.87,ok
+20864,Elsternwick,21642,Melton (Vic.),136.5,ok
+20865,Eltham (Vic.),21642,Melton (Vic.),177.63,ok
+20866,Eltham North,21642,Melton (Vic.),192.02,ok
+20867,Elwood,21642,Melton (Vic.),142.15,ok
+20868,Emerald (Vic.),21642,Melton (Vic.),,no_eligible_route
+20871,Endeavour Hills,21642,Melton (Vic.),,no_eligible_route
+20878,Epping (Vic.),21642,Melton (Vic.),197.4,ok
+20885,Essendon,21642,Melton (Vic.),125.47,ok
+20886,Essendon Fields,21642,Melton (Vic.),151.72,ok
+20887,Essendon North,21642,Melton (Vic.),131.07,ok
+20888,Essendon West,21642,Melton (Vic.),113.63,ok
+20889,Eumemmerring,21642,Melton (Vic.),201.2,ok
+20898,Exford,21642,Melton (Vic.),201.9,walk_only
+20899,Eynesbury,21642,Melton (Vic.),95.45,ok
+20901,Fairfield (Vic.),21642,Melton (Vic.),142.5,ok
+20909,Fawkner,21642,Melton (Vic.),154.12,ok
+20916,Fernshaw,21642,Melton (Vic.),,no_eligible_route
+20917,Ferntree Gully,21642,Melton (Vic.),177.52,ok
+20918,Ferny Creek,21642,Melton (Vic.),,no_eligible_route
+20920,Fingal (Vic.),21642,Melton (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),21642,Melton (Vic.),123.23,ok
+20925,Fitzroy North,21642,Melton (Vic.),132.38,ok
+20929,Flemington,21642,Melton (Vic.),135.18,ok
+20930,Flinders (Vic.),21642,Melton (Vic.),,no_eligible_route
+20935,Footscray,21642,Melton (Vic.),99.62,ok
+20937,Forest Hill (Vic.),21642,Melton (Vic.),182.17,ok
+20947,Frankston,21642,Melton (Vic.),198.77,ok
+20948,Frankston North,21642,Melton (Vic.),207.68,ok
+20949,Frankston South,21642,Melton (Vic.),,no_eligible_route
+20950,Fraser Rise,21642,Melton (Vic.),106.25,ok
+20965,Gardenvale,21642,Melton (Vic.),149.25,ok
+20966,Garfield,21642,Melton (Vic.),,no_eligible_route
+20967,Garfield North,21642,Melton (Vic.),,no_eligible_route
+20979,Gembrook,21642,Melton (Vic.),,no_eligible_route
+20995,Gilderoy,21642,Melton (Vic.),,no_eligible_route
+21001,Gisborne,21642,Melton (Vic.),,no_eligible_route
+21002,Gisborne South,21642,Melton (Vic.),,no_eligible_route
+21004,Gladstone Park,21642,Melton (Vic.),178.22,ok
+21005,Gladysdale,21642,Melton (Vic.),,no_eligible_route
+21009,Glen Huntly,21642,Melton (Vic.),135.98,ok
+21010,Glen Iris (Vic.),21642,Melton (Vic.),160.52,ok
+21013,Glen Waverley,21642,Melton (Vic.),167.43,ok
+21047,Glenroy (Vic.),21642,Melton (Vic.),158.87,ok
+21059,Goldie,21642,Melton (Vic.),,no_eligible_route
+21079,Gowanbrae,21642,Melton (Vic.),162.32,ok
+21087,Grangefields,21642,Melton (Vic.),103.7,ok
+21104,Greensborough,21642,Melton (Vic.),163.05,ok
+21105,Greenvale (Vic.),21642,Melton (Vic.),,no_eligible_route
+21115,Gruyere,21642,Melton (Vic.),,no_eligible_route
+21121,Guys Hill,21642,Melton (Vic.),,no_eligible_route
+21124,Hadfield,21642,Melton (Vic.),147.15,ok
+21125,Hallam,21642,Melton (Vic.),171.03,ok
+21131,Hampton (Vic.),21642,Melton (Vic.),159.65,ok
+21132,Hampton East,21642,Melton (Vic.),150.22,ok
+21133,Hampton Park,21642,Melton (Vic.),188.6,ok
+21139,Harkaway,21642,Melton (Vic.),,no_eligible_route
+21140,Harkness,21642,Melton (Vic.),78.43,ok
+21145,Hastings (Vic.),21642,Melton (Vic.),,no_eligible_route
+21152,Hawthorn (Vic.),21642,Melton (Vic.),137.28,ok
+21153,Hawthorn East,21642,Melton (Vic.),137.3,ok
+21158,Healesville,21642,Melton (Vic.),,no_eligible_route
+21159,Heath Hill,21642,Melton (Vic.),,no_eligible_route
+21161,Heathcote Junction,21642,Melton (Vic.),,no_eligible_route
+21163,Heatherton,21642,Melton (Vic.),168.65,ok
+21165,Heathmont,21642,Melton (Vic.),173.93,ok
+21167,Heidelberg,21642,Melton (Vic.),157.32,ok
+21168,Heidelberg Heights,21642,Melton (Vic.),161.82,ok
+21169,Heidelberg West,21642,Melton (Vic.),162.7,ok
+21176,Hesket,21642,Melton (Vic.),,no_eligible_route
+21185,Highett,21642,Melton (Vic.),142.98,ok
+21193,Hillside (Melton - Vic.),21642,Melton (Vic.),83.38,ok
+21195,Hmas Cerberus,21642,Melton (Vic.),,no_eligible_route
+21196,Hoddles Creek,21642,Melton (Vic.),,no_eligible_route
+21202,Hopetoun Park,21642,Melton (Vic.),162.18,walk_only
+21203,Hoppers Crossing,21642,Melton (Vic.),127.52,ok
+21214,Hughesdale,21642,Melton (Vic.),133.07,ok
+21215,Humevale,21642,Melton (Vic.),,no_eligible_route
+21218,Huntingdale (Vic.),21642,Melton (Vic.),137.5,ok
+21223,Hurstbridge,21642,Melton (Vic.),179.05,ok
+21238,Iona,21642,Melton (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),21642,Melton (Vic.),140.78,ok
+21247,Ivanhoe East,21642,Melton (Vic.),160.45,ok
+21248,Jacana,21642,Melton (Vic.),163.43,ok
+21277,Junction Village,21642,Melton (Vic.),,no_eligible_route
+21284,Kalkallo,21642,Melton (Vic.),,no_eligible_route
+21286,Kallista,21642,Melton (Vic.),,no_eligible_route
+21287,Kalorama,21642,Melton (Vic.),,no_eligible_route
+21294,Kangaroo Ground,21642,Melton (Vic.),,no_eligible_route
+21312,Kealba,21642,Melton (Vic.),105.88,ok
+21314,Keilor,21642,Melton (Vic.),120.32,ok
+21315,Keilor Downs,21642,Melton (Vic.),106.92,ok
+21316,Keilor East,21642,Melton (Vic.),110.33,ok
+21317,Keilor Lodge,21642,Melton (Vic.),111.13,ok
+21318,Keilor North,21642,Melton (Vic.),115.95,ok
+21319,Keilor Park,21642,Melton (Vic.),131.47,ok
+21327,Kensington (Vic.),21642,Melton (Vic.),115.97,ok
+21333,Kerrie,21642,Melton (Vic.),,no_eligible_route
+21336,Kew (Vic.),21642,Melton (Vic.),137.1,ok
+21337,Kew East,21642,Melton (Vic.),149.67,ok
+21339,Keysborough,21642,Melton (Vic.),214.03,ok
+21354,Kilsyth,21642,Melton (Vic.),,no_eligible_route
+21355,Kilsyth South,21642,Melton (Vic.),,no_eligible_route
+21358,Kinglake,21642,Melton (Vic.),,no_eligible_route
+21359,Kinglake Central,21642,Melton (Vic.),,no_eligible_route
+21360,Kinglake West,21642,Melton (Vic.),,no_eligible_route
+21362,Kings Park (Vic.),21642,Melton (Vic.),95.23,ok
+21363,Kingsbury,21642,Melton (Vic.),174.13,ok
+21365,Kingsville,21642,Melton (Vic.),101.6,ok
+21374,Knoxfield,21642,Melton (Vic.),174.4,ok
+21380,Koo Wee Rup,21642,Melton (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,21642,Melton (Vic.),,no_eligible_route
+21393,Kooyong,21642,Melton (Vic.),141.2,ok
+21411,Kurunjang,21642,Melton (Vic.),30.17,ok
+21452,Lalor,21642,Melton (Vic.),151.47,ok
+21456,Lancefield,21642,Melton (Vic.),,no_eligible_route
+21459,Lang Lang,21642,Melton (Vic.),,no_eligible_route
+21460,Lang Lang East,21642,Melton (Vic.),,no_eligible_route
+21467,Langwarrin,21642,Melton (Vic.),,no_eligible_route
+21468,Langwarrin South,21642,Melton (Vic.),,no_eligible_route
+21473,Launching Place,21642,Melton (Vic.),,no_eligible_route
+21476,Laverton (Vic.),21642,Melton (Vic.),126.87,ok
+21477,Laverton North,21642,Melton (Vic.),152.95,ok
+21504,Lilydale (Vic.),21642,Melton (Vic.),229.47,ok
+21533,Long Forest,21642,Melton (Vic.),177.2,walk_only
+21547,Lower Plenty,21642,Melton (Vic.),184.9,ok
+21554,Lynbrook,21642,Melton (Vic.),164.28,ok
+21555,Lyndhurst (Vic.),21642,Melton (Vic.),,no_eligible_route
+21558,Lysterfield,21642,Melton (Vic.),,no_eligible_route
+21559,Lysterfield South,21642,Melton (Vic.),,no_eligible_route
+21561,Macclesfield (Vic.),21642,Melton (Vic.),,no_eligible_route
+21562,Macedon,21642,Melton (Vic.),,no_eligible_route
+21564,Macleod (Vic.),21642,Melton (Vic.),156.13,ok
+21569,Maddingley,21642,Melton (Vic.),,no_eligible_route
+21575,Maidstone,21642,Melton (Vic.),100.43,ok
+21578,Main Ridge,21642,Melton (Vic.),,no_eligible_route
+21586,Malvern (Vic.),21642,Melton (Vic.),134.63,ok
+21587,Malvern East,21642,Melton (Vic.),140.4,ok
+21588,Mambourin,21642,Melton (Vic.),,no_eligible_route
+21597,Manor Lakes,21642,Melton (Vic.),178.8,ok
+21604,Maribyrnong,21642,Melton (Vic.),121.3,ok
+21619,Maryknoll,21642,Melton (Vic.),,no_eligible_route
+21625,McCrae,21642,Melton (Vic.),,no_eligible_route
+21629,McKinnon,21642,Melton (Vic.),133.28,ok
+21635,Meadow Heights,21642,Melton (Vic.),176.32,ok
+21640,Melbourne,21642,Melton (Vic.),112.88,ok
+21641,Melbourne Airport,21642,Melton (Vic.),,no_eligible_route
+21642,Melton (Vic.),21642,Melton (Vic.),0.0,same_centroid
+21643,Melton South,21642,Melton (Vic.),51.93,ok
+21644,Melton West,21642,Melton (Vic.),62.07,ok
+21648,Mentone,21642,Melton (Vic.),152.97,ok
+21649,Menzies Creek,21642,Melton (Vic.),,no_eligible_route
+21659,Mernda,21642,Melton (Vic.),197.82,ok
+21662,Merricks,21642,Melton (Vic.),,no_eligible_route
+21663,Merricks Beach,21642,Melton (Vic.),,no_eligible_route
+21664,Merricks North,21642,Melton (Vic.),,no_eligible_route
+21668,Merrimu,21642,Melton (Vic.),204.25,walk_only
+21675,Mickleham,21642,Melton (Vic.),,no_eligible_route
+21677,Middle Park (Vic.),21642,Melton (Vic.),147.22,ok
+21683,Mill Park,21642,Melton (Vic.),180.97,ok
+21685,Millgrove,21642,Melton (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),21642,Melton (Vic.),172.67,ok
+21727,Monbulk,21642,Melton (Vic.),,no_eligible_route
+21728,Monegeetta,21642,Melton (Vic.),,no_eligible_route
+21731,Monomeith,21642,Melton (Vic.),,no_eligible_route
+21732,Mont Albert,21642,Melton (Vic.),158.83,ok
+21733,Mont Albert North,21642,Melton (Vic.),175.03,ok
+21735,Montmorency,21642,Melton (Vic.),163.7,ok
+21736,Montrose (Vic.),21642,Melton (Vic.),,no_eligible_route
+21742,Moonee Ponds,21642,Melton (Vic.),132.78,ok
+21746,Moorabbin,21642,Melton (Vic.),161.63,ok
+21747,Moorabbin Airport,21642,Melton (Vic.),194.9,ok
+21754,Moorooduc,21642,Melton (Vic.),,no_eligible_route
+21755,Mooroolbark,21642,Melton (Vic.),216.38,ok
+21760,Mordialloc,21642,Melton (Vic.),167.27,ok
+21763,Mornington (Vic.),21642,Melton (Vic.),,no_eligible_route
+21779,Mount Burnett,21642,Melton (Vic.),,no_eligible_route
+21786,Mount Cottrell,21642,Melton (Vic.),,no_eligible_route
+21787,Mount Dandenong,21642,Melton (Vic.),,no_eligible_route
+21793,Mount Eliza,21642,Melton (Vic.),,no_eligible_route
+21795,Mount Evelyn,21642,Melton (Vic.),,no_eligible_route
+21801,Mount Macedon,21642,Melton (Vic.),,no_eligible_route
+21803,Mount Martha,21642,Melton (Vic.),,no_eligible_route
+21814,Mount Toolebewong,21642,Melton (Vic.),,no_eligible_route
+21816,Mount Waverley,21642,Melton (Vic.),158.87,ok
+21827,Mulgrave (Vic.),21642,Melton (Vic.),177.75,ok
+21849,Murrumbeena,21642,Melton (Vic.),133.18,ok
+21872,Nangana,21642,Melton (Vic.),,no_eligible_route
+21878,Nar Nar Goon,21642,Melton (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,21642,Melton (Vic.),,no_eligible_route
+21893,Narre Warren,21642,Melton (Vic.),170.47,ok
+21894,Narre Warren East,21642,Melton (Vic.),,no_eligible_route
+21895,Narre Warren North,21642,Melton (Vic.),,no_eligible_route
+21896,Narre Warren South,21642,Melton (Vic.),219.03,ok
+21921,New Gisborne,21642,Melton (Vic.),,no_eligible_route
+21934,Newport (Vic.),21642,Melton (Vic.),111.72,ok
+21942,Niddrie,21642,Melton (Vic.),137.5,ok
+21952,Noble Park,21642,Melton (Vic.),144.28,ok
+21953,Noble Park North,21642,Melton (Vic.),177.47,ok
+21966,North Melbourne,21642,Melton (Vic.),103.42,ok
+21969,North Warrandyte,21642,Melton (Vic.),208.57,ok
+21971,Northcote,21642,Melton (Vic.),134.67,ok
+21974,Notting Hill,21642,Melton (Vic.),158.03,ok
+21985,Nunawading,21642,Melton (Vic.),165.15,ok
+21991,Nutfield,21642,Melton (Vic.),,no_eligible_route
+21998,Oak Park,21642,Melton (Vic.),151.1,ok
+21999,Oaklands Junction,21642,Melton (Vic.),,no_eligible_route
+22000,Oakleigh,21642,Melton (Vic.),135.73,ok
+22001,Oakleigh East,21642,Melton (Vic.),152.87,ok
+22002,Oakleigh South,21642,Melton (Vic.),149.28,ok
+22006,Officer,21642,Melton (Vic.),184.57,ok
+22007,Officer South,21642,Melton (Vic.),,no_eligible_route
+22009,Olinda (Vic.),21642,Melton (Vic.),,no_eligible_route
+22016,Ormond,21642,Melton (Vic.),133.72,ok
+22027,Pakenham,21642,Melton (Vic.),183.62,ok
+22028,Pakenham South,21642,Melton (Vic.),,no_eligible_route
+22029,Pakenham Upper,21642,Melton (Vic.),,no_eligible_route
+22032,Panton Hill,21642,Melton (Vic.),,no_eligible_route
+22036,Park Orchards,21642,Melton (Vic.),,no_eligible_route
+22037,Parkdale,21642,Melton (Vic.),158.05,ok
+22038,Parkville (Vic.),21642,Melton (Vic.),120.67,ok
+22041,Pascoe Vale,21642,Melton (Vic.),149.83,ok
+22042,Pascoe Vale South,21642,Melton (Vic.),135.73,ok
+22047,Patterson Lakes,21642,Melton (Vic.),187.82,ok
+22050,Pearcedale,21642,Melton (Vic.),,no_eligible_route
+22058,Pentland Hills,21642,Melton (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),21642,Melton (Vic.),,no_eligible_route
+22084,Plenty (Vic.),21642,Melton (Vic.),196.97,ok
+22085,Plumpton (Vic.),21642,Melton (Vic.),207.97,walk_only
+22086,Point Cook,21642,Melton (Vic.),153.1,ok
+22087,Point Leo,21642,Melton (Vic.),,no_eligible_route
+22107,Port Melbourne,21642,Melton (Vic.),160.0,ok
+22113,Portsea,21642,Melton (Vic.),,no_eligible_route
+22115,Powelltown,21642,Melton (Vic.),,no_eligible_route
+22118,Prahran,21642,Melton (Vic.),130.22,ok
+22121,Preston (Vic.),21642,Melton (Vic.),146.07,ok
+22122,Princes Hill,21642,Melton (Vic.),118.15,ok
+22132,Quandong,21642,Melton (Vic.),,no_eligible_route
+22141,Ravenhall,21642,Melton (Vic.),82.9,ok
+22148,Red Hill (Vic.),21642,Melton (Vic.),,no_eligible_route
+22149,Red Hill South,21642,Melton (Vic.),,no_eligible_route
+22160,Research,21642,Melton (Vic.),,no_eligible_route
+22161,Reservoir (Vic.),21642,Melton (Vic.),148.28,ok
+22170,Richmond (Vic.),21642,Melton (Vic.),126.73,ok
+22172,Riddells Creek,21642,Melton (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),21642,Melton (Vic.),179.28,ok
+22175,Ringwood East,21642,Melton (Vic.),197.85,ok
+22176,Ringwood North,21642,Melton (Vic.),208.73,ok
+22179,Ripponlea,21642,Melton (Vic.),133.83,ok
+22185,Rochford,21642,Melton (Vic.),,no_eligible_route
+22186,Rockbank,21642,Melton (Vic.),55.48,ok
+22193,Romsey,21642,Melton (Vic.),,no_eligible_route
+22194,Rosanna,21642,Melton (Vic.),150.6,ok
+22198,Rosebud,21642,Melton (Vic.),,no_eligible_route
+22207,Rowville,21642,Melton (Vic.),187.88,ok
+22208,Roxburgh Park,21642,Melton (Vic.),178.12,ok
+22220,Rye,21642,Melton (Vic.),,no_eligible_route
+22221,Rythdale,21642,Melton (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),21642,Melton (Vic.),,no_eligible_route
+22232,Sandhurst,21642,Melton (Vic.),214.65,ok
+22234,Sandringham (Vic.),21642,Melton (Vic.),164.53,ok
+22239,Sassafras (Vic.),21642,Melton (Vic.),,no_eligible_route
+22242,Scoresby,21642,Melton (Vic.),171.05,ok
+22247,Seabrook,21642,Melton (Vic.),143.27,ok
+22249,Seaford (Vic.),21642,Melton (Vic.),182.58,ok
+22250,Seaholme,21642,Melton (Vic.),117.57,ok
+22256,Seddon (Vic.),21642,Melton (Vic.),94.3,ok
+22258,Selby,21642,Melton (Vic.),229.35,ok
+22263,Seville,21642,Melton (Vic.),,no_eligible_route
+22264,Seville East,21642,Melton (Vic.),,no_eligible_route
+22278,Sherbrooke,21642,Melton (Vic.),,no_eligible_route
+22279,Shoreham,21642,Melton (Vic.),,no_eligible_route
+22281,Silvan,21642,Melton (Vic.),,no_eligible_route
+22291,Skye (Vic.),21642,Melton (Vic.),240.82,ok
+22295,Smiths Gully,21642,Melton (Vic.),,no_eligible_route
+22303,Somers,21642,Melton (Vic.),,no_eligible_route
+22304,Somerton (Vic.),21642,Melton (Vic.),177.08,ok
+22305,Somerville (Vic.),21642,Melton (Vic.),,no_eligible_route
+22306,Sorrento (Vic.),21642,Melton (Vic.),,no_eligible_route
+22309,South Kingsville,21642,Melton (Vic.),127.63,ok
+22310,South Melbourne,21642,Melton (Vic.),128.97,ok
+22311,South Morang,21642,Melton (Vic.),183.45,ok
+22313,South Wharf,21642,Melton (Vic.),123.08,ok
+22314,South Yarra,21642,Melton (Vic.),115.35,ok
+22315,Southbank,21642,Melton (Vic.),121.37,ok
+22319,Spotswood,21642,Melton (Vic.),110.12,ok
+22325,Springfield (Macedon Ranges - Vic.),21642,Melton (Vic.),,no_eligible_route
+22328,Springvale (Vic.),21642,Melton (Vic.),145.25,ok
+22329,Springvale South,21642,Melton (Vic.),166.52,ok
+22330,St Albans (Vic.),21642,Melton (Vic.),92.8,ok
+22332,St Andrews (Vic.),21642,Melton (Vic.),,no_eligible_route
+22333,St Andrews Beach,21642,Melton (Vic.),,no_eligible_route
+22339,St Helena,21642,Melton (Vic.),193.92,ok
+22343,St Kilda (Vic.),21642,Melton (Vic.),131.43,ok
+22344,St Kilda East,21642,Melton (Vic.),145.88,ok
+22345,St Kilda West,21642,Melton (Vic.),141.87,ok
+22355,Steels Creek,21642,Melton (Vic.),,no_eligible_route
+22375,Strathewen,21642,Melton (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),21642,Melton (Vic.),143.3,ok
+22381,Strathmore Heights,21642,Melton (Vic.),155.27,ok
+22382,Strathtulloh,21642,Melton (Vic.),111.98,ok
+22391,Sunbury,21642,Melton (Vic.),181.08,ok
+22395,Sunshine (Vic.),21642,Melton (Vic.),77.32,ok
+22396,Sunshine North,21642,Melton (Vic.),100.47,ok
+22397,Sunshine West,21642,Melton (Vic.),97.93,ok
+22399,Surrey Hills,21642,Melton (Vic.),159.25,ok
+22414,Sydenham (Vic.),21642,Melton (Vic.),85.45,ok
+22451,Tarneit,21642,Melton (Vic.),119.65,ok
+22457,Tarrawarra,21642,Melton (Vic.),,no_eligible_route
+22473,Taylors Hill,21642,Melton (Vic.),81.98,ok
+22474,Taylors Lakes,21642,Melton (Vic.),94.62,ok
+22476,Tecoma,21642,Melton (Vic.),193.75,ok
+22483,Templestowe,21642,Melton (Vic.),151.03,ok
+22484,Templestowe Lower,21642,Melton (Vic.),148.0,ok
+22496,The Basin (Vic.),21642,Melton (Vic.),,no_eligible_route
+22501,The Patch,21642,Melton (Vic.),,no_eligible_route
+22504,Thomastown,21642,Melton (Vic.),156.77,ok
+22508,Thornbury,21642,Melton (Vic.),140.55,ok
+22509,Thornhill Park,21642,Melton (Vic.),131.07,ok
+22514,Three Bridges,21642,Melton (Vic.),,no_eligible_route
+22531,Tonimbuk,21642,Melton (Vic.),,no_eligible_route
+22536,Toolangi,21642,Melton (Vic.),,no_eligible_route
+22537,Toolern Vale,21642,Melton (Vic.),152.03,walk_only
+22546,Tooradin,21642,Melton (Vic.),,no_eligible_route
+22547,Toorak,21642,Melton (Vic.),134.83,ok
+22550,Tootgarook,21642,Melton (Vic.),,no_eligible_route
+22556,Tottenham (Vic.),21642,Melton (Vic.),116.63,ok
+22572,Travancore,21642,Melton (Vic.),131.53,ok
+22576,Tremont,21642,Melton (Vic.),211.35,ok
+22582,Truganina,21642,Melton (Vic.),134.55,ok
+22584,Tuerong,21642,Melton (Vic.),,no_eligible_route
+22586,Tullamarine,21642,Melton (Vic.),162.6,ok
+22594,Tyabb,21642,Melton (Vic.),,no_eligible_route
+22598,Tynong,21642,Melton (Vic.),,no_eligible_route
+22599,Tynong North,21642,Melton (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,21642,Melton (Vic.),190.9,ok
+22617,Upper Plenty,21642,Melton (Vic.),,no_eligible_route
+22620,Upwey,21642,Melton (Vic.),193.62,ok
+22627,Vermont,21642,Melton (Vic.),197.5,ok
+22628,Vermont South,21642,Melton (Vic.),170.28,ok
+22629,Vervale,21642,Melton (Vic.),,no_eligible_route
+22633,Viewbank,21642,Melton (Vic.),183.77,ok
+22661,Wallan,21642,Melton (Vic.),,no_eligible_route
+22672,Wandin East,21642,Melton (Vic.),,no_eligible_route
+22673,Wandin North,21642,Melton (Vic.),,no_eligible_route
+22676,Wandong,21642,Melton (Vic.),,no_eligible_route
+22685,Wantirna,21642,Melton (Vic.),196.9,ok
+22686,Wantirna South,21642,Melton (Vic.),191.35,ok
+22689,Warburton (Vic.),21642,Melton (Vic.),,no_eligible_route
+22695,Warneet,21642,Melton (Vic.),,no_eligible_route
+22702,Warrandyte,21642,Melton (Vic.),174.82,ok
+22703,Warrandyte South,21642,Melton (Vic.),,no_eligible_route
+22704,Warranwood,21642,Melton (Vic.),,no_eligible_route
+22717,Waterford Park,21642,Melton (Vic.),,no_eligible_route
+22720,Waterways,21642,Melton (Vic.),198.42,ok
+22721,Watsonia,21642,Melton (Vic.),151.05,ok
+22722,Watsonia North,21642,Melton (Vic.),174.58,ok
+22723,Watsons Creek (Vic.),21642,Melton (Vic.),,no_eligible_route
+22727,Wattle Glen,21642,Melton (Vic.),182.8,ok
+22740,Weir Views,21642,Melton (Vic.),82.4,ok
+22750,Werribee,21642,Melton (Vic.),146.27,ok
+22751,Werribee South,21642,Melton (Vic.),,no_eligible_route
+22753,Wesburn,21642,Melton (Vic.),,no_eligible_route
+22756,West Footscray,21642,Melton (Vic.),92.75,ok
+22757,West Melbourne,21642,Melton (Vic.),122.73,ok
+22761,Westmeadows,21642,Melton (Vic.),178.08,ok
+22766,Wheelers Hill,21642,Melton (Vic.),162.48,ok
+22775,Whittlesea,21642,Melton (Vic.),,no_eligible_route
+22784,Wildwood,21642,Melton (Vic.),,no_eligible_route
+22791,Williams Landing,21642,Melton (Vic.),130.88,ok
+22792,Williamstown (Vic.),21642,Melton (Vic.),128.93,ok
+22793,Williamstown North,21642,Melton (Vic.),133.47,ok
+22805,Windsor (Vic.),21642,Melton (Vic.),135.22,ok
+22820,Wollert,21642,Melton (Vic.),197.98,ok
+22825,Wonga Park,21642,Melton (Vic.),,no_eligible_route
+22843,Woodstock (Vic.),21642,Melton (Vic.),,no_eligible_route
+22857,Woori Yallock,21642,Melton (Vic.),,no_eligible_route
+22883,Wyndham Vale,21642,Melton (Vic.),163.72,ok
+22892,Yallambie,21642,Melton (Vic.),180.32,ok
+22898,Yan Yean,21642,Melton (Vic.),224.72,ok
+22906,Yannathan,21642,Melton (Vic.),,no_eligible_route
+22910,Yarra Glen,21642,Melton (Vic.),,no_eligible_route
+22911,Yarra Junction,21642,Melton (Vic.),,no_eligible_route
+22916,Yarrambat,21642,Melton (Vic.),208.73,ok
+22917,Yarraville,21642,Melton (Vic.),111.65,ok
+22925,Yellingbo,21642,Melton (Vic.),,no_eligible_route
+22930,Yering,21642,Melton (Vic.),,no_eligible_route
+22941,Yuroke,21642,Melton (Vic.),,no_eligible_route

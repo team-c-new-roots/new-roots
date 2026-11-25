@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22504,Thomastown,40.63,ok
+20003,Aberfeldie,22504,Thomastown,71.27,ok
+20011,Aintree,22504,Thomastown,127.25,ok
+20015,Airport West,22504,Thomastown,74.67,ok
+20017,Albanvale,22504,Thomastown,104.72,ok
+20018,Albert Park (Vic.),22504,Thomastown,68.43,ok
+20021,Albion (Vic.),22504,Thomastown,88.12,ok
+20034,Alphington,22504,Thomastown,44.48,ok
+20035,Altona (Vic.),22504,Thomastown,91.57,ok
+20036,Altona Meadows,22504,Thomastown,99.72,ok
+20037,Altona North,22504,Thomastown,102.62,ok
+20062,Ardeer,22504,Thomastown,99.62,ok
+20066,Armadale (Vic.),22504,Thomastown,60.37,ok
+20071,Arthurs Creek,22504,Thomastown,,no_eligible_route
+20072,Arthurs Seat,22504,Thomastown,219.88,ok
+20075,Ascot Vale,22504,Thomastown,75.7,ok
+20077,Ashburton,22504,Thomastown,73.32,ok
+20078,Ashwood,22504,Thomastown,91.17,ok
+20079,Aspendale,22504,Thomastown,99.97,ok
+20080,Aspendale Gardens,22504,Thomastown,121.95,ok
+20082,Attwood,22504,Thomastown,74.92,ok
+20089,Avondale Heights,22504,Thomastown,90.07,ok
+20091,Avonsleigh,22504,Thomastown,,no_eligible_route
+20095,Bacchus Marsh,22504,Thomastown,,no_eligible_route
+20097,Badger Creek,22504,Thomastown,174.82,ok
+20105,Balaclava (Vic.),22504,Thomastown,73.35,ok
+20120,Balnarring,22504,Thomastown,,no_eligible_route
+20121,Balnarring Beach,22504,Thomastown,,no_eligible_route
+20123,Balwyn,22504,Thomastown,67.48,ok
+20124,Balwyn North,22504,Thomastown,65.22,ok
+20131,Bangholme,22504,Thomastown,153.22,ok
+20169,Baxter,22504,Thomastown,141.97,ok
+20171,Bayles,22504,Thomastown,,no_eligible_route
+20173,Bayswater (Vic.),22504,Thomastown,99.97,ok
+20174,Bayswater North,22504,Thomastown,116.93,ok
+20175,Beaconsfield (Vic.),22504,Thomastown,142.17,ok
+20176,Beaconsfield Upper,22504,Thomastown,,no_eligible_route
+20182,Beaumaris (Vic.),22504,Thomastown,99.5,ok
+20187,Beenak,22504,Thomastown,,no_eligible_route
+20188,Belgrave,22504,Thomastown,119.7,ok
+20189,Belgrave Heights,22504,Thomastown,149.37,ok
+20190,Belgrave South,22504,Thomastown,148.35,ok
+20198,Bellfield (Banyule - Vic.),22504,Thomastown,46.65,ok
+20207,Bend Of Islands,22504,Thomastown,,no_eligible_route
+20212,Benloch,22504,Thomastown,,no_eligible_route
+20214,Bentleigh,22504,Thomastown,83.4,ok
+20215,Bentleigh East,22504,Thomastown,86.35,ok
+20224,Berwick,22504,Thomastown,118.22,ok
+20233,Beveridge,22504,Thomastown,,no_eligible_route
+20237,Big Pats Creek,22504,Thomastown,,no_eligible_route
+20248,Bittern,22504,Thomastown,159.95,ok
+20251,Black Rock (Vic.),22504,Thomastown,105.3,ok
+20252,Blackburn,22504,Thomastown,68.83,ok
+20253,Blackburn North,22504,Thomastown,66.28,ok
+20254,Blackburn South,22504,Thomastown,84.63,ok
+20257,Blairgowrie,22504,Thomastown,213.92,ok
+20260,Blind Bight,22504,Thomastown,,no_eligible_route
+20272,Bolinda,22504,Thomastown,,no_eligible_route
+20278,Bonbeach,22504,Thomastown,104.97,ok
+20280,Boneo,22504,Thomastown,,no_eligible_route
+20282,Bonnie Brook,22504,Thomastown,159.8,ok
+20304,Boronia,22504,Thomastown,102.43,ok
+20307,Botanic Ridge,22504,Thomastown,167.08,ok
+20314,Box Hill (Vic.),22504,Thomastown,72.9,ok
+20315,Box Hill North,22504,Thomastown,70.75,ok
+20316,Box Hill South,22504,Thomastown,75.65,ok
+20320,Braeside,22504,Thomastown,128.7,ok
+20324,Braybrook,22504,Thomastown,92.9,ok
+20331,Briar Hill,22504,Thomastown,56.8,ok
+20337,Brighton (Vic.),22504,Thomastown,86.12,ok
+20338,Brighton East,22504,Thomastown,89.53,ok
+20346,Broadmeadows (Vic.),22504,Thomastown,40.43,ok
+20351,Brookfield (Vic.),22504,Thomastown,186.3,ok
+20352,Brooklyn (Vic.),22504,Thomastown,97.65,ok
+20361,Brunswick (Vic.),22504,Thomastown,49.5,ok
+20362,Brunswick East,22504,Thomastown,47.68,ok
+20363,Brunswick West,22504,Thomastown,56.08,ok
+20381,Bulla (Vic.),22504,Thomastown,124.45,ok
+20386,Bulleen,22504,Thomastown,67.02,ok
+20387,Bullengarook,22504,Thomastown,,no_eligible_route
+20399,Bundoora (Vic.),22504,Thomastown,39.18,ok
+20411,Bunyip,22504,Thomastown,,no_eligible_route
+20412,Bunyip North,22504,Thomastown,,no_eligible_route
+20418,Burnley,22504,Thomastown,66.72,ok
+20419,Burnside (Vic.),22504,Thomastown,108.5,ok
+20420,Burnside Heights,22504,Thomastown,116.32,ok
+20426,Burwood (Vic.),22504,Thomastown,85.05,ok
+20427,Burwood East,22504,Thomastown,82.63,ok
+20435,Bylands,22504,Thomastown,,no_eligible_route
+20441,Cairnlea,22504,Thomastown,102.33,ok
+20442,Calder Park,22504,Thomastown,121.9,ok
+20443,Caldermeade,22504,Thomastown,,no_eligible_route
+20453,Camberwell (Vic.),22504,Thomastown,72.25,ok
+20455,Campbellfield,22504,Thomastown,74.25,ok
+20466,Cannons Creek,22504,Thomastown,,no_eligible_route
+20468,Canterbury (Vic.),22504,Thomastown,74.38,ok
+20474,Cape Schanck,22504,Thomastown,,no_eligible_route
+20476,Capel Sound,22504,Thomastown,199.27,ok
+20487,Cardinia,22504,Thomastown,,no_eligible_route
+20495,Carlton (Vic.),22504,Thomastown,49.33,ok
+20496,Carlton North,22504,Thomastown,57.8,ok
+20498,Carnegie,22504,Thomastown,81.92,ok
+20500,Caroline Springs,22504,Thomastown,117.03,ok
+20507,Carrum,22504,Thomastown,104.78,ok
+20508,Carrum Downs,22504,Thomastown,136.67,ok
+20512,Castella,22504,Thomastown,,no_eligible_route
+20517,Catani,22504,Thomastown,,no_eligible_route
+20521,Caulfield,22504,Thomastown,82.45,ok
+20522,Caulfield East,22504,Thomastown,71.8,ok
+20523,Caulfield North,22504,Thomastown,73.72,ok
+20524,Caulfield South,22504,Thomastown,84.65,ok
+20528,Chadstone,22504,Thomastown,91.45,ok
+20537,Chelsea,22504,Thomastown,102.03,ok
+20538,Chelsea Heights,22504,Thomastown,116.72,ok
+20539,Cheltenham (Vic.),22504,Thomastown,91.5,ok
+20541,Cherokee,22504,Thomastown,,no_eligible_route
+20555,Chintin,22504,Thomastown,,no_eligible_route
+20556,Chirnside Park,22504,Thomastown,124.98,ok
+20559,Christmas Hills (Vic.),22504,Thomastown,,no_eligible_route
+20560,Chum Creek,22504,Thomastown,,no_eligible_route
+20566,Clarinda,22504,Thomastown,106.88,ok
+20567,Clarkefield,22504,Thomastown,,no_eligible_route
+20569,Clayton,22504,Thomastown,100.23,ok
+20570,Clayton South,22504,Thomastown,113.35,ok
+20572,Clematis,22504,Thomastown,,no_eligible_route
+20574,Clifton Hill,22504,Thomastown,31.6,ok
+20576,Clonbinane,22504,Thomastown,,no_eligible_route
+20581,Clyde (Vic.),22504,Thomastown,167.57,ok
+20582,Clyde North,22504,Thomastown,149.33,ok
+20587,Cobaw,22504,Thomastown,,no_eligible_route
+20590,Cobblebank,22504,Thomastown,170.95,ok
+20596,Coburg,22504,Thomastown,46.4,ok
+20597,Coburg North,22504,Thomastown,50.18,ok
+20600,Cockatoo (Vic.),22504,Thomastown,,no_eligible_route
+20601,Cocoroc,22504,Thomastown,,no_eligible_route
+20605,Coimadai,22504,Thomastown,,no_eligible_route
+20613,Coldstream (Vic.),22504,Thomastown,,no_eligible_route
+20616,Collingwood (Vic.),22504,Thomastown,40.63,ok
+20624,Coolaroo,22504,Thomastown,58.12,ok
+20633,Cora Lynn,22504,Thomastown,,no_eligible_route
+20654,Cottles Bridge,22504,Thomastown,,no_eligible_route
+20661,Craigieburn,22504,Thomastown,78.72,ok
+20662,Cranbourne,22504,Thomastown,137.52,ok
+20663,Cranbourne East,22504,Thomastown,138.62,ok
+20664,Cranbourne North,22504,Thomastown,127.88,ok
+20665,Cranbourne South,22504,Thomastown,170.43,ok
+20666,Cranbourne West,22504,Thomastown,137.43,ok
+20670,Cremorne (Vic.),22504,Thomastown,58.95,ok
+20674,Crib Point,22504,Thomastown,168.92,ok
+20682,Croydon (Vic.),22504,Thomastown,94.07,ok
+20683,Croydon Hills,22504,Thomastown,117.38,ok
+20684,Croydon North,22504,Thomastown,112.82,ok
+20685,Croydon South,22504,Thomastown,116.63,ok
+20702,Dallas,22504,Thomastown,55.52,ok
+20703,Dalmore,22504,Thomastown,,no_eligible_route
+20707,Dandenong,22504,Thomastown,105.85,ok
+20708,Dandenong North,22504,Thomastown,127.53,ok
+20709,Dandenong South,22504,Thomastown,124.18,ok
+20712,Darley,22504,Thomastown,,no_eligible_route
+20716,Darraweit Guim,22504,Thomastown,,no_eligible_route
+20724,Deanside,22504,Thomastown,138.4,ok
+20728,Deepdene (Vic.),22504,Thomastown,62.58,ok
+20729,Deer Park,22504,Thomastown,97.45,ok
+20731,Delahey,22504,Thomastown,112.77,ok
+20743,Derrimut,22504,Thomastown,126.67,ok
+20748,Devon Meadows,22504,Thomastown,174.32,ok
+20750,Dewhurst,22504,Thomastown,,no_eligible_route
+20752,Diamond Creek,22504,Thomastown,71.48,ok
+20754,Diggers Rest,22504,Thomastown,116.22,ok
+20758,Dingley Village,22504,Thomastown,110.05,ok
+20762,Dixons Creek,22504,Thomastown,,no_eligible_route
+20766,Docklands,22504,Thomastown,59.98,ok
+20769,Don Valley,22504,Thomastown,,no_eligible_route
+20771,Doncaster,22504,Thomastown,62.45,ok
+20772,Doncaster East,22504,Thomastown,66.93,ok
+20773,Donnybrook (Vic.),22504,Thomastown,94.75,ok
+20774,Donvale,22504,Thomastown,88.27,ok
+20779,Doreen,22504,Thomastown,60.28,ok
+20783,Doveton,22504,Thomastown,118.8,ok
+20788,Dromana,22504,Thomastown,209.05,ok
+20825,Eaglemont,22504,Thomastown,62.82,ok
+20830,East Melbourne,22504,Thomastown,39.67,ok
+20833,East Warburton,22504,Thomastown,,no_eligible_route
+20843,Eden Park,22504,Thomastown,,no_eligible_route
+20848,Edithvale,22504,Thomastown,102.17,ok
+20864,Elsternwick,22504,Thomastown,81.27,ok
+20865,Eltham (Vic.),22504,Thomastown,71.03,ok
+20866,Eltham North,22504,Thomastown,60.92,ok
+20867,Elwood,22504,Thomastown,80.72,ok
+20868,Emerald (Vic.),22504,Thomastown,,no_eligible_route
+20871,Endeavour Hills,22504,Thomastown,126.13,ok
+20878,Epping (Vic.),22504,Thomastown,38.97,ok
+20885,Essendon,22504,Thomastown,59.67,ok
+20886,Essendon Fields,22504,Thomastown,85.53,ok
+20887,Essendon North,22504,Thomastown,60.87,ok
+20888,Essendon West,22504,Thomastown,67.48,ok
+20889,Eumemmerring,22504,Thomastown,131.83,ok
+20898,Exford,22504,Thomastown,,no_eligible_route
+20899,Eynesbury,22504,Thomastown,,no_eligible_route
+20901,Fairfield (Vic.),22504,Thomastown,49.57,ok
+20909,Fawkner,22504,Thomastown,53.72,ok
+20916,Fernshaw,22504,Thomastown,,no_eligible_route
+20917,Ferntree Gully,22504,Thomastown,115.0,ok
+20918,Ferny Creek,22504,Thomastown,151.33,ok
+20920,Fingal (Vic.),22504,Thomastown,,no_eligible_route
+20924,Fitzroy (Vic.),22504,Thomastown,46.12,ok
+20925,Fitzroy North,22504,Thomastown,39.32,ok
+20929,Flemington,22504,Thomastown,74.23,ok
+20930,Flinders (Vic.),22504,Thomastown,,no_eligible_route
+20935,Footscray,22504,Thomastown,73.33,ok
+20937,Forest Hill (Vic.),22504,Thomastown,84.27,ok
+20947,Frankston,22504,Thomastown,124.75,ok
+20948,Frankston North,22504,Thomastown,133.9,ok
+20949,Frankston South,22504,Thomastown,153.33,ok
+20950,Fraser Rise,22504,Thomastown,132.65,ok
+20965,Gardenvale,22504,Thomastown,80.55,ok
+20966,Garfield,22504,Thomastown,,no_eligible_route
+20967,Garfield North,22504,Thomastown,,no_eligible_route
+20979,Gembrook,22504,Thomastown,,no_eligible_route
+20995,Gilderoy,22504,Thomastown,,no_eligible_route
+21001,Gisborne,22504,Thomastown,,no_eligible_route
+21002,Gisborne South,22504,Thomastown,,no_eligible_route
+21004,Gladstone Park,22504,Thomastown,64.13,ok
+21005,Gladysdale,22504,Thomastown,,no_eligible_route
+21009,Glen Huntly,22504,Thomastown,74.93,ok
+21010,Glen Iris (Vic.),22504,Thomastown,82.97,ok
+21013,Glen Waverley,22504,Thomastown,95.73,ok
+21047,Glenroy (Vic.),22504,Thomastown,62.3,ok
+21059,Goldie,22504,Thomastown,,no_eligible_route
+21079,Gowanbrae,22504,Thomastown,71.17,ok
+21087,Grangefields,22504,Thomastown,164.25,ok
+21104,Greensborough,22504,Thomastown,53.45,ok
+21105,Greenvale (Vic.),22504,Thomastown,75.82,ok
+21115,Gruyere,22504,Thomastown,,no_eligible_route
+21121,Guys Hill,22504,Thomastown,,no_eligible_route
+21124,Hadfield,22504,Thomastown,61.45,ok
+21125,Hallam,22504,Thomastown,123.33,ok
+21131,Hampton (Vic.),22504,Thomastown,93.95,ok
+21132,Hampton East,22504,Thomastown,90.17,ok
+21133,Hampton Park,22504,Thomastown,124.75,ok
+21139,Harkaway,22504,Thomastown,,no_eligible_route
+21140,Harkness,22504,Thomastown,187.78,ok
+21145,Hastings (Vic.),22504,Thomastown,161.48,ok
+21152,Hawthorn (Vic.),22504,Thomastown,64.58,ok
+21153,Hawthorn East,22504,Thomastown,65.6,ok
+21158,Healesville,22504,Thomastown,178.73,ok
+21159,Heath Hill,22504,Thomastown,,no_eligible_route
+21161,Heathcote Junction,22504,Thomastown,,no_eligible_route
+21163,Heatherton,22504,Thomastown,106.47,ok
+21165,Heathmont,22504,Thomastown,90.23,ok
+21167,Heidelberg,22504,Thomastown,54.15,ok
+21168,Heidelberg Heights,22504,Thomastown,48.65,ok
+21169,Heidelberg West,22504,Thomastown,50.8,ok
+21176,Hesket,22504,Thomastown,,no_eligible_route
+21185,Highett,22504,Thomastown,82.93,ok
+21193,Hillside (Melton - Vic.),22504,Thomastown,117.2,ok
+21195,Hmas Cerberus,22504,Thomastown,,no_eligible_route
+21196,Hoddles Creek,22504,Thomastown,,no_eligible_route
+21202,Hopetoun Park,22504,Thomastown,,no_eligible_route
+21203,Hoppers Crossing,22504,Thomastown,109.4,ok
+21214,Hughesdale,22504,Thomastown,84.37,ok
+21215,Humevale,22504,Thomastown,92.67,ok
+21218,Huntingdale (Vic.),22504,Thomastown,89.8,ok
+21223,Hurstbridge,22504,Thomastown,74.98,ok
+21238,Iona,22504,Thomastown,,no_eligible_route
+21246,Ivanhoe (Vic.),22504,Thomastown,49.08,ok
+21247,Ivanhoe East,22504,Thomastown,63.15,ok
+21248,Jacana,22504,Thomastown,50.67,ok
+21277,Junction Village,22504,Thomastown,160.45,ok
+21284,Kalkallo,22504,Thomastown,110.73,ok
+21286,Kallista,22504,Thomastown,154.77,ok
+21287,Kalorama,22504,Thomastown,121.03,ok
+21294,Kangaroo Ground,22504,Thomastown,104.58,ok
+21312,Kealba,22504,Thomastown,100.83,ok
+21314,Keilor,22504,Thomastown,117.98,ok
+21315,Keilor Downs,22504,Thomastown,111.15,ok
+21316,Keilor East,22504,Thomastown,79.48,ok
+21317,Keilor Lodge,22504,Thomastown,112.0,ok
+21318,Keilor North,22504,Thomastown,96.18,ok
+21319,Keilor Park,22504,Thomastown,98.77,ok
+21327,Kensington (Vic.),22504,Thomastown,65.22,ok
+21333,Kerrie,22504,Thomastown,,no_eligible_route
+21336,Kew (Vic.),22504,Thomastown,53.22,ok
+21337,Kew East,22504,Thomastown,56.28,ok
+21339,Keysborough,22504,Thomastown,115.93,ok
+21354,Kilsyth,22504,Thomastown,110.42,ok
+21355,Kilsyth South,22504,Thomastown,122.5,ok
+21358,Kinglake,22504,Thomastown,,no_eligible_route
+21359,Kinglake Central,22504,Thomastown,,no_eligible_route
+21360,Kinglake West,22504,Thomastown,,no_eligible_route
+21362,Kings Park (Vic.),22504,Thomastown,106.47,ok
+21363,Kingsbury,22504,Thomastown,44.0,ok
+21365,Kingsville,22504,Thomastown,83.82,ok
+21374,Knoxfield,22504,Thomastown,115.08,ok
+21380,Koo Wee Rup,22504,Thomastown,,no_eligible_route
+21381,Koo Wee Rup North,22504,Thomastown,,no_eligible_route
+21393,Kooyong,22504,Thomastown,69.5,ok
+21411,Kurunjang,22504,Thomastown,164.98,ok
+21452,Lalor,22504,Thomastown,20.77,ok
+21456,Lancefield,22504,Thomastown,,no_eligible_route
+21459,Lang Lang,22504,Thomastown,,no_eligible_route
+21460,Lang Lang East,22504,Thomastown,,no_eligible_route
+21467,Langwarrin,22504,Thomastown,141.37,ok
+21468,Langwarrin South,22504,Thomastown,,no_eligible_route
+21473,Launching Place,22504,Thomastown,139.37,ok
+21476,Laverton (Vic.),22504,Thomastown,93.17,ok
+21477,Laverton North,22504,Thomastown,119.58,ok
+21504,Lilydale (Vic.),22504,Thomastown,119.02,ok
+21533,Long Forest,22504,Thomastown,,no_eligible_route
+21547,Lower Plenty,22504,Thomastown,82.13,ok
+21554,Lynbrook,22504,Thomastown,118.23,ok
+21555,Lyndhurst (Vic.),22504,Thomastown,165.82,ok
+21558,Lysterfield,22504,Thomastown,,no_eligible_route
+21559,Lysterfield South,22504,Thomastown,171.95,ok
+21561,Macclesfield (Vic.),22504,Thomastown,,no_eligible_route
+21562,Macedon,22504,Thomastown,,no_eligible_route
+21564,Macleod (Vic.),22504,Thomastown,62.07,ok
+21569,Maddingley,22504,Thomastown,,no_eligible_route
+21575,Maidstone,22504,Thomastown,91.35,ok
+21578,Main Ridge,22504,Thomastown,,no_eligible_route
+21586,Malvern (Vic.),22504,Thomastown,71.73,ok
+21587,Malvern East,22504,Thomastown,82.1,ok
+21588,Mambourin,22504,Thomastown,,no_eligible_route
+21597,Manor Lakes,22504,Thomastown,151.28,ok
+21604,Maribyrnong,22504,Thomastown,87.45,ok
+21619,Maryknoll,22504,Thomastown,,no_eligible_route
+21625,McCrae,22504,Thomastown,192.47,ok
+21629,McKinnon,22504,Thomastown,72.23,ok
+21635,Meadow Heights,22504,Thomastown,54.98,ok
+21640,Melbourne,22504,Thomastown,57.18,ok
+21641,Melbourne Airport,22504,Thomastown,,no_eligible_route
+21642,Melton (Vic.),22504,Thomastown,173.17,ok
+21643,Melton South,22504,Thomastown,185.53,ok
+21644,Melton West,22504,Thomastown,161.17,ok
+21648,Mentone,22504,Thomastown,86.27,ok
+21649,Menzies Creek,22504,Thomastown,,no_eligible_route
+21659,Mernda,22504,Thomastown,53.22,ok
+21662,Merricks,22504,Thomastown,,no_eligible_route
+21663,Merricks Beach,22504,Thomastown,,no_eligible_route
+21664,Merricks North,22504,Thomastown,,no_eligible_route
+21668,Merrimu,22504,Thomastown,,no_eligible_route
+21675,Mickleham,22504,Thomastown,110.72,ok
+21677,Middle Park (Vic.),22504,Thomastown,74.52,ok
+21683,Mill Park,22504,Thomastown,40.7,ok
+21685,Millgrove,22504,Thomastown,,no_eligible_route
+21706,Mitcham (Vic.),22504,Thomastown,81.8,ok
+21727,Monbulk,22504,Thomastown,162.22,ok
+21728,Monegeetta,22504,Thomastown,,no_eligible_route
+21731,Monomeith,22504,Thomastown,,no_eligible_route
+21732,Mont Albert,22504,Thomastown,74.62,ok
+21733,Mont Albert North,22504,Thomastown,64.92,ok
+21735,Montmorency,22504,Thomastown,63.07,ok
+21736,Montrose (Vic.),22504,Thomastown,113.33,ok
+21742,Moonee Ponds,22504,Thomastown,64.17,ok
+21746,Moorabbin,22504,Thomastown,98.53,ok
+21747,Moorabbin Airport,22504,Thomastown,111.42,ok
+21754,Moorooduc,22504,Thomastown,,no_eligible_route
+21755,Mooroolbark,22504,Thomastown,103.27,ok
+21760,Mordialloc,22504,Thomastown,101.57,ok
+21763,Mornington (Vic.),22504,Thomastown,167.1,ok
+21779,Mount Burnett,22504,Thomastown,,no_eligible_route
+21786,Mount Cottrell,22504,Thomastown,,no_eligible_route
+21787,Mount Dandenong,22504,Thomastown,125.03,ok
+21793,Mount Eliza,22504,Thomastown,137.8,ok
+21795,Mount Evelyn,22504,Thomastown,129.2,ok
+21801,Mount Macedon,22504,Thomastown,,no_eligible_route
+21803,Mount Martha,22504,Thomastown,160.98,ok
+21814,Mount Toolebewong,22504,Thomastown,,no_eligible_route
+21816,Mount Waverley,22504,Thomastown,87.17,ok
+21827,Mulgrave (Vic.),22504,Thomastown,113.07,ok
+21849,Murrumbeena,22504,Thomastown,84.48,ok
+21872,Nangana,22504,Thomastown,,no_eligible_route
+21878,Nar Nar Goon,22504,Thomastown,,no_eligible_route
+21879,Nar Nar Goon North,22504,Thomastown,,no_eligible_route
+21893,Narre Warren,22504,Thomastown,120.32,ok
+21894,Narre Warren East,22504,Thomastown,,no_eligible_route
+21895,Narre Warren North,22504,Thomastown,139.23,ok
+21896,Narre Warren South,22504,Thomastown,126.13,ok
+21921,New Gisborne,22504,Thomastown,,no_eligible_route
+21934,Newport (Vic.),22504,Thomastown,77.02,ok
+21942,Niddrie,22504,Thomastown,80.62,ok
+21952,Noble Park,22504,Thomastown,96.58,ok
+21953,Noble Park North,22504,Thomastown,129.77,ok
+21966,North Melbourne,22504,Thomastown,62.47,ok
+21969,North Warrandyte,22504,Thomastown,87.77,ok
+21971,Northcote,22504,Thomastown,37.33,ok
+21974,Notting Hill,22504,Thomastown,90.72,ok
+21985,Nunawading,22504,Thomastown,73.53,ok
+21991,Nutfield,22504,Thomastown,,no_eligible_route
+21998,Oak Park,22504,Thomastown,62.5,ok
+21999,Oaklands Junction,22504,Thomastown,,no_eligible_route
+22000,Oakleigh,22504,Thomastown,87.03,ok
+22001,Oakleigh East,22504,Thomastown,99.02,ok
+22002,Oakleigh South,22504,Thomastown,95.83,ok
+22006,Officer,22504,Thomastown,137.87,ok
+22007,Officer South,22504,Thomastown,178.43,ok
+22009,Olinda (Vic.),22504,Thomastown,149.68,ok
+22016,Ormond,22504,Thomastown,72.67,ok
+22027,Pakenham,22504,Thomastown,134.78,ok
+22028,Pakenham South,22504,Thomastown,,no_eligible_route
+22029,Pakenham Upper,22504,Thomastown,,no_eligible_route
+22032,Panton Hill,22504,Thomastown,,no_eligible_route
+22036,Park Orchards,22504,Thomastown,83.93,ok
+22037,Parkdale,22504,Thomastown,91.35,ok
+22038,Parkville (Vic.),22504,Thomastown,68.3,ok
+22041,Pascoe Vale,22504,Thomastown,60.27,ok
+22042,Pascoe Vale South,22504,Thomastown,52.73,ok
+22047,Patterson Lakes,22504,Thomastown,115.3,ok
+22050,Pearcedale,22504,Thomastown,,no_eligible_route
+22058,Pentland Hills,22504,Thomastown,,no_eligible_route
+22064,Pheasant Creek (Vic.),22504,Thomastown,,no_eligible_route
+22084,Plenty (Vic.),22504,Thomastown,60.23,ok
+22085,Plumpton (Vic.),22504,Thomastown,,no_eligible_route
+22086,Point Cook,22504,Thomastown,109.4,ok
+22087,Point Leo,22504,Thomastown,,no_eligible_route
+22107,Port Melbourne,22504,Thomastown,70.02,ok
+22113,Portsea,22504,Thomastown,,no_eligible_route
+22115,Powelltown,22504,Thomastown,,no_eligible_route
+22118,Prahran,22504,Thomastown,67.17,ok
+22121,Preston (Vic.),22504,Thomastown,34.33,ok
+22122,Princes Hill,22504,Thomastown,51.4,ok
+22132,Quandong,22504,Thomastown,,no_eligible_route
+22141,Ravenhall,22504,Thomastown,148.58,ok
+22148,Red Hill (Vic.),22504,Thomastown,,no_eligible_route
+22149,Red Hill South,22504,Thomastown,,no_eligible_route
+22160,Research,22504,Thomastown,81.63,ok
+22161,Reservoir (Vic.),22504,Thomastown,24.58,ok
+22170,Richmond (Vic.),22504,Thomastown,52.03,ok
+22172,Riddells Creek,22504,Thomastown,,no_eligible_route
+22174,Ringwood (Vic.),22504,Thomastown,89.0,ok
+22175,Ringwood East,22504,Thomastown,94.15,ok
+22176,Ringwood North,22504,Thomastown,90.52,ok
+22179,Ripponlea,22504,Thomastown,71.98,ok
+22185,Rochford,22504,Thomastown,,no_eligible_route
+22186,Rockbank,22504,Thomastown,146.43,ok
+22193,Romsey,22504,Thomastown,,no_eligible_route
+22194,Rosanna,22504,Thomastown,58.9,ok
+22198,Rosebud,22504,Thomastown,209.78,ok
+22207,Rowville,22504,Thomastown,125.38,ok
+22208,Roxburgh Park,22504,Thomastown,69.98,ok
+22220,Rye,22504,Thomastown,221.98,ok
+22221,Rythdale,22504,Thomastown,,no_eligible_route
+22222,Safety Beach (Vic.),22504,Thomastown,176.95,ok
+22232,Sandhurst,22504,Thomastown,143.63,ok
+22234,Sandringham (Vic.),22504,Thomastown,96.92,ok
+22239,Sassafras (Vic.),22504,Thomastown,134.1,ok
+22242,Scoresby,22504,Thomastown,113.35,ok
+22247,Seabrook,22504,Thomastown,105.47,ok
+22249,Seaford (Vic.),22504,Thomastown,116.88,ok
+22250,Seaholme,22504,Thomastown,86.25,ok
+22256,Seddon (Vic.),22504,Thomastown,70.27,ok
+22258,Selby,22504,Thomastown,152.3,ok
+22263,Seville,22504,Thomastown,150.53,ok
+22264,Seville East,22504,Thomastown,137.42,ok
+22278,Sherbrooke,22504,Thomastown,144.83,ok
+22279,Shoreham,22504,Thomastown,,no_eligible_route
+22281,Silvan,22504,Thomastown,154.32,ok
+22291,Skye (Vic.),22504,Thomastown,160.12,ok
+22295,Smiths Gully,22504,Thomastown,,no_eligible_route
+22303,Somers,22504,Thomastown,,no_eligible_route
+22304,Somerton (Vic.),22504,Thomastown,61.6,ok
+22305,Somerville (Vic.),22504,Thomastown,166.53,ok
+22306,Sorrento (Vic.),22504,Thomastown,212.75,ok
+22309,South Kingsville,22504,Thomastown,91.92,ok
+22310,South Melbourne,22504,Thomastown,67.33,ok
+22311,South Morang,22504,Thomastown,41.47,ok
+22313,South Wharf,22504,Thomastown,62.0,ok
+22314,South Yarra,22504,Thomastown,52.3,ok
+22315,Southbank,22504,Thomastown,64.52,ok
+22319,Spotswood,22504,Thomastown,70.42,ok
+22325,Springfield (Macedon Ranges - Vic.),22504,Thomastown,,no_eligible_route
+22328,Springvale (Vic.),22504,Thomastown,97.55,ok
+22329,Springvale South,22504,Thomastown,102.28,ok
+22330,St Albans (Vic.),22504,Thomastown,90.75,ok
+22332,St Andrews (Vic.),22504,Thomastown,,no_eligible_route
+22333,St Andrews Beach,22504,Thomastown,,no_eligible_route
+22339,St Helena,22504,Thomastown,67.17,ok
+22343,St Kilda (Vic.),22504,Thomastown,68.68,ok
+22344,St Kilda East,22504,Thomastown,72.42,ok
+22345,St Kilda West,22504,Thomastown,73.4,ok
+22355,Steels Creek,22504,Thomastown,,no_eligible_route
+22375,Strathewen,22504,Thomastown,,no_eligible_route
+22380,Strathmore (Vic.),22504,Thomastown,70.87,ok
+22381,Strathmore Heights,22504,Thomastown,74.27,ok
+22382,Strathtulloh,22504,Thomastown,,no_eligible_route
+22391,Sunbury,22504,Thomastown,151.38,ok
+22395,Sunshine (Vic.),22504,Thomastown,79.53,ok
+22396,Sunshine North,22504,Thomastown,94.6,ok
+22397,Sunshine West,22504,Thomastown,105.23,ok
+22399,Surrey Hills,22504,Thomastown,76.53,ok
+22414,Sydenham (Vic.),22504,Thomastown,105.15,ok
+22451,Tarneit,22504,Thomastown,131.47,ok
+22457,Tarrawarra,22504,Thomastown,154.33,ok
+22473,Taylors Hill,22504,Thomastown,111.98,ok
+22474,Taylors Lakes,22504,Thomastown,102.57,ok
+22476,Tecoma,22504,Thomastown,116.7,ok
+22483,Templestowe,22504,Thomastown,71.33,ok
+22484,Templestowe Lower,22504,Thomastown,66.3,ok
+22496,The Basin (Vic.),22504,Thomastown,125.23,ok
+22501,The Patch,22504,Thomastown,152.78,ok
+22504,Thomastown,22504,Thomastown,0.0,same_centroid
+22508,Thornbury,22504,Thomastown,35.3,ok
+22509,Thornhill Park,22504,Thomastown,,no_eligible_route
+22514,Three Bridges,22504,Thomastown,,no_eligible_route
+22531,Tonimbuk,22504,Thomastown,,no_eligible_route
+22536,Toolangi,22504,Thomastown,,no_eligible_route
+22537,Toolern Vale,22504,Thomastown,,no_eligible_route
+22546,Tooradin,22504,Thomastown,,no_eligible_route
+22547,Toorak,22504,Thomastown,68.78,ok
+22550,Tootgarook,22504,Thomastown,205.4,ok
+22556,Tottenham (Vic.),22504,Thomastown,105.42,ok
+22572,Travancore,22504,Thomastown,73.0,ok
+22576,Tremont,22504,Thomastown,127.65,ok
+22582,Truganina,22504,Thomastown,180.27,ok
+22584,Tuerong,22504,Thomastown,,no_eligible_route
+22586,Tullamarine,22504,Thomastown,68.0,ok
+22594,Tyabb,22504,Thomastown,155.4,ok
+22598,Tynong,22504,Thomastown,,no_eligible_route
+22599,Tynong North,22504,Thomastown,,no_eligible_route
+22614,Upper Ferntree Gully,22504,Thomastown,107.2,ok
+22617,Upper Plenty,22504,Thomastown,,no_eligible_route
+22620,Upwey,22504,Thomastown,116.57,ok
+22627,Vermont,22504,Thomastown,97.27,ok
+22628,Vermont South,22504,Thomastown,100.58,ok
+22629,Vervale,22504,Thomastown,,no_eligible_route
+22633,Viewbank,22504,Thomastown,67.1,ok
+22661,Wallan,22504,Thomastown,,no_eligible_route
+22672,Wandin East,22504,Thomastown,,no_eligible_route
+22673,Wandin North,22504,Thomastown,123.5,ok
+22676,Wandong,22504,Thomastown,,no_eligible_route
+22685,Wantirna,22504,Thomastown,102.2,ok
+22686,Wantirna South,22504,Thomastown,115.05,ok
+22689,Warburton (Vic.),22504,Thomastown,,no_eligible_route
+22695,Warneet,22504,Thomastown,,no_eligible_route
+22702,Warrandyte,22504,Thomastown,85.12,ok
+22703,Warrandyte South,22504,Thomastown,121.08,ok
+22704,Warranwood,22504,Thomastown,98.75,ok
+22717,Waterford Park,22504,Thomastown,,no_eligible_route
+22720,Waterways,22504,Thomastown,121.95,ok
+22721,Watsonia,22504,Thomastown,55.42,ok
+22722,Watsonia North,22504,Thomastown,50.73,ok
+22723,Watsons Creek (Vic.),22504,Thomastown,,no_eligible_route
+22727,Wattle Glen,22504,Thomastown,83.28,ok
+22740,Weir Views,22504,Thomastown,216.0,ok
+22750,Werribee,22504,Thomastown,108.85,ok
+22751,Werribee South,22504,Thomastown,147.87,ok
+22753,Wesburn,22504,Thomastown,155.47,ok
+22756,West Footscray,22504,Thomastown,82.7,ok
+22757,West Melbourne,22504,Thomastown,71.98,ok
+22761,Westmeadows,22504,Thomastown,55.38,ok
+22766,Wheelers Hill,22504,Thomastown,104.78,ok
+22775,Whittlesea,22504,Thomastown,,no_eligible_route
+22784,Wildwood,22504,Thomastown,,no_eligible_route
+22791,Williams Landing,22504,Thomastown,107.42,ok
+22792,Williamstown (Vic.),22504,Thomastown,86.88,ok
+22793,Williamstown North,22504,Thomastown,98.77,ok
+22805,Windsor (Vic.),22504,Thomastown,64.42,ok
+22820,Wollert,22504,Thomastown,89.42,ok
+22825,Wonga Park,22504,Thomastown,125.25,ok
+22843,Woodstock (Vic.),22504,Thomastown,,no_eligible_route
+22857,Woori Yallock,22504,Thomastown,134.62,ok
+22883,Wyndham Vale,22504,Thomastown,139.02,ok
+22892,Yallambie,22504,Thomastown,78.28,ok
+22898,Yan Yean,22504,Thomastown,78.98,ok
+22906,Yannathan,22504,Thomastown,,no_eligible_route
+22910,Yarra Glen,22504,Thomastown,151.63,ok
+22911,Yarra Junction,22504,Thomastown,159.73,ok
+22916,Yarrambat,22504,Thomastown,54.37,ok
+22917,Yarraville,22504,Thomastown,76.17,ok
+22925,Yellingbo,22504,Thomastown,,no_eligible_route
+22930,Yering,22504,Thomastown,,no_eligible_route
+22941,Yuroke,22504,Thomastown,128.07,ok

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22381,Strathmore Heights,68.25,ok
+20003,Aberfeldie,22381,Strathmore Heights,37.2,ok
+20011,Aintree,22381,Strathmore Heights,103.15,ok
+20015,Airport West,22381,Strathmore Heights,16.22,ok
+20017,Albanvale,22381,Strathmore Heights,100.1,ok
+20018,Albert Park (Vic.),22381,Strathmore Heights,64.37,ok
+20021,Albion (Vic.),22381,Strathmore Heights,75.53,ok
+20034,Alphington,22381,Strathmore Heights,72.42,ok
+20035,Altona (Vic.),22381,Strathmore Heights,78.6,ok
+20036,Altona Meadows,22381,Strathmore Heights,84.75,ok
+20037,Altona North,22381,Strathmore Heights,97.0,ok
+20062,Ardeer,22381,Strathmore Heights,81.65,ok
+20066,Armadale (Vic.),22381,Strathmore Heights,69.75,ok
+20071,Arthurs Creek,22381,Strathmore Heights,,no_eligible_route
+20072,Arthurs Seat,22381,Strathmore Heights,236.27,ok
+20075,Ascot Vale,22381,Strathmore Heights,43.33,ok
+20077,Ashburton,22381,Strathmore Heights,83.35,ok
+20078,Ashwood,22381,Strathmore Heights,93.55,ok
+20079,Aspendale,22381,Strathmore Heights,111.0,ok
+20080,Aspendale Gardens,22381,Strathmore Heights,131.33,ok
+20082,Attwood,22381,Strathmore Heights,55.15,ok
+20089,Avondale Heights,22381,Strathmore Heights,49.48,ok
+20091,Avonsleigh,22381,Strathmore Heights,,no_eligible_route
+20095,Bacchus Marsh,22381,Strathmore Heights,,no_eligible_route
+20097,Badger Creek,22381,Strathmore Heights,190.1,ok
+20105,Balaclava (Vic.),22381,Strathmore Heights,70.38,ok
+20120,Balnarring,22381,Strathmore Heights,,no_eligible_route
+20121,Balnarring Beach,22381,Strathmore Heights,,no_eligible_route
+20123,Balwyn,22381,Strathmore Heights,95.48,ok
+20124,Balwyn North,22381,Strathmore Heights,93.15,ok
+20131,Bangholme,22381,Strathmore Heights,162.6,ok
+20169,Baxter,22381,Strathmore Heights,151.35,ok
+20171,Bayles,22381,Strathmore Heights,,no_eligible_route
+20173,Bayswater (Vic.),22381,Strathmore Heights,116.0,ok
+20174,Bayswater North,22381,Strathmore Heights,129.97,ok
+20175,Beaconsfield (Vic.),22381,Strathmore Heights,153.45,ok
+20176,Beaconsfield Upper,22381,Strathmore Heights,,no_eligible_route
+20182,Beaumaris (Vic.),22381,Strathmore Heights,108.88,ok
+20187,Beenak,22381,Strathmore Heights,,no_eligible_route
+20188,Belgrave,22381,Strathmore Heights,129.08,ok
+20189,Belgrave Heights,22381,Strathmore Heights,158.75,ok
+20190,Belgrave South,22381,Strathmore Heights,157.73,ok
+20198,Bellfield (Banyule - Vic.),22381,Strathmore Heights,69.77,ok
+20207,Bend Of Islands,22381,Strathmore Heights,,no_eligible_route
+20212,Benloch,22381,Strathmore Heights,,no_eligible_route
+20214,Bentleigh,22381,Strathmore Heights,92.78,ok
+20215,Bentleigh East,22381,Strathmore Heights,95.73,ok
+20224,Berwick,22381,Strathmore Heights,126.25,ok
+20233,Beveridge,22381,Strathmore Heights,96.95,ok
+20237,Big Pats Creek,22381,Strathmore Heights,,no_eligible_route
+20248,Bittern,22381,Strathmore Heights,169.33,ok
+20251,Black Rock (Vic.),22381,Strathmore Heights,107.2,ok
+20252,Blackburn,22381,Strathmore Heights,89.23,ok
+20253,Blackburn North,22381,Strathmore Heights,96.32,ok
+20254,Blackburn South,22381,Strathmore Heights,104.67,ok
+20257,Blairgowrie,22381,Strathmore Heights,230.3,ok
+20260,Blind Bight,22381,Strathmore Heights,,no_eligible_route
+20272,Bolinda,22381,Strathmore Heights,,no_eligible_route
+20278,Bonbeach,22381,Strathmore Heights,116.0,ok
+20280,Boneo,22381,Strathmore Heights,,no_eligible_route
+20282,Bonnie Brook,22381,Strathmore Heights,135.7,ok
+20304,Boronia,22381,Strathmore Heights,118.47,ok
+20307,Botanic Ridge,22381,Strathmore Heights,163.02,ok
+20314,Box Hill (Vic.),22381,Strathmore Heights,87.35,ok
+20315,Box Hill North,22381,Strathmore Heights,97.1,ok
+20316,Box Hill South,22381,Strathmore Heights,95.83,ok
+20320,Braeside,22381,Strathmore Heights,138.08,ok
+20324,Braybrook,22381,Strathmore Heights,68.53,ok
+20331,Briar Hill,22381,Strathmore Heights,90.27,ok
+20337,Brighton (Vic.),22381,Strathmore Heights,83.15,ok
+20338,Brighton East,22381,Strathmore Heights,92.3,ok
+20346,Broadmeadows (Vic.),22381,Strathmore Heights,48.67,ok
+20351,Brookfield (Vic.),22381,Strathmore Heights,181.68,ok
+20352,Brooklyn (Vic.),22381,Strathmore Heights,89.7,ok
+20361,Brunswick (Vic.),22381,Strathmore Heights,49.42,ok
+20362,Brunswick East,22381,Strathmore Heights,58.27,ok
+20363,Brunswick West,22381,Strathmore Heights,44.18,ok
+20381,Bulla (Vic.),22381,Strathmore Heights,235.33,walk_only
+20386,Bulleen,22381,Strathmore Heights,89.67,ok
+20387,Bullengarook,22381,Strathmore Heights,,no_eligible_route
+20399,Bundoora (Vic.),22381,Strathmore Heights,73.67,ok
+20411,Bunyip,22381,Strathmore Heights,,no_eligible_route
+20412,Bunyip North,22381,Strathmore Heights,,no_eligible_route
+20418,Burnley,22381,Strathmore Heights,76.75,ok
+20419,Burnside (Vic.),22381,Strathmore Heights,93.15,ok
+20420,Burnside Heights,22381,Strathmore Heights,94.3,ok
+20426,Burwood (Vic.),22381,Strathmore Heights,96.98,ok
+20427,Burwood East,22381,Strathmore Heights,101.65,ok
+20435,Bylands,22381,Strathmore Heights,,no_eligible_route
+20441,Cairnlea,22381,Strathmore Heights,97.6,ok
+20442,Calder Park,22381,Strathmore Heights,98.8,ok
+20443,Caldermeade,22381,Strathmore Heights,,no_eligible_route
+20453,Camberwell (Vic.),22381,Strathmore Heights,82.28,ok
+20455,Campbellfield,22381,Strathmore Heights,67.43,ok
+20466,Cannons Creek,22381,Strathmore Heights,,no_eligible_route
+20468,Canterbury (Vic.),22381,Strathmore Heights,80.67,ok
+20474,Cape Schanck,22381,Strathmore Heights,,no_eligible_route
+20476,Capel Sound,22381,Strathmore Heights,215.65,ok
+20487,Cardinia,22381,Strathmore Heights,,no_eligible_route
+20495,Carlton (Vic.),22381,Strathmore Heights,61.35,ok
+20496,Carlton North,22381,Strathmore Heights,66.03,ok
+20498,Carnegie,22381,Strathmore Heights,84.98,ok
+20500,Caroline Springs,22381,Strathmore Heights,97.58,ok
+20507,Carrum,22381,Strathmore Heights,115.82,ok
+20508,Carrum Downs,22381,Strathmore Heights,133.95,ok
+20512,Castella,22381,Strathmore Heights,,no_eligible_route
+20517,Catani,22381,Strathmore Heights,,no_eligible_route
+20521,Caulfield,22381,Strathmore Heights,87.38,ok
+20522,Caulfield East,22381,Strathmore Heights,78.18,ok
+20523,Caulfield North,22381,Strathmore Heights,77.68,ok
+20524,Caulfield South,22381,Strathmore Heights,91.92,ok
+20528,Chadstone,22381,Strathmore Heights,95.83,ok
+20537,Chelsea,22381,Strathmore Heights,113.07,ok
+20538,Chelsea Heights,22381,Strathmore Heights,137.18,ok
+20539,Cheltenham (Vic.),22381,Strathmore Heights,102.53,ok
+20541,Cherokee,22381,Strathmore Heights,,no_eligible_route
+20555,Chintin,22381,Strathmore Heights,,no_eligible_route
+20556,Chirnside Park,22381,Strathmore Heights,134.37,ok
+20559,Christmas Hills (Vic.),22381,Strathmore Heights,,no_eligible_route
+20560,Chum Creek,22381,Strathmore Heights,,no_eligible_route
+20566,Clarinda,22381,Strathmore Heights,106.82,ok
+20567,Clarkefield,22381,Strathmore Heights,,no_eligible_route
+20569,Clayton,22381,Strathmore Heights,96.62,ok
+20570,Clayton South,22381,Strathmore Heights,112.6,ok
+20572,Clematis,22381,Strathmore Heights,,no_eligible_route
+20574,Clifton Hill,22381,Strathmore Heights,66.5,ok
+20576,Clonbinane,22381,Strathmore Heights,,no_eligible_route
+20581,Clyde (Vic.),22381,Strathmore Heights,176.95,ok
+20582,Clyde North,22381,Strathmore Heights,145.72,ok
+20587,Cobaw,22381,Strathmore Heights,,no_eligible_route
+20590,Cobblebank,22381,Strathmore Heights,157.23,ok
+20596,Coburg,22381,Strathmore Heights,42.18,ok
+20597,Coburg North,22381,Strathmore Heights,60.45,ok
+20600,Cockatoo (Vic.),22381,Strathmore Heights,,no_eligible_route
+20601,Cocoroc,22381,Strathmore Heights,,no_eligible_route
+20605,Coimadai,22381,Strathmore Heights,,no_eligible_route
+20613,Coldstream (Vic.),22381,Strathmore Heights,,no_eligible_route
+20616,Collingwood (Vic.),22381,Strathmore Heights,68.9,ok
+20624,Coolaroo,22381,Strathmore Heights,53.63,ok
+20633,Cora Lynn,22381,Strathmore Heights,,no_eligible_route
+20654,Cottles Bridge,22381,Strathmore Heights,,no_eligible_route
+20661,Craigieburn,22381,Strathmore Heights,62.68,ok
+20662,Cranbourne,22381,Strathmore Heights,135.57,ok
+20663,Cranbourne East,22381,Strathmore Heights,135.0,ok
+20664,Cranbourne North,22381,Strathmore Heights,134.92,ok
+20665,Cranbourne South,22381,Strathmore Heights,166.37,ok
+20666,Cranbourne West,22381,Strathmore Heights,139.82,ok
+20670,Cremorne (Vic.),22381,Strathmore Heights,66.13,ok
+20674,Crib Point,22381,Strathmore Heights,178.3,ok
+20682,Croydon (Vic.),22381,Strathmore Heights,106.0,ok
+20683,Croydon Hills,22381,Strathmore Heights,127.32,ok
+20684,Croydon North,22381,Strathmore Heights,125.85,ok
+20685,Croydon South,22381,Strathmore Heights,126.02,ok
+20702,Dallas,22381,Strathmore Heights,51.78,ok
+20703,Dalmore,22381,Strathmore Heights,,no_eligible_route
+20707,Dandenong,22381,Strathmore Heights,107.88,ok
+20708,Dandenong North,22381,Strathmore Heights,129.92,ok
+20709,Dandenong South,22381,Strathmore Heights,133.12,ok
+20712,Darley,22381,Strathmore Heights,,no_eligible_route
+20716,Darraweit Guim,22381,Strathmore Heights,,no_eligible_route
+20724,Deanside,22381,Strathmore Heights,116.17,ok
+20728,Deepdene (Vic.),22381,Strathmore Heights,88.12,ok
+20729,Deer Park,22381,Strathmore Heights,78.48,ok
+20731,Delahey,22381,Strathmore Heights,94.6,ok
+20743,Derrimut,22381,Strathmore Heights,117.37,ok
+20748,Devon Meadows,22381,Strathmore Heights,183.7,ok
+20750,Dewhurst,22381,Strathmore Heights,,no_eligible_route
+20752,Diamond Creek,22381,Strathmore Heights,104.17,ok
+20754,Diggers Rest,22381,Strathmore Heights,,no_eligible_route
+20758,Dingley Village,22381,Strathmore Heights,119.43,ok
+20762,Dixons Creek,22381,Strathmore Heights,,no_eligible_route
+20766,Docklands,22381,Strathmore Heights,56.73,ok
+20769,Don Valley,22381,Strathmore Heights,,no_eligible_route
+20771,Doncaster,22381,Strathmore Heights,91.9,ok
+20772,Doncaster East,22381,Strathmore Heights,96.97,ok
+20773,Donnybrook (Vic.),22381,Strathmore Heights,97.48,ok
+20774,Donvale,22381,Strathmore Heights,120.12,ok
+20779,Doreen,22381,Strathmore Heights,114.75,ok
+20783,Doveton,22381,Strathmore Heights,119.68,ok
+20788,Dromana,22381,Strathmore Heights,225.43,ok
+20825,Eaglemont,22381,Strathmore Heights,86.8,ok
+20830,East Melbourne,22381,Strathmore Heights,59.02,ok
+20833,East Warburton,22381,Strathmore Heights,,no_eligible_route
+20843,Eden Park,22381,Strathmore Heights,,no_eligible_route
+20848,Edithvale,22381,Strathmore Heights,113.2,ok
+20864,Elsternwick,22381,Strathmore Heights,78.3,ok
+20865,Eltham (Vic.),22381,Strathmore Heights,103.5,ok
+20866,Eltham North,22381,Strathmore Heights,94.38,ok
+20867,Elwood,22381,Strathmore Heights,84.48,ok
+20868,Emerald (Vic.),22381,Strathmore Heights,,no_eligible_route
+20871,Endeavour Hills,22381,Strathmore Heights,139.17,ok
+20878,Epping (Vic.),22381,Strathmore Heights,86.77,ok
+20885,Essendon,22381,Strathmore Heights,30.08,ok
+20886,Essendon Fields,22381,Strathmore Heights,26.28,walk_only
+20887,Essendon North,22381,Strathmore Heights,25.02,ok
+20888,Essendon West,22381,Strathmore Heights,33.42,ok
+20889,Eumemmerring,22381,Strathmore Heights,127.22,ok
+20898,Exford,22381,Strathmore Heights,,no_eligible_route
+20899,Eynesbury,22381,Strathmore Heights,,no_eligible_route
+20901,Fairfield (Vic.),22381,Strathmore Heights,76.35,ok
+20909,Fawkner,22381,Strathmore Heights,71.63,ok
+20916,Fernshaw,22381,Strathmore Heights,,no_eligible_route
+20917,Ferntree Gully,22381,Strathmore Heights,121.83,ok
+20918,Ferny Creek,22381,Strathmore Heights,163.27,ok
+20920,Fingal (Vic.),22381,Strathmore Heights,,no_eligible_route
+20924,Fitzroy (Vic.),22381,Strathmore Heights,70.02,ok
+20925,Fitzroy North,22381,Strathmore Heights,61.57,ok
+20929,Flemington,22381,Strathmore Heights,49.1,ok
+20930,Flinders (Vic.),22381,Strathmore Heights,,no_eligible_route
+20935,Footscray,22381,Strathmore Heights,55.8,ok
+20937,Forest Hill (Vic.),22381,Strathmore Heights,105.65,ok
+20947,Frankston,22381,Strathmore Heights,136.78,ok
+20948,Frankston North,22381,Strathmore Heights,153.02,ok
+20949,Frankston South,22381,Strathmore Heights,162.72,ok
+20950,Fraser Rise,22381,Strathmore Heights,109.55,ok
+20965,Gardenvale,22381,Strathmore Heights,79.58,ok
+20966,Garfield,22381,Strathmore Heights,,no_eligible_route
+20967,Garfield North,22381,Strathmore Heights,,no_eligible_route
+20979,Gembrook,22381,Strathmore Heights,,no_eligible_route
+20995,Gilderoy,22381,Strathmore Heights,,no_eligible_route
+21001,Gisborne,22381,Strathmore Heights,,no_eligible_route
+21002,Gisborne South,22381,Strathmore Heights,,no_eligible_route
+21004,Gladstone Park,22381,Strathmore Heights,35.75,ok
+21005,Gladysdale,22381,Strathmore Heights,,no_eligible_route
+21009,Glen Huntly,22381,Strathmore Heights,84.32,ok
+21010,Glen Iris (Vic.),22381,Strathmore Heights,90.85,ok
+21013,Glen Waverley,22381,Strathmore Heights,97.77,ok
+21047,Glenroy (Vic.),22381,Strathmore Heights,44.63,ok
+21059,Goldie,22381,Strathmore Heights,,no_eligible_route
+21079,Gowanbrae,22381,Strathmore Heights,25.13,ok
+21087,Grangefields,22381,Strathmore Heights,141.15,ok
+21104,Greensborough,22381,Strathmore Heights,85.83,ok
+21105,Greenvale (Vic.),22381,Strathmore Heights,72.78,ok
+21115,Gruyere,22381,Strathmore Heights,,no_eligible_route
+21121,Guys Hill,22381,Strathmore Heights,,no_eligible_route
+21124,Hadfield,22381,Strathmore Heights,54.03,ok
+21125,Hallam,22381,Strathmore Heights,131.37,ok
+21131,Hampton (Vic.),22381,Strathmore Heights,90.98,ok
+21132,Hampton East,22381,Strathmore Heights,99.55,ok
+21133,Hampton Park,22381,Strathmore Heights,133.78,ok
+21139,Harkaway,22381,Strathmore Heights,,no_eligible_route
+21140,Harkness,22381,Strathmore Heights,183.17,ok
+21145,Hastings (Vic.),22381,Strathmore Heights,170.87,ok
+21152,Hawthorn (Vic.),22381,Strathmore Heights,77.05,ok
+21153,Hawthorn East,22381,Strathmore Heights,80.63,ok
+21158,Healesville,22381,Strathmore Heights,194.02,ok
+21159,Heath Hill,22381,Strathmore Heights,,no_eligible_route
+21161,Heathcote Junction,22381,Strathmore Heights,,no_eligible_route
+21163,Heatherton,22381,Strathmore Heights,113.83,ok
+21165,Heathmont,22381,Strathmore Heights,106.27,ok
+21167,Heidelberg,22381,Strathmore Heights,76.08,ok
+21168,Heidelberg Heights,22381,Strathmore Heights,73.93,ok
+21169,Heidelberg West,22381,Strathmore Heights,67.93,ok
+21176,Hesket,22381,Strathmore Heights,,no_eligible_route
+21185,Highett,22381,Strathmore Heights,92.32,ok
+21193,Hillside (Melton - Vic.),22381,Strathmore Heights,89.2,ok
+21195,Hmas Cerberus,22381,Strathmore Heights,,no_eligible_route
+21196,Hoddles Creek,22381,Strathmore Heights,,no_eligible_route
+21202,Hopetoun Park,22381,Strathmore Heights,,no_eligible_route
+21203,Hoppers Crossing,22381,Strathmore Heights,97.43,ok
+21214,Hughesdale,22381,Strathmore Heights,86.4,ok
+21215,Humevale,22381,Strathmore Heights,155.13,ok
+21218,Huntingdale (Vic.),22381,Strathmore Heights,91.83,ok
+21223,Hurstbridge,22381,Strathmore Heights,104.45,ok
+21238,Iona,22381,Strathmore Heights,,no_eligible_route
+21246,Ivanhoe (Vic.),22381,Strathmore Heights,71.57,ok
+21247,Ivanhoe East,22381,Strathmore Heights,84.43,ok
+21248,Jacana,22381,Strathmore Heights,40.28,ok
+21277,Junction Village,22381,Strathmore Heights,168.45,ok
+21284,Kalkallo,22381,Strathmore Heights,96.48,ok
+21286,Kallista,22381,Strathmore Heights,167.8,ok
+21287,Kalorama,22381,Strathmore Heights,134.07,ok
+21294,Kangaroo Ground,22381,Strathmore Heights,148.05,ok
+21312,Kealba,22381,Strathmore Heights,76.22,ok
+21314,Keilor,22381,Strathmore Heights,64.53,ok
+21315,Keilor Downs,22381,Strathmore Heights,72.58,ok
+21316,Keilor East,22381,Strathmore Heights,47.23,ok
+21317,Keilor Lodge,22381,Strathmore Heights,66.22,ok
+21318,Keilor North,22381,Strathmore Heights,55.65,ok
+21319,Keilor Park,22381,Strathmore Heights,47.32,ok
+21327,Kensington (Vic.),22381,Strathmore Heights,39.92,ok
+21333,Kerrie,22381,Strathmore Heights,,no_eligible_route
+21336,Kew (Vic.),22381,Strathmore Heights,82.17,ok
+21337,Kew East,22381,Strathmore Heights,91.32,ok
+21339,Keysborough,22381,Strathmore Heights,115.2,ok
+21354,Kilsyth,22381,Strathmore Heights,123.45,ok
+21355,Kilsyth South,22381,Strathmore Heights,138.53,ok
+21358,Kinglake,22381,Strathmore Heights,204.07,ok
+21359,Kinglake Central,22381,Strathmore Heights,,no_eligible_route
+21360,Kinglake West,22381,Strathmore Heights,158.1,ok
+21362,Kings Park (Vic.),22381,Strathmore Heights,95.57,ok
+21363,Kingsbury,22381,Strathmore Heights,78.37,ok
+21365,Kingsville,22381,Strathmore Heights,70.75,ok
+21374,Knoxfield,22381,Strathmore Heights,121.63,ok
+21380,Koo Wee Rup,22381,Strathmore Heights,,no_eligible_route
+21381,Koo Wee Rup North,22381,Strathmore Heights,,no_eligible_route
+21393,Kooyong,22381,Strathmore Heights,71.53,ok
+21411,Kurunjang,22381,Strathmore Heights,160.37,ok
+21452,Lalor,22381,Strathmore Heights,77.23,ok
+21456,Lancefield,22381,Strathmore Heights,,no_eligible_route
+21459,Lang Lang,22381,Strathmore Heights,,no_eligible_route
+21460,Lang Lang East,22381,Strathmore Heights,,no_eligible_route
+21467,Langwarrin,22381,Strathmore Heights,150.75,ok
+21468,Langwarrin South,22381,Strathmore Heights,,no_eligible_route
+21473,Launching Place,22381,Strathmore Heights,148.75,ok
+21476,Laverton (Vic.),22381,Strathmore Heights,80.2,ok
+21477,Laverton North,22381,Strathmore Heights,107.62,ok
+21504,Lilydale (Vic.),22381,Strathmore Heights,128.4,ok
+21533,Long Forest,22381,Strathmore Heights,,no_eligible_route
+21547,Lower Plenty,22381,Strathmore Heights,121.08,ok
+21554,Lynbrook,22381,Strathmore Heights,118.62,ok
+21555,Lyndhurst (Vic.),22381,Strathmore Heights,162.2,ok
+21558,Lysterfield,22381,Strathmore Heights,,no_eligible_route
+21559,Lysterfield South,22381,Strathmore Heights,180.23,ok
+21561,Macclesfield (Vic.),22381,Strathmore Heights,,no_eligible_route
+21562,Macedon,22381,Strathmore Heights,,no_eligible_route
+21564,Macleod (Vic.),22381,Strathmore Heights,92.37,ok
+21569,Maddingley,22381,Strathmore Heights,,no_eligible_route
+21575,Maidstone,22381,Strathmore Heights,60.95,ok
+21578,Main Ridge,22381,Strathmore Heights,,no_eligible_route
+21586,Malvern (Vic.),22381,Strathmore Heights,81.77,ok
+21587,Malvern East,22381,Strathmore Heights,84.13,ok
+21588,Mambourin,22381,Strathmore Heights,,no_eligible_route
+21597,Manor Lakes,22381,Strathmore Heights,136.57,ok
+21604,Maribyrnong,22381,Strathmore Heights,55.48,ok
+21619,Maryknoll,22381,Strathmore Heights,,no_eligible_route
+21625,McCrae,22381,Strathmore Heights,208.85,ok
+21629,McKinnon,22381,Strathmore Heights,81.62,ok
+21635,Meadow Heights,22381,Strathmore Heights,57.65,ok
+21640,Melbourne,22381,Strathmore Heights,55.12,ok
+21641,Melbourne Airport,22381,Strathmore Heights,124.68,walk_only
+21642,Melton (Vic.),22381,Strathmore Heights,159.45,ok
+21643,Melton South,22381,Strathmore Heights,173.05,ok
+21644,Melton West,22381,Strathmore Heights,156.55,ok
+21648,Mentone,22381,Strathmore Heights,97.3,ok
+21649,Menzies Creek,22381,Strathmore Heights,,no_eligible_route
+21659,Mernda,22381,Strathmore Heights,99.47,ok
+21662,Merricks,22381,Strathmore Heights,,no_eligible_route
+21663,Merricks Beach,22381,Strathmore Heights,,no_eligible_route
+21664,Merricks North,22381,Strathmore Heights,,no_eligible_route
+21668,Merrimu,22381,Strathmore Heights,,no_eligible_route
+21675,Mickleham,22381,Strathmore Heights,94.68,ok
+21677,Middle Park (Vic.),22381,Strathmore Heights,70.45,ok
+21683,Mill Park,22381,Strathmore Heights,96.73,ok
+21685,Millgrove,22381,Strathmore Heights,,no_eligible_route
+21706,Mitcham (Vic.),22381,Strathmore Heights,100.9,ok
+21727,Monbulk,22381,Strathmore Heights,175.25,ok
+21728,Monegeetta,22381,Strathmore Heights,,no_eligible_route
+21731,Monomeith,22381,Strathmore Heights,,no_eligible_route
+21732,Mont Albert,22381,Strathmore Heights,88.07,ok
+21733,Mont Albert North,22381,Strathmore Heights,93.85,ok
+21735,Montmorency,22381,Strathmore Heights,95.57,ok
+21736,Montrose (Vic.),22381,Strathmore Heights,126.37,ok
+21742,Moonee Ponds,22381,Strathmore Heights,27.88,ok
+21746,Moorabbin,22381,Strathmore Heights,108.87,ok
+21747,Moorabbin Airport,22381,Strathmore Heights,120.8,ok
+21754,Moorooduc,22381,Strathmore Heights,,no_eligible_route
+21755,Mooroolbark,22381,Strathmore Heights,116.3,ok
+21760,Mordialloc,22381,Strathmore Heights,112.6,ok
+21763,Mornington (Vic.),22381,Strathmore Heights,179.65,ok
+21779,Mount Burnett,22381,Strathmore Heights,,no_eligible_route
+21786,Mount Cottrell,22381,Strathmore Heights,,no_eligible_route
+21787,Mount Dandenong,22381,Strathmore Heights,138.07,ok
+21793,Mount Eliza,22381,Strathmore Heights,150.83,ok
+21795,Mount Evelyn,22381,Strathmore Heights,142.23,ok
+21801,Mount Macedon,22381,Strathmore Heights,,no_eligible_route
+21803,Mount Martha,22381,Strathmore Heights,177.37,ok
+21814,Mount Toolebewong,22381,Strathmore Heights,,no_eligible_route
+21816,Mount Waverley,22381,Strathmore Heights,89.2,ok
+21827,Mulgrave (Vic.),22381,Strathmore Heights,122.65,ok
+21849,Murrumbeena,22381,Strathmore Heights,86.52,ok
+21872,Nangana,22381,Strathmore Heights,,no_eligible_route
+21878,Nar Nar Goon,22381,Strathmore Heights,,no_eligible_route
+21879,Nar Nar Goon North,22381,Strathmore Heights,,no_eligible_route
+21893,Narre Warren,22381,Strathmore Heights,131.8,ok
+21894,Narre Warren East,22381,Strathmore Heights,,no_eligible_route
+21895,Narre Warren North,22381,Strathmore Heights,148.62,ok
+21896,Narre Warren South,22381,Strathmore Heights,133.17,ok
+21921,New Gisborne,22381,Strathmore Heights,,no_eligible_route
+21934,Newport (Vic.),22381,Strathmore Heights,63.95,ok
+21942,Niddrie,22381,Strathmore Heights,29.35,ok
+21952,Noble Park,22381,Strathmore Heights,98.62,ok
+21953,Noble Park North,22381,Strathmore Heights,127.28,ok
+21966,North Melbourne,22381,Strathmore Heights,49.52,ok
+21969,North Warrandyte,22381,Strathmore Heights,121.03,ok
+21971,Northcote,22381,Strathmore Heights,67.15,ok
+21974,Notting Hill,22381,Strathmore Heights,101.75,ok
+21985,Nunawading,22381,Strathmore Heights,93.38,ok
+21991,Nutfield,22381,Strathmore Heights,,no_eligible_route
+21998,Oak Park,22381,Strathmore Heights,27.78,walk_only
+21999,Oaklands Junction,22381,Strathmore Heights,226.67,walk_only
+22000,Oakleigh,22381,Strathmore Heights,85.58,ok
+22001,Oakleigh East,22381,Strathmore Heights,95.4,ok
+22002,Oakleigh South,22381,Strathmore Heights,98.22,ok
+22006,Officer,22381,Strathmore Heights,145.9,ok
+22007,Officer South,22381,Strathmore Heights,188.37,ok
+22009,Olinda (Vic.),22381,Strathmore Heights,162.72,ok
+22016,Ormond,22381,Strathmore Heights,82.05,ok
+22027,Pakenham,22381,Strathmore Heights,144.95,ok
+22028,Pakenham South,22381,Strathmore Heights,,no_eligible_route
+22029,Pakenham Upper,22381,Strathmore Heights,,no_eligible_route
+22032,Panton Hill,22381,Strathmore Heights,,no_eligible_route
+22036,Park Orchards,22381,Strathmore Heights,110.97,ok
+22037,Parkdale,22381,Strathmore Heights,102.38,ok
+22038,Parkville (Vic.),22381,Strathmore Heights,51.37,ok
+22041,Pascoe Vale,22381,Strathmore Heights,36.88,ok
+22042,Pascoe Vale South,22381,Strathmore Heights,36.93,ok
+22047,Patterson Lakes,22381,Strathmore Heights,124.68,ok
+22050,Pearcedale,22381,Strathmore Heights,183.67,ok
+22058,Pentland Hills,22381,Strathmore Heights,,no_eligible_route
+22064,Pheasant Creek (Vic.),22381,Strathmore Heights,173.75,ok
+22084,Plenty (Vic.),22381,Strathmore Heights,116.4,ok
+22085,Plumpton (Vic.),22381,Strathmore Heights,,no_eligible_route
+22086,Point Cook,22381,Strathmore Heights,96.43,ok
+22087,Point Leo,22381,Strathmore Heights,,no_eligible_route
+22107,Port Melbourne,22381,Strathmore Heights,65.95,ok
+22113,Portsea,22381,Strathmore Heights,,no_eligible_route
+22115,Powelltown,22381,Strathmore Heights,,no_eligible_route
+22118,Prahran,22381,Strathmore Heights,73.12,ok
+22121,Preston (Vic.),22381,Strathmore Heights,58.37,ok
+22122,Princes Hill,22381,Strathmore Heights,57.88,ok
+22132,Quandong,22381,Strathmore Heights,,no_eligible_route
+22141,Ravenhall,22381,Strathmore Heights,114.23,ok
+22148,Red Hill (Vic.),22381,Strathmore Heights,,no_eligible_route
+22149,Red Hill South,22381,Strathmore Heights,,no_eligible_route
+22160,Research,22381,Strathmore Heights,114.9,ok
+22161,Reservoir (Vic.),22381,Strathmore Heights,74.88,ok
+22170,Richmond (Vic.),22381,Strathmore Heights,66.55,ok
+22172,Riddells Creek,22381,Strathmore Heights,,no_eligible_route
+22174,Ringwood (Vic.),22381,Strathmore Heights,107.53,ok
+22175,Ringwood East,22381,Strathmore Heights,106.08,ok
+22176,Ringwood North,22381,Strathmore Heights,116.82,ok
+22179,Ripponlea,22381,Strathmore Heights,69.02,ok
+22185,Rochford,22381,Strathmore Heights,,no_eligible_route
+22186,Rockbank,22381,Strathmore Heights,121.42,ok
+22193,Romsey,22381,Strathmore Heights,,no_eligible_route
+22194,Rosanna,22381,Strathmore Heights,85.88,ok
+22198,Rosebud,22381,Strathmore Heights,226.17,ok
+22207,Rowville,22381,Strathmore Heights,130.87,ok
+22208,Roxburgh Park,22381,Strathmore Heights,60.95,ok
+22220,Rye,22381,Strathmore Heights,238.37,ok
+22221,Rythdale,22381,Strathmore Heights,,no_eligible_route
+22222,Safety Beach (Vic.),22381,Strathmore Heights,193.33,ok
+22232,Sandhurst,22381,Strathmore Heights,153.02,ok
+22234,Sandringham (Vic.),22381,Strathmore Heights,95.87,ok
+22239,Sassafras (Vic.),22381,Strathmore Heights,147.13,ok
+22242,Scoresby,22381,Strathmore Heights,117.38,ok
+22247,Seabrook,22381,Strathmore Heights,96.6,ok
+22249,Seaford (Vic.),22381,Strathmore Heights,127.92,ok
+22250,Seaholme,22381,Strathmore Heights,73.28,ok
+22256,Seddon (Vic.),22381,Strathmore Heights,57.2,ok
+22258,Selby,22381,Strathmore Heights,161.68,ok
+22263,Seville,22381,Strathmore Heights,159.92,ok
+22264,Seville East,22381,Strathmore Heights,146.8,ok
+22278,Sherbrooke,22381,Strathmore Heights,157.87,ok
+22279,Shoreham,22381,Strathmore Heights,,no_eligible_route
+22281,Silvan,22381,Strathmore Heights,167.35,ok
+22291,Skye (Vic.),22381,Strathmore Heights,159.6,ok
+22295,Smiths Gully,22381,Strathmore Heights,,no_eligible_route
+22303,Somers,22381,Strathmore Heights,,no_eligible_route
+22304,Somerton (Vic.),22381,Strathmore Heights,68.85,ok
+22305,Somerville (Vic.),22381,Strathmore Heights,175.92,ok
+22306,Sorrento (Vic.),22381,Strathmore Heights,229.13,ok
+22309,South Kingsville,22381,Strathmore Heights,76.2,ok
+22310,South Melbourne,22381,Strathmore Heights,63.27,ok
+22311,South Morang,22381,Strathmore Heights,105.93,ok
+22313,South Wharf,22381,Strathmore Heights,59.05,ok
+22314,South Yarra,22381,Strathmore Heights,59.78,ok
+22315,Southbank,22381,Strathmore Heights,62.57,ok
+22319,Spotswood,22381,Strathmore Heights,57.35,ok
+22325,Springfield (Macedon Ranges - Vic.),22381,Strathmore Heights,,no_eligible_route
+22328,Springvale (Vic.),22381,Strathmore Heights,99.58,ok
+22329,Springvale South,22381,Strathmore Heights,101.32,ok
+22330,St Albans (Vic.),22381,Strathmore Heights,78.3,ok
+22332,St Andrews (Vic.),22381,Strathmore Heights,,no_eligible_route
+22333,St Andrews Beach,22381,Strathmore Heights,,no_eligible_route
+22339,St Helena,22381,Strathmore Heights,91.65,ok
+22343,St Kilda (Vic.),22381,Strathmore Heights,76.5,ok
+22344,St Kilda East,22381,Strathmore Heights,80.2,ok
+22345,St Kilda West,22381,Strathmore Heights,71.33,ok
+22355,Steels Creek,22381,Strathmore Heights,,no_eligible_route
+22375,Strathewen,22381,Strathmore Heights,,no_eligible_route
+22380,Strathmore (Vic.),22381,Strathmore Heights,13.85,ok
+22381,Strathmore Heights,22381,Strathmore Heights,0.0,same_centroid
+22382,Strathtulloh,22381,Strathmore Heights,,no_eligible_route
+22391,Sunbury,22381,Strathmore Heights,,no_eligible_route
+22395,Sunshine (Vic.),22381,Strathmore Heights,70.38,ok
+22396,Sunshine North,22381,Strathmore Heights,68.35,ok
+22397,Sunshine West,22381,Strathmore Heights,95.27,ok
+22399,Surrey Hills,22381,Strathmore Heights,88.48,ok
+22414,Sydenham (Vic.),22381,Strathmore Heights,82.15,ok
+22451,Tarneit,22381,Strathmore Heights,115.5,ok
+22457,Tarrawarra,22381,Strathmore Heights,169.62,ok
+22473,Taylors Hill,22381,Strathmore Heights,87.88,ok
+22474,Taylors Lakes,22381,Strathmore Heights,61.9,ok
+22476,Tecoma,22381,Strathmore Heights,126.08,ok
+22483,Templestowe,22381,Strathmore Heights,98.37,ok
+22484,Templestowe Lower,22381,Strathmore Heights,93.33,ok
+22496,The Basin (Vic.),22381,Strathmore Heights,138.27,ok
+22501,The Patch,22381,Strathmore Heights,165.82,ok
+22504,Thomastown,22381,Strathmore Heights,84.52,ok
+22508,Thornbury,22381,Strathmore Heights,59.87,ok
+22509,Thornhill Park,22381,Strathmore Heights,,no_eligible_route
+22514,Three Bridges,22381,Strathmore Heights,,no_eligible_route
+22531,Tonimbuk,22381,Strathmore Heights,,no_eligible_route
+22536,Toolangi,22381,Strathmore Heights,,no_eligible_route
+22537,Toolern Vale,22381,Strathmore Heights,,no_eligible_route
+22546,Tooradin,22381,Strathmore Heights,,no_eligible_route
+22547,Toorak,22381,Strathmore Heights,78.17,ok
+22550,Tootgarook,22381,Strathmore Heights,221.78,ok
+22556,Tottenham (Vic.),22381,Strathmore Heights,94.45,ok
+22572,Travancore,22381,Strathmore Heights,40.32,ok
+22576,Tremont,22381,Strathmore Heights,143.27,ok
+22582,Truganina,22381,Strathmore Heights,175.65,ok
+22584,Tuerong,22381,Strathmore Heights,,no_eligible_route
+22586,Tullamarine,22381,Strathmore Heights,30.8,ok
+22594,Tyabb,22381,Strathmore Heights,164.78,ok
+22598,Tynong,22381,Strathmore Heights,,no_eligible_route
+22599,Tynong North,22381,Strathmore Heights,,no_eligible_route
+22614,Upper Ferntree Gully,22381,Strathmore Heights,123.23,ok
+22617,Upper Plenty,22381,Strathmore Heights,,no_eligible_route
+22620,Upwey,22381,Strathmore Heights,125.95,ok
+22627,Vermont,22381,Strathmore Heights,110.2,ok
+22628,Vermont South,22381,Strathmore Heights,118.45,ok
+22629,Vervale,22381,Strathmore Heights,,no_eligible_route
+22633,Viewbank,22381,Strathmore Heights,89.83,ok
+22661,Wallan,22381,Strathmore Heights,,no_eligible_route
+22672,Wandin East,22381,Strathmore Heights,,no_eligible_route
+22673,Wandin North,22381,Strathmore Heights,132.88,ok
+22676,Wandong,22381,Strathmore Heights,,no_eligible_route
+22685,Wantirna,22381,Strathmore Heights,123.13,ok
+22686,Wantirna South,22381,Strathmore Heights,123.93,ok
+22689,Warburton (Vic.),22381,Strathmore Heights,,no_eligible_route
+22695,Warneet,22381,Strathmore Heights,,no_eligible_route
+22702,Warrandyte,22381,Strathmore Heights,111.05,ok
+22703,Warrandyte South,22381,Strathmore Heights,148.12,ok
+22704,Warranwood,22381,Strathmore Heights,125.78,ok
+22717,Waterford Park,22381,Strathmore Heights,,no_eligible_route
+22720,Waterways,22381,Strathmore Heights,125.75,ok
+22721,Watsonia,22381,Strathmore Heights,87.28,ok
+22722,Watsonia North,22381,Strathmore Heights,85.2,ok
+22723,Watsons Creek (Vic.),22381,Strathmore Heights,,no_eligible_route
+22727,Wattle Glen,22381,Strathmore Heights,117.57,ok
+22740,Weir Views,22381,Strathmore Heights,211.38,ok
+22750,Werribee,22381,Strathmore Heights,94.13,ok
+22751,Werribee South,22381,Strathmore Heights,129.25,ok
+22753,Wesburn,22381,Strathmore Heights,164.85,ok
+22756,West Footscray,22381,Strathmore Heights,74.62,ok
+22757,West Melbourne,22381,Strathmore Heights,67.92,ok
+22761,Westmeadows,22381,Strathmore Heights,39.67,ok
+22766,Wheelers Hill,22381,Strathmore Heights,107.82,ok
+22775,Whittlesea,22381,Strathmore Heights,,no_eligible_route
+22784,Wildwood,22381,Strathmore Heights,,no_eligible_route
+22791,Williams Landing,22381,Strathmore Heights,94.45,ok
+22792,Williamstown (Vic.),22381,Strathmore Heights,66.17,ok
+22793,Williamstown North,22381,Strathmore Heights,84.65,ok
+22805,Windsor (Vic.),22381,Strathmore Heights,66.28,ok
+22820,Wollert,22381,Strathmore Heights,81.22,ok
+22825,Wonga Park,22381,Strathmore Heights,134.63,ok
+22843,Woodstock (Vic.),22381,Strathmore Heights,,no_eligible_route
+22857,Woori Yallock,22381,Strathmore Heights,144.0,ok
+22883,Wyndham Vale,22381,Strathmore Heights,122.05,ok
+22892,Yallambie,22381,Strathmore Heights,103.57,ok
+22898,Yan Yean,22381,Strathmore Heights,139.48,ok
+22906,Yannathan,22381,Strathmore Heights,,no_eligible_route
+22910,Yarra Glen,22381,Strathmore Heights,166.92,ok
+22911,Yarra Junction,22381,Strathmore Heights,169.12,ok
+22916,Yarrambat,22381,Strathmore Heights,106.97,ok
+22917,Yarraville,22381,Strathmore Heights,63.1,ok
+22925,Yellingbo,22381,Strathmore Heights,,no_eligible_route
+22930,Yering,22381,Strathmore Heights,,no_eligible_route
+22941,Yuroke,22381,Strathmore Heights,121.1,ok

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21555,Lyndhurst (Vic.),130.88,ok
+20003,Aberfeldie,21555,Lyndhurst (Vic.),153.38,ok
+20011,Aintree,21555,Lyndhurst (Vic.),189.17,ok
+20015,Airport West,21555,Lyndhurst (Vic.),163.53,ok
+20017,Albanvale,21555,Lyndhurst (Vic.),156.63,ok
+20018,Albert Park (Vic.),21555,Lyndhurst (Vic.),126.23,ok
+20021,Albion (Vic.),21555,Lyndhurst (Vic.),133.03,ok
+20034,Alphington,21555,Lyndhurst (Vic.),135.05,ok
+20035,Altona (Vic.),21555,Lyndhurst (Vic.),154.13,ok
+20036,Altona Meadows,21555,Lyndhurst (Vic.),164.28,ok
+20037,Altona North,21555,Lyndhurst (Vic.),173.2,ok
+20062,Ardeer,21555,Lyndhurst (Vic.),151.27,ok
+20066,Armadale (Vic.),21555,Lyndhurst (Vic.),102.27,ok
+20071,Arthurs Creek,21555,Lyndhurst (Vic.),,no_eligible_route
+20072,Arthurs Seat,21555,Lyndhurst (Vic.),,no_eligible_route
+20075,Ascot Vale,21555,Lyndhurst (Vic.),132.27,ok
+20077,Ashburton,21555,Lyndhurst (Vic.),123.02,ok
+20078,Ashwood,21555,Lyndhurst (Vic.),114.75,ok
+20079,Aspendale,21555,Lyndhurst (Vic.),122.22,ok
+20080,Aspendale Gardens,21555,Lyndhurst (Vic.),117.53,ok
+20082,Attwood,21555,Lyndhurst (Vic.),185.55,ok
+20089,Avondale Heights,21555,Lyndhurst (Vic.),166.57,ok
+20091,Avonsleigh,21555,Lyndhurst (Vic.),,no_eligible_route
+20095,Bacchus Marsh,21555,Lyndhurst (Vic.),,no_eligible_route
+20097,Badger Creek,21555,Lyndhurst (Vic.),,no_eligible_route
+20105,Balaclava (Vic.),21555,Lyndhurst (Vic.),112.82,ok
+20120,Balnarring,21555,Lyndhurst (Vic.),,no_eligible_route
+20121,Balnarring Beach,21555,Lyndhurst (Vic.),,no_eligible_route
+20123,Balwyn,21555,Lyndhurst (Vic.),142.07,ok
+20124,Balwyn North,21555,Lyndhurst (Vic.),156.78,ok
+20131,Bangholme,21555,Lyndhurst (Vic.),135.23,ok
+20169,Baxter,21555,Lyndhurst (Vic.),133.38,ok
+20171,Bayles,21555,Lyndhurst (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),21555,Lyndhurst (Vic.),138.33,ok
+20174,Bayswater North,21555,Lyndhurst (Vic.),164.1,ok
+20175,Beaconsfield (Vic.),21555,Lyndhurst (Vic.),115.23,ok
+20176,Beaconsfield Upper,21555,Lyndhurst (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),21555,Lyndhurst (Vic.),130.27,ok
+20187,Beenak,21555,Lyndhurst (Vic.),,no_eligible_route
+20188,Belgrave,21555,Lyndhurst (Vic.),149.62,ok
+20189,Belgrave Heights,21555,Lyndhurst (Vic.),181.28,ok
+20190,Belgrave South,21555,Lyndhurst (Vic.),,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21555,Lyndhurst (Vic.),162.8,ok
+20207,Bend Of Islands,21555,Lyndhurst (Vic.),,no_eligible_route
+20212,Benloch,21555,Lyndhurst (Vic.),,no_eligible_route
+20214,Bentleigh,21555,Lyndhurst (Vic.),105.42,ok
+20215,Bentleigh East,21555,Lyndhurst (Vic.),92.47,ok
+20224,Berwick,21555,Lyndhurst (Vic.),88.28,ok
+20233,Beveridge,21555,Lyndhurst (Vic.),,no_eligible_route
+20237,Big Pats Creek,21555,Lyndhurst (Vic.),,no_eligible_route
+20248,Bittern,21555,Lyndhurst (Vic.),151.37,ok
+20251,Black Rock (Vic.),21555,Lyndhurst (Vic.),142.22,ok
+20252,Blackburn,21555,Lyndhurst (Vic.),122.23,ok
+20253,Blackburn North,21555,Lyndhurst (Vic.),137.53,ok
+20254,Blackburn South,21555,Lyndhurst (Vic.),127.43,ok
+20257,Blairgowrie,21555,Lyndhurst (Vic.),212.33,ok
+20260,Blind Bight,21555,Lyndhurst (Vic.),,no_eligible_route
+20272,Bolinda,21555,Lyndhurst (Vic.),,no_eligible_route
+20278,Bonbeach,21555,Lyndhurst (Vic.),118.65,ok
+20280,Boneo,21555,Lyndhurst (Vic.),,no_eligible_route
+20282,Bonnie Brook,21555,Lyndhurst (Vic.),221.72,ok
+20304,Boronia,21555,Lyndhurst (Vic.),139.1,ok
+20307,Botanic Ridge,21555,Lyndhurst (Vic.),98.15,ok
+20314,Box Hill (Vic.),21555,Lyndhurst (Vic.),119.75,ok
+20315,Box Hill North,21555,Lyndhurst (Vic.),129.73,ok
+20316,Box Hill South,21555,Lyndhurst (Vic.),116.62,ok
+20320,Braeside,21555,Lyndhurst (Vic.),127.35,ok
+20324,Braybrook,21555,Lyndhurst (Vic.),147.43,ok
+20331,Briar Hill,21555,Lyndhurst (Vic.),165.63,ok
+20337,Brighton (Vic.),21555,Lyndhurst (Vic.),118.95,ok
+20338,Brighton East,21555,Lyndhurst (Vic.),108.1,ok
+20346,Broadmeadows (Vic.),21555,Lyndhurst (Vic.),155.88,ok
+20351,Brookfield (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+20352,Brooklyn (Vic.),21555,Lyndhurst (Vic.),155.6,ok
+20361,Brunswick (Vic.),21555,Lyndhurst (Vic.),130.98,ok
+20362,Brunswick East,21555,Lyndhurst (Vic.),140.65,ok
+20363,Brunswick West,21555,Lyndhurst (Vic.),139.17,ok
+20381,Bulla (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+20386,Bulleen,21555,Lyndhurst (Vic.),150.88,ok
+20387,Bullengarook,21555,Lyndhurst (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),21555,Lyndhurst (Vic.),160.78,ok
+20411,Bunyip,21555,Lyndhurst (Vic.),,no_eligible_route
+20412,Bunyip North,21555,Lyndhurst (Vic.),,no_eligible_route
+20418,Burnley,21555,Lyndhurst (Vic.),129.28,ok
+20419,Burnside (Vic.),21555,Lyndhurst (Vic.),182.45,ok
+20420,Burnside Heights,21555,Lyndhurst (Vic.),179.68,ok
+20426,Burwood (Vic.),21555,Lyndhurst (Vic.),115.68,ok
+20427,Burwood East,21555,Lyndhurst (Vic.),112.62,ok
+20435,Bylands,21555,Lyndhurst (Vic.),,no_eligible_route
+20441,Cairnlea,21555,Lyndhurst (Vic.),155.68,ok
+20442,Calder Park,21555,Lyndhurst (Vic.),173.82,ok
+20443,Caldermeade,21555,Lyndhurst (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),21555,Lyndhurst (Vic.),132.4,ok
+20455,Campbellfield,21555,Lyndhurst (Vic.),164.53,ok
+20466,Cannons Creek,21555,Lyndhurst (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),21555,Lyndhurst (Vic.),134.3,ok
+20474,Cape Schanck,21555,Lyndhurst (Vic.),,no_eligible_route
+20476,Capel Sound,21555,Lyndhurst (Vic.),197.68,ok
+20487,Cardinia,21555,Lyndhurst (Vic.),,no_eligible_route
+20495,Carlton (Vic.),21555,Lyndhurst (Vic.),116.25,ok
+20496,Carlton North,21555,Lyndhurst (Vic.),134.05,ok
+20498,Carnegie,21555,Lyndhurst (Vic.),95.58,ok
+20500,Caroline Springs,21555,Lyndhurst (Vic.),176.95,ok
+20507,Carrum,21555,Lyndhurst (Vic.),122.88,ok
+20508,Carrum Downs,21555,Lyndhurst (Vic.),93.58,ok
+20512,Castella,21555,Lyndhurst (Vic.),,no_eligible_route
+20517,Catani,21555,Lyndhurst (Vic.),,no_eligible_route
+20521,Caulfield,21555,Lyndhurst (Vic.),111.17,ok
+20522,Caulfield East,21555,Lyndhurst (Vic.),93.25,ok
+20523,Caulfield North,21555,Lyndhurst (Vic.),103.27,ok
+20524,Caulfield South,21555,Lyndhurst (Vic.),118.05,ok
+20528,Chadstone,21555,Lyndhurst (Vic.),103.37,ok
+20537,Chelsea,21555,Lyndhurst (Vic.),111.65,ok
+20538,Chelsea Heights,21555,Lyndhurst (Vic.),119.58,ok
+20539,Cheltenham (Vic.),21555,Lyndhurst (Vic.),106.08,ok
+20541,Cherokee,21555,Lyndhurst (Vic.),,no_eligible_route
+20555,Chintin,21555,Lyndhurst (Vic.),,no_eligible_route
+20556,Chirnside Park,21555,Lyndhurst (Vic.),185.85,ok
+20559,Christmas Hills (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+20560,Chum Creek,21555,Lyndhurst (Vic.),,no_eligible_route
+20566,Clarinda,21555,Lyndhurst (Vic.),100.45,ok
+20567,Clarkefield,21555,Lyndhurst (Vic.),,no_eligible_route
+20569,Clayton,21555,Lyndhurst (Vic.),92.93,ok
+20570,Clayton South,21555,Lyndhurst (Vic.),101.32,ok
+20572,Clematis,21555,Lyndhurst (Vic.),,no_eligible_route
+20574,Clifton Hill,21555,Lyndhurst (Vic.),129.13,ok
+20576,Clonbinane,21555,Lyndhurst (Vic.),,no_eligible_route
+20581,Clyde (Vic.),21555,Lyndhurst (Vic.),221.35,walk_only
+20582,Clyde North,21555,Lyndhurst (Vic.),78.75,ok
+20587,Cobaw,21555,Lyndhurst (Vic.),,no_eligible_route
+20590,Cobblebank,21555,Lyndhurst (Vic.),,no_eligible_route
+20596,Coburg,21555,Lyndhurst (Vic.),140.28,ok
+20597,Coburg North,21555,Lyndhurst (Vic.),152.28,ok
+20600,Cockatoo (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+20601,Cocoroc,21555,Lyndhurst (Vic.),,no_eligible_route
+20605,Coimadai,21555,Lyndhurst (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),21555,Lyndhurst (Vic.),131.53,ok
+20624,Coolaroo,21555,Lyndhurst (Vic.),156.75,ok
+20633,Cora Lynn,21555,Lyndhurst (Vic.),,no_eligible_route
+20654,Cottles Bridge,21555,Lyndhurst (Vic.),,no_eligible_route
+20661,Craigieburn,21555,Lyndhurst (Vic.),185.92,ok
+20662,Cranbourne,21555,Lyndhurst (Vic.),61.15,ok
+20663,Cranbourne East,21555,Lyndhurst (Vic.),68.03,ok
+20664,Cranbourne North,21555,Lyndhurst (Vic.),74.48,ok
+20665,Cranbourne South,21555,Lyndhurst (Vic.),101.5,ok
+20666,Cranbourne West,21555,Lyndhurst (Vic.),56.38,ok
+20670,Cremorne (Vic.),21555,Lyndhurst (Vic.),117.87,ok
+20674,Crib Point,21555,Lyndhurst (Vic.),160.33,ok
+20682,Croydon (Vic.),21555,Lyndhurst (Vic.),142.1,ok
+20683,Croydon Hills,21555,Lyndhurst (Vic.),160.95,ok
+20684,Croydon North,21555,Lyndhurst (Vic.),161.9,ok
+20685,Croydon South,21555,Lyndhurst (Vic.),157.13,ok
+20702,Dallas,21555,Lyndhurst (Vic.),163.18,ok
+20703,Dalmore,21555,Lyndhurst (Vic.),,no_eligible_route
+20707,Dandenong,21555,Lyndhurst (Vic.),63.65,ok
+20708,Dandenong North,21555,Lyndhurst (Vic.),83.02,ok
+20709,Dandenong South,21555,Lyndhurst (Vic.),67.47,ok
+20712,Darley,21555,Lyndhurst (Vic.),,no_eligible_route
+20716,Darraweit Guim,21555,Lyndhurst (Vic.),,no_eligible_route
+20724,Deanside,21555,Lyndhurst (Vic.),203.18,ok
+20728,Deepdene (Vic.),21555,Lyndhurst (Vic.),139.92,ok
+20729,Deer Park,21555,Lyndhurst (Vic.),171.93,ok
+20731,Delahey,21555,Lyndhurst (Vic.),167.58,ok
+20743,Derrimut,21555,Lyndhurst (Vic.),170.9,ok
+20748,Devon Meadows,21555,Lyndhurst (Vic.),,no_eligible_route
+20750,Dewhurst,21555,Lyndhurst (Vic.),,no_eligible_route
+20752,Diamond Creek,21555,Lyndhurst (Vic.),181.37,ok
+20754,Diggers Rest,21555,Lyndhurst (Vic.),175.45,ok
+20758,Dingley Village,21555,Lyndhurst (Vic.),93.42,ok
+20762,Dixons Creek,21555,Lyndhurst (Vic.),,no_eligible_route
+20766,Docklands,21555,Lyndhurst (Vic.),125.07,ok
+20769,Don Valley,21555,Lyndhurst (Vic.),,no_eligible_route
+20771,Doncaster,21555,Lyndhurst (Vic.),129.53,ok
+20772,Doncaster East,21555,Lyndhurst (Vic.),139.5,ok
+20773,Donnybrook (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+20774,Donvale,21555,Lyndhurst (Vic.),137.23,ok
+20779,Doreen,21555,Lyndhurst (Vic.),,no_eligible_route
+20783,Doveton,21555,Lyndhurst (Vic.),82.22,ok
+20788,Dromana,21555,Lyndhurst (Vic.),,no_eligible_route
+20825,Eaglemont,21555,Lyndhurst (Vic.),153.38,ok
+20830,East Melbourne,21555,Lyndhurst (Vic.),121.65,ok
+20833,East Warburton,21555,Lyndhurst (Vic.),,no_eligible_route
+20843,Eden Park,21555,Lyndhurst (Vic.),,no_eligible_route
+20848,Edithvale,21555,Lyndhurst (Vic.),102.13,ok
+20864,Elsternwick,21555,Lyndhurst (Vic.),123.27,ok
+20865,Eltham (Vic.),21555,Lyndhurst (Vic.),166.6,ok
+20866,Eltham North,21555,Lyndhurst (Vic.),183.18,ok
+20867,Elwood,21555,Lyndhurst (Vic.),135.02,ok
+20868,Emerald (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+20871,Endeavour Hills,21555,Lyndhurst (Vic.),95.32,ok
+20878,Epping (Vic.),21555,Lyndhurst (Vic.),189.62,ok
+20885,Essendon,21555,Lyndhurst (Vic.),138.18,ok
+20886,Essendon Fields,21555,Lyndhurst (Vic.),166.58,ok
+20887,Essendon North,21555,Lyndhurst (Vic.),147.58,ok
+20888,Essendon West,21555,Lyndhurst (Vic.),155.05,ok
+20889,Eumemmerring,21555,Lyndhurst (Vic.),83.38,ok
+20898,Exford,21555,Lyndhurst (Vic.),,no_eligible_route
+20899,Eynesbury,21555,Lyndhurst (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),21555,Lyndhurst (Vic.),141.37,ok
+20909,Fawkner,21555,Lyndhurst (Vic.),156.98,ok
+20916,Fernshaw,21555,Lyndhurst (Vic.),,no_eligible_route
+20917,Ferntree Gully,21555,Lyndhurst (Vic.),124.37,ok
+20918,Ferny Creek,21555,Lyndhurst (Vic.),180.9,ok
+20920,Fingal (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),21555,Lyndhurst (Vic.),126.67,ok
+20925,Fitzroy North,21555,Lyndhurst (Vic.),134.27,ok
+20929,Flemington,21555,Lyndhurst (Vic.),136.5,ok
+20930,Flinders (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+20935,Footscray,21555,Lyndhurst (Vic.),121.45,ok
+20937,Forest Hill (Vic.),21555,Lyndhurst (Vic.),111.93,ok
+20947,Frankston,21555,Lyndhurst (Vic.),85.68,ok
+20948,Frankston North,21555,Lyndhurst (Vic.),111.12,ok
+20949,Frankston South,21555,Lyndhurst (Vic.),144.75,ok
+20950,Fraser Rise,21555,Lyndhurst (Vic.),184.57,ok
+20965,Gardenvale,21555,Lyndhurst (Vic.),112.55,ok
+20966,Garfield,21555,Lyndhurst (Vic.),,no_eligible_route
+20967,Garfield North,21555,Lyndhurst (Vic.),,no_eligible_route
+20979,Gembrook,21555,Lyndhurst (Vic.),,no_eligible_route
+20995,Gilderoy,21555,Lyndhurst (Vic.),,no_eligible_route
+21001,Gisborne,21555,Lyndhurst (Vic.),,no_eligible_route
+21002,Gisborne South,21555,Lyndhurst (Vic.),,no_eligible_route
+21004,Gladstone Park,21555,Lyndhurst (Vic.),170.08,ok
+21005,Gladysdale,21555,Lyndhurst (Vic.),,no_eligible_route
+21009,Glen Huntly,21555,Lyndhurst (Vic.),105.85,ok
+21010,Glen Iris (Vic.),21555,Lyndhurst (Vic.),135.05,ok
+21013,Glen Waverley,21555,Lyndhurst (Vic.),101.53,ok
+21047,Glenroy (Vic.),21555,Lyndhurst (Vic.),150.73,ok
+21059,Goldie,21555,Lyndhurst (Vic.),,no_eligible_route
+21079,Gowanbrae,21555,Lyndhurst (Vic.),172.42,ok
+21087,Grangefields,21555,Lyndhurst (Vic.),226.17,ok
+21104,Greensborough,21555,Lyndhurst (Vic.),161.92,ok
+21105,Greenvale (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+21115,Gruyere,21555,Lyndhurst (Vic.),,no_eligible_route
+21121,Guys Hill,21555,Lyndhurst (Vic.),,no_eligible_route
+21124,Hadfield,21555,Lyndhurst (Vic.),159.02,ok
+21125,Hallam,21555,Lyndhurst (Vic.),75.32,ok
+21131,Hampton (Vic.),21555,Lyndhurst (Vic.),130.4,ok
+21132,Hampton East,21555,Lyndhurst (Vic.),121.08,ok
+21133,Hampton Park,21555,Lyndhurst (Vic.),62.28,ok
+21139,Harkaway,21555,Lyndhurst (Vic.),,no_eligible_route
+21140,Harkness,21555,Lyndhurst (Vic.),,no_eligible_route
+21145,Hastings (Vic.),21555,Lyndhurst (Vic.),152.9,ok
+21152,Hawthorn (Vic.),21555,Lyndhurst (Vic.),128.78,ok
+21153,Hawthorn East,21555,Lyndhurst (Vic.),133.17,ok
+21158,Healesville,21555,Lyndhurst (Vic.),,no_eligible_route
+21159,Heath Hill,21555,Lyndhurst (Vic.),,no_eligible_route
+21161,Heathcote Junction,21555,Lyndhurst (Vic.),,no_eligible_route
+21163,Heatherton,21555,Lyndhurst (Vic.),107.47,ok
+21165,Heathmont,21555,Lyndhurst (Vic.),133.77,ok
+21167,Heidelberg,21555,Lyndhurst (Vic.),153.45,ok
+21168,Heidelberg Heights,21555,Lyndhurst (Vic.),160.68,ok
+21169,Heidelberg West,21555,Lyndhurst (Vic.),163.72,ok
+21176,Hesket,21555,Lyndhurst (Vic.),,no_eligible_route
+21185,Highett,21555,Lyndhurst (Vic.),113.85,ok
+21193,Hillside (Melton - Vic.),21555,Lyndhurst (Vic.),169.12,ok
+21195,Hmas Cerberus,21555,Lyndhurst (Vic.),,no_eligible_route
+21196,Hoddles Creek,21555,Lyndhurst (Vic.),,no_eligible_route
+21202,Hopetoun Park,21555,Lyndhurst (Vic.),,no_eligible_route
+21203,Hoppers Crossing,21555,Lyndhurst (Vic.),172.97,ok
+21214,Hughesdale,21555,Lyndhurst (Vic.),86.5,ok
+21215,Humevale,21555,Lyndhurst (Vic.),,no_eligible_route
+21218,Huntingdale (Vic.),21555,Lyndhurst (Vic.),86.37,ok
+21223,Hurstbridge,21555,Lyndhurst (Vic.),181.92,ok
+21238,Iona,21555,Lyndhurst (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),21555,Lyndhurst (Vic.),139.65,ok
+21247,Ivanhoe East,21555,Lyndhurst (Vic.),159.32,ok
+21248,Jacana,21555,Lyndhurst (Vic.),155.3,ok
+21277,Junction Village,21555,Lyndhurst (Vic.),103.48,ok
+21284,Kalkallo,21555,Lyndhurst (Vic.),,no_eligible_route
+21286,Kallista,21555,Lyndhurst (Vic.),184.33,ok
+21287,Kalorama,21555,Lyndhurst (Vic.),176.15,ok
+21294,Kangaroo Ground,21555,Lyndhurst (Vic.),,no_eligible_route
+21312,Kealba,21555,Lyndhurst (Vic.),165.25,ok
+21314,Keilor,21555,Lyndhurst (Vic.),198.9,ok
+21315,Keilor Downs,21555,Lyndhurst (Vic.),160.38,ok
+21316,Keilor East,21555,Lyndhurst (Vic.),156.2,ok
+21317,Keilor Lodge,21555,Lyndhurst (Vic.),161.0,ok
+21318,Keilor North,21555,Lyndhurst (Vic.),167.07,ok
+21319,Keilor Park,21555,Lyndhurst (Vic.),,no_eligible_route
+21327,Kensington (Vic.),21555,Lyndhurst (Vic.),122.58,ok
+21333,Kerrie,21555,Lyndhurst (Vic.),,no_eligible_route
+21336,Kew (Vic.),21555,Lyndhurst (Vic.),141.82,ok
+21337,Kew East,21555,Lyndhurst (Vic.),149.85,ok
+21339,Keysborough,21555,Lyndhurst (Vic.),81.73,ok
+21354,Kilsyth,21555,Lyndhurst (Vic.),170.92,ok
+21355,Kilsyth South,21555,Lyndhurst (Vic.),,no_eligible_route
+21358,Kinglake,21555,Lyndhurst (Vic.),,no_eligible_route
+21359,Kinglake Central,21555,Lyndhurst (Vic.),,no_eligible_route
+21360,Kinglake West,21555,Lyndhurst (Vic.),,no_eligible_route
+21362,Kings Park (Vic.),21555,Lyndhurst (Vic.),162.3,ok
+21363,Kingsbury,21555,Lyndhurst (Vic.),161.0,ok
+21365,Kingsville,21555,Lyndhurst (Vic.),130.52,ok
+21374,Knoxfield,21555,Lyndhurst (Vic.),112.83,ok
+21380,Koo Wee Rup,21555,Lyndhurst (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,21555,Lyndhurst (Vic.),,no_eligible_route
+21393,Kooyong,21555,Lyndhurst (Vic.),127.57,ok
+21411,Kurunjang,21555,Lyndhurst (Vic.),,no_eligible_route
+21452,Lalor,21555,Lyndhurst (Vic.),163.33,ok
+21456,Lancefield,21555,Lyndhurst (Vic.),,no_eligible_route
+21459,Lang Lang,21555,Lyndhurst (Vic.),,no_eligible_route
+21460,Lang Lang East,21555,Lyndhurst (Vic.),,no_eligible_route
+21467,Langwarrin,21555,Lyndhurst (Vic.),83.87,ok
+21468,Langwarrin South,21555,Lyndhurst (Vic.),,no_eligible_route
+21473,Launching Place,21555,Lyndhurst (Vic.),,no_eligible_route
+21476,Laverton (Vic.),21555,Lyndhurst (Vic.),156.73,ok
+21477,Laverton North,21555,Lyndhurst (Vic.),196.77,ok
+21504,Lilydale (Vic.),21555,Lyndhurst (Vic.),179.33,ok
+21533,Long Forest,21555,Lyndhurst (Vic.),,no_eligible_route
+21547,Lower Plenty,21555,Lyndhurst (Vic.),177.28,ok
+21554,Lynbrook,21555,Lyndhurst (Vic.),52.03,ok
+21555,Lyndhurst (Vic.),21555,Lyndhurst (Vic.),0.0,same_centroid
+21558,Lysterfield,21555,Lyndhurst (Vic.),165.22,ok
+21559,Lysterfield South,21555,Lyndhurst (Vic.),133.87,ok
+21561,Macclesfield (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+21562,Macedon,21555,Lyndhurst (Vic.),,no_eligible_route
+21564,Macleod (Vic.),21555,Lyndhurst (Vic.),155.0,ok
+21569,Maddingley,21555,Lyndhurst (Vic.),,no_eligible_route
+21575,Maidstone,21555,Lyndhurst (Vic.),147.27,ok
+21578,Main Ridge,21555,Lyndhurst (Vic.),,no_eligible_route
+21586,Malvern (Vic.),21555,Lyndhurst (Vic.),108.25,ok
+21587,Malvern East,21555,Lyndhurst (Vic.),103.07,ok
+21588,Mambourin,21555,Lyndhurst (Vic.),,no_eligible_route
+21597,Manor Lakes,21555,Lyndhurst (Vic.),208.2,ok
+21604,Maribyrnong,21555,Lyndhurst (Vic.),145.78,ok
+21619,Maryknoll,21555,Lyndhurst (Vic.),,no_eligible_route
+21625,McCrae,21555,Lyndhurst (Vic.),,no_eligible_route
+21629,McKinnon,21555,Lyndhurst (Vic.),103.15,ok
+21635,Meadow Heights,21555,Lyndhurst (Vic.),168.18,ok
+21640,Melbourne,21555,Lyndhurst (Vic.),109.12,ok
+21641,Melbourne Airport,21555,Lyndhurst (Vic.),,no_eligible_route
+21642,Melton (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+21643,Melton South,21555,Lyndhurst (Vic.),,no_eligible_route
+21644,Melton West,21555,Lyndhurst (Vic.),,no_eligible_route
+21648,Mentone,21555,Lyndhurst (Vic.),99.5,ok
+21649,Menzies Creek,21555,Lyndhurst (Vic.),,no_eligible_route
+21659,Mernda,21555,Lyndhurst (Vic.),211.48,ok
+21662,Merricks,21555,Lyndhurst (Vic.),,no_eligible_route
+21663,Merricks Beach,21555,Lyndhurst (Vic.),,no_eligible_route
+21664,Merricks North,21555,Lyndhurst (Vic.),,no_eligible_route
+21668,Merrimu,21555,Lyndhurst (Vic.),,no_eligible_route
+21675,Mickleham,21555,Lyndhurst (Vic.),,no_eligible_route
+21677,Middle Park (Vic.),21555,Lyndhurst (Vic.),131.9,ok
+21683,Mill Park,21555,Lyndhurst (Vic.),188.3,ok
+21685,Millgrove,21555,Lyndhurst (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),21555,Lyndhurst (Vic.),135.03,ok
+21727,Monbulk,21555,Lyndhurst (Vic.),191.78,ok
+21728,Monegeetta,21555,Lyndhurst (Vic.),,no_eligible_route
+21731,Monomeith,21555,Lyndhurst (Vic.),,no_eligible_route
+21732,Mont Albert,21555,Lyndhurst (Vic.),130.62,ok
+21733,Mont Albert North,21555,Lyndhurst (Vic.),145.72,ok
+21735,Montmorency,21555,Lyndhurst (Vic.),162.57,ok
+21736,Montrose (Vic.),21555,Lyndhurst (Vic.),163.62,ok
+21742,Moonee Ponds,21555,Lyndhurst (Vic.),124.65,ok
+21746,Moorabbin,21555,Lyndhurst (Vic.),113.1,ok
+21747,Moorabbin Airport,21555,Lyndhurst (Vic.),103.42,ok
+21754,Moorooduc,21555,Lyndhurst (Vic.),,no_eligible_route
+21755,Mooroolbark,21555,Lyndhurst (Vic.),166.25,ok
+21760,Mordialloc,21555,Lyndhurst (Vic.),119.28,ok
+21763,Mornington (Vic.),21555,Lyndhurst (Vic.),151.33,ok
+21779,Mount Burnett,21555,Lyndhurst (Vic.),,no_eligible_route
+21786,Mount Cottrell,21555,Lyndhurst (Vic.),,no_eligible_route
+21787,Mount Dandenong,21555,Lyndhurst (Vic.),173.87,ok
+21793,Mount Eliza,21555,Lyndhurst (Vic.),121.87,ok
+21795,Mount Evelyn,21555,Lyndhurst (Vic.),187.83,ok
+21801,Mount Macedon,21555,Lyndhurst (Vic.),,no_eligible_route
+21803,Mount Martha,21555,Lyndhurst (Vic.),159.4,ok
+21814,Mount Toolebewong,21555,Lyndhurst (Vic.),,no_eligible_route
+21816,Mount Waverley,21555,Lyndhurst (Vic.),106.68,ok
+21827,Mulgrave (Vic.),21555,Lyndhurst (Vic.),101.63,ok
+21849,Murrumbeena,21555,Lyndhurst (Vic.),90.63,ok
+21872,Nangana,21555,Lyndhurst (Vic.),,no_eligible_route
+21878,Nar Nar Goon,21555,Lyndhurst (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,21555,Lyndhurst (Vic.),,no_eligible_route
+21893,Narre Warren,21555,Lyndhurst (Vic.),92.38,ok
+21894,Narre Warren East,21555,Lyndhurst (Vic.),,no_eligible_route
+21895,Narre Warren North,21555,Lyndhurst (Vic.),101.65,ok
+21896,Narre Warren South,21555,Lyndhurst (Vic.),83.67,ok
+21921,New Gisborne,21555,Lyndhurst (Vic.),,no_eligible_route
+21934,Newport (Vic.),21555,Lyndhurst (Vic.),139.58,ok
+21942,Niddrie,21555,Lyndhurst (Vic.),159.53,ok
+21952,Noble Park,21555,Lyndhurst (Vic.),67.17,ok
+21953,Noble Park North,21555,Lyndhurst (Vic.),94.83,ok
+21966,North Melbourne,21555,Lyndhurst (Vic.),116.25,ok
+21969,North Warrandyte,21555,Lyndhurst (Vic.),191.0,ok
+21971,Northcote,21555,Lyndhurst (Vic.),139.07,ok
+21974,Notting Hill,21555,Lyndhurst (Vic.),98.78,ok
+21985,Nunawading,21555,Lyndhurst (Vic.),115.47,ok
+21991,Nutfield,21555,Lyndhurst (Vic.),,no_eligible_route
+21998,Oak Park,21555,Lyndhurst (Vic.),142.97,ok
+21999,Oaklands Junction,21555,Lyndhurst (Vic.),,no_eligible_route
+22000,Oakleigh,21555,Lyndhurst (Vic.),86.9,ok
+22001,Oakleigh East,21555,Lyndhurst (Vic.),97.93,ok
+22002,Oakleigh South,21555,Lyndhurst (Vic.),88.75,ok
+22006,Officer,21555,Lyndhurst (Vic.),107.93,ok
+22007,Officer South,21555,Lyndhurst (Vic.),148.0,ok
+22009,Olinda (Vic.),21555,Lyndhurst (Vic.),182.22,ok
+22016,Ormond,21555,Lyndhurst (Vic.),102.47,ok
+22027,Pakenham,21555,Lyndhurst (Vic.),106.98,ok
+22028,Pakenham South,21555,Lyndhurst (Vic.),,no_eligible_route
+22029,Pakenham Upper,21555,Lyndhurst (Vic.),,no_eligible_route
+22032,Panton Hill,21555,Lyndhurst (Vic.),,no_eligible_route
+22036,Park Orchards,21555,Lyndhurst (Vic.),138.62,ok
+22037,Parkdale,21555,Lyndhurst (Vic.),118.32,ok
+22038,Parkville (Vic.),21555,Lyndhurst (Vic.),130.87,ok
+22041,Pascoe Vale,21555,Lyndhurst (Vic.),147.33,ok
+22042,Pascoe Vale South,21555,Lyndhurst (Vic.),143.07,ok
+22047,Patterson Lakes,21555,Lyndhurst (Vic.),113.02,walk_only
+22050,Pearcedale,21555,Lyndhurst (Vic.),118.8,ok
+22058,Pentland Hills,21555,Lyndhurst (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+22084,Plenty (Vic.),21555,Lyndhurst (Vic.),186.5,ok
+22085,Plumpton (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+22086,Point Cook,21555,Lyndhurst (Vic.),185.63,ok
+22087,Point Leo,21555,Lyndhurst (Vic.),,no_eligible_route
+22107,Port Melbourne,21555,Lyndhurst (Vic.),139.87,ok
+22113,Portsea,21555,Lyndhurst (Vic.),,no_eligible_route
+22115,Powelltown,21555,Lyndhurst (Vic.),,no_eligible_route
+22118,Prahran,21555,Lyndhurst (Vic.),116.43,ok
+22121,Preston (Vic.),21555,Lyndhurst (Vic.),147.85,ok
+22122,Princes Hill,21555,Lyndhurst (Vic.),132.02,ok
+22132,Quandong,21555,Lyndhurst (Vic.),,no_eligible_route
+22141,Ravenhall,21555,Lyndhurst (Vic.),,no_eligible_route
+22148,Red Hill (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+22149,Red Hill South,21555,Lyndhurst (Vic.),,no_eligible_route
+22160,Research,21555,Lyndhurst (Vic.),,no_eligible_route
+22161,Reservoir (Vic.),21555,Lyndhurst (Vic.),160.15,ok
+22170,Richmond (Vic.),21555,Lyndhurst (Vic.),127.13,ok
+22172,Riddells Creek,21555,Lyndhurst (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),21555,Lyndhurst (Vic.),126.57,ok
+22175,Ringwood East,21555,Lyndhurst (Vic.),147.72,ok
+22176,Ringwood North,21555,Lyndhurst (Vic.),133.35,ok
+22179,Ripponlea,21555,Lyndhurst (Vic.),121.55,ok
+22185,Rochford,21555,Lyndhurst (Vic.),,no_eligible_route
+22186,Rockbank,21555,Lyndhurst (Vic.),210.53,ok
+22193,Romsey,21555,Lyndhurst (Vic.),,no_eligible_route
+22194,Rosanna,21555,Lyndhurst (Vic.),149.47,ok
+22198,Rosebud,21555,Lyndhurst (Vic.),,no_eligible_route
+22207,Rowville,21555,Lyndhurst (Vic.),102.0,ok
+22208,Roxburgh Park,21555,Lyndhurst (Vic.),172.82,ok
+22220,Rye,21555,Lyndhurst (Vic.),220.4,ok
+22221,Rythdale,21555,Lyndhurst (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),21555,Lyndhurst (Vic.),175.37,ok
+22232,Sandhurst,21555,Lyndhurst (Vic.),41.45,walk_only
+22234,Sandringham (Vic.),21555,Lyndhurst (Vic.),138.15,ok
+22239,Sassafras (Vic.),21555,Lyndhurst (Vic.),163.67,ok
+22242,Scoresby,21555,Lyndhurst (Vic.),118.53,ok
+22247,Seabrook,21555,Lyndhurst (Vic.),170.55,ok
+22249,Seaford (Vic.),21555,Lyndhurst (Vic.),114.37,ok
+22250,Seaholme,21555,Lyndhurst (Vic.),148.82,ok
+22256,Seddon (Vic.),21555,Lyndhurst (Vic.),121.17,ok
+22258,Selby,21555,Lyndhurst (Vic.),182.22,ok
+22263,Seville,21555,Lyndhurst (Vic.),,no_eligible_route
+22264,Seville East,21555,Lyndhurst (Vic.),,no_eligible_route
+22278,Sherbrooke,21555,Lyndhurst (Vic.),174.4,ok
+22279,Shoreham,21555,Lyndhurst (Vic.),,no_eligible_route
+22281,Silvan,21555,Lyndhurst (Vic.),183.88,ok
+22291,Skye (Vic.),21555,Lyndhurst (Vic.),83.4,ok
+22295,Smiths Gully,21555,Lyndhurst (Vic.),,no_eligible_route
+22303,Somers,21555,Lyndhurst (Vic.),,no_eligible_route
+22304,Somerton (Vic.),21555,Lyndhurst (Vic.),176.95,ok
+22305,Somerville (Vic.),21555,Lyndhurst (Vic.),157.95,ok
+22306,Sorrento (Vic.),21555,Lyndhurst (Vic.),211.17,ok
+22309,South Kingsville,21555,Lyndhurst (Vic.),151.83,ok
+22310,South Melbourne,21555,Lyndhurst (Vic.),119.9,ok
+22311,South Morang,21555,Lyndhurst (Vic.),194.22,ok
+22313,South Wharf,21555,Lyndhurst (Vic.),128.18,ok
+22314,South Yarra,21555,Lyndhurst (Vic.),105.32,ok
+22315,Southbank,21555,Lyndhurst (Vic.),117.48,ok
+22319,Spotswood,21555,Lyndhurst (Vic.),132.98,ok
+22325,Springfield (Macedon Ranges - Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+22328,Springvale (Vic.),21555,Lyndhurst (Vic.),77.1,ok
+22329,Springvale South,21555,Lyndhurst (Vic.),83.85,ok
+22330,St Albans (Vic.),21555,Lyndhurst (Vic.),135.67,ok
+22332,St Andrews (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+22333,St Andrews Beach,21555,Lyndhurst (Vic.),,no_eligible_route
+22339,St Helena,21555,Lyndhurst (Vic.),182.62,ok
+22343,St Kilda (Vic.),21555,Lyndhurst (Vic.),120.03,ok
+22344,St Kilda East,21555,Lyndhurst (Vic.),111.98,ok
+22345,St Kilda West,21555,Lyndhurst (Vic.),125.77,ok
+22355,Steels Creek,21555,Lyndhurst (Vic.),,no_eligible_route
+22375,Strathewen,21555,Lyndhurst (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),21555,Lyndhurst (Vic.),151.13,ok
+22381,Strathmore Heights,21555,Lyndhurst (Vic.),165.38,ok
+22382,Strathtulloh,21555,Lyndhurst (Vic.),,no_eligible_route
+22391,Sunbury,21555,Lyndhurst (Vic.),,no_eligible_route
+22395,Sunshine (Vic.),21555,Lyndhurst (Vic.),124.45,ok
+22396,Sunshine North,21555,Lyndhurst (Vic.),149.52,ok
+22397,Sunshine West,21555,Lyndhurst (Vic.),148.8,ok
+22399,Surrey Hills,21555,Lyndhurst (Vic.),133.17,ok
+22414,Sydenham (Vic.),21555,Lyndhurst (Vic.),150.07,ok
+22451,Tarneit,21555,Lyndhurst (Vic.),203.83,ok
+22457,Tarrawarra,21555,Lyndhurst (Vic.),,no_eligible_route
+22473,Taylors Hill,21555,Lyndhurst (Vic.),178.07,ok
+22474,Taylors Lakes,21555,Lyndhurst (Vic.),154.95,ok
+22476,Tecoma,21555,Lyndhurst (Vic.),146.62,ok
+22483,Templestowe,21555,Lyndhurst (Vic.),160.18,ok
+22484,Templestowe Lower,21555,Lyndhurst (Vic.),151.03,ok
+22496,The Basin (Vic.),21555,Lyndhurst (Vic.),154.8,ok
+22501,The Patch,21555,Lyndhurst (Vic.),182.35,ok
+22504,Thomastown,21555,Lyndhurst (Vic.),168.63,ok
+22508,Thornbury,21555,Lyndhurst (Vic.),145.23,ok
+22509,Thornhill Park,21555,Lyndhurst (Vic.),,no_eligible_route
+22514,Three Bridges,21555,Lyndhurst (Vic.),,no_eligible_route
+22531,Tonimbuk,21555,Lyndhurst (Vic.),,no_eligible_route
+22536,Toolangi,21555,Lyndhurst (Vic.),,no_eligible_route
+22537,Toolern Vale,21555,Lyndhurst (Vic.),,no_eligible_route
+22546,Tooradin,21555,Lyndhurst (Vic.),,no_eligible_route
+22547,Toorak,21555,Lyndhurst (Vic.),117.7,ok
+22550,Tootgarook,21555,Lyndhurst (Vic.),203.82,ok
+22556,Tottenham (Vic.),21555,Lyndhurst (Vic.),151.88,ok
+22572,Travancore,21555,Lyndhurst (Vic.),126.4,ok
+22576,Tremont,21555,Lyndhurst (Vic.),153.57,ok
+22582,Truganina,21555,Lyndhurst (Vic.),,no_eligible_route
+22584,Tuerong,21555,Lyndhurst (Vic.),,no_eligible_route
+22586,Tullamarine,21555,Lyndhurst (Vic.),179.37,ok
+22594,Tyabb,21555,Lyndhurst (Vic.),146.82,ok
+22598,Tynong,21555,Lyndhurst (Vic.),,no_eligible_route
+22599,Tynong North,21555,Lyndhurst (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,21555,Lyndhurst (Vic.),139.15,ok
+22617,Upper Plenty,21555,Lyndhurst (Vic.),,no_eligible_route
+22620,Upwey,21555,Lyndhurst (Vic.),146.48,ok
+22627,Vermont,21555,Lyndhurst (Vic.),142.62,ok
+22628,Vermont South,21555,Lyndhurst (Vic.),126.2,ok
+22629,Vervale,21555,Lyndhurst (Vic.),,no_eligible_route
+22633,Viewbank,21555,Lyndhurst (Vic.),182.63,ok
+22661,Wallan,21555,Lyndhurst (Vic.),,no_eligible_route
+22672,Wandin East,21555,Lyndhurst (Vic.),,no_eligible_route
+22673,Wandin North,21555,Lyndhurst (Vic.),,no_eligible_route
+22676,Wandong,21555,Lyndhurst (Vic.),,no_eligible_route
+22685,Wantirna,21555,Lyndhurst (Vic.),120.93,ok
+22686,Wantirna South,21555,Lyndhurst (Vic.),114.22,ok
+22689,Warburton (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+22695,Warneet,21555,Lyndhurst (Vic.),,no_eligible_route
+22702,Warrandyte,21555,Lyndhurst (Vic.),161.27,ok
+22703,Warrandyte South,21555,Lyndhurst (Vic.),175.65,ok
+22704,Warranwood,21555,Lyndhurst (Vic.),153.32,ok
+22717,Waterford Park,21555,Lyndhurst (Vic.),,no_eligible_route
+22720,Waterways,21555,Lyndhurst (Vic.),100.08,ok
+22721,Watsonia,21555,Lyndhurst (Vic.),149.92,ok
+22722,Watsonia North,21555,Lyndhurst (Vic.),173.45,ok
+22723,Watsons Creek (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+22727,Wattle Glen,21555,Lyndhurst (Vic.),185.67,ok
+22740,Weir Views,21555,Lyndhurst (Vic.),,no_eligible_route
+22750,Werribee,21555,Lyndhurst (Vic.),170.77,ok
+22751,Werribee South,21555,Lyndhurst (Vic.),,no_eligible_route
+22753,Wesburn,21555,Lyndhurst (Vic.),,no_eligible_route
+22756,West Footscray,21555,Lyndhurst (Vic.),128.62,ok
+22757,West Melbourne,21555,Lyndhurst (Vic.),144.95,ok
+22761,Westmeadows,21555,Lyndhurst (Vic.),167.95,ok
+22766,Wheelers Hill,21555,Lyndhurst (Vic.),110.35,ok
+22775,Whittlesea,21555,Lyndhurst (Vic.),,no_eligible_route
+22784,Wildwood,21555,Lyndhurst (Vic.),,no_eligible_route
+22791,Williams Landing,21555,Lyndhurst (Vic.),170.98,ok
+22792,Williamstown (Vic.),21555,Lyndhurst (Vic.),151.8,ok
+22793,Williamstown North,21555,Lyndhurst (Vic.),161.33,ok
+22805,Windsor (Vic.),21555,Lyndhurst (Vic.),114.1,ok
+22820,Wollert,21555,Lyndhurst (Vic.),230.02,ok
+22825,Wonga Park,21555,Lyndhurst (Vic.),,no_eligible_route
+22843,Woodstock (Vic.),21555,Lyndhurst (Vic.),,no_eligible_route
+22857,Woori Yallock,21555,Lyndhurst (Vic.),,no_eligible_route
+22883,Wyndham Vale,21555,Lyndhurst (Vic.),193.58,ok
+22892,Yallambie,21555,Lyndhurst (Vic.),179.18,ok
+22898,Yan Yean,21555,Lyndhurst (Vic.),224.58,ok
+22906,Yannathan,21555,Lyndhurst (Vic.),,no_eligible_route
+22910,Yarra Glen,21555,Lyndhurst (Vic.),,no_eligible_route
+22911,Yarra Junction,21555,Lyndhurst (Vic.),,no_eligible_route
+22916,Yarrambat,21555,Lyndhurst (Vic.),204.37,ok
+22917,Yarraville,21555,Lyndhurst (Vic.),138.3,ok
+22925,Yellingbo,21555,Lyndhurst (Vic.),,no_eligible_route
+22930,Yering,21555,Lyndhurst (Vic.),,no_eligible_route
+22941,Yuroke,21555,Lyndhurst (Vic.),,no_eligible_route

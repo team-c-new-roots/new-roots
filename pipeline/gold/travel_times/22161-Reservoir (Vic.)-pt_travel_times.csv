@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22161,Reservoir (Vic.),36.12,ok
+20003,Aberfeldie,22161,Reservoir (Vic.),65.5,ok
+20011,Aintree,22161,Reservoir (Vic.),120.08,ok
+20015,Airport West,22161,Reservoir (Vic.),77.32,ok
+20017,Albanvale,22161,Reservoir (Vic.),97.55,ok
+20018,Albert Park (Vic.),22161,Reservoir (Vic.),63.92,ok
+20021,Albion (Vic.),22161,Reservoir (Vic.),80.95,ok
+20034,Alphington,22161,Reservoir (Vic.),39.97,ok
+20035,Altona (Vic.),22161,Reservoir (Vic.),87.05,ok
+20036,Altona Meadows,22161,Reservoir (Vic.),95.2,ok
+20037,Altona North,22161,Reservoir (Vic.),95.45,ok
+20062,Ardeer,22161,Reservoir (Vic.),93.97,ok
+20066,Armadale (Vic.),22161,Reservoir (Vic.),53.2,ok
+20071,Arthurs Creek,22161,Reservoir (Vic.),,no_eligible_route
+20072,Arthurs Seat,22161,Reservoir (Vic.),206.72,ok
+20075,Ascot Vale,22161,Reservoir (Vic.),69.18,ok
+20077,Ashburton,22161,Reservoir (Vic.),66.8,ok
+20078,Ashwood,22161,Reservoir (Vic.),85.87,ok
+20079,Aspendale,22161,Reservoir (Vic.),94.45,ok
+20080,Aspendale Gardens,22161,Reservoir (Vic.),114.78,ok
+20082,Attwood,22161,Reservoir (Vic.),78.17,ok
+20089,Avondale Heights,22161,Reservoir (Vic.),85.3,ok
+20091,Avonsleigh,22161,Reservoir (Vic.),,no_eligible_route
+20095,Bacchus Marsh,22161,Reservoir (Vic.),,no_eligible_route
+20097,Badger Creek,22161,Reservoir (Vic.),166.52,ok
+20105,Balaclava (Vic.),22161,Reservoir (Vic.),67.83,ok
+20120,Balnarring,22161,Reservoir (Vic.),,no_eligible_route
+20121,Balnarring Beach,22161,Reservoir (Vic.),,no_eligible_route
+20123,Balwyn,22161,Reservoir (Vic.),62.97,ok
+20124,Balwyn North,22161,Reservoir (Vic.),60.7,ok
+20131,Bangholme,22161,Reservoir (Vic.),146.05,ok
+20169,Baxter,22161,Reservoir (Vic.),133.52,ok
+20171,Bayles,22161,Reservoir (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),22161,Reservoir (Vic.),95.45,ok
+20174,Bayswater North,22161,Reservoir (Vic.),112.42,ok
+20175,Beaconsfield (Vic.),22161,Reservoir (Vic.),137.65,ok
+20176,Beaconsfield Upper,22161,Reservoir (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),22161,Reservoir (Vic.),92.33,ok
+20187,Beenak,22161,Reservoir (Vic.),,no_eligible_route
+20188,Belgrave,22161,Reservoir (Vic.),108.53,ok
+20189,Belgrave Heights,22161,Reservoir (Vic.),137.2,ok
+20190,Belgrave South,22161,Reservoir (Vic.),136.18,ok
+20198,Bellfield (Banyule - Vic.),22161,Reservoir (Vic.),40.85,ok
+20207,Bend Of Islands,22161,Reservoir (Vic.),,no_eligible_route
+20212,Benloch,22161,Reservoir (Vic.),,no_eligible_route
+20214,Bentleigh,22161,Reservoir (Vic.),76.23,ok
+20215,Bentleigh East,22161,Reservoir (Vic.),79.18,ok
+20224,Berwick,22161,Reservoir (Vic.),113.7,ok
+20233,Beveridge,22161,Reservoir (Vic.),106.72,ok
+20237,Big Pats Creek,22161,Reservoir (Vic.),,no_eligible_route
+20248,Bittern,22161,Reservoir (Vic.),152.78,ok
+20251,Black Rock (Vic.),22161,Reservoir (Vic.),98.13,ok
+20252,Blackburn,22161,Reservoir (Vic.),64.32,ok
+20253,Blackburn North,22161,Reservoir (Vic.),61.77,ok
+20254,Blackburn South,22161,Reservoir (Vic.),80.12,ok
+20257,Blairgowrie,22161,Reservoir (Vic.),198.75,ok
+20260,Blind Bight,22161,Reservoir (Vic.),,no_eligible_route
+20272,Bolinda,22161,Reservoir (Vic.),,no_eligible_route
+20278,Bonbeach,22161,Reservoir (Vic.),99.45,ok
+20280,Boneo,22161,Reservoir (Vic.),,no_eligible_route
+20282,Bonnie Brook,22161,Reservoir (Vic.),152.63,ok
+20304,Boronia,22161,Reservoir (Vic.),97.92,ok
+20307,Botanic Ridge,22161,Reservoir (Vic.),157.57,ok
+20314,Box Hill (Vic.),22161,Reservoir (Vic.),68.38,ok
+20315,Box Hill North,22161,Reservoir (Vic.),63.58,ok
+20316,Box Hill South,22161,Reservoir (Vic.),71.13,ok
+20320,Braeside,22161,Reservoir (Vic.),121.53,ok
+20324,Braybrook,22161,Reservoir (Vic.),87.6,ok
+20331,Briar Hill,22161,Reservoir (Vic.),57.28,ok
+20337,Brighton (Vic.),22161,Reservoir (Vic.),80.6,ok
+20338,Brighton East,22161,Reservoir (Vic.),85.02,ok
+20346,Broadmeadows (Vic.),22161,Reservoir (Vic.),43.92,ok
+20351,Brookfield (Vic.),22161,Reservoir (Vic.),178.0,ok
+20352,Brooklyn (Vic.),22161,Reservoir (Vic.),90.48,ok
+20361,Brunswick (Vic.),22161,Reservoir (Vic.),41.47,ok
+20362,Brunswick East,22161,Reservoir (Vic.),46.55,ok
+20363,Brunswick West,22161,Reservoir (Vic.),49.6,ok
+20381,Bulla (Vic.),22161,Reservoir (Vic.),131.22,ok
+20386,Bulleen,22161,Reservoir (Vic.),59.85,ok
+20387,Bullengarook,22161,Reservoir (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),22161,Reservoir (Vic.),36.02,ok
+20411,Bunyip,22161,Reservoir (Vic.),,no_eligible_route
+20412,Bunyip North,22161,Reservoir (Vic.),,no_eligible_route
+20418,Burnley,22161,Reservoir (Vic.),60.2,ok
+20419,Burnside (Vic.),22161,Reservoir (Vic.),103.98,ok
+20420,Burnside Heights,22161,Reservoir (Vic.),111.23,ok
+20426,Burwood (Vic.),22161,Reservoir (Vic.),80.53,ok
+20427,Burwood East,22161,Reservoir (Vic.),78.12,ok
+20435,Bylands,22161,Reservoir (Vic.),,no_eligible_route
+20441,Cairnlea,22161,Reservoir (Vic.),97.03,ok
+20442,Calder Park,22161,Reservoir (Vic.),114.73,ok
+20443,Caldermeade,22161,Reservoir (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),22161,Reservoir (Vic.),65.73,ok
+20455,Campbellfield,22161,Reservoir (Vic.),70.32,ok
+20466,Cannons Creek,22161,Reservoir (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),22161,Reservoir (Vic.),67.22,ok
+20474,Cape Schanck,22161,Reservoir (Vic.),,no_eligible_route
+20476,Capel Sound,22161,Reservoir (Vic.),183.1,ok
+20487,Cardinia,22161,Reservoir (Vic.),,no_eligible_route
+20495,Carlton (Vic.),22161,Reservoir (Vic.),43.82,ok
+20496,Carlton North,22161,Reservoir (Vic.),54.15,ok
+20498,Carnegie,22161,Reservoir (Vic.),74.75,ok
+20500,Caroline Springs,22161,Reservoir (Vic.),109.73,ok
+20507,Carrum,22161,Reservoir (Vic.),99.27,ok
+20508,Carrum Downs,22161,Reservoir (Vic.),125.37,ok
+20512,Castella,22161,Reservoir (Vic.),,no_eligible_route
+20517,Catani,22161,Reservoir (Vic.),,no_eligible_route
+20521,Caulfield,22161,Reservoir (Vic.),75.88,ok
+20522,Caulfield East,22161,Reservoir (Vic.),64.63,ok
+20523,Caulfield North,22161,Reservoir (Vic.),66.55,ok
+20524,Caulfield South,22161,Reservoir (Vic.),77.48,ok
+20528,Chadstone,22161,Reservoir (Vic.),84.28,ok
+20537,Chelsea,22161,Reservoir (Vic.),96.52,ok
+20538,Chelsea Heights,22161,Reservoir (Vic.),113.2,ok
+20539,Cheltenham (Vic.),22161,Reservoir (Vic.),85.98,ok
+20541,Cherokee,22161,Reservoir (Vic.),,no_eligible_route
+20555,Chintin,22161,Reservoir (Vic.),,no_eligible_route
+20556,Chirnside Park,22161,Reservoir (Vic.),117.82,ok
+20559,Christmas Hills (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+20560,Chum Creek,22161,Reservoir (Vic.),,no_eligible_route
+20566,Clarinda,22161,Reservoir (Vic.),101.37,ok
+20567,Clarkefield,22161,Reservoir (Vic.),,no_eligible_route
+20569,Clayton,22161,Reservoir (Vic.),92.93,ok
+20570,Clayton South,22161,Reservoir (Vic.),108.83,ok
+20572,Clematis,22161,Reservoir (Vic.),,no_eligible_route
+20574,Clifton Hill,22161,Reservoir (Vic.),27.08,ok
+20576,Clonbinane,22161,Reservoir (Vic.),,no_eligible_route
+20581,Clyde (Vic.),22161,Reservoir (Vic.),160.4,ok
+20582,Clyde North,22161,Reservoir (Vic.),142.03,ok
+20587,Cobaw,22161,Reservoir (Vic.),,no_eligible_route
+20590,Cobblebank,22161,Reservoir (Vic.),162.65,ok
+20596,Coburg,22161,Reservoir (Vic.),31.42,ok
+20597,Coburg North,22161,Reservoir (Vic.),31.53,ok
+20600,Cockatoo (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+20601,Cocoroc,22161,Reservoir (Vic.),,no_eligible_route
+20605,Coimadai,22161,Reservoir (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),22161,Reservoir (Vic.),36.12,ok
+20624,Coolaroo,22161,Reservoir (Vic.),60.4,ok
+20633,Cora Lynn,22161,Reservoir (Vic.),,no_eligible_route
+20654,Cottles Bridge,22161,Reservoir (Vic.),,no_eligible_route
+20661,Craigieburn,22161,Reservoir (Vic.),80.23,ok
+20662,Cranbourne,22161,Reservoir (Vic.),127.57,ok
+20663,Cranbourne East,22161,Reservoir (Vic.),131.32,ok
+20664,Cranbourne North,22161,Reservoir (Vic.),123.37,ok
+20665,Cranbourne South,22161,Reservoir (Vic.),160.92,ok
+20666,Cranbourne West,22161,Reservoir (Vic.),132.13,ok
+20670,Cremorne (Vic.),22161,Reservoir (Vic.),51.78,ok
+20674,Crib Point,22161,Reservoir (Vic.),161.75,ok
+20682,Croydon (Vic.),22161,Reservoir (Vic.),88.42,ok
+20683,Croydon Hills,22161,Reservoir (Vic.),110.87,ok
+20684,Croydon North,22161,Reservoir (Vic.),106.17,ok
+20685,Croydon South,22161,Reservoir (Vic.),109.47,ok
+20702,Dallas,22161,Reservoir (Vic.),57.8,ok
+20703,Dalmore,22161,Reservoir (Vic.),,no_eligible_route
+20707,Dandenong,22161,Reservoir (Vic.),101.33,ok
+20708,Dandenong North,22161,Reservoir (Vic.),121.45,ok
+20709,Dandenong South,22161,Reservoir (Vic.),119.67,ok
+20712,Darley,22161,Reservoir (Vic.),,no_eligible_route
+20716,Darraweit Guim,22161,Reservoir (Vic.),,no_eligible_route
+20724,Deanside,22161,Reservoir (Vic.),130.1,ok
+20728,Deepdene (Vic.),22161,Reservoir (Vic.),58.07,ok
+20729,Deer Park,22161,Reservoir (Vic.),91.8,ok
+20731,Delahey,22161,Reservoir (Vic.),104.47,ok
+20743,Derrimut,22161,Reservoir (Vic.),121.37,ok
+20748,Devon Meadows,22161,Reservoir (Vic.),167.15,ok
+20750,Dewhurst,22161,Reservoir (Vic.),,no_eligible_route
+20752,Diamond Creek,22161,Reservoir (Vic.),72.47,ok
+20754,Diggers Rest,22161,Reservoir (Vic.),109.05,ok
+20758,Dingley Village,22161,Reservoir (Vic.),99.88,ok
+20762,Dixons Creek,22161,Reservoir (Vic.),,no_eligible_route
+20766,Docklands,22161,Reservoir (Vic.),54.98,ok
+20769,Don Valley,22161,Reservoir (Vic.),,no_eligible_route
+20771,Doncaster,22161,Reservoir (Vic.),57.93,ok
+20772,Doncaster East,22161,Reservoir (Vic.),62.42,ok
+20773,Donnybrook (Vic.),22161,Reservoir (Vic.),100.12,ok
+20774,Donvale,22161,Reservoir (Vic.),83.75,ok
+20779,Doreen,22161,Reservoir (Vic.),64.77,ok
+20783,Doveton,22161,Reservoir (Vic.),114.28,ok
+20788,Dromana,22161,Reservoir (Vic.),193.88,ok
+20825,Eaglemont,22161,Reservoir (Vic.),55.38,ok
+20830,East Melbourne,22161,Reservoir (Vic.),35.15,ok
+20833,East Warburton,22161,Reservoir (Vic.),,no_eligible_route
+20843,Eden Park,22161,Reservoir (Vic.),,no_eligible_route
+20848,Edithvale,22161,Reservoir (Vic.),96.65,ok
+20864,Elsternwick,22161,Reservoir (Vic.),75.75,ok
+20865,Eltham (Vic.),22161,Reservoir (Vic.),71.52,ok
+20866,Eltham North,22161,Reservoir (Vic.),61.4,ok
+20867,Elwood,22161,Reservoir (Vic.),76.07,ok
+20868,Emerald (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+20871,Endeavour Hills,22161,Reservoir (Vic.),121.62,ok
+20878,Epping (Vic.),22161,Reservoir (Vic.),51.82,ok
+20885,Essendon,22161,Reservoir (Vic.),53.02,ok
+20886,Essendon Fields,22161,Reservoir (Vic.),80.37,ok
+20887,Essendon North,22161,Reservoir (Vic.),54.22,ok
+20888,Essendon West,22161,Reservoir (Vic.),62.72,ok
+20889,Eumemmerring,22161,Reservoir (Vic.),124.67,ok
+20898,Exford,22161,Reservoir (Vic.),,no_eligible_route
+20899,Eynesbury,22161,Reservoir (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),22161,Reservoir (Vic.),42.4,ok
+20909,Fawkner,22161,Reservoir (Vic.),33.2,ok
+20916,Fernshaw,22161,Reservoir (Vic.),,no_eligible_route
+20917,Ferntree Gully,22161,Reservoir (Vic.),108.28,ok
+20918,Ferny Creek,22161,Reservoir (Vic.),146.82,ok
+20920,Fingal (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),22161,Reservoir (Vic.),40.6,ok
+20925,Fitzroy North,22161,Reservoir (Vic.),34.67,ok
+20929,Flemington,22161,Reservoir (Vic.),68.72,ok
+20930,Flinders (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+20935,Footscray,22161,Reservoir (Vic.),68.37,ok
+20937,Forest Hill (Vic.),22161,Reservoir (Vic.),77.1,ok
+20947,Frankston,22161,Reservoir (Vic.),120.23,ok
+20948,Frankston North,22161,Reservoir (Vic.),130.38,ok
+20949,Frankston South,22161,Reservoir (Vic.),138.5,ok
+20950,Fraser Rise,22161,Reservoir (Vic.),125.48,ok
+20965,Gardenvale,22161,Reservoir (Vic.),73.38,ok
+20966,Garfield,22161,Reservoir (Vic.),,no_eligible_route
+20967,Garfield North,22161,Reservoir (Vic.),,no_eligible_route
+20979,Gembrook,22161,Reservoir (Vic.),,no_eligible_route
+20995,Gilderoy,22161,Reservoir (Vic.),,no_eligible_route
+21001,Gisborne,22161,Reservoir (Vic.),,no_eligible_route
+21002,Gisborne South,22161,Reservoir (Vic.),,no_eligible_route
+21004,Gladstone Park,22161,Reservoir (Vic.),66.95,ok
+21005,Gladysdale,22161,Reservoir (Vic.),,no_eligible_route
+21009,Glen Huntly,22161,Reservoir (Vic.),67.77,ok
+21010,Glen Iris (Vic.),22161,Reservoir (Vic.),75.8,ok
+21013,Glen Waverley,22161,Reservoir (Vic.),91.08,ok
+21047,Glenroy (Vic.),22161,Reservoir (Vic.),65.78,ok
+21059,Goldie,22161,Reservoir (Vic.),,no_eligible_route
+21079,Gowanbrae,22161,Reservoir (Vic.),73.45,ok
+21087,Grangefields,22161,Reservoir (Vic.),157.08,ok
+21104,Greensborough,22161,Reservoir (Vic.),54.85,ok
+21105,Greenvale (Vic.),22161,Reservoir (Vic.),79.33,ok
+21115,Gruyere,22161,Reservoir (Vic.),,no_eligible_route
+21121,Guys Hill,22161,Reservoir (Vic.),,no_eligible_route
+21124,Hadfield,22161,Reservoir (Vic.),48.8,ok
+21125,Hallam,22161,Reservoir (Vic.),118.82,ok
+21131,Hampton (Vic.),22161,Reservoir (Vic.),88.43,ok
+21132,Hampton East,22161,Reservoir (Vic.),83.0,ok
+21133,Hampton Park,22161,Reservoir (Vic.),120.23,ok
+21139,Harkaway,22161,Reservoir (Vic.),,no_eligible_route
+21140,Harkness,22161,Reservoir (Vic.),179.48,ok
+21145,Hastings (Vic.),22161,Reservoir (Vic.),151.67,ok
+21152,Hawthorn (Vic.),22161,Reservoir (Vic.),60.07,ok
+21153,Hawthorn East,22161,Reservoir (Vic.),61.08,ok
+21158,Healesville,22161,Reservoir (Vic.),170.43,ok
+21159,Heath Hill,22161,Reservoir (Vic.),,no_eligible_route
+21161,Heathcote Junction,22161,Reservoir (Vic.),,no_eligible_route
+21163,Heatherton,22161,Reservoir (Vic.),99.3,ok
+21165,Heathmont,22161,Reservoir (Vic.),85.72,ok
+21167,Heidelberg,22161,Reservoir (Vic.),50.63,ok
+21168,Heidelberg Heights,22161,Reservoir (Vic.),36.02,ok
+21169,Heidelberg West,22161,Reservoir (Vic.),35.6,ok
+21176,Hesket,22161,Reservoir (Vic.),,no_eligible_route
+21185,Highett,22161,Reservoir (Vic.),75.77,ok
+21193,Hillside (Melton - Vic.),22161,Reservoir (Vic.),110.03,ok
+21195,Hmas Cerberus,22161,Reservoir (Vic.),,no_eligible_route
+21196,Hoddles Creek,22161,Reservoir (Vic.),,no_eligible_route
+21202,Hopetoun Park,22161,Reservoir (Vic.),,no_eligible_route
+21203,Hoppers Crossing,22161,Reservoir (Vic.),106.88,ok
+21214,Hughesdale,22161,Reservoir (Vic.),79.85,ok
+21215,Humevale,22161,Reservoir (Vic.),97.15,ok
+21218,Huntingdale (Vic.),22161,Reservoir (Vic.),85.28,ok
+21223,Hurstbridge,22161,Reservoir (Vic.),72.75,ok
+21238,Iona,22161,Reservoir (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),22161,Reservoir (Vic.),44.57,ok
+21247,Ivanhoe East,22161,Reservoir (Vic.),55.98,ok
+21248,Jacana,22161,Reservoir (Vic.),54.15,ok
+21277,Junction Village,22161,Reservoir (Vic.),153.28,ok
+21284,Kalkallo,22161,Reservoir (Vic.),114.25,ok
+21286,Kallista,22161,Reservoir (Vic.),145.25,ok
+21287,Kalorama,22161,Reservoir (Vic.),116.52,ok
+21294,Kangaroo Ground,22161,Reservoir (Vic.),107.65,ok
+21312,Kealba,22161,Reservoir (Vic.),96.32,ok
+21314,Keilor,22161,Reservoir (Vic.),111.33,ok
+21315,Keilor Downs,22161,Reservoir (Vic.),103.98,ok
+21316,Keilor East,22161,Reservoir (Vic.),74.72,ok
+21317,Keilor Lodge,22161,Reservoir (Vic.),104.83,ok
+21318,Keilor North,22161,Reservoir (Vic.),86.42,ok
+21319,Keilor Park,22161,Reservoir (Vic.),92.0,ok
+21327,Kensington (Vic.),22161,Reservoir (Vic.),58.05,ok
+21333,Kerrie,22161,Reservoir (Vic.),,no_eligible_route
+21336,Kew (Vic.),22161,Reservoir (Vic.),48.7,ok
+21337,Kew East,22161,Reservoir (Vic.),51.77,ok
+21339,Keysborough,22161,Reservoir (Vic.),111.42,ok
+21354,Kilsyth,22161,Reservoir (Vic.),105.9,ok
+21355,Kilsyth South,22161,Reservoir (Vic.),118.98,ok
+21358,Kinglake,22161,Reservoir (Vic.),,no_eligible_route
+21359,Kinglake Central,22161,Reservoir (Vic.),,no_eligible_route
+21360,Kinglake West,22161,Reservoir (Vic.),,no_eligible_route
+21362,Kings Park (Vic.),22161,Reservoir (Vic.),101.17,ok
+21363,Kingsbury,22161,Reservoir (Vic.),27.07,ok
+21365,Kingsville,22161,Reservoir (Vic.),77.43,ok
+21374,Knoxfield,22161,Reservoir (Vic.),111.57,ok
+21380,Koo Wee Rup,22161,Reservoir (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,22161,Reservoir (Vic.),,no_eligible_route
+21393,Kooyong,22161,Reservoir (Vic.),64.85,ok
+21411,Kurunjang,22161,Reservoir (Vic.),156.68,ok
+21452,Lalor,22161,Reservoir (Vic.),25.22,ok
+21456,Lancefield,22161,Reservoir (Vic.),,no_eligible_route
+21459,Lang Lang,22161,Reservoir (Vic.),,no_eligible_route
+21460,Lang Lang East,22161,Reservoir (Vic.),,no_eligible_route
+21467,Langwarrin,22161,Reservoir (Vic.),134.2,ok
+21468,Langwarrin South,22161,Reservoir (Vic.),,no_eligible_route
+21473,Launching Place,22161,Reservoir (Vic.),132.2,ok
+21476,Laverton (Vic.),22161,Reservoir (Vic.),87.65,ok
+21477,Laverton North,22161,Reservoir (Vic.),117.93,ok
+21504,Lilydale (Vic.),22161,Reservoir (Vic.),111.85,ok
+21533,Long Forest,22161,Reservoir (Vic.),,no_eligible_route
+21547,Lower Plenty,22161,Reservoir (Vic.),83.65,ok
+21554,Lynbrook,22161,Reservoir (Vic.),111.07,ok
+21555,Lyndhurst (Vic.),22161,Reservoir (Vic.),158.52,ok
+21558,Lysterfield,22161,Reservoir (Vic.),166.13,ok
+21559,Lysterfield South,22161,Reservoir (Vic.),164.78,ok
+21561,Macclesfield (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+21562,Macedon,22161,Reservoir (Vic.),,no_eligible_route
+21564,Macleod (Vic.),22161,Reservoir (Vic.),45.13,ok
+21569,Maddingley,22161,Reservoir (Vic.),,no_eligible_route
+21575,Maidstone,22161,Reservoir (Vic.),86.83,ok
+21578,Main Ridge,22161,Reservoir (Vic.),,no_eligible_route
+21586,Malvern (Vic.),22161,Reservoir (Vic.),65.22,ok
+21587,Malvern East,22161,Reservoir (Vic.),77.1,ok
+21588,Mambourin,22161,Reservoir (Vic.),,no_eligible_route
+21597,Manor Lakes,22161,Reservoir (Vic.),145.98,ok
+21604,Maribyrnong,22161,Reservoir (Vic.),83.93,ok
+21619,Maryknoll,22161,Reservoir (Vic.),,no_eligible_route
+21625,McCrae,22161,Reservoir (Vic.),178.3,ok
+21629,McKinnon,22161,Reservoir (Vic.),65.07,ok
+21635,Meadow Heights,22161,Reservoir (Vic.),58.5,ok
+21640,Melbourne,22161,Reservoir (Vic.),52.67,ok
+21641,Melbourne Airport,22161,Reservoir (Vic.),,no_eligible_route
+21642,Melton (Vic.),22161,Reservoir (Vic.),164.87,ok
+21643,Melton South,22161,Reservoir (Vic.),177.23,ok
+21644,Melton West,22161,Reservoir (Vic.),152.87,ok
+21648,Mentone,22161,Reservoir (Vic.),80.75,ok
+21649,Menzies Creek,22161,Reservoir (Vic.),,no_eligible_route
+21659,Mernda,22161,Reservoir (Vic.),54.73,ok
+21662,Merricks,22161,Reservoir (Vic.),,no_eligible_route
+21663,Merricks Beach,22161,Reservoir (Vic.),,no_eligible_route
+21664,Merricks North,22161,Reservoir (Vic.),,no_eligible_route
+21668,Merrimu,22161,Reservoir (Vic.),,no_eligible_route
+21675,Mickleham,22161,Reservoir (Vic.),112.23,ok
+21677,Middle Park (Vic.),22161,Reservoir (Vic.),70.0,ok
+21683,Mill Park,22161,Reservoir (Vic.),42.22,ok
+21685,Millgrove,22161,Reservoir (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),22161,Reservoir (Vic.),77.28,ok
+21727,Monbulk,22161,Reservoir (Vic.),152.7,ok
+21728,Monegeetta,22161,Reservoir (Vic.),,no_eligible_route
+21731,Monomeith,22161,Reservoir (Vic.),,no_eligible_route
+21732,Mont Albert,22161,Reservoir (Vic.),70.1,ok
+21733,Mont Albert North,22161,Reservoir (Vic.),60.4,ok
+21735,Montmorency,22161,Reservoir (Vic.),60.07,ok
+21736,Montrose (Vic.),22161,Reservoir (Vic.),108.82,ok
+21742,Moonee Ponds,22161,Reservoir (Vic.),59.52,ok
+21746,Moorabbin,22161,Reservoir (Vic.),93.82,ok
+21747,Moorabbin Airport,22161,Reservoir (Vic.),101.25,ok
+21754,Moorooduc,22161,Reservoir (Vic.),,no_eligible_route
+21755,Mooroolbark,22161,Reservoir (Vic.),98.75,ok
+21760,Mordialloc,22161,Reservoir (Vic.),96.05,ok
+21763,Mornington (Vic.),22161,Reservoir (Vic.),151.93,ok
+21779,Mount Burnett,22161,Reservoir (Vic.),,no_eligible_route
+21786,Mount Cottrell,22161,Reservoir (Vic.),,no_eligible_route
+21787,Mount Dandenong,22161,Reservoir (Vic.),120.52,ok
+21793,Mount Eliza,22161,Reservoir (Vic.),126.28,ok
+21795,Mount Evelyn,22161,Reservoir (Vic.),124.68,ok
+21801,Mount Macedon,22161,Reservoir (Vic.),,no_eligible_route
+21803,Mount Martha,22161,Reservoir (Vic.),144.82,ok
+21814,Mount Toolebewong,22161,Reservoir (Vic.),,no_eligible_route
+21816,Mount Waverley,22161,Reservoir (Vic.),82.52,ok
+21827,Mulgrave (Vic.),22161,Reservoir (Vic.),108.55,ok
+21849,Murrumbeena,22161,Reservoir (Vic.),79.97,ok
+21872,Nangana,22161,Reservoir (Vic.),,no_eligible_route
+21878,Nar Nar Goon,22161,Reservoir (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,22161,Reservoir (Vic.),,no_eligible_route
+21893,Narre Warren,22161,Reservoir (Vic.),115.8,ok
+21894,Narre Warren East,22161,Reservoir (Vic.),,no_eligible_route
+21895,Narre Warren North,22161,Reservoir (Vic.),132.07,ok
+21896,Narre Warren South,22161,Reservoir (Vic.),121.62,ok
+21921,New Gisborne,22161,Reservoir (Vic.),,no_eligible_route
+21934,Newport (Vic.),22161,Reservoir (Vic.),72.5,ok
+21942,Niddrie,22161,Reservoir (Vic.),73.32,ok
+21952,Noble Park,22161,Reservoir (Vic.),92.07,ok
+21953,Noble Park North,22161,Reservoir (Vic.),125.05,ok
+21966,North Melbourne,22161,Reservoir (Vic.),57.95,ok
+21969,North Warrandyte,22161,Reservoir (Vic.),86.05,ok
+21971,Northcote,22161,Reservoir (Vic.),33.68,ok
+21974,Notting Hill,22161,Reservoir (Vic.),86.2,ok
+21985,Nunawading,22161,Reservoir (Vic.),68.97,ok
+21991,Nutfield,22161,Reservoir (Vic.),,no_eligible_route
+21998,Oak Park,22161,Reservoir (Vic.),61.2,ok
+21999,Oaklands Junction,22161,Reservoir (Vic.),,no_eligible_route
+22000,Oakleigh,22161,Reservoir (Vic.),81.9,ok
+22001,Oakleigh East,22161,Reservoir (Vic.),91.72,ok
+22002,Oakleigh South,22161,Reservoir (Vic.),88.67,ok
+22006,Officer,22161,Reservoir (Vic.),133.35,ok
+22007,Officer South,22161,Reservoir (Vic.),175.92,ok
+22009,Olinda (Vic.),22161,Reservoir (Vic.),145.17,ok
+22016,Ormond,22161,Reservoir (Vic.),65.5,ok
+22027,Pakenham,22161,Reservoir (Vic.),130.27,ok
+22028,Pakenham South,22161,Reservoir (Vic.),,no_eligible_route
+22029,Pakenham Upper,22161,Reservoir (Vic.),,no_eligible_route
+22032,Panton Hill,22161,Reservoir (Vic.),,no_eligible_route
+22036,Park Orchards,22161,Reservoir (Vic.),77.42,ok
+22037,Parkdale,22161,Reservoir (Vic.),85.83,ok
+22038,Parkville (Vic.),22161,Reservoir (Vic.),55.28,ok
+22041,Pascoe Vale,22161,Reservoir (Vic.),48.38,ok
+22042,Pascoe Vale South,22161,Reservoir (Vic.),44.43,ok
+22047,Patterson Lakes,22161,Reservoir (Vic.),108.13,ok
+22050,Pearcedale,22161,Reservoir (Vic.),178.22,ok
+22058,Pentland Hills,22161,Reservoir (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+22084,Plenty (Vic.),22161,Reservoir (Vic.),61.75,ok
+22085,Plumpton (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+22086,Point Cook,22161,Reservoir (Vic.),106.75,ok
+22087,Point Leo,22161,Reservoir (Vic.),,no_eligible_route
+22107,Port Melbourne,22161,Reservoir (Vic.),65.5,ok
+22113,Portsea,22161,Reservoir (Vic.),214.6,ok
+22115,Powelltown,22161,Reservoir (Vic.),,no_eligible_route
+22118,Prahran,22161,Reservoir (Vic.),60.0,ok
+22121,Preston (Vic.),22161,Reservoir (Vic.),24.58,ok
+22122,Princes Hill,22161,Reservoir (Vic.),46.75,ok
+22132,Quandong,22161,Reservoir (Vic.),,no_eligible_route
+22141,Ravenhall,22161,Reservoir (Vic.),140.55,ok
+22148,Red Hill (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+22149,Red Hill South,22161,Reservoir (Vic.),,no_eligible_route
+22160,Research,22161,Reservoir (Vic.),79.92,ok
+22161,Reservoir (Vic.),22161,Reservoir (Vic.),0.0,same_centroid
+22170,Richmond (Vic.),22161,Reservoir (Vic.),44.52,ok
+22172,Riddells Creek,22161,Reservoir (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),22161,Reservoir (Vic.),84.48,ok
+22175,Ringwood East,22161,Reservoir (Vic.),88.5,ok
+22176,Ringwood North,22161,Reservoir (Vic.),84.0,ok
+22179,Ripponlea,22161,Reservoir (Vic.),66.47,ok
+22185,Rochford,22161,Reservoir (Vic.),,no_eligible_route
+22186,Rockbank,22161,Reservoir (Vic.),138.13,ok
+22193,Romsey,22161,Reservoir (Vic.),,no_eligible_route
+22194,Rosanna,22161,Reservoir (Vic.),47.97,ok
+22198,Rosebud,22161,Reservoir (Vic.),194.62,ok
+22207,Rowville,22161,Reservoir (Vic.),120.87,ok
+22208,Roxburgh Park,22161,Reservoir (Vic.),73.5,ok
+22220,Rye,22161,Reservoir (Vic.),206.82,ok
+22221,Rythdale,22161,Reservoir (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),22161,Reservoir (Vic.),161.78,ok
+22232,Sandhurst,22161,Reservoir (Vic.),136.47,ok
+22234,Sandringham (Vic.),22161,Reservoir (Vic.),93.32,ok
+22239,Sassafras (Vic.),22161,Reservoir (Vic.),129.58,ok
+22242,Scoresby,22161,Reservoir (Vic.),108.83,ok
+22247,Seabrook,22161,Reservoir (Vic.),98.47,ok
+22249,Seaford (Vic.),22161,Reservoir (Vic.),111.37,ok
+22250,Seaholme,22161,Reservoir (Vic.),81.73,ok
+22256,Seddon (Vic.),22161,Reservoir (Vic.),65.75,ok
+22258,Selby,22161,Reservoir (Vic.),141.13,ok
+22263,Seville,22161,Reservoir (Vic.),143.37,ok
+22264,Seville East,22161,Reservoir (Vic.),130.25,ok
+22278,Sherbrooke,22161,Reservoir (Vic.),135.32,ok
+22279,Shoreham,22161,Reservoir (Vic.),,no_eligible_route
+22281,Silvan,22161,Reservoir (Vic.),144.8,ok
+22291,Skye (Vic.),22161,Reservoir (Vic.),128.5,ok
+22295,Smiths Gully,22161,Reservoir (Vic.),,no_eligible_route
+22303,Somers,22161,Reservoir (Vic.),,no_eligible_route
+22304,Somerton (Vic.),22161,Reservoir (Vic.),65.12,ok
+22305,Somerville (Vic.),22161,Reservoir (Vic.),156.77,ok
+22306,Sorrento (Vic.),22161,Reservoir (Vic.),194.58,ok
+22309,South Kingsville,22161,Reservoir (Vic.),84.75,ok
+22310,South Melbourne,22161,Reservoir (Vic.),62.82,ok
+22311,South Morang,22161,Reservoir (Vic.),45.95,ok
+22313,South Wharf,22161,Reservoir (Vic.),57.48,ok
+22314,South Yarra,22161,Reservoir (Vic.),45.13,ok
+22315,Southbank,22161,Reservoir (Vic.),60.0,ok
+22319,Spotswood,22161,Reservoir (Vic.),65.9,ok
+22325,Springfield (Macedon Ranges - Vic.),22161,Reservoir (Vic.),,no_eligible_route
+22328,Springvale (Vic.),22161,Reservoir (Vic.),93.03,ok
+22329,Springvale South,22161,Reservoir (Vic.),97.63,ok
+22330,St Albans (Vic.),22161,Reservoir (Vic.),83.58,ok
+22332,St Andrews (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+22333,St Andrews Beach,22161,Reservoir (Vic.),,no_eligible_route
+22339,St Helena,22161,Reservoir (Vic.),67.03,ok
+22343,St Kilda (Vic.),22161,Reservoir (Vic.),64.03,ok
+22344,St Kilda East,22161,Reservoir (Vic.),67.9,ok
+22345,St Kilda West,22161,Reservoir (Vic.),68.88,ok
+22355,Steels Creek,22161,Reservoir (Vic.),,no_eligible_route
+22375,Strathewen,22161,Reservoir (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),22161,Reservoir (Vic.),63.35,ok
+22381,Strathmore Heights,22161,Reservoir (Vic.),76.0,ok
+22382,Strathtulloh,22161,Reservoir (Vic.),,no_eligible_route
+22391,Sunbury,22161,Reservoir (Vic.),146.87,ok
+22395,Sunshine (Vic.),22161,Reservoir (Vic.),72.37,ok
+22396,Sunshine North,22161,Reservoir (Vic.),87.43,ok
+22397,Sunshine West,22161,Reservoir (Vic.),100.58,ok
+22399,Surrey Hills,22161,Reservoir (Vic.),71.88,ok
+22414,Sydenham (Vic.),22161,Reservoir (Vic.),97.98,ok
+22451,Tarneit,22161,Reservoir (Vic.),125.5,ok
+22457,Tarrawarra,22161,Reservoir (Vic.),146.03,ok
+22473,Taylors Hill,22161,Reservoir (Vic.),104.82,ok
+22474,Taylors Lakes,22161,Reservoir (Vic.),95.4,ok
+22476,Tecoma,22161,Reservoir (Vic.),105.53,ok
+22483,Templestowe,22161,Reservoir (Vic.),66.68,ok
+22484,Templestowe Lower,22161,Reservoir (Vic.),61.65,ok
+22496,The Basin (Vic.),22161,Reservoir (Vic.),116.72,ok
+22501,The Patch,22161,Reservoir (Vic.),143.27,ok
+22504,Thomastown,22161,Reservoir (Vic.),29.97,ok
+22508,Thornbury,22161,Reservoir (Vic.),30.98,ok
+22509,Thornhill Park,22161,Reservoir (Vic.),,no_eligible_route
+22514,Three Bridges,22161,Reservoir (Vic.),,no_eligible_route
+22531,Tonimbuk,22161,Reservoir (Vic.),,no_eligible_route
+22536,Toolangi,22161,Reservoir (Vic.),,no_eligible_route
+22537,Toolern Vale,22161,Reservoir (Vic.),,no_eligible_route
+22546,Tooradin,22161,Reservoir (Vic.),,no_eligible_route
+22547,Toorak,22161,Reservoir (Vic.),61.62,ok
+22550,Tootgarook,22161,Reservoir (Vic.),190.23,ok
+22556,Tottenham (Vic.),22161,Reservoir (Vic.),98.8,ok
+22572,Travancore,22161,Reservoir (Vic.),65.4,ok
+22576,Tremont,22161,Reservoir (Vic.),123.13,ok
+22582,Truganina,22161,Reservoir (Vic.),173.1,ok
+22584,Tuerong,22161,Reservoir (Vic.),,no_eligible_route
+22586,Tullamarine,22161,Reservoir (Vic.),73.05,ok
+22594,Tyabb,22161,Reservoir (Vic.),148.23,ok
+22598,Tynong,22161,Reservoir (Vic.),,no_eligible_route
+22599,Tynong North,22161,Reservoir (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,22161,Reservoir (Vic.),102.68,ok
+22617,Upper Plenty,22161,Reservoir (Vic.),,no_eligible_route
+22620,Upwey,22161,Reservoir (Vic.),105.4,ok
+22627,Vermont,22161,Reservoir (Vic.),92.75,ok
+22628,Vermont South,22161,Reservoir (Vic.),96.07,ok
+22629,Vervale,22161,Reservoir (Vic.),,no_eligible_route
+22633,Viewbank,22161,Reservoir (Vic.),51.92,ok
+22661,Wallan,22161,Reservoir (Vic.),,no_eligible_route
+22672,Wandin East,22161,Reservoir (Vic.),,no_eligible_route
+22673,Wandin North,22161,Reservoir (Vic.),116.33,ok
+22676,Wandong,22161,Reservoir (Vic.),,no_eligible_route
+22685,Wantirna,22161,Reservoir (Vic.),97.68,ok
+22686,Wantirna South,22161,Reservoir (Vic.),109.13,ok
+22689,Warburton (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+22695,Warneet,22161,Reservoir (Vic.),,no_eligible_route
+22702,Warrandyte,22161,Reservoir (Vic.),80.6,ok
+22703,Warrandyte South,22161,Reservoir (Vic.),116.57,ok
+22704,Warranwood,22161,Reservoir (Vic.),94.23,ok
+22717,Waterford Park,22161,Reservoir (Vic.),,no_eligible_route
+22720,Waterways,22161,Reservoir (Vic.),118.43,ok
+22721,Watsonia,22161,Reservoir (Vic.),39.22,ok
+22722,Watsonia North,22161,Reservoir (Vic.),43.82,ok
+22723,Watsons Creek (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+22727,Wattle Glen,22161,Reservoir (Vic.),80.22,ok
+22740,Weir Views,22161,Reservoir (Vic.),207.7,ok
+22750,Werribee,22161,Reservoir (Vic.),103.55,ok
+22751,Werribee South,22161,Reservoir (Vic.),139.57,ok
+22753,Wesburn,22161,Reservoir (Vic.),148.3,ok
+22756,West Footscray,22161,Reservoir (Vic.),75.53,ok
+22757,West Melbourne,22161,Reservoir (Vic.),67.47,ok
+22761,Westmeadows,22161,Reservoir (Vic.),58.87,ok
+22766,Wheelers Hill,22161,Reservoir (Vic.),100.27,ok
+22775,Whittlesea,22161,Reservoir (Vic.),,no_eligible_route
+22784,Wildwood,22161,Reservoir (Vic.),,no_eligible_route
+22791,Williams Landing,22161,Reservoir (Vic.),101.9,ok
+22792,Williamstown (Vic.),22161,Reservoir (Vic.),79.72,ok
+22793,Williamstown North,22161,Reservoir (Vic.),94.07,ok
+22805,Windsor (Vic.),22161,Reservoir (Vic.),59.9,ok
+22820,Wollert,22161,Reservoir (Vic.),89.93,ok
+22825,Wonga Park,22161,Reservoir (Vic.),118.08,ok
+22843,Woodstock (Vic.),22161,Reservoir (Vic.),,no_eligible_route
+22857,Woori Yallock,22161,Reservoir (Vic.),127.45,ok
+22883,Wyndham Vale,22161,Reservoir (Vic.),132.37,ok
+22892,Yallambie,22161,Reservoir (Vic.),66.65,ok
+22898,Yan Yean,22161,Reservoir (Vic.),78.5,ok
+22906,Yannathan,22161,Reservoir (Vic.),,no_eligible_route
+22910,Yarra Glen,22161,Reservoir (Vic.),143.33,ok
+22911,Yarra Junction,22161,Reservoir (Vic.),152.57,ok
+22916,Yarrambat,22161,Reservoir (Vic.),55.88,ok
+22917,Yarraville,22161,Reservoir (Vic.),71.65,ok
+22925,Yellingbo,22161,Reservoir (Vic.),,no_eligible_route
+22930,Yering,22161,Reservoir (Vic.),,no_eligible_route
+22941,Yuroke,22161,Reservoir (Vic.),131.58,ok

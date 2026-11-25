@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20124,Balwyn North,36.82,ok
+20003,Aberfeldie,20124,Balwyn North,85.95,ok
+20011,Aintree,20124,Balwyn North,120.68,ok
+20015,Airport West,20124,Balwyn North,99.05,ok
+20017,Albanvale,20124,Balwyn North,104.33,ok
+20018,Albert Park (Vic.),20124,Balwyn North,66.55,ok
+20021,Albion (Vic.),20124,Balwyn North,83.55,ok
+20034,Alphington,20124,Balwyn North,36.18,ok
+20035,Altona (Vic.),20124,Balwyn North,88.83,ok
+20036,Altona Meadows,20124,Balwyn North,94.98,ok
+20037,Altona North,20124,Balwyn North,103.08,ok
+20062,Ardeer,20124,Balwyn North,97.7,ok
+20066,Armadale (Vic.),20124,Balwyn North,55.27,ok
+20071,Arthurs Creek,20124,Balwyn North,,no_eligible_route
+20072,Arthurs Seat,20124,Balwyn North,,no_eligible_route
+20075,Ascot Vale,20124,Balwyn North,78.05,ok
+20077,Ashburton,20124,Balwyn North,53.58,ok
+20078,Ashwood,20124,Balwyn North,63.1,ok
+20079,Aspendale,20124,Balwyn North,101.08,ok
+20080,Aspendale Gardens,20124,Balwyn North,121.42,ok
+20082,Attwood,20124,Balwyn North,108.95,ok
+20089,Avondale Heights,20124,Balwyn North,94.27,ok
+20091,Avonsleigh,20124,Balwyn North,135.17,ok
+20095,Bacchus Marsh,20124,Balwyn North,,no_eligible_route
+20097,Badger Creek,20124,Balwyn North,150.07,ok
+20105,Balaclava (Vic.),20124,Balwyn North,57.62,ok
+20120,Balnarring,20124,Balwyn North,,no_eligible_route
+20121,Balnarring Beach,20124,Balwyn North,,no_eligible_route
+20123,Balwyn,20124,Balwyn North,10.73,ok
+20124,Balwyn North,20124,Balwyn North,0.0,same_centroid
+20131,Bangholme,20124,Balwyn North,152.68,ok
+20169,Baxter,20124,Balwyn North,141.43,ok
+20171,Bayles,20124,Balwyn North,,no_eligible_route
+20173,Bayswater (Vic.),20124,Balwyn North,67.23,ok
+20174,Bayswater North,20124,Balwyn North,90.62,ok
+20175,Beaconsfield (Vic.),20124,Balwyn North,142.68,ok
+20176,Beaconsfield Upper,20124,Balwyn North,,no_eligible_route
+20182,Beaumaris (Vic.),20124,Balwyn North,98.97,ok
+20187,Beenak,20124,Balwyn North,,no_eligible_route
+20188,Belgrave,20124,Balwyn North,79.32,ok
+20189,Belgrave Heights,20124,Balwyn North,111.98,ok
+20190,Belgrave South,20124,Balwyn North,117.97,ok
+20198,Bellfield (Banyule - Vic.),20124,Balwyn North,49.32,ok
+20207,Bend Of Islands,20124,Balwyn North,,no_eligible_route
+20212,Benloch,20124,Balwyn North,,no_eligible_route
+20214,Bentleigh,20124,Balwyn North,82.87,ok
+20215,Bentleigh East,20124,Balwyn North,85.82,ok
+20224,Berwick,20124,Balwyn North,115.48,ok
+20233,Beveridge,20124,Balwyn North,141.32,ok
+20237,Big Pats Creek,20124,Balwyn North,,no_eligible_route
+20248,Bittern,20124,Balwyn North,159.42,ok
+20251,Black Rock (Vic.),20124,Balwyn North,104.77,ok
+20252,Blackburn,20124,Balwyn North,36.55,ok
+20253,Blackburn North,20124,Balwyn North,52.0,ok
+20254,Blackburn South,20124,Balwyn North,59.9,ok
+20257,Blairgowrie,20124,Balwyn North,215.53,ok
+20260,Blind Bight,20124,Balwyn North,,no_eligible_route
+20272,Bolinda,20124,Balwyn North,,no_eligible_route
+20278,Bonbeach,20124,Balwyn North,106.08,ok
+20280,Boneo,20124,Balwyn North,,no_eligible_route
+20282,Bonnie Brook,20124,Balwyn North,160.23,ok
+20304,Boronia,20124,Balwyn North,69.7,ok
+20307,Botanic Ridge,20124,Balwyn North,165.2,ok
+20314,Box Hill (Vic.),20124,Balwyn North,33.68,ok
+20315,Box Hill North,20124,Balwyn North,40.02,ok
+20316,Box Hill South,20124,Balwyn North,46.17,ok
+20320,Braeside,20124,Balwyn North,128.17,ok
+20324,Braybrook,20124,Balwyn North,89.33,ok
+20331,Briar Hill,20124,Balwyn North,69.37,ok
+20337,Brighton (Vic.),20124,Balwyn North,70.38,ok
+20338,Brighton East,20124,Balwyn North,90.52,ok
+20346,Broadmeadows (Vic.),20124,Balwyn North,93.52,ok
+20351,Brookfield (Vic.),20124,Balwyn North,183.3,ok
+20352,Brooklyn (Vic.),20124,Balwyn North,96.0,ok
+20361,Brunswick (Vic.),20124,Balwyn North,67.58,ok
+20362,Brunswick East,20124,Balwyn North,60.17,ok
+20363,Brunswick West,20124,Balwyn North,76.68,ok
+20381,Bulla (Vic.),20124,Balwyn North,156.92,ok
+20386,Bulleen,20124,Balwyn North,34.48,ok
+20387,Bullengarook,20124,Balwyn North,,no_eligible_route
+20399,Bundoora (Vic.),20124,Balwyn North,68.23,ok
+20411,Bunyip,20124,Balwyn North,,no_eligible_route
+20412,Bunyip North,20124,Balwyn North,,no_eligible_route
+20418,Burnley,20124,Balwyn North,46.18,ok
+20419,Burnside (Vic.),20124,Balwyn North,106.62,ok
+20420,Burnside Heights,20124,Balwyn North,113.58,ok
+20426,Burwood (Vic.),20124,Balwyn North,47.32,ok
+20427,Burwood East,20124,Balwyn North,57.98,ok
+20435,Bylands,20124,Balwyn North,,no_eligible_route
+20441,Cairnlea,20124,Balwyn North,88.77,ok
+20442,Calder Park,20124,Balwyn North,121.52,ok
+20443,Caldermeade,20124,Balwyn North,,no_eligible_route
+20453,Camberwell (Vic.),20124,Balwyn North,35.35,ok
+20455,Campbellfield,20124,Balwyn North,105.05,ok
+20466,Cannons Creek,20124,Balwyn North,,no_eligible_route
+20468,Canterbury (Vic.),20124,Balwyn North,13.57,ok
+20474,Cape Schanck,20124,Balwyn North,,no_eligible_route
+20476,Capel Sound,20124,Balwyn North,200.88,ok
+20487,Cardinia,20124,Balwyn North,,no_eligible_route
+20495,Carlton (Vic.),20124,Balwyn North,40.42,ok
+20496,Carlton North,20124,Balwyn North,60.72,ok
+20498,Carnegie,20124,Balwyn North,69.52,ok
+20500,Caroline Springs,20124,Balwyn North,108.47,ok
+20507,Carrum,20124,Balwyn North,105.9,ok
+20508,Carrum Downs,20124,Balwyn North,133.0,ok
+20512,Castella,20124,Balwyn North,,no_eligible_route
+20517,Catani,20124,Balwyn North,,no_eligible_route
+20521,Caulfield,20124,Balwyn North,74.67,ok
+20522,Caulfield East,20124,Balwyn North,67.68,ok
+20523,Caulfield North,20124,Balwyn North,53.18,ok
+20524,Caulfield South,20124,Balwyn North,79.27,ok
+20528,Chadstone,20124,Balwyn North,62.2,ok
+20537,Chelsea,20124,Balwyn North,103.15,ok
+20538,Chelsea Heights,20124,Balwyn North,121.8,ok
+20539,Cheltenham (Vic.),20124,Balwyn North,92.62,ok
+20541,Cherokee,20124,Balwyn North,,no_eligible_route
+20555,Chintin,20124,Balwyn North,,no_eligible_route
+20556,Chirnside Park,20124,Balwyn North,87.6,ok
+20559,Christmas Hills (Vic.),20124,Balwyn North,,no_eligible_route
+20560,Chum Creek,20124,Balwyn North,,no_eligible_route
+20566,Clarinda,20124,Balwyn North,99.0,ok
+20567,Clarkefield,20124,Balwyn North,,no_eligible_route
+20569,Clayton,20124,Balwyn North,85.65,ok
+20570,Clayton South,20124,Balwyn North,108.13,ok
+20572,Clematis,20124,Balwyn North,107.58,ok
+20574,Clifton Hill,20124,Balwyn North,39.65,ok
+20576,Clonbinane,20124,Balwyn North,,no_eligible_route
+20581,Clyde (Vic.),20124,Balwyn North,167.03,ok
+20582,Clyde North,20124,Balwyn North,146.0,ok
+20587,Cobaw,20124,Balwyn North,,no_eligible_route
+20590,Cobblebank,20124,Balwyn North,163.38,ok
+20596,Coburg,20124,Balwyn North,78.03,ok
+20597,Coburg North,20124,Balwyn North,87.45,ok
+20600,Cockatoo (Vic.),20124,Balwyn North,138.85,ok
+20601,Cocoroc,20124,Balwyn North,,no_eligible_route
+20605,Coimadai,20124,Balwyn North,,no_eligible_route
+20613,Coldstream (Vic.),20124,Balwyn North,,no_eligible_route
+20616,Collingwood (Vic.),20124,Balwyn North,31.02,ok
+20624,Coolaroo,20124,Balwyn North,100.18,ok
+20633,Cora Lynn,20124,Balwyn North,,no_eligible_route
+20654,Cottles Bridge,20124,Balwyn North,,no_eligible_route
+20661,Craigieburn,20124,Balwyn North,117.83,ok
+20662,Cranbourne,20124,Balwyn North,136.98,ok
+20663,Cranbourne East,20124,Balwyn North,140.23,ok
+20664,Cranbourne North,20124,Balwyn North,125.0,ok
+20665,Cranbourne South,20124,Balwyn North,168.55,ok
+20666,Cranbourne West,20124,Balwyn North,139.05,ok
+20670,Cremorne (Vic.),20124,Balwyn North,42.7,ok
+20674,Crib Point,20124,Balwyn North,168.38,ok
+20682,Croydon (Vic.),20124,Balwyn North,57.33,ok
+20683,Croydon Hills,20124,Balwyn North,80.67,ok
+20684,Croydon North,20124,Balwyn North,85.6,ok
+20685,Croydon South,20124,Balwyn North,88.33,ok
+20702,Dallas,20124,Balwyn North,102.58,ok
+20703,Dalmore,20124,Balwyn North,,no_eligible_route
+20707,Dandenong,20124,Balwyn North,103.08,ok
+20708,Dandenong North,20124,Balwyn North,113.22,ok
+20709,Dandenong South,20124,Balwyn North,135.02,ok
+20712,Darley,20124,Balwyn North,,no_eligible_route
+20716,Darraweit Guim,20124,Balwyn North,,no_eligible_route
+20724,Deanside,20124,Balwyn North,132.83,ok
+20728,Deepdene (Vic.),20124,Balwyn North,20.62,ok
+20729,Deer Park,20124,Balwyn North,94.53,ok
+20731,Delahey,20124,Balwyn North,109.67,ok
+20743,Derrimut,20124,Balwyn North,123.1,ok
+20748,Devon Meadows,20124,Balwyn North,173.78,ok
+20750,Dewhurst,20124,Balwyn North,,no_eligible_route
+20752,Diamond Creek,20124,Balwyn North,78.92,ok
+20754,Diggers Rest,20124,Balwyn North,111.65,ok
+20758,Dingley Village,20124,Balwyn North,109.52,ok
+20762,Dixons Creek,20124,Balwyn North,,no_eligible_route
+20766,Docklands,20124,Balwyn North,55.62,ok
+20769,Don Valley,20124,Balwyn North,,no_eligible_route
+20771,Doncaster,20124,Balwyn North,19.73,ok
+20772,Doncaster East,20124,Balwyn North,49.5,ok
+20773,Donnybrook (Vic.),20124,Balwyn North,131.03,ok
+20774,Donvale,20124,Balwyn North,58.83,ok
+20779,Doreen,20124,Balwyn North,107.03,ok
+20783,Doveton,20124,Balwyn North,120.92,ok
+20788,Dromana,20124,Balwyn North,210.67,ok
+20825,Eaglemont,20124,Balwyn North,39.93,ok
+20830,East Melbourne,20124,Balwyn North,37.73,ok
+20833,East Warburton,20124,Balwyn North,,no_eligible_route
+20843,Eden Park,20124,Balwyn North,,no_eligible_route
+20848,Edithvale,20124,Balwyn North,103.28,ok
+20864,Elsternwick,20124,Balwyn North,65.53,ok
+20865,Eltham (Vic.),20124,Balwyn North,69.6,ok
+20866,Eltham North,20124,Balwyn North,78.0,ok
+20867,Elwood,20124,Balwyn North,71.72,ok
+20868,Emerald (Vic.),20124,Balwyn North,134.77,ok
+20871,Endeavour Hills,20124,Balwyn North,129.22,ok
+20878,Epping (Vic.),20124,Balwyn North,100.97,ok
+20885,Essendon,20124,Balwyn North,81.05,ok
+20886,Essendon Fields,20124,Balwyn North,102.1,ok
+20887,Essendon North,20124,Balwyn North,83.1,ok
+20888,Essendon West,20124,Balwyn North,84.75,ok
+20889,Eumemmerring,20124,Balwyn North,126.45,ok
+20898,Exford,20124,Balwyn North,,no_eligible_route
+20899,Eynesbury,20124,Balwyn North,,no_eligible_route
+20901,Fairfield (Vic.),20124,Balwyn North,40.9,ok
+20909,Fawkner,20124,Balwyn North,97.5,ok
+20916,Fernshaw,20124,Balwyn North,,no_eligible_route
+20917,Ferntree Gully,20124,Balwyn North,76.93,ok
+20918,Ferny Creek,20124,Balwyn North,130.6,ok
+20920,Fingal (Vic.),20124,Balwyn North,,no_eligible_route
+20924,Fitzroy (Vic.),20124,Balwyn North,37.2,ok
+20925,Fitzroy North,20124,Balwyn North,50.97,ok
+20929,Flemington,20124,Balwyn North,77.5,ok
+20930,Flinders (Vic.),20124,Balwyn North,,no_eligible_route
+20935,Footscray,20124,Balwyn North,70.6,ok
+20937,Forest Hill (Vic.),20124,Balwyn North,54.62,ok
+20947,Frankston,20124,Balwyn North,122.02,ok
+20948,Frankston North,20124,Balwyn North,137.55,ok
+20949,Frankston South,20124,Balwyn North,152.8,ok
+20950,Fraser Rise,20124,Balwyn North,132.27,ok
+20965,Gardenvale,20124,Balwyn North,66.82,ok
+20966,Garfield,20124,Balwyn North,,no_eligible_route
+20967,Garfield North,20124,Balwyn North,,no_eligible_route
+20979,Gembrook,20124,Balwyn North,,no_eligible_route
+20995,Gilderoy,20124,Balwyn North,,no_eligible_route
+21001,Gisborne,20124,Balwyn North,,no_eligible_route
+21002,Gisborne South,20124,Balwyn North,,no_eligible_route
+21004,Gladstone Park,20124,Balwyn North,116.4,ok
+21005,Gladysdale,20124,Balwyn North,,no_eligible_route
+21009,Glen Huntly,20124,Balwyn North,74.98,ok
+21010,Glen Iris (Vic.),20124,Balwyn North,42.58,ok
+21013,Glen Waverley,20124,Balwyn North,75.45,ok
+21047,Glenroy (Vic.),20124,Balwyn North,97.43,ok
+21059,Goldie,20124,Balwyn North,,no_eligible_route
+21079,Gowanbrae,20124,Balwyn North,112.7,ok
+21087,Grangefields,20124,Balwyn North,162.48,ok
+21104,Greensborough,20124,Balwyn North,51.93,ok
+21105,Greenvale (Vic.),20124,Balwyn North,125.5,ok
+21115,Gruyere,20124,Balwyn North,,no_eligible_route
+21121,Guys Hill,20124,Balwyn North,,no_eligible_route
+21124,Hadfield,20124,Balwyn North,91.72,ok
+21125,Hallam,20124,Balwyn North,120.6,ok
+21131,Hampton (Vic.),20124,Balwyn North,90.22,ok
+21132,Hampton East,20124,Balwyn North,89.63,ok
+21133,Hampton Park,20124,Balwyn North,122.02,ok
+21139,Harkaway,20124,Balwyn North,,no_eligible_route
+21140,Harkness,20124,Balwyn North,184.78,ok
+21145,Hastings (Vic.),20124,Balwyn North,160.95,ok
+21152,Hawthorn (Vic.),20124,Balwyn North,38.58,ok
+21153,Hawthorn East,20124,Balwyn North,29.07,ok
+21158,Healesville,20124,Balwyn North,153.98,ok
+21159,Heath Hill,20124,Balwyn North,,no_eligible_route
+21161,Heathcote Junction,20124,Balwyn North,,no_eligible_route
+21163,Heatherton,20124,Balwyn North,101.08,ok
+21165,Heathmont,20124,Balwyn North,56.5,ok
+21167,Heidelberg,20124,Balwyn North,46.97,ok
+21168,Heidelberg Heights,20124,Balwyn North,48.08,ok
+21169,Heidelberg West,20124,Balwyn North,57.23,ok
+21176,Hesket,20124,Balwyn North,,no_eligible_route
+21185,Highett,20124,Balwyn North,82.4,ok
+21193,Hillside (Melton - Vic.),20124,Balwyn North,111.73,ok
+21195,Hmas Cerberus,20124,Balwyn North,,no_eligible_route
+21196,Hoddles Creek,20124,Balwyn North,,no_eligible_route
+21202,Hopetoun Park,20124,Balwyn North,,no_eligible_route
+21203,Hoppers Crossing,20124,Balwyn North,114.48,ok
+21214,Hughesdale,20124,Balwyn North,79.35,ok
+21215,Humevale,20124,Balwyn North,142.93,ok
+21218,Huntingdale (Vic.),20124,Balwyn North,82.83,ok
+21223,Hurstbridge,20124,Balwyn North,79.47,ok
+21238,Iona,20124,Balwyn North,,no_eligible_route
+21246,Ivanhoe (Vic.),20124,Balwyn North,32.25,ok
+21247,Ivanhoe East,20124,Balwyn North,27.72,ok
+21248,Jacana,20124,Balwyn North,101.0,ok
+21277,Junction Village,20124,Balwyn North,159.92,ok
+21284,Kalkallo,20124,Balwyn North,140.42,ok
+21286,Kallista,20124,Balwyn North,125.55,ok
+21287,Kalorama,20124,Balwyn North,97.3,ok
+21294,Kangaroo Ground,20124,Balwyn North,114.67,ok
+21312,Kealba,20124,Balwyn North,98.8,ok
+21314,Keilor,20124,Balwyn North,127.25,ok
+21315,Keilor Downs,20124,Balwyn North,110.9,ok
+21316,Keilor East,20124,Balwyn North,100.93,ok
+21317,Keilor Lodge,20124,Balwyn North,108.7,ok
+21318,Keilor North,20124,Balwyn North,118.15,ok
+21319,Keilor Park,20124,Balwyn North,107.03,ok
+21327,Kensington (Vic.),20124,Balwyn North,66.73,ok
+21333,Kerrie,20124,Balwyn North,,no_eligible_route
+21336,Kew (Vic.),20124,Balwyn North,22.63,ok
+21337,Kew East,20124,Balwyn North,16.98,ok
+21339,Keysborough,20124,Balwyn North,120.82,ok
+21354,Kilsyth,20124,Balwyn North,84.68,ok
+21355,Kilsyth South,20124,Balwyn North,99.77,ok
+21358,Kinglake,20124,Balwyn North,191.87,ok
+21359,Kinglake Central,20124,Balwyn North,,no_eligible_route
+21360,Kinglake West,20124,Balwyn North,145.9,ok
+21362,Kings Park (Vic.),20124,Balwyn North,102.9,ok
+21363,Kingsbury,20124,Balwyn North,73.32,ok
+21365,Kingsville,20124,Balwyn North,80.03,ok
+21374,Knoxfield,20124,Balwyn North,83.45,ok
+21380,Koo Wee Rup,20124,Balwyn North,,no_eligible_route
+21381,Koo Wee Rup North,20124,Balwyn North,,no_eligible_route
+21393,Kooyong,20124,Balwyn North,44.68,ok
+21411,Kurunjang,20124,Balwyn North,161.98,ok
+21452,Lalor,20124,Balwyn North,73.03,ok
+21456,Lancefield,20124,Balwyn North,,no_eligible_route
+21459,Lang Lang,20124,Balwyn North,,no_eligible_route
+21460,Lang Lang East,20124,Balwyn North,,no_eligible_route
+21467,Langwarrin,20124,Balwyn North,139.37,ok
+21468,Langwarrin South,20124,Balwyn North,,no_eligible_route
+21473,Launching Place,20124,Balwyn North,100.98,ok
+21476,Laverton (Vic.),20124,Balwyn North,95.28,ok
+21477,Laverton North,20124,Balwyn North,121.72,ok
+21504,Lilydale (Vic.),20124,Balwyn North,80.63,ok
+21533,Long Forest,20124,Balwyn North,,no_eligible_route
+21547,Lower Plenty,20124,Balwyn North,69.28,ok
+21554,Lynbrook,20124,Balwyn North,117.15,ok
+21555,Lyndhurst (Vic.),20124,Balwyn North,167.43,ok
+21558,Lysterfield,20124,Balwyn North,,no_eligible_route
+21559,Lysterfield South,20124,Balwyn North,158.95,ok
+21561,Macclesfield (Vic.),20124,Balwyn North,,no_eligible_route
+21562,Macedon,20124,Balwyn North,,no_eligible_route
+21564,Macleod (Vic.),20124,Balwyn North,52.22,ok
+21569,Maddingley,20124,Balwyn North,,no_eligible_route
+21575,Maidstone,20124,Balwyn North,85.82,ok
+21578,Main Ridge,20124,Balwyn North,,no_eligible_route
+21586,Malvern (Vic.),20124,Balwyn North,51.3,ok
+21587,Malvern East,20124,Balwyn North,69.37,ok
+21588,Mambourin,20124,Balwyn North,,no_eligible_route
+21597,Manor Lakes,20124,Balwyn North,152.22,ok
+21604,Maribyrnong,20124,Balwyn North,92.53,ok
+21619,Maryknoll,20124,Balwyn North,,no_eligible_route
+21625,McCrae,20124,Balwyn North,194.08,ok
+21629,McKinnon,20124,Balwyn North,68.85,ok
+21635,Meadow Heights,20124,Balwyn North,115.45,ok
+21640,Melbourne,20124,Balwyn North,48.45,ok
+21641,Melbourne Airport,20124,Balwyn North,,no_eligible_route
+21642,Melton (Vic.),20124,Balwyn North,165.6,ok
+21643,Melton South,20124,Balwyn North,179.2,ok
+21644,Melton West,20124,Balwyn North,158.17,ok
+21648,Mentone,20124,Balwyn North,87.38,ok
+21649,Menzies Creek,20124,Balwyn North,106.38,ok
+21659,Mernda,20124,Balwyn North,106.33,ok
+21662,Merricks,20124,Balwyn North,,no_eligible_route
+21663,Merricks Beach,20124,Balwyn North,,no_eligible_route
+21664,Merricks North,20124,Balwyn North,,no_eligible_route
+21668,Merrimu,20124,Balwyn North,,no_eligible_route
+21675,Mickleham,20124,Balwyn North,146.4,ok
+21677,Middle Park (Vic.),20124,Balwyn North,72.83,ok
+21683,Mill Park,20124,Balwyn North,90.12,ok
+21685,Millgrove,20124,Balwyn North,,no_eligible_route
+21706,Mitcham (Vic.),20124,Balwyn North,51.23,ok
+21727,Monbulk,20124,Balwyn North,134.48,ok
+21728,Monegeetta,20124,Balwyn North,,no_eligible_route
+21731,Monomeith,20124,Balwyn North,,no_eligible_route
+21732,Mont Albert,20124,Balwyn North,26.88,ok
+21733,Mont Albert North,20124,Balwyn North,24.18,ok
+21735,Montmorency,20124,Balwyn North,49.68,ok
+21736,Montrose (Vic.),20124,Balwyn North,90.6,ok
+21742,Moonee Ponds,20124,Balwyn North,70.35,ok
+21746,Moorabbin,20124,Balwyn North,95.8,ok
+21747,Moorabbin Airport,20124,Balwyn North,110.88,ok
+21754,Moorooduc,20124,Balwyn North,,no_eligible_route
+21755,Mooroolbark,20124,Balwyn North,75.95,ok
+21760,Mordialloc,20124,Balwyn North,102.68,ok
+21763,Mornington (Vic.),20124,Balwyn North,164.73,ok
+21779,Mount Burnett,20124,Balwyn North,,no_eligible_route
+21786,Mount Cottrell,20124,Balwyn North,,no_eligible_route
+21787,Mount Dandenong,20124,Balwyn North,107.75,ok
+21793,Mount Eliza,20124,Balwyn North,142.92,ok
+21795,Mount Evelyn,20124,Balwyn North,92.47,ok
+21801,Mount Macedon,20124,Balwyn North,,no_eligible_route
+21803,Mount Martha,20124,Balwyn North,162.6,ok
+21814,Mount Toolebewong,20124,Balwyn North,,no_eligible_route
+21816,Mount Waverley,20124,Balwyn North,63.18,ok
+21827,Mulgrave (Vic.),20124,Balwyn North,107.88,ok
+21849,Murrumbeena,20124,Balwyn North,82.63,ok
+21872,Nangana,20124,Balwyn North,,no_eligible_route
+21878,Nar Nar Goon,20124,Balwyn North,,no_eligible_route
+21879,Nar Nar Goon North,20124,Balwyn North,,no_eligible_route
+21893,Narre Warren,20124,Balwyn North,121.03,ok
+21894,Narre Warren East,20124,Balwyn North,,no_eligible_route
+21895,Narre Warren North,20124,Balwyn North,133.85,ok
+21896,Narre Warren South,20124,Balwyn North,123.25,ok
+21921,New Gisborne,20124,Balwyn North,,no_eligible_route
+21934,Newport (Vic.),20124,Balwyn North,74.28,ok
+21942,Niddrie,20124,Balwyn North,98.52,ok
+21952,Noble Park,20124,Balwyn North,93.85,ok
+21953,Noble Park North,20124,Balwyn North,126.83,ok
+21966,North Melbourne,20124,Balwyn North,56.5,ok
+21969,North Warrandyte,20124,Balwyn North,86.32,ok
+21971,Northcote,20124,Balwyn North,55.23,ok
+21974,Notting Hill,20124,Balwyn North,70.98,ok
+21985,Nunawading,20124,Balwyn North,43.72,ok
+21991,Nutfield,20124,Balwyn North,,no_eligible_route
+21998,Oak Park,20124,Balwyn North,88.67,ok
+21999,Oaklands Junction,20124,Balwyn North,,no_eligible_route
+22000,Oakleigh,20124,Balwyn North,73.78,ok
+22001,Oakleigh East,20124,Balwyn North,80.83,ok
+22002,Oakleigh South,20124,Balwyn North,90.45,ok
+22006,Officer,20124,Balwyn North,135.13,ok
+22007,Officer South,20124,Balwyn North,,no_eligible_route
+22009,Olinda (Vic.),20124,Balwyn North,125.95,ok
+22016,Ormond,20124,Balwyn North,72.13,ok
+22027,Pakenham,20124,Balwyn North,134.18,ok
+22028,Pakenham South,20124,Balwyn North,,no_eligible_route
+22029,Pakenham Upper,20124,Balwyn North,,no_eligible_route
+22032,Panton Hill,20124,Balwyn North,,no_eligible_route
+22036,Park Orchards,20124,Balwyn North,63.5,ok
+22037,Parkdale,20124,Balwyn North,92.47,ok
+22038,Parkville (Vic.),20124,Balwyn North,67.38,ok
+22041,Pascoe Vale,20124,Balwyn North,91.92,ok
+22042,Pascoe Vale South,20124,Balwyn North,86.1,ok
+22047,Patterson Lakes,20124,Balwyn North,114.77,ok
+22050,Pearcedale,20124,Balwyn North,,no_eligible_route
+22058,Pentland Hills,20124,Balwyn North,,no_eligible_route
+22064,Pheasant Creek (Vic.),20124,Balwyn North,161.55,ok
+22084,Plenty (Vic.),20124,Balwyn North,89.05,ok
+22085,Plumpton (Vic.),20124,Balwyn North,,no_eligible_route
+22086,Point Cook,20124,Balwyn North,113.48,ok
+22087,Point Leo,20124,Balwyn North,,no_eligible_route
+22107,Port Melbourne,20124,Balwyn North,67.28,ok
+22113,Portsea,20124,Balwyn North,,no_eligible_route
+22115,Powelltown,20124,Balwyn North,,no_eligible_route
+22118,Prahran,20124,Balwyn North,61.17,ok
+22121,Preston (Vic.),20124,Balwyn North,63.37,ok
+22122,Princes Hill,20124,Balwyn North,56.53,ok
+22132,Quandong,20124,Balwyn North,,no_eligible_route
+22141,Ravenhall,20124,Balwyn North,140.28,ok
+22148,Red Hill (Vic.),20124,Balwyn North,,no_eligible_route
+22149,Red Hill South,20124,Balwyn North,,no_eligible_route
+22160,Research,20124,Balwyn North,84.0,ok
+22161,Reservoir (Vic.),20124,Balwyn North,69.85,ok
+22170,Richmond (Vic.),20124,Balwyn North,31.12,ok
+22172,Riddells Creek,20124,Balwyn North,,no_eligible_route
+22174,Ringwood (Vic.),20124,Balwyn North,57.87,ok
+22175,Ringwood East,20124,Balwyn North,57.42,ok
+22176,Ringwood North,20124,Balwyn North,73.22,ok
+22179,Ripponlea,20124,Balwyn North,56.25,ok
+22185,Rochford,20124,Balwyn North,,no_eligible_route
+22186,Rockbank,20124,Balwyn North,138.87,ok
+22193,Romsey,20124,Balwyn North,,no_eligible_route
+22194,Rosanna,20124,Balwyn North,48.98,ok
+22198,Rosebud,20124,Balwyn North,211.4,ok
+22207,Rowville,20124,Balwyn North,103.02,ok
+22208,Roxburgh Park,20124,Balwyn North,116.67,ok
+22220,Rye,20124,Balwyn North,223.6,ok
+22221,Rythdale,20124,Balwyn North,,no_eligible_route
+22222,Safety Beach (Vic.),20124,Balwyn North,178.57,ok
+22232,Sandhurst,20124,Balwyn North,143.1,ok
+22234,Sandringham (Vic.),20124,Balwyn North,95.1,ok
+22239,Sassafras (Vic.),20124,Balwyn North,113.37,ok
+22242,Scoresby,20124,Balwyn North,92.23,ok
+22247,Seabrook,20124,Balwyn North,103.58,ok
+22249,Seaford (Vic.),20124,Balwyn North,118.0,ok
+22250,Seaholme,20124,Balwyn North,83.52,ok
+22256,Seddon (Vic.),20124,Balwyn North,67.53,ok
+22258,Selby,20124,Balwyn North,106.05,ok
+22263,Seville,20124,Balwyn North,112.15,ok
+22264,Seville East,20124,Balwyn North,99.03,ok
+22278,Sherbrooke,20124,Balwyn North,117.1,ok
+22279,Shoreham,20124,Balwyn North,,no_eligible_route
+22281,Silvan,20124,Balwyn North,126.58,ok
+22291,Skye (Vic.),20124,Balwyn North,163.77,ok
+22295,Smiths Gully,20124,Balwyn North,,no_eligible_route
+22303,Somers,20124,Balwyn North,,no_eligible_route
+22304,Somerton (Vic.),20124,Balwyn North,107.47,ok
+22305,Somerville (Vic.),20124,Balwyn North,166.0,ok
+22306,Sorrento (Vic.),20124,Balwyn North,214.37,ok
+22309,South Kingsville,20124,Balwyn North,86.53,ok
+22310,South Melbourne,20124,Balwyn North,62.75,ok
+22311,South Morang,20124,Balwyn North,93.73,ok
+22313,South Wharf,20124,Balwyn North,62.55,ok
+22314,South Yarra,20124,Balwyn North,47.02,ok
+22315,Southbank,20124,Balwyn North,56.15,ok
+22319,Spotswood,20124,Balwyn North,67.68,ok
+22325,Springfield (Macedon Ranges - Vic.),20124,Balwyn North,,no_eligible_route
+22328,Springvale (Vic.),20124,Balwyn North,95.67,ok
+22329,Springvale South,20124,Balwyn North,100.18,ok
+22330,St Albans (Vic.),20124,Balwyn North,86.18,ok
+22332,St Andrews (Vic.),20124,Balwyn North,,no_eligible_route
+22333,St Andrews Beach,20124,Balwyn North,,no_eligible_route
+22339,St Helena,20124,Balwyn North,73.27,ok
+22343,St Kilda (Vic.),20124,Balwyn North,55.25,ok
+22344,St Kilda East,20124,Balwyn North,70.53,ok
+22345,St Kilda West,20124,Balwyn North,71.52,ok
+22355,Steels Creek,20124,Balwyn North,,no_eligible_route
+22375,Strathewen,20124,Balwyn North,,no_eligible_route
+22380,Strathmore (Vic.),20124,Balwyn North,97.83,ok
+22381,Strathmore Heights,20124,Balwyn North,105.65,ok
+22382,Strathtulloh,20124,Balwyn North,,no_eligible_route
+22391,Sunbury,20124,Balwyn North,149.5,ok
+22395,Sunshine (Vic.),20124,Balwyn North,72.97,ok
+22396,Sunshine North,20124,Balwyn North,95.03,ok
+22397,Sunshine West,20124,Balwyn North,96.5,ok
+22399,Surrey Hills,20124,Balwyn North,35.32,ok
+22414,Sydenham (Vic.),20124,Balwyn North,100.52,ok
+22451,Tarneit,20124,Balwyn North,129.58,ok
+22457,Tarrawarra,20124,Balwyn North,129.58,ok
+22473,Taylors Hill,20124,Balwyn North,112.42,ok
+22474,Taylors Lakes,20124,Balwyn North,103.0,ok
+22476,Tecoma,20124,Balwyn North,76.32,ok
+22483,Templestowe,20124,Balwyn North,39.35,ok
+22484,Templestowe Lower,20124,Balwyn North,34.32,ok
+22496,The Basin (Vic.),20124,Balwyn North,98.5,ok
+22501,The Patch,20124,Balwyn North,125.05,ok
+22504,Thomastown,20124,Balwyn North,78.33,ok
+22508,Thornbury,20124,Balwyn North,56.58,ok
+22509,Thornhill Park,20124,Balwyn North,,no_eligible_route
+22514,Three Bridges,20124,Balwyn North,,no_eligible_route
+22531,Tonimbuk,20124,Balwyn North,,no_eligible_route
+22536,Toolangi,20124,Balwyn North,,no_eligible_route
+22537,Toolern Vale,20124,Balwyn North,,no_eligible_route
+22546,Tooradin,20124,Balwyn North,,no_eligible_route
+22547,Toorak,20124,Balwyn North,58.82,ok
+22550,Tootgarook,20124,Balwyn North,207.02,ok
+22556,Tottenham (Vic.),20124,Balwyn North,101.4,ok
+22572,Travancore,20124,Balwyn North,66.92,ok
+22576,Tremont,20124,Balwyn North,94.92,ok
+22582,Truganina,20124,Balwyn North,189.7,ok
+22584,Tuerong,20124,Balwyn North,,no_eligible_route
+22586,Tullamarine,20124,Balwyn North,113.08,ok
+22594,Tyabb,20124,Balwyn North,154.87,ok
+22598,Tynong,20124,Balwyn North,,no_eligible_route
+22599,Tynong North,20124,Balwyn North,,no_eligible_route
+22614,Upper Ferntree Gully,20124,Balwyn North,74.47,ok
+22617,Upper Plenty,20124,Balwyn North,,no_eligible_route
+22620,Upwey,20124,Balwyn North,76.18,ok
+22627,Vermont,20124,Balwyn North,68.78,ok
+22628,Vermont South,20124,Balwyn North,68.85,ok
+22629,Vervale,20124,Balwyn North,,no_eligible_route
+22633,Viewbank,20124,Balwyn North,60.98,ok
+22661,Wallan,20124,Balwyn North,,no_eligible_route
+22672,Wandin East,20124,Balwyn North,,no_eligible_route
+22673,Wandin North,20124,Balwyn North,85.12,ok
+22676,Wandong,20124,Balwyn North,,no_eligible_route
+22685,Wantirna,20124,Balwyn North,77.47,ok
+22686,Wantirna South,20124,Balwyn North,87.63,ok
+22689,Warburton (Vic.),20124,Balwyn North,,no_eligible_route
+22695,Warneet,20124,Balwyn North,,no_eligible_route
+22702,Warrandyte,20124,Balwyn North,66.37,ok
+22703,Warrandyte South,20124,Balwyn North,,no_eligible_route
+22704,Warranwood,20124,Balwyn North,68.32,ok
+22717,Waterford Park,20124,Balwyn North,,no_eligible_route
+22720,Waterways,20124,Balwyn North,123.62,ok
+22721,Watsonia,20124,Balwyn North,51.43,ok
+22722,Watsonia North,20124,Balwyn North,68.42,ok
+22723,Watsons Creek (Vic.),20124,Balwyn North,,no_eligible_route
+22727,Wattle Glen,20124,Balwyn North,83.22,ok
+22740,Weir Views,20124,Balwyn North,213.0,ok
+22750,Werribee,20124,Balwyn North,110.47,ok
+22751,Werribee South,20124,Balwyn North,146.3,ok
+22753,Wesburn,20124,Balwyn North,117.08,ok
+22756,West Footscray,20124,Balwyn North,78.13,ok
+22757,West Melbourne,20124,Balwyn North,69.25,ok
+22761,Westmeadows,20124,Balwyn North,101.7,ok
+22766,Wheelers Hill,20124,Balwyn North,88.05,ok
+22775,Whittlesea,20124,Balwyn North,,no_eligible_route
+22784,Wildwood,20124,Balwyn North,,no_eligible_route
+22791,Williams Landing,20124,Balwyn North,109.53,ok
+22792,Williamstown (Vic.),20124,Balwyn North,87.35,ok
+22793,Williamstown North,20124,Balwyn North,100.98,ok
+22805,Windsor (Vic.),20124,Balwyn North,53.52,ok
+22820,Wollert,20124,Balwyn North,135.93,ok
+22825,Wonga Park,20124,Balwyn North,89.87,ok
+22843,Woodstock (Vic.),20124,Balwyn North,,no_eligible_route
+22857,Woori Yallock,20124,Balwyn North,96.23,ok
+22883,Wyndham Vale,20124,Balwyn North,137.13,ok
+22892,Yallambie,20124,Balwyn North,73.75,ok
+22898,Yan Yean,20124,Balwyn North,127.28,ok
+22906,Yannathan,20124,Balwyn North,,no_eligible_route
+22910,Yarra Glen,20124,Balwyn North,126.88,ok
+22911,Yarra Junction,20124,Balwyn North,121.35,ok
+22916,Yarrambat,20124,Balwyn North,86.58,ok
+22917,Yarraville,20124,Balwyn North,73.43,ok
+22925,Yellingbo,20124,Balwyn North,,no_eligible_route
+22930,Yering,20124,Balwyn North,,no_eligible_route
+22941,Yuroke,20124,Balwyn North,166.47,ok

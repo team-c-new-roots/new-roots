@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21969,North Warrandyte,68.08,ok
+20003,Aberfeldie,21969,North Warrandyte,114.47,ok
+20011,Aintree,21969,North Warrandyte,162.8,ok
+20015,Airport West,21969,North Warrandyte,121.28,ok
+20017,Albanvale,21969,North Warrandyte,147.53,ok
+20018,Albert Park (Vic.),21969,North Warrandyte,93.8,ok
+20021,Albion (Vic.),21969,North Warrandyte,117.93,ok
+20034,Alphington,21969,North Warrandyte,55.5,ok
+20035,Altona (Vic.),21969,North Warrandyte,134.77,ok
+20036,Altona Meadows,21969,North Warrandyte,137.92,ok
+20037,Altona North,21969,North Warrandyte,128.17,ok
+20062,Ardeer,21969,North Warrandyte,135.08,ok
+20066,Armadale (Vic.),21969,North Warrandyte,91.92,ok
+20071,Arthurs Creek,21969,North Warrandyte,,no_eligible_route
+20072,Arthurs Seat,21969,North Warrandyte,,no_eligible_route
+20075,Ascot Vale,21969,North Warrandyte,99.6,ok
+20077,Ashburton,21969,North Warrandyte,98.78,ok
+20078,Ashwood,21969,North Warrandyte,96.48,ok
+20079,Aspendale,21969,North Warrandyte,138.17,ok
+20080,Aspendale Gardens,21969,North Warrandyte,143.43,ok
+20082,Attwood,21969,North Warrandyte,117.12,ok
+20089,Avondale Heights,21969,North Warrandyte,124.47,ok
+20091,Avonsleigh,21969,North Warrandyte,,no_eligible_route
+20095,Bacchus Marsh,21969,North Warrandyte,,no_eligible_route
+20097,Badger Creek,21969,North Warrandyte,163.63,ok
+20105,Balaclava (Vic.),21969,North Warrandyte,100.82,ok
+20120,Balnarring,21969,North Warrandyte,,no_eligible_route
+20121,Balnarring Beach,21969,North Warrandyte,,no_eligible_route
+20123,Balwyn,21969,North Warrandyte,81.2,ok
+20124,Balwyn North,21969,North Warrandyte,62.65,ok
+20131,Bangholme,21969,North Warrandyte,,no_eligible_route
+20169,Baxter,21969,North Warrandyte,,no_eligible_route
+20171,Bayles,21969,North Warrandyte,,no_eligible_route
+20173,Bayswater (Vic.),21969,North Warrandyte,85.43,ok
+20174,Bayswater North,21969,North Warrandyte,83.4,ok
+20175,Beaconsfield (Vic.),21969,North Warrandyte,185.88,ok
+20176,Beaconsfield Upper,21969,North Warrandyte,,no_eligible_route
+20182,Beaumaris (Vic.),21969,North Warrandyte,148.83,ok
+20187,Beenak,21969,North Warrandyte,,no_eligible_route
+20188,Belgrave,21969,North Warrandyte,98.52,ok
+20189,Belgrave Heights,21969,North Warrandyte,127.18,ok
+20190,Belgrave South,21969,North Warrandyte,126.17,ok
+20198,Bellfield (Banyule - Vic.),21969,North Warrandyte,77.43,ok
+20207,Bend Of Islands,21969,North Warrandyte,153.8,walk_only
+20212,Benloch,21969,North Warrandyte,,no_eligible_route
+20214,Bentleigh,21969,North Warrandyte,114.95,ok
+20215,Bentleigh East,21969,North Warrandyte,115.67,ok
+20224,Berwick,21969,North Warrandyte,144.68,ok
+20233,Beveridge,21969,North Warrandyte,155.43,ok
+20237,Big Pats Creek,21969,North Warrandyte,,no_eligible_route
+20248,Bittern,21969,North Warrandyte,,no_eligible_route
+20251,Black Rock (Vic.),21969,North Warrandyte,155.65,ok
+20252,Blackburn,21969,North Warrandyte,56.3,ok
+20253,Blackburn North,21969,North Warrandyte,52.55,ok
+20254,Blackburn South,21969,North Warrandyte,72.1,ok
+20257,Blairgowrie,21969,North Warrandyte,,no_eligible_route
+20260,Blind Bight,21969,North Warrandyte,,no_eligible_route
+20272,Bolinda,21969,North Warrandyte,,no_eligible_route
+20278,Bonbeach,21969,North Warrandyte,143.17,ok
+20280,Boneo,21969,North Warrandyte,,no_eligible_route
+20282,Bonnie Brook,21969,North Warrandyte,195.35,ok
+20304,Boronia,21969,North Warrandyte,85.58,ok
+20307,Botanic Ridge,21969,North Warrandyte,187.55,ok
+20314,Box Hill (Vic.),21969,North Warrandyte,64.83,ok
+20315,Box Hill North,21969,North Warrandyte,66.07,ok
+20316,Box Hill South,21969,North Warrandyte,69.1,ok
+20320,Braeside,21969,North Warrandyte,167.23,ok
+20324,Braybrook,21969,North Warrandyte,114.78,ok
+20331,Briar Hill,21969,North Warrandyte,44.27,ok
+20337,Brighton (Vic.),21969,North Warrandyte,113.58,ok
+20338,Brighton East,21969,North Warrandyte,116.83,ok
+20346,Broadmeadows (Vic.),21969,North Warrandyte,83.63,ok
+20351,Brookfield (Vic.),21969,North Warrandyte,,no_eligible_route
+20352,Brooklyn (Vic.),21969,North Warrandyte,127.78,ok
+20361,Brunswick (Vic.),21969,North Warrandyte,88.25,ok
+20362,Brunswick East,21969,North Warrandyte,82.0,ok
+20363,Brunswick West,21969,North Warrandyte,90.68,ok
+20381,Bulla (Vic.),21969,North Warrandyte,,no_eligible_route
+20386,Bulleen,21969,North Warrandyte,66.65,ok
+20387,Bullengarook,21969,North Warrandyte,,no_eligible_route
+20399,Bundoora (Vic.),21969,North Warrandyte,52.87,ok
+20411,Bunyip,21969,North Warrandyte,,no_eligible_route
+20412,Bunyip North,21969,North Warrandyte,,no_eligible_route
+20418,Burnley,21969,North Warrandyte,94.13,ok
+20419,Burnside (Vic.),21969,North Warrandyte,146.97,ok
+20420,Burnside Heights,21969,North Warrandyte,155.7,ok
+20426,Burwood (Vic.),21969,North Warrandyte,78.6,ok
+20427,Burwood East,21969,North Warrandyte,70.1,ok
+20435,Bylands,21969,North Warrandyte,,no_eligible_route
+20441,Cairnlea,21969,North Warrandyte,130.88,ok
+20442,Calder Park,21969,North Warrandyte,151.72,ok
+20443,Caldermeade,21969,North Warrandyte,,no_eligible_route
+20453,Camberwell (Vic.),21969,North Warrandyte,101.63,ok
+20455,Campbellfield,21969,North Warrandyte,120.48,ok
+20466,Cannons Creek,21969,North Warrandyte,,no_eligible_route
+20468,Canterbury (Vic.),21969,North Warrandyte,77.2,ok
+20474,Cape Schanck,21969,North Warrandyte,,no_eligible_route
+20476,Capel Sound,21969,North Warrandyte,,no_eligible_route
+20487,Cardinia,21969,North Warrandyte,,no_eligible_route
+20495,Carlton (Vic.),21969,North Warrandyte,76.8,ok
+20496,Carlton North,21969,North Warrandyte,95.0,ok
+20498,Carnegie,21969,North Warrandyte,111.42,ok
+20500,Caroline Springs,21969,North Warrandyte,150.58,ok
+20507,Carrum,21969,North Warrandyte,142.98,ok
+20508,Carrum Downs,21969,North Warrandyte,138.48,ok
+20512,Castella,21969,North Warrandyte,,no_eligible_route
+20517,Catani,21969,North Warrandyte,,no_eligible_route
+20521,Caulfield,21969,North Warrandyte,111.92,ok
+20522,Caulfield East,21969,North Warrandyte,103.35,ok
+20523,Caulfield North,21969,North Warrandyte,105.12,ok
+20524,Caulfield South,21969,North Warrandyte,116.45,ok
+20528,Chadstone,21969,North Warrandyte,106.4,ok
+20537,Chelsea,21969,North Warrandyte,136.55,ok
+20538,Chelsea Heights,21969,North Warrandyte,162.18,ok
+20539,Cheltenham (Vic.),21969,North Warrandyte,125.55,ok
+20541,Cherokee,21969,North Warrandyte,,no_eligible_route
+20555,Chintin,21969,North Warrandyte,,no_eligible_route
+20556,Chirnside Park,21969,North Warrandyte,104.8,ok
+20559,Christmas Hills (Vic.),21969,North Warrandyte,234.03,walk_only
+20560,Chum Creek,21969,North Warrandyte,,no_eligible_route
+20566,Clarinda,21969,North Warrandyte,104.72,ok
+20567,Clarkefield,21969,North Warrandyte,,no_eligible_route
+20569,Clayton,21969,North Warrandyte,90.85,ok
+20570,Clayton South,21969,North Warrandyte,110.03,ok
+20572,Clematis,21969,North Warrandyte,,no_eligible_route
+20574,Clifton Hill,21969,North Warrandyte,64.8,ok
+20576,Clonbinane,21969,North Warrandyte,,no_eligible_route
+20581,Clyde (Vic.),21969,North Warrandyte,,no_eligible_route
+20582,Clyde North,21969,North Warrandyte,175.15,ok
+20587,Cobaw,21969,North Warrandyte,,no_eligible_route
+20590,Cobblebank,21969,North Warrandyte,200.77,ok
+20596,Coburg,21969,North Warrandyte,98.27,ok
+20597,Coburg North,21969,North Warrandyte,97.38,ok
+20600,Cockatoo (Vic.),21969,North Warrandyte,,no_eligible_route
+20601,Cocoroc,21969,North Warrandyte,,no_eligible_route
+20605,Coimadai,21969,North Warrandyte,,no_eligible_route
+20613,Coldstream (Vic.),21969,North Warrandyte,,no_eligible_route
+20616,Collingwood (Vic.),21969,North Warrandyte,58.37,ok
+20624,Coolaroo,21969,North Warrandyte,97.12,ok
+20633,Cora Lynn,21969,North Warrandyte,,no_eligible_route
+20654,Cottles Bridge,21969,North Warrandyte,,no_eligible_route
+20661,Craigieburn,21969,North Warrandyte,129.95,ok
+20662,Cranbourne,21969,North Warrandyte,152.33,ok
+20663,Cranbourne East,21969,North Warrandyte,166.43,ok
+20664,Cranbourne North,21969,North Warrandyte,177.25,ok
+20665,Cranbourne South,21969,North Warrandyte,190.9,ok
+20666,Cranbourne West,21969,North Warrandyte,164.4,ok
+20670,Cremorne (Vic.),21969,North Warrandyte,81.72,ok
+20674,Crib Point,21969,North Warrandyte,,no_eligible_route
+20682,Croydon (Vic.),21969,North Warrandyte,66.33,ok
+20683,Croydon Hills,21969,North Warrandyte,61.87,ok
+20684,Croydon North,21969,North Warrandyte,92.88,ok
+20685,Croydon South,21969,North Warrandyte,86.98,ok
+20702,Dallas,21969,North Warrandyte,105.72,ok
+20703,Dalmore,21969,North Warrandyte,,no_eligible_route
+20707,Dandenong,21969,North Warrandyte,115.0,ok
+20708,Dandenong North,21969,North Warrandyte,113.42,ok
+20709,Dandenong South,21969,North Warrandyte,143.65,ok
+20712,Darley,21969,North Warrandyte,,no_eligible_route
+20716,Darraweit Guim,21969,North Warrandyte,,no_eligible_route
+20724,Deanside,21969,North Warrandyte,170.22,ok
+20728,Deepdene (Vic.),21969,North Warrandyte,85.82,ok
+20729,Deer Park,21969,North Warrandyte,131.92,ok
+20731,Delahey,21969,North Warrandyte,147.78,ok
+20743,Derrimut,21969,North Warrandyte,152.48,ok
+20748,Devon Meadows,21969,North Warrandyte,,no_eligible_route
+20750,Dewhurst,21969,North Warrandyte,,no_eligible_route
+20752,Diamond Creek,21969,North Warrandyte,62.0,ok
+20754,Diggers Rest,21969,North Warrandyte,149.03,ok
+20758,Dingley Village,21969,North Warrandyte,146.87,ok
+20762,Dixons Creek,21969,North Warrandyte,,no_eligible_route
+20766,Docklands,21969,North Warrandyte,92.97,ok
+20769,Don Valley,21969,North Warrandyte,,no_eligible_route
+20771,Doncaster,21969,North Warrandyte,53.07,ok
+20772,Doncaster East,21969,North Warrandyte,37.22,ok
+20773,Donnybrook (Vic.),21969,North Warrandyte,153.97,ok
+20774,Donvale,21969,North Warrandyte,78.73,ok
+20779,Doreen,21969,North Warrandyte,103.15,ok
+20783,Doveton,21969,North Warrandyte,131.27,ok
+20788,Dromana,21969,North Warrandyte,,no_eligible_route
+20825,Eaglemont,21969,North Warrandyte,59.02,ok
+20830,East Melbourne,21969,North Warrandyte,66.08,ok
+20833,East Warburton,21969,North Warrandyte,,no_eligible_route
+20843,Eden Park,21969,North Warrandyte,,no_eligible_route
+20848,Edithvale,21969,North Warrandyte,128.03,ok
+20864,Elsternwick,21969,North Warrandyte,108.03,ok
+20865,Eltham (Vic.),21969,North Warrandyte,37.25,ok
+20866,Eltham North,21969,North Warrandyte,41.73,ok
+20867,Elwood,21969,North Warrandyte,98.18,ok
+20868,Emerald (Vic.),21969,North Warrandyte,,no_eligible_route
+20871,Endeavour Hills,21969,North Warrandyte,137.42,ok
+20878,Epping (Vic.),21969,North Warrandyte,113.2,ok
+20885,Essendon,21969,North Warrandyte,108.87,ok
+20886,Essendon Fields,21969,North Warrandyte,124.33,ok
+20887,Essendon North,21969,North Warrandyte,110.07,ok
+20888,Essendon West,21969,North Warrandyte,110.68,ok
+20889,Eumemmerring,21969,North Warrandyte,131.65,ok
+20898,Exford,21969,North Warrandyte,,no_eligible_route
+20899,Eynesbury,21969,North Warrandyte,,no_eligible_route
+20901,Fairfield (Vic.),21969,North Warrandyte,65.8,ok
+20909,Fawkner,21969,North Warrandyte,105.72,ok
+20916,Fernshaw,21969,North Warrandyte,,no_eligible_route
+20917,Ferntree Gully,21969,North Warrandyte,95.27,ok
+20918,Ferny Creek,21969,North Warrandyte,138.8,ok
+20920,Fingal (Vic.),21969,North Warrandyte,,no_eligible_route
+20924,Fitzroy (Vic.),21969,North Warrandyte,70.68,ok
+20925,Fitzroy North,21969,North Warrandyte,79.17,ok
+20929,Flemington,21969,North Warrandyte,108.13,ok
+20930,Flinders (Vic.),21969,North Warrandyte,,no_eligible_route
+20935,Footscray,21969,North Warrandyte,95.6,ok
+20937,Forest Hill (Vic.),21969,North Warrandyte,67.08,ok
+20947,Frankston,21969,North Warrandyte,165.22,ok
+20948,Frankston North,21969,North Warrandyte,161.52,ok
+20949,Frankston South,21969,North Warrandyte,,no_eligible_route
+20950,Fraser Rise,21969,North Warrandyte,162.47,ok
+20965,Gardenvale,21969,North Warrandyte,110.02,ok
+20966,Garfield,21969,North Warrandyte,,no_eligible_route
+20967,Garfield North,21969,North Warrandyte,,no_eligible_route
+20979,Gembrook,21969,North Warrandyte,,no_eligible_route
+20995,Gilderoy,21969,North Warrandyte,,no_eligible_route
+21001,Gisborne,21969,North Warrandyte,,no_eligible_route
+21002,Gisborne South,21969,North Warrandyte,,no_eligible_route
+21004,Gladstone Park,21969,North Warrandyte,107.33,ok
+21005,Gladysdale,21969,North Warrandyte,,no_eligible_route
+21009,Glen Huntly,21969,North Warrandyte,106.48,ok
+21010,Glen Iris (Vic.),21969,North Warrandyte,111.62,ok
+21013,Glen Waverley,21969,North Warrandyte,81.65,ok
+21047,Glenroy (Vic.),21969,North Warrandyte,106.5,ok
+21059,Goldie,21969,North Warrandyte,,no_eligible_route
+21079,Gowanbrae,21969,North Warrandyte,114.17,ok
+21087,Grangefields,21969,North Warrandyte,199.8,ok
+21104,Greensborough,21969,North Warrandyte,43.53,ok
+21105,Greenvale (Vic.),21969,North Warrandyte,139.05,ok
+21115,Gruyere,21969,North Warrandyte,,no_eligible_route
+21121,Guys Hill,21969,North Warrandyte,,no_eligible_route
+21124,Hadfield,21969,North Warrandyte,116.73,ok
+21125,Hallam,21969,North Warrandyte,136.37,ok
+21131,Hampton (Vic.),21969,North Warrandyte,123.15,ok
+21132,Hampton East,21969,North Warrandyte,121.72,ok
+21133,Hampton Park,21969,North Warrandyte,142.22,ok
+21139,Harkaway,21969,North Warrandyte,,no_eligible_route
+21140,Harkness,21969,North Warrandyte,,no_eligible_route
+21145,Hastings (Vic.),21969,North Warrandyte,,no_eligible_route
+21152,Hawthorn (Vic.),21969,North Warrandyte,92.78,ok
+21153,Hawthorn East,21969,North Warrandyte,89.85,ok
+21158,Healesville,21969,North Warrandyte,167.55,ok
+21159,Heath Hill,21969,North Warrandyte,,no_eligible_route
+21161,Heathcote Junction,21969,North Warrandyte,,no_eligible_route
+21163,Heatherton,21969,North Warrandyte,133.1,ok
+21165,Heathmont,21969,North Warrandyte,72.8,ok
+21167,Heidelberg,21969,North Warrandyte,61.82,ok
+21168,Heidelberg Heights,21969,North Warrandyte,60.35,ok
+21169,Heidelberg West,21969,North Warrandyte,67.7,ok
+21176,Hesket,21969,North Warrandyte,,no_eligible_route
+21185,Highett,21969,North Warrandyte,114.48,ok
+21193,Hillside (Melton - Vic.),21969,North Warrandyte,147.02,ok
+21195,Hmas Cerberus,21969,North Warrandyte,,no_eligible_route
+21196,Hoddles Creek,21969,North Warrandyte,,no_eligible_route
+21202,Hopetoun Park,21969,North Warrandyte,,no_eligible_route
+21203,Hoppers Crossing,21969,North Warrandyte,150.87,ok
+21214,Hughesdale,21969,North Warrandyte,109.63,ok
+21215,Humevale,21969,North Warrandyte,133.87,ok
+21218,Huntingdale (Vic.),21969,North Warrandyte,104.63,ok
+21223,Hurstbridge,21969,North Warrandyte,62.55,ok
+21238,Iona,21969,North Warrandyte,,no_eligible_route
+21246,Ivanhoe (Vic.),21969,North Warrandyte,52.43,ok
+21247,Ivanhoe East,21969,North Warrandyte,70.4,ok
+21248,Jacana,21969,North Warrandyte,92.87,ok
+21277,Junction Village,21969,North Warrandyte,199.88,ok
+21284,Kalkallo,21969,North Warrandyte,146.97,ok
+21286,Kallista,21969,North Warrandyte,135.23,ok
+21287,Kalorama,21969,North Warrandyte,105.5,ok
+21294,Kangaroo Ground,21969,North Warrandyte,59.45,ok
+21312,Kealba,21969,North Warrandyte,136.18,ok
+21314,Keilor,21969,North Warrandyte,153.18,ok
+21315,Keilor Downs,21969,North Warrandyte,145.28,ok
+21316,Keilor East,21969,North Warrandyte,125.05,ok
+21317,Keilor Lodge,21969,North Warrandyte,151.9,ok
+21318,Keilor North,21969,North Warrandyte,157.97,ok
+21319,Keilor Park,21969,North Warrandyte,132.97,ok
+21327,Kensington (Vic.),21969,North Warrandyte,92.03,ok
+21333,Kerrie,21969,North Warrandyte,,no_eligible_route
+21336,Kew (Vic.),21969,North Warrandyte,74.72,ok
+21337,Kew East,21969,North Warrandyte,68.37,ok
+21339,Keysborough,21969,North Warrandyte,131.02,ok
+21354,Kilsyth,21969,North Warrandyte,92.88,ok
+21355,Kilsyth South,21969,North Warrandyte,107.97,ok
+21358,Kinglake,21969,North Warrandyte,182.8,ok
+21359,Kinglake Central,21969,North Warrandyte,,no_eligible_route
+21360,Kinglake West,21969,North Warrandyte,136.83,ok
+21362,Kings Park (Vic.),21969,North Warrandyte,146.22,ok
+21363,Kingsbury,21969,North Warrandyte,69.1,ok
+21365,Kingsville,21969,North Warrandyte,115.42,ok
+21374,Knoxfield,21969,North Warrandyte,104.17,ok
+21380,Koo Wee Rup,21969,North Warrandyte,,no_eligible_route
+21381,Koo Wee Rup North,21969,North Warrandyte,,no_eligible_route
+21393,Kooyong,21969,North Warrandyte,104.03,ok
+21411,Kurunjang,21969,North Warrandyte,218.85,ok
+21452,Lalor,21969,North Warrandyte,85.97,ok
+21456,Lancefield,21969,North Warrandyte,,no_eligible_route
+21459,Lang Lang,21969,North Warrandyte,,no_eligible_route
+21460,Lang Lang East,21969,North Warrandyte,,no_eligible_route
+21467,Langwarrin,21969,North Warrandyte,182.57,ok
+21468,Langwarrin South,21969,North Warrandyte,,no_eligible_route
+21473,Launching Place,21969,North Warrandyte,119.18,ok
+21476,Laverton (Vic.),21969,North Warrandyte,127.63,ok
+21477,Laverton North,21969,North Warrandyte,170.4,ok
+21504,Lilydale (Vic.),21969,North Warrandyte,98.83,ok
+21533,Long Forest,21969,North Warrandyte,,no_eligible_route
+21547,Lower Plenty,21969,North Warrandyte,71.77,ok
+21554,Lynbrook,21969,North Warrandyte,133.05,ok
+21555,Lyndhurst (Vic.),21969,North Warrandyte,,no_eligible_route
+21558,Lysterfield,21969,North Warrandyte,156.12,ok
+21559,Lysterfield South,21969,North Warrandyte,,no_eligible_route
+21561,Macclesfield (Vic.),21969,North Warrandyte,,no_eligible_route
+21562,Macedon,21969,North Warrandyte,,no_eligible_route
+21564,Macleod (Vic.),21969,North Warrandyte,48.33,ok
+21569,Maddingley,21969,North Warrandyte,,no_eligible_route
+21575,Maidstone,21969,North Warrandyte,110.17,ok
+21578,Main Ridge,21969,North Warrandyte,,no_eligible_route
+21586,Malvern (Vic.),21969,North Warrandyte,102.2,ok
+21587,Malvern East,21969,North Warrandyte,117.3,ok
+21588,Mambourin,21969,North Warrandyte,,no_eligible_route
+21597,Manor Lakes,21969,North Warrandyte,181.83,ok
+21604,Maribyrnong,21969,North Warrandyte,118.97,ok
+21619,Maryknoll,21969,North Warrandyte,,no_eligible_route
+21625,McCrae,21969,North Warrandyte,,no_eligible_route
+21629,McKinnon,21969,North Warrandyte,103.78,ok
+21635,Meadow Heights,21969,North Warrandyte,106.38,ok
+21640,Melbourne,21969,North Warrandyte,89.65,ok
+21641,Melbourne Airport,21969,North Warrandyte,,no_eligible_route
+21642,Melton (Vic.),21969,North Warrandyte,202.98,ok
+21643,Melton South,21969,North Warrandyte,216.58,ok
+21644,Melton West,21969,North Warrandyte,211.82,ok
+21648,Mentone,21969,North Warrandyte,110.13,ok
+21649,Menzies Creek,21969,North Warrandyte,,no_eligible_route
+21659,Mernda,21969,North Warrandyte,102.45,ok
+21662,Merricks,21969,North Warrandyte,,no_eligible_route
+21663,Merricks Beach,21969,North Warrandyte,,no_eligible_route
+21664,Merricks North,21969,North Warrandyte,,no_eligible_route
+21668,Merrimu,21969,North Warrandyte,,no_eligible_route
+21675,Mickleham,21969,North Warrandyte,161.95,ok
+21677,Middle Park (Vic.),21969,North Warrandyte,97.18,ok
+21683,Mill Park,21969,North Warrandyte,86.52,ok
+21685,Millgrove,21969,North Warrandyte,,no_eligible_route
+21706,Mitcham (Vic.),21969,North Warrandyte,61.83,ok
+21727,Monbulk,21969,North Warrandyte,142.68,ok
+21728,Monegeetta,21969,North Warrandyte,,no_eligible_route
+21731,Monomeith,21969,North Warrandyte,,no_eligible_route
+21732,Mont Albert,21969,North Warrandyte,76.6,ok
+21733,Mont Albert North,21969,North Warrandyte,81.25,ok
+21735,Montmorency,21969,North Warrandyte,38.77,ok
+21736,Montrose (Vic.),21969,North Warrandyte,98.05,ok
+21742,Moonee Ponds,21969,North Warrandyte,94.93,ok
+21746,Moorabbin,21969,North Warrandyte,135.13,ok
+21747,Moorabbin Airport,21969,North Warrandyte,149.23,ok
+21754,Moorooduc,21969,North Warrandyte,,no_eligible_route
+21755,Mooroolbark,21969,North Warrandyte,90.73,ok
+21760,Mordialloc,21969,North Warrandyte,139.77,ok
+21763,Mornington (Vic.),21969,North Warrandyte,,no_eligible_route
+21779,Mount Burnett,21969,North Warrandyte,,no_eligible_route
+21786,Mount Cottrell,21969,North Warrandyte,,no_eligible_route
+21787,Mount Dandenong,21969,North Warrandyte,115.95,ok
+21793,Mount Eliza,21969,North Warrandyte,,no_eligible_route
+21795,Mount Evelyn,21969,North Warrandyte,117.9,ok
+21801,Mount Macedon,21969,North Warrandyte,,no_eligible_route
+21803,Mount Martha,21969,North Warrandyte,,no_eligible_route
+21814,Mount Toolebewong,21969,North Warrandyte,,no_eligible_route
+21816,Mount Waverley,21969,North Warrandyte,95.38,ok
+21827,Mulgrave (Vic.),21969,North Warrandyte,122.43,ok
+21849,Murrumbeena,21969,North Warrandyte,112.95,ok
+21872,Nangana,21969,North Warrandyte,,no_eligible_route
+21878,Nar Nar Goon,21969,North Warrandyte,,no_eligible_route
+21879,Nar Nar Goon North,21969,North Warrandyte,,no_eligible_route
+21893,Narre Warren,21969,North Warrandyte,150.23,ok
+21894,Narre Warren East,21969,North Warrandyte,,no_eligible_route
+21895,Narre Warren North,21969,North Warrandyte,,no_eligible_route
+21896,Narre Warren South,21969,North Warrandyte,167.38,ok
+21921,New Gisborne,21969,North Warrandyte,,no_eligible_route
+21934,Newport (Vic.),21969,North Warrandyte,110.22,ok
+21942,Niddrie,21969,North Warrandyte,122.23,ok
+21952,Noble Park,21969,North Warrandyte,114.05,ok
+21953,Noble Park North,21969,North Warrandyte,140.72,ok
+21966,North Melbourne,21969,North Warrandyte,85.65,ok
+21969,North Warrandyte,21969,North Warrandyte,0.0,same_centroid
+21971,Northcote,21969,North Warrandyte,73.3,ok
+21974,Notting Hill,21969,North Warrandyte,78.18,ok
+21985,Nunawading,21969,North Warrandyte,61.0,ok
+21991,Nutfield,21969,North Warrandyte,,no_eligible_route
+21998,Oak Park,21969,North Warrandyte,107.7,ok
+21999,Oaklands Junction,21969,North Warrandyte,,no_eligible_route
+22000,Oakleigh,21969,North Warrandyte,99.68,ok
+22001,Oakleigh East,21969,North Warrandyte,100.52,ok
+22002,Oakleigh South,21969,North Warrandyte,93.65,ok
+22006,Officer,21969,North Warrandyte,164.33,ok
+22007,Officer South,21969,North Warrandyte,212.9,ok
+22009,Olinda (Vic.),21969,North Warrandyte,134.15,ok
+22016,Ormond,21969,North Warrandyte,104.22,ok
+22027,Pakenham,21969,North Warrandyte,163.38,ok
+22028,Pakenham South,21969,North Warrandyte,,no_eligible_route
+22029,Pakenham Upper,21969,North Warrandyte,,no_eligible_route
+22032,Panton Hill,21969,North Warrandyte,199.77,walk_only
+22036,Park Orchards,21969,North Warrandyte,52.52,ok
+22037,Parkdale,21969,North Warrandyte,129.55,ok
+22038,Parkville (Vic.),21969,North Warrandyte,88.77,ok
+22041,Pascoe Vale,21969,North Warrandyte,112.23,ok
+22042,Pascoe Vale South,21969,North Warrandyte,102.28,ok
+22047,Patterson Lakes,21969,North Warrandyte,160.32,ok
+22050,Pearcedale,21969,North Warrandyte,208.2,ok
+22058,Pentland Hills,21969,North Warrandyte,,no_eligible_route
+22064,Pheasant Creek (Vic.),21969,North Warrandyte,152.48,ok
+22084,Plenty (Vic.),21969,North Warrandyte,72.13,ok
+22085,Plumpton (Vic.),21969,North Warrandyte,,no_eligible_route
+22086,Point Cook,21969,North Warrandyte,159.27,ok
+22087,Point Leo,21969,North Warrandyte,,no_eligible_route
+22107,Port Melbourne,21969,North Warrandyte,97.77,ok
+22113,Portsea,21969,North Warrandyte,,no_eligible_route
+22115,Powelltown,21969,North Warrandyte,,no_eligible_route
+22118,Prahran,21969,North Warrandyte,96.55,ok
+22121,Preston (Vic.),21969,North Warrandyte,77.57,ok
+22122,Princes Hill,21969,North Warrandyte,88.6,ok
+22132,Quandong,21969,North Warrandyte,,no_eligible_route
+22141,Ravenhall,21969,North Warrandyte,177.67,ok
+22148,Red Hill (Vic.),21969,North Warrandyte,,no_eligible_route
+22149,Red Hill South,21969,North Warrandyte,,no_eligible_route
+22160,Research,21969,North Warrandyte,18.4,ok
+22161,Reservoir (Vic.),21969,North Warrandyte,83.22,ok
+22170,Richmond (Vic.),21969,North Warrandyte,80.08,ok
+22172,Riddells Creek,21969,North Warrandyte,,no_eligible_route
+22174,Ringwood (Vic.),21969,North Warrandyte,52.47,ok
+22175,Ringwood East,21969,North Warrandyte,73.88,ok
+22176,Ringwood North,21969,North Warrandyte,50.52,ok
+22179,Ripponlea,21969,North Warrandyte,99.45,ok
+22185,Rochford,21969,North Warrandyte,,no_eligible_route
+22186,Rockbank,21969,North Warrandyte,176.25,ok
+22193,Romsey,21969,North Warrandyte,,no_eligible_route
+22194,Rosanna,21969,North Warrandyte,50.82,ok
+22198,Rosebud,21969,North Warrandyte,,no_eligible_route
+22207,Rowville,21969,North Warrandyte,107.57,ok
+22208,Roxburgh Park,21969,North Warrandyte,123.22,ok
+22220,Rye,21969,North Warrandyte,,no_eligible_route
+22221,Rythdale,21969,North Warrandyte,,no_eligible_route
+22222,Safety Beach (Vic.),21969,North Warrandyte,,no_eligible_route
+22232,Sandhurst,21969,North Warrandyte,174.42,ok
+22234,Sandringham (Vic.),21969,North Warrandyte,128.03,ok
+22239,Sassafras (Vic.),21969,North Warrandyte,121.57,ok
+22242,Scoresby,21969,North Warrandyte,100.82,ok
+22247,Seabrook,21969,North Warrandyte,144.18,ok
+22249,Seaford (Vic.),21969,North Warrandyte,155.08,ok
+22250,Seaholme,21969,North Warrandyte,124.07,ok
+22256,Seddon (Vic.),21969,North Warrandyte,101.98,ok
+22258,Selby,21969,North Warrandyte,131.12,ok
+22263,Seville,21969,North Warrandyte,130.35,ok
+22264,Seville East,21969,North Warrandyte,117.23,ok
+22278,Sherbrooke,21969,North Warrandyte,125.3,ok
+22279,Shoreham,21969,North Warrandyte,,no_eligible_route
+22281,Silvan,21969,North Warrandyte,134.78,ok
+22291,Skye (Vic.),21969,North Warrandyte,184.13,ok
+22295,Smiths Gully,21969,North Warrandyte,,no_eligible_route
+22303,Somers,21969,North Warrandyte,,no_eligible_route
+22304,Somerton (Vic.),21969,North Warrandyte,127.58,ok
+22305,Somerville (Vic.),21969,North Warrandyte,,no_eligible_route
+22306,Sorrento (Vic.),21969,North Warrandyte,,no_eligible_route
+22309,South Kingsville,21969,North Warrandyte,122.47,ok
+22310,South Melbourne,21969,North Warrandyte,88.48,ok
+22311,South Morang,21969,North Warrandyte,96.67,ok
+22313,South Wharf,21969,North Warrandyte,87.95,ok
+22314,South Yarra,21969,North Warrandyte,82.83,ok
+22315,Southbank,21969,North Warrandyte,84.5,ok
+22319,Spotswood,21969,North Warrandyte,103.62,ok
+22325,Springfield (Macedon Ranges - Vic.),21969,North Warrandyte,,no_eligible_route
+22328,Springvale (Vic.),21969,North Warrandyte,113.13,ok
+22329,Springvale South,21969,North Warrandyte,111.75,ok
+22330,St Albans (Vic.),21969,North Warrandyte,120.57,ok
+22332,St Andrews (Vic.),21969,North Warrandyte,,no_eligible_route
+22333,St Andrews Beach,21969,North Warrandyte,,no_eligible_route
+22339,St Helena,21969,North Warrandyte,60.42,ok
+22343,St Kilda (Vic.),21969,North Warrandyte,86.15,ok
+22344,St Kilda East,21969,North Warrandyte,104.12,ok
+22345,St Kilda West,21969,North Warrandyte,95.87,ok
+22355,Steels Creek,21969,North Warrandyte,,no_eligible_route
+22375,Strathewen,21969,North Warrandyte,,no_eligible_route
+22380,Strathmore (Vic.),21969,North Warrandyte,123.12,ok
+22381,Strathmore Heights,21969,North Warrandyte,114.23,ok
+22382,Strathtulloh,21969,North Warrandyte,,no_eligible_route
+22391,Sunbury,21969,North Warrandyte,202.73,ok
+22395,Sunshine (Vic.),21969,North Warrandyte,109.35,ok
+22396,Sunshine North,21969,North Warrandyte,139.07,ok
+22397,Sunshine West,21969,North Warrandyte,139.2,ok
+22399,Surrey Hills,21969,North Warrandyte,77.0,ok
+22414,Sydenham (Vic.),21969,North Warrandyte,135.07,ok
+22451,Tarneit,21969,North Warrandyte,177.47,ok
+22457,Tarrawarra,21969,North Warrandyte,143.15,ok
+22473,Taylors Hill,21969,North Warrandyte,151.7,ok
+22474,Taylors Lakes,21969,North Warrandyte,139.85,ok
+22476,Tecoma,21969,North Warrandyte,95.52,ok
+22483,Templestowe,21969,North Warrandyte,44.45,ok
+22484,Templestowe Lower,21969,North Warrandyte,56.73,ok
+22496,The Basin (Vic.),21969,North Warrandyte,106.7,ok
+22501,The Patch,21969,North Warrandyte,133.25,ok
+22504,Thomastown,21969,North Warrandyte,89.8,ok
+22508,Thornbury,21969,North Warrandyte,73.7,ok
+22509,Thornhill Park,21969,North Warrandyte,,no_eligible_route
+22514,Three Bridges,21969,North Warrandyte,,no_eligible_route
+22531,Tonimbuk,21969,North Warrandyte,,no_eligible_route
+22536,Toolangi,21969,North Warrandyte,,no_eligible_route
+22537,Toolern Vale,21969,North Warrandyte,,no_eligible_route
+22546,Tooradin,21969,North Warrandyte,,no_eligible_route
+22547,Toorak,21969,North Warrandyte,97.6,ok
+22550,Tootgarook,21969,North Warrandyte,,no_eligible_route
+22556,Tottenham (Vic.),21969,North Warrandyte,136.78,ok
+22572,Travancore,21969,North Warrandyte,96.3,ok
+22576,Tremont,21969,North Warrandyte,113.12,ok
+22582,Truganina,21969,North Warrandyte,,no_eligible_route
+22584,Tuerong,21969,North Warrandyte,,no_eligible_route
+22586,Tullamarine,21969,North Warrandyte,112.55,ok
+22594,Tyabb,21969,North Warrandyte,,no_eligible_route
+22598,Tynong,21969,North Warrandyte,,no_eligible_route
+22599,Tynong North,21969,North Warrandyte,,no_eligible_route
+22614,Upper Ferntree Gully,21969,North Warrandyte,92.67,ok
+22617,Upper Plenty,21969,North Warrandyte,,no_eligible_route
+22620,Upwey,21969,North Warrandyte,95.38,ok
+22627,Vermont,21969,North Warrandyte,89.98,ok
+22628,Vermont South,21969,North Warrandyte,99.87,ok
+22629,Vervale,21969,North Warrandyte,,no_eligible_route
+22633,Viewbank,21969,North Warrandyte,57.1,ok
+22661,Wallan,21969,North Warrandyte,,no_eligible_route
+22672,Wandin East,21969,North Warrandyte,,no_eligible_route
+22673,Wandin North,21969,North Warrandyte,103.32,ok
+22676,Wandong,21969,North Warrandyte,,no_eligible_route
+22685,Wantirna,21969,North Warrandyte,77.67,ok
+22686,Wantirna South,21969,North Warrandyte,91.52,ok
+22689,Warburton (Vic.),21969,North Warrandyte,,no_eligible_route
+22695,Warneet,21969,North Warrandyte,,no_eligible_route
+22702,Warrandyte,21969,North Warrandyte,15.17,ok
+22703,Warrandyte South,21969,North Warrandyte,47.72,ok
+22704,Warranwood,21969,North Warrandyte,36.25,ok
+22717,Waterford Park,21969,North Warrandyte,,no_eligible_route
+22720,Waterways,21969,North Warrandyte,146.18,ok
+22721,Watsonia,21969,North Warrandyte,39.55,ok
+22722,Watsonia North,21969,North Warrandyte,56.42,ok
+22723,Watsons Creek (Vic.),21969,North Warrandyte,156.48,walk_only
+22727,Wattle Glen,21969,North Warrandyte,156.63,walk_only
+22740,Weir Views,21969,North Warrandyte,,no_eligible_route
+22750,Werribee,21969,North Warrandyte,144.4,ok
+22751,Werribee South,21969,North Warrandyte,,no_eligible_route
+22753,Wesburn,21969,North Warrandyte,135.28,ok
+22756,West Footscray,21969,North Warrandyte,113.52,ok
+22757,West Melbourne,21969,North Warrandyte,92.45,ok
+22761,Westmeadows,21969,North Warrandyte,98.58,ok
+22766,Wheelers Hill,21969,North Warrandyte,92.25,ok
+22775,Whittlesea,21969,North Warrandyte,,no_eligible_route
+22784,Wildwood,21969,North Warrandyte,,no_eligible_route
+22791,Williams Landing,21969,North Warrandyte,144.62,ok
+22792,Williamstown (Vic.),21969,North Warrandyte,112.43,ok
+22793,Williamstown North,21969,North Warrandyte,129.8,ok
+22805,Windsor (Vic.),21969,North Warrandyte,92.77,ok
+22820,Wollert,21969,North Warrandyte,142.48,ok
+22825,Wonga Park,21969,North Warrandyte,98.07,ok
+22843,Woodstock (Vic.),21969,North Warrandyte,,no_eligible_route
+22857,Woori Yallock,21969,North Warrandyte,114.43,ok
+22883,Wyndham Vale,21969,North Warrandyte,171.48,ok
+22892,Yallambie,21969,North Warrandyte,192.43,walk_only
+22898,Yan Yean,21969,North Warrandyte,118.22,ok
+22906,Yannathan,21969,North Warrandyte,,no_eligible_route
+22910,Yarra Glen,21969,North Warrandyte,140.45,ok
+22911,Yarra Junction,21969,North Warrandyte,139.55,ok
+22916,Yarrambat,21969,North Warrandyte,63.7,ok
+22917,Yarraville,21969,North Warrandyte,109.37,ok
+22925,Yellingbo,21969,North Warrandyte,,no_eligible_route
+22930,Yering,21969,North Warrandyte,,no_eligible_route
+22941,Yuroke,21969,North Warrandyte,180.58,ok

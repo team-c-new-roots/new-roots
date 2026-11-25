@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20427,Burwood East,70.9,ok
+20003,Aberfeldie,20427,Burwood East,96.82,ok
+20011,Aintree,20427,Burwood East,140.55,ok
+20015,Airport West,20427,Burwood East,112.67,ok
+20017,Albanvale,20427,Burwood East,118.6,ok
+20018,Albert Park (Vic.),20427,Burwood East,78.97,ok
+20021,Albion (Vic.),20427,Burwood East,100.13,ok
+20034,Alphington,20427,Burwood East,80.4,ok
+20035,Altona (Vic.),20427,Burwood East,103.1,ok
+20036,Altona Meadows,20427,Burwood East,110.88,ok
+20037,Altona North,20427,Burwood East,105.92,ok
+20062,Ardeer,20427,Burwood East,113.57,ok
+20066,Armadale (Vic.),20427,Burwood East,55.32,ok
+20071,Arthurs Creek,20427,Burwood East,,no_eligible_route
+20072,Arthurs Seat,20427,Burwood East,204.77,ok
+20075,Ascot Vale,20427,Burwood East,83.77,ok
+20077,Ashburton,20427,Burwood East,33.98,ok
+20078,Ashwood,20427,Burwood East,38.18,ok
+20079,Aspendale,20427,Burwood East,94.63,ok
+20080,Aspendale Gardens,20427,Burwood East,88.25,ok
+20082,Attwood,20427,Burwood East,121.35,ok
+20089,Avondale Heights,20427,Burwood East,115.43,ok
+20091,Avonsleigh,20427,Burwood East,111.82,ok
+20095,Bacchus Marsh,20427,Burwood East,,no_eligible_route
+20097,Badger Creek,20427,Burwood East,124.12,ok
+20105,Balaclava (Vic.),20427,Burwood East,69.72,ok
+20120,Balnarring,20427,Burwood East,,no_eligible_route
+20121,Balnarring Beach,20427,Burwood East,,no_eligible_route
+20123,Balwyn,20427,Burwood East,46.6,ok
+20124,Balwyn North,20427,Burwood East,62.08,ok
+20131,Bangholme,20427,Burwood East,,no_eligible_route
+20169,Baxter,20427,Burwood East,131.57,ok
+20171,Bayles,20427,Burwood East,,no_eligible_route
+20173,Bayswater (Vic.),20427,Burwood East,50.38,ok
+20174,Bayswater North,20427,Burwood East,65.05,ok
+20175,Beaconsfield (Vic.),20427,Burwood East,108.58,ok
+20176,Beaconsfield Upper,20427,Burwood East,,no_eligible_route
+20182,Beaumaris (Vic.),20427,Burwood East,92.52,ok
+20187,Beenak,20427,Burwood East,,no_eligible_route
+20188,Belgrave,20427,Burwood East,55.07,ok
+20189,Belgrave Heights,20427,Burwood East,85.63,ok
+20190,Belgrave South,20427,Burwood East,84.62,ok
+20198,Bellfield (Banyule - Vic.),20427,Burwood East,80.62,ok
+20207,Bend Of Islands,20427,Burwood East,,no_eligible_route
+20212,Benloch,20427,Burwood East,,no_eligible_route
+20214,Bentleigh,20427,Burwood East,59.38,ok
+20215,Bentleigh East,20427,Burwood East,46.43,ok
+20224,Berwick,20427,Burwood East,82.75,ok
+20233,Beveridge,20427,Burwood East,151.9,ok
+20237,Big Pats Creek,20427,Burwood East,,no_eligible_route
+20248,Bittern,20427,Burwood East,153.83,ok
+20251,Black Rock (Vic.),20427,Burwood East,98.32,ok
+20252,Blackburn,20427,Burwood East,16.62,ok
+20253,Blackburn North,20427,Burwood East,38.92,ok
+20254,Blackburn South,20427,Burwood East,18.6,ok
+20257,Blairgowrie,20427,Burwood East,196.8,ok
+20260,Blind Bight,20427,Burwood East,,no_eligible_route
+20272,Bolinda,20427,Burwood East,,no_eligible_route
+20278,Bonbeach,20427,Burwood East,99.5,ok
+20280,Boneo,20427,Burwood East,,no_eligible_route
+20282,Bonnie Brook,20427,Burwood East,173.1,ok
+20304,Boronia,20427,Burwood East,52.83,ok
+20307,Botanic Ridge,20427,Burwood East,120.62,ok
+20314,Box Hill (Vic.),20427,Burwood East,22.28,ok
+20315,Box Hill North,20427,Burwood East,39.27,ok
+20316,Box Hill South,20427,Burwood East,19.15,ok
+20320,Braeside,20427,Burwood East,109.63,ok
+20324,Braybrook,20427,Burwood East,105.97,ok
+20331,Briar Hill,20427,Burwood East,80.68,ok
+20337,Brighton (Vic.),20427,Burwood East,72.92,ok
+20338,Brighton East,20427,Burwood East,62.07,ok
+20346,Broadmeadows (Vic.),20427,Burwood East,110.68,ok
+20351,Brookfield (Vic.),20427,Burwood East,,no_eligible_route
+20352,Brooklyn (Vic.),20427,Burwood East,105.53,ok
+20361,Brunswick (Vic.),20427,Burwood East,79.58,ok
+20362,Brunswick East,20427,Burwood East,90.87,ok
+20363,Brunswick West,20427,Burwood East,96.75,ok
+20381,Bulla (Vic.),20427,Burwood East,170.37,ok
+20386,Bulleen,20427,Burwood East,66.42,ok
+20387,Bullengarook,20427,Burwood East,,no_eligible_route
+20399,Bundoora (Vic.),20427,Burwood East,87.28,ok
+20411,Bunyip,20427,Burwood East,,no_eligible_route
+20412,Bunyip North,20427,Burwood East,,no_eligible_route
+20418,Burnley,20427,Burwood East,53.0,ok
+20419,Burnside (Vic.),20427,Burwood East,122.45,ok
+20420,Burnside Heights,20427,Burwood East,130.27,ok
+20426,Burwood (Vic.),20427,Burwood East,18.55,ok
+20427,Burwood East,20427,Burwood East,0.0,same_centroid
+20435,Bylands,20427,Burwood East,,no_eligible_route
+20441,Cairnlea,20427,Burwood East,108.63,ok
+20442,Calder Park,20427,Burwood East,135.78,ok
+20443,Caldermeade,20427,Burwood East,,no_eligible_route
+20453,Camberwell (Vic.),20427,Burwood East,35.5,ok
+20455,Campbellfield,20427,Burwood East,121.63,ok
+20466,Cannons Creek,20427,Burwood East,,no_eligible_route
+20468,Canterbury (Vic.),20427,Burwood East,50.78,ok
+20474,Cape Schanck,20427,Burwood East,,no_eligible_route
+20476,Capel Sound,20427,Burwood East,181.15,ok
+20487,Cardinia,20427,Burwood East,,no_eligible_route
+20495,Carlton (Vic.),20427,Burwood East,74.7,ok
+20496,Carlton North,20427,Burwood East,87.63,ok
+20498,Carnegie,20427,Burwood East,57.68,ok
+20500,Caroline Springs,20427,Burwood East,128.33,ok
+20507,Carrum,20427,Burwood East,93.93,ok
+20508,Carrum Downs,20427,Burwood East,100.55,ok
+20512,Castella,20427,Burwood East,,no_eligible_route
+20517,Catani,20427,Burwood East,,no_eligible_route
+20521,Caulfield,20427,Burwood East,65.83,ok
+20522,Caulfield East,20427,Burwood East,63.43,ok
+20523,Caulfield North,20427,Burwood East,53.73,ok
+20524,Caulfield South,20427,Burwood East,72.02,ok
+20528,Chadstone,20427,Burwood East,40.03,ok
+20537,Chelsea,20427,Burwood East,84.62,ok
+20538,Chelsea Heights,20427,Burwood East,99.9,ok
+20539,Cheltenham (Vic.),20427,Burwood East,82.18,ok
+20541,Cherokee,20427,Burwood East,,no_eligible_route
+20555,Chintin,20427,Burwood East,,no_eligible_route
+20556,Chirnside Park,20427,Burwood East,77.7,ok
+20559,Christmas Hills (Vic.),20427,Burwood East,,no_eligible_route
+20560,Chum Creek,20427,Burwood East,,no_eligible_route
+20566,Clarinda,20427,Burwood East,71.78,ok
+20567,Clarkefield,20427,Burwood East,,no_eligible_route
+20569,Clayton,20427,Burwood East,40.92,ok
+20570,Clayton South,20427,Burwood East,73.97,ok
+20572,Clematis,20427,Burwood East,83.23,ok
+20574,Clifton Hill,20427,Burwood East,65.15,ok
+20576,Clonbinane,20427,Burwood East,,no_eligible_route
+20581,Clyde (Vic.),20427,Burwood East,,no_eligible_route
+20582,Clyde North,20427,Burwood East,109.27,ok
+20587,Cobaw,20427,Burwood East,,no_eligible_route
+20590,Cobblebank,20427,Burwood East,179.97,ok
+20596,Coburg,20427,Burwood East,86.32,ok
+20597,Coburg North,20427,Burwood East,105.18,ok
+20600,Cockatoo (Vic.),20427,Burwood East,115.5,ok
+20601,Cocoroc,20427,Burwood East,,no_eligible_route
+20605,Coimadai,20427,Burwood East,,no_eligible_route
+20613,Coldstream (Vic.),20427,Burwood East,,no_eligible_route
+20616,Collingwood (Vic.),20427,Burwood East,62.52,ok
+20624,Coolaroo,20427,Burwood East,108.28,ok
+20633,Cora Lynn,20427,Burwood East,,no_eligible_route
+20654,Cottles Bridge,20427,Burwood East,,no_eligible_route
+20661,Craigieburn,20427,Burwood East,122.28,ok
+20662,Cranbourne,20427,Burwood East,88.62,ok
+20663,Cranbourne East,20427,Burwood East,98.4,ok
+20664,Cranbourne North,20427,Burwood East,86.95,ok
+20665,Cranbourne South,20427,Burwood East,123.97,ok
+20666,Cranbourne West,20427,Burwood East,98.32,ok
+20670,Cremorne (Vic.),20427,Burwood East,54.97,ok
+20674,Crib Point,20427,Burwood East,162.8,ok
+20682,Croydon (Vic.),20427,Burwood East,46.02,ok
+20683,Croydon Hills,20427,Burwood East,67.75,ok
+20684,Croydon North,20427,Burwood East,65.77,ok
+20685,Croydon South,20427,Burwood East,71.18,ok
+20702,Dallas,20427,Burwood East,109.98,ok
+20703,Dalmore,20427,Burwood East,,no_eligible_route
+20707,Dandenong,20427,Burwood East,62.17,ok
+20708,Dandenong North,20427,Burwood East,65.42,ok
+20709,Dandenong South,20427,Burwood East,90.43,ok
+20712,Darley,20427,Burwood East,,no_eligible_route
+20716,Darraweit Guim,20427,Burwood East,,no_eligible_route
+20724,Deanside,20427,Burwood East,149.42,ok
+20728,Deepdene (Vic.),20427,Burwood East,42.45,ok
+20729,Deer Park,20427,Burwood East,111.12,ok
+20731,Delahey,20427,Burwood East,128.07,ok
+20743,Derrimut,20427,Burwood East,140.4,ok
+20748,Devon Meadows,20427,Burwood East,,no_eligible_route
+20750,Dewhurst,20427,Burwood East,,no_eligible_route
+20752,Diamond Creek,20427,Burwood East,101.9,ok
+20754,Diggers Rest,20427,Burwood East,128.23,ok
+20758,Dingley Village,20427,Burwood East,70.93,ok
+20762,Dixons Creek,20427,Burwood East,,no_eligible_route
+20766,Docklands,20427,Burwood East,73.55,ok
+20769,Don Valley,20427,Burwood East,,no_eligible_route
+20771,Doncaster,20427,Burwood East,44.22,ok
+20772,Doncaster East,20427,Burwood East,50.88,ok
+20773,Donnybrook (Vic.),20427,Burwood East,150.3,ok
+20774,Donvale,20427,Burwood East,54.28,ok
+20779,Doreen,20427,Burwood East,148.95,ok
+20783,Doveton,20427,Burwood East,85.33,ok
+20788,Dromana,20427,Burwood East,191.93,ok
+20825,Eaglemont,20427,Burwood East,73.18,ok
+20830,East Melbourne,20427,Burwood East,52.63,ok
+20833,East Warburton,20427,Burwood East,,no_eligible_route
+20843,Eden Park,20427,Burwood East,,no_eligible_route
+20848,Edithvale,20427,Burwood East,73.18,ok
+20864,Elsternwick,20427,Burwood East,75.03,ok
+20865,Eltham (Vic.),20427,Burwood East,87.95,ok
+20866,Eltham North,20427,Burwood East,93.87,ok
+20867,Elwood,20427,Burwood East,82.22,ok
+20868,Emerald (Vic.),20427,Burwood East,110.42,ok
+20871,Endeavour Hills,20427,Burwood East,85.57,ok
+20878,Epping (Vic.),20427,Burwood East,128.65,ok
+20885,Essendon,20427,Burwood East,92.98,ok
+20886,Essendon Fields,20427,Burwood East,111.9,ok
+20887,Essendon North,20427,Burwood East,96.0,ok
+20888,Essendon West,20427,Burwood East,93.85,ok
+20889,Eumemmerring,20427,Burwood East,85.35,ok
+20898,Exford,20427,Burwood East,,no_eligible_route
+20899,Eynesbury,20427,Burwood East,,no_eligible_route
+20901,Fairfield (Vic.),20427,Burwood East,83.58,ok
+20909,Fawkner,20427,Burwood East,114.08,ok
+20916,Fernshaw,20427,Burwood East,,no_eligible_route
+20917,Ferntree Gully,20427,Burwood East,37.72,ok
+20918,Ferny Creek,20427,Burwood East,,no_eligible_route
+20920,Fingal (Vic.),20427,Burwood East,,no_eligible_route
+20924,Fitzroy (Vic.),20427,Burwood East,68.47,ok
+20925,Fitzroy North,20427,Burwood East,80.37,ok
+20929,Flemington,20427,Burwood East,86.6,ok
+20930,Flinders (Vic.),20427,Burwood East,,no_eligible_route
+20935,Footscray,20427,Burwood East,81.7,ok
+20937,Forest Hill (Vic.),20427,Burwood East,18.93,ok
+20947,Frankston,20427,Burwood East,110.37,ok
+20948,Frankston North,20427,Burwood East,120.58,ok
+20949,Frankston South,20427,Burwood East,136.55,ok
+20950,Fraser Rise,20427,Burwood East,146.53,ok
+20965,Gardenvale,20427,Burwood East,66.52,ok
+20966,Garfield,20427,Burwood East,,no_eligible_route
+20967,Garfield North,20427,Burwood East,,no_eligible_route
+20979,Gembrook,20427,Burwood East,,no_eligible_route
+20995,Gilderoy,20427,Burwood East,,no_eligible_route
+21001,Gisborne,20427,Burwood East,,no_eligible_route
+21002,Gisborne South,20427,Burwood East,,no_eligible_route
+21004,Gladstone Park,20427,Burwood East,124.88,ok
+21005,Gladysdale,20427,Burwood East,,no_eligible_route
+21009,Glen Huntly,20427,Burwood East,64.57,ok
+21010,Glen Iris (Vic.),20427,Burwood East,42.98,ok
+21013,Glen Waverley,20427,Burwood East,25.72,ok
+21047,Glenroy (Vic.),20427,Burwood East,104.07,ok
+21059,Goldie,20427,Burwood East,,no_eligible_route
+21079,Gowanbrae,20427,Burwood East,123.05,ok
+21087,Grangefields,20427,Burwood East,178.13,ok
+21104,Greensborough,20427,Burwood East,70.32,ok
+21105,Greenvale (Vic.),20427,Burwood East,132.38,ok
+21115,Gruyere,20427,Burwood East,,no_eligible_route
+21121,Guys Hill,20427,Burwood East,,no_eligible_route
+21124,Hadfield,20427,Burwood East,110.98,ok
+21125,Hallam,20427,Burwood East,88.87,ok
+21131,Hampton (Vic.),20427,Burwood East,91.9,ok
+21132,Hampton East,20427,Burwood East,75.05,ok
+21133,Hampton Park,20427,Burwood East,83.75,ok
+21139,Harkaway,20427,Burwood East,,no_eligible_route
+21140,Harkness,20427,Burwood East,,no_eligible_route
+21145,Hastings (Vic.),20427,Burwood East,149.72,ok
+21152,Hawthorn (Vic.),20427,Burwood East,40.13,ok
+21153,Hawthorn East,20427,Burwood East,29.75,ok
+21158,Healesville,20427,Burwood East,,no_eligible_route
+21159,Heath Hill,20427,Burwood East,,no_eligible_route
+21161,Heathcote Junction,20427,Burwood East,,no_eligible_route
+21163,Heatherton,20427,Burwood East,77.48,ok
+21165,Heathmont,20427,Burwood East,42.18,ok
+21167,Heidelberg,20427,Burwood East,70.98,ok
+21168,Heidelberg Heights,20427,Burwood East,80.1,ok
+21169,Heidelberg West,20427,Burwood East,80.25,ok
+21176,Hesket,20427,Burwood East,,no_eligible_route
+21185,Highett,20427,Burwood East,67.82,ok
+21193,Hillside (Melton - Vic.),20427,Burwood East,128.32,ok
+21195,Hmas Cerberus,20427,Burwood East,,no_eligible_route
+21196,Hoddles Creek,20427,Burwood East,,no_eligible_route
+21202,Hopetoun Park,20427,Burwood East,,no_eligible_route
+21203,Hoppers Crossing,20427,Burwood East,112.35,ok
+21214,Hughesdale,20427,Burwood East,51.75,ok
+21215,Humevale,20427,Burwood East,,no_eligible_route
+21218,Huntingdale (Vic.),20427,Burwood East,46.68,ok
+21223,Hurstbridge,20427,Burwood East,102.45,ok
+21238,Iona,20427,Burwood East,,no_eligible_route
+21246,Ivanhoe (Vic.),20427,Burwood East,68.27,ok
+21247,Ivanhoe East,20427,Burwood East,65.73,ok
+21248,Jacana,20427,Burwood East,110.1,ok
+21277,Junction Village,20427,Burwood East,,no_eligible_route
+21284,Kalkallo,20427,Burwood East,146.13,ok
+21286,Kallista,20427,Burwood East,101.2,ok
+21287,Kalorama,20427,Burwood East,76.4,ok
+21294,Kangaroo Ground,20427,Burwood East,126.2,ok
+21312,Kealba,20427,Burwood East,114.78,ok
+21314,Keilor,20427,Burwood East,134.35,ok
+21315,Keilor Downs,20427,Burwood East,125.03,ok
+21316,Keilor East,20427,Burwood East,108.22,ok
+21317,Keilor Lodge,20427,Burwood East,125.88,ok
+21318,Keilor North,20427,Burwood East,136.57,ok
+21319,Keilor Park,20427,Burwood East,116.13,ok
+21327,Kensington (Vic.),20427,Burwood East,77.38,ok
+21333,Kerrie,20427,Burwood East,,no_eligible_route
+21336,Kew (Vic.),20427,Burwood East,55.87,ok
+21337,Kew East,20427,Burwood East,74.95,ok
+21339,Keysborough,20427,Burwood East,83.7,ok
+21354,Kilsyth,20427,Burwood East,63.78,ok
+21355,Kilsyth South,20427,Burwood East,81.42,ok
+21358,Kinglake,20427,Burwood East,,no_eligible_route
+21359,Kinglake Central,20427,Burwood East,,no_eligible_route
+21360,Kinglake West,20427,Burwood East,,no_eligible_route
+21362,Kings Park (Vic.),20427,Burwood East,123.97,ok
+21363,Kingsbury,20427,Burwood East,104.33,ok
+21365,Kingsville,20427,Burwood East,94.77,ok
+21374,Knoxfield,20427,Burwood East,56.3,ok
+21380,Koo Wee Rup,20427,Burwood East,,no_eligible_route
+21381,Koo Wee Rup North,20427,Burwood East,,no_eligible_route
+21393,Kooyong,20427,Burwood East,47.4,ok
+21411,Kurunjang,20427,Burwood East,198.05,ok
+21452,Lalor,20427,Burwood East,96.43,ok
+21456,Lancefield,20427,Burwood East,,no_eligible_route
+21459,Lang Lang,20427,Burwood East,,no_eligible_route
+21460,Lang Lang East,20427,Burwood East,,no_eligible_route
+21467,Langwarrin,20427,Burwood East,111.33,ok
+21468,Langwarrin South,20427,Burwood East,,no_eligible_route
+21473,Launching Place,20427,Burwood East,91.08,ok
+21476,Laverton (Vic.),20427,Burwood East,98.53,ok
+21477,Laverton North,20427,Burwood East,133.25,ok
+21504,Lilydale (Vic.),20427,Burwood East,70.73,ok
+21533,Long Forest,20427,Burwood East,,no_eligible_route
+21547,Lower Plenty,20427,Burwood East,91.82,ok
+21554,Lynbrook,20427,Burwood East,78.12,ok
+21555,Lyndhurst (Vic.),20427,Burwood East,122.7,ok
+21558,Lysterfield,20427,Burwood East,,no_eligible_route
+21559,Lysterfield South,20427,Burwood East,119.52,ok
+21561,Macclesfield (Vic.),20427,Burwood East,,no_eligible_route
+21562,Macedon,20427,Burwood East,,no_eligible_route
+21564,Macleod (Vic.),20427,Burwood East,84.53,ok
+21569,Maddingley,20427,Burwood East,,no_eligible_route
+21575,Maidstone,20427,Burwood East,100.07,ok
+21578,Main Ridge,20427,Burwood East,,no_eligible_route
+21586,Malvern (Vic.),20427,Burwood East,50.43,ok
+21587,Malvern East,20427,Burwood East,39.33,ok
+21588,Mambourin,20427,Burwood East,,no_eligible_route
+21597,Manor Lakes,20427,Burwood East,154.58,ok
+21604,Maribyrnong,20427,Burwood East,101.58,ok
+21619,Maryknoll,20427,Burwood East,,no_eligible_route
+21625,McCrae,20427,Burwood East,176.35,ok
+21629,McKinnon,20427,Burwood East,64.37,ok
+21635,Meadow Heights,20427,Burwood East,122.98,ok
+21640,Melbourne,20427,Burwood East,57.55,ok
+21641,Melbourne Airport,20427,Burwood East,,no_eligible_route
+21642,Melton (Vic.),20427,Burwood East,182.18,ok
+21643,Melton South,20427,Burwood East,195.78,ok
+21644,Melton West,20427,Burwood East,191.02,ok
+21648,Mentone,20427,Burwood East,63.6,ok
+21649,Menzies Creek,20427,Burwood East,82.03,ok
+21659,Mernda,20427,Burwood East,140.62,ok
+21662,Merricks,20427,Burwood East,,no_eligible_route
+21663,Merricks Beach,20427,Burwood East,,no_eligible_route
+21664,Merricks North,20427,Burwood East,,no_eligible_route
+21668,Merrimu,20427,Burwood East,,no_eligible_route
+21675,Mickleham,20427,Burwood East,153.28,ok
+21677,Middle Park (Vic.),20427,Burwood East,85.05,ok
+21683,Mill Park,20427,Burwood East,114.63,ok
+21685,Millgrove,20427,Burwood East,,no_eligible_route
+21706,Mitcham (Vic.),20427,Burwood East,39.92,ok
+21727,Monbulk,20427,Burwood East,116.17,ok
+21728,Monegeetta,20427,Burwood East,,no_eligible_route
+21731,Monomeith,20427,Burwood East,,no_eligible_route
+21732,Mont Albert,20427,Burwood East,39.72,ok
+21733,Mont Albert North,20427,Burwood East,49.95,ok
+21735,Montmorency,20427,Burwood East,68.22,ok
+21736,Montrose (Vic.),20427,Burwood East,67.7,ok
+21742,Moonee Ponds,20427,Burwood East,79.45,ok
+21746,Moorabbin,20427,Burwood East,79.58,ok
+21747,Moorabbin Airport,20427,Burwood East,99.43,ok
+21754,Moorooduc,20427,Burwood East,,no_eligible_route
+21755,Mooroolbark,20427,Burwood East,61.63,ok
+21760,Mordialloc,20427,Burwood East,100.33,ok
+21763,Mornington (Vic.),20427,Burwood East,149.98,ok
+21779,Mount Burnett,20427,Burwood East,,no_eligible_route
+21786,Mount Cottrell,20427,Burwood East,,no_eligible_route
+21787,Mount Dandenong,20427,Burwood East,84.98,ok
+21793,Mount Eliza,20427,Burwood East,124.33,ok
+21795,Mount Evelyn,20427,Burwood East,82.57,ok
+21801,Mount Macedon,20427,Burwood East,,no_eligible_route
+21803,Mount Martha,20427,Burwood East,142.87,ok
+21814,Mount Toolebewong,20427,Burwood East,,no_eligible_route
+21816,Mount Waverley,20427,Burwood East,24.58,ok
+21827,Mulgrave (Vic.),20427,Burwood East,53.63,ok
+21849,Murrumbeena,20427,Burwood East,57.47,ok
+21872,Nangana,20427,Burwood East,,no_eligible_route
+21878,Nar Nar Goon,20427,Burwood East,,no_eligible_route
+21879,Nar Nar Goon North,20427,Burwood East,,no_eligible_route
+21893,Narre Warren,20427,Burwood East,89.3,ok
+21894,Narre Warren East,20427,Burwood East,,no_eligible_route
+21895,Narre Warren North,20427,Burwood East,101.12,ok
+21896,Narre Warren South,20427,Burwood East,89.67,ok
+21921,New Gisborne,20427,Burwood East,,no_eligible_route
+21934,Newport (Vic.),20427,Burwood East,83.38,ok
+21942,Niddrie,20427,Burwood East,105.62,ok
+21952,Noble Park,20427,Burwood East,59.12,ok
+21953,Noble Park North,20427,Burwood East,76.8,ok
+21966,North Melbourne,20427,Burwood East,80.0,ok
+21969,North Warrandyte,20427,Burwood East,,no_eligible_route
+21971,Northcote,20427,Burwood East,84.63,ok
+21974,Notting Hill,20427,Burwood East,21.25,ok
+21985,Nunawading,20427,Burwood East,24.82,ok
+21991,Nutfield,20427,Burwood East,,no_eligible_route
+21998,Oak Park,20427,Burwood East,97.77,ok
+21999,Oaklands Junction,20427,Burwood East,,no_eligible_route
+22000,Oakleigh,20427,Burwood East,49.88,ok
+22001,Oakleigh East,20427,Burwood East,42.23,ok
+22002,Oakleigh South,20427,Burwood East,42.72,ok
+22006,Officer,20427,Burwood East,102.4,ok
+22007,Officer South,20427,Burwood East,149.1,ok
+22009,Olinda (Vic.),20427,Burwood East,113.2,ok
+22016,Ormond,20427,Burwood East,52.43,ok
+22027,Pakenham,20427,Burwood East,101.45,ok
+22028,Pakenham South,20427,Burwood East,,no_eligible_route
+22029,Pakenham Upper,20427,Burwood East,,no_eligible_route
+22032,Panton Hill,20427,Burwood East,,no_eligible_route
+22036,Park Orchards,20427,Burwood East,52.55,ok
+22037,Parkdale,20427,Burwood East,91.48,ok
+22038,Parkville (Vic.),20427,Burwood East,82.25,ok
+22041,Pascoe Vale,20427,Burwood East,102.13,ok
+22042,Pascoe Vale South,20427,Burwood East,97.87,ok
+22047,Patterson Lakes,20427,Burwood East,108.48,ok
+22050,Pearcedale,20427,Burwood East,141.27,ok
+22058,Pentland Hills,20427,Burwood East,,no_eligible_route
+22064,Pheasant Creek (Vic.),20427,Burwood East,,no_eligible_route
+22084,Plenty (Vic.),20427,Burwood East,104.88,ok
+22085,Plumpton (Vic.),20427,Burwood East,,no_eligible_route
+22086,Point Cook,20427,Burwood East,117.35,ok
+22087,Point Leo,20427,Burwood East,,no_eligible_route
+22107,Port Melbourne,20427,Burwood East,81.55,ok
+22113,Portsea,20427,Burwood East,212.65,ok
+22115,Powelltown,20427,Burwood East,,no_eligible_route
+22118,Prahran,20427,Burwood East,58.57,ok
+22121,Preston (Vic.),20427,Burwood East,90.13,ok
+22122,Princes Hill,20427,Burwood East,79.98,ok
+22132,Quandong,20427,Burwood East,,no_eligible_route
+22141,Ravenhall,20427,Burwood East,156.87,ok
+22148,Red Hill (Vic.),20427,Burwood East,,no_eligible_route
+22149,Red Hill South,20427,Burwood East,,no_eligible_route
+22160,Research,20427,Burwood East,94.35,ok
+22161,Reservoir (Vic.),20427,Burwood East,99.25,ok
+22170,Richmond (Vic.),20427,Burwood East,50.67,ok
+22172,Riddells Creek,20427,Burwood East,,no_eligible_route
+22174,Ringwood (Vic.),20427,Burwood East,46.53,ok
+22175,Ringwood East,20427,Burwood East,46.52,ok
+22176,Ringwood North,20427,Burwood East,56.73,ok
+22179,Ripponlea,20427,Burwood East,65.73,ok
+22185,Rochford,20427,Burwood East,,no_eligible_route
+22186,Rockbank,20427,Burwood East,155.45,ok
+22193,Romsey,20427,Burwood East,,no_eligible_route
+22194,Rosanna,20427,Burwood East,78.12,ok
+22198,Rosebud,20427,Burwood East,192.67,ok
+22207,Rowville,20427,Burwood East,64.0,ok
+22208,Roxburgh Park,20427,Burwood East,119.68,ok
+22220,Rye,20427,Burwood East,204.87,ok
+22221,Rythdale,20427,Burwood East,,no_eligible_route
+22222,Safety Beach (Vic.),20427,Burwood East,159.83,ok
+22232,Sandhurst,20427,Burwood East,126.48,ok
+22234,Sandringham (Vic.),20427,Burwood East,96.78,ok
+22239,Sassafras (Vic.),20427,Burwood East,80.02,ok
+22242,Scoresby,20427,Burwood East,57.88,ok
+22247,Seabrook,20427,Burwood East,107.83,ok
+22249,Seaford (Vic.),20427,Burwood East,111.42,ok
+22250,Seaholme,20427,Burwood East,97.78,ok
+22256,Seddon (Vic.),20427,Burwood East,79.8,ok
+22258,Selby,20427,Burwood East,81.7,ok
+22263,Seville,20427,Burwood East,102.25,ok
+22264,Seville East,20427,Burwood East,89.13,ok
+22278,Sherbrooke,20427,Burwood East,98.78,ok
+22279,Shoreham,20427,Burwood East,,no_eligible_route
+22281,Silvan,20427,Burwood East,103.22,ok
+22291,Skye (Vic.),20427,Burwood East,110.87,ok
+22295,Smiths Gully,20427,Burwood East,,no_eligible_route
+22303,Somers,20427,Burwood East,,no_eligible_route
+22304,Somerton (Vic.),20427,Burwood East,124.05,ok
+22305,Somerville (Vic.),20427,Burwood East,154.82,ok
+22306,Sorrento (Vic.),20427,Burwood East,192.63,ok
+22309,South Kingsville,20427,Burwood East,100.22,ok
+22310,South Melbourne,20427,Burwood East,68.85,ok
+22311,South Morang,20427,Burwood East,123.82,ok
+22313,South Wharf,20427,Burwood East,73.97,ok
+22314,South Yarra,20427,Burwood East,59.12,ok
+22315,Southbank,20427,Burwood East,64.42,ok
+22319,Spotswood,20427,Burwood East,79.95,ok
+22325,Springfield (Macedon Ranges - Vic.),20427,Burwood East,,no_eligible_route
+22328,Springvale (Vic.),20427,Burwood East,55.2,ok
+22329,Springvale South,20427,Burwood East,55.82,ok
+22330,St Albans (Vic.),20427,Burwood East,102.63,ok
+22332,St Andrews (Vic.),20427,Burwood East,,no_eligible_route
+22333,St Andrews Beach,20427,Burwood East,,no_eligible_route
+22339,St Helena,20427,Burwood East,96.13,ok
+22343,St Kilda (Vic.),20427,Burwood East,72.35,ok
+22344,St Kilda East,20427,Burwood East,71.08,ok
+22345,St Kilda West,20427,Burwood East,84.77,ok
+22355,Steels Creek,20427,Burwood East,,no_eligible_route
+22375,Strathewen,20427,Burwood East,,no_eligible_route
+22380,Strathmore (Vic.),20427,Burwood East,102.4,ok
+22381,Strathmore Heights,20427,Burwood East,113.18,ok
+22382,Strathtulloh,20427,Burwood East,,no_eligible_route
+22391,Sunbury,20427,Burwood East,165.33,ok
+22395,Sunshine (Vic.),20427,Burwood East,91.42,ok
+22396,Sunshine North,20427,Burwood East,108.48,ok
+22397,Sunshine West,20427,Burwood East,118.3,ok
+22399,Surrey Hills,20427,Burwood East,38.08,ok
+22414,Sydenham (Vic.),20427,Burwood East,117.03,ok
+22451,Tarneit,20427,Burwood East,133.83,ok
+22457,Tarrawarra,20427,Burwood East,103.63,ok
+22473,Taylors Hill,20427,Burwood East,125.87,ok
+22474,Taylors Lakes,20427,Burwood East,116.45,ok
+22476,Tecoma,20427,Burwood East,52.18,ok
+22483,Templestowe,20427,Burwood East,63.9,ok
+22484,Templestowe Lower,20427,Burwood East,65.57,ok
+22496,The Basin (Vic.),20427,Burwood East,75.15,ok
+22501,The Patch,20427,Burwood East,114.67,ok
+22504,Thomastown,20427,Burwood East,107.73,ok
+22508,Thornbury,20427,Burwood East,90.52,ok
+22509,Thornhill Park,20427,Burwood East,,no_eligible_route
+22514,Three Bridges,20427,Burwood East,,no_eligible_route
+22531,Tonimbuk,20427,Burwood East,,no_eligible_route
+22536,Toolangi,20427,Burwood East,,no_eligible_route
+22537,Toolern Vale,20427,Burwood East,,no_eligible_route
+22546,Tooradin,20427,Burwood East,,no_eligible_route
+22547,Toorak,20427,Burwood East,57.72,ok
+22550,Tootgarook,20427,Burwood East,188.28,ok
+22556,Tottenham (Vic.),20427,Burwood East,117.98,ok
+22572,Travancore,20427,Burwood East,86.2,ok
+22576,Tremont,20427,Burwood East,72.95,ok
+22582,Truganina,20427,Burwood East,194.15,ok
+22584,Tuerong,20427,Burwood East,,no_eligible_route
+22586,Tullamarine,20427,Burwood East,127.95,ok
+22594,Tyabb,20427,Burwood East,147.13,ok
+22598,Tynong,20427,Burwood East,,no_eligible_route
+22599,Tynong North,20427,Burwood East,,no_eligible_route
+22614,Upper Ferntree Gully,20427,Burwood East,51.5,ok
+22617,Upper Plenty,20427,Burwood East,,no_eligible_route
+22620,Upwey,20427,Burwood East,48.37,ok
+22627,Vermont,20427,Burwood East,28.67,ok
+22628,Vermont South,20427,Burwood East,19.82,ok
+22629,Vervale,20427,Burwood East,,no_eligible_route
+22633,Viewbank,20427,Burwood East,94.8,ok
+22661,Wallan,20427,Burwood East,,no_eligible_route
+22672,Wandin East,20427,Burwood East,,no_eligible_route
+22673,Wandin North,20427,Burwood East,75.22,ok
+22676,Wandong,20427,Burwood East,,no_eligible_route
+22685,Wantirna,20427,Burwood East,40.93,ok
+22686,Wantirna South,20427,Burwood East,38.28,ok
+22689,Warburton (Vic.),20427,Burwood East,,no_eligible_route
+22695,Warneet,20427,Burwood East,,no_eligible_route
+22702,Warrandyte,20427,Burwood East,70.07,ok
+22703,Warrandyte South,20427,Burwood East,89.03,ok
+22704,Warranwood,20427,Burwood East,65.7,ok
+22717,Waterford Park,20427,Burwood East,,no_eligible_route
+22720,Waterways,20427,Burwood East,85.25,ok
+22721,Watsonia,20427,Burwood East,79.45,ok
+22722,Watsonia North,20427,Burwood East,90.95,ok
+22723,Watsons Creek (Vic.),20427,Burwood East,,no_eligible_route
+22727,Wattle Glen,20427,Burwood East,106.2,ok
+22740,Weir Views,20427,Burwood East,,no_eligible_route
+22750,Werribee,20427,Burwood East,112.15,ok
+22751,Werribee South,20427,Burwood East,,no_eligible_route
+22753,Wesburn,20427,Burwood East,107.18,ok
+22756,West Footscray,20427,Burwood East,94.72,ok
+22757,West Melbourne,20427,Burwood East,88.52,ok
+22761,Westmeadows,20427,Burwood East,114.1,ok
+22766,Wheelers Hill,20427,Burwood East,42.42,ok
+22775,Whittlesea,20427,Burwood East,,no_eligible_route
+22784,Wildwood,20427,Burwood East,,no_eligible_route
+22791,Williams Landing,20427,Burwood East,108.87,ok
+22792,Williamstown (Vic.),20427,Burwood East,90.18,ok
+22793,Williamstown North,20427,Burwood East,102.67,ok
+22805,Windsor (Vic.),20427,Burwood East,60.08,ok
+22820,Wollert,20427,Burwood East,141.65,ok
+22825,Wonga Park,20427,Burwood East,66.97,ok
+22843,Woodstock (Vic.),20427,Burwood East,,no_eligible_route
+22857,Woori Yallock,20427,Burwood East,86.33,ok
+22883,Wyndham Vale,20427,Burwood East,141.38,ok
+22892,Yallambie,20427,Burwood East,86.4,ok
+22898,Yan Yean,20427,Burwood East,,no_eligible_route
+22906,Yannathan,20427,Burwood East,,no_eligible_route
+22910,Yarra Glen,20427,Burwood East,,no_eligible_route
+22911,Yarra Junction,20427,Burwood East,111.45,ok
+22916,Yarrambat,20427,Burwood East,99.87,ok
+22917,Yarraville,20427,Burwood East,85.7,ok
+22925,Yellingbo,20427,Burwood East,,no_eligible_route
+22930,Yering,20427,Burwood East,,no_eligible_route
+22941,Yuroke,20427,Burwood East,177.05,ok

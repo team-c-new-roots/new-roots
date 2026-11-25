@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21966,North Melbourne,34.95,ok
+20003,Aberfeldie,21966,North Melbourne,35.95,ok
+20011,Aintree,21966,North Melbourne,77.18,ok
+20015,Airport West,21966,North Melbourne,53.75,ok
+20017,Albanvale,21966,North Melbourne,56.65,ok
+20018,Albert Park (Vic.),21966,North Melbourne,41.32,ok
+20021,Albion (Vic.),21966,North Melbourne,39.05,ok
+20034,Alphington,21966,North Melbourne,40.78,ok
+20035,Altona (Vic.),21966,North Melbourne,54.45,ok
+20036,Altona Meadows,21966,North Melbourne,60.6,ok
+20037,Altona North,21966,North Melbourne,64.55,ok
+20062,Ardeer,21966,North Melbourne,48.2,ok
+20066,Armadale (Vic.),21966,North Melbourne,39.32,ok
+20071,Arthurs Creek,21966,North Melbourne,,no_eligible_route
+20072,Arthurs Seat,21966,North Melbourne,185.85,ok
+20075,Ascot Vale,21966,North Melbourne,21.32,ok
+20077,Ashburton,21966,North Melbourne,50.8,ok
+20078,Ashwood,21966,North Melbourne,64.0,ok
+20079,Aspendale,21966,North Melbourne,73.58,ok
+20080,Aspendale Gardens,21966,North Melbourne,95.92,ok
+20082,Attwood,21966,North Melbourne,60.77,ok
+20089,Avondale Heights,21966,North Melbourne,44.37,ok
+20091,Avonsleigh,21966,North Melbourne,147.38,ok
+20095,Bacchus Marsh,21966,North Melbourne,,no_eligible_route
+20097,Badger Creek,21966,North Melbourne,143.65,ok
+20105,Balaclava (Vic.),21966,North Melbourne,46.53,ok
+20120,Balnarring,21966,North Melbourne,185.07,ok
+20121,Balnarring Beach,21966,North Melbourne,181.6,ok
+20123,Balwyn,21966,North Melbourne,51.93,ok
+20124,Balwyn North,21966,North Melbourne,55.9,ok
+20131,Bangholme,21966,North Melbourne,124.28,ok
+20169,Baxter,21966,North Melbourne,112.65,ok
+20171,Bayles,21966,North Melbourne,,no_eligible_route
+20173,Bayswater (Vic.),21966,North Melbourne,74.45,ok
+20174,Bayswater North,21966,North Melbourne,92.62,ok
+20175,Beaconsfield (Vic.),21966,North Melbourne,105.78,ok
+20176,Beaconsfield Upper,21966,North Melbourne,,no_eligible_route
+20182,Beaumaris (Vic.),21966,North Melbourne,73.47,ok
+20187,Beenak,21966,North Melbourne,,no_eligible_route
+20188,Belgrave,21966,North Melbourne,87.53,ok
+20189,Belgrave Heights,21966,North Melbourne,116.2,ok
+20190,Belgrave South,21966,North Melbourne,115.18,ok
+20198,Bellfield (Banyule - Vic.),21966,North Melbourne,60.35,ok
+20207,Bend Of Islands,21966,North Melbourne,,no_eligible_route
+20212,Benloch,21966,North Melbourne,,no_eligible_route
+20214,Bentleigh,21966,North Melbourne,58.37,ok
+20215,Bentleigh East,21966,North Melbourne,59.72,ok
+20224,Berwick,21966,North Melbourne,84.83,ok
+20233,Beveridge,21966,North Melbourne,92.32,ok
+20237,Big Pats Creek,21966,North Melbourne,,no_eligible_route
+20248,Bittern,21966,North Melbourne,133.92,ok
+20251,Black Rock (Vic.),21966,North Melbourne,78.78,ok
+20252,Blackburn,21966,North Melbourne,48.78,ok
+20253,Blackburn North,21966,North Melbourne,56.37,ok
+20254,Blackburn South,21966,North Melbourne,65.12,ok
+20257,Blairgowrie,21966,North Melbourne,177.88,ok
+20260,Blind Bight,21966,North Melbourne,,no_eligible_route
+20272,Bolinda,21966,North Melbourne,,no_eligible_route
+20278,Bonbeach,21966,North Melbourne,78.58,ok
+20280,Boneo,21966,North Melbourne,,no_eligible_route
+20282,Bonnie Brook,21966,North Melbourne,109.73,ok
+20304,Boronia,21966,North Melbourne,76.92,ok
+20307,Botanic Ridge,21966,North Melbourne,121.7,ok
+20314,Box Hill (Vic.),21966,North Melbourne,48.23,ok
+20315,Box Hill North,21966,North Melbourne,57.65,ok
+20316,Box Hill South,21966,North Melbourne,56.38,ok
+20320,Braeside,21966,North Melbourne,99.4,ok
+20324,Braybrook,21966,North Melbourne,42.83,ok
+20331,Briar Hill,21966,North Melbourne,77.6,ok
+20337,Brighton (Vic.),21966,North Melbourne,59.3,ok
+20338,Brighton East,21966,North Melbourne,60.05,ok
+20346,Broadmeadows (Vic.),21966,North Melbourne,51.4,ok
+20351,Brookfield (Vic.),21966,North Melbourne,133.23,ok
+20352,Brooklyn (Vic.),21966,North Melbourne,49.47,ok
+20361,Brunswick (Vic.),21966,North Melbourne,19.5,ok
+20362,Brunswick East,21966,North Melbourne,38.88,ok
+20363,Brunswick West,21966,North Melbourne,26.97,ok
+20381,Bulla (Vic.),21966,North Melbourne,108.42,ok
+20386,Bulleen,21966,North Melbourne,61.17,ok
+20387,Bullengarook,21966,North Melbourne,,no_eligible_route
+20399,Bundoora (Vic.),21966,North Melbourne,70.33,ok
+20411,Bunyip,21966,North Melbourne,,no_eligible_route
+20412,Bunyip North,21966,North Melbourne,,no_eligible_route
+20418,Burnley,21966,North Melbourne,44.2,ok
+20419,Burnside (Vic.),21966,North Melbourne,57.08,ok
+20420,Burnside Heights,21966,North Melbourne,64.9,ok
+20426,Burwood (Vic.),21966,North Melbourne,66.88,ok
+20427,Burwood East,21966,North Melbourne,67.12,ok
+20435,Bylands,21966,North Melbourne,,no_eligible_route
+20441,Cairnlea,21966,North Melbourne,47.27,ok
+20442,Calder Park,21966,North Melbourne,74.83,ok
+20443,Caldermeade,21966,North Melbourne,,no_eligible_route
+20453,Camberwell (Vic.),21966,North Melbourne,49.73,ok
+20455,Campbellfield,21966,North Melbourne,57.05,ok
+20466,Cannons Creek,21966,North Melbourne,,no_eligible_route
+20468,Canterbury (Vic.),21966,North Melbourne,48.22,ok
+20474,Cape Schanck,21966,North Melbourne,,no_eligible_route
+20476,Capel Sound,21966,North Melbourne,162.23,ok
+20487,Cardinia,21966,North Melbourne,,no_eligible_route
+20495,Carlton (Vic.),21966,North Melbourne,11.12,ok
+20496,Carlton North,21966,North Melbourne,32.62,ok
+20498,Carnegie,21966,North Melbourne,46.35,ok
+20500,Caroline Springs,21966,North Melbourne,64.97,ok
+20507,Carrum,21966,North Melbourne,78.4,ok
+20508,Carrum Downs,21966,North Melbourne,97.63,ok
+20512,Castella,21966,North Melbourne,,no_eligible_route
+20517,Catani,21966,North Melbourne,,no_eligible_route
+20521,Caulfield,21966,North Melbourne,50.07,ok
+20522,Caulfield East,21966,North Melbourne,42.77,ok
+20523,Caulfield North,21966,North Melbourne,41.68,ok
+20524,Caulfield South,21966,North Melbourne,54.6,ok
+20528,Chadstone,21966,North Melbourne,55.42,ok
+20537,Chelsea,21966,North Melbourne,75.65,ok
+20538,Chelsea Heights,21966,North Melbourne,90.33,ok
+20539,Cheltenham (Vic.),21966,North Melbourne,65.12,ok
+20541,Cherokee,21966,North Melbourne,,no_eligible_route
+20555,Chintin,21966,North Melbourne,,no_eligible_route
+20556,Chirnside Park,21966,North Melbourne,99.82,ok
+20559,Christmas Hills (Vic.),21966,North Melbourne,,no_eligible_route
+20560,Chum Creek,21966,North Melbourne,,no_eligible_route
+20566,Clarinda,21966,North Melbourne,66.5,ok
+20567,Clarkefield,21966,North Melbourne,,no_eligible_route
+20569,Clayton,21966,North Melbourne,61.2,ok
+20570,Clayton South,21966,North Melbourne,75.18,ok
+20572,Clematis,21966,North Melbourne,119.8,ok
+20574,Clifton Hill,21966,North Melbourne,37.37,ok
+20576,Clonbinane,21966,North Melbourne,,no_eligible_route
+20581,Clyde (Vic.),21966,North Melbourne,131.53,ok
+20582,Clyde North,21966,North Melbourne,108.3,ok
+20587,Cobaw,21966,North Melbourne,,no_eligible_route
+20590,Cobblebank,21966,North Melbourne,117.88,ok
+20596,Coburg,21966,North Melbourne,32.8,ok
+20597,Coburg North,21966,North Melbourne,39.78,ok
+20600,Cockatoo (Vic.),21966,North Melbourne,151.07,ok
+20601,Cocoroc,21966,North Melbourne,,no_eligible_route
+20605,Coimadai,21966,North Melbourne,,no_eligible_route
+20613,Coldstream (Vic.),21966,North Melbourne,,no_eligible_route
+20616,Collingwood (Vic.),21966,North Melbourne,28.53,ok
+20624,Coolaroo,21966,North Melbourne,49.57,ok
+20633,Cora Lynn,21966,North Melbourne,,no_eligible_route
+20654,Cottles Bridge,21966,North Melbourne,,no_eligible_route
+20661,Craigieburn,21966,North Melbourne,62.83,ok
+20662,Cranbourne,21966,North Melbourne,89.7,ok
+20663,Cranbourne East,21966,North Melbourne,99.58,ok
+20664,Cranbourne North,21966,North Melbourne,91.03,ok
+20665,Cranbourne South,21966,North Melbourne,125.05,ok
+20666,Cranbourne West,21966,North Melbourne,96.4,ok
+20670,Cremorne (Vic.),21966,North Melbourne,37.18,ok
+20674,Crib Point,21966,North Melbourne,142.88,ok
+20682,Croydon (Vic.),21966,North Melbourne,65.55,ok
+20683,Croydon Hills,21966,North Melbourne,87.87,ok
+20684,Croydon North,21966,North Melbourne,83.3,ok
+20685,Croydon South,21966,North Melbourne,90.47,ok
+20702,Dallas,21966,North Melbourne,50.8,ok
+20703,Dalmore,21966,North Melbourne,,no_eligible_route
+20707,Dandenong,21966,North Melbourne,72.43,ok
+20708,Dandenong North,21966,North Melbourne,88.5,ok
+20709,Dandenong South,21966,North Melbourne,88.8,ok
+20712,Darley,21966,North Melbourne,,no_eligible_route
+20716,Darraweit Guim,21966,North Melbourne,,no_eligible_route
+20724,Deanside,21966,North Melbourne,87.33,ok
+20728,Deepdene (Vic.),21966,North Melbourne,58.7,ok
+20729,Deer Park,21966,North Melbourne,46.03,ok
+20731,Delahey,21966,North Melbourne,59.7,ok
+20743,Derrimut,21966,North Melbourne,72.92,ok
+20748,Devon Meadows,21966,North Melbourne,138.28,ok
+20750,Dewhurst,21966,North Melbourne,,no_eligible_route
+20752,Diamond Creek,21966,North Melbourne,85.92,ok
+20754,Diggers Rest,21966,North Melbourne,68.15,ok
+20758,Dingley Village,21966,North Melbourne,77.02,ok
+20762,Dixons Creek,21966,North Melbourne,,no_eligible_route
+20766,Docklands,21966,North Melbourne,33.88,ok
+20769,Don Valley,21966,North Melbourne,,no_eligible_route
+20771,Doncaster,21966,North Melbourne,55.25,ok
+20772,Doncaster East,21966,North Melbourne,61.73,ok
+20773,Donnybrook (Vic.),21966,North Melbourne,80.85,ok
+20774,Donvale,21966,North Melbourne,79.15,ok
+20779,Doreen,21966,North Melbourne,107.4,ok
+20783,Doveton,21966,North Melbourne,84.27,ok
+20788,Dromana,21966,North Melbourne,173.02,ok
+20825,Eaglemont,21966,North Melbourne,61.93,ok
+20830,East Melbourne,21966,North Melbourne,32.35,ok
+20833,East Warburton,21966,North Melbourne,,no_eligible_route
+20843,Eden Park,21966,North Melbourne,,no_eligible_route
+20848,Edithvale,21966,North Melbourne,75.78,ok
+20864,Elsternwick,21966,North Melbourne,53.42,ok
+20865,Eltham (Vic.),21966,North Melbourne,85.05,ok
+20866,Eltham North,21966,North Melbourne,81.72,ok
+20867,Elwood,21966,North Melbourne,59.07,ok
+20868,Emerald (Vic.),21966,North Melbourne,146.98,ok
+20871,Endeavour Hills,21966,North Melbourne,91.75,ok
+20878,Epping (Vic.),21966,North Melbourne,79.13,ok
+20885,Essendon,21966,North Melbourne,33.7,ok
+20886,Essendon Fields,21966,North Melbourne,59.62,ok
+20887,Essendon North,21966,North Melbourne,39.7,ok
+20888,Essendon West,21966,North Melbourne,38.85,ok
+20889,Eumemmerring,21966,North Melbourne,86.43,ok
+20898,Exford,21966,North Melbourne,,no_eligible_route
+20899,Eynesbury,21966,North Melbourne,153.98,ok
+20901,Fairfield (Vic.),21966,North Melbourne,49.03,ok
+20909,Fawkner,21966,North Melbourne,49.5,ok
+20916,Fernshaw,21966,North Melbourne,,no_eligible_route
+20917,Ferntree Gully,21966,North Melbourne,86.42,ok
+20918,Ferny Creek,21966,North Melbourne,127.82,ok
+20920,Fingal (Vic.),21966,North Melbourne,,no_eligible_route
+20924,Fitzroy (Vic.),21966,North Melbourne,22.43,ok
+20925,Fitzroy North,21966,North Melbourne,34.5,ok
+20929,Flemington,21966,North Melbourne,18.6,ok
+20930,Flinders (Vic.),21966,North Melbourne,,no_eligible_route
+20935,Footscray,21966,North Melbourne,27.47,ok
+20937,Forest Hill (Vic.),21966,North Melbourne,66.1,ok
+20947,Frankston,21966,North Melbourne,98.37,ok
+20948,Frankston North,21966,North Melbourne,107.38,ok
+20949,Frankston South,21966,North Melbourne,117.63,ok
+20950,Fraser Rise,21966,North Melbourne,85.58,ok
+20965,Gardenvale,21966,North Melbourne,55.73,ok
+20966,Garfield,21966,North Melbourne,,no_eligible_route
+20967,Garfield North,21966,North Melbourne,,no_eligible_route
+20979,Gembrook,21966,North Melbourne,,no_eligible_route
+20995,Gilderoy,21966,North Melbourne,,no_eligible_route
+21001,Gisborne,21966,North Melbourne,,no_eligible_route
+21002,Gisborne South,21966,North Melbourne,,no_eligible_route
+21004,Gladstone Park,21966,North Melbourne,67.55,ok
+21005,Gladysdale,21966,North Melbourne,,no_eligible_route
+21009,Glen Huntly,21966,North Melbourne,49.9,ok
+21010,Glen Iris (Vic.),21966,North Melbourne,57.8,ok
+21013,Glen Waverley,21966,North Melbourne,69.22,ok
+21047,Glenroy (Vic.),21966,North Melbourne,44.78,ok
+21059,Goldie,21966,North Melbourne,,no_eligible_route
+21079,Gowanbrae,21966,North Melbourne,68.65,ok
+21087,Grangefields,21966,North Melbourne,115.18,ok
+21104,Greensborough,21966,North Melbourne,70.47,ok
+21105,Greenvale (Vic.),21966,North Melbourne,72.93,ok
+21115,Gruyere,21966,North Melbourne,,no_eligible_route
+21121,Guys Hill,21966,North Melbourne,,no_eligible_route
+21124,Hadfield,21966,North Melbourne,44.92,ok
+21125,Hallam,21966,North Melbourne,89.95,ok
+21131,Hampton (Vic.),21966,North Melbourne,67.13,ok
+21132,Hampton East,21966,North Melbourne,65.13,ok
+21133,Hampton Park,21966,North Melbourne,86.37,ok
+21139,Harkaway,21966,North Melbourne,,no_eligible_route
+21140,Harkness,21966,North Melbourne,134.72,ok
+21145,Hastings (Vic.),21966,North Melbourne,130.8,ok
+21152,Hawthorn (Vic.),21966,North Melbourne,43.6,ok
+21153,Hawthorn East,21966,North Melbourne,46.08,ok
+21158,Healesville,21966,North Melbourne,147.57,ok
+21159,Heath Hill,21966,North Melbourne,,no_eligible_route
+21161,Heathcote Junction,21966,North Melbourne,,no_eligible_route
+21163,Heatherton,21966,North Melbourne,73.52,ok
+21165,Heathmont,21966,North Melbourne,64.72,ok
+21167,Heidelberg,21966,North Melbourne,63.27,ok
+21168,Heidelberg Heights,21966,North Melbourne,64.27,ok
+21169,Heidelberg West,21966,North Melbourne,64.18,ok
+21176,Hesket,21966,North Melbourne,,no_eligible_route
+21185,Highett,21966,North Melbourne,57.9,ok
+21193,Hillside (Melton - Vic.),21966,North Melbourne,65.23,ok
+21195,Hmas Cerberus,21966,North Melbourne,177.95,ok
+21196,Hoddles Creek,21966,North Melbourne,,no_eligible_route
+21202,Hopetoun Park,21966,North Melbourne,,no_eligible_route
+21203,Hoppers Crossing,21966,North Melbourne,69.28,ok
+21214,Hughesdale,21966,North Melbourne,50.98,ok
+21215,Humevale,21966,North Melbourne,148.15,ok
+21218,Huntingdale (Vic.),21966,North Melbourne,56.42,ok
+21223,Hurstbridge,21966,North Melbourne,86.47,ok
+21238,Iona,21966,North Melbourne,,no_eligible_route
+21246,Ivanhoe (Vic.),21966,North Melbourne,48.88,ok
+21247,Ivanhoe East,21966,North Melbourne,61.58,ok
+21248,Jacana,21966,North Melbourne,50.82,ok
+21277,Junction Village,21966,North Melbourne,124.42,ok
+21284,Kalkallo,21966,North Melbourne,91.85,ok
+21286,Kallista,21966,North Melbourne,124.25,ok
+21287,Kalorama,21966,North Melbourne,99.52,ok
+21294,Kangaroo Ground,21966,North Melbourne,118.38,ok
+21312,Kealba,21966,North Melbourne,50.42,ok
+21314,Keilor,21966,North Melbourne,77.2,ok
+21315,Keilor Downs,21966,North Melbourne,60.08,ok
+21316,Keilor East,21966,North Melbourne,53.22,ok
+21317,Keilor Lodge,21966,North Melbourne,60.93,ok
+21318,Keilor North,21966,North Melbourne,56.27,ok
+21319,Keilor Park,21966,North Melbourne,62.13,ok
+21327,Kensington (Vic.),21966,North Melbourne,11.65,ok
+21333,Kerrie,21966,North Melbourne,,no_eligible_route
+21336,Kew (Vic.),21966,North Melbourne,47.05,ok
+21337,Kew East,21966,North Melbourne,51.08,ok
+21339,Keysborough,21966,North Melbourne,79.78,ok
+21354,Kilsyth,21966,North Melbourne,96.22,ok
+21355,Kilsyth South,21966,North Melbourne,97.98,ok
+21358,Kinglake,21966,North Melbourne,197.08,ok
+21359,Kinglake Central,21966,North Melbourne,,no_eligible_route
+21360,Kinglake West,21966,North Melbourne,151.12,ok
+21362,Kings Park (Vic.),21966,North Melbourne,56.4,ok
+21363,Kingsbury,21966,North Melbourne,69.55,ok
+21365,Kingsville,21966,North Melbourne,35.1,ok
+21374,Knoxfield,21966,North Melbourne,87.32,ok
+21380,Koo Wee Rup,21966,North Melbourne,,no_eligible_route
+21381,Koo Wee Rup North,21966,North Melbourne,,no_eligible_route
+21393,Kooyong,21966,North Melbourne,42.98,ok
+21411,Kurunjang,21966,North Melbourne,111.92,ok
+21452,Lalor,21966,North Melbourne,69.57,ok
+21456,Lancefield,21966,North Melbourne,,no_eligible_route
+21459,Lang Lang,21966,North Melbourne,,no_eligible_route
+21460,Lang Lang East,21966,North Melbourne,,no_eligible_route
+21467,Langwarrin,21966,North Melbourne,112.42,ok
+21468,Langwarrin South,21966,North Melbourne,,no_eligible_route
+21473,Launching Place,21966,North Melbourne,113.2,ok
+21476,Laverton (Vic.),21966,North Melbourne,52.05,ok
+21477,Laverton North,21966,North Melbourne,67.75,ok
+21504,Lilydale (Vic.),21966,North Melbourne,90.85,ok
+21533,Long Forest,21966,North Melbourne,,no_eligible_route
+21547,Lower Plenty,21966,North Melbourne,98.83,ok
+21554,Lynbrook,21966,North Melbourne,82.2,ok
+21555,Lyndhurst (Vic.),21966,North Melbourne,123.78,ok
+21558,Lysterfield,21966,North Melbourne,145.13,ok
+21559,Lysterfield South,21966,North Melbourne,135.92,ok
+21561,Macclesfield (Vic.),21966,North Melbourne,,no_eligible_route
+21562,Macedon,21966,North Melbourne,,no_eligible_route
+21564,Macleod (Vic.),21966,North Melbourne,63.55,ok
+21569,Maddingley,21966,North Melbourne,,no_eligible_route
+21575,Maidstone,21966,North Melbourne,42.13,ok
+21578,Main Ridge,21966,North Melbourne,,no_eligible_route
+21586,Malvern (Vic.),21966,North Melbourne,46.33,ok
+21587,Malvern East,21966,North Melbourne,54.23,ok
+21588,Mambourin,21966,North Melbourne,,no_eligible_route
+21597,Manor Lakes,21966,North Melbourne,101.52,ok
+21604,Maribyrnong,21966,North Melbourne,34.82,ok
+21619,Maryknoll,21966,North Melbourne,,no_eligible_route
+21625,McCrae,21966,North Melbourne,157.43,ok
+21629,McKinnon,21966,North Melbourne,47.2,ok
+21635,Meadow Heights,21966,North Melbourne,57.1,ok
+21640,Melbourne,21966,North Melbourne,29.8,ok
+21641,Melbourne Airport,21966,North Melbourne,,no_eligible_route
+21642,Melton (Vic.),21966,North Melbourne,120.1,ok
+21643,Melton South,21966,North Melbourne,120.47,ok
+21644,Melton West,21966,North Melbourne,108.1,ok
+21648,Mentone,21966,North Melbourne,59.88,ok
+21649,Menzies Creek,21966,North Melbourne,118.6,ok
+21659,Mernda,21966,North Melbourne,99.62,ok
+21662,Merricks,21966,North Melbourne,,no_eligible_route
+21663,Merricks Beach,21966,North Melbourne,,no_eligible_route
+21664,Merricks North,21966,North Melbourne,,no_eligible_route
+21668,Merrimu,21966,North Melbourne,,no_eligible_route
+21675,Mickleham,21966,North Melbourne,94.83,ok
+21677,Middle Park (Vic.),21966,North Melbourne,47.8,ok
+21683,Mill Park,21966,North Melbourne,89.65,ok
+21685,Millgrove,21966,North Melbourne,,no_eligible_route
+21706,Mitcham (Vic.),21966,North Melbourne,60.45,ok
+21727,Monbulk,21966,North Melbourne,131.7,ok
+21728,Monegeetta,21966,North Melbourne,,no_eligible_route
+21731,Monomeith,21966,North Melbourne,,no_eligible_route
+21732,Mont Albert,21966,North Melbourne,48.62,ok
+21733,Mont Albert North,21966,North Melbourne,61.42,ok
+21735,Montmorency,21966,North Melbourne,71.12,ok
+21736,Montrose (Vic.),21966,North Melbourne,91.82,ok
+21742,Moonee Ponds,21966,North Melbourne,20.17,ok
+21746,Moorabbin,21966,North Melbourne,65.15,ok
+21747,Moorabbin Airport,21966,North Melbourne,80.38,ok
+21754,Moorooduc,21966,North Melbourne,,no_eligible_route
+21755,Mooroolbark,21966,North Melbourne,84.17,ok
+21760,Mordialloc,21966,North Melbourne,75.18,ok
+21763,Mornington (Vic.),21966,North Melbourne,131.07,ok
+21779,Mount Burnett,21966,North Melbourne,,no_eligible_route
+21786,Mount Cottrell,21966,North Melbourne,,no_eligible_route
+21787,Mount Dandenong,21966,North Melbourne,102.52,ok
+21793,Mount Eliza,21966,North Melbourne,105.42,ok
+21795,Mount Evelyn,21966,North Melbourne,104.68,ok
+21801,Mount Macedon,21966,North Melbourne,,no_eligible_route
+21803,Mount Martha,21966,North Melbourne,123.95,ok
+21814,Mount Toolebewong,21966,North Melbourne,,no_eligible_route
+21816,Mount Waverley,21966,North Melbourne,60.65,ok
+21827,Mulgrave (Vic.),21966,North Melbourne,77.68,ok
+21849,Murrumbeena,21966,North Melbourne,51.1,ok
+21872,Nangana,21966,North Melbourne,,no_eligible_route
+21878,Nar Nar Goon,21966,North Melbourne,,no_eligible_route
+21879,Nar Nar Goon North,21966,North Melbourne,,no_eligible_route
+21893,Narre Warren,21966,North Melbourne,86.93,ok
+21894,Narre Warren East,21966,North Melbourne,,no_eligible_route
+21895,Narre Warren North,21966,North Melbourne,98.2,ok
+21896,Narre Warren South,21966,North Melbourne,91.75,ok
+21921,New Gisborne,21966,North Melbourne,,no_eligible_route
+21934,Newport (Vic.),21966,North Melbourne,36.9,ok
+21942,Niddrie,21966,North Melbourne,52.65,ok
+21952,Noble Park,21966,North Melbourne,63.2,ok
+21953,Noble Park North,21966,North Melbourne,80.42,ok
+21966,North Melbourne,21966,North Melbourne,0.0,same_centroid
+21969,North Warrandyte,21966,North Melbourne,98.1,ok
+21971,Northcote,21966,North Melbourne,43.62,ok
+21974,Notting Hill,21966,North Melbourne,63.15,ok
+21985,Nunawading,21966,North Melbourne,52.93,ok
+21991,Nutfield,21966,North Melbourne,,no_eligible_route
+21998,Oak Park,21966,North Melbourne,38.48,ok
+21999,Oaklands Junction,21966,North Melbourne,,no_eligible_route
+22000,Oakleigh,21966,North Melbourne,50.17,ok
+22001,Oakleigh East,21966,North Melbourne,59.98,ok
+22002,Oakleigh South,21966,North Melbourne,59.8,ok
+22006,Officer,21966,North Melbourne,104.48,ok
+22007,Officer South,21966,North Melbourne,137.05,ok
+22009,Olinda (Vic.),21966,North Melbourne,126.17,ok
+22016,Ormond,21966,North Melbourne,47.63,ok
+22027,Pakenham,21966,North Melbourne,100.4,ok
+22028,Pakenham South,21966,North Melbourne,,no_eligible_route
+22029,Pakenham Upper,21966,North Melbourne,,no_eligible_route
+22032,Panton Hill,21966,North Melbourne,,no_eligible_route
+22036,Park Orchards,21966,North Melbourne,70.73,ok
+22037,Parkdale,21966,North Melbourne,64.97,ok
+22038,Parkville (Vic.),21966,North Melbourne,16.98,ok
+22041,Pascoe Vale,21966,North Melbourne,42.85,ok
+22042,Pascoe Vale South,21966,North Melbourne,38.57,ok
+22047,Patterson Lakes,21966,North Melbourne,89.27,ok
+22050,Pearcedale,21966,North Melbourne,142.35,ok
+22058,Pentland Hills,21966,North Melbourne,,no_eligible_route
+22064,Pheasant Creek (Vic.),21966,North Melbourne,166.77,ok
+22084,Plenty (Vic.),21966,North Melbourne,98.05,ok
+22085,Plumpton (Vic.),21966,North Melbourne,,no_eligible_route
+22086,Point Cook,21966,North Melbourne,68.28,ok
+22087,Point Leo,21966,North Melbourne,,no_eligible_route
+22107,Port Melbourne,21966,North Melbourne,42.3,ok
+22113,Portsea,21966,North Melbourne,193.73,ok
+22115,Powelltown,21966,North Melbourne,,no_eligible_route
+22118,Prahran,21966,North Melbourne,43.7,ok
+22121,Preston (Vic.),21966,North Melbourne,52.62,ok
+22122,Princes Hill,21966,North Melbourne,28.25,ok
+22132,Quandong,21966,North Melbourne,,no_eligible_route
+22141,Ravenhall,21966,North Melbourne,86.78,ok
+22148,Red Hill (Vic.),21966,North Melbourne,,no_eligible_route
+22149,Red Hill South,21966,North Melbourne,,no_eligible_route
+22160,Research,21966,North Melbourne,93.55,ok
+22161,Reservoir (Vic.),21966,North Melbourne,62.03,ok
+22170,Richmond (Vic.),21966,North Melbourne,43.3,ok
+22172,Riddells Creek,21966,North Melbourne,,no_eligible_route
+22174,Ringwood (Vic.),21966,North Melbourne,67.08,ok
+22175,Ringwood East,21966,North Melbourne,65.63,ok
+22176,Ringwood North,21966,North Melbourne,77.32,ok
+22179,Ripponlea,21966,North Melbourne,45.17,ok
+22185,Rochford,21966,North Melbourne,,no_eligible_route
+22186,Rockbank,21966,North Melbourne,93.37,ok
+22193,Romsey,21966,North Melbourne,,no_eligible_route
+22194,Rosanna,21966,North Melbourne,58.02,ok
+22198,Rosebud,21966,North Melbourne,173.75,ok
+22207,Rowville,21966,North Melbourne,88.0,ok
+22208,Roxburgh Park,21966,North Melbourne,61.1,ok
+22220,Rye,21966,North Melbourne,185.95,ok
+22221,Rythdale,21966,North Melbourne,,no_eligible_route
+22222,Safety Beach (Vic.),21966,North Melbourne,140.92,ok
+22232,Sandhurst,21966,North Melbourne,117.6,ok
+22234,Sandringham (Vic.),21966,North Melbourne,70.53,ok
+22239,Sassafras (Vic.),21966,North Melbourne,110.58,ok
+22242,Scoresby,21966,North Melbourne,81.97,ok
+22247,Seabrook,21966,North Melbourne,62.87,ok
+22249,Seaford (Vic.),21966,North Melbourne,90.5,ok
+22250,Seaholme,21966,North Melbourne,49.13,ok
+22256,Seddon (Vic.),21966,North Melbourne,26.68,ok
+22258,Selby,21966,North Melbourne,118.27,ok
+22263,Seville,21966,North Melbourne,124.37,ok
+22264,Seville East,21966,North Melbourne,111.25,ok
+22278,Sherbrooke,21966,North Melbourne,114.32,ok
+22279,Shoreham,21966,North Melbourne,,no_eligible_route
+22281,Silvan,21966,North Melbourne,120.75,ok
+22291,Skye (Vic.),21966,North Melbourne,100.95,ok
+22295,Smiths Gully,21966,North Melbourne,,no_eligible_route
+22303,Somers,21966,North Melbourne,166.08,ok
+22304,Somerton (Vic.),21966,North Melbourne,61.57,ok
+22305,Somerville (Vic.),21966,North Melbourne,135.9,ok
+22306,Sorrento (Vic.),21966,North Melbourne,173.72,ok
+22309,South Kingsville,21966,North Melbourne,52.15,ok
+22310,South Melbourne,21966,North Melbourne,39.62,ok
+22311,South Morang,21966,North Melbourne,94.08,ok
+22313,South Wharf,21966,North Melbourne,36.2,ok
+22314,South Yarra,21966,North Melbourne,32.13,ok
+22315,Southbank,21966,North Melbourne,30.57,ok
+22319,Spotswood,21966,North Melbourne,31.0,ok
+22325,Springfield (Macedon Ranges - Vic.),21966,North Melbourne,,no_eligible_route
+22328,Springvale (Vic.),21966,North Melbourne,64.17,ok
+22329,Springvale South,21966,North Melbourne,63.9,ok
+22330,St Albans (Vic.),21966,North Melbourne,41.68,ok
+22332,St Andrews (Vic.),21966,North Melbourne,,no_eligible_route
+22333,St Andrews Beach,21966,North Melbourne,,no_eligible_route
+22339,St Helena,21966,North Melbourne,76.98,ok
+22343,St Kilda (Vic.),21966,North Melbourne,47.3,ok
+22344,St Kilda East,21966,North Melbourne,50.03,ok
+22345,St Kilda West,21966,North Melbourne,49.48,ok
+22355,Steels Creek,21966,North Melbourne,,no_eligible_route
+22375,Strathewen,21966,North Melbourne,,no_eligible_route
+22380,Strathmore (Vic.),21966,North Melbourne,45.95,ok
+22381,Strathmore Heights,21966,North Melbourne,56.73,ok
+22382,Strathtulloh,21966,North Melbourne,174.35,ok
+22391,Sunbury,21966,North Melbourne,100.97,ok
+22395,Sunshine (Vic.),21966,North Melbourne,30.47,ok
+22396,Sunshine North,21966,North Melbourne,49.53,ok
+22397,Sunshine West,21966,North Melbourne,50.82,ok
+22399,Surrey Hills,21966,North Melbourne,49.02,ok
+22414,Sydenham (Vic.),21966,North Melbourne,56.08,ok
+22451,Tarneit,21966,North Melbourne,87.35,ok
+22457,Tarrawarra,21966,North Melbourne,123.17,ok
+22473,Taylors Hill,21966,North Melbourne,61.92,ok
+22474,Taylors Lakes,21966,North Melbourne,49.5,ok
+22476,Tecoma,21966,North Melbourne,84.53,ok
+22483,Templestowe,21966,North Melbourne,67.45,ok
+22484,Templestowe Lower,21966,North Melbourne,61.1,ok
+22496,The Basin (Vic.),21966,North Melbourne,95.72,ok
+22501,The Patch,21966,North Melbourne,122.27,ok
+22504,Thomastown,21966,North Melbourne,74.87,ok
+22508,Thornbury,21966,North Melbourne,49.02,ok
+22509,Thornhill Park,21966,North Melbourne,,no_eligible_route
+22514,Three Bridges,21966,North Melbourne,,no_eligible_route
+22531,Tonimbuk,21966,North Melbourne,,no_eligible_route
+22536,Toolangi,21966,North Melbourne,,no_eligible_route
+22537,Toolern Vale,21966,North Melbourne,,no_eligible_route
+22546,Tooradin,21966,North Melbourne,,no_eligible_route
+22547,Toorak,21966,North Melbourne,52.03,ok
+22550,Tootgarook,21966,North Melbourne,169.37,ok
+22556,Tottenham (Vic.),21966,North Melbourne,55.0,ok
+22572,Travancore,21966,North Melbourne,16.2,ok
+22576,Tremont,21966,North Melbourne,102.13,ok
+22582,Truganina,21966,North Melbourne,137.5,ok
+22584,Tuerong,21966,North Melbourne,,no_eligible_route
+22586,Tullamarine,21966,North Melbourne,63.1,ok
+22594,Tyabb,21966,North Melbourne,128.22,ok
+22598,Tynong,21966,North Melbourne,,no_eligible_route
+22599,Tynong North,21966,North Melbourne,,no_eligible_route
+22614,Upper Ferntree Gully,21966,North Melbourne,81.68,ok
+22617,Upper Plenty,21966,North Melbourne,,no_eligible_route
+22620,Upwey,21966,North Melbourne,84.4,ok
+22627,Vermont,21966,North Melbourne,70.0,ok
+22628,Vermont South,21966,North Melbourne,79.88,ok
+22629,Vervale,21966,North Melbourne,,no_eligible_route
+22633,Viewbank,21966,North Melbourne,67.7,ok
+22661,Wallan,21966,North Melbourne,,no_eligible_route
+22672,Wandin East,21966,North Melbourne,,no_eligible_route
+22673,Wandin North,21966,North Melbourne,97.33,ok
+22676,Wandong,21966,North Melbourne,,no_eligible_route
+22685,Wantirna,21966,North Melbourne,83.08,ok
+22686,Wantirna South,21966,North Melbourne,95.13,ok
+22689,Warburton (Vic.),21966,North Melbourne,,no_eligible_route
+22695,Warneet,21966,North Melbourne,,no_eligible_route
+22702,Warrandyte,21966,North Melbourne,80.92,ok
+22703,Warrandyte South,21966,North Melbourne,106.57,ok
+22704,Warranwood,21966,North Melbourne,84.23,ok
+22717,Waterford Park,21966,North Melbourne,,no_eligible_route
+22720,Waterways,21966,North Melbourne,88.33,ok
+22721,Watsonia,21966,North Melbourne,58.47,ok
+22722,Watsonia North,21966,North Melbourne,76.92,ok
+22723,Watsons Creek (Vic.),21966,North Melbourne,,no_eligible_route
+22727,Wattle Glen,21966,North Melbourne,90.22,ok
+22740,Weir Views,21966,North Melbourne,143.55,ok
+22750,Werribee,21966,North Melbourne,63.08,ok
+22751,Werribee South,21966,North Melbourne,101.1,ok
+22753,Wesburn,21966,North Melbourne,129.3,ok
+22756,West Footscray,21966,North Melbourne,34.17,ok
+22757,West Melbourne,21966,North Melbourne,37.47,ok
+22761,Westmeadows,21966,North Melbourne,53.52,ok
+22766,Wheelers Hill,21966,North Melbourne,71.4,ok
+22775,Whittlesea,21966,North Melbourne,,no_eligible_route
+22784,Wildwood,21966,North Melbourne,,no_eligible_route
+22791,Williams Landing,21966,North Melbourne,66.3,ok
+22792,Williamstown (Vic.),21966,North Melbourne,42.12,ok
+22793,Williamstown North,21966,North Melbourne,55.6,ok
+22805,Windsor (Vic.),21966,North Melbourne,42.43,ok
+22820,Wollert,21966,North Melbourne,81.37,ok
+22825,Wonga Park,21966,North Melbourne,101.4,ok
+22843,Woodstock (Vic.),21966,North Melbourne,,no_eligible_route
+22857,Woori Yallock,21966,North Melbourne,108.45,ok
+22883,Wyndham Vale,21966,North Melbourne,89.9,ok
+22892,Yallambie,21966,North Melbourne,81.43,ok
+22898,Yan Yean,21966,North Melbourne,122.82,ok
+22906,Yannathan,21966,North Melbourne,,no_eligible_route
+22910,Yarra Glen,21966,North Melbourne,120.47,ok
+22911,Yarra Junction,21966,North Melbourne,133.57,ok
+22916,Yarrambat,21966,North Melbourne,94.3,ok
+22917,Yarraville,21966,North Melbourne,36.75,ok
+22925,Yellingbo,21966,North Melbourne,,no_eligible_route
+22930,Yering,21966,North Melbourne,,no_eligible_route
+22941,Yuroke,21966,North Melbourne,117.17,ok

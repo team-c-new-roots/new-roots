@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20097,Badger Creek,159.47,ok
+20003,Aberfeldie,20097,Badger Creek,,no_eligible_route
+20011,Aintree,20097,Badger Creek,,no_eligible_route
+20015,Airport West,20097,Badger Creek,,no_eligible_route
+20017,Albanvale,20097,Badger Creek,214.7,ok
+20018,Albert Park (Vic.),20097,Badger Creek,174.75,ok
+20021,Albion (Vic.),20097,Badger Creek,177.62,ok
+20034,Alphington,20097,Badger Creek,163.63,ok
+20035,Altona (Vic.),20097,Badger Creek,178.72,ok
+20036,Altona Meadows,20097,Badger Creek,,no_eligible_route
+20037,Altona North,20097,Badger Creek,,no_eligible_route
+20062,Ardeer,20097,Badger Creek,195.85,ok
+20066,Armadale (Vic.),20097,Badger Creek,144.87,ok
+20071,Arthurs Creek,20097,Badger Creek,,no_eligible_route
+20072,Arthurs Seat,20097,Badger Creek,,no_eligible_route
+20075,Ascot Vale,20097,Badger Creek,176.85,ok
+20077,Ashburton,20097,Badger Creek,148.58,ok
+20078,Ashwood,20097,Badger Creek,142.98,ok
+20079,Aspendale,20097,Badger Creek,,no_eligible_route
+20080,Aspendale Gardens,20097,Badger Creek,,no_eligible_route
+20082,Attwood,20097,Badger Creek,,no_eligible_route
+20089,Avondale Heights,20097,Badger Creek,,no_eligible_route
+20091,Avonsleigh,20097,Badger Creek,,no_eligible_route
+20095,Bacchus Marsh,20097,Badger Creek,,no_eligible_route
+20097,Badger Creek,20097,Badger Creek,0.0,same_centroid
+20105,Balaclava (Vic.),20097,Badger Creek,147.5,ok
+20120,Balnarring,20097,Badger Creek,,no_eligible_route
+20121,Balnarring Beach,20097,Badger Creek,,no_eligible_route
+20123,Balwyn,20097,Badger Creek,136.65,ok
+20124,Balwyn North,20097,Badger Creek,,no_eligible_route
+20131,Bangholme,20097,Badger Creek,,no_eligible_route
+20169,Baxter,20097,Badger Creek,,no_eligible_route
+20171,Bayles,20097,Badger Creek,,no_eligible_route
+20173,Bayswater (Vic.),20097,Badger Creek,116.12,ok
+20174,Bayswater North,20097,Badger Creek,,no_eligible_route
+20175,Beaconsfield (Vic.),20097,Badger Creek,211.57,ok
+20176,Beaconsfield Upper,20097,Badger Creek,,no_eligible_route
+20182,Beaumaris (Vic.),20097,Badger Creek,195.52,ok
+20187,Beenak,20097,Badger Creek,,no_eligible_route
+20188,Belgrave,20097,Badger Creek,129.2,ok
+20189,Belgrave Heights,20097,Badger Creek,,no_eligible_route
+20190,Belgrave South,20097,Badger Creek,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20097,Badger Creek,177.13,ok
+20207,Bend Of Islands,20097,Badger Creek,,no_eligible_route
+20212,Benloch,20097,Badger Creek,,no_eligible_route
+20214,Bentleigh,20097,Badger Creek,164.9,ok
+20215,Bentleigh East,20097,Badger Creek,169.25,ok
+20224,Berwick,20097,Badger Creek,184.37,ok
+20233,Beveridge,20097,Badger Creek,,no_eligible_route
+20237,Big Pats Creek,20097,Badger Creek,,no_eligible_route
+20248,Bittern,20097,Badger Creek,,no_eligible_route
+20251,Black Rock (Vic.),20097,Badger Creek,199.6,ok
+20252,Blackburn,20097,Badger Creek,107.43,ok
+20253,Blackburn North,20097,Badger Creek,123.12,ok
+20254,Blackburn South,20097,Badger Creek,131.52,ok
+20257,Blairgowrie,20097,Badger Creek,,no_eligible_route
+20260,Blind Bight,20097,Badger Creek,,no_eligible_route
+20272,Bolinda,20097,Badger Creek,,no_eligible_route
+20278,Bonbeach,20097,Badger Creek,192.12,ok
+20280,Boneo,20097,Badger Creek,,no_eligible_route
+20282,Bonnie Brook,20097,Badger Creek,,no_eligible_route
+20304,Boronia,20097,Badger Creek,,no_eligible_route
+20307,Botanic Ridge,20097,Badger Creek,,no_eligible_route
+20314,Box Hill (Vic.),20097,Badger Creek,114.9,ok
+20315,Box Hill North,20097,Badger Creek,127.32,ok
+20316,Box Hill South,20097,Badger Creek,122.05,ok
+20320,Braeside,20097,Badger Creek,,no_eligible_route
+20324,Braybrook,20097,Badger Creek,192.02,ok
+20331,Briar Hill,20097,Badger Creek,160.05,ok
+20337,Brighton (Vic.),20097,Badger Creek,160.27,ok
+20338,Brighton East,20097,Badger Creek,177.13,ok
+20346,Broadmeadows (Vic.),20097,Badger Creek,200.47,ok
+20351,Brookfield (Vic.),20097,Badger Creek,,no_eligible_route
+20352,Brooklyn (Vic.),20097,Badger Creek,,no_eligible_route
+20361,Brunswick (Vic.),20097,Badger Creek,175.57,ok
+20362,Brunswick East,20097,Badger Creek,166.65,ok
+20363,Brunswick West,20097,Badger Creek,,no_eligible_route
+20381,Bulla (Vic.),20097,Badger Creek,,no_eligible_route
+20386,Bulleen,20097,Badger Creek,148.47,ok
+20387,Bullengarook,20097,Badger Creek,,no_eligible_route
+20399,Bundoora (Vic.),20097,Badger Creek,154.82,ok
+20411,Bunyip,20097,Badger Creek,,no_eligible_route
+20412,Bunyip North,20097,Badger Creek,,no_eligible_route
+20418,Burnley,20097,Badger Creek,143.07,ok
+20419,Burnside (Vic.),20097,Badger Creek,,no_eligible_route
+20420,Burnside Heights,20097,Badger Creek,,no_eligible_route
+20426,Burwood (Vic.),20097,Badger Creek,131.55,ok
+20427,Burwood East,20097,Badger Creek,,no_eligible_route
+20435,Bylands,20097,Badger Creek,,no_eligible_route
+20441,Cairnlea,20097,Badger Creek,200.27,ok
+20442,Calder Park,20097,Badger Creek,,no_eligible_route
+20443,Caldermeade,20097,Badger Creek,,no_eligible_route
+20453,Camberwell (Vic.),20097,Badger Creek,140.58,ok
+20455,Campbellfield,20097,Badger Creek,,no_eligible_route
+20466,Cannons Creek,20097,Badger Creek,,no_eligible_route
+20468,Canterbury (Vic.),20097,Badger Creek,121.88,ok
+20474,Cape Schanck,20097,Badger Creek,,no_eligible_route
+20476,Capel Sound,20097,Badger Creek,,no_eligible_route
+20487,Cardinia,20097,Badger Creek,,no_eligible_route
+20495,Carlton (Vic.),20097,Badger Creek,154.32,ok
+20496,Carlton North,20097,Badger Creek,164.42,ok
+20498,Carnegie,20097,Badger Creek,171.1,ok
+20500,Caroline Springs,20097,Badger Creek,,no_eligible_route
+20507,Carrum,20097,Badger Creek,191.93,ok
+20508,Carrum Downs,20097,Badger Creek,,no_eligible_route
+20512,Castella,20097,Badger Creek,,no_eligible_route
+20517,Catani,20097,Badger Creek,,no_eligible_route
+20521,Caulfield,20097,Badger Creek,171.12,ok
+20522,Caulfield East,20097,Badger Creek,155.3,ok
+20523,Caulfield North,20097,Badger Creek,161.37,ok
+20524,Caulfield South,20097,Badger Creek,178.93,ok
+20528,Chadstone,20097,Badger Creek,147.87,ok
+20537,Chelsea,20097,Badger Creek,189.18,ok
+20538,Chelsea Heights,20097,Badger Creek,,no_eligible_route
+20539,Cheltenham (Vic.),20097,Badger Creek,176.5,ok
+20541,Cherokee,20097,Badger Creek,,no_eligible_route
+20555,Chintin,20097,Badger Creek,,no_eligible_route
+20556,Chirnside Park,20097,Badger Creek,,no_eligible_route
+20559,Christmas Hills (Vic.),20097,Badger Creek,,no_eligible_route
+20560,Chum Creek,20097,Badger Creek,169.13,walk_only
+20566,Clarinda,20097,Badger Creek,,no_eligible_route
+20567,Clarkefield,20097,Badger Creek,,no_eligible_route
+20569,Clayton,20097,Badger Creek,,no_eligible_route
+20570,Clayton South,20097,Badger Creek,,no_eligible_route
+20572,Clematis,20097,Badger Creek,,no_eligible_route
+20574,Clifton Hill,20097,Badger Creek,157.72,ok
+20576,Clonbinane,20097,Badger Creek,,no_eligible_route
+20581,Clyde (Vic.),20097,Badger Creek,,no_eligible_route
+20582,Clyde North,20097,Badger Creek,,no_eligible_route
+20587,Cobaw,20097,Badger Creek,,no_eligible_route
+20590,Cobblebank,20097,Badger Creek,,no_eligible_route
+20596,Coburg,20097,Badger Creek,177.08,ok
+20597,Coburg North,20097,Badger Creek,,no_eligible_route
+20600,Cockatoo (Vic.),20097,Badger Creek,,no_eligible_route
+20601,Cocoroc,20097,Badger Creek,,no_eligible_route
+20605,Coimadai,20097,Badger Creek,,no_eligible_route
+20613,Coldstream (Vic.),20097,Badger Creek,231.52,walk_only
+20616,Collingwood (Vic.),20097,Badger Creek,160.12,ok
+20624,Coolaroo,20097,Badger Creek,201.33,ok
+20633,Cora Lynn,20097,Badger Creek,,no_eligible_route
+20654,Cottles Bridge,20097,Badger Creek,,no_eligible_route
+20661,Craigieburn,20097,Badger Creek,,no_eligible_route
+20662,Cranbourne,20097,Badger Creek,,no_eligible_route
+20663,Cranbourne East,20097,Badger Creek,225.12,ok
+20664,Cranbourne North,20097,Badger Creek,,no_eligible_route
+20665,Cranbourne South,20097,Badger Creek,,no_eligible_route
+20666,Cranbourne West,20097,Badger Creek,,no_eligible_route
+20670,Cremorne (Vic.),20097,Badger Creek,138.05,ok
+20674,Crib Point,20097,Badger Creek,,no_eligible_route
+20682,Croydon (Vic.),20097,Badger Creek,90.27,ok
+20683,Croydon Hills,20097,Badger Creek,,no_eligible_route
+20684,Croydon North,20097,Badger Creek,,no_eligible_route
+20685,Croydon South,20097,Badger Creek,,no_eligible_route
+20702,Dallas,20097,Badger Creek,207.77,ok
+20703,Dalmore,20097,Badger Creek,,no_eligible_route
+20707,Dandenong,20097,Badger Creek,165.68,ok
+20708,Dandenong North,20097,Badger Creek,166.1,ok
+20709,Dandenong South,20097,Badger Creek,183.33,ok
+20712,Darley,20097,Badger Creek,,no_eligible_route
+20716,Darraweit Guim,20097,Badger Creek,,no_eligible_route
+20724,Deanside,20097,Badger Creek,,no_eligible_route
+20728,Deepdene (Vic.),20097,Badger Creek,134.5,ok
+20729,Deer Park,20097,Badger Creek,,no_eligible_route
+20731,Delahey,20097,Badger Creek,212.17,ok
+20743,Derrimut,20097,Badger Creek,,no_eligible_route
+20748,Devon Meadows,20097,Badger Creek,,no_eligible_route
+20750,Dewhurst,20097,Badger Creek,,no_eligible_route
+20752,Diamond Creek,20097,Badger Creek,185.95,ok
+20754,Diggers Rest,20097,Badger Creek,220.03,ok
+20758,Dingley Village,20097,Badger Creek,,no_eligible_route
+20762,Dixons Creek,20097,Badger Creek,,no_eligible_route
+20766,Docklands,20097,Badger Creek,154.58,ok
+20769,Don Valley,20097,Badger Creek,171.82,walk_only
+20771,Doncaster,20097,Badger Creek,131.12,ok
+20772,Doncaster East,20097,Badger Creek,125.08,ok
+20773,Donnybrook (Vic.),20097,Badger Creek,,no_eligible_route
+20774,Donvale,20097,Badger Creek,,no_eligible_route
+20779,Doreen,20097,Badger Creek,,no_eligible_route
+20783,Doveton,20097,Badger Creek,178.47,ok
+20788,Dromana,20097,Badger Creek,,no_eligible_route
+20825,Eaglemont,20097,Badger Creek,154.23,ok
+20830,East Melbourne,20097,Badger Creek,147.92,ok
+20833,East Warburton,20097,Badger Creek,,no_eligible_route
+20843,Eden Park,20097,Badger Creek,,no_eligible_route
+20848,Edithvale,20097,Badger Creek,189.32,ok
+20864,Elsternwick,20097,Badger Creek,155.42,ok
+20865,Eltham (Vic.),20097,Badger Creek,166.18,ok
+20866,Eltham North,20097,Badger Creek,,no_eligible_route
+20867,Elwood,20097,Badger Creek,161.6,ok
+20868,Emerald (Vic.),20097,Badger Creek,,no_eligible_route
+20871,Endeavour Hills,20097,Badger Creek,,no_eligible_route
+20878,Epping (Vic.),20097,Badger Creek,201.23,ok
+20885,Essendon,20097,Badger Creek,182.77,ok
+20886,Essendon Fields,20097,Badger Creek,,no_eligible_route
+20887,Essendon North,20097,Badger Creek,,no_eligible_route
+20888,Essendon West,20097,Badger Creek,,no_eligible_route
+20889,Eumemmerring,20097,Badger Creek,,no_eligible_route
+20898,Exford,20097,Badger Creek,,no_eligible_route
+20899,Eynesbury,20097,Badger Creek,,no_eligible_route
+20901,Fairfield (Vic.),20097,Badger Creek,169.95,ok
+20909,Fawkner,20097,Badger Creek,201.57,ok
+20916,Fernshaw,20097,Badger Creek,231.07,walk_only
+20917,Ferntree Gully,20097,Badger Creek,134.95,ok
+20918,Ferny Creek,20097,Badger Creek,,no_eligible_route
+20920,Fingal (Vic.),20097,Badger Creek,,no_eligible_route
+20924,Fitzroy (Vic.),20097,Badger Creek,165.7,ok
+20925,Fitzroy North,20097,Badger Creek,173.27,ok
+20929,Flemington,20097,Badger Creek,175.75,ok
+20930,Flinders (Vic.),20097,Badger Creek,,no_eligible_route
+20935,Footscray,20097,Badger Creek,160.48,ok
+20937,Forest Hill (Vic.),20097,Badger Creek,124.77,ok
+20947,Frankston,20097,Badger Creek,220.22,ok
+20948,Frankston North,20097,Badger Creek,,no_eligible_route
+20949,Frankston South,20097,Badger Creek,,no_eligible_route
+20950,Fraser Rise,20097,Badger Creek,,no_eligible_route
+20965,Gardenvale,20097,Badger Creek,156.7,ok
+20966,Garfield,20097,Badger Creek,,no_eligible_route
+20967,Garfield North,20097,Badger Creek,,no_eligible_route
+20979,Gembrook,20097,Badger Creek,,no_eligible_route
+20995,Gilderoy,20097,Badger Creek,,no_eligible_route
+21001,Gisborne,20097,Badger Creek,,no_eligible_route
+21002,Gisborne South,20097,Badger Creek,,no_eligible_route
+21004,Gladstone Park,20097,Badger Creek,214.67,ok
+21005,Gladysdale,20097,Badger Creek,,no_eligible_route
+21009,Glen Huntly,20097,Badger Creek,157.43,ok
+21010,Glen Iris (Vic.),20097,Badger Creek,152.3,ok
+21013,Glen Waverley,20097,Badger Creek,137.33,ok
+21047,Glenroy (Vic.),20097,Badger Creek,195.32,ok
+21059,Goldie,20097,Badger Creek,,no_eligible_route
+21079,Gowanbrae,20097,Badger Creek,217.0,ok
+21087,Grangefields,20097,Badger Creek,,no_eligible_route
+21104,Greensborough,20097,Badger Creek,144.52,ok
+21105,Greenvale (Vic.),20097,Badger Creek,,no_eligible_route
+21115,Gruyere,20097,Badger Creek,182.13,walk_only
+21121,Guys Hill,20097,Badger Creek,,no_eligible_route
+21124,Hadfield,20097,Badger Creek,,no_eligible_route
+21125,Hallam,20097,Badger Creek,190.48,ok
+21131,Hampton (Vic.),20097,Badger Creek,167.1,ok
+21132,Hampton East,20097,Badger Creek,171.67,ok
+21133,Hampton Park,20097,Badger Creek,,no_eligible_route
+21139,Harkaway,20097,Badger Creek,,no_eligible_route
+21140,Harkness,20097,Badger Creek,,no_eligible_route
+21145,Hastings (Vic.),20097,Badger Creek,,no_eligible_route
+21152,Hawthorn (Vic.),20097,Badger Creek,135.47,ok
+21153,Hawthorn East,20097,Badger Creek,134.53,ok
+21158,Healesville,20097,Badger Creek,69.92,walk_only
+21159,Heath Hill,20097,Badger Creek,,no_eligible_route
+21161,Heathcote Junction,20097,Badger Creek,,no_eligible_route
+21163,Heatherton,20097,Badger Creek,179.78,ok
+21165,Heathmont,20097,Badger Creek,106.38,ok
+21167,Heidelberg,20097,Badger Creek,151.03,ok
+21168,Heidelberg Heights,20097,Badger Creek,174.62,ok
+21169,Heidelberg West,20097,Badger Creek,,no_eligible_route
+21176,Hesket,20097,Badger Creek,,no_eligible_route
+21185,Highett,20097,Badger Creek,164.43,ok
+21193,Hillside (Melton - Vic.),20097,Badger Creek,,no_eligible_route
+21195,Hmas Cerberus,20097,Badger Creek,,no_eligible_route
+21196,Hoddles Creek,20097,Badger Creek,,no_eligible_route
+21202,Hopetoun Park,20097,Badger Creek,,no_eligible_route
+21203,Hoppers Crossing,20097,Badger Creek,215.7,ok
+21214,Hughesdale,20097,Badger Creek,156.23,ok
+21215,Humevale,20097,Badger Creek,,no_eligible_route
+21218,Huntingdale (Vic.),20097,Badger Creek,166.95,ok
+21223,Hurstbridge,20097,Badger Creek,186.5,ok
+21238,Iona,20097,Badger Creek,,no_eligible_route
+21246,Ivanhoe (Vic.),20097,Badger Creek,168.23,ok
+21247,Ivanhoe East,20097,Badger Creek,166.2,ok
+21248,Jacana,20097,Badger Creek,199.88,ok
+21277,Junction Village,20097,Badger Creek,,no_eligible_route
+21284,Kalkallo,20097,Badger Creek,,no_eligible_route
+21286,Kallista,20097,Badger Creek,,no_eligible_route
+21287,Kalorama,20097,Badger Creek,,no_eligible_route
+21294,Kangaroo Ground,20097,Badger Creek,,no_eligible_route
+21312,Kealba,20097,Badger Creek,209.83,ok
+21314,Keilor,20097,Badger Creek,,no_eligible_route
+21315,Keilor Downs,20097,Badger Creek,204.97,ok
+21316,Keilor East,20097,Badger Creek,,no_eligible_route
+21317,Keilor Lodge,20097,Badger Creek,,no_eligible_route
+21318,Keilor North,20097,Badger Creek,218.42,ok
+21319,Keilor Park,20097,Badger Creek,,no_eligible_route
+21327,Kensington (Vic.),20097,Badger Creek,156.62,ok
+21333,Kerrie,20097,Badger Creek,,no_eligible_route
+21336,Kew (Vic.),20097,Badger Creek,143.92,ok
+21337,Kew East,20097,Badger Creek,166.77,ok
+21339,Keysborough,20097,Badger Creek,,no_eligible_route
+21354,Kilsyth,20097,Badger Creek,,no_eligible_route
+21355,Kilsyth South,20097,Badger Creek,,no_eligible_route
+21358,Kinglake,20097,Badger Creek,,no_eligible_route
+21359,Kinglake Central,20097,Badger Creek,,no_eligible_route
+21360,Kinglake West,20097,Badger Creek,,no_eligible_route
+21362,Kings Park (Vic.),20097,Badger Creek,206.88,ok
+21363,Kingsbury,20097,Badger Creek,188.62,ok
+21365,Kingsville,20097,Badger Creek,170.97,ok
+21374,Knoxfield,20097,Badger Creek,,no_eligible_route
+21380,Koo Wee Rup,20097,Badger Creek,,no_eligible_route
+21381,Koo Wee Rup North,20097,Badger Creek,,no_eligible_route
+21393,Kooyong,20097,Badger Creek,148.65,ok
+21411,Kurunjang,20097,Badger Creek,,no_eligible_route
+21452,Lalor,20097,Badger Creek,190.92,ok
+21456,Lancefield,20097,Badger Creek,,no_eligible_route
+21459,Lang Lang,20097,Badger Creek,,no_eligible_route
+21460,Lang Lang East,20097,Badger Creek,,no_eligible_route
+21467,Langwarrin,20097,Badger Creek,,no_eligible_route
+21468,Langwarrin South,20097,Badger Creek,,no_eligible_route
+21473,Launching Place,20097,Badger Creek,108.87,ok
+21476,Laverton (Vic.),20097,Badger Creek,187.32,ok
+21477,Laverton North,20097,Badger Creek,,no_eligible_route
+21504,Lilydale (Vic.),20097,Badger Creek,66.63,ok
+21533,Long Forest,20097,Badger Creek,,no_eligible_route
+21547,Lower Plenty,20097,Badger Creek,159.87,ok
+21554,Lynbrook,20097,Badger Creek,191.73,ok
+21555,Lyndhurst (Vic.),20097,Badger Creek,,no_eligible_route
+21558,Lysterfield,20097,Badger Creek,,no_eligible_route
+21559,Lysterfield South,20097,Badger Creek,,no_eligible_route
+21561,Macclesfield (Vic.),20097,Badger Creek,,no_eligible_route
+21562,Macedon,20097,Badger Creek,,no_eligible_route
+21564,Macleod (Vic.),20097,Badger Creek,183.58,ok
+21569,Maddingley,20097,Badger Creek,,no_eligible_route
+21575,Maidstone,20097,Badger Creek,190.23,ok
+21578,Main Ridge,20097,Badger Creek,,no_eligible_route
+21586,Malvern (Vic.),20097,Badger Creek,145.18,ok
+21587,Malvern East,20097,Badger Creek,161.25,ok
+21588,Mambourin,20097,Badger Creek,,no_eligible_route
+21597,Manor Lakes,20097,Badger Creek,,no_eligible_route
+21604,Maribyrnong,20097,Badger Creek,185.37,ok
+21619,Maryknoll,20097,Badger Creek,,no_eligible_route
+21625,McCrae,20097,Badger Creek,,no_eligible_route
+21629,McKinnon,20097,Badger Creek,154.73,ok
+21635,Meadow Heights,20097,Badger Creek,212.77,ok
+21640,Melbourne,20097,Badger Creek,141.85,ok
+21641,Melbourne Airport,20097,Badger Creek,,no_eligible_route
+21642,Melton (Vic.),20097,Badger Creek,,no_eligible_route
+21643,Melton South,20097,Badger Creek,,no_eligible_route
+21644,Melton West,20097,Badger Creek,,no_eligible_route
+21648,Mentone,20097,Badger Creek,161.08,ok
+21649,Menzies Creek,20097,Badger Creek,,no_eligible_route
+21659,Mernda,20097,Badger Creek,217.27,ok
+21662,Merricks,20097,Badger Creek,,no_eligible_route
+21663,Merricks Beach,20097,Badger Creek,,no_eligible_route
+21664,Merricks North,20097,Badger Creek,,no_eligible_route
+21668,Merrimu,20097,Badger Creek,,no_eligible_route
+21675,Mickleham,20097,Badger Creek,,no_eligible_route
+21677,Middle Park (Vic.),20097,Badger Creek,,no_eligible_route
+21683,Mill Park,20097,Badger Creek,185.13,ok
+21685,Millgrove,20097,Badger Creek,,no_eligible_route
+21706,Mitcham (Vic.),20097,Badger Creek,107.08,ok
+21727,Monbulk,20097,Badger Creek,,no_eligible_route
+21728,Monegeetta,20097,Badger Creek,,no_eligible_route
+21731,Monomeith,20097,Badger Creek,,no_eligible_route
+21732,Mont Albert,20097,Badger Creek,121.28,ok
+21733,Mont Albert North,20097,Badger Creek,141.45,ok
+21735,Montmorency,20097,Badger Creek,148.23,ok
+21736,Montrose (Vic.),20097,Badger Creek,97.73,ok
+21742,Moonee Ponds,20097,Badger Creek,169.23,ok
+21746,Moorabbin,20097,Badger Creek,186.48,ok
+21747,Moorabbin Airport,20097,Badger Creek,,no_eligible_route
+21754,Moorooduc,20097,Badger Creek,,no_eligible_route
+21755,Mooroolbark,20097,Badger Creek,,no_eligible_route
+21760,Mordialloc,20097,Badger Creek,188.15,ok
+21763,Mornington (Vic.),20097,Badger Creek,,no_eligible_route
+21779,Mount Burnett,20097,Badger Creek,,no_eligible_route
+21786,Mount Cottrell,20097,Badger Creek,,no_eligible_route
+21787,Mount Dandenong,20097,Badger Creek,112.18,ok
+21793,Mount Eliza,20097,Badger Creek,,no_eligible_route
+21795,Mount Evelyn,20097,Badger Creek,91.35,ok
+21801,Mount Macedon,20097,Badger Creek,,no_eligible_route
+21803,Mount Martha,20097,Badger Creek,,no_eligible_route
+21814,Mount Toolebewong,20097,Badger Creek,114.75,walk_only
+21816,Mount Waverley,20097,Badger Creek,,no_eligible_route
+21827,Mulgrave (Vic.),20097,Badger Creek,,no_eligible_route
+21849,Murrumbeena,20097,Badger Creek,165.22,ok
+21872,Nangana,20097,Badger Creek,,no_eligible_route
+21878,Nar Nar Goon,20097,Badger Creek,,no_eligible_route
+21879,Nar Nar Goon North,20097,Badger Creek,,no_eligible_route
+21893,Narre Warren,20097,Badger Creek,189.92,ok
+21894,Narre Warren East,20097,Badger Creek,,no_eligible_route
+21895,Narre Warren North,20097,Badger Creek,,no_eligible_route
+21896,Narre Warren South,20097,Badger Creek,,no_eligible_route
+21921,New Gisborne,20097,Badger Creek,,no_eligible_route
+21934,Newport (Vic.),20097,Badger Creek,164.17,ok
+21942,Niddrie,20097,Badger Creek,,no_eligible_route
+21952,Noble Park,20097,Badger Creek,163.73,ok
+21953,Noble Park North,20097,Badger Creek,,no_eligible_route
+21966,North Melbourne,20097,Badger Creek,159.12,ok
+21969,North Warrandyte,20097,Badger Creek,,no_eligible_route
+21971,Northcote,20097,Badger Creek,174.12,ok
+21974,Notting Hill,20097,Badger Creek,,no_eligible_route
+21985,Nunawading,20097,Badger Creek,105.55,ok
+21991,Nutfield,20097,Badger Creek,,no_eligible_route
+21998,Oak Park,20097,Badger Creek,187.55,ok
+21999,Oaklands Junction,20097,Badger Creek,,no_eligible_route
+22000,Oakleigh,20097,Badger Creek,156.88,ok
+22001,Oakleigh East,20097,Badger Creek,,no_eligible_route
+22002,Oakleigh South,20097,Badger Creek,166.73,ok
+22006,Officer,20097,Badger Creek,204.02,ok
+22007,Officer South,20097,Badger Creek,,no_eligible_route
+22009,Olinda (Vic.),20097,Badger Creek,,no_eligible_route
+22016,Ormond,20097,Badger Creek,155.17,ok
+22027,Pakenham,20097,Badger Creek,203.07,ok
+22028,Pakenham South,20097,Badger Creek,,no_eligible_route
+22029,Pakenham Upper,20097,Badger Creek,,no_eligible_route
+22032,Panton Hill,20097,Badger Creek,,no_eligible_route
+22036,Park Orchards,20097,Badger Creek,116.2,ok
+22037,Parkdale,20097,Badger Creek,179.5,ok
+22038,Parkville (Vic.),20097,Badger Creek,170.6,ok
+22041,Pascoe Vale,20097,Badger Creek,191.92,ok
+22042,Pascoe Vale South,20097,Badger Creek,187.65,ok
+22047,Patterson Lakes,20097,Badger Creek,,no_eligible_route
+22050,Pearcedale,20097,Badger Creek,,no_eligible_route
+22058,Pentland Hills,20097,Badger Creek,,no_eligible_route
+22064,Pheasant Creek (Vic.),20097,Badger Creek,,no_eligible_route
+22084,Plenty (Vic.),20097,Badger Creek,167.08,ok
+22085,Plumpton (Vic.),20097,Badger Creek,,no_eligible_route
+22086,Point Cook,20097,Badger Creek,,no_eligible_route
+22087,Point Leo,20097,Badger Creek,,no_eligible_route
+22107,Port Melbourne,20097,Badger Creek,,no_eligible_route
+22113,Portsea,20097,Badger Creek,,no_eligible_route
+22115,Powelltown,20097,Badger Creek,,no_eligible_route
+22118,Prahran,20097,Badger Creek,148.23,ok
+22121,Preston (Vic.),20097,Badger Creek,185.52,ok
+22122,Princes Hill,20097,Badger Creek,157.6,ok
+22132,Quandong,20097,Badger Creek,,no_eligible_route
+22141,Ravenhall,20097,Badger Creek,,no_eligible_route
+22148,Red Hill (Vic.),20097,Badger Creek,,no_eligible_route
+22149,Red Hill South,20097,Badger Creek,,no_eligible_route
+22160,Research,20097,Badger Creek,,no_eligible_route
+22161,Reservoir (Vic.),20097,Badger Creek,187.73,ok
+22170,Richmond (Vic.),20097,Badger Creek,143.73,ok
+22172,Riddells Creek,20097,Badger Creek,,no_eligible_route
+22174,Ringwood (Vic.),20097,Badger Creek,104.75,ok
+22175,Ringwood East,20097,Badger Creek,,no_eligible_route
+22176,Ringwood North,20097,Badger Creek,110.93,ok
+22179,Ripponlea,20097,Badger Creek,146.13,ok
+22185,Rochford,20097,Badger Creek,,no_eligible_route
+22186,Rockbank,20097,Badger Creek,,no_eligible_route
+22193,Romsey,20097,Badger Creek,,no_eligible_route
+22194,Rosanna,20097,Badger Creek,170.78,ok
+22198,Rosebud,20097,Badger Creek,,no_eligible_route
+22207,Rowville,20097,Badger Creek,,no_eligible_route
+22208,Roxburgh Park,20097,Badger Creek,217.4,ok
+22220,Rye,20097,Badger Creek,,no_eligible_route
+22221,Rythdale,20097,Badger Creek,,no_eligible_route
+22222,Safety Beach (Vic.),20097,Badger Creek,,no_eligible_route
+22232,Sandhurst,20097,Badger Creek,,no_eligible_route
+22234,Sandringham (Vic.),20097,Badger Creek,171.98,ok
+22239,Sassafras (Vic.),20097,Badger Creek,,no_eligible_route
+22242,Scoresby,20097,Badger Creek,,no_eligible_route
+22247,Seabrook,20097,Badger Creek,203.72,ok
+22249,Seaford (Vic.),20097,Badger Creek,204.03,ok
+22250,Seaholme,20097,Badger Creek,173.4,ok
+22256,Seddon (Vic.),20097,Badger Creek,157.42,ok
+22258,Selby,20097,Badger Creek,,no_eligible_route
+22263,Seville,20097,Badger Creek,,no_eligible_route
+22264,Seville East,20097,Badger Creek,191.85,walk_only
+22278,Sherbrooke,20097,Badger Creek,,no_eligible_route
+22279,Shoreham,20097,Badger Creek,,no_eligible_route
+22281,Silvan,20097,Badger Creek,,no_eligible_route
+22291,Skye (Vic.),20097,Badger Creek,,no_eligible_route
+22295,Smiths Gully,20097,Badger Creek,,no_eligible_route
+22303,Somers,20097,Badger Creek,,no_eligible_route
+22304,Somerton (Vic.),20097,Badger Creek,,no_eligible_route
+22305,Somerville (Vic.),20097,Badger Creek,,no_eligible_route
+22306,Sorrento (Vic.),20097,Badger Creek,,no_eligible_route
+22309,South Kingsville,20097,Badger Creek,176.42,ok
+22310,South Melbourne,20097,Badger Creek,162.52,ok
+22311,South Morang,20097,Badger Creek,199.95,ok
+22313,South Wharf,20097,Badger Creek,156.65,ok
+22314,South Yarra,20097,Badger Creek,136.8,ok
+22315,Southbank,20097,Badger Creek,147.03,ok
+22319,Spotswood,20097,Badger Creek,157.57,ok
+22325,Springfield (Macedon Ranges - Vic.),20097,Badger Creek,,no_eligible_route
+22328,Springvale (Vic.),20097,Badger Creek,154.53,ok
+22329,Springvale South,20097,Badger Creek,150.43,ok
+22330,St Albans (Vic.),20097,Badger Creek,180.25,ok
+22332,St Andrews (Vic.),20097,Badger Creek,,no_eligible_route
+22333,St Andrews Beach,20097,Badger Creek,,no_eligible_route
+22339,St Helena,20097,Badger Creek,164.2,ok
+22343,St Kilda (Vic.),20097,Badger Creek,161.27,ok
+22344,St Kilda East,20097,Badger Creek,157.32,ok
+22345,St Kilda West,20097,Badger Creek,172.47,ok
+22355,Steels Creek,20097,Badger Creek,,no_eligible_route
+22375,Strathewen,20097,Badger Creek,,no_eligible_route
+22380,Strathmore (Vic.),20097,Badger Creek,195.72,ok
+22381,Strathmore Heights,20097,Badger Creek,209.97,ok
+22382,Strathtulloh,20097,Badger Creek,,no_eligible_route
+22391,Sunbury,20097,Badger Creek,,no_eligible_route
+22395,Sunshine (Vic.),20097,Badger Creek,169.03,ok
+22396,Sunshine North,20097,Badger Creek,198.83,ok
+22397,Sunshine West,20097,Badger Creek,201.2,ok
+22399,Surrey Hills,20097,Badger Creek,121.68,ok
+22414,Sydenham (Vic.),20097,Badger Creek,194.65,ok
+22451,Tarneit,20097,Badger Creek,,no_eligible_route
+22457,Tarrawarra,20097,Badger Creek,204.33,walk_only
+22473,Taylors Hill,20097,Badger Creek,,no_eligible_route
+22474,Taylors Lakes,20097,Badger Creek,199.53,ok
+22476,Tecoma,20097,Badger Creek,126.2,ok
+22483,Templestowe,20097,Badger Creek,145.5,ok
+22484,Templestowe Lower,20097,Badger Creek,148.62,ok
+22496,The Basin (Vic.),20097,Badger Creek,,no_eligible_route
+22501,The Patch,20097,Badger Creek,,no_eligible_route
+22504,Thomastown,20097,Badger Creek,196.22,ok
+22508,Thornbury,20097,Badger Creek,180.0,ok
+22509,Thornhill Park,20097,Badger Creek,,no_eligible_route
+22514,Three Bridges,20097,Badger Creek,,no_eligible_route
+22531,Tonimbuk,20097,Badger Creek,,no_eligible_route
+22536,Toolangi,20097,Badger Creek,,no_eligible_route
+22537,Toolern Vale,20097,Badger Creek,,no_eligible_route
+22546,Tooradin,20097,Badger Creek,,no_eligible_route
+22547,Toorak,20097,Badger Creek,157.83,ok
+22550,Tootgarook,20097,Badger Creek,,no_eligible_route
+22556,Tottenham (Vic.),20097,Badger Creek,196.47,ok
+22572,Travancore,20097,Badger Creek,178.02,ok
+22576,Tremont,20097,Badger Creek,,no_eligible_route
+22582,Truganina,20097,Badger Creek,,no_eligible_route
+22584,Tuerong,20097,Badger Creek,,no_eligible_route
+22586,Tullamarine,20097,Badger Creek,,no_eligible_route
+22594,Tyabb,20097,Badger Creek,,no_eligible_route
+22598,Tynong,20097,Badger Creek,,no_eligible_route
+22599,Tynong North,20097,Badger Creek,,no_eligible_route
+22614,Upper Ferntree Gully,20097,Badger Creek,123.35,ok
+22617,Upper Plenty,20097,Badger Creek,,no_eligible_route
+22620,Upwey,20097,Badger Creek,126.07,ok
+22627,Vermont,20097,Badger Creek,,no_eligible_route
+22628,Vermont South,20097,Badger Creek,139.73,ok
+22629,Vervale,20097,Badger Creek,,no_eligible_route
+22633,Viewbank,20097,Badger Creek,,no_eligible_route
+22661,Wallan,20097,Badger Creek,,no_eligible_route
+22672,Wandin East,20097,Badger Creek,,no_eligible_route
+22673,Wandin North,20097,Badger Creek,93.0,ok
+22676,Wandong,20097,Badger Creek,,no_eligible_route
+22685,Wantirna,20097,Badger Creek,,no_eligible_route
+22686,Wantirna South,20097,Badger Creek,,no_eligible_route
+22689,Warburton (Vic.),20097,Badger Creek,,no_eligible_route
+22695,Warneet,20097,Badger Creek,,no_eligible_route
+22702,Warrandyte,20097,Badger Creek,,no_eligible_route
+22703,Warrandyte South,20097,Badger Creek,,no_eligible_route
+22704,Warranwood,20097,Badger Creek,122.08,ok
+22717,Waterford Park,20097,Badger Creek,,no_eligible_route
+22720,Waterways,20097,Badger Creek,,no_eligible_route
+22721,Watsonia,20097,Badger Creek,164.72,ok
+22722,Watsonia North,20097,Badger Creek,159.37,ok
+22723,Watsons Creek (Vic.),20097,Badger Creek,,no_eligible_route
+22727,Wattle Glen,20097,Badger Creek,190.25,ok
+22740,Weir Views,20097,Badger Creek,,no_eligible_route
+22750,Werribee,20097,Badger Creek,214.72,ok
+22751,Werribee South,20097,Badger Creek,,no_eligible_route
+22753,Wesburn,20097,Badger Creek,124.97,ok
+22756,West Footscray,20097,Badger Creek,173.2,ok
+22757,West Melbourne,20097,Badger Creek,,no_eligible_route
+22761,Westmeadows,20097,Badger Creek,,no_eligible_route
+22766,Wheelers Hill,20097,Badger Creek,,no_eligible_route
+22775,Whittlesea,20097,Badger Creek,,no_eligible_route
+22784,Wildwood,20097,Badger Creek,,no_eligible_route
+22791,Williams Landing,20097,Badger Creek,201.57,ok
+22792,Williamstown (Vic.),20097,Badger Creek,176.38,ok
+22793,Williamstown North,20097,Badger Creek,185.92,ok
+22805,Windsor (Vic.),20097,Badger Creek,143.4,ok
+22820,Wollert,20097,Badger Creek,,no_eligible_route
+22825,Wonga Park,20097,Badger Creek,,no_eligible_route
+22843,Woodstock (Vic.),20097,Badger Creek,,no_eligible_route
+22857,Woori Yallock,20097,Badger Creek,104.12,ok
+22883,Wyndham Vale,20097,Badger Creek,,no_eligible_route
+22892,Yallambie,20097,Badger Creek,173.93,ok
+22898,Yan Yean,20097,Badger Creek,,no_eligible_route
+22906,Yannathan,20097,Badger Creek,,no_eligible_route
+22910,Yarra Glen,20097,Badger Creek,,no_eligible_route
+22911,Yarra Junction,20097,Badger Creek,,no_eligible_route
+22916,Yarrambat,20097,Badger Creek,,no_eligible_route
+22917,Yarraville,20097,Badger Creek,163.32,ok
+22925,Yellingbo,20097,Badger Creek,,no_eligible_route
+22930,Yering,20097,Badger Creek,,no_eligible_route
+22941,Yuroke,20097,Badger Creek,,no_eligible_route

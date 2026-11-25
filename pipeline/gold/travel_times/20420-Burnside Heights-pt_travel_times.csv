@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20420,Burnside Heights,86.07,ok
+20003,Aberfeldie,20420,Burnside Heights,79.28,ok
+20011,Aintree,20420,Burnside Heights,48.2,ok
+20015,Airport West,20420,Burnside Heights,82.67,ok
+20017,Albanvale,20420,Burnside Heights,34.08,ok
+20018,Albert Park (Vic.),20420,Burnside Heights,86.18,ok
+20021,Albion (Vic.),20420,Burnside Heights,36.57,ok
+20034,Alphington,20420,Burnside Heights,91.23,ok
+20035,Altona (Vic.),20420,Burnside Heights,86.55,ok
+20036,Altona Meadows,20420,Burnside Heights,92.85,ok
+20037,Altona North,20420,Burnside Heights,83.72,ok
+20062,Ardeer,20420,Burnside Heights,36.57,ok
+20066,Armadale (Vic.),20420,Burnside Heights,84.45,ok
+20071,Arthurs Creek,20420,Burnside Heights,,no_eligible_route
+20072,Arthurs Seat,20420,Burnside Heights,235.98,ok
+20075,Ascot Vale,20420,Burnside Heights,73.98,ok
+20077,Ashburton,20420,Burnside Heights,99.07,ok
+20078,Ashwood,20420,Burnside Heights,107.27,ok
+20079,Aspendale,20420,Burnside Heights,122.72,ok
+20080,Aspendale Gardens,20420,Burnside Heights,139.72,ok
+20082,Attwood,20420,Burnside Heights,123.43,ok
+20089,Avondale Heights,20420,Burnside Heights,69.65,ok
+20091,Avonsleigh,20420,Burnside Heights,,no_eligible_route
+20095,Bacchus Marsh,20420,Burnside Heights,,no_eligible_route
+20097,Badger Creek,20420,Burnside Heights,199.92,ok
+20105,Balaclava (Vic.),20420,Burnside Heights,92.0,ok
+20120,Balnarring,20420,Burnside Heights,,no_eligible_route
+20121,Balnarring Beach,20420,Burnside Heights,,no_eligible_route
+20123,Balwyn,20420,Burnside Heights,110.23,ok
+20124,Balwyn North,20420,Burnside Heights,105.42,ok
+20131,Bangholme,20420,Burnside Heights,185.27,ok
+20169,Baxter,20420,Burnside Heights,,no_eligible_route
+20171,Bayles,20420,Burnside Heights,,no_eligible_route
+20173,Bayswater (Vic.),20420,Burnside Heights,133.72,ok
+20174,Bayswater North,20420,Burnside Heights,143.68,ok
+20175,Beaconsfield (Vic.),20420,Burnside Heights,147.92,ok
+20176,Beaconsfield Upper,20420,Burnside Heights,,no_eligible_route
+20182,Beaumaris (Vic.),20420,Burnside Heights,127.48,ok
+20187,Beenak,20420,Burnside Heights,,no_eligible_route
+20188,Belgrave,20420,Burnside Heights,146.8,ok
+20189,Belgrave Heights,20420,Burnside Heights,178.47,ok
+20190,Belgrave South,20420,Burnside Heights,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20420,Burnside Heights,114.4,ok
+20207,Bend Of Islands,20420,Burnside Heights,,no_eligible_route
+20212,Benloch,20420,Burnside Heights,,no_eligible_route
+20214,Bentleigh,20420,Burnside Heights,99.5,ok
+20215,Bentleigh East,20420,Burnside Heights,98.9,ok
+20224,Berwick,20420,Burnside Heights,123.97,ok
+20233,Beveridge,20420,Burnside Heights,157.83,ok
+20237,Big Pats Creek,20420,Burnside Heights,,no_eligible_route
+20248,Bittern,20420,Burnside Heights,,no_eligible_route
+20251,Black Rock (Vic.),20420,Burnside Heights,122.92,ok
+20252,Blackburn,20420,Burnside Heights,99.05,ok
+20253,Blackburn North,20420,Burnside Heights,109.03,ok
+20254,Blackburn South,20420,Burnside Heights,117.02,ok
+20257,Blairgowrie,20420,Burnside Heights,230.02,ok
+20260,Blind Bight,20420,Burnside Heights,,no_eligible_route
+20272,Bolinda,20420,Burnside Heights,,no_eligible_route
+20278,Bonbeach,20420,Burnside Heights,127.72,ok
+20280,Boneo,20420,Burnside Heights,,no_eligible_route
+20282,Bonnie Brook,20420,Burnside Heights,80.75,ok
+20304,Boronia,20420,Burnside Heights,136.18,ok
+20307,Botanic Ridge,20420,Burnside Heights,172.68,ok
+20314,Box Hill (Vic.),20420,Burnside Heights,97.17,ok
+20315,Box Hill North,20420,Burnside Heights,106.92,ok
+20316,Box Hill South,20420,Burnside Heights,109.65,ok
+20320,Braeside,20420,Burnside Heights,157.97,ok
+20324,Braybrook,20420,Burnside Heights,56.0,ok
+20331,Briar Hill,20420,Burnside Heights,129.72,ok
+20337,Brighton (Vic.),20420,Burnside Heights,106.87,ok
+20338,Brighton East,20420,Burnside Heights,106.18,ok
+20346,Broadmeadows (Vic.),20420,Burnside Heights,114.07,ok
+20351,Brookfield (Vic.),20420,Burnside Heights,120.9,ok
+20352,Brooklyn (Vic.),20420,Burnside Heights,66.9,ok
+20361,Brunswick (Vic.),20420,Burnside Heights,75.97,ok
+20362,Brunswick East,20420,Burnside Heights,88.25,ok
+20363,Brunswick West,20420,Burnside Heights,83.35,ok
+20381,Bulla (Vic.),20420,Burnside Heights,98.43,ok
+20386,Bulleen,20420,Burnside Heights,116.12,ok
+20387,Bullengarook,20420,Burnside Heights,,no_eligible_route
+20399,Bundoora (Vic.),20420,Burnside Heights,123.97,ok
+20411,Bunyip,20420,Burnside Heights,,no_eligible_route
+20412,Bunyip North,20420,Burnside Heights,,no_eligible_route
+20418,Burnley,20420,Burnside Heights,91.47,ok
+20419,Burnside (Vic.),20420,Burnside Heights,25.55,ok
+20420,Burnside Heights,20420,Burnside Heights,0.0,same_centroid
+20426,Burwood (Vic.),20420,Burnside Heights,112.87,ok
+20427,Burwood East,20420,Burnside Heights,116.38,ok
+20435,Bylands,20420,Burnside Heights,,no_eligible_route
+20441,Cairnlea,20420,Burnside Heights,48.32,ok
+20442,Calder Park,20420,Burnside Heights,47.17,ok
+20443,Caldermeade,20420,Burnside Heights,,no_eligible_route
+20453,Camberwell (Vic.),20420,Burnside Heights,98.0,ok
+20455,Campbellfield,20420,Burnside Heights,122.72,ok
+20466,Cannons Creek,20420,Burnside Heights,,no_eligible_route
+20468,Canterbury (Vic.),20420,Burnside Heights,101.48,ok
+20474,Cape Schanck,20420,Burnside Heights,,no_eligible_route
+20476,Capel Sound,20420,Burnside Heights,215.37,ok
+20487,Cardinia,20420,Burnside Heights,,no_eligible_route
+20495,Carlton (Vic.),20420,Burnside Heights,65.45,ok
+20496,Carlton North,20420,Burnside Heights,83.27,ok
+20498,Carnegie,20420,Burnside Heights,88.7,ok
+20500,Caroline Springs,20420,Burnside Heights,14.22,ok
+20507,Carrum,20420,Burnside Heights,127.53,ok
+20508,Carrum Downs,20420,Burnside Heights,137.77,ok
+20512,Castella,20420,Burnside Heights,,no_eligible_route
+20517,Catani,20420,Burnside Heights,,no_eligible_route
+20521,Caulfield,20420,Burnside Heights,95.2,ok
+20522,Caulfield East,20420,Burnside Heights,81.9,ok
+20523,Caulfield North,20420,Burnside Heights,82.82,ok
+20524,Caulfield South,20420,Burnside Heights,99.73,ok
+20528,Chadstone,20420,Burnside Heights,97.55,ok
+20537,Chelsea,20420,Burnside Heights,124.78,ok
+20538,Chelsea Heights,20420,Burnside Heights,142.12,ok
+20539,Cheltenham (Vic.),20420,Burnside Heights,111.65,ok
+20541,Cherokee,20420,Burnside Heights,,no_eligible_route
+20555,Chintin,20420,Burnside Heights,,no_eligible_route
+20556,Chirnside Park,20420,Burnside Heights,174.87,ok
+20559,Christmas Hills (Vic.),20420,Burnside Heights,,no_eligible_route
+20560,Chum Creek,20420,Burnside Heights,,no_eligible_route
+20566,Clarinda,20420,Burnside Heights,108.63,ok
+20567,Clarkefield,20420,Burnside Heights,,no_eligible_route
+20569,Clayton,20420,Burnside Heights,106.15,ok
+20570,Clayton South,20420,Burnside Heights,117.77,ok
+20572,Clematis,20420,Burnside Heights,,no_eligible_route
+20574,Clifton Hill,20420,Burnside Heights,84.32,ok
+20576,Clonbinane,20420,Burnside Heights,,no_eligible_route
+20581,Clyde (Vic.),20420,Burnside Heights,176.67,ok
+20582,Clyde North,20420,Burnside Heights,160.28,ok
+20587,Cobaw,20420,Burnside Heights,,no_eligible_route
+20590,Cobblebank,20420,Burnside Heights,96.65,ok
+20596,Coburg,20420,Burnside Heights,83.7,ok
+20597,Coburg North,20420,Burnside Heights,93.27,ok
+20600,Cockatoo (Vic.),20420,Burnside Heights,,no_eligible_route
+20601,Cocoroc,20420,Burnside Heights,,no_eligible_route
+20605,Coimadai,20420,Burnside Heights,,no_eligible_route
+20613,Coldstream (Vic.),20420,Burnside Heights,,no_eligible_route
+20616,Collingwood (Vic.),20420,Burnside Heights,80.48,ok
+20624,Coolaroo,20420,Burnside Heights,111.67,ok
+20633,Cora Lynn,20420,Burnside Heights,,no_eligible_route
+20654,Cottles Bridge,20420,Burnside Heights,,no_eligible_route
+20661,Craigieburn,20420,Burnside Heights,132.35,ok
+20662,Cranbourne,20420,Burnside Heights,143.62,ok
+20663,Cranbourne East,20420,Burnside Heights,150.62,ok
+20664,Cranbourne North,20420,Burnside Heights,133.63,ok
+20665,Cranbourne South,20420,Burnside Heights,176.03,ok
+20666,Cranbourne West,20420,Burnside Heights,150.98,ok
+20670,Cremorne (Vic.),20420,Burnside Heights,82.77,ok
+20674,Crib Point,20420,Burnside Heights,,no_eligible_route
+20682,Croydon (Vic.),20420,Burnside Heights,115.82,ok
+20683,Croydon Hills,20420,Burnside Heights,137.13,ok
+20684,Croydon North,20420,Burnside Heights,139.57,ok
+20685,Croydon South,20420,Burnside Heights,146.82,ok
+20702,Dallas,20420,Burnside Heights,113.37,ok
+20703,Dalmore,20420,Burnside Heights,,no_eligible_route
+20707,Dandenong,20420,Burnside Heights,111.6,ok
+20708,Dandenong North,20420,Burnside Heights,137.72,ok
+20709,Dandenong South,20420,Burnside Heights,129.93,ok
+20712,Darley,20420,Burnside Heights,,no_eligible_route
+20716,Darraweit Guim,20420,Burnside Heights,,no_eligible_route
+20724,Deanside,20420,Burnside Heights,52.4,ok
+20728,Deepdene (Vic.),20420,Burnside Heights,102.83,ok
+20729,Deer Park,20420,Burnside Heights,30.4,ok
+20731,Delahey,20420,Burnside Heights,30.03,ok
+20743,Derrimut,20420,Burnside Heights,72.25,ok
+20748,Devon Meadows,20420,Burnside Heights,183.42,ok
+20750,Dewhurst,20420,Burnside Heights,,no_eligible_route
+20752,Diamond Creek,20420,Burnside Heights,138.55,ok
+20754,Diggers Rest,20420,Burnside Heights,54.17,ok
+20758,Dingley Village,20420,Burnside Heights,132.0,ok
+20762,Dixons Creek,20420,Burnside Heights,,no_eligible_route
+20766,Docklands,20420,Burnside Heights,82.25,ok
+20769,Don Valley,20420,Burnside Heights,,no_eligible_route
+20771,Doncaster,20420,Burnside Heights,105.2,ok
+20772,Doncaster East,20420,Burnside Heights,107.68,ok
+20773,Donnybrook (Vic.),20420,Burnside Heights,145.52,ok
+20774,Donvale,20420,Burnside Heights,131.02,ok
+20779,Doreen,20420,Burnside Heights,156.03,ok
+20783,Doveton,20420,Burnside Heights,124.55,ok
+20788,Dromana,20420,Burnside Heights,225.15,ok
+20825,Eaglemont,20420,Burnside Heights,109.57,ok
+20830,East Melbourne,20420,Burnside Heights,76.83,ok
+20833,East Warburton,20420,Burnside Heights,,no_eligible_route
+20843,Eden Park,20420,Burnside Heights,,no_eligible_route
+20848,Edithvale,20420,Burnside Heights,121.32,ok
+20864,Elsternwick,20420,Burnside Heights,92.55,ok
+20865,Eltham (Vic.),20420,Burnside Heights,132.68,ok
+20866,Eltham North,20420,Burnside Heights,125.67,ok
+20867,Elwood,20420,Burnside Heights,98.2,ok
+20868,Emerald (Vic.),20420,Burnside Heights,,no_eligible_route
+20871,Endeavour Hills,20420,Burnside Heights,131.88,ok
+20878,Epping (Vic.),20420,Burnside Heights,147.65,ok
+20885,Essendon,20420,Burnside Heights,77.2,ok
+20886,Essendon Fields,20420,Burnside Heights,94.13,ok
+20887,Essendon North,20420,Burnside Heights,79.55,ok
+20888,Essendon West,20420,Burnside Heights,70.68,ok
+20889,Eumemmerring,20420,Burnside Heights,139.78,ok
+20898,Exford,20420,Burnside Heights,,no_eligible_route
+20899,Eynesbury,20420,Burnside Heights,114.05,ok
+20901,Fairfield (Vic.),20420,Burnside Heights,95.0,ok
+20909,Fawkner,20420,Burnside Heights,115.17,ok
+20916,Fernshaw,20420,Burnside Heights,,no_eligible_route
+20917,Ferntree Gully,20420,Burnside Heights,121.55,ok
+20918,Ferny Creek,20420,Burnside Heights,178.08,ok
+20920,Fingal (Vic.),20420,Burnside Heights,,no_eligible_route
+20924,Fitzroy (Vic.),20420,Burnside Heights,74.38,ok
+20925,Fitzroy North,20420,Burnside Heights,85.45,ok
+20929,Flemington,20420,Burnside Heights,79.98,ok
+20930,Flinders (Vic.),20420,Burnside Heights,,no_eligible_route
+20935,Footscray,20420,Burnside Heights,57.67,ok
+20937,Forest Hill (Vic.),20420,Burnside Heights,119.37,ok
+20947,Frankston,20420,Burnside Heights,145.5,ok
+20948,Frankston North,20420,Burnside Heights,154.65,ok
+20949,Frankston South,20420,Burnside Heights,,no_eligible_route
+20950,Fraser Rise,20420,Burnside Heights,62.6,ok
+20965,Gardenvale,20420,Burnside Heights,101.65,ok
+20966,Garfield,20420,Burnside Heights,,no_eligible_route
+20967,Garfield North,20420,Burnside Heights,,no_eligible_route
+20979,Gembrook,20420,Burnside Heights,,no_eligible_route
+20995,Gilderoy,20420,Burnside Heights,,no_eligible_route
+21001,Gisborne,20420,Burnside Heights,,no_eligible_route
+21002,Gisborne South,20420,Burnside Heights,,no_eligible_route
+21004,Gladstone Park,20420,Burnside Heights,117.78,ok
+21005,Gladysdale,20420,Burnside Heights,,no_eligible_route
+21009,Glen Huntly,20420,Burnside Heights,91.03,ok
+21010,Glen Iris (Vic.),20420,Burnside Heights,105.57,ok
+21013,Glen Waverley,20420,Burnside Heights,112.48,ok
+21047,Glenroy (Vic.),20420,Burnside Heights,107.45,ok
+21059,Goldie,20420,Burnside Heights,,no_eligible_route
+21079,Gowanbrae,20420,Burnside Heights,93.7,ok
+21087,Grangefields,20420,Burnside Heights,86.2,ok
+21104,Greensborough,20420,Burnside Heights,118.08,ok
+21105,Greenvale (Vic.),20420,Burnside Heights,141.45,ok
+21115,Gruyere,20420,Burnside Heights,,no_eligible_route
+21121,Guys Hill,20420,Burnside Heights,,no_eligible_route
+21124,Hadfield,20420,Burnside Heights,102.2,ok
+21125,Hallam,20420,Burnside Heights,129.08,ok
+21131,Hampton (Vic.),20420,Burnside Heights,110.58,ok
+21132,Hampton East,20420,Burnside Heights,106.27,ok
+21133,Hampton Park,20420,Burnside Heights,130.5,ok
+21139,Harkaway,20420,Burnside Heights,,no_eligible_route
+21140,Harkness,20420,Burnside Heights,112.67,ok
+21145,Hastings (Vic.),20420,Burnside Heights,,no_eligible_route
+21152,Hawthorn (Vic.),20420,Burnside Heights,92.87,ok
+21153,Hawthorn East,20420,Burnside Heights,94.35,ok
+21158,Healesville,20420,Burnside Heights,203.83,ok
+21159,Heath Hill,20420,Burnside Heights,,no_eligible_route
+21161,Heathcote Junction,20420,Burnside Heights,,no_eligible_route
+21163,Heatherton,20420,Burnside Heights,115.65,ok
+21165,Heathmont,20420,Burnside Heights,123.98,ok
+21167,Heidelberg,20420,Burnside Heights,109.9,ok
+21168,Heidelberg Heights,20420,Burnside Heights,116.87,ok
+21169,Heidelberg West,20420,Burnside Heights,117.75,ok
+21176,Hesket,20420,Burnside Heights,,no_eligible_route
+21185,Highett,20420,Burnside Heights,99.03,ok
+21193,Hillside (Melton - Vic.),20420,Burnside Heights,40.25,ok
+21195,Hmas Cerberus,20420,Burnside Heights,,no_eligible_route
+21196,Hoddles Creek,20420,Burnside Heights,,no_eligible_route
+21202,Hopetoun Park,20420,Burnside Heights,,no_eligible_route
+21203,Hoppers Crossing,20420,Burnside Heights,104.15,ok
+21214,Hughesdale,20420,Burnside Heights,90.12,ok
+21215,Humevale,20420,Burnside Heights,,no_eligible_route
+21218,Huntingdale (Vic.),20420,Burnside Heights,95.55,ok
+21223,Hurstbridge,20420,Burnside Heights,139.1,ok
+21238,Iona,20420,Burnside Heights,,no_eligible_route
+21246,Ivanhoe (Vic.),20420,Burnside Heights,95.83,ok
+21247,Ivanhoe East,20420,Burnside Heights,104.58,ok
+21248,Jacana,20420,Burnside Heights,113.48,ok
+21277,Junction Village,20420,Burnside Heights,169.55,ok
+21284,Kalkallo,20420,Burnside Heights,149.52,ok
+21286,Kallista,20420,Burnside Heights,181.52,ok
+21287,Kalorama,20420,Burnside Heights,147.78,ok
+21294,Kangaroo Ground,20420,Burnside Heights,165.33,ok
+21312,Kealba,20420,Burnside Heights,40.58,ok
+21314,Keilor,20420,Burnside Heights,56.22,ok
+21315,Keilor Downs,20420,Burnside Heights,37.97,ok
+21316,Keilor East,20420,Burnside Heights,67.38,ok
+21317,Keilor Lodge,20420,Burnside Heights,48.72,ok
+21318,Keilor North,20420,Burnside Heights,55.85,ok
+21319,Keilor Park,20420,Burnside Heights,67.37,ok
+21327,Kensington (Vic.),20420,Burnside Heights,73.43,ok
+21333,Kerrie,20420,Burnside Heights,,no_eligible_route
+21336,Kew (Vic.),20420,Burnside Heights,93.0,ok
+21337,Kew East,20420,Burnside Heights,97.03,ok
+21339,Keysborough,20420,Burnside Heights,121.68,ok
+21354,Kilsyth,20420,Burnside Heights,137.17,ok
+21355,Kilsyth South,20420,Burnside Heights,152.25,ok
+21358,Kinglake,20420,Burnside Heights,,no_eligible_route
+21359,Kinglake Central,20420,Burnside Heights,,no_eligible_route
+21360,Kinglake West,20420,Burnside Heights,,no_eligible_route
+21362,Kings Park (Vic.),20420,Burnside Heights,21.03,ok
+21363,Kingsbury,20420,Burnside Heights,123.18,ok
+21365,Kingsville,20420,Burnside Heights,57.65,ok
+21374,Knoxfield,20420,Burnside Heights,122.45,ok
+21380,Koo Wee Rup,20420,Burnside Heights,,no_eligible_route
+21381,Koo Wee Rup North,20420,Burnside Heights,,no_eligible_route
+21393,Kooyong,20420,Burnside Heights,86.25,ok
+21411,Kurunjang,20420,Burnside Heights,100.48,ok
+21452,Lalor,20420,Burnside Heights,114.52,ok
+21456,Lancefield,20420,Burnside Heights,,no_eligible_route
+21459,Lang Lang,20420,Burnside Heights,,no_eligible_route
+21460,Lang Lang East,20420,Burnside Heights,,no_eligible_route
+21467,Langwarrin,20420,Burnside Heights,161.47,ok
+21468,Langwarrin South,20420,Burnside Heights,,no_eligible_route
+21473,Launching Place,20420,Burnside Heights,,no_eligible_route
+21476,Laverton (Vic.),20420,Burnside Heights,82.93,ok
+21477,Laverton North,20420,Burnside Heights,88.92,ok
+21504,Lilydale (Vic.),20420,Burnside Heights,147.12,ok
+21533,Long Forest,20420,Burnside Heights,,no_eligible_route
+21547,Lower Plenty,20420,Burnside Heights,141.37,ok
+21554,Lynbrook,20420,Burnside Heights,124.33,ok
+21555,Lyndhurst (Vic.),20420,Burnside Heights,181.92,ok
+21558,Lysterfield,20420,Burnside Heights,,no_eligible_route
+21559,Lysterfield South,20420,Burnside Heights,181.05,ok
+21561,Macclesfield (Vic.),20420,Burnside Heights,,no_eligible_route
+21562,Macedon,20420,Burnside Heights,,no_eligible_route
+21564,Macleod (Vic.),20420,Burnside Heights,111.18,ok
+21569,Maddingley,20420,Burnside Heights,,no_eligible_route
+21575,Maidstone,20420,Burnside Heights,53.95,ok
+21578,Main Ridge,20420,Burnside Heights,,no_eligible_route
+21586,Malvern (Vic.),20420,Burnside Heights,89.48,ok
+21587,Malvern East,20420,Burnside Heights,97.45,ok
+21588,Mambourin,20420,Burnside Heights,,no_eligible_route
+21597,Manor Lakes,20420,Burnside Heights,146.23,ok
+21604,Maribyrnong,20420,Burnside Heights,61.97,ok
+21619,Maryknoll,20420,Burnside Heights,,no_eligible_route
+21625,McCrae,20420,Burnside Heights,208.57,ok
+21629,McKinnon,20420,Burnside Heights,88.33,ok
+21635,Meadow Heights,20420,Burnside Heights,126.37,ok
+21640,Melbourne,20420,Burnside Heights,70.93,ok
+21641,Melbourne Airport,20420,Burnside Heights,208.75,walk_only
+21642,Melton (Vic.),20420,Burnside Heights,92.17,ok
+21643,Melton South,20420,Burnside Heights,80.53,ok
+21644,Melton West,20420,Burnside Heights,95.67,ok
+21648,Mentone,20420,Burnside Heights,109.02,ok
+21649,Menzies Creek,20420,Burnside Heights,,no_eligible_route
+21659,Mernda,20420,Burnside Heights,162.67,ok
+21662,Merricks,20420,Burnside Heights,,no_eligible_route
+21663,Merricks Beach,20420,Burnside Heights,,no_eligible_route
+21664,Merricks North,20420,Burnside Heights,,no_eligible_route
+21668,Merrimu,20420,Burnside Heights,,no_eligible_route
+21675,Mickleham,20420,Burnside Heights,164.35,ok
+21677,Middle Park (Vic.),20420,Burnside Heights,92.27,ok
+21683,Mill Park,20420,Burnside Heights,139.48,ok
+21685,Millgrove,20420,Burnside Heights,,no_eligible_route
+21706,Mitcham (Vic.),20420,Burnside Heights,110.72,ok
+21727,Monbulk,20420,Burnside Heights,188.97,ok
+21728,Monegeetta,20420,Burnside Heights,,no_eligible_route
+21731,Monomeith,20420,Burnside Heights,,no_eligible_route
+21732,Mont Albert,20420,Burnside Heights,108.1,ok
+21733,Mont Albert North,20420,Burnside Heights,107.67,ok
+21735,Montmorency,20420,Burnside Heights,118.75,ok
+21736,Montrose (Vic.),20420,Burnside Heights,139.8,ok
+21742,Moonee Ponds,20420,Burnside Heights,82.83,ok
+21746,Moorabbin,20420,Burnside Heights,104.28,ok
+21747,Moorabbin Airport,20420,Burnside Heights,134.37,ok
+21754,Moorooduc,20420,Burnside Heights,,no_eligible_route
+21755,Mooroolbark,20420,Burnside Heights,130.02,ok
+21760,Mordialloc,20420,Burnside Heights,124.32,ok
+21763,Mornington (Vic.),20420,Burnside Heights,172.37,ok
+21779,Mount Burnett,20420,Burnside Heights,,no_eligible_route
+21786,Mount Cottrell,20420,Burnside Heights,,no_eligible_route
+21787,Mount Dandenong,20420,Burnside Heights,151.78,ok
+21793,Mount Eliza,20420,Burnside Heights,150.55,ok
+21795,Mount Evelyn,20420,Burnside Heights,155.95,ok
+21801,Mount Macedon,20420,Burnside Heights,,no_eligible_route
+21803,Mount Martha,20420,Burnside Heights,177.08,ok
+21814,Mount Toolebewong,20420,Burnside Heights,,no_eligible_route
+21816,Mount Waverley,20420,Burnside Heights,103.92,ok
+21827,Mulgrave (Vic.),20420,Burnside Heights,118.82,ok
+21849,Murrumbeena,20420,Burnside Heights,90.23,ok
+21872,Nangana,20420,Burnside Heights,,no_eligible_route
+21878,Nar Nar Goon,20420,Burnside Heights,,no_eligible_route
+21879,Nar Nar Goon North,20420,Burnside Heights,,no_eligible_route
+21893,Narre Warren,20420,Burnside Heights,126.07,ok
+21894,Narre Warren East,20420,Burnside Heights,,no_eligible_route
+21895,Narre Warren North,20420,Burnside Heights,148.33,ok
+21896,Narre Warren South,20420,Burnside Heights,131.88,ok
+21921,New Gisborne,20420,Burnside Heights,,no_eligible_route
+21934,Newport (Vic.),20420,Burnside Heights,67.77,ok
+21942,Niddrie,20420,Burnside Heights,73.4,ok
+21952,Noble Park,20420,Burnside Heights,102.33,ok
+21953,Noble Park North,20420,Burnside Heights,135.52,ok
+21966,North Melbourne,20420,Burnside Heights,61.47,ok
+21969,North Warrandyte,20420,Burnside Heights,153.32,ok
+21971,Northcote,20420,Burnside Heights,95.97,ok
+21974,Notting Hill,20420,Burnside Heights,106.08,ok
+21985,Nunawading,20420,Burnside Heights,103.2,ok
+21991,Nutfield,20420,Burnside Heights,,no_eligible_route
+21998,Oak Park,20420,Burnside Heights,101.15,ok
+21999,Oaklands Junction,20420,Burnside Heights,,no_eligible_route
+22000,Oakleigh,20420,Burnside Heights,92.78,ok
+22001,Oakleigh East,20420,Burnside Heights,105.12,ok
+22002,Oakleigh South,20420,Burnside Heights,103.93,ok
+22006,Officer,20420,Burnside Heights,143.62,ok
+22007,Officer South,20420,Burnside Heights,189.52,ok
+22009,Olinda (Vic.),20420,Burnside Heights,176.43,ok
+22016,Ormond,20420,Burnside Heights,88.77,ok
+22027,Pakenham,20420,Burnside Heights,140.53,ok
+22028,Pakenham South,20420,Burnside Heights,,no_eligible_route
+22029,Pakenham Upper,20420,Burnside Heights,,no_eligible_route
+22032,Panton Hill,20420,Burnside Heights,,no_eligible_route
+22036,Park Orchards,20420,Burnside Heights,134.8,ok
+22037,Parkdale,20420,Burnside Heights,114.1,ok
+22038,Parkville (Vic.),20420,Burnside Heights,74.05,ok
+22041,Pascoe Vale,20420,Burnside Heights,101.02,ok
+22042,Pascoe Vale South,20420,Burnside Heights,94.78,ok
+22047,Patterson Lakes,20420,Burnside Heights,144.87,ok
+22050,Pearcedale,20420,Burnside Heights,193.33,ok
+22058,Pentland Hills,20420,Burnside Heights,,no_eligible_route
+22064,Pheasant Creek (Vic.),20420,Burnside Heights,,no_eligible_route
+22084,Plenty (Vic.),20420,Burnside Heights,140.68,ok
+22085,Plumpton (Vic.),20420,Burnside Heights,193.17,walk_only
+22086,Point Cook,20420,Burnside Heights,104.15,ok
+22087,Point Leo,20420,Burnside Heights,,no_eligible_route
+22107,Port Melbourne,20420,Burnside Heights,85.77,ok
+22113,Portsea,20420,Burnside Heights,,no_eligible_route
+22115,Powelltown,20420,Burnside Heights,,no_eligible_route
+22118,Prahran,20420,Burnside Heights,82.83,ok
+22121,Preston (Vic.),20420,Burnside Heights,108.03,ok
+22122,Princes Hill,20420,Burnside Heights,79.2,ok
+22132,Quandong,20420,Burnside Heights,,no_eligible_route
+22141,Ravenhall,20420,Burnside Heights,45.58,ok
+22148,Red Hill (Vic.),20420,Burnside Heights,,no_eligible_route
+22149,Red Hill South,20420,Burnside Heights,,no_eligible_route
+22160,Research,20420,Burnside Heights,145.67,ok
+22161,Reservoir (Vic.),20420,Burnside Heights,111.33,ok
+22170,Richmond (Vic.),20420,Burnside Heights,84.78,ok
+22172,Riddells Creek,20420,Burnside Heights,,no_eligible_route
+22174,Ringwood (Vic.),20420,Burnside Heights,117.35,ok
+22175,Ringwood East,20420,Burnside Heights,115.9,ok
+22176,Ringwood North,20420,Burnside Heights,129.53,ok
+22179,Ripponlea,20420,Burnside Heights,92.73,ok
+22185,Rochford,20420,Burnside Heights,,no_eligible_route
+22186,Rockbank,20420,Burnside Heights,55.43,ok
+22193,Romsey,20420,Burnside Heights,,no_eligible_route
+22194,Rosanna,20420,Burnside Heights,105.65,ok
+22198,Rosebud,20420,Burnside Heights,225.88,ok
+22207,Rowville,20420,Burnside Heights,131.13,ok
+22208,Roxburgh Park,20420,Burnside Heights,125.62,ok
+22220,Rye,20420,Burnside Heights,238.08,ok
+22221,Rythdale,20420,Burnside Heights,,no_eligible_route
+22222,Safety Beach (Vic.),20420,Burnside Heights,193.05,ok
+22232,Sandhurst,20420,Burnside Heights,165.7,ok
+22234,Sandringham (Vic.),20420,Burnside Heights,118.05,ok
+22239,Sassafras (Vic.),20420,Burnside Heights,160.85,ok
+22242,Scoresby,20420,Burnside Heights,119.1,ok
+22247,Seabrook,20420,Burnside Heights,93.73,ok
+22249,Seaford (Vic.),20420,Burnside Heights,139.63,ok
+22250,Seaholme,20420,Burnside Heights,72.62,ok
+22256,Seddon (Vic.),20420,Burnside Heights,52.35,ok
+22258,Selby,20420,Burnside Heights,179.4,ok
+22263,Seville,20420,Burnside Heights,,no_eligible_route
+22264,Seville East,20420,Burnside Heights,,no_eligible_route
+22278,Sherbrooke,20420,Burnside Heights,171.58,ok
+22279,Shoreham,20420,Burnside Heights,,no_eligible_route
+22281,Silvan,20420,Burnside Heights,181.07,ok
+22291,Skye (Vic.),20420,Burnside Heights,169.27,ok
+22295,Smiths Gully,20420,Burnside Heights,,no_eligible_route
+22303,Somers,20420,Burnside Heights,,no_eligible_route
+22304,Somerton (Vic.),20420,Burnside Heights,129.98,ok
+22305,Somerville (Vic.),20420,Burnside Heights,,no_eligible_route
+22306,Sorrento (Vic.),20420,Burnside Heights,228.85,ok
+22309,South Kingsville,20420,Burnside Heights,83.47,ok
+22310,South Melbourne,20420,Burnside Heights,80.23,ok
+22311,South Morang,20420,Burnside Heights,145.4,ok
+22313,South Wharf,20420,Burnside Heights,85.23,ok
+22314,South Yarra,20420,Burnside Heights,77.4,ok
+22315,Southbank,20420,Burnside Heights,75.8,ok
+22319,Spotswood,20420,Burnside Heights,66.17,ok
+22325,Springfield (Macedon Ranges - Vic.),20420,Burnside Heights,,no_eligible_route
+22328,Springvale (Vic.),20420,Burnside Heights,103.3,ok
+22329,Springvale South,20420,Burnside Heights,106.03,ok
+22330,St Albans (Vic.),20420,Burnside Heights,34.82,ok
+22332,St Andrews (Vic.),20420,Burnside Heights,,no_eligible_route
+22333,St Andrews Beach,20420,Burnside Heights,,no_eligible_route
+22339,St Helena,20420,Burnside Heights,136.8,ok
+22343,St Kilda (Vic.),20420,Burnside Heights,87.48,ok
+22344,St Kilda East,20420,Burnside Heights,91.17,ok
+22345,St Kilda West,20420,Burnside Heights,94.6,ok
+22355,Steels Creek,20420,Burnside Heights,,no_eligible_route
+22375,Strathewen,20420,Burnside Heights,,no_eligible_route
+22380,Strathmore (Vic.),20420,Burnside Heights,100.35,ok
+22381,Strathmore Heights,20420,Burnside Heights,95.63,ok
+22382,Strathtulloh,20420,Burnside Heights,133.68,ok
+22391,Sunbury,20420,Burnside Heights,90.98,ok
+22395,Sunshine (Vic.),20420,Burnside Heights,39.63,ok
+22396,Sunshine North,20420,Burnside Heights,59.7,ok
+22397,Sunshine West,20420,Burnside Heights,65.32,ok
+22399,Surrey Hills,20420,Burnside Heights,109.3,ok
+22414,Sydenham (Vic.),20420,Burnside Heights,27.82,ok
+22451,Tarneit,20420,Burnside Heights,120.77,ok
+22457,Tarrawarra,20420,Burnside Heights,179.43,ok
+22473,Taylors Hill,20420,Burnside Heights,14.92,ok
+22474,Taylors Lakes,20420,Burnside Heights,30.52,ok
+22476,Tecoma,20420,Burnside Heights,143.8,ok
+22483,Templestowe,20420,Burnside Heights,119.08,ok
+22484,Templestowe Lower,20420,Burnside Heights,114.05,ok
+22496,The Basin (Vic.),20420,Burnside Heights,151.98,ok
+22501,The Patch,20420,Burnside Heights,179.53,ok
+22504,Thomastown,20420,Burnside Heights,119.82,ok
+22508,Thornbury,20420,Burnside Heights,103.6,ok
+22509,Thornhill Park,20420,Burnside Heights,152.77,ok
+22514,Three Bridges,20420,Burnside Heights,,no_eligible_route
+22531,Tonimbuk,20420,Burnside Heights,,no_eligible_route
+22536,Toolangi,20420,Burnside Heights,,no_eligible_route
+22537,Toolern Vale,20420,Burnside Heights,,no_eligible_route
+22546,Tooradin,20420,Burnside Heights,,no_eligible_route
+22547,Toorak,20420,Burnside Heights,93.88,ok
+22550,Tootgarook,20420,Burnside Heights,221.5,ok
+22556,Tottenham (Vic.),20420,Burnside Heights,74.07,ok
+22572,Travancore,20420,Burnside Heights,79.58,ok
+22576,Tremont,20420,Burnside Heights,155.78,ok
+22582,Truganina,20420,Burnside Heights,128.45,ok
+22584,Tuerong,20420,Burnside Heights,,no_eligible_route
+22586,Tullamarine,20420,Burnside Heights,102.62,ok
+22594,Tyabb,20420,Burnside Heights,,no_eligible_route
+22598,Tynong,20420,Burnside Heights,,no_eligible_route
+22599,Tynong North,20420,Burnside Heights,,no_eligible_route
+22614,Upper Ferntree Gully,20420,Burnside Heights,135.33,ok
+22617,Upper Plenty,20420,Burnside Heights,,no_eligible_route
+22620,Upwey,20420,Burnside Heights,143.67,ok
+22627,Vermont,20420,Burnside Heights,120.02,ok
+22628,Vermont South,20420,Burnside Heights,132.17,ok
+22629,Vervale,20420,Burnside Heights,,no_eligible_route
+22633,Viewbank,20420,Burnside Heights,120.65,ok
+22661,Wallan,20420,Burnside Heights,,no_eligible_route
+22672,Wandin East,20420,Burnside Heights,,no_eligible_route
+22673,Wandin North,20420,Burnside Heights,,no_eligible_route
+22676,Wandong,20420,Burnside Heights,,no_eligible_route
+22685,Wantirna,20420,Burnside Heights,132.95,ok
+22686,Wantirna South,20420,Burnside Heights,137.65,ok
+22689,Warburton (Vic.),20420,Burnside Heights,,no_eligible_route
+22695,Warneet,20420,Burnside Heights,,no_eligible_route
+22702,Warrandyte,20420,Burnside Heights,120.87,ok
+22703,Warrandyte South,20420,Burnside Heights,162.83,ok
+22704,Warranwood,20420,Burnside Heights,140.15,ok
+22717,Waterford Park,20420,Burnside Heights,,no_eligible_route
+22720,Waterways,20420,Burnside Heights,128.47,ok
+22721,Watsonia,20420,Burnside Heights,106.1,ok
+22722,Watsonia North,20420,Burnside Heights,126.55,ok
+22723,Watsons Creek (Vic.),20420,Burnside Heights,,no_eligible_route
+22727,Wattle Glen,20420,Burnside Heights,142.85,ok
+22740,Weir Views,20420,Burnside Heights,123.12,ok
+22750,Werribee,20420,Burnside Heights,96.95,ok
+22751,Werribee South,20420,Burnside Heights,142.97,ok
+22753,Wesburn,20420,Burnside Heights,,no_eligible_route
+22756,West Footscray,20420,Burnside Heights,50.8,ok
+22757,West Melbourne,20420,Burnside Heights,80.78,ok
+22761,Westmeadows,20420,Burnside Heights,111.8,ok
+22766,Wheelers Hill,20420,Burnside Heights,110.53,ok
+22775,Whittlesea,20420,Burnside Heights,,no_eligible_route
+22784,Wildwood,20420,Burnside Heights,,no_eligible_route
+22791,Williams Landing,20420,Burnside Heights,97.17,ok
+22792,Williamstown (Vic.),20420,Burnside Heights,74.98,ok
+22793,Williamstown North,20420,Burnside Heights,89.52,ok
+22805,Windsor (Vic.),20420,Burnside Heights,85.8,ok
+22820,Wollert,20420,Burnside Heights,145.03,ok
+22825,Wonga Park,20420,Burnside Heights,181.18,ok
+22843,Woodstock (Vic.),20420,Burnside Heights,,no_eligible_route
+22857,Woori Yallock,20420,Burnside Heights,,no_eligible_route
+22883,Wyndham Vale,20420,Burnside Heights,133.7,ok
+22892,Yallambie,20420,Burnside Heights,125.38,ok
+22898,Yan Yean,20420,Burnside Heights,175.77,ok
+22906,Yannathan,20420,Burnside Heights,,no_eligible_route
+22910,Yarra Glen,20420,Burnside Heights,176.73,ok
+22911,Yarra Junction,20420,Burnside Heights,,no_eligible_route
+22916,Yarrambat,20420,Burnside Heights,141.25,ok
+22917,Yarraville,20420,Burnside Heights,64.48,ok
+22925,Yellingbo,20420,Burnside Heights,,no_eligible_route
+22930,Yering,20420,Burnside Heights,,no_eligible_route
+22941,Yuroke,20420,Burnside Heights,182.98,ok

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20867,Elwood,41.78,ok
+20003,Aberfeldie,20867,Elwood,75.97,ok
+20011,Aintree,20867,Elwood,116.82,ok
+20015,Airport West,20867,Elwood,96.07,ok
+20017,Albanvale,20867,Elwood,98.22,ok
+20018,Albert Park (Vic.),20867,Elwood,22.87,ok
+20021,Albion (Vic.),20867,Elwood,80.42,ok
+20034,Alphington,20867,Elwood,50.7,ok
+20035,Altona (Vic.),20867,Elwood,81.62,ok
+20036,Altona Meadows,20867,Elwood,87.82,ok
+20037,Altona North,20867,Elwood,93.12,ok
+20062,Ardeer,20867,Elwood,91.57,ok
+20066,Armadale (Vic.),20867,Elwood,34.92,ok
+20071,Arthurs Creek,20867,Elwood,,no_eligible_route
+20072,Arthurs Seat,20867,Elwood,187.33,ok
+20075,Ascot Vale,20867,Elwood,70.8,ok
+20077,Ashburton,20867,Elwood,61.42,ok
+20078,Ashwood,20867,Elwood,63.73,ok
+20079,Aspendale,20867,Elwood,76.32,ok
+20080,Aspendale Gardens,20867,Elwood,91.65,ok
+20082,Attwood,20867,Elwood,101.78,ok
+20089,Avondale Heights,20867,Elwood,88.05,ok
+20091,Avonsleigh,20867,Elwood,153.0,ok
+20095,Bacchus Marsh,20867,Elwood,,no_eligible_route
+20097,Badger Creek,20867,Elwood,157.38,ok
+20105,Balaclava (Vic.),20867,Elwood,22.68,ok
+20120,Balnarring,20867,Elwood,183.68,ok
+20121,Balnarring Beach,20867,Elwood,180.22,ok
+20123,Balwyn,20867,Elwood,60.67,ok
+20124,Balwyn North,20867,Elwood,64.63,ok
+20131,Bangholme,20867,Elwood,125.92,ok
+20169,Baxter,20867,Elwood,111.67,ok
+20171,Bayles,20867,Elwood,,no_eligible_route
+20173,Bayswater (Vic.),20867,Elwood,85.07,ok
+20174,Bayswater North,20867,Elwood,100.15,ok
+20175,Beaconsfield (Vic.),20867,Elwood,116.63,ok
+20176,Beaconsfield Upper,20867,Elwood,,no_eligible_route
+20182,Beaumaris (Vic.),20867,Elwood,55.25,ok
+20187,Beenak,20867,Elwood,,no_eligible_route
+20188,Belgrave,20867,Elwood,98.15,ok
+20189,Belgrave Heights,20867,Elwood,129.77,ok
+20190,Belgrave South,20867,Elwood,125.8,ok
+20198,Bellfield (Banyule - Vic.),20867,Elwood,66.45,ok
+20207,Bend Of Islands,20867,Elwood,,no_eligible_route
+20212,Benloch,20867,Elwood,,no_eligible_route
+20214,Bentleigh,20867,Elwood,50.68,ok
+20215,Bentleigh East,20867,Elwood,49.75,ok
+20224,Berwick,20867,Elwood,90.68,ok
+20233,Beveridge,20867,Elwood,131.33,ok
+20237,Big Pats Creek,20867,Elwood,,no_eligible_route
+20248,Bittern,20867,Elwood,129.65,ok
+20251,Black Rock (Vic.),20867,Elwood,49.68,ok
+20252,Blackburn,20867,Elwood,59.4,ok
+20253,Blackburn North,20867,Elwood,61.78,ok
+20254,Blackburn South,20867,Elwood,74.85,ok
+20257,Blairgowrie,20867,Elwood,179.37,ok
+20260,Blind Bight,20867,Elwood,,no_eligible_route
+20272,Bolinda,20867,Elwood,,no_eligible_route
+20278,Bonbeach,20867,Elwood,81.32,ok
+20280,Boneo,20867,Elwood,,no_eligible_route
+20282,Bonnie Brook,20867,Elwood,154.37,ok
+20304,Boronia,20867,Elwood,87.53,ok
+20307,Botanic Ridge,20867,Elwood,133.43,ok
+20314,Box Hill (Vic.),20867,Elwood,58.85,ok
+20315,Box Hill North,20867,Elwood,65.52,ok
+20316,Box Hill South,20867,Elwood,66.12,ok
+20320,Braeside,20867,Elwood,101.12,ok
+20324,Braybrook,20867,Elwood,82.2,ok
+20331,Briar Hill,20867,Elwood,89.42,ok
+20337,Brighton (Vic.),20867,Elwood,22.02,ok
+20338,Brighton East,20867,Elwood,41.72,ok
+20346,Broadmeadows (Vic.),20867,Elwood,93.65,ok
+20351,Brookfield (Vic.),20867,Elwood,174.75,ok
+20352,Brooklyn (Vic.),20867,Elwood,90.1,ok
+20361,Brunswick (Vic.),20867,Elwood,61.63,ok
+20362,Brunswick East,20867,Elwood,66.82,ok
+20363,Brunswick West,20867,Elwood,75.75,ok
+20381,Bulla (Vic.),20867,Elwood,153.05,ok
+20386,Bulleen,20867,Elwood,64.58,ok
+20387,Bullengarook,20867,Elwood,,no_eligible_route
+20399,Bundoora (Vic.),20867,Elwood,82.43,ok
+20411,Bunyip,20867,Elwood,,no_eligible_route
+20412,Bunyip North,20867,Elwood,,no_eligible_route
+20418,Burnley,20867,Elwood,50.7,ok
+20419,Burnside (Vic.),20867,Elwood,100.45,ok
+20420,Burnside Heights,20867,Elwood,108.27,ok
+20426,Burwood (Vic.),20867,Elwood,74.47,ok
+20427,Burwood East,20867,Elwood,72.85,ok
+20435,Bylands,20867,Elwood,,no_eligible_route
+20441,Cairnlea,20867,Elwood,91.63,ok
+20442,Calder Park,20867,Elwood,116.47,ok
+20443,Caldermeade,20867,Elwood,,no_eligible_route
+20453,Camberwell (Vic.),20867,Elwood,60.35,ok
+20455,Campbellfield,20867,Elwood,102.07,ok
+20466,Cannons Creek,20867,Elwood,,no_eligible_route
+20468,Canterbury (Vic.),20867,Elwood,56.95,ok
+20474,Cape Schanck,20867,Elwood,,no_eligible_route
+20476,Capel Sound,20867,Elwood,163.72,ok
+20487,Cardinia,20867,Elwood,,no_eligible_route
+20495,Carlton (Vic.),20867,Elwood,52.55,ok
+20496,Carlton North,20867,Elwood,70.3,ok
+20498,Carnegie,20867,Elwood,31.62,ok
+20500,Caroline Springs,20867,Elwood,104.6,ok
+20507,Carrum,20867,Elwood,81.13,ok
+20508,Carrum Downs,20867,Elwood,98.48,ok
+20512,Castella,20867,Elwood,,no_eligible_route
+20517,Catani,20867,Elwood,,no_eligible_route
+20521,Caulfield,20867,Elwood,28.77,ok
+20522,Caulfield East,20867,Elwood,41.03,ok
+20523,Caulfield North,20867,Elwood,27.8,ok
+20524,Caulfield South,20867,Elwood,31.35,ok
+20528,Chadstone,20867,Elwood,46.27,ok
+20537,Chelsea,20867,Elwood,78.38,ok
+20538,Chelsea Heights,20867,Elwood,94.82,ok
+20539,Cheltenham (Vic.),20867,Elwood,63.4,ok
+20541,Cherokee,20867,Elwood,,no_eligible_route
+20555,Chintin,20867,Elwood,,no_eligible_route
+20556,Chirnside Park,20867,Elwood,110.43,ok
+20559,Christmas Hills (Vic.),20867,Elwood,,no_eligible_route
+20560,Chum Creek,20867,Elwood,,no_eligible_route
+20566,Clarinda,20867,Elwood,71.93,ok
+20567,Clarkefield,20867,Elwood,,no_eligible_route
+20569,Clayton,20867,Elwood,62.05,ok
+20570,Clayton South,20867,Elwood,81.07,ok
+20572,Clematis,20867,Elwood,125.42,ok
+20574,Clifton Hill,20867,Elwood,35.7,ok
+20576,Clonbinane,20867,Elwood,,no_eligible_route
+20581,Clyde (Vic.),20867,Elwood,146.27,ok
+20582,Clyde North,20867,Elwood,111.15,ok
+20587,Cobaw,20867,Elwood,,no_eligible_route
+20590,Cobblebank,20867,Elwood,159.4,ok
+20596,Coburg,20867,Elwood,76.05,ok
+20597,Coburg North,20867,Elwood,86.57,ok
+20600,Cockatoo (Vic.),20867,Elwood,156.68,ok
+20601,Cocoroc,20867,Elwood,,no_eligible_route
+20605,Coimadai,20867,Elwood,,no_eligible_route
+20613,Coldstream (Vic.),20867,Elwood,,no_eligible_route
+20616,Collingwood (Vic.),20867,Elwood,37.02,ok
+20624,Coolaroo,20867,Elwood,95.02,ok
+20633,Cora Lynn,20867,Elwood,,no_eligible_route
+20654,Cottles Bridge,20867,Elwood,,no_eligible_route
+20661,Craigieburn,20867,Elwood,106.85,ok
+20662,Cranbourne,20867,Elwood,102.33,ok
+20663,Cranbourne East,20867,Elwood,103.18,ok
+20664,Cranbourne North,20867,Elwood,96.53,ok
+20665,Cranbourne South,20867,Elwood,136.78,ok
+20666,Cranbourne West,20867,Elwood,99.25,ok
+20670,Cremorne (Vic.),20867,Elwood,35.1,ok
+20674,Crib Point,20867,Elwood,138.62,ok
+20682,Croydon (Vic.),20867,Elwood,75.28,ok
+20683,Croydon Hills,20867,Elwood,96.6,ok
+20684,Croydon North,20867,Elwood,93.92,ok
+20685,Croydon South,20867,Elwood,102.08,ok
+20702,Dallas,20867,Elwood,97.67,ok
+20703,Dalmore,20867,Elwood,,no_eligible_route
+20707,Dandenong,20867,Elwood,73.32,ok
+20708,Dandenong North,20867,Elwood,99.78,ok
+20709,Dandenong South,20867,Elwood,96.65,ok
+20712,Darley,20867,Elwood,,no_eligible_route
+20716,Darraweit Guim,20867,Elwood,,no_eligible_route
+20724,Deanside,20867,Elwood,126.85,ok
+20728,Deepdene (Vic.),20867,Elwood,65.8,ok
+20729,Deer Park,20867,Elwood,88.55,ok
+20731,Delahey,20867,Elwood,102.53,ok
+20743,Derrimut,20867,Elwood,115.97,ok
+20748,Devon Meadows,20867,Elwood,,no_eligible_route
+20750,Dewhurst,20867,Elwood,,no_eligible_route
+20752,Diamond Creek,20867,Elwood,94.02,ok
+20754,Diggers Rest,20867,Elwood,111.52,ok
+20758,Dingley Village,20867,Elwood,75.92,ok
+20762,Dixons Creek,20867,Elwood,,no_eligible_route
+20766,Docklands,20867,Elwood,51.72,ok
+20769,Don Valley,20867,Elwood,,no_eligible_route
+20771,Doncaster,20867,Elwood,64.67,ok
+20772,Doncaster East,20867,Elwood,67.15,ok
+20773,Donnybrook (Vic.),20867,Elwood,130.92,ok
+20774,Donvale,20867,Elwood,90.3,ok
+20779,Doreen,20867,Elwood,112.5,ok
+20783,Doveton,20867,Elwood,91.27,ok
+20788,Dromana,20867,Elwood,174.5,ok
+20825,Eaglemont,20867,Elwood,68.3,ok
+20830,East Melbourne,20867,Elwood,37.48,ok
+20833,East Warburton,20867,Elwood,,no_eligible_route
+20843,Eden Park,20867,Elwood,,no_eligible_route
+20848,Edithvale,20867,Elwood,78.52,ok
+20864,Elsternwick,20867,Elwood,18.15,ok
+20865,Eltham (Vic.),20867,Elwood,92.15,ok
+20866,Eltham North,20867,Elwood,85.13,ok
+20867,Elwood,20867,Elwood,0.0,same_centroid
+20868,Emerald (Vic.),20867,Elwood,152.6,ok
+20871,Endeavour Hills,20867,Elwood,98.6,ok
+20878,Epping (Vic.),20867,Elwood,106.92,ok
+20885,Essendon,20867,Elwood,76.72,ok
+20886,Essendon Fields,20867,Elwood,99.12,ok
+20887,Essendon North,20867,Elwood,80.12,ok
+20888,Essendon West,20867,Elwood,76.58,ok
+20889,Eumemmerring,20867,Elwood,101.53,ok
+20898,Exford,20867,Elwood,,no_eligible_route
+20899,Eynesbury,20867,Elwood,,no_eligible_route
+20901,Fairfield (Vic.),20867,Elwood,55.13,ok
+20909,Fawkner,20867,Elwood,94.52,ok
+20916,Fernshaw,20867,Elwood,,no_eligible_route
+20917,Ferntree Gully,20867,Elwood,94.77,ok
+20918,Ferny Creek,20867,Elwood,133.45,ok
+20920,Fingal (Vic.),20867,Elwood,,no_eligible_route
+20924,Fitzroy (Vic.),20867,Elwood,49.33,ok
+20925,Fitzroy North,20867,Elwood,54.07,ok
+20929,Flemington,20867,Elwood,70.33,ok
+20930,Flinders (Vic.),20867,Elwood,,no_eligible_route
+20935,Footscray,20867,Elwood,63.38,ok
+20937,Forest Hill (Vic.),20867,Elwood,75.83,ok
+20947,Frankston,20867,Elwood,96.1,ok
+20948,Frankston North,20867,Elwood,104.7,ok
+20949,Frankston South,20867,Elwood,119.12,ok
+20950,Fraser Rise,20867,Elwood,126.15,ok
+20965,Gardenvale,20867,Elwood,25.83,ok
+20966,Garfield,20867,Elwood,,no_eligible_route
+20967,Garfield North,20867,Elwood,,no_eligible_route
+20979,Gembrook,20867,Elwood,,no_eligible_route
+20995,Gilderoy,20867,Elwood,,no_eligible_route
+21001,Gisborne,20867,Elwood,,no_eligible_route
+21002,Gisborne South,20867,Elwood,,no_eligible_route
+21004,Gladstone Park,20867,Elwood,108.62,ok
+21005,Gladysdale,20867,Elwood,,no_eligible_route
+21009,Glen Huntly,20867,Elwood,31.5,ok
+21010,Glen Iris (Vic.),20867,Elwood,60.7,ok
+21013,Glen Waverley,20867,Elwood,75.78,ok
+21047,Glenroy (Vic.),20867,Elwood,89.27,ok
+21059,Goldie,20867,Elwood,,no_eligible_route
+21079,Gowanbrae,20867,Elwood,108.07,ok
+21087,Grangefields,20867,Elwood,158.5,ok
+21104,Greensborough,20867,Elwood,77.57,ok
+21105,Greenvale (Vic.),20867,Elwood,114.95,ok
+21115,Gruyere,20867,Elwood,,no_eligible_route
+21121,Guys Hill,20867,Elwood,,no_eligible_route
+21124,Hadfield,20867,Elwood,88.67,ok
+21125,Hallam,20867,Elwood,98.68,ok
+21131,Hampton (Vic.),20867,Elwood,36.32,ok
+21132,Hampton East,20867,Elwood,53.65,ok
+21133,Hampton Park,20867,Elwood,97.22,ok
+21139,Harkaway,20867,Elwood,,no_eligible_route
+21140,Harkness,20867,Elwood,176.23,ok
+21145,Hastings (Vic.),20867,Elwood,131.18,ok
+21152,Hawthorn (Vic.),20867,Elwood,52.33,ok
+21153,Hawthorn East,20867,Elwood,50.82,ok
+21158,Healesville,20867,Elwood,161.3,ok
+21159,Heath Hill,20867,Elwood,,no_eligible_route
+21161,Heathcote Junction,20867,Elwood,,no_eligible_route
+21163,Heatherton,20867,Elwood,69.87,ok
+21165,Heathmont,20867,Elwood,75.33,ok
+21167,Heidelberg,20867,Elwood,72.83,ok
+21168,Heidelberg Heights,20867,Elwood,70.37,ok
+21169,Heidelberg West,20867,Elwood,71.55,ok
+21176,Hesket,20867,Elwood,,no_eligible_route
+21185,Highett,20867,Elwood,52.63,ok
+21193,Hillside (Melton - Vic.),20867,Elwood,108.6,ok
+21195,Hmas Cerberus,20867,Elwood,176.57,ok
+21196,Hoddles Creek,20867,Elwood,,no_eligible_route
+21202,Hopetoun Park,20867,Elwood,,no_eligible_route
+21203,Hoppers Crossing,20867,Elwood,102.55,ok
+21214,Hughesdale,20867,Elwood,51.63,ok
+21215,Humevale,20867,Elwood,157.88,ok
+21218,Huntingdale (Vic.),20867,Elwood,63.88,ok
+21223,Hurstbridge,20867,Elwood,94.57,ok
+21238,Iona,20867,Elwood,,no_eligible_route
+21246,Ivanhoe (Vic.),20867,Elwood,55.3,ok
+21247,Ivanhoe East,20867,Elwood,65.72,ok
+21248,Jacana,20867,Elwood,93.83,ok
+21277,Junction Village,20867,Elwood,145.52,ok
+21284,Kalkallo,20867,Elwood,133.82,ok
+21286,Kallista,20867,Elwood,134.87,ok
+21287,Kalorama,20867,Elwood,104.25,ok
+21294,Kangaroo Ground,20867,Elwood,121.8,ok
+21312,Kealba,20867,Elwood,93.05,ok
+21314,Keilor,20867,Elwood,120.72,ok
+21315,Keilor Downs,20867,Elwood,105.65,ok
+21316,Keilor East,20867,Elwood,90.95,ok
+21317,Keilor Lodge,20867,Elwood,102.58,ok
+21318,Keilor North,20867,Elwood,101.28,ok
+21319,Keilor Park,20867,Elwood,99.87,ok
+21327,Kensington (Vic.),20867,Elwood,59.52,ok
+21333,Kerrie,20867,Elwood,,no_eligible_route
+21336,Kew (Vic.),20867,Elwood,53.45,ok
+21337,Kew East,20867,Elwood,58.5,ok
+21339,Keysborough,20867,Elwood,87.63,ok
+21354,Kilsyth,20867,Elwood,93.63,ok
+21355,Kilsyth South,20867,Elwood,108.6,ok
+21358,Kinglake,20867,Elwood,206.82,ok
+21359,Kinglake Central,20867,Elwood,,no_eligible_route
+21360,Kinglake West,20867,Elwood,160.85,ok
+21362,Kings Park (Vic.),20867,Elwood,95.77,ok
+21363,Kingsbury,20867,Elwood,81.65,ok
+21365,Kingsville,20867,Elwood,73.87,ok
+21374,Knoxfield,20867,Elwood,101.18,ok
+21380,Koo Wee Rup,20867,Elwood,,no_eligible_route
+21381,Koo Wee Rup North,20867,Elwood,,no_eligible_route
+21393,Kooyong,20867,Elwood,46.72,ok
+21411,Kurunjang,20867,Elwood,156.38,ok
+21452,Lalor,20867,Elwood,74.98,ok
+21456,Lancefield,20867,Elwood,,no_eligible_route
+21459,Lang Lang,20867,Elwood,,no_eligible_route
+21460,Lang Lang East,20867,Elwood,,no_eligible_route
+21467,Langwarrin,20867,Elwood,110.07,ok
+21468,Langwarrin South,20867,Elwood,,no_eligible_route
+21473,Launching Place,20867,Elwood,124.93,ok
+21476,Laverton (Vic.),20867,Elwood,80.27,ok
+21477,Laverton North,20867,Elwood,114.68,ok
+21504,Lilydale (Vic.),20867,Elwood,104.58,ok
+21533,Long Forest,20867,Elwood,,no_eligible_route
+21547,Lower Plenty,20867,Elwood,104.93,ok
+21554,Lynbrook,20867,Elwood,83.05,ok
+21555,Lyndhurst (Vic.),20867,Elwood,138.32,ok
+21558,Lysterfield,20867,Elwood,155.75,ok
+21559,Lysterfield South,20867,Elwood,148.97,ok
+21561,Macclesfield (Vic.),20867,Elwood,,no_eligible_route
+21562,Macedon,20867,Elwood,,no_eligible_route
+21564,Macleod (Vic.),20867,Elwood,70.65,ok
+21569,Maddingley,20867,Elwood,,no_eligible_route
+21575,Maidstone,20867,Elwood,77.8,ok
+21578,Main Ridge,20867,Elwood,,no_eligible_route
+21586,Malvern (Vic.),20867,Elwood,37.95,ok
+21587,Malvern East,20867,Elwood,45.55,ok
+21588,Mambourin,20867,Elwood,,no_eligible_route
+21597,Manor Lakes,20867,Elwood,136.73,ok
+21604,Maribyrnong,20867,Elwood,79.7,ok
+21619,Maryknoll,20867,Elwood,,no_eligible_route
+21625,McCrae,20867,Elwood,158.92,ok
+21629,McKinnon,20867,Elwood,35.68,ok
+21635,Meadow Heights,20867,Elwood,102.12,ok
+21640,Melbourne,20867,Elwood,30.7,ok
+21641,Melbourne Airport,20867,Elwood,,no_eligible_route
+21642,Melton (Vic.),20867,Elwood,161.62,ok
+21643,Melton South,20867,Elwood,175.22,ok
+21644,Melton West,20867,Elwood,152.57,ok
+21648,Mentone,20867,Elwood,62.62,ok
+21649,Menzies Creek,20867,Elwood,124.22,ok
+21659,Mernda,20867,Elwood,109.47,ok
+21662,Merricks,20867,Elwood,,no_eligible_route
+21663,Merricks Beach,20867,Elwood,,no_eligible_route
+21664,Merricks North,20867,Elwood,,no_eligible_route
+21668,Merrimu,20867,Elwood,,no_eligible_route
+21675,Mickleham,20867,Elwood,135.85,ok
+21677,Middle Park (Vic.),20867,Elwood,19.3,ok
+21683,Mill Park,20867,Elwood,100.07,ok
+21685,Millgrove,20867,Elwood,,no_eligible_route
+21706,Mitcham (Vic.),20867,Elwood,71.07,ok
+21727,Monbulk,20867,Elwood,142.32,ok
+21728,Monegeetta,20867,Elwood,,no_eligible_route
+21731,Monomeith,20867,Elwood,,no_eligible_route
+21732,Mont Albert,20867,Elwood,59.23,ok
+21733,Mont Albert North,20867,Elwood,67.13,ok
+21735,Montmorency,20867,Elwood,78.22,ok
+21736,Montrose (Vic.),20867,Elwood,96.55,ok
+21742,Moonee Ponds,20867,Elwood,63.18,ok
+21746,Moorabbin,20867,Elwood,65.42,ok
+21747,Moorabbin Airport,20867,Elwood,81.87,ok
+21754,Moorooduc,20867,Elwood,,no_eligible_route
+21755,Mooroolbark,20867,Elwood,86.48,ok
+21760,Mordialloc,20867,Elwood,77.42,ok
+21763,Mornington (Vic.),20867,Elwood,132.55,ok
+21779,Mount Burnett,20867,Elwood,,no_eligible_route
+21786,Mount Cottrell,20867,Elwood,,no_eligible_route
+21787,Mount Dandenong,20867,Elwood,108.25,ok
+21793,Mount Eliza,20867,Elwood,106.9,ok
+21795,Mount Evelyn,20867,Elwood,112.42,ok
+21801,Mount Macedon,20867,Elwood,,no_eligible_route
+21803,Mount Martha,20867,Elwood,125.43,ok
+21814,Mount Toolebewong,20867,Elwood,,no_eligible_route
+21816,Mount Waverley,20867,Elwood,52.58,ok
+21827,Mulgrave (Vic.),20867,Elwood,90.42,ok
+21849,Murrumbeena,20867,Elwood,51.15,ok
+21872,Nangana,20867,Elwood,,no_eligible_route
+21878,Nar Nar Goon,20867,Elwood,,no_eligible_route
+21879,Nar Nar Goon North,20867,Elwood,,no_eligible_route
+21893,Narre Warren,20867,Elwood,95.53,ok
+21894,Narre Warren East,20867,Elwood,,no_eligible_route
+21895,Narre Warren North,20867,Elwood,109.73,ok
+21896,Narre Warren South,20867,Elwood,98.6,ok
+21921,New Gisborne,20867,Elwood,,no_eligible_route
+21934,Newport (Vic.),20867,Elwood,65.12,ok
+21942,Niddrie,20867,Elwood,93.22,ok
+21952,Noble Park,20867,Elwood,64.05,ok
+21953,Noble Park North,20867,Elwood,92.72,ok
+21966,North Melbourne,20867,Elwood,61.68,ok
+21969,North Warrandyte,20867,Elwood,101.78,ok
+21971,Northcote,20867,Elwood,55.72,ok
+21974,Notting Hill,20867,Elwood,77.68,ok
+21985,Nunawading,20867,Elwood,62.67,ok
+21991,Nutfield,20867,Elwood,,no_eligible_route
+21998,Oak Park,20867,Elwood,81.5,ok
+21999,Oaklands Junction,20867,Elwood,,no_eligible_route
+22000,Oakleigh,20867,Elwood,51.02,ok
+22001,Oakleigh East,20867,Elwood,72.83,ok
+22002,Oakleigh South,20867,Elwood,60.07,ok
+22006,Officer,20867,Elwood,110.33,ok
+22007,Officer South,20867,Elwood,146.9,ok
+22009,Olinda (Vic.),20867,Elwood,132.9,ok
+22016,Ormond,20867,Elwood,38.35,ok
+22027,Pakenham,20867,Elwood,109.38,ok
+22028,Pakenham South,20867,Elwood,,no_eligible_route
+22029,Pakenham Upper,20867,Elwood,,no_eligible_route
+22032,Panton Hill,20867,Elwood,,no_eligible_route
+22036,Park Orchards,20867,Elwood,76.15,ok
+22037,Parkdale,20867,Elwood,67.7,ok
+22038,Parkville (Vic.),20867,Elwood,66.45,ok
+22041,Pascoe Vale,20867,Elwood,85.87,ok
+22042,Pascoe Vale South,20867,Elwood,81.6,ok
+22047,Patterson Lakes,20867,Elwood,85.0,ok
+22050,Pearcedale,20867,Elwood,154.08,ok
+22058,Pentland Hills,20867,Elwood,,no_eligible_route
+22064,Pheasant Creek (Vic.),20867,Elwood,176.5,ok
+22084,Plenty (Vic.),20867,Elwood,109.15,ok
+22085,Plumpton (Vic.),20867,Elwood,,no_eligible_route
+22086,Point Cook,20867,Elwood,99.5,ok
+22087,Point Leo,20867,Elwood,,no_eligible_route
+22107,Port Melbourne,20867,Elwood,33.17,ok
+22113,Portsea,20867,Elwood,195.22,ok
+22115,Powelltown,20867,Elwood,,no_eligible_route
+22118,Prahran,20867,Elwood,31.02,ok
+22121,Preston (Vic.),20867,Elwood,66.5,ok
+22122,Princes Hill,20867,Elwood,60.67,ok
+22132,Quandong,20867,Elwood,,no_eligible_route
+22141,Ravenhall,20867,Elwood,137.15,ok
+22148,Red Hill (Vic.),20867,Elwood,,no_eligible_route
+22149,Red Hill South,20867,Elwood,,no_eligible_route
+22160,Research,20867,Elwood,95.65,ok
+22161,Reservoir (Vic.),20867,Elwood,67.8,ok
+22170,Richmond (Vic.),20867,Elwood,40.25,ok
+22172,Riddells Creek,20867,Elwood,,no_eligible_route
+22174,Ringwood (Vic.),20867,Elwood,76.82,ok
+22175,Ringwood East,20867,Elwood,75.37,ok
+22176,Ringwood North,20867,Elwood,82.73,ok
+22179,Ripponlea,20867,Elwood,15.47,walk_only
+22185,Rochford,20867,Elwood,,no_eligible_route
+22186,Rockbank,20867,Elwood,134.88,ok
+22193,Romsey,20867,Elwood,,no_eligible_route
+22194,Rosanna,20867,Elwood,65.12,ok
+22198,Rosebud,20867,Elwood,175.23,ok
+22207,Rowville,20867,Elwood,95.85,ok
+22208,Roxburgh Park,20867,Elwood,101.07,ok
+22220,Rye,20867,Elwood,187.43,ok
+22221,Rythdale,20867,Elwood,,no_eligible_route
+22222,Safety Beach (Vic.),20867,Elwood,142.4,ok
+22232,Sandhurst,20867,Elwood,113.33,ok
+22234,Sandringham (Vic.),20867,Elwood,43.48,ok
+22239,Sassafras (Vic.),20867,Elwood,117.32,ok
+22242,Scoresby,20867,Elwood,96.7,ok
+22247,Seabrook,20867,Elwood,93.62,ok
+22249,Seaford (Vic.),20867,Elwood,93.23,ok
+22250,Seaholme,20867,Elwood,76.3,ok
+22256,Seddon (Vic.),20867,Elwood,60.32,ok
+22258,Selby,20867,Elwood,123.88,ok
+22263,Seville,20867,Elwood,135.98,ok
+22264,Seville East,20867,Elwood,122.98,ok
+22278,Sherbrooke,20867,Elwood,124.93,ok
+22279,Shoreham,20867,Elwood,,no_eligible_route
+22281,Silvan,20867,Elwood,137.53,ok
+22291,Skye (Vic.),20867,Elwood,104.37,ok
+22295,Smiths Gully,20867,Elwood,,no_eligible_route
+22303,Somers,20867,Elwood,164.7,ok
+22304,Somerton (Vic.),20867,Elwood,104.48,ok
+22305,Somerville (Vic.),20867,Elwood,136.23,ok
+22306,Sorrento (Vic.),20867,Elwood,175.2,ok
+22309,South Kingsville,20867,Elwood,79.37,ok
+22310,South Melbourne,20867,Elwood,31.08,ok
+22311,South Morang,20867,Elwood,104.67,ok
+22313,South Wharf,20867,Elwood,40.8,ok
+22314,South Yarra,20867,Elwood,25.68,ok
+22315,Southbank,20867,Elwood,41.27,ok
+22319,Spotswood,20867,Elwood,60.47,ok
+22325,Springfield (Macedon Ranges - Vic.),20867,Elwood,,no_eligible_route
+22328,Springvale (Vic.),20867,Elwood,65.02,ok
+22329,Springvale South,20867,Elwood,74.75,ok
+22330,St Albans (Vic.),20867,Elwood,83.05,ok
+22332,St Andrews (Vic.),20867,Elwood,,no_eligible_route
+22333,St Andrews Beach,20867,Elwood,,no_eligible_route
+22339,St Helena,20867,Elwood,93.43,ok
+22343,St Kilda (Vic.),20867,Elwood,9.75,ok
+22344,St Kilda East,20867,Elwood,24.97,ok
+22345,St Kilda West,20867,Elwood,15.45,ok
+22355,Steels Creek,20867,Elwood,,no_eligible_route
+22375,Strathewen,20867,Elwood,,no_eligible_route
+22380,Strathmore (Vic.),20867,Elwood,85.92,ok
+22381,Strathmore Heights,20867,Elwood,96.7,ok
+22382,Strathtulloh,20867,Elwood,,no_eligible_route
+22391,Sunbury,20867,Elwood,143.6,ok
+22395,Sunshine (Vic.),20867,Elwood,69.1,ok
+22396,Sunshine North,20867,Elwood,89.17,ok
+22397,Sunshine West,20867,Elwood,98.33,ok
+22399,Surrey Hills,20867,Elwood,59.63,ok
+22414,Sydenham (Vic.),20867,Elwood,96.65,ok
+22451,Tarneit,20867,Elwood,118.12,ok
+22457,Tarrawarra,20867,Elwood,136.9,ok
+22473,Taylors Hill,20867,Elwood,107.27,ok
+22474,Taylors Lakes,20867,Elwood,95.02,ok
+22476,Tecoma,20867,Elwood,95.15,ok
+22483,Templestowe,20867,Elwood,67.55,ok
+22484,Templestowe Lower,20867,Elwood,62.52,ok
+22496,The Basin (Vic.),20867,Elwood,106.33,ok
+22501,The Patch,20867,Elwood,132.88,ok
+22504,Thomastown,20867,Elwood,80.28,ok
+22508,Thornbury,20867,Elwood,61.88,ok
+22509,Thornhill Park,20867,Elwood,,no_eligible_route
+22514,Three Bridges,20867,Elwood,,no_eligible_route
+22531,Tonimbuk,20867,Elwood,,no_eligible_route
+22536,Toolangi,20867,Elwood,,no_eligible_route
+22537,Toolern Vale,20867,Elwood,,no_eligible_route
+22546,Tooradin,20867,Elwood,,no_eligible_route
+22547,Toorak,20867,Elwood,41.35,ok
+22550,Tootgarook,20867,Elwood,170.85,ok
+22556,Tottenham (Vic.),20867,Elwood,94.52,ok
+22572,Travancore,20867,Elwood,69.93,ok
+22576,Tremont,20867,Elwood,112.75,ok
+22582,Truganina,20867,Elwood,165.72,ok
+22584,Tuerong,20867,Elwood,,no_eligible_route
+22586,Tullamarine,20867,Elwood,109.92,ok
+22594,Tyabb,20867,Elwood,125.1,ok
+22598,Tynong,20867,Elwood,,no_eligible_route
+22599,Tynong North,20867,Elwood,,no_eligible_route
+22614,Upper Ferntree Gully,20867,Elwood,92.3,ok
+22617,Upper Plenty,20867,Elwood,,no_eligible_route
+22620,Upwey,20867,Elwood,95.02,ok
+22627,Vermont,20867,Elwood,80.62,ok
+22628,Vermont South,20867,Elwood,90.5,ok
+22629,Vervale,20867,Elwood,,no_eligible_route
+22633,Viewbank,20867,Elwood,77.12,ok
+22661,Wallan,20867,Elwood,,no_eligible_route
+22672,Wandin East,20867,Elwood,,no_eligible_route
+22673,Wandin North,20867,Elwood,108.95,ok
+22676,Wandong,20867,Elwood,,no_eligible_route
+22685,Wantirna,20867,Elwood,93.7,ok
+22686,Wantirna South,20867,Elwood,93.75,ok
+22689,Warburton (Vic.),20867,Elwood,,no_eligible_route
+22695,Warneet,20867,Elwood,,no_eligible_route
+22702,Warrandyte,20867,Elwood,80.33,ok
+22703,Warrandyte South,20867,Elwood,113.3,ok
+22704,Warranwood,20867,Elwood,90.97,ok
+22717,Waterford Park,20867,Elwood,,no_eligible_route
+22720,Waterways,20867,Elwood,96.88,ok
+22721,Watsonia,20867,Elwood,65.57,ok
+22722,Watsonia North,20867,Elwood,83.02,ok
+22723,Watsons Creek (Vic.),20867,Elwood,,no_eligible_route
+22727,Wattle Glen,20867,Elwood,98.32,ok
+22740,Weir Views,20867,Elwood,204.45,ok
+22750,Werribee,20867,Elwood,96.25,ok
+22751,Werribee South,20867,Elwood,136.32,ok
+22753,Wesburn,20867,Elwood,141.03,ok
+22756,West Footscray,20867,Elwood,75.0,ok
+22757,West Melbourne,20867,Elwood,75.08,ok
+22761,Westmeadows,20867,Elwood,94.53,ok
+22766,Wheelers Hill,20867,Elwood,87.13,ok
+22775,Whittlesea,20867,Elwood,,no_eligible_route
+22784,Wildwood,20867,Elwood,,no_eligible_route
+22791,Williams Landing,20867,Elwood,94.52,ok
+22792,Williamstown (Vic.),20867,Elwood,69.33,ok
+22793,Williamstown North,20867,Elwood,83.83,ok
+22805,Windsor (Vic.),20867,Elwood,24.25,ok
+22820,Wollert,20867,Elwood,126.38,ok
+22825,Wonga Park,20867,Elwood,107.7,ok
+22843,Woodstock (Vic.),20867,Elwood,,no_eligible_route
+22857,Woori Yallock,20867,Elwood,120.18,ok
+22883,Wyndham Vale,20867,Elwood,127.17,ok
+22892,Yallambie,20867,Elwood,90.85,ok
+22898,Yan Yean,20867,Elwood,130.23,ok
+22906,Yannathan,20867,Elwood,,no_eligible_route
+22910,Yarra Glen,20867,Elwood,131.08,ok
+22911,Yarra Junction,20867,Elwood,145.3,ok
+22916,Yarrambat,20867,Elwood,99.72,ok
+22917,Yarraville,20867,Elwood,66.22,ok
+22925,Yellingbo,20867,Elwood,,no_eligible_route
+22930,Yering,20867,Elwood,,no_eligible_route
+22941,Yuroke,20867,Elwood,156.48,ok

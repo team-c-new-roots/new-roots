@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20036,Altona Meadows,74.93,ok
+20003,Aberfeldie,20036,Altona Meadows,85.48,ok
+20011,Aintree,20036,Altona Meadows,109.22,ok
+20015,Airport West,20036,Altona Meadows,96.58,ok
+20017,Albanvale,20036,Altona Meadows,86.68,ok
+20018,Albert Park (Vic.),20036,Altona Meadows,68.05,ok
+20021,Albion (Vic.),20036,Altona Meadows,68.53,ok
+20034,Alphington,20036,Altona Meadows,80.1,ok
+20035,Altona (Vic.),20036,Altona Meadows,27.78,ok
+20036,Altona Meadows,20036,Altona Meadows,0.0,same_centroid
+20037,Altona North,20036,Altona Meadows,46.02,ok
+20062,Ardeer,20036,Altona Meadows,81.68,ok
+20066,Armadale (Vic.),20036,Altona Meadows,75.33,ok
+20071,Arthurs Creek,20036,Altona Meadows,,no_eligible_route
+20072,Arthurs Seat,20036,Altona Meadows,238.85,ok
+20075,Ascot Vale,20036,Altona Meadows,66.85,ok
+20077,Ashburton,20036,Altona Meadows,85.93,ok
+20078,Ashwood,20036,Altona Meadows,96.58,ok
+20079,Aspendale,20036,Altona Meadows,113.58,ok
+20080,Aspendale Gardens,20036,Altona Meadows,133.92,ok
+20082,Attwood,20036,Altona Meadows,111.3,ok
+20089,Avondale Heights,20036,Altona Meadows,77.07,ok
+20091,Avonsleigh,20036,Altona Meadows,,no_eligible_route
+20095,Bacchus Marsh,20036,Altona Meadows,,no_eligible_route
+20097,Badger Creek,20036,Altona Meadows,193.78,ok
+20105,Balaclava (Vic.),20036,Altona Meadows,72.97,ok
+20120,Balnarring,20036,Altona Meadows,,no_eligible_route
+20121,Balnarring Beach,20036,Altona Meadows,,no_eligible_route
+20123,Balwyn,20036,Altona Meadows,98.07,ok
+20124,Balwyn North,20036,Altona Meadows,102.03,ok
+20131,Bangholme,20036,Altona Meadows,165.18,ok
+20169,Baxter,20036,Altona Meadows,153.93,ok
+20171,Bayles,20036,Altona Meadows,,no_eligible_route
+20173,Bayswater (Vic.),20036,Altona Meadows,118.58,ok
+20174,Bayswater North,20036,Altona Meadows,131.55,ok
+20175,Beaconsfield (Vic.),20036,Altona Meadows,153.03,ok
+20176,Beaconsfield Upper,20036,Altona Meadows,,no_eligible_route
+20182,Beaumaris (Vic.),20036,Altona Meadows,111.47,ok
+20187,Beenak,20036,Altona Meadows,,no_eligible_route
+20188,Belgrave,20036,Altona Meadows,131.67,ok
+20189,Belgrave Heights,20036,Altona Meadows,161.33,ok
+20190,Belgrave South,20036,Altona Meadows,160.32,ok
+20198,Bellfield (Banyule - Vic.),20036,Altona Meadows,103.85,ok
+20207,Bend Of Islands,20036,Altona Meadows,,no_eligible_route
+20212,Benloch,20036,Altona Meadows,,no_eligible_route
+20214,Bentleigh,20036,Altona Meadows,98.37,ok
+20215,Bentleigh East,20036,Altona Meadows,97.58,ok
+20224,Berwick,20036,Altona Meadows,123.83,ok
+20233,Beveridge,20036,Altona Meadows,140.85,ok
+20237,Big Pats Creek,20036,Altona Meadows,,no_eligible_route
+20248,Bittern,20036,Altona Meadows,171.92,ok
+20251,Black Rock (Vic.),20036,Altona Meadows,111.78,ok
+20252,Blackburn,20036,Altona Meadows,89.92,ok
+20253,Blackburn North,20036,Altona Meadows,99.18,ok
+20254,Blackburn South,20036,Altona Meadows,106.25,ok
+20257,Blairgowrie,20036,Altona Meadows,232.88,ok
+20260,Blind Bight,20036,Altona Meadows,,no_eligible_route
+20272,Bolinda,20036,Altona Meadows,,no_eligible_route
+20278,Bonbeach,20036,Altona Meadows,118.58,ok
+20280,Boneo,20036,Altona Meadows,,no_eligible_route
+20282,Bonnie Brook,20036,Altona Meadows,141.77,ok
+20304,Boronia,20036,Altona Meadows,121.05,ok
+20307,Botanic Ridge,20036,Altona Meadows,166.7,ok
+20314,Box Hill (Vic.),20036,Altona Meadows,87.03,ok
+20315,Box Hill North,20036,Altona Meadows,100.78,ok
+20316,Box Hill South,20036,Altona Meadows,95.52,ok
+20320,Braeside,20036,Altona Meadows,140.67,ok
+20324,Braybrook,20036,Altona Meadows,70.93,ok
+20331,Briar Hill,20036,Altona Meadows,118.82,ok
+20337,Brighton (Vic.),20036,Altona Meadows,85.73,ok
+20338,Brighton East,20036,Altona Meadows,95.98,ok
+20346,Broadmeadows (Vic.),20036,Altona Meadows,92.93,ok
+20351,Brookfield (Vic.),20036,Altona Meadows,169.27,ok
+20352,Brooklyn (Vic.),20036,Altona Meadows,46.65,ok
+20361,Brunswick (Vic.),20036,Altona Meadows,68.03,ok
+20362,Brunswick East,20036,Altona Meadows,82.03,ok
+20363,Brunswick West,20036,Altona Meadows,77.22,ok
+20381,Bulla (Vic.),20036,Altona Meadows,138.45,ok
+20386,Bulleen,20036,Altona Meadows,101.43,ok
+20387,Bullengarook,20036,Altona Meadows,,no_eligible_route
+20399,Bundoora (Vic.),20036,Altona Meadows,112.83,ok
+20411,Bunyip,20036,Altona Meadows,,no_eligible_route
+20412,Bunyip North,20036,Altona Meadows,,no_eligible_route
+20418,Burnley,20036,Altona Meadows,79.33,ok
+20419,Burnside (Vic.),20036,Altona Meadows,90.57,ok
+20420,Burnside Heights,20036,Altona Meadows,98.38,ok
+20426,Burwood (Vic.),20036,Altona Meadows,105.02,ok
+20427,Burwood East,20036,Altona Meadows,104.25,ok
+20435,Bylands,20036,Altona Meadows,,no_eligible_route
+20441,Cairnlea,20036,Altona Meadows,75.75,ok
+20442,Calder Park,20036,Altona Meadows,103.87,ok
+20443,Caldermeade,20036,Altona Meadows,,no_eligible_route
+20453,Camberwell (Vic.),20036,Altona Meadows,84.87,ok
+20455,Campbellfield,20036,Altona Meadows,101.58,ok
+20466,Cannons Creek,20036,Altona Meadows,,no_eligible_route
+20468,Canterbury (Vic.),20036,Altona Meadows,80.35,ok
+20474,Cape Schanck,20036,Altona Meadows,,no_eligible_route
+20476,Capel Sound,20036,Altona Meadows,218.23,ok
+20487,Cardinia,20036,Altona Meadows,,no_eligible_route
+20495,Carlton (Vic.),20036,Altona Meadows,63.77,ok
+20496,Carlton North,20036,Altona Meadows,82.5,ok
+20498,Carnegie,20036,Altona Meadows,88.02,ok
+20500,Caroline Springs,20036,Altona Meadows,97.0,ok
+20507,Carrum,20036,Altona Meadows,118.4,ok
+20508,Carrum Downs,20036,Altona Meadows,132.08,ok
+20512,Castella,20036,Altona Meadows,,no_eligible_route
+20517,Catani,20036,Altona Meadows,,no_eligible_route
+20521,Caulfield,20036,Altona Meadows,93.88,ok
+20522,Caulfield East,20036,Altona Meadows,81.22,ok
+20523,Caulfield North,20036,Altona Meadows,84.27,ok
+20524,Caulfield South,20036,Altona Meadows,91.62,ok
+20528,Chadstone,20036,Altona Meadows,102.87,ok
+20537,Chelsea,20036,Altona Meadows,115.65,ok
+20538,Chelsea Heights,20036,Altona Meadows,139.77,ok
+20539,Cheltenham (Vic.),20036,Altona Meadows,105.12,ok
+20541,Cherokee,20036,Altona Meadows,,no_eligible_route
+20555,Chintin,20036,Altona Meadows,,no_eligible_route
+20556,Chirnside Park,20036,Altona Meadows,136.95,ok
+20559,Christmas Hills (Vic.),20036,Altona Meadows,,no_eligible_route
+20560,Chum Creek,20036,Altona Meadows,,no_eligible_route
+20566,Clarinda,20036,Altona Meadows,110.5,ok
+20567,Clarkefield,20036,Altona Meadows,,no_eligible_route
+20569,Clayton,20036,Altona Meadows,106.6,ok
+20570,Clayton South,20036,Altona Meadows,118.42,ok
+20572,Clematis,20036,Altona Meadows,,no_eligible_route
+20574,Clifton Hill,20036,Altona Meadows,73.18,ok
+20576,Clonbinane,20036,Altona Meadows,,no_eligible_route
+20581,Clyde (Vic.),20036,Altona Meadows,179.53,ok
+20582,Clyde North,20036,Altona Meadows,154.3,ok
+20587,Cobaw,20036,Altona Meadows,,no_eligible_route
+20590,Cobblebank,20036,Altona Meadows,148.92,ok
+20596,Coburg,20036,Altona Meadows,77.33,ok
+20597,Coburg North,20036,Altona Meadows,89.33,ok
+20600,Cockatoo (Vic.),20036,Altona Meadows,,no_eligible_route
+20601,Cocoroc,20036,Altona Meadows,,no_eligible_route
+20605,Coimadai,20036,Altona Meadows,,no_eligible_route
+20613,Coldstream (Vic.),20036,Altona Meadows,,no_eligible_route
+20616,Collingwood (Vic.),20036,Altona Meadows,74.83,ok
+20624,Coolaroo,20036,Altona Meadows,92.53,ok
+20633,Cora Lynn,20036,Altona Meadows,,no_eligible_route
+20654,Cottles Bridge,20036,Altona Meadows,,no_eligible_route
+20661,Craigieburn,20036,Altona Meadows,110.33,ok
+20662,Cranbourne,20036,Altona Meadows,137.93,ok
+20663,Cranbourne East,20036,Altona Meadows,150.48,ok
+20664,Cranbourne North,20036,Altona Meadows,137.5,ok
+20665,Cranbourne South,20036,Altona Meadows,170.05,ok
+20666,Cranbourne West,20036,Altona Meadows,145.0,ok
+20670,Cremorne (Vic.),20036,Altona Meadows,68.72,ok
+20674,Crib Point,20036,Altona Meadows,180.88,ok
+20682,Croydon (Vic.),20036,Altona Meadows,106.68,ok
+20683,Croydon Hills,20036,Altona Meadows,130.0,ok
+20684,Croydon North,20036,Altona Meadows,127.43,ok
+20685,Croydon South,20036,Altona Meadows,128.6,ok
+20702,Dallas,20036,Altona Meadows,99.23,ok
+20703,Dalmore,20036,Altona Meadows,,no_eligible_route
+20707,Dandenong,20036,Altona Meadows,108.92,ok
+20708,Dandenong North,20036,Altona Meadows,133.93,ok
+20709,Dandenong South,20036,Altona Meadows,131.25,ok
+20712,Darley,20036,Altona Meadows,,no_eligible_route
+20716,Darraweit Guim,20036,Altona Meadows,,no_eligible_route
+20724,Deanside,20036,Altona Meadows,121.37,ok
+20728,Deepdene (Vic.),20036,Altona Meadows,85.7,ok
+20729,Deer Park,20036,Altona Meadows,79.52,ok
+20731,Delahey,20036,Altona Meadows,90.73,ok
+20743,Derrimut,20036,Altona Meadows,99.45,ok
+20748,Devon Meadows,20036,Altona Meadows,186.28,ok
+20750,Dewhurst,20036,Altona Meadows,,no_eligible_route
+20752,Diamond Creek,20036,Altona Meadows,127.42,ok
+20754,Diggers Rest,20036,Altona Meadows,98.18,ok
+20758,Dingley Village,20036,Altona Meadows,122.02,ok
+20762,Dixons Creek,20036,Altona Meadows,,no_eligible_route
+20766,Docklands,20036,Altona Meadows,58.77,ok
+20769,Don Valley,20036,Altona Meadows,,no_eligible_route
+20771,Doncaster,20036,Altona Meadows,97.07,ok
+20772,Doncaster East,20036,Altona Meadows,100.55,ok
+20773,Donnybrook (Vic.),20036,Altona Meadows,133.38,ok
+20774,Donvale,20036,Altona Meadows,124.88,ok
+20779,Doreen,20036,Altona Meadows,141.35,ok
+20783,Doveton,20036,Altona Meadows,133.42,ok
+20788,Dromana,20036,Altona Meadows,228.02,ok
+20825,Eaglemont,20036,Altona Meadows,98.43,ok
+20830,East Melbourne,20036,Altona Meadows,65.7,ok
+20833,East Warburton,20036,Altona Meadows,,no_eligible_route
+20843,Eden Park,20036,Altona Meadows,,no_eligible_route
+20848,Edithvale,20036,Altona Meadows,115.78,ok
+20864,Elsternwick,20036,Altona Meadows,80.88,ok
+20865,Eltham (Vic.),20036,Altona Meadows,121.55,ok
+20866,Eltham North,20036,Altona Meadows,119.53,ok
+20867,Elwood,20036,Altona Meadows,84.93,ok
+20868,Emerald (Vic.),20036,Altona Meadows,,no_eligible_route
+20871,Endeavour Hills,20036,Altona Meadows,140.75,ok
+20878,Epping (Vic.),20036,Altona Meadows,123.67,ok
+20885,Essendon,20036,Altona Meadows,75.23,ok
+20886,Essendon Fields,20036,Altona Meadows,99.63,ok
+20887,Essendon North,20036,Altona Meadows,80.63,ok
+20888,Essendon West,20036,Altona Meadows,78.0,ok
+20889,Eumemmerring,20036,Altona Meadows,133.8,ok
+20898,Exford,20036,Altona Meadows,,no_eligible_route
+20899,Eynesbury,20036,Altona Meadows,,no_eligible_route
+20901,Fairfield (Vic.),20036,Altona Meadows,86.42,ok
+20909,Fawkner,20036,Altona Meadows,94.03,ok
+20916,Fernshaw,20036,Altona Meadows,,no_eligible_route
+20917,Ferntree Gully,20036,Altona Meadows,122.88,ok
+20918,Ferny Creek,20036,Altona Meadows,164.85,ok
+20920,Fingal (Vic.),20036,Altona Meadows,,no_eligible_route
+20924,Fitzroy (Vic.),20036,Altona Meadows,71.7,ok
+20925,Fitzroy North,20036,Altona Meadows,79.32,ok
+20929,Flemington,20036,Altona Meadows,69.45,ok
+20930,Flinders (Vic.),20036,Altona Meadows,,no_eligible_route
+20935,Footscray,20036,Altona Meadows,48.7,ok
+20937,Forest Hill (Vic.),20036,Altona Meadows,106.23,ok
+20947,Frankston,20036,Altona Meadows,139.37,ok
+20948,Frankston North,20036,Altona Meadows,153.52,ok
+20949,Frankston South,20036,Altona Meadows,165.3,ok
+20950,Fraser Rise,20036,Altona Meadows,114.62,ok
+20965,Gardenvale,20036,Altona Meadows,82.17,ok
+20966,Garfield,20036,Altona Meadows,,no_eligible_route
+20967,Garfield North,20036,Altona Meadows,,no_eligible_route
+20979,Gembrook,20036,Altona Meadows,,no_eligible_route
+20995,Gilderoy,20036,Altona Meadows,,no_eligible_route
+21001,Gisborne,20036,Altona Meadows,,no_eligible_route
+21002,Gisborne South,20036,Altona Meadows,,no_eligible_route
+21004,Gladstone Park,20036,Altona Meadows,110.13,ok
+21005,Gladysdale,20036,Altona Meadows,,no_eligible_route
+21009,Glen Huntly,20036,Altona Meadows,93.9,ok
+21010,Glen Iris (Vic.),20036,Altona Meadows,94.93,ok
+21013,Glen Waverley,20036,Altona Meadows,102.8,ok
+21047,Glenroy (Vic.),20036,Altona Meadows,87.32,ok
+21059,Goldie,20036,Altona Meadows,,no_eligible_route
+21079,Gowanbrae,20036,Altona Meadows,107.58,ok
+21087,Grangefields,20036,Altona Meadows,146.22,ok
+21104,Greensborough,20036,Altona Meadows,106.97,ok
+21105,Greenvale (Vic.),20036,Altona Meadows,118.47,ok
+21115,Gruyere,20036,Altona Meadows,,no_eligible_route
+21121,Guys Hill,20036,Altona Meadows,,no_eligible_route
+21124,Hadfield,20036,Altona Meadows,96.07,ok
+21125,Hallam,20036,Altona Meadows,131.95,ok
+21131,Hampton (Vic.),20036,Altona Meadows,93.57,ok
+21132,Hampton East,20036,Altona Meadows,105.13,ok
+21133,Hampton Park,20036,Altona Meadows,135.82,ok
+21139,Harkaway,20036,Altona Meadows,,no_eligible_route
+21140,Harkness,20036,Altona Meadows,170.75,ok
+21145,Hastings (Vic.),20036,Altona Meadows,173.45,ok
+21152,Hawthorn (Vic.),20036,Altona Meadows,76.73,ok
+21153,Hawthorn East,20036,Altona Meadows,82.67,ok
+21158,Healesville,20036,Altona Meadows,197.7,ok
+21159,Heath Hill,20036,Altona Meadows,,no_eligible_route
+21161,Heathcote Junction,20036,Altona Meadows,,no_eligible_route
+21163,Heatherton,20036,Altona Meadows,117.52,ok
+21165,Heathmont,20036,Altona Meadows,108.85,ok
+21167,Heidelberg,20036,Altona Meadows,97.77,ok
+21168,Heidelberg Heights,20036,Altona Meadows,102.62,ok
+21169,Heidelberg West,20036,Altona Meadows,106.95,ok
+21176,Hesket,20036,Altona Meadows,,no_eligible_route
+21185,Highett,20036,Altona Meadows,97.9,ok
+21193,Hillside (Melton - Vic.),20036,Altona Meadows,98.72,ok
+21195,Hmas Cerberus,20036,Altona Meadows,,no_eligible_route
+21196,Hoddles Creek,20036,Altona Meadows,,no_eligible_route
+21202,Hopetoun Park,20036,Altona Meadows,,no_eligible_route
+21203,Hoppers Crossing,20036,Altona Meadows,58.02,ok
+21214,Hughesdale,20036,Altona Meadows,89.43,ok
+21215,Humevale,20036,Altona Meadows,,no_eligible_route
+21218,Huntingdale (Vic.),20036,Altona Meadows,94.87,ok
+21223,Hurstbridge,20036,Altona Meadows,127.97,ok
+21238,Iona,20036,Altona Meadows,,no_eligible_route
+21246,Ivanhoe (Vic.),20036,Altona Meadows,84.7,ok
+21247,Ivanhoe East,20036,Altona Meadows,97.12,ok
+21248,Jacana,20036,Altona Meadows,92.35,ok
+21277,Junction Village,20036,Altona Meadows,172.42,ok
+21284,Kalkallo,20036,Altona Meadows,143.38,ok
+21286,Kallista,20036,Altona Meadows,169.38,ok
+21287,Kalorama,20036,Altona Meadows,135.65,ok
+21294,Kangaroo Ground,20036,Altona Meadows,162.65,ok
+21312,Kealba,20036,Altona Meadows,83.9,ok
+21314,Keilor,20036,Altona Meadows,110.23,ok
+21315,Keilor Downs,20036,Altona Meadows,93.12,ok
+21316,Keilor East,20036,Altona Meadows,74.7,ok
+21317,Keilor Lodge,20036,Altona Meadows,93.97,ok
+21318,Keilor North,20036,Altona Meadows,100.8,ok
+21319,Keilor Park,20036,Altona Meadows,103.83,ok
+21327,Kensington (Vic.),20036,Altona Meadows,53.33,ok
+21333,Kerrie,20036,Altona Meadows,,no_eligible_route
+21336,Kew (Vic.),20036,Altona Meadows,87.93,ok
+21337,Kew East,20036,Altona Meadows,91.35,ok
+21339,Keysborough,20036,Altona Meadows,130.55,ok
+21354,Kilsyth,20036,Altona Meadows,125.03,ok
+21355,Kilsyth South,20036,Altona Meadows,140.12,ok
+21358,Kinglake,20036,Altona Meadows,,no_eligible_route
+21359,Kinglake Central,20036,Altona Meadows,,no_eligible_route
+21360,Kinglake West,20036,Altona Meadows,,no_eligible_route
+21362,Kings Park (Vic.),20036,Altona Meadows,84.88,ok
+21363,Kingsbury,20036,Altona Meadows,116.62,ok
+21365,Kingsville,20036,Altona Meadows,40.62,ok
+21374,Knoxfield,20036,Altona Meadows,119.77,ok
+21380,Koo Wee Rup,20036,Altona Meadows,,no_eligible_route
+21381,Koo Wee Rup North,20036,Altona Meadows,,no_eligible_route
+21393,Kooyong,20036,Altona Meadows,76.57,ok
+21411,Kurunjang,20036,Altona Meadows,147.95,ok
+21452,Lalor,20036,Altona Meadows,102.38,ok
+21456,Lancefield,20036,Altona Meadows,,no_eligible_route
+21459,Lang Lang,20036,Altona Meadows,,no_eligible_route
+21460,Lang Lang East,20036,Altona Meadows,,no_eligible_route
+21467,Langwarrin,20036,Altona Meadows,153.33,ok
+21468,Langwarrin South,20036,Altona Meadows,,no_eligible_route
+21473,Launching Place,20036,Altona Meadows,151.33,ok
+21476,Laverton (Vic.),20036,Altona Meadows,27.33,ok
+21477,Laverton North,20036,Altona Meadows,42.48,ok
+21504,Lilydale (Vic.),20036,Altona Meadows,130.98,ok
+21533,Long Forest,20036,Altona Meadows,,no_eligible_route
+21547,Lower Plenty,20036,Altona Meadows,134.23,ok
+21554,Lynbrook,20036,Altona Meadows,118.65,ok
+21555,Lyndhurst (Vic.),20036,Altona Meadows,179.23,ok
+21558,Lysterfield,20036,Altona Meadows,,no_eligible_route
+21559,Lysterfield South,20036,Altona Meadows,183.92,ok
+21561,Macclesfield (Vic.),20036,Altona Meadows,,no_eligible_route
+21562,Macedon,20036,Altona Meadows,,no_eligible_route
+21564,Macleod (Vic.),20036,Altona Meadows,100.05,ok
+21569,Maddingley,20036,Altona Meadows,,no_eligible_route
+21575,Maidstone,20036,Altona Meadows,66.42,ok
+21578,Main Ridge,20036,Altona Meadows,,no_eligible_route
+21586,Malvern (Vic.),20036,Altona Meadows,83.35,ok
+21587,Malvern East,20036,Altona Meadows,89.17,ok
+21588,Mambourin,20036,Altona Meadows,,no_eligible_route
+21597,Manor Lakes,20036,Altona Meadows,92.72,ok
+21604,Maribyrnong,20036,Altona Meadows,66.67,ok
+21619,Maryknoll,20036,Altona Meadows,,no_eligible_route
+21625,McCrae,20036,Altona Meadows,211.43,ok
+21629,McKinnon,20036,Altona Meadows,87.2,ok
+21635,Meadow Heights,20036,Altona Meadows,101.63,ok
+21640,Melbourne,20036,Altona Meadows,60.07,ok
+21641,Melbourne Airport,20036,Altona Meadows,,no_eligible_route
+21642,Melton (Vic.),20036,Altona Meadows,156.13,ok
+21643,Melton South,20036,Altona Meadows,168.5,ok
+21644,Melton West,20036,Altona Meadows,144.13,ok
+21648,Mentone,20036,Altona Meadows,99.88,ok
+21649,Menzies Creek,20036,Altona Meadows,,no_eligible_route
+21659,Mernda,20036,Altona Meadows,137.87,ok
+21662,Merricks,20036,Altona Meadows,,no_eligible_route
+21663,Merricks Beach,20036,Altona Meadows,,no_eligible_route
+21664,Merricks North,20036,Altona Meadows,,no_eligible_route
+21668,Merrimu,20036,Altona Meadows,,no_eligible_route
+21675,Mickleham,20036,Altona Meadows,139.37,ok
+21677,Middle Park (Vic.),20036,Altona Meadows,74.13,ok
+21683,Mill Park,20036,Altona Meadows,127.35,ok
+21685,Millgrove,20036,Altona Meadows,,no_eligible_route
+21706,Mitcham (Vic.),20036,Altona Meadows,101.58,ok
+21727,Monbulk,20036,Altona Meadows,176.83,ok
+21728,Monegeetta,20036,Altona Meadows,,no_eligible_route
+21731,Monomeith,20036,Altona Meadows,,no_eligible_route
+21732,Mont Albert,20036,Altona Meadows,87.75,ok
+21733,Mont Albert North,20036,Altona Meadows,101.53,ok
+21735,Montmorency,20036,Altona Meadows,107.62,ok
+21736,Montrose (Vic.),20036,Altona Meadows,127.95,ok
+21742,Moonee Ponds,20036,Altona Meadows,61.7,ok
+21746,Moorabbin,20036,Altona Meadows,107.0,ok
+21747,Moorabbin Airport,20036,Altona Meadows,123.38,ok
+21754,Moorooduc,20036,Altona Meadows,,no_eligible_route
+21755,Mooroolbark,20036,Altona Meadows,117.88,ok
+21760,Mordialloc,20036,Altona Meadows,115.18,ok
+21763,Mornington (Vic.),20036,Altona Meadows,181.23,ok
+21779,Mount Burnett,20036,Altona Meadows,,no_eligible_route
+21786,Mount Cottrell,20036,Altona Meadows,,no_eligible_route
+21787,Mount Dandenong,20036,Altona Meadows,139.65,ok
+21793,Mount Eliza,20036,Altona Meadows,159.42,ok
+21795,Mount Evelyn,20036,Altona Meadows,143.82,ok
+21801,Mount Macedon,20036,Altona Meadows,,no_eligible_route
+21803,Mount Martha,20036,Altona Meadows,179.95,ok
+21814,Mount Toolebewong,20036,Altona Meadows,,no_eligible_route
+21816,Mount Waverley,20036,Altona Meadows,94.23,ok
+21827,Mulgrave (Vic.),20036,Altona Meadows,123.12,ok
+21849,Murrumbeena,20036,Altona Meadows,89.55,ok
+21872,Nangana,20036,Altona Meadows,,no_eligible_route
+21878,Nar Nar Goon,20036,Altona Meadows,,no_eligible_route
+21879,Nar Nar Goon North,20036,Altona Meadows,,no_eligible_route
+21893,Narre Warren,20036,Altona Meadows,129.38,ok
+21894,Narre Warren East,20036,Altona Meadows,,no_eligible_route
+21895,Narre Warren North,20036,Altona Meadows,145.65,ok
+21896,Narre Warren South,20036,Altona Meadows,135.75,ok
+21921,New Gisborne,20036,Altona Meadows,,no_eligible_route
+21934,Newport (Vic.),20036,Altona Meadows,37.43,ok
+21942,Niddrie,20036,Altona Meadows,92.73,ok
+21952,Noble Park,20036,Altona Meadows,100.65,ok
+21953,Noble Park North,20036,Altona Meadows,134.83,ok
+21966,North Melbourne,20036,Altona Meadows,58.92,ok
+21969,North Warrandyte,20036,Altona Meadows,141.18,ok
+21971,Northcote,20036,Altona Meadows,85.58,ok
+21974,Notting Hill,20036,Altona Meadows,103.4,ok
+21985,Nunawading,20036,Altona Meadows,94.07,ok
+21991,Nutfield,20036,Altona Meadows,,no_eligible_route
+21998,Oak Park,20036,Altona Meadows,80.02,ok
+21999,Oaklands Junction,20036,Altona Meadows,,no_eligible_route
+22000,Oakleigh,20036,Altona Meadows,92.1,ok
+22001,Oakleigh East,20036,Altona Meadows,103.15,ok
+22002,Oakleigh South,20036,Altona Meadows,103.8,ok
+22006,Officer,20036,Altona Meadows,143.48,ok
+22007,Officer South,20036,Altona Meadows,183.5,ok
+22009,Olinda (Vic.),20036,Altona Meadows,164.3,ok
+22016,Ormond,20036,Altona Meadows,87.63,ok
+22027,Pakenham,20036,Altona Meadows,142.53,ok
+22028,Pakenham South,20036,Altona Meadows,,no_eligible_route
+22029,Pakenham Upper,20036,Altona Meadows,,no_eligible_route
+22032,Panton Hill,20036,Altona Meadows,,no_eligible_route
+22036,Park Orchards,20036,Altona Meadows,113.55,ok
+22037,Parkdale,20036,Altona Meadows,104.97,ok
+22038,Parkville (Vic.),20036,Altona Meadows,73.0,ok
+22041,Pascoe Vale,20036,Altona Meadows,84.38,ok
+22042,Pascoe Vale South,20036,Altona Meadows,83.12,ok
+22047,Patterson Lakes,20036,Altona Meadows,127.27,ok
+22050,Pearcedale,20036,Altona Meadows,187.35,ok
+22058,Pentland Hills,20036,Altona Meadows,,no_eligible_route
+22064,Pheasant Creek (Vic.),20036,Altona Meadows,,no_eligible_route
+22084,Plenty (Vic.),20036,Altona Meadows,130.55,ok
+22085,Plumpton (Vic.),20036,Altona Meadows,,no_eligible_route
+22086,Point Cook,20036,Altona Meadows,57.02,ok
+22087,Point Leo,20036,Altona Meadows,,no_eligible_route
+22107,Port Melbourne,20036,Altona Meadows,69.63,ok
+22113,Portsea,20036,Altona Meadows,,no_eligible_route
+22115,Powelltown,20036,Altona Meadows,,no_eligible_route
+22118,Prahran,20036,Altona Meadows,76.7,ok
+22121,Preston (Vic.),20036,Altona Meadows,96.98,ok
+22122,Princes Hill,20036,Altona Meadows,77.52,ok
+22132,Quandong,20036,Altona Meadows,,no_eligible_route
+22141,Ravenhall,20036,Altona Meadows,116.82,ok
+22148,Red Hill (Vic.),20036,Altona Meadows,,no_eligible_route
+22149,Red Hill South,20036,Altona Meadows,,no_eligible_route
+22160,Research,20036,Altona Meadows,135.05,ok
+22161,Reservoir (Vic.),20036,Altona Meadows,99.2,ok
+22170,Richmond (Vic.),20036,Altona Meadows,76.23,ok
+22172,Riddells Creek,20036,Altona Meadows,,no_eligible_route
+22174,Ringwood (Vic.),20036,Altona Meadows,108.2,ok
+22175,Ringwood East,20036,Altona Meadows,106.77,ok
+22176,Ringwood North,20036,Altona Meadows,118.4,ok
+22179,Ripponlea,20036,Altona Meadows,71.6,ok
+22185,Rochford,20036,Altona Meadows,,no_eligible_route
+22186,Rockbank,20036,Altona Meadows,101.27,ok
+22193,Romsey,20036,Altona Meadows,,no_eligible_route
+22194,Rosanna,20036,Altona Meadows,94.52,ok
+22198,Rosebud,20036,Altona Meadows,228.75,ok
+22207,Rowville,20036,Altona Meadows,133.25,ok
+22208,Roxburgh Park,20036,Altona Meadows,109.87,ok
+22220,Rye,20036,Altona Meadows,240.95,ok
+22221,Rythdale,20036,Altona Meadows,,no_eligible_route
+22222,Safety Beach (Vic.),20036,Altona Meadows,195.92,ok
+22232,Sandhurst,20036,Altona Meadows,155.6,ok
+22234,Sandringham (Vic.),20036,Altona Meadows,98.45,ok
+22239,Sassafras (Vic.),20036,Altona Meadows,148.72,ok
+22242,Scoresby,20036,Altona Meadows,116.42,ok
+22247,Seabrook,20036,Altona Meadows,35.33,ok
+22249,Seaford (Vic.),20036,Altona Meadows,130.5,ok
+22250,Seaholme,20036,Altona Meadows,22.35,ok
+22256,Seddon (Vic.),20036,Altona Meadows,44.72,ok
+22258,Selby,20036,Altona Meadows,164.27,ok
+22263,Seville,20036,Altona Meadows,162.5,ok
+22264,Seville East,20036,Altona Meadows,149.38,ok
+22278,Sherbrooke,20036,Altona Meadows,159.45,ok
+22279,Shoreham,20036,Altona Meadows,,no_eligible_route
+22281,Silvan,20036,Altona Meadows,168.93,ok
+22291,Skye (Vic.),20036,Altona Meadows,163.28,ok
+22295,Smiths Gully,20036,Altona Meadows,,no_eligible_route
+22303,Somers,20036,Altona Meadows,,no_eligible_route
+22304,Somerton (Vic.),20036,Altona Meadows,106.0,ok
+22305,Somerville (Vic.),20036,Altona Meadows,178.5,ok
+22306,Sorrento (Vic.),20036,Altona Meadows,231.72,ok
+22309,South Kingsville,20036,Altona Meadows,45.38,ok
+22310,South Melbourne,20036,Altona Meadows,65.63,ok
+22311,South Morang,20036,Altona Meadows,131.07,ok
+22313,South Wharf,20036,Altona Meadows,57.62,ok
+22314,South Yarra,20036,Altona Meadows,62.37,ok
+22315,Southbank,20036,Altona Meadows,65.78,ok
+22319,Spotswood,20036,Altona Meadows,35.63,ok
+22325,Springfield (Macedon Ranges - Vic.),20036,Altona Meadows,,no_eligible_route
+22328,Springvale (Vic.),20036,Altona Meadows,101.62,ok
+22329,Springvale South,20036,Altona Meadows,100.35,ok
+22330,St Albans (Vic.),20036,Altona Meadows,71.17,ok
+22332,St Andrews (Vic.),20036,Altona Meadows,,no_eligible_route
+22333,St Andrews Beach,20036,Altona Meadows,,no_eligible_route
+22339,St Helena,20036,Altona Meadows,111.8,ok
+22343,St Kilda (Vic.),20036,Altona Meadows,81.18,ok
+22344,St Kilda East,20036,Altona Meadows,82.78,ok
+22345,St Kilda West,20036,Altona Meadows,73.02,ok
+22355,Steels Creek,20036,Altona Meadows,,no_eligible_route
+22375,Strathewen,20036,Altona Meadows,,no_eligible_route
+22380,Strathmore (Vic.),20036,Altona Meadows,91.18,ok
+22381,Strathmore Heights,20036,Altona Meadows,104.27,ok
+22382,Strathtulloh,20036,Altona Meadows,,no_eligible_route
+22391,Sunbury,20036,Altona Meadows,134.45,ok
+22395,Sunshine (Vic.),20036,Altona Meadows,57.02,ok
+22396,Sunshine North,20036,Altona Meadows,68.02,ok
+22397,Sunshine West,20036,Altona Meadows,63.6,ok
+22399,Surrey Hills,20036,Altona Meadows,88.17,ok
+22414,Sydenham (Vic.),20036,Altona Meadows,87.12,ok
+22451,Tarneit,20036,Altona Meadows,77.57,ok
+22457,Tarrawarra,20036,Altona Meadows,173.3,ok
+22473,Taylors Hill,20036,Altona Meadows,93.95,ok
+22474,Taylors Lakes,20036,Altona Meadows,84.53,ok
+22476,Tecoma,20036,Altona Meadows,128.67,ok
+22483,Templestowe,20036,Altona Meadows,105.4,ok
+22484,Templestowe Lower,20036,Altona Meadows,101.37,ok
+22496,The Basin (Vic.),20036,Altona Meadows,139.85,ok
+22501,The Patch,20036,Altona Meadows,167.4,ok
+22504,Thomastown,20036,Altona Meadows,107.68,ok
+22508,Thornbury,20036,Altona Meadows,91.47,ok
+22509,Thornhill Park,20036,Altona Meadows,,no_eligible_route
+22514,Three Bridges,20036,Altona Meadows,,no_eligible_route
+22531,Tonimbuk,20036,Altona Meadows,,no_eligible_route
+22536,Toolangi,20036,Altona Meadows,,no_eligible_route
+22537,Toolern Vale,20036,Altona Meadows,,no_eligible_route
+22546,Tooradin,20036,Altona Meadows,,no_eligible_route
+22547,Toorak,20036,Altona Meadows,76.75,ok
+22550,Tootgarook,20036,Altona Meadows,224.37,ok
+22556,Tottenham (Vic.),20036,Altona Meadows,54.37,ok
+22572,Travancore,20036,Altona Meadows,73.45,ok
+22576,Tremont,20036,Altona Meadows,144.85,ok
+22582,Truganina,20036,Altona Meadows,133.23,ok
+22584,Tuerong,20036,Altona Meadows,,no_eligible_route
+22586,Tullamarine,20036,Altona Meadows,109.43,ok
+22594,Tyabb,20036,Altona Meadows,167.37,ok
+22598,Tynong,20036,Altona Meadows,,no_eligible_route
+22599,Tynong North,20036,Altona Meadows,,no_eligible_route
+22614,Upper Ferntree Gully,20036,Altona Meadows,125.82,ok
+22617,Upper Plenty,20036,Altona Meadows,,no_eligible_route
+22620,Upwey,20036,Altona Meadows,128.53,ok
+22627,Vermont,20036,Altona Meadows,113.88,ok
+22628,Vermont South,20036,Altona Meadows,116.2,ok
+22629,Vervale,20036,Altona Meadows,,no_eligible_route
+22633,Viewbank,20036,Altona Meadows,103.52,ok
+22661,Wallan,20036,Altona Meadows,,no_eligible_route
+22672,Wandin East,20036,Altona Meadows,,no_eligible_route
+22673,Wandin North,20036,Altona Meadows,135.47,ok
+22676,Wandong,20036,Altona Meadows,,no_eligible_route
+22685,Wantirna,20036,Altona Meadows,126.22,ok
+22686,Wantirna South,20036,Altona Meadows,131.27,ok
+22689,Warburton (Vic.),20036,Altona Meadows,,no_eligible_route
+22695,Warneet,20036,Altona Meadows,,no_eligible_route
+22702,Warrandyte,20036,Altona Meadows,113.73,ok
+22703,Warrandyte South,20036,Altona Meadows,145.7,ok
+22704,Warranwood,20036,Altona Meadows,123.37,ok
+22717,Waterford Park,20036,Altona Meadows,,no_eligible_route
+22720,Waterways,20036,Altona Meadows,122.78,ok
+22721,Watsonia,20036,Altona Meadows,94.97,ok
+22722,Watsonia North,20036,Altona Meadows,118.5,ok
+22723,Watsons Creek (Vic.),20036,Altona Meadows,,no_eligible_route
+22727,Wattle Glen,20036,Altona Meadows,131.72,ok
+22740,Weir Views,20036,Altona Meadows,198.97,ok
+22750,Werribee,20036,Altona Meadows,50.82,ok
+22751,Werribee South,20036,Altona Meadows,90.83,ok
+22753,Wesburn,20036,Altona Meadows,167.43,ok
+22756,West Footscray,20036,Altona Meadows,44.63,ok
+22757,West Melbourne,20036,Altona Meadows,68.93,ok
+22761,Westmeadows,20036,Altona Meadows,104.05,ok
+22766,Wheelers Hill,20036,Altona Meadows,107.85,ok
+22775,Whittlesea,20036,Altona Meadows,,no_eligible_route
+22784,Wildwood,20036,Altona Meadows,,no_eligible_route
+22791,Williams Landing,20036,Altona Meadows,50.12,ok
+22792,Williamstown (Vic.),20036,Altona Meadows,37.83,ok
+22793,Williamstown North,20036,Altona Meadows,38.43,ok
+22805,Windsor (Vic.),20036,Altona Meadows,68.87,ok
+22820,Wollert,20036,Altona Meadows,135.9,ok
+22825,Wonga Park,20036,Altona Meadows,137.22,ok
+22843,Woodstock (Vic.),20036,Altona Meadows,,no_eligible_route
+22857,Woori Yallock,20036,Altona Meadows,146.58,ok
+22883,Wyndham Vale,20036,Altona Meadows,77.63,ok
+22892,Yallambie,20036,Altona Meadows,117.25,ok
+22898,Yan Yean,20036,Altona Meadows,154.63,ok
+22906,Yannathan,20036,Altona Meadows,,no_eligible_route
+22910,Yarra Glen,20036,Altona Meadows,170.6,ok
+22911,Yarra Junction,20036,Altona Meadows,171.7,ok
+22916,Yarrambat,20036,Altona Meadows,127.12,ok
+22917,Yarraville,20036,Altona Meadows,49.6,ok
+22925,Yellingbo,20036,Altona Meadows,,no_eligible_route
+22930,Yering,20036,Altona Meadows,,no_eligible_route
+22941,Yuroke,20036,Altona Meadows,166.0,ok

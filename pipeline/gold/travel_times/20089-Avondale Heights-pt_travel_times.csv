@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20089,Avondale Heights,70.72,ok
+20003,Aberfeldie,20089,Avondale Heights,27.83,ok
+20011,Aintree,20089,Avondale Heights,91.5,ok
+20015,Airport West,20089,Avondale Heights,33.97,ok
+20017,Albanvale,20089,Avondale Heights,81.08,ok
+20018,Albert Park (Vic.),20089,Avondale Heights,62.83,ok
+20021,Albion (Vic.),20089,Avondale Heights,42.9,ok
+20034,Alphington,20089,Avondale Heights,78.38,ok
+20035,Altona (Vic.),20089,Avondale Heights,70.97,ok
+20036,Altona Meadows,20089,Avondale Heights,81.97,ok
+20037,Altona North,20089,Avondale Heights,76.87,ok
+20062,Ardeer,20089,Avondale Heights,49.02,ok
+20066,Armadale (Vic.),20089,Avondale Heights,74.12,ok
+20071,Arthurs Creek,20089,Avondale Heights,,no_eligible_route
+20072,Arthurs Seat,20089,Avondale Heights,238.13,ok
+20075,Ascot Vale,20089,Avondale Heights,27.0,ok
+20077,Ashburton,20089,Avondale Heights,89.72,ok
+20078,Ashwood,20089,Avondale Heights,99.92,ok
+20079,Aspendale,20089,Avondale Heights,112.87,ok
+20080,Aspendale Gardens,20089,Avondale Heights,133.2,ok
+20082,Attwood,20089,Avondale Heights,73.68,ok
+20089,Avondale Heights,20089,Avondale Heights,0.0,same_centroid
+20091,Avonsleigh,20089,Avondale Heights,,no_eligible_route
+20095,Bacchus Marsh,20089,Avondale Heights,,no_eligible_route
+20097,Badger Creek,20089,Avondale Heights,188.57,ok
+20105,Balaclava (Vic.),20089,Avondale Heights,74.75,ok
+20120,Balnarring,20089,Avondale Heights,,no_eligible_route
+20121,Balnarring Beach,20089,Avondale Heights,,no_eligible_route
+20123,Balwyn,20089,Avondale Heights,91.85,ok
+20124,Balwyn North,20089,Avondale Heights,94.07,ok
+20131,Bangholme,20089,Avondale Heights,164.47,ok
+20169,Baxter,20089,Avondale Heights,153.22,ok
+20171,Bayles,20089,Avondale Heights,,no_eligible_route
+20173,Bayswater (Vic.),20089,Avondale Heights,114.37,ok
+20174,Bayswater North,20089,Avondale Heights,124.33,ok
+20175,Beaconsfield (Vic.),20089,Avondale Heights,144.82,ok
+20176,Beaconsfield Upper,20089,Avondale Heights,,no_eligible_route
+20182,Beaumaris (Vic.),20089,Avondale Heights,110.75,ok
+20187,Beenak,20089,Avondale Heights,,no_eligible_route
+20188,Belgrave,20089,Avondale Heights,127.45,ok
+20189,Belgrave Heights,20089,Avondale Heights,159.12,ok
+20190,Belgrave South,20089,Avondale Heights,159.6,ok
+20198,Bellfield (Banyule - Vic.),20089,Avondale Heights,84.83,ok
+20207,Bend Of Islands,20089,Avondale Heights,,no_eligible_route
+20212,Benloch,20089,Avondale Heights,,no_eligible_route
+20214,Bentleigh,20089,Avondale Heights,91.15,ok
+20215,Bentleigh East,20089,Avondale Heights,98.1,ok
+20224,Berwick,20089,Avondale Heights,117.62,ok
+20233,Beveridge,20089,Avondale Heights,105.13,ok
+20237,Big Pats Creek,20089,Avondale Heights,,no_eligible_route
+20248,Bittern,20089,Avondale Heights,171.2,ok
+20251,Black Rock (Vic.),20089,Avondale Heights,111.07,ok
+20252,Blackburn,20089,Avondale Heights,87.7,ok
+20253,Blackburn North,20089,Avondale Heights,97.68,ok
+20254,Blackburn South,20089,Avondale Heights,105.67,ok
+20257,Blairgowrie,20089,Avondale Heights,232.17,ok
+20260,Blind Bight,20089,Avondale Heights,,no_eligible_route
+20272,Bolinda,20089,Avondale Heights,,no_eligible_route
+20278,Bonbeach,20089,Avondale Heights,117.87,ok
+20280,Boneo,20089,Avondale Heights,,no_eligible_route
+20282,Bonnie Brook,20089,Avondale Heights,135.05,ok
+20304,Boronia,20089,Avondale Heights,116.83,ok
+20307,Botanic Ridge,20089,Avondale Heights,161.48,ok
+20314,Box Hill (Vic.),20089,Avondale Heights,85.82,ok
+20315,Box Hill North,20089,Avondale Heights,95.57,ok
+20316,Box Hill South,20089,Avondale Heights,94.3,ok
+20320,Braeside,20089,Avondale Heights,139.95,ok
+20324,Braybrook,20089,Avondale Heights,36.0,ok
+20331,Briar Hill,20089,Avondale Heights,105.7,ok
+20337,Brighton (Vic.),20089,Avondale Heights,87.52,ok
+20338,Brighton East,20089,Avondale Heights,90.77,ok
+20346,Broadmeadows (Vic.),20089,Avondale Heights,65.22,ok
+20351,Brookfield (Vic.),20089,Avondale Heights,149.05,ok
+20352,Brooklyn (Vic.),20089,Avondale Heights,60.05,ok
+20361,Brunswick (Vic.),20089,Avondale Heights,55.82,ok
+20362,Brunswick East,20089,Avondale Heights,63.78,ok
+20363,Brunswick West,20089,Avondale Heights,50.42,ok
+20381,Bulla (Vic.),20089,Avondale Heights,128.35,ok
+20386,Bulleen,20089,Avondale Heights,94.63,ok
+20387,Bullengarook,20089,Avondale Heights,,no_eligible_route
+20399,Bundoora (Vic.),20089,Avondale Heights,81.12,ok
+20411,Bunyip,20089,Avondale Heights,,no_eligible_route
+20412,Bunyip North,20089,Avondale Heights,,no_eligible_route
+20418,Burnley,20089,Avondale Heights,78.62,ok
+20419,Burnside (Vic.),20089,Avondale Heights,60.52,ok
+20420,Burnside Heights,20089,Avondale Heights,68.72,ok
+20426,Burwood (Vic.),20089,Avondale Heights,101.95,ok
+20427,Burwood East,20089,Avondale Heights,103.42,ok
+20435,Bylands,20089,Avondale Heights,,no_eligible_route
+20441,Cairnlea,20089,Avondale Heights,65.58,ok
+20442,Calder Park,20089,Avondale Heights,98.15,ok
+20443,Caldermeade,20089,Avondale Heights,,no_eligible_route
+20453,Camberwell (Vic.),20089,Avondale Heights,88.65,ok
+20455,Campbellfield,20089,Avondale Heights,84.83,ok
+20466,Cannons Creek,20089,Avondale Heights,,no_eligible_route
+20468,Canterbury (Vic.),20089,Avondale Heights,82.13,ok
+20474,Cape Schanck,20089,Avondale Heights,,no_eligible_route
+20476,Capel Sound,20089,Avondale Heights,217.52,ok
+20487,Cardinia,20089,Avondale Heights,,no_eligible_route
+20495,Carlton (Vic.),20089,Avondale Heights,56.67,ok
+20496,Carlton North,20089,Avondale Heights,72.65,ok
+20498,Carnegie,20089,Avondale Heights,82.35,ok
+20500,Caroline Springs,20089,Avondale Heights,64.95,ok
+20507,Carrum,20089,Avondale Heights,117.68,ok
+20508,Carrum Downs,20089,Avondale Heights,130.42,ok
+20512,Castella,20089,Avondale Heights,,no_eligible_route
+20517,Catani,20089,Avondale Heights,,no_eligible_route
+20521,Caulfield,20089,Avondale Heights,89.82,ok
+20522,Caulfield East,20089,Avondale Heights,75.55,ok
+20523,Caulfield North,20089,Avondale Heights,80.72,ok
+20524,Caulfield South,20089,Avondale Heights,94.38,ok
+20528,Chadstone,20089,Avondale Heights,91.2,ok
+20537,Chelsea,20089,Avondale Heights,114.93,ok
+20538,Chelsea Heights,20089,Avondale Heights,136.12,ok
+20539,Cheltenham (Vic.),20089,Avondale Heights,104.4,ok
+20541,Cherokee,20089,Avondale Heights,,no_eligible_route
+20555,Chintin,20089,Avondale Heights,,no_eligible_route
+20556,Chirnside Park,20089,Avondale Heights,136.23,ok
+20559,Christmas Hills (Vic.),20089,Avondale Heights,,no_eligible_route
+20560,Chum Creek,20089,Avondale Heights,,no_eligible_route
+20566,Clarinda,20089,Avondale Heights,105.28,ok
+20567,Clarkefield,20089,Avondale Heights,,no_eligible_route
+20569,Clayton,20089,Avondale Heights,100.93,ok
+20570,Clayton South,20089,Avondale Heights,112.75,ok
+20572,Clematis,20089,Avondale Heights,,no_eligible_route
+20574,Clifton Hill,20089,Avondale Heights,68.97,ok
+20576,Clonbinane,20089,Avondale Heights,,no_eligible_route
+20581,Clyde (Vic.),20089,Avondale Heights,173.32,ok
+20582,Clyde North,20089,Avondale Heights,148.13,ok
+20587,Cobaw,20089,Avondale Heights,,no_eligible_route
+20590,Cobblebank,20089,Avondale Heights,133.7,ok
+20596,Coburg,20089,Avondale Heights,43.87,ok
+20597,Coburg North,20089,Avondale Heights,61.5,ok
+20600,Cockatoo (Vic.),20089,Avondale Heights,,no_eligible_route
+20601,Cocoroc,20089,Avondale Heights,,no_eligible_route
+20605,Coimadai,20089,Avondale Heights,,no_eligible_route
+20613,Coldstream (Vic.),20089,Avondale Heights,,no_eligible_route
+20616,Collingwood (Vic.),20089,Avondale Heights,69.13,ok
+20624,Coolaroo,20089,Avondale Heights,63.82,ok
+20633,Cora Lynn,20089,Avondale Heights,,no_eligible_route
+20654,Cottles Bridge,20089,Avondale Heights,,no_eligible_route
+20661,Craigieburn,20089,Avondale Heights,72.65,ok
+20662,Cranbourne,20089,Avondale Heights,136.27,ok
+20663,Cranbourne East,20089,Avondale Heights,145.27,ok
+20664,Cranbourne North,20089,Avondale Heights,135.28,ok
+20665,Cranbourne South,20089,Avondale Heights,164.83,ok
+20666,Cranbourne West,20089,Avondale Heights,139.78,ok
+20670,Cremorne (Vic.),20089,Avondale Heights,69.92,ok
+20674,Crib Point,20089,Avondale Heights,180.17,ok
+20682,Croydon (Vic.),20089,Avondale Heights,104.47,ok
+20683,Croydon Hills,20089,Avondale Heights,125.78,ok
+20684,Croydon North,20089,Avondale Heights,135.82,ok
+20685,Croydon South,20089,Avondale Heights,127.88,ok
+20702,Dallas,20089,Avondale Heights,68.52,ok
+20703,Dalmore,20089,Avondale Heights,,no_eligible_route
+20707,Dandenong,20089,Avondale Heights,105.22,ok
+20708,Dandenong North,20089,Avondale Heights,123.72,ok
+20709,Dandenong South,20089,Avondale Heights,131.58,ok
+20712,Darley,20089,Avondale Heights,,no_eligible_route
+20716,Darraweit Guim,20089,Avondale Heights,,no_eligible_route
+20724,Deanside,20089,Avondale Heights,108.65,ok
+20728,Deepdene (Vic.),20089,Avondale Heights,91.48,ok
+20729,Deer Park,20089,Avondale Heights,45.85,ok
+20731,Delahey,20089,Avondale Heights,80.02,ok
+20743,Derrimut,20089,Avondale Heights,89.07,ok
+20748,Devon Meadows,20089,Avondale Heights,180.07,ok
+20750,Dewhurst,20089,Avondale Heights,,no_eligible_route
+20752,Diamond Creek,20089,Avondale Heights,120.7,ok
+20754,Diggers Rest,20089,Avondale Heights,80.47,ok
+20758,Dingley Village,20089,Avondale Heights,120.8,ok
+20762,Dixons Creek,20089,Avondale Heights,,no_eligible_route
+20766,Docklands,20089,Avondale Heights,58.2,ok
+20769,Don Valley,20089,Avondale Heights,,no_eligible_route
+20771,Doncaster,20089,Avondale Heights,93.85,ok
+20772,Doncaster East,20089,Avondale Heights,96.33,ok
+20773,Donnybrook (Vic.),20089,Avondale Heights,95.77,ok
+20774,Donvale,20089,Avondale Heights,119.67,ok
+20779,Doreen,20089,Avondale Heights,132.18,ok
+20783,Doveton,20089,Avondale Heights,126.2,ok
+20788,Dromana,20089,Avondale Heights,227.3,ok
+20825,Eaglemont,20089,Avondale Heights,97.72,ok
+20830,East Melbourne,20089,Avondale Heights,63.98,ok
+20833,East Warburton,20089,Avondale Heights,,no_eligible_route
+20843,Eden Park,20089,Avondale Heights,,no_eligible_route
+20848,Edithvale,20089,Avondale Heights,115.07,ok
+20864,Elsternwick,20089,Avondale Heights,82.67,ok
+20865,Eltham (Vic.),20089,Avondale Heights,117.93,ok
+20866,Eltham North,20089,Avondale Heights,114.32,ok
+20867,Elwood,20089,Avondale Heights,88.85,ok
+20868,Emerald (Vic.),20089,Avondale Heights,,no_eligible_route
+20871,Endeavour Hills,20089,Avondale Heights,133.53,ok
+20878,Epping (Vic.),20089,Avondale Heights,92.95,ok
+20885,Essendon,20089,Avondale Heights,31.25,ok
+20886,Essendon Fields,20089,Avondale Heights,57.43,ok
+20887,Essendon North,20089,Avondale Heights,43.92,ok
+20888,Essendon West,20089,Avondale Heights,19.83,ok
+20889,Eumemmerring,20089,Avondale Heights,128.58,ok
+20898,Exford,20089,Avondale Heights,,no_eligible_route
+20899,Eynesbury,20089,Avondale Heights,175.3,ok
+20901,Fairfield (Vic.),20089,Avondale Heights,81.72,ok
+20909,Fawkner,20089,Avondale Heights,76.32,ok
+20916,Fernshaw,20089,Avondale Heights,,no_eligible_route
+20917,Ferntree Gully,20089,Avondale Heights,123.2,ok
+20918,Ferny Creek,20089,Avondale Heights,158.73,ok
+20920,Fingal (Vic.),20089,Avondale Heights,,no_eligible_route
+20924,Fitzroy (Vic.),20089,Avondale Heights,63.03,ok
+20925,Fitzroy North,20089,Avondale Heights,66.03,ok
+20929,Flemington,20089,Avondale Heights,31.63,ok
+20930,Flinders (Vic.),20089,Avondale Heights,,no_eligible_route
+20935,Footscray,20089,Avondale Heights,33.0,ok
+20937,Forest Hill (Vic.),20089,Avondale Heights,108.52,ok
+20947,Frankston,20089,Avondale Heights,138.65,ok
+20948,Frankston North,20089,Avondale Heights,154.88,ok
+20949,Frankston South,20089,Avondale Heights,164.58,ok
+20950,Fraser Rise,20089,Avondale Heights,105.95,ok
+20965,Gardenvale,20089,Avondale Heights,83.95,ok
+20966,Garfield,20089,Avondale Heights,,no_eligible_route
+20967,Garfield North,20089,Avondale Heights,,no_eligible_route
+20979,Gembrook,20089,Avondale Heights,,no_eligible_route
+20995,Gilderoy,20089,Avondale Heights,,no_eligible_route
+21001,Gisborne,20089,Avondale Heights,,no_eligible_route
+21002,Gisborne South,20089,Avondale Heights,,no_eligible_route
+21004,Gladstone Park,20089,Avondale Heights,70.18,ok
+21005,Gladysdale,20089,Avondale Heights,,no_eligible_route
+21009,Glen Huntly,20089,Avondale Heights,82.68,ok
+21010,Glen Iris (Vic.),20089,Avondale Heights,92.72,ok
+21013,Glen Waverley,20089,Avondale Heights,99.63,ok
+21047,Glenroy (Vic.),20089,Avondale Heights,59.18,ok
+21059,Goldie,20089,Avondale Heights,,no_eligible_route
+21079,Gowanbrae,20089,Avondale Heights,59.87,ok
+21087,Grangefields,20089,Avondale Heights,140.3,ok
+21104,Greensborough,20089,Avondale Heights,103.27,ok
+21105,Greenvale (Vic.),20089,Avondale Heights,82.75,ok
+21115,Gruyere,20089,Avondale Heights,,no_eligible_route
+21121,Guys Hill,20089,Avondale Heights,,no_eligible_route
+21124,Hadfield,20089,Avondale Heights,61.35,ok
+21125,Hallam,20089,Avondale Heights,122.73,ok
+21131,Hampton (Vic.),20089,Avondale Heights,98.85,ok
+21132,Hampton East,20089,Avondale Heights,97.92,ok
+21133,Hampton Park,20089,Avondale Heights,124.15,ok
+21139,Harkaway,20089,Avondale Heights,,no_eligible_route
+21140,Harkness,20089,Avondale Heights,150.53,ok
+21145,Hastings (Vic.),20089,Avondale Heights,172.73,ok
+21152,Hawthorn (Vic.),20089,Avondale Heights,78.52,ok
+21153,Hawthorn East,20089,Avondale Heights,82.5,ok
+21158,Healesville,20089,Avondale Heights,192.48,ok
+21159,Heath Hill,20089,Avondale Heights,,no_eligible_route
+21161,Heathcote Junction,20089,Avondale Heights,,no_eligible_route
+21163,Heatherton,20089,Avondale Heights,112.3,ok
+21165,Heathmont,20089,Avondale Heights,104.63,ok
+21167,Heidelberg,20089,Avondale Heights,81.05,ok
+21168,Heidelberg Heights,20089,Avondale Heights,80.48,ok
+21169,Heidelberg West,20089,Avondale Heights,72.9,ok
+21176,Hesket,20089,Avondale Heights,,no_eligible_route
+21185,Highett,20089,Avondale Heights,90.68,ok
+21193,Hillside (Melton - Vic.),20089,Avondale Heights,81.45,ok
+21195,Hmas Cerberus,20089,Avondale Heights,,no_eligible_route
+21196,Hoddles Creek,20089,Avondale Heights,,no_eligible_route
+21202,Hopetoun Park,20089,Avondale Heights,,no_eligible_route
+21203,Hoppers Crossing,20089,Avondale Heights,90.8,ok
+21214,Hughesdale,20089,Avondale Heights,83.77,ok
+21215,Humevale,20089,Avondale Heights,,no_eligible_route
+21218,Huntingdale (Vic.),20089,Avondale Heights,89.2,ok
+21223,Hurstbridge,20089,Avondale Heights,121.25,ok
+21238,Iona,20089,Avondale Heights,,no_eligible_route
+21246,Ivanhoe (Vic.),20089,Avondale Heights,74.53,ok
+21247,Ivanhoe East,20089,Avondale Heights,86.9,ok
+21248,Jacana,20089,Avondale Heights,63.63,ok
+21277,Junction Village,20089,Avondale Heights,166.2,ok
+21284,Kalkallo,20089,Avondale Heights,114.27,ok
+21286,Kallista,20089,Avondale Heights,162.17,ok
+21287,Kalorama,20089,Avondale Heights,144.03,ok
+21294,Kangaroo Ground,20089,Avondale Heights,161.58,ok
+21312,Kealba,20089,Avondale Heights,57.83,ok
+21314,Keilor,20089,Avondale Heights,61.88,ok
+21315,Keilor Downs,20089,Avondale Heights,70.12,ok
+21316,Keilor East,20089,Avondale Heights,22.38,ok
+21317,Keilor Lodge,20089,Avondale Heights,63.57,ok
+21318,Keilor North,20089,Avondale Heights,53.08,ok
+21319,Keilor Park,20089,Avondale Heights,33.67,ok
+21327,Kensington (Vic.),20089,Avondale Heights,40.72,ok
+21333,Kerrie,20089,Avondale Heights,,no_eligible_route
+21336,Kew (Vic.),20089,Avondale Heights,81.65,ok
+21337,Kew East,20089,Avondale Heights,85.68,ok
+21339,Keysborough,20089,Avondale Heights,122.95,ok
+21354,Kilsyth,20089,Avondale Heights,130.77,ok
+21355,Kilsyth South,20089,Avondale Heights,143.4,ok
+21358,Kinglake,20089,Avondale Heights,,no_eligible_route
+21359,Kinglake Central,20089,Avondale Heights,,no_eligible_route
+21360,Kinglake West,20089,Avondale Heights,,no_eligible_route
+21362,Kings Park (Vic.),20089,Avondale Heights,74.72,ok
+21363,Kingsbury,20089,Avondale Heights,92.43,ok
+21365,Kingsville,20089,Avondale Heights,55.92,ok
+21374,Knoxfield,20089,Avondale Heights,124.1,ok
+21380,Koo Wee Rup,20089,Avondale Heights,,no_eligible_route
+21381,Koo Wee Rup North,20089,Avondale Heights,,no_eligible_route
+21393,Kooyong,20089,Avondale Heights,73.4,ok
+21411,Kurunjang,20089,Avondale Heights,127.73,ok
+21452,Lalor,20089,Avondale Heights,85.67,ok
+21456,Lancefield,20089,Avondale Heights,,no_eligible_route
+21459,Lang Lang,20089,Avondale Heights,,no_eligible_route
+21460,Lang Lang East,20089,Avondale Heights,,no_eligible_route
+21467,Langwarrin,20089,Avondale Heights,152.62,ok
+21468,Langwarrin South,20089,Avondale Heights,,no_eligible_route
+21473,Launching Place,20089,Avondale Heights,150.62,ok
+21476,Laverton (Vic.),20089,Avondale Heights,71.57,ok
+21477,Laverton North,20089,Avondale Heights,101.98,ok
+21504,Lilydale (Vic.),20089,Avondale Heights,130.27,ok
+21533,Long Forest,20089,Avondale Heights,,no_eligible_route
+21547,Lower Plenty,20089,Avondale Heights,133.52,ok
+21554,Lynbrook,20089,Avondale Heights,116.98,ok
+21555,Lyndhurst (Vic.),20089,Avondale Heights,178.17,ok
+21558,Lysterfield,20089,Avondale Heights,,no_eligible_route
+21559,Lysterfield South,20089,Avondale Heights,177.7,ok
+21561,Macclesfield (Vic.),20089,Avondale Heights,,no_eligible_route
+21562,Macedon,20089,Avondale Heights,,no_eligible_route
+21564,Macleod (Vic.),20089,Avondale Heights,99.33,ok
+21569,Maddingley,20089,Avondale Heights,,no_eligible_route
+21575,Maidstone,20089,Avondale Heights,21.42,ok
+21578,Main Ridge,20089,Avondale Heights,,no_eligible_route
+21586,Malvern (Vic.),20089,Avondale Heights,87.12,ok
+21587,Malvern East,20089,Avondale Heights,86.0,ok
+21588,Mambourin,20089,Avondale Heights,,no_eligible_route
+21597,Manor Lakes,20089,Avondale Heights,131.5,ok
+21604,Maribyrnong,20089,Avondale Heights,20.35,ok
+21619,Maryknoll,20089,Avondale Heights,,no_eligible_route
+21625,McCrae,20089,Avondale Heights,210.72,ok
+21629,McKinnon,20089,Avondale Heights,79.98,ok
+21635,Meadow Heights,20089,Avondale Heights,70.92,ok
+21640,Melbourne,20089,Avondale Heights,56.58,ok
+21641,Melbourne Airport,20089,Avondale Heights,170.88,walk_only
+21642,Melton (Vic.),20089,Avondale Heights,135.92,ok
+21643,Melton South,20089,Avondale Heights,141.78,ok
+21644,Melton West,20089,Avondale Heights,123.92,ok
+21648,Mentone,20089,Avondale Heights,99.17,ok
+21649,Menzies Creek,20089,Avondale Heights,,no_eligible_route
+21659,Mernda,20089,Avondale Heights,116.53,ok
+21662,Merricks,20089,Avondale Heights,,no_eligible_route
+21663,Merricks Beach,20089,Avondale Heights,,no_eligible_route
+21664,Merricks North,20089,Avondale Heights,,no_eligible_route
+21668,Merrimu,20089,Avondale Heights,,no_eligible_route
+21675,Mickleham,20089,Avondale Heights,103.65,ok
+21677,Middle Park (Vic.),20089,Avondale Heights,68.92,ok
+21683,Mill Park,20089,Avondale Heights,106.75,ok
+21685,Millgrove,20089,Avondale Heights,,no_eligible_route
+21706,Mitcham (Vic.),20089,Avondale Heights,99.37,ok
+21727,Monbulk,20089,Avondale Heights,169.62,ok
+21728,Monegeetta,20089,Avondale Heights,,no_eligible_route
+21731,Monomeith,20089,Avondale Heights,,no_eligible_route
+21732,Mont Albert,20089,Avondale Heights,89.53,ok
+21733,Mont Albert North,20089,Avondale Heights,96.32,ok
+21735,Montmorency,20089,Avondale Heights,105.9,ok
+21736,Montrose (Vic.),20089,Avondale Heights,128.45,ok
+21742,Moonee Ponds,20089,Avondale Heights,36.57,ok
+21746,Moorabbin,20089,Avondale Heights,105.93,ok
+21747,Moorabbin Airport,20089,Avondale Heights,122.67,ok
+21754,Moorooduc,20089,Avondale Heights,,no_eligible_route
+21755,Mooroolbark,20089,Avondale Heights,123.08,ok
+21760,Mordialloc,20089,Avondale Heights,114.47,ok
+21763,Mornington (Vic.),20089,Avondale Heights,174.02,ok
+21779,Mount Burnett,20089,Avondale Heights,,no_eligible_route
+21786,Mount Cottrell,20089,Avondale Heights,,no_eligible_route
+21787,Mount Dandenong,20089,Avondale Heights,148.03,ok
+21793,Mount Eliza,20089,Avondale Heights,152.2,ok
+21795,Mount Evelyn,20089,Avondale Heights,150.83,ok
+21801,Mount Macedon,20089,Avondale Heights,,no_eligible_route
+21803,Mount Martha,20089,Avondale Heights,179.23,ok
+21814,Mount Toolebewong,20089,Avondale Heights,,no_eligible_route
+21816,Mount Waverley,20089,Avondale Heights,91.07,ok
+21827,Mulgrave (Vic.),20089,Avondale Heights,117.5,ok
+21849,Murrumbeena,20089,Avondale Heights,83.88,ok
+21872,Nangana,20089,Avondale Heights,,no_eligible_route
+21878,Nar Nar Goon,20089,Avondale Heights,,no_eligible_route
+21879,Nar Nar Goon North,20089,Avondale Heights,,no_eligible_route
+21893,Narre Warren,20089,Avondale Heights,123.17,ok
+21894,Narre Warren East,20089,Avondale Heights,,no_eligible_route
+21895,Narre Warren North,20089,Avondale Heights,144.98,ok
+21896,Narre Warren South,20089,Avondale Heights,133.53,ok
+21921,New Gisborne,20089,Avondale Heights,,no_eligible_route
+21934,Newport (Vic.),20089,Avondale Heights,56.42,ok
+21942,Niddrie,20089,Avondale Heights,42.7,ok
+21952,Noble Park,20089,Avondale Heights,95.98,ok
+21953,Noble Park North,20089,Avondale Heights,129.17,ok
+21966,North Melbourne,20089,Avondale Heights,39.98,ok
+21969,North Warrandyte,20089,Avondale Heights,133.97,ok
+21971,Northcote,20089,Avondale Heights,76.9,ok
+21974,Notting Hill,20089,Avondale Heights,103.62,ok
+21985,Nunawading,20089,Avondale Heights,91.85,ok
+21991,Nutfield,20089,Avondale Heights,,no_eligible_route
+21998,Oak Park,20089,Avondale Heights,51.3,ok
+21999,Oaklands Junction,20089,Avondale Heights,,no_eligible_route
+22000,Oakleigh,20089,Avondale Heights,86.43,ok
+22001,Oakleigh East,20089,Avondale Heights,99.77,ok
+22002,Oakleigh South,20089,Avondale Heights,96.58,ok
+22006,Officer,20089,Avondale Heights,137.27,ok
+22007,Officer South,20089,Avondale Heights,171.83,ok
+22009,Olinda (Vic.),20089,Avondale Heights,160.05,ok
+22016,Ormond,20089,Avondale Heights,80.42,ok
+22027,Pakenham,20089,Avondale Heights,136.32,ok
+22028,Pakenham South,20089,Avondale Heights,,no_eligible_route
+22029,Pakenham Upper,20089,Avondale Heights,,no_eligible_route
+22032,Panton Hill,20089,Avondale Heights,,no_eligible_route
+22036,Park Orchards,20089,Avondale Heights,112.83,ok
+22037,Parkdale,20089,Avondale Heights,104.25,ok
+22038,Parkville (Vic.),20089,Avondale Heights,49.5,ok
+22041,Pascoe Vale,20089,Avondale Heights,56.67,ok
+22042,Pascoe Vale South,20089,Avondale Heights,40.93,ok
+22047,Patterson Lakes,20089,Avondale Heights,126.55,ok
+22050,Pearcedale,20089,Avondale Heights,182.13,ok
+22058,Pentland Hills,20089,Avondale Heights,,no_eligible_route
+22064,Pheasant Creek (Vic.),20089,Avondale Heights,,no_eligible_route
+22084,Plenty (Vic.),20089,Avondale Heights,129.83,ok
+22085,Plumpton (Vic.),20089,Avondale Heights,,no_eligible_route
+22086,Point Cook,20089,Avondale Heights,90.8,ok
+22087,Point Leo,20089,Avondale Heights,,no_eligible_route
+22107,Port Melbourne,20089,Avondale Heights,64.42,ok
+22113,Portsea,20089,Avondale Heights,,no_eligible_route
+22115,Powelltown,20089,Avondale Heights,,no_eligible_route
+22118,Prahran,20089,Avondale Heights,78.98,ok
+22121,Preston (Vic.),20089,Avondale Heights,63.33,ok
+22122,Princes Hill,20089,Avondale Heights,64.8,ok
+22132,Quandong,20089,Avondale Heights,,no_eligible_route
+22141,Ravenhall,20089,Avondale Heights,81.6,ok
+22148,Red Hill (Vic.),20089,Avondale Heights,,no_eligible_route
+22149,Red Hill South,20089,Avondale Heights,,no_eligible_route
+22160,Research,20089,Avondale Heights,127.83,ok
+22161,Reservoir (Vic.),20089,Avondale Heights,81.85,ok
+22170,Richmond (Vic.),20089,Avondale Heights,71.52,ok
+22172,Riddells Creek,20089,Avondale Heights,,no_eligible_route
+22174,Ringwood (Vic.),20089,Avondale Heights,106.0,ok
+22175,Ringwood East,20089,Avondale Heights,104.55,ok
+22176,Ringwood North,20089,Avondale Heights,118.18,ok
+22179,Ripponlea,20089,Avondale Heights,73.38,ok
+22185,Rochford,20089,Avondale Heights,,no_eligible_route
+22186,Rockbank,20089,Avondale Heights,106.75,ok
+22193,Romsey,20089,Avondale Heights,,no_eligible_route
+22194,Rosanna,20089,Avondale Heights,87.98,ok
+22198,Rosebud,20089,Avondale Heights,228.03,ok
+22207,Rowville,20089,Avondale Heights,132.78,ok
+22208,Roxburgh Park,20089,Avondale Heights,71.92,ok
+22220,Rye,20089,Avondale Heights,240.23,ok
+22221,Rythdale,20089,Avondale Heights,,no_eligible_route
+22222,Safety Beach (Vic.),20089,Avondale Heights,195.2,ok
+22232,Sandhurst,20089,Avondale Heights,154.88,ok
+22234,Sandringham (Vic.),20089,Avondale Heights,100.82,ok
+22239,Sassafras (Vic.),20089,Avondale Heights,141.5,ok
+22242,Scoresby,20089,Avondale Heights,120.75,ok
+22247,Seabrook,20089,Avondale Heights,82.38,ok
+22249,Seaford (Vic.),20089,Avondale Heights,129.78,ok
+22250,Seaholme,20089,Avondale Heights,65.65,ok
+22256,Seddon (Vic.),20089,Avondale Heights,44.5,ok
+22258,Selby,20089,Avondale Heights,160.05,ok
+22263,Seville,20089,Avondale Heights,161.78,ok
+22264,Seville East,20089,Avondale Heights,148.67,ok
+22278,Sherbrooke,20089,Avondale Heights,152.23,ok
+22279,Shoreham,20089,Avondale Heights,,no_eligible_route
+22281,Silvan,20089,Avondale Heights,161.72,ok
+22291,Skye (Vic.),20089,Avondale Heights,158.07,ok
+22295,Smiths Gully,20089,Avondale Heights,,no_eligible_route
+22303,Somers,20089,Avondale Heights,,no_eligible_route
+22304,Somerton (Vic.),20089,Avondale Heights,80.37,ok
+22305,Somerville (Vic.),20089,Avondale Heights,177.78,ok
+22306,Sorrento (Vic.),20089,Avondale Heights,231.0,ok
+22309,South Kingsville,20089,Avondale Heights,73.12,ok
+22310,South Melbourne,20089,Avondale Heights,61.73,ok
+22311,South Morang,20089,Avondale Heights,113.37,ok
+22313,South Wharf,20089,Avondale Heights,60.52,ok
+22314,South Yarra,20089,Avondale Heights,64.15,ok
+22315,Southbank,20089,Avondale Heights,67.4,ok
+22319,Spotswood,20089,Avondale Heights,49.82,ok
+22325,Springfield (Macedon Ranges - Vic.),20089,Avondale Heights,,no_eligible_route
+22328,Springvale (Vic.),20089,Avondale Heights,96.95,ok
+22329,Springvale South,20089,Avondale Heights,98.68,ok
+22330,St Albans (Vic.),20089,Avondale Heights,54.65,ok
+22332,St Andrews (Vic.),20089,Avondale Heights,,no_eligible_route
+22333,St Andrews Beach,20089,Avondale Heights,,no_eligible_route
+22339,St Helena,20089,Avondale Heights,111.08,ok
+22343,St Kilda (Vic.),20089,Avondale Heights,74.97,ok
+22344,St Kilda East,20089,Avondale Heights,84.57,ok
+22345,St Kilda West,20089,Avondale Heights,71.25,ok
+22355,Steels Creek,20089,Avondale Heights,,no_eligible_route
+22375,Strathewen,20089,Avondale Heights,,no_eligible_route
+22380,Strathmore (Vic.),20089,Avondale Heights,49.77,ok
+22381,Strathmore Heights,20089,Avondale Heights,46.93,ok
+22382,Strathtulloh,20089,Avondale Heights,195.67,ok
+22391,Sunbury,20089,Avondale Heights,124.28,ok
+22395,Sunshine (Vic.),20089,Avondale Heights,40.73,ok
+22396,Sunshine North,20089,Avondale Heights,38.7,ok
+22397,Sunshine West,20089,Avondale Heights,62.63,ok
+22399,Surrey Hills,20089,Avondale Heights,89.95,ok
+22414,Sydenham (Vic.),20089,Avondale Heights,69.5,ok
+22451,Tarneit,20089,Avondale Heights,109.42,ok
+22457,Tarrawarra,20089,Avondale Heights,168.08,ok
+22473,Taylors Hill,20089,Avondale Heights,76.23,ok
+22474,Taylors Lakes,20089,Avondale Heights,50.25,ok
+22476,Tecoma,20089,Avondale Heights,124.45,ok
+22483,Templestowe,20089,Avondale Heights,93.73,ok
+22484,Templestowe Lower,20089,Avondale Heights,104.7,ok
+22496,The Basin (Vic.),20089,Avondale Heights,132.63,ok
+22501,The Patch,20089,Avondale Heights,160.18,ok
+22504,Thomastown,20089,Avondale Heights,97.27,ok
+22508,Thornbury,20089,Avondale Heights,62.83,ok
+22509,Thornhill Park,20089,Avondale Heights,,no_eligible_route
+22514,Three Bridges,20089,Avondale Heights,,no_eligible_route
+22531,Tonimbuk,20089,Avondale Heights,,no_eligible_route
+22536,Toolangi,20089,Avondale Heights,,no_eligible_route
+22537,Toolern Vale,20089,Avondale Heights,,no_eligible_route
+22546,Tooradin,20089,Avondale Heights,,no_eligible_route
+22547,Toorak,20089,Avondale Heights,82.58,ok
+22550,Tootgarook,20089,Avondale Heights,223.65,ok
+22556,Tottenham (Vic.),20089,Avondale Heights,64.83,ok
+22572,Travancore,20089,Avondale Heights,45.28,ok
+22576,Tremont,20089,Avondale Heights,137.63,ok
+22582,Truganina,20089,Avondale Heights,157.02,ok
+22584,Tuerong,20089,Avondale Heights,,no_eligible_route
+22586,Tullamarine,20089,Avondale Heights,51.92,ok
+22594,Tyabb,20089,Avondale Heights,166.65,ok
+22598,Tynong,20089,Avondale Heights,,no_eligible_route
+22599,Tynong North,20089,Avondale Heights,,no_eligible_route
+22614,Upper Ferntree Gully,20089,Avondale Heights,121.6,ok
+22617,Upper Plenty,20089,Avondale Heights,,no_eligible_route
+22620,Upwey,20089,Avondale Heights,124.32,ok
+22627,Vermont,20089,Avondale Heights,108.67,ok
+22628,Vermont South,20089,Avondale Heights,115.3,ok
+22629,Vervale,20089,Avondale Heights,,no_eligible_route
+22633,Viewbank,20089,Avondale Heights,102.8,ok
+22661,Wallan,20089,Avondale Heights,,no_eligible_route
+22672,Wandin East,20089,Avondale Heights,,no_eligible_route
+22673,Wandin North,20089,Avondale Heights,134.75,ok
+22676,Wandong,20089,Avondale Heights,,no_eligible_route
+22685,Wantirna,20089,Avondale Heights,121.6,ok
+22686,Wantirna South,20089,Avondale Heights,124.05,ok
+22689,Warburton (Vic.),20089,Avondale Heights,,no_eligible_route
+22695,Warneet,20089,Avondale Heights,,no_eligible_route
+22702,Warrandyte,20089,Avondale Heights,109.52,ok
+22703,Warrandyte South,20089,Avondale Heights,149.98,ok
+22704,Warranwood,20089,Avondale Heights,127.65,ok
+22717,Waterford Park,20089,Avondale Heights,,no_eligible_route
+22720,Waterways,20089,Avondale Heights,127.12,ok
+22721,Watsonia,20089,Avondale Heights,94.25,ok
+22722,Watsonia North,20089,Avondale Heights,102.63,ok
+22723,Watsons Creek (Vic.),20089,Avondale Heights,,no_eligible_route
+22727,Wattle Glen,20089,Avondale Heights,125.0,ok
+22740,Weir Views,20089,Avondale Heights,164.87,ok
+22750,Werribee,20089,Avondale Heights,92.6,ok
+22751,Werribee South,20089,Avondale Heights,123.62,ok
+22753,Wesburn,20089,Avondale Heights,166.72,ok
+22756,West Footscray,20089,Avondale Heights,59.45,ok
+22757,West Melbourne,20089,Avondale Heights,65.83,ok
+22761,Westmeadows,20089,Avondale Heights,70.43,ok
+22766,Wheelers Hill,20089,Avondale Heights,112.18,ok
+22775,Whittlesea,20089,Avondale Heights,,no_eligible_route
+22784,Wildwood,20089,Avondale Heights,,no_eligible_route
+22791,Williams Landing,20089,Avondale Heights,85.82,ok
+22792,Williamstown (Vic.),20089,Avondale Heights,63.63,ok
+22793,Williamstown North,20089,Avondale Heights,78.17,ok
+22805,Windsor (Vic.),20089,Avondale Heights,70.65,ok
+22820,Wollert,20089,Avondale Heights,98.28,ok
+22825,Wonga Park,20089,Avondale Heights,136.5,ok
+22843,Woodstock (Vic.),20089,Avondale Heights,,no_eligible_route
+22857,Woori Yallock,20089,Avondale Heights,145.87,ok
+22883,Wyndham Vale,20089,Avondale Heights,116.42,ok
+22892,Yallambie,20089,Avondale Heights,116.53,ok
+22898,Yan Yean,20089,Avondale Heights,153.92,ok
+22906,Yannathan,20089,Avondale Heights,,no_eligible_route
+22910,Yarra Glen,20089,Avondale Heights,165.38,ok
+22911,Yarra Junction,20089,Avondale Heights,170.98,ok
+22916,Yarrambat,20089,Avondale Heights,126.4,ok
+22917,Yarraville,20089,Avondale Heights,55.48,ok
+22925,Yellingbo,20089,Avondale Heights,,no_eligible_route
+22930,Yering,20089,Avondale Heights,,no_eligible_route
+22941,Yuroke,20089,Avondale Heights,129.98,ok

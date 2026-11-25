@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20917,Ferntree Gully,93.27,ok
+20003,Aberfeldie,20917,Ferntree Gully,115.57,ok
+20011,Aintree,20917,Ferntree Gully,153.5,ok
+20015,Airport West,20917,Ferntree Gully,136.67,ok
+20017,Albanvale,20917,Ferntree Gully,128.97,ok
+20018,Albert Park (Vic.),20917,Ferntree Gully,99.13,ok
+20021,Albion (Vic.),20917,Ferntree Gully,110.37,ok
+20034,Alphington,20917,Ferntree Gully,99.18,ok
+20035,Altona (Vic.),20917,Ferntree Gully,122.27,ok
+20036,Altona Meadows,20917,Ferntree Gully,130.42,ok
+20037,Altona North,20917,Ferntree Gully,124.67,ok
+20062,Ardeer,20917,Ferntree Gully,123.52,ok
+20066,Armadale (Vic.),20917,Ferntree Gully,82.35,ok
+20071,Arthurs Creek,20917,Ferntree Gully,,no_eligible_route
+20072,Arthurs Seat,20917,Ferntree Gully,,no_eligible_route
+20075,Ascot Vale,20917,Ferntree Gully,107.4,ok
+20077,Ashburton,20917,Ferntree Gully,72.88,ok
+20078,Ashwood,20917,Ferntree Gully,68.78,ok
+20079,Aspendale,20917,Ferntree Gully,107.87,ok
+20080,Aspendale Gardens,20917,Ferntree Gully,93.62,ok
+20082,Attwood,20917,Ferntree Gully,152.38,ok
+20089,Avondale Heights,20917,Ferntree Gully,125.9,ok
+20091,Avonsleigh,20917,Ferntree Gully,89.6,ok
+20095,Bacchus Marsh,20917,Ferntree Gully,,no_eligible_route
+20097,Badger Creek,20917,Ferntree Gully,,no_eligible_route
+20105,Balaclava (Vic.),20917,Ferntree Gully,85.15,ok
+20120,Balnarring,20917,Ferntree Gully,,no_eligible_route
+20121,Balnarring Beach,20917,Ferntree Gully,,no_eligible_route
+20123,Balwyn,20917,Ferntree Gully,68.15,ok
+20124,Balwyn North,20917,Ferntree Gully,72.12,ok
+20131,Bangholme,20917,Ferntree Gully,,no_eligible_route
+20169,Baxter,20917,Ferntree Gully,145.88,ok
+20171,Bayles,20917,Ferntree Gully,,no_eligible_route
+20173,Bayswater (Vic.),20917,Ferntree Gully,36.65,ok
+20174,Bayswater North,20917,Ferntree Gully,41.83,ok
+20175,Beaconsfield (Vic.),20917,Ferntree Gully,115.32,ok
+20176,Beaconsfield Upper,20917,Ferntree Gully,,no_eligible_route
+20182,Beaumaris (Vic.),20917,Ferntree Gully,105.75,ok
+20187,Beenak,20917,Ferntree Gully,,no_eligible_route
+20188,Belgrave,20917,Ferntree Gully,27.85,ok
+20189,Belgrave Heights,20917,Ferntree Gully,64.57,ok
+20190,Belgrave South,20917,Ferntree Gully,71.4,ok
+20198,Bellfield (Banyule - Vic.),20917,Ferntree Gully,112.08,ok
+20207,Bend Of Islands,20917,Ferntree Gully,,no_eligible_route
+20212,Benloch,20917,Ferntree Gully,,no_eligible_route
+20214,Bentleigh,20917,Ferntree Gully,86.65,ok
+20215,Bentleigh East,20917,Ferntree Gully,74.0,ok
+20224,Berwick,20917,Ferntree Gully,79.12,ok
+20233,Beveridge,20917,Ferntree Gully,182.93,ok
+20237,Big Pats Creek,20917,Ferntree Gully,,no_eligible_route
+20248,Bittern,20917,Ferntree Gully,163.87,ok
+20251,Black Rock (Vic.),20917,Ferntree Gully,111.55,ok
+20252,Blackburn,20917,Ferntree Gully,38.98,ok
+20253,Blackburn North,20917,Ferntree Gully,64.13,ok
+20254,Blackburn South,20917,Ferntree Gully,62.02,ok
+20257,Blairgowrie,20917,Ferntree Gully,205.17,ok
+20260,Blind Bight,20917,Ferntree Gully,,no_eligible_route
+20272,Bolinda,20917,Ferntree Gully,,no_eligible_route
+20278,Bonbeach,20917,Ferntree Gully,105.87,ok
+20280,Boneo,20917,Ferntree Gully,,no_eligible_route
+20282,Bonnie Brook,20917,Ferntree Gully,186.05,ok
+20304,Boronia,20917,Ferntree Gully,22.28,ok
+20307,Botanic Ridge,20917,Ferntree Gully,128.98,ok
+20314,Box Hill (Vic.),20917,Ferntree Gully,46.45,ok
+20315,Box Hill North,20917,Ferntree Gully,65.87,ok
+20316,Box Hill South,20917,Ferntree Gully,48.62,ok
+20320,Braeside,20917,Ferntree Gully,100.47,ok
+20324,Braybrook,20917,Ferntree Gully,122.22,ok
+20331,Briar Hill,20917,Ferntree Gully,100.77,ok
+20337,Brighton (Vic.),20917,Ferntree Gully,95.4,ok
+20338,Brighton East,20917,Ferntree Gully,91.43,ok
+20346,Broadmeadows (Vic.),20917,Ferntree Gully,128.3,ok
+20351,Brookfield (Vic.),20917,Ferntree Gully,,no_eligible_route
+20352,Brooklyn (Vic.),20917,Ferntree Gully,121.78,ok
+20361,Brunswick (Vic.),20917,Ferntree Gully,92.12,ok
+20362,Brunswick East,20917,Ferntree Gully,110.2,ok
+20363,Brunswick West,20917,Ferntree Gully,109.3,ok
+20381,Bulla (Vic.),20917,Ferntree Gully,,no_eligible_route
+20386,Bulleen,20917,Ferntree Gully,91.02,ok
+20387,Bullengarook,20917,Ferntree Gully,,no_eligible_route
+20399,Bundoora (Vic.),20917,Ferntree Gully,118.23,ok
+20411,Bunyip,20917,Ferntree Gully,,no_eligible_route
+20412,Bunyip North,20917,Ferntree Gully,,no_eligible_route
+20418,Burnley,20917,Ferntree Gully,83.05,ok
+20419,Burnside (Vic.),20917,Ferntree Gully,132.4,ok
+20420,Burnside Heights,20917,Ferntree Gully,140.22,ok
+20426,Burwood (Vic.),20917,Ferntree Gully,52.6,ok
+20427,Burwood East,20917,Ferntree Gully,45.77,ok
+20435,Bylands,20917,Ferntree Gully,,no_eligible_route
+20441,Cairnlea,20917,Ferntree Gully,127.38,ok
+20442,Calder Park,20917,Ferntree Gully,144.15,ok
+20443,Caldermeade,20917,Ferntree Gully,,no_eligible_route
+20453,Camberwell (Vic.),20917,Ferntree Gully,70.4,ok
+20455,Campbellfield,20917,Ferntree Gully,141.67,ok
+20466,Cannons Creek,20917,Ferntree Gully,,no_eligible_route
+20468,Canterbury (Vic.),20917,Ferntree Gully,53.43,ok
+20474,Cape Schanck,20917,Ferntree Gully,,no_eligible_route
+20476,Capel Sound,20917,Ferntree Gully,190.52,ok
+20487,Cardinia,20917,Ferntree Gully,,no_eligible_route
+20495,Carlton (Vic.),20917,Ferntree Gully,93.58,ok
+20496,Carlton North,20917,Ferntree Gully,106.97,ok
+20498,Carnegie,20917,Ferntree Gully,70.88,ok
+20500,Caroline Springs,20917,Ferntree Gully,144.33,ok
+20507,Carrum,20917,Ferntree Gully,105.68,ok
+20508,Carrum Downs,20917,Ferntree Gully,83.92,ok
+20512,Castella,20917,Ferntree Gully,,no_eligible_route
+20517,Catani,20917,Ferntree Gully,,no_eligible_route
+20521,Caulfield,20917,Ferntree Gully,88.5,ok
+20522,Caulfield East,20917,Ferntree Gully,70.58,ok
+20523,Caulfield North,20917,Ferntree Gully,73.6,ok
+20524,Caulfield South,20917,Ferntree Gully,83.88,ok
+20528,Chadstone,20917,Ferntree Gully,66.5,ok
+20537,Chelsea,20917,Ferntree Gully,90.98,ok
+20538,Chelsea Heights,20917,Ferntree Gully,98.62,ok
+20539,Cheltenham (Vic.),20917,Ferntree Gully,90.25,ok
+20541,Cherokee,20917,Ferntree Gully,,no_eligible_route
+20555,Chintin,20917,Ferntree Gully,,no_eligible_route
+20556,Chirnside Park,20917,Ferntree Gully,96.9,ok
+20559,Christmas Hills (Vic.),20917,Ferntree Gully,,no_eligible_route
+20560,Chum Creek,20917,Ferntree Gully,,no_eligible_route
+20566,Clarinda,20917,Ferntree Gully,81.45,ok
+20567,Clarkefield,20917,Ferntree Gully,,no_eligible_route
+20569,Clayton,20917,Ferntree Gully,62.28,ok
+20570,Clayton South,20917,Ferntree Gully,87.47,ok
+20572,Clematis,20917,Ferntree Gully,50.02,ok
+20574,Clifton Hill,20917,Ferntree Gully,86.18,ok
+20576,Clonbinane,20917,Ferntree Gully,,no_eligible_route
+20581,Clyde (Vic.),20917,Ferntree Gully,,no_eligible_route
+20582,Clyde North,20917,Ferntree Gully,114.27,ok
+20587,Cobaw,20917,Ferntree Gully,,no_eligible_route
+20590,Cobblebank,20917,Ferntree Gully,204.2,ok
+20596,Coburg,20917,Ferntree Gully,101.42,ok
+20597,Coburg North,20917,Ferntree Gully,124.22,ok
+20600,Cockatoo (Vic.),20917,Ferntree Gully,93.28,ok
+20601,Cocoroc,20917,Ferntree Gully,,no_eligible_route
+20605,Coimadai,20917,Ferntree Gully,,no_eligible_route
+20613,Coldstream (Vic.),20917,Ferntree Gully,,no_eligible_route
+20616,Collingwood (Vic.),20917,Ferntree Gully,88.5,ok
+20624,Coolaroo,20917,Ferntree Gully,131.88,ok
+20633,Cora Lynn,20917,Ferntree Gully,,no_eligible_route
+20654,Cottles Bridge,20917,Ferntree Gully,,no_eligible_route
+20661,Craigieburn,20917,Ferntree Gully,151.42,ok
+20662,Cranbourne,20917,Ferntree Gully,93.98,ok
+20663,Cranbourne East,20917,Ferntree Gully,101.53,ok
+20664,Cranbourne North,20917,Ferntree Gully,87.78,ok
+20665,Cranbourne South,20917,Ferntree Gully,132.33,ok
+20666,Cranbourne West,20917,Ferntree Gully,107.28,ok
+20670,Cremorne (Vic.),20917,Ferntree Gully,69.6,ok
+20674,Crib Point,20917,Ferntree Gully,172.83,ok
+20682,Croydon (Vic.),20917,Ferntree Gully,50.1,ok
+20683,Croydon Hills,20917,Ferntree Gully,68.1,ok
+20684,Croydon North,20917,Ferntree Gully,82.52,ok
+20685,Croydon South,20917,Ferntree Gully,63.58,ok
+20702,Dallas,20917,Ferntree Gully,134.02,ok
+20703,Dalmore,20917,Ferntree Gully,,no_eligible_route
+20707,Dandenong,20917,Ferntree Gully,55.43,ok
+20708,Dandenong North,20917,Ferntree Gully,59.85,ok
+20709,Dandenong South,20917,Ferntree Gully,85.08,ok
+20712,Darley,20917,Ferntree Gully,,no_eligible_route
+20716,Darraweit Guim,20917,Ferntree Gully,,no_eligible_route
+20724,Deanside,20917,Ferntree Gully,167.52,ok
+20728,Deepdene (Vic.),20917,Ferntree Gully,75.05,ok
+20729,Deer Park,20917,Ferntree Gully,121.35,ok
+20731,Delahey,20917,Ferntree Gully,138.02,ok
+20743,Derrimut,20917,Ferntree Gully,143.23,ok
+20748,Devon Meadows,20917,Ferntree Gully,,no_eligible_route
+20750,Dewhurst,20917,Ferntree Gully,,no_eligible_route
+20752,Diamond Creek,20917,Ferntree Gully,118.5,ok
+20754,Diggers Rest,20917,Ferntree Gully,152.47,ok
+20758,Dingley Village,20917,Ferntree Gully,77.3,ok
+20762,Dixons Creek,20917,Ferntree Gully,,no_eligible_route
+20766,Docklands,20917,Ferntree Gully,93.72,ok
+20769,Don Valley,20917,Ferntree Gully,,no_eligible_route
+20771,Doncaster,20917,Ferntree Gully,68.67,ok
+20772,Doncaster East,20917,Ferntree Gully,78.63,ok
+20773,Donnybrook (Vic.),20917,Ferntree Gully,181.47,ok
+20774,Donvale,20917,Ferntree Gully,74.37,ok
+20779,Doreen,20917,Ferntree Gully,171.85,ok
+20783,Doveton,20917,Ferntree Gully,67.22,ok
+20788,Dromana,20917,Ferntree Gully,,no_eligible_route
+20825,Eaglemont,20917,Ferntree Gully,97.78,ok
+20830,East Melbourne,20917,Ferntree Gully,79.47,ok
+20833,East Warburton,20917,Ferntree Gully,,no_eligible_route
+20843,Eden Park,20917,Ferntree Gully,,no_eligible_route
+20848,Edithvale,20917,Ferntree Gully,81.47,ok
+20864,Elsternwick,20917,Ferntree Gully,91.67,ok
+20865,Eltham (Vic.),20917,Ferntree Gully,100.73,ok
+20866,Eltham North,20917,Ferntree Gully,119.62,ok
+20867,Elwood,20917,Ferntree Gully,102.15,ok
+20868,Emerald (Vic.),20917,Ferntree Gully,88.2,ok
+20871,Endeavour Hills,20917,Ferntree Gully,88.7,ok
+20878,Epping (Vic.),20917,Ferntree Gully,154.03,ok
+20885,Essendon,20917,Ferntree Gully,113.32,ok
+20886,Essendon Fields,20917,Ferntree Gully,139.72,ok
+20887,Essendon North,20917,Ferntree Gully,120.72,ok
+20888,Essendon West,20917,Ferntree Gully,118.18,ok
+20889,Eumemmerring,20917,Ferntree Gully,75.72,ok
+20898,Exford,20917,Ferntree Gully,,no_eligible_route
+20899,Eynesbury,20917,Ferntree Gully,,no_eligible_route
+20901,Fairfield (Vic.),20917,Ferntree Gully,103.62,ok
+20909,Fawkner,20917,Ferntree Gully,134.12,ok
+20916,Fernshaw,20917,Ferntree Gully,,no_eligible_route
+20917,Ferntree Gully,20917,Ferntree Gully,0.0,same_centroid
+20918,Ferny Creek,20917,Ferntree Gully,61.03,ok
+20920,Fingal (Vic.),20917,Ferntree Gully,,no_eligible_route
+20924,Fitzroy (Vic.),20917,Ferntree Gully,92.8,ok
+20925,Fitzroy North,20917,Ferntree Gully,100.4,ok
+20929,Flemington,20917,Ferntree Gully,104.93,ok
+20930,Flinders (Vic.),20917,Ferntree Gully,,no_eligible_route
+20935,Footscray,20917,Ferntree Gully,94.03,ok
+20937,Forest Hill (Vic.),20917,Ferntree Gully,53.93,ok
+20947,Frankston,20917,Ferntree Gully,109.65,ok
+20948,Frankston North,20917,Ferntree Gully,110.95,ok
+20949,Frankston South,20917,Ferntree Gully,157.25,ok
+20950,Fraser Rise,20917,Ferntree Gully,154.9,ok
+20965,Gardenvale,20917,Ferntree Gully,90.88,ok
+20966,Garfield,20917,Ferntree Gully,,no_eligible_route
+20967,Garfield North,20917,Ferntree Gully,,no_eligible_route
+20979,Gembrook,20917,Ferntree Gully,,no_eligible_route
+20995,Gilderoy,20917,Ferntree Gully,,no_eligible_route
+21001,Gisborne,20917,Ferntree Gully,,no_eligible_route
+21002,Gisborne South,20917,Ferntree Gully,,no_eligible_route
+21004,Gladstone Park,20917,Ferntree Gully,145.22,ok
+21005,Gladysdale,20917,Ferntree Gully,,no_eligible_route
+21009,Glen Huntly,20917,Ferntree Gully,78.18,ok
+21010,Glen Iris (Vic.),20917,Ferntree Gully,80.38,ok
+21013,Glen Waverley,20917,Ferntree Gully,45.87,ok
+21047,Glenroy (Vic.),20917,Ferntree Gully,125.87,ok
+21059,Goldie,20917,Ferntree Gully,,no_eligible_route
+21079,Gowanbrae,20917,Ferntree Gully,141.67,ok
+21087,Grangefields,20917,Ferntree Gully,190.5,ok
+21104,Greensborough,20917,Ferntree Gully,104.12,ok
+21105,Greenvale (Vic.),20917,Ferntree Gully,149.55,ok
+21115,Gruyere,20917,Ferntree Gully,,no_eligible_route
+21121,Guys Hill,20917,Ferntree Gully,,no_eligible_route
+21124,Hadfield,20917,Ferntree Gully,136.15,ok
+21125,Hallam,20917,Ferntree Gully,90.8,ok
+21131,Hampton (Vic.),20917,Ferntree Gully,106.73,ok
+21132,Hampton East,20917,Ferntree Gully,92.95,ok
+21133,Hampton Park,20917,Ferntree Gully,93.78,ok
+21139,Harkaway,20917,Ferntree Gully,,no_eligible_route
+21140,Harkness,20917,Ferntree Gully,,no_eligible_route
+21145,Hastings (Vic.),20917,Ferntree Gully,165.4,ok
+21152,Hawthorn (Vic.),20917,Ferntree Gully,73.02,ok
+21153,Hawthorn East,20917,Ferntree Gully,62.65,ok
+21158,Healesville,20917,Ferntree Gully,,no_eligible_route
+21159,Heath Hill,20917,Ferntree Gully,,no_eligible_route
+21161,Heathcote Junction,20917,Ferntree Gully,,no_eligible_route
+21163,Heatherton,20917,Ferntree Gully,88.47,ok
+21165,Heathmont,20917,Ferntree Gully,35.68,ok
+21167,Heidelberg,20917,Ferntree Gully,95.58,ok
+21168,Heidelberg Heights,20917,Ferntree Gully,107.85,ok
+21169,Heidelberg West,20917,Ferntree Gully,111.72,ok
+21176,Hesket,20917,Ferntree Gully,,no_eligible_route
+21185,Highett,20917,Ferntree Gully,86.18,ok
+21193,Hillside (Melton - Vic.),20917,Ferntree Gully,139.45,ok
+21195,Hmas Cerberus,20917,Ferntree Gully,,no_eligible_route
+21196,Hoddles Creek,20917,Ferntree Gully,,no_eligible_route
+21202,Hopetoun Park,20917,Ferntree Gully,,no_eligible_route
+21203,Hoppers Crossing,20917,Ferntree Gully,127.1,ok
+21214,Hughesdale,20917,Ferntree Gully,56.07,ok
+21215,Humevale,20917,Ferntree Gully,,no_eligible_route
+21218,Huntingdale (Vic.),20917,Ferntree Gully,58.57,ok
+21223,Hurstbridge,20917,Ferntree Gully,119.05,ok
+21238,Iona,20917,Ferntree Gully,,no_eligible_route
+21246,Ivanhoe (Vic.),20917,Ferntree Gully,102.73,ok
+21247,Ivanhoe East,20917,Ferntree Gully,100.2,ok
+21248,Jacana,20917,Ferntree Gully,130.43,ok
+21277,Junction Village,20917,Ferntree Gully,136.98,ok
+21284,Kalkallo,20917,Ferntree Gully,174.47,ok
+21286,Kallista,20917,Ferntree Gully,72.47,ok
+21287,Kalorama,20917,Ferntree Gully,57.28,ok
+21294,Kangaroo Ground,20917,Ferntree Gully,131.02,ok
+21312,Kealba,20917,Ferntree Gully,124.73,ok
+21314,Keilor,20917,Ferntree Gully,162.68,ok
+21315,Keilor Downs,20917,Ferntree Gully,136.4,ok
+21316,Keilor East,20917,Ferntree Gully,127.53,ok
+21317,Keilor Lodge,20917,Ferntree Gully,133.33,ok
+21318,Keilor North,20917,Ferntree Gully,139.4,ok
+21319,Keilor Park,20917,Ferntree Gully,140.47,ok
+21327,Kensington (Vic.),20917,Ferntree Gully,97.72,ok
+21333,Kerrie,20917,Ferntree Gully,,no_eligible_route
+21336,Kew (Vic.),20917,Ferntree Gully,86.47,ok
+21337,Kew East,20917,Ferntree Gully,97.6,ok
+21339,Keysborough,20917,Ferntree Gully,90.07,ok
+21354,Kilsyth,20917,Ferntree Gully,76.1,ok
+21355,Kilsyth South,20917,Ferntree Gully,65.23,ok
+21358,Kinglake,20917,Ferntree Gully,,no_eligible_route
+21359,Kinglake Central,20917,Ferntree Gully,,no_eligible_route
+21360,Kinglake West,20917,Ferntree Gully,,no_eligible_route
+21362,Kings Park (Vic.),20917,Ferntree Gully,137.18,ok
+21363,Kingsbury,20917,Ferntree Gully,129.13,ok
+21365,Kingsville,20917,Ferntree Gully,107.85,ok
+21374,Knoxfield,20917,Ferntree Gully,14.98,ok
+21380,Koo Wee Rup,20917,Ferntree Gully,,no_eligible_route
+21381,Koo Wee Rup North,20917,Ferntree Gully,,no_eligible_route
+21393,Kooyong,20917,Ferntree Gully,76.43,ok
+21411,Kurunjang,20917,Ferntree Gully,222.28,ok
+21452,Lalor,20917,Ferntree Gully,124.47,ok
+21456,Lancefield,20917,Ferntree Gully,,no_eligible_route
+21459,Lang Lang,20917,Ferntree Gully,,no_eligible_route
+21460,Lang Lang East,20917,Ferntree Gully,,no_eligible_route
+21467,Langwarrin,20917,Ferntree Gully,121.37,ok
+21468,Langwarrin South,20917,Ferntree Gully,,no_eligible_route
+21473,Launching Place,20917,Ferntree Gully,85.42,ok
+21476,Laverton (Vic.),20917,Ferntree Gully,110.87,ok
+21477,Laverton North,20917,Ferntree Gully,147.5,ok
+21504,Lilydale (Vic.),20917,Ferntree Gully,89.93,ok
+21533,Long Forest,20917,Ferntree Gully,,no_eligible_route
+21547,Lower Plenty,20917,Ferntree Gully,120.42,ok
+21554,Lynbrook,20917,Ferntree Gully,82.48,ok
+21555,Lyndhurst (Vic.),20917,Ferntree Gully,136.73,ok
+21558,Lysterfield,20917,Ferntree Gully,106.55,walk_only
+21559,Lysterfield South,20917,Ferntree Gully,100.6,ok
+21561,Macclesfield (Vic.),20917,Ferntree Gully,,no_eligible_route
+21562,Macedon,20917,Ferntree Gully,,no_eligible_route
+21564,Macleod (Vic.),20917,Ferntree Gully,116.13,ok
+21569,Maddingley,20917,Ferntree Gully,,no_eligible_route
+21575,Maidstone,20917,Ferntree Gully,117.45,ok
+21578,Main Ridge,20917,Ferntree Gully,,no_eligible_route
+21586,Malvern (Vic.),20917,Ferntree Gully,77.47,ok
+21587,Malvern East,20917,Ferntree Gully,69.37,ok
+21588,Mambourin,20917,Ferntree Gully,,no_eligible_route
+21597,Manor Lakes,20917,Ferntree Gully,171.33,ok
+21604,Maribyrnong,20917,Ferntree Gully,116.12,ok
+21619,Maryknoll,20917,Ferntree Gully,,no_eligible_route
+21625,McCrae,20917,Ferntree Gully,,no_eligible_route
+21629,McKinnon,20917,Ferntree Gully,75.48,ok
+21635,Meadow Heights,20917,Ferntree Gully,143.32,ok
+21640,Melbourne,20917,Ferntree Gully,80.88,ok
+21641,Melbourne Airport,20917,Ferntree Gully,,no_eligible_route
+21642,Melton (Vic.),20917,Ferntree Gully,206.42,ok
+21643,Melton South,20917,Ferntree Gully,220.02,ok
+21644,Melton West,20917,Ferntree Gully,215.25,ok
+21648,Mentone,20917,Ferntree Gully,75.83,ok
+21649,Menzies Creek,20917,Ferntree Gully,59.82,ok
+21659,Mernda,20917,Ferntree Gully,162.55,ok
+21662,Merricks,20917,Ferntree Gully,,no_eligible_route
+21663,Merricks Beach,20917,Ferntree Gully,,no_eligible_route
+21664,Merricks North,20917,Ferntree Gully,,no_eligible_route
+21668,Merrimu,20917,Ferntree Gully,,no_eligible_route
+21675,Mickleham,20917,Ferntree Gully,170.45,ok
+21677,Middle Park (Vic.),20917,Ferntree Gully,104.23,ok
+21683,Mill Park,20917,Ferntree Gully,136.83,ok
+21685,Millgrove,20917,Ferntree Gully,,no_eligible_route
+21706,Mitcham (Vic.),20917,Ferntree Gully,47.63,ok
+21727,Monbulk,20917,Ferntree Gully,80.92,ok
+21728,Monegeetta,20917,Ferntree Gully,,no_eligible_route
+21731,Monomeith,20917,Ferntree Gully,,no_eligible_route
+21732,Mont Albert,20917,Ferntree Gully,52.83,ok
+21733,Mont Albert North,20917,Ferntree Gully,71.82,ok
+21735,Montmorency,20917,Ferntree Gully,102.68,ok
+21736,Montrose (Vic.),20917,Ferntree Gully,60.32,ok
+21742,Moonee Ponds,20917,Ferntree Gully,99.78,ok
+21746,Moorabbin,20917,Ferntree Gully,85.43,ok
+21747,Moorabbin Airport,20917,Ferntree Gully,101.12,ok
+21754,Moorooduc,20917,Ferntree Gully,,no_eligible_route
+21755,Mooroolbark,20917,Ferntree Gully,71.97,ok
+21760,Mordialloc,20917,Ferntree Gully,102.62,ok
+21763,Mornington (Vic.),20917,Ferntree Gully,146.52,ok
+21779,Mount Burnett,20917,Ferntree Gully,,no_eligible_route
+21786,Mount Cottrell,20917,Ferntree Gully,,no_eligible_route
+21787,Mount Dandenong,20917,Ferntree Gully,55.0,ok
+21793,Mount Eliza,20917,Ferntree Gully,132.7,ok
+21795,Mount Evelyn,20917,Ferntree Gully,74.97,ok
+21801,Mount Macedon,20917,Ferntree Gully,,no_eligible_route
+21803,Mount Martha,20917,Ferntree Gully,152.23,ok
+21814,Mount Toolebewong,20917,Ferntree Gully,,no_eligible_route
+21816,Mount Waverley,20917,Ferntree Gully,54.02,ok
+21827,Mulgrave (Vic.),20917,Ferntree Gully,58.52,ok
+21849,Murrumbeena,20917,Ferntree Gully,66.55,ok
+21872,Nangana,20917,Ferntree Gully,,no_eligible_route
+21878,Nar Nar Goon,20917,Ferntree Gully,,no_eligible_route
+21879,Nar Nar Goon North,20917,Ferntree Gully,,no_eligible_route
+21893,Narre Warren,20917,Ferntree Gully,92.22,ok
+21894,Narre Warren East,20917,Ferntree Gully,195.57,walk_only
+21895,Narre Warren North,20917,Ferntree Gully,103.48,ok
+21896,Narre Warren South,20917,Ferntree Gully,86.03,ok
+21921,New Gisborne,20917,Ferntree Gully,,no_eligible_route
+21934,Newport (Vic.),20917,Ferntree Gully,95.72,ok
+21942,Niddrie,20917,Ferntree Gully,132.67,ok
+21952,Noble Park,20917,Ferntree Gully,73.48,ok
+21953,Noble Park North,20917,Ferntree Gully,77.47,ok
+21966,North Melbourne,20917,Ferntree Gully,93.58,ok
+21969,North Warrandyte,20917,Ferntree Gully,94.0,ok
+21971,Northcote,20917,Ferntree Gully,103.2,ok
+21974,Notting Hill,20917,Ferntree Gully,42.28,ok
+21985,Nunawading,20917,Ferntree Gully,37.1,ok
+21991,Nutfield,20917,Ferntree Gully,,no_eligible_route
+21998,Oak Park,20917,Ferntree Gully,118.1,ok
+21999,Oaklands Junction,20917,Ferntree Gully,,no_eligible_route
+22000,Oakleigh,20917,Ferntree Gully,49.72,ok
+22001,Oakleigh East,20917,Ferntree Gully,51.32,ok
+22002,Oakleigh South,20917,Ferntree Gully,68.08,ok
+22006,Officer,20917,Ferntree Gully,98.77,ok
+22007,Officer South,20917,Ferntree Gully,140.33,ok
+22009,Olinda (Vic.),20917,Ferntree Gully,64.35,ok
+22016,Ormond,20917,Ferntree Gully,75.92,ok
+22027,Pakenham,20917,Ferntree Gully,97.82,ok
+22028,Pakenham South,20917,Ferntree Gully,,no_eligible_route
+22029,Pakenham Upper,20917,Ferntree Gully,,no_eligible_route
+22032,Panton Hill,20917,Ferntree Gully,,no_eligible_route
+22036,Park Orchards,20917,Ferntree Gully,62.75,ok
+22037,Parkdale,20917,Ferntree Gully,99.25,ok
+22038,Parkville (Vic.),20917,Ferntree Gully,101.0,ok
+22041,Pascoe Vale,20917,Ferntree Gully,122.47,ok
+22042,Pascoe Vale South,20917,Ferntree Gully,118.2,ok
+22047,Patterson Lakes,20917,Ferntree Gully,110.77,ok
+22050,Pearcedale,20917,Ferntree Gully,149.63,ok
+22058,Pentland Hills,20917,Ferntree Gully,,no_eligible_route
+22064,Pheasant Creek (Vic.),20917,Ferntree Gully,,no_eligible_route
+22084,Plenty (Vic.),20917,Ferntree Gully,131.63,ok
+22085,Plumpton (Vic.),20917,Ferntree Gully,,no_eligible_route
+22086,Point Cook,20917,Ferntree Gully,134.1,ok
+22087,Point Leo,20917,Ferntree Gully,,no_eligible_route
+22107,Port Melbourne,20917,Ferntree Gully,99.72,ok
+22113,Portsea,20917,Ferntree Gully,,no_eligible_route
+22115,Powelltown,20917,Ferntree Gully,,no_eligible_route
+22118,Prahran,20917,Ferntree Gully,87.83,ok
+22121,Preston (Vic.),20917,Ferntree Gully,113.98,ok
+22122,Princes Hill,20917,Ferntree Gully,101.15,ok
+22132,Quandong,20917,Ferntree Gully,,no_eligible_route
+22141,Ravenhall,20917,Ferntree Gully,181.1,ok
+22148,Red Hill (Vic.),20917,Ferntree Gully,,no_eligible_route
+22149,Red Hill South,20917,Ferntree Gully,,no_eligible_route
+22160,Research,20917,Ferntree Gully,99.9,ok
+22161,Reservoir (Vic.),20917,Ferntree Gully,121.28,ok
+22170,Richmond (Vic.),20917,Ferntree Gully,81.57,ok
+22172,Riddells Creek,20917,Ferntree Gully,,no_eligible_route
+22174,Ringwood (Vic.),20917,Ferntree Gully,43.13,ok
+22175,Ringwood East,20917,Ferntree Gully,53.12,ok
+22176,Ringwood North,20917,Ferntree Gully,55.48,ok
+22179,Ripponlea,20917,Ferntree Gully,86.68,ok
+22185,Rochford,20917,Ferntree Gully,,no_eligible_route
+22186,Rockbank,20917,Ferntree Gully,171.77,ok
+22193,Romsey,20917,Ferntree Gully,,no_eligible_route
+22194,Rosanna,20917,Ferntree Gully,105.78,ok
+22198,Rosebud,20917,Ferntree Gully,,no_eligible_route
+22207,Rowville,20917,Ferntree Gully,35.45,ok
+22208,Roxburgh Park,20917,Ferntree Gully,147.95,ok
+22220,Rye,20917,Ferntree Gully,,no_eligible_route
+22221,Rythdale,20917,Ferntree Gully,,no_eligible_route
+22222,Safety Beach (Vic.),20917,Ferntree Gully,168.2,ok
+22232,Sandhurst,20917,Ferntree Gully,121.52,ok
+22234,Sandringham (Vic.),20917,Ferntree Gully,113.53,ok
+22239,Sassafras (Vic.),20917,Ferntree Gully,45.8,ok
+22242,Scoresby,20917,Ferntree Gully,29.87,ok
+22247,Seabrook,20917,Ferntree Gully,134.27,ok
+22249,Seaford (Vic.),20917,Ferntree Gully,109.93,ok
+22250,Seaholme,20917,Ferntree Gully,116.95,ok
+22256,Seddon (Vic.),20917,Ferntree Gully,93.97,ok
+22258,Selby,20917,Ferntree Gully,59.48,ok
+22263,Seville,20917,Ferntree Gully,121.45,ok
+22264,Seville East,20917,Ferntree Gully,108.33,ok
+22278,Sherbrooke,20917,Ferntree Gully,62.53,ok
+22279,Shoreham,20917,Ferntree Gully,,no_eligible_route
+22281,Silvan,20917,Ferntree Gully,73.02,ok
+22291,Skye (Vic.),20917,Ferntree Gully,101.23,ok
+22295,Smiths Gully,20917,Ferntree Gully,,no_eligible_route
+22303,Somers,20917,Ferntree Gully,,no_eligible_route
+22304,Somerton (Vic.),20917,Ferntree Gully,147.08,ok
+22305,Somerville (Vic.),20917,Ferntree Gully,170.45,ok
+22306,Sorrento (Vic.),20917,Ferntree Gully,204.0,ok
+22309,South Kingsville,20917,Ferntree Gully,118.97,ok
+22310,South Melbourne,20917,Ferntree Gully,88.18,ok
+22311,South Morang,20917,Ferntree Gully,152.15,ok
+22313,South Wharf,20917,Ferntree Gully,92.72,ok
+22314,South Yarra,20917,Ferntree Gully,77.45,ok
+22315,Southbank,20917,Ferntree Gully,87.53,ok
+22319,Spotswood,20917,Ferntree Gully,94.12,ok
+22325,Springfield (Macedon Ranges - Vic.),20917,Ferntree Gully,,no_eligible_route
+22328,Springvale (Vic.),20917,Ferntree Gully,62.57,ok
+22329,Springvale South,20917,Ferntree Gully,62.18,ok
+22330,St Albans (Vic.),20917,Ferntree Gully,113.0,ok
+22332,St Andrews (Vic.),20917,Ferntree Gully,,no_eligible_route
+22333,St Andrews Beach,20917,Ferntree Gully,,no_eligible_route
+22339,St Helena,20917,Ferntree Gully,126.0,ok
+22343,St Kilda (Vic.),20917,Ferntree Gully,92.37,ok
+22344,St Kilda East,20917,Ferntree Gully,84.32,ok
+22345,St Kilda West,20917,Ferntree Gully,98.1,ok
+22355,Steels Creek,20917,Ferntree Gully,,no_eligible_route
+22375,Strathewen,20917,Ferntree Gully,,no_eligible_route
+22380,Strathmore (Vic.),20917,Ferntree Gully,126.27,ok
+22381,Strathmore Heights,20917,Ferntree Gully,140.52,ok
+22382,Strathtulloh,20917,Ferntree Gully,,no_eligible_route
+22391,Sunbury,20917,Ferntree Gully,175.28,ok
+22395,Sunshine (Vic.),20917,Ferntree Gully,101.78,ok
+22396,Sunshine North,20917,Ferntree Gully,120.85,ok
+22397,Sunshine West,20917,Ferntree Gully,121.13,ok
+22399,Surrey Hills,20917,Ferntree Gully,53.23,ok
+22414,Sydenham (Vic.),20917,Ferntree Gully,127.4,ok
+22451,Tarneit,20917,Ferntree Gully,162.17,ok
+22457,Tarrawarra,20917,Ferntree Gully,,no_eligible_route
+22473,Taylors Hill,20917,Ferntree Gully,142.4,ok
+22474,Taylors Lakes,20917,Ferntree Gully,132.28,ok
+22476,Tecoma,20917,Ferntree Gully,24.97,ok
+22483,Templestowe,20917,Ferntree Gully,87.68,ok
+22484,Templestowe Lower,20917,Ferntree Gully,90.17,ok
+22496,The Basin (Vic.),20917,Ferntree Gully,30.23,ok
+22501,The Patch,20917,Ferntree Gully,70.48,ok
+22504,Thomastown,20917,Ferntree Gully,129.77,ok
+22508,Thornbury,20917,Ferntree Gully,109.37,ok
+22509,Thornhill Park,20917,Ferntree Gully,,no_eligible_route
+22514,Three Bridges,20917,Ferntree Gully,,no_eligible_route
+22531,Tonimbuk,20917,Ferntree Gully,,no_eligible_route
+22536,Toolangi,20917,Ferntree Gully,,no_eligible_route
+22537,Toolern Vale,20917,Ferntree Gully,,no_eligible_route
+22546,Tooradin,20917,Ferntree Gully,,no_eligible_route
+22547,Toorak,20917,Ferntree Gully,86.75,ok
+22550,Tootgarook,20917,Ferntree Gully,,no_eligible_route
+22556,Tottenham (Vic.),20917,Ferntree Gully,129.22,ok
+22572,Travancore,20917,Ferntree Gully,104.53,ok
+22576,Tremont,20917,Ferntree Gully,37.73,ok
+22582,Truganina,20917,Ferntree Gully,211.32,ok
+22584,Tuerong,20917,Ferntree Gully,,no_eligible_route
+22586,Tullamarine,20917,Ferntree Gully,155.05,ok
+22594,Tyabb,20917,Ferntree Gully,159.32,ok
+22598,Tynong,20917,Ferntree Gully,,no_eligible_route
+22599,Tynong North,20917,Ferntree Gully,,no_eligible_route
+22614,Upper Ferntree Gully,20917,Ferntree Gully,13.7,ok
+22617,Upper Plenty,20917,Ferntree Gully,,no_eligible_route
+22620,Upwey,20917,Ferntree Gully,21.15,ok
+22627,Vermont,20917,Ferntree Gully,45.9,ok
+22628,Vermont South,20917,Ferntree Gully,40.2,ok
+22629,Vervale,20917,Ferntree Gully,,no_eligible_route
+22633,Viewbank,20917,Ferntree Gully,124.6,ok
+22661,Wallan,20917,Ferntree Gully,,no_eligible_route
+22672,Wandin East,20917,Ferntree Gully,,no_eligible_route
+22673,Wandin North,20917,Ferntree Gully,69.55,ok
+22676,Wandong,20917,Ferntree Gully,,no_eligible_route
+22685,Wantirna,20917,Ferntree Gully,41.88,ok
+22686,Wantirna South,20917,Ferntree Gully,34.78,ok
+22689,Warburton (Vic.),20917,Ferntree Gully,,no_eligible_route
+22695,Warneet,20917,Ferntree Gully,,no_eligible_route
+22702,Warrandyte,20917,Ferntree Gully,55.4,ok
+22703,Warrandyte South,20917,Ferntree Gully,90.78,ok
+22704,Warranwood,20917,Ferntree Gully,47.45,ok
+22717,Waterford Park,20917,Ferntree Gully,,no_eligible_route
+22720,Waterways,20917,Ferntree Gully,86.62,ok
+22721,Watsonia,20917,Ferntree Gully,111.05,ok
+22722,Watsonia North,20917,Ferntree Gully,118.55,ok
+22723,Watsons Creek (Vic.),20917,Ferntree Gully,,no_eligible_route
+22727,Wattle Glen,20917,Ferntree Gully,122.8,ok
+22740,Weir Views,20917,Ferntree Gully,,no_eligible_route
+22750,Werribee,20917,Ferntree Gully,128.9,ok
+22751,Werribee South,20917,Ferntree Gully,,no_eligible_route
+22753,Wesburn,20917,Ferntree Gully,126.38,ok
+22756,West Footscray,20917,Ferntree Gully,105.95,ok
+22757,West Melbourne,20917,Ferntree Gully,104.68,ok
+22761,Westmeadows,20917,Ferntree Gully,141.08,ok
+22766,Wheelers Hill,20917,Ferntree Gully,30.75,ok
+22775,Whittlesea,20917,Ferntree Gully,,no_eligible_route
+22784,Wildwood,20917,Ferntree Gully,,no_eligible_route
+22791,Williams Landing,20917,Ferntree Gully,125.12,ok
+22792,Williamstown (Vic.),20917,Ferntree Gully,108.93,ok
+22793,Williamstown North,20917,Ferntree Gully,119.42,ok
+22805,Windsor (Vic.),20917,Ferntree Gully,83.95,ok
+22820,Wollert,20917,Ferntree Gully,167.98,ok
+22825,Wonga Park,20917,Ferntree Gully,77.3,ok
+22843,Woodstock (Vic.),20917,Ferntree Gully,,no_eligible_route
+22857,Woori Yallock,20917,Ferntree Gully,80.67,ok
+22883,Wyndham Vale,20917,Ferntree Gully,147.72,ok
+22892,Yallambie,20917,Ferntree Gully,125.02,ok
+22898,Yan Yean,20917,Ferntree Gully,185.72,ok
+22906,Yannathan,20917,Ferntree Gully,,no_eligible_route
+22910,Yarra Glen,20917,Ferntree Gully,,no_eligible_route
+22911,Yarra Junction,20917,Ferntree Gully,130.65,ok
+22916,Yarrambat,20917,Ferntree Gully,128.2,ok
+22917,Yarraville,20917,Ferntree Gully,99.87,ok
+22925,Yellingbo,20917,Ferntree Gully,,no_eligible_route
+22930,Yering,20917,Ferntree Gully,,no_eligible_route
+22941,Yuroke,20917,Ferntree Gully,201.8,ok

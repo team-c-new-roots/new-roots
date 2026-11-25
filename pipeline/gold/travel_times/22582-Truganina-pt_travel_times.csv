@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22582,Truganina,166.07,ok
+20003,Aberfeldie,22582,Truganina,171.45,ok
+20011,Aintree,22582,Truganina,79.47,ok
+20015,Airport West,22582,Truganina,,no_eligible_route
+20017,Albanvale,22582,Truganina,129.28,walk_only
+20018,Albert Park (Vic.),22582,Truganina,155.18,ok
+20021,Albion (Vic.),22582,Truganina,105.0,ok
+20034,Alphington,22582,Truganina,170.23,ok
+20035,Altona (Vic.),22582,Truganina,125.32,ok
+20036,Altona Meadows,22582,Truganina,137.27,ok
+20037,Altona North,22582,Truganina,166.7,ok
+20062,Ardeer,22582,Truganina,107.0,ok
+20066,Armadale (Vic.),22582,Truganina,169.47,ok
+20071,Arthurs Creek,22582,Truganina,,no_eligible_route
+20072,Arthurs Seat,22582,Truganina,,no_eligible_route
+20075,Ascot Vale,22582,Truganina,163.45,ok
+20077,Ashburton,22582,Truganina,191.07,ok
+20078,Ashwood,22582,Truganina,205.6,ok
+20079,Aspendale,22582,Truganina,211.72,ok
+20080,Aspendale Gardens,22582,Truganina,237.95,ok
+20082,Attwood,22582,Truganina,218.67,ok
+20089,Avondale Heights,22582,Truganina,177.62,ok
+20091,Avonsleigh,22582,Truganina,,no_eligible_route
+20095,Bacchus Marsh,22582,Truganina,,no_eligible_route
+20097,Badger Creek,22582,Truganina,,no_eligible_route
+20105,Balaclava (Vic.),22582,Truganina,173.53,ok
+20120,Balnarring,22582,Truganina,,no_eligible_route
+20121,Balnarring Beach,22582,Truganina,,no_eligible_route
+20123,Balwyn,22582,Truganina,189.4,ok
+20124,Balwyn North,22582,Truganina,181.97,ok
+20131,Bangholme,22582,Truganina,,no_eligible_route
+20169,Baxter,22582,Truganina,,no_eligible_route
+20171,Bayles,22582,Truganina,,no_eligible_route
+20173,Bayswater (Vic.),22582,Truganina,218.72,ok
+20174,Bayswater North,22582,Truganina,245.15,ok
+20175,Beaconsfield (Vic.),22582,Truganina,238.17,ok
+20176,Beaconsfield Upper,22582,Truganina,,no_eligible_route
+20182,Beaumaris (Vic.),22582,Truganina,229.53,ok
+20187,Beenak,22582,Truganina,,no_eligible_route
+20188,Belgrave,22582,Truganina,231.8,ok
+20189,Belgrave Heights,22582,Truganina,263.47,ok
+20190,Belgrave South,22582,Truganina,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),22582,Truganina,203.5,ok
+20207,Bend Of Islands,22582,Truganina,,no_eligible_route
+20212,Benloch,22582,Truganina,,no_eligible_route
+20214,Bentleigh,22582,Truganina,189.5,ok
+20215,Bentleigh East,22582,Truganina,197.85,ok
+20224,Berwick,22582,Truganina,210.97,ok
+20233,Beveridge,22582,Truganina,,no_eligible_route
+20237,Big Pats Creek,22582,Truganina,,no_eligible_route
+20248,Bittern,22582,Truganina,,no_eligible_route
+20251,Black Rock (Vic.),22582,Truganina,227.2,ok
+20252,Blackburn,22582,Truganina,181.05,ok
+20253,Blackburn North,22582,Truganina,201.1,ok
+20254,Blackburn South,22582,Truganina,205.13,ok
+20257,Blairgowrie,22582,Truganina,,no_eligible_route
+20260,Blind Bight,22582,Truganina,,no_eligible_route
+20272,Bolinda,22582,Truganina,,no_eligible_route
+20278,Bonbeach,22582,Truganina,216.72,ok
+20280,Boneo,22582,Truganina,,no_eligible_route
+20282,Bonnie Brook,22582,Truganina,128.38,ok
+20304,Boronia,22582,Truganina,221.18,ok
+20307,Botanic Ridge,22582,Truganina,,no_eligible_route
+20314,Box Hill (Vic.),22582,Truganina,178.17,ok
+20315,Box Hill North,22582,Truganina,198.88,ok
+20316,Box Hill South,22582,Truganina,203.42,ok
+20320,Braeside,22582,Truganina,,no_eligible_route
+20324,Braybrook,22582,Truganina,150.0,ok
+20331,Briar Hill,22582,Truganina,208.95,ok
+20337,Brighton (Vic.),22582,Truganina,187.87,ok
+20338,Brighton East,22582,Truganina,204.73,ok
+20346,Broadmeadows (Vic.),22582,Truganina,187.07,ok
+20351,Brookfield (Vic.),22582,Truganina,129.17,ok
+20352,Brooklyn (Vic.),22582,Truganina,159.75,ok
+20361,Brunswick (Vic.),22582,Truganina,162.17,ok
+20362,Brunswick East,22582,Truganina,173.25,ok
+20363,Brunswick West,22582,Truganina,174.35,ok
+20381,Bulla (Vic.),22582,Truganina,,no_eligible_route
+20386,Bulleen,22582,Truganina,218.42,ok
+20387,Bullengarook,22582,Truganina,,no_eligible_route
+20399,Bundoora (Vic.),22582,Truganina,191.97,ok
+20411,Bunyip,22582,Truganina,,no_eligible_route
+20412,Bunyip North,22582,Truganina,,no_eligible_route
+20418,Burnley,22582,Truganina,166.47,ok
+20419,Burnside (Vic.),22582,Truganina,97.98,ok
+20420,Burnside Heights,22582,Truganina,130.23,walk_only
+20426,Burwood (Vic.),22582,Truganina,189.8,ok
+20427,Burwood East,22582,Truganina,194.47,ok
+20435,Bylands,22582,Truganina,,no_eligible_route
+20441,Cairnlea,22582,Truganina,131.57,ok
+20442,Calder Park,22582,Truganina,128.78,ok
+20443,Caldermeade,22582,Truganina,,no_eligible_route
+20453,Camberwell (Vic.),22582,Truganina,186.18,ok
+20455,Campbellfield,22582,Truganina,195.72,ok
+20466,Cannons Creek,22582,Truganina,,no_eligible_route
+20468,Canterbury (Vic.),22582,Truganina,171.48,ok
+20474,Cape Schanck,22582,Truganina,,no_eligible_route
+20476,Capel Sound,22582,Truganina,,no_eligible_route
+20487,Cardinia,22582,Truganina,,no_eligible_route
+20495,Carlton (Vic.),22582,Truganina,153.45,ok
+20496,Carlton North,22582,Truganina,170.57,ok
+20498,Carnegie,22582,Truganina,177.7,ok
+20500,Caroline Springs,22582,Truganina,120.3,ok
+20507,Carrum,22582,Truganina,216.53,ok
+20508,Carrum Downs,22582,Truganina,,no_eligible_route
+20512,Castella,22582,Truganina,,no_eligible_route
+20517,Catani,22582,Truganina,,no_eligible_route
+20521,Caulfield,22582,Truganina,179.17,ok
+20522,Caulfield East,22582,Truganina,170.9,ok
+20523,Caulfield North,22582,Truganina,177.07,ok
+20524,Caulfield South,22582,Truganina,184.35,ok
+20528,Chadstone,22582,Truganina,206.77,ok
+20537,Chelsea,22582,Truganina,213.78,ok
+20538,Chelsea Heights,22582,Truganina,240.25,ok
+20539,Cheltenham (Vic.),22582,Truganina,204.25,ok
+20541,Cherokee,22582,Truganina,,no_eligible_route
+20555,Chintin,22582,Truganina,,no_eligible_route
+20556,Chirnside Park,22582,Truganina,,no_eligible_route
+20559,Christmas Hills (Vic.),22582,Truganina,,no_eligible_route
+20560,Chum Creek,22582,Truganina,,no_eligible_route
+20566,Clarinda,22582,Truganina,215.7,ok
+20567,Clarkefield,22582,Truganina,,no_eligible_route
+20569,Clayton,22582,Truganina,195.28,ok
+20570,Clayton South,22582,Truganina,207.1,ok
+20572,Clematis,22582,Truganina,,no_eligible_route
+20574,Clifton Hill,22582,Truganina,164.32,ok
+20576,Clonbinane,22582,Truganina,,no_eligible_route
+20581,Clyde (Vic.),22582,Truganina,,no_eligible_route
+20582,Clyde North,22582,Truganina,,no_eligible_route
+20587,Cobaw,22582,Truganina,,no_eligible_route
+20590,Cobblebank,22582,Truganina,113.82,ok
+20596,Coburg,22582,Truganina,169.7,ok
+20597,Coburg North,22582,Truganina,179.27,ok
+20600,Cockatoo (Vic.),22582,Truganina,,no_eligible_route
+20601,Cocoroc,22582,Truganina,,no_eligible_route
+20605,Coimadai,22582,Truganina,,no_eligible_route
+20613,Coldstream (Vic.),22582,Truganina,,no_eligible_route
+20616,Collingwood (Vic.),22582,Truganina,163.67,ok
+20624,Coolaroo,22582,Truganina,187.93,ok
+20633,Cora Lynn,22582,Truganina,,no_eligible_route
+20654,Cottles Bridge,22582,Truganina,,no_eligible_route
+20661,Craigieburn,22582,Truganina,217.1,ok
+20662,Cranbourne,22582,Truganina,237.62,ok
+20663,Cranbourne East,22582,Truganina,251.72,ok
+20664,Cranbourne North,22582,Truganina,,no_eligible_route
+20665,Cranbourne South,22582,Truganina,,no_eligible_route
+20666,Cranbourne West,22582,Truganina,249.68,ok
+20670,Cremorne (Vic.),22582,Truganina,157.77,ok
+20674,Crib Point,22582,Truganina,,no_eligible_route
+20682,Croydon (Vic.),22582,Truganina,214.82,ok
+20683,Croydon Hills,22582,Truganina,252.72,ok
+20684,Croydon North,22582,Truganina,,no_eligible_route
+20685,Croydon South,22582,Truganina,245.82,ok
+20702,Dallas,22582,Truganina,194.37,ok
+20703,Dalmore,22582,Truganina,,no_eligible_route
+20707,Dandenong,22582,Truganina,198.57,ok
+20708,Dandenong North,22582,Truganina,,no_eligible_route
+20709,Dandenong South,22582,Truganina,,no_eligible_route
+20712,Darley,22582,Truganina,,no_eligible_route
+20716,Darraweit Guim,22582,Truganina,,no_eligible_route
+20724,Deanside,22582,Truganina,112.82,ok
+20728,Deepdene (Vic.),22582,Truganina,190.37,ok
+20729,Deer Park,22582,Truganina,101.83,ok
+20731,Delahey,22582,Truganina,122.15,ok
+20743,Derrimut,22582,Truganina,159.53,ok
+20748,Devon Meadows,22582,Truganina,,no_eligible_route
+20750,Dewhurst,22582,Truganina,,no_eligible_route
+20752,Diamond Creek,22582,Truganina,212.55,ok
+20754,Diggers Rest,22582,Truganina,143.08,ok
+20758,Dingley Village,22582,Truganina,,no_eligible_route
+20762,Dixons Creek,22582,Truganina,,no_eligible_route
+20766,Docklands,22582,Truganina,146.15,ok
+20769,Don Valley,22582,Truganina,,no_eligible_route
+20771,Doncaster,22582,Truganina,202.3,ok
+20772,Doncaster East,22582,Truganina,199.18,ok
+20773,Donnybrook (Vic.),22582,Truganina,,no_eligible_route
+20774,Donvale,22582,Truganina,,no_eligible_route
+20779,Doreen,22582,Truganina,,no_eligible_route
+20783,Doveton,22582,Truganina,231.45,ok
+20788,Dromana,22582,Truganina,,no_eligible_route
+20825,Eaglemont,22582,Truganina,188.57,ok
+20830,East Melbourne,22582,Truganina,156.83,ok
+20833,East Warburton,22582,Truganina,,no_eligible_route
+20843,Eden Park,22582,Truganina,,no_eligible_route
+20848,Edithvale,22582,Truganina,213.92,ok
+20864,Elsternwick,22582,Truganina,171.55,ok
+20865,Eltham (Vic.),22582,Truganina,211.68,ok
+20866,Eltham North,22582,Truganina,226.07,ok
+20867,Elwood,22582,Truganina,177.2,ok
+20868,Emerald (Vic.),22582,Truganina,,no_eligible_route
+20871,Endeavour Hills,22582,Truganina,,no_eligible_route
+20878,Epping (Vic.),22582,Truganina,214.8,ok
+20885,Essendon,22582,Truganina,169.37,ok
+20886,Essendon Fields,22582,Truganina,,no_eligible_route
+20887,Essendon North,22582,Truganina,189.63,ok
+20888,Essendon West,22582,Truganina,163.45,ok
+20889,Eumemmerring,22582,Truganina,,no_eligible_route
+20898,Exford,22582,Truganina,,no_eligible_route
+20899,Eynesbury,22582,Truganina,160.92,ok
+20901,Fairfield (Vic.),22582,Truganina,176.55,ok
+20909,Fawkner,22582,Truganina,188.17,ok
+20916,Fernshaw,22582,Truganina,,no_eligible_route
+20917,Ferntree Gully,22582,Truganina,237.55,ok
+20918,Ferny Creek,22582,Truganina,,no_eligible_route
+20920,Fingal (Vic.),22582,Truganina,,no_eligible_route
+20924,Fitzroy (Vic.),22582,Truganina,161.35,ok
+20925,Fitzroy North,22582,Truganina,172.35,ok
+20929,Flemington,22582,Truganina,166.27,ok
+20930,Flinders (Vic.),22582,Truganina,,no_eligible_route
+20935,Footscray,22582,Truganina,135.83,ok
+20937,Forest Hill (Vic.),22582,Truganina,209.35,ok
+20947,Frankston,22582,Truganina,244.82,ok
+20948,Frankston North,22582,Truganina,253.73,ok
+20949,Frankston South,22582,Truganina,,no_eligible_route
+20950,Fraser Rise,22582,Truganina,123.07,ok
+20965,Gardenvale,22582,Truganina,184.3,ok
+20966,Garfield,22582,Truganina,,no_eligible_route
+20967,Garfield North,22582,Truganina,,no_eligible_route
+20979,Gembrook,22582,Truganina,,no_eligible_route
+20995,Gilderoy,22582,Truganina,,no_eligible_route
+21001,Gisborne,22582,Truganina,,no_eligible_route
+21002,Gisborne South,22582,Truganina,,no_eligible_route
+21004,Gladstone Park,22582,Truganina,201.27,ok
+21005,Gladysdale,22582,Truganina,,no_eligible_route
+21009,Glen Huntly,22582,Truganina,181.9,ok
+21010,Glen Iris (Vic.),22582,Truganina,195.57,ok
+21013,Glen Waverley,22582,Truganina,202.48,ok
+21047,Glenroy (Vic.),22582,Truganina,181.92,ok
+21059,Goldie,22582,Truganina,,no_eligible_route
+21079,Gowanbrae,22582,Truganina,203.6,ok
+21087,Grangefields,22582,Truganina,112.52,ok
+21104,Greensborough,22582,Truganina,197.1,ok
+21105,Greenvale (Vic.),22582,Truganina,,no_eligible_route
+21115,Gruyere,22582,Truganina,,no_eligible_route
+21121,Guys Hill,22582,Truganina,,no_eligible_route
+21124,Hadfield,22582,Truganina,190.2,ok
+21125,Hallam,22582,Truganina,217.08,ok
+21131,Hampton (Vic.),22582,Truganina,194.7,ok
+21132,Hampton East,22582,Truganina,196.27,ok
+21133,Hampton Park,22582,Truganina,234.65,ok
+21139,Harkaway,22582,Truganina,,no_eligible_route
+21140,Harkness,22582,Truganina,130.65,ok
+21145,Hastings (Vic.),22582,Truganina,,no_eligible_route
+21152,Hawthorn (Vic.),22582,Truganina,166.87,ok
+21153,Hawthorn East,22582,Truganina,171.35,ok
+21158,Healesville,22582,Truganina,,no_eligible_route
+21159,Heath Hill,22582,Truganina,,no_eligible_route
+21161,Heathcote Junction,22582,Truganina,,no_eligible_route
+21163,Heatherton,22582,Truganina,214.7,ok
+21165,Heathmont,22582,Truganina,208.98,ok
+21167,Heidelberg,22582,Truganina,191.37,ok
+21168,Heidelberg Heights,22582,Truganina,195.87,ok
+21169,Heidelberg West,22582,Truganina,207.97,ok
+21176,Hesket,22582,Truganina,,no_eligible_route
+21185,Highett,22582,Truganina,189.03,ok
+21193,Hillside (Melton - Vic.),22582,Truganina,114.75,ok
+21195,Hmas Cerberus,22582,Truganina,,no_eligible_route
+21196,Hoddles Creek,22582,Truganina,,no_eligible_route
+21202,Hopetoun Park,22582,Truganina,,no_eligible_route
+21203,Hoppers Crossing,22582,Truganina,99.65,ok
+21214,Hughesdale,22582,Truganina,179.12,ok
+21215,Humevale,22582,Truganina,,no_eligible_route
+21218,Huntingdale (Vic.),22582,Truganina,183.55,ok
+21223,Hurstbridge,22582,Truganina,213.1,ok
+21238,Iona,22582,Truganina,,no_eligible_route
+21246,Ivanhoe (Vic.),22582,Truganina,174.83,ok
+21247,Ivanhoe East,22582,Truganina,194.5,ok
+21248,Jacana,22582,Truganina,186.48,ok
+21277,Junction Village,22582,Truganina,,no_eligible_route
+21284,Kalkallo,22582,Truganina,,no_eligible_route
+21286,Kallista,22582,Truganina,,no_eligible_route
+21287,Kalorama,22582,Truganina,,no_eligible_route
+21294,Kangaroo Ground,22582,Truganina,,no_eligible_route
+21312,Kealba,22582,Truganina,172.98,ok
+21314,Keilor,22582,Truganina,183.85,ok
+21315,Keilor Downs,22582,Truganina,149.43,ok
+21316,Keilor East,22582,Truganina,161.15,ok
+21317,Keilor Lodge,22582,Truganina,145.95,ok
+21318,Keilor North,22582,Truganina,152.02,ok
+21319,Keilor Park,22582,Truganina,,no_eligible_route
+21327,Kensington (Vic.),22582,Truganina,142.02,ok
+21333,Kerrie,22582,Truganina,,no_eligible_route
+21336,Kew (Vic.),22582,Truganina,172.15,ok
+21337,Kew East,22582,Truganina,184.72,ok
+21339,Keysborough,22582,Truganina,,no_eligible_route
+21354,Kilsyth,22582,Truganina,,no_eligible_route
+21355,Kilsyth South,22582,Truganina,,no_eligible_route
+21358,Kinglake,22582,Truganina,,no_eligible_route
+21359,Kinglake Central,22582,Truganina,,no_eligible_route
+21360,Kinglake West,22582,Truganina,,no_eligible_route
+21362,Kings Park (Vic.),22582,Truganina,126.03,ok
+21363,Kingsbury,22582,Truganina,192.18,ok
+21365,Kingsville,22582,Truganina,145.8,ok
+21374,Knoxfield,22582,Truganina,,no_eligible_route
+21380,Koo Wee Rup,22582,Truganina,,no_eligible_route
+21381,Koo Wee Rup North,22582,Truganina,,no_eligible_route
+21393,Kooyong,22582,Truganina,176.25,ok
+21411,Kurunjang,22582,Truganina,107.85,ok
+21452,Lalor,22582,Truganina,197.52,ok
+21456,Lancefield,22582,Truganina,,no_eligible_route
+21459,Lang Lang,22582,Truganina,,no_eligible_route
+21460,Lang Lang East,22582,Truganina,,no_eligible_route
+21467,Langwarrin,22582,Truganina,,no_eligible_route
+21468,Langwarrin South,22582,Truganina,,no_eligible_route
+21473,Launching Place,22582,Truganina,,no_eligible_route
+21476,Laverton (Vic.),22582,Truganina,104.93,ok
+21477,Laverton North,22582,Truganina,121.45,ok
+21504,Lilydale (Vic.),22582,Truganina,246.52,ok
+21533,Long Forest,22582,Truganina,,no_eligible_route
+21547,Lower Plenty,22582,Truganina,230.73,ok
+21554,Lynbrook,22582,Truganina,218.33,ok
+21555,Lyndhurst (Vic.),22582,Truganina,,no_eligible_route
+21558,Lysterfield,22582,Truganina,,no_eligible_route
+21559,Lysterfield South,22582,Truganina,,no_eligible_route
+21561,Macclesfield (Vic.),22582,Truganina,,no_eligible_route
+21562,Macedon,22582,Truganina,,no_eligible_route
+21564,Macleod (Vic.),22582,Truganina,190.18,ok
+21569,Maddingley,22582,Truganina,,no_eligible_route
+21575,Maidstone,22582,Truganina,152.45,ok
+21578,Main Ridge,22582,Truganina,,no_eligible_route
+21586,Malvern (Vic.),22582,Truganina,180.68,ok
+21587,Malvern East,22582,Truganina,182.37,ok
+21588,Mambourin,22582,Truganina,,no_eligible_route
+21597,Manor Lakes,22582,Truganina,143.58,ok
+21604,Maribyrnong,22582,Truganina,153.97,ok
+21619,Maryknoll,22582,Truganina,,no_eligible_route
+21625,McCrae,22582,Truganina,,no_eligible_route
+21629,McKinnon,22582,Truganina,179.33,ok
+21635,Meadow Heights,22582,Truganina,199.37,ok
+21640,Melbourne,22582,Truganina,147.2,ok
+21641,Melbourne Airport,22582,Truganina,,no_eligible_route
+21642,Melton (Vic.),22582,Truganina,116.03,ok
+21643,Melton South,22582,Truganina,127.4,ok
+21644,Melton West,22582,Truganina,104.03,ok
+21648,Mentone,22582,Truganina,199.02,ok
+21649,Menzies Creek,22582,Truganina,,no_eligible_route
+21659,Mernda,22582,Truganina,243.87,ok
+21662,Merricks,22582,Truganina,,no_eligible_route
+21663,Merricks Beach,22582,Truganina,,no_eligible_route
+21664,Merricks North,22582,Truganina,,no_eligible_route
+21668,Merrimu,22582,Truganina,,no_eligible_route
+21675,Mickleham,22582,Truganina,,no_eligible_route
+21677,Middle Park (Vic.),22582,Truganina,161.27,ok
+21683,Mill Park,22582,Truganina,224.7,ok
+21685,Millgrove,22582,Truganina,,no_eligible_route
+21706,Mitcham (Vic.),22582,Truganina,192.72,ok
+21727,Monbulk,22582,Truganina,,no_eligible_route
+21728,Monegeetta,22582,Truganina,,no_eligible_route
+21731,Monomeith,22582,Truganina,,no_eligible_route
+21732,Mont Albert,22582,Truganina,178.88,ok
+21733,Mont Albert North,22582,Truganina,200.12,ok
+21735,Montmorency,22582,Truganina,197.75,ok
+21736,Montrose (Vic.),22582,Truganina,,no_eligible_route
+21742,Moonee Ponds,22582,Truganina,155.83,ok
+21746,Moorabbin,22582,Truganina,210.27,ok
+21747,Moorabbin Airport,22582,Truganina,,no_eligible_route
+21754,Moorooduc,22582,Truganina,,no_eligible_route
+21755,Mooroolbark,22582,Truganina,233.43,ok
+21760,Mordialloc,22582,Truganina,213.32,ok
+21763,Mornington (Vic.),22582,Truganina,,no_eligible_route
+21779,Mount Burnett,22582,Truganina,,no_eligible_route
+21786,Mount Cottrell,22582,Truganina,129.82,walk_only
+21787,Mount Dandenong,22582,Truganina,,no_eligible_route
+21793,Mount Eliza,22582,Truganina,,no_eligible_route
+21795,Mount Evelyn,22582,Truganina,,no_eligible_route
+21801,Mount Macedon,22582,Truganina,,no_eligible_route
+21803,Mount Martha,22582,Truganina,,no_eligible_route
+21814,Mount Toolebewong,22582,Truganina,,no_eligible_route
+21816,Mount Waverley,22582,Truganina,193.92,ok
+21827,Mulgrave (Vic.),22582,Truganina,,no_eligible_route
+21849,Murrumbeena,22582,Truganina,179.23,ok
+21872,Nangana,22582,Truganina,,no_eligible_route
+21878,Nar Nar Goon,22582,Truganina,,no_eligible_route
+21879,Nar Nar Goon North,22582,Truganina,,no_eligible_route
+21893,Narre Warren,22582,Truganina,216.52,ok
+21894,Narre Warren East,22582,Truganina,,no_eligible_route
+21895,Narre Warren North,22582,Truganina,,no_eligible_route
+21896,Narre Warren South,22582,Truganina,,no_eligible_route
+21921,New Gisborne,22582,Truganina,,no_eligible_route
+21934,Newport (Vic.),22582,Truganina,123.57,ok
+21942,Niddrie,22582,Truganina,196.82,ok
+21952,Noble Park,22582,Truganina,190.33,ok
+21953,Noble Park North,22582,Truganina,223.52,ok
+21966,North Melbourne,22582,Truganina,145.05,ok
+21969,North Warrandyte,22582,Truganina,,no_eligible_route
+21971,Northcote,22582,Truganina,170.25,ok
+21974,Notting Hill,22582,Truganina,,no_eligible_route
+21985,Nunawading,22582,Truganina,185.2,ok
+21991,Nutfield,22582,Truganina,,no_eligible_route
+21998,Oak Park,22582,Truganina,174.15,ok
+21999,Oaklands Junction,22582,Truganina,,no_eligible_route
+22000,Oakleigh,22582,Truganina,181.78,ok
+22001,Oakleigh East,22582,Truganina,198.92,ok
+22002,Oakleigh South,22582,Truganina,195.33,ok
+22006,Officer,22582,Truganina,230.62,ok
+22007,Officer South,22582,Truganina,,no_eligible_route
+22009,Olinda (Vic.),22582,Truganina,,no_eligible_route
+22016,Ormond,22582,Truganina,179.77,ok
+22027,Pakenham,22582,Truganina,229.67,ok
+22028,Pakenham South,22582,Truganina,,no_eligible_route
+22029,Pakenham Upper,22582,Truganina,,no_eligible_route
+22032,Panton Hill,22582,Truganina,,no_eligible_route
+22036,Park Orchards,22582,Truganina,,no_eligible_route
+22037,Parkdale,22582,Truganina,204.1,ok
+22038,Parkville (Vic.),22582,Truganina,166.45,ok
+22041,Pascoe Vale,22582,Truganina,178.52,ok
+22042,Pascoe Vale South,22582,Truganina,174.25,ok
+22047,Patterson Lakes,22582,Truganina,233.87,ok
+22050,Pearcedale,22582,Truganina,,no_eligible_route
+22058,Pentland Hills,22582,Truganina,,no_eligible_route
+22064,Pheasant Creek (Vic.),22582,Truganina,,no_eligible_route
+22084,Plenty (Vic.),22582,Truganina,,no_eligible_route
+22085,Plumpton (Vic.),22582,Truganina,,no_eligible_route
+22086,Point Cook,22582,Truganina,117.15,ok
+22087,Point Leo,22582,Truganina,,no_eligible_route
+22107,Port Melbourne,22582,Truganina,178.77,ok
+22113,Portsea,22582,Truganina,,no_eligible_route
+22115,Powelltown,22582,Truganina,,no_eligible_route
+22118,Prahran,22582,Truganina,175.83,ok
+22121,Preston (Vic.),22582,Truganina,179.03,ok
+22122,Princes Hill,22582,Truganina,164.2,ok
+22132,Quandong,22582,Truganina,,no_eligible_route
+22141,Ravenhall,22582,Truganina,48.7,walk_only
+22148,Red Hill (Vic.),22582,Truganina,,no_eligible_route
+22149,Red Hill South,22582,Truganina,,no_eligible_route
+22160,Research,22582,Truganina,,no_eligible_route
+22161,Reservoir (Vic.),22582,Truganina,194.33,ok
+22170,Richmond (Vic.),22582,Truganina,160.78,ok
+22172,Riddells Creek,22582,Truganina,,no_eligible_route
+22174,Ringwood (Vic.),22582,Truganina,199.35,ok
+22175,Ringwood East,22582,Truganina,214.9,ok
+22176,Ringwood North,22582,Truganina,228.8,ok
+22179,Ripponlea,22582,Truganina,168.88,ok
+22185,Rochford,22582,Truganina,,no_eligible_route
+22186,Rockbank,22582,Truganina,59.17,ok
+22193,Romsey,22582,Truganina,,no_eligible_route
+22194,Rosanna,22582,Truganina,184.65,ok
+22198,Rosebud,22582,Truganina,,no_eligible_route
+22207,Rowville,22582,Truganina,,no_eligible_route
+22208,Roxburgh Park,22582,Truganina,204.0,ok
+22220,Rye,22582,Truganina,,no_eligible_route
+22221,Rythdale,22582,Truganina,,no_eligible_route
+22222,Safety Beach (Vic.),22582,Truganina,,no_eligible_route
+22232,Sandhurst,22582,Truganina,,no_eligible_route
+22234,Sandringham (Vic.),22582,Truganina,199.58,ok
+22239,Sassafras (Vic.),22582,Truganina,,no_eligible_route
+22242,Scoresby,22582,Truganina,,no_eligible_route
+22247,Seabrook,22582,Truganina,124.13,ok
+22249,Seaford (Vic.),22582,Truganina,228.63,ok
+22250,Seaholme,22582,Truganina,130.0,ok
+22256,Seddon (Vic.),22582,Truganina,134.93,ok
+22258,Selby,22582,Truganina,264.4,ok
+22263,Seville,22582,Truganina,,no_eligible_route
+22264,Seville East,22582,Truganina,,no_eligible_route
+22278,Sherbrooke,22582,Truganina,,no_eligible_route
+22279,Shoreham,22582,Truganina,,no_eligible_route
+22281,Silvan,22582,Truganina,,no_eligible_route
+22291,Skye (Vic.),22582,Truganina,,no_eligible_route
+22295,Smiths Gully,22582,Truganina,,no_eligible_route
+22303,Somers,22582,Truganina,,no_eligible_route
+22304,Somerton (Vic.),22582,Truganina,207.93,ok
+22305,Somerville (Vic.),22582,Truganina,,no_eligible_route
+22306,Sorrento (Vic.),22582,Truganina,,no_eligible_route
+22309,South Kingsville,22582,Truganina,145.2,ok
+22310,South Melbourne,22582,Truganina,154.08,ok
+22311,South Morang,22582,Truganina,229.5,ok
+22313,South Wharf,22582,Truganina,149.13,ok
+22314,South Yarra,22582,Truganina,159.78,ok
+22315,Southbank,22582,Truganina,151.92,ok
+22319,Spotswood,22582,Truganina,124.32,ok
+22325,Springfield (Macedon Ranges - Vic.),22582,Truganina,,no_eligible_route
+22328,Springvale (Vic.),22582,Truganina,191.3,ok
+22329,Springvale South,22582,Truganina,212.57,ok
+22330,St Albans (Vic.),22582,Truganina,143.4,ok
+22332,St Andrews (Vic.),22582,Truganina,,no_eligible_route
+22333,St Andrews Beach,22582,Truganina,,no_eligible_route
+22339,St Helena,22582,Truganina,,no_eligible_route
+22343,St Kilda (Vic.),22582,Truganina,166.48,ok
+22344,St Kilda East,22582,Truganina,180.93,ok
+22345,St Kilda West,22582,Truganina,163.6,ok
+22355,Steels Creek,22582,Truganina,,no_eligible_route
+22375,Strathewen,22582,Truganina,,no_eligible_route
+22380,Strathmore (Vic.),22582,Truganina,182.32,ok
+22381,Strathmore Heights,22582,Truganina,196.57,ok
+22382,Strathtulloh,22582,Truganina,181.28,ok
+22391,Sunbury,22582,Truganina,196.78,ok
+22395,Sunshine (Vic.),22582,Truganina,114.13,ok
+22396,Sunshine North,22582,Truganina,146.28,ok
+22397,Sunshine West,22582,Truganina,149.37,ok
+22399,Surrey Hills,22582,Truganina,179.3,ok
+22414,Sydenham (Vic.),22582,Truganina,121.2,ok
+22451,Tarneit,22582,Truganina,74.7,ok
+22457,Tarrawarra,22582,Truganina,,no_eligible_route
+22473,Taylors Hill,22582,Truganina,109.98,ok
+22474,Taylors Lakes,22582,Truganina,131.52,ok
+22476,Tecoma,22582,Truganina,228.8,ok
+22483,Templestowe,22582,Truganina,223.53,ok
+22484,Templestowe Lower,22582,Truganina,194.95,ok
+22496,The Basin (Vic.),22582,Truganina,,no_eligible_route
+22501,The Patch,22582,Truganina,,no_eligible_route
+22504,Thomastown,22582,Truganina,202.82,ok
+22508,Thornbury,22582,Truganina,176.42,ok
+22509,Thornhill Park,22582,Truganina,189.25,walk_only
+22514,Three Bridges,22582,Truganina,,no_eligible_route
+22531,Tonimbuk,22582,Truganina,,no_eligible_route
+22536,Toolangi,22582,Truganina,,no_eligible_route
+22537,Toolern Vale,22582,Truganina,,no_eligible_route
+22546,Tooradin,22582,Truganina,,no_eligible_route
+22547,Toorak,22582,Truganina,169.88,ok
+22550,Tootgarook,22582,Truganina,,no_eligible_route
+22556,Tottenham (Vic.),22582,Truganina,162.83,ok
+22572,Travancore,22582,Truganina,164.62,ok
+22576,Tremont,22582,Truganina,246.4,ok
+22582,Truganina,22582,Truganina,0.0,same_centroid
+22584,Tuerong,22582,Truganina,,no_eligible_route
+22586,Tullamarine,22582,Truganina,229.42,ok
+22594,Tyabb,22582,Truganina,,no_eligible_route
+22598,Tynong,22582,Truganina,,no_eligible_route
+22599,Tynong North,22582,Truganina,,no_eligible_route
+22614,Upper Ferntree Gully,22582,Truganina,225.95,ok
+22617,Upper Plenty,22582,Truganina,,no_eligible_route
+22620,Upwey,22582,Truganina,228.67,ok
+22627,Vermont,22582,Truganina,217.55,ok
+22628,Vermont South,22582,Truganina,205.33,ok
+22629,Vervale,22582,Truganina,,no_eligible_route
+22633,Viewbank,22582,Truganina,217.82,ok
+22661,Wallan,22582,Truganina,,no_eligible_route
+22672,Wandin East,22582,Truganina,,no_eligible_route
+22673,Wandin North,22582,Truganina,,no_eligible_route
+22676,Wandong,22582,Truganina,,no_eligible_route
+22685,Wantirna,22582,Truganina,,no_eligible_route
+22686,Wantirna South,22582,Truganina,,no_eligible_route
+22689,Warburton (Vic.),22582,Truganina,,no_eligible_route
+22695,Warneet,22582,Truganina,,no_eligible_route
+22702,Warrandyte,22582,Truganina,,no_eligible_route
+22703,Warrandyte South,22582,Truganina,,no_eligible_route
+22704,Warranwood,22582,Truganina,,no_eligible_route
+22717,Waterford Park,22582,Truganina,,no_eligible_route
+22720,Waterways,22582,Truganina,,no_eligible_route
+22721,Watsonia,22582,Truganina,185.1,ok
+22722,Watsonia North,22582,Truganina,208.63,ok
+22723,Watsons Creek (Vic.),22582,Truganina,,no_eligible_route
+22727,Wattle Glen,22582,Truganina,216.85,ok
+22740,Weir Views,22582,Truganina,150.48,ok
+22750,Werribee,22582,Truganina,96.95,ok
+22751,Werribee South,22582,Truganina,,no_eligible_route
+22753,Wesburn,22582,Truganina,,no_eligible_route
+22756,West Footscray,22582,Truganina,139.57,ok
+22757,West Melbourne,22582,Truganina,155.07,ok
+22761,Westmeadows,22582,Truganina,200.13,ok
+22766,Wheelers Hill,22582,Truganina,,no_eligible_route
+22775,Whittlesea,22582,Truganina,,no_eligible_route
+22784,Wildwood,22582,Truganina,,no_eligible_route
+22791,Williams Landing,22582,Truganina,91.93,ok
+22792,Williamstown (Vic.),22582,Truganina,141.1,ok
+22793,Williamstown North,22582,Truganina,145.32,ok
+22805,Windsor (Vic.),22582,Truganina,170.27,ok
+22820,Wollert,22582,Truganina,,no_eligible_route
+22825,Wonga Park,22582,Truganina,,no_eligible_route
+22843,Woodstock (Vic.),22582,Truganina,,no_eligible_route
+22857,Woori Yallock,22582,Truganina,,no_eligible_route
+22883,Wyndham Vale,22582,Truganina,128.5,ok
+22892,Yallambie,22582,Truganina,214.37,ok
+22898,Yan Yean,22582,Truganina,,no_eligible_route
+22906,Yannathan,22582,Truganina,,no_eligible_route
+22910,Yarra Glen,22582,Truganina,,no_eligible_route
+22911,Yarra Junction,22582,Truganina,,no_eligible_route
+22916,Yarrambat,22582,Truganina,,no_eligible_route
+22917,Yarraville,22582,Truganina,134.52,ok
+22925,Yellingbo,22582,Truganina,,no_eligible_route
+22930,Yering,22582,Truganina,,no_eligible_route
+22941,Yuroke,22582,Truganina,,no_eligible_route

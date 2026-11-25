@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21294,Kangaroo Ground,90.98,ok
+20003,Aberfeldie,21294,Kangaroo Ground,128.62,ok
+20011,Aintree,21294,Kangaroo Ground,186.07,ok
+20015,Airport West,21294,Kangaroo Ground,130.02,ok
+20017,Albanvale,21294,Kangaroo Ground,159.55,ok
+20018,Albert Park (Vic.),21294,Kangaroo Ground,116.47,ok
+20021,Albion (Vic.),21294,Kangaroo Ground,132.95,ok
+20034,Alphington,21294,Kangaroo Ground,72.65,ok
+20035,Altona (Vic.),21294,Kangaroo Ground,143.05,ok
+20036,Altona Meadows,21294,Kangaroo Ground,167.2,ok
+20037,Altona North,21294,Kangaroo Ground,157.45,ok
+20062,Ardeer,21294,Kangaroo Ground,147.1,ok
+20066,Armadale (Vic.),21294,Kangaroo Ground,112.2,ok
+20071,Arthurs Creek,21294,Kangaroo Ground,233.87,walk_only
+20072,Arthurs Seat,21294,Kangaroo Ground,,no_eligible_route
+20075,Ascot Vale,21294,Kangaroo Ground,124.18,ok
+20077,Ashburton,21294,Kangaroo Ground,123.92,ok
+20078,Ashwood,21294,Kangaroo Ground,119.18,ok
+20079,Aspendale,21294,Kangaroo Ground,158.45,ok
+20080,Aspendale Gardens,21294,Kangaroo Ground,156.32,ok
+20082,Attwood,21294,Kangaroo Ground,127.03,ok
+20089,Avondale Heights,21294,Kangaroo Ground,146.42,ok
+20091,Avonsleigh,21294,Kangaroo Ground,,no_eligible_route
+20095,Bacchus Marsh,21294,Kangaroo Ground,,no_eligible_route
+20097,Badger Creek,21294,Kangaroo Ground,175.65,ok
+20105,Balaclava (Vic.),21294,Kangaroo Ground,112.83,ok
+20120,Balnarring,21294,Kangaroo Ground,,no_eligible_route
+20121,Balnarring Beach,21294,Kangaroo Ground,,no_eligible_route
+20123,Balwyn,21294,Kangaroo Ground,100.93,ok
+20124,Balwyn North,21294,Kangaroo Ground,98.85,ok
+20131,Bangholme,21294,Kangaroo Ground,203.15,ok
+20169,Baxter,21294,Kangaroo Ground,,no_eligible_route
+20171,Bayles,21294,Kangaroo Ground,,no_eligible_route
+20173,Bayswater (Vic.),21294,Kangaroo Ground,100.45,ok
+20174,Bayswater North,21294,Kangaroo Ground,98.42,ok
+20175,Beaconsfield (Vic.),21294,Kangaroo Ground,183.77,ok
+20176,Beaconsfield Upper,21294,Kangaroo Ground,,no_eligible_route
+20182,Beaumaris (Vic.),21294,Kangaroo Ground,173.18,ok
+20187,Beenak,21294,Kangaroo Ground,,no_eligible_route
+20188,Belgrave,21294,Kangaroo Ground,113.53,ok
+20189,Belgrave Heights,21294,Kangaroo Ground,154.2,ok
+20190,Belgrave South,21294,Kangaroo Ground,163.18,ok
+20198,Bellfield (Banyule - Vic.),21294,Kangaroo Ground,91.87,ok
+20207,Bend Of Islands,21294,Kangaroo Ground,81.08,walk_only
+20212,Benloch,21294,Kangaroo Ground,,no_eligible_route
+20214,Bentleigh,21294,Kangaroo Ground,135.23,ok
+20215,Bentleigh East,21294,Kangaroo Ground,136.18,ok
+20224,Berwick,21294,Kangaroo Ground,156.57,ok
+20233,Beveridge,21294,Kangaroo Ground,184.72,ok
+20237,Big Pats Creek,21294,Kangaroo Ground,,no_eligible_route
+20248,Bittern,21294,Kangaroo Ground,,no_eligible_route
+20251,Black Rock (Vic.),21294,Kangaroo Ground,175.93,ok
+20252,Blackburn,21294,Kangaroo Ground,74.32,ok
+20253,Blackburn North,21294,Kangaroo Ground,70.92,ok
+20254,Blackburn South,21294,Kangaroo Ground,97.12,ok
+20257,Blairgowrie,21294,Kangaroo Ground,,no_eligible_route
+20260,Blind Bight,21294,Kangaroo Ground,,no_eligible_route
+20272,Bolinda,21294,Kangaroo Ground,,no_eligible_route
+20278,Bonbeach,21294,Kangaroo Ground,163.45,ok
+20280,Boneo,21294,Kangaroo Ground,,no_eligible_route
+20282,Bonnie Brook,21294,Kangaroo Ground,224.63,ok
+20304,Boronia,21294,Kangaroo Ground,102.92,ok
+20307,Botanic Ridge,21294,Kangaroo Ground,199.57,ok
+20314,Box Hill (Vic.),21294,Kangaroo Ground,87.98,ok
+20315,Box Hill North,21294,Kangaroo Ground,88.78,ok
+20316,Box Hill South,21294,Kangaroo Ground,96.38,ok
+20320,Braeside,21294,Kangaroo Ground,179.25,ok
+20324,Braybrook,21294,Kangaroo Ground,144.8,ok
+20331,Briar Hill,21294,Kangaroo Ground,60.42,ok
+20337,Brighton (Vic.),21294,Kangaroo Ground,125.6,ok
+20338,Brighton East,21294,Kangaroo Ground,128.85,ok
+20346,Broadmeadows (Vic.),21294,Kangaroo Ground,102.78,ok
+20351,Brookfield (Vic.),21294,Kangaroo Ground,,no_eligible_route
+20352,Brooklyn (Vic.),21294,Kangaroo Ground,148.63,ok
+20361,Brunswick (Vic.),21294,Kangaroo Ground,117.57,ok
+20362,Brunswick East,21294,Kangaroo Ground,110.95,ok
+20363,Brunswick West,21294,Kangaroo Ground,118.6,ok
+20381,Bulla (Vic.),21294,Kangaroo Ground,,no_eligible_route
+20386,Bulleen,21294,Kangaroo Ground,88.53,ok
+20387,Bullengarook,21294,Kangaroo Ground,,no_eligible_route
+20399,Bundoora (Vic.),21294,Kangaroo Ground,72.02,ok
+20411,Bunyip,21294,Kangaroo Ground,,no_eligible_route
+20412,Bunyip North,21294,Kangaroo Ground,,no_eligible_route
+20418,Burnley,21294,Kangaroo Ground,116.4,ok
+20419,Burnside (Vic.),21294,Kangaroo Ground,158.98,ok
+20420,Burnside Heights,21294,Kangaroo Ground,177.1,ok
+20426,Burwood (Vic.),21294,Kangaroo Ground,106.88,ok
+20427,Burwood East,21294,Kangaroo Ground,99.12,ok
+20435,Bylands,21294,Kangaroo Ground,,no_eligible_route
+20441,Cairnlea,21294,Kangaroo Ground,155.6,ok
+20442,Calder Park,21294,Kangaroo Ground,176.73,ok
+20443,Caldermeade,21294,Kangaroo Ground,,no_eligible_route
+20453,Camberwell (Vic.),21294,Kangaroo Ground,113.65,ok
+20455,Campbellfield,21294,Kangaroo Ground,130.32,ok
+20466,Cannons Creek,21294,Kangaroo Ground,,no_eligible_route
+20468,Canterbury (Vic.),21294,Kangaroo Ground,96.48,ok
+20474,Cape Schanck,21294,Kangaroo Ground,,no_eligible_route
+20476,Capel Sound,21294,Kangaroo Ground,,no_eligible_route
+20487,Cardinia,21294,Kangaroo Ground,,no_eligible_route
+20495,Carlton (Vic.),21294,Kangaroo Ground,93.82,ok
+20496,Carlton North,21294,Kangaroo Ground,111.15,ok
+20498,Carnegie,21294,Kangaroo Ground,131.75,ok
+20500,Caroline Springs,21294,Kangaroo Ground,170.87,ok
+20507,Carrum,21294,Kangaroo Ground,163.27,ok
+20508,Carrum Downs,21294,Kangaroo Ground,149.5,ok
+20512,Castella,21294,Kangaroo Ground,,no_eligible_route
+20517,Catani,21294,Kangaroo Ground,,no_eligible_route
+20521,Caulfield,21294,Kangaroo Ground,126.75,ok
+20522,Caulfield East,21294,Kangaroo Ground,123.63,ok
+20523,Caulfield North,21294,Kangaroo Ground,117.13,ok
+20524,Caulfield South,21294,Kangaroo Ground,133.08,ok
+20528,Chadstone,21294,Kangaroo Ground,118.42,ok
+20537,Chelsea,21294,Kangaroo Ground,149.43,ok
+20538,Chelsea Heights,21294,Kangaroo Ground,161.72,ok
+20539,Cheltenham (Vic.),21294,Kangaroo Ground,149.98,ok
+20541,Cherokee,21294,Kangaroo Ground,,no_eligible_route
+20555,Chintin,21294,Kangaroo Ground,,no_eligible_route
+20556,Chirnside Park,21294,Kangaroo Ground,139.82,ok
+20559,Christmas Hills (Vic.),21294,Kangaroo Ground,145.5,walk_only
+20560,Chum Creek,21294,Kangaroo Ground,,no_eligible_route
+20566,Clarinda,21294,Kangaroo Ground,143.37,ok
+20567,Clarkefield,21294,Kangaroo Ground,,no_eligible_route
+20569,Clayton,21294,Kangaroo Ground,120.87,ok
+20570,Clayton South,21294,Kangaroo Ground,150.17,ok
+20572,Clematis,21294,Kangaroo Ground,,no_eligible_route
+20574,Clifton Hill,21294,Kangaroo Ground,81.95,ok
+20576,Clonbinane,21294,Kangaroo Ground,,no_eligible_route
+20581,Clyde (Vic.),21294,Kangaroo Ground,,no_eligible_route
+20582,Clyde North,21294,Kangaroo Ground,187.17,ok
+20587,Cobaw,21294,Kangaroo Ground,,no_eligible_route
+20590,Cobblebank,21294,Kangaroo Ground,212.78,ok
+20596,Coburg,21294,Kangaroo Ground,111.42,ok
+20597,Coburg North,21294,Kangaroo Ground,119.57,ok
+20600,Cockatoo (Vic.),21294,Kangaroo Ground,,no_eligible_route
+20601,Cocoroc,21294,Kangaroo Ground,,no_eligible_route
+20605,Coimadai,21294,Kangaroo Ground,,no_eligible_route
+20613,Coldstream (Vic.),21294,Kangaroo Ground,,no_eligible_route
+20616,Collingwood (Vic.),21294,Kangaroo Ground,81.38,ok
+20624,Coolaroo,21294,Kangaroo Ground,125.47,ok
+20633,Cora Lynn,21294,Kangaroo Ground,,no_eligible_route
+20654,Cottles Bridge,21294,Kangaroo Ground,167.82,walk_only
+20661,Craigieburn,21294,Kangaroo Ground,157.07,ok
+20662,Cranbourne,21294,Kangaroo Ground,175.35,ok
+20663,Cranbourne East,21294,Kangaroo Ground,183.35,ok
+20664,Cranbourne North,21294,Kangaroo Ground,194.27,ok
+20665,Cranbourne South,21294,Kangaroo Ground,202.92,ok
+20666,Cranbourne West,21294,Kangaroo Ground,177.87,ok
+20670,Cremorne (Vic.),21294,Kangaroo Ground,96.73,ok
+20674,Crib Point,21294,Kangaroo Ground,,no_eligible_route
+20682,Croydon (Vic.),21294,Kangaroo Ground,91.13,ok
+20683,Croydon Hills,21294,Kangaroo Ground,82.92,ok
+20684,Croydon North,21294,Kangaroo Ground,115.3,ok
+20685,Croydon South,21294,Kangaroo Ground,104.27,ok
+20702,Dallas,21294,Kangaroo Ground,114.67,ok
+20703,Dalmore,21294,Kangaroo Ground,,no_eligible_route
+20707,Dandenong,21294,Kangaroo Ground,130.02,ok
+20708,Dandenong North,21294,Kangaroo Ground,129.43,ok
+20709,Dandenong South,21294,Kangaroo Ground,151.1,ok
+20712,Darley,21294,Kangaroo Ground,,no_eligible_route
+20716,Darraweit Guim,21294,Kangaroo Ground,,no_eligible_route
+20724,Deanside,21294,Kangaroo Ground,182.23,ok
+20728,Deepdene (Vic.),21294,Kangaroo Ground,109.83,ok
+20729,Deer Park,21294,Kangaroo Ground,143.93,ok
+20731,Delahey,21294,Kangaroo Ground,167.5,ok
+20743,Derrimut,21294,Kangaroo Ground,173.82,ok
+20748,Devon Meadows,21294,Kangaroo Ground,,no_eligible_route
+20750,Dewhurst,21294,Kangaroo Ground,,no_eligible_route
+20752,Diamond Creek,21294,Kangaroo Ground,64.15,ok
+20754,Diggers Rest,21294,Kangaroo Ground,161.05,ok
+20758,Dingley Village,21294,Kangaroo Ground,158.88,ok
+20762,Dixons Creek,21294,Kangaroo Ground,,no_eligible_route
+20766,Docklands,21294,Kangaroo Ground,108.98,ok
+20769,Don Valley,21294,Kangaroo Ground,,no_eligible_route
+20771,Doncaster,21294,Kangaroo Ground,68.22,ok
+20772,Doncaster East,21294,Kangaroo Ground,60.23,ok
+20773,Donnybrook (Vic.),21294,Kangaroo Ground,,no_eligible_route
+20774,Donvale,21294,Kangaroo Ground,90.75,ok
+20779,Doreen,21294,Kangaroo Ground,105.3,ok
+20783,Doveton,21294,Kangaroo Ground,141.8,ok
+20788,Dromana,21294,Kangaroo Ground,,no_eligible_route
+20825,Eaglemont,21294,Kangaroo Ground,77.17,ok
+20830,East Melbourne,21294,Kangaroo Ground,89.1,ok
+20833,East Warburton,21294,Kangaroo Ground,,no_eligible_route
+20843,Eden Park,21294,Kangaroo Ground,,no_eligible_route
+20848,Edithvale,21294,Kangaroo Ground,140.92,ok
+20864,Elsternwick,21294,Kangaroo Ground,123.05,ok
+20865,Eltham (Vic.),21294,Kangaroo Ground,54.4,ok
+20866,Eltham North,21294,Kangaroo Ground,58.88,ok
+20867,Elwood,21294,Kangaroo Ground,113.2,ok
+20868,Emerald (Vic.),21294,Kangaroo Ground,,no_eligible_route
+20871,Endeavour Hills,21294,Kangaroo Ground,178.23,ok
+20878,Epping (Vic.),21294,Kangaroo Ground,127.05,ok
+20885,Essendon,21294,Kangaroo Ground,120.02,ok
+20886,Essendon Fields,21294,Kangaroo Ground,144.52,ok
+20887,Essendon North,21294,Kangaroo Ground,122.22,ok
+20888,Essendon West,21294,Kangaroo Ground,124.83,ok
+20889,Eumemmerring,21294,Kangaroo Ground,166.67,ok
+20898,Exford,21294,Kangaroo Ground,,no_eligible_route
+20899,Eynesbury,21294,Kangaroo Ground,,no_eligible_route
+20901,Fairfield (Vic.),21294,Kangaroo Ground,82.95,ok
+20909,Fawkner,21294,Kangaroo Ground,110.57,ok
+20916,Fernshaw,21294,Kangaroo Ground,,no_eligible_route
+20917,Ferntree Gully,21294,Kangaroo Ground,118.28,ok
+20918,Ferny Creek,21294,Kangaroo Ground,153.82,ok
+20920,Fingal (Vic.),21294,Kangaroo Ground,,no_eligible_route
+20924,Fitzroy (Vic.),21294,Kangaroo Ground,93.7,ok
+20925,Fitzroy North,21294,Kangaroo Ground,96.98,ok
+20929,Flemington,21294,Kangaroo Ground,127.58,ok
+20930,Flinders (Vic.),21294,Kangaroo Ground,,no_eligible_route
+20935,Footscray,21294,Kangaroo Ground,120.37,ok
+20937,Forest Hill (Vic.),21294,Kangaroo Ground,83.97,ok
+20947,Frankston,21294,Kangaroo Ground,177.23,ok
+20948,Frankston North,21294,Kangaroo Ground,173.35,ok
+20949,Frankston South,21294,Kangaroo Ground,,no_eligible_route
+20950,Fraser Rise,21294,Kangaroo Ground,187.48,ok
+20965,Gardenvale,21294,Kangaroo Ground,122.03,ok
+20966,Garfield,21294,Kangaroo Ground,,no_eligible_route
+20967,Garfield North,21294,Kangaroo Ground,,no_eligible_route
+20979,Gembrook,21294,Kangaroo Ground,,no_eligible_route
+20995,Gilderoy,21294,Kangaroo Ground,,no_eligible_route
+21001,Gisborne,21294,Kangaroo Ground,,no_eligible_route
+21002,Gisborne South,21294,Kangaroo Ground,,no_eligible_route
+21004,Gladstone Park,21294,Kangaroo Ground,124.48,ok
+21005,Gladysdale,21294,Kangaroo Ground,,no_eligible_route
+21009,Glen Huntly,21294,Kangaroo Ground,126.77,ok
+21010,Glen Iris (Vic.),21294,Kangaroo Ground,123.63,ok
+21013,Glen Waverley,21294,Kangaroo Ground,108.53,ok
+21047,Glenroy (Vic.),21294,Kangaroo Ground,123.65,ok
+21059,Goldie,21294,Kangaroo Ground,,no_eligible_route
+21079,Gowanbrae,21294,Kangaroo Ground,133.08,ok
+21087,Grangefields,21294,Kangaroo Ground,211.88,ok
+21104,Greensborough,21294,Kangaroo Ground,61.68,ok
+21105,Greenvale (Vic.),21294,Kangaroo Ground,146.9,ok
+21115,Gruyere,21294,Kangaroo Ground,,no_eligible_route
+21121,Guys Hill,21294,Kangaroo Ground,,no_eligible_route
+21124,Hadfield,21294,Kangaroo Ground,132.8,ok
+21125,Hallam,21294,Kangaroo Ground,162.68,ok
+21131,Hampton (Vic.),21294,Kangaroo Ground,143.43,ok
+21132,Hampton East,21294,Kangaroo Ground,142.0,ok
+21133,Hampton Park,21294,Kangaroo Ground,165.23,ok
+21139,Harkaway,21294,Kangaroo Ground,,no_eligible_route
+21140,Harkness,21294,Kangaroo Ground,,no_eligible_route
+21145,Hastings (Vic.),21294,Kangaroo Ground,,no_eligible_route
+21152,Hawthorn (Vic.),21294,Kangaroo Ground,108.8,ok
+21153,Hawthorn East,21294,Kangaroo Ground,107.87,ok
+21158,Healesville,21294,Kangaroo Ground,179.57,ok
+21159,Heath Hill,21294,Kangaroo Ground,,no_eligible_route
+21161,Heathcote Junction,21294,Kangaroo Ground,,no_eligible_route
+21163,Heatherton,21294,Kangaroo Ground,150.38,ok
+21165,Heathmont,21294,Kangaroo Ground,87.82,ok
+21167,Heidelberg,21294,Kangaroo Ground,78.5,ok
+21168,Heidelberg Heights,21294,Kangaroo Ground,80.4,ok
+21169,Heidelberg West,21294,Kangaroo Ground,88.82,ok
+21176,Hesket,21294,Kangaroo Ground,,no_eligible_route
+21185,Highett,21294,Kangaroo Ground,134.77,ok
+21193,Hillside (Melton - Vic.),21294,Kangaroo Ground,161.13,ok
+21195,Hmas Cerberus,21294,Kangaroo Ground,,no_eligible_route
+21196,Hoddles Creek,21294,Kangaroo Ground,,no_eligible_route
+21202,Hopetoun Park,21294,Kangaroo Ground,,no_eligible_route
+21203,Hoppers Crossing,21294,Kangaroo Ground,168.75,ok
+21214,Hughesdale,21294,Kangaroo Ground,132.43,ok
+21215,Humevale,21294,Kangaroo Ground,,no_eligible_route
+21218,Huntingdale (Vic.),21294,Kangaroo Ground,126.63,ok
+21223,Hurstbridge,21294,Kangaroo Ground,64.7,ok
+21238,Iona,21294,Kangaroo Ground,,no_eligible_route
+21246,Ivanhoe (Vic.),21294,Kangaroo Ground,70.58,ok
+21247,Ivanhoe East,21294,Kangaroo Ground,86.85,ok
+21248,Jacana,21294,Kangaroo Ground,112.02,ok
+21277,Junction Village,21294,Kangaroo Ground,211.9,ok
+21284,Kalkallo,21294,Kangaroo Ground,,no_eligible_route
+21286,Kallista,21294,Kangaroo Ground,157.25,ok
+21287,Kalorama,21294,Kangaroo Ground,123.52,ok
+21294,Kangaroo Ground,21294,Kangaroo Ground,0.0,same_centroid
+21312,Kealba,21294,Kangaroo Ground,148.2,ok
+21314,Keilor,21294,Kangaroo Ground,182.47,ok
+21315,Keilor Downs,21294,Kangaroo Ground,160.3,ok
+21316,Keilor East,21294,Kangaroo Ground,135.83,ok
+21317,Keilor Lodge,21294,Kangaroo Ground,163.92,ok
+21318,Keilor North,21294,Kangaroo Ground,169.98,ok
+21319,Keilor Park,21294,Kangaroo Ground,162.25,ok
+21327,Kensington (Vic.),21294,Kangaroo Ground,111.5,ok
+21333,Kerrie,21294,Kangaroo Ground,,no_eligible_route
+21336,Kew (Vic.),21294,Kangaroo Ground,104.73,ok
+21337,Kew East,21294,Kangaroo Ground,100.38,ok
+21339,Keysborough,21294,Kangaroo Ground,148.9,ok
+21354,Kilsyth,21294,Kangaroo Ground,107.85,ok
+21355,Kilsyth South,21294,Kangaroo Ground,124.05,ok
+21358,Kinglake,21294,Kangaroo Ground,,no_eligible_route
+21359,Kinglake Central,21294,Kangaroo Ground,,no_eligible_route
+21360,Kinglake West,21294,Kangaroo Ground,,no_eligible_route
+21362,Kings Park (Vic.),21294,Kangaroo Ground,162.22,ok
+21363,Kingsbury,21294,Kangaroo Ground,89.25,ok
+21365,Kingsville,21294,Kangaroo Ground,129.43,ok
+21374,Knoxfield,21294,Kangaroo Ground,122.57,ok
+21380,Koo Wee Rup,21294,Kangaroo Ground,,no_eligible_route
+21381,Koo Wee Rup North,21294,Kangaroo Ground,,no_eligible_route
+21393,Kooyong,21294,Kangaroo Ground,116.05,ok
+21411,Kurunjang,21294,Kangaroo Ground,230.87,ok
+21452,Lalor,21294,Kangaroo Ground,99.27,ok
+21456,Lancefield,21294,Kangaroo Ground,,no_eligible_route
+21459,Lang Lang,21294,Kangaroo Ground,,no_eligible_route
+21460,Lang Lang East,21294,Kangaroo Ground,,no_eligible_route
+21467,Langwarrin,21294,Kangaroo Ground,194.58,ok
+21468,Langwarrin South,21294,Kangaroo Ground,,no_eligible_route
+21473,Launching Place,21294,Kangaroo Ground,154.2,ok
+21476,Laverton (Vic.),21294,Kangaroo Ground,146.52,ok
+21477,Laverton North,21294,Kangaroo Ground,193.55,ok
+21504,Lilydale (Vic.),21294,Kangaroo Ground,122.85,ok
+21533,Long Forest,21294,Kangaroo Ground,,no_eligible_route
+21547,Lower Plenty,21294,Kangaroo Ground,85.07,ok
+21554,Lynbrook,21294,Kangaroo Ground,156.07,ok
+21555,Lyndhurst (Vic.),21294,Kangaroo Ground,,no_eligible_route
+21558,Lysterfield,21294,Kangaroo Ground,,no_eligible_route
+21559,Lysterfield South,21294,Kangaroo Ground,216.78,ok
+21561,Macclesfield (Vic.),21294,Kangaroo Ground,,no_eligible_route
+21562,Macedon,21294,Kangaroo Ground,,no_eligible_route
+21564,Macleod (Vic.),21294,Kangaroo Ground,66.48,ok
+21569,Maddingley,21294,Kangaroo Ground,,no_eligible_route
+21575,Maidstone,21294,Kangaroo Ground,141.03,ok
+21578,Main Ridge,21294,Kangaroo Ground,,no_eligible_route
+21586,Malvern (Vic.),21294,Kangaroo Ground,116.22,ok
+21587,Malvern East,21294,Kangaroo Ground,129.15,ok
+21588,Mambourin,21294,Kangaroo Ground,,no_eligible_route
+21597,Manor Lakes,21294,Kangaroo Ground,204.45,ok
+21604,Maribyrnong,21294,Kangaroo Ground,138.8,ok
+21619,Maryknoll,21294,Kangaroo Ground,,no_eligible_route
+21625,McCrae,21294,Kangaroo Ground,,no_eligible_route
+21629,McKinnon,21294,Kangaroo Ground,124.07,ok
+21635,Meadow Heights,21294,Kangaroo Ground,130.87,ok
+21640,Melbourne,21294,Kangaroo Ground,108.53,ok
+21641,Melbourne Airport,21294,Kangaroo Ground,,no_eligible_route
+21642,Melton (Vic.),21294,Kangaroo Ground,215.0,ok
+21643,Melton South,21294,Kangaroo Ground,228.6,ok
+21644,Melton West,21294,Kangaroo Ground,223.83,ok
+21648,Mentone,21294,Kangaroo Ground,120.28,ok
+21649,Menzies Creek,21294,Kangaroo Ground,,no_eligible_route
+21659,Mernda,21294,Kangaroo Ground,134.48,ok
+21662,Merricks,21294,Kangaroo Ground,,no_eligible_route
+21663,Merricks Beach,21294,Kangaroo Ground,,no_eligible_route
+21664,Merricks North,21294,Kangaroo Ground,,no_eligible_route
+21668,Merrimu,21294,Kangaroo Ground,,no_eligible_route
+21675,Mickleham,21294,Kangaroo Ground,191.23,ok
+21677,Middle Park (Vic.),21294,Kangaroo Ground,120.33,ok
+21683,Mill Park,21294,Kangaroo Ground,91.62,ok
+21685,Millgrove,21294,Kangaroo Ground,,no_eligible_route
+21706,Mitcham (Vic.),21294,Kangaroo Ground,86.85,ok
+21727,Monbulk,21294,Kangaroo Ground,164.7,ok
+21728,Monegeetta,21294,Kangaroo Ground,,no_eligible_route
+21731,Monomeith,21294,Kangaroo Ground,,no_eligible_route
+21732,Mont Albert,21294,Kangaroo Ground,94.67,ok
+21733,Mont Albert North,21294,Kangaroo Ground,93.27,ok
+21735,Montmorency,21294,Kangaroo Ground,55.92,ok
+21736,Montrose (Vic.),21294,Kangaroo Ground,107.07,ok
+21742,Moonee Ponds,21294,Kangaroo Ground,113.57,ok
+21746,Moorabbin,21294,Kangaroo Ground,149.02,ok
+21747,Moorabbin Airport,21294,Kangaroo Ground,161.25,ok
+21754,Moorooduc,21294,Kangaroo Ground,,no_eligible_route
+21755,Mooroolbark,21294,Kangaroo Ground,105.75,ok
+21760,Mordialloc,21294,Kangaroo Ground,157.55,ok
+21763,Mornington (Vic.),21294,Kangaroo Ground,,no_eligible_route
+21779,Mount Burnett,21294,Kangaroo Ground,,no_eligible_route
+21786,Mount Cottrell,21294,Kangaroo Ground,,no_eligible_route
+21787,Mount Dandenong,21294,Kangaroo Ground,127.52,ok
+21793,Mount Eliza,21294,Kangaroo Ground,,no_eligible_route
+21795,Mount Evelyn,21294,Kangaroo Ground,124.92,ok
+21801,Mount Macedon,21294,Kangaroo Ground,,no_eligible_route
+21803,Mount Martha,21294,Kangaroo Ground,,no_eligible_route
+21814,Mount Toolebewong,21294,Kangaroo Ground,,no_eligible_route
+21816,Mount Waverley,21294,Kangaroo Ground,112.4,ok
+21827,Mulgrave (Vic.),21294,Kangaroo Ground,143.45,ok
+21849,Murrumbeena,21294,Kangaroo Ground,134.83,ok
+21872,Nangana,21294,Kangaroo Ground,,no_eligible_route
+21878,Nar Nar Goon,21294,Kangaroo Ground,,no_eligible_route
+21879,Nar Nar Goon North,21294,Kangaroo Ground,,no_eligible_route
+21893,Narre Warren,21294,Kangaroo Ground,162.12,ok
+21894,Narre Warren East,21294,Kangaroo Ground,,no_eligible_route
+21895,Narre Warren North,21294,Kangaroo Ground,223.17,ok
+21896,Narre Warren South,21294,Kangaroo Ground,191.82,ok
+21921,New Gisborne,21294,Kangaroo Ground,,no_eligible_route
+21934,Newport (Vic.),21294,Kangaroo Ground,126.37,ok
+21942,Niddrie,21294,Kangaroo Ground,142.15,ok
+21952,Noble Park,21294,Kangaroo Ground,135.93,ok
+21953,Noble Park North,21294,Kangaroo Ground,152.73,ok
+21966,North Melbourne,21294,Kangaroo Ground,107.9,ok
+21969,North Warrandyte,21294,Kangaroo Ground,56.92,ok
+21971,Northcote,21294,Kangaroo Ground,90.58,ok
+21974,Notting Hill,21294,Kangaroo Ground,107.2,ok
+21985,Nunawading,21294,Kangaroo Ground,80.02,ok
+21991,Nutfield,21294,Kangaroo Ground,180.63,walk_only
+21998,Oak Park,21294,Kangaroo Ground,123.85,ok
+21999,Oaklands Junction,21294,Kangaroo Ground,,no_eligible_route
+22000,Oakleigh,21294,Kangaroo Ground,116.08,ok
+22001,Oakleigh East,21294,Kangaroo Ground,129.05,ok
+22002,Oakleigh South,21294,Kangaroo Ground,123.67,ok
+22006,Officer,21294,Kangaroo Ground,176.22,ok
+22007,Officer South,21294,Kangaroo Ground,224.92,ok
+22009,Olinda (Vic.),21294,Kangaroo Ground,152.17,ok
+22016,Ormond,21294,Kangaroo Ground,124.5,ok
+22027,Pakenham,21294,Kangaroo Ground,162.27,ok
+22028,Pakenham South,21294,Kangaroo Ground,,no_eligible_route
+22029,Pakenham Upper,21294,Kangaroo Ground,,no_eligible_route
+22032,Panton Hill,21294,Kangaroo Ground,110.57,walk_only
+22036,Park Orchards,21294,Kangaroo Ground,75.53,ok
+22037,Parkdale,21294,Kangaroo Ground,149.83,ok
+22038,Parkville (Vic.),21294,Kangaroo Ground,120.32,ok
+22041,Pascoe Vale,21294,Kangaroo Ground,120.62,ok
+22042,Pascoe Vale South,21294,Kangaroo Ground,115.43,ok
+22047,Patterson Lakes,21294,Kangaroo Ground,180.6,ok
+22050,Pearcedale,21294,Kangaroo Ground,220.22,ok
+22058,Pentland Hills,21294,Kangaroo Ground,,no_eligible_route
+22064,Pheasant Creek (Vic.),21294,Kangaroo Ground,,no_eligible_route
+22084,Plenty (Vic.),21294,Kangaroo Ground,96.28,ok
+22085,Plumpton (Vic.),21294,Kangaroo Ground,,no_eligible_route
+22086,Point Cook,21294,Kangaroo Ground,188.55,ok
+22087,Point Leo,21294,Kangaroo Ground,,no_eligible_route
+22107,Port Melbourne,21294,Kangaroo Ground,122.5,ok
+22113,Portsea,21294,Kangaroo Ground,,no_eligible_route
+22115,Powelltown,21294,Kangaroo Ground,,no_eligible_route
+22118,Prahran,21294,Kangaroo Ground,109.57,ok
+22121,Preston (Vic.),21294,Kangaroo Ground,96.72,ok
+22122,Princes Hill,21294,Kangaroo Ground,104.75,ok
+22132,Quandong,21294,Kangaroo Ground,,no_eligible_route
+22141,Ravenhall,21294,Kangaroo Ground,189.68,ok
+22148,Red Hill (Vic.),21294,Kangaroo Ground,,no_eligible_route
+22149,Red Hill South,21294,Kangaroo Ground,,no_eligible_route
+22160,Research,21294,Kangaroo Ground,45.78,ok
+22161,Reservoir (Vic.),21294,Kangaroo Ground,101.18,ok
+22170,Richmond (Vic.),21294,Kangaroo Ground,98.52,ok
+22172,Riddells Creek,21294,Kangaroo Ground,,no_eligible_route
+22174,Ringwood (Vic.),21294,Kangaroo Ground,69.48,ok
+22175,Ringwood East,21294,Kangaroo Ground,79.9,ok
+22176,Ringwood North,21294,Kangaroo Ground,67.53,ok
+22179,Ripponlea,21294,Kangaroo Ground,111.47,ok
+22185,Rochford,21294,Kangaroo Ground,,no_eligible_route
+22186,Rockbank,21294,Kangaroo Ground,188.27,ok
+22193,Romsey,21294,Kangaroo Ground,,no_eligible_route
+22194,Rosanna,21294,Kangaroo Ground,68.97,ok
+22198,Rosebud,21294,Kangaroo Ground,,no_eligible_route
+22207,Rowville,21294,Kangaroo Ground,125.58,ok
+22208,Roxburgh Park,21294,Kangaroo Ground,144.93,ok
+22220,Rye,21294,Kangaroo Ground,,no_eligible_route
+22221,Rythdale,21294,Kangaroo Ground,,no_eligible_route
+22222,Safety Beach (Vic.),21294,Kangaroo Ground,,no_eligible_route
+22232,Sandhurst,21294,Kangaroo Ground,177.43,ok
+22234,Sandringham (Vic.),21294,Kangaroo Ground,147.4,ok
+22239,Sassafras (Vic.),21294,Kangaroo Ground,136.58,ok
+22242,Scoresby,21294,Kangaroo Ground,138.28,ok
+22247,Seabrook,21294,Kangaroo Ground,162.92,ok
+22249,Seaford (Vic.),21294,Kangaroo Ground,175.37,ok
+22250,Seaholme,21294,Kangaroo Ground,137.73,ok
+22256,Seddon (Vic.),21294,Kangaroo Ground,119.62,ok
+22258,Selby,21294,Kangaroo Ground,155.13,ok
+22263,Seville,21294,Kangaroo Ground,165.37,ok
+22264,Seville East,21294,Kangaroo Ground,152.25,ok
+22278,Sherbrooke,21294,Kangaroo Ground,147.32,ok
+22279,Shoreham,21294,Kangaroo Ground,,no_eligible_route
+22281,Silvan,21294,Kangaroo Ground,156.8,ok
+22291,Skye (Vic.),21294,Kangaroo Ground,196.15,ok
+22295,Smiths Gully,21294,Kangaroo Ground,158.97,walk_only
+22303,Somers,21294,Kangaroo Ground,,no_eligible_route
+22304,Somerton (Vic.),21294,Kangaroo Ground,129.73,ok
+22305,Somerville (Vic.),21294,Kangaroo Ground,,no_eligible_route
+22306,Sorrento (Vic.),21294,Kangaroo Ground,,no_eligible_route
+22309,South Kingsville,21294,Kangaroo Ground,138.62,ok
+22310,South Melbourne,21294,Kangaroo Ground,118.68,ok
+22311,South Morang,21294,Kangaroo Ground,126.8,ok
+22313,South Wharf,21294,Kangaroo Ground,111.97,ok
+22314,South Yarra,21294,Kangaroo Ground,97.85,ok
+22315,Southbank,21294,Kangaroo Ground,112.25,ok
+22319,Spotswood,21294,Kangaroo Ground,119.77,ok
+22325,Springfield (Macedon Ranges - Vic.),21294,Kangaroo Ground,,no_eligible_route
+22328,Springvale (Vic.),21294,Kangaroo Ground,127.02,ok
+22329,Springvale South,21294,Kangaroo Ground,125.63,ok
+22330,St Albans (Vic.),21294,Kangaroo Ground,135.58,ok
+22332,St Andrews (Vic.),21294,Kangaroo Ground,212.8,walk_only
+22333,St Andrews Beach,21294,Kangaroo Ground,,no_eligible_route
+22339,St Helena,21294,Kangaroo Ground,70.12,ok
+22343,St Kilda (Vic.),21294,Kangaroo Ground,101.17,ok
+22344,St Kilda East,21294,Kangaroo Ground,117.77,ok
+22345,St Kilda West,21294,Kangaroo Ground,112.85,ok
+22355,Steels Creek,21294,Kangaroo Ground,,no_eligible_route
+22375,Strathewen,21294,Kangaroo Ground,,no_eligible_route
+22380,Strathmore (Vic.),21294,Kangaroo Ground,135.12,ok
+22381,Strathmore Heights,21294,Kangaroo Ground,131.62,ok
+22382,Strathtulloh,21294,Kangaroo Ground,,no_eligible_route
+22391,Sunbury,21294,Kangaroo Ground,214.75,ok
+22395,Sunshine (Vic.),21294,Kangaroo Ground,124.37,ok
+22396,Sunshine North,21294,Kangaroo Ground,150.15,ok
+22397,Sunshine West,21294,Kangaroo Ground,151.72,ok
+22399,Surrey Hills,21294,Kangaroo Ground,94.97,ok
+22414,Sydenham (Vic.),21294,Kangaroo Ground,149.98,ok
+22451,Tarneit,21294,Kangaroo Ground,206.75,ok
+22457,Tarrawarra,21294,Kangaroo Ground,155.17,ok
+22473,Taylors Hill,21294,Kangaroo Ground,177.97,ok
+22474,Taylors Lakes,21294,Kangaroo Ground,154.87,ok
+22476,Tecoma,21294,Kangaroo Ground,110.53,ok
+22483,Templestowe,21294,Kangaroo Ground,64.47,ok
+22484,Templestowe Lower,21294,Kangaroo Ground,77.15,ok
+22496,The Basin (Vic.),21294,Kangaroo Ground,127.72,ok
+22501,The Patch,21294,Kangaroo Ground,155.27,ok
+22504,Thomastown,21294,Kangaroo Ground,105.23,ok
+22508,Thornbury,21294,Kangaroo Ground,89.85,ok
+22509,Thornhill Park,21294,Kangaroo Ground,,no_eligible_route
+22514,Three Bridges,21294,Kangaroo Ground,,no_eligible_route
+22531,Tonimbuk,21294,Kangaroo Ground,,no_eligible_route
+22536,Toolangi,21294,Kangaroo Ground,,no_eligible_route
+22537,Toolern Vale,21294,Kangaroo Ground,,no_eligible_route
+22546,Tooradin,21294,Kangaroo Ground,,no_eligible_route
+22547,Toorak,21294,Kangaroo Ground,109.62,ok
+22550,Tootgarook,21294,Kangaroo Ground,,no_eligible_route
+22556,Tottenham (Vic.),21294,Kangaroo Ground,150.8,ok
+22572,Travancore,21294,Kangaroo Ground,116.32,ok
+22576,Tremont,21294,Kangaroo Ground,132.72,ok
+22582,Truganina,21294,Kangaroo Ground,,no_eligible_route
+22584,Tuerong,21294,Kangaroo Ground,,no_eligible_route
+22586,Tullamarine,21294,Kangaroo Ground,125.35,ok
+22594,Tyabb,21294,Kangaroo Ground,,no_eligible_route
+22598,Tynong,21294,Kangaroo Ground,,no_eligible_route
+22599,Tynong North,21294,Kangaroo Ground,,no_eligible_route
+22614,Upper Ferntree Gully,21294,Kangaroo Ground,107.68,ok
+22617,Upper Plenty,21294,Kangaroo Ground,,no_eligible_route
+22620,Upwey,21294,Kangaroo Ground,110.4,ok
+22627,Vermont,21294,Kangaroo Ground,102.0,ok
+22628,Vermont South,21294,Kangaroo Ground,111.88,ok
+22629,Vervale,21294,Kangaroo Ground,,no_eligible_route
+22633,Viewbank,21294,Kangaroo Ground,86.2,ok
+22661,Wallan,21294,Kangaroo Ground,,no_eligible_route
+22672,Wandin East,21294,Kangaroo Ground,,no_eligible_route
+22673,Wandin North,21294,Kangaroo Ground,138.33,ok
+22676,Wandong,21294,Kangaroo Ground,,no_eligible_route
+22685,Wantirna,21294,Kangaroo Ground,98.68,ok
+22686,Wantirna South,21294,Kangaroo Ground,117.53,ok
+22689,Warburton (Vic.),21294,Kangaroo Ground,,no_eligible_route
+22695,Warneet,21294,Kangaroo Ground,,no_eligible_route
+22702,Warrandyte,21294,Kangaroo Ground,39.18,ok
+22703,Warrandyte South,21294,Kangaroo Ground,68.73,ok
+22704,Warranwood,21294,Kangaroo Ground,54.27,ok
+22717,Waterford Park,21294,Kangaroo Ground,,no_eligible_route
+22720,Waterways,21294,Kangaroo Ground,148.07,ok
+22721,Watsonia,21294,Kangaroo Ground,57.7,ok
+22722,Watsonia North,21294,Kangaroo Ground,74.2,ok
+22723,Watsons Creek (Vic.),21294,Kangaroo Ground,67.28,walk_only
+22727,Wattle Glen,21294,Kangaroo Ground,68.45,ok
+22740,Weir Views,21294,Kangaroo Ground,,no_eligible_route
+22750,Werribee,21294,Kangaroo Ground,171.92,ok
+22751,Werribee South,21294,Kangaroo Ground,,no_eligible_route
+22753,Wesburn,21294,Kangaroo Ground,170.3,ok
+22756,West Footscray,21294,Kangaroo Ground,127.53,ok
+22757,West Melbourne,21294,Kangaroo Ground,121.47,ok
+22761,Westmeadows,21294,Kangaroo Ground,115.73,ok
+22766,Wheelers Hill,21294,Kangaroo Ground,132.27,ok
+22775,Whittlesea,21294,Kangaroo Ground,,no_eligible_route
+22784,Wildwood,21294,Kangaroo Ground,,no_eligible_route
+22791,Williams Landing,21294,Kangaroo Ground,160.77,ok
+22792,Williamstown (Vic.),21294,Kangaroo Ground,128.58,ok
+22793,Williamstown North,21294,Kangaroo Ground,148.12,ok
+22805,Windsor (Vic.),21294,Kangaroo Ground,107.78,ok
+22820,Wollert,21294,Kangaroo Ground,160.8,ok
+22825,Wonga Park,21294,Kangaroo Ground,140.08,ok
+22843,Woodstock (Vic.),21294,Kangaroo Ground,,no_eligible_route
+22857,Woori Yallock,21294,Kangaroo Ground,149.45,ok
+22883,Wyndham Vale,21294,Kangaroo Ground,189.37,ok
+22892,Yallambie,21294,Kangaroo Ground,77.8,ok
+22898,Yan Yean,21294,Kangaroo Ground,157.5,ok
+22906,Yannathan,21294,Kangaroo Ground,,no_eligible_route
+22910,Yarra Glen,21294,Kangaroo Ground,152.47,ok
+22911,Yarra Junction,21294,Kangaroo Ground,174.57,ok
+22916,Yarrambat,21294,Kangaroo Ground,90.67,ok
+22917,Yarraville,21294,Kangaroo Ground,125.52,ok
+22925,Yellingbo,21294,Kangaroo Ground,,no_eligible_route
+22930,Yering,21294,Kangaroo Ground,,no_eligible_route
+22941,Yuroke,21294,Kangaroo Ground,209.87,ok

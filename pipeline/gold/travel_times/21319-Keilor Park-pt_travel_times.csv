@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21319,Keilor Park,79.98,ok
+20003,Aberfeldie,21319,Keilor Park,37.2,ok
+20011,Aintree,21319,Keilor Park,76.22,ok
+20015,Airport West,21319,Keilor Park,29.73,ok
+20017,Albanvale,21319,Keilor Park,74.68,ok
+20018,Albert Park (Vic.),21319,Keilor Park,72.1,ok
+20021,Albion (Vic.),21319,Keilor Park,64.17,ok
+20034,Alphington,21319,Keilor Park,88.15,ok
+20035,Altona (Vic.),21319,Keilor Park,95.23,ok
+20036,Altona Meadows,21319,Keilor Park,95.38,ok
+20037,Altona North,21319,Keilor Park,93.63,ok
+20062,Ardeer,21319,Keilor Park,70.28,ok
+20066,Armadale (Vic.),21319,Keilor Park,82.38,ok
+20071,Arthurs Creek,21319,Keilor Park,,no_eligible_route
+20072,Arthurs Seat,21319,Keilor Park,,no_eligible_route
+20075,Ascot Vale,21319,Keilor Park,55.3,ok
+20077,Ashburton,21319,Keilor Park,98.98,ok
+20078,Ashwood,21319,Keilor Park,109.18,ok
+20079,Aspendale,21319,Keilor Park,129.63,ok
+20080,Aspendale Gardens,21319,Keilor Park,149.38,ok
+20082,Attwood,21319,Keilor Park,69.18,ok
+20089,Avondale Heights,21319,Keilor Park,38.22,ok
+20091,Avonsleigh,21319,Keilor Park,,no_eligible_route
+20095,Bacchus Marsh,21319,Keilor Park,,no_eligible_route
+20097,Badger Creek,21319,Keilor Park,197.83,ok
+20105,Balaclava (Vic.),21319,Keilor Park,84.02,ok
+20120,Balnarring,21319,Keilor Park,,no_eligible_route
+20121,Balnarring Beach,21319,Keilor Park,,no_eligible_route
+20123,Balwyn,21319,Keilor Park,108.15,ok
+20124,Balwyn North,21319,Keilor Park,106.88,ok
+20131,Bangholme,21319,Keilor Park,183.33,ok
+20169,Baxter,21319,Keilor Park,,no_eligible_route
+20171,Bayles,21319,Keilor Park,,no_eligible_route
+20173,Bayswater (Vic.),21319,Keilor Park,132.63,ok
+20174,Bayswater North,21319,Keilor Park,146.6,ok
+20175,Beaconsfield (Vic.),21319,Keilor Park,165.08,ok
+20176,Beaconsfield Upper,21319,Keilor Park,,no_eligible_route
+20182,Beaumaris (Vic.),21319,Keilor Park,133.78,ok
+20187,Beenak,21319,Keilor Park,,no_eligible_route
+20188,Belgrave,21319,Keilor Park,145.72,ok
+20189,Belgrave Heights,21319,Keilor Park,177.38,ok
+20190,Belgrave South,21319,Keilor Park,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21319,Keilor Park,89.5,ok
+20207,Bend Of Islands,21319,Keilor Park,,no_eligible_route
+20212,Benloch,21319,Keilor Park,,no_eligible_route
+20214,Bentleigh,21319,Keilor Park,102.42,ok
+20215,Bentleigh East,21319,Keilor Park,107.37,ok
+20224,Berwick,21319,Keilor Park,137.88,ok
+20233,Beveridge,21319,Keilor Park,114.9,ok
+20237,Big Pats Creek,21319,Keilor Park,,no_eligible_route
+20248,Bittern,21319,Keilor Park,,no_eligible_route
+20251,Black Rock (Vic.),21319,Keilor Park,123.83,ok
+20252,Blackburn,21319,Keilor Park,96.97,ok
+20253,Blackburn North,21319,Keilor Park,106.95,ok
+20254,Blackburn South,21319,Keilor Park,114.93,ok
+20257,Blairgowrie,21319,Keilor Park,,no_eligible_route
+20260,Blind Bight,21319,Keilor Park,,no_eligible_route
+20272,Bolinda,21319,Keilor Park,,no_eligible_route
+20278,Bonbeach,21319,Keilor Park,129.63,ok
+20280,Boneo,21319,Keilor Park,,no_eligible_route
+20282,Bonnie Brook,21319,Keilor Park,125.77,ok
+20304,Boronia,21319,Keilor Park,135.1,ok
+20307,Botanic Ridge,21319,Keilor Park,170.75,ok
+20314,Box Hill (Vic.),21319,Keilor Park,95.08,ok
+20315,Box Hill North,21319,Keilor Park,104.83,ok
+20316,Box Hill South,21319,Keilor Park,111.57,ok
+20320,Braeside,21319,Keilor Park,156.03,ok
+20324,Braybrook,21319,Keilor Park,65.92,ok
+20331,Briar Hill,21319,Keilor Park,106.47,ok
+20337,Brighton (Vic.),21319,Keilor Park,96.78,ok
+20338,Brighton East,21319,Keilor Park,100.03,ok
+20346,Broadmeadows (Vic.),21319,Keilor Park,69.87,ok
+20351,Brookfield (Vic.),21319,Keilor Park,158.32,ok
+20352,Brooklyn (Vic.),21319,Keilor Park,76.82,ok
+20361,Brunswick (Vic.),21319,Keilor Park,60.15,ok
+20362,Brunswick East,21319,Keilor Park,70.55,ok
+20363,Brunswick West,21319,Keilor Park,57.13,ok
+20381,Bulla (Vic.),21319,Keilor Park,106.2,ok
+20386,Bulleen,21319,Keilor Park,108.4,ok
+20387,Bullengarook,21319,Keilor Park,,no_eligible_route
+20399,Bundoora (Vic.),21319,Keilor Park,90.85,ok
+20411,Bunyip,21319,Keilor Park,,no_eligible_route
+20412,Bunyip North,21319,Keilor Park,,no_eligible_route
+20418,Burnley,21319,Keilor Park,92.38,ok
+20419,Burnside (Vic.),21319,Keilor Park,81.78,ok
+20420,Burnside Heights,21319,Keilor Park,67.37,ok
+20426,Burwood (Vic.),21319,Keilor Park,115.72,ok
+20427,Burwood East,21319,Keilor Park,119.3,ok
+20435,Bylands,21319,Keilor Park,,no_eligible_route
+20441,Cairnlea,21319,Keilor Park,79.3,ok
+20442,Calder Park,21319,Keilor Park,71.87,ok
+20443,Caldermeade,21319,Keilor Park,,no_eligible_route
+20453,Camberwell (Vic.),21319,Keilor Park,97.92,ok
+20455,Campbellfield,21319,Keilor Park,93.72,ok
+20466,Cannons Creek,21319,Keilor Park,,no_eligible_route
+20468,Canterbury (Vic.),21319,Keilor Park,94.4,ok
+20474,Cape Schanck,21319,Keilor Park,,no_eligible_route
+20476,Capel Sound,21319,Keilor Park,,no_eligible_route
+20487,Cardinia,21319,Keilor Park,,no_eligible_route
+20495,Carlton (Vic.),21319,Keilor Park,71.98,ok
+20496,Carlton North,21319,Keilor Park,81.63,ok
+20498,Carnegie,21319,Keilor Park,95.4,ok
+20500,Caroline Springs,21319,Keilor Park,71.18,ok
+20507,Carrum,21319,Keilor Park,129.45,ok
+20508,Carrum Downs,21319,Keilor Park,152.68,ok
+20512,Castella,21319,Keilor Park,,no_eligible_route
+20517,Catani,21319,Keilor Park,,no_eligible_route
+20521,Caulfield,21319,Keilor Park,99.08,ok
+20522,Caulfield East,21319,Keilor Park,89.82,ok
+20523,Caulfield North,21319,Keilor Park,92.32,ok
+20524,Caulfield South,21319,Keilor Park,104.27,ok
+20528,Chadstone,21319,Keilor Park,115.47,ok
+20537,Chelsea,21319,Keilor Park,126.7,ok
+20538,Chelsea Heights,21319,Keilor Park,145.38,ok
+20539,Cheltenham (Vic.),21319,Keilor Park,121.17,ok
+20541,Cherokee,21319,Keilor Park,,no_eligible_route
+20555,Chintin,21319,Keilor Park,,no_eligible_route
+20556,Chirnside Park,21319,Keilor Park,177.78,ok
+20559,Christmas Hills (Vic.),21319,Keilor Park,,no_eligible_route
+20560,Chum Creek,21319,Keilor Park,,no_eligible_route
+20566,Clarinda,21319,Keilor Park,114.55,ok
+20567,Clarkefield,21319,Keilor Park,,no_eligible_route
+20569,Clayton,21319,Keilor Park,113.25,ok
+20570,Clayton South,21319,Keilor Park,123.68,ok
+20572,Clematis,21319,Keilor Park,,no_eligible_route
+20574,Clifton Hill,21319,Keilor Park,78.23,ok
+20576,Clonbinane,21319,Keilor Park,,no_eligible_route
+20581,Clyde (Vic.),21319,Keilor Park,,no_eligible_route
+20582,Clyde North,21319,Keilor Park,158.35,ok
+20587,Cobaw,21319,Keilor Park,,no_eligible_route
+20590,Cobblebank,21319,Keilor Park,128.92,ok
+20596,Coburg,21319,Keilor Park,60.63,ok
+20597,Coburg North,21319,Keilor Park,74.18,ok
+20600,Cockatoo (Vic.),21319,Keilor Park,,no_eligible_route
+20601,Cocoroc,21319,Keilor Park,,no_eligible_route
+20605,Coimadai,21319,Keilor Park,,no_eligible_route
+20613,Coldstream (Vic.),21319,Keilor Park,,no_eligible_route
+20616,Collingwood (Vic.),21319,Keilor Park,80.63,ok
+20624,Coolaroo,21319,Keilor Park,70.58,ok
+20633,Cora Lynn,21319,Keilor Park,,no_eligible_route
+20654,Cottles Bridge,21319,Keilor Park,,no_eligible_route
+20661,Craigieburn,21319,Keilor Park,82.42,ok
+20662,Cranbourne,21319,Keilor Park,148.53,ok
+20663,Cranbourne East,21319,Keilor Park,154.53,ok
+20664,Cranbourne North,21319,Keilor Park,153.73,ok
+20665,Cranbourne South,21319,Keilor Park,174.1,ok
+20666,Cranbourne West,21319,Keilor Park,149.05,ok
+20670,Cremorne (Vic.),21319,Keilor Park,79.77,ok
+20674,Crib Point,21319,Keilor Park,,no_eligible_route
+20682,Croydon (Vic.),21319,Keilor Park,113.73,ok
+20683,Croydon Hills,21319,Keilor Park,135.05,ok
+20684,Croydon North,21319,Keilor Park,142.48,ok
+20685,Croydon South,21319,Keilor Park,144.73,ok
+20702,Dallas,21319,Keilor Park,72.98,ok
+20703,Dalmore,21319,Keilor Park,,no_eligible_route
+20707,Dandenong,21319,Keilor Park,119.52,ok
+20708,Dandenong North,21319,Keilor Park,137.98,ok
+20709,Dandenong South,21319,Keilor Park,152.57,ok
+20712,Darley,21319,Keilor Park,,no_eligible_route
+20716,Darraweit Guim,21319,Keilor Park,,no_eligible_route
+20724,Deanside,21319,Keilor Park,89.23,ok
+20728,Deepdene (Vic.),21319,Keilor Park,100.75,ok
+20729,Deer Park,21319,Keilor Park,67.12,ok
+20731,Delahey,21319,Keilor Park,61.73,ok
+20743,Derrimut,21319,Keilor Park,94.0,ok
+20748,Devon Meadows,21319,Keilor Park,,no_eligible_route
+20750,Dewhurst,21319,Keilor Park,,no_eligible_route
+20752,Diamond Creek,21319,Keilor Park,127.37,ok
+20754,Diggers Rest,21319,Keilor Park,76.18,ok
+20758,Dingley Village,21319,Keilor Park,130.07,ok
+20762,Dixons Creek,21319,Keilor Park,,no_eligible_route
+20766,Docklands,21319,Keilor Park,67.47,ok
+20769,Don Valley,21319,Keilor Park,,no_eligible_route
+20771,Doncaster,21319,Keilor Park,103.12,ok
+20772,Doncaster East,21319,Keilor Park,105.6,ok
+20773,Donnybrook (Vic.),21319,Keilor Park,101.43,ok
+20774,Donvale,21319,Keilor Park,128.93,ok
+20779,Doreen,21319,Keilor Park,132.95,ok
+20783,Doveton,21319,Keilor Park,137.47,ok
+20788,Dromana,21319,Keilor Park,243.07,ok
+20825,Eaglemont,21319,Keilor Park,103.53,ok
+20830,East Melbourne,21319,Keilor Park,70.75,ok
+20833,East Warburton,21319,Keilor Park,,no_eligible_route
+20843,Eden Park,21319,Keilor Park,,no_eligible_route
+20848,Edithvale,21319,Keilor Park,126.83,ok
+20864,Elsternwick,21319,Keilor Park,91.93,ok
+20865,Eltham (Vic.),21319,Keilor Park,118.7,ok
+20866,Eltham North,21319,Keilor Park,115.58,ok
+20867,Elwood,21319,Keilor Park,99.98,ok
+20868,Emerald (Vic.),21319,Keilor Park,,no_eligible_route
+20871,Endeavour Hills,21319,Keilor Park,149.42,ok
+20878,Epping (Vic.),21319,Keilor Park,106.72,ok
+20885,Essendon,21319,Keilor Park,35.27,ok
+20886,Essendon Fields,21319,Keilor Park,44.2,ok
+20887,Essendon North,21319,Keilor Park,33.13,ok
+20888,Essendon West,21319,Keilor Park,28.6,ok
+20889,Eumemmerring,21319,Keilor Park,137.85,ok
+20898,Exford,21319,Keilor Park,,no_eligible_route
+20899,Eynesbury,21319,Keilor Park,174.02,ok
+20901,Fairfield (Vic.),21319,Keilor Park,88.35,ok
+20909,Fawkner,21319,Keilor Park,87.88,ok
+20916,Fernshaw,21319,Keilor Park,,no_eligible_route
+20917,Ferntree Gully,21319,Keilor Park,142.47,ok
+20918,Ferny Creek,21319,Keilor Park,181.0,ok
+20920,Fingal (Vic.),21319,Keilor Park,,no_eligible_route
+20924,Fitzroy (Vic.),21319,Keilor Park,82.47,ok
+20925,Fitzroy North,21319,Keilor Park,69.3,ok
+20929,Flemington,21319,Keilor Park,59.9,ok
+20930,Flinders (Vic.),21319,Keilor Park,,no_eligible_route
+20935,Footscray,21319,Keilor Park,66.35,ok
+20937,Forest Hill (Vic.),21319,Keilor Park,119.28,ok
+20947,Frankston,21319,Keilor Park,148.42,ok
+20948,Frankston North,21319,Keilor Park,164.57,ok
+20949,Frankston South,21319,Keilor Park,,no_eligible_route
+20950,Fraser Rise,21319,Keilor Park,82.62,ok
+20965,Gardenvale,21319,Keilor Park,93.22,ok
+20966,Garfield,21319,Keilor Park,,no_eligible_route
+20967,Garfield North,21319,Keilor Park,,no_eligible_route
+20979,Gembrook,21319,Keilor Park,,no_eligible_route
+20995,Gilderoy,21319,Keilor Park,,no_eligible_route
+21001,Gisborne,21319,Keilor Park,,no_eligible_route
+21002,Gisborne South,21319,Keilor Park,,no_eligible_route
+21004,Gladstone Park,21319,Keilor Park,48.03,ok
+21005,Gladysdale,21319,Keilor Park,,no_eligible_route
+21009,Glen Huntly,21319,Keilor Park,94.95,ok
+21010,Glen Iris (Vic.),21319,Keilor Park,106.48,ok
+21013,Glen Waverley,21319,Keilor Park,113.4,ok
+21047,Glenroy (Vic.),21319,Keilor Park,64.37,ok
+21059,Goldie,21319,Keilor Park,,no_eligible_route
+21079,Gowanbrae,21319,Keilor Park,45.48,ok
+21087,Grangefields,21319,Keilor Park,114.22,ok
+21104,Greensborough,21319,Keilor Park,104.03,ok
+21105,Greenvale (Vic.),21319,Keilor Park,91.3,ok
+21115,Gruyere,21319,Keilor Park,,no_eligible_route
+21121,Guys Hill,21319,Keilor Park,,no_eligible_route
+21124,Hadfield,21319,Keilor Park,65.12,ok
+21125,Hallam,21319,Keilor Park,142.57,ok
+21131,Hampton (Vic.),21319,Keilor Park,107.62,ok
+21132,Hampton East,21319,Keilor Park,113.18,ok
+21133,Hampton Park,21319,Keilor Park,148.42,ok
+21139,Harkaway,21319,Keilor Park,,no_eligible_route
+21140,Harkness,21319,Keilor Park,159.8,ok
+21145,Hastings (Vic.),21319,Keilor Park,,no_eligible_route
+21152,Hawthorn (Vic.),21319,Keilor Park,92.78,ok
+21153,Hawthorn East,21319,Keilor Park,92.27,ok
+21158,Healesville,21319,Keilor Park,201.75,ok
+21159,Heath Hill,21319,Keilor Park,,no_eligible_route
+21161,Heathcote Junction,21319,Keilor Park,,no_eligible_route
+21163,Heatherton,21319,Keilor Park,121.57,ok
+21165,Heathmont,21319,Keilor Park,122.9,ok
+21167,Heidelberg,21319,Keilor Park,94.82,ok
+21168,Heidelberg Heights,21319,Keilor Park,93.67,ok
+21169,Heidelberg West,21319,Keilor Park,81.67,ok
+21176,Hesket,21319,Keilor Park,,no_eligible_route
+21185,Highett,21319,Keilor Park,101.95,ok
+21193,Hillside (Melton - Vic.),21319,Keilor Park,62.27,ok
+21195,Hmas Cerberus,21319,Keilor Park,,no_eligible_route
+21196,Hoddles Creek,21319,Keilor Park,,no_eligible_route
+21202,Hopetoun Park,21319,Keilor Park,,no_eligible_route
+21203,Hoppers Crossing,21319,Keilor Park,114.07,ok
+21214,Hughesdale,21319,Keilor Park,98.03,ok
+21215,Humevale,21319,Keilor Park,,no_eligible_route
+21218,Huntingdale (Vic.),21319,Keilor Park,103.47,ok
+21223,Hurstbridge,21319,Keilor Park,127.65,ok
+21238,Iona,21319,Keilor Park,,no_eligible_route
+21246,Ivanhoe (Vic.),21319,Keilor Park,78.3,ok
+21247,Ivanhoe East,21319,Keilor Park,101.4,ok
+21248,Jacana,21319,Keilor Park,61.98,ok
+21277,Junction Village,21319,Keilor Park,183.08,ok
+21284,Kalkallo,21319,Keilor Park,117.03,ok
+21286,Kallista,21319,Keilor Park,184.43,ok
+21287,Kalorama,21319,Keilor Park,150.7,ok
+21294,Kangaroo Ground,21319,Keilor Park,168.25,ok
+21312,Kealba,21319,Keilor Park,49.28,ok
+21314,Keilor,21319,Keilor Park,39.6,ok
+21315,Keilor Downs,21319,Keilor Park,45.65,ok
+21316,Keilor East,21319,Keilor Park,27.08,ok
+21317,Keilor Lodge,21319,Keilor Park,39.28,ok
+21318,Keilor North,21319,Keilor Park,66.93,ok
+21319,Keilor Park,21319,Keilor Park,0.0,same_centroid
+21327,Kensington (Vic.),21319,Keilor Park,50.65,ok
+21333,Kerrie,21319,Keilor Park,,no_eligible_route
+21336,Kew (Vic.),21319,Keilor Park,95.9,ok
+21337,Kew East,21319,Keilor Park,103.95,ok
+21339,Keysborough,21319,Keilor Park,138.22,ok
+21354,Kilsyth,21319,Keilor Park,140.08,ok
+21355,Kilsyth South,21319,Keilor Park,155.17,ok
+21358,Kinglake,21319,Keilor Park,,no_eligible_route
+21359,Kinglake Central,21319,Keilor Park,,no_eligible_route
+21360,Kinglake West,21319,Keilor Park,,no_eligible_route
+21362,Kings Park (Vic.),21319,Keilor Park,68.63,ok
+21363,Kingsbury,21319,Keilor Park,94.1,ok
+21365,Kingsville,21319,Keilor Park,84.57,ok
+21374,Knoxfield,21319,Keilor Park,138.93,ok
+21380,Koo Wee Rup,21319,Keilor Park,,no_eligible_route
+21381,Koo Wee Rup North,21319,Keilor Park,,no_eligible_route
+21393,Kooyong,21319,Keilor Park,87.17,ok
+21411,Kurunjang,21319,Keilor Park,137.0,ok
+21452,Lalor,21319,Keilor Park,96.43,ok
+21456,Lancefield,21319,Keilor Park,,no_eligible_route
+21459,Lang Lang,21319,Keilor Park,,no_eligible_route
+21460,Lang Lang East,21319,Keilor Park,,no_eligible_route
+21467,Langwarrin,21319,Keilor Park,165.77,ok
+21468,Langwarrin South,21319,Keilor Park,,no_eligible_route
+21473,Launching Place,21319,Keilor Park,,no_eligible_route
+21476,Laverton (Vic.),21319,Keilor Park,90.83,ok
+21477,Laverton North,21319,Keilor Park,119.27,ok
+21504,Lilydale (Vic.),21319,Keilor Park,145.03,ok
+21533,Long Forest,21319,Keilor Park,,no_eligible_route
+21547,Lower Plenty,21319,Keilor Park,131.28,ok
+21554,Lynbrook,21319,Keilor Park,129.25,ok
+21555,Lyndhurst (Vic.),21319,Keilor Park,184.83,ok
+21558,Lysterfield,21319,Keilor Park,,no_eligible_route
+21559,Lysterfield South,21319,Keilor Park,187.97,ok
+21561,Macclesfield (Vic.),21319,Keilor Park,,no_eligible_route
+21562,Macedon,21319,Keilor Park,,no_eligible_route
+21564,Macleod (Vic.),21319,Keilor Park,108.1,ok
+21569,Maddingley,21319,Keilor Park,,no_eligible_route
+21575,Maidstone,21319,Keilor Park,49.68,ok
+21578,Main Ridge,21319,Keilor Park,,no_eligible_route
+21586,Malvern (Vic.),21319,Keilor Park,96.38,ok
+21587,Malvern East,21319,Keilor Park,99.77,ok
+21588,Mambourin,21319,Keilor Park,,no_eligible_route
+21597,Manor Lakes,21319,Keilor Park,144.3,ok
+21604,Maribyrnong,21319,Keilor Park,48.62,ok
+21619,Maryknoll,21319,Keilor Park,,no_eligible_route
+21625,McCrae,21319,Keilor Park,,no_eligible_route
+21629,McKinnon,21319,Keilor Park,92.25,ok
+21635,Meadow Heights,21319,Keilor Park,79.93,ok
+21640,Melbourne,21319,Keilor Park,65.85,ok
+21641,Melbourne Airport,21319,Keilor Park,99.55,walk_only
+21642,Melton (Vic.),21319,Keilor Park,142.13,ok
+21643,Melton South,21319,Keilor Park,140.5,ok
+21644,Melton West,21319,Keilor Park,133.18,ok
+21648,Mentone,21319,Keilor Park,111.93,ok
+21649,Menzies Creek,21319,Keilor Park,,no_eligible_route
+21659,Mernda,21319,Keilor Park,119.2,ok
+21662,Merricks,21319,Keilor Park,,no_eligible_route
+21663,Merricks Beach,21319,Keilor Park,,no_eligible_route
+21664,Merricks North,21319,Keilor Park,,no_eligible_route
+21668,Merrimu,21319,Keilor Park,,no_eligible_route
+21675,Mickleham,21319,Keilor Park,114.42,ok
+21677,Middle Park (Vic.),21319,Keilor Park,78.18,ok
+21683,Mill Park,21319,Keilor Park,119.02,ok
+21685,Millgrove,21319,Keilor Park,,no_eligible_route
+21706,Mitcham (Vic.),21319,Keilor Park,108.63,ok
+21727,Monbulk,21319,Keilor Park,191.88,ok
+21728,Monegeetta,21319,Keilor Park,,no_eligible_route
+21731,Monomeith,21319,Keilor Park,,no_eligible_route
+21732,Mont Albert,21319,Keilor Park,101.8,ok
+21733,Mont Albert North,21319,Keilor Park,105.58,ok
+21735,Montmorency,21319,Keilor Park,114.98,ok
+21736,Montrose (Vic.),21319,Keilor Park,137.72,ok
+21742,Moonee Ponds,21319,Keilor Park,41.7,ok
+21746,Moorabbin,21319,Keilor Park,120.2,ok
+21747,Moorabbin Airport,21319,Keilor Park,132.43,ok
+21754,Moorooduc,21319,Keilor Park,,no_eligible_route
+21755,Mooroolbark,21319,Keilor Park,132.35,ok
+21760,Mordialloc,21319,Keilor Park,128.73,ok
+21763,Mornington (Vic.),21319,Keilor Park,182.28,ok
+21779,Mount Burnett,21319,Keilor Park,,no_eligible_route
+21786,Mount Cottrell,21319,Keilor Park,,no_eligible_route
+21787,Mount Dandenong,21319,Keilor Park,154.7,ok
+21793,Mount Eliza,21319,Keilor Park,160.47,ok
+21795,Mount Evelyn,21319,Keilor Park,158.87,ok
+21801,Mount Macedon,21319,Keilor Park,,no_eligible_route
+21803,Mount Martha,21319,Keilor Park,199.75,ok
+21814,Mount Toolebewong,21319,Keilor Park,,no_eligible_route
+21816,Mount Waverley,21319,Keilor Park,104.83,ok
+21827,Mulgrave (Vic.),21319,Keilor Park,131.77,ok
+21849,Murrumbeena,21319,Keilor Park,98.15,ok
+21872,Nangana,21319,Keilor Park,,no_eligible_route
+21878,Nar Nar Goon,21319,Keilor Park,,no_eligible_route
+21879,Nar Nar Goon North,21319,Keilor Park,,no_eligible_route
+21893,Narre Warren,21319,Keilor Park,142.43,ok
+21894,Narre Warren East,21319,Keilor Park,,no_eligible_route
+21895,Narre Warren North,21319,Keilor Park,194.35,ok
+21896,Narre Warren South,21319,Keilor Park,155.8,ok
+21921,New Gisborne,21319,Keilor Park,,no_eligible_route
+21934,Newport (Vic.),21319,Keilor Park,75.68,ok
+21942,Niddrie,21319,Keilor Park,28.47,ok
+21952,Noble Park,21319,Keilor Park,110.25,ok
+21953,Noble Park North,21319,Keilor Park,143.92,ok
+21966,North Melbourne,21319,Keilor Park,61.25,ok
+21969,North Warrandyte,21319,Keilor Park,142.23,ok
+21971,Northcote,21319,Keilor Park,78.1,ok
+21974,Notting Hill,21319,Keilor Park,120.38,ok
+21985,Nunawading,21319,Keilor Park,101.12,ok
+21991,Nutfield,21319,Keilor Park,,no_eligible_route
+21998,Oak Park,21319,Keilor Park,60.07,ok
+21999,Oaklands Junction,21319,Keilor Park,,no_eligible_route
+22000,Oakleigh,21319,Keilor Park,100.7,ok
+22001,Oakleigh East,21319,Keilor Park,112.03,ok
+22002,Oakleigh South,21319,Keilor Park,109.85,ok
+22006,Officer,21319,Keilor Park,157.53,ok
+22007,Officer South,21319,Keilor Park,196.1,ok
+22009,Olinda (Vic.),21319,Keilor Park,179.35,ok
+22016,Ormond,21319,Keilor Park,92.68,ok
+22027,Pakenham,21319,Keilor Park,156.58,ok
+22028,Pakenham South,21319,Keilor Park,,no_eligible_route
+22029,Pakenham Upper,21319,Keilor Park,,no_eligible_route
+22032,Panton Hill,21319,Keilor Park,,no_eligible_route
+22036,Park Orchards,21319,Keilor Park,132.72,ok
+22037,Parkdale,21319,Keilor Park,121.02,ok
+22038,Parkville (Vic.),21319,Keilor Park,66.35,ok
+22041,Pascoe Vale,21319,Keilor Park,64.43,ok
+22042,Pascoe Vale South,21319,Keilor Park,57.7,ok
+22047,Patterson Lakes,21319,Keilor Park,151.78,ok
+22050,Pearcedale,21319,Keilor Park,191.4,ok
+22058,Pentland Hills,21319,Keilor Park,,no_eligible_route
+22064,Pheasant Creek (Vic.),21319,Keilor Park,,no_eligible_route
+22084,Plenty (Vic.),21319,Keilor Park,138.6,ok
+22085,Plumpton (Vic.),21319,Keilor Park,,no_eligible_route
+22086,Point Cook,21319,Keilor Park,107.07,ok
+22087,Point Leo,21319,Keilor Park,,no_eligible_route
+22107,Port Melbourne,21319,Keilor Park,73.68,ok
+22113,Portsea,21319,Keilor Park,,no_eligible_route
+22115,Powelltown,21319,Keilor Park,,no_eligible_route
+22118,Prahran,21319,Keilor Park,89.75,ok
+22121,Preston (Vic.),21319,Keilor Park,72.1,ok
+22122,Princes Hill,21319,Keilor Park,68.07,ok
+22132,Quandong,21319,Keilor Park,,no_eligible_route
+22141,Ravenhall,21319,Keilor Park,90.82,ok
+22148,Red Hill (Vic.),21319,Keilor Park,,no_eligible_route
+22149,Red Hill South,21319,Keilor Park,,no_eligible_route
+22160,Research,21319,Keilor Park,136.1,ok
+22161,Reservoir (Vic.),21319,Keilor Park,94.62,ok
+22170,Richmond (Vic.),21319,Keilor Park,82.7,ok
+22172,Riddells Creek,21319,Keilor Park,,no_eligible_route
+22174,Ringwood (Vic.),21319,Keilor Park,115.27,ok
+22175,Ringwood East,21319,Keilor Park,113.82,ok
+22176,Ringwood North,21319,Keilor Park,127.45,ok
+22179,Ripponlea,21319,Keilor Park,82.65,ok
+22185,Rochford,21319,Keilor Park,,no_eligible_route
+22186,Rockbank,21319,Keilor Park,94.48,ok
+22193,Romsey,21319,Keilor Park,,no_eligible_route
+22194,Rosanna,21319,Keilor Park,101.75,ok
+22198,Rosebud,21319,Keilor Park,,no_eligible_route
+22207,Rowville,21319,Keilor Park,147.5,ok
+22208,Roxburgh Park,21319,Keilor Park,80.68,ok
+22220,Rye,21319,Keilor Park,,no_eligible_route
+22221,Rythdale,21319,Keilor Park,,no_eligible_route
+22222,Safety Beach (Vic.),21319,Keilor Park,210.97,ok
+22232,Sandhurst,21319,Keilor Park,177.5,ok
+22234,Sandringham (Vic.),21319,Keilor Park,112.5,ok
+22239,Sassafras (Vic.),21319,Keilor Park,163.77,ok
+22242,Scoresby,21319,Keilor Park,137.02,ok
+22247,Seabrook,21319,Keilor Park,103.65,ok
+22249,Seaford (Vic.),21319,Keilor Park,141.55,ok
+22250,Seaholme,21319,Keilor Park,82.53,ok
+22256,Seddon (Vic.),21319,Keilor Park,73.93,ok
+22258,Selby,21319,Keilor Park,178.32,ok
+22263,Seville,21319,Keilor Park,,no_eligible_route
+22264,Seville East,21319,Keilor Park,,no_eligible_route
+22278,Sherbrooke,21319,Keilor Park,174.5,ok
+22279,Shoreham,21319,Keilor Park,,no_eligible_route
+22281,Silvan,21319,Keilor Park,183.98,ok
+22291,Skye (Vic.),21319,Keilor Park,167.33,ok
+22295,Smiths Gully,21319,Keilor Park,,no_eligible_route
+22303,Somers,21319,Keilor Park,,no_eligible_route
+22304,Somerton (Vic.),21319,Keilor Park,89.05,ok
+22305,Somerville (Vic.),21319,Keilor Park,,no_eligible_route
+22306,Sorrento (Vic.),21319,Keilor Park,,no_eligible_route
+22309,South Kingsville,21319,Keilor Park,86.98,ok
+22310,South Melbourne,21319,Keilor Park,71.0,ok
+22311,South Morang,21319,Keilor Park,121.13,ok
+22313,South Wharf,21319,Keilor Park,69.78,ok
+22314,South Yarra,21319,Keilor Park,73.42,ok
+22315,Southbank,21319,Keilor Park,73.3,ok
+22319,Spotswood,21319,Keilor Park,74.08,ok
+22325,Springfield (Macedon Ranges - Vic.),21319,Keilor Park,,no_eligible_route
+22328,Springvale (Vic.),21319,Keilor Park,111.22,ok
+22329,Springvale South,21319,Keilor Park,117.95,ok
+22330,St Albans (Vic.),21319,Keilor Park,51.37,ok
+22332,St Andrews (Vic.),21319,Keilor Park,,no_eligible_route
+22333,St Andrews Beach,21319,Keilor Park,,no_eligible_route
+22339,St Helena,21319,Keilor Park,120.88,ok
+22343,St Kilda (Vic.),21319,Keilor Park,84.23,ok
+22344,St Kilda East,21319,Keilor Park,93.83,ok
+22345,St Kilda West,21319,Keilor Park,80.52,ok
+22355,Steels Creek,21319,Keilor Park,,no_eligible_route
+22375,Strathewen,21319,Keilor Park,,no_eligible_route
+22380,Strathmore (Vic.),21319,Keilor Park,52.58,ok
+22381,Strathmore Heights,21319,Keilor Park,43.7,ok
+22382,Strathtulloh,21319,Keilor Park,194.38,ok
+22391,Sunbury,21319,Keilor Park,117.0,ok
+22395,Sunshine (Vic.),21319,Keilor Park,55.5,ok
+22396,Sunshine North,21319,Keilor Park,54.47,ok
+22397,Sunshine West,21319,Keilor Park,71.9,ok
+22399,Surrey Hills,21319,Keilor Park,102.22,ok
+22414,Sydenham (Vic.),21319,Keilor Park,54.22,ok
+22451,Tarneit,21319,Keilor Park,130.68,ok
+22457,Tarrawarra,21319,Keilor Park,177.35,ok
+22473,Taylors Hill,21319,Keilor Park,60.95,ok
+22474,Taylors Lakes,21319,Keilor Park,34.97,ok
+22476,Tecoma,21319,Keilor Park,142.72,ok
+22483,Templestowe,21319,Keilor Park,118.0,ok
+22484,Templestowe Lower,21319,Keilor Park,113.97,ok
+22496,The Basin (Vic.),21319,Keilor Park,154.9,ok
+22501,The Patch,21319,Keilor Park,182.45,ok
+22504,Thomastown,21319,Keilor Park,99.72,ok
+22508,Thornbury,21319,Keilor Park,66.6,ok
+22509,Thornhill Park,21319,Keilor Park,,no_eligible_route
+22514,Three Bridges,21319,Keilor Park,,no_eligible_route
+22531,Tonimbuk,21319,Keilor Park,,no_eligible_route
+22536,Toolangi,21319,Keilor Park,,no_eligible_route
+22537,Toolern Vale,21319,Keilor Park,,no_eligible_route
+22546,Tooradin,21319,Keilor Park,,no_eligible_route
+22547,Toorak,21319,Keilor Park,92.8,ok
+22550,Tootgarook,21319,Keilor Park,,no_eligible_route
+22556,Tottenham (Vic.),21319,Keilor Park,81.6,ok
+22572,Travancore,21319,Keilor Park,52.05,ok
+22576,Tremont,21319,Keilor Park,159.9,ok
+22582,Truganina,21319,Keilor Park,152.47,ok
+22584,Tuerong,21319,Keilor Park,,no_eligible_route
+22586,Tullamarine,21319,Keilor Park,29.77,ok
+22594,Tyabb,21319,Keilor Park,,no_eligible_route
+22598,Tynong,21319,Keilor Park,,no_eligible_route
+22599,Tynong North,21319,Keilor Park,,no_eligible_route
+22614,Upper Ferntree Gully,21319,Keilor Park,139.87,ok
+22617,Upper Plenty,21319,Keilor Park,,no_eligible_route
+22620,Upwey,21319,Keilor Park,142.58,ok
+22627,Vermont,21319,Keilor Park,117.93,ok
+22628,Vermont South,21319,Keilor Park,131.25,ok
+22629,Vervale,21319,Keilor Park,,no_eligible_route
+22633,Viewbank,21319,Keilor Park,109.57,ok
+22661,Wallan,21319,Keilor Park,,no_eligible_route
+22672,Wandin East,21319,Keilor Park,,no_eligible_route
+22673,Wandin North,21319,Keilor Park,,no_eligible_route
+22676,Wandong,21319,Keilor Park,,no_eligible_route
+22685,Wantirna,21319,Keilor Park,130.87,ok
+22686,Wantirna South,21319,Keilor Park,132.32,ok
+22689,Warburton (Vic.),21319,Keilor Park,,no_eligible_route
+22695,Warneet,21319,Keilor Park,,no_eligible_route
+22702,Warrandyte,21319,Keilor Park,118.78,ok
+22703,Warrandyte South,21319,Keilor Park,161.75,ok
+22704,Warranwood,21319,Keilor Park,138.6,ok
+22717,Waterford Park,21319,Keilor Park,,no_eligible_route
+22720,Waterways,21319,Keilor Park,142.38,ok
+22721,Watsonia,21319,Keilor Park,103.02,ok
+22722,Watsonia North,21319,Keilor Park,101.4,ok
+22723,Watsons Creek (Vic.),21319,Keilor Park,,no_eligible_route
+22727,Wattle Glen,21319,Keilor Park,134.98,ok
+22740,Weir Views,21319,Keilor Park,163.58,ok
+22750,Werribee,21319,Keilor Park,101.87,ok
+22751,Werribee South,21319,Keilor Park,145.88,ok
+22753,Wesburn,21319,Keilor Park,,no_eligible_route
+22756,West Footscray,21319,Keilor Park,77.72,ok
+22757,West Melbourne,21319,Keilor Park,75.65,ok
+22761,Westmeadows,21319,Keilor Park,57.87,ok
+22766,Wheelers Hill,21319,Keilor Park,127.45,ok
+22775,Whittlesea,21319,Keilor Park,,no_eligible_route
+22784,Wildwood,21319,Keilor Park,,no_eligible_route
+22791,Williams Landing,21319,Keilor Park,105.08,ok
+22792,Williamstown (Vic.),21319,Keilor Park,84.02,ok
+22793,Williamstown North,21319,Keilor Park,92.38,ok
+22805,Windsor (Vic.),21319,Keilor Park,79.92,ok
+22820,Wollert,21319,Keilor Park,100.95,ok
+22825,Wonga Park,21319,Keilor Park,184.1,ok
+22843,Woodstock (Vic.),21319,Keilor Park,,no_eligible_route
+22857,Woori Yallock,21319,Keilor Park,,no_eligible_route
+22883,Wyndham Vale,21319,Keilor Park,138.62,ok
+22892,Yallambie,21319,Keilor Park,115.3,ok
+22898,Yan Yean,21319,Keilor Park,150.68,ok
+22906,Yannathan,21319,Keilor Park,,no_eligible_route
+22910,Yarra Glen,21319,Keilor Park,174.65,ok
+22911,Yarra Junction,21319,Keilor Park,,no_eligible_route
+22916,Yarrambat,21319,Keilor Park,132.17,ok
+22917,Yarraville,21319,Keilor Park,79.83,ok
+22925,Yellingbo,21319,Keilor Park,,no_eligible_route
+22930,Yering,21319,Keilor Park,,no_eligible_route
+22941,Yuroke,21319,Keilor Park,136.75,ok

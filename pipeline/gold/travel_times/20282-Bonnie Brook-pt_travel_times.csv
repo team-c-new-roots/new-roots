@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20282,Bonnie Brook,137.92,ok
+20003,Aberfeldie,20282,Bonnie Brook,129.08,ok
+20011,Aintree,20282,Bonnie Brook,48.65,ok
+20015,Airport West,20282,Bonnie Brook,123.87,ok
+20017,Albanvale,20282,Bonnie Brook,92.38,ok
+20018,Albert Park (Vic.),20282,Bonnie Brook,142.1,ok
+20021,Albion (Vic.),20282,Bonnie Brook,95.23,ok
+20034,Alphington,20282,Bonnie Brook,143.25,ok
+20035,Altona (Vic.),20282,Bonnie Brook,138.33,ok
+20036,Altona Meadows,20282,Bonnie Brook,141.48,ok
+20037,Altona North,20282,Bonnie Brook,139.73,ok
+20062,Ardeer,20282,Bonnie Brook,99.73,ok
+20066,Armadale (Vic.),20282,Bonnie Brook,142.47,ok
+20071,Arthurs Creek,20282,Bonnie Brook,,no_eligible_route
+20072,Arthurs Seat,20282,Bonnie Brook,,no_eligible_route
+20075,Ascot Vale,20282,Bonnie Brook,139.0,ok
+20077,Ashburton,20282,Bonnie Brook,146.08,ok
+20078,Ashwood,20282,Bonnie Brook,167.62,ok
+20079,Aspendale,20282,Bonnie Brook,170.73,ok
+20080,Aspendale Gardens,20282,Bonnie Brook,183.73,ok
+20082,Attwood,20282,Bonnie Brook,173.57,ok
+20089,Avondale Heights,20282,Bonnie Brook,134.87,ok
+20091,Avonsleigh,20282,Bonnie Brook,,no_eligible_route
+20095,Bacchus Marsh,20282,Bonnie Brook,,no_eligible_route
+20097,Badger Creek,20282,Bonnie Brook,,no_eligible_route
+20105,Balaclava (Vic.),20282,Bonnie Brook,145.55,ok
+20120,Balnarring,20282,Bonnie Brook,,no_eligible_route
+20121,Balnarring Beach,20282,Bonnie Brook,,no_eligible_route
+20123,Balwyn,20282,Bonnie Brook,166.42,ok
+20124,Balwyn North,20282,Bonnie Brook,153.98,ok
+20131,Bangholme,20282,Bonnie Brook,227.43,ok
+20169,Baxter,20282,Bonnie Brook,,no_eligible_route
+20171,Bayles,20282,Bonnie Brook,,no_eligible_route
+20173,Bayswater (Vic.),20282,Bonnie Brook,190.73,ok
+20174,Bayswater North,20282,Bonnie Brook,217.17,ok
+20175,Beaconsfield (Vic.),20282,Bonnie Brook,211.18,ok
+20176,Beaconsfield Upper,20282,Bonnie Brook,,no_eligible_route
+20182,Beaumaris (Vic.),20282,Bonnie Brook,188.55,ok
+20187,Beenak,20282,Bonnie Brook,,no_eligible_route
+20188,Belgrave,20282,Bonnie Brook,203.82,ok
+20189,Belgrave Heights,20282,Bonnie Brook,235.48,ok
+20190,Belgrave South,20282,Bonnie Brook,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20282,Bonnie Brook,160.0,ok
+20207,Bend Of Islands,20282,Bonnie Brook,,no_eligible_route
+20212,Benloch,20282,Bonnie Brook,,no_eligible_route
+20214,Bentleigh,20282,Bonnie Brook,148.52,ok
+20215,Bentleigh East,20282,Bonnie Brook,159.28,ok
+20224,Berwick,20282,Bonnie Brook,183.98,ok
+20233,Beveridge,20282,Bonnie Brook,,no_eligible_route
+20237,Big Pats Creek,20282,Bonnie Brook,,no_eligible_route
+20248,Bittern,20282,Bonnie Brook,,no_eligible_route
+20251,Black Rock (Vic.),20282,Bonnie Brook,199.22,ok
+20252,Blackburn,20282,Bonnie Brook,158.07,ok
+20253,Blackburn North,20282,Bonnie Brook,170.05,ok
+20254,Blackburn South,20282,Bonnie Brook,182.15,ok
+20257,Blairgowrie,20282,Bonnie Brook,,no_eligible_route
+20260,Blind Bight,20282,Bonnie Brook,,no_eligible_route
+20272,Bolinda,20282,Bonnie Brook,,no_eligible_route
+20278,Bonbeach,20282,Bonnie Brook,175.73,ok
+20280,Boneo,20282,Bonnie Brook,,no_eligible_route
+20282,Bonnie Brook,20282,Bonnie Brook,0.0,same_centroid
+20304,Boronia,20282,Bonnie Brook,193.2,ok
+20307,Botanic Ridge,20282,Bonnie Brook,,no_eligible_route
+20314,Box Hill (Vic.),20282,Bonnie Brook,155.18,ok
+20315,Box Hill North,20282,Bonnie Brook,175.9,ok
+20316,Box Hill South,20282,Bonnie Brook,163.67,ok
+20320,Braeside,20282,Bonnie Brook,203.05,ok
+20324,Braybrook,20282,Bonnie Brook,108.52,ok
+20331,Briar Hill,20282,Bonnie Brook,181.97,ok
+20337,Brighton (Vic.),20282,Bonnie Brook,159.88,ok
+20338,Brighton East,20282,Bonnie Brook,156.2,ok
+20346,Broadmeadows (Vic.),20282,Bonnie Brook,160.08,ok
+20351,Brookfield (Vic.),20282,Bonnie Brook,134.8,ok
+20352,Brooklyn (Vic.),20282,Bonnie Brook,122.92,ok
+20361,Brunswick (Vic.),20282,Bonnie Brook,124.98,ok
+20362,Brunswick East,20282,Bonnie Brook,136.27,ok
+20363,Brunswick West,20282,Bonnie Brook,130.37,ok
+20381,Bulla (Vic.),20282,Bonnie Brook,145.6,ok
+20386,Bulleen,20282,Bonnie Brook,160.13,ok
+20387,Bullengarook,20282,Bonnie Brook,,no_eligible_route
+20399,Bundoora (Vic.),20282,Bonnie Brook,178.98,ok
+20411,Bunyip,20282,Bonnie Brook,,no_eligible_route
+20412,Bunyip North,20282,Bonnie Brook,,no_eligible_route
+20418,Burnley,20282,Bonnie Brook,139.48,ok
+20419,Burnside (Vic.),20282,Bonnie Brook,88.23,ok
+20420,Burnside Heights,20282,Bonnie Brook,82.17,ok
+20426,Burwood (Vic.),20282,Bonnie Brook,161.82,ok
+20427,Burwood East,20282,Bonnie Brook,166.48,ok
+20435,Bylands,20282,Bonnie Brook,,no_eligible_route
+20441,Cairnlea,20282,Bonnie Brook,98.45,ok
+20442,Calder Park,20282,Bonnie Brook,84.03,ok
+20443,Caldermeade,20282,Bonnie Brook,,no_eligible_route
+20453,Camberwell (Vic.),20282,Bonnie Brook,145.02,ok
+20455,Campbellfield,20282,Bonnie Brook,168.73,ok
+20466,Cannons Creek,20282,Bonnie Brook,,no_eligible_route
+20468,Canterbury (Vic.),20282,Bonnie Brook,148.5,ok
+20474,Cape Schanck,20282,Bonnie Brook,,no_eligible_route
+20476,Capel Sound,20282,Bonnie Brook,,no_eligible_route
+20487,Cardinia,20282,Bonnie Brook,,no_eligible_route
+20495,Carlton (Vic.),20282,Bonnie Brook,116.47,ok
+20496,Carlton North,20282,Bonnie Brook,130.58,ok
+20498,Carnegie,20282,Bonnie Brook,140.72,ok
+20500,Caroline Springs,20282,Bonnie Brook,62.75,ok
+20507,Carrum,20282,Bonnie Brook,175.55,ok
+20508,Carrum Downs,20282,Bonnie Brook,184.78,ok
+20512,Castella,20282,Bonnie Brook,,no_eligible_route
+20517,Catani,20282,Bonnie Brook,,no_eligible_route
+20521,Caulfield,20282,Bonnie Brook,146.22,ok
+20522,Caulfield East,20282,Bonnie Brook,133.92,ok
+20523,Caulfield North,20282,Bonnie Brook,140.08,ok
+20524,Caulfield South,20282,Bonnie Brook,150.75,ok
+20528,Chadstone,20282,Bonnie Brook,168.78,ok
+20537,Chelsea,20282,Bonnie Brook,172.8,ok
+20538,Chelsea Heights,20282,Bonnie Brook,189.13,ok
+20539,Cheltenham (Vic.),20282,Bonnie Brook,163.27,ok
+20541,Cherokee,20282,Bonnie Brook,,no_eligible_route
+20555,Chintin,20282,Bonnie Brook,,no_eligible_route
+20556,Chirnside Park,20282,Bonnie Brook,,no_eligible_route
+20559,Christmas Hills (Vic.),20282,Bonnie Brook,,no_eligible_route
+20560,Chum Creek,20282,Bonnie Brook,,no_eligible_route
+20566,Clarinda,20282,Bonnie Brook,178.72,ok
+20567,Clarkefield,20282,Bonnie Brook,,no_eligible_route
+20569,Clayton,20282,Bonnie Brook,158.3,ok
+20570,Clayton South,20282,Bonnie Brook,170.12,ok
+20572,Clematis,20282,Bonnie Brook,,no_eligible_route
+20574,Clifton Hill,20282,Bonnie Brook,137.33,ok
+20576,Clonbinane,20282,Bonnie Brook,,no_eligible_route
+20581,Clyde (Vic.),20282,Bonnie Brook,,no_eligible_route
+20582,Clyde North,20282,Bonnie Brook,,no_eligible_route
+20587,Cobaw,20282,Bonnie Brook,,no_eligible_route
+20590,Cobblebank,20282,Bonnie Brook,112.35,ok
+20596,Coburg,20282,Bonnie Brook,130.72,ok
+20597,Coburg North,20282,Bonnie Brook,140.28,ok
+20600,Cockatoo (Vic.),20282,Bonnie Brook,,no_eligible_route
+20601,Cocoroc,20282,Bonnie Brook,,no_eligible_route
+20605,Coimadai,20282,Bonnie Brook,,no_eligible_route
+20613,Coldstream (Vic.),20282,Bonnie Brook,,no_eligible_route
+20616,Collingwood (Vic.),20282,Bonnie Brook,132.53,ok
+20624,Coolaroo,20282,Bonnie Brook,160.95,ok
+20633,Cora Lynn,20282,Bonnie Brook,,no_eligible_route
+20654,Cottles Bridge,20282,Bonnie Brook,,no_eligible_route
+20661,Craigieburn,20282,Bonnie Brook,190.12,ok
+20662,Cranbourne,20282,Bonnie Brook,190.63,ok
+20663,Cranbourne East,20282,Bonnie Brook,204.73,ok
+20664,Cranbourne North,20282,Bonnie Brook,,no_eligible_route
+20665,Cranbourne South,20282,Bonnie Brook,,no_eligible_route
+20666,Cranbourne West,20282,Bonnie Brook,202.7,ok
+20670,Cremorne (Vic.),20282,Bonnie Brook,133.47,ok
+20674,Crib Point,20282,Bonnie Brook,,no_eligible_route
+20682,Croydon (Vic.),20282,Bonnie Brook,174.83,ok
+20683,Croydon Hills,20282,Bonnie Brook,212.73,ok
+20684,Croydon North,20282,Bonnie Brook,,no_eligible_route
+20685,Croydon South,20282,Bonnie Brook,205.83,ok
+20702,Dallas,20282,Bonnie Brook,167.38,ok
+20703,Dalmore,20282,Bonnie Brook,,no_eligible_route
+20707,Dandenong,20282,Bonnie Brook,161.62,ok
+20708,Dandenong North,20282,Bonnie Brook,201.28,ok
+20709,Dandenong South,20282,Bonnie Brook,182.95,ok
+20712,Darley,20282,Bonnie Brook,,no_eligible_route
+20716,Darraweit Guim,20282,Bonnie Brook,,no_eligible_route
+20724,Deanside,20282,Bonnie Brook,68.17,ok
+20728,Deepdene (Vic.),20282,Bonnie Brook,156.85,ok
+20729,Deer Park,20282,Bonnie Brook,91.08,ok
+20731,Delahey,20282,Bonnie Brook,74.4,ok
+20743,Derrimut,20282,Bonnie Brook,131.9,ok
+20748,Devon Meadows,20282,Bonnie Brook,,no_eligible_route
+20750,Dewhurst,20282,Bonnie Brook,,no_eligible_route
+20752,Diamond Creek,20282,Bonnie Brook,185.57,ok
+20754,Diggers Rest,20282,Bonnie Brook,95.33,ok
+20758,Dingley Village,20282,Bonnie Brook,197.47,ok
+20762,Dixons Creek,20282,Bonnie Brook,,no_eligible_route
+20766,Docklands,20282,Bonnie Brook,132.27,ok
+20769,Don Valley,20282,Bonnie Brook,,no_eligible_route
+20771,Doncaster,20282,Bonnie Brook,165.22,ok
+20772,Doncaster East,20282,Bonnie Brook,168.7,ok
+20773,Donnybrook (Vic.),20282,Bonnie Brook,,no_eligible_route
+20774,Donvale,20282,Bonnie Brook,190.03,ok
+20779,Doreen,20282,Bonnie Brook,,no_eligible_route
+20783,Doveton,20282,Bonnie Brook,194.48,ok
+20788,Dromana,20282,Bonnie Brook,,no_eligible_route
+20825,Eaglemont,20282,Bonnie Brook,161.58,ok
+20830,East Melbourne,20282,Bonnie Brook,129.85,ok
+20833,East Warburton,20282,Bonnie Brook,,no_eligible_route
+20843,Eden Park,20282,Bonnie Brook,,no_eligible_route
+20848,Edithvale,20282,Bonnie Brook,168.33,ok
+20864,Elsternwick,20282,Bonnie Brook,143.57,ok
+20865,Eltham (Vic.),20282,Bonnie Brook,184.7,ok
+20866,Eltham North,20282,Bonnie Brook,199.08,ok
+20867,Elwood,20282,Bonnie Brook,149.22,ok
+20868,Emerald (Vic.),20282,Bonnie Brook,,no_eligible_route
+20871,Endeavour Hills,20282,Bonnie Brook,,no_eligible_route
+20878,Epping (Vic.),20282,Bonnie Brook,186.82,ok
+20885,Essendon,20282,Bonnie Brook,118.37,ok
+20886,Essendon Fields,20282,Bonnie Brook,134.3,ok
+20887,Essendon North,20282,Bonnie Brook,120.72,ok
+20888,Essendon West,20282,Bonnie Brook,120.7,ok
+20889,Eumemmerring,20282,Bonnie Brook,,no_eligible_route
+20898,Exford,20282,Bonnie Brook,,no_eligible_route
+20899,Eynesbury,20282,Bonnie Brook,147.45,ok
+20901,Fairfield (Vic.),20282,Bonnie Brook,149.57,ok
+20909,Fawkner,20282,Bonnie Brook,161.18,ok
+20916,Fernshaw,20282,Bonnie Brook,,no_eligible_route
+20917,Ferntree Gully,20282,Bonnie Brook,209.57,ok
+20918,Ferny Creek,20282,Bonnie Brook,,no_eligible_route
+20920,Fingal (Vic.),20282,Bonnie Brook,,no_eligible_route
+20924,Fitzroy (Vic.),20282,Bonnie Brook,129.4,ok
+20925,Fitzroy North,20282,Bonnie Brook,141.45,ok
+20929,Flemington,20282,Bonnie Brook,136.38,ok
+20930,Flinders (Vic.),20282,Bonnie Brook,,no_eligible_route
+20935,Footscray,20282,Bonnie Brook,108.68,ok
+20937,Forest Hill (Vic.),20282,Bonnie Brook,169.38,ok
+20947,Frankston,20282,Bonnie Brook,203.83,ok
+20948,Frankston North,20282,Bonnie Brook,208.63,ok
+20949,Frankston South,20282,Bonnie Brook,,no_eligible_route
+20950,Fraser Rise,20282,Bonnie Brook,60.48,walk_only
+20965,Gardenvale,20282,Bonnie Brook,156.32,ok
+20966,Garfield,20282,Bonnie Brook,,no_eligible_route
+20967,Garfield North,20282,Bonnie Brook,,no_eligible_route
+20979,Gembrook,20282,Bonnie Brook,,no_eligible_route
+20995,Gilderoy,20282,Bonnie Brook,,no_eligible_route
+21001,Gisborne,20282,Bonnie Brook,,no_eligible_route
+21002,Gisborne South,20282,Bonnie Brook,,no_eligible_route
+21004,Gladstone Park,20282,Bonnie Brook,164.95,ok
+21005,Gladysdale,20282,Bonnie Brook,,no_eligible_route
+21009,Glen Huntly,20282,Bonnie Brook,141.05,ok
+21010,Glen Iris (Vic.),20282,Bonnie Brook,157.58,ok
+21013,Glen Waverley,20282,Bonnie Brook,164.5,ok
+21047,Glenroy (Vic.),20282,Bonnie Brook,154.93,ok
+21059,Goldie,20282,Bonnie Brook,,no_eligible_route
+21079,Gowanbrae,20282,Bonnie Brook,148.38,ok
+21087,Grangefields,20282,Bonnie Brook,63.9,walk_only
+21104,Greensborough,20282,Bonnie Brook,170.12,ok
+21105,Greenvale (Vic.),20282,Bonnie Brook,,no_eligible_route
+21115,Gruyere,20282,Bonnie Brook,,no_eligible_route
+21121,Guys Hill,20282,Bonnie Brook,,no_eligible_route
+21124,Hadfield,20282,Bonnie Brook,163.22,ok
+21125,Hallam,20282,Bonnie Brook,190.1,ok
+21131,Hampton (Vic.),20282,Bonnie Brook,166.72,ok
+21132,Hampton East,20282,Bonnie Brook,155.28,ok
+21133,Hampton Park,20282,Bonnie Brook,203.13,ok
+21139,Harkaway,20282,Bonnie Brook,,no_eligible_route
+21140,Harkness,20282,Bonnie Brook,136.18,ok
+21145,Hastings (Vic.),20282,Bonnie Brook,,no_eligible_route
+21152,Hawthorn (Vic.),20282,Bonnie Brook,139.88,ok
+21153,Hawthorn East,20282,Bonnie Brook,144.37,ok
+21158,Healesville,20282,Bonnie Brook,,no_eligible_route
+21159,Heath Hill,20282,Bonnie Brook,,no_eligible_route
+21161,Heathcote Junction,20282,Bonnie Brook,,no_eligible_route
+21163,Heatherton,20282,Bonnie Brook,179.4,ok
+21165,Heathmont,20282,Bonnie Brook,181.0,ok
+21167,Heidelberg,20282,Bonnie Brook,164.38,ok
+21168,Heidelberg Heights,20282,Bonnie Brook,168.88,ok
+21169,Heidelberg West,20282,Bonnie Brook,164.1,ok
+21176,Hesket,20282,Bonnie Brook,,no_eligible_route
+21185,Highett,20282,Bonnie Brook,148.05,ok
+21193,Hillside (Melton - Vic.),20282,Bonnie Brook,70.0,ok
+21195,Hmas Cerberus,20282,Bonnie Brook,,no_eligible_route
+21196,Hoddles Creek,20282,Bonnie Brook,,no_eligible_route
+21202,Hopetoun Park,20282,Bonnie Brook,,no_eligible_route
+21203,Hoppers Crossing,20282,Bonnie Brook,130.87,ok
+21214,Hughesdale,20282,Bonnie Brook,142.13,ok
+21215,Humevale,20282,Bonnie Brook,,no_eligible_route
+21218,Huntingdale (Vic.),20282,Bonnie Brook,146.57,ok
+21223,Hurstbridge,20282,Bonnie Brook,186.12,ok
+21238,Iona,20282,Bonnie Brook,,no_eligible_route
+21246,Ivanhoe (Vic.),20282,Bonnie Brook,147.85,ok
+21247,Ivanhoe East,20282,Bonnie Brook,167.52,ok
+21248,Jacana,20282,Bonnie Brook,159.5,ok
+21277,Junction Village,20282,Bonnie Brook,,no_eligible_route
+21284,Kalkallo,20282,Bonnie Brook,,no_eligible_route
+21286,Kallista,20282,Bonnie Brook,,no_eligible_route
+21287,Kalorama,20282,Bonnie Brook,,no_eligible_route
+21294,Kangaroo Ground,20282,Bonnie Brook,,no_eligible_route
+21312,Kealba,20282,Bonnie Brook,100.95,ok
+21314,Keilor,20282,Bonnie Brook,97.38,ok
+21315,Keilor Downs,20282,Bonnie Brook,93.68,ok
+21316,Keilor East,20282,Bonnie Brook,117.4,ok
+21317,Keilor Lodge,20282,Bonnie Brook,89.88,ok
+21318,Keilor North,20282,Bonnie Brook,96.27,ok
+21319,Keilor Park,20282,Bonnie Brook,108.53,ok
+21327,Kensington (Vic.),20282,Bonnie Brook,127.75,ok
+21333,Kerrie,20282,Bonnie Brook,,no_eligible_route
+21336,Kew (Vic.),20282,Bonnie Brook,144.02,ok
+21337,Kew East,20282,Bonnie Brook,147.05,ok
+21339,Keysborough,20282,Bonnie Brook,191.1,ok
+21354,Kilsyth,20282,Bonnie Brook,,no_eligible_route
+21355,Kilsyth South,20282,Bonnie Brook,,no_eligible_route
+21358,Kinglake,20282,Bonnie Brook,,no_eligible_route
+21359,Kinglake Central,20282,Bonnie Brook,,no_eligible_route
+21360,Kinglake West,20282,Bonnie Brook,,no_eligible_route
+21362,Kings Park (Vic.),20282,Bonnie Brook,78.28,ok
+21363,Kingsbury,20282,Bonnie Brook,179.2,ok
+21365,Kingsville,20282,Bonnie Brook,108.67,ok
+21374,Knoxfield,20282,Bonnie Brook,215.85,ok
+21380,Koo Wee Rup,20282,Bonnie Brook,,no_eligible_route
+21381,Koo Wee Rup North,20282,Bonnie Brook,,no_eligible_route
+21393,Kooyong,20282,Bonnie Brook,138.27,ok
+21411,Kurunjang,20282,Bonnie Brook,114.38,ok
+21452,Lalor,20282,Bonnie Brook,170.53,ok
+21456,Lancefield,20282,Bonnie Brook,,no_eligible_route
+21459,Lang Lang,20282,Bonnie Brook,,no_eligible_route
+21460,Lang Lang East,20282,Bonnie Brook,,no_eligible_route
+21467,Langwarrin,20282,Bonnie Brook,,no_eligible_route
+21468,Langwarrin South,20282,Bonnie Brook,,no_eligible_route
+21473,Launching Place,20282,Bonnie Brook,,no_eligible_route
+21476,Laverton (Vic.),20282,Bonnie Brook,133.93,ok
+21477,Laverton North,20282,Bonnie Brook,160.6,ok
+21504,Lilydale (Vic.),20282,Bonnie Brook,206.53,ok
+21533,Long Forest,20282,Bonnie Brook,,no_eligible_route
+21547,Lower Plenty,20282,Bonnie Brook,191.97,ok
+21554,Lynbrook,20282,Bonnie Brook,171.35,ok
+21555,Lyndhurst (Vic.),20282,Bonnie Brook,,no_eligible_route
+21558,Lysterfield,20282,Bonnie Brook,,no_eligible_route
+21559,Lysterfield South,20282,Bonnie Brook,,no_eligible_route
+21561,Macclesfield (Vic.),20282,Bonnie Brook,,no_eligible_route
+21562,Macedon,20282,Bonnie Brook,,no_eligible_route
+21564,Macleod (Vic.),20282,Bonnie Brook,163.2,ok
+21569,Maddingley,20282,Bonnie Brook,,no_eligible_route
+21575,Maidstone,20282,Bonnie Brook,112.32,ok
+21578,Main Ridge,20282,Bonnie Brook,,no_eligible_route
+21586,Malvern (Vic.),20282,Bonnie Brook,142.48,ok
+21587,Malvern East,20282,Bonnie Brook,145.38,ok
+21588,Mambourin,20282,Bonnie Brook,,no_eligible_route
+21597,Manor Lakes,20282,Bonnie Brook,182.15,ok
+21604,Maribyrnong,20282,Bonnie Brook,127.98,ok
+21619,Maryknoll,20282,Bonnie Brook,,no_eligible_route
+21625,McCrae,20282,Bonnie Brook,,no_eligible_route
+21629,McKinnon,20282,Bonnie Brook,138.35,ok
+21635,Meadow Heights,20282,Bonnie Brook,172.38,ok
+21640,Melbourne,20282,Bonnie Brook,119.95,ok
+21641,Melbourne Airport,20282,Bonnie Brook,,no_eligible_route
+21642,Melton (Vic.),20282,Bonnie Brook,114.57,ok
+21643,Melton South,20282,Bonnie Brook,109.93,ok
+21644,Melton West,20282,Bonnie Brook,109.57,ok
+21648,Mentone,20282,Bonnie Brook,158.03,ok
+21649,Menzies Creek,20282,Bonnie Brook,,no_eligible_route
+21659,Mernda,20282,Bonnie Brook,216.88,ok
+21662,Merricks,20282,Bonnie Brook,,no_eligible_route
+21663,Merricks Beach,20282,Bonnie Brook,,no_eligible_route
+21664,Merricks North,20282,Bonnie Brook,,no_eligible_route
+21668,Merrimu,20282,Bonnie Brook,,no_eligible_route
+21675,Mickleham,20282,Bonnie Brook,,no_eligible_route
+21677,Middle Park (Vic.),20282,Bonnie Brook,144.48,ok
+21683,Mill Park,20282,Bonnie Brook,193.75,ok
+21685,Millgrove,20282,Bonnie Brook,,no_eligible_route
+21706,Mitcham (Vic.),20282,Bonnie Brook,169.73,ok
+21727,Monbulk,20282,Bonnie Brook,,no_eligible_route
+21728,Monegeetta,20282,Bonnie Brook,,no_eligible_route
+21731,Monomeith,20282,Bonnie Brook,,no_eligible_route
+21732,Mont Albert,20282,Bonnie Brook,155.9,ok
+21733,Mont Albert North,20282,Bonnie Brook,177.13,ok
+21735,Montmorency,20282,Bonnie Brook,170.77,ok
+21736,Montrose (Vic.),20282,Bonnie Brook,,no_eligible_route
+21742,Moonee Ponds,20282,Bonnie Brook,127.8,ok
+21746,Moorabbin,20282,Bonnie Brook,168.7,ok
+21747,Moorabbin Airport,20282,Bonnie Brook,201.97,ok
+21754,Moorooduc,20282,Bonnie Brook,,no_eligible_route
+21755,Mooroolbark,20282,Bonnie Brook,193.45,ok
+21760,Mordialloc,20282,Bonnie Brook,172.33,ok
+21763,Mornington (Vic.),20282,Bonnie Brook,,no_eligible_route
+21779,Mount Burnett,20282,Bonnie Brook,,no_eligible_route
+21786,Mount Cottrell,20282,Bonnie Brook,172.97,walk_only
+21787,Mount Dandenong,20282,Bonnie Brook,,no_eligible_route
+21793,Mount Eliza,20282,Bonnie Brook,,no_eligible_route
+21795,Mount Evelyn,20282,Bonnie Brook,,no_eligible_route
+21801,Mount Macedon,20282,Bonnie Brook,,no_eligible_route
+21803,Mount Martha,20282,Bonnie Brook,,no_eligible_route
+21814,Mount Toolebewong,20282,Bonnie Brook,,no_eligible_route
+21816,Mount Waverley,20282,Bonnie Brook,155.93,ok
+21827,Mulgrave (Vic.),20282,Bonnie Brook,171.67,ok
+21849,Murrumbeena,20282,Bonnie Brook,142.25,ok
+21872,Nangana,20282,Bonnie Brook,,no_eligible_route
+21878,Nar Nar Goon,20282,Bonnie Brook,,no_eligible_route
+21879,Nar Nar Goon North,20282,Bonnie Brook,,no_eligible_route
+21893,Narre Warren,20282,Bonnie Brook,189.53,ok
+21894,Narre Warren East,20282,Bonnie Brook,,no_eligible_route
+21895,Narre Warren North,20282,Bonnie Brook,,no_eligible_route
+21896,Narre Warren South,20282,Bonnie Brook,227.97,ok
+21921,New Gisborne,20282,Bonnie Brook,,no_eligible_route
+21934,Newport (Vic.),20282,Bonnie Brook,118.78,ok
+21942,Niddrie,20282,Bonnie Brook,114.57,ok
+21952,Noble Park,20282,Bonnie Brook,153.35,ok
+21953,Noble Park North,20282,Bonnie Brook,186.53,ok
+21966,North Melbourne,20282,Bonnie Brook,112.48,ok
+21969,North Warrandyte,20282,Bonnie Brook,215.63,ok
+21971,Northcote,20282,Bonnie Brook,146.98,ok
+21974,Notting Hill,20282,Bonnie Brook,182.73,ok
+21985,Nunawading,20282,Bonnie Brook,162.22,ok
+21991,Nutfield,20282,Bonnie Brook,,no_eligible_route
+21998,Oak Park,20282,Bonnie Brook,147.17,ok
+21999,Oaklands Junction,20282,Bonnie Brook,,no_eligible_route
+22000,Oakleigh,20282,Bonnie Brook,144.8,ok
+22001,Oakleigh East,20282,Bonnie Brook,161.93,ok
+22002,Oakleigh South,20282,Bonnie Brook,153.95,ok
+22006,Officer,20282,Bonnie Brook,203.63,ok
+22007,Officer South,20282,Bonnie Brook,,no_eligible_route
+22009,Olinda (Vic.),20282,Bonnie Brook,,no_eligible_route
+22016,Ormond,20282,Bonnie Brook,138.78,ok
+22027,Pakenham,20282,Bonnie Brook,202.68,ok
+22028,Pakenham South,20282,Bonnie Brook,,no_eligible_route
+22029,Pakenham Upper,20282,Bonnie Brook,,no_eligible_route
+22032,Panton Hill,20282,Bonnie Brook,,no_eligible_route
+22036,Park Orchards,20282,Bonnie Brook,,no_eligible_route
+22037,Parkdale,20282,Bonnie Brook,163.12,ok
+22038,Parkville (Vic.),20282,Bonnie Brook,122.07,ok
+22041,Pascoe Vale,20282,Bonnie Brook,151.53,ok
+22042,Pascoe Vale South,20282,Bonnie Brook,140.65,ok
+22047,Patterson Lakes,20282,Bonnie Brook,192.88,ok
+22050,Pearcedale,20282,Bonnie Brook,,no_eligible_route
+22058,Pentland Hills,20282,Bonnie Brook,,no_eligible_route
+22064,Pheasant Creek (Vic.),20282,Bonnie Brook,,no_eligible_route
+22084,Plenty (Vic.),20282,Bonnie Brook,206.7,ok
+22085,Plumpton (Vic.),20282,Bonnie Brook,70.9,walk_only
+22086,Point Cook,20282,Bonnie Brook,162.83,ok
+22087,Point Leo,20282,Bonnie Brook,,no_eligible_route
+22107,Port Melbourne,20282,Bonnie Brook,157.07,ok
+22113,Portsea,20282,Bonnie Brook,,no_eligible_route
+22115,Powelltown,20282,Bonnie Brook,,no_eligible_route
+22118,Prahran,20282,Bonnie Brook,146.85,ok
+22121,Preston (Vic.),20282,Bonnie Brook,156.2,ok
+22122,Princes Hill,20282,Bonnie Brook,127.22,ok
+22132,Quandong,20282,Bonnie Brook,,no_eligible_route
+22141,Ravenhall,20282,Bonnie Brook,89.97,ok
+22148,Red Hill (Vic.),20282,Bonnie Brook,,no_eligible_route
+22149,Red Hill South,20282,Bonnie Brook,,no_eligible_route
+22160,Research,20282,Bonnie Brook,,no_eligible_route
+22161,Reservoir (Vic.),20282,Bonnie Brook,165.93,ok
+22170,Richmond (Vic.),20282,Bonnie Brook,133.8,ok
+22172,Riddells Creek,20282,Bonnie Brook,,no_eligible_route
+22174,Ringwood (Vic.),20282,Bonnie Brook,176.37,ok
+22175,Ringwood East,20282,Bonnie Brook,174.92,ok
+22176,Ringwood North,20282,Bonnie Brook,205.82,ok
+22179,Ripponlea,20282,Bonnie Brook,140.9,ok
+22185,Rochford,20282,Bonnie Brook,,no_eligible_route
+22186,Rockbank,20282,Bonnie Brook,66.92,ok
+22193,Romsey,20282,Bonnie Brook,,no_eligible_route
+22194,Rosanna,20282,Bonnie Brook,157.67,ok
+22198,Rosebud,20282,Bonnie Brook,,no_eligible_route
+22207,Rowville,20282,Bonnie Brook,195.95,ok
+22208,Roxburgh Park,20282,Bonnie Brook,177.02,ok
+22220,Rye,20282,Bonnie Brook,,no_eligible_route
+22221,Rythdale,20282,Bonnie Brook,,no_eligible_route
+22222,Safety Beach (Vic.),20282,Bonnie Brook,,no_eligible_route
+22232,Sandhurst,20282,Bonnie Brook,212.72,ok
+22234,Sandringham (Vic.),20282,Bonnie Brook,171.6,ok
+22239,Sassafras (Vic.),20282,Bonnie Brook,,no_eligible_route
+22242,Scoresby,20282,Bonnie Brook,220.13,ok
+22247,Seabrook,20282,Bonnie Brook,147.75,ok
+22249,Seaford (Vic.),20282,Bonnie Brook,187.65,ok
+22250,Seaholme,20282,Bonnie Brook,127.63,ok
+22256,Seddon (Vic.),20282,Bonnie Brook,103.37,ok
+22258,Selby,20282,Bonnie Brook,236.42,ok
+22263,Seville,20282,Bonnie Brook,,no_eligible_route
+22264,Seville East,20282,Bonnie Brook,,no_eligible_route
+22278,Sherbrooke,20282,Bonnie Brook,,no_eligible_route
+22279,Shoreham,20282,Bonnie Brook,,no_eligible_route
+22281,Silvan,20282,Bonnie Brook,,no_eligible_route
+22291,Skye (Vic.),20282,Bonnie Brook,,no_eligible_route
+22295,Smiths Gully,20282,Bonnie Brook,,no_eligible_route
+22303,Somers,20282,Bonnie Brook,,no_eligible_route
+22304,Somerton (Vic.),20282,Bonnie Brook,179.95,ok
+22305,Somerville (Vic.),20282,Bonnie Brook,,no_eligible_route
+22306,Sorrento (Vic.),20282,Bonnie Brook,,no_eligible_route
+22309,South Kingsville,20282,Bonnie Brook,134.48,ok
+22310,South Melbourne,20282,Bonnie Brook,132.25,ok
+22311,South Morang,20282,Bonnie Brook,202.52,ok
+22313,South Wharf,20282,Bonnie Brook,137.15,ok
+22314,South Yarra,20282,Bonnie Brook,131.8,ok
+22315,Southbank,20282,Bonnie Brook,128.82,ok
+22319,Spotswood,20282,Bonnie Brook,117.18,ok
+22325,Springfield (Macedon Ranges - Vic.),20282,Bonnie Brook,,no_eligible_route
+22328,Springvale (Vic.),20282,Bonnie Brook,154.32,ok
+22329,Springvale South,20282,Bonnie Brook,153.05,ok
+22330,St Albans (Vic.),20282,Bonnie Brook,87.37,ok
+22332,St Andrews (Vic.),20282,Bonnie Brook,,no_eligible_route
+22333,St Andrews Beach,20282,Bonnie Brook,,no_eligible_route
+22339,St Helena,20282,Bonnie Brook,203.82,ok
+22343,St Kilda (Vic.),20282,Bonnie Brook,138.5,ok
+22344,St Kilda East,20282,Bonnie Brook,152.95,ok
+22345,St Kilda West,20282,Bonnie Brook,143.17,ok
+22355,Steels Creek,20282,Bonnie Brook,,no_eligible_route
+22375,Strathewen,20282,Bonnie Brook,,no_eligible_route
+22380,Strathmore (Vic.),20282,Bonnie Brook,149.1,ok
+22381,Strathmore Heights,20282,Bonnie Brook,141.33,ok
+22382,Strathtulloh,20282,Bonnie Brook,147.58,ok
+22391,Sunbury,20282,Bonnie Brook,137.15,ok
+22395,Sunshine (Vic.),20282,Bonnie Brook,90.65,ok
+22396,Sunshine North,20282,Bonnie Brook,104.88,ok
+22397,Sunshine West,20282,Bonnie Brook,121.55,ok
+22399,Surrey Hills,20282,Bonnie Brook,156.32,ok
+22414,Sydenham (Vic.),20282,Bonnie Brook,73.45,ok
+22451,Tarneit,20282,Bonnie Brook,123.0,ok
+22457,Tarrawarra,20282,Bonnie Brook,,no_eligible_route
+22473,Taylors Hill,20282,Bonnie Brook,62.23,ok
+22474,Taylors Lakes,20282,Bonnie Brook,71.68,ok
+22476,Tecoma,20282,Bonnie Brook,200.82,ok
+22483,Templestowe,20282,Bonnie Brook,158.1,ok
+22484,Templestowe Lower,20282,Bonnie Brook,155.07,ok
+22496,The Basin (Vic.),20282,Bonnie Brook,,no_eligible_route
+22501,The Patch,20282,Bonnie Brook,,no_eligible_route
+22504,Thomastown,20282,Bonnie Brook,175.83,ok
+22508,Thornbury,20282,Bonnie Brook,154.7,ok
+22509,Thornhill Park,20282,Bonnie Brook,147.88,walk_only
+22514,Three Bridges,20282,Bonnie Brook,,no_eligible_route
+22531,Tonimbuk,20282,Bonnie Brook,,no_eligible_route
+22536,Toolangi,20282,Bonnie Brook,,no_eligible_route
+22537,Toolern Vale,20282,Bonnie Brook,200.73,walk_only
+22546,Tooradin,20282,Bonnie Brook,,no_eligible_route
+22547,Toorak,20282,Bonnie Brook,141.9,ok
+22550,Tootgarook,20282,Bonnie Brook,,no_eligible_route
+22556,Tottenham (Vic.),20282,Bonnie Brook,125.08,ok
+22572,Travancore,20282,Bonnie Brook,129.6,ok
+22576,Tremont,20282,Bonnie Brook,218.42,ok
+22582,Truganina,20282,Bonnie Brook,125.9,ok
+22584,Tuerong,20282,Bonnie Brook,,no_eligible_route
+22586,Tullamarine,20282,Bonnie Brook,129.78,ok
+22594,Tyabb,20282,Bonnie Brook,,no_eligible_route
+22598,Tynong,20282,Bonnie Brook,,no_eligible_route
+22599,Tynong North,20282,Bonnie Brook,,no_eligible_route
+22614,Upper Ferntree Gully,20282,Bonnie Brook,197.97,ok
+22617,Upper Plenty,20282,Bonnie Brook,,no_eligible_route
+22620,Upwey,20282,Bonnie Brook,200.68,ok
+22627,Vermont,20282,Bonnie Brook,194.57,ok
+22628,Vermont South,20282,Bonnie Brook,177.35,ok
+22629,Vervale,20282,Bonnie Brook,,no_eligible_route
+22633,Viewbank,20282,Bonnie Brook,190.83,ok
+22661,Wallan,20282,Bonnie Brook,,no_eligible_route
+22672,Wandin East,20282,Bonnie Brook,,no_eligible_route
+22673,Wandin North,20282,Bonnie Brook,,no_eligible_route
+22676,Wandong,20282,Bonnie Brook,,no_eligible_route
+22685,Wantirna,20282,Bonnie Brook,233.32,ok
+22686,Wantirna South,20282,Bonnie Brook,210.42,ok
+22689,Warburton (Vic.),20282,Bonnie Brook,,no_eligible_route
+22695,Warneet,20282,Bonnie Brook,,no_eligible_route
+22702,Warrandyte,20282,Bonnie Brook,181.88,ok
+22703,Warrandyte South,20282,Bonnie Brook,,no_eligible_route
+22704,Warranwood,20282,Bonnie Brook,,no_eligible_route
+22717,Waterford Park,20282,Bonnie Brook,,no_eligible_route
+22720,Waterways,20282,Bonnie Brook,175.48,ok
+22721,Watsonia,20282,Bonnie Brook,158.12,ok
+22722,Watsonia North,20282,Bonnie Brook,181.65,ok
+22723,Watsons Creek (Vic.),20282,Bonnie Brook,,no_eligible_route
+22727,Wattle Glen,20282,Bonnie Brook,189.87,ok
+22740,Weir Views,20282,Bonnie Brook,137.02,ok
+22750,Werribee,20282,Bonnie Brook,144.25,ok
+22751,Werribee South,20282,Bonnie Brook,,no_eligible_route
+22753,Wesburn,20282,Bonnie Brook,,no_eligible_route
+22756,West Footscray,20282,Bonnie Brook,101.82,ok
+22757,West Melbourne,20282,Bonnie Brook,131.8,ok
+22761,Westmeadows,20282,Bonnie Brook,155.97,ok
+22766,Wheelers Hill,20282,Bonnie Brook,192.07,ok
+22775,Whittlesea,20282,Bonnie Brook,,no_eligible_route
+22784,Wildwood,20282,Bonnie Brook,,no_eligible_route
+22791,Williams Landing,20282,Bonnie Brook,134.23,ok
+22792,Williamstown (Vic.),20282,Bonnie Brook,133.12,ok
+22793,Williamstown North,20282,Bonnie Brook,140.53,ok
+22805,Windsor (Vic.),20282,Bonnie Brook,142.28,ok
+22820,Wollert,20282,Bonnie Brook,227.22,ok
+22825,Wonga Park,20282,Bonnie Brook,,no_eligible_route
+22843,Woodstock (Vic.),20282,Bonnie Brook,,no_eligible_route
+22857,Woori Yallock,20282,Bonnie Brook,,no_eligible_route
+22883,Wyndham Vale,20282,Bonnie Brook,167.07,ok
+22892,Yallambie,20282,Bonnie Brook,187.38,ok
+22898,Yan Yean,20282,Bonnie Brook,221.78,ok
+22906,Yannathan,20282,Bonnie Brook,,no_eligible_route
+22910,Yarra Glen,20282,Bonnie Brook,,no_eligible_route
+22911,Yarra Junction,20282,Bonnie Brook,,no_eligible_route
+22916,Yarrambat,20282,Bonnie Brook,223.03,ok
+22917,Yarraville,20282,Bonnie Brook,116.9,ok
+22925,Yellingbo,20282,Bonnie Brook,,no_eligible_route
+22930,Yering,20282,Bonnie Brook,,no_eligible_route
+22941,Yuroke,20282,Bonnie Brook,,no_eligible_route

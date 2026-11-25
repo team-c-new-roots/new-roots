@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22910,Yarra Glen,136.43,ok
+20003,Aberfeldie,22910,Yarra Glen,173.38,ok
+20011,Aintree,22910,Yarra Glen,,no_eligible_route
+20015,Airport West,22910,Yarra Glen,178.08,ok
+20017,Albanvale,22910,Yarra Glen,211.67,ok
+20018,Albert Park (Vic.),22910,Yarra Glen,145.45,ok
+20021,Albion (Vic.),22910,Yarra Glen,154.58,ok
+20034,Alphington,22910,Yarra Glen,140.6,ok
+20035,Altona (Vic.),22910,Yarra Glen,155.68,ok
+20036,Altona Meadows,22910,Yarra Glen,200.38,ok
+20037,Altona North,22910,Yarra Glen,205.07,ok
+20062,Ardeer,22910,Yarra Glen,172.82,ok
+20066,Armadale (Vic.),22910,Yarra Glen,121.83,ok
+20071,Arthurs Creek,22910,Yarra Glen,,no_eligible_route
+20072,Arthurs Seat,22910,Yarra Glen,,no_eligible_route
+20075,Ascot Vale,22910,Yarra Glen,149.52,ok
+20077,Ashburton,22910,Yarra Glen,119.43,ok
+20078,Ashwood,22910,Yarra Glen,128.95,ok
+20079,Aspendale,22910,Yarra Glen,177.08,ok
+20080,Aspendale Gardens,22910,Yarra Glen,180.08,ok
+20082,Attwood,22910,Yarra Glen,201.03,ok
+20089,Avondale Heights,22910,Yarra Glen,191.18,ok
+20091,Avonsleigh,22910,Yarra Glen,,no_eligible_route
+20095,Bacchus Marsh,22910,Yarra Glen,,no_eligible_route
+20097,Badger Creek,22910,Yarra Glen,71.05,ok
+20105,Balaclava (Vic.),22910,Yarra Glen,124.47,ok
+20120,Balnarring,22910,Yarra Glen,,no_eligible_route
+20121,Balnarring Beach,22910,Yarra Glen,,no_eligible_route
+20123,Balwyn,22910,Yarra Glen,113.62,ok
+20124,Balwyn North,22910,Yarra Glen,124.87,ok
+20131,Bangholme,22910,Yarra Glen,224.78,ok
+20169,Baxter,22910,Yarra Glen,,no_eligible_route
+20171,Bayles,22910,Yarra Glen,,no_eligible_route
+20173,Bayswater (Vic.),22910,Yarra Glen,99.08,ok
+20174,Bayswater North,22910,Yarra Glen,88.47,ok
+20175,Beaconsfield (Vic.),22910,Yarra Glen,188.53,ok
+20176,Beaconsfield Upper,22910,Yarra Glen,,no_eligible_route
+20182,Beaumaris (Vic.),22910,Yarra Glen,185.48,ok
+20187,Beenak,22910,Yarra Glen,,no_eligible_route
+20188,Belgrave,22910,Yarra Glen,104.47,ok
+20189,Belgrave Heights,22910,Yarra Glen,130.83,ok
+20190,Belgrave South,22910,Yarra Glen,129.82,ok
+20198,Bellfield (Banyule - Vic.),22910,Yarra Glen,158.63,ok
+20207,Bend Of Islands,22910,Yarra Glen,160.58,walk_only
+20212,Benloch,22910,Yarra Glen,,no_eligible_route
+20214,Bentleigh,22910,Yarra Glen,141.87,ok
+20215,Bentleigh East,22910,Yarra Glen,146.22,ok
+20224,Berwick,22910,Yarra Glen,161.33,ok
+20233,Beveridge,22910,Yarra Glen,,no_eligible_route
+20237,Big Pats Creek,22910,Yarra Glen,,no_eligible_route
+20248,Bittern,22910,Yarra Glen,,no_eligible_route
+20251,Black Rock (Vic.),22910,Yarra Glen,196.57,ok
+20252,Blackburn,22910,Yarra Glen,84.4,ok
+20253,Blackburn North,22910,Yarra Glen,100.08,ok
+20254,Blackburn South,22910,Yarra Glen,108.75,ok
+20257,Blairgowrie,22910,Yarra Glen,,no_eligible_route
+20260,Blind Bight,22910,Yarra Glen,,no_eligible_route
+20272,Bolinda,22910,Yarra Glen,,no_eligible_route
+20278,Bonbeach,22910,Yarra Glen,182.08,ok
+20280,Boneo,22910,Yarra Glen,,no_eligible_route
+20282,Bonnie Brook,22910,Yarra Glen,,no_eligible_route
+20304,Boronia,22910,Yarra Glen,89.23,ok
+20307,Botanic Ridge,22910,Yarra Glen,,no_eligible_route
+20314,Box Hill (Vic.),22910,Yarra Glen,91.87,ok
+20315,Box Hill North,22910,Yarra Glen,114.02,ok
+20316,Box Hill South,22910,Yarra Glen,99.02,ok
+20320,Braeside,22910,Yarra Glen,199.4,ok
+20324,Braybrook,22910,Yarra Glen,168.92,ok
+20331,Briar Hill,22910,Yarra Glen,136.18,ok
+20337,Brighton (Vic.),22910,Yarra Glen,137.23,ok
+20338,Brighton East,22910,Yarra Glen,158.55,ok
+20346,Broadmeadows (Vic.),22910,Yarra Glen,170.55,ok
+20351,Brookfield (Vic.),22910,Yarra Glen,,no_eligible_route
+20352,Brooklyn (Vic.),22910,Yarra Glen,181.15,ok
+20361,Brunswick (Vic.),22910,Yarra Glen,148.78,ok
+20362,Brunswick East,22910,Yarra Glen,143.62,ok
+20363,Brunswick West,22910,Yarra Glen,156.72,ok
+20381,Bulla (Vic.),22910,Yarra Glen,,no_eligible_route
+20386,Bulleen,22910,Yarra Glen,148.43,ok
+20387,Bullengarook,22910,Yarra Glen,,no_eligible_route
+20399,Bundoora (Vic.),22910,Yarra Glen,131.78,ok
+20411,Bunyip,22910,Yarra Glen,,no_eligible_route
+20412,Bunyip North,22910,Yarra Glen,,no_eligible_route
+20418,Burnley,22910,Yarra Glen,120.03,ok
+20419,Burnside (Vic.),22910,Yarra Glen,,no_eligible_route
+20420,Burnside Heights,22910,Yarra Glen,,no_eligible_route
+20426,Burwood (Vic.),22910,Yarra Glen,116.52,ok
+20427,Burwood East,22910,Yarra Glen,106.75,ok
+20435,Bylands,22910,Yarra Glen,,no_eligible_route
+20441,Cairnlea,22910,Yarra Glen,177.23,ok
+20442,Calder Park,22910,Yarra Glen,,no_eligible_route
+20443,Caldermeade,22910,Yarra Glen,,no_eligible_route
+20453,Camberwell (Vic.),22910,Yarra Glen,118.37,ok
+20455,Campbellfield,22910,Yarra Glen,186.08,ok
+20466,Cannons Creek,22910,Yarra Glen,,no_eligible_route
+20468,Canterbury (Vic.),22910,Yarra Glen,98.85,ok
+20474,Cape Schanck,22910,Yarra Glen,,no_eligible_route
+20476,Capel Sound,22910,Yarra Glen,,no_eligible_route
+20487,Cardinia,22910,Yarra Glen,,no_eligible_route
+20495,Carlton (Vic.),22910,Yarra Glen,131.28,ok
+20496,Carlton North,22910,Yarra Glen,141.38,ok
+20498,Carnegie,22910,Yarra Glen,146.17,ok
+20500,Caroline Springs,22910,Yarra Glen,,no_eligible_route
+20507,Carrum,22910,Yarra Glen,168.9,ok
+20508,Carrum Downs,22910,Yarra Glen,181.13,ok
+20512,Castella,22910,Yarra Glen,,no_eligible_route
+20517,Catani,22910,Yarra Glen,,no_eligible_route
+20521,Caulfield,22910,Yarra Glen,148.57,ok
+20522,Caulfield East,22910,Yarra Glen,132.27,ok
+20523,Caulfield North,22910,Yarra Glen,135.18,ok
+20524,Caulfield South,22910,Yarra Glen,153.1,ok
+20528,Chadstone,22910,Yarra Glen,124.83,ok
+20537,Chelsea,22910,Yarra Glen,173.2,ok
+20538,Chelsea Heights,22910,Yarra Glen,185.48,ok
+20539,Cheltenham (Vic.),22910,Yarra Glen,153.47,ok
+20541,Cherokee,22910,Yarra Glen,,no_eligible_route
+20555,Chintin,22910,Yarra Glen,,no_eligible_route
+20556,Chirnside Park,22910,Yarra Glen,65.45,ok
+20559,Christmas Hills (Vic.),22910,Yarra Glen,86.32,walk_only
+20560,Chum Creek,22910,Yarra Glen,,no_eligible_route
+20566,Clarinda,22910,Yarra Glen,141.37,ok
+20567,Clarkefield,22910,Yarra Glen,,no_eligible_route
+20569,Clayton,22910,Yarra Glen,127.5,ok
+20570,Clayton South,22910,Yarra Glen,146.68,ok
+20572,Clematis,22910,Yarra Glen,,no_eligible_route
+20574,Clifton Hill,22910,Yarra Glen,134.68,ok
+20576,Clonbinane,22910,Yarra Glen,,no_eligible_route
+20581,Clyde (Vic.),22910,Yarra Glen,,no_eligible_route
+20582,Clyde North,22910,Yarra Glen,,no_eligible_route
+20587,Cobaw,22910,Yarra Glen,,no_eligible_route
+20590,Cobblebank,22910,Yarra Glen,,no_eligible_route
+20596,Coburg,22910,Yarra Glen,154.05,ok
+20597,Coburg North,22910,Yarra Glen,167.63,ok
+20600,Cockatoo (Vic.),22910,Yarra Glen,,no_eligible_route
+20601,Cocoroc,22910,Yarra Glen,,no_eligible_route
+20605,Coimadai,22910,Yarra Glen,,no_eligible_route
+20613,Coldstream (Vic.),22910,Yarra Glen,149.08,walk_only
+20616,Collingwood (Vic.),22910,Yarra Glen,124.02,ok
+20624,Coolaroo,22910,Yarra Glen,178.3,ok
+20633,Cora Lynn,22910,Yarra Glen,,no_eligible_route
+20654,Cottles Bridge,22910,Yarra Glen,,no_eligible_route
+20661,Craigieburn,22910,Yarra Glen,207.47,ok
+20662,Cranbourne,22910,Yarra Glen,188.98,ok
+20663,Cranbourne East,22910,Yarra Glen,203.08,ok
+20664,Cranbourne North,22910,Yarra Glen,203.88,ok
+20665,Cranbourne South,22910,Yarra Glen,,no_eligible_route
+20666,Cranbourne West,22910,Yarra Glen,201.05,ok
+20670,Cremorne (Vic.),22910,Yarra Glen,115.02,ok
+20674,Crib Point,22910,Yarra Glen,,no_eligible_route
+20682,Croydon (Vic.),22910,Yarra Glen,67.23,ok
+20683,Croydon Hills,22910,Yarra Glen,100.5,ok
+20684,Croydon North,22910,Yarra Glen,97.45,ok
+20685,Croydon South,22910,Yarra Glen,90.63,ok
+20702,Dallas,22910,Yarra Glen,184.73,ok
+20703,Dalmore,22910,Yarra Glen,,no_eligible_route
+20707,Dandenong,22910,Yarra Glen,141.65,ok
+20708,Dandenong North,22910,Yarra Glen,140.07,ok
+20709,Dandenong South,22910,Yarra Glen,160.3,ok
+20712,Darley,22910,Yarra Glen,,no_eligible_route
+20716,Darraweit Guim,22910,Yarra Glen,,no_eligible_route
+20724,Deanside,22910,Yarra Glen,,no_eligible_route
+20728,Deepdene (Vic.),22910,Yarra Glen,111.47,ok
+20729,Deer Park,22910,Yarra Glen,,no_eligible_route
+20731,Delahey,22910,Yarra Glen,189.13,ok
+20743,Derrimut,22910,Yarra Glen,,no_eligible_route
+20748,Devon Meadows,22910,Yarra Glen,,no_eligible_route
+20750,Dewhurst,22910,Yarra Glen,,no_eligible_route
+20752,Diamond Creek,22910,Yarra Glen,158.1,ok
+20754,Diggers Rest,22910,Yarra Glen,197.0,ok
+20758,Dingley Village,22910,Yarra Glen,193.82,ok
+20762,Dixons Creek,22910,Yarra Glen,163.75,walk_only
+20766,Docklands,22910,Yarra Glen,131.55,ok
+20769,Don Valley,22910,Yarra Glen,,no_eligible_route
+20771,Doncaster,22910,Yarra Glen,104.08,ok
+20772,Doncaster East,22910,Yarra Glen,102.05,ok
+20773,Donnybrook (Vic.),22910,Yarra Glen,,no_eligible_route
+20774,Donvale,22910,Yarra Glen,109.78,ok
+20779,Doreen,22910,Yarra Glen,,no_eligible_route
+20783,Doveton,22910,Yarra Glen,153.43,ok
+20788,Dromana,22910,Yarra Glen,,no_eligible_route
+20825,Eaglemont,22910,Yarra Glen,131.2,ok
+20830,East Melbourne,22910,Yarra Glen,124.88,ok
+20833,East Warburton,22910,Yarra Glen,,no_eligible_route
+20843,Eden Park,22910,Yarra Glen,,no_eligible_route
+20848,Edithvale,22910,Yarra Glen,164.68,ok
+20864,Elsternwick,22910,Yarra Glen,132.38,ok
+20865,Eltham (Vic.),22910,Yarra Glen,136.15,ok
+20866,Eltham North,22910,Yarra Glen,148.68,ok
+20867,Elwood,22910,Yarra Glen,138.57,ok
+20868,Emerald (Vic.),22910,Yarra Glen,,no_eligible_route
+20871,Endeavour Hills,22910,Yarra Glen,169.87,ok
+20878,Epping (Vic.),22910,Yarra Glen,178.2,ok
+20885,Essendon,22910,Yarra Glen,159.73,ok
+20886,Essendon Fields,22910,Yarra Glen,181.13,ok
+20887,Essendon North,22910,Yarra Glen,162.13,ok
+20888,Essendon West,22910,Yarra Glen,169.6,ok
+20889,Eumemmerring,22910,Yarra Glen,158.3,ok
+20898,Exford,22910,Yarra Glen,,no_eligible_route
+20899,Eynesbury,22910,Yarra Glen,,no_eligible_route
+20901,Fairfield (Vic.),22910,Yarra Glen,146.92,ok
+20909,Fawkner,22910,Yarra Glen,178.53,ok
+20916,Fernshaw,22910,Yarra Glen,,no_eligible_route
+20917,Ferntree Gully,22910,Yarra Glen,114.12,ok
+20918,Ferny Creek,22910,Yarra Glen,151.33,ok
+20920,Fingal (Vic.),22910,Yarra Glen,,no_eligible_route
+20924,Fitzroy (Vic.),22910,Yarra Glen,138.22,ok
+20925,Fitzroy North,22910,Yarra Glen,144.82,ok
+20929,Flemington,22910,Yarra Glen,158.05,ok
+20930,Flinders (Vic.),22910,Yarra Glen,,no_eligible_route
+20935,Footscray,22910,Yarra Glen,137.45,ok
+20937,Forest Hill (Vic.),22910,Yarra Glen,101.62,ok
+20947,Frankston,22910,Yarra Glen,197.18,ok
+20948,Frankston North,22910,Yarra Glen,204.98,ok
+20949,Frankston South,22910,Yarra Glen,,no_eligible_route
+20950,Fraser Rise,22910,Yarra Glen,,no_eligible_route
+20965,Gardenvale,22910,Yarra Glen,133.67,ok
+20966,Garfield,22910,Yarra Glen,,no_eligible_route
+20967,Garfield North,22910,Yarra Glen,,no_eligible_route
+20979,Gembrook,22910,Yarra Glen,,no_eligible_route
+20995,Gilderoy,22910,Yarra Glen,,no_eligible_route
+21001,Gisborne,22910,Yarra Glen,,no_eligible_route
+21002,Gisborne South,22910,Yarra Glen,,no_eligible_route
+21004,Gladstone Park,22910,Yarra Glen,191.25,ok
+21005,Gladysdale,22910,Yarra Glen,,no_eligible_route
+21009,Glen Huntly,22910,Yarra Glen,134.4,ok
+21010,Glen Iris (Vic.),22910,Yarra Glen,129.27,ok
+21013,Glen Waverley,22910,Yarra Glen,117.3,ok
+21047,Glenroy (Vic.),22910,Yarra Glen,172.28,ok
+21059,Goldie,22910,Yarra Glen,,no_eligible_route
+21079,Gowanbrae,22910,Yarra Glen,191.73,ok
+21087,Grangefields,22910,Yarra Glen,,no_eligible_route
+21104,Greensborough,22910,Yarra Glen,121.48,ok
+21105,Greenvale (Vic.),22910,Yarra Glen,,no_eligible_route
+21115,Gruyere,22910,Yarra Glen,230.65,walk_only
+21121,Guys Hill,22910,Yarra Glen,,no_eligible_route
+21124,Hadfield,22910,Yarra Glen,180.57,ok
+21125,Hallam,22910,Yarra Glen,163.02,ok
+21131,Hampton (Vic.),22910,Yarra Glen,144.07,ok
+21132,Hampton East,22910,Yarra Glen,148.63,ok
+21133,Hampton Park,22910,Yarra Glen,168.87,ok
+21139,Harkaway,22910,Yarra Glen,,no_eligible_route
+21140,Harkness,22910,Yarra Glen,,no_eligible_route
+21145,Hastings (Vic.),22910,Yarra Glen,,no_eligible_route
+21152,Hawthorn (Vic.),22910,Yarra Glen,112.43,ok
+21153,Hawthorn East,22910,Yarra Glen,111.5,ok
+21158,Healesville,22910,Yarra Glen,74.97,ok
+21159,Heath Hill,22910,Yarra Glen,,no_eligible_route
+21161,Heathcote Junction,22910,Yarra Glen,,no_eligible_route
+21163,Heatherton,22910,Yarra Glen,169.75,ok
+21165,Heathmont,22910,Yarra Glen,89.35,ok
+21167,Heidelberg,22910,Yarra Glen,128.0,ok
+21168,Heidelberg Heights,22910,Yarra Glen,164.7,ok
+21169,Heidelberg West,22910,Yarra Glen,158.27,ok
+21176,Hesket,22910,Yarra Glen,,no_eligible_route
+21185,Highett,22910,Yarra Glen,141.4,ok
+21193,Hillside (Melton - Vic.),22910,Yarra Glen,,no_eligible_route
+21195,Hmas Cerberus,22910,Yarra Glen,,no_eligible_route
+21196,Hoddles Creek,22910,Yarra Glen,,no_eligible_route
+21202,Hopetoun Park,22910,Yarra Glen,,no_eligible_route
+21203,Hoppers Crossing,22910,Yarra Glen,187.52,ok
+21214,Hughesdale,22910,Yarra Glen,133.2,ok
+21215,Humevale,22910,Yarra Glen,,no_eligible_route
+21218,Huntingdale (Vic.),22910,Yarra Glen,141.28,ok
+21223,Hurstbridge,22910,Yarra Glen,163.47,ok
+21238,Iona,22910,Yarra Glen,,no_eligible_route
+21246,Ivanhoe (Vic.),22910,Yarra Glen,145.2,ok
+21247,Ivanhoe East,22910,Yarra Glen,154.93,ok
+21248,Jacana,22910,Yarra Glen,176.85,ok
+21277,Junction Village,22910,Yarra Glen,,no_eligible_route
+21284,Kalkallo,22910,Yarra Glen,,no_eligible_route
+21286,Kallista,22910,Yarra Glen,117.17,ok
+21287,Kalorama,22910,Yarra Glen,105.53,ok
+21294,Kangaroo Ground,22910,Yarra Glen,224.18,walk_only
+21312,Kealba,22910,Yarra Glen,186.8,ok
+21314,Keilor,22910,Yarra Glen,,no_eligible_route
+21315,Keilor Downs,22910,Yarra Glen,181.93,ok
+21316,Keilor East,22910,Yarra Glen,180.6,ok
+21317,Keilor Lodge,22910,Yarra Glen,241.6,ok
+21318,Keilor North,22910,Yarra Glen,215.38,ok
+21319,Keilor Park,22910,Yarra Glen,,no_eligible_route
+21327,Kensington (Vic.),22910,Yarra Glen,133.58,ok
+21333,Kerrie,22910,Yarra Glen,,no_eligible_route
+21336,Kew (Vic.),22910,Yarra Glen,120.88,ok
+21337,Kew East,22910,Yarra Glen,129.52,ok
+21339,Keysborough,22910,Yarra Glen,167.67,ok
+21354,Kilsyth,22910,Yarra Glen,96.53,ok
+21355,Kilsyth South,22910,Yarra Glen,111.62,ok
+21358,Kinglake,22910,Yarra Glen,,no_eligible_route
+21359,Kinglake Central,22910,Yarra Glen,,no_eligible_route
+21360,Kinglake West,22910,Yarra Glen,,no_eligible_route
+21362,Kings Park (Vic.),22910,Yarra Glen,183.85,ok
+21363,Kingsbury,22910,Yarra Glen,165.32,ok
+21365,Kingsville,22910,Yarra Glen,147.93,ok
+21374,Knoxfield,22910,Yarra Glen,114.2,ok
+21380,Koo Wee Rup,22910,Yarra Glen,,no_eligible_route
+21381,Koo Wee Rup North,22910,Yarra Glen,,no_eligible_route
+21393,Kooyong,22910,Yarra Glen,125.62,ok
+21411,Kurunjang,22910,Yarra Glen,,no_eligible_route
+21452,Lalor,22910,Yarra Glen,167.88,ok
+21456,Lancefield,22910,Yarra Glen,,no_eligible_route
+21459,Lang Lang,22910,Yarra Glen,,no_eligible_route
+21460,Lang Lang East,22910,Yarra Glen,,no_eligible_route
+21467,Langwarrin,22910,Yarra Glen,,no_eligible_route
+21468,Langwarrin South,22910,Yarra Glen,,no_eligible_route
+21473,Launching Place,22910,Yarra Glen,73.83,ok
+21476,Laverton (Vic.),22910,Yarra Glen,164.28,ok
+21477,Laverton North,22910,Yarra Glen,212.32,ok
+21504,Lilydale (Vic.),22910,Yarra Glen,43.6,ok
+21533,Long Forest,22910,Yarra Glen,,no_eligible_route
+21547,Lower Plenty,22910,Yarra Glen,149.83,ok
+21554,Lynbrook,22910,Yarra Glen,169.7,ok
+21555,Lyndhurst (Vic.),22910,Yarra Glen,,no_eligible_route
+21558,Lysterfield,22910,Yarra Glen,,no_eligible_route
+21559,Lysterfield South,22910,Yarra Glen,208.42,ok
+21561,Macclesfield (Vic.),22910,Yarra Glen,,no_eligible_route
+21562,Macedon,22910,Yarra Glen,,no_eligible_route
+21564,Macleod (Vic.),22910,Yarra Glen,160.55,ok
+21569,Maddingley,22910,Yarra Glen,,no_eligible_route
+21575,Maidstone,22910,Yarra Glen,161.82,ok
+21578,Main Ridge,22910,Yarra Glen,,no_eligible_route
+21586,Malvern (Vic.),22910,Yarra Glen,122.15,ok
+21587,Malvern East,22910,Yarra Glen,138.22,ok
+21588,Mambourin,22910,Yarra Glen,,no_eligible_route
+21597,Manor Lakes,22910,Yarra Glen,223.22,ok
+21604,Maribyrnong,22910,Yarra Glen,162.33,ok
+21619,Maryknoll,22910,Yarra Glen,,no_eligible_route
+21625,McCrae,22910,Yarra Glen,,no_eligible_route
+21629,McKinnon,22910,Yarra Glen,131.7,ok
+21635,Meadow Heights,22910,Yarra Glen,189.73,ok
+21640,Melbourne,22910,Yarra Glen,118.82,ok
+21641,Melbourne Airport,22910,Yarra Glen,,no_eligible_route
+21642,Melton (Vic.),22910,Yarra Glen,,no_eligible_route
+21643,Melton South,22910,Yarra Glen,,no_eligible_route
+21644,Melton West,22910,Yarra Glen,,no_eligible_route
+21648,Mentone,22910,Yarra Glen,138.05,ok
+21649,Menzies Creek,22910,Yarra Glen,,no_eligible_route
+21659,Mernda,22910,Yarra Glen,204.48,ok
+21662,Merricks,22910,Yarra Glen,,no_eligible_route
+21663,Merricks Beach,22910,Yarra Glen,,no_eligible_route
+21664,Merricks North,22910,Yarra Glen,,no_eligible_route
+21668,Merrimu,22910,Yarra Glen,,no_eligible_route
+21675,Mickleham,22910,Yarra Glen,,no_eligible_route
+21677,Middle Park (Vic.),22910,Yarra Glen,147.83,ok
+21683,Mill Park,22910,Yarra Glen,161.38,ok
+21685,Millgrove,22910,Yarra Glen,,no_eligible_route
+21706,Mitcham (Vic.),22910,Yarra Glen,84.05,ok
+21727,Monbulk,22910,Yarra Glen,108.15,ok
+21728,Monegeetta,22910,Yarra Glen,,no_eligible_route
+21731,Monomeith,22910,Yarra Glen,,no_eligible_route
+21732,Mont Albert,22910,Yarra Glen,98.25,ok
+21733,Mont Albert North,22910,Yarra Glen,106.05,ok
+21735,Montmorency,22910,Yarra Glen,137.2,ok
+21736,Montrose (Vic.),22910,Yarra Glen,102.45,ok
+21742,Moonee Ponds,22910,Yarra Glen,146.2,ok
+21746,Moorabbin,22910,Yarra Glen,176.45,ok
+21747,Moorabbin Airport,22910,Yarra Glen,192.32,ok
+21754,Moorooduc,22910,Yarra Glen,,no_eligible_route
+21755,Mooroolbark,22910,Yarra Glen,76.12,ok
+21760,Mordialloc,22910,Yarra Glen,178.12,ok
+21763,Mornington (Vic.),22910,Yarra Glen,,no_eligible_route
+21779,Mount Burnett,22910,Yarra Glen,,no_eligible_route
+21786,Mount Cottrell,22910,Yarra Glen,,no_eligible_route
+21787,Mount Dandenong,22910,Yarra Glen,119.6,ok
+21793,Mount Eliza,22910,Yarra Glen,,no_eligible_route
+21795,Mount Evelyn,22910,Yarra Glen,76.22,ok
+21801,Mount Macedon,22910,Yarra Glen,,no_eligible_route
+21803,Mount Martha,22910,Yarra Glen,,no_eligible_route
+21814,Mount Toolebewong,22910,Yarra Glen,,no_eligible_route
+21816,Mount Waverley,22910,Yarra Glen,132.03,ok
+21827,Mulgrave (Vic.),22910,Yarra Glen,149.08,ok
+21849,Murrumbeena,22910,Yarra Glen,142.18,ok
+21872,Nangana,22910,Yarra Glen,,no_eligible_route
+21878,Nar Nar Goon,22910,Yarra Glen,,no_eligible_route
+21879,Nar Nar Goon North,22910,Yarra Glen,,no_eligible_route
+21893,Narre Warren,22910,Yarra Glen,186.88,ok
+21894,Narre Warren East,22910,Yarra Glen,,no_eligible_route
+21895,Narre Warren North,22910,Yarra Glen,,no_eligible_route
+21896,Narre Warren South,22910,Yarra Glen,194.03,ok
+21921,New Gisborne,22910,Yarra Glen,,no_eligible_route
+21934,Newport (Vic.),22910,Yarra Glen,141.13,ok
+21942,Niddrie,22910,Yarra Glen,174.08,ok
+21952,Noble Park,22910,Yarra Glen,140.7,ok
+21953,Noble Park North,22910,Yarra Glen,164.37,ok
+21966,North Melbourne,22910,Yarra Glen,136.08,ok
+21969,North Warrandyte,22910,Yarra Glen,145.55,ok
+21971,Northcote,22910,Yarra Glen,148.82,ok
+21974,Notting Hill,22910,Yarra Glen,114.83,ok
+21985,Nunawading,22910,Yarra Glen,82.52,ok
+21991,Nutfield,22910,Yarra Glen,,no_eligible_route
+21998,Oak Park,22910,Yarra Glen,164.52,ok
+21999,Oaklands Junction,22910,Yarra Glen,,no_eligible_route
+22000,Oakleigh,22910,Yarra Glen,133.85,ok
+22001,Oakleigh East,22910,Yarra Glen,137.17,ok
+22002,Oakleigh South,22910,Yarra Glen,130.3,ok
+22006,Officer,22910,Yarra Glen,180.98,ok
+22007,Officer South,22910,Yarra Glen,,no_eligible_route
+22009,Olinda (Vic.),22910,Yarra Glen,137.8,ok
+22016,Ormond,22910,Yarra Glen,132.13,ok
+22027,Pakenham,22910,Yarra Glen,180.03,ok
+22028,Pakenham South,22910,Yarra Glen,,no_eligible_route
+22029,Pakenham Upper,22910,Yarra Glen,,no_eligible_route
+22032,Panton Hill,22910,Yarra Glen,189.47,walk_only
+22036,Park Orchards,22910,Yarra Glen,93.17,ok
+22037,Parkdale,22910,Yarra Glen,156.47,ok
+22038,Parkville (Vic.),22910,Yarra Glen,148.42,ok
+22041,Pascoe Vale,22910,Yarra Glen,168.88,ok
+22042,Pascoe Vale South,22910,Yarra Glen,164.62,ok
+22047,Patterson Lakes,22910,Yarra Glen,199.23,ok
+22050,Pearcedale,22910,Yarra Glen,,no_eligible_route
+22058,Pentland Hills,22910,Yarra Glen,,no_eligible_route
+22064,Pheasant Creek (Vic.),22910,Yarra Glen,,no_eligible_route
+22084,Plenty (Vic.),22910,Yarra Glen,144.05,ok
+22085,Plumpton (Vic.),22910,Yarra Glen,,no_eligible_route
+22086,Point Cook,22910,Yarra Glen,,no_eligible_route
+22087,Point Leo,22910,Yarra Glen,,no_eligible_route
+22107,Port Melbourne,22910,Yarra Glen,154.42,ok
+22113,Portsea,22910,Yarra Glen,,no_eligible_route
+22115,Powelltown,22910,Yarra Glen,,no_eligible_route
+22118,Prahran,22910,Yarra Glen,125.2,ok
+22121,Preston (Vic.),22910,Yarra Glen,162.48,ok
+22122,Princes Hill,22910,Yarra Glen,134.57,ok
+22132,Quandong,22910,Yarra Glen,,no_eligible_route
+22141,Ravenhall,22910,Yarra Glen,,no_eligible_route
+22148,Red Hill (Vic.),22910,Yarra Glen,,no_eligible_route
+22149,Red Hill South,22910,Yarra Glen,,no_eligible_route
+22160,Research,22910,Yarra Glen,144.55,ok
+22161,Reservoir (Vic.),22910,Yarra Glen,164.7,ok
+22170,Richmond (Vic.),22910,Yarra Glen,120.7,ok
+22172,Riddells Creek,22910,Yarra Glen,,no_eligible_route
+22174,Ringwood (Vic.),22910,Yarra Glen,81.55,ok
+22175,Ringwood East,22910,Yarra Glen,77.25,ok
+22176,Ringwood North,22910,Yarra Glen,91.9,ok
+22179,Ripponlea,22910,Yarra Glen,123.1,ok
+22185,Rochford,22910,Yarra Glen,,no_eligible_route
+22186,Rockbank,22910,Yarra Glen,,no_eligible_route
+22193,Romsey,22910,Yarra Glen,,no_eligible_route
+22194,Rosanna,22910,Yarra Glen,151.28,ok
+22198,Rosebud,22910,Yarra Glen,,no_eligible_route
+22207,Rowville,22910,Yarra Glen,134.22,ok
+22208,Roxburgh Park,22910,Yarra Glen,194.37,ok
+22220,Rye,22910,Yarra Glen,,no_eligible_route
+22221,Rythdale,22910,Yarra Glen,,no_eligible_route
+22222,Safety Beach (Vic.),22910,Yarra Glen,,no_eligible_route
+22232,Sandhurst,22910,Yarra Glen,209.07,ok
+22234,Sandringham (Vic.),22910,Yarra Glen,148.95,ok
+22239,Sassafras (Vic.),22910,Yarra Glen,129.73,ok
+22242,Scoresby,22910,Yarra Glen,137.47,ok
+22247,Seabrook,22910,Yarra Glen,180.68,ok
+22249,Seaford (Vic.),22910,Yarra Glen,181.0,ok
+22250,Seaholme,22910,Yarra Glen,150.37,ok
+22256,Seddon (Vic.),22910,Yarra Glen,134.38,ok
+22258,Selby,22910,Yarra Glen,136.73,ok
+22263,Seville,22910,Yarra Glen,83.0,ok
+22264,Seville East,22910,Yarra Glen,70.88,ok
+22278,Sherbrooke,22910,Yarra Glen,116.32,ok
+22279,Shoreham,22910,Yarra Glen,,no_eligible_route
+22281,Silvan,22910,Yarra Glen,89.38,ok
+22291,Skye (Vic.),22910,Yarra Glen,235.23,ok
+22295,Smiths Gully,22910,Yarra Glen,145.27,walk_only
+22303,Somers,22910,Yarra Glen,,no_eligible_route
+22304,Somerton (Vic.),22910,Yarra Glen,202.75,ok
+22305,Somerville (Vic.),22910,Yarra Glen,,no_eligible_route
+22306,Sorrento (Vic.),22910,Yarra Glen,,no_eligible_route
+22309,South Kingsville,22910,Yarra Glen,153.38,ok
+22310,South Melbourne,22910,Yarra Glen,135.6,ok
+22311,South Morang,22910,Yarra Glen,176.92,ok
+22313,South Wharf,22910,Yarra Glen,133.62,ok
+22314,South Yarra,22910,Yarra Glen,113.77,ok
+22315,Southbank,22910,Yarra Glen,124.0,ok
+22319,Spotswood,22910,Yarra Glen,134.53,ok
+22325,Springfield (Macedon Ranges - Vic.),22910,Yarra Glen,,no_eligible_route
+22328,Springvale (Vic.),22910,Yarra Glen,131.5,ok
+22329,Springvale South,22910,Yarra Glen,127.4,ok
+22330,St Albans (Vic.),22910,Yarra Glen,157.22,ok
+22332,St Andrews (Vic.),22910,Yarra Glen,180.27,walk_only
+22333,St Andrews Beach,22910,Yarra Glen,,no_eligible_route
+22339,St Helena,22910,Yarra Glen,141.17,ok
+22343,St Kilda (Vic.),22910,Yarra Glen,138.23,ok
+22344,St Kilda East,22910,Yarra Glen,134.28,ok
+22345,St Kilda West,22910,Yarra Glen,146.52,ok
+22355,Steels Creek,22910,Yarra Glen,108.88,walk_only
+22375,Strathewen,22910,Yarra Glen,,no_eligible_route
+22380,Strathmore (Vic.),22910,Yarra Glen,172.68,ok
+22381,Strathmore Heights,22910,Yarra Glen,184.68,ok
+22382,Strathtulloh,22910,Yarra Glen,,no_eligible_route
+22391,Sunbury,22910,Yarra Glen,,no_eligible_route
+22395,Sunshine (Vic.),22910,Yarra Glen,146.0,ok
+22396,Sunshine North,22910,Yarra Glen,175.8,ok
+22397,Sunshine West,22910,Yarra Glen,178.17,ok
+22399,Surrey Hills,22910,Yarra Glen,98.65,ok
+22414,Sydenham (Vic.),22910,Yarra Glen,171.62,ok
+22451,Tarneit,22910,Yarra Glen,226.67,ok
+22457,Tarrawarra,22910,Yarra Glen,50.57,ok
+22473,Taylors Hill,22910,Yarra Glen,,no_eligible_route
+22474,Taylors Lakes,22910,Yarra Glen,176.5,ok
+22476,Tecoma,22910,Yarra Glen,103.17,ok
+22483,Templestowe,22910,Yarra Glen,130.73,ok
+22484,Templestowe Lower,22910,Yarra Glen,125.58,ok
+22496,The Basin (Vic.),22910,Yarra Glen,110.35,ok
+22501,The Patch,22910,Yarra Glen,115.35,ok
+22504,Thomastown,22910,Yarra Glen,173.18,ok
+22508,Thornbury,22910,Yarra Glen,156.97,ok
+22509,Thornhill Park,22910,Yarra Glen,,no_eligible_route
+22514,Three Bridges,22910,Yarra Glen,,no_eligible_route
+22531,Tonimbuk,22910,Yarra Glen,,no_eligible_route
+22536,Toolangi,22910,Yarra Glen,,no_eligible_route
+22537,Toolern Vale,22910,Yarra Glen,,no_eligible_route
+22546,Tooradin,22910,Yarra Glen,,no_eligible_route
+22547,Toorak,22910,Yarra Glen,133.82,ok
+22550,Tootgarook,22910,Yarra Glen,,no_eligible_route
+22556,Tottenham (Vic.),22910,Yarra Glen,182.53,ok
+22572,Travancore,22910,Yarra Glen,146.95,ok
+22576,Tremont,22910,Yarra Glen,126.77,ok
+22582,Truganina,22910,Yarra Glen,,no_eligible_route
+22584,Tuerong,22910,Yarra Glen,,no_eligible_route
+22586,Tullamarine,22910,Yarra Glen,193.92,ok
+22594,Tyabb,22910,Yarra Glen,,no_eligible_route
+22598,Tynong,22910,Yarra Glen,,no_eligible_route
+22599,Tynong North,22910,Yarra Glen,,no_eligible_route
+22614,Upper Ferntree Gully,22910,Yarra Glen,106.32,ok
+22617,Upper Plenty,22910,Yarra Glen,,no_eligible_route
+22620,Upwey,22910,Yarra Glen,103.03,ok
+22627,Vermont,22910,Yarra Glen,93.63,ok
+22628,Vermont South,22910,Yarra Glen,103.52,ok
+22629,Vervale,22910,Yarra Glen,,no_eligible_route
+22633,Viewbank,22910,Yarra Glen,165.97,ok
+22661,Wallan,22910,Yarra Glen,,no_eligible_route
+22672,Wandin East,22910,Yarra Glen,,no_eligible_route
+22673,Wandin North,22910,Yarra Glen,54.97,ok
+22676,Wandong,22910,Yarra Glen,,no_eligible_route
+22685,Wantirna,22910,Yarra Glen,104.32,ok
+22686,Wantirna South,22910,Yarra Glen,118.17,ok
+22689,Warburton (Vic.),22910,Yarra Glen,,no_eligible_route
+22695,Warneet,22910,Yarra Glen,,no_eligible_route
+22702,Warrandyte,22910,Yarra Glen,115.82,ok
+22703,Warrandyte South,22910,Yarra Glen,130.2,ok
+22704,Warranwood,22910,Yarra Glen,105.05,ok
+22717,Waterford Park,22910,Yarra Glen,,no_eligible_route
+22720,Waterways,22910,Yarra Glen,171.83,ok
+22721,Watsonia,22910,Yarra Glen,141.68,ok
+22722,Watsonia North,22910,Yarra Glen,136.33,ok
+22723,Watsons Creek (Vic.),22910,Yarra Glen,185.92,walk_only
+22727,Wattle Glen,22910,Yarra Glen,167.22,ok
+22740,Weir Views,22910,Yarra Glen,,no_eligible_route
+22750,Werribee,22910,Yarra Glen,190.68,ok
+22751,Werribee South,22910,Yarra Glen,,no_eligible_route
+22753,Wesburn,22910,Yarra Glen,91.93,ok
+22756,West Footscray,22910,Yarra Glen,150.17,ok
+22757,West Melbourne,22910,Yarra Glen,168.95,ok
+22761,Westmeadows,22910,Yarra Glen,182.5,ok
+22766,Wheelers Hill,22910,Yarra Glen,128.9,ok
+22775,Whittlesea,22910,Yarra Glen,,no_eligible_route
+22784,Wildwood,22910,Yarra Glen,,no_eligible_route
+22791,Williams Landing,22910,Yarra Glen,178.53,ok
+22792,Williamstown (Vic.),22910,Yarra Glen,153.35,ok
+22793,Williamstown North,22910,Yarra Glen,162.88,ok
+22805,Windsor (Vic.),22910,Yarra Glen,120.37,ok
+22820,Wollert,22910,Yarra Glen,224.57,ok
+22825,Wonga Park,22910,Yarra Glen,97.95,ok
+22843,Woodstock (Vic.),22910,Yarra Glen,,no_eligible_route
+22857,Woori Yallock,22910,Yarra Glen,69.08,ok
+22883,Wyndham Vale,22910,Yarra Glen,208.13,ok
+22892,Yallambie,22910,Yarra Glen,157.57,ok
+22898,Yan Yean,22910,Yarra Glen,203.13,ok
+22906,Yannathan,22910,Yarra Glen,,no_eligible_route
+22910,Yarra Glen,22910,Yarra Glen,0.0,same_centroid
+22911,Yarra Junction,22910,Yarra Glen,96.2,ok
+22916,Yarrambat,22910,Yarra Glen,159.62,ok
+22917,Yarraville,22910,Yarra Glen,140.28,ok
+22925,Yellingbo,22910,Yarra Glen,,no_eligible_route
+22930,Yering,22910,Yarra Glen,93.37,walk_only
+22941,Yuroke,22910,Yarra Glen,,no_eligible_route

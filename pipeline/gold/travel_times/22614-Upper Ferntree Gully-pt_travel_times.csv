@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22614,Upper Ferntree Gully,87.67,ok
+20003,Aberfeldie,22614,Upper Ferntree Gully,109.97,ok
+20011,Aintree,22614,Upper Ferntree Gully,153.7,ok
+20015,Airport West,22614,Upper Ferntree Gully,133.07,ok
+20017,Albanvale,22614,Upper Ferntree Gully,139.78,ok
+20018,Albert Park (Vic.),22614,Upper Ferntree Gully,95.53,ok
+20021,Albion (Vic.),22614,Upper Ferntree Gully,114.57,ok
+20034,Alphington,22614,Upper Ferntree Gully,95.58,ok
+20035,Altona (Vic.),22614,Upper Ferntree Gully,118.67,ok
+20036,Altona Meadows,22614,Upper Ferntree Gully,126.82,ok
+20037,Altona North,22614,Upper Ferntree Gully,119.07,ok
+20062,Ardeer,22614,Upper Ferntree Gully,126.72,ok
+20066,Armadale (Vic.),22614,Upper Ferntree Gully,82.82,ok
+20071,Arthurs Creek,22614,Upper Ferntree Gully,,no_eligible_route
+20072,Arthurs Seat,22614,Upper Ferntree Gully,,no_eligible_route
+20075,Ascot Vale,22614,Upper Ferntree Gully,103.8,ok
+20077,Ashburton,22614,Upper Ferntree Gully,78.8,ok
+20078,Ashwood,22614,Upper Ferntree Gully,74.7,ok
+20079,Aspendale,22614,Upper Ferntree Gully,122.13,ok
+20080,Aspendale Gardens,22614,Upper Ferntree Gully,108.2,ok
+20082,Attwood,22614,Upper Ferntree Gully,148.78,ok
+20089,Avondale Heights,22614,Upper Ferntree Gully,129.1,ok
+20091,Avonsleigh,22614,Upper Ferntree Gully,77.0,ok
+20095,Bacchus Marsh,22614,Upper Ferntree Gully,,no_eligible_route
+20097,Badger Creek,22614,Upper Ferntree Gully,137.27,ok
+20105,Balaclava (Vic.),22614,Upper Ferntree Gully,84.45,ok
+20120,Balnarring,22614,Upper Ferntree Gully,,no_eligible_route
+20121,Balnarring Beach,22614,Upper Ferntree Gully,,no_eligible_route
+20123,Balwyn,22614,Upper Ferntree Gully,62.55,ok
+20124,Balwyn North,22614,Upper Ferntree Gully,66.52,ok
+20131,Bangholme,22614,Upper Ferntree Gully,,no_eligible_route
+20169,Baxter,22614,Upper Ferntree Gully,152.8,ok
+20171,Bayles,22614,Upper Ferntree Gully,,no_eligible_route
+20173,Bayswater (Vic.),22614,Upper Ferntree Gully,31.05,ok
+20174,Bayswater North,22614,Upper Ferntree Gully,51.23,ok
+20175,Beaconsfield (Vic.),22614,Upper Ferntree Gully,125.53,ok
+20176,Beaconsfield Upper,22614,Upper Ferntree Gully,,no_eligible_route
+20182,Beaumaris (Vic.),22614,Upper Ferntree Gully,123.33,ok
+20187,Beenak,22614,Upper Ferntree Gully,,no_eligible_route
+20188,Belgrave,22614,Upper Ferntree Gully,23.08,ok
+20189,Belgrave Heights,22614,Upper Ferntree Gully,57.82,ok
+20190,Belgrave South,22614,Upper Ferntree Gully,58.8,ok
+20198,Bellfield (Banyule - Vic.),22614,Upper Ferntree Gully,106.62,ok
+20207,Bend Of Islands,22614,Upper Ferntree Gully,,no_eligible_route
+20212,Benloch,22614,Upper Ferntree Gully,,no_eligible_route
+20214,Bentleigh,22614,Upper Ferntree Gully,100.63,ok
+20215,Bentleigh East,22614,Upper Ferntree Gully,88.38,ok
+20224,Berwick,22614,Upper Ferntree Gully,92.7,ok
+20233,Beveridge,22614,Upper Ferntree Gully,179.33,ok
+20237,Big Pats Creek,22614,Upper Ferntree Gully,,no_eligible_route
+20248,Bittern,22614,Upper Ferntree Gully,170.78,ok
+20251,Black Rock (Vic.),22614,Upper Ferntree Gully,121.27,ok
+20252,Blackburn,22614,Upper Ferntree Gully,42.38,ok
+20253,Blackburn North,22614,Upper Ferntree Gully,58.53,ok
+20254,Blackburn South,22614,Upper Ferntree Gully,58.73,ok
+20257,Blairgowrie,22614,Upper Ferntree Gully,219.75,ok
+20260,Blind Bight,22614,Upper Ferntree Gully,,no_eligible_route
+20272,Bolinda,22614,Upper Ferntree Gully,,no_eligible_route
+20278,Bonbeach,22614,Upper Ferntree Gully,114.57,ok
+20280,Boneo,22614,Upper Ferntree Gully,,no_eligible_route
+20282,Bonnie Brook,22614,Upper Ferntree Gully,186.25,ok
+20304,Boronia,22614,Upper Ferntree Gully,27.53,ok
+20307,Botanic Ridge,22614,Upper Ferntree Gully,143.57,ok
+20314,Box Hill (Vic.),22614,Upper Ferntree Gully,49.6,ok
+20315,Box Hill North,22614,Upper Ferntree Gully,60.27,ok
+20316,Box Hill South,22614,Upper Ferntree Gully,54.53,ok
+20320,Braeside,22614,Upper Ferntree Gully,115.05,ok
+20324,Braybrook,22614,Upper Ferntree Gully,121.42,ok
+20331,Briar Hill,22614,Upper Ferntree Gully,95.17,ok
+20337,Brighton (Vic.),22614,Upper Ferntree Gully,97.22,ok
+20338,Brighton East,22614,Upper Ferntree Gully,104.02,ok
+20346,Broadmeadows (Vic.),22614,Upper Ferntree Gully,124.7,ok
+20351,Brookfield (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+20352,Brooklyn (Vic.),22614,Upper Ferntree Gully,118.68,ok
+20361,Brunswick (Vic.),22614,Upper Ferntree Gully,96.52,ok
+20362,Brunswick East,22614,Upper Ferntree Gully,105.6,ok
+20363,Brunswick West,22614,Upper Ferntree Gully,103.7,ok
+20381,Bulla (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+20386,Bulleen,22614,Upper Ferntree Gully,85.42,ok
+20387,Bullengarook,22614,Upper Ferntree Gully,,no_eligible_route
+20399,Bundoora (Vic.),22614,Upper Ferntree Gully,109.77,ok
+20411,Bunyip,22614,Upper Ferntree Gully,,no_eligible_route
+20412,Bunyip North,22614,Upper Ferntree Gully,,no_eligible_route
+20418,Burnley,22614,Upper Ferntree Gully,78.02,ok
+20419,Burnside (Vic.),22614,Upper Ferntree Gully,135.6,ok
+20420,Burnside Heights,22614,Upper Ferntree Gully,143.42,ok
+20426,Burwood (Vic.),22614,Upper Ferntree Gully,58.52,ok
+20427,Burwood East,22614,Upper Ferntree Gully,46.68,ok
+20435,Bylands,22614,Upper Ferntree Gully,,no_eligible_route
+20441,Cairnlea,22614,Upper Ferntree Gully,121.78,ok
+20442,Calder Park,22614,Upper Ferntree Gully,151.35,ok
+20443,Caldermeade,22614,Upper Ferntree Gully,,no_eligible_route
+20453,Camberwell (Vic.),22614,Upper Ferntree Gully,75.27,ok
+20455,Campbellfield,22614,Upper Ferntree Gully,136.07,ok
+20466,Cannons Creek,22614,Upper Ferntree Gully,,no_eligible_route
+20468,Canterbury (Vic.),22614,Upper Ferntree Gully,57.83,ok
+20474,Cape Schanck,22614,Upper Ferntree Gully,,no_eligible_route
+20476,Capel Sound,22614,Upper Ferntree Gully,205.1,ok
+20487,Cardinia,22614,Upper Ferntree Gully,,no_eligible_route
+20495,Carlton (Vic.),22614,Upper Ferntree Gully,90.27,ok
+20496,Carlton North,22614,Upper Ferntree Gully,102.37,ok
+20498,Carnegie,22614,Upper Ferntree Gully,85.22,ok
+20500,Caroline Springs,22614,Upper Ferntree Gully,141.48,ok
+20507,Carrum,22614,Upper Ferntree Gully,118.8,ok
+20508,Carrum Downs,22614,Upper Ferntree Gully,97.5,ok
+20512,Castella,22614,Upper Ferntree Gully,,no_eligible_route
+20517,Catani,22614,Upper Ferntree Gully,,no_eligible_route
+20521,Caulfield,22614,Upper Ferntree Gully,103.08,ok
+20522,Caulfield East,22614,Upper Ferntree Gully,84.17,ok
+20523,Caulfield North,22614,Upper Ferntree Gully,85.17,ok
+20524,Caulfield South,22614,Upper Ferntree Gully,107.7,ok
+20528,Chadstone,22614,Upper Ferntree Gully,72.42,ok
+20537,Chelsea,22614,Upper Ferntree Gully,105.57,ok
+20538,Chelsea Heights,22614,Upper Ferntree Gully,113.2,ok
+20539,Cheltenham (Vic.),22614,Upper Ferntree Gully,103.83,ok
+20541,Cherokee,22614,Upper Ferntree Gully,,no_eligible_route
+20555,Chintin,22614,Upper Ferntree Gully,,no_eligible_route
+20556,Chirnside Park,22614,Upper Ferntree Gully,101.27,ok
+20559,Christmas Hills (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+20560,Chum Creek,22614,Upper Ferntree Gully,,no_eligible_route
+20566,Clarinda,22614,Upper Ferntree Gully,87.37,ok
+20567,Clarkefield,22614,Upper Ferntree Gully,,no_eligible_route
+20569,Clayton,22614,Upper Ferntree Gully,71.28,ok
+20570,Clayton South,22614,Upper Ferntree Gully,96.5,ok
+20572,Clematis,22614,Upper Ferntree Gully,45.25,ok
+20574,Clifton Hill,22614,Upper Ferntree Gully,86.58,ok
+20576,Clonbinane,22614,Upper Ferntree Gully,,no_eligible_route
+20581,Clyde (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+20582,Clyde North,22614,Upper Ferntree Gully,118.17,ok
+20587,Cobaw,22614,Upper Ferntree Gully,,no_eligible_route
+20590,Cobblebank,22614,Upper Ferntree Gully,207.4,ok
+20596,Coburg,22614,Upper Ferntree Gully,105.82,ok
+20597,Coburg North,22614,Upper Ferntree Gully,118.62,ok
+20600,Cockatoo (Vic.),22614,Upper Ferntree Gully,80.68,ok
+20601,Cocoroc,22614,Upper Ferntree Gully,,no_eligible_route
+20605,Coimadai,22614,Upper Ferntree Gully,,no_eligible_route
+20613,Coldstream (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+20616,Collingwood (Vic.),22614,Upper Ferntree Gully,84.9,ok
+20624,Coolaroo,22614,Upper Ferntree Gully,128.28,ok
+20633,Cora Lynn,22614,Upper Ferntree Gully,,no_eligible_route
+20654,Cottles Bridge,22614,Upper Ferntree Gully,,no_eligible_route
+20661,Craigieburn,22614,Upper Ferntree Gully,145.82,ok
+20662,Cranbourne,22614,Upper Ferntree Gully,105.57,ok
+20663,Cranbourne East,22614,Upper Ferntree Gully,107.45,ok
+20664,Cranbourne North,22614,Upper Ferntree Gully,101.37,ok
+20665,Cranbourne South,22614,Upper Ferntree Gully,146.92,ok
+20666,Cranbourne West,22614,Upper Ferntree Gully,115.27,ok
+20670,Cremorne (Vic.),22614,Upper Ferntree Gully,74.0,ok
+20674,Crib Point,22614,Upper Ferntree Gully,179.75,ok
+20682,Croydon (Vic.),22614,Upper Ferntree Gully,49.17,ok
+20683,Croydon Hills,22614,Upper Ferntree Gully,62.5,ok
+20684,Croydon North,22614,Upper Ferntree Gully,78.92,ok
+20685,Croydon South,22614,Upper Ferntree Gully,59.78,ok
+20702,Dallas,22614,Upper Ferntree Gully,130.42,ok
+20703,Dalmore,22614,Upper Ferntree Gully,,no_eligible_route
+20707,Dandenong,22614,Upper Ferntree Gully,65.02,ok
+20708,Dandenong North,22614,Upper Ferntree Gully,66.43,ok
+20709,Dandenong South,22614,Upper Ferntree Gully,95.1,ok
+20712,Darley,22614,Upper Ferntree Gully,,no_eligible_route
+20716,Darraweit Guim,22614,Upper Ferntree Gully,,no_eligible_route
+20724,Deanside,22614,Upper Ferntree Gully,167.72,ok
+20728,Deepdene (Vic.),22614,Upper Ferntree Gully,66.45,ok
+20729,Deer Park,22614,Upper Ferntree Gully,124.55,ok
+20731,Delahey,22614,Upper Ferntree Gully,138.68,ok
+20743,Derrimut,22614,Upper Ferntree Gully,157.82,ok
+20748,Devon Meadows,22614,Upper Ferntree Gully,,no_eligible_route
+20750,Dewhurst,22614,Upper Ferntree Gully,,no_eligible_route
+20752,Diamond Creek,22614,Upper Ferntree Gully,112.9,ok
+20754,Diggers Rest,22614,Upper Ferntree Gully,155.67,ok
+20758,Dingley Village,22614,Upper Ferntree Gully,91.88,ok
+20762,Dixons Creek,22614,Upper Ferntree Gully,,no_eligible_route
+20766,Docklands,22614,Upper Ferntree Gully,88.12,ok
+20769,Don Valley,22614,Upper Ferntree Gully,,no_eligible_route
+20771,Doncaster,22614,Upper Ferntree Gully,63.07,ok
+20772,Doncaster East,22614,Upper Ferntree Gully,69.03,ok
+20773,Donnybrook (Vic.),22614,Upper Ferntree Gully,177.87,ok
+20774,Donvale,22614,Upper Ferntree Gully,68.77,ok
+20779,Doreen,22614,Upper Ferntree Gully,177.38,ok
+20783,Doveton,22614,Upper Ferntree Gully,80.8,ok
+20788,Dromana,22614,Upper Ferntree Gully,,no_eligible_route
+20825,Eaglemont,22614,Upper Ferntree Gully,92.18,ok
+20830,East Melbourne,22614,Upper Ferntree Gully,81.18,ok
+20833,East Warburton,22614,Upper Ferntree Gully,,no_eligible_route
+20843,Eden Park,22614,Upper Ferntree Gully,,no_eligible_route
+20848,Edithvale,22614,Upper Ferntree Gully,96.05,ok
+20864,Elsternwick,22614,Upper Ferntree Gully,92.37,ok
+20865,Eltham (Vic.),22614,Upper Ferntree Gully,95.13,ok
+20866,Eltham North,22614,Upper Ferntree Gully,112.72,ok
+20867,Elwood,22614,Upper Ferntree Gully,98.55,ok
+20868,Emerald (Vic.),22614,Upper Ferntree Gully,75.6,ok
+20871,Endeavour Hills,22614,Upper Ferntree Gully,80.43,ok
+20878,Epping (Vic.),22614,Upper Ferntree Gully,148.43,ok
+20885,Essendon,22614,Upper Ferntree Gully,109.72,ok
+20886,Essendon Fields,22614,Upper Ferntree Gully,136.12,ok
+20887,Essendon North,22614,Upper Ferntree Gully,117.12,ok
+20888,Essendon West,22614,Upper Ferntree Gully,112.58,ok
+20889,Eumemmerring,22614,Upper Ferntree Gully,85.3,ok
+20898,Exford,22614,Upper Ferntree Gully,,no_eligible_route
+20899,Eynesbury,22614,Upper Ferntree Gully,,no_eligible_route
+20901,Fairfield (Vic.),22614,Upper Ferntree Gully,100.02,ok
+20909,Fawkner,22614,Upper Ferntree Gully,122.52,ok
+20916,Fernshaw,22614,Upper Ferntree Gully,,no_eligible_route
+20917,Ferntree Gully,22614,Upper Ferntree Gully,22.15,ok
+20918,Ferny Creek,22614,Upper Ferntree Gully,53.02,ok
+20920,Fingal (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+20924,Fitzroy (Vic.),22614,Upper Ferntree Gully,89.2,ok
+20925,Fitzroy North,22614,Upper Ferntree Gully,96.8,ok
+20929,Flemington,22614,Upper Ferntree Gully,101.33,ok
+20930,Flinders (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+20935,Footscray,22614,Upper Ferntree Gully,97.43,ok
+20937,Forest Hill (Vic.),22614,Upper Ferntree Gully,58.4,ok
+20947,Frankston,22614,Upper Ferntree Gully,123.23,ok
+20948,Frankston North,22614,Upper Ferntree Gully,121.35,ok
+20949,Frankston South,22614,Upper Ferntree Gully,164.17,ok
+20950,Fraser Rise,22614,Upper Ferntree Gully,162.1,ok
+20965,Gardenvale,22614,Upper Ferntree Gully,93.65,ok
+20966,Garfield,22614,Upper Ferntree Gully,,no_eligible_route
+20967,Garfield North,22614,Upper Ferntree Gully,,no_eligible_route
+20979,Gembrook,22614,Upper Ferntree Gully,,no_eligible_route
+20995,Gilderoy,22614,Upper Ferntree Gully,,no_eligible_route
+21001,Gisborne,22614,Upper Ferntree Gully,,no_eligible_route
+21002,Gisborne South,22614,Upper Ferntree Gully,,no_eligible_route
+21004,Gladstone Park,22614,Upper Ferntree Gully,141.62,ok
+21005,Gladysdale,22614,Upper Ferntree Gully,,no_eligible_route
+21009,Glen Huntly,22614,Upper Ferntree Gully,92.77,ok
+21010,Glen Iris (Vic.),22614,Upper Ferntree Gully,85.25,ok
+21013,Glen Waverley,22614,Upper Ferntree Gully,53.85,ok
+21047,Glenroy (Vic.),22614,Upper Ferntree Gully,122.27,ok
+21059,Goldie,22614,Upper Ferntree Gully,,no_eligible_route
+21079,Gowanbrae,22614,Upper Ferntree Gully,138.07,ok
+21087,Grangefields,22614,Upper Ferntree Gully,190.7,ok
+21104,Greensborough,22614,Upper Ferntree Gully,98.52,ok
+21105,Greenvale (Vic.),22614,Upper Ferntree Gully,145.95,ok
+21115,Gruyere,22614,Upper Ferntree Gully,,no_eligible_route
+21121,Guys Hill,22614,Upper Ferntree Gully,,no_eligible_route
+21124,Hadfield,22614,Upper Ferntree Gully,130.55,ok
+21125,Hallam,22614,Upper Ferntree Gully,97.82,ok
+21131,Hampton (Vic.),22614,Upper Ferntree Gully,105.05,ok
+21132,Hampton East,22614,Upper Ferntree Gully,106.53,ok
+21133,Hampton Park,22614,Upper Ferntree Gully,100.23,ok
+21139,Harkaway,22614,Upper Ferntree Gully,212.78,walk_only
+21140,Harkness,22614,Upper Ferntree Gully,,no_eligible_route
+21145,Hastings (Vic.),22614,Upper Ferntree Gully,172.32,ok
+21152,Hawthorn (Vic.),22614,Upper Ferntree Gully,69.42,ok
+21153,Hawthorn East,22614,Upper Ferntree Gully,68.57,ok
+21158,Healesville,22614,Upper Ferntree Gully,,no_eligible_route
+21159,Heath Hill,22614,Upper Ferntree Gully,,no_eligible_route
+21161,Heathcote Junction,22614,Upper Ferntree Gully,,no_eligible_route
+21163,Heatherton,22614,Upper Ferntree Gully,94.38,ok
+21165,Heathmont,22614,Upper Ferntree Gully,30.08,ok
+21167,Heidelberg,22614,Upper Ferntree Gully,89.98,ok
+21168,Heidelberg Heights,22614,Upper Ferntree Gully,104.25,ok
+21169,Heidelberg West,22614,Upper Ferntree Gully,106.25,ok
+21176,Hesket,22614,Upper Ferntree Gully,,no_eligible_route
+21185,Highett,22614,Upper Ferntree Gully,100.77,ok
+21193,Hillside (Melton - Vic.),22614,Upper Ferntree Gully,146.65,ok
+21195,Hmas Cerberus,22614,Upper Ferntree Gully,,no_eligible_route
+21196,Hoddles Creek,22614,Upper Ferntree Gully,,no_eligible_route
+21202,Hopetoun Park,22614,Upper Ferntree Gully,,no_eligible_route
+21203,Hoppers Crossing,22614,Upper Ferntree Gully,131.5,ok
+21214,Hughesdale,22614,Upper Ferntree Gully,69.65,ok
+21215,Humevale,22614,Upper Ferntree Gully,,no_eligible_route
+21218,Huntingdale (Vic.),22614,Upper Ferntree Gully,72.15,ok
+21223,Hurstbridge,22614,Upper Ferntree Gully,113.45,ok
+21238,Iona,22614,Upper Ferntree Gully,,no_eligible_route
+21246,Ivanhoe (Vic.),22614,Upper Ferntree Gully,100.18,ok
+21247,Ivanhoe East,22614,Upper Ferntree Gully,102.8,ok
+21248,Jacana,22614,Upper Ferntree Gully,126.83,ok
+21277,Junction Village,22614,Upper Ferntree Gully,143.9,ok
+21284,Kalkallo,22614,Upper Ferntree Gully,170.87,ok
+21286,Kallista,22614,Upper Ferntree Gully,66.38,ok
+21287,Kalorama,22614,Upper Ferntree Gully,49.27,ok
+21294,Kangaroo Ground,22614,Upper Ferntree Gully,131.68,ok
+21312,Kealba,22614,Upper Ferntree Gully,127.93,ok
+21314,Keilor,22614,Upper Ferntree Gully,159.08,ok
+21315,Keilor Downs,22614,Upper Ferntree Gully,141.92,ok
+21316,Keilor East,22614,Upper Ferntree Gully,126.95,ok
+21317,Keilor Lodge,22614,Upper Ferntree Gully,147.92,ok
+21318,Keilor North,22614,Upper Ferntree Gully,153.98,ok
+21319,Keilor Park,22614,Upper Ferntree Gully,134.87,ok
+21327,Kensington (Vic.),22614,Upper Ferntree Gully,93.57,ok
+21333,Kerrie,22614,Upper Ferntree Gully,,no_eligible_route
+21336,Kew (Vic.),22614,Upper Ferntree Gully,82.87,ok
+21337,Kew East,22614,Upper Ferntree Gully,92.0,ok
+21339,Keysborough,22614,Upper Ferntree Gully,104.65,ok
+21354,Kilsyth,22614,Upper Ferntree Gully,72.75,ok
+21355,Kilsyth South,22614,Upper Ferntree Gully,65.6,ok
+21358,Kinglake,22614,Upper Ferntree Gully,,no_eligible_route
+21359,Kinglake Central,22614,Upper Ferntree Gully,,no_eligible_route
+21360,Kinglake West,22614,Upper Ferntree Gully,,no_eligible_route
+21362,Kings Park (Vic.),22614,Upper Ferntree Gully,137.12,ok
+21363,Kingsbury,22614,Upper Ferntree Gully,125.53,ok
+21365,Kingsville,22614,Upper Ferntree Gully,107.92,ok
+21374,Knoxfield,22614,Upper Ferntree Gully,31.57,ok
+21380,Koo Wee Rup,22614,Upper Ferntree Gully,,no_eligible_route
+21381,Koo Wee Rup North,22614,Upper Ferntree Gully,,no_eligible_route
+21393,Kooyong,22614,Upper Ferntree Gully,80.6,ok
+21411,Kurunjang,22614,Upper Ferntree Gully,225.48,ok
+21452,Lalor,22614,Upper Ferntree Gully,118.87,ok
+21456,Lancefield,22614,Upper Ferntree Gully,,no_eligible_route
+21459,Lang Lang,22614,Upper Ferntree Gully,,no_eligible_route
+21460,Lang Lang East,22614,Upper Ferntree Gully,,no_eligible_route
+21467,Langwarrin,22614,Upper Ferntree Gully,128.28,ok
+21468,Langwarrin South,22614,Upper Ferntree Gully,,no_eligible_route
+21473,Launching Place,22614,Upper Ferntree Gully,89.82,ok
+21476,Laverton (Vic.),22614,Upper Ferntree Gully,114.27,ok
+21477,Laverton North,22614,Upper Ferntree Gully,150.7,ok
+21504,Lilydale (Vic.),22614,Upper Ferntree Gully,94.63,ok
+21533,Long Forest,22614,Upper Ferntree Gully,,no_eligible_route
+21547,Lower Plenty,22614,Upper Ferntree Gully,116.82,ok
+21554,Lynbrook,22614,Upper Ferntree Gully,94.07,ok
+21555,Lyndhurst (Vic.),22614,Upper Ferntree Gully,143.65,ok
+21558,Lysterfield,22614,Upper Ferntree Gully,101.9,walk_only
+21559,Lysterfield South,22614,Upper Ferntree Gully,174.03,walk_only
+21561,Macclesfield (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+21562,Macedon,22614,Upper Ferntree Gully,,no_eligible_route
+21564,Macleod (Vic.),22614,Upper Ferntree Gully,110.53,ok
+21569,Maddingley,22614,Upper Ferntree Gully,,no_eligible_route
+21575,Maidstone,22614,Upper Ferntree Gully,116.8,ok
+21578,Main Ridge,22614,Upper Ferntree Gully,,no_eligible_route
+21586,Malvern (Vic.),22614,Upper Ferntree Gully,79.13,ok
+21587,Malvern East,22614,Upper Ferntree Gully,75.28,ok
+21588,Mambourin,22614,Upper Ferntree Gully,,no_eligible_route
+21597,Manor Lakes,22614,Upper Ferntree Gully,167.2,ok
+21604,Maribyrnong,22614,Upper Ferntree Gully,116.55,ok
+21619,Maryknoll,22614,Upper Ferntree Gully,,no_eligible_route
+21625,McCrae,22614,Upper Ferntree Gully,,no_eligible_route
+21629,McKinnon,22614,Upper Ferntree Gully,90.07,ok
+21635,Meadow Heights,22614,Upper Ferntree Gully,139.72,ok
+21640,Melbourne,22614,Upper Ferntree Gully,75.28,ok
+21641,Melbourne Airport,22614,Upper Ferntree Gully,,no_eligible_route
+21642,Melton (Vic.),22614,Upper Ferntree Gully,209.62,ok
+21643,Melton South,22614,Upper Ferntree Gully,223.22,ok
+21644,Melton West,22614,Upper Ferntree Gully,218.45,ok
+21648,Mentone,22614,Upper Ferntree Gully,89.42,ok
+21649,Menzies Creek,22614,Upper Ferntree Gully,44.05,ok
+21659,Mernda,22614,Upper Ferntree Gully,159.4,ok
+21662,Merricks,22614,Upper Ferntree Gully,,no_eligible_route
+21663,Merricks Beach,22614,Upper Ferntree Gully,,no_eligible_route
+21664,Merricks North,22614,Upper Ferntree Gully,,no_eligible_route
+21668,Merrimu,22614,Upper Ferntree Gully,,no_eligible_route
+21675,Mickleham,22614,Upper Ferntree Gully,166.85,ok
+21677,Middle Park (Vic.),22614,Upper Ferntree Gully,101.25,ok
+21683,Mill Park,22614,Upper Ferntree Gully,131.37,ok
+21685,Millgrove,22614,Upper Ferntree Gully,,no_eligible_route
+21706,Mitcham (Vic.),22614,Upper Ferntree Gully,42.03,ok
+21727,Monbulk,22614,Upper Ferntree Gully,76.15,ok
+21728,Monegeetta,22614,Upper Ferntree Gully,,no_eligible_route
+21731,Monomeith,22614,Upper Ferntree Gully,,no_eligible_route
+21732,Mont Albert,22614,Upper Ferntree Gully,56.28,ok
+21733,Mont Albert North,22614,Upper Ferntree Gully,66.22,ok
+21735,Montmorency,22614,Upper Ferntree Gully,100.28,ok
+21736,Montrose (Vic.),22614,Upper Ferntree Gully,52.3,ok
+21742,Moonee Ponds,22614,Upper Ferntree Gully,91.18,ok
+21746,Moorabbin,22614,Upper Ferntree Gully,100.02,ok
+21747,Moorabbin Airport,22614,Upper Ferntree Gully,109.33,ok
+21754,Moorooduc,22614,Upper Ferntree Gully,,no_eligible_route
+21755,Mooroolbark,22614,Upper Ferntree Gully,67.37,ok
+21760,Mordialloc,22614,Upper Ferntree Gully,122.1,ok
+21763,Mornington (Vic.),22614,Upper Ferntree Gully,160.1,ok
+21779,Mount Burnett,22614,Upper Ferntree Gully,,no_eligible_route
+21786,Mount Cottrell,22614,Upper Ferntree Gully,,no_eligible_route
+21787,Mount Dandenong,22614,Upper Ferntree Gully,41.02,ok
+21793,Mount Eliza,22614,Upper Ferntree Gully,138.28,ok
+21795,Mount Evelyn,22614,Upper Ferntree Gully,69.37,ok
+21801,Mount Macedon,22614,Upper Ferntree Gully,,no_eligible_route
+21803,Mount Martha,22614,Upper Ferntree Gully,166.82,ok
+21814,Mount Toolebewong,22614,Upper Ferntree Gully,,no_eligible_route
+21816,Mount Waverley,22614,Upper Ferntree Gully,63.32,ok
+21827,Mulgrave (Vic.),22614,Upper Ferntree Gully,77.63,ok
+21849,Murrumbeena,22614,Upper Ferntree Gully,81.55,ok
+21872,Nangana,22614,Upper Ferntree Gully,,no_eligible_route
+21878,Nar Nar Goon,22614,Upper Ferntree Gully,,no_eligible_route
+21879,Nar Nar Goon North,22614,Upper Ferntree Gully,,no_eligible_route
+21893,Narre Warren,22614,Upper Ferntree Gully,98.25,ok
+21894,Narre Warren East,22614,Upper Ferntree Gully,151.87,walk_only
+21895,Narre Warren North,22614,Upper Ferntree Gully,118.07,ok
+21896,Narre Warren South,22614,Upper Ferntree Gully,99.62,ok
+21921,New Gisborne,22614,Upper Ferntree Gully,,no_eligible_route
+21934,Newport (Vic.),22614,Upper Ferntree Gully,99.12,ok
+21942,Niddrie,22614,Upper Ferntree Gully,129.07,ok
+21952,Noble Park,22614,Upper Ferntree Gully,84.38,ok
+21953,Noble Park North,22614,Upper Ferntree Gully,93.75,ok
+21966,North Melbourne,22614,Upper Ferntree Gully,93.57,ok
+21969,North Warrandyte,22614,Upper Ferntree Gully,88.4,ok
+21971,Northcote,22614,Upper Ferntree Gully,99.6,ok
+21974,Notting Hill,22614,Upper Ferntree Gully,53.87,ok
+21985,Nunawading,22614,Upper Ferntree Gully,40.5,ok
+21991,Nutfield,22614,Upper Ferntree Gully,,no_eligible_route
+21998,Oak Park,22614,Upper Ferntree Gully,114.5,ok
+21999,Oaklands Junction,22614,Upper Ferntree Gully,,no_eligible_route
+22000,Oakleigh,22614,Upper Ferntree Gully,63.3,ok
+22001,Oakleigh East,22614,Upper Ferntree Gully,64.9,ok
+22002,Oakleigh South,22614,Upper Ferntree Gully,80.5,ok
+22006,Officer,22614,Upper Ferntree Gully,112.35,ok
+22007,Officer South,22614,Upper Ferntree Gully,154.92,ok
+22009,Olinda (Vic.),22614,Upper Ferntree Gully,56.33,ok
+22016,Ormond,22614,Upper Ferntree Gully,90.5,ok
+22027,Pakenham,22614,Upper Ferntree Gully,111.4,ok
+22028,Pakenham South,22614,Upper Ferntree Gully,,no_eligible_route
+22029,Pakenham Upper,22614,Upper Ferntree Gully,,no_eligible_route
+22032,Panton Hill,22614,Upper Ferntree Gully,,no_eligible_route
+22036,Park Orchards,22614,Upper Ferntree Gully,59.15,ok
+22037,Parkdale,22614,Upper Ferntree Gully,110.33,ok
+22038,Parkville (Vic.),22614,Upper Ferntree Gully,95.4,ok
+22041,Pascoe Vale,22614,Upper Ferntree Gully,118.87,ok
+22042,Pascoe Vale South,22614,Upper Ferntree Gully,114.6,ok
+22047,Patterson Lakes,22614,Upper Ferntree Gully,122.35,ok
+22050,Pearcedale,22614,Upper Ferntree Gully,164.22,ok
+22058,Pentland Hills,22614,Upper Ferntree Gully,,no_eligible_route
+22064,Pheasant Creek (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+22084,Plenty (Vic.),22614,Upper Ferntree Gully,128.03,ok
+22085,Plumpton (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+22086,Point Cook,22614,Upper Ferntree Gully,130.5,ok
+22087,Point Leo,22614,Upper Ferntree Gully,,no_eligible_route
+22107,Port Melbourne,22614,Upper Ferntree Gully,94.12,ok
+22113,Portsea,22614,Upper Ferntree Gully,,no_eligible_route
+22115,Powelltown,22614,Upper Ferntree Gully,,no_eligible_route
+22118,Prahran,22614,Upper Ferntree Gully,91.18,ok
+22121,Preston (Vic.),22614,Upper Ferntree Gully,110.38,ok
+22122,Princes Hill,22614,Upper Ferntree Gully,96.55,ok
+22132,Quandong,22614,Upper Ferntree Gully,,no_eligible_route
+22141,Ravenhall,22614,Upper Ferntree Gully,184.3,ok
+22148,Red Hill (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+22149,Red Hill South,22614,Upper Ferntree Gully,,no_eligible_route
+22160,Research,22614,Upper Ferntree Gully,94.3,ok
+22161,Reservoir (Vic.),22614,Upper Ferntree Gully,115.68,ok
+22170,Richmond (Vic.),22614,Upper Ferntree Gully,78.68,ok
+22172,Riddells Creek,22614,Upper Ferntree Gully,,no_eligible_route
+22174,Ringwood (Vic.),22614,Upper Ferntree Gully,37.53,ok
+22175,Ringwood East,22614,Upper Ferntree Gully,47.52,ok
+22176,Ringwood North,22614,Upper Ferntree Gully,51.88,ok
+22179,Ripponlea,22614,Upper Ferntree Gully,83.08,ok
+22185,Rochford,22614,Upper Ferntree Gully,,no_eligible_route
+22186,Rockbank,22614,Upper Ferntree Gully,174.97,ok
+22193,Romsey,22614,Upper Ferntree Gully,,no_eligible_route
+22194,Rosanna,22614,Upper Ferntree Gully,100.18,ok
+22198,Rosebud,22614,Upper Ferntree Gully,,no_eligible_route
+22207,Rowville,22614,Upper Ferntree Gully,52.23,ok
+22208,Roxburgh Park,22614,Upper Ferntree Gully,142.52,ok
+22220,Rye,22614,Upper Ferntree Gully,227.82,ok
+22221,Rythdale,22614,Upper Ferntree Gully,,no_eligible_route
+22222,Safety Beach (Vic.),22614,Upper Ferntree Gully,182.78,ok
+22232,Sandhurst,22614,Upper Ferntree Gully,128.43,ok
+22234,Sandringham (Vic.),22614,Upper Ferntree Gully,109.02,ok
+22239,Sassafras (Vic.),22614,Upper Ferntree Gully,37.78,ok
+22242,Scoresby,22614,Upper Ferntree Gully,44.45,ok
+22247,Seabrook,22614,Upper Ferntree Gully,130.67,ok
+22249,Seaford (Vic.),22614,Upper Ferntree Gully,124.52,ok
+22250,Seaholme,22614,Upper Ferntree Gully,113.35,ok
+22256,Seddon (Vic.),22614,Upper Ferntree Gully,94.37,ok
+22258,Selby,22614,Upper Ferntree Gully,46.88,ok
+22263,Seville,22614,Upper Ferntree Gully,125.82,ok
+22264,Seville East,22614,Upper Ferntree Gully,112.7,ok
+22278,Sherbrooke,22614,Upper Ferntree Gully,57.77,ok
+22279,Shoreham,22614,Upper Ferntree Gully,,no_eligible_route
+22281,Silvan,22614,Upper Ferntree Gully,65.42,ok
+22291,Skye (Vic.),22614,Upper Ferntree Gully,115.82,ok
+22295,Smiths Gully,22614,Upper Ferntree Gully,,no_eligible_route
+22303,Somers,22614,Upper Ferntree Gully,,no_eligible_route
+22304,Somerton (Vic.),22614,Upper Ferntree Gully,141.48,ok
+22305,Somerville (Vic.),22614,Upper Ferntree Gully,177.37,ok
+22306,Sorrento (Vic.),22614,Upper Ferntree Gully,218.58,ok
+22309,South Kingsville,22614,Upper Ferntree Gully,113.37,ok
+22310,South Melbourne,22614,Upper Ferntree Gully,86.85,ok
+22311,South Morang,22614,Upper Ferntree Gully,146.57,ok
+22313,South Wharf,22614,Upper Ferntree Gully,87.12,ok
+22314,South Yarra,22614,Upper Ferntree Gully,73.85,ok
+22315,Southbank,22614,Upper Ferntree Gully,82.93,ok
+22319,Spotswood,22614,Upper Ferntree Gully,94.52,ok
+22325,Springfield (Macedon Ranges - Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+22328,Springvale (Vic.),22614,Upper Ferntree Gully,77.15,ok
+22329,Springvale South,22614,Upper Ferntree Gully,76.77,ok
+22330,St Albans (Vic.),22614,Upper Ferntree Gully,117.2,ok
+22332,St Andrews (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+22333,St Andrews Beach,22614,Upper Ferntree Gully,,no_eligible_route
+22339,St Helena,22614,Upper Ferntree Gully,122.4,ok
+22343,St Kilda (Vic.),22614,Upper Ferntree Gully,92.78,ok
+22344,St Kilda East,22614,Upper Ferntree Gully,87.52,ok
+22345,St Kilda West,22614,Upper Ferntree Gully,97.47,ok
+22355,Steels Creek,22614,Upper Ferntree Gully,,no_eligible_route
+22375,Strathewen,22614,Upper Ferntree Gully,,no_eligible_route
+22380,Strathmore (Vic.),22614,Upper Ferntree Gully,122.67,ok
+22381,Strathmore Heights,22614,Upper Ferntree Gully,136.92,ok
+22382,Strathtulloh,22614,Upper Ferntree Gully,,no_eligible_route
+22391,Sunbury,22614,Upper Ferntree Gully,178.48,ok
+22395,Sunshine (Vic.),22614,Upper Ferntree Gully,105.98,ok
+22396,Sunshine North,22614,Upper Ferntree Gully,124.05,ok
+22397,Sunshine West,22614,Upper Ferntree Gully,135.72,ok
+22399,Surrey Hills,22614,Upper Ferntree Gully,56.58,ok
+22414,Sydenham (Vic.),22614,Upper Ferntree Gully,133.53,ok
+22451,Tarneit,22614,Upper Ferntree Gully,158.57,ok
+22457,Tarrawarra,22614,Upper Ferntree Gully,116.78,ok
+22473,Taylors Hill,22614,Upper Ferntree Gully,142.6,ok
+22474,Taylors Lakes,22614,Upper Ferntree Gully,139.0,ok
+22476,Tecoma,22614,Upper Ferntree Gully,20.2,ok
+22483,Templestowe,22614,Upper Ferntree Gully,84.08,ok
+22484,Templestowe Lower,22614,Upper Ferntree Gully,84.57,ok
+22496,The Basin (Vic.),22614,Upper Ferntree Gully,47.02,ok
+22501,The Patch,22614,Upper Ferntree Gully,65.72,ok
+22504,Thomastown,22614,Upper Ferntree Gully,124.17,ok
+22508,Thornbury,22614,Upper Ferntree Gully,105.77,ok
+22509,Thornhill Park,22614,Upper Ferntree Gully,,no_eligible_route
+22514,Three Bridges,22614,Upper Ferntree Gully,,no_eligible_route
+22531,Tonimbuk,22614,Upper Ferntree Gully,,no_eligible_route
+22536,Toolangi,22614,Upper Ferntree Gully,,no_eligible_route
+22537,Toolern Vale,22614,Upper Ferntree Gully,,no_eligible_route
+22546,Tooradin,22614,Upper Ferntree Gully,,no_eligible_route
+22547,Toorak,22614,Upper Ferntree Gully,89.78,ok
+22550,Tootgarook,22614,Upper Ferntree Gully,211.23,ok
+22556,Tottenham (Vic.),22614,Upper Ferntree Gully,128.55,ok
+22572,Travancore,22614,Upper Ferntree Gully,100.93,ok
+22576,Tremont,22614,Upper Ferntree Gully,29.92,ok
+22582,Truganina,22614,Upper Ferntree Gully,207.72,ok
+22584,Tuerong,22614,Upper Ferntree Gully,,no_eligible_route
+22586,Tullamarine,22614,Upper Ferntree Gully,151.45,ok
+22594,Tyabb,22614,Upper Ferntree Gully,166.23,ok
+22598,Tynong,22614,Upper Ferntree Gully,,no_eligible_route
+22599,Tynong North,22614,Upper Ferntree Gully,,no_eligible_route
+22614,Upper Ferntree Gully,22614,Upper Ferntree Gully,0.0,same_centroid
+22617,Upper Plenty,22614,Upper Ferntree Gully,,no_eligible_route
+22620,Upwey,22614,Upper Ferntree Gully,16.38,ok
+22627,Vermont,22614,Upper Ferntree Gully,48.62,ok
+22628,Vermont South,22614,Upper Ferntree Gully,46.12,ok
+22629,Vervale,22614,Upper Ferntree Gully,,no_eligible_route
+22633,Viewbank,22614,Upper Ferntree Gully,121.0,ok
+22661,Wallan,22614,Upper Ferntree Gully,,no_eligible_route
+22672,Wandin East,22614,Upper Ferntree Gully,,no_eligible_route
+22673,Wandin North,22614,Upper Ferntree Gully,73.95,ok
+22676,Wandong,22614,Upper Ferntree Gully,,no_eligible_route
+22685,Wantirna,22614,Upper Ferntree Gully,47.8,ok
+22686,Wantirna South,22614,Upper Ferntree Gully,40.7,ok
+22689,Warburton (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+22695,Warneet,22614,Upper Ferntree Gully,,no_eligible_route
+22702,Warrandyte,22614,Upper Ferntree Gully,59.8,ok
+22703,Warrandyte South,22614,Upper Ferntree Gully,85.18,ok
+22704,Warranwood,22614,Upper Ferntree Gully,51.85,ok
+22717,Waterford Park,22614,Upper Ferntree Gully,,no_eligible_route
+22720,Waterways,22614,Upper Ferntree Gully,101.2,ok
+22721,Watsonia,22614,Upper Ferntree Gully,105.45,ok
+22722,Watsonia North,22614,Upper Ferntree Gully,112.95,ok
+22723,Watsons Creek (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+22727,Wattle Glen,22614,Upper Ferntree Gully,117.2,ok
+22740,Weir Views,22614,Upper Ferntree Gully,,no_eligible_route
+22750,Werribee,22614,Upper Ferntree Gully,125.3,ok
+22751,Werribee South,22614,Upper Ferntree Gully,,no_eligible_route
+22753,Wesburn,22614,Upper Ferntree Gully,105.92,ok
+22756,West Footscray,22614,Upper Ferntree Gully,109.15,ok
+22757,West Melbourne,22614,Upper Ferntree Gully,99.08,ok
+22761,Westmeadows,22614,Upper Ferntree Gully,137.48,ok
+22766,Wheelers Hill,22614,Upper Ferntree Gully,44.33,ok
+22775,Whittlesea,22614,Upper Ferntree Gully,,no_eligible_route
+22784,Wildwood,22614,Upper Ferntree Gully,,no_eligible_route
+22791,Williams Landing,22614,Upper Ferntree Gully,128.52,ok
+22792,Williamstown (Vic.),22614,Upper Ferntree Gully,103.33,ok
+22793,Williamstown North,22614,Upper Ferntree Gully,115.82,ok
+22805,Windsor (Vic.),22614,Upper Ferntree Gully,80.35,ok
+22820,Wollert,22614,Upper Ferntree Gully,162.38,ok
+22825,Wonga Park,22614,Upper Ferntree Gully,71.7,ok
+22843,Woodstock (Vic.),22614,Upper Ferntree Gully,,no_eligible_route
+22857,Woori Yallock,22614,Upper Ferntree Gully,85.07,ok
+22883,Wyndham Vale,22614,Upper Ferntree Gully,152.12,ok
+22892,Yallambie,22614,Upper Ferntree Gully,113.73,ok
+22898,Yan Yean,22614,Upper Ferntree Gully,182.12,ok
+22906,Yannathan,22614,Upper Ferntree Gully,,no_eligible_route
+22910,Yarra Glen,22614,Upper Ferntree Gully,,no_eligible_route
+22911,Yarra Junction,22614,Upper Ferntree Gully,135.02,ok
+22916,Yarrambat,22614,Upper Ferntree Gully,124.6,ok
+22917,Yarraville,22614,Upper Ferntree Gully,100.27,ok
+22925,Yellingbo,22614,Upper Ferntree Gully,,no_eligible_route
+22930,Yering,22614,Upper Ferntree Gully,,no_eligible_route
+22941,Yuroke,22614,Upper Ferntree Gully,198.2,ok

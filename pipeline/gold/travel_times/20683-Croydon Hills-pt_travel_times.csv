@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20683,Croydon Hills,92.95,ok
+20003,Aberfeldie,20683,Croydon Hills,117.57,ok
+20011,Aintree,20683,Croydon Hills,175.88,ok
+20015,Airport West,20683,Croydon Hills,132.6,ok
+20017,Albanvale,20683,Croydon Hills,149.37,ok
+20018,Albert Park (Vic.),20683,Croydon Hills,97.97,ok
+20021,Albion (Vic.),20683,Croydon Hills,122.77,ok
+20034,Alphington,20683,Croydon Hills,101.77,ok
+20035,Altona (Vic.),20683,Croydon Hills,127.85,ok
+20036,Altona Meadows,20683,Croydon Hills,130.82,ok
+20037,Altona North,20683,Croydon Hills,143.6,ok
+20062,Ardeer,20683,Croydon Hills,136.92,ok
+20066,Armadale (Vic.),20683,Croydon Hills,93.02,ok
+20071,Arthurs Creek,20683,Croydon Hills,,no_eligible_route
+20072,Arthurs Seat,20683,Croydon Hills,,no_eligible_route
+20075,Ascot Vale,20683,Croydon Hills,103.7,ok
+20077,Ashburton,20683,Croydon Hills,78.62,ok
+20078,Ashwood,20683,Croydon Hills,91.52,ok
+20079,Aspendale,20683,Croydon Hills,139.27,ok
+20080,Aspendale Gardens,20683,Croydon Hills,130.25,ok
+20082,Attwood,20683,Croydon Hills,143.98,ok
+20089,Avondale Heights,20683,Croydon Hills,133.28,ok
+20091,Avonsleigh,20683,Croydon Hills,139.37,ok
+20095,Bacchus Marsh,20683,Croydon Hills,,no_eligible_route
+20097,Badger Creek,20683,Croydon Hills,113.8,ok
+20105,Balaclava (Vic.),20683,Croydon Hills,89.65,ok
+20120,Balnarring,20683,Croydon Hills,,no_eligible_route
+20121,Balnarring Beach,20683,Croydon Hills,,no_eligible_route
+20123,Balwyn,20683,Croydon Hills,71.13,ok
+20124,Balwyn North,20683,Croydon Hills,91.05,ok
+20131,Bangholme,20683,Croydon Hills,194.78,ok
+20169,Baxter,20683,Croydon Hills,,no_eligible_route
+20171,Bayles,20683,Croydon Hills,,no_eligible_route
+20173,Bayswater (Vic.),20683,Croydon Hills,55.77,ok
+20174,Bayswater North,20683,Croydon Hills,44.65,ok
+20175,Beaconsfield (Vic.),20683,Croydon Hills,157.05,ok
+20176,Beaconsfield Upper,20683,Croydon Hills,,no_eligible_route
+20182,Beaumaris (Vic.),20683,Croydon Hills,152.67,ok
+20187,Beenak,20683,Croydon Hills,,no_eligible_route
+20188,Belgrave,20683,Croydon Hills,73.17,ok
+20189,Belgrave Heights,20683,Croydon Hills,98.45,ok
+20190,Belgrave South,20683,Croydon Hills,99.43,ok
+20198,Bellfield (Banyule - Vic.),20683,Croydon Hills,108.8,ok
+20207,Bend Of Islands,20683,Croydon Hills,,no_eligible_route
+20212,Benloch,20683,Croydon Hills,,no_eligible_route
+20214,Bentleigh,20683,Croydon Hills,116.05,ok
+20215,Bentleigh East,20683,Croydon Hills,105.2,ok
+20224,Berwick,20683,Croydon Hills,129.85,ok
+20233,Beveridge,20683,Croydon Hills,174.53,ok
+20237,Big Pats Creek,20683,Croydon Hills,,no_eligible_route
+20248,Bittern,20683,Croydon Hills,,no_eligible_route
+20251,Black Rock (Vic.),20683,Croydon Hills,144.12,ok
+20252,Blackburn,20683,Croydon Hills,49.92,ok
+20253,Blackburn North,20683,Croydon Hills,63.25,ok
+20254,Blackburn South,20683,Croydon Hills,65.27,ok
+20257,Blairgowrie,20683,Croydon Hills,,no_eligible_route
+20260,Blind Bight,20683,Croydon Hills,,no_eligible_route
+20272,Bolinda,20683,Croydon Hills,,no_eligible_route
+20278,Bonbeach,20683,Croydon Hills,136.25,ok
+20280,Boneo,20683,Croydon Hills,,no_eligible_route
+20282,Bonnie Brook,20683,Croydon Hills,210.78,ok
+20304,Boronia,20683,Croydon Hills,43.42,ok
+20307,Botanic Ridge,20683,Croydon Hills,163.37,ok
+20314,Box Hill (Vic.),20683,Croydon Hills,57.13,ok
+20315,Box Hill North,20683,Croydon Hills,65.8,ok
+20316,Box Hill South,20683,Croydon Hills,65.95,ok
+20320,Braeside,20683,Croydon Hills,139.65,ok
+20324,Braybrook,20683,Croydon Hills,125.9,ok
+20331,Briar Hill,20683,Croydon Hills,86.35,ok
+20337,Brighton (Vic.),20683,Croydon Hills,102.42,ok
+20338,Brighton East,20683,Croydon Hills,108.67,ok
+20346,Broadmeadows (Vic.),20683,Croydon Hills,120.72,ok
+20351,Brookfield (Vic.),20683,Croydon Hills,,no_eligible_route
+20352,Brooklyn (Vic.),20683,Croydon Hills,138.45,ok
+20361,Brunswick (Vic.),20683,Croydon Hills,99.5,ok
+20362,Brunswick East,20683,Croydon Hills,110.8,ok
+20363,Brunswick West,20683,Croydon Hills,116.77,ok
+20381,Bulla (Vic.),20683,Croydon Hills,,no_eligible_route
+20386,Bulleen,20683,Croydon Hills,90.95,ok
+20387,Bullengarook,20683,Croydon Hills,,no_eligible_route
+20399,Bundoora (Vic.),20683,Croydon Hills,92.95,ok
+20411,Bunyip,20683,Croydon Hills,,no_eligible_route
+20412,Bunyip North,20683,Croydon Hills,,no_eligible_route
+20418,Burnley,20683,Croydon Hills,83.22,ok
+20419,Burnside (Vic.),20683,Croydon Hills,148.8,ok
+20420,Burnside Heights,20683,Croydon Hills,166.92,ok
+20426,Burwood (Vic.),20683,Croydon Hills,78.43,ok
+20427,Burwood East,20683,Croydon Hills,64.27,ok
+20435,Bylands,20683,Croydon Hills,,no_eligible_route
+20441,Cairnlea,20683,Croydon Hills,145.42,ok
+20442,Calder Park,20683,Croydon Hills,160.53,ok
+20443,Caldermeade,20683,Croydon Hills,,no_eligible_route
+20453,Camberwell (Vic.),20683,Croydon Hills,77.55,ok
+20455,Campbellfield,20683,Croydon Hills,138.25,ok
+20466,Cannons Creek,20683,Croydon Hills,,no_eligible_route
+20468,Canterbury (Vic.),20683,Croydon Hills,66.37,ok
+20474,Cape Schanck,20683,Croydon Hills,,no_eligible_route
+20476,Capel Sound,20683,Croydon Hills,,no_eligible_route
+20487,Cardinia,20683,Croydon Hills,,no_eligible_route
+20495,Carlton (Vic.),20683,Croydon Hills,95.8,ok
+20496,Carlton North,20683,Croydon Hills,107.57,ok
+20498,Carnegie,20683,Croydon Hills,113.85,ok
+20500,Caroline Springs,20683,Croydon Hills,160.68,ok
+20507,Carrum,20683,Croydon Hills,131.42,ok
+20508,Carrum Downs,20683,Croydon Hills,118.3,ok
+20512,Castella,20683,Croydon Hills,,no_eligible_route
+20517,Catani,20683,Croydon Hills,,no_eligible_route
+20521,Caulfield,20683,Croydon Hills,112.75,ok
+20522,Caulfield East,20683,Croydon Hills,104.45,ok
+20523,Caulfield North,20683,Croydon Hills,96.37,ok
+20524,Caulfield South,20683,Croydon Hills,114.3,ok
+20528,Chadstone,20683,Croydon Hills,89.23,ok
+20537,Chelsea,20683,Croydon Hills,119.72,ok
+20538,Chelsea Heights,20683,Croydon Hills,135.65,ok
+20539,Cheltenham (Vic.),20683,Croydon Hills,128.2,ok
+20541,Cherokee,20683,Croydon Hills,,no_eligible_route
+20555,Chintin,20683,Croydon Hills,,no_eligible_route
+20556,Chirnside Park,20683,Croydon Hills,62.47,ok
+20559,Christmas Hills (Vic.),20683,Croydon Hills,,no_eligible_route
+20560,Chum Creek,20683,Croydon Hills,,no_eligible_route
+20566,Clarinda,20683,Croydon Hills,102.52,ok
+20567,Clarkefield,20683,Croydon Hills,,no_eligible_route
+20569,Clayton,20683,Croydon Hills,90.67,ok
+20570,Clayton South,20683,Croydon Hills,116.3,ok
+20572,Clematis,20683,Croydon Hills,111.78,ok
+20574,Clifton Hill,20683,Croydon Hills,91.85,ok
+20576,Clonbinane,20683,Croydon Hills,,no_eligible_route
+20581,Clyde (Vic.),20683,Croydon Hills,183.65,ok
+20582,Clyde North,20683,Croydon Hills,150.97,ok
+20587,Cobaw,20683,Croydon Hills,,no_eligible_route
+20590,Cobblebank,20683,Croydon Hills,202.6,ok
+20596,Coburg,20683,Croydon Hills,105.23,ok
+20597,Coburg North,20683,Croydon Hills,114.8,ok
+20600,Cockatoo (Vic.),20683,Croydon Hills,143.05,ok
+20601,Cocoroc,20683,Croydon Hills,,no_eligible_route
+20605,Coimadai,20683,Croydon Hills,,no_eligible_route
+20613,Coldstream (Vic.),20683,Croydon Hills,,no_eligible_route
+20616,Collingwood (Vic.),20683,Croydon Hills,87.18,ok
+20624,Coolaroo,20683,Croydon Hills,128.22,ok
+20633,Cora Lynn,20683,Croydon Hills,,no_eligible_route
+20654,Cottles Bridge,20683,Croydon Hills,,no_eligible_route
+20661,Craigieburn,20683,Croydon Hills,149.05,ok
+20662,Cranbourne,20683,Croydon Hills,141.15,ok
+20663,Cranbourne East,20683,Croydon Hills,146.6,ok
+20664,Cranbourne North,20683,Croydon Hills,141.62,ok
+20665,Cranbourne South,20683,Croydon Hills,166.72,ok
+20666,Cranbourne West,20683,Croydon Hills,141.67,ok
+20670,Cremorne (Vic.),20683,Croydon Hills,78.18,ok
+20674,Crib Point,20683,Croydon Hills,,no_eligible_route
+20682,Croydon (Vic.),20683,Croydon Hills,24.17,ok
+20683,Croydon Hills,20683,Croydon Hills,0.0,same_centroid
+20684,Croydon North,20683,Croydon Hills,36.97,walk_only
+20685,Croydon South,20683,Croydon Hills,43.28,ok
+20702,Dallas,20683,Croydon Hills,129.92,ok
+20703,Dalmore,20683,Croydon Hills,,no_eligible_route
+20707,Dandenong,20683,Croydon Hills,96.82,ok
+20708,Dandenong North,20683,Croydon Hills,95.23,ok
+20709,Dandenong South,20683,Croydon Hills,120.47,ok
+20712,Darley,20683,Croydon Hills,,no_eligible_route
+20716,Darraweit Guim,20683,Croydon Hills,,no_eligible_route
+20724,Deanside,20683,Croydon Hills,172.05,ok
+20728,Deepdene (Vic.),20683,Croydon Hills,68.98,ok
+20729,Deer Park,20683,Croydon Hills,133.75,ok
+20731,Delahey,20683,Croydon Hills,157.32,ok
+20743,Derrimut,20683,Croydon Hills,161.3,ok
+20748,Devon Meadows,20683,Croydon Hills,190.4,ok
+20750,Dewhurst,20683,Croydon Hills,,no_eligible_route
+20752,Diamond Creek,20683,Croydon Hills,96.08,ok
+20754,Diggers Rest,20683,Croydon Hills,150.87,ok
+20758,Dingley Village,20683,Croydon Hills,137.58,ok
+20762,Dixons Creek,20683,Croydon Hills,,no_eligible_route
+20766,Docklands,20683,Croydon Hills,97.13,ok
+20769,Don Valley,20683,Croydon Hills,,no_eligible_route
+20771,Doncaster,20683,Croydon Hills,70.6,ok
+20772,Doncaster East,20683,Croydon Hills,67.22,ok
+20773,Donnybrook (Vic.),20683,Croydon Hills,173.07,ok
+20774,Donvale,20683,Croydon Hills,72.42,ok
+20779,Doreen,20683,Croydon Hills,146.57,ok
+20783,Doveton,20683,Croydon Hills,108.6,ok
+20788,Dromana,20683,Croydon Hills,249.7,ok
+20825,Eaglemont,20683,Croydon Hills,102.37,ok
+20830,East Melbourne,20683,Croydon Hills,83.72,ok
+20833,East Warburton,20683,Croydon Hills,,no_eligible_route
+20843,Eden Park,20683,Croydon Hills,,no_eligible_route
+20848,Edithvale,20683,Croydon Hills,111.2,ok
+20864,Elsternwick,20683,Croydon Hills,97.57,ok
+20865,Eltham (Vic.),20683,Croydon Hills,84.33,ok
+20866,Eltham North,20683,Croydon Hills,88.82,ok
+20867,Elwood,20683,Croydon Hills,103.75,ok
+20868,Emerald (Vic.),20683,Croydon Hills,138.97,ok
+20871,Endeavour Hills,20683,Croydon Hills,120.68,ok
+20878,Epping (Vic.),20683,Croydon Hills,146.98,ok
+20885,Essendon,20683,Croydon Hills,112.92,ok
+20886,Essendon Fields,20683,Croydon Hills,131.83,ok
+20887,Essendon North,20683,Croydon Hills,115.93,ok
+20888,Essendon West,20683,Croydon Hills,113.78,ok
+20889,Eumemmerring,20683,Croydon Hills,113.47,ok
+20898,Exford,20683,Croydon Hills,,no_eligible_route
+20899,Eynesbury,20683,Croydon Hills,,no_eligible_route
+20901,Fairfield (Vic.),20683,Croydon Hills,108.08,ok
+20909,Fawkner,20683,Croydon Hills,130.7,ok
+20916,Fernshaw,20683,Croydon Hills,,no_eligible_route
+20917,Ferntree Gully,20683,Croydon Hills,73.08,ok
+20918,Ferny Creek,20683,Croydon Hills,97.85,ok
+20920,Fingal (Vic.),20683,Croydon Hills,,no_eligible_route
+20924,Fitzroy (Vic.),20683,Croydon Hills,88.73,ok
+20925,Fitzroy North,20683,Croydon Hills,96.33,ok
+20929,Flemington,20683,Croydon Hills,106.53,ok
+20930,Flinders (Vic.),20683,Croydon Hills,,no_eligible_route
+20935,Footscray,20683,Croydon Hills,102.63,ok
+20937,Forest Hill (Vic.),20683,Croydon Hills,58.25,ok
+20947,Frankston,20683,Croydon Hills,159.7,ok
+20948,Frankston North,20683,Croydon Hills,137.33,ok
+20949,Frankston South,20683,Croydon Hills,,no_eligible_route
+20950,Fraser Rise,20683,Croydon Hills,166.63,ok
+20965,Gardenvale,20683,Croydon Hills,98.85,ok
+20966,Garfield,20683,Croydon Hills,,no_eligible_route
+20967,Garfield North,20683,Croydon Hills,,no_eligible_route
+20979,Gembrook,20683,Croydon Hills,,no_eligible_route
+20995,Gilderoy,20683,Croydon Hills,,no_eligible_route
+21001,Gisborne,20683,Croydon Hills,,no_eligible_route
+21002,Gisborne South,20683,Croydon Hills,,no_eligible_route
+21004,Gladstone Park,20683,Croydon Hills,141.42,ok
+21005,Gladysdale,20683,Croydon Hills,,no_eligible_route
+21009,Glen Huntly,20683,Croydon Hills,107.58,ok
+21010,Glen Iris (Vic.),20683,Croydon Hills,87.62,ok
+21013,Glen Waverley,20683,Croydon Hills,73.82,ok
+21047,Glenroy (Vic.),20683,Croydon Hills,124.0,ok
+21059,Goldie,20683,Croydon Hills,,no_eligible_route
+21079,Gowanbrae,20683,Croydon Hills,147.15,ok
+21087,Grangefields,20683,Croydon Hills,201.7,ok
+21104,Greensborough,20683,Croydon Hills,89.7,ok
+21105,Greenvale (Vic.),20683,Croydon Hills,158.15,ok
+21115,Gruyere,20683,Croydon Hills,,no_eligible_route
+21121,Guys Hill,20683,Croydon Hills,,no_eligible_route
+21124,Hadfield,20683,Croydon Hills,132.73,ok
+21125,Hallam,20683,Croydon Hills,118.18,ok
+21131,Hampton (Vic.),20683,Croydon Hills,116.23,ok
+21132,Hampton East,20683,Croydon Hills,122.82,ok
+21133,Hampton Park,20683,Croydon Hills,124.03,ok
+21139,Harkaway,20683,Croydon Hills,,no_eligible_route
+21140,Harkness,20683,Croydon Hills,,no_eligible_route
+21145,Hastings (Vic.),20683,Croydon Hills,,no_eligible_route
+21152,Hawthorn (Vic.),20683,Croydon Hills,75.62,ok
+21153,Hawthorn East,20683,Croydon Hills,73.02,ok
+21158,Healesville,20683,Croydon Hills,117.72,ok
+21159,Heath Hill,20683,Croydon Hills,,no_eligible_route
+21161,Heathcote Junction,20683,Croydon Hills,,no_eligible_route
+21163,Heatherton,20683,Croydon Hills,114.18,ok
+21165,Heathmont,20683,Croydon Hills,44.52,ok
+21167,Heidelberg,20683,Croydon Hills,99.48,ok
+21168,Heidelberg Heights,20683,Croydon Hills,111.43,ok
+21169,Heidelberg West,20683,Croydon Hills,108.43,ok
+21176,Hesket,20683,Croydon Hills,,no_eligible_route
+21185,Highett,20683,Croydon Hills,115.58,ok
+21193,Hillside (Melton - Vic.),20683,Croydon Hills,150.95,ok
+21195,Hmas Cerberus,20683,Croydon Hills,,no_eligible_route
+21196,Hoddles Creek,20683,Croydon Hills,,no_eligible_route
+21202,Hopetoun Park,20683,Croydon Hills,,no_eligible_route
+21203,Hoppers Crossing,20683,Croydon Hills,138.98,ok
+21214,Hughesdale,20683,Croydon Hills,109.38,ok
+21215,Humevale,20683,Croydon Hills,,no_eligible_route
+21218,Huntingdale (Vic.),20683,Croydon Hills,101.83,ok
+21223,Hurstbridge,20683,Croydon Hills,96.63,ok
+21238,Iona,20683,Croydon Hills,,no_eligible_route
+21246,Ivanhoe (Vic.),20683,Croydon Hills,103.47,ok
+21247,Ivanhoe East,20683,Croydon Hills,100.93,ok
+21248,Jacana,20683,Croydon Hills,129.95,ok
+21277,Junction Village,20683,Croydon Hills,176.53,ok
+21284,Kalkallo,20683,Croydon Hills,166.07,ok
+21286,Kallista,20683,Croydon Hills,111.05,ok
+21287,Kalorama,20683,Croydon Hills,55.33,ok
+21294,Kangaroo Ground,20683,Croydon Hills,93.58,ok
+21312,Kealba,20683,Croydon Hills,138.02,ok
+21314,Keilor,20683,Croydon Hills,154.28,ok
+21315,Keilor Downs,20683,Croydon Hills,150.12,ok
+21316,Keilor East,20683,Croydon Hills,128.15,ok
+21317,Keilor Lodge,20683,Croydon Hills,153.73,ok
+21318,Keilor North,20683,Croydon Hills,159.8,ok
+21319,Keilor Park,20683,Croydon Hills,136.07,ok
+21327,Kensington (Vic.),20683,Croydon Hills,97.32,ok
+21333,Kerrie,20683,Croydon Hills,,no_eligible_route
+21336,Kew (Vic.),20683,Croydon Hills,80.4,ok
+21337,Kew East,20683,Croydon Hills,91.92,ok
+21339,Keysborough,20683,Croydon Hills,121.67,ok
+21354,Kilsyth,20683,Croydon Hills,39.72,ok
+21355,Kilsyth South,20683,Croydon Hills,57.8,ok
+21358,Kinglake,20683,Croydon Hills,,no_eligible_route
+21359,Kinglake Central,20683,Croydon Hills,,no_eligible_route
+21360,Kinglake West,20683,Croydon Hills,,no_eligible_route
+21362,Kings Park (Vic.),20683,Croydon Hills,152.03,ok
+21363,Kingsbury,20683,Croydon Hills,113.48,ok
+21365,Kingsville,20683,Croydon Hills,115.1,ok
+21374,Knoxfield,20683,Croydon Hills,68.38,ok
+21380,Koo Wee Rup,20683,Croydon Hills,,no_eligible_route
+21381,Koo Wee Rup North,20683,Croydon Hills,,no_eligible_route
+21393,Kooyong,20683,Croydon Hills,87.87,ok
+21411,Kurunjang,20683,Croydon Hills,220.68,ok
+21452,Lalor,20683,Croydon Hills,121.05,ok
+21456,Lancefield,20683,Croydon Hills,,no_eligible_route
+21459,Lang Lang,20683,Croydon Hills,,no_eligible_route
+21460,Lang Lang East,20683,Croydon Hills,,no_eligible_route
+21467,Langwarrin,20683,Croydon Hills,177.45,ok
+21468,Langwarrin South,20683,Croydon Hills,,no_eligible_route
+21473,Launching Place,20683,Croydon Hills,73.02,ok
+21476,Laverton (Vic.),20683,Croydon Hills,119.47,ok
+21477,Laverton North,20683,Croydon Hills,155.88,ok
+21504,Lilydale (Vic.),20683,Croydon Hills,59.0,ok
+21533,Long Forest,20683,Croydon Hills,,no_eligible_route
+21547,Lower Plenty,20683,Croydon Hills,107.0,ok
+21554,Lynbrook,20683,Croydon Hills,121.87,ok
+21555,Lyndhurst (Vic.),20683,Croydon Hills,173.8,ok
+21558,Lysterfield,20683,Croydon Hills,139.38,ok
+21559,Lysterfield South,20683,Croydon Hills,147.5,ok
+21561,Macclesfield (Vic.),20683,Croydon Hills,,no_eligible_route
+21562,Macedon,20683,Croydon Hills,,no_eligible_route
+21564,Macleod (Vic.),20683,Croydon Hills,103.42,ok
+21569,Maddingley,20683,Croydon Hills,,no_eligible_route
+21575,Maidstone,20683,Croydon Hills,120.0,ok
+21578,Main Ridge,20683,Croydon Hills,,no_eligible_route
+21586,Malvern (Vic.),20683,Croydon Hills,88.32,ok
+21587,Malvern East,20683,Croydon Hills,90.73,ok
+21588,Mambourin,20683,Croydon Hills,,no_eligible_route
+21597,Manor Lakes,20683,Croydon Hills,174.92,ok
+21604,Maribyrnong,20683,Croydon Hills,121.52,ok
+21619,Maryknoll,20683,Croydon Hills,,no_eligible_route
+21625,McCrae,20683,Croydon Hills,,no_eligible_route
+21629,McKinnon,20683,Croydon Hills,104.88,ok
+21635,Meadow Heights,20683,Croydon Hills,142.92,ok
+21640,Melbourne,20683,Croydon Hills,79.47,ok
+21641,Melbourne Airport,20683,Croydon Hills,,no_eligible_route
+21642,Melton (Vic.),20683,Croydon Hills,204.82,ok
+21643,Melton South,20683,Croydon Hills,218.42,ok
+21644,Melton West,20683,Croydon Hills,213.65,ok
+21648,Mentone,20683,Croydon Hills,116.22,ok
+21649,Menzies Creek,20683,Croydon Hills,110.58,ok
+21659,Mernda,20683,Croydon Hills,155.42,ok
+21662,Merricks,20683,Croydon Hills,,no_eligible_route
+21663,Merricks Beach,20683,Croydon Hills,,no_eligible_route
+21664,Merricks North,20683,Croydon Hills,,no_eligible_route
+21668,Merrimu,20683,Croydon Hills,,no_eligible_route
+21675,Mickleham,20683,Croydon Hills,181.05,ok
+21677,Middle Park (Vic.),20683,Croydon Hills,101.35,ok
+21683,Mill Park,20683,Croydon Hills,116.55,ok
+21685,Millgrove,20683,Croydon Hills,,no_eligible_route
+21706,Mitcham (Vic.),20683,Croydon Hills,49.57,ok
+21727,Monbulk,20683,Croydon Hills,102.67,ok
+21728,Monegeetta,20683,Croydon Hills,,no_eligible_route
+21731,Monomeith,20683,Croydon Hills,,no_eligible_route
+21732,Mont Albert,20683,Croydon Hills,66.47,ok
+21733,Mont Albert North,20683,Croydon Hills,73.57,ok
+21735,Montmorency,20683,Croydon Hills,90.85,ok
+21736,Montrose (Vic.),20683,Croydon Hills,46.63,ok
+21742,Moonee Ponds,20683,Croydon Hills,99.38,ok
+21746,Moorabbin,20683,Croydon Hills,120.83,ok
+21747,Moorabbin Airport,20683,Croydon Hills,147.4,ok
+21754,Moorooduc,20683,Croydon Hills,,no_eligible_route
+21755,Mooroolbark,20683,Croydon Hills,49.98,ok
+21760,Mordialloc,20683,Croydon Hills,130.35,ok
+21763,Mornington (Vic.),20683,Croydon Hills,188.92,ok
+21779,Mount Burnett,20683,Croydon Hills,,no_eligible_route
+21786,Mount Cottrell,20683,Croydon Hills,,no_eligible_route
+21787,Mount Dandenong,20683,Croydon Hills,65.78,ok
+21793,Mount Eliza,20683,Croydon Hills,167.1,ok
+21795,Mount Evelyn,20683,Croydon Hills,70.73,ok
+21801,Mount Macedon,20683,Croydon Hills,,no_eligible_route
+21803,Mount Martha,20683,Croydon Hills,206.38,ok
+21814,Mount Toolebewong,20683,Croydon Hills,,no_eligible_route
+21816,Mount Waverley,20683,Croydon Hills,85.22,ok
+21827,Mulgrave (Vic.),20683,Croydon Hills,114.25,ok
+21849,Murrumbeena,20683,Croydon Hills,108.67,ok
+21872,Nangana,20683,Croydon Hills,,no_eligible_route
+21878,Nar Nar Goon,20683,Croydon Hills,,no_eligible_route
+21879,Nar Nar Goon North,20683,Croydon Hills,,no_eligible_route
+21893,Narre Warren,20683,Croydon Hills,135.4,ok
+21894,Narre Warren East,20683,Croydon Hills,,no_eligible_route
+21895,Narre Warren North,20683,Croydon Hills,155.32,ok
+21896,Narre Warren South,20683,Croydon Hills,139.87,ok
+21921,New Gisborne,20683,Croydon Hills,,no_eligible_route
+21934,Newport (Vic.),20683,Croydon Hills,104.32,ok
+21942,Niddrie,20683,Croydon Hills,125.37,ok
+21952,Noble Park,20683,Croydon Hills,108.22,ok
+21953,Noble Park North,20683,Croydon Hills,123.13,ok
+21966,North Melbourne,20683,Croydon Hills,102.1,ok
+21969,North Warrandyte,20683,Croydon Hills,60.58,ok
+21971,Northcote,20683,Croydon Hills,108.27,ok
+21974,Notting Hill,20683,Croydon Hills,77.0,ok
+21985,Nunawading,20683,Croydon Hills,45.43,ok
+21991,Nutfield,20683,Croydon Hills,,no_eligible_route
+21998,Oak Park,20683,Croydon Hills,117.7,ok
+21999,Oaklands Junction,20683,Croydon Hills,,no_eligible_route
+22000,Oakleigh,20683,Croydon Hills,103.47,ok
+22001,Oakleigh East,20683,Croydon Hills,99.6,ok
+22002,Oakleigh South,20683,Croydon Hills,94.47,ok
+22006,Officer,20683,Croydon Hills,149.5,ok
+22007,Officer South,20683,Croydon Hills,184.07,ok
+22009,Olinda (Vic.),20683,Croydon Hills,86.32,ok
+22016,Ormond,20683,Croydon Hills,105.32,ok
+22027,Pakenham,20683,Croydon Hills,148.55,ok
+22028,Pakenham South,20683,Croydon Hills,,no_eligible_route
+22029,Pakenham Upper,20683,Croydon Hills,,no_eligible_route
+22032,Panton Hill,20683,Croydon Hills,,no_eligible_route
+22036,Park Orchards,20683,Croydon Hills,46.33,ok
+22037,Parkdale,20683,Croydon Hills,130.65,ok
+22038,Parkville (Vic.),20683,Croydon Hills,101.6,ok
+22041,Pascoe Vale,20683,Croydon Hills,122.07,ok
+22042,Pascoe Vale South,20683,Croydon Hills,117.8,ok
+22047,Patterson Lakes,20683,Croydon Hills,161.42,ok
+22050,Pearcedale,20683,Croydon Hills,184.02,ok
+22058,Pentland Hills,20683,Croydon Hills,,no_eligible_route
+22064,Pheasant Creek (Vic.),20683,Croydon Hills,,no_eligible_route
+22084,Plenty (Vic.),20683,Croydon Hills,122.22,ok
+22085,Plumpton (Vic.),20683,Croydon Hills,,no_eligible_route
+22086,Point Cook,20683,Croydon Hills,145.7,ok
+22087,Point Leo,20683,Croydon Hills,,no_eligible_route
+22107,Port Melbourne,20683,Croydon Hills,106.58,ok
+22113,Portsea,20683,Croydon Hills,,no_eligible_route
+22115,Powelltown,20683,Croydon Hills,,no_eligible_route
+22118,Prahran,20683,Croydon Hills,91.2,ok
+22121,Preston (Vic.),20683,Croydon Hills,117.32,ok
+22122,Princes Hill,20683,Croydon Hills,101.75,ok
+22132,Quandong,20683,Croydon Hills,,no_eligible_route
+22141,Ravenhall,20683,Croydon Hills,179.5,ok
+22148,Red Hill (Vic.),20683,Croydon Hills,,no_eligible_route
+22149,Red Hill South,20683,Croydon Hills,,no_eligible_route
+22160,Research,20683,Croydon Hills,66.48,ok
+22161,Reservoir (Vic.),20683,Croydon Hills,122.88,ok
+22170,Richmond (Vic.),20683,Croydon Hills,83.88,ok
+22172,Riddells Creek,20683,Croydon Hills,,no_eligible_route
+22174,Ringwood (Vic.),20683,Croydon Hills,30.57,ok
+22175,Ringwood East,20683,Croydon Hills,40.77,ok
+22176,Ringwood North,20683,Croydon Hills,38.8,ok
+22179,Ripponlea,20683,Croydon Hills,88.28,ok
+22185,Rochford,20683,Croydon Hills,,no_eligible_route
+22186,Rockbank,20683,Croydon Hills,178.08,ok
+22193,Romsey,20683,Croydon Hills,,no_eligible_route
+22194,Rosanna,20683,Croydon Hills,88.45,ok
+22198,Rosebud,20683,Croydon Hills,,no_eligible_route
+22207,Rowville,20683,Croydon Hills,86.92,ok
+22208,Roxburgh Park,20683,Croydon Hills,142.32,ok
+22220,Rye,20683,Croydon Hills,,no_eligible_route
+22221,Rythdale,20683,Croydon Hills,,no_eligible_route
+22222,Safety Beach (Vic.),20683,Croydon Hills,217.6,ok
+22232,Sandhurst,20683,Croydon Hills,150.23,ok
+22234,Sandringham (Vic.),20683,Croydon Hills,121.12,ok
+22239,Sassafras (Vic.),20683,Croydon Hills,76.25,ok
+22242,Scoresby,20683,Croydon Hills,85.25,ok
+22247,Seabrook,20683,Croydon Hills,127.77,ok
+22249,Seaford (Vic.),20683,Croydon Hills,143.52,ok
+22250,Seaholme,20683,Croydon Hills,122.53,ok
+22256,Seddon (Vic.),20683,Croydon Hills,101.55,ok
+22258,Selby,20683,Croydon Hills,105.77,ok
+22263,Seville,20683,Croydon Hills,97.52,ok
+22264,Seville East,20683,Croydon Hills,78.4,ok
+22278,Sherbrooke,20683,Croydon Hills,103.47,ok
+22279,Shoreham,20683,Croydon Hills,,no_eligible_route
+22281,Silvan,20683,Croydon Hills,83.9,ok
+22291,Skye (Vic.),20683,Croydon Hills,159.95,ok
+22295,Smiths Gully,20683,Croydon Hills,,no_eligible_route
+22303,Somers,20683,Croydon Hills,,no_eligible_route
+22304,Somerton (Vic.),20683,Croydon Hills,143.67,ok
+22305,Somerville (Vic.),20683,Croydon Hills,,no_eligible_route
+22306,Sorrento (Vic.),20683,Croydon Hills,,no_eligible_route
+22309,South Kingsville,20683,Croydon Hills,121.57,ok
+22310,South Melbourne,20683,Croydon Hills,89.12,ok
+22311,South Morang,20683,Croydon Hills,143.75,ok
+22313,South Wharf,20683,Croydon Hills,95.12,ok
+22314,South Yarra,20683,Croydon Hills,79.05,ok
+22315,Southbank,20683,Croydon Hills,87.12,ok
+22319,Spotswood,20683,Croydon Hills,101.7,ok
+22325,Springfield (Macedon Ranges - Vic.),20683,Croydon Hills,,no_eligible_route
+22328,Springvale (Vic.),20683,Croydon Hills,95.3,ok
+22329,Springvale South,20683,Croydon Hills,98.57,ok
+22330,St Albans (Vic.),20683,Croydon Hills,125.4,ok
+22332,St Andrews (Vic.),20683,Croydon Hills,,no_eligible_route
+22333,St Andrews Beach,20683,Croydon Hills,,no_eligible_route
+22339,St Helena,20683,Croydon Hills,103.05,ok
+22343,St Kilda (Vic.),20683,Croydon Hills,94.97,ok
+22344,St Kilda East,20683,Croydon Hills,94.72,ok
+22345,St Kilda West,20683,Croydon Hills,100.03,ok
+22355,Steels Creek,20683,Croydon Hills,,no_eligible_route
+22375,Strathewen,20683,Croydon Hills,,no_eligible_route
+22380,Strathmore (Vic.),20683,Croydon Hills,125.87,ok
+22381,Strathmore Heights,20683,Croydon Hills,133.33,ok
+22382,Strathtulloh,20683,Croydon Hills,,no_eligible_route
+22391,Sunbury,20683,Croydon Hills,204.57,ok
+22395,Sunshine (Vic.),20683,Croydon Hills,114.18,ok
+22396,Sunshine North,20683,Croydon Hills,139.23,ok
+22397,Sunshine West,20683,Croydon Hills,141.35,ok
+22399,Surrey Hills,20683,Croydon Hills,68.12,ok
+22414,Sydenham (Vic.),20683,Croydon Hills,139.8,ok
+22451,Tarneit,20683,Croydon Hills,153.77,ok
+22457,Tarrawarra,20683,Croydon Hills,93.32,ok
+22473,Taylors Hill,20683,Croydon Hills,167.13,ok
+22474,Taylors Lakes,20683,Croydon Hills,144.68,ok
+22476,Tecoma,20683,Croydon Hills,70.17,ok
+22483,Templestowe,20683,Croydon Hills,83.27,ok
+22484,Templestowe Lower,20683,Croydon Hills,90.1,ok
+22496,The Basin (Vic.),20683,Croydon Hills,82.0,ok
+22501,The Patch,20683,Croydon Hills,109.07,ok
+22504,Thomastown,20683,Croydon Hills,125.88,ok
+22508,Thornbury,20683,Croydon Hills,114.15,ok
+22509,Thornhill Park,20683,Croydon Hills,,no_eligible_route
+22514,Three Bridges,20683,Croydon Hills,,no_eligible_route
+22531,Tonimbuk,20683,Croydon Hills,,no_eligible_route
+22536,Toolangi,20683,Croydon Hills,,no_eligible_route
+22537,Toolern Vale,20683,Croydon Hills,,no_eligible_route
+22546,Tooradin,20683,Croydon Hills,,no_eligible_route
+22547,Toorak,20683,Croydon Hills,99.43,ok
+22550,Tootgarook,20683,Croydon Hills,,no_eligible_route
+22556,Tottenham (Vic.),20683,Croydon Hills,140.62,ok
+22572,Travancore,20683,Croydon Hills,105.12,ok
+22576,Tremont,20683,Croydon Hills,87.77,ok
+22582,Truganina,20683,Croydon Hills,,no_eligible_route
+22584,Tuerong,20683,Croydon Hills,,no_eligible_route
+22586,Tullamarine,20683,Croydon Hills,142.28,ok
+22594,Tyabb,20683,Croydon Hills,,no_eligible_route
+22598,Tynong,20683,Croydon Hills,,no_eligible_route
+22599,Tynong North,20683,Croydon Hills,,no_eligible_route
+22614,Upper Ferntree Gully,20683,Croydon Hills,61.48,ok
+22617,Upper Plenty,20683,Croydon Hills,,no_eligible_route
+22620,Upwey,20683,Croydon Hills,70.03,ok
+22627,Vermont,20683,Croydon Hills,61.15,ok
+22628,Vermont South,20683,Croydon Hills,71.03,ok
+22629,Vervale,20683,Croydon Hills,,no_eligible_route
+22633,Viewbank,20683,Croydon Hills,108.13,ok
+22661,Wallan,20683,Croydon Hills,,no_eligible_route
+22672,Wandin East,20683,Croydon Hills,,no_eligible_route
+22673,Wandin North,20683,Croydon Hills,57.15,ok
+22676,Wandong,20683,Croydon Hills,,no_eligible_route
+22685,Wantirna,20683,Croydon Hills,61.48,ok
+22686,Wantirna South,20683,Croydon Hills,73.33,ok
+22689,Warburton (Vic.),20683,Croydon Hills,,no_eligible_route
+22695,Warneet,20683,Croydon Hills,,no_eligible_route
+22702,Warrandyte,20683,Croydon Hills,40.98,ok
+22703,Warrandyte South,20683,Croydon Hills,56.37,ok
+22704,Warranwood,20683,Croydon Hills,22.22,ok
+22717,Waterford Park,20683,Croydon Hills,,no_eligible_route
+22720,Waterways,20683,Croydon Hills,122.0,ok
+22721,Watsonia,20683,Croydon Hills,94.63,ok
+22722,Watsonia North,20683,Croydon Hills,96.5,ok
+22723,Watsons Creek (Vic.),20683,Croydon Hills,,no_eligible_route
+22727,Wattle Glen,20683,Croydon Hills,100.38,ok
+22740,Weir Views,20683,Croydon Hills,,no_eligible_route
+22750,Werribee,20683,Croydon Hills,137.48,ok
+22751,Werribee South,20683,Croydon Hills,,no_eligible_route
+22753,Wesburn,20683,Croydon Hills,96.45,ok
+22756,West Footscray,20683,Croydon Hills,117.35,ok
+22757,West Melbourne,20683,Croydon Hills,111.28,ok
+22761,Westmeadows,20683,Croydon Hills,132.67,ok
+22766,Wheelers Hill,20683,Croydon Hills,85.13,ok
+22775,Whittlesea,20683,Croydon Hills,,no_eligible_route
+22784,Wildwood,20683,Croydon Hills,,no_eligible_route
+22791,Williams Landing,20683,Croydon Hills,133.72,ok
+22792,Williamstown (Vic.),20683,Croydon Hills,110.52,ok
+22793,Williamstown North,20683,Croydon Hills,126.03,ok
+22805,Windsor (Vic.),20683,Croydon Hills,85.37,ok
+22820,Wollert,20683,Croydon Hills,161.58,ok
+22825,Wonga Park,20683,Croydon Hills,23.32,ok
+22843,Woodstock (Vic.),20683,Croydon Hills,,no_eligible_route
+22857,Woori Yallock,20683,Croydon Hills,75.6,ok
+22883,Wyndham Vale,20683,Croydon Hills,161.32,ok
+22892,Yallambie,20683,Croydon Hills,99.73,ok
+22898,Yan Yean,20683,Croydon Hills,177.32,ok
+22906,Yannathan,20683,Croydon Hills,,no_eligible_route
+22910,Yarra Glen,20683,Croydon Hills,89.62,ok
+22911,Yarra Junction,20683,Croydon Hills,100.72,ok
+22916,Yarrambat,20683,Croydon Hills,112.78,ok
+22917,Yarraville,20683,Croydon Hills,107.45,ok
+22925,Yellingbo,20683,Croydon Hills,,no_eligible_route
+22930,Yering,20683,Croydon Hills,226.98,walk_only
+22941,Yuroke,20683,Croydon Hills,199.68,ok

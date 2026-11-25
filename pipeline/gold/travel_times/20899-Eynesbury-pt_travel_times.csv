@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20899,Eynesbury,167.03,ok
+20003,Aberfeldie,20899,Eynesbury,166.65,ok
+20011,Aintree,20899,Eynesbury,97.67,ok
+20015,Airport West,20899,Eynesbury,196.68,ok
+20017,Albanvale,20899,Eynesbury,129.65,ok
+20018,Albert Park (Vic.),20899,Eynesbury,177.32,ok
+20021,Albion (Vic.),20899,Eynesbury,102.2,ok
+20034,Alphington,20899,Eynesbury,184.2,ok
+20035,Altona (Vic.),20899,Eynesbury,179.28,ok
+20036,Altona Meadows,20899,Eynesbury,203.98,ok
+20037,Altona North,20899,Eynesbury,180.68,ok
+20062,Ardeer,20899,Eynesbury,112.2,ok
+20066,Armadale (Vic.),20899,Eynesbury,165.42,ok
+20071,Arthurs Creek,20899,Eynesbury,,no_eligible_route
+20072,Arthurs Seat,20899,Eynesbury,,no_eligible_route
+20075,Ascot Vale,20899,Eynesbury,179.42,ok
+20077,Ashburton,20899,Eynesbury,204.03,ok
+20078,Ashwood,20899,Eynesbury,218.57,ok
+20079,Aspendale,20899,Eynesbury,207.68,ok
+20080,Aspendale Gardens,20899,Eynesbury,233.92,ok
+20082,Attwood,20899,Eynesbury,,no_eligible_route
+20089,Avondale Heights,20899,Eynesbury,172.82,ok
+20091,Avonsleigh,20899,Eynesbury,,no_eligible_route
+20095,Bacchus Marsh,20899,Eynesbury,238.82,walk_only
+20097,Badger Creek,20899,Eynesbury,,no_eligible_route
+20105,Balaclava (Vic.),20899,Eynesbury,186.5,ok
+20120,Balnarring,20899,Eynesbury,,no_eligible_route
+20121,Balnarring Beach,20899,Eynesbury,,no_eligible_route
+20123,Balwyn,20899,Eynesbury,213.78,ok
+20124,Balwyn North,20899,Eynesbury,194.93,ok
+20131,Bangholme,20899,Eynesbury,,no_eligible_route
+20169,Baxter,20899,Eynesbury,,no_eligible_route
+20171,Bayles,20899,Eynesbury,,no_eligible_route
+20173,Bayswater (Vic.),20899,Eynesbury,231.68,ok
+20174,Bayswater North,20899,Eynesbury,258.12,ok
+20175,Beaconsfield (Vic.),20899,Eynesbury,234.13,ok
+20176,Beaconsfield Upper,20899,Eynesbury,,no_eligible_route
+20182,Beaumaris (Vic.),20899,Eynesbury,225.5,ok
+20187,Beenak,20899,Eynesbury,,no_eligible_route
+20188,Belgrave,20899,Eynesbury,244.77,ok
+20189,Belgrave Heights,20899,Eynesbury,276.43,ok
+20190,Belgrave South,20899,Eynesbury,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20899,Eynesbury,217.47,ok
+20207,Bend Of Islands,20899,Eynesbury,,no_eligible_route
+20212,Benloch,20899,Eynesbury,,no_eligible_route
+20214,Bentleigh,20899,Eynesbury,185.47,ok
+20215,Bentleigh East,20899,Eynesbury,193.82,ok
+20224,Berwick,20899,Eynesbury,206.93,ok
+20233,Beveridge,20899,Eynesbury,,no_eligible_route
+20237,Big Pats Creek,20899,Eynesbury,,no_eligible_route
+20248,Bittern,20899,Eynesbury,,no_eligible_route
+20251,Black Rock (Vic.),20899,Eynesbury,240.17,ok
+20252,Blackburn,20899,Eynesbury,209.02,ok
+20253,Blackburn North,20899,Eynesbury,229.07,ok
+20254,Blackburn South,20899,Eynesbury,223.7,ok
+20257,Blairgowrie,20899,Eynesbury,,no_eligible_route
+20260,Blind Bight,20899,Eynesbury,,no_eligible_route
+20272,Bolinda,20899,Eynesbury,,no_eligible_route
+20278,Bonbeach,20899,Eynesbury,212.68,ok
+20280,Boneo,20899,Eynesbury,,no_eligible_route
+20282,Bonnie Brook,20899,Eynesbury,161.58,ok
+20304,Boronia,20899,Eynesbury,234.15,ok
+20307,Botanic Ridge,20899,Eynesbury,,no_eligible_route
+20314,Box Hill (Vic.),20899,Eynesbury,206.13,ok
+20315,Box Hill North,20899,Eynesbury,226.85,ok
+20316,Box Hill South,20899,Eynesbury,218.9,ok
+20320,Braeside,20899,Eynesbury,,no_eligible_route
+20324,Braybrook,20899,Eynesbury,145.2,ok
+20331,Briar Hill,20899,Eynesbury,222.92,ok
+20337,Brighton (Vic.),20899,Eynesbury,200.83,ok
+20338,Brighton East,20899,Eynesbury,197.15,ok
+20346,Broadmeadows (Vic.),20899,Eynesbury,203.03,ok
+20351,Brookfield (Vic.),20899,Eynesbury,72.13,ok
+20352,Brooklyn (Vic.),20899,Eynesbury,163.87,ok
+20361,Brunswick (Vic.),20899,Eynesbury,165.93,ok
+20362,Brunswick East,20899,Eynesbury,169.22,ok
+20363,Brunswick West,20899,Eynesbury,186.22,ok
+20381,Bulla (Vic.),20899,Eynesbury,,no_eligible_route
+20386,Bulleen,20899,Eynesbury,201.08,ok
+20387,Bullengarook,20899,Eynesbury,,no_eligible_route
+20399,Bundoora (Vic.),20899,Eynesbury,225.93,ok
+20411,Bunyip,20899,Eynesbury,,no_eligible_route
+20412,Bunyip North,20899,Eynesbury,,no_eligible_route
+20418,Burnley,20899,Eynesbury,189.27,ok
+20419,Burnside (Vic.),20899,Eynesbury,103.18,ok
+20420,Burnside Heights,20899,Eynesbury,126.9,ok
+20426,Burwood (Vic.),20899,Eynesbury,202.77,ok
+20427,Burwood East,20899,Eynesbury,207.43,ok
+20435,Bylands,20899,Eynesbury,,no_eligible_route
+20441,Cairnlea,20899,Eynesbury,126.77,ok
+20442,Calder Park,20899,Eynesbury,149.2,ok
+20443,Caldermeade,20899,Eynesbury,,no_eligible_route
+20453,Camberwell (Vic.),20899,Eynesbury,200.27,ok
+20455,Campbellfield,20899,Eynesbury,209.68,ok
+20466,Cannons Creek,20899,Eynesbury,,no_eligible_route
+20468,Canterbury (Vic.),20899,Eynesbury,199.45,ok
+20474,Cape Schanck,20899,Eynesbury,,no_eligible_route
+20476,Capel Sound,20899,Eynesbury,,no_eligible_route
+20487,Cardinia,20899,Eynesbury,,no_eligible_route
+20495,Carlton (Vic.),20899,Eynesbury,149.42,ok
+20496,Carlton North,20899,Eynesbury,166.98,ok
+20498,Carnegie,20899,Eynesbury,173.67,ok
+20500,Caroline Springs,20899,Eynesbury,113.27,ok
+20507,Carrum,20899,Eynesbury,212.5,ok
+20508,Carrum Downs,20899,Eynesbury,,no_eligible_route
+20512,Castella,20899,Eynesbury,,no_eligible_route
+20517,Catani,20899,Eynesbury,,no_eligible_route
+20521,Caulfield,20899,Eynesbury,184.78,ok
+20522,Caulfield East,20899,Eynesbury,166.87,ok
+20523,Caulfield North,20899,Eynesbury,173.03,ok
+20524,Caulfield South,20899,Eynesbury,191.7,ok
+20528,Chadstone,20899,Eynesbury,202.92,ok
+20537,Chelsea,20899,Eynesbury,209.75,ok
+20538,Chelsea Heights,20899,Eynesbury,236.22,ok
+20539,Cheltenham (Vic.),20899,Eynesbury,200.22,ok
+20541,Cherokee,20899,Eynesbury,,no_eligible_route
+20555,Chintin,20899,Eynesbury,,no_eligible_route
+20556,Chirnside Park,20899,Eynesbury,,no_eligible_route
+20559,Christmas Hills (Vic.),20899,Eynesbury,,no_eligible_route
+20560,Chum Creek,20899,Eynesbury,,no_eligible_route
+20566,Clarinda,20899,Eynesbury,211.67,ok
+20567,Clarkefield,20899,Eynesbury,,no_eligible_route
+20569,Clayton,20899,Eynesbury,191.25,ok
+20570,Clayton South,20899,Eynesbury,203.07,ok
+20572,Clematis,20899,Eynesbury,,no_eligible_route
+20574,Clifton Hill,20899,Eynesbury,165.28,ok
+20576,Clonbinane,20899,Eynesbury,,no_eligible_route
+20581,Clyde (Vic.),20899,Eynesbury,,no_eligible_route
+20582,Clyde North,20899,Eynesbury,,no_eligible_route
+20587,Cobaw,20899,Eynesbury,,no_eligible_route
+20590,Cobblebank,20899,Eynesbury,62.32,ok
+20596,Coburg,20899,Eynesbury,171.67,ok
+20597,Coburg North,20899,Eynesbury,181.23,ok
+20600,Cockatoo (Vic.),20899,Eynesbury,,no_eligible_route
+20601,Cocoroc,20899,Eynesbury,,no_eligible_route
+20605,Coimadai,20899,Eynesbury,,no_eligible_route
+20613,Coldstream (Vic.),20899,Eynesbury,,no_eligible_route
+20616,Collingwood (Vic.),20899,Eynesbury,167.68,ok
+20624,Coolaroo,20899,Eynesbury,203.9,ok
+20633,Cora Lynn,20899,Eynesbury,,no_eligible_route
+20654,Cottles Bridge,20899,Eynesbury,,no_eligible_route
+20661,Craigieburn,20899,Eynesbury,233.07,ok
+20662,Cranbourne,20899,Eynesbury,231.58,ok
+20663,Cranbourne East,20899,Eynesbury,245.68,ok
+20664,Cranbourne North,20899,Eynesbury,,no_eligible_route
+20665,Cranbourne South,20899,Eynesbury,,no_eligible_route
+20666,Cranbourne West,20899,Eynesbury,243.65,ok
+20670,Cremorne (Vic.),20899,Eynesbury,164.02,ok
+20674,Crib Point,20899,Eynesbury,,no_eligible_route
+20682,Croydon (Vic.),20899,Eynesbury,,no_eligible_route
+20683,Croydon Hills,20899,Eynesbury,,no_eligible_route
+20684,Croydon North,20899,Eynesbury,,no_eligible_route
+20685,Croydon South,20899,Eynesbury,,no_eligible_route
+20702,Dallas,20899,Eynesbury,208.33,ok
+20703,Dalmore,20899,Eynesbury,,no_eligible_route
+20707,Dandenong,20899,Eynesbury,194.53,ok
+20708,Dandenong North,20899,Eynesbury,,no_eligible_route
+20709,Dandenong South,20899,Eynesbury,223.9,ok
+20712,Darley,20899,Eynesbury,,no_eligible_route
+20716,Darraweit Guim,20899,Eynesbury,,no_eligible_route
+20724,Deanside,20899,Eynesbury,108.02,ok
+20728,Deepdene (Vic.),20899,Eynesbury,216.15,ok
+20729,Deer Park,20899,Eynesbury,99.03,ok
+20731,Delahey,20899,Eynesbury,141.83,ok
+20743,Derrimut,20899,Eynesbury,154.73,ok
+20748,Devon Meadows,20899,Eynesbury,,no_eligible_route
+20750,Dewhurst,20899,Eynesbury,,no_eligible_route
+20752,Diamond Creek,20899,Eynesbury,226.52,ok
+20754,Diggers Rest,20899,Eynesbury,156.28,ok
+20758,Dingley Village,20899,Eynesbury,,no_eligible_route
+20762,Dixons Creek,20899,Eynesbury,,no_eligible_route
+20766,Docklands,20899,Eynesbury,162.12,ok
+20769,Don Valley,20899,Eynesbury,,no_eligible_route
+20771,Doncaster,20899,Eynesbury,215.27,ok
+20772,Doncaster East,20899,Eynesbury,212.15,ok
+20773,Donnybrook (Vic.),20899,Eynesbury,,no_eligible_route
+20774,Donvale,20899,Eynesbury,,no_eligible_route
+20779,Doreen,20899,Eynesbury,,no_eligible_route
+20783,Doveton,20899,Eynesbury,227.42,ok
+20788,Dromana,20899,Eynesbury,,no_eligible_route
+20825,Eaglemont,20899,Eynesbury,202.53,ok
+20830,East Melbourne,20899,Eynesbury,157.8,ok
+20833,East Warburton,20899,Eynesbury,,no_eligible_route
+20843,Eden Park,20899,Eynesbury,,no_eligible_route
+20848,Edithvale,20899,Eynesbury,209.88,ok
+20864,Elsternwick,20899,Eynesbury,184.52,ok
+20865,Eltham (Vic.),20899,Eynesbury,225.65,ok
+20866,Eltham North,20899,Eynesbury,240.03,ok
+20867,Elwood,20899,Eynesbury,190.17,ok
+20868,Emerald (Vic.),20899,Eynesbury,,no_eligible_route
+20871,Endeavour Hills,20899,Eynesbury,,no_eligible_route
+20878,Epping (Vic.),20899,Eynesbury,233.15,ok
+20885,Essendon,20899,Eynesbury,170.07,ok
+20886,Essendon Fields,20899,Eynesbury,199.73,ok
+20887,Essendon North,20899,Eynesbury,179.08,ok
+20888,Essendon West,20899,Eynesbury,158.65,ok
+20889,Eumemmerring,20899,Eynesbury,,no_eligible_route
+20898,Exford,20899,Eynesbury,93.98,walk_only
+20899,Eynesbury,20899,Eynesbury,0.0,same_centroid
+20901,Fairfield (Vic.),20899,Eynesbury,187.95,ok
+20909,Fawkner,20899,Eynesbury,202.13,ok
+20916,Fernshaw,20899,Eynesbury,,no_eligible_route
+20917,Ferntree Gully,20899,Eynesbury,250.52,ok
+20918,Ferny Creek,20899,Eynesbury,,no_eligible_route
+20920,Fingal (Vic.),20899,Eynesbury,,no_eligible_route
+20924,Fitzroy (Vic.),20899,Eynesbury,165.25,ok
+20925,Fitzroy North,20899,Eynesbury,174.4,ok
+20929,Flemington,20899,Eynesbury,177.12,ok
+20930,Flinders (Vic.),20899,Eynesbury,,no_eligible_route
+20935,Footscray,20899,Eynesbury,141.63,ok
+20937,Forest Hill (Vic.),20899,Eynesbury,230.18,ok
+20947,Frankston,20899,Eynesbury,240.78,ok
+20948,Frankston North,20899,Eynesbury,249.7,ok
+20949,Frankston South,20899,Eynesbury,,no_eligible_route
+20950,Fraser Rise,20899,Eynesbury,156.27,ok
+20965,Gardenvale,20899,Eynesbury,197.27,ok
+20966,Garfield,20899,Eynesbury,,no_eligible_route
+20967,Garfield North,20899,Eynesbury,,no_eligible_route
+20979,Gembrook,20899,Eynesbury,,no_eligible_route
+20995,Gilderoy,20899,Eynesbury,,no_eligible_route
+21001,Gisborne,20899,Eynesbury,,no_eligible_route
+21002,Gisborne South,20899,Eynesbury,,no_eligible_route
+21004,Gladstone Park,20899,Eynesbury,217.23,ok
+21005,Gladysdale,20899,Eynesbury,,no_eligible_route
+21009,Glen Huntly,20899,Eynesbury,178.0,ok
+21010,Glen Iris (Vic.),20899,Eynesbury,208.53,ok
+21013,Glen Waverley,20899,Eynesbury,215.45,ok
+21047,Glenroy (Vic.),20899,Eynesbury,197.88,ok
+21059,Goldie,20899,Eynesbury,,no_eligible_route
+21079,Gowanbrae,20899,Eynesbury,210.33,ok
+21087,Grangefields,20899,Eynesbury,139.72,ok
+21104,Greensborough,20899,Eynesbury,211.07,ok
+21105,Greenvale (Vic.),20899,Eynesbury,,no_eligible_route
+21115,Gruyere,20899,Eynesbury,,no_eligible_route
+21121,Guys Hill,20899,Eynesbury,,no_eligible_route
+21124,Hadfield,20899,Eynesbury,204.17,ok
+21125,Hallam,20899,Eynesbury,213.05,ok
+21131,Hampton (Vic.),20899,Eynesbury,207.67,ok
+21132,Hampton East,20899,Eynesbury,192.23,ok
+21133,Hampton Park,20899,Eynesbury,230.62,ok
+21139,Harkaway,20899,Eynesbury,,no_eligible_route
+21140,Harkness,20899,Eynesbury,85.52,ok
+21145,Hastings (Vic.),20899,Eynesbury,,no_eligible_route
+21152,Hawthorn (Vic.),20899,Eynesbury,185.3,ok
+21153,Hawthorn East,20899,Eynesbury,185.32,ok
+21158,Healesville,20899,Eynesbury,,no_eligible_route
+21159,Heath Hill,20899,Eynesbury,,no_eligible_route
+21161,Heathcote Junction,20899,Eynesbury,,no_eligible_route
+21163,Heatherton,20899,Eynesbury,210.67,ok
+21165,Heathmont,20899,Eynesbury,221.95,ok
+21167,Heidelberg,20899,Eynesbury,205.33,ok
+21168,Heidelberg Heights,20899,Eynesbury,209.83,ok
+21169,Heidelberg West,20899,Eynesbury,214.3,ok
+21176,Hesket,20899,Eynesbury,,no_eligible_route
+21185,Highett,20899,Eynesbury,185.0,ok
+21193,Hillside (Melton - Vic.),20899,Eynesbury,131.4,ok
+21195,Hmas Cerberus,20899,Eynesbury,,no_eligible_route
+21196,Hoddles Creek,20899,Eynesbury,,no_eligible_route
+21202,Hopetoun Park,20899,Eynesbury,,no_eligible_route
+21203,Hoppers Crossing,20899,Eynesbury,175.53,ok
+21214,Hughesdale,20899,Eynesbury,175.08,ok
+21215,Humevale,20899,Eynesbury,,no_eligible_route
+21218,Huntingdale (Vic.),20899,Eynesbury,179.52,ok
+21223,Hurstbridge,20899,Eynesbury,227.07,ok
+21238,Iona,20899,Eynesbury,,no_eligible_route
+21246,Ivanhoe (Vic.),20899,Eynesbury,188.8,ok
+21247,Ivanhoe East,20899,Eynesbury,208.47,ok
+21248,Jacana,20899,Eynesbury,202.45,ok
+21277,Junction Village,20899,Eynesbury,,no_eligible_route
+21284,Kalkallo,20899,Eynesbury,,no_eligible_route
+21286,Kallista,20899,Eynesbury,,no_eligible_route
+21287,Kalorama,20899,Eynesbury,,no_eligible_route
+21294,Kangaroo Ground,20899,Eynesbury,,no_eligible_route
+21312,Kealba,20899,Eynesbury,170.4,ok
+21314,Keilor,20899,Eynesbury,197.05,ok
+21315,Keilor Downs,20899,Eynesbury,162.22,ok
+21316,Keilor East,20899,Eynesbury,156.35,ok
+21317,Keilor Lodge,20899,Eynesbury,159.15,ok
+21318,Keilor North,20899,Eynesbury,165.22,ok
+21319,Keilor Park,20899,Eynesbury,,no_eligible_route
+21327,Kensington (Vic.),20899,Eynesbury,157.98,ok
+21333,Kerrie,20899,Eynesbury,,no_eligible_route
+21336,Kew (Vic.),20899,Eynesbury,185.12,ok
+21337,Kew East,20899,Eynesbury,197.68,ok
+21339,Keysborough,20899,Eynesbury,,no_eligible_route
+21354,Kilsyth,20899,Eynesbury,,no_eligible_route
+21355,Kilsyth South,20899,Eynesbury,,no_eligible_route
+21358,Kinglake,20899,Eynesbury,,no_eligible_route
+21359,Kinglake Central,20899,Eynesbury,,no_eligible_route
+21360,Kinglake West,20899,Eynesbury,,no_eligible_route
+21362,Kings Park (Vic.),20899,Eynesbury,145.2,ok
+21363,Kingsbury,20899,Eynesbury,219.02,ok
+21365,Kingsville,20899,Eynesbury,141.62,ok
+21374,Knoxfield,20899,Eynesbury,,no_eligible_route
+21380,Koo Wee Rup,20899,Eynesbury,,no_eligible_route
+21381,Koo Wee Rup North,20899,Eynesbury,,no_eligible_route
+21393,Kooyong,20899,Eynesbury,189.22,ok
+21411,Kurunjang,20899,Eynesbury,81.05,ok
+21452,Lalor,20899,Eynesbury,193.48,ok
+21456,Lancefield,20899,Eynesbury,,no_eligible_route
+21459,Lang Lang,20899,Eynesbury,,no_eligible_route
+21460,Lang Lang East,20899,Eynesbury,,no_eligible_route
+21467,Langwarrin,20899,Eynesbury,,no_eligible_route
+21468,Langwarrin South,20899,Eynesbury,,no_eligible_route
+21473,Launching Place,20899,Eynesbury,,no_eligible_route
+21476,Laverton (Vic.),20899,Eynesbury,174.88,ok
+21477,Laverton North,20899,Eynesbury,213.42,ok
+21504,Lilydale (Vic.),20899,Eynesbury,,no_eligible_route
+21533,Long Forest,20899,Eynesbury,,no_eligible_route
+21547,Lower Plenty,20899,Eynesbury,232.92,ok
+21554,Lynbrook,20899,Eynesbury,212.3,ok
+21555,Lyndhurst (Vic.),20899,Eynesbury,,no_eligible_route
+21558,Lysterfield,20899,Eynesbury,,no_eligible_route
+21559,Lysterfield South,20899,Eynesbury,,no_eligible_route
+21561,Macclesfield (Vic.),20899,Eynesbury,,no_eligible_route
+21562,Macedon,20899,Eynesbury,,no_eligible_route
+21564,Macleod (Vic.),20899,Eynesbury,204.15,ok
+21569,Maddingley,20899,Eynesbury,,no_eligible_route
+21575,Maidstone,20899,Eynesbury,157.67,ok
+21578,Main Ridge,20899,Eynesbury,,no_eligible_route
+21586,Malvern (Vic.),20899,Eynesbury,176.65,ok
+21587,Malvern East,20899,Eynesbury,182.42,ok
+21588,Mambourin,20899,Eynesbury,,no_eligible_route
+21597,Manor Lakes,20899,Eynesbury,159.4,walk_only
+21604,Maribyrnong,20899,Eynesbury,185.93,ok
+21619,Maryknoll,20899,Eynesbury,,no_eligible_route
+21625,McCrae,20899,Eynesbury,,no_eligible_route
+21629,McKinnon,20899,Eynesbury,175.3,ok
+21635,Meadow Heights,20899,Eynesbury,215.33,ok
+21640,Melbourne,20899,Eynesbury,158.52,ok
+21641,Melbourne Airport,20899,Eynesbury,,no_eligible_route
+21642,Melton (Vic.),20899,Eynesbury,97.65,ok
+21643,Melton South,20899,Eynesbury,38.58,ok
+21644,Melton West,20899,Eynesbury,71.17,ok
+21648,Mentone,20899,Eynesbury,194.98,ok
+21649,Menzies Creek,20899,Eynesbury,,no_eligible_route
+21659,Mernda,20899,Eynesbury,239.83,ok
+21662,Merricks,20899,Eynesbury,,no_eligible_route
+21663,Merricks Beach,20899,Eynesbury,,no_eligible_route
+21664,Merricks North,20899,Eynesbury,,no_eligible_route
+21668,Merrimu,20899,Eynesbury,,no_eligible_route
+21675,Mickleham,20899,Eynesbury,,no_eligible_route
+21677,Middle Park (Vic.),20899,Eynesbury,186.05,ok
+21683,Mill Park,20899,Eynesbury,222.98,ok
+21685,Millgrove,20899,Eynesbury,,no_eligible_route
+21706,Mitcham (Vic.),20899,Eynesbury,220.68,ok
+21727,Monbulk,20899,Eynesbury,,no_eligible_route
+21728,Monegeetta,20899,Eynesbury,,no_eligible_route
+21731,Monomeith,20899,Eynesbury,,no_eligible_route
+21732,Mont Albert,20899,Eynesbury,206.85,ok
+21733,Mont Albert North,20899,Eynesbury,223.05,ok
+21735,Montmorency,20899,Eynesbury,211.72,ok
+21736,Montrose (Vic.),20899,Eynesbury,,no_eligible_route
+21742,Moonee Ponds,20899,Eynesbury,171.8,ok
+21746,Moorabbin,20899,Eynesbury,206.23,ok
+21747,Moorabbin Airport,20899,Eynesbury,242.92,ok
+21754,Moorooduc,20899,Eynesbury,,no_eligible_route
+21755,Mooroolbark,20899,Eynesbury,,no_eligible_route
+21760,Mordialloc,20899,Eynesbury,209.28,ok
+21763,Mornington (Vic.),20899,Eynesbury,,no_eligible_route
+21779,Mount Burnett,20899,Eynesbury,,no_eligible_route
+21786,Mount Cottrell,20899,Eynesbury,214.53,walk_only
+21787,Mount Dandenong,20899,Eynesbury,,no_eligible_route
+21793,Mount Eliza,20899,Eynesbury,,no_eligible_route
+21795,Mount Evelyn,20899,Eynesbury,,no_eligible_route
+21801,Mount Macedon,20899,Eynesbury,,no_eligible_route
+21803,Mount Martha,20899,Eynesbury,,no_eligible_route
+21814,Mount Toolebewong,20899,Eynesbury,,no_eligible_route
+21816,Mount Waverley,20899,Eynesbury,206.88,ok
+21827,Mulgrave (Vic.),20899,Eynesbury,,no_eligible_route
+21849,Murrumbeena,20899,Eynesbury,175.2,ok
+21872,Nangana,20899,Eynesbury,,no_eligible_route
+21878,Nar Nar Goon,20899,Eynesbury,,no_eligible_route
+21879,Nar Nar Goon North,20899,Eynesbury,,no_eligible_route
+21893,Narre Warren,20899,Eynesbury,212.48,ok
+21894,Narre Warren East,20899,Eynesbury,,no_eligible_route
+21895,Narre Warren North,20899,Eynesbury,,no_eligible_route
+21896,Narre Warren South,20899,Eynesbury,,no_eligible_route
+21921,New Gisborne,20899,Eynesbury,,no_eligible_route
+21934,Newport (Vic.),20899,Eynesbury,156.73,ok
+21942,Niddrie,20899,Eynesbury,192.68,ok
+21952,Noble Park,20899,Eynesbury,186.3,ok
+21953,Noble Park North,20899,Eynesbury,219.48,ok
+21966,North Melbourne,20899,Eynesbury,145.43,ok
+21969,North Warrandyte,20899,Eynesbury,,no_eligible_route
+21971,Northcote,20899,Eynesbury,176.68,ok
+21974,Notting Hill,20899,Eynesbury,,no_eligible_route
+21985,Nunawading,20899,Eynesbury,213.17,ok
+21991,Nutfield,20899,Eynesbury,,no_eligible_route
+21998,Oak Park,20899,Eynesbury,190.12,ok
+21999,Oaklands Junction,20899,Eynesbury,,no_eligible_route
+22000,Oakleigh,20899,Eynesbury,177.75,ok
+22001,Oakleigh East,20899,Eynesbury,194.88,ok
+22002,Oakleigh South,20899,Eynesbury,191.3,ok
+22006,Officer,20899,Eynesbury,226.58,ok
+22007,Officer South,20899,Eynesbury,,no_eligible_route
+22009,Olinda (Vic.),20899,Eynesbury,,no_eligible_route
+22016,Ormond,20899,Eynesbury,175.73,ok
+22027,Pakenham,20899,Eynesbury,225.63,ok
+22028,Pakenham South,20899,Eynesbury,,no_eligible_route
+22029,Pakenham Upper,20899,Eynesbury,,no_eligible_route
+22032,Panton Hill,20899,Eynesbury,,no_eligible_route
+22036,Park Orchards,20899,Eynesbury,,no_eligible_route
+22037,Parkdale,20899,Eynesbury,200.07,ok
+22038,Parkville (Vic.),20899,Eynesbury,168.68,ok
+22041,Pascoe Vale,20899,Eynesbury,194.48,ok
+22042,Pascoe Vale South,20899,Eynesbury,183.75,ok
+22047,Patterson Lakes,20899,Eynesbury,229.83,ok
+22050,Pearcedale,20899,Eynesbury,,no_eligible_route
+22058,Pentland Hills,20899,Eynesbury,,no_eligible_route
+22064,Pheasant Creek (Vic.),20899,Eynesbury,,no_eligible_route
+22084,Plenty (Vic.),20899,Eynesbury,,no_eligible_route
+22085,Plumpton (Vic.),20899,Eynesbury,,no_eligible_route
+22086,Point Cook,20899,Eynesbury,,no_eligible_route
+22087,Point Leo,20899,Eynesbury,,no_eligible_route
+22107,Port Melbourne,20899,Eynesbury,220.62,ok
+22113,Portsea,20899,Eynesbury,,no_eligible_route
+22115,Powelltown,20899,Eynesbury,,no_eligible_route
+22118,Prahran,20899,Eynesbury,172.23,ok
+22121,Preston (Vic.),20899,Eynesbury,188.08,ok
+22122,Princes Hill,20899,Eynesbury,160.17,ok
+22132,Quandong,20899,Eynesbury,128.38,walk_only
+22141,Ravenhall,20899,Eynesbury,130.92,ok
+22148,Red Hill (Vic.),20899,Eynesbury,,no_eligible_route
+22149,Red Hill South,20899,Eynesbury,,no_eligible_route
+22160,Research,20899,Eynesbury,,no_eligible_route
+22161,Reservoir (Vic.),20899,Eynesbury,190.3,ok
+22170,Richmond (Vic.),20899,Eynesbury,172.93,ok
+22172,Riddells Creek,20899,Eynesbury,,no_eligible_route
+22174,Ringwood (Vic.),20899,Eynesbury,227.3,ok
+22175,Ringwood East,20899,Eynesbury,247.27,ok
+22176,Ringwood North,20899,Eynesbury,256.75,ok
+22179,Ripponlea,20899,Eynesbury,181.85,ok
+22185,Rochford,20899,Eynesbury,,no_eligible_route
+22186,Rockbank,20899,Eynesbury,97.5,ok
+22193,Romsey,20899,Eynesbury,,no_eligible_route
+22194,Rosanna,20899,Eynesbury,198.62,ok
+22198,Rosebud,20899,Eynesbury,,no_eligible_route
+22207,Rowville,20899,Eynesbury,,no_eligible_route
+22208,Roxburgh Park,20899,Eynesbury,219.97,ok
+22220,Rye,20899,Eynesbury,,no_eligible_route
+22221,Rythdale,20899,Eynesbury,,no_eligible_route
+22222,Safety Beach (Vic.),20899,Eynesbury,,no_eligible_route
+22232,Sandhurst,20899,Eynesbury,,no_eligible_route
+22234,Sandringham (Vic.),20899,Eynesbury,212.55,ok
+22239,Sassafras (Vic.),20899,Eynesbury,,no_eligible_route
+22242,Scoresby,20899,Eynesbury,,no_eligible_route
+22247,Seabrook,20899,Eynesbury,191.28,ok
+22249,Seaford (Vic.),20899,Eynesbury,224.6,ok
+22250,Seaholme,20899,Eynesbury,168.58,ok
+22256,Seddon (Vic.),20899,Eynesbury,136.32,ok
+22258,Selby,20899,Eynesbury,277.37,ok
+22263,Seville,20899,Eynesbury,,no_eligible_route
+22264,Seville East,20899,Eynesbury,,no_eligible_route
+22278,Sherbrooke,20899,Eynesbury,,no_eligible_route
+22279,Shoreham,20899,Eynesbury,,no_eligible_route
+22281,Silvan,20899,Eynesbury,,no_eligible_route
+22291,Skye (Vic.),20899,Eynesbury,,no_eligible_route
+22295,Smiths Gully,20899,Eynesbury,,no_eligible_route
+22303,Somers,20899,Eynesbury,,no_eligible_route
+22304,Somerton (Vic.),20899,Eynesbury,233.93,ok
+22305,Somerville (Vic.),20899,Eynesbury,,no_eligible_route
+22306,Sorrento (Vic.),20899,Eynesbury,,no_eligible_route
+22309,South Kingsville,20899,Eynesbury,168.98,ok
+22310,South Melbourne,20899,Eynesbury,170.98,ok
+22311,South Morang,20899,Eynesbury,225.47,ok
+22313,South Wharf,20899,Eynesbury,165.1,ok
+22314,South Yarra,20899,Eynesbury,157.37,ok
+22315,Southbank,20899,Eynesbury,163.38,ok
+22319,Spotswood,20899,Eynesbury,150.13,ok
+22325,Springfield (Macedon Ranges - Vic.),20899,Eynesbury,,no_eligible_route
+22328,Springvale (Vic.),20899,Eynesbury,187.27,ok
+22329,Springvale South,20899,Eynesbury,208.53,ok
+22330,St Albans (Vic.),20899,Eynesbury,140.82,ok
+22332,St Andrews (Vic.),20899,Eynesbury,,no_eligible_route
+22333,St Andrews Beach,20899,Eynesbury,,no_eligible_route
+22339,St Helena,20899,Eynesbury,,no_eligible_route
+22343,St Kilda (Vic.),20899,Eynesbury,179.45,ok
+22344,St Kilda East,20899,Eynesbury,191.82,ok
+22345,St Kilda West,20899,Eynesbury,189.88,ok
+22355,Steels Creek,20899,Eynesbury,,no_eligible_route
+22375,Strathewen,20899,Eynesbury,,no_eligible_route
+22380,Strathmore (Vic.),20899,Eynesbury,191.32,ok
+22381,Strathmore Heights,20899,Eynesbury,203.28,ok
+22382,Strathtulloh,20899,Eynesbury,65.0,ok
+22391,Sunbury,20899,Eynesbury,209.98,ok
+22395,Sunshine (Vic.),20899,Eynesbury,119.33,ok
+22396,Sunshine North,20899,Eynesbury,141.48,ok
+22397,Sunshine West,20899,Eynesbury,144.57,ok
+22399,Surrey Hills,20899,Eynesbury,207.27,ok
+22414,Sydenham (Vic.),20899,Eynesbury,133.47,ok
+22451,Tarneit,20899,Eynesbury,167.67,ok
+22457,Tarrawarra,20899,Eynesbury,,no_eligible_route
+22473,Taylors Hill,20899,Eynesbury,130.0,ok
+22474,Taylors Lakes,20899,Eynesbury,144.5,ok
+22476,Tecoma,20899,Eynesbury,241.77,ok
+22483,Templestowe,20899,Eynesbury,199.05,ok
+22484,Templestowe Lower,20899,Eynesbury,196.02,ok
+22496,The Basin (Vic.),20899,Eynesbury,,no_eligible_route
+22501,The Patch,20899,Eynesbury,,no_eligible_route
+22504,Thomastown,20899,Eynesbury,198.78,ok
+22508,Thornbury,20899,Eynesbury,182.57,ok
+22509,Thornhill Park,20899,Eynesbury,96.33,ok
+22514,Three Bridges,20899,Eynesbury,,no_eligible_route
+22531,Tonimbuk,20899,Eynesbury,,no_eligible_route
+22536,Toolangi,20899,Eynesbury,,no_eligible_route
+22537,Toolern Vale,20899,Eynesbury,,no_eligible_route
+22546,Tooradin,20899,Eynesbury,,no_eligible_route
+22547,Toorak,20899,Eynesbury,179.93,ok
+22550,Tootgarook,20899,Eynesbury,,no_eligible_route
+22556,Tottenham (Vic.),20899,Eynesbury,158.03,ok
+22572,Travancore,20899,Eynesbury,173.95,ok
+22576,Tremont,20899,Eynesbury,259.37,ok
+22582,Truganina,20899,Eynesbury,170.57,ok
+22584,Tuerong,20899,Eynesbury,,no_eligible_route
+22586,Tullamarine,20899,Eynesbury,217.42,ok
+22594,Tyabb,20899,Eynesbury,,no_eligible_route
+22598,Tynong,20899,Eynesbury,,no_eligible_route
+22599,Tynong North,20899,Eynesbury,,no_eligible_route
+22614,Upper Ferntree Gully,20899,Eynesbury,238.92,ok
+22617,Upper Plenty,20899,Eynesbury,,no_eligible_route
+22620,Upwey,20899,Eynesbury,241.63,ok
+22627,Vermont,20899,Eynesbury,245.52,ok
+22628,Vermont South,20899,Eynesbury,218.3,ok
+22629,Vervale,20899,Eynesbury,,no_eligible_route
+22633,Viewbank,20899,Eynesbury,231.78,ok
+22661,Wallan,20899,Eynesbury,,no_eligible_route
+22672,Wandin East,20899,Eynesbury,,no_eligible_route
+22673,Wandin North,20899,Eynesbury,,no_eligible_route
+22676,Wandong,20899,Eynesbury,,no_eligible_route
+22685,Wantirna,20899,Eynesbury,,no_eligible_route
+22686,Wantirna South,20899,Eynesbury,,no_eligible_route
+22689,Warburton (Vic.),20899,Eynesbury,,no_eligible_route
+22695,Warneet,20899,Eynesbury,,no_eligible_route
+22702,Warrandyte,20899,Eynesbury,,no_eligible_route
+22703,Warrandyte South,20899,Eynesbury,,no_eligible_route
+22704,Warranwood,20899,Eynesbury,,no_eligible_route
+22717,Waterford Park,20899,Eynesbury,,no_eligible_route
+22720,Waterways,20899,Eynesbury,,no_eligible_route
+22721,Watsonia,20899,Eynesbury,199.07,ok
+22722,Watsonia North,20899,Eynesbury,222.6,ok
+22723,Watsons Creek (Vic.),20899,Eynesbury,,no_eligible_route
+22727,Wattle Glen,20899,Eynesbury,230.82,ok
+22740,Weir Views,20899,Eynesbury,36.58,ok
+22750,Werribee,20899,Eynesbury,194.28,ok
+22751,Werribee South,20899,Eynesbury,,no_eligible_route
+22753,Wesburn,20899,Eynesbury,,no_eligible_route
+22756,West Footscray,20899,Eynesbury,134.77,ok
+22757,West Melbourne,20899,Eynesbury,164.75,ok
+22761,Westmeadows,20899,Eynesbury,249.08,ok
+22766,Wheelers Hill,20899,Eynesbury,,no_eligible_route
+22775,Whittlesea,20899,Eynesbury,,no_eligible_route
+22784,Wildwood,20899,Eynesbury,,no_eligible_route
+22791,Williams Landing,20899,Eynesbury,178.9,ok
+22792,Williamstown (Vic.),20899,Eynesbury,158.95,ok
+22793,Williamstown North,20899,Eynesbury,178.48,ok
+22805,Windsor (Vic.),20899,Eynesbury,181.62,ok
+22820,Wollert,20899,Eynesbury,,no_eligible_route
+22825,Wonga Park,20899,Eynesbury,,no_eligible_route
+22843,Woodstock (Vic.),20899,Eynesbury,,no_eligible_route
+22857,Woori Yallock,20899,Eynesbury,,no_eligible_route
+22883,Wyndham Vale,20899,Eynesbury,181.95,walk_only
+22892,Yallambie,20899,Eynesbury,228.33,ok
+22898,Yan Yean,20899,Eynesbury,,no_eligible_route
+22906,Yannathan,20899,Eynesbury,,no_eligible_route
+22910,Yarra Glen,20899,Eynesbury,,no_eligible_route
+22911,Yarra Junction,20899,Eynesbury,,no_eligible_route
+22916,Yarrambat,20899,Eynesbury,,no_eligible_route
+22917,Yarraville,20899,Eynesbury,153.67,ok
+22925,Yellingbo,20899,Eynesbury,,no_eligible_route
+22930,Yering,20899,Eynesbury,,no_eligible_route
+22941,Yuroke,20899,Eynesbury,,no_eligible_route

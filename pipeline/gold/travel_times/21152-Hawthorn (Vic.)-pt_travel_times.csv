@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21152,Hawthorn (Vic.),43.03,ok
+20003,Aberfeldie,21152,Hawthorn (Vic.),67.08,ok
+20011,Aintree,21152,Hawthorn (Vic.),107.82,ok
+20015,Airport West,21152,Hawthorn (Vic.),85.28,ok
+20017,Albanvale,21152,Hawthorn (Vic.),92.4,ok
+20018,Albert Park (Vic.),21152,Hawthorn (Vic.),48.65,ok
+20021,Albion (Vic.),21152,Hawthorn (Vic.),68.68,ok
+20034,Alphington,21152,Hawthorn (Vic.),48.7,ok
+20035,Altona (Vic.),21152,Hawthorn (Vic.),70.78,ok
+20036,Altona Meadows,21152,Hawthorn (Vic.),76.93,ok
+20037,Altona North,21152,Hawthorn (Vic.),81.18,ok
+20062,Ardeer,21152,Hawthorn (Vic.),76.83,ok
+20066,Armadale (Vic.),21152,Hawthorn (Vic.),27.32,ok
+20071,Arthurs Creek,21152,Hawthorn (Vic.),,no_eligible_route
+20072,Arthurs Seat,21152,Hawthorn (Vic.),,no_eligible_route
+20075,Ascot Vale,21152,Hawthorn (Vic.),57.92,ok
+20077,Ashburton,21152,Hawthorn (Vic.),29.33,ok
+20078,Ashwood,21152,Hawthorn (Vic.),44.05,ok
+20079,Aspendale,21152,Hawthorn (Vic.),73.18,ok
+20080,Aspendale Gardens,21152,Hawthorn (Vic.),93.52,ok
+20082,Attwood,21152,Hawthorn (Vic.),89.9,ok
+20089,Avondale Heights,21152,Hawthorn (Vic.),82.22,ok
+20091,Avonsleigh,21152,Hawthorn (Vic.),121.92,ok
+20095,Bacchus Marsh,21152,Hawthorn (Vic.),,no_eligible_route
+20097,Badger Creek,21152,Hawthorn (Vic.),136.18,ok
+20105,Balaclava (Vic.),21152,Hawthorn (Vic.),37.78,ok
+20120,Balnarring,21152,Hawthorn (Vic.),181.12,ok
+20121,Balnarring Beach,21152,Hawthorn (Vic.),177.65,ok
+20123,Balwyn,21152,Hawthorn (Vic.),31.47,ok
+20124,Balwyn North,21152,Hawthorn (Vic.),35.43,ok
+20131,Bangholme,21152,Hawthorn (Vic.),126.78,ok
+20169,Baxter,21152,Hawthorn (Vic.),112.57,ok
+20171,Bayles,21152,Hawthorn (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),21152,Hawthorn (Vic.),53.98,ok
+20174,Bayswater North,21152,Hawthorn (Vic.),75.15,ok
+20175,Beaconsfield (Vic.),21152,Hawthorn (Vic.),113.7,ok
+20176,Beaconsfield Upper,21152,Hawthorn (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),21152,Hawthorn (Vic.),81.07,ok
+20187,Beenak,21152,Hawthorn (Vic.),,no_eligible_route
+20188,Belgrave,21152,Hawthorn (Vic.),67.07,ok
+20189,Belgrave Heights,21152,Hawthorn (Vic.),98.73,ok
+20190,Belgrave South,21152,Hawthorn (Vic.),99.72,ok
+20198,Bellfield (Banyule - Vic.),21152,Hawthorn (Vic.),64.93,ok
+20207,Bend Of Islands,21152,Hawthorn (Vic.),,no_eligible_route
+20212,Benloch,21152,Hawthorn (Vic.),,no_eligible_route
+20214,Bentleigh,21152,Hawthorn (Vic.),55.28,ok
+20215,Bentleigh East,21152,Hawthorn (Vic.),58.23,ok
+20224,Berwick,21152,Hawthorn (Vic.),88.75,ok
+20233,Beveridge,21152,Hawthorn (Vic.),125.45,ok
+20237,Big Pats Creek,21152,Hawthorn (Vic.),,no_eligible_route
+20248,Bittern,21152,Hawthorn (Vic.),131.83,ok
+20251,Black Rock (Vic.),21152,Hawthorn (Vic.),75.38,ok
+20252,Blackburn,21152,Hawthorn (Vic.),30.32,ok
+20253,Blackburn North,21152,Hawthorn (Vic.),46.98,ok
+20254,Blackburn South,21152,Hawthorn (Vic.),46.65,ok
+20257,Blairgowrie,21152,Hawthorn (Vic.),177.8,ok
+20260,Blind Bight,21152,Hawthorn (Vic.),,no_eligible_route
+20272,Bolinda,21152,Hawthorn (Vic.),,no_eligible_route
+20278,Bonbeach,21152,Hawthorn (Vic.),78.18,ok
+20280,Boneo,21152,Hawthorn (Vic.),,no_eligible_route
+20282,Bonnie Brook,21152,Hawthorn (Vic.),140.37,ok
+20304,Boronia,21152,Hawthorn (Vic.),56.45,ok
+20307,Botanic Ridge,21152,Hawthorn (Vic.),136.62,ok
+20314,Box Hill (Vic.),21152,Hawthorn (Vic.),29.77,ok
+20315,Box Hill North,21152,Hawthorn (Vic.),38.18,ok
+20316,Box Hill South,21152,Hawthorn (Vic.),38.92,ok
+20320,Braeside,21152,Hawthorn (Vic.),101.98,ok
+20324,Braybrook,21152,Hawthorn (Vic.),71.47,ok
+20331,Briar Hill,21152,Hawthorn (Vic.),82.02,ok
+20337,Brighton (Vic.),21152,Hawthorn (Vic.),55.33,ok
+20338,Brighton East,21152,Hawthorn (Vic.),49.97,ok
+20346,Broadmeadows (Vic.),21152,Hawthorn (Vic.),81.82,ok
+20351,Brookfield (Vic.),21152,Hawthorn (Vic.),168.87,ok
+20352,Brooklyn (Vic.),21152,Hawthorn (Vic.),76.22,ok
+20361,Brunswick (Vic.),21152,Hawthorn (Vic.),52.63,ok
+20362,Brunswick East,21152,Hawthorn (Vic.),59.3,ok
+20363,Brunswick West,21152,Hawthorn (Vic.),61.82,ok
+20381,Bulla (Vic.),21152,Hawthorn (Vic.),145.05,ok
+20386,Bulleen,21152,Hawthorn (Vic.),66.07,ok
+20387,Bullengarook,21152,Hawthorn (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),21152,Hawthorn (Vic.),80.43,ok
+20411,Bunyip,21152,Hawthorn (Vic.),,no_eligible_route
+20412,Bunyip North,21152,Hawthorn (Vic.),,no_eligible_route
+20418,Burnley,21152,Hawthorn (Vic.),22.17,ok
+20419,Burnside (Vic.),21152,Hawthorn (Vic.),85.72,ok
+20420,Burnside Heights,21152,Hawthorn (Vic.),93.53,ok
+20426,Burwood (Vic.),21152,Hawthorn (Vic.),39.05,ok
+20427,Burwood East,21152,Hawthorn (Vic.),45.72,ok
+20435,Bylands,21152,Hawthorn (Vic.),,no_eligible_route
+20441,Cairnlea,21152,Hawthorn (Vic.),76.9,ok
+20442,Calder Park,21152,Hawthorn (Vic.),103.47,ok
+20443,Caldermeade,21152,Hawthorn (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),21152,Hawthorn (Vic.),28.27,ok
+20455,Campbellfield,21152,Hawthorn (Vic.),86.18,ok
+20466,Cannons Creek,21152,Hawthorn (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),21152,Hawthorn (Vic.),27.75,ok
+20474,Cape Schanck,21152,Hawthorn (Vic.),,no_eligible_route
+20476,Capel Sound,21152,Hawthorn (Vic.),162.15,ok
+20487,Cardinia,21152,Hawthorn (Vic.),,no_eligible_route
+20495,Carlton (Vic.),21152,Hawthorn (Vic.),45.38,ok
+20496,Carlton North,21152,Hawthorn (Vic.),57.62,ok
+20498,Carnegie,21152,Hawthorn (Vic.),52.25,ok
+20500,Caroline Springs,21152,Hawthorn (Vic.),95.6,ok
+20507,Carrum,21152,Hawthorn (Vic.),78.0,ok
+20508,Carrum Downs,21152,Hawthorn (Vic.),104.42,ok
+20512,Castella,21152,Hawthorn (Vic.),,no_eligible_route
+20517,Catani,21152,Hawthorn (Vic.),,no_eligible_route
+20521,Caulfield,21152,Hawthorn (Vic.),37.98,ok
+20522,Caulfield East,21152,Hawthorn (Vic.),44.13,ok
+20523,Caulfield North,21152,Hawthorn (Vic.),21.6,ok
+20524,Caulfield South,21152,Hawthorn (Vic.),42.52,ok
+20528,Chadstone,21152,Hawthorn (Vic.),48.33,ok
+20537,Chelsea,21152,Hawthorn (Vic.),75.25,ok
+20538,Chelsea Heights,21152,Hawthorn (Vic.),97.93,ok
+20539,Cheltenham (Vic.),21152,Hawthorn (Vic.),64.72,ok
+20541,Cherokee,21152,Hawthorn (Vic.),,no_eligible_route
+20555,Chintin,21152,Hawthorn (Vic.),,no_eligible_route
+20556,Chirnside Park,21152,Hawthorn (Vic.),88.35,ok
+20559,Christmas Hills (Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+20560,Chum Creek,21152,Hawthorn (Vic.),,no_eligible_route
+20566,Clarinda,21152,Hawthorn (Vic.),70.42,ok
+20567,Clarkefield,21152,Hawthorn (Vic.),,no_eligible_route
+20569,Clayton,21152,Hawthorn (Vic.),62.47,ok
+20570,Clayton South,21152,Hawthorn (Vic.),79.55,ok
+20572,Clematis,21152,Hawthorn (Vic.),94.33,ok
+20574,Clifton Hill,21152,Hawthorn (Vic.),40.7,ok
+20576,Clonbinane,21152,Hawthorn (Vic.),,no_eligible_route
+20581,Clyde (Vic.),21152,Hawthorn (Vic.),139.45,ok
+20582,Clyde North,21152,Hawthorn (Vic.),109.22,ok
+20587,Cobaw,21152,Hawthorn (Vic.),,no_eligible_route
+20590,Cobblebank,21152,Hawthorn (Vic.),150.52,ok
+20596,Coburg,21152,Hawthorn (Vic.),61.93,ok
+20597,Coburg North,21152,Hawthorn (Vic.),73.93,ok
+20600,Cockatoo (Vic.),21152,Hawthorn (Vic.),125.6,ok
+20601,Cocoroc,21152,Hawthorn (Vic.),,no_eligible_route
+20605,Coimadai,21152,Hawthorn (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),21152,Hawthorn (Vic.),39.02,ok
+20624,Coolaroo,21152,Hawthorn (Vic.),78.13,ok
+20633,Cora Lynn,21152,Hawthorn (Vic.),,no_eligible_route
+20654,Cottles Bridge,21152,Hawthorn (Vic.),,no_eligible_route
+20661,Craigieburn,21152,Hawthorn (Vic.),91.97,ok
+20662,Cranbourne,21152,Hawthorn (Vic.),101.62,ok
+20663,Cranbourne East,21152,Hawthorn (Vic.),98.5,ok
+20664,Cranbourne North,21152,Hawthorn (Vic.),97.42,ok
+20665,Cranbourne South,21152,Hawthorn (Vic.),139.97,ok
+20666,Cranbourne West,21152,Hawthorn (Vic.),111.78,ok
+20670,Cremorne (Vic.),21152,Hawthorn (Vic.),27.65,ok
+20674,Crib Point,21152,Hawthorn (Vic.),140.8,ok
+20682,Croydon (Vic.),21152,Hawthorn (Vic.),47.08,ok
+20683,Croydon Hills,21152,Hawthorn (Vic.),70.83,ok
+20684,Croydon North,21152,Hawthorn (Vic.),68.83,ok
+20685,Croydon South,21152,Hawthorn (Vic.),76.0,ok
+20702,Dallas,21152,Hawthorn (Vic.),84.53,ok
+20703,Dalmore,21152,Hawthorn (Vic.),,no_eligible_route
+20707,Dandenong,21152,Hawthorn (Vic.),71.38,ok
+20708,Dandenong North,21152,Hawthorn (Vic.),95.02,ok
+20709,Dandenong South,21152,Hawthorn (Vic.),92.72,ok
+20712,Darley,21152,Hawthorn (Vic.),,no_eligible_route
+20716,Darraweit Guim,21152,Hawthorn (Vic.),,no_eligible_route
+20724,Deanside,21152,Hawthorn (Vic.),120.83,ok
+20728,Deepdene (Vic.),21152,Hawthorn (Vic.),31.7,ok
+20729,Deer Park,21152,Hawthorn (Vic.),74.67,ok
+20731,Delahey,21152,Hawthorn (Vic.),91.8,ok
+20743,Derrimut,21152,Hawthorn (Vic.),105.23,ok
+20748,Devon Meadows,21152,Hawthorn (Vic.),,no_eligible_route
+20750,Dewhurst,21152,Hawthorn (Vic.),,no_eligible_route
+20752,Diamond Creek,21152,Hawthorn (Vic.),92.02,ok
+20754,Diggers Rest,21152,Hawthorn (Vic.),96.78,ok
+20758,Dingley Village,21152,Hawthorn (Vic.),78.62,ok
+20762,Dixons Creek,21152,Hawthorn (Vic.),,no_eligible_route
+20766,Docklands,21152,Hawthorn (Vic.),43.23,ok
+20769,Don Valley,21152,Hawthorn (Vic.),,no_eligible_route
+20771,Doncaster,21152,Hawthorn (Vic.),43.13,ok
+20772,Doncaster East,21152,Hawthorn (Vic.),53.95,ok
+20773,Donnybrook (Vic.),21152,Hawthorn (Vic.),114.98,ok
+20774,Donvale,21152,Hawthorn (Vic.),60.68,ok
+20779,Doreen,21152,Hawthorn (Vic.),114.5,ok
+20783,Doveton,21152,Hawthorn (Vic.),93.33,ok
+20788,Dromana,21152,Hawthorn (Vic.),172.93,ok
+20825,Eaglemont,21152,Hawthorn (Vic.),62.97,ok
+20830,East Melbourne,21152,Hawthorn (Vic.),27.67,ok
+20833,East Warburton,21152,Hawthorn (Vic.),,no_eligible_route
+20843,Eden Park,21152,Hawthorn (Vic.),,no_eligible_route
+20848,Edithvale,21152,Hawthorn (Vic.),75.38,ok
+20864,Elsternwick,21152,Hawthorn (Vic.),46.25,ok
+20865,Eltham (Vic.),21152,Hawthorn (Vic.),88.05,ok
+20866,Eltham North,21152,Hawthorn (Vic.),85.62,ok
+20867,Elwood,21152,Hawthorn (Vic.),56.67,ok
+20868,Emerald (Vic.),21152,Hawthorn (Vic.),121.52,ok
+20871,Endeavour Hills,21152,Hawthorn (Vic.),105.28,ok
+20878,Epping (Vic.),21152,Hawthorn (Vic.),98.4,ok
+20885,Essendon,21152,Hawthorn (Vic.),63.83,ok
+20886,Essendon Fields,21152,Hawthorn (Vic.),86.75,ok
+20887,Essendon North,21152,Hawthorn (Vic.),69.85,ok
+20888,Essendon West,21152,Hawthorn (Vic.),69.7,ok
+20889,Eumemmerring,21152,Hawthorn (Vic.),99.03,ok
+20898,Exford,21152,Hawthorn (Vic.),,no_eligible_route
+20899,Eynesbury,21152,Hawthorn (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),21152,Hawthorn (Vic.),50.62,ok
+20909,Fawkner,21152,Hawthorn (Vic.),78.63,ok
+20916,Fernshaw,21152,Hawthorn (Vic.),,no_eligible_route
+20917,Ferntree Gully,21152,Hawthorn (Vic.),63.68,ok
+20918,Ferny Creek,21152,Hawthorn (Vic.),115.35,ok
+20920,Fingal (Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),21152,Hawthorn (Vic.),39.8,ok
+20925,Fitzroy North,21152,Hawthorn (Vic.),47.4,ok
+20929,Flemington,21152,Hawthorn (Vic.),61.45,ok
+20930,Flinders (Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+20935,Footscray,21152,Hawthorn (Vic.),51.55,ok
+20937,Forest Hill (Vic.),21152,Hawthorn (Vic.),48.63,ok
+20947,Frankston,21152,Hawthorn (Vic.),94.97,ok
+20948,Frankston North,21152,Hawthorn (Vic.),101.12,ok
+20949,Frankston South,21152,Hawthorn (Vic.),117.55,ok
+20950,Fraser Rise,21152,Hawthorn (Vic.),114.22,ok
+20965,Gardenvale,21152,Hawthorn (Vic.),47.77,ok
+20966,Garfield,21152,Hawthorn (Vic.),,no_eligible_route
+20967,Garfield North,21152,Hawthorn (Vic.),,no_eligible_route
+20979,Gembrook,21152,Hawthorn (Vic.),,no_eligible_route
+20995,Gilderoy,21152,Hawthorn (Vic.),,no_eligible_route
+21001,Gisborne,21152,Hawthorn (Vic.),,no_eligible_route
+21002,Gisborne South,21152,Hawthorn (Vic.),,no_eligible_route
+21004,Gladstone Park,21152,Hawthorn (Vic.),95.73,ok
+21005,Gladysdale,21152,Hawthorn (Vic.),,no_eligible_route
+21009,Glen Huntly,21152,Hawthorn (Vic.),48.82,ok
+21010,Glen Iris (Vic.),21152,Hawthorn (Vic.),36.32,ok
+21013,Glen Waverley,21152,Hawthorn (Vic.),47.27,ok
+21047,Glenroy (Vic.),21152,Hawthorn (Vic.),73.92,ok
+21059,Goldie,21152,Hawthorn (Vic.),,no_eligible_route
+21079,Gowanbrae,21152,Hawthorn (Vic.),92.18,ok
+21087,Grangefields,21152,Hawthorn (Vic.),145.82,ok
+21104,Greensborough,21152,Hawthorn (Vic.),75.55,ok
+21105,Greenvale (Vic.),21152,Hawthorn (Vic.),100.07,ok
+21115,Gruyere,21152,Hawthorn (Vic.),,no_eligible_route
+21121,Guys Hill,21152,Hawthorn (Vic.),,no_eligible_route
+21124,Hadfield,21152,Hawthorn (Vic.),80.67,ok
+21125,Hallam,21152,Hawthorn (Vic.),93.87,ok
+21131,Hampton (Vic.),21152,Hawthorn (Vic.),59.17,ok
+21132,Hampton East,21152,Hawthorn (Vic.),62.05,ok
+21133,Hampton Park,21152,Hawthorn (Vic.),96.28,ok
+21139,Harkaway,21152,Hawthorn (Vic.),,no_eligible_route
+21140,Harkness,21152,Hawthorn (Vic.),170.35,ok
+21145,Hastings (Vic.),21152,Hawthorn (Vic.),130.72,ok
+21152,Hawthorn (Vic.),21152,Hawthorn (Vic.),0.0,same_centroid
+21153,Hawthorn East,21152,Hawthorn (Vic.),15.6,ok
+21158,Healesville,21152,Hawthorn (Vic.),140.1,ok
+21159,Heath Hill,21152,Hawthorn (Vic.),,no_eligible_route
+21161,Heathcote Junction,21152,Hawthorn (Vic.),,no_eligible_route
+21163,Heatherton,21152,Hawthorn (Vic.),77.43,ok
+21165,Heathmont,21152,Hawthorn (Vic.),44.25,ok
+21167,Heidelberg,21152,Hawthorn (Vic.),69.37,ok
+21168,Heidelberg Heights,21152,Hawthorn (Vic.),65.12,ok
+21169,Heidelberg West,21152,Hawthorn (Vic.),70.55,ok
+21176,Hesket,21152,Hawthorn (Vic.),,no_eligible_route
+21185,Highett,21152,Hawthorn (Vic.),54.82,ok
+21193,Hillside (Melton - Vic.),21152,Hawthorn (Vic.),93.87,ok
+21195,Hmas Cerberus,21152,Hawthorn (Vic.),174.0,ok
+21196,Hoddles Creek,21152,Hawthorn (Vic.),,no_eligible_route
+21202,Hopetoun Park,21152,Hawthorn (Vic.),,no_eligible_route
+21203,Hoppers Crossing,21152,Hawthorn (Vic.),90.62,ok
+21214,Hughesdale,21152,Hawthorn (Vic.),49.9,ok
+21215,Humevale,21152,Hawthorn (Vic.),144.88,ok
+21218,Huntingdale (Vic.),21152,Hawthorn (Vic.),60.33,ok
+21223,Hurstbridge,21152,Hawthorn (Vic.),92.57,ok
+21238,Iona,21152,Hawthorn (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),21152,Hawthorn (Vic.),53.28,ok
+21247,Ivanhoe East,21152,Hawthorn (Vic.),49.75,ok
+21248,Jacana,21152,Hawthorn (Vic.),80.95,ok
+21277,Junction Village,21152,Hawthorn (Vic.),140.63,ok
+21284,Kalkallo,21152,Hawthorn (Vic.),119.98,ok
+21286,Kallista,21152,Hawthorn (Vic.),111.78,ok
+21287,Kalorama,21152,Hawthorn (Vic.),77.05,ok
+21294,Kangaroo Ground,21152,Hawthorn (Vic.),121.6,ok
+21312,Kealba,21152,Hawthorn (Vic.),79.05,ok
+21314,Keilor,21152,Hawthorn (Vic.),108.2,ok
+21315,Keilor Downs,21152,Hawthorn (Vic.),94.03,ok
+21316,Keilor East,21152,Hawthorn (Vic.),84.07,ok
+21317,Keilor Lodge,21152,Hawthorn (Vic.),97.65,ok
+21318,Keilor North,21152,Hawthorn (Vic.),90.4,ok
+21319,Keilor Park,21152,Hawthorn (Vic.),89.98,ok
+21327,Kensington (Vic.),21152,Hawthorn (Vic.),48.23,ok
+21333,Kerrie,21152,Hawthorn (Vic.),,no_eligible_route
+21336,Kew (Vic.),21152,Hawthorn (Vic.),23.37,ok
+21337,Kew East,21152,Hawthorn (Vic.),43.4,ok
+21339,Keysborough,21152,Hawthorn (Vic.),89.7,ok
+21354,Kilsyth,21152,Hawthorn (Vic.),71.43,ok
+21355,Kilsyth South,21152,Hawthorn (Vic.),85.52,ok
+21358,Kinglake,21152,Hawthorn (Vic.),193.82,ok
+21359,Kinglake Central,21152,Hawthorn (Vic.),,no_eligible_route
+21360,Kinglake West,21152,Hawthorn (Vic.),147.85,ok
+21362,Kings Park (Vic.),21152,Hawthorn (Vic.),85.03,ok
+21363,Kingsbury,21152,Hawthorn (Vic.),79.65,ok
+21365,Kingsville,21152,Hawthorn (Vic.),63.03,ok
+21374,Knoxfield,21152,Hawthorn (Vic.),70.2,ok
+21380,Koo Wee Rup,21152,Hawthorn (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,21152,Hawthorn (Vic.),,no_eligible_route
+21393,Kooyong,21152,Hawthorn (Vic.),14.1,ok
+21411,Kurunjang,21152,Hawthorn (Vic.),147.55,ok
+21452,Lalor,21152,Hawthorn (Vic.),70.47,ok
+21456,Lancefield,21152,Hawthorn (Vic.),,no_eligible_route
+21459,Lang Lang,21152,Hawthorn (Vic.),,no_eligible_route
+21460,Lang Lang East,21152,Hawthorn (Vic.),,no_eligible_route
+21467,Langwarrin,21152,Hawthorn (Vic.),111.25,ok
+21468,Langwarrin South,21152,Hawthorn (Vic.),,no_eligible_route
+21473,Launching Place,21152,Hawthorn (Vic.),101.73,ok
+21476,Laverton (Vic.),21152,Hawthorn (Vic.),68.38,ok
+21477,Laverton North,21152,Hawthorn (Vic.),88.08,ok
+21504,Lilydale (Vic.),21152,Hawthorn (Vic.),81.38,ok
+21533,Long Forest,21152,Hawthorn (Vic.),,no_eligible_route
+21547,Lower Plenty,21152,Hawthorn (Vic.),87.73,ok
+21554,Lynbrook,21152,Hawthorn (Vic.),81.12,ok
+21555,Lyndhurst (Vic.),21152,Hawthorn (Vic.),140.17,ok
+21558,Lysterfield,21152,Hawthorn (Vic.),139.67,ok
+21559,Lysterfield South,21152,Hawthorn (Vic.),118.4,ok
+21561,Macclesfield (Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+21562,Macedon,21152,Hawthorn (Vic.),,no_eligible_route
+21564,Macleod (Vic.),21152,Hawthorn (Vic.),68.65,ok
+21569,Maddingley,21152,Hawthorn (Vic.),,no_eligible_route
+21575,Maidstone,21152,Hawthorn (Vic.),69.92,ok
+21578,Main Ridge,21152,Hawthorn (Vic.),,no_eligible_route
+21586,Malvern (Vic.),21152,Hawthorn (Vic.),20.27,ok
+21587,Malvern East,21152,Hawthorn (Vic.),33.63,ok
+21588,Mambourin,21152,Hawthorn (Vic.),,no_eligible_route
+21597,Manor Lakes,21152,Hawthorn (Vic.),121.85,ok
+21604,Maribyrnong,21152,Hawthorn (Vic.),70.67,ok
+21619,Maryknoll,21152,Hawthorn (Vic.),,no_eligible_route
+21625,McCrae,21152,Hawthorn (Vic.),157.35,ok
+21629,McKinnon,21152,Hawthorn (Vic.),44.12,ok
+21635,Meadow Heights,21152,Hawthorn (Vic.),91.23,ok
+21640,Melbourne,21152,Hawthorn (Vic.),30.4,ok
+21641,Melbourne Airport,21152,Hawthorn (Vic.),,no_eligible_route
+21642,Melton (Vic.),21152,Hawthorn (Vic.),152.73,ok
+21643,Melton South,21152,Hawthorn (Vic.),166.33,ok
+21644,Melton West,21152,Hawthorn (Vic.),143.73,ok
+21648,Mentone,21152,Hawthorn (Vic.),59.48,ok
+21649,Menzies Creek,21152,Hawthorn (Vic.),93.13,ok
+21659,Mernda,21152,Hawthorn (Vic.),104.47,ok
+21662,Merricks,21152,Hawthorn (Vic.),,no_eligible_route
+21663,Merricks Beach,21152,Hawthorn (Vic.),,no_eligible_route
+21664,Merricks North,21152,Hawthorn (Vic.),,no_eligible_route
+21668,Merrimu,21152,Hawthorn (Vic.),,no_eligible_route
+21675,Mickleham,21152,Hawthorn (Vic.),123.97,ok
+21677,Middle Park (Vic.),21152,Hawthorn (Vic.),54.73,ok
+21683,Mill Park,21152,Hawthorn (Vic.),92.07,ok
+21685,Millgrove,21152,Hawthorn (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),21152,Hawthorn (Vic.),41.98,ok
+21727,Monbulk,21152,Hawthorn (Vic.),119.23,ok
+21728,Monegeetta,21152,Hawthorn (Vic.),,no_eligible_route
+21731,Monomeith,21152,Hawthorn (Vic.),,no_eligible_route
+21732,Mont Albert,21152,Hawthorn (Vic.),35.15,ok
+21733,Mont Albert North,21152,Hawthorn (Vic.),45.87,ok
+21735,Montmorency,21152,Hawthorn (Vic.),68.13,ok
+21736,Montrose (Vic.),21152,Hawthorn (Vic.),68.35,ok
+21742,Moonee Ponds,21152,Hawthorn (Vic.),50.3,ok
+21746,Moorabbin,21152,Hawthorn (Vic.),78.6,ok
+21747,Moorabbin Airport,21152,Hawthorn (Vic.),80.3,ok
+21754,Moorooduc,21152,Hawthorn (Vic.),,no_eligible_route
+21755,Mooroolbark,21152,Hawthorn (Vic.),62.28,ok
+21760,Mordialloc,21152,Hawthorn (Vic.),74.78,ok
+21763,Mornington (Vic.),21152,Hawthorn (Vic.),128.83,ok
+21779,Mount Burnett,21152,Hawthorn (Vic.),,no_eligible_route
+21786,Mount Cottrell,21152,Hawthorn (Vic.),,no_eligible_route
+21787,Mount Dandenong,21152,Hawthorn (Vic.),87.5,ok
+21793,Mount Eliza,21152,Hawthorn (Vic.),105.33,ok
+21795,Mount Evelyn,21152,Hawthorn (Vic.),93.12,ok
+21801,Mount Macedon,21152,Hawthorn (Vic.),,no_eligible_route
+21803,Mount Martha,21152,Hawthorn (Vic.),123.87,ok
+21814,Mount Toolebewong,21152,Hawthorn (Vic.),,no_eligible_route
+21816,Mount Waverley,21152,Hawthorn (Vic.),38.7,ok
+21827,Mulgrave (Vic.),21152,Hawthorn (Vic.),73.68,ok
+21849,Murrumbeena,21152,Hawthorn (Vic.),55.02,ok
+21872,Nangana,21152,Hawthorn (Vic.),,no_eligible_route
+21878,Nar Nar Goon,21152,Hawthorn (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,21152,Hawthorn (Vic.),,no_eligible_route
+21893,Narre Warren,21152,Hawthorn (Vic.),90.85,ok
+21894,Narre Warren East,21152,Hawthorn (Vic.),,no_eligible_route
+21895,Narre Warren North,21152,Hawthorn (Vic.),111.12,ok
+21896,Narre Warren South,21152,Hawthorn (Vic.),95.67,ok
+21921,New Gisborne,21152,Hawthorn (Vic.),,no_eligible_route
+21934,Newport (Vic.),21152,Hawthorn (Vic.),53.23,ok
+21942,Niddrie,21152,Hawthorn (Vic.),80.47,ok
+21952,Noble Park,21152,Hawthorn (Vic.),67.12,ok
+21953,Noble Park North,21152,Hawthorn (Vic.),88.33,ok
+21966,North Melbourne,21152,Hawthorn (Vic.),48.68,ok
+21969,North Warrandyte,21152,Hawthorn (Vic.),93.32,ok
+21971,Northcote,21152,Hawthorn (Vic.),52.67,ok
+21974,Notting Hill,21152,Hawthorn (Vic.),53.25,ok
+21985,Nunawading,21152,Hawthorn (Vic.),34.47,ok
+21991,Nutfield,21152,Hawthorn (Vic.),,no_eligible_route
+21998,Oak Park,21152,Hawthorn (Vic.),68.62,ok
+21999,Oaklands Junction,21152,Hawthorn (Vic.),,no_eligible_route
+22000,Oakleigh,21152,Hawthorn (Vic.),57.57,ok
+22001,Oakleigh East,21152,Hawthorn (Vic.),58.1,ok
+22002,Oakleigh South,21152,Hawthorn (Vic.),68.72,ok
+22006,Officer,21152,Hawthorn (Vic.),108.4,ok
+22007,Officer South,21152,Hawthorn (Vic.),147.97,ok
+22009,Olinda (Vic.),21152,Hawthorn (Vic.),111.7,ok
+22016,Ormond,21152,Hawthorn (Vic.),44.55,ok
+22027,Pakenham,21152,Hawthorn (Vic.),105.32,ok
+22028,Pakenham South,21152,Hawthorn (Vic.),,no_eligible_route
+22029,Pakenham Upper,21152,Hawthorn (Vic.),,no_eligible_route
+22032,Panton Hill,21152,Hawthorn (Vic.),,no_eligible_route
+22036,Park Orchards,21152,Hawthorn (Vic.),62.95,ok
+22037,Parkdale,21152,Hawthorn (Vic.),64.57,ok
+22038,Parkville (Vic.),21152,Hawthorn (Vic.),53.52,ok
+22041,Pascoe Vale,21152,Hawthorn (Vic.),72.98,ok
+22042,Pascoe Vale South,21152,Hawthorn (Vic.),68.72,ok
+22047,Patterson Lakes,21152,Hawthorn (Vic.),87.18,ok
+22050,Pearcedale,21152,Hawthorn (Vic.),157.27,ok
+22058,Pentland Hills,21152,Hawthorn (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),21152,Hawthorn (Vic.),163.5,ok
+22084,Plenty (Vic.),21152,Hawthorn (Vic.),103.15,ok
+22085,Plumpton (Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+22086,Point Cook,21152,Hawthorn (Vic.),84.62,ok
+22087,Point Leo,21152,Hawthorn (Vic.),,no_eligible_route
+22107,Port Melbourne,21152,Hawthorn (Vic.),51.23,ok
+22113,Portsea,21152,Hawthorn (Vic.),193.65,ok
+22115,Powelltown,21152,Hawthorn (Vic.),,no_eligible_route
+22118,Prahran,21152,Hawthorn (Vic.),33.8,ok
+22121,Preston (Vic.),21152,Hawthorn (Vic.),64.07,ok
+22122,Princes Hill,21152,Hawthorn (Vic.),53.67,ok
+22132,Quandong,21152,Hawthorn (Vic.),,no_eligible_route
+22141,Ravenhall,21152,Hawthorn (Vic.),118.42,ok
+22148,Red Hill (Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+22149,Red Hill South,21152,Hawthorn (Vic.),,no_eligible_route
+22160,Research,21152,Hawthorn (Vic.),99.22,ok
+22161,Reservoir (Vic.),21152,Hawthorn (Vic.),67.28,ok
+22170,Richmond (Vic.),21152,Hawthorn (Vic.),19.7,ok
+22172,Riddells Creek,21152,Hawthorn (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),21152,Hawthorn (Vic.),48.6,ok
+22175,Ringwood East,21152,Hawthorn (Vic.),47.17,ok
+22176,Ringwood North,21152,Hawthorn (Vic.),59.8,ok
+22179,Ripponlea,21152,Hawthorn (Vic.),37.2,ok
+22185,Rochford,21152,Hawthorn (Vic.),,no_eligible_route
+22186,Rockbank,21152,Hawthorn (Vic.),126.0,ok
+22193,Romsey,21152,Hawthorn (Vic.),,no_eligible_route
+22194,Rosanna,21152,Hawthorn (Vic.),63.12,ok
+22198,Rosebud,21152,Hawthorn (Vic.),173.67,ok
+22207,Rowville,21152,Hawthorn (Vic.),74.15,ok
+22208,Roxburgh Park,21152,Hawthorn (Vic.),90.23,ok
+22220,Rye,21152,Hawthorn (Vic.),185.87,ok
+22221,Rythdale,21152,Hawthorn (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),21152,Hawthorn (Vic.),140.83,ok
+22232,Sandhurst,21152,Hawthorn (Vic.),115.52,ok
+22234,Sandringham (Vic.),21152,Hawthorn (Vic.),64.05,ok
+22239,Sassafras (Vic.),21152,Hawthorn (Vic.),98.12,ok
+22242,Scoresby,21152,Hawthorn (Vic.),78.98,ok
+22247,Seabrook,21152,Hawthorn (Vic.),81.68,ok
+22249,Seaford (Vic.),21152,Hawthorn (Vic.),90.1,ok
+22250,Seaholme,21152,Hawthorn (Vic.),65.47,ok
+22256,Seddon (Vic.),21152,Hawthorn (Vic.),49.48,ok
+22258,Selby,21152,Hawthorn (Vic.),92.8,ok
+22263,Seville,21152,Hawthorn (Vic.),112.9,ok
+22264,Seville East,21152,Hawthorn (Vic.),99.78,ok
+22278,Sherbrooke,21152,Hawthorn (Vic.),101.85,ok
+22279,Shoreham,21152,Hawthorn (Vic.),,no_eligible_route
+22281,Silvan,21152,Hawthorn (Vic.),106.28,ok
+22291,Skye (Vic.),21152,Hawthorn (Vic.),107.55,ok
+22295,Smiths Gully,21152,Hawthorn (Vic.),,no_eligible_route
+22303,Somers,21152,Hawthorn (Vic.),162.13,ok
+22304,Somerton (Vic.),21152,Hawthorn (Vic.),91.6,ok
+22305,Somerville (Vic.),21152,Hawthorn (Vic.),135.82,ok
+22306,Sorrento (Vic.),21152,Hawthorn (Vic.),173.63,ok
+22309,South Kingsville,21152,Hawthorn (Vic.),68.48,ok
+22310,South Melbourne,21152,Hawthorn (Vic.),44.7,ok
+22311,South Morang,21152,Hawthorn (Vic.),94.68,ok
+22313,South Wharf,21152,Hawthorn (Vic.),44.72,ok
+22314,South Yarra,21152,Hawthorn (Vic.),27.97,ok
+22315,Southbank,21152,Hawthorn (Vic.),38.05,ok
+22319,Spotswood,21152,Hawthorn (Vic.),49.63,ok
+22325,Springfield (Macedon Ranges - Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+22328,Springvale (Vic.),21152,Hawthorn (Vic.),68.08,ok
+22329,Springvale South,21152,Hawthorn (Vic.),69.82,ok
+22330,St Albans (Vic.),21152,Hawthorn (Vic.),71.32,ok
+22332,St Andrews (Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+22333,St Andrews Beach,21152,Hawthorn (Vic.),,no_eligible_route
+22339,St Helena,21152,Hawthorn (Vic.),87.88,ok
+22343,St Kilda (Vic.),21152,Hawthorn (Vic.),44.9,ok
+22344,St Kilda East,21152,Hawthorn (Vic.),36.95,ok
+22345,St Kilda West,21152,Hawthorn (Vic.),50.73,ok
+22355,Steels Creek,21152,Hawthorn (Vic.),,no_eligible_route
+22375,Strathewen,21152,Hawthorn (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),21152,Hawthorn (Vic.),76.08,ok
+22381,Strathmore Heights,21152,Hawthorn (Vic.),86.87,ok
+22382,Strathtulloh,21152,Hawthorn (Vic.),,no_eligible_route
+22391,Sunbury,21152,Hawthorn (Vic.),129.6,ok
+22395,Sunshine (Vic.),21152,Hawthorn (Vic.),60.1,ok
+22396,Sunshine North,21152,Hawthorn (Vic.),78.17,ok
+22397,Sunshine West,21152,Hawthorn (Vic.),87.45,ok
+22399,Surrey Hills,21152,Hawthorn (Vic.),35.57,ok
+22414,Sydenham (Vic.),21152,Hawthorn (Vic.),85.72,ok
+22451,Tarneit,21152,Hawthorn (Vic.),107.68,ok
+22457,Tarrawarra,21152,Hawthorn (Vic.),115.7,ok
+22473,Taylors Hill,21152,Hawthorn (Vic.),92.55,ok
+22474,Taylors Lakes,21152,Hawthorn (Vic.),84.13,ok
+22476,Tecoma,21152,Hawthorn (Vic.),64.07,ok
+22483,Templestowe,21152,Hawthorn (Vic.),69.35,ok
+22484,Templestowe Lower,21152,Hawthorn (Vic.),65.48,ok
+22496,The Basin (Vic.),21152,Hawthorn (Vic.),82.55,ok
+22501,The Patch,21152,Hawthorn (Vic.),109.8,ok
+22504,Thomastown,21152,Hawthorn (Vic.),75.77,ok
+22508,Thornbury,21152,Hawthorn (Vic.),58.55,ok
+22509,Thornhill Park,21152,Hawthorn (Vic.),,no_eligible_route
+22514,Three Bridges,21152,Hawthorn (Vic.),,no_eligible_route
+22531,Tonimbuk,21152,Hawthorn (Vic.),,no_eligible_route
+22536,Toolangi,21152,Hawthorn (Vic.),,no_eligible_route
+22537,Toolern Vale,21152,Hawthorn (Vic.),,no_eligible_route
+22546,Tooradin,21152,Hawthorn (Vic.),,no_eligible_route
+22547,Toorak,21152,Hawthorn (Vic.),22.23,ok
+22550,Tootgarook,21152,Hawthorn (Vic.),169.28,ok
+22556,Tottenham (Vic.),21152,Hawthorn (Vic.),83.63,ok
+22572,Travancore,21152,Hawthorn (Vic.),58.57,ok
+22576,Tremont,21152,Hawthorn (Vic.),81.67,ok
+22582,Truganina,21152,Hawthorn (Vic.),158.83,ok
+22584,Tuerong,21152,Hawthorn (Vic.),,no_eligible_route
+22586,Tullamarine,21152,Hawthorn (Vic.),95.03,ok
+22594,Tyabb,21152,Hawthorn (Vic.),127.28,ok
+22598,Tynong,21152,Hawthorn (Vic.),,no_eligible_route
+22599,Tynong North,21152,Hawthorn (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,21152,Hawthorn (Vic.),61.22,ok
+22617,Upper Plenty,21152,Hawthorn (Vic.),,no_eligible_route
+22620,Upwey,21152,Hawthorn (Vic.),63.93,ok
+22627,Vermont,21152,Hawthorn (Vic.),55.53,ok
+22628,Vermont South,21152,Hawthorn (Vic.),53.58,ok
+22629,Vervale,21152,Hawthorn (Vic.),,no_eligible_route
+22633,Viewbank,21152,Hawthorn (Vic.),73.12,ok
+22661,Wallan,21152,Hawthorn (Vic.),,no_eligible_route
+22672,Wandin East,21152,Hawthorn (Vic.),,no_eligible_route
+22673,Wandin North,21152,Hawthorn (Vic.),85.87,ok
+22676,Wandong,21152,Hawthorn (Vic.),,no_eligible_route
+22685,Wantirna,21152,Hawthorn (Vic.),67.22,ok
+22686,Wantirna South,21152,Hawthorn (Vic.),65.18,ok
+22689,Warburton (Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+22695,Warneet,21152,Hawthorn (Vic.),,no_eligible_route
+22702,Warrandyte,21152,Hawthorn (Vic.),73.13,ok
+22703,Warrandyte South,21152,Hawthorn (Vic.),90.1,ok
+22704,Warranwood,21152,Hawthorn (Vic.),67.77,ok
+22717,Waterford Park,21152,Hawthorn (Vic.),,no_eligible_route
+22720,Waterways,21152,Hawthorn (Vic.),94.25,ok
+22721,Watsonia,21152,Hawthorn (Vic.),63.57,ok
+22722,Watsonia North,21152,Hawthorn (Vic.),80.5,ok
+22723,Watsons Creek (Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+22727,Wattle Glen,21152,Hawthorn (Vic.),96.32,ok
+22740,Weir Views,21152,Hawthorn (Vic.),198.57,ok
+22750,Werribee,21152,Hawthorn (Vic.),79.42,ok
+22751,Werribee South,21152,Hawthorn (Vic.),122.43,ok
+22753,Wesburn,21152,Hawthorn (Vic.),117.83,ok
+22756,West Footscray,21152,Hawthorn (Vic.),63.8,ok
+22757,West Melbourne,21152,Hawthorn (Vic.),61.2,ok
+22761,Westmeadows,21152,Hawthorn (Vic.),82.65,ok
+22766,Wheelers Hill,21152,Hawthorn (Vic.),65.32,ok
+22775,Whittlesea,21152,Hawthorn (Vic.),,no_eligible_route
+22784,Wildwood,21152,Hawthorn (Vic.),,no_eligible_route
+22791,Williams Landing,21152,Hawthorn (Vic.),82.63,ok
+22792,Williamstown (Vic.),21152,Hawthorn (Vic.),61.57,ok
+22793,Williamstown North,21152,Hawthorn (Vic.),76.98,ok
+22805,Windsor (Vic.),21152,Hawthorn (Vic.),34.47,ok
+22820,Wollert,21152,Hawthorn (Vic.),110.5,ok
+22825,Wonga Park,21152,Hawthorn (Vic.),67.62,ok
+22843,Woodstock (Vic.),21152,Hawthorn (Vic.),,no_eligible_route
+22857,Woori Yallock,21152,Hawthorn (Vic.),96.98,ok
+22883,Wyndham Vale,21152,Hawthorn (Vic.),110.23,ok
+22892,Yallambie,21152,Hawthorn (Vic.),81.85,ok
+22898,Yan Yean,21152,Hawthorn (Vic.),129.23,ok
+22906,Yannathan,21152,Hawthorn (Vic.),,no_eligible_route
+22910,Yarra Glen,21152,Hawthorn (Vic.),113.0,ok
+22911,Yarra Junction,21152,Hawthorn (Vic.),122.1,ok
+22916,Yarrambat,21152,Hawthorn (Vic.),97.72,ok
+22917,Yarraville,21152,Hawthorn (Vic.),55.38,ok
+22925,Yellingbo,21152,Hawthorn (Vic.),,no_eligible_route
+22930,Yering,21152,Hawthorn (Vic.),,no_eligible_route
+22941,Yuroke,21152,Hawthorn (Vic.),146.3,ok

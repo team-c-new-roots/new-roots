@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20948,Frankston North,115.07,ok
+20003,Aberfeldie,20948,Frankston North,149.77,ok
+20011,Aintree,20948,Frankston North,175.55,ok
+20015,Airport West,20948,Frankston North,154.47,ok
+20017,Albanvale,20948,Frankston North,153.57,ok
+20018,Albert Park (Vic.),20948,Frankston North,124.38,ok
+20021,Albion (Vic.),20948,Frankston North,130.97,ok
+20034,Alphington,20948,Frankston North,121.43,ok
+20035,Altona (Vic.),20948,Frankston North,147.52,ok
+20036,Altona Meadows,20948,Frankston North,159.43,ok
+20037,Altona North,20948,Frankston North,168.35,ok
+20062,Ardeer,20948,Frankston North,150.87,ok
+20066,Armadale (Vic.),20948,Frankston North,77.65,ok
+20071,Arthurs Creek,20948,Frankston North,,no_eligible_route
+20072,Arthurs Seat,20948,Frankston North,,no_eligible_route
+20075,Ascot Vale,20948,Frankston North,125.9,ok
+20077,Ashburton,20948,Frankston North,113.28,ok
+20078,Ashwood,20948,Frankston North,106.68,ok
+20079,Aspendale,20948,Frankston North,56.6,ok
+20080,Aspendale Gardens,20948,Frankston North,75.67,ok
+20082,Attwood,20948,Frankston North,177.42,ok
+20089,Avondale Heights,20948,Frankston North,152.95,ok
+20091,Avonsleigh,20948,Frankston North,,no_eligible_route
+20095,Bacchus Marsh,20948,Frankston North,,no_eligible_route
+20097,Badger Creek,20948,Frankston North,218.88,ok
+20105,Balaclava (Vic.),20948,Frankston North,99.75,ok
+20120,Balnarring,20948,Frankston North,,no_eligible_route
+20121,Balnarring Beach,20948,Frankston North,,no_eligible_route
+20123,Balwyn,20948,Frankston North,131.03,ok
+20124,Balwyn North,20948,Frankston North,134.17,ok
+20131,Bangholme,20948,Frankston North,93.38,ok
+20169,Baxter,20948,Frankston North,171.37,walk_only
+20171,Bayles,20948,Frankston North,,no_eligible_route
+20173,Bayswater (Vic.),20948,Frankston North,118.62,ok
+20174,Bayswater North,20948,Frankston North,124.85,ok
+20175,Beaconsfield (Vic.),20948,Frankston North,97.55,ok
+20176,Beaconsfield Upper,20948,Frankston North,,no_eligible_route
+20182,Beaumaris (Vic.),20948,Frankston North,77.8,ok
+20187,Beenak,20948,Frankston North,,no_eligible_route
+20188,Belgrave,20948,Frankston North,120.55,ok
+20189,Belgrave Heights,20948,Frankston North,156.43,ok
+20190,Belgrave South,20948,Frankston North,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20948,Frankston North,134.73,ok
+20207,Bend Of Islands,20948,Frankston North,,no_eligible_route
+20212,Benloch,20948,Frankston North,,no_eligible_route
+20214,Bentleigh,20948,Frankston North,67.32,ok
+20215,Bentleigh East,20948,Frankston North,84.65,ok
+20224,Berwick,20948,Frankston North,72.72,ok
+20233,Beveridge,20948,Frankston North,,no_eligible_route
+20237,Big Pats Creek,20948,Frankston North,,no_eligible_route
+20248,Bittern,20948,Frankston North,,no_eligible_route
+20251,Black Rock (Vic.),20948,Frankston North,83.6,ok
+20252,Blackburn,20948,Frankston North,120.78,ok
+20253,Blackburn North,20948,Frankston North,130.68,ok
+20254,Blackburn South,20948,Frankston North,124.37,ok
+20257,Blairgowrie,20948,Frankston North,107.22,ok
+20260,Blind Bight,20948,Frankston North,,no_eligible_route
+20272,Bolinda,20948,Frankston North,,no_eligible_route
+20278,Bonbeach,20948,Frankston North,50.32,ok
+20280,Boneo,20948,Frankston North,,no_eligible_route
+20282,Bonnie Brook,20948,Frankston North,208.1,ok
+20304,Boronia,20948,Frankston North,110.03,ok
+20307,Botanic Ridge,20948,Frankston North,150.12,walk_only
+20314,Box Hill (Vic.),20948,Frankston North,112.68,ok
+20315,Box Hill North,20948,Frankston North,120.67,ok
+20316,Box Hill South,20948,Frankston North,109.55,ok
+20320,Braeside,20948,Frankston North,98.72,ok
+20324,Braybrook,20948,Frankston North,142.82,ok
+20331,Briar Hill,20948,Frankston North,157.78,ok
+20337,Brighton (Vic.),20948,Frankston North,92.83,ok
+20338,Brighton East,20948,Frankston North,82.48,ok
+20346,Broadmeadows (Vic.),20948,Frankston North,153.82,ok
+20351,Brookfield (Vic.),20948,Frankston North,,no_eligible_route
+20352,Brooklyn (Vic.),20948,Frankston North,150.75,ok
+20361,Brunswick (Vic.),20948,Frankston North,123.37,ok
+20362,Brunswick East,20948,Frankston North,132.0,ok
+20363,Brunswick West,20948,Frankston North,133.1,ok
+20381,Bulla (Vic.),20948,Frankston North,,no_eligible_route
+20386,Bulleen,20948,Frankston North,141.82,ok
+20387,Bullengarook,20948,Frankston North,,no_eligible_route
+20399,Bundoora (Vic.),20948,Frankston North,156.17,ok
+20411,Bunyip,20948,Frankston North,,no_eligible_route
+20412,Bunyip North,20948,Frankston North,,no_eligible_route
+20418,Burnley,20948,Frankston North,116.67,ok
+20419,Burnside (Vic.),20948,Frankston North,168.83,ok
+20420,Burnside Heights,20948,Frankston North,168.45,ok
+20426,Burwood (Vic.),20948,Frankston North,107.62,ok
+20427,Burwood East,20948,Frankston North,107.77,ok
+20435,Bylands,20948,Frankston North,,no_eligible_route
+20441,Cairnlea,20948,Frankston North,143.63,ok
+20442,Calder Park,20948,Frankston North,164.75,ok
+20443,Caldermeade,20948,Frankston North,,no_eligible_route
+20453,Camberwell (Vic.),20948,Frankston North,119.03,ok
+20455,Campbellfield,20948,Frankston North,165.92,ok
+20466,Cannons Creek,20948,Frankston North,,no_eligible_route
+20468,Canterbury (Vic.),20948,Frankston North,119.68,ok
+20474,Cape Schanck,20948,Frankston North,,no_eligible_route
+20476,Capel Sound,20948,Frankston North,,no_eligible_route
+20487,Cardinia,20948,Frankston North,,no_eligible_route
+20495,Carlton (Vic.),20948,Frankston North,108.63,ok
+20496,Carlton North,20948,Frankston North,128.77,ok
+20498,Carnegie,20948,Frankston North,85.77,ok
+20500,Caroline Springs,20948,Frankston North,163.33,ok
+20507,Carrum,20948,Frankston North,45.73,ok
+20508,Carrum Downs,20948,Frankston North,27.2,ok
+20512,Castella,20948,Frankston North,,no_eligible_route
+20517,Catani,20948,Frankston North,,no_eligible_route
+20521,Caulfield,20948,Frankston North,91.75,ok
+20522,Caulfield East,20948,Frankston North,78.1,ok
+20523,Caulfield North,20948,Frankston North,91.57,ok
+20524,Caulfield South,20948,Frankston North,92.43,ok
+20528,Chadstone,20948,Frankston North,100.3,ok
+20537,Chelsea,20948,Frankston North,51.08,ok
+20538,Chelsea Heights,20948,Frankston North,66.1,ok
+20539,Cheltenham (Vic.),20948,Frankston North,72.43,ok
+20541,Cherokee,20948,Frankston North,,no_eligible_route
+20555,Chintin,20948,Frankston North,,no_eligible_route
+20556,Chirnside Park,20948,Frankston North,156.78,ok
+20559,Christmas Hills (Vic.),20948,Frankston North,,no_eligible_route
+20560,Chum Creek,20948,Frankston North,,no_eligible_route
+20566,Clarinda,20948,Frankston North,98.75,ok
+20567,Clarkefield,20948,Frankston North,,no_eligible_route
+20569,Clayton,20948,Frankston North,84.97,ok
+20570,Clayton South,20948,Frankston North,98.25,ok
+20572,Clematis,20948,Frankston North,,no_eligible_route
+20574,Clifton Hill,20948,Frankston North,107.43,ok
+20576,Clonbinane,20948,Frankston North,,no_eligible_route
+20581,Clyde (Vic.),20948,Frankston North,,no_eligible_route
+20582,Clyde North,20948,Frankston North,85.4,ok
+20587,Cobaw,20948,Frankston North,,no_eligible_route
+20590,Cobblebank,20948,Frankston North,,no_eligible_route
+20596,Coburg,20948,Frankston North,134.45,ok
+20597,Coburg North,20948,Frankston North,144.02,ok
+20600,Cockatoo (Vic.),20948,Frankston North,,no_eligible_route
+20601,Cocoroc,20948,Frankston North,,no_eligible_route
+20605,Coimadai,20948,Frankston North,,no_eligible_route
+20613,Coldstream (Vic.),20948,Frankston North,,no_eligible_route
+20616,Collingwood (Vic.),20948,Frankston North,107.75,ok
+20624,Coolaroo,20948,Frankston North,154.68,ok
+20633,Cora Lynn,20948,Frankston North,,no_eligible_route
+20654,Cottles Bridge,20948,Frankston North,,no_eligible_route
+20661,Craigieburn,20948,Frankston North,183.85,ok
+20662,Cranbourne,20948,Frankston North,42.27,ok
+20663,Cranbourne East,20948,Frankston North,73.98,ok
+20664,Cranbourne North,20948,Frankston North,68.13,ok
+20665,Cranbourne South,20948,Frankston North,145.2,walk_only
+20666,Cranbourne West,20948,Frankston North,61.1,ok
+20670,Cremorne (Vic.),20948,Frankston North,93.25,ok
+20674,Crib Point,20948,Frankston North,,no_eligible_route
+20682,Croydon (Vic.),20948,Frankston North,113.03,ok
+20683,Croydon Hills,20948,Frankston North,131.88,ok
+20684,Croydon North,20948,Frankston North,132.83,ok
+20685,Croydon South,20948,Frankston North,133.6,ok
+20702,Dallas,20948,Frankston North,164.57,ok
+20703,Dalmore,20948,Frankston North,,no_eligible_route
+20707,Dandenong,20948,Frankston North,54.55,ok
+20708,Dandenong North,20948,Frankston North,79.95,ok
+20709,Dandenong South,20948,Frankston North,35.57,ok
+20712,Darley,20948,Frankston North,,no_eligible_route
+20716,Darraweit Guim,20948,Frankston North,,no_eligible_route
+20724,Deanside,20948,Frankston North,189.57,ok
+20728,Deepdene (Vic.),20948,Frankston North,123.03,ok
+20729,Deer Park,20948,Frankston North,164.12,ok
+20731,Delahey,20948,Frankston North,160.53,ok
+20743,Derrimut,20948,Frankston North,165.52,ok
+20748,Devon Meadows,20948,Frankston North,229.68,walk_only
+20750,Dewhurst,20948,Frankston North,,no_eligible_route
+20752,Diamond Creek,20948,Frankston North,174.75,ok
+20754,Diggers Rest,20948,Frankston North,173.38,ok
+20758,Dingley Village,20948,Frankston North,71.35,ok
+20762,Dixons Creek,20948,Frankston North,,no_eligible_route
+20766,Docklands,20948,Frankston North,115.77,ok
+20769,Don Valley,20948,Frankston North,,no_eligible_route
+20771,Doncaster,20948,Frankston North,124.47,ok
+20772,Doncaster East,20948,Frankston North,132.65,ok
+20773,Donnybrook (Vic.),20948,Frankston North,,no_eligible_route
+20774,Donvale,20948,Frankston North,133.38,ok
+20779,Doreen,20948,Frankston North,,no_eligible_route
+20783,Doveton,20948,Frankston North,74.3,ok
+20788,Dromana,20948,Frankston North,,no_eligible_route
+20825,Eaglemont,20948,Frankston North,139.77,ok
+20830,East Melbourne,20948,Frankston North,103.03,ok
+20833,East Warburton,20948,Frankston North,,no_eligible_route
+20843,Eden Park,20948,Frankston North,,no_eligible_route
+20848,Edithvale,20948,Frankston North,57.25,ok
+20864,Elsternwick,20948,Frankston North,91.73,ok
+20865,Eltham (Vic.),20948,Frankston North,158.75,ok
+20866,Eltham North,20948,Frankston North,175.33,ok
+20867,Elwood,20948,Frankston North,106.0,ok
+20868,Emerald (Vic.),20948,Frankston North,,no_eligible_route
+20871,Endeavour Hills,20948,Frankston North,86.25,ok
+20878,Epping (Vic.),20948,Frankston North,180.08,ok
+20885,Essendon,20948,Frankston North,136.12,ok
+20886,Essendon Fields,20948,Frankston North,157.52,ok
+20887,Essendon North,20948,Frankston North,138.52,ok
+20888,Essendon West,20948,Frankston North,145.98,ok
+20889,Eumemmerring,20948,Frankston North,74.32,ok
+20898,Exford,20948,Frankston North,,no_eligible_route
+20899,Eynesbury,20948,Frankston North,,no_eligible_route
+20901,Fairfield (Vic.),20948,Frankston North,127.75,ok
+20909,Fawkner,20948,Frankston North,158.37,ok
+20916,Fernshaw,20948,Frankston North,,no_eligible_route
+20917,Ferntree Gully,20948,Frankston North,95.3,ok
+20918,Ferny Creek,20948,Frankston North,,no_eligible_route
+20920,Fingal (Vic.),20948,Frankston North,,no_eligible_route
+20924,Fitzroy (Vic.),20948,Frankston North,115.42,ok
+20925,Fitzroy North,20948,Frankston North,121.2,ok
+20929,Flemington,20948,Frankston North,134.43,ok
+20930,Flinders (Vic.),20948,Frankston North,,no_eligible_route
+20935,Footscray,20948,Frankston North,113.83,ok
+20937,Forest Hill (Vic.),20948,Frankston North,106.08,ok
+20947,Frankston,20948,Frankston North,32.7,ok
+20948,Frankston North,20948,Frankston North,0.0,same_centroid
+20949,Frankston South,20948,Frankston North,75.63,ok
+20950,Fraser Rise,20948,Frankston North,175.5,ok
+20965,Gardenvale,20948,Frankston North,86.93,ok
+20966,Garfield,20948,Frankston North,,no_eligible_route
+20967,Garfield North,20948,Frankston North,,no_eligible_route
+20979,Gembrook,20948,Frankston North,,no_eligible_route
+20995,Gilderoy,20948,Frankston North,,no_eligible_route
+21001,Gisborne,20948,Frankston North,,no_eligible_route
+21002,Gisborne South,20948,Frankston North,,no_eligible_route
+21004,Gladstone Park,20948,Frankston North,167.63,ok
+21005,Gladysdale,20948,Frankston North,,no_eligible_route
+21009,Glen Huntly,20948,Frankston North,73.3,ok
+21010,Glen Iris (Vic.),20948,Frankston North,115.98,ok
+21013,Glen Waverley,20948,Frankston North,96.68,ok
+21047,Glenroy (Vic.),20948,Frankston North,148.67,ok
+21059,Goldie,20948,Frankston North,,no_eligible_route
+21079,Gowanbrae,20948,Frankston North,168.12,ok
+21087,Grangefields,20948,Frankston North,212.55,ok
+21104,Greensborough,20948,Frankston North,148.3,ok
+21105,Greenvale (Vic.),20948,Frankston North,,no_eligible_route
+21115,Gruyere,20948,Frankston North,,no_eligible_route
+21121,Guys Hill,20948,Frankston North,,no_eligible_route
+21124,Hadfield,20948,Frankston North,160.4,ok
+21125,Hallam,20948,Frankston North,77.83,ok
+21131,Hampton (Vic.),20948,Frankston North,81.78,ok
+21132,Hampton East,20948,Frankston North,70.02,ok
+21133,Hampton Park,20948,Frankston North,65.02,ok
+21139,Harkaway,20948,Frankston North,,no_eligible_route
+21140,Harkness,20948,Frankston North,,no_eligible_route
+21145,Hastings (Vic.),20948,Frankston North,,no_eligible_route
+21152,Hawthorn (Vic.),20948,Frankston North,104.17,ok
+21153,Hawthorn East,20948,Frankston North,107.55,ok
+21158,Healesville,20948,Frankston North,222.8,ok
+21159,Heath Hill,20948,Frankston North,,no_eligible_route
+21161,Heathcote Junction,20948,Frankston North,,no_eligible_route
+21163,Heatherton,20948,Frankston North,96.7,ok
+21165,Heathmont,20948,Frankston North,110.7,ok
+21167,Heidelberg,20948,Frankston North,142.57,ok
+21168,Heidelberg Heights,20948,Frankston North,147.07,ok
+21169,Heidelberg West,20948,Frankston North,138.83,ok
+21176,Hesket,20948,Frankston North,,no_eligible_route
+21185,Highett,20948,Frankston North,64.58,ok
+21193,Hillside (Melton - Vic.),20948,Frankston North,160.05,ok
+21195,Hmas Cerberus,20948,Frankston North,,no_eligible_route
+21196,Hoddles Creek,20948,Frankston North,,no_eligible_route
+21202,Hopetoun Park,20948,Frankston North,,no_eligible_route
+21203,Hoppers Crossing,20948,Frankston North,163.9,ok
+21214,Hughesdale,20948,Frankston North,84.43,ok
+21215,Humevale,20948,Frankston North,,no_eligible_route
+21218,Huntingdale (Vic.),20948,Frankston North,84.3,ok
+21223,Hurstbridge,20948,Frankston North,174.07,ok
+21238,Iona,20948,Frankston North,,no_eligible_route
+21246,Ivanhoe (Vic.),20948,Frankston North,126.03,ok
+21247,Ivanhoe East,20948,Frankston North,145.7,ok
+21248,Jacana,20948,Frankston North,153.23,ok
+21277,Junction Village,20948,Frankston North,200.53,walk_only
+21284,Kalkallo,20948,Frankston North,,no_eligible_route
+21286,Kallista,20948,Frankston North,160.48,ok
+21287,Kalorama,20948,Frankston North,147.08,ok
+21294,Kangaroo Ground,20948,Frankston North,,no_eligible_route
+21312,Kealba,20948,Frankston North,163.18,ok
+21314,Keilor,20948,Frankston North,194.05,ok
+21315,Keilor Downs,20948,Frankston North,158.32,ok
+21316,Keilor East,20948,Frankston North,150.58,ok
+21317,Keilor Lodge,20948,Frankston North,156.15,ok
+21318,Keilor North,20948,Frankston North,164.0,ok
+21319,Keilor Park,20948,Frankston North,,no_eligible_route
+21327,Kensington (Vic.),20948,Frankston North,119.97,ok
+21333,Kerrie,20948,Frankston North,,no_eligible_route
+21336,Kew (Vic.),20948,Frankston North,117.2,ok
+21337,Kew East,20948,Frankston North,131.78,ok
+21339,Keysborough,20948,Frankston North,81.05,ok
+21354,Kilsyth,20948,Frankston North,148.08,ok
+21355,Kilsyth South,20948,Frankston North,141.0,ok
+21358,Kinglake,20948,Frankston North,,no_eligible_route
+21359,Kinglake Central,20948,Frankston North,,no_eligible_route
+21360,Kinglake West,20948,Frankston North,,no_eligible_route
+21362,Kings Park (Vic.),20948,Frankston North,158.97,ok
+21363,Kingsbury,20948,Frankston North,156.38,ok
+21365,Kingsville,20948,Frankston North,128.45,ok
+21374,Knoxfield,20948,Frankston North,86.77,ok
+21380,Koo Wee Rup,20948,Frankston North,,no_eligible_route
+21381,Koo Wee Rup North,20948,Frankston North,,no_eligible_route
+21393,Kooyong,20948,Frankston North,102.95,ok
+21411,Kurunjang,20948,Frankston North,,no_eligible_route
+21452,Lalor,20948,Frankston North,138.72,ok
+21456,Lancefield,20948,Frankston North,,no_eligible_route
+21459,Lang Lang,20948,Frankston North,,no_eligible_route
+21460,Lang Lang East,20948,Frankston North,,no_eligible_route
+21467,Langwarrin,20948,Frankston North,47.67,ok
+21468,Langwarrin South,20948,Frankston North,145.0,walk_only
+21473,Launching Place,20948,Frankston North,,no_eligible_route
+21476,Laverton (Vic.),20948,Frankston North,143.12,ok
+21477,Laverton North,20948,Frankston North,183.15,ok
+21504,Lilydale (Vic.),20948,Frankston North,158.67,ok
+21533,Long Forest,20948,Frankston North,,no_eligible_route
+21547,Lower Plenty,20948,Frankston North,167.43,ok
+21554,Lynbrook,20948,Frankston North,65.97,ok
+21555,Lyndhurst (Vic.),20948,Frankston North,156.62,walk_only
+21558,Lysterfield,20948,Frankston North,,no_eligible_route
+21559,Lysterfield South,20948,Frankston North,,no_eligible_route
+21561,Macclesfield (Vic.),20948,Frankston North,,no_eligible_route
+21562,Macedon,20948,Frankston North,,no_eligible_route
+21564,Macleod (Vic.),20948,Frankston North,141.38,ok
+21569,Maddingley,20948,Frankston North,,no_eligible_route
+21575,Maidstone,20948,Frankston North,138.2,ok
+21578,Main Ridge,20948,Frankston North,,no_eligible_route
+21586,Malvern (Vic.),20948,Frankston North,94.23,ok
+21587,Malvern East,20948,Frankston North,101.0,ok
+21588,Mambourin,20948,Frankston North,,no_eligible_route
+21597,Manor Lakes,20948,Frankston North,194.58,ok
+21604,Maribyrnong,20948,Frankston North,136.72,ok
+21619,Maryknoll,20948,Frankston North,,no_eligible_route
+21625,McCrae,20948,Frankston North,,no_eligible_route
+21629,McKinnon,20948,Frankston North,61.3,ok
+21635,Meadow Heights,20948,Frankston North,166.12,ok
+21640,Melbourne,20948,Frankston North,97.67,ok
+21641,Melbourne Airport,20948,Frankston North,,no_eligible_route
+21642,Melton (Vic.),20948,Frankston North,,no_eligible_route
+21643,Melton South,20948,Frankston North,,no_eligible_route
+21644,Melton West,20948,Frankston North,,no_eligible_route
+21648,Mentone,20948,Frankston North,61.25,ok
+21649,Menzies Creek,20948,Frankston North,,no_eligible_route
+21659,Mernda,20948,Frankston North,194.07,ok
+21662,Merricks,20948,Frankston North,,no_eligible_route
+21663,Merricks Beach,20948,Frankston North,,no_eligible_route
+21664,Merricks North,20948,Frankston North,,no_eligible_route
+21668,Merrimu,20948,Frankston North,,no_eligible_route
+21675,Mickleham,20948,Frankston North,,no_eligible_route
+21677,Middle Park (Vic.),20948,Frankston North,120.35,ok
+21683,Mill Park,20948,Frankston North,167.48,ok
+21685,Millgrove,20948,Frankston North,,no_eligible_route
+21706,Mitcham (Vic.),20948,Frankston North,120.18,ok
+21727,Monbulk,20948,Frankston North,162.72,ok
+21728,Monegeetta,20948,Frankston North,,no_eligible_route
+21731,Monomeith,20948,Frankston North,,no_eligible_route
+21732,Mont Albert,20948,Frankston North,121.55,ok
+21733,Mont Albert North,20948,Frankston North,136.65,ok
+21735,Montmorency,20948,Frankston North,148.95,ok
+21736,Montrose (Vic.),20948,Frankston North,134.55,ok
+21742,Moonee Ponds,20948,Frankston North,117.03,ok
+21746,Moorabbin,20948,Frankston North,87.37,ok
+21747,Moorabbin Airport,20948,Frankston North,81.35,ok
+21754,Moorooduc,20948,Frankston North,,no_eligible_route
+21755,Mooroolbark,20948,Frankston North,153.4,ok
+21760,Mordialloc,20948,Frankston North,66.43,ok
+21763,Mornington (Vic.),20948,Frankston North,82.77,ok
+21779,Mount Burnett,20948,Frankston North,,no_eligible_route
+21786,Mount Cottrell,20948,Frankston North,,no_eligible_route
+21787,Mount Dandenong,20948,Frankston North,144.8,ok
+21793,Mount Eliza,20948,Frankston North,54.3,ok
+21795,Mount Evelyn,20948,Frankston North,158.77,ok
+21801,Mount Macedon,20948,Frankston North,,no_eligible_route
+21803,Mount Martha,20948,Frankston North,77.28,ok
+21814,Mount Toolebewong,20948,Frankston North,,no_eligible_route
+21816,Mount Waverley,20948,Frankston North,101.83,ok
+21827,Mulgrave (Vic.),20948,Frankston North,96.12,ok
+21849,Murrumbeena,20948,Frankston North,88.57,ok
+21872,Nangana,20948,Frankston North,,no_eligible_route
+21878,Nar Nar Goon,20948,Frankston North,,no_eligible_route
+21879,Nar Nar Goon North,20948,Frankston North,,no_eligible_route
+21893,Narre Warren,20948,Frankston North,78.27,ok
+21894,Narre Warren East,20948,Frankston North,,no_eligible_route
+21895,Narre Warren North,20948,Frankston North,95.3,ok
+21896,Narre Warren South,20948,Frankston North,77.32,ok
+21921,New Gisborne,20948,Frankston North,,no_eligible_route
+21934,Newport (Vic.),20948,Frankston North,121.97,ok
+21942,Niddrie,20948,Frankston North,150.47,ok
+21952,Noble Park,20948,Frankston North,65.1,ok
+21953,Noble Park North,20948,Frankston North,82.1,ok
+21966,North Melbourne,20948,Frankston North,108.63,ok
+21969,North Warrandyte,20948,Frankston North,161.93,ok
+21971,Northcote,20948,Frankston North,127.47,ok
+21974,Notting Hill,20948,Frankston North,93.93,ok
+21985,Nunawading,20948,Frankston North,113.62,ok
+21991,Nutfield,20948,Frankston North,,no_eligible_route
+21998,Oak Park,20948,Frankston North,140.9,ok
+21999,Oaklands Junction,20948,Frankston North,,no_eligible_route
+22000,Oakleigh,20948,Frankston North,83.05,ok
+22001,Oakleigh East,20948,Frankston North,91.43,ok
+22002,Oakleigh South,20948,Frankston North,85.68,ok
+22006,Officer,20948,Frankston North,92.37,ok
+22007,Officer South,20948,Frankston North,,no_eligible_route
+22009,Olinda (Vic.),20948,Frankston North,153.15,ok
+22016,Ormond,20948,Frankston North,66.32,ok
+22027,Pakenham,20948,Frankston North,91.42,ok
+22028,Pakenham South,20948,Frankston North,,no_eligible_route
+22029,Pakenham Upper,20948,Frankston North,,no_eligible_route
+22032,Panton Hill,20948,Frankston North,,no_eligible_route
+22036,Park Orchards,20948,Frankston North,123.77,ok
+22037,Parkdale,20948,Frankston North,62.35,ok
+22038,Parkville (Vic.),20948,Frankston North,124.8,ok
+22041,Pascoe Vale,20948,Frankston North,145.27,ok
+22042,Pascoe Vale South,20948,Frankston North,141.0,ok
+22047,Patterson Lakes,20948,Frankston North,42.37,ok
+22050,Pearcedale,20948,Frankston North,186.62,walk_only
+22058,Pentland Hills,20948,Frankston North,,no_eligible_route
+22064,Pheasant Creek (Vic.),20948,Frankston North,,no_eligible_route
+22084,Plenty (Vic.),20948,Frankston North,172.88,ok
+22085,Plumpton (Vic.),20948,Frankston North,,no_eligible_route
+22086,Point Cook,20948,Frankston North,172.02,ok
+22087,Point Leo,20948,Frankston North,,no_eligible_route
+22107,Port Melbourne,20948,Frankston North,125.97,ok
+22113,Portsea,20948,Frankston North,123.07,ok
+22115,Powelltown,20948,Frankston North,,no_eligible_route
+22118,Prahran,20948,Frankston North,99.82,ok
+22121,Preston (Vic.),20948,Frankston North,138.87,ok
+22122,Princes Hill,20948,Frankston North,122.95,ok
+22132,Quandong,20948,Frankston North,,no_eligible_route
+22141,Ravenhall,20948,Frankston North,,no_eligible_route
+22148,Red Hill (Vic.),20948,Frankston North,,no_eligible_route
+22149,Red Hill South,20948,Frankston North,,no_eligible_route
+22160,Research,20948,Frankston North,,no_eligible_route
+22161,Reservoir (Vic.),20948,Frankston North,141.08,ok
+22170,Richmond (Vic.),20948,Frankston North,111.77,ok
+22172,Riddells Creek,20948,Frankston North,,no_eligible_route
+22174,Ringwood (Vic.),20948,Frankston North,103.5,ok
+22175,Ringwood East,20948,Frankston North,125.42,ok
+22176,Ringwood North,20948,Frankston North,122.48,ok
+22179,Ripponlea,20948,Frankston North,97.02,ok
+22185,Rochford,20948,Frankston North,,no_eligible_route
+22186,Rockbank,20948,Frankston North,196.92,ok
+22193,Romsey,20948,Frankston North,,no_eligible_route
+22194,Rosanna,20948,Frankston North,135.85,ok
+22198,Rosebud,20948,Frankston North,,no_eligible_route
+22207,Rowville,20948,Frankston North,77.93,ok
+22208,Roxburgh Park,20948,Frankston North,170.75,ok
+22220,Rye,20948,Frankston North,,no_eligible_route
+22221,Rythdale,20948,Frankston North,,no_eligible_route
+22222,Safety Beach (Vic.),20948,Frankston North,98.25,ok
+22232,Sandhurst,20948,Frankston North,40.33,ok
+22234,Sandringham (Vic.),20948,Frankston North,92.25,ok
+22239,Sassafras (Vic.),20948,Frankston North,134.6,ok
+22242,Scoresby,20948,Frankston North,89.47,ok
+22247,Seabrook,20948,Frankston North,156.93,ok
+22249,Seaford (Vic.),20948,Frankston North,30.53,ok
+22250,Seaholme,20948,Frankston North,142.2,ok
+22256,Seddon (Vic.),20948,Frankston North,113.55,ok
+22258,Selby,20948,Frankston North,,no_eligible_route
+22263,Seville,20948,Frankston North,,no_eligible_route
+22264,Seville East,20948,Frankston North,,no_eligible_route
+22278,Sherbrooke,20948,Frankston North,145.33,ok
+22279,Shoreham,20948,Frankston North,,no_eligible_route
+22281,Silvan,20948,Frankston North,154.82,ok
+22291,Skye (Vic.),20948,Frankston North,34.82,ok
+22295,Smiths Gully,20948,Frankston North,,no_eligible_route
+22303,Somers,20948,Frankston North,,no_eligible_route
+22304,Somerton (Vic.),20948,Frankston North,172.1,ok
+22305,Somerville (Vic.),20948,Frankston North,189.9,walk_only
+22306,Sorrento (Vic.),20948,Frankston North,103.05,ok
+22309,South Kingsville,20948,Frankston North,134.22,ok
+22310,South Melbourne,20948,Frankston North,112.28,ok
+22311,South Morang,20948,Frankston North,176.25,ok
+22313,South Wharf,20948,Frankston North,118.17,ok
+22314,South Yarra,20948,Frankston North,80.7,ok
+22315,Southbank,20948,Frankston North,110.87,ok
+22319,Spotswood,20948,Frankston North,120.92,ok
+22325,Springfield (Macedon Ranges - Vic.),20948,Frankston North,,no_eligible_route
+22328,Springvale (Vic.),20948,Frankston North,75.03,ok
+22329,Springvale South,20948,Frankston North,74.78,ok
+22330,St Albans (Vic.),20948,Frankston North,128.05,ok
+22332,St Andrews (Vic.),20948,Frankston North,,no_eligible_route
+22333,St Andrews Beach,20948,Frankston North,,no_eligible_route
+22339,St Helena,20948,Frankston North,169.0,ok
+22343,St Kilda (Vic.),20948,Frankston North,104.93,ok
+22344,St Kilda East,20948,Frankston North,99.92,ok
+22345,St Kilda West,20948,Frankston North,118.85,ok
+22355,Steels Creek,20948,Frankston North,,no_eligible_route
+22375,Strathewen,20948,Frankston North,,no_eligible_route
+22380,Strathmore (Vic.),20948,Frankston North,149.07,ok
+22381,Strathmore Heights,20948,Frankston North,161.07,ok
+22382,Strathtulloh,20948,Frankston North,,no_eligible_route
+22391,Sunbury,20948,Frankston North,,no_eligible_route
+22395,Sunshine (Vic.),20948,Frankston North,116.83,ok
+22396,Sunshine North,20948,Frankston North,143.9,ok
+22397,Sunshine West,20948,Frankston North,145.73,ok
+22399,Surrey Hills,20948,Frankston North,127.5,ok
+22414,Sydenham (Vic.),20948,Frankston North,142.45,ok
+22451,Tarneit,20948,Frankston North,190.22,ok
+22457,Tarrawarra,20948,Frankston North,198.4,ok
+22473,Taylors Hill,20948,Frankston North,164.45,ok
+22474,Taylors Lakes,20948,Frankston North,147.33,ok
+22476,Tecoma,20948,Frankston North,117.55,ok
+22483,Templestowe,20948,Frankston North,149.22,ok
+22484,Templestowe Lower,20948,Frankston North,141.97,ok
+22496,The Basin (Vic.),20948,Frankston North,125.73,ok
+22501,The Patch,20948,Frankston North,158.5,ok
+22504,Thomastown,20948,Frankston North,149.57,ok
+22508,Thornbury,20948,Frankston North,133.35,ok
+22509,Thornhill Park,20948,Frankston North,,no_eligible_route
+22514,Three Bridges,20948,Frankston North,,no_eligible_route
+22531,Tonimbuk,20948,Frankston North,,no_eligible_route
+22536,Toolangi,20948,Frankston North,,no_eligible_route
+22537,Toolern Vale,20948,Frankston North,,no_eligible_route
+22546,Tooradin,20948,Frankston North,,no_eligible_route
+22547,Toorak,20948,Frankston North,103.72,ok
+22550,Tootgarook,20948,Frankston North,,no_eligible_route
+22556,Tottenham (Vic.),20948,Frankston North,149.82,ok
+22572,Travancore,20948,Frankston North,131.37,ok
+22576,Tremont,20948,Frankston North,133.75,ok
+22582,Truganina,20948,Frankston North,,no_eligible_route
+22584,Tuerong,20948,Frankston North,,no_eligible_route
+22586,Tullamarine,20948,Frankston North,171.85,ok
+22594,Tyabb,20948,Frankston North,,no_eligible_route
+22598,Tynong,20948,Frankston North,,no_eligible_route
+22599,Tynong North,20948,Frankston North,,no_eligible_route
+22614,Upper Ferntree Gully,20948,Frankston North,110.08,ok
+22617,Upper Plenty,20948,Frankston North,,no_eligible_route
+22620,Upwey,20948,Frankston North,117.42,ok
+22627,Vermont,20948,Frankston North,113.55,ok
+22628,Vermont South,20948,Frankston North,105.13,ok
+22629,Vervale,20948,Frankston North,,no_eligible_route
+22633,Viewbank,20948,Frankston North,169.02,ok
+22661,Wallan,20948,Frankston North,,no_eligible_route
+22672,Wandin East,20948,Frankston North,,no_eligible_route
+22673,Wandin North,20948,Frankston North,,no_eligible_route
+22676,Wandong,20948,Frankston North,,no_eligible_route
+22685,Wantirna,20948,Frankston North,97.87,ok
+22686,Wantirna South,20948,Frankston North,91.15,ok
+22689,Warburton (Vic.),20948,Frankston North,,no_eligible_route
+22695,Warneet,20948,Frankston North,,no_eligible_route
+22702,Warrandyte,20948,Frankston North,132.2,ok
+22703,Warrandyte South,20948,Frankston North,146.58,ok
+22704,Warranwood,20948,Frankston North,124.25,ok
+22717,Waterford Park,20948,Frankston North,,no_eligible_route
+22720,Waterways,20948,Frankston North,77.45,ok
+22721,Watsonia,20948,Frankston North,136.3,ok
+22722,Watsonia North,20948,Frankston North,159.83,ok
+22723,Watsons Creek (Vic.),20948,Frankston North,,no_eligible_route
+22727,Wattle Glen,20948,Frankston North,177.82,ok
+22740,Weir Views,20948,Frankston North,,no_eligible_route
+22750,Werribee,20948,Frankston North,157.15,ok
+22751,Werribee South,20948,Frankston North,,no_eligible_route
+22753,Wesburn,20948,Frankston North,,no_eligible_route
+22756,West Footscray,20948,Frankston North,126.55,ok
+22757,West Melbourne,20948,Frankston North,135.93,ok
+22761,Westmeadows,20948,Frankston North,158.88,ok
+22766,Wheelers Hill,20948,Frankston North,89.35,ok
+22775,Whittlesea,20948,Frankston North,,no_eligible_route
+22784,Wildwood,20948,Frankston North,,no_eligible_route
+22791,Williams Landing,20948,Frankston North,157.37,ok
+22792,Williamstown (Vic.),20948,Frankston North,133.18,ok
+22793,Williamstown North,20948,Frankston North,149.27,ok
+22805,Windsor (Vic.),20948,Frankston North,102.2,ok
+22820,Wollert,20948,Frankston North,208.33,ok
+22825,Wonga Park,20948,Frankston North,,no_eligible_route
+22843,Woodstock (Vic.),20948,Frankston North,,no_eligible_route
+22857,Woori Yallock,20948,Frankston North,,no_eligible_route
+22883,Wyndham Vale,20948,Frankston North,184.52,ok
+22892,Yallambie,20948,Frankston North,165.57,ok
+22898,Yan Yean,20948,Frankston North,202.9,ok
+22906,Yannathan,20948,Frankston North,,no_eligible_route
+22910,Yarra Glen,20948,Frankston North,195.7,ok
+22911,Yarra Junction,20948,Frankston North,,no_eligible_route
+22916,Yarrambat,20948,Frankston North,190.98,ok
+22917,Yarraville,20948,Frankston North,121.12,ok
+22925,Yellingbo,20948,Frankston North,,no_eligible_route
+22930,Yering,20948,Frankston North,,no_eligible_route
+22941,Yuroke,20948,Frankston North,,no_eligible_route

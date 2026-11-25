@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21754,Moorooduc,158.62,ok
+20003,Aberfeldie,21754,Moorooduc,192.12,ok
+20011,Aintree,21754,Moorooduc,,no_eligible_route
+20015,Airport West,21754,Moorooduc,,no_eligible_route
+20017,Albanvale,21754,Moorooduc,208.85,ok
+20018,Albert Park (Vic.),21754,Moorooduc,161.73,ok
+20021,Albion (Vic.),21754,Moorooduc,171.77,ok
+20034,Alphington,21754,Moorooduc,177.78,ok
+20035,Altona (Vic.),21754,Moorooduc,192.87,ok
+20036,Altona Meadows,21754,Moorooduc,217.57,ok
+20037,Altona North,21754,Moorooduc,212.27,ok
+20062,Ardeer,21754,Moorooduc,190.0,ok
+20066,Armadale (Vic.),21754,Moorooduc,125.0,ok
+20071,Arthurs Creek,21754,Moorooduc,,no_eligible_route
+20072,Arthurs Seat,21754,Moorooduc,122.42,ok
+20075,Ascot Vale,21754,Moorooduc,171.0,ok
+20077,Ashburton,21754,Moorooduc,160.62,ok
+20078,Ashwood,21754,Moorooduc,158.48,ok
+20079,Aspendale,21754,Moorooduc,97.95,ok
+20080,Aspendale Gardens,21754,Moorooduc,113.02,ok
+20082,Attwood,21754,Moorooduc,225.22,ok
+20089,Avondale Heights,21754,Moorooduc,204.4,ok
+20091,Avonsleigh,21754,Moorooduc,,no_eligible_route
+20095,Bacchus Marsh,21754,Moorooduc,,no_eligible_route
+20097,Badger Creek,21754,Moorooduc,,no_eligible_route
+20105,Balaclava (Vic.),21754,Moorooduc,140.55,ok
+20120,Balnarring,21754,Moorooduc,155.93,walk_only
+20121,Balnarring Beach,21754,Moorooduc,208.45,walk_only
+20123,Balwyn,21754,Moorooduc,168.38,ok
+20124,Balwyn North,21754,Moorooduc,171.52,ok
+20131,Bangholme,21754,Moorooduc,128.87,ok
+20169,Baxter,21754,Moorooduc,60.85,ok
+20171,Bayles,21754,Moorooduc,,no_eligible_route
+20173,Bayswater (Vic.),21754,Moorooduc,197.27,ok
+20174,Bayswater North,21754,Moorooduc,223.7,ok
+20175,Beaconsfield (Vic.),21754,Moorooduc,186.72,ok
+20176,Beaconsfield Upper,21754,Moorooduc,,no_eligible_route
+20182,Beaumaris (Vic.),21754,Moorooduc,128.15,ok
+20187,Beenak,21754,Moorooduc,,no_eligible_route
+20188,Belgrave,21754,Moorooduc,210.35,ok
+20189,Belgrave Heights,21754,Moorooduc,,no_eligible_route
+20190,Belgrave South,21754,Moorooduc,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21754,Moorooduc,211.05,ok
+20207,Bend Of Islands,21754,Moorooduc,,no_eligible_route
+20212,Benloch,21754,Moorooduc,,no_eligible_route
+20214,Bentleigh,21754,Moorooduc,114.67,ok
+20215,Bentleigh East,21754,Moorooduc,125.0,ok
+20224,Berwick,21754,Moorooduc,159.52,ok
+20233,Beveridge,21754,Moorooduc,,no_eligible_route
+20237,Big Pats Creek,21754,Moorooduc,,no_eligible_route
+20248,Bittern,21754,Moorooduc,85.98,ok
+20251,Black Rock (Vic.),21754,Moorooduc,133.95,ok
+20252,Blackburn,21754,Moorooduc,170.58,ok
+20253,Blackburn North,21754,Moorooduc,182.73,ok
+20254,Blackburn South,21754,Moorooduc,180.85,ok
+20257,Blairgowrie,21754,Moorooduc,121.45,ok
+20260,Blind Bight,21754,Moorooduc,,no_eligible_route
+20272,Bolinda,21754,Moorooduc,,no_eligible_route
+20278,Bonbeach,21754,Moorooduc,91.67,ok
+20280,Boneo,21754,Moorooduc,,no_eligible_route
+20282,Bonnie Brook,21754,Moorooduc,,no_eligible_route
+20304,Boronia,21754,Moorooduc,199.73,ok
+20307,Botanic Ridge,21754,Moorooduc,,no_eligible_route
+20314,Box Hill (Vic.),21754,Moorooduc,163.48,ok
+20315,Box Hill North,21754,Moorooduc,171.47,ok
+20316,Box Hill South,21754,Moorooduc,160.35,ok
+20320,Braeside,21754,Moorooduc,138.67,ok
+20324,Braybrook,21754,Moorooduc,183.05,ok
+20331,Briar Hill,21754,Moorooduc,199.37,ok
+20337,Brighton (Vic.),21754,Moorooduc,130.18,ok
+20338,Brighton East,21754,Moorooduc,119.83,ok
+20346,Broadmeadows (Vic.),21754,Moorooduc,194.62,ok
+20351,Brookfield (Vic.),21754,Moorooduc,,no_eligible_route
+20352,Brooklyn (Vic.),21754,Moorooduc,195.45,ok
+20361,Brunswick (Vic.),21754,Moorooduc,169.72,ok
+20362,Brunswick East,21754,Moorooduc,170.8,ok
+20363,Brunswick West,21754,Moorooduc,180.9,ok
+20381,Bulla (Vic.),21754,Moorooduc,,no_eligible_route
+20386,Bulleen,21754,Moorooduc,192.62,ok
+20387,Bullengarook,21754,Moorooduc,,no_eligible_route
+20399,Bundoora (Vic.),21754,Moorooduc,193.52,ok
+20411,Bunyip,21754,Moorooduc,,no_eligible_route
+20412,Bunyip North,21754,Moorooduc,,no_eligible_route
+20418,Burnley,21754,Moorooduc,154.02,ok
+20419,Burnside (Vic.),21754,Moorooduc,,no_eligible_route
+20420,Burnside Heights,21754,Moorooduc,,no_eligible_route
+20426,Burwood (Vic.),21754,Moorooduc,159.42,ok
+20427,Burwood East,21754,Moorooduc,163.07,ok
+20435,Bylands,21754,Moorooduc,,no_eligible_route
+20441,Cairnlea,21754,Moorooduc,194.42,ok
+20442,Calder Park,21754,Moorooduc,,no_eligible_route
+20443,Caldermeade,21754,Moorooduc,,no_eligible_route
+20453,Camberwell (Vic.),21754,Moorooduc,156.38,ok
+20455,Campbellfield,21754,Moorooduc,203.27,ok
+20466,Cannons Creek,21754,Moorooduc,,no_eligible_route
+20468,Canterbury (Vic.),21754,Moorooduc,163.03,ok
+20474,Cape Schanck,21754,Moorooduc,,no_eligible_route
+20476,Capel Sound,21754,Moorooduc,104.8,ok
+20487,Cardinia,21754,Moorooduc,,no_eligible_route
+20495,Carlton (Vic.),21754,Moorooduc,157.47,ok
+20496,Carlton North,21754,Moorooduc,167.57,ok
+20498,Carnegie,21754,Moorooduc,127.27,ok
+20500,Caroline Springs,21754,Moorooduc,,no_eligible_route
+20507,Carrum,21754,Moorooduc,87.08,ok
+20508,Carrum Downs,21754,Moorooduc,98.18,ok
+20512,Castella,21754,Moorooduc,,no_eligible_route
+20517,Catani,21754,Moorooduc,,no_eligible_route
+20521,Caulfield,21754,Moorooduc,137.35,ok
+20522,Caulfield East,21754,Moorooduc,125.45,ok
+20523,Caulfield North,21754,Moorooduc,132.37,ok
+20524,Caulfield South,21754,Moorooduc,129.78,ok
+20528,Chadstone,21754,Moorooduc,156.37,ok
+20537,Chelsea,21754,Moorooduc,92.43,ok
+20538,Chelsea Heights,21754,Moorooduc,103.45,ok
+20539,Cheltenham (Vic.),21754,Moorooduc,113.78,ok
+20541,Cherokee,21754,Moorooduc,,no_eligible_route
+20555,Chintin,21754,Moorooduc,,no_eligible_route
+20556,Chirnside Park,21754,Moorooduc,,no_eligible_route
+20559,Christmas Hills (Vic.),21754,Moorooduc,,no_eligible_route
+20560,Chum Creek,21754,Moorooduc,,no_eligible_route
+20566,Clarinda,21754,Moorooduc,134.18,ok
+20567,Clarkefield,21754,Moorooduc,,no_eligible_route
+20569,Clayton,21754,Moorooduc,150.27,ok
+20570,Clayton South,21754,Moorooduc,143.32,ok
+20572,Clematis,21754,Moorooduc,,no_eligible_route
+20574,Clifton Hill,21754,Moorooduc,156.87,ok
+20576,Clonbinane,21754,Moorooduc,,no_eligible_route
+20581,Clyde (Vic.),21754,Moorooduc,171.22,ok
+20582,Clyde North,21754,Moorooduc,159.98,ok
+20587,Cobaw,21754,Moorooduc,,no_eligible_route
+20590,Cobblebank,21754,Moorooduc,,no_eligible_route
+20596,Coburg,21754,Moorooduc,176.25,ok
+20597,Coburg North,21754,Moorooduc,185.82,ok
+20600,Cockatoo (Vic.),21754,Moorooduc,,no_eligible_route
+20601,Cocoroc,21754,Moorooduc,,no_eligible_route
+20605,Coimadai,21754,Moorooduc,,no_eligible_route
+20613,Coldstream (Vic.),21754,Moorooduc,,no_eligible_route
+20616,Collingwood (Vic.),21754,Moorooduc,159.1,ok
+20624,Coolaroo,21754,Moorooduc,195.48,ok
+20633,Cora Lynn,21754,Moorooduc,,no_eligible_route
+20654,Cottles Bridge,21754,Moorooduc,,no_eligible_route
+20661,Craigieburn,21754,Moorooduc,224.65,ok
+20662,Cranbourne,21754,Moorooduc,110.77,ok
+20663,Cranbourne East,21754,Moorooduc,142.43,ok
+20664,Cranbourne North,21754,Moorooduc,,no_eligible_route
+20665,Cranbourne South,21754,Moorooduc,,no_eligible_route
+20666,Cranbourne West,21754,Moorooduc,128.33,ok
+20670,Cremorne (Vic.),21754,Moorooduc,140.6,ok
+20674,Crib Point,21754,Moorooduc,92.37,ok
+20682,Croydon (Vic.),21754,Moorooduc,189.37,ok
+20683,Croydon Hills,21754,Moorooduc,227.27,ok
+20684,Croydon North,21754,Moorooduc,,no_eligible_route
+20685,Croydon South,21754,Moorooduc,220.37,ok
+20702,Dallas,21754,Moorooduc,201.92,ok
+20703,Dalmore,21754,Moorooduc,,no_eligible_route
+20707,Dandenong,21754,Moorooduc,130.22,ok
+20708,Dandenong North,21754,Moorooduc,155.62,ok
+20709,Dandenong South,21754,Moorooduc,114.37,ok
+20712,Darley,21754,Moorooduc,,no_eligible_route
+20716,Darraweit Guim,21754,Moorooduc,,no_eligible_route
+20724,Deanside,21754,Moorooduc,,no_eligible_route
+20728,Deepdene (Vic.),21754,Moorooduc,160.38,ok
+20729,Deer Park,21754,Moorooduc,,no_eligible_route
+20731,Delahey,21754,Moorooduc,206.32,ok
+20743,Derrimut,21754,Moorooduc,,no_eligible_route
+20748,Devon Meadows,21754,Moorooduc,177.97,ok
+20750,Dewhurst,21754,Moorooduc,,no_eligible_route
+20752,Diamond Creek,21754,Moorooduc,220.1,ok
+20754,Diggers Rest,21754,Moorooduc,214.18,ok
+20758,Dingley Village,21754,Moorooduc,125.15,ok
+20762,Dixons Creek,21754,Moorooduc,,no_eligible_route
+20766,Docklands,21754,Moorooduc,155.12,ok
+20769,Don Valley,21754,Moorooduc,,no_eligible_route
+20771,Doncaster,21754,Moorooduc,171.27,ok
+20772,Doncaster East,21754,Moorooduc,181.6,ok
+20773,Donnybrook (Vic.),21754,Moorooduc,,no_eligible_route
+20774,Donvale,21754,Moorooduc,177.97,ok
+20779,Doreen,21754,Moorooduc,,no_eligible_route
+20783,Doveton,21754,Moorooduc,155.1,ok
+20788,Dromana,21754,Moorooduc,109.58,ok
+20825,Eaglemont,21754,Moorooduc,196.12,ok
+20830,East Melbourne,21754,Moorooduc,149.38,ok
+20833,East Warburton,21754,Moorooduc,,no_eligible_route
+20843,Eden Park,21754,Moorooduc,,no_eligible_route
+20848,Edithvale,21754,Moorooduc,98.28,ok
+20864,Elsternwick,21754,Moorooduc,142.83,ok
+20865,Eltham (Vic.),21754,Moorooduc,200.33,ok
+20866,Eltham North,21754,Moorooduc,216.92,ok
+20867,Elwood,21754,Moorooduc,148.03,ok
+20868,Emerald (Vic.),21754,Moorooduc,,no_eligible_route
+20871,Endeavour Hills,21754,Moorooduc,167.05,ok
+20878,Epping (Vic.),21754,Moorooduc,221.35,ok
+20885,Essendon,21754,Moorooduc,176.92,ok
+20886,Essendon Fields,21754,Moorooduc,,no_eligible_route
+20887,Essendon North,21754,Moorooduc,197.78,ok
+20888,Essendon West,21754,Moorooduc,190.23,ok
+20889,Eumemmerring,21754,Moorooduc,155.48,ok
+20898,Exford,21754,Moorooduc,,no_eligible_route
+20899,Eynesbury,21754,Moorooduc,,no_eligible_route
+20901,Fairfield (Vic.),21754,Moorooduc,179.53,ok
+20909,Fawkner,21754,Moorooduc,195.72,ok
+20916,Fernshaw,21754,Moorooduc,,no_eligible_route
+20917,Ferntree Gully,21754,Moorooduc,169.12,ok
+20918,Ferny Creek,21754,Moorooduc,,no_eligible_route
+20920,Fingal (Vic.),21754,Moorooduc,,no_eligible_route
+20924,Fitzroy (Vic.),21754,Moorooduc,154.4,ok
+20925,Fitzroy North,21754,Moorooduc,161.0,ok
+20929,Flemington,21754,Moorooduc,175.23,ok
+20930,Flinders (Vic.),21754,Moorooduc,,no_eligible_route
+20935,Footscray,21754,Moorooduc,160.18,ok
+20937,Forest Hill (Vic.),21754,Moorooduc,151.67,ok
+20947,Frankston,21754,Moorooduc,82.05,ok
+20948,Frankston North,21754,Moorooduc,91.9,ok
+20949,Frankston South,21754,Moorooduc,78.8,ok
+20950,Fraser Rise,21754,Moorooduc,,no_eligible_route
+20965,Gardenvale,21754,Moorooduc,124.28,ok
+20966,Garfield,21754,Moorooduc,,no_eligible_route
+20967,Garfield North,21754,Moorooduc,,no_eligible_route
+20979,Gembrook,21754,Moorooduc,,no_eligible_route
+20995,Gilderoy,21754,Moorooduc,,no_eligible_route
+21001,Gisborne,21754,Moorooduc,,no_eligible_route
+21002,Gisborne South,21754,Moorooduc,,no_eligible_route
+21004,Gladstone Park,21754,Moorooduc,208.82,ok
+21005,Gladysdale,21754,Moorooduc,,no_eligible_route
+21009,Glen Huntly,21754,Moorooduc,120.65,ok
+21010,Glen Iris (Vic.),21754,Moorooduc,157.78,ok
+21013,Glen Waverley,21754,Moorooduc,142.27,ok
+21047,Glenroy (Vic.),21754,Moorooduc,189.47,ok
+21059,Goldie,21754,Moorooduc,,no_eligible_route
+21079,Gowanbrae,21754,Moorooduc,211.15,ok
+21087,Grangefields,21754,Moorooduc,,no_eligible_route
+21104,Greensborough,21754,Moorooduc,202.72,ok
+21105,Greenvale (Vic.),21754,Moorooduc,,no_eligible_route
+21115,Gruyere,21754,Moorooduc,,no_eligible_route
+21121,Guys Hill,21754,Moorooduc,,no_eligible_route
+21124,Hadfield,21754,Moorooduc,197.75,ok
+21125,Hallam,21754,Moorooduc,160.2,ok
+21131,Hampton (Vic.),21754,Moorooduc,126.13,ok
+21132,Hampton East,21754,Moorooduc,117.37,ok
+21133,Hampton Park,21754,Moorooduc,166.05,ok
+21139,Harkaway,21754,Moorooduc,,no_eligible_route
+21140,Harkness,21754,Moorooduc,,no_eligible_route
+21145,Hastings (Vic.),21754,Moorooduc,47.35,ok
+21152,Hawthorn (Vic.),21754,Moorooduc,141.52,ok
+21153,Hawthorn East,21754,Moorooduc,144.9,ok
+21158,Healesville,21754,Moorooduc,,no_eligible_route
+21159,Heath Hill,21754,Moorooduc,,no_eligible_route
+21161,Heathcote Junction,21754,Moorooduc,,no_eligible_route
+21163,Heatherton,21754,Moorooduc,143.72,ok
+21165,Heathmont,21754,Moorooduc,187.53,ok
+21167,Heidelberg,21754,Moorooduc,195.18,ok
+21168,Heidelberg Heights,21754,Moorooduc,203.42,ok
+21169,Heidelberg West,21754,Moorooduc,207.88,ok
+21176,Hesket,21754,Moorooduc,,no_eligible_route
+21185,Highett,21754,Moorooduc,105.93,ok
+21193,Hillside (Melton - Vic.),21754,Moorooduc,,no_eligible_route
+21195,Hmas Cerberus,21754,Moorooduc,,no_eligible_route
+21196,Hoddles Creek,21754,Moorooduc,,no_eligible_route
+21202,Hopetoun Park,21754,Moorooduc,,no_eligible_route
+21203,Hoppers Crossing,21754,Moorooduc,216.85,ok
+21214,Hughesdale,21754,Moorooduc,131.58,ok
+21215,Humevale,21754,Moorooduc,,no_eligible_route
+21218,Huntingdale (Vic.),21754,Moorooduc,145.1,ok
+21223,Hurstbridge,21754,Moorooduc,220.65,ok
+21238,Iona,21754,Moorooduc,,no_eligible_route
+21246,Ivanhoe (Vic.),21754,Moorooduc,182.38,ok
+21247,Ivanhoe East,21754,Moorooduc,196.02,ok
+21248,Jacana,21754,Moorooduc,194.03,ok
+21277,Junction Village,21754,Moorooduc,,no_eligible_route
+21284,Kalkallo,21754,Moorooduc,,no_eligible_route
+21286,Kallista,21754,Moorooduc,,no_eligible_route
+21287,Kalorama,21754,Moorooduc,,no_eligible_route
+21294,Kangaroo Ground,21754,Moorooduc,,no_eligible_route
+21312,Kealba,21754,Moorooduc,203.98,ok
+21314,Keilor,21754,Moorooduc,,no_eligible_route
+21315,Keilor Downs,21754,Moorooduc,199.12,ok
+21316,Keilor East,21754,Moorooduc,187.93,ok
+21317,Keilor Lodge,21754,Moorooduc,238.78,ok
+21318,Keilor North,21754,Moorooduc,212.57,ok
+21319,Keilor Park,21754,Moorooduc,,no_eligible_route
+21327,Kensington (Vic.),21754,Moorooduc,160.77,ok
+21333,Kerrie,21754,Moorooduc,,no_eligible_route
+21336,Kew (Vic.),21754,Moorooduc,154.55,ok
+21337,Kew East,21754,Moorooduc,172.58,ok
+21339,Keysborough,21754,Moorooduc,129.85,ok
+21354,Kilsyth,21754,Moorooduc,,no_eligible_route
+21355,Kilsyth South,21754,Moorooduc,,no_eligible_route
+21358,Kinglake,21754,Moorooduc,,no_eligible_route
+21359,Kinglake Central,21754,Moorooduc,,no_eligible_route
+21360,Kinglake West,21754,Moorooduc,,no_eligible_route
+21362,Kings Park (Vic.),21754,Moorooduc,201.03,ok
+21363,Kingsbury,21754,Moorooduc,193.73,ok
+21365,Kingsville,21754,Moorooduc,169.25,ok
+21374,Knoxfield,21754,Moorooduc,166.0,ok
+21380,Koo Wee Rup,21754,Moorooduc,,no_eligible_route
+21381,Koo Wee Rup North,21754,Moorooduc,,no_eligible_route
+21393,Kooyong,21754,Moorooduc,140.3,ok
+21411,Kurunjang,21754,Moorooduc,,no_eligible_route
+21452,Lalor,21754,Moorooduc,185.07,ok
+21456,Lancefield,21754,Moorooduc,,no_eligible_route
+21459,Lang Lang,21754,Moorooduc,,no_eligible_route
+21460,Lang Lang East,21754,Moorooduc,,no_eligible_route
+21467,Langwarrin,21754,Moorooduc,99.4,ok
+21468,Langwarrin South,21754,Moorooduc,170.62,walk_only
+21473,Launching Place,21754,Moorooduc,,no_eligible_route
+21476,Laverton (Vic.),21754,Moorooduc,188.47,ok
+21477,Laverton North,21754,Moorooduc,,no_eligible_route
+21504,Lilydale (Vic.),21754,Moorooduc,221.07,ok
+21533,Long Forest,21754,Moorooduc,,no_eligible_route
+21547,Lower Plenty,21754,Moorooduc,219.02,ok
+21554,Lynbrook,21754,Moorooduc,146.88,ok
+21555,Lyndhurst (Vic.),21754,Moorooduc,,no_eligible_route
+21558,Lysterfield,21754,Moorooduc,,no_eligible_route
+21559,Lysterfield South,21754,Moorooduc,205.6,ok
+21561,Macclesfield (Vic.),21754,Moorooduc,,no_eligible_route
+21562,Macedon,21754,Moorooduc,,no_eligible_route
+21564,Macleod (Vic.),21754,Moorooduc,197.73,ok
+21569,Maddingley,21754,Moorooduc,,no_eligible_route
+21575,Maidstone,21754,Moorooduc,188.4,ok
+21578,Main Ridge,21754,Moorooduc,,no_eligible_route
+21586,Malvern (Vic.),21754,Moorooduc,136.03,ok
+21587,Malvern East,21754,Moorooduc,146.92,ok
+21588,Mambourin,21754,Moorooduc,,no_eligible_route
+21597,Manor Lakes,21754,Moorooduc,,no_eligible_route
+21604,Maribyrnong,21754,Moorooduc,179.52,ok
+21619,Maryknoll,21754,Moorooduc,,no_eligible_route
+21625,McCrae,21754,Moorooduc,96.0,ok
+21629,McKinnon,21754,Moorooduc,108.65,ok
+21635,Meadow Heights,21754,Moorooduc,206.92,ok
+21640,Melbourne,21754,Moorooduc,144.97,ok
+21641,Melbourne Airport,21754,Moorooduc,,no_eligible_route
+21642,Melton (Vic.),21754,Moorooduc,,no_eligible_route
+21643,Melton South,21754,Moorooduc,,no_eligible_route
+21644,Melton West,21754,Moorooduc,,no_eligible_route
+21648,Mentone,21754,Moorooduc,102.6,ok
+21649,Menzies Creek,21754,Moorooduc,,no_eligible_route
+21659,Mernda,21754,Moorooduc,231.42,ok
+21662,Merricks,21754,Moorooduc,239.73,walk_only
+21663,Merricks Beach,21754,Moorooduc,230.0,walk_only
+21664,Merricks North,21754,Moorooduc,160.27,walk_only
+21668,Merrimu,21754,Moorooduc,,no_eligible_route
+21675,Mickleham,21754,Moorooduc,,no_eligible_route
+21677,Middle Park (Vic.),21754,Moorooduc,167.82,ok
+21683,Mill Park,21754,Moorooduc,214.57,ok
+21685,Millgrove,21754,Moorooduc,,no_eligible_route
+21706,Mitcham (Vic.),21754,Moorooduc,171.1,ok
+21727,Monbulk,21754,Moorooduc,,no_eligible_route
+21728,Monegeetta,21754,Moorooduc,,no_eligible_route
+21731,Monomeith,21754,Moorooduc,,no_eligible_route
+21732,Mont Albert,21754,Moorooduc,170.43,ok
+21733,Mont Albert North,21754,Moorooduc,187.45,ok
+21735,Montmorency,21754,Moorooduc,204.48,ok
+21736,Montrose (Vic.),21754,Moorooduc,,no_eligible_route
+21742,Moonee Ponds,21754,Moorooduc,163.38,ok
+21746,Moorabbin,21754,Moorooduc,122.72,ok
+21747,Moorabbin Airport,21754,Moorooduc,135.15,ok
+21754,Moorooduc,21754,Moorooduc,0.0,same_centroid
+21755,Mooroolbark,21754,Moorooduc,207.98,ok
+21760,Mordialloc,21754,Moorooduc,107.78,ok
+21763,Mornington (Vic.),21754,Moorooduc,31.38,ok
+21779,Mount Burnett,21754,Moorooduc,,no_eligible_route
+21786,Mount Cottrell,21754,Moorooduc,,no_eligible_route
+21787,Mount Dandenong,21754,Moorooduc,,no_eligible_route
+21793,Mount Eliza,21754,Moorooduc,52.52,ok
+21795,Mount Evelyn,21754,Moorooduc,,no_eligible_route
+21801,Mount Macedon,21754,Moorooduc,,no_eligible_route
+21803,Mount Martha,21754,Moorooduc,59.52,ok
+21814,Mount Toolebewong,21754,Moorooduc,,no_eligible_route
+21816,Mount Waverley,21754,Moorooduc,159.13,ok
+21827,Mulgrave (Vic.),21754,Moorooduc,150.72,ok
+21849,Murrumbeena,21754,Moorooduc,130.4,ok
+21872,Nangana,21754,Moorooduc,,no_eligible_route
+21878,Nar Nar Goon,21754,Moorooduc,,no_eligible_route
+21879,Nar Nar Goon North,21754,Moorooduc,,no_eligible_route
+21893,Narre Warren,21754,Moorooduc,165.07,ok
+21894,Narre Warren East,21754,Moorooduc,,no_eligible_route
+21895,Narre Warren North,21754,Moorooduc,,no_eligible_route
+21896,Narre Warren South,21754,Moorooduc,,no_eligible_route
+21921,New Gisborne,21754,Moorooduc,,no_eligible_route
+21934,Newport (Vic.),21754,Moorooduc,168.32,ok
+21942,Niddrie,21754,Moorooduc,223.6,ok
+21952,Noble Park,21754,Moorooduc,135.9,ok
+21953,Noble Park North,21754,Moorooduc,161.55,ok
+21966,North Melbourne,21754,Moorooduc,154.98,ok
+21969,North Warrandyte,21754,Moorooduc,230.17,ok
+21971,Northcote,21754,Moorooduc,168.27,ok
+21974,Notting Hill,21754,Moorooduc,159.5,ok
+21985,Nunawading,21754,Moorooduc,155.2,ok
+21991,Nutfield,21754,Moorooduc,,no_eligible_route
+21998,Oak Park,21754,Moorooduc,181.7,ok
+21999,Oaklands Junction,21754,Moorooduc,,no_eligible_route
+22000,Oakleigh,21754,Moorooduc,144.08,ok
+22001,Oakleigh East,21754,Moorooduc,159.25,ok
+22002,Oakleigh South,21754,Moorooduc,141.17,ok
+22006,Officer,21754,Moorooduc,179.17,ok
+22007,Officer South,21754,Moorooduc,213.73,ok
+22009,Olinda (Vic.),21754,Moorooduc,,no_eligible_route
+22016,Ormond,21754,Moorooduc,113.67,ok
+22027,Pakenham,21754,Moorooduc,178.22,ok
+22028,Pakenham South,21754,Moorooduc,,no_eligible_route
+22029,Pakenham Upper,21754,Moorooduc,,no_eligible_route
+22032,Panton Hill,21754,Moorooduc,,no_eligible_route
+22036,Park Orchards,21754,Moorooduc,,no_eligible_route
+22037,Parkdale,21754,Moorooduc,103.7,ok
+22038,Parkville (Vic.),21754,Moorooduc,173.6,ok
+22041,Pascoe Vale,21754,Moorooduc,186.07,ok
+22042,Pascoe Vale South,21754,Moorooduc,181.8,ok
+22047,Patterson Lakes,21754,Moorooduc,91.95,ok
+22050,Pearcedale,21754,Moorooduc,,no_eligible_route
+22058,Pentland Hills,21754,Moorooduc,,no_eligible_route
+22064,Pheasant Creek (Vic.),21754,Moorooduc,,no_eligible_route
+22084,Plenty (Vic.),21754,Moorooduc,,no_eligible_route
+22085,Plumpton (Vic.),21754,Moorooduc,,no_eligible_route
+22086,Point Cook,21754,Moorooduc,,no_eligible_route
+22087,Point Leo,21754,Moorooduc,,no_eligible_route
+22107,Port Melbourne,21754,Moorooduc,171.6,ok
+22113,Portsea,21754,Moorooduc,160.42,ok
+22115,Powelltown,21754,Moorooduc,,no_eligible_route
+22118,Prahran,21754,Moorooduc,139.17,ok
+22121,Preston (Vic.),21754,Moorooduc,179.67,ok
+22122,Princes Hill,21754,Moorooduc,161.75,ok
+22132,Quandong,21754,Moorooduc,,no_eligible_route
+22141,Ravenhall,21754,Moorooduc,,no_eligible_route
+22148,Red Hill (Vic.),21754,Moorooduc,,no_eligible_route
+22149,Red Hill South,21754,Moorooduc,,no_eligible_route
+22160,Research,21754,Moorooduc,,no_eligible_route
+22161,Reservoir (Vic.),21754,Moorooduc,181.88,ok
+22170,Richmond (Vic.),21754,Moorooduc,151.18,ok
+22172,Riddells Creek,21754,Moorooduc,,no_eligible_route
+22174,Ringwood (Vic.),21754,Moorooduc,177.3,ok
+22175,Ringwood East,21754,Moorooduc,189.45,ok
+22176,Ringwood North,21754,Moorooduc,206.75,ok
+22179,Ripponlea,21754,Moorooduc,139.03,ok
+22185,Rochford,21754,Moorooduc,,no_eligible_route
+22186,Rockbank,21754,Moorooduc,,no_eligible_route
+22193,Romsey,21754,Moorooduc,,no_eligible_route
+22194,Rosanna,21754,Moorooduc,192.2,ok
+22198,Rosebud,21754,Moorooduc,114.32,ok
+22207,Rowville,21754,Moorooduc,171.73,ok
+22208,Roxburgh Park,21754,Moorooduc,211.55,ok
+22220,Rye,21754,Moorooduc,128.52,ok
+22221,Rythdale,21754,Moorooduc,,no_eligible_route
+22222,Safety Beach (Vic.),21754,Moorooduc,77.48,ok
+22232,Sandhurst,21754,Moorooduc,123.13,ok
+22234,Sandringham (Vic.),21754,Moorooduc,133.6,ok
+22239,Sassafras (Vic.),21754,Moorooduc,,no_eligible_route
+22242,Scoresby,21754,Moorooduc,162.65,ok
+22247,Seabrook,21754,Moorooduc,204.87,ok
+22249,Seaford (Vic.),21754,Moorooduc,91.18,ok
+22250,Seaholme,21754,Moorooduc,187.55,ok
+22256,Seddon (Vic.),21754,Moorooduc,159.9,ok
+22258,Selby,21754,Moorooduc,,no_eligible_route
+22263,Seville,21754,Moorooduc,,no_eligible_route
+22264,Seville East,21754,Moorooduc,,no_eligible_route
+22278,Sherbrooke,21754,Moorooduc,,no_eligible_route
+22279,Shoreham,21754,Moorooduc,,no_eligible_route
+22281,Silvan,21754,Moorooduc,,no_eligible_route
+22291,Skye (Vic.),21754,Moorooduc,119.32,ok
+22295,Smiths Gully,21754,Moorooduc,,no_eligible_route
+22303,Somers,21754,Moorooduc,116.9,ok
+22304,Somerton (Vic.),21754,Moorooduc,214.48,ok
+22305,Somerville (Vic.),21754,Moorooduc,68.7,ok
+22306,Sorrento (Vic.),21754,Moorooduc,121.28,ok
+22309,South Kingsville,21754,Moorooduc,180.57,ok
+22310,South Melbourne,21754,Moorooduc,161.78,ok
+22311,South Morang,21754,Moorooduc,217.05,ok
+22313,South Wharf,21754,Moorooduc,157.52,ok
+22314,South Yarra,21754,Moorooduc,128.05,ok
+22315,Southbank,21754,Moorooduc,149.68,ok
+22319,Spotswood,21754,Moorooduc,161.72,ok
+22325,Springfield (Macedon Ranges - Vic.),21754,Moorooduc,,no_eligible_route
+22328,Springvale (Vic.),21754,Moorooduc,124.12,ok
+22329,Springvale South,21754,Moorooduc,115.25,ok
+22330,St Albans (Vic.),21754,Moorooduc,174.4,ok
+22332,St Andrews (Vic.),21754,Moorooduc,,no_eligible_route
+22333,St Andrews Beach,21754,Moorooduc,,no_eligible_route
+22339,St Helena,21754,Moorooduc,228.37,ok
+22343,St Kilda (Vic.),21754,Moorooduc,147.77,ok
+22344,St Kilda East,21754,Moorooduc,140.72,ok
+22345,St Kilda West,21754,Moorooduc,165.67,ok
+22355,Steels Creek,21754,Moorooduc,,no_eligible_route
+22375,Strathewen,21754,Moorooduc,,no_eligible_route
+22380,Strathmore (Vic.),21754,Moorooduc,189.87,ok
+22381,Strathmore Heights,21754,Moorooduc,204.12,ok
+22382,Strathtulloh,21754,Moorooduc,,no_eligible_route
+22391,Sunbury,21754,Moorooduc,,no_eligible_route
+22395,Sunshine (Vic.),21754,Moorooduc,163.18,ok
+22396,Sunshine North,21754,Moorooduc,181.25,ok
+22397,Sunshine West,21754,Moorooduc,195.35,ok
+22399,Surrey Hills,21754,Moorooduc,167.87,ok
+22414,Sydenham (Vic.),21754,Moorooduc,188.8,ok
+22451,Tarneit,21754,Moorooduc,,no_eligible_route
+22457,Tarrawarra,21754,Moorooduc,,no_eligible_route
+22473,Taylors Hill,21754,Moorooduc,,no_eligible_route
+22474,Taylors Lakes,21754,Moorooduc,193.68,ok
+22476,Tecoma,21754,Moorooduc,207.35,ok
+22483,Templestowe,21754,Moorooduc,192.63,ok
+22484,Templestowe Lower,21754,Moorooduc,189.6,ok
+22496,The Basin (Vic.),21754,Moorooduc,,no_eligible_route
+22501,The Patch,21754,Moorooduc,,no_eligible_route
+22504,Thomastown,21754,Moorooduc,190.37,ok
+22508,Thornbury,21754,Moorooduc,174.15,ok
+22509,Thornhill Park,21754,Moorooduc,,no_eligible_route
+22514,Three Bridges,21754,Moorooduc,,no_eligible_route
+22531,Tonimbuk,21754,Moorooduc,,no_eligible_route
+22536,Toolangi,21754,Moorooduc,,no_eligible_route
+22537,Toolern Vale,21754,Moorooduc,,no_eligible_route
+22546,Tooradin,21754,Moorooduc,,no_eligible_route
+22547,Toorak,21754,Moorooduc,142.52,ok
+22550,Tootgarook,21754,Moorooduc,111.93,ok
+22556,Tottenham (Vic.),21754,Moorooduc,190.62,ok
+22572,Travancore,21754,Moorooduc,172.17,ok
+22576,Tremont,21754,Moorooduc,224.95,ok
+22582,Truganina,21754,Moorooduc,,no_eligible_route
+22584,Tuerong,21754,Moorooduc,94.75,walk_only
+22586,Tullamarine,21754,Moorooduc,235.97,ok
+22594,Tyabb,21754,Moorooduc,34.9,ok
+22598,Tynong,21754,Moorooduc,,no_eligible_route
+22599,Tynong North,21754,Moorooduc,,no_eligible_route
+22614,Upper Ferntree Gully,21754,Moorooduc,204.5,ok
+22617,Upper Plenty,21754,Moorooduc,,no_eligible_route
+22620,Upwey,21754,Moorooduc,207.22,ok
+22627,Vermont,21754,Moorooduc,180.88,ok
+22628,Vermont South,21754,Moorooduc,169.15,ok
+22629,Vervale,21754,Moorooduc,,no_eligible_route
+22633,Viewbank,21754,Moorooduc,225.37,ok
+22661,Wallan,21754,Moorooduc,,no_eligible_route
+22672,Wandin East,21754,Moorooduc,,no_eligible_route
+22673,Wandin North,21754,Moorooduc,,no_eligible_route
+22676,Wandong,21754,Moorooduc,,no_eligible_route
+22685,Wantirna,21754,Moorooduc,188.67,ok
+22686,Wantirna South,21754,Moorooduc,182.95,ok
+22689,Warburton (Vic.),21754,Moorooduc,,no_eligible_route
+22695,Warneet,21754,Moorooduc,,no_eligible_route
+22702,Warrandyte,21754,Moorooduc,196.42,ok
+22703,Warrandyte South,21754,Moorooduc,,no_eligible_route
+22704,Warranwood,21754,Moorooduc,,no_eligible_route
+22717,Waterford Park,21754,Moorooduc,,no_eligible_route
+22720,Waterways,21754,Moorooduc,118.25,ok
+22721,Watsonia,21754,Moorooduc,192.65,ok
+22722,Watsonia North,21754,Moorooduc,216.18,ok
+22723,Watsons Creek (Vic.),21754,Moorooduc,,no_eligible_route
+22727,Wattle Glen,21754,Moorooduc,224.4,ok
+22740,Weir Views,21754,Moorooduc,,no_eligible_route
+22750,Werribee,21754,Moorooduc,215.87,ok
+22751,Werribee South,21754,Moorooduc,,no_eligible_route
+22753,Wesburn,21754,Moorooduc,,no_eligible_route
+22756,West Footscray,21754,Moorooduc,167.35,ok
+22757,West Melbourne,21754,Moorooduc,176.48,ok
+22761,Westmeadows,21754,Moorooduc,206.68,ok
+22766,Wheelers Hill,21754,Moorooduc,154.08,ok
+22775,Whittlesea,21754,Moorooduc,,no_eligible_route
+22784,Wildwood,21754,Moorooduc,,no_eligible_route
+22791,Williams Landing,21754,Moorooduc,202.72,ok
+22792,Williamstown (Vic.),21754,Moorooduc,170.53,ok
+22793,Williamstown North,21754,Moorooduc,190.07,ok
+22805,Windsor (Vic.),21754,Moorooduc,141.97,ok
+22820,Wollert,21754,Moorooduc,,no_eligible_route
+22825,Wonga Park,21754,Moorooduc,,no_eligible_route
+22843,Woodstock (Vic.),21754,Moorooduc,,no_eligible_route
+22857,Woori Yallock,21754,Moorooduc,,no_eligible_route
+22883,Wyndham Vale,21754,Moorooduc,,no_eligible_route
+22892,Yallambie,21754,Moorooduc,221.92,ok
+22898,Yan Yean,21754,Moorooduc,,no_eligible_route
+22906,Yannathan,21754,Moorooduc,,no_eligible_route
+22910,Yarra Glen,21754,Moorooduc,,no_eligible_route
+22911,Yarra Junction,21754,Moorooduc,,no_eligible_route
+22916,Yarrambat,21754,Moorooduc,,no_eligible_route
+22917,Yarraville,21754,Moorooduc,167.47,ok
+22925,Yellingbo,21754,Moorooduc,,no_eligible_route
+22930,Yering,21754,Moorooduc,,no_eligible_route
+22941,Yuroke,21754,Moorooduc,,no_eligible_route

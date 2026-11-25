@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22306,Sorrento (Vic.),190.07,ok
+20003,Aberfeldie,22306,Sorrento (Vic.),228.57,ok
+20011,Aintree,22306,Sorrento (Vic.),,no_eligible_route
+20015,Airport West,22306,Sorrento (Vic.),,no_eligible_route
+20017,Albanvale,22306,Sorrento (Vic.),245.3,ok
+20018,Albert Park (Vic.),22306,Sorrento (Vic.),197.42,ok
+20021,Albion (Vic.),22306,Sorrento (Vic.),208.22,ok
+20034,Alphington,22306,Sorrento (Vic.),194.23,ok
+20035,Altona (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20036,Altona Meadows,22306,Sorrento (Vic.),,no_eligible_route
+20037,Altona North,22306,Sorrento (Vic.),,no_eligible_route
+20062,Ardeer,22306,Sorrento (Vic.),226.45,ok
+20066,Armadale (Vic.),22306,Sorrento (Vic.),157.45,ok
+20071,Arthurs Creek,22306,Sorrento (Vic.),,no_eligible_route
+20072,Arthurs Seat,22306,Sorrento (Vic.),,no_eligible_route
+20075,Ascot Vale,22306,Sorrento (Vic.),207.45,ok
+20077,Ashburton,22306,Sorrento (Vic.),194.07,ok
+20078,Ashwood,22306,Sorrento (Vic.),208.6,ok
+20079,Aspendale,22306,Sorrento (Vic.),130.4,ok
+20080,Aspendale Gardens,22306,Sorrento (Vic.),156.63,ok
+20082,Attwood,22306,Sorrento (Vic.),,no_eligible_route
+20089,Avondale Heights,22306,Sorrento (Vic.),246.25,ok
+20091,Avonsleigh,22306,Sorrento (Vic.),,no_eligible_route
+20095,Bacchus Marsh,22306,Sorrento (Vic.),,no_eligible_route
+20097,Badger Creek,22306,Sorrento (Vic.),,no_eligible_route
+20105,Balaclava (Vic.),22306,Sorrento (Vic.),178.1,ok
+20120,Balnarring,22306,Sorrento (Vic.),,no_eligible_route
+20121,Balnarring Beach,22306,Sorrento (Vic.),,no_eligible_route
+20123,Balwyn,22306,Sorrento (Vic.),207.4,ok
+20124,Balwyn North,22306,Sorrento (Vic.),,no_eligible_route
+20131,Bangholme,22306,Sorrento (Vic.),,no_eligible_route
+20169,Baxter,22306,Sorrento (Vic.),,no_eligible_route
+20171,Bayles,22306,Sorrento (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),22306,Sorrento (Vic.),221.72,ok
+20174,Bayswater North,22306,Sorrento (Vic.),248.15,ok
+20175,Beaconsfield (Vic.),22306,Sorrento (Vic.),222.17,ok
+20176,Beaconsfield Upper,22306,Sorrento (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),22306,Sorrento (Vic.),165.57,ok
+20187,Beenak,22306,Sorrento (Vic.),,no_eligible_route
+20188,Belgrave,22306,Sorrento (Vic.),234.8,ok
+20189,Belgrave Heights,22306,Sorrento (Vic.),,no_eligible_route
+20190,Belgrave South,22306,Sorrento (Vic.),,no_eligible_route
+20198,Bellfield (Banyule - Vic.),22306,Sorrento (Vic.),227.5,ok
+20207,Bend Of Islands,22306,Sorrento (Vic.),,no_eligible_route
+20212,Benloch,22306,Sorrento (Vic.),,no_eligible_route
+20214,Bentleigh,22306,Sorrento (Vic.),147.12,ok
+20215,Bentleigh East,22306,Sorrento (Vic.),153.45,ok
+20224,Berwick,22306,Sorrento (Vic.),194.97,ok
+20233,Beveridge,22306,Sorrento (Vic.),,no_eligible_route
+20237,Big Pats Creek,22306,Sorrento (Vic.),,no_eligible_route
+20248,Bittern,22306,Sorrento (Vic.),160.05,ok
+20251,Black Rock (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20252,Blackburn,22306,Sorrento (Vic.),199.05,ok
+20253,Blackburn North,22306,Sorrento (Vic.),219.1,ok
+20254,Blackburn South,22306,Sorrento (Vic.),223.13,ok
+20257,Blairgowrie,22306,Sorrento (Vic.),23.98,ok
+20260,Blind Bight,22306,Sorrento (Vic.),,no_eligible_route
+20272,Bolinda,22306,Sorrento (Vic.),,no_eligible_route
+20278,Bonbeach,22306,Sorrento (Vic.),124.12,ok
+20280,Boneo,22306,Sorrento (Vic.),230.77,walk_only
+20282,Bonnie Brook,22306,Sorrento (Vic.),,no_eligible_route
+20304,Boronia,22306,Sorrento (Vic.),224.18,ok
+20307,Botanic Ridge,22306,Sorrento (Vic.),,no_eligible_route
+20314,Box Hill (Vic.),22306,Sorrento (Vic.),196.17,ok
+20315,Box Hill North,22306,Sorrento (Vic.),216.88,ok
+20316,Box Hill South,22306,Sorrento (Vic.),221.42,ok
+20320,Braeside,22306,Sorrento (Vic.),170.12,ok
+20324,Braybrook,22306,Sorrento (Vic.),222.62,ok
+20331,Briar Hill,22306,Sorrento (Vic.),232.95,ok
+20337,Brighton (Vic.),22306,Sorrento (Vic.),190.87,ok
+20338,Brighton East,22306,Sorrento (Vic.),166.68,ok
+20346,Broadmeadows (Vic.),22306,Sorrento (Vic.),231.07,ok
+20351,Brookfield (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20352,Brooklyn (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20361,Brunswick (Vic.),22306,Sorrento (Vic.),206.17,ok
+20362,Brunswick East,22306,Sorrento (Vic.),215.25,ok
+20363,Brunswick West,22306,Sorrento (Vic.),224.85,ok
+20381,Bulla (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20386,Bulleen,22306,Sorrento (Vic.),,no_eligible_route
+20387,Bullengarook,22306,Sorrento (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),22306,Sorrento (Vic.),250.03,ok
+20411,Bunyip,22306,Sorrento (Vic.),,no_eligible_route
+20412,Bunyip North,22306,Sorrento (Vic.),,no_eligible_route
+20418,Burnley,22306,Sorrento (Vic.),184.47,ok
+20419,Burnside (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20420,Burnside Heights,22306,Sorrento (Vic.),,no_eligible_route
+20426,Burwood (Vic.),22306,Sorrento (Vic.),231.45,ok
+20427,Burwood East,22306,Sorrento (Vic.),231.42,ok
+20435,Bylands,22306,Sorrento (Vic.),,no_eligible_route
+20441,Cairnlea,22306,Sorrento (Vic.),230.87,ok
+20442,Calder Park,22306,Sorrento (Vic.),,no_eligible_route
+20443,Caldermeade,22306,Sorrento (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),22306,Sorrento (Vic.),193.0,ok
+20455,Campbellfield,22306,Sorrento (Vic.),239.72,ok
+20466,Cannons Creek,22306,Sorrento (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),22306,Sorrento (Vic.),189.48,ok
+20474,Cape Schanck,22306,Sorrento (Vic.),,no_eligible_route
+20476,Capel Sound,22306,Sorrento (Vic.),43.88,ok
+20487,Cardinia,22306,Sorrento (Vic.),,no_eligible_route
+20495,Carlton (Vic.),22306,Sorrento (Vic.),187.43,ok
+20496,Carlton North,22306,Sorrento (Vic.),205.23,ok
+20498,Carnegie,22306,Sorrento (Vic.),158.02,ok
+20500,Caroline Springs,22306,Sorrento (Vic.),,no_eligible_route
+20507,Carrum,22306,Sorrento (Vic.),119.53,ok
+20508,Carrum Downs,22306,Sorrento (Vic.),137.63,ok
+20512,Castella,22306,Sorrento (Vic.),,no_eligible_route
+20517,Catani,22306,Sorrento (Vic.),,no_eligible_route
+20521,Caulfield,22306,Sorrento (Vic.),160.15,ok
+20522,Caulfield East,22306,Sorrento (Vic.),157.9,ok
+20523,Caulfield North,22306,Sorrento (Vic.),163.45,ok
+20524,Caulfield South,22306,Sorrento (Vic.),168.53,ok
+20528,Chadstone,22306,Sorrento (Vic.),190.22,ok
+20537,Chelsea,22306,Sorrento (Vic.),124.88,ok
+20538,Chelsea Heights,22306,Sorrento (Vic.),151.8,ok
+20539,Cheltenham (Vic.),22306,Sorrento (Vic.),146.23,ok
+20541,Cherokee,22306,Sorrento (Vic.),,no_eligible_route
+20555,Chintin,22306,Sorrento (Vic.),,no_eligible_route
+20556,Chirnside Park,22306,Sorrento (Vic.),,no_eligible_route
+20559,Christmas Hills (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20560,Chum Creek,22306,Sorrento (Vic.),,no_eligible_route
+20566,Clarinda,22306,Sorrento (Vic.),187.75,ok
+20567,Clarkefield,22306,Sorrento (Vic.),,no_eligible_route
+20569,Clayton,22306,Sorrento (Vic.),180.18,ok
+20570,Clayton South,22306,Sorrento (Vic.),201.1,ok
+20572,Clematis,22306,Sorrento (Vic.),,no_eligible_route
+20574,Clifton Hill,22306,Sorrento (Vic.),188.32,ok
+20576,Clonbinane,22306,Sorrento (Vic.),,no_eligible_route
+20581,Clyde (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20582,Clyde North,22306,Sorrento (Vic.),,no_eligible_route
+20587,Cobaw,22306,Sorrento (Vic.),,no_eligible_route
+20590,Cobblebank,22306,Sorrento (Vic.),,no_eligible_route
+20596,Coburg,22306,Sorrento (Vic.),215.47,ok
+20597,Coburg North,22306,Sorrento (Vic.),227.47,ok
+20600,Cockatoo (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20601,Cocoroc,22306,Sorrento (Vic.),,no_eligible_route
+20605,Coimadai,22306,Sorrento (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),22306,Sorrento (Vic.),190.72,ok
+20624,Coolaroo,22306,Sorrento (Vic.),231.93,ok
+20633,Cora Lynn,22306,Sorrento (Vic.),,no_eligible_route
+20654,Cottles Bridge,22306,Sorrento (Vic.),,no_eligible_route
+20661,Craigieburn,22306,Sorrento (Vic.),261.1,ok
+20662,Cranbourne,22306,Sorrento (Vic.),133.22,ok
+20663,Cranbourne East,22306,Sorrento (Vic.),164.88,ok
+20664,Cranbourne North,22306,Sorrento (Vic.),,no_eligible_route
+20665,Cranbourne South,22306,Sorrento (Vic.),,no_eligible_route
+20666,Cranbourne West,22306,Sorrento (Vic.),164.78,ok
+20670,Cremorne (Vic.),22306,Sorrento (Vic.),173.05,ok
+20674,Crib Point,22306,Sorrento (Vic.),169.02,ok
+20682,Croydon (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20683,Croydon Hills,22306,Sorrento (Vic.),,no_eligible_route
+20684,Croydon North,22306,Sorrento (Vic.),,no_eligible_route
+20685,Croydon South,22306,Sorrento (Vic.),,no_eligible_route
+20702,Dallas,22306,Sorrento (Vic.),238.37,ok
+20703,Dalmore,22306,Sorrento (Vic.),,no_eligible_route
+20707,Dandenong,22306,Sorrento (Vic.),151.67,ok
+20708,Dandenong North,22306,Sorrento (Vic.),192.27,ok
+20709,Dandenong South,22306,Sorrento (Vic.),138.82,ok
+20712,Darley,22306,Sorrento (Vic.),,no_eligible_route
+20716,Darraweit Guim,22306,Sorrento (Vic.),,no_eligible_route
+20724,Deanside,22306,Sorrento (Vic.),,no_eligible_route
+20728,Deepdene (Vic.),22306,Sorrento (Vic.),208.37,ok
+20729,Deer Park,22306,Sorrento (Vic.),,no_eligible_route
+20731,Delahey,22306,Sorrento (Vic.),242.77,ok
+20743,Derrimut,22306,Sorrento (Vic.),,no_eligible_route
+20748,Devon Meadows,22306,Sorrento (Vic.),,no_eligible_route
+20750,Dewhurst,22306,Sorrento (Vic.),,no_eligible_route
+20752,Diamond Creek,22306,Sorrento (Vic.),236.55,ok
+20754,Diggers Rest,22306,Sorrento (Vic.),250.63,ok
+20758,Dingley Village,22306,Sorrento (Vic.),,no_eligible_route
+20762,Dixons Creek,22306,Sorrento (Vic.),,no_eligible_route
+20766,Docklands,22306,Sorrento (Vic.),187.57,ok
+20769,Don Valley,22306,Sorrento (Vic.),,no_eligible_route
+20771,Doncaster,22306,Sorrento (Vic.),,no_eligible_route
+20772,Doncaster East,22306,Sorrento (Vic.),,no_eligible_route
+20773,Donnybrook (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20774,Donvale,22306,Sorrento (Vic.),,no_eligible_route
+20779,Doreen,22306,Sorrento (Vic.),,no_eligible_route
+20783,Doveton,22306,Sorrento (Vic.),,no_eligible_route
+20788,Dromana,22306,Sorrento (Vic.),89.05,ok
+20825,Eaglemont,22306,Sorrento (Vic.),212.57,ok
+20830,East Melbourne,22306,Sorrento (Vic.),180.83,ok
+20833,East Warburton,22306,Sorrento (Vic.),,no_eligible_route
+20843,Eden Park,22306,Sorrento (Vic.),,no_eligible_route
+20848,Edithvale,22306,Sorrento (Vic.),131.05,ok
+20864,Elsternwick,22306,Sorrento (Vic.),186.02,ok
+20865,Eltham (Vic.),22306,Sorrento (Vic.),235.68,ok
+20866,Eltham North,22306,Sorrento (Vic.),250.07,ok
+20867,Elwood,22306,Sorrento (Vic.),192.2,ok
+20868,Emerald (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20871,Endeavour Hills,22306,Sorrento (Vic.),,no_eligible_route
+20878,Epping (Vic.),22306,Sorrento (Vic.),261.18,ok
+20885,Essendon,22306,Sorrento (Vic.),213.37,ok
+20886,Essendon Fields,22306,Sorrento (Vic.),,no_eligible_route
+20887,Essendon North,22306,Sorrento (Vic.),234.23,ok
+20888,Essendon West,22306,Sorrento (Vic.),236.6,ok
+20889,Eumemmerring,22306,Sorrento (Vic.),,no_eligible_route
+20898,Exford,22306,Sorrento (Vic.),,no_eligible_route
+20899,Eynesbury,22306,Sorrento (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),22306,Sorrento (Vic.),200.55,ok
+20909,Fawkner,22306,Sorrento (Vic.),232.17,ok
+20916,Fernshaw,22306,Sorrento (Vic.),,no_eligible_route
+20917,Ferntree Gully,22306,Sorrento (Vic.),,no_eligible_route
+20918,Ferny Creek,22306,Sorrento (Vic.),,no_eligible_route
+20920,Fingal (Vic.),22306,Sorrento (Vic.),185.87,walk_only
+20924,Fitzroy (Vic.),22306,Sorrento (Vic.),199.68,ok
+20925,Fitzroy North,22306,Sorrento (Vic.),203.87,ok
+20929,Flemington,22306,Sorrento (Vic.),211.68,ok
+20930,Flinders (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+20935,Footscray,22306,Sorrento (Vic.),192.63,ok
+20937,Forest Hill (Vic.),22306,Sorrento (Vic.),227.35,ok
+20947,Frankston,22306,Sorrento (Vic.),119.2,ok
+20948,Frankston North,22306,Sorrento (Vic.),119.35,ok
+20949,Frankston South,22306,Sorrento (Vic.),,no_eligible_route
+20950,Fraser Rise,22306,Sorrento (Vic.),,no_eligible_route
+20965,Gardenvale,22306,Sorrento (Vic.),181.55,ok
+20966,Garfield,22306,Sorrento (Vic.),,no_eligible_route
+20967,Garfield North,22306,Sorrento (Vic.),,no_eligible_route
+20979,Gembrook,22306,Sorrento (Vic.),,no_eligible_route
+20995,Gilderoy,22306,Sorrento (Vic.),,no_eligible_route
+21001,Gisborne,22306,Sorrento (Vic.),,no_eligible_route
+21002,Gisborne South,22306,Sorrento (Vic.),,no_eligible_route
+21004,Gladstone Park,22306,Sorrento (Vic.),245.27,ok
+21005,Gladysdale,22306,Sorrento (Vic.),,no_eligible_route
+21009,Glen Huntly,22306,Sorrento (Vic.),153.1,ok
+21010,Glen Iris (Vic.),22306,Sorrento (Vic.),202.65,ok
+21013,Glen Waverley,22306,Sorrento (Vic.),181.72,ok
+21047,Glenroy (Vic.),22306,Sorrento (Vic.),225.92,ok
+21059,Goldie,22306,Sorrento (Vic.),,no_eligible_route
+21079,Gowanbrae,22306,Sorrento (Vic.),247.6,ok
+21087,Grangefields,22306,Sorrento (Vic.),,no_eligible_route
+21104,Greensborough,22306,Sorrento (Vic.),221.1,ok
+21105,Greenvale (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+21115,Gruyere,22306,Sorrento (Vic.),,no_eligible_route
+21121,Guys Hill,22306,Sorrento (Vic.),,no_eligible_route
+21124,Hadfield,22306,Sorrento (Vic.),234.2,ok
+21125,Hallam,22306,Sorrento (Vic.),,no_eligible_route
+21131,Hampton (Vic.),22306,Sorrento (Vic.),175.83,ok
+21132,Hampton East,22306,Sorrento (Vic.),149.82,ok
+21133,Hampton Park,22306,Sorrento (Vic.),,no_eligible_route
+21139,Harkaway,22306,Sorrento (Vic.),,no_eligible_route
+21140,Harkness,22306,Sorrento (Vic.),,no_eligible_route
+21145,Hastings (Vic.),22306,Sorrento (Vic.),138.93,ok
+21152,Hawthorn (Vic.),22306,Sorrento (Vic.),184.87,ok
+21153,Hawthorn East,22306,Sorrento (Vic.),195.35,ok
+21158,Healesville,22306,Sorrento (Vic.),,no_eligible_route
+21159,Heath Hill,22306,Sorrento (Vic.),,no_eligible_route
+21161,Heathcote Junction,22306,Sorrento (Vic.),,no_eligible_route
+21163,Heatherton,22306,Sorrento (Vic.),169.17,ok
+21165,Heathmont,22306,Sorrento (Vic.),211.98,ok
+21167,Heidelberg,22306,Sorrento (Vic.),215.37,ok
+21168,Heidelberg Heights,22306,Sorrento (Vic.),219.87,ok
+21169,Heidelberg West,22306,Sorrento (Vic.),231.97,ok
+21176,Hesket,22306,Sorrento (Vic.),,no_eligible_route
+21185,Highett,22306,Sorrento (Vic.),138.38,ok
+21193,Hillside (Melton - Vic.),22306,Sorrento (Vic.),,no_eligible_route
+21195,Hmas Cerberus,22306,Sorrento (Vic.),,no_eligible_route
+21196,Hoddles Creek,22306,Sorrento (Vic.),,no_eligible_route
+21202,Hopetoun Park,22306,Sorrento (Vic.),,no_eligible_route
+21203,Hoppers Crossing,22306,Sorrento (Vic.),,no_eligible_route
+21214,Hughesdale,22306,Sorrento (Vic.),167.23,ok
+21215,Humevale,22306,Sorrento (Vic.),,no_eligible_route
+21218,Huntingdale (Vic.),22306,Sorrento (Vic.),177.55,ok
+21223,Hurstbridge,22306,Sorrento (Vic.),237.1,ok
+21238,Iona,22306,Sorrento (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),22306,Sorrento (Vic.),198.83,ok
+21247,Ivanhoe East,22306,Sorrento (Vic.),218.5,ok
+21248,Jacana,22306,Sorrento (Vic.),230.48,ok
+21277,Junction Village,22306,Sorrento (Vic.),,no_eligible_route
+21284,Kalkallo,22306,Sorrento (Vic.),,no_eligible_route
+21286,Kallista,22306,Sorrento (Vic.),,no_eligible_route
+21287,Kalorama,22306,Sorrento (Vic.),,no_eligible_route
+21294,Kangaroo Ground,22306,Sorrento (Vic.),,no_eligible_route
+21312,Kealba,22306,Sorrento (Vic.),240.43,ok
+21314,Keilor,22306,Sorrento (Vic.),,no_eligible_route
+21315,Keilor Downs,22306,Sorrento (Vic.),235.57,ok
+21316,Keilor East,22306,Sorrento (Vic.),,no_eligible_route
+21317,Keilor Lodge,22306,Sorrento (Vic.),,no_eligible_route
+21318,Keilor North,22306,Sorrento (Vic.),249.02,ok
+21319,Keilor Park,22306,Sorrento (Vic.),,no_eligible_route
+21327,Kensington (Vic.),22306,Sorrento (Vic.),197.77,ok
+21333,Kerrie,22306,Sorrento (Vic.),,no_eligible_route
+21336,Kew (Vic.),22306,Sorrento (Vic.),204.62,ok
+21337,Kew East,22306,Sorrento (Vic.),233.48,ok
+21339,Keysborough,22306,Sorrento (Vic.),161.3,ok
+21354,Kilsyth,22306,Sorrento (Vic.),,no_eligible_route
+21355,Kilsyth South,22306,Sorrento (Vic.),,no_eligible_route
+21358,Kinglake,22306,Sorrento (Vic.),,no_eligible_route
+21359,Kinglake Central,22306,Sorrento (Vic.),,no_eligible_route
+21360,Kinglake West,22306,Sorrento (Vic.),,no_eligible_route
+21362,Kings Park (Vic.),22306,Sorrento (Vic.),237.48,ok
+21363,Kingsbury,22306,Sorrento (Vic.),247.05,ok
+21365,Kingsville,22306,Sorrento (Vic.),201.7,ok
+21374,Knoxfield,22306,Sorrento (Vic.),206.83,ok
+21380,Koo Wee Rup,22306,Sorrento (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,22306,Sorrento (Vic.),,no_eligible_route
+21393,Kooyong,22306,Sorrento (Vic.),192.52,ok
+21411,Kurunjang,22306,Sorrento (Vic.),,no_eligible_route
+21452,Lalor,22306,Sorrento (Vic.),221.52,ok
+21456,Lancefield,22306,Sorrento (Vic.),,no_eligible_route
+21459,Lang Lang,22306,Sorrento (Vic.),,no_eligible_route
+21460,Lang Lang East,22306,Sorrento (Vic.),,no_eligible_route
+21467,Langwarrin,22306,Sorrento (Vic.),134.85,ok
+21468,Langwarrin South,22306,Sorrento (Vic.),,no_eligible_route
+21473,Launching Place,22306,Sorrento (Vic.),,no_eligible_route
+21476,Laverton (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+21477,Laverton North,22306,Sorrento (Vic.),,no_eligible_route
+21504,Lilydale (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+21533,Long Forest,22306,Sorrento (Vic.),,no_eligible_route
+21547,Lower Plenty,22306,Sorrento (Vic.),254.73,ok
+21554,Lynbrook,22306,Sorrento (Vic.),,no_eligible_route
+21555,Lyndhurst (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+21558,Lysterfield,22306,Sorrento (Vic.),,no_eligible_route
+21559,Lysterfield South,22306,Sorrento (Vic.),,no_eligible_route
+21561,Macclesfield (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+21562,Macedon,22306,Sorrento (Vic.),,no_eligible_route
+21564,Macleod (Vic.),22306,Sorrento (Vic.),214.18,ok
+21569,Maddingley,22306,Sorrento (Vic.),,no_eligible_route
+21575,Maidstone,22306,Sorrento (Vic.),220.83,ok
+21578,Main Ridge,22306,Sorrento (Vic.),,no_eligible_route
+21586,Malvern (Vic.),22306,Sorrento (Vic.),172.68,ok
+21587,Malvern East,22306,Sorrento (Vic.),170.37,ok
+21588,Mambourin,22306,Sorrento (Vic.),,no_eligible_route
+21597,Manor Lakes,22306,Sorrento (Vic.),,no_eligible_route
+21604,Maribyrnong,22306,Sorrento (Vic.),215.97,ok
+21619,Maryknoll,22306,Sorrento (Vic.),,no_eligible_route
+21625,McCrae,22306,Sorrento (Vic.),56.63,ok
+21629,McKinnon,22306,Sorrento (Vic.),141.1,ok
+21635,Meadow Heights,22306,Sorrento (Vic.),243.37,ok
+21640,Melbourne,22306,Sorrento (Vic.),177.42,ok
+21641,Melbourne Airport,22306,Sorrento (Vic.),,no_eligible_route
+21642,Melton (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+21643,Melton South,22306,Sorrento (Vic.),,no_eligible_route
+21644,Melton West,22306,Sorrento (Vic.),,no_eligible_route
+21648,Mentone,22306,Sorrento (Vic.),135.05,ok
+21649,Menzies Creek,22306,Sorrento (Vic.),,no_eligible_route
+21659,Mernda,22306,Sorrento (Vic.),267.87,ok
+21662,Merricks,22306,Sorrento (Vic.),,no_eligible_route
+21663,Merricks Beach,22306,Sorrento (Vic.),,no_eligible_route
+21664,Merricks North,22306,Sorrento (Vic.),,no_eligible_route
+21668,Merrimu,22306,Sorrento (Vic.),,no_eligible_route
+21675,Mickleham,22306,Sorrento (Vic.),,no_eligible_route
+21677,Middle Park (Vic.),22306,Sorrento (Vic.),210.15,ok
+21683,Mill Park,22306,Sorrento (Vic.),251.02,ok
+21685,Millgrove,22306,Sorrento (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),22306,Sorrento (Vic.),210.72,ok
+21727,Monbulk,22306,Sorrento (Vic.),,no_eligible_route
+21728,Monegeetta,22306,Sorrento (Vic.),,no_eligible_route
+21731,Monomeith,22306,Sorrento (Vic.),,no_eligible_route
+21732,Mont Albert,22306,Sorrento (Vic.),196.88,ok
+21733,Mont Albert North,22306,Sorrento (Vic.),218.12,ok
+21735,Montmorency,22306,Sorrento (Vic.),221.75,ok
+21736,Montrose (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+21742,Moonee Ponds,22306,Sorrento (Vic.),199.83,ok
+21746,Moorabbin,22306,Sorrento (Vic.),162.7,ok
+21747,Moorabbin Airport,22306,Sorrento (Vic.),185.25,ok
+21754,Moorooduc,22306,Sorrento (Vic.),126.15,ok
+21755,Mooroolbark,22306,Sorrento (Vic.),,no_eligible_route
+21760,Mordialloc,22306,Sorrento (Vic.),140.23,ok
+21763,Mornington (Vic.),22306,Sorrento (Vic.),91.17,ok
+21779,Mount Burnett,22306,Sorrento (Vic.),,no_eligible_route
+21786,Mount Cottrell,22306,Sorrento (Vic.),,no_eligible_route
+21787,Mount Dandenong,22306,Sorrento (Vic.),,no_eligible_route
+21793,Mount Eliza,22306,Sorrento (Vic.),82.08,ok
+21795,Mount Evelyn,22306,Sorrento (Vic.),,no_eligible_route
+21801,Mount Macedon,22306,Sorrento (Vic.),,no_eligible_route
+21803,Mount Martha,22306,Sorrento (Vic.),66.43,ok
+21814,Mount Toolebewong,22306,Sorrento (Vic.),,no_eligible_route
+21816,Mount Waverley,22306,Sorrento (Vic.),196.92,ok
+21827,Mulgrave (Vic.),22306,Sorrento (Vic.),193.17,ok
+21849,Murrumbeena,22306,Sorrento (Vic.),173.23,ok
+21872,Nangana,22306,Sorrento (Vic.),,no_eligible_route
+21878,Nar Nar Goon,22306,Sorrento (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,22306,Sorrento (Vic.),,no_eligible_route
+21893,Narre Warren,22306,Sorrento (Vic.),200.52,ok
+21894,Narre Warren East,22306,Sorrento (Vic.),,no_eligible_route
+21895,Narre Warren North,22306,Sorrento (Vic.),,no_eligible_route
+21896,Narre Warren South,22306,Sorrento (Vic.),,no_eligible_route
+21921,New Gisborne,22306,Sorrento (Vic.),,no_eligible_route
+21934,Newport (Vic.),22306,Sorrento (Vic.),204.77,ok
+21942,Niddrie,22306,Sorrento (Vic.),,no_eligible_route
+21952,Noble Park,22306,Sorrento (Vic.),175.53,ok
+21953,Noble Park North,22306,Sorrento (Vic.),,no_eligible_route
+21966,North Melbourne,22306,Sorrento (Vic.),187.43,ok
+21969,North Warrandyte,22306,Sorrento (Vic.),,no_eligible_route
+21971,Northcote,22306,Sorrento (Vic.),204.72,ok
+21974,Notting Hill,22306,Sorrento (Vic.),193.72,ok
+21985,Nunawading,22306,Sorrento (Vic.),203.2,ok
+21991,Nutfield,22306,Sorrento (Vic.),,no_eligible_route
+21998,Oak Park,22306,Sorrento (Vic.),218.15,ok
+21999,Oaklands Junction,22306,Sorrento (Vic.),,no_eligible_route
+22000,Oakleigh,22306,Sorrento (Vic.),165.27,ok
+22001,Oakleigh East,22306,Sorrento (Vic.),183.17,ok
+22002,Oakleigh South,22306,Sorrento (Vic.),166.75,ok
+22006,Officer,22306,Sorrento (Vic.),214.62,ok
+22007,Officer South,22306,Sorrento (Vic.),,no_eligible_route
+22009,Olinda (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22016,Ormond,22306,Sorrento (Vic.),146.12,ok
+22027,Pakenham,22306,Sorrento (Vic.),213.67,ok
+22028,Pakenham South,22306,Sorrento (Vic.),,no_eligible_route
+22029,Pakenham Upper,22306,Sorrento (Vic.),,no_eligible_route
+22032,Panton Hill,22306,Sorrento (Vic.),,no_eligible_route
+22036,Park Orchards,22306,Sorrento (Vic.),,no_eligible_route
+22037,Parkdale,22306,Sorrento (Vic.),136.15,ok
+22038,Parkville (Vic.),22306,Sorrento (Vic.),209.07,ok
+22041,Pascoe Vale,22306,Sorrento (Vic.),222.52,ok
+22042,Pascoe Vale South,22306,Sorrento (Vic.),218.25,ok
+22047,Patterson Lakes,22306,Sorrento (Vic.),136.87,ok
+22050,Pearcedale,22306,Sorrento (Vic.),,no_eligible_route
+22058,Pentland Hills,22306,Sorrento (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22084,Plenty (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22085,Plumpton (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22086,Point Cook,22306,Sorrento (Vic.),,no_eligible_route
+22087,Point Leo,22306,Sorrento (Vic.),,no_eligible_route
+22107,Port Melbourne,22306,Sorrento (Vic.),225.65,ok
+22113,Portsea,22306,Sorrento (Vic.),27.12,ok
+22115,Powelltown,22306,Sorrento (Vic.),,no_eligible_route
+22118,Prahran,22306,Sorrento (Vic.),171.62,ok
+22121,Preston (Vic.),22306,Sorrento (Vic.),216.12,ok
+22122,Princes Hill,22306,Sorrento (Vic.),206.2,ok
+22132,Quandong,22306,Sorrento (Vic.),,no_eligible_route
+22141,Ravenhall,22306,Sorrento (Vic.),,no_eligible_route
+22148,Red Hill (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22149,Red Hill South,22306,Sorrento (Vic.),,no_eligible_route
+22160,Research,22306,Sorrento (Vic.),,no_eligible_route
+22161,Reservoir (Vic.),22306,Sorrento (Vic.),218.33,ok
+22170,Richmond (Vic.),22306,Sorrento (Vic.),183.63,ok
+22172,Riddells Creek,22306,Sorrento (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),22306,Sorrento (Vic.),217.33,ok
+22175,Ringwood East,22306,Sorrento (Vic.),237.3,ok
+22176,Ringwood North,22306,Sorrento (Vic.),246.78,ok
+22179,Ripponlea,22306,Sorrento (Vic.),176.73,ok
+22185,Rochford,22306,Sorrento (Vic.),,no_eligible_route
+22186,Rockbank,22306,Sorrento (Vic.),,no_eligible_route
+22193,Romsey,22306,Sorrento (Vic.),,no_eligible_route
+22194,Rosanna,22306,Sorrento (Vic.),208.65,ok
+22198,Rosebud,22306,Sorrento (Vic.),67.02,ok
+22207,Rowville,22306,Sorrento (Vic.),191.18,ok
+22208,Roxburgh Park,22306,Sorrento (Vic.),248.0,ok
+22220,Rye,22306,Sorrento (Vic.),47.05,ok
+22221,Rythdale,22306,Sorrento (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),22306,Sorrento (Vic.),60.88,ok
+22232,Sandhurst,22306,Sorrento (Vic.),149.58,ok
+22234,Sandringham (Vic.),22306,Sorrento (Vic.),173.58,ok
+22239,Sassafras (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22242,Scoresby,22306,Sorrento (Vic.),211.12,ok
+22247,Seabrook,22306,Sorrento (Vic.),,no_eligible_route
+22249,Seaford (Vic.),22306,Sorrento (Vic.),123.63,ok
+22250,Seaholme,22306,Sorrento (Vic.),,no_eligible_route
+22256,Seddon (Vic.),22306,Sorrento (Vic.),192.35,ok
+22258,Selby,22306,Sorrento (Vic.),,no_eligible_route
+22263,Seville,22306,Sorrento (Vic.),,no_eligible_route
+22264,Seville East,22306,Sorrento (Vic.),,no_eligible_route
+22278,Sherbrooke,22306,Sorrento (Vic.),,no_eligible_route
+22279,Shoreham,22306,Sorrento (Vic.),,no_eligible_route
+22281,Silvan,22306,Sorrento (Vic.),,no_eligible_route
+22291,Skye (Vic.),22306,Sorrento (Vic.),152.87,ok
+22295,Smiths Gully,22306,Sorrento (Vic.),,no_eligible_route
+22303,Somers,22306,Sorrento (Vic.),,no_eligible_route
+22304,Somerton (Vic.),22306,Sorrento (Vic.),261.97,ok
+22305,Somerville (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22306,Sorrento (Vic.),22306,Sorrento (Vic.),0.0,same_centroid
+22309,South Kingsville,22306,Sorrento (Vic.),217.02,ok
+22310,South Melbourne,22306,Sorrento (Vic.),191.08,ok
+22311,South Morang,22306,Sorrento (Vic.),253.5,ok
+22313,South Wharf,22306,Sorrento (Vic.),189.97,ok
+22314,South Yarra,22306,Sorrento (Vic.),160.5,ok
+22315,Southbank,22306,Sorrento (Vic.),182.13,ok
+22319,Spotswood,22306,Sorrento (Vic.),198.17,ok
+22325,Springfield (Macedon Ranges - Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22328,Springvale (Vic.),22306,Sorrento (Vic.),167.57,ok
+22329,Springvale South,22306,Sorrento (Vic.),158.7,ok
+22330,St Albans (Vic.),22306,Sorrento (Vic.),210.85,ok
+22332,St Andrews (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22333,St Andrews Beach,22306,Sorrento (Vic.),168.15,walk_only
+22339,St Helena,22306,Sorrento (Vic.),,no_eligible_route
+22343,St Kilda (Vic.),22306,Sorrento (Vic.),191.87,ok
+22344,St Kilda East,22306,Sorrento (Vic.),187.85,ok
+22345,St Kilda West,22306,Sorrento (Vic.),203.07,ok
+22355,Steels Creek,22306,Sorrento (Vic.),,no_eligible_route
+22375,Strathewen,22306,Sorrento (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),22306,Sorrento (Vic.),226.32,ok
+22381,Strathmore Heights,22306,Sorrento (Vic.),240.57,ok
+22382,Strathtulloh,22306,Sorrento (Vic.),,no_eligible_route
+22391,Sunbury,22306,Sorrento (Vic.),,no_eligible_route
+22395,Sunshine (Vic.),22306,Sorrento (Vic.),199.63,ok
+22396,Sunshine North,22306,Sorrento (Vic.),229.43,ok
+22397,Sunshine West,22306,Sorrento (Vic.),231.8,ok
+22399,Surrey Hills,22306,Sorrento (Vic.),197.3,ok
+22414,Sydenham (Vic.),22306,Sorrento (Vic.),225.25,ok
+22451,Tarneit,22306,Sorrento (Vic.),,no_eligible_route
+22457,Tarrawarra,22306,Sorrento (Vic.),,no_eligible_route
+22473,Taylors Hill,22306,Sorrento (Vic.),,no_eligible_route
+22474,Taylors Lakes,22306,Sorrento (Vic.),230.13,ok
+22476,Tecoma,22306,Sorrento (Vic.),231.8,ok
+22483,Templestowe,22306,Sorrento (Vic.),,no_eligible_route
+22484,Templestowe Lower,22306,Sorrento (Vic.),,no_eligible_route
+22496,The Basin (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22501,The Patch,22306,Sorrento (Vic.),,no_eligible_route
+22504,Thomastown,22306,Sorrento (Vic.),226.82,ok
+22508,Thornbury,22306,Sorrento (Vic.),210.6,ok
+22509,Thornhill Park,22306,Sorrento (Vic.),,no_eligible_route
+22514,Three Bridges,22306,Sorrento (Vic.),,no_eligible_route
+22531,Tonimbuk,22306,Sorrento (Vic.),,no_eligible_route
+22536,Toolangi,22306,Sorrento (Vic.),,no_eligible_route
+22537,Toolern Vale,22306,Sorrento (Vic.),,no_eligible_route
+22546,Tooradin,22306,Sorrento (Vic.),,no_eligible_route
+22547,Toorak,22306,Sorrento (Vic.),174.97,ok
+22550,Tootgarook,22306,Sorrento (Vic.),42.05,ok
+22556,Tottenham (Vic.),22306,Sorrento (Vic.),227.07,ok
+22572,Travancore,22306,Sorrento (Vic.),208.62,ok
+22576,Tremont,22306,Sorrento (Vic.),,no_eligible_route
+22582,Truganina,22306,Sorrento (Vic.),,no_eligible_route
+22584,Tuerong,22306,Sorrento (Vic.),,no_eligible_route
+22586,Tullamarine,22306,Sorrento (Vic.),,no_eligible_route
+22594,Tyabb,22306,Sorrento (Vic.),133.35,ok
+22598,Tynong,22306,Sorrento (Vic.),,no_eligible_route
+22599,Tynong North,22306,Sorrento (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,22306,Sorrento (Vic.),228.95,ok
+22617,Upper Plenty,22306,Sorrento (Vic.),,no_eligible_route
+22620,Upwey,22306,Sorrento (Vic.),231.67,ok
+22627,Vermont,22306,Sorrento (Vic.),235.55,ok
+22628,Vermont South,22306,Sorrento (Vic.),,no_eligible_route
+22629,Vervale,22306,Sorrento (Vic.),,no_eligible_route
+22633,Viewbank,22306,Sorrento (Vic.),241.82,ok
+22661,Wallan,22306,Sorrento (Vic.),,no_eligible_route
+22672,Wandin East,22306,Sorrento (Vic.),,no_eligible_route
+22673,Wandin North,22306,Sorrento (Vic.),,no_eligible_route
+22676,Wandong,22306,Sorrento (Vic.),,no_eligible_route
+22685,Wantirna,22306,Sorrento (Vic.),224.3,ok
+22686,Wantirna South,22306,Sorrento (Vic.),201.4,ok
+22689,Warburton (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22695,Warneet,22306,Sorrento (Vic.),,no_eligible_route
+22702,Warrandyte,22306,Sorrento (Vic.),,no_eligible_route
+22703,Warrandyte South,22306,Sorrento (Vic.),,no_eligible_route
+22704,Warranwood,22306,Sorrento (Vic.),,no_eligible_route
+22717,Waterford Park,22306,Sorrento (Vic.),,no_eligible_route
+22720,Waterways,22306,Sorrento (Vic.),162.28,ok
+22721,Watsonia,22306,Sorrento (Vic.),209.1,ok
+22722,Watsonia North,22306,Sorrento (Vic.),232.63,ok
+22723,Watsons Creek (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22727,Wattle Glen,22306,Sorrento (Vic.),240.85,ok
+22740,Weir Views,22306,Sorrento (Vic.),,no_eligible_route
+22750,Werribee,22306,Sorrento (Vic.),,no_eligible_route
+22751,Werribee South,22306,Sorrento (Vic.),,no_eligible_route
+22753,Wesburn,22306,Sorrento (Vic.),,no_eligible_route
+22756,West Footscray,22306,Sorrento (Vic.),203.62,ok
+22757,West Melbourne,22306,Sorrento (Vic.),222.58,ok
+22761,Westmeadows,22306,Sorrento (Vic.),259.12,ok
+22766,Wheelers Hill,22306,Sorrento (Vic.),203.05,ok
+22775,Whittlesea,22306,Sorrento (Vic.),,no_eligible_route
+22784,Wildwood,22306,Sorrento (Vic.),,no_eligible_route
+22791,Williams Landing,22306,Sorrento (Vic.),,no_eligible_route
+22792,Williamstown (Vic.),22306,Sorrento (Vic.),206.98,ok
+22793,Williamstown North,22306,Sorrento (Vic.),226.52,ok
+22805,Windsor (Vic.),22306,Sorrento (Vic.),174.0,ok
+22820,Wollert,22306,Sorrento (Vic.),,no_eligible_route
+22825,Wonga Park,22306,Sorrento (Vic.),,no_eligible_route
+22843,Woodstock (Vic.),22306,Sorrento (Vic.),,no_eligible_route
+22857,Woori Yallock,22306,Sorrento (Vic.),,no_eligible_route
+22883,Wyndham Vale,22306,Sorrento (Vic.),,no_eligible_route
+22892,Yallambie,22306,Sorrento (Vic.),238.37,ok
+22898,Yan Yean,22306,Sorrento (Vic.),,no_eligible_route
+22906,Yannathan,22306,Sorrento (Vic.),,no_eligible_route
+22910,Yarra Glen,22306,Sorrento (Vic.),,no_eligible_route
+22911,Yarra Junction,22306,Sorrento (Vic.),,no_eligible_route
+22916,Yarrambat,22306,Sorrento (Vic.),,no_eligible_route
+22917,Yarraville,22306,Sorrento (Vic.),203.92,ok
+22925,Yellingbo,22306,Sorrento (Vic.),,no_eligible_route
+22930,Yering,22306,Sorrento (Vic.),,no_eligible_route
+22941,Yuroke,22306,Sorrento (Vic.),,no_eligible_route

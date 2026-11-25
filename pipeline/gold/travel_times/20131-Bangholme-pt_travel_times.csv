@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20131,Bangholme,124.95,ok
+20003,Aberfeldie,20131,Bangholme,159.65,ok
+20011,Aintree,20131,Bangholme,,no_eligible_route
+20015,Airport West,20131,Bangholme,164.35,ok
+20017,Albanvale,20131,Bangholme,177.93,ok
+20018,Albert Park (Vic.),20131,Bangholme,130.62,ok
+20021,Albion (Vic.),20131,Bangholme,140.85,ok
+20034,Alphington,20131,Bangholme,133.43,ok
+20035,Altona (Vic.),20131,Bangholme,161.95,ok
+20036,Altona Meadows,20131,Bangholme,186.65,ok
+20037,Altona North,20131,Bangholme,187.43,ok
+20062,Ardeer,20131,Bangholme,159.08,ok
+20066,Armadale (Vic.),20131,Bangholme,96.08,ok
+20071,Arthurs Creek,20131,Bangholme,,no_eligible_route
+20072,Arthurs Seat,20131,Bangholme,,no_eligible_route
+20075,Ascot Vale,20131,Bangholme,135.78,ok
+20077,Ashburton,20131,Bangholme,122.4,ok
+20078,Ashwood,20131,Bangholme,114.13,ok
+20079,Aspendale,20131,Bangholme,69.03,ok
+20080,Aspendale Gardens,20131,Bangholme,56.18,ok
+20082,Attwood,20131,Bangholme,186.37,ok
+20089,Avondale Heights,20131,Bangholme,174.45,ok
+20091,Avonsleigh,20131,Bangholme,,no_eligible_route
+20095,Bacchus Marsh,20131,Bangholme,,no_eligible_route
+20097,Badger Creek,20131,Bangholme,,no_eligible_route
+20105,Balaclava (Vic.),20131,Bangholme,109.63,ok
+20120,Balnarring,20131,Bangholme,163.97,ok
+20121,Balnarring Beach,20131,Bangholme,160.5,ok
+20123,Balwyn,20131,Bangholme,143.03,ok
+20124,Balwyn North,20131,Bangholme,144.17,ok
+20131,Bangholme,20131,Bangholme,0.0,same_centroid
+20169,Baxter,20131,Bangholme,96.7,ok
+20171,Bayles,20131,Bangholme,,no_eligible_route
+20173,Bayswater (Vic.),20131,Bangholme,139.3,ok
+20174,Bayswater North,20131,Bangholme,165.07,ok
+20175,Beaconsfield (Vic.),20131,Bangholme,110.37,ok
+20176,Beaconsfield Upper,20131,Bangholme,,no_eligible_route
+20182,Beaumaris (Vic.),20131,Bangholme,92.23,ok
+20187,Beenak,20131,Bangholme,,no_eligible_route
+20188,Belgrave,20131,Bangholme,138.52,ok
+20189,Belgrave Heights,20131,Bangholme,176.18,ok
+20190,Belgrave South,20131,Bangholme,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20131,Bangholme,144.62,ok
+20207,Bend Of Islands,20131,Bangholme,,no_eligible_route
+20212,Benloch,20131,Bangholme,,no_eligible_route
+20214,Bentleigh,20131,Bangholme,85.75,ok
+20215,Bentleigh East,20131,Bangholme,100.17,ok
+20224,Berwick,20131,Bangholme,83.17,ok
+20233,Beveridge,20131,Bangholme,,no_eligible_route
+20237,Big Pats Creek,20131,Bangholme,,no_eligible_route
+20248,Bittern,20131,Bangholme,114.68,ok
+20251,Black Rock (Vic.),20131,Bangholme,98.03,ok
+20252,Blackburn,20131,Bangholme,123.3,ok
+20253,Blackburn North,20131,Bangholme,132.43,ok
+20254,Blackburn South,20131,Bangholme,135.02,ok
+20257,Blairgowrie,20131,Bangholme,178.65,ok
+20260,Blind Bight,20131,Bangholme,,no_eligible_route
+20272,Bolinda,20131,Bangholme,,no_eligible_route
+20278,Bonbeach,20131,Bangholme,62.75,ok
+20280,Boneo,20131,Bangholme,,no_eligible_route
+20282,Bonnie Brook,20131,Bangholme,,no_eligible_route
+20304,Boronia,20131,Bangholme,131.0,ok
+20307,Botanic Ridge,20131,Bangholme,137.47,ok
+20314,Box Hill (Vic.),20131,Bangholme,119.13,ok
+20315,Box Hill North,20131,Bangholme,127.12,ok
+20316,Box Hill South,20131,Bangholme,116.0,ok
+20320,Braeside,20131,Bangholme,91.53,ok
+20324,Braybrook,20131,Bangholme,147.83,ok
+20331,Briar Hill,20131,Bangholme,155.02,ok
+20337,Brighton (Vic.),20131,Bangholme,105.35,ok
+20338,Brighton East,20131,Bangholme,95.0,ok
+20346,Broadmeadows (Vic.),20131,Bangholme,163.7,ok
+20351,Brookfield (Vic.),20131,Bangholme,,no_eligible_route
+20352,Brooklyn (Vic.),20131,Bangholme,167.42,ok
+20361,Brunswick (Vic.),20131,Bangholme,138.8,ok
+20362,Brunswick East,20131,Bangholme,141.45,ok
+20363,Brunswick West,20131,Bangholme,136.55,ok
+20381,Bulla (Vic.),20131,Bangholme,,no_eligible_route
+20386,Bulleen,20131,Bangholme,148.27,ok
+20387,Bullengarook,20131,Bangholme,,no_eligible_route
+20399,Bundoora (Vic.),20131,Bangholme,164.13,ok
+20411,Bunyip,20131,Bangholme,,no_eligible_route
+20412,Bunyip North,20131,Bangholme,,no_eligible_route
+20418,Burnley,20131,Bangholme,129.18,ok
+20419,Burnside (Vic.),20131,Bangholme,218.03,ok
+20420,Burnside Heights,20131,Bangholme,202.78,ok
+20426,Burwood (Vic.),20131,Bangholme,115.07,ok
+20427,Burwood East,20131,Bangholme,109.52,ok
+20435,Bylands,20131,Bangholme,,no_eligible_route
+20441,Cairnlea,20131,Bangholme,163.5,ok
+20442,Calder Park,20131,Bangholme,174.63,ok
+20443,Caldermeade,20131,Bangholme,,no_eligible_route
+20453,Camberwell (Vic.),20131,Bangholme,131.55,ok
+20455,Campbellfield,20131,Bangholme,172.35,ok
+20466,Cannons Creek,20131,Bangholme,,no_eligible_route
+20468,Canterbury (Vic.),20131,Bangholme,136.2,ok
+20474,Cape Schanck,20131,Bangholme,,no_eligible_route
+20476,Capel Sound,20131,Bangholme,163.0,ok
+20487,Cardinia,20131,Bangholme,,no_eligible_route
+20495,Carlton (Vic.),20131,Bangholme,120.63,ok
+20496,Carlton North,20131,Bangholme,138.65,ok
+20498,Carnegie,20131,Bangholme,95.65,ok
+20500,Caroline Springs,20131,Bangholme,183.52,ok
+20507,Carrum,20131,Bangholme,44.0,ok
+20508,Carrum Downs,20131,Bangholme,76.08,ok
+20512,Castella,20131,Bangholme,,no_eligible_route
+20517,Catani,20131,Bangholme,,no_eligible_route
+20521,Caulfield,20131,Bangholme,102.78,ok
+20522,Caulfield East,20131,Bangholme,96.53,ok
+20523,Caulfield North,20131,Bangholme,101.45,ok
+20524,Caulfield South,20131,Bangholme,103.37,ok
+20528,Chadstone,20131,Bangholme,112.02,ok
+20537,Chelsea,20131,Bangholme,62.33,ok
+20538,Chelsea Heights,20131,Bangholme,46.62,ok
+20539,Cheltenham (Vic.),20131,Bangholme,84.87,ok
+20541,Cherokee,20131,Bangholme,,no_eligible_route
+20555,Chintin,20131,Bangholme,,no_eligible_route
+20556,Chirnside Park,20131,Bangholme,193.82,ok
+20559,Christmas Hills (Vic.),20131,Bangholme,,no_eligible_route
+20560,Chum Creek,20131,Bangholme,,no_eligible_route
+20566,Clarinda,20131,Bangholme,103.15,ok
+20567,Clarkefield,20131,Bangholme,,no_eligible_route
+20569,Clayton,20131,Bangholme,95.0,ok
+20570,Clayton South,20131,Bangholme,96.22,ok
+20572,Clematis,20131,Bangholme,,no_eligible_route
+20574,Clifton Hill,20131,Bangholme,122.87,ok
+20576,Clonbinane,20131,Bangholme,,no_eligible_route
+20581,Clyde (Vic.),20131,Bangholme,160.3,ok
+20582,Clyde North,20131,Bangholme,115.63,ok
+20587,Cobaw,20131,Bangholme,,no_eligible_route
+20590,Cobblebank,20131,Bangholme,,no_eligible_route
+20596,Coburg,20131,Bangholme,144.33,ok
+20597,Coburg North,20131,Bangholme,153.9,ok
+20600,Cockatoo (Vic.),20131,Bangholme,,no_eligible_route
+20601,Cocoroc,20131,Bangholme,,no_eligible_route
+20605,Coimadai,20131,Bangholme,,no_eligible_route
+20613,Coldstream (Vic.),20131,Bangholme,,no_eligible_route
+20616,Collingwood (Vic.),20131,Bangholme,122.18,ok
+20624,Coolaroo,20131,Bangholme,164.57,ok
+20633,Cora Lynn,20131,Bangholme,,no_eligible_route
+20654,Cottles Bridge,20131,Bangholme,,no_eligible_route
+20661,Craigieburn,20131,Bangholme,193.73,ok
+20662,Cranbourne,20131,Bangholme,88.85,ok
+20663,Cranbourne East,20131,Bangholme,104.92,ok
+20664,Cranbourne North,20131,Bangholme,101.02,ok
+20665,Cranbourne South,20131,Bangholme,140.82,ok
+20666,Cranbourne West,20131,Bangholme,101.77,ok
+20670,Cremorne (Vic.),20131,Bangholme,111.68,ok
+20674,Crib Point,20131,Bangholme,123.65,ok
+20682,Croydon (Vic.),20131,Bangholme,134.53,ok
+20683,Croydon Hills,20131,Bangholme,169.52,ok
+20684,Croydon North,20131,Bangholme,169.87,ok
+20685,Croydon South,20131,Bangholme,158.1,ok
+20702,Dallas,20131,Bangholme,171.0,ok
+20703,Dalmore,20131,Bangholme,,no_eligible_route
+20707,Dandenong,20131,Bangholme,62.4,ok
+20708,Dandenong North,20131,Bangholme,85.9,ok
+20709,Dandenong South,20131,Bangholme,60.13,ok
+20712,Darley,20131,Bangholme,,no_eligible_route
+20716,Darraweit Guim,20131,Bangholme,,no_eligible_route
+20724,Deanside,20131,Bangholme,213.68,ok
+20728,Deepdene (Vic.),20131,Bangholme,135.53,ok
+20729,Deer Park,20131,Bangholme,183.97,ok
+20731,Delahey,20131,Bangholme,175.4,ok
+20743,Derrimut,20131,Bangholme,175.4,ok
+20748,Devon Meadows,20131,Bangholme,,no_eligible_route
+20750,Dewhurst,20131,Bangholme,,no_eligible_route
+20752,Diamond Creek,20131,Bangholme,175.27,ok
+20754,Diggers Rest,20131,Bangholme,183.27,ok
+20758,Dingley Village,20131,Bangholme,80.8,ok
+20762,Dixons Creek,20131,Bangholme,,no_eligible_route
+20766,Docklands,20131,Bangholme,125.88,ok
+20769,Don Valley,20131,Bangholme,,no_eligible_route
+20771,Doncaster,20131,Bangholme,126.92,ok
+20772,Doncaster East,20131,Bangholme,134.4,ok
+20773,Donnybrook (Vic.),20131,Bangholme,,no_eligible_route
+20774,Donvale,20131,Bangholme,133.62,ok
+20779,Doreen,20131,Bangholme,,no_eligible_route
+20783,Doveton,20131,Bangholme,80.1,ok
+20788,Dromana,20131,Bangholme,,no_eligible_route
+20825,Eaglemont,20131,Bangholme,151.77,ok
+20830,East Melbourne,20131,Bangholme,118.47,ok
+20833,East Warburton,20131,Bangholme,,no_eligible_route
+20843,Eden Park,20131,Bangholme,,no_eligible_route
+20848,Edithvale,20131,Bangholme,61.03,ok
+20864,Elsternwick,20131,Bangholme,111.15,ok
+20865,Eltham (Vic.),20131,Bangholme,155.98,ok
+20866,Eltham North,20131,Bangholme,172.57,ok
+20867,Elwood,20131,Bangholme,123.2,ok
+20868,Emerald (Vic.),20131,Bangholme,,no_eligible_route
+20871,Endeavour Hills,20131,Bangholme,92.7,ok
+20878,Epping (Vic.),20131,Bangholme,189.97,ok
+20885,Essendon,20131,Bangholme,146.0,ok
+20886,Essendon Fields,20131,Bangholme,167.4,ok
+20887,Essendon North,20131,Bangholme,148.4,ok
+20888,Essendon West,20131,Bangholme,155.87,ok
+20889,Eumemmerring,20131,Bangholme,84.35,ok
+20898,Exford,20131,Bangholme,,no_eligible_route
+20899,Eynesbury,20131,Bangholme,,no_eligible_route
+20901,Fairfield (Vic.),20131,Bangholme,139.75,ok
+20909,Fawkner,20131,Bangholme,164.8,ok
+20916,Fernshaw,20131,Bangholme,,no_eligible_route
+20917,Ferntree Gully,20131,Bangholme,112.27,ok
+20918,Ferny Creek,20131,Bangholme,175.8,ok
+20920,Fingal (Vic.),20131,Bangholme,,no_eligible_route
+20924,Fitzroy (Vic.),20131,Bangholme,124.48,ok
+20925,Fitzroy North,20131,Bangholme,131.08,ok
+20929,Flemington,20131,Bangholme,144.32,ok
+20930,Flinders (Vic.),20131,Bangholme,,no_eligible_route
+20935,Footscray,20131,Bangholme,125.83,ok
+20937,Forest Hill (Vic.),20131,Bangholme,107.32,ok
+20947,Frankston,20131,Bangholme,73.13,ok
+20948,Frankston North,20131,Bangholme,84.98,ok
+20949,Frankston South,20131,Bangholme,116.38,ok
+20950,Fraser Rise,20131,Bangholme,185.38,ok
+20965,Gardenvale,20131,Bangholme,99.45,ok
+20966,Garfield,20131,Bangholme,,no_eligible_route
+20967,Garfield North,20131,Bangholme,,no_eligible_route
+20979,Gembrook,20131,Bangholme,,no_eligible_route
+20995,Gilderoy,20131,Bangholme,,no_eligible_route
+21001,Gisborne,20131,Bangholme,,no_eligible_route
+21002,Gisborne South,20131,Bangholme,,no_eligible_route
+21004,Gladstone Park,20131,Bangholme,177.52,ok
+21005,Gladysdale,20131,Bangholme,,no_eligible_route
+21009,Glen Huntly,20131,Bangholme,91.73,ok
+21010,Glen Iris (Vic.),20131,Bangholme,125.87,ok
+21013,Glen Waverley,20131,Bangholme,96.43,ok
+21047,Glenroy (Vic.),20131,Bangholme,158.55,ok
+21059,Goldie,20131,Bangholme,,no_eligible_route
+21079,Gowanbrae,20131,Bangholme,178.0,ok
+21087,Grangefields,20131,Bangholme,,no_eligible_route
+21104,Greensborough,20131,Bangholme,153.83,ok
+21105,Greenvale (Vic.),20131,Bangholme,,no_eligible_route
+21115,Gruyere,20131,Bangholme,,no_eligible_route
+21121,Guys Hill,20131,Bangholme,,no_eligible_route
+21124,Hadfield,20131,Bangholme,166.83,ok
+21125,Hallam,20131,Bangholme,88.28,ok
+21131,Hampton (Vic.),20131,Bangholme,95.22,ok
+21132,Hampton East,20131,Bangholme,88.45,ok
+21133,Hampton Park,20131,Bangholme,90.7,ok
+21139,Harkaway,20131,Bangholme,,no_eligible_route
+21140,Harkness,20131,Bangholme,,no_eligible_route
+21145,Hastings (Vic.),20131,Bangholme,116.22,ok
+21152,Hawthorn (Vic.),20131,Bangholme,116.68,ok
+21153,Hawthorn East,20131,Bangholme,120.07,ok
+21158,Healesville,20131,Bangholme,,no_eligible_route
+21159,Heath Hill,20131,Bangholme,,no_eligible_route
+21161,Heathcote Junction,20131,Bangholme,,no_eligible_route
+21163,Heatherton,20131,Bangholme,99.2,ok
+21165,Heathmont,20131,Bangholme,126.18,ok
+21167,Heidelberg,20131,Bangholme,150.83,ok
+21168,Heidelberg Heights,20131,Bangholme,157.97,ok
+21169,Heidelberg West,20131,Bangholme,148.72,ok
+21176,Hesket,20131,Bangholme,,no_eligible_route
+21185,Highett,20131,Bangholme,77.02,ok
+21193,Hillside (Melton - Vic.),20131,Bangholme,169.93,ok
+21195,Hmas Cerberus,20131,Bangholme,156.85,ok
+21196,Hoddles Creek,20131,Bangholme,,no_eligible_route
+21202,Hopetoun Park,20131,Bangholme,,no_eligible_route
+21203,Hoppers Crossing,20131,Bangholme,173.78,ok
+21214,Hughesdale,20131,Bangholme,90.88,ok
+21215,Humevale,20131,Bangholme,,no_eligible_route
+21218,Huntingdale (Vic.),20131,Bangholme,90.75,ok
+21223,Hurstbridge,20131,Bangholme,175.82,ok
+21238,Iona,20131,Bangholme,,no_eligible_route
+21246,Ivanhoe (Vic.),20131,Bangholme,138.03,ok
+21247,Ivanhoe East,20131,Bangholme,157.7,ok
+21248,Jacana,20131,Bangholme,163.12,ok
+21277,Junction Village,20131,Bangholme,,no_eligible_route
+21284,Kalkallo,20131,Bangholme,,no_eligible_route
+21286,Kallista,20131,Bangholme,179.23,ok
+21287,Kalorama,20131,Bangholme,171.05,ok
+21294,Kangaroo Ground,20131,Bangholme,,no_eligible_route
+21312,Kealba,20131,Bangholme,173.07,ok
+21314,Keilor,20131,Bangholme,,no_eligible_route
+21315,Keilor Downs,20131,Bangholme,168.2,ok
+21316,Keilor East,20131,Bangholme,163.1,ok
+21317,Keilor Lodge,20131,Bangholme,187.12,ok
+21318,Keilor North,20131,Bangholme,181.65,ok
+21319,Keilor Park,20131,Bangholme,,no_eligible_route
+21327,Kensington (Vic.),20131,Bangholme,129.85,ok
+21333,Kerrie,20131,Bangholme,,no_eligible_route
+21336,Kew (Vic.),20131,Bangholme,129.72,ok
+21337,Kew East,20131,Bangholme,141.67,ok
+21339,Keysborough,20131,Bangholme,75.02,ok
+21354,Kilsyth,20131,Bangholme,192.53,ok
+21355,Kilsyth South,20131,Bangholme,,no_eligible_route
+21358,Kinglake,20131,Bangholme,,no_eligible_route
+21359,Kinglake Central,20131,Bangholme,,no_eligible_route
+21360,Kinglake West,20131,Bangholme,,no_eligible_route
+21362,Kings Park (Vic.),20131,Bangholme,170.12,ok
+21363,Kingsbury,20131,Bangholme,168.9,ok
+21365,Kingsville,20131,Bangholme,134.87,ok
+21374,Knoxfield,20131,Bangholme,100.22,ok
+21380,Koo Wee Rup,20131,Bangholme,,no_eligible_route
+21381,Koo Wee Rup North,20131,Bangholme,,no_eligible_route
+21393,Kooyong,20131,Bangholme,114.08,ok
+21411,Kurunjang,20131,Bangholme,,no_eligible_route
+21452,Lalor,20131,Bangholme,154.15,ok
+21456,Lancefield,20131,Bangholme,,no_eligible_route
+21459,Lang Lang,20131,Bangholme,,no_eligible_route
+21460,Lang Lang East,20131,Bangholme,,no_eligible_route
+21467,Langwarrin,20131,Bangholme,87.1,ok
+21468,Langwarrin South,20131,Bangholme,,no_eligible_route
+21473,Launching Place,20131,Bangholme,,no_eligible_route
+21476,Laverton (Vic.),20131,Bangholme,157.55,ok
+21477,Laverton North,20131,Bangholme,198.58,ok
+21504,Lilydale (Vic.),20131,Bangholme,166.23,ok
+21533,Long Forest,20131,Bangholme,,no_eligible_route
+21547,Lower Plenty,20131,Bangholme,169.18,ok
+21554,Lynbrook,20131,Bangholme,82.42,ok
+21555,Lyndhurst (Vic.),20131,Bangholme,145.7,ok
+21558,Lysterfield,20131,Bangholme,,no_eligible_route
+21559,Lysterfield South,20131,Bangholme,134.83,ok
+21561,Macclesfield (Vic.),20131,Bangholme,,no_eligible_route
+21562,Macedon,20131,Bangholme,,no_eligible_route
+21564,Macleod (Vic.),20131,Bangholme,153.38,ok
+21569,Maddingley,20131,Bangholme,,no_eligible_route
+21575,Maidstone,20131,Bangholme,148.08,ok
+21578,Main Ridge,20131,Bangholme,,no_eligible_route
+21586,Malvern (Vic.),20131,Bangholme,104.12,ok
+21587,Malvern East,20131,Bangholme,107.45,ok
+21588,Mambourin,20131,Bangholme,,no_eligible_route
+21597,Manor Lakes,20131,Bangholme,209.48,ok
+21604,Maribyrnong,20131,Bangholme,144.17,ok
+21619,Maryknoll,20131,Bangholme,,no_eligible_route
+21625,McCrae,20131,Bangholme,,no_eligible_route
+21629,McKinnon,20131,Bangholme,79.73,ok
+21635,Meadow Heights,20131,Bangholme,176.0,ok
+21640,Melbourne,20131,Bangholme,113.5,ok
+21641,Melbourne Airport,20131,Bangholme,,no_eligible_route
+21642,Melton (Vic.),20131,Bangholme,,no_eligible_route
+21643,Melton South,20131,Bangholme,,no_eligible_route
+21644,Melton West,20131,Bangholme,,no_eligible_route
+21648,Mentone,20131,Bangholme,73.68,ok
+21649,Menzies Creek,20131,Bangholme,,no_eligible_route
+21659,Mernda,20131,Bangholme,200.5,ok
+21662,Merricks,20131,Bangholme,,no_eligible_route
+21663,Merricks Beach,20131,Bangholme,,no_eligible_route
+21664,Merricks North,20131,Bangholme,,no_eligible_route
+21668,Merrimu,20131,Bangholme,,no_eligible_route
+21675,Mickleham,20131,Bangholme,,no_eligible_route
+21677,Middle Park (Vic.),20131,Bangholme,130.23,ok
+21683,Mill Park,20131,Bangholme,177.37,ok
+21685,Millgrove,20131,Bangholme,,no_eligible_route
+21706,Mitcham (Vic.),20131,Bangholme,126.75,ok
+21727,Monbulk,20131,Bangholme,186.68,ok
+21728,Monegeetta,20131,Bangholme,,no_eligible_route
+21731,Monomeith,20131,Bangholme,,no_eligible_route
+21732,Mont Albert,20131,Bangholme,131.58,ok
+21733,Mont Albert North,20131,Bangholme,143.1,ok
+21735,Montmorency,20131,Bangholme,159.55,ok
+21736,Montrose (Vic.),20131,Bangholme,173.08,ok
+21742,Moonee Ponds,20131,Bangholme,132.47,ok
+21746,Moorabbin,20131,Bangholme,97.88,ok
+21747,Moorabbin Airport,20131,Bangholme,96.32,ok
+21754,Moorooduc,20131,Bangholme,,no_eligible_route
+21755,Mooroolbark,20131,Bangholme,153.15,ok
+21760,Mordialloc,20131,Bangholme,70.08,ok
+21763,Mornington (Vic.),20131,Bangholme,120.0,ok
+21779,Mount Burnett,20131,Bangholme,,no_eligible_route
+21786,Mount Cottrell,20131,Bangholme,,no_eligible_route
+21787,Mount Dandenong,20131,Bangholme,168.77,ok
+21793,Mount Eliza,20131,Bangholme,98.18,ok
+21795,Mount Evelyn,20131,Bangholme,182.73,ok
+21801,Mount Macedon,20131,Bangholme,,no_eligible_route
+21803,Mount Martha,20131,Bangholme,124.72,ok
+21814,Mount Toolebewong,20131,Bangholme,,no_eligible_route
+21816,Mount Waverley,20131,Bangholme,114.3,ok
+21827,Mulgrave (Vic.),20131,Bangholme,96.53,ok
+21849,Murrumbeena,20131,Bangholme,95.02,ok
+21872,Nangana,20131,Bangholme,,no_eligible_route
+21878,Nar Nar Goon,20131,Bangholme,,no_eligible_route
+21879,Nar Nar Goon North,20131,Bangholme,,no_eligible_route
+21893,Narre Warren,20131,Bangholme,88.72,ok
+21894,Narre Warren East,20131,Bangholme,,no_eligible_route
+21895,Narre Warren North,20131,Bangholme,98.53,ok
+21896,Narre Warren South,20131,Bangholme,103.08,ok
+21921,New Gisborne,20131,Bangholme,,no_eligible_route
+21934,Newport (Vic.),20131,Bangholme,137.4,ok
+21942,Niddrie,20131,Bangholme,160.35,ok
+21952,Noble Park,20131,Bangholme,71.55,ok
+21953,Noble Park North,20131,Bangholme,92.13,ok
+21966,North Melbourne,20131,Bangholme,120.63,ok
+21969,North Warrandyte,20131,Bangholme,189.25,ok
+21971,Northcote,20131,Bangholme,137.35,ok
+21974,Notting Hill,20131,Bangholme,105.28,ok
+21985,Nunawading,20131,Bangholme,110.85,ok
+21991,Nutfield,20131,Bangholme,,no_eligible_route
+21998,Oak Park,20131,Bangholme,150.78,ok
+21999,Oaklands Junction,20131,Bangholme,,no_eligible_route
+22000,Oakleigh,20131,Bangholme,87.5,ok
+22001,Oakleigh East,20131,Bangholme,97.32,ok
+22002,Oakleigh South,20131,Bangholme,94.13,ok
+22006,Officer,20131,Bangholme,102.82,ok
+22007,Officer South,20131,Bangholme,148.97,ok
+22009,Olinda (Vic.),20131,Bangholme,177.12,ok
+22016,Ormond,20131,Bangholme,84.75,ok
+22027,Pakenham,20131,Bangholme,101.87,ok
+22028,Pakenham South,20131,Bangholme,,no_eligible_route
+22029,Pakenham Upper,20131,Bangholme,,no_eligible_route
+22032,Panton Hill,20131,Bangholme,,no_eligible_route
+22036,Park Orchards,20131,Bangholme,139.58,ok
+22037,Parkdale,20131,Bangholme,74.58,ok
+22038,Parkville (Vic.),20131,Bangholme,129.25,ok
+22041,Pascoe Vale,20131,Bangholme,155.15,ok
+22042,Pascoe Vale South,20131,Bangholme,146.83,ok
+22047,Patterson Lakes,20131,Bangholme,40.25,ok
+22050,Pearcedale,20131,Bangholme,,no_eligible_route
+22058,Pentland Hills,20131,Bangholme,,no_eligible_route
+22064,Pheasant Creek (Vic.),20131,Bangholme,,no_eligible_route
+22084,Plenty (Vic.),20131,Bangholme,176.4,ok
+22085,Plumpton (Vic.),20131,Bangholme,,no_eligible_route
+22086,Point Cook,20131,Bangholme,,no_eligible_route
+22087,Point Leo,20131,Bangholme,,no_eligible_route
+22107,Port Melbourne,20131,Bangholme,140.68,ok
+22113,Portsea,20131,Bangholme,194.5,ok
+22115,Powelltown,20131,Bangholme,,no_eligible_route
+22118,Prahran,20131,Bangholme,110.25,ok
+22121,Preston (Vic.),20131,Bangholme,148.75,ok
+22122,Princes Hill,20131,Bangholme,132.4,ok
+22132,Quandong,20131,Bangholme,,no_eligible_route
+22141,Ravenhall,20131,Bangholme,,no_eligible_route
+22148,Red Hill (Vic.),20131,Bangholme,,no_eligible_route
+22149,Red Hill South,20131,Bangholme,,no_eligible_route
+22160,Research,20131,Bangholme,,no_eligible_route
+22161,Reservoir (Vic.),20131,Bangholme,150.97,ok
+22170,Richmond (Vic.),20131,Bangholme,122.27,ok
+22172,Riddells Creek,20131,Bangholme,,no_eligible_route
+22174,Ringwood (Vic.),20131,Bangholme,120.95,ok
+22175,Ringwood East,20131,Bangholme,134.62,ok
+22176,Ringwood North,20131,Bangholme,134.32,ok
+22179,Ripponlea,20131,Bangholme,114.2,ok
+22185,Rochford,20131,Bangholme,,no_eligible_route
+22186,Rockbank,20131,Bangholme,,no_eligible_route
+22193,Romsey,20131,Bangholme,,no_eligible_route
+22194,Rosanna,20131,Bangholme,147.85,ok
+22198,Rosebud,20131,Bangholme,,no_eligible_route
+22207,Rowville,20131,Bangholme,96.38,ok
+22208,Roxburgh Park,20131,Bangholme,180.63,ok
+22220,Rye,20131,Bangholme,186.72,ok
+22221,Rythdale,20131,Bangholme,,no_eligible_route
+22222,Safety Beach (Vic.),20131,Bangholme,141.68,ok
+22232,Sandhurst,20131,Bangholme,77.37,ok
+22234,Sandringham (Vic.),20131,Bangholme,102.68,ok
+22239,Sassafras (Vic.),20131,Bangholme,158.57,ok
+22242,Scoresby,20131,Bangholme,109.82,ok
+22247,Seabrook,20131,Bangholme,173.95,ok
+22249,Seaford (Vic.),20131,Bangholme,71.27,ok
+22250,Seaholme,20131,Bangholme,156.63,ok
+22256,Seddon (Vic.),20131,Bangholme,125.55,ok
+22258,Selby,20131,Bangholme,177.12,ok
+22263,Seville,20131,Bangholme,,no_eligible_route
+22264,Seville East,20131,Bangholme,,no_eligible_route
+22278,Sherbrooke,20131,Bangholme,169.3,ok
+22279,Shoreham,20131,Bangholme,,no_eligible_route
+22281,Silvan,20131,Bangholme,178.78,ok
+22291,Skye (Vic.),20131,Bangholme,81.4,ok
+22295,Smiths Gully,20131,Bangholme,,no_eligible_route
+22303,Somers,20131,Bangholme,144.98,ok
+22304,Somerton (Vic.),20131,Bangholme,189.65,ok
+22305,Somerville (Vic.),20131,Bangholme,121.27,ok
+22306,Sorrento (Vic.),20131,Bangholme,174.48,ok
+22309,South Kingsville,20131,Bangholme,149.65,ok
+22310,South Melbourne,20131,Bangholme,124.28,ok
+22311,South Morang,20131,Bangholme,186.13,ok
+22313,South Wharf,20131,Bangholme,128.6,ok
+22314,South Yarra,20131,Bangholme,99.13,ok
+22315,Southbank,20131,Bangholme,120.8,ok
+22319,Spotswood,20131,Bangholme,130.8,ok
+22325,Springfield (Macedon Ranges - Vic.),20131,Bangholme,,no_eligible_route
+22328,Springvale (Vic.),20131,Bangholme,77.28,ok
+22329,Springvale South,20131,Bangholme,68.42,ok
+22330,St Albans (Vic.),20131,Bangholme,143.48,ok
+22332,St Andrews (Vic.),20131,Bangholme,,no_eligible_route
+22333,St Andrews Beach,20131,Bangholme,,no_eligible_route
+22339,St Helena,20131,Bangholme,173.52,ok
+22343,St Kilda (Vic.),20131,Bangholme,116.85,ok
+22344,St Kilda East,20131,Bangholme,109.8,ok
+22345,St Kilda West,20131,Bangholme,122.58,ok
+22355,Steels Creek,20131,Bangholme,,no_eligible_route
+22375,Strathewen,20131,Bangholme,,no_eligible_route
+22380,Strathmore (Vic.),20131,Bangholme,158.95,ok
+22381,Strathmore Heights,20131,Bangholme,170.95,ok
+22382,Strathtulloh,20131,Bangholme,,no_eligible_route
+22391,Sunbury,20131,Bangholme,,no_eligible_route
+22395,Sunshine (Vic.),20131,Bangholme,132.27,ok
+22396,Sunshine North,20131,Bangholme,156.42,ok
+22397,Sunshine West,20131,Bangholme,162.12,ok
+22399,Surrey Hills,20131,Bangholme,138.92,ok
+22414,Sydenham (Vic.),20131,Bangholme,157.88,ok
+22451,Tarneit,20131,Bangholme,212.93,ok
+22457,Tarrawarra,20131,Bangholme,,no_eligible_route
+22473,Taylors Hill,20131,Bangholme,189.58,ok
+22474,Taylors Lakes,20131,Bangholme,162.77,ok
+22476,Tecoma,20131,Bangholme,135.52,ok
+22483,Templestowe,20131,Bangholme,148.28,ok
+22484,Templestowe Lower,20131,Bangholme,148.42,ok
+22496,The Basin (Vic.),20131,Bangholme,149.7,ok
+22501,The Patch,20131,Bangholme,177.25,ok
+22504,Thomastown,20131,Bangholme,159.45,ok
+22508,Thornbury,20131,Bangholme,143.23,ok
+22509,Thornhill Park,20131,Bangholme,,no_eligible_route
+22514,Three Bridges,20131,Bangholme,,no_eligible_route
+22531,Tonimbuk,20131,Bangholme,,no_eligible_route
+22536,Toolangi,20131,Bangholme,,no_eligible_route
+22537,Toolern Vale,20131,Bangholme,,no_eligible_route
+22546,Tooradin,20131,Bangholme,,no_eligible_route
+22547,Toorak,20131,Bangholme,113.6,ok
+22550,Tootgarook,20131,Bangholme,170.13,ok
+22556,Tottenham (Vic.),20131,Bangholme,159.7,ok
+22572,Travancore,20131,Bangholme,140.78,ok
+22576,Tremont,20131,Bangholme,146.5,ok
+22582,Truganina,20131,Bangholme,,no_eligible_route
+22584,Tuerong,20131,Bangholme,,no_eligible_route
+22586,Tullamarine,20131,Bangholme,180.18,ok
+22594,Tyabb,20131,Bangholme,110.13,ok
+22598,Tynong,20131,Bangholme,,no_eligible_route
+22599,Tynong North,20131,Bangholme,,no_eligible_route
+22614,Upper Ferntree Gully,20131,Bangholme,126.05,ok
+22617,Upper Plenty,20131,Bangholme,,no_eligible_route
+22620,Upwey,20131,Bangholme,135.38,ok
+22627,Vermont,20131,Bangholme,136.53,ok
+22628,Vermont South,20131,Bangholme,124.32,ok
+22629,Vervale,20131,Bangholme,,no_eligible_route
+22633,Viewbank,20131,Bangholme,181.02,ok
+22661,Wallan,20131,Bangholme,,no_eligible_route
+22672,Wandin East,20131,Bangholme,,no_eligible_route
+22673,Wandin North,20131,Bangholme,,no_eligible_route
+22676,Wandong,20131,Bangholme,,no_eligible_route
+22685,Wantirna,20131,Bangholme,115.32,ok
+22686,Wantirna South,20131,Bangholme,108.6,ok
+22689,Warburton (Vic.),20131,Bangholme,,no_eligible_route
+22695,Warneet,20131,Bangholme,,no_eligible_route
+22702,Warrandyte,20131,Bangholme,152.07,ok
+22703,Warrandyte South,20131,Bangholme,,no_eligible_route
+22704,Warranwood,20131,Bangholme,165.77,ok
+22717,Waterford Park,20131,Bangholme,,no_eligible_route
+22720,Waterways,20131,Bangholme,70.27,ok
+22721,Watsonia,20131,Bangholme,148.3,ok
+22722,Watsonia North,20131,Bangholme,168.68,ok
+22723,Watsons Creek (Vic.),20131,Bangholme,,no_eligible_route
+22727,Wattle Glen,20131,Bangholme,179.57,ok
+22740,Weir Views,20131,Bangholme,,no_eligible_route
+22750,Werribee,20131,Bangholme,176.95,ok
+22751,Werribee South,20131,Bangholme,,no_eligible_route
+22753,Wesburn,20131,Bangholme,,no_eligible_route
+22756,West Footscray,20131,Bangholme,136.43,ok
+22757,West Melbourne,20131,Bangholme,149.33,ok
+22761,Westmeadows,20131,Bangholme,168.77,ok
+22766,Wheelers Hill,20131,Bangholme,101.25,ok
+22775,Whittlesea,20131,Bangholme,,no_eligible_route
+22784,Wildwood,20131,Bangholme,,no_eligible_route
+22791,Williams Landing,20131,Bangholme,171.8,ok
+22792,Williamstown (Vic.),20131,Bangholme,139.62,ok
+22793,Williamstown North,20131,Bangholme,159.15,ok
+22805,Windsor (Vic.),20131,Bangholme,117.13,ok
+22820,Wollert,20131,Bangholme,210.83,ok
+22825,Wonga Park,20131,Bangholme,,no_eligible_route
+22843,Woodstock (Vic.),20131,Bangholme,,no_eligible_route
+22857,Woori Yallock,20131,Bangholme,,no_eligible_route
+22883,Wyndham Vale,20131,Bangholme,194.4,ok
+22892,Yallambie,20131,Bangholme,177.57,ok
+22898,Yan Yean,20131,Bangholme,205.4,ok
+22906,Yannathan,20131,Bangholme,,no_eligible_route
+22910,Yarra Glen,20131,Bangholme,,no_eligible_route
+22911,Yarra Junction,20131,Bangholme,,no_eligible_route
+22916,Yarrambat,20131,Bangholme,192.73,ok
+22917,Yarraville,20131,Bangholme,136.55,ok
+22925,Yellingbo,20131,Bangholme,,no_eligible_route
+22930,Yering,20131,Bangholme,,no_eligible_route
+22941,Yuroke,20131,Bangholme,,no_eligible_route

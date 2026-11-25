@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22174,Ringwood (Vic.),73.65,ok
+20003,Aberfeldie,22174,Ringwood (Vic.),94.6,ok
+20011,Aintree,22174,Ringwood (Vic.),139.93,ok
+20015,Airport West,22174,Ringwood (Vic.),109.63,ok
+20017,Albanvale,22174,Ringwood (Vic.),126.02,ok
+20018,Albert Park (Vic.),22174,Ringwood (Vic.),78.77,ok
+20021,Albion (Vic.),22174,Ringwood (Vic.),99.8,ok
+20034,Alphington,22174,Ringwood (Vic.),75.82,ok
+20035,Altona (Vic.),22174,Ringwood (Vic.),101.9,ok
+20036,Altona Meadows,22174,Ringwood (Vic.),107.85,ok
+20037,Altona North,22174,Ringwood (Vic.),105.3,ok
+20062,Ardeer,22174,Ringwood (Vic.),109.95,ok
+20066,Armadale (Vic.),22174,Ringwood (Vic.),68.05,ok
+20071,Arthurs Creek,22174,Ringwood (Vic.),,no_eligible_route
+20072,Arthurs Seat,22174,Ringwood (Vic.),,no_eligible_route
+20075,Ascot Vale,22174,Ringwood (Vic.),80.73,ok
+20077,Ashburton,22174,Ringwood (Vic.),55.65,ok
+20078,Ashwood,22174,Ringwood (Vic.),68.17,ok
+20079,Aspendale,22174,Ringwood (Vic.),111.3,ok
+20080,Aspendale Gardens,22174,Ringwood (Vic.),119.05,ok
+20082,Attwood,22174,Ringwood (Vic.),121.02,ok
+20089,Avondale Heights,22174,Ringwood (Vic.),112.33,ok
+20091,Avonsleigh,22174,Ringwood (Vic.),102.38,ok
+20095,Bacchus Marsh,22174,Ringwood (Vic.),,no_eligible_route
+20097,Badger Creek,22174,Ringwood (Vic.),103.67,ok
+20105,Balaclava (Vic.),22174,Ringwood (Vic.),66.68,ok
+20120,Balnarring,22174,Ringwood (Vic.),,no_eligible_route
+20121,Balnarring Beach,22174,Ringwood (Vic.),,no_eligible_route
+20123,Balwyn,22174,Ringwood (Vic.),48.78,ok
+20124,Balwyn North,22174,Ringwood (Vic.),52.75,ok
+20131,Bangholme,22174,Ringwood (Vic.),140.57,ok
+20169,Baxter,22174,Ringwood (Vic.),151.65,ok
+20171,Bayles,22174,Ringwood (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),22174,Ringwood (Vic.),32.15,ok
+20174,Bayswater North,22174,Ringwood (Vic.),35.87,ok
+20175,Beaconsfield (Vic.),22174,Ringwood (Vic.),126.32,ok
+20176,Beaconsfield Upper,22174,Ringwood (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),22174,Ringwood (Vic.),109.18,ok
+20187,Beenak,22174,Ringwood (Vic.),,no_eligible_route
+20188,Belgrave,22174,Ringwood (Vic.),46.53,ok
+20189,Belgrave Heights,22174,Ringwood (Vic.),69.2,ok
+20190,Belgrave South,22174,Ringwood (Vic.),70.18,ok
+20198,Bellfield (Banyule - Vic.),22174,Ringwood (Vic.),90.57,ok
+20207,Bend Of Islands,22174,Ringwood (Vic.),,no_eligible_route
+20212,Benloch,22174,Ringwood (Vic.),,no_eligible_route
+20214,Bentleigh,22174,Ringwood (Vic.),93.08,ok
+20215,Bentleigh East,22174,Ringwood (Vic.),82.23,ok
+20224,Berwick,22174,Ringwood (Vic.),99.12,ok
+20233,Beveridge,22174,Ringwood (Vic.),151.57,ok
+20237,Big Pats Creek,22174,Ringwood (Vic.),,no_eligible_route
+20248,Bittern,22174,Ringwood (Vic.),169.63,ok
+20251,Black Rock (Vic.),22174,Ringwood (Vic.),104.5,ok
+20252,Blackburn,22174,Ringwood (Vic.),28.62,ok
+20253,Blackburn North,22174,Ringwood (Vic.),40.77,ok
+20254,Blackburn South,22174,Ringwood (Vic.),46.82,ok
+20257,Blairgowrie,22174,Ringwood (Vic.),218.17,ok
+20260,Blind Bight,22174,Ringwood (Vic.),,no_eligible_route
+20272,Bolinda,22174,Ringwood (Vic.),,no_eligible_route
+20278,Bonbeach,22174,Ringwood (Vic.),116.3,ok
+20280,Boneo,22174,Ringwood (Vic.),,no_eligible_route
+20282,Bonnie Brook,22174,Ringwood (Vic.),172.48,ok
+20304,Boronia,22174,Ringwood (Vic.),34.62,ok
+20307,Botanic Ridge,22174,Ringwood (Vic.),141.98,ok
+20314,Box Hill (Vic.),22174,Ringwood (Vic.),35.83,ok
+20315,Box Hill North,22174,Ringwood (Vic.),44.5,ok
+20316,Box Hill South,22174,Ringwood (Vic.),42.98,ok
+20320,Braeside,22174,Ringwood (Vic.),125.9,ok
+20324,Braybrook,22174,Ringwood (Vic.),102.93,ok
+20331,Briar Hill,22174,Ringwood (Vic.),83.35,ok
+20337,Brighton (Vic.),22174,Ringwood (Vic.),79.45,ok
+20338,Brighton East,22174,Ringwood (Vic.),85.7,ok
+20346,Broadmeadows (Vic.),22174,Ringwood (Vic.),107.65,ok
+20351,Brookfield (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+20352,Brooklyn (Vic.),22174,Ringwood (Vic.),104.92,ok
+20361,Brunswick (Vic.),22174,Ringwood (Vic.),78.55,ok
+20362,Brunswick East,22174,Ringwood (Vic.),87.83,ok
+20363,Brunswick West,22174,Ringwood (Vic.),89.93,ok
+20381,Bulla (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+20386,Bulleen,22174,Ringwood (Vic.),73.65,ok
+20387,Bullengarook,22174,Ringwood (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),22174,Ringwood (Vic.),89.95,ok
+20411,Bunyip,22174,Ringwood (Vic.),,no_eligible_route
+20412,Bunyip North,22174,Ringwood (Vic.),,no_eligible_route
+20418,Burnley,22174,Ringwood (Vic.),60.25,ok
+20419,Burnside (Vic.),22174,Ringwood (Vic.),118.83,ok
+20420,Burnside Heights,22174,Ringwood (Vic.),126.65,ok
+20426,Burwood (Vic.),22174,Ringwood (Vic.),54.73,ok
+20427,Burwood East,22174,Ringwood (Vic.),47.97,ok
+20435,Bylands,22174,Ringwood (Vic.),,no_eligible_route
+20441,Cairnlea,22174,Ringwood (Vic.),108.02,ok
+20442,Calder Park,22174,Ringwood (Vic.),134.58,ok
+20443,Caldermeade,22174,Ringwood (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),22174,Ringwood (Vic.),54.58,ok
+20455,Campbellfield,22174,Ringwood (Vic.),112.3,ok
+20466,Cannons Creek,22174,Ringwood (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),22174,Ringwood (Vic.),43.07,ok
+20474,Cape Schanck,22174,Ringwood (Vic.),,no_eligible_route
+20476,Capel Sound,22174,Ringwood (Vic.),203.52,ok
+20487,Cardinia,22174,Ringwood (Vic.),,no_eligible_route
+20495,Carlton (Vic.),22174,Ringwood (Vic.),73.5,ok
+20496,Carlton North,22174,Ringwood (Vic.),84.6,ok
+20498,Carnegie,22174,Ringwood (Vic.),85.58,ok
+20500,Caroline Springs,22174,Ringwood (Vic.),127.72,ok
+20507,Carrum,22174,Ringwood (Vic.),116.12,ok
+20508,Carrum Downs,22174,Ringwood (Vic.),103.92,ok
+20512,Castella,22174,Ringwood (Vic.),,no_eligible_route
+20517,Catani,22174,Ringwood (Vic.),,no_eligible_route
+20521,Caulfield,22174,Ringwood (Vic.),84.88,ok
+20522,Caulfield East,22174,Ringwood (Vic.),77.9,ok
+20523,Caulfield North,22174,Ringwood (Vic.),71.4,ok
+20524,Caulfield South,22174,Ringwood (Vic.),91.33,ok
+20528,Chadstone,22174,Ringwood (Vic.),66.27,ok
+20537,Chelsea,22174,Ringwood (Vic.),111.37,ok
+20538,Chelsea Heights,22174,Ringwood (Vic.),124.05,ok
+20539,Cheltenham (Vic.),22174,Ringwood (Vic.),102.83,ok
+20541,Cherokee,22174,Ringwood (Vic.),,no_eligible_route
+20555,Chintin,22174,Ringwood (Vic.),,no_eligible_route
+20556,Chirnside Park,22174,Ringwood (Vic.),58.58,ok
+20559,Christmas Hills (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+20560,Chum Creek,22174,Ringwood (Vic.),,no_eligible_route
+20566,Clarinda,22174,Ringwood (Vic.),90.58,ok
+20567,Clarkefield,22174,Ringwood (Vic.),,no_eligible_route
+20569,Clayton,22174,Ringwood (Vic.),72.72,ok
+20570,Clayton South,22174,Ringwood (Vic.),95.9,ok
+20572,Clematis,22174,Ringwood (Vic.),73.8,ok
+20574,Clifton Hill,22174,Ringwood (Vic.),69.82,ok
+20576,Clonbinane,22174,Ringwood (Vic.),,no_eligible_route
+20581,Clyde (Vic.),22174,Ringwood (Vic.),149.82,ok
+20582,Clyde North,22174,Ringwood (Vic.),123.58,ok
+20587,Cobaw,22174,Ringwood (Vic.),,no_eligible_route
+20590,Cobblebank,22174,Ringwood (Vic.),179.63,ok
+20596,Coburg,22174,Ringwood (Vic.),85.28,ok
+20597,Coburg North,22174,Ringwood (Vic.),94.85,ok
+20600,Cockatoo (Vic.),22174,Ringwood (Vic.),106.07,ok
+20601,Cocoroc,22174,Ringwood (Vic.),,no_eligible_route
+20605,Coimadai,22174,Ringwood (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),22174,Ringwood (Vic.),66.8,ok
+20624,Coolaroo,22174,Ringwood (Vic.),105.25,ok
+20633,Cora Lynn,22174,Ringwood (Vic.),,no_eligible_route
+20654,Cottles Bridge,22174,Ringwood (Vic.),,no_eligible_route
+20661,Craigieburn,22174,Ringwood (Vic.),126.08,ok
+20662,Cranbourne,22174,Ringwood (Vic.),106.98,ok
+20663,Cranbourne East,22174,Ringwood (Vic.),112.87,ok
+20664,Cranbourne North,22174,Ringwood (Vic.),106.32,ok
+20665,Cranbourne South,22174,Ringwood (Vic.),145.33,ok
+20666,Cranbourne West,22174,Ringwood (Vic.),111.68,ok
+20670,Cremorne (Vic.),22174,Ringwood (Vic.),55.23,ok
+20674,Crib Point,22174,Ringwood (Vic.),178.6,ok
+20682,Croydon (Vic.),22174,Ringwood (Vic.),25.37,ok
+20683,Croydon Hills,22174,Ringwood (Vic.),37.68,ok
+20684,Croydon North,22174,Ringwood (Vic.),39.65,ok
+20685,Croydon South,22174,Ringwood (Vic.),47.48,ok
+20702,Dallas,22174,Ringwood (Vic.),106.95,ok
+20703,Dalmore,22174,Ringwood (Vic.),,no_eligible_route
+20707,Dandenong,22174,Ringwood (Vic.),72.43,ok
+20708,Dandenong North,22174,Ringwood (Vic.),71.85,ok
+20709,Dandenong South,22174,Ringwood (Vic.),98.08,ok
+20712,Darley,22174,Ringwood (Vic.),,no_eligible_route
+20716,Darraweit Guim,22174,Ringwood (Vic.),,no_eligible_route
+20724,Deanside,22174,Ringwood (Vic.),149.08,ok
+20728,Deepdene (Vic.),22174,Ringwood (Vic.),47.68,ok
+20729,Deer Park,22174,Ringwood (Vic.),107.78,ok
+20731,Delahey,22174,Ringwood (Vic.),124.45,ok
+20743,Derrimut,22174,Ringwood (Vic.),140.67,ok
+20748,Devon Meadows,22174,Ringwood (Vic.),,no_eligible_route
+20750,Dewhurst,22174,Ringwood (Vic.),,no_eligible_route
+20752,Diamond Creek,22174,Ringwood (Vic.),90.08,ok
+20754,Diggers Rest,22174,Ringwood (Vic.),127.9,ok
+20758,Dingley Village,22174,Ringwood (Vic.),101.75,ok
+20762,Dixons Creek,22174,Ringwood (Vic.),,no_eligible_route
+20766,Docklands,22174,Ringwood (Vic.),75.83,ok
+20769,Don Valley,22174,Ringwood (Vic.),,no_eligible_route
+20771,Doncaster,22174,Ringwood (Vic.),49.45,ok
+20772,Doncaster East,22174,Ringwood (Vic.),52.83,ok
+20773,Donnybrook (Vic.),22174,Ringwood (Vic.),146.1,ok
+20774,Donvale,22174,Ringwood (Vic.),55.42,ok
+20779,Doreen,22174,Ringwood (Vic.),132.85,ok
+20783,Doveton,22174,Ringwood (Vic.),86.22,ok
+20788,Dromana,22174,Ringwood (Vic.),,no_eligible_route
+20825,Eaglemont,22174,Ringwood (Vic.),78.42,ok
+20830,East Melbourne,22174,Ringwood (Vic.),62.42,ok
+20833,East Warburton,22174,Ringwood (Vic.),,no_eligible_route
+20843,Eden Park,22174,Ringwood (Vic.),,no_eligible_route
+20848,Edithvale,22174,Ringwood (Vic.),86.85,ok
+20864,Elsternwick,22174,Ringwood (Vic.),74.6,ok
+20865,Eltham (Vic.),22174,Ringwood (Vic.),80.33,ok
+20866,Eltham North,22174,Ringwood (Vic.),84.82,ok
+20867,Elwood,22174,Ringwood (Vic.),80.78,ok
+20868,Emerald (Vic.),22174,Ringwood (Vic.),100.98,ok
+20871,Endeavour Hills,22174,Ringwood (Vic.),86.85,ok
+20878,Epping (Vic.),22174,Ringwood (Vic.),131.03,ok
+20885,Essendon,22174,Ringwood (Vic.),89.95,ok
+20886,Essendon Fields,22174,Ringwood (Vic.),108.87,ok
+20887,Essendon North,22174,Ringwood (Vic.),92.97,ok
+20888,Essendon West,22174,Ringwood (Vic.),90.82,ok
+20889,Eumemmerring,22174,Ringwood (Vic.),87.72,ok
+20898,Exford,22174,Ringwood (Vic.),,no_eligible_route
+20899,Eynesbury,22174,Ringwood (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),22174,Ringwood (Vic.),83.25,ok
+20909,Fawkner,22174,Ringwood (Vic.),113.75,ok
+20916,Fernshaw,22174,Ringwood (Vic.),,no_eligible_route
+20917,Ferntree Gully,22174,Ringwood (Vic.),47.15,ok
+20918,Ferny Creek,22174,Ringwood (Vic.),81.82,ok
+20920,Fingal (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),22174,Ringwood (Vic.),67.43,ok
+20925,Fitzroy North,22174,Ringwood (Vic.),75.03,ok
+20929,Flemington,22174,Ringwood (Vic.),83.57,ok
+20930,Flinders (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+20935,Footscray,22174,Ringwood (Vic.),79.67,ok
+20937,Forest Hill (Vic.),22174,Ringwood (Vic.),44.95,ok
+20947,Frankston,22174,Ringwood (Vic.),125.03,ok
+20948,Frankston North,22174,Ringwood (Vic.),123.95,ok
+20949,Frankston South,22174,Ringwood (Vic.),163.02,ok
+20950,Fraser Rise,22174,Ringwood (Vic.),145.33,ok
+20965,Gardenvale,22174,Ringwood (Vic.),75.88,ok
+20966,Garfield,22174,Ringwood (Vic.),,no_eligible_route
+20967,Garfield North,22174,Ringwood (Vic.),,no_eligible_route
+20979,Gembrook,22174,Ringwood (Vic.),,no_eligible_route
+20995,Gilderoy,22174,Ringwood (Vic.),,no_eligible_route
+21001,Gisborne,22174,Ringwood (Vic.),,no_eligible_route
+21002,Gisborne South,22174,Ringwood (Vic.),,no_eligible_route
+21004,Gladstone Park,22174,Ringwood (Vic.),121.85,ok
+21005,Gladysdale,22174,Ringwood (Vic.),,no_eligible_route
+21009,Glen Huntly,22174,Ringwood (Vic.),84.62,ok
+21010,Glen Iris (Vic.),22174,Ringwood (Vic.),64.65,ok
+21013,Glen Waverley,22174,Ringwood (Vic.),52.47,ok
+21047,Glenroy (Vic.),22174,Ringwood (Vic.),101.03,ok
+21059,Goldie,22174,Ringwood (Vic.),,no_eligible_route
+21079,Gowanbrae,22174,Ringwood (Vic.),121.3,ok
+21087,Grangefields,22174,Ringwood (Vic.),176.93,ok
+21104,Greensborough,22174,Ringwood (Vic.),77.27,ok
+21105,Greenvale (Vic.),22174,Ringwood (Vic.),129.18,ok
+21115,Gruyere,22174,Ringwood (Vic.),,no_eligible_route
+21121,Guys Hill,22174,Ringwood (Vic.),,no_eligible_route
+21124,Hadfield,22174,Ringwood (Vic.),114.78,ok
+21125,Hallam,22174,Ringwood (Vic.),103.8,ok
+21131,Hampton (Vic.),22174,Ringwood (Vic.),88.28,ok
+21132,Hampton East,22174,Ringwood (Vic.),99.85,ok
+21133,Hampton Park,22174,Ringwood (Vic.),103.12,ok
+21139,Harkaway,22174,Ringwood (Vic.),,no_eligible_route
+21140,Harkness,22174,Ringwood (Vic.),,no_eligible_route
+21145,Hastings (Vic.),22174,Ringwood (Vic.),171.17,ok
+21152,Hawthorn (Vic.),22174,Ringwood (Vic.),52.65,ok
+21153,Hawthorn East,22174,Ringwood (Vic.),51.72,ok
+21158,Healesville,22174,Ringwood (Vic.),107.58,ok
+21159,Heath Hill,22174,Ringwood (Vic.),,no_eligible_route
+21161,Heathcote Junction,22174,Ringwood (Vic.),,no_eligible_route
+21163,Heatherton,22174,Ringwood (Vic.),98.18,ok
+21165,Heathmont,22174,Ringwood (Vic.),22.42,ok
+21167,Heidelberg,22174,Ringwood (Vic.),76.22,ok
+21168,Heidelberg Heights,22174,Ringwood (Vic.),84.48,ok
+21169,Heidelberg West,22174,Ringwood (Vic.),95.1,ok
+21176,Hesket,22174,Ringwood (Vic.),,no_eligible_route
+21185,Highett,22174,Ringwood (Vic.),91.62,ok
+21193,Hillside (Melton - Vic.),22174,Ringwood (Vic.),127.98,ok
+21195,Hmas Cerberus,22174,Ringwood (Vic.),,no_eligible_route
+21196,Hoddles Creek,22174,Ringwood (Vic.),,no_eligible_route
+21202,Hopetoun Park,22174,Ringwood (Vic.),,no_eligible_route
+21203,Hoppers Crossing,22174,Ringwood (Vic.),116.02,ok
+21214,Hughesdale,22174,Ringwood (Vic.),78.45,ok
+21215,Humevale,22174,Ringwood (Vic.),,no_eligible_route
+21218,Huntingdale (Vic.),22174,Ringwood (Vic.),79.45,ok
+21223,Hurstbridge,22174,Ringwood (Vic.),90.63,ok
+21238,Iona,22174,Ringwood (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),22174,Ringwood (Vic.),80.5,ok
+21247,Ivanhoe East,22174,Ringwood (Vic.),77.97,ok
+21248,Jacana,22174,Ringwood (Vic.),107.07,ok
+21277,Junction Village,22174,Ringwood (Vic.),146.32,ok
+21284,Kalkallo,22174,Ringwood (Vic.),143.1,ok
+21286,Kallista,22174,Ringwood (Vic.),85.25,ok
+21287,Kalorama,22174,Ringwood (Vic.),56.52,ok
+21294,Kangaroo Ground,22174,Ringwood (Vic.),81.73,ok
+21312,Kealba,22174,Ringwood (Vic.),111.17,ok
+21314,Keilor,22174,Ringwood (Vic.),131.32,ok
+21315,Keilor Downs,22174,Ringwood (Vic.),127.15,ok
+21316,Keilor East,22174,Ringwood (Vic.),105.18,ok
+21317,Keilor Lodge,22174,Ringwood (Vic.),130.77,ok
+21318,Keilor North,22174,Ringwood (Vic.),136.83,ok
+21319,Keilor Park,22174,Ringwood (Vic.),113.1,ok
+21327,Kensington (Vic.),22174,Ringwood (Vic.),74.35,ok
+21333,Kerrie,22174,Ringwood (Vic.),,no_eligible_route
+21336,Kew (Vic.),22174,Ringwood (Vic.),66.1,ok
+21337,Kew East,22174,Ringwood (Vic.),75.73,ok
+21339,Keysborough,22174,Ringwood (Vic.),103.07,ok
+21354,Kilsyth,22174,Ringwood (Vic.),43.25,ok
+21355,Kilsyth South,22174,Ringwood (Vic.),60.98,ok
+21358,Kinglake,22174,Ringwood (Vic.),,no_eligible_route
+21359,Kinglake Central,22174,Ringwood (Vic.),,no_eligible_route
+21360,Kinglake West,22174,Ringwood (Vic.),,no_eligible_route
+21362,Kings Park (Vic.),22174,Ringwood (Vic.),123.15,ok
+21363,Kingsbury,22174,Ringwood (Vic.),107.58,ok
+21365,Kingsville,22174,Ringwood (Vic.),93.15,ok
+21374,Knoxfield,22174,Ringwood (Vic.),48.57,ok
+21380,Koo Wee Rup,22174,Ringwood (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,22174,Ringwood (Vic.),,no_eligible_route
+21393,Kooyong,22174,Ringwood (Vic.),63.9,ok
+21411,Kurunjang,22174,Ringwood (Vic.),197.72,ok
+21452,Lalor,22174,Ringwood (Vic.),103.1,ok
+21456,Lancefield,22174,Ringwood (Vic.),,no_eligible_route
+21459,Lang Lang,22174,Ringwood (Vic.),,no_eligible_route
+21460,Lang Lang East,22174,Ringwood (Vic.),,no_eligible_route
+21467,Langwarrin,22174,Ringwood (Vic.),143.62,ok
+21468,Langwarrin South,22174,Ringwood (Vic.),,no_eligible_route
+21473,Launching Place,22174,Ringwood (Vic.),71.22,ok
+21476,Laverton (Vic.),22174,Ringwood (Vic.),96.5,ok
+21477,Laverton North,22174,Ringwood (Vic.),132.92,ok
+21504,Lilydale (Vic.),22174,Ringwood (Vic.),48.87,ok
+21533,Long Forest,22174,Ringwood (Vic.),,no_eligible_route
+21547,Lower Plenty,22174,Ringwood (Vic.),95.62,ok
+21554,Lynbrook,22174,Ringwood (Vic.),95.48,ok
+21555,Lyndhurst (Vic.),22174,Ringwood (Vic.),146.07,ok
+21558,Lysterfield,22174,Ringwood (Vic.),107.13,ok
+21559,Lysterfield South,22174,Ringwood (Vic.),112.8,ok
+21561,Macclesfield (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+21562,Macedon,22174,Ringwood (Vic.),,no_eligible_route
+21564,Macleod (Vic.),22174,Ringwood (Vic.),91.77,ok
+21569,Maddingley,22174,Ringwood (Vic.),,no_eligible_route
+21575,Maidstone,22174,Ringwood (Vic.),97.03,ok
+21578,Main Ridge,22174,Ringwood (Vic.),,no_eligible_route
+21586,Malvern (Vic.),22174,Ringwood (Vic.),65.37,ok
+21587,Malvern East,22174,Ringwood (Vic.),71.43,ok
+21588,Mambourin,22174,Ringwood (Vic.),,no_eligible_route
+21597,Manor Lakes,22174,Ringwood (Vic.),150.97,ok
+21604,Maribyrnong,22174,Ringwood (Vic.),98.55,ok
+21619,Maryknoll,22174,Ringwood (Vic.),,no_eligible_route
+21625,McCrae,22174,Ringwood (Vic.),,no_eligible_route
+21629,McKinnon,22174,Ringwood (Vic.),80.92,ok
+21635,Meadow Heights,22174,Ringwood (Vic.),119.95,ok
+21640,Melbourne,22174,Ringwood (Vic.),56.52,ok
+21641,Melbourne Airport,22174,Ringwood (Vic.),,no_eligible_route
+21642,Melton (Vic.),22174,Ringwood (Vic.),181.85,ok
+21643,Melton South,22174,Ringwood (Vic.),195.45,ok
+21644,Melton West,22174,Ringwood (Vic.),190.68,ok
+21648,Mentone,22174,Ringwood (Vic.),95.27,ok
+21649,Menzies Creek,22174,Ringwood (Vic.),72.6,ok
+21659,Mernda,22174,Ringwood (Vic.),137.58,ok
+21662,Merricks,22174,Ringwood (Vic.),,no_eligible_route
+21663,Merricks Beach,22174,Ringwood (Vic.),,no_eligible_route
+21664,Merricks North,22174,Ringwood (Vic.),,no_eligible_route
+21668,Merrimu,22174,Ringwood (Vic.),,no_eligible_route
+21675,Mickleham,22174,Ringwood (Vic.),150.08,ok
+21677,Middle Park (Vic.),22174,Ringwood (Vic.),83.05,ok
+21683,Mill Park,22174,Ringwood (Vic.),115.17,ok
+21685,Millgrove,22174,Ringwood (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),22174,Ringwood (Vic.),27.12,ok
+21727,Monbulk,22174,Ringwood (Vic.),92.53,ok
+21728,Monegeetta,22174,Ringwood (Vic.),,no_eligible_route
+21731,Monomeith,22174,Ringwood (Vic.),,no_eligible_route
+21732,Mont Albert,22174,Ringwood (Vic.),42.47,ok
+21733,Mont Albert North,22174,Ringwood (Vic.),51.27,ok
+21735,Montmorency,22174,Ringwood (Vic.),78.45,ok
+21736,Montrose (Vic.),22174,Ringwood (Vic.),47.82,ok
+21742,Moonee Ponds,22174,Ringwood (Vic.),76.42,ok
+21746,Moorabbin,22174,Ringwood (Vic.),97.87,ok
+21747,Moorabbin Airport,22174,Ringwood (Vic.),111.75,ok
+21754,Moorooduc,22174,Ringwood (Vic.),,no_eligible_route
+21755,Mooroolbark,22174,Ringwood (Vic.),41.75,ok
+21760,Mordialloc,22174,Ringwood (Vic.),112.9,ok
+21763,Mornington (Vic.),22174,Ringwood (Vic.),165.95,ok
+21779,Mount Burnett,22174,Ringwood (Vic.),,no_eligible_route
+21786,Mount Cottrell,22174,Ringwood (Vic.),,no_eligible_route
+21787,Mount Dandenong,22174,Ringwood (Vic.),62.53,ok
+21793,Mount Eliza,22174,Ringwood (Vic.),144.13,ok
+21795,Mount Evelyn,22174,Ringwood (Vic.),60.6,ok
+21801,Mount Macedon,22174,Ringwood (Vic.),,no_eligible_route
+21803,Mount Martha,22174,Ringwood (Vic.),165.23,ok
+21814,Mount Toolebewong,22174,Ringwood (Vic.),,no_eligible_route
+21816,Mount Waverley,22174,Ringwood (Vic.),61.25,ok
+21827,Mulgrave (Vic.),22174,Ringwood (Vic.),81.43,ok
+21849,Murrumbeena,22174,Ringwood (Vic.),85.7,ok
+21872,Nangana,22174,Ringwood (Vic.),,no_eligible_route
+21878,Nar Nar Goon,22174,Ringwood (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,22174,Ringwood (Vic.),,no_eligible_route
+21893,Narre Warren,22174,Ringwood (Vic.),103.5,ok
+21894,Narre Warren East,22174,Ringwood (Vic.),,no_eligible_route
+21895,Narre Warren North,22174,Ringwood (Vic.),116.48,ok
+21896,Narre Warren South,22174,Ringwood (Vic.),106.03,ok
+21921,New Gisborne,22174,Ringwood (Vic.),,no_eligible_route
+21934,Newport (Vic.),22174,Ringwood (Vic.),81.35,ok
+21942,Niddrie,22174,Ringwood (Vic.),102.58,ok
+21952,Noble Park,22174,Ringwood (Vic.),86.8,ok
+21953,Noble Park North,22174,Ringwood (Vic.),93.7,ok
+21966,North Melbourne,22174,Ringwood (Vic.),78.78,ok
+21969,North Warrandyte,22174,Ringwood (Vic.),57.58,ok
+21971,Northcote,22174,Ringwood (Vic.),82.83,ok
+21974,Notting Hill,22174,Ringwood (Vic.),58.05,ok
+21985,Nunawading,22174,Ringwood (Vic.),25.05,ok
+21991,Nutfield,22174,Ringwood (Vic.),,no_eligible_route
+21998,Oak Park,22174,Ringwood (Vic.),94.73,ok
+21999,Oaklands Junction,22174,Ringwood (Vic.),,no_eligible_route
+22000,Oakleigh,22174,Ringwood (Vic.),67.5,ok
+22001,Oakleigh East,22174,Ringwood (Vic.),77.7,ok
+22002,Oakleigh South,22174,Ringwood (Vic.),68.52,ok
+22006,Officer,22174,Ringwood (Vic.),118.77,ok
+22007,Officer South,22174,Ringwood (Vic.),153.33,ok
+22009,Olinda (Vic.),22174,Ringwood (Vic.),85.13,ok
+22016,Ormond,22174,Ringwood (Vic.),81.35,ok
+22027,Pakenham,22174,Ringwood (Vic.),117.82,ok
+22028,Pakenham South,22174,Ringwood (Vic.),,no_eligible_route
+22029,Pakenham Upper,22174,Ringwood (Vic.),,no_eligible_route
+22032,Panton Hill,22174,Ringwood (Vic.),,no_eligible_route
+22036,Park Orchards,22174,Ringwood (Vic.),28.33,ok
+22037,Parkdale,22174,Ringwood (Vic.),102.68,ok
+22038,Parkville (Vic.),22174,Ringwood (Vic.),81.63,ok
+22041,Pascoe Vale,22174,Ringwood (Vic.),99.1,ok
+22042,Pascoe Vale South,22174,Ringwood (Vic.),94.83,ok
+22047,Patterson Lakes,22174,Ringwood (Vic.),124.98,ok
+22050,Pearcedale,22174,Ringwood (Vic.),162.63,ok
+22058,Pentland Hills,22174,Ringwood (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+22084,Plenty (Vic.),22174,Ringwood (Vic.),103.83,ok
+22085,Plumpton (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+22086,Point Cook,22174,Ringwood (Vic.),113.73,ok
+22087,Point Leo,22174,Ringwood (Vic.),,no_eligible_route
+22107,Port Melbourne,22174,Ringwood (Vic.),80.35,ok
+22113,Portsea,22174,Ringwood (Vic.),,no_eligible_route
+22115,Powelltown,22174,Ringwood (Vic.),,no_eligible_route
+22118,Prahran,22174,Ringwood (Vic.),68.23,ok
+22121,Preston (Vic.),22174,Ringwood (Vic.),91.37,ok
+22122,Princes Hill,22174,Ringwood (Vic.),78.78,ok
+22132,Quandong,22174,Ringwood (Vic.),,no_eligible_route
+22141,Ravenhall,22174,Ringwood (Vic.),156.53,ok
+22148,Red Hill (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+22149,Red Hill South,22174,Ringwood (Vic.),,no_eligible_route
+22160,Research,22174,Ringwood (Vic.),63.48,ok
+22161,Reservoir (Vic.),22174,Ringwood (Vic.),99.92,ok
+22170,Richmond (Vic.),22174,Ringwood (Vic.),60.92,ok
+22172,Riddells Creek,22174,Ringwood (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),22174,Ringwood (Vic.),0.0,same_centroid
+22175,Ringwood East,22174,Ringwood (Vic.),25.35,ok
+22176,Ringwood North,22174,Ringwood (Vic.),20.07,ok
+22179,Ripponlea,22174,Ringwood (Vic.),65.32,ok
+22185,Rochford,22174,Ringwood (Vic.),,no_eligible_route
+22186,Rockbank,22174,Ringwood (Vic.),155.12,ok
+22193,Romsey,22174,Ringwood (Vic.),,no_eligible_route
+22194,Rosanna,22174,Ringwood (Vic.),83.07,ok
+22198,Rosebud,22174,Ringwood (Vic.),,no_eligible_route
+22207,Rowville,22174,Ringwood (Vic.),63.23,ok
+22208,Roxburgh Park,22174,Ringwood (Vic.),119.35,ok
+22220,Rye,22174,Ringwood (Vic.),226.23,ok
+22221,Rythdale,22174,Ringwood (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),22174,Ringwood (Vic.),181.2,ok
+22232,Sandhurst,22174,Ringwood (Vic.),129.85,ok
+22234,Sandringham (Vic.),22174,Ringwood (Vic.),93.17,ok
+22239,Sassafras (Vic.),22174,Ringwood (Vic.),66.58,ok
+22242,Scoresby,22174,Ringwood (Vic.),62.45,ok
+22247,Seabrook,22174,Ringwood (Vic.),104.8,ok
+22249,Seaford (Vic.),22174,Ringwood (Vic.),122.93,ok
+22250,Seaholme,22174,Ringwood (Vic.),96.58,ok
+22256,Seddon (Vic.),22174,Ringwood (Vic.),79.6,ok
+22258,Selby,22174,Ringwood (Vic.),72.27,ok
+22263,Seville,22174,Ringwood (Vic.),84.38,ok
+22264,Seville East,22174,Ringwood (Vic.),69.27,ok
+22278,Sherbrooke,22174,Ringwood (Vic.),75.32,ok
+22279,Shoreham,22174,Ringwood (Vic.),,no_eligible_route
+22281,Silvan,22174,Ringwood (Vic.),73.77,ok
+22291,Skye (Vic.),22174,Ringwood (Vic.),114.23,ok
+22295,Smiths Gully,22174,Ringwood (Vic.),,no_eligible_route
+22303,Somers,22174,Ringwood (Vic.),,no_eligible_route
+22304,Somerton (Vic.),22174,Ringwood (Vic.),123.72,ok
+22305,Somerville (Vic.),22174,Ringwood (Vic.),176.22,ok
+22306,Sorrento (Vic.),22174,Ringwood (Vic.),217.0,ok
+22309,South Kingsville,22174,Ringwood (Vic.),98.6,ok
+22310,South Melbourne,22174,Ringwood (Vic.),67.82,ok
+22311,South Morang,22174,Ringwood (Vic.),124.35,ok
+22313,South Wharf,22174,Ringwood (Vic.),73.35,ok
+22314,South Yarra,22174,Ringwood (Vic.),56.08,ok
+22315,Southbank,22174,Ringwood (Vic.),63.38,ok
+22319,Spotswood,22174,Ringwood (Vic.),79.75,ok
+22325,Springfield (Macedon Ranges - Vic.),22174,Ringwood (Vic.),,no_eligible_route
+22328,Springvale (Vic.),22174,Ringwood (Vic.),83.95,ok
+22329,Springvale South,22174,Ringwood (Vic.),68.57,ok
+22330,St Albans (Vic.),22174,Ringwood (Vic.),102.43,ok
+22332,St Andrews (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+22333,St Andrews Beach,22174,Ringwood (Vic.),,no_eligible_route
+22339,St Helena,22174,Ringwood (Vic.),98.2,ok
+22343,St Kilda (Vic.),22174,Ringwood (Vic.),77.32,ok
+22344,St Kilda East,22174,Ringwood (Vic.),71.75,ok
+22345,St Kilda West,22174,Ringwood (Vic.),81.73,ok
+22355,Steels Creek,22174,Ringwood (Vic.),,no_eligible_route
+22375,Strathewen,22174,Ringwood (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),22174,Ringwood (Vic.),102.9,ok
+22381,Strathmore Heights,22174,Ringwood (Vic.),110.37,ok
+22382,Strathtulloh,22174,Ringwood (Vic.),,no_eligible_route
+22391,Sunbury,22174,Ringwood (Vic.),161.72,ok
+22395,Sunshine (Vic.),22174,Ringwood (Vic.),91.22,ok
+22396,Sunshine North,22174,Ringwood (Vic.),107.28,ok
+22397,Sunshine West,22174,Ringwood (Vic.),118.57,ok
+22399,Surrey Hills,22174,Ringwood (Vic.),42.82,ok
+22414,Sydenham (Vic.),22174,Ringwood (Vic.),116.83,ok
+22451,Tarneit,22174,Ringwood (Vic.),130.8,ok
+22457,Tarrawarra,22174,Ringwood (Vic.),83.18,ok
+22473,Taylors Hill,22174,Ringwood (Vic.),128.83,ok
+22474,Taylors Lakes,22174,Ringwood (Vic.),121.72,ok
+22476,Tecoma,22174,Ringwood (Vic.),43.53,ok
+22483,Templestowe,22174,Ringwood (Vic.),67.32,ok
+22484,Templestowe Lower,22174,Ringwood (Vic.),71.8,ok
+22496,The Basin (Vic.),22174,Ringwood (Vic.),53.02,ok
+22501,The Patch,22174,Ringwood (Vic.),83.27,ok
+22504,Thomastown,22174,Ringwood (Vic.),108.4,ok
+22508,Thornbury,22174,Ringwood (Vic.),89.0,ok
+22509,Thornhill Park,22174,Ringwood (Vic.),,no_eligible_route
+22514,Three Bridges,22174,Ringwood (Vic.),,no_eligible_route
+22531,Tonimbuk,22174,Ringwood (Vic.),,no_eligible_route
+22536,Toolangi,22174,Ringwood (Vic.),,no_eligible_route
+22537,Toolern Vale,22174,Ringwood (Vic.),,no_eligible_route
+22546,Tooradin,22174,Ringwood (Vic.),,no_eligible_route
+22547,Toorak,22174,Ringwood (Vic.),71.03,ok
+22550,Tootgarook,22174,Ringwood (Vic.),209.65,ok
+22556,Tottenham (Vic.),22174,Ringwood (Vic.),114.92,ok
+22572,Travancore,22174,Ringwood (Vic.),79.17,ok
+22576,Tremont,22174,Ringwood (Vic.),58.72,ok
+22582,Truganina,22174,Ringwood (Vic.),189.95,ok
+22584,Tuerong,22174,Ringwood (Vic.),,no_eligible_route
+22586,Tullamarine,22174,Ringwood (Vic.),128.15,ok
+22594,Tyabb,22174,Ringwood (Vic.),165.08,ok
+22598,Tynong,22174,Ringwood (Vic.),,no_eligible_route
+22599,Tynong North,22174,Ringwood (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,22174,Ringwood (Vic.),39.68,ok
+22617,Upper Plenty,22174,Ringwood (Vic.),,no_eligible_route
+22620,Upwey,22174,Ringwood (Vic.),43.4,ok
+22627,Vermont,22174,Ringwood (Vic.),24.8,ok
+22628,Vermont South,22174,Ringwood (Vic.),36.68,ok
+22629,Vervale,22174,Ringwood (Vic.),,no_eligible_route
+22633,Viewbank,22174,Ringwood (Vic.),97.75,ok
+22661,Wallan,22174,Ringwood (Vic.),,no_eligible_route
+22672,Wandin East,22174,Ringwood (Vic.),,no_eligible_route
+22673,Wandin North,22174,Ringwood (Vic.),55.35,ok
+22676,Wandong,22174,Ringwood (Vic.),,no_eligible_route
+22685,Wantirna,22174,Ringwood (Vic.),35.1,ok
+22686,Wantirna South,22174,Ringwood (Vic.),49.95,ok
+22689,Warburton (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+22695,Warneet,22174,Ringwood (Vic.),,no_eligible_route
+22702,Warrandyte,22174,Ringwood (Vic.),37.98,ok
+22703,Warrandyte South,22174,Ringwood (Vic.),53.37,ok
+22704,Warranwood,22174,Ringwood (Vic.),28.03,ok
+22717,Waterford Park,22174,Ringwood (Vic.),,no_eligible_route
+22720,Waterways,22174,Ringwood (Vic.),108.0,ok
+22721,Watsonia,22174,Ringwood (Vic.),86.63,ok
+22722,Watsonia North,22174,Ringwood (Vic.),93.5,ok
+22723,Watsons Creek (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+22727,Wattle Glen,22174,Ringwood (Vic.),94.38,ok
+22740,Weir Views,22174,Ringwood (Vic.),,no_eligible_route
+22750,Werribee,22174,Ringwood (Vic.),108.53,ok
+22751,Werribee South,22174,Ringwood (Vic.),,no_eligible_route
+22753,Wesburn,22174,Ringwood (Vic.),87.32,ok
+22756,West Footscray,22174,Ringwood (Vic.),92.92,ok
+22757,West Melbourne,22174,Ringwood (Vic.),85.32,ok
+22761,Westmeadows,22174,Ringwood (Vic.),113.77,ok
+22766,Wheelers Hill,22174,Ringwood (Vic.),64.33,ok
+22775,Whittlesea,22174,Ringwood (Vic.),,no_eligible_route
+22784,Wildwood,22174,Ringwood (Vic.),,no_eligible_route
+22791,Williams Landing,22174,Ringwood (Vic.),110.75,ok
+22792,Williamstown (Vic.),22174,Ringwood (Vic.),88.57,ok
+22793,Williamstown North,22174,Ringwood (Vic.),99.05,ok
+22805,Windsor (Vic.),22174,Ringwood (Vic.),62.58,ok
+22820,Wollert,22174,Ringwood (Vic.),138.62,ok
+22825,Wonga Park,22174,Ringwood (Vic.),47.08,ok
+22843,Woodstock (Vic.),22174,Ringwood (Vic.),,no_eligible_route
+22857,Woori Yallock,22174,Ringwood (Vic.),66.47,ok
+22883,Wyndham Vale,22174,Ringwood (Vic.),138.35,ok
+22892,Yallambie,22174,Ringwood (Vic.),89.35,ok
+22898,Yan Yean,22174,Ringwood (Vic.),157.92,ok
+22906,Yannathan,22174,Ringwood (Vic.),,no_eligible_route
+22910,Yarra Glen,22174,Ringwood (Vic.),79.48,ok
+22911,Yarra Junction,22174,Ringwood (Vic.),91.58,ok
+22916,Yarrambat,22174,Ringwood (Vic.),100.4,ok
+22917,Yarraville,22174,Ringwood (Vic.),85.5,ok
+22925,Yellingbo,22174,Ringwood (Vic.),,no_eligible_route
+22930,Yering,22174,Ringwood (Vic.),,no_eligible_route
+22941,Yuroke,22174,Ringwood (Vic.),176.72,ok

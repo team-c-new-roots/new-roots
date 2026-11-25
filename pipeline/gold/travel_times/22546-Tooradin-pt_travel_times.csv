@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22546,Tooradin,181.25,ok
+20003,Aberfeldie,22546,Tooradin,199.75,ok
+20011,Aintree,22546,Tooradin,,no_eligible_route
+20015,Airport West,22546,Tooradin,,no_eligible_route
+20017,Albanvale,22546,Tooradin,216.48,ok
+20018,Albert Park (Vic.),22546,Tooradin,172.6,ok
+20021,Albion (Vic.),22546,Tooradin,179.4,ok
+20034,Alphington,22546,Tooradin,185.42,ok
+20035,Altona (Vic.),22546,Tooradin,200.5,ok
+20036,Altona Meadows,22546,Tooradin,225.2,ok
+20037,Altona North,22546,Tooradin,219.9,ok
+20062,Ardeer,22546,Tooradin,197.63,ok
+20066,Armadale (Vic.),22546,Tooradin,151.63,ok
+20071,Arthurs Creek,22546,Tooradin,,no_eligible_route
+20072,Arthurs Seat,22546,Tooradin,,no_eligible_route
+20075,Ascot Vale,22546,Tooradin,178.08,ok
+20077,Ashburton,22546,Tooradin,164.38,ok
+20078,Ashwood,22546,Tooradin,156.12,ok
+20079,Aspendale,22546,Tooradin,159.58,ok
+20080,Aspendale Gardens,22546,Tooradin,162.9,ok
+20082,Attwood,22546,Tooradin,232.85,ok
+20089,Avondale Heights,22546,Tooradin,212.03,ok
+20091,Avonsleigh,22546,Tooradin,,no_eligible_route
+20095,Bacchus Marsh,22546,Tooradin,,no_eligible_route
+20097,Badger Creek,22546,Tooradin,,no_eligible_route
+20105,Balaclava (Vic.),22546,Tooradin,175.9,ok
+20120,Balnarring,22546,Tooradin,,no_eligible_route
+20121,Balnarring Beach,22546,Tooradin,,no_eligible_route
+20123,Balwyn,22546,Tooradin,195.02,ok
+20124,Balwyn North,22546,Tooradin,196.15,ok
+20131,Bangholme,22546,Tooradin,,no_eligible_route
+20169,Baxter,22546,Tooradin,153.25,ok
+20171,Bayles,22546,Tooradin,,no_eligible_route
+20173,Bayswater (Vic.),22546,Tooradin,187.9,ok
+20174,Bayswater North,22546,Tooradin,214.33,ok
+20175,Beaconsfield (Vic.),22546,Tooradin,155.35,ok
+20176,Beaconsfield Upper,22546,Tooradin,,no_eligible_route
+20182,Beaumaris (Vic.),22546,Tooradin,169.63,ok
+20187,Beenak,22546,Tooradin,,no_eligible_route
+20188,Belgrave,22546,Tooradin,200.98,ok
+20189,Belgrave Heights,22546,Tooradin,,no_eligible_route
+20190,Belgrave South,22546,Tooradin,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),22546,Tooradin,218.92,ok
+20207,Bend Of Islands,22546,Tooradin,,no_eligible_route
+20212,Benloch,22546,Tooradin,,no_eligible_route
+20214,Bentleigh,22546,Tooradin,158.68,ok
+20215,Bentleigh East,22546,Tooradin,151.45,ok
+20224,Berwick,22546,Tooradin,125.05,ok
+20233,Beveridge,22546,Tooradin,,no_eligible_route
+20237,Big Pats Creek,22546,Tooradin,,no_eligible_route
+20248,Bittern,22546,Tooradin,171.23,ok
+20251,Black Rock (Vic.),22546,Tooradin,191.75,ok
+20252,Blackburn,22546,Tooradin,178.22,ok
+20253,Blackburn North,22546,Tooradin,190.37,ok
+20254,Blackburn South,22546,Tooradin,186.92,ok
+20257,Blairgowrie,22546,Tooradin,232.2,ok
+20260,Blind Bight,22546,Tooradin,29.2,ok
+20272,Bolinda,22546,Tooradin,,no_eligible_route
+20278,Bonbeach,22546,Tooradin,153.3,ok
+20280,Boneo,22546,Tooradin,,no_eligible_route
+20282,Bonnie Brook,22546,Tooradin,,no_eligible_route
+20304,Boronia,22546,Tooradin,188.9,ok
+20307,Botanic Ridge,22546,Tooradin,118.02,ok
+20314,Box Hill (Vic.),22546,Tooradin,161.12,ok
+20315,Box Hill North,22546,Tooradin,169.1,ok
+20316,Box Hill South,22546,Tooradin,157.98,ok
+20320,Braeside,22546,Tooradin,160.18,ok
+20324,Braybrook,22546,Tooradin,190.68,ok
+20331,Briar Hill,22546,Tooradin,207.0,ok
+20337,Brighton (Vic.),22546,Tooradin,185.32,ok
+20338,Brighton East,22546,Tooradin,163.37,ok
+20346,Broadmeadows (Vic.),22546,Tooradin,202.25,ok
+20351,Brookfield (Vic.),22546,Tooradin,,no_eligible_route
+20352,Brooklyn (Vic.),22546,Tooradin,203.08,ok
+20361,Brunswick (Vic.),22546,Tooradin,177.35,ok
+20362,Brunswick East,22546,Tooradin,181.02,ok
+20363,Brunswick West,22546,Tooradin,188.53,ok
+20381,Bulla (Vic.),22546,Tooradin,,no_eligible_route
+20386,Bulleen,22546,Tooradin,190.25,ok
+20387,Bullengarook,22546,Tooradin,,no_eligible_route
+20399,Bundoora (Vic.),22546,Tooradin,227.15,ok
+20411,Bunyip,22546,Tooradin,,no_eligible_route
+20412,Bunyip North,22546,Tooradin,,no_eligible_route
+20418,Burnley,22546,Tooradin,180.65,ok
+20419,Burnside (Vic.),22546,Tooradin,,no_eligible_route
+20420,Burnside Heights,22546,Tooradin,,no_eligible_route
+20426,Burwood (Vic.),22546,Tooradin,157.05,ok
+20427,Burwood East,22546,Tooradin,170.65,ok
+20435,Bylands,22546,Tooradin,,no_eligible_route
+20441,Cairnlea,22546,Tooradin,202.05,ok
+20442,Calder Park,22546,Tooradin,,no_eligible_route
+20443,Caldermeade,22546,Tooradin,,no_eligible_route
+20453,Camberwell (Vic.),22546,Tooradin,172.77,ok
+20455,Campbellfield,22546,Tooradin,210.9,ok
+20466,Cannons Creek,22546,Tooradin,35.0,ok
+20468,Canterbury (Vic.),22546,Tooradin,185.12,ok
+20474,Cape Schanck,22546,Tooradin,,no_eligible_route
+20476,Capel Sound,22546,Tooradin,217.55,ok
+20487,Cardinia,22546,Tooradin,102.5,walk_only
+20495,Carlton (Vic.),22546,Tooradin,162.62,ok
+20496,Carlton North,22546,Tooradin,180.42,ok
+20498,Carnegie,22546,Tooradin,141.95,ok
+20500,Caroline Springs,22546,Tooradin,,no_eligible_route
+20507,Carrum,22546,Tooradin,148.72,ok
+20508,Carrum Downs,22546,Tooradin,,no_eligible_route
+20512,Castella,22546,Tooradin,,no_eligible_route
+20517,Catani,22546,Tooradin,,no_eligible_route
+20521,Caulfield,22546,Tooradin,153.38,ok
+20522,Caulfield East,22546,Tooradin,139.62,ok
+20523,Caulfield North,22546,Tooradin,149.63,ok
+20524,Caulfield South,22546,Tooradin,157.92,ok
+20528,Chadstone,22546,Tooradin,154.0,ok
+20537,Chelsea,22546,Tooradin,154.07,ok
+20538,Chelsea Heights,22546,Tooradin,,no_eligible_route
+20539,Cheltenham (Vic.),22546,Tooradin,145.45,ok
+20541,Cherokee,22546,Tooradin,,no_eligible_route
+20555,Chintin,22546,Tooradin,,no_eligible_route
+20556,Chirnside Park,22546,Tooradin,,no_eligible_route
+20559,Christmas Hills (Vic.),22546,Tooradin,,no_eligible_route
+20560,Chum Creek,22546,Tooradin,,no_eligible_route
+20566,Clarinda,22546,Tooradin,139.82,ok
+20567,Clarkefield,22546,Tooradin,,no_eligible_route
+20569,Clayton,22546,Tooradin,139.3,ok
+20570,Clayton South,22546,Tooradin,146.78,ok
+20572,Clematis,22546,Tooradin,,no_eligible_route
+20574,Clifton Hill,22546,Tooradin,179.5,ok
+20576,Clonbinane,22546,Tooradin,,no_eligible_route
+20581,Clyde (Vic.),22546,Tooradin,104.95,walk_only
+20582,Clyde North,22546,Tooradin,107.62,ok
+20587,Cobaw,22546,Tooradin,,no_eligible_route
+20590,Cobblebank,22546,Tooradin,,no_eligible_route
+20596,Coburg,22546,Tooradin,183.88,ok
+20597,Coburg North,22546,Tooradin,193.45,ok
+20600,Cockatoo (Vic.),22546,Tooradin,,no_eligible_route
+20601,Cocoroc,22546,Tooradin,,no_eligible_route
+20605,Coimadai,22546,Tooradin,,no_eligible_route
+20613,Coldstream (Vic.),22546,Tooradin,,no_eligible_route
+20616,Collingwood (Vic.),22546,Tooradin,178.95,ok
+20624,Coolaroo,22546,Tooradin,203.12,ok
+20633,Cora Lynn,22546,Tooradin,,no_eligible_route
+20654,Cottles Bridge,22546,Tooradin,,no_eligible_route
+20661,Craigieburn,22546,Tooradin,232.28,ok
+20662,Cranbourne,22546,Tooradin,83.13,ok
+20663,Cranbourne East,22546,Tooradin,89.9,ok
+20664,Cranbourne North,22546,Tooradin,104.35,ok
+20665,Cranbourne South,22546,Tooradin,121.37,ok
+20666,Cranbourne West,22546,Tooradin,96.32,ok
+20670,Cremorne (Vic.),22546,Tooradin,167.23,ok
+20674,Crib Point,22546,Tooradin,180.2,ok
+20682,Croydon (Vic.),22546,Tooradin,197.0,ok
+20683,Croydon Hills,22546,Tooradin,,no_eligible_route
+20684,Croydon North,22546,Tooradin,,no_eligible_route
+20685,Croydon South,22546,Tooradin,,no_eligible_route
+20702,Dallas,22546,Tooradin,209.55,ok
+20703,Dalmore,22546,Tooradin,70.65,walk_only
+20707,Dandenong,22546,Tooradin,110.02,ok
+20708,Dandenong North,22546,Tooradin,139.9,ok
+20709,Dandenong South,22546,Tooradin,143.42,ok
+20712,Darley,22546,Tooradin,,no_eligible_route
+20716,Darraweit Guim,22546,Tooradin,,no_eligible_route
+20724,Deanside,22546,Tooradin,,no_eligible_route
+20728,Deepdene (Vic.),22546,Tooradin,187.52,ok
+20729,Deer Park,22546,Tooradin,,no_eligible_route
+20731,Delahey,22546,Tooradin,213.95,ok
+20743,Derrimut,22546,Tooradin,,no_eligible_route
+20748,Devon Meadows,22546,Tooradin,88.28,ok
+20750,Dewhurst,22546,Tooradin,,no_eligible_route
+20752,Diamond Creek,22546,Tooradin,227.73,ok
+20754,Diggers Rest,22546,Tooradin,221.82,ok
+20758,Dingley Village,22546,Tooradin,132.78,ok
+20762,Dixons Creek,22546,Tooradin,,no_eligible_route
+20766,Docklands,22546,Tooradin,165.43,ok
+20769,Don Valley,22546,Tooradin,,no_eligible_route
+20771,Doncaster,22546,Tooradin,172.9,ok
+20772,Doncaster East,22546,Tooradin,189.23,ok
+20773,Donnybrook (Vic.),22546,Tooradin,,no_eligible_route
+20774,Donvale,22546,Tooradin,185.6,ok
+20779,Doreen,22546,Tooradin,,no_eligible_route
+20783,Doveton,22546,Tooradin,121.58,ok
+20788,Dromana,22546,Tooradin,,no_eligible_route
+20825,Eaglemont,22546,Tooradin,196.02,ok
+20830,East Melbourne,22546,Tooradin,169.23,ok
+20833,East Warburton,22546,Tooradin,,no_eligible_route
+20843,Eden Park,22546,Tooradin,,no_eligible_route
+20848,Edithvale,22546,Tooradin,148.5,ok
+20864,Elsternwick,22546,Tooradin,165.85,ok
+20865,Eltham (Vic.),22546,Tooradin,207.97,ok
+20866,Eltham North,22546,Tooradin,224.55,ok
+20867,Elwood,22546,Tooradin,176.38,ok
+20868,Emerald (Vic.),22546,Tooradin,,no_eligible_route
+20871,Endeavour Hills,22546,Tooradin,136.12,ok
+20878,Epping (Vic.),22546,Tooradin,228.98,ok
+20885,Essendon,22546,Tooradin,184.55,ok
+20886,Essendon Fields,22546,Tooradin,,no_eligible_route
+20887,Essendon North,22546,Tooradin,205.42,ok
+20888,Essendon West,22546,Tooradin,197.87,ok
+20889,Eumemmerring,22546,Tooradin,114.7,ok
+20898,Exford,22546,Tooradin,,no_eligible_route
+20899,Eynesbury,22546,Tooradin,,no_eligible_route
+20901,Fairfield (Vic.),22546,Tooradin,191.73,ok
+20909,Fawkner,22546,Tooradin,203.35,ok
+20916,Fernshaw,22546,Tooradin,,no_eligible_route
+20917,Ferntree Gully,22546,Tooradin,175.73,ok
+20918,Ferny Creek,22546,Tooradin,,no_eligible_route
+20920,Fingal (Vic.),22546,Tooradin,,no_eligible_route
+20924,Fitzroy (Vic.),22546,Tooradin,174.4,ok
+20925,Fitzroy North,22546,Tooradin,181.22,ok
+20929,Flemington,22546,Tooradin,182.87,ok
+20930,Flinders (Vic.),22546,Tooradin,,no_eligible_route
+20935,Footscray,22546,Tooradin,167.82,ok
+20937,Forest Hill (Vic.),22546,Tooradin,159.3,ok
+20947,Frankston,22546,Tooradin,110.55,ok
+20948,Frankston North,22546,Tooradin,142.22,ok
+20949,Frankston South,22546,Tooradin,164.62,ok
+20950,Fraser Rise,22546,Tooradin,,no_eligible_route
+20965,Gardenvale,22546,Tooradin,163.75,ok
+20966,Garfield,22546,Tooradin,,no_eligible_route
+20967,Garfield North,22546,Tooradin,,no_eligible_route
+20979,Gembrook,22546,Tooradin,,no_eligible_route
+20995,Gilderoy,22546,Tooradin,,no_eligible_route
+21001,Gisborne,22546,Tooradin,,no_eligible_route
+21002,Gisborne South,22546,Tooradin,,no_eligible_route
+21004,Gladstone Park,22546,Tooradin,216.45,ok
+21005,Gladysdale,22546,Tooradin,,no_eligible_route
+21009,Glen Huntly,22546,Tooradin,150.22,ok
+21010,Glen Iris (Vic.),22546,Tooradin,179.42,ok
+21013,Glen Waverley,22546,Tooradin,149.9,ok
+21047,Glenroy (Vic.),22546,Tooradin,197.1,ok
+21059,Goldie,22546,Tooradin,,no_eligible_route
+21079,Gowanbrae,22546,Tooradin,218.78,ok
+21087,Grangefields,22546,Tooradin,,no_eligible_route
+21104,Greensborough,22546,Tooradin,210.35,ok
+21105,Greenvale (Vic.),22546,Tooradin,,no_eligible_route
+21115,Gruyere,22546,Tooradin,,no_eligible_route
+21121,Guys Hill,22546,Tooradin,,no_eligible_route
+21124,Hadfield,22546,Tooradin,205.38,ok
+21125,Hallam,22546,Tooradin,108.18,ok
+21131,Hampton (Vic.),22546,Tooradin,191.47,ok
+21132,Hampton East,22546,Tooradin,165.45,ok
+21133,Hampton Park,22546,Tooradin,96.15,ok
+21139,Harkaway,22546,Tooradin,,no_eligible_route
+21140,Harkness,22546,Tooradin,,no_eligible_route
+21145,Hastings (Vic.),22546,Tooradin,172.77,ok
+21152,Hawthorn (Vic.),22546,Tooradin,171.15,ok
+21153,Hawthorn East,22546,Tooradin,173.6,ok
+21158,Healesville,22546,Tooradin,,no_eligible_route
+21159,Heath Hill,22546,Tooradin,,no_eligible_route
+21161,Heathcote Junction,22546,Tooradin,,no_eligible_route
+21163,Heatherton,22546,Tooradin,146.83,ok
+21165,Heathmont,22546,Tooradin,178.17,ok
+21167,Heidelberg,22546,Tooradin,192.82,ok
+21168,Heidelberg Heights,22546,Tooradin,211.05,ok
+21169,Heidelberg West,22546,Tooradin,223.15,ok
+21176,Hesket,22546,Tooradin,,no_eligible_route
+21185,Highett,22546,Tooradin,158.22,ok
+21193,Hillside (Melton - Vic.),22546,Tooradin,,no_eligible_route
+21195,Hmas Cerberus,22546,Tooradin,,no_eligible_route
+21196,Hoddles Creek,22546,Tooradin,,no_eligible_route
+21202,Hopetoun Park,22546,Tooradin,,no_eligible_route
+21203,Hoppers Crossing,22546,Tooradin,224.48,ok
+21214,Hughesdale,22546,Tooradin,132.87,ok
+21215,Humevale,22546,Tooradin,,no_eligible_route
+21218,Huntingdale (Vic.),22546,Tooradin,132.73,ok
+21223,Hurstbridge,22546,Tooradin,228.28,ok
+21238,Iona,22546,Tooradin,,no_eligible_route
+21246,Ivanhoe (Vic.),22546,Tooradin,190.02,ok
+21247,Ivanhoe East,22546,Tooradin,207.98,ok
+21248,Jacana,22546,Tooradin,201.67,ok
+21277,Junction Village,22546,Tooradin,81.4,ok
+21284,Kalkallo,22546,Tooradin,,no_eligible_route
+21286,Kallista,22546,Tooradin,,no_eligible_route
+21287,Kalorama,22546,Tooradin,,no_eligible_route
+21294,Kangaroo Ground,22546,Tooradin,,no_eligible_route
+21312,Kealba,22546,Tooradin,211.62,ok
+21314,Keilor,22546,Tooradin,,no_eligible_route
+21315,Keilor Downs,22546,Tooradin,206.75,ok
+21316,Keilor East,22546,Tooradin,195.57,ok
+21317,Keilor Lodge,22546,Tooradin,246.42,ok
+21318,Keilor North,22546,Tooradin,220.2,ok
+21319,Keilor Park,22546,Tooradin,,no_eligible_route
+21327,Kensington (Vic.),22546,Tooradin,173.5,ok
+21333,Kerrie,22546,Tooradin,,no_eligible_route
+21336,Kew (Vic.),22546,Tooradin,184.18,ok
+21337,Kew East,22546,Tooradin,198.9,ok
+21339,Keysborough,22546,Tooradin,144.87,ok
+21354,Kilsyth,22546,Tooradin,,no_eligible_route
+21355,Kilsyth South,22546,Tooradin,,no_eligible_route
+21358,Kinglake,22546,Tooradin,,no_eligible_route
+21359,Kinglake Central,22546,Tooradin,,no_eligible_route
+21360,Kinglake West,22546,Tooradin,,no_eligible_route
+21362,Kings Park (Vic.),22546,Tooradin,208.67,ok
+21363,Kingsbury,22546,Tooradin,227.37,ok
+21365,Kingsville,22546,Tooradin,176.88,ok
+21374,Knoxfield,22546,Tooradin,152.2,ok
+21380,Koo Wee Rup,22546,Tooradin,149.48,walk_only
+21381,Koo Wee Rup North,22546,Tooradin,234.48,walk_only
+21393,Kooyong,22546,Tooradin,169.93,ok
+21411,Kurunjang,22546,Tooradin,,no_eligible_route
+21452,Lalor,22546,Tooradin,212.7,ok
+21456,Lancefield,22546,Tooradin,,no_eligible_route
+21459,Lang Lang,22546,Tooradin,,no_eligible_route
+21460,Lang Lang East,22546,Tooradin,,no_eligible_route
+21467,Langwarrin,22546,Tooradin,108.73,ok
+21468,Langwarrin South,22546,Tooradin,,no_eligible_route
+21473,Launching Place,22546,Tooradin,,no_eligible_route
+21476,Laverton (Vic.),22546,Tooradin,196.1,ok
+21477,Laverton North,22546,Tooradin,,no_eligible_route
+21504,Lilydale (Vic.),22546,Tooradin,228.7,ok
+21533,Long Forest,22546,Tooradin,,no_eligible_route
+21547,Lower Plenty,22546,Tooradin,223.57,ok
+21554,Lynbrook,22546,Tooradin,96.93,ok
+21555,Lyndhurst (Vic.),22546,Tooradin,136.88,ok
+21558,Lysterfield,22546,Tooradin,,no_eligible_route
+21559,Lysterfield South,22546,Tooradin,183.23,ok
+21561,Macclesfield (Vic.),22546,Tooradin,,no_eligible_route
+21562,Macedon,22546,Tooradin,,no_eligible_route
+21564,Macleod (Vic.),22546,Tooradin,205.37,ok
+21569,Maddingley,22546,Tooradin,,no_eligible_route
+21575,Maidstone,22546,Tooradin,196.03,ok
+21578,Main Ridge,22546,Tooradin,,no_eligible_route
+21586,Malvern (Vic.),22546,Tooradin,154.62,ok
+21587,Malvern East,22546,Tooradin,149.43,ok
+21588,Mambourin,22546,Tooradin,,no_eligible_route
+21597,Manor Lakes,22546,Tooradin,,no_eligible_route
+21604,Maribyrnong,22546,Tooradin,187.15,ok
+21619,Maryknoll,22546,Tooradin,,no_eligible_route
+21625,McCrae,22546,Tooradin,,no_eligible_route
+21629,McKinnon,22546,Tooradin,147.52,ok
+21635,Meadow Heights,22546,Tooradin,214.55,ok
+21640,Melbourne,22546,Tooradin,153.42,ok
+21641,Melbourne Airport,22546,Tooradin,,no_eligible_route
+21642,Melton (Vic.),22546,Tooradin,,no_eligible_route
+21643,Melton South,22546,Tooradin,,no_eligible_route
+21644,Melton West,22546,Tooradin,,no_eligible_route
+21648,Mentone,22546,Tooradin,146.55,ok
+21649,Menzies Creek,22546,Tooradin,,no_eligible_route
+21659,Mernda,22546,Tooradin,259.05,ok
+21662,Merricks,22546,Tooradin,,no_eligible_route
+21663,Merricks Beach,22546,Tooradin,,no_eligible_route
+21664,Merricks North,22546,Tooradin,,no_eligible_route
+21668,Merrimu,22546,Tooradin,,no_eligible_route
+21675,Mickleham,22546,Tooradin,,no_eligible_route
+21677,Middle Park (Vic.),22546,Tooradin,178.78,ok
+21683,Mill Park,22546,Tooradin,242.2,ok
+21685,Millgrove,22546,Tooradin,,no_eligible_route
+21706,Mitcham (Vic.),22546,Tooradin,178.73,ok
+21727,Monbulk,22546,Tooradin,,no_eligible_route
+21728,Monegeetta,22546,Tooradin,,no_eligible_route
+21731,Monomeith,22546,Tooradin,,no_eligible_route
+21732,Mont Albert,22546,Tooradin,169.98,ok
+21733,Mont Albert North,22546,Tooradin,185.08,ok
+21735,Montmorency,22546,Tooradin,212.12,ok
+21736,Montrose (Vic.),22546,Tooradin,,no_eligible_route
+21742,Moonee Ponds,22546,Tooradin,171.02,ok
+21746,Moorabbin,22546,Tooradin,159.88,ok
+21747,Moorabbin Airport,22546,Tooradin,142.78,ok
+21754,Moorooduc,22546,Tooradin,,no_eligible_route
+21755,Mooroolbark,22546,Tooradin,215.62,ok
+21760,Mordialloc,22546,Tooradin,165.22,ok
+21763,Mornington (Vic.),22546,Tooradin,185.38,ok
+21779,Mount Burnett,22546,Tooradin,,no_eligible_route
+21786,Mount Cottrell,22546,Tooradin,,no_eligible_route
+21787,Mount Dandenong,22546,Tooradin,,no_eligible_route
+21793,Mount Eliza,22546,Tooradin,159.73,ok
+21795,Mount Evelyn,22546,Tooradin,,no_eligible_route
+21801,Mount Macedon,22546,Tooradin,,no_eligible_route
+21803,Mount Martha,22546,Tooradin,179.27,ok
+21814,Mount Toolebewong,22546,Tooradin,,no_eligible_route
+21816,Mount Waverley,22546,Tooradin,166.77,ok
+21827,Mulgrave (Vic.),22546,Tooradin,142.0,ok
+21849,Murrumbeena,22546,Tooradin,137.0,ok
+21872,Nangana,22546,Tooradin,,no_eligible_route
+21878,Nar Nar Goon,22546,Tooradin,,no_eligible_route
+21879,Nar Nar Goon North,22546,Tooradin,,no_eligible_route
+21893,Narre Warren,22546,Tooradin,119.25,ok
+21894,Narre Warren East,22546,Tooradin,,no_eligible_route
+21895,Narre Warren North,22546,Tooradin,130.52,ok
+21896,Narre Warren South,22546,Tooradin,113.53,ok
+21921,New Gisborne,22546,Tooradin,,no_eligible_route
+21934,Newport (Vic.),22546,Tooradin,180.95,ok
+21942,Niddrie,22546,Tooradin,231.23,ok
+21952,Noble Park,22546,Tooradin,113.53,ok
+21953,Noble Park North,22546,Tooradin,137.13,ok
+21966,North Melbourne,22546,Tooradin,162.62,ok
+21969,North Warrandyte,22546,Tooradin,237.8,ok
+21971,Northcote,22546,Tooradin,190.88,ok
+21974,Notting Hill,22546,Tooradin,157.27,ok
+21985,Nunawading,22546,Tooradin,162.83,ok
+21991,Nutfield,22546,Tooradin,,no_eligible_route
+21998,Oak Park,22546,Tooradin,189.33,ok
+21999,Oaklands Junction,22546,Tooradin,,no_eligible_route
+22000,Oakleigh,22546,Tooradin,129.48,ok
+22001,Oakleigh East,22546,Tooradin,139.3,ok
+22002,Oakleigh South,22546,Tooradin,135.12,ok
+22006,Officer,22546,Tooradin,147.8,ok
+22007,Officer South,22546,Tooradin,202.17,walk_only
+22009,Olinda (Vic.),22546,Tooradin,,no_eligible_route
+22016,Ormond,22546,Tooradin,147.95,ok
+22027,Pakenham,22546,Tooradin,146.85,ok
+22028,Pakenham South,22546,Tooradin,223.88,walk_only
+22029,Pakenham Upper,22546,Tooradin,,no_eligible_route
+22032,Panton Hill,22546,Tooradin,,no_eligible_route
+22036,Park Orchards,22546,Tooradin,,no_eligible_route
+22037,Parkdale,22546,Tooradin,157.68,ok
+22038,Parkville (Vic.),22546,Tooradin,180.68,ok
+22041,Pascoe Vale,22546,Tooradin,193.7,ok
+22042,Pascoe Vale South,22546,Tooradin,189.43,ok
+22047,Patterson Lakes,22546,Tooradin,160.8,ok
+22050,Pearcedale,22546,Tooradin,138.67,ok
+22058,Pentland Hills,22546,Tooradin,,no_eligible_route
+22064,Pheasant Creek (Vic.),22546,Tooradin,,no_eligible_route
+22084,Plenty (Vic.),22546,Tooradin,,no_eligible_route
+22085,Plumpton (Vic.),22546,Tooradin,,no_eligible_route
+22086,Point Cook,22546,Tooradin,,no_eligible_route
+22087,Point Leo,22546,Tooradin,,no_eligible_route
+22107,Port Melbourne,22546,Tooradin,179.23,ok
+22113,Portsea,22546,Tooradin,,no_eligible_route
+22115,Powelltown,22546,Tooradin,,no_eligible_route
+22118,Prahran,22546,Tooradin,169.02,ok
+22121,Preston (Vic.),22546,Tooradin,207.3,ok
+22122,Princes Hill,22546,Tooradin,176.38,ok
+22132,Quandong,22546,Tooradin,,no_eligible_route
+22141,Ravenhall,22546,Tooradin,,no_eligible_route
+22148,Red Hill (Vic.),22546,Tooradin,,no_eligible_route
+22149,Red Hill South,22546,Tooradin,,no_eligible_route
+22160,Research,22546,Tooradin,,no_eligible_route
+22161,Reservoir (Vic.),22546,Tooradin,209.52,ok
+22170,Richmond (Vic.),22546,Tooradin,175.97,ok
+22172,Riddells Creek,22546,Tooradin,,no_eligible_route
+22174,Ringwood (Vic.),22546,Tooradin,172.93,ok
+22175,Ringwood East,22546,Tooradin,197.08,ok
+22176,Ringwood North,22546,Tooradin,202.38,ok
+22179,Ripponlea,22546,Tooradin,168.07,ok
+22185,Rochford,22546,Tooradin,,no_eligible_route
+22186,Rockbank,22546,Tooradin,,no_eligible_route
+22193,Romsey,22546,Tooradin,,no_eligible_route
+22194,Rosanna,22546,Tooradin,199.83,ok
+22198,Rosebud,22546,Tooradin,,no_eligible_route
+22207,Rowville,22546,Tooradin,148.37,ok
+22208,Roxburgh Park,22546,Tooradin,219.18,ok
+22220,Rye,22546,Tooradin,240.27,ok
+22221,Rythdale,22546,Tooradin,171.08,walk_only
+22222,Safety Beach (Vic.),22546,Tooradin,195.23,ok
+22232,Sandhurst,22546,Tooradin,,no_eligible_route
+22234,Sandringham (Vic.),22546,Tooradin,190.2,ok
+22239,Sassafras (Vic.),22546,Tooradin,,no_eligible_route
+22242,Scoresby,22546,Tooradin,169.3,ok
+22247,Seabrook,22546,Tooradin,212.5,ok
+22249,Seaford (Vic.),22546,Tooradin,152.82,ok
+22250,Seaholme,22546,Tooradin,195.18,ok
+22256,Seddon (Vic.),22546,Tooradin,167.53,ok
+22258,Selby,22546,Tooradin,,no_eligible_route
+22263,Seville,22546,Tooradin,,no_eligible_route
+22264,Seville East,22546,Tooradin,,no_eligible_route
+22278,Sherbrooke,22546,Tooradin,,no_eligible_route
+22279,Shoreham,22546,Tooradin,,no_eligible_route
+22281,Silvan,22546,Tooradin,,no_eligible_route
+22291,Skye (Vic.),22546,Tooradin,114.6,ok
+22295,Smiths Gully,22546,Tooradin,,no_eligible_route
+22303,Somers,22546,Tooradin,,no_eligible_route
+22304,Somerton (Vic.),22546,Tooradin,222.12,ok
+22305,Somerville (Vic.),22546,Tooradin,177.82,ok
+22306,Sorrento (Vic.),22546,Tooradin,231.03,ok
+22309,South Kingsville,22546,Tooradin,198.2,ok
+22310,South Melbourne,22546,Tooradin,166.27,ok
+22311,South Morang,22546,Tooradin,244.68,ok
+22313,South Wharf,22546,Tooradin,171.42,ok
+22314,South Yarra,22546,Tooradin,154.68,ok
+22315,Southbank,22546,Tooradin,161.85,ok
+22319,Spotswood,22546,Tooradin,179.35,ok
+22325,Springfield (Macedon Ranges - Vic.),22546,Tooradin,,no_eligible_route
+22328,Springvale (Vic.),22546,Tooradin,123.47,ok
+22329,Springvale South,22546,Tooradin,131.22,ok
+22330,St Albans (Vic.),22546,Tooradin,182.03,ok
+22332,St Andrews (Vic.),22546,Tooradin,,no_eligible_route
+22333,St Andrews Beach,22546,Tooradin,,no_eligible_route
+22339,St Helena,22546,Tooradin,236.0,ok
+22343,St Kilda (Vic.),22546,Tooradin,165.67,ok
+22344,St Kilda East,22546,Tooradin,170.55,ok
+22345,St Kilda West,22546,Tooradin,173.3,ok
+22355,Steels Creek,22546,Tooradin,,no_eligible_route
+22375,Strathewen,22546,Tooradin,,no_eligible_route
+22380,Strathmore (Vic.),22546,Tooradin,197.5,ok
+22381,Strathmore Heights,22546,Tooradin,211.75,ok
+22382,Strathtulloh,22546,Tooradin,,no_eligible_route
+22391,Sunbury,22546,Tooradin,,no_eligible_route
+22395,Sunshine (Vic.),22546,Tooradin,170.82,ok
+22396,Sunshine North,22546,Tooradin,188.88,ok
+22397,Sunshine West,22546,Tooradin,202.98,ok
+22399,Surrey Hills,22546,Tooradin,177.32,ok
+22414,Sydenham (Vic.),22546,Tooradin,196.43,ok
+22451,Tarneit,22546,Tooradin,,no_eligible_route
+22457,Tarrawarra,22546,Tooradin,,no_eligible_route
+22473,Taylors Hill,22546,Tooradin,,no_eligible_route
+22474,Taylors Lakes,22546,Tooradin,201.32,ok
+22476,Tecoma,22546,Tooradin,197.98,ok
+22483,Templestowe,22546,Tooradin,200.27,ok
+22484,Templestowe Lower,22546,Tooradin,190.4,ok
+22496,The Basin (Vic.),22546,Tooradin,,no_eligible_route
+22501,The Patch,22546,Tooradin,,no_eligible_route
+22504,Thomastown,22546,Tooradin,218.0,ok
+22508,Thornbury,22546,Tooradin,197.6,ok
+22509,Thornhill Park,22546,Tooradin,,no_eligible_route
+22514,Three Bridges,22546,Tooradin,,no_eligible_route
+22531,Tonimbuk,22546,Tooradin,,no_eligible_route
+22536,Toolangi,22546,Tooradin,,no_eligible_route
+22537,Toolern Vale,22546,Tooradin,,no_eligible_route
+22546,Tooradin,22546,Tooradin,0.0,same_centroid
+22547,Toorak,22546,Tooradin,169.07,ok
+22550,Tootgarook,22546,Tooradin,223.68,ok
+22556,Tottenham (Vic.),22546,Tooradin,198.25,ok
+22572,Travancore,22546,Tooradin,180.77,ok
+22576,Tremont,22546,Tooradin,202.93,ok
+22582,Truganina,22546,Tooradin,,no_eligible_route
+22584,Tuerong,22546,Tooradin,,no_eligible_route
+22586,Tullamarine,22546,Tooradin,243.6,ok
+22594,Tyabb,22546,Tooradin,166.68,ok
+22598,Tynong,22546,Tooradin,,no_eligible_route
+22599,Tynong North,22546,Tooradin,,no_eligible_route
+22614,Upper Ferntree Gully,22546,Tooradin,186.52,ok
+22617,Upper Plenty,22546,Tooradin,,no_eligible_route
+22620,Upwey,22546,Tooradin,197.85,ok
+22627,Vermont,22546,Tooradin,188.52,ok
+22628,Vermont South,22546,Tooradin,176.78,ok
+22629,Vervale,22546,Tooradin,,no_eligible_route
+22633,Viewbank,22546,Tooradin,233.0,ok
+22661,Wallan,22546,Tooradin,,no_eligible_route
+22672,Wandin East,22546,Tooradin,,no_eligible_route
+22673,Wandin North,22546,Tooradin,,no_eligible_route
+22676,Wandong,22546,Tooradin,,no_eligible_route
+22685,Wantirna,22546,Tooradin,167.3,ok
+22686,Wantirna South,22546,Tooradin,160.58,ok
+22689,Warburton (Vic.),22546,Tooradin,,no_eligible_route
+22695,Warneet,22546,Tooradin,37.42,ok
+22702,Warrandyte,22546,Tooradin,204.05,ok
+22703,Warrandyte South,22546,Tooradin,,no_eligible_route
+22704,Warranwood,22546,Tooradin,,no_eligible_route
+22717,Waterford Park,22546,Tooradin,,no_eligible_route
+22720,Waterways,22546,Tooradin,154.65,ok
+22721,Watsonia,22546,Tooradin,200.28,ok
+22722,Watsonia North,22546,Tooradin,223.82,ok
+22723,Watsons Creek (Vic.),22546,Tooradin,,no_eligible_route
+22727,Wattle Glen,22546,Tooradin,232.03,ok
+22740,Weir Views,22546,Tooradin,,no_eligible_route
+22750,Werribee,22546,Tooradin,223.5,ok
+22751,Werribee South,22546,Tooradin,,no_eligible_route
+22753,Wesburn,22546,Tooradin,,no_eligible_route
+22756,West Footscray,22546,Tooradin,174.98,ok
+22757,West Melbourne,22546,Tooradin,191.32,ok
+22761,Westmeadows,22546,Tooradin,214.32,ok
+22766,Wheelers Hill,22546,Tooradin,161.72,ok
+22775,Whittlesea,22546,Tooradin,,no_eligible_route
+22784,Wildwood,22546,Tooradin,,no_eligible_route
+22791,Williams Landing,22546,Tooradin,210.35,ok
+22792,Williamstown (Vic.),22546,Tooradin,198.17,ok
+22793,Williamstown North,22546,Tooradin,202.7,ok
+22805,Windsor (Vic.),22546,Tooradin,165.98,ok
+22820,Wollert,22546,Tooradin,,no_eligible_route
+22825,Wonga Park,22546,Tooradin,,no_eligible_route
+22843,Woodstock (Vic.),22546,Tooradin,,no_eligible_route
+22857,Woori Yallock,22546,Tooradin,,no_eligible_route
+22883,Wyndham Vale,22546,Tooradin,,no_eligible_route
+22892,Yallambie,22546,Tooradin,229.55,ok
+22898,Yan Yean,22546,Tooradin,,no_eligible_route
+22906,Yannathan,22546,Tooradin,,no_eligible_route
+22910,Yarra Glen,22546,Tooradin,,no_eligible_route
+22911,Yarra Junction,22546,Tooradin,,no_eligible_route
+22916,Yarrambat,22546,Tooradin,,no_eligible_route
+22917,Yarraville,22546,Tooradin,185.1,ok
+22925,Yellingbo,22546,Tooradin,,no_eligible_route
+22930,Yering,22546,Tooradin,,no_eligible_route
+22941,Yuroke,22546,Tooradin,,no_eligible_route

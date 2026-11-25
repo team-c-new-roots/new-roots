@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20169,Baxter,115.77,ok
+20003,Aberfeldie,20169,Baxter,,no_eligible_route
+20011,Aintree,20169,Baxter,,no_eligible_route
+20015,Airport West,20169,Baxter,,no_eligible_route
+20017,Albanvale,20169,Baxter,166.0,ok
+20018,Albert Park (Vic.),20169,Baxter,118.88,ok
+20021,Albion (Vic.),20169,Baxter,128.92,ok
+20034,Alphington,20169,Baxter,134.93,ok
+20035,Altona (Vic.),20169,Baxter,150.02,ok
+20036,Altona Meadows,20169,Baxter,,no_eligible_route
+20037,Altona North,20169,Baxter,,no_eligible_route
+20062,Ardeer,20169,Baxter,147.15,ok
+20066,Armadale (Vic.),20169,Baxter,82.15,ok
+20071,Arthurs Creek,20169,Baxter,,no_eligible_route
+20072,Arthurs Seat,20169,Baxter,,no_eligible_route
+20075,Ascot Vale,20169,Baxter,128.15,ok
+20077,Ashburton,20169,Baxter,117.77,ok
+20078,Ashwood,20169,Baxter,115.63,ok
+20079,Aspendale,20169,Baxter,,no_eligible_route
+20080,Aspendale Gardens,20169,Baxter,,no_eligible_route
+20082,Attwood,20169,Baxter,,no_eligible_route
+20089,Avondale Heights,20169,Baxter,161.55,ok
+20091,Avonsleigh,20169,Baxter,,no_eligible_route
+20095,Bacchus Marsh,20169,Baxter,,no_eligible_route
+20097,Badger Creek,20169,Baxter,,no_eligible_route
+20105,Balaclava (Vic.),20169,Baxter,97.7,ok
+20120,Balnarring,20169,Baxter,,no_eligible_route
+20121,Balnarring Beach,20169,Baxter,,no_eligible_route
+20123,Balwyn,20169,Baxter,125.53,ok
+20124,Balwyn North,20169,Baxter,128.67,ok
+20131,Bangholme,20169,Baxter,,no_eligible_route
+20169,Baxter,20169,Baxter,0.0,same_centroid
+20171,Bayles,20169,Baxter,,no_eligible_route
+20173,Bayswater (Vic.),20169,Baxter,,no_eligible_route
+20174,Bayswater North,20169,Baxter,,no_eligible_route
+20175,Beaconsfield (Vic.),20169,Baxter,,no_eligible_route
+20176,Beaconsfield Upper,20169,Baxter,,no_eligible_route
+20182,Beaumaris (Vic.),20169,Baxter,,no_eligible_route
+20187,Beenak,20169,Baxter,,no_eligible_route
+20188,Belgrave,20169,Baxter,,no_eligible_route
+20189,Belgrave Heights,20169,Baxter,,no_eligible_route
+20190,Belgrave South,20169,Baxter,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20169,Baxter,,no_eligible_route
+20207,Bend Of Islands,20169,Baxter,,no_eligible_route
+20212,Benloch,20169,Baxter,,no_eligible_route
+20214,Bentleigh,20169,Baxter,71.82,ok
+20215,Bentleigh East,20169,Baxter,82.15,ok
+20224,Berwick,20169,Baxter,147.13,ok
+20233,Beveridge,20169,Baxter,,no_eligible_route
+20237,Big Pats Creek,20169,Baxter,,no_eligible_route
+20248,Bittern,20169,Baxter,226.25,walk_only
+20251,Black Rock (Vic.),20169,Baxter,,no_eligible_route
+20252,Blackburn,20169,Baxter,127.73,ok
+20253,Blackburn North,20169,Baxter,,no_eligible_route
+20254,Blackburn South,20169,Baxter,,no_eligible_route
+20257,Blairgowrie,20169,Baxter,,no_eligible_route
+20260,Blind Bight,20169,Baxter,,no_eligible_route
+20272,Bolinda,20169,Baxter,,no_eligible_route
+20278,Bonbeach,20169,Baxter,231.23,walk_only
+20280,Boneo,20169,Baxter,,no_eligible_route
+20282,Bonnie Brook,20169,Baxter,,no_eligible_route
+20304,Boronia,20169,Baxter,188.88,ok
+20307,Botanic Ridge,20169,Baxter,198.73,walk_only
+20314,Box Hill (Vic.),20169,Baxter,120.63,ok
+20315,Box Hill North,20169,Baxter,128.62,ok
+20316,Box Hill South,20169,Baxter,117.5,ok
+20320,Braeside,20169,Baxter,,no_eligible_route
+20324,Braybrook,20169,Baxter,140.2,ok
+20331,Briar Hill,20169,Baxter,156.52,ok
+20337,Brighton (Vic.),20169,Baxter,87.33,ok
+20338,Brighton East,20169,Baxter,76.98,ok
+20346,Broadmeadows (Vic.),20169,Baxter,151.77,ok
+20351,Brookfield (Vic.),20169,Baxter,,no_eligible_route
+20352,Brooklyn (Vic.),20169,Baxter,152.6,ok
+20361,Brunswick (Vic.),20169,Baxter,126.87,ok
+20362,Brunswick East,20169,Baxter,127.95,ok
+20363,Brunswick West,20169,Baxter,138.05,ok
+20381,Bulla (Vic.),20169,Baxter,,no_eligible_route
+20386,Bulleen,20169,Baxter,149.77,ok
+20387,Bullengarook,20169,Baxter,,no_eligible_route
+20399,Bundoora (Vic.),20169,Baxter,150.67,ok
+20411,Bunyip,20169,Baxter,,no_eligible_route
+20412,Bunyip North,20169,Baxter,,no_eligible_route
+20418,Burnley,20169,Baxter,111.17,ok
+20419,Burnside (Vic.),20169,Baxter,,no_eligible_route
+20420,Burnside Heights,20169,Baxter,,no_eligible_route
+20426,Burwood (Vic.),20169,Baxter,116.57,ok
+20427,Burwood East,20169,Baxter,120.22,ok
+20435,Bylands,20169,Baxter,,no_eligible_route
+20441,Cairnlea,20169,Baxter,151.57,ok
+20442,Calder Park,20169,Baxter,,no_eligible_route
+20443,Caldermeade,20169,Baxter,,no_eligible_route
+20453,Camberwell (Vic.),20169,Baxter,113.53,ok
+20455,Campbellfield,20169,Baxter,160.42,ok
+20466,Cannons Creek,20169,Baxter,,no_eligible_route
+20468,Canterbury (Vic.),20169,Baxter,120.18,ok
+20474,Cape Schanck,20169,Baxter,,no_eligible_route
+20476,Capel Sound,20169,Baxter,,no_eligible_route
+20487,Cardinia,20169,Baxter,,no_eligible_route
+20495,Carlton (Vic.),20169,Baxter,114.62,ok
+20496,Carlton North,20169,Baxter,124.72,ok
+20498,Carnegie,20169,Baxter,84.42,ok
+20500,Caroline Springs,20169,Baxter,,no_eligible_route
+20507,Carrum,20169,Baxter,209.25,walk_only
+20508,Carrum Downs,20169,Baxter,212.77,walk_only
+20512,Castella,20169,Baxter,,no_eligible_route
+20517,Catani,20169,Baxter,,no_eligible_route
+20521,Caulfield,20169,Baxter,94.5,ok
+20522,Caulfield East,20169,Baxter,82.6,ok
+20523,Caulfield North,20169,Baxter,89.52,ok
+20524,Caulfield South,20169,Baxter,86.93,ok
+20528,Chadstone,20169,Baxter,113.52,ok
+20537,Chelsea,20169,Baxter,,no_eligible_route
+20538,Chelsea Heights,20169,Baxter,,no_eligible_route
+20539,Cheltenham (Vic.),20169,Baxter,70.93,ok
+20541,Cherokee,20169,Baxter,,no_eligible_route
+20555,Chintin,20169,Baxter,,no_eligible_route
+20556,Chirnside Park,20169,Baxter,,no_eligible_route
+20559,Christmas Hills (Vic.),20169,Baxter,,no_eligible_route
+20560,Chum Creek,20169,Baxter,,no_eligible_route
+20566,Clarinda,20169,Baxter,91.33,ok
+20567,Clarkefield,20169,Baxter,,no_eligible_route
+20569,Clayton,20169,Baxter,,no_eligible_route
+20570,Clayton South,20169,Baxter,,no_eligible_route
+20572,Clematis,20169,Baxter,,no_eligible_route
+20574,Clifton Hill,20169,Baxter,114.02,ok
+20576,Clonbinane,20169,Baxter,,no_eligible_route
+20581,Clyde (Vic.),20169,Baxter,,no_eligible_route
+20582,Clyde North,20169,Baxter,147.6,ok
+20587,Cobaw,20169,Baxter,,no_eligible_route
+20590,Cobblebank,20169,Baxter,,no_eligible_route
+20596,Coburg,20169,Baxter,133.4,ok
+20597,Coburg North,20169,Baxter,142.97,ok
+20600,Cockatoo (Vic.),20169,Baxter,,no_eligible_route
+20601,Cocoroc,20169,Baxter,,no_eligible_route
+20605,Coimadai,20169,Baxter,,no_eligible_route
+20613,Coldstream (Vic.),20169,Baxter,,no_eligible_route
+20616,Collingwood (Vic.),20169,Baxter,116.25,ok
+20624,Coolaroo,20169,Baxter,152.63,ok
+20633,Cora Lynn,20169,Baxter,,no_eligible_route
+20654,Cottles Bridge,20169,Baxter,,no_eligible_route
+20661,Craigieburn,20169,Baxter,181.8,ok
+20662,Cranbourne,20169,Baxter,57.68,ok
+20663,Cranbourne East,20169,Baxter,130.05,ok
+20664,Cranbourne North,20169,Baxter,125.33,ok
+20665,Cranbourne South,20169,Baxter,189.98,walk_only
+20666,Cranbourne West,20169,Baxter,,no_eligible_route
+20670,Cremorne (Vic.),20169,Baxter,97.75,ok
+20674,Crib Point,20169,Baxter,,no_eligible_route
+20682,Croydon (Vic.),20169,Baxter,146.52,ok
+20683,Croydon Hills,20169,Baxter,,no_eligible_route
+20684,Croydon North,20169,Baxter,,no_eligible_route
+20685,Croydon South,20169,Baxter,,no_eligible_route
+20702,Dallas,20169,Baxter,159.07,ok
+20703,Dalmore,20169,Baxter,,no_eligible_route
+20707,Dandenong,20169,Baxter,77.13,ok
+20708,Dandenong North,20169,Baxter,,no_eligible_route
+20709,Dandenong South,20169,Baxter,107.98,ok
+20712,Darley,20169,Baxter,,no_eligible_route
+20716,Darraweit Guim,20169,Baxter,,no_eligible_route
+20724,Deanside,20169,Baxter,,no_eligible_route
+20728,Deepdene (Vic.),20169,Baxter,117.53,ok
+20729,Deer Park,20169,Baxter,,no_eligible_route
+20731,Delahey,20169,Baxter,163.47,ok
+20743,Derrimut,20169,Baxter,,no_eligible_route
+20748,Devon Meadows,20169,Baxter,217.58,walk_only
+20750,Dewhurst,20169,Baxter,,no_eligible_route
+20752,Diamond Creek,20169,Baxter,177.25,ok
+20754,Diggers Rest,20169,Baxter,171.33,ok
+20758,Dingley Village,20169,Baxter,,no_eligible_route
+20762,Dixons Creek,20169,Baxter,,no_eligible_route
+20766,Docklands,20169,Baxter,112.27,ok
+20769,Don Valley,20169,Baxter,,no_eligible_route
+20771,Doncaster,20169,Baxter,128.42,ok
+20772,Doncaster East,20169,Baxter,138.75,ok
+20773,Donnybrook (Vic.),20169,Baxter,,no_eligible_route
+20774,Donvale,20169,Baxter,,no_eligible_route
+20779,Doreen,20169,Baxter,,no_eligible_route
+20783,Doveton,20169,Baxter,,no_eligible_route
+20788,Dromana,20169,Baxter,,no_eligible_route
+20825,Eaglemont,20169,Baxter,,no_eligible_route
+20830,East Melbourne,20169,Baxter,106.53,ok
+20833,East Warburton,20169,Baxter,,no_eligible_route
+20843,Eden Park,20169,Baxter,,no_eligible_route
+20848,Edithvale,20169,Baxter,,no_eligible_route
+20864,Elsternwick,20169,Baxter,99.98,ok
+20865,Eltham (Vic.),20169,Baxter,157.48,ok
+20866,Eltham North,20169,Baxter,174.07,ok
+20867,Elwood,20169,Baxter,105.18,ok
+20868,Emerald (Vic.),20169,Baxter,,no_eligible_route
+20871,Endeavour Hills,20169,Baxter,,no_eligible_route
+20878,Epping (Vic.),20169,Baxter,178.5,ok
+20885,Essendon,20169,Baxter,134.07,ok
+20886,Essendon Fields,20169,Baxter,,no_eligible_route
+20887,Essendon North,20169,Baxter,,no_eligible_route
+20888,Essendon West,20169,Baxter,147.38,ok
+20889,Eumemmerring,20169,Baxter,,no_eligible_route
+20898,Exford,20169,Baxter,,no_eligible_route
+20899,Eynesbury,20169,Baxter,,no_eligible_route
+20901,Fairfield (Vic.),20169,Baxter,,no_eligible_route
+20909,Fawkner,20169,Baxter,152.87,ok
+20916,Fernshaw,20169,Baxter,,no_eligible_route
+20917,Ferntree Gully,20169,Baxter,,no_eligible_route
+20918,Ferny Creek,20169,Baxter,,no_eligible_route
+20920,Fingal (Vic.),20169,Baxter,,no_eligible_route
+20924,Fitzroy (Vic.),20169,Baxter,111.55,ok
+20925,Fitzroy North,20169,Baxter,118.15,ok
+20929,Flemington,20169,Baxter,132.38,ok
+20930,Flinders (Vic.),20169,Baxter,,no_eligible_route
+20935,Footscray,20169,Baxter,117.33,ok
+20937,Forest Hill (Vic.),20169,Baxter,108.82,ok
+20947,Frankston,20169,Baxter,78.67,ok
+20948,Frankston North,20169,Baxter,171.37,walk_only
+20949,Frankston South,20169,Baxter,77.82,walk_only
+20950,Fraser Rise,20169,Baxter,,no_eligible_route
+20965,Gardenvale,20169,Baxter,81.43,ok
+20966,Garfield,20169,Baxter,,no_eligible_route
+20967,Garfield North,20169,Baxter,,no_eligible_route
+20979,Gembrook,20169,Baxter,,no_eligible_route
+20995,Gilderoy,20169,Baxter,,no_eligible_route
+21001,Gisborne,20169,Baxter,,no_eligible_route
+21002,Gisborne South,20169,Baxter,,no_eligible_route
+21004,Gladstone Park,20169,Baxter,165.97,ok
+21005,Gladysdale,20169,Baxter,,no_eligible_route
+21009,Glen Huntly,20169,Baxter,77.8,ok
+21010,Glen Iris (Vic.),20169,Baxter,114.93,ok
+21013,Glen Waverley,20169,Baxter,99.42,ok
+21047,Glenroy (Vic.),20169,Baxter,146.62,ok
+21059,Goldie,20169,Baxter,,no_eligible_route
+21079,Gowanbrae,20169,Baxter,168.3,ok
+21087,Grangefields,20169,Baxter,,no_eligible_route
+21104,Greensborough,20169,Baxter,159.87,ok
+21105,Greenvale (Vic.),20169,Baxter,,no_eligible_route
+21115,Gruyere,20169,Baxter,,no_eligible_route
+21121,Guys Hill,20169,Baxter,,no_eligible_route
+21124,Hadfield,20169,Baxter,154.9,ok
+21125,Hallam,20169,Baxter,,no_eligible_route
+21131,Hampton (Vic.),20169,Baxter,83.28,ok
+21132,Hampton East,20169,Baxter,74.52,ok
+21133,Hampton Park,20169,Baxter,98.9,ok
+21139,Harkaway,20169,Baxter,,no_eligible_route
+21140,Harkness,20169,Baxter,,no_eligible_route
+21145,Hastings (Vic.),20169,Baxter,38.12,ok
+21152,Hawthorn (Vic.),20169,Baxter,98.67,ok
+21153,Hawthorn East,20169,Baxter,102.05,ok
+21158,Healesville,20169,Baxter,,no_eligible_route
+21159,Heath Hill,20169,Baxter,,no_eligible_route
+21161,Heathcote Junction,20169,Baxter,,no_eligible_route
+21163,Heatherton,20169,Baxter,,no_eligible_route
+21165,Heathmont,20169,Baxter,178.15,ok
+21167,Heidelberg,20169,Baxter,152.33,ok
+21168,Heidelberg Heights,20169,Baxter,,no_eligible_route
+21169,Heidelberg West,20169,Baxter,,no_eligible_route
+21176,Hesket,20169,Baxter,,no_eligible_route
+21185,Highett,20169,Baxter,63.08,ok
+21193,Hillside (Melton - Vic.),20169,Baxter,,no_eligible_route
+21195,Hmas Cerberus,20169,Baxter,,no_eligible_route
+21196,Hoddles Creek,20169,Baxter,,no_eligible_route
+21202,Hopetoun Park,20169,Baxter,,no_eligible_route
+21203,Hoppers Crossing,20169,Baxter,174.0,ok
+21214,Hughesdale,20169,Baxter,88.73,ok
+21215,Humevale,20169,Baxter,,no_eligible_route
+21218,Huntingdale (Vic.),20169,Baxter,102.25,ok
+21223,Hurstbridge,20169,Baxter,177.8,ok
+21238,Iona,20169,Baxter,,no_eligible_route
+21246,Ivanhoe (Vic.),20169,Baxter,139.53,ok
+21247,Ivanhoe East,20169,Baxter,,no_eligible_route
+21248,Jacana,20169,Baxter,151.18,ok
+21277,Junction Village,20169,Baxter,,no_eligible_route
+21284,Kalkallo,20169,Baxter,,no_eligible_route
+21286,Kallista,20169,Baxter,,no_eligible_route
+21287,Kalorama,20169,Baxter,,no_eligible_route
+21294,Kangaroo Ground,20169,Baxter,,no_eligible_route
+21312,Kealba,20169,Baxter,161.13,ok
+21314,Keilor,20169,Baxter,,no_eligible_route
+21315,Keilor Downs,20169,Baxter,156.27,ok
+21316,Keilor East,20169,Baxter,145.08,ok
+21317,Keilor Lodge,20169,Baxter,,no_eligible_route
+21318,Keilor North,20169,Baxter,169.72,ok
+21319,Keilor Park,20169,Baxter,,no_eligible_route
+21327,Kensington (Vic.),20169,Baxter,118.47,ok
+21333,Kerrie,20169,Baxter,,no_eligible_route
+21336,Kew (Vic.),20169,Baxter,111.7,ok
+21337,Kew East,20169,Baxter,129.73,ok
+21339,Keysborough,20169,Baxter,,no_eligible_route
+21354,Kilsyth,20169,Baxter,,no_eligible_route
+21355,Kilsyth South,20169,Baxter,,no_eligible_route
+21358,Kinglake,20169,Baxter,,no_eligible_route
+21359,Kinglake Central,20169,Baxter,,no_eligible_route
+21360,Kinglake West,20169,Baxter,,no_eligible_route
+21362,Kings Park (Vic.),20169,Baxter,158.18,ok
+21363,Kingsbury,20169,Baxter,150.88,ok
+21365,Kingsville,20169,Baxter,126.4,ok
+21374,Knoxfield,20169,Baxter,152.18,ok
+21380,Koo Wee Rup,20169,Baxter,,no_eligible_route
+21381,Koo Wee Rup North,20169,Baxter,,no_eligible_route
+21393,Kooyong,20169,Baxter,97.45,ok
+21411,Kurunjang,20169,Baxter,,no_eligible_route
+21452,Lalor,20169,Baxter,142.22,ok
+21456,Lancefield,20169,Baxter,,no_eligible_route
+21459,Lang Lang,20169,Baxter,,no_eligible_route
+21460,Lang Lang East,20169,Baxter,,no_eligible_route
+21467,Langwarrin,20169,Baxter,92.63,ok
+21468,Langwarrin South,20169,Baxter,58.15,walk_only
+21473,Launching Place,20169,Baxter,,no_eligible_route
+21476,Laverton (Vic.),20169,Baxter,145.62,ok
+21477,Laverton North,20169,Baxter,,no_eligible_route
+21504,Lilydale (Vic.),20169,Baxter,,no_eligible_route
+21533,Long Forest,20169,Baxter,,no_eligible_route
+21547,Lower Plenty,20169,Baxter,173.08,ok
+21554,Lynbrook,20169,Baxter,134.38,ok
+21555,Lyndhurst (Vic.),20169,Baxter,,no_eligible_route
+21558,Lysterfield,20169,Baxter,,no_eligible_route
+21559,Lysterfield South,20169,Baxter,,no_eligible_route
+21561,Macclesfield (Vic.),20169,Baxter,,no_eligible_route
+21562,Macedon,20169,Baxter,,no_eligible_route
+21564,Macleod (Vic.),20169,Baxter,154.88,ok
+21569,Maddingley,20169,Baxter,,no_eligible_route
+21575,Maidstone,20169,Baxter,145.55,ok
+21578,Main Ridge,20169,Baxter,,no_eligible_route
+21586,Malvern (Vic.),20169,Baxter,93.18,ok
+21587,Malvern East,20169,Baxter,104.07,ok
+21588,Mambourin,20169,Baxter,,no_eligible_route
+21597,Manor Lakes,20169,Baxter,,no_eligible_route
+21604,Maribyrnong,20169,Baxter,136.67,ok
+21619,Maryknoll,20169,Baxter,,no_eligible_route
+21625,McCrae,20169,Baxter,,no_eligible_route
+21629,McKinnon,20169,Baxter,65.8,ok
+21635,Meadow Heights,20169,Baxter,164.07,ok
+21640,Melbourne,20169,Baxter,102.12,ok
+21641,Melbourne Airport,20169,Baxter,,no_eligible_route
+21642,Melton (Vic.),20169,Baxter,,no_eligible_route
+21643,Melton South,20169,Baxter,,no_eligible_route
+21644,Melton West,20169,Baxter,,no_eligible_route
+21648,Mentone,20169,Baxter,59.75,ok
+21649,Menzies Creek,20169,Baxter,,no_eligible_route
+21659,Mernda,20169,Baxter,188.57,ok
+21662,Merricks,20169,Baxter,,no_eligible_route
+21663,Merricks Beach,20169,Baxter,,no_eligible_route
+21664,Merricks North,20169,Baxter,,no_eligible_route
+21668,Merrimu,20169,Baxter,,no_eligible_route
+21675,Mickleham,20169,Baxter,,no_eligible_route
+21677,Middle Park (Vic.),20169,Baxter,124.97,ok
+21683,Mill Park,20169,Baxter,171.72,ok
+21685,Millgrove,20169,Baxter,,no_eligible_route
+21706,Mitcham (Vic.),20169,Baxter,128.25,ok
+21727,Monbulk,20169,Baxter,,no_eligible_route
+21728,Monegeetta,20169,Baxter,,no_eligible_route
+21731,Monomeith,20169,Baxter,,no_eligible_route
+21732,Mont Albert,20169,Baxter,127.58,ok
+21733,Mont Albert North,20169,Baxter,,no_eligible_route
+21735,Montmorency,20169,Baxter,161.63,ok
+21736,Montrose (Vic.),20169,Baxter,,no_eligible_route
+21742,Moonee Ponds,20169,Baxter,120.53,ok
+21746,Moorabbin,20169,Baxter,79.87,ok
+21747,Moorabbin Airport,20169,Baxter,,no_eligible_route
+21754,Moorooduc,20169,Baxter,58.22,ok
+21755,Mooroolbark,20169,Baxter,,no_eligible_route
+21760,Mordialloc,20169,Baxter,64.93,ok
+21763,Mornington (Vic.),20169,Baxter,63.13,ok
+21779,Mount Burnett,20169,Baxter,,no_eligible_route
+21786,Mount Cottrell,20169,Baxter,,no_eligible_route
+21787,Mount Dandenong,20169,Baxter,,no_eligible_route
+21793,Mount Eliza,20169,Baxter,107.23,walk_only
+21795,Mount Evelyn,20169,Baxter,,no_eligible_route
+21801,Mount Macedon,20169,Baxter,,no_eligible_route
+21803,Mount Martha,20169,Baxter,,no_eligible_route
+21814,Mount Toolebewong,20169,Baxter,,no_eligible_route
+21816,Mount Waverley,20169,Baxter,,no_eligible_route
+21827,Mulgrave (Vic.),20169,Baxter,,no_eligible_route
+21849,Murrumbeena,20169,Baxter,87.55,ok
+21872,Nangana,20169,Baxter,,no_eligible_route
+21878,Nar Nar Goon,20169,Baxter,,no_eligible_route
+21879,Nar Nar Goon North,20169,Baxter,,no_eligible_route
+21893,Narre Warren,20169,Baxter,142.23,ok
+21894,Narre Warren East,20169,Baxter,,no_eligible_route
+21895,Narre Warren North,20169,Baxter,150.5,ok
+21896,Narre Warren South,20169,Baxter,134.52,ok
+21921,New Gisborne,20169,Baxter,,no_eligible_route
+21934,Newport (Vic.),20169,Baxter,125.47,ok
+21942,Niddrie,20169,Baxter,,no_eligible_route
+21952,Noble Park,20169,Baxter,,no_eligible_route
+21953,Noble Park North,20169,Baxter,,no_eligible_route
+21966,North Melbourne,20169,Baxter,112.13,ok
+21969,North Warrandyte,20169,Baxter,,no_eligible_route
+21971,Northcote,20169,Baxter,125.42,ok
+21974,Notting Hill,20169,Baxter,,no_eligible_route
+21985,Nunawading,20169,Baxter,112.35,ok
+21991,Nutfield,20169,Baxter,,no_eligible_route
+21998,Oak Park,20169,Baxter,138.85,ok
+21999,Oaklands Junction,20169,Baxter,,no_eligible_route
+22000,Oakleigh,20169,Baxter,101.23,ok
+22001,Oakleigh East,20169,Baxter,,no_eligible_route
+22002,Oakleigh South,20169,Baxter,,no_eligible_route
+22006,Officer,20169,Baxter,166.78,ok
+22007,Officer South,20169,Baxter,,no_eligible_route
+22009,Olinda (Vic.),20169,Baxter,,no_eligible_route
+22016,Ormond,20169,Baxter,70.82,ok
+22027,Pakenham,20169,Baxter,163.7,ok
+22028,Pakenham South,20169,Baxter,,no_eligible_route
+22029,Pakenham Upper,20169,Baxter,,no_eligible_route
+22032,Panton Hill,20169,Baxter,,no_eligible_route
+22036,Park Orchards,20169,Baxter,,no_eligible_route
+22037,Parkdale,20169,Baxter,60.85,ok
+22038,Parkville (Vic.),20169,Baxter,130.75,ok
+22041,Pascoe Vale,20169,Baxter,143.22,ok
+22042,Pascoe Vale South,20169,Baxter,138.95,ok
+22047,Patterson Lakes,20169,Baxter,230.02,walk_only
+22050,Pearcedale,20169,Baxter,131.67,walk_only
+22058,Pentland Hills,20169,Baxter,,no_eligible_route
+22064,Pheasant Creek (Vic.),20169,Baxter,,no_eligible_route
+22084,Plenty (Vic.),20169,Baxter,,no_eligible_route
+22085,Plumpton (Vic.),20169,Baxter,,no_eligible_route
+22086,Point Cook,20169,Baxter,,no_eligible_route
+22087,Point Leo,20169,Baxter,,no_eligible_route
+22107,Port Melbourne,20169,Baxter,128.75,ok
+22113,Portsea,20169,Baxter,,no_eligible_route
+22115,Powelltown,20169,Baxter,,no_eligible_route
+22118,Prahran,20169,Baxter,96.32,ok
+22121,Preston (Vic.),20169,Baxter,136.82,ok
+22122,Princes Hill,20169,Baxter,118.9,ok
+22132,Quandong,20169,Baxter,,no_eligible_route
+22141,Ravenhall,20169,Baxter,,no_eligible_route
+22148,Red Hill (Vic.),20169,Baxter,,no_eligible_route
+22149,Red Hill South,20169,Baxter,,no_eligible_route
+22160,Research,20169,Baxter,,no_eligible_route
+22161,Reservoir (Vic.),20169,Baxter,139.03,ok
+22170,Richmond (Vic.),20169,Baxter,108.33,ok
+22172,Riddells Creek,20169,Baxter,,no_eligible_route
+22174,Ringwood (Vic.),20169,Baxter,134.45,ok
+22175,Ringwood East,20169,Baxter,,no_eligible_route
+22176,Ringwood North,20169,Baxter,,no_eligible_route
+22179,Ripponlea,20169,Baxter,96.18,ok
+22185,Rochford,20169,Baxter,,no_eligible_route
+22186,Rockbank,20169,Baxter,,no_eligible_route
+22193,Romsey,20169,Baxter,,no_eligible_route
+22194,Rosanna,20169,Baxter,149.35,ok
+22198,Rosebud,20169,Baxter,,no_eligible_route
+22207,Rowville,20169,Baxter,148.35,ok
+22208,Roxburgh Park,20169,Baxter,168.7,ok
+22220,Rye,20169,Baxter,,no_eligible_route
+22221,Rythdale,20169,Baxter,,no_eligible_route
+22222,Safety Beach (Vic.),20169,Baxter,,no_eligible_route
+22232,Sandhurst,20169,Baxter,,no_eligible_route
+22234,Sandringham (Vic.),20169,Baxter,90.75,ok
+22239,Sassafras (Vic.),20169,Baxter,,no_eligible_route
+22242,Scoresby,20169,Baxter,,no_eligible_route
+22247,Seabrook,20169,Baxter,162.02,ok
+22249,Seaford (Vic.),20169,Baxter,169.35,walk_only
+22250,Seaholme,20169,Baxter,144.7,ok
+22256,Seddon (Vic.),20169,Baxter,117.05,ok
+22258,Selby,20169,Baxter,,no_eligible_route
+22263,Seville,20169,Baxter,,no_eligible_route
+22264,Seville East,20169,Baxter,,no_eligible_route
+22278,Sherbrooke,20169,Baxter,,no_eligible_route
+22279,Shoreham,20169,Baxter,,no_eligible_route
+22281,Silvan,20169,Baxter,,no_eligible_route
+22291,Skye (Vic.),20169,Baxter,204.03,walk_only
+22295,Smiths Gully,20169,Baxter,,no_eligible_route
+22303,Somers,20169,Baxter,,no_eligible_route
+22304,Somerton (Vic.),20169,Baxter,171.63,ok
+22305,Somerville (Vic.),20169,Baxter,45.98,ok
+22306,Sorrento (Vic.),20169,Baxter,97.55,ok
+22309,South Kingsville,20169,Baxter,137.72,ok
+22310,South Melbourne,20169,Baxter,118.93,ok
+22311,South Morang,20169,Baxter,174.2,ok
+22313,South Wharf,20169,Baxter,114.67,ok
+22314,South Yarra,20169,Baxter,85.2,ok
+22315,Southbank,20169,Baxter,106.83,ok
+22319,Spotswood,20169,Baxter,118.87,ok
+22325,Springfield (Macedon Ranges - Vic.),20169,Baxter,,no_eligible_route
+22328,Springvale (Vic.),20169,Baxter,81.27,ok
+22329,Springvale South,20169,Baxter,72.4,ok
+22330,St Albans (Vic.),20169,Baxter,131.55,ok
+22332,St Andrews (Vic.),20169,Baxter,,no_eligible_route
+22333,St Andrews Beach,20169,Baxter,,no_eligible_route
+22339,St Helena,20169,Baxter,,no_eligible_route
+22343,St Kilda (Vic.),20169,Baxter,104.92,ok
+22344,St Kilda East,20169,Baxter,97.87,ok
+22345,St Kilda West,20169,Baxter,122.82,ok
+22355,Steels Creek,20169,Baxter,,no_eligible_route
+22375,Strathewen,20169,Baxter,,no_eligible_route
+22380,Strathmore (Vic.),20169,Baxter,147.02,ok
+22381,Strathmore Heights,20169,Baxter,161.27,ok
+22382,Strathtulloh,20169,Baxter,,no_eligible_route
+22391,Sunbury,20169,Baxter,,no_eligible_route
+22395,Sunshine (Vic.),20169,Baxter,120.33,ok
+22396,Sunshine North,20169,Baxter,138.4,ok
+22397,Sunshine West,20169,Baxter,152.5,ok
+22399,Surrey Hills,20169,Baxter,125.02,ok
+22414,Sydenham (Vic.),20169,Baxter,145.95,ok
+22451,Tarneit,20169,Baxter,,no_eligible_route
+22457,Tarrawarra,20169,Baxter,,no_eligible_route
+22473,Taylors Hill,20169,Baxter,,no_eligible_route
+22474,Taylors Lakes,20169,Baxter,150.83,ok
+22476,Tecoma,20169,Baxter,197.97,ok
+22483,Templestowe,20169,Baxter,149.78,ok
+22484,Templestowe Lower,20169,Baxter,,no_eligible_route
+22496,The Basin (Vic.),20169,Baxter,,no_eligible_route
+22501,The Patch,20169,Baxter,,no_eligible_route
+22504,Thomastown,20169,Baxter,147.52,ok
+22508,Thornbury,20169,Baxter,131.3,ok
+22509,Thornhill Park,20169,Baxter,,no_eligible_route
+22514,Three Bridges,20169,Baxter,,no_eligible_route
+22531,Tonimbuk,20169,Baxter,,no_eligible_route
+22536,Toolangi,20169,Baxter,,no_eligible_route
+22537,Toolern Vale,20169,Baxter,,no_eligible_route
+22546,Tooradin,20169,Baxter,,no_eligible_route
+22547,Toorak,20169,Baxter,99.67,ok
+22550,Tootgarook,20169,Baxter,,no_eligible_route
+22556,Tottenham (Vic.),20169,Baxter,147.77,ok
+22572,Travancore,20169,Baxter,130.28,ok
+22576,Tremont,20169,Baxter,,no_eligible_route
+22582,Truganina,20169,Baxter,,no_eligible_route
+22584,Tuerong,20169,Baxter,209.13,walk_only
+22586,Tullamarine,20169,Baxter,,no_eligible_route
+22594,Tyabb,20169,Baxter,38.53,ok
+22598,Tynong,20169,Baxter,,no_eligible_route
+22599,Tynong North,20169,Baxter,,no_eligible_route
+22614,Upper Ferntree Gully,20169,Baxter,,no_eligible_route
+22617,Upper Plenty,20169,Baxter,,no_eligible_route
+22620,Upwey,20169,Baxter,,no_eligible_route
+22627,Vermont,20169,Baxter,,no_eligible_route
+22628,Vermont South,20169,Baxter,,no_eligible_route
+22629,Vervale,20169,Baxter,,no_eligible_route
+22633,Viewbank,20169,Baxter,,no_eligible_route
+22661,Wallan,20169,Baxter,,no_eligible_route
+22672,Wandin East,20169,Baxter,,no_eligible_route
+22673,Wandin North,20169,Baxter,,no_eligible_route
+22676,Wandong,20169,Baxter,,no_eligible_route
+22685,Wantirna,20169,Baxter,167.28,ok
+22686,Wantirna South,20169,Baxter,160.57,ok
+22689,Warburton (Vic.),20169,Baxter,,no_eligible_route
+22695,Warneet,20169,Baxter,,no_eligible_route
+22702,Warrandyte,20169,Baxter,153.57,ok
+22703,Warrandyte South,20169,Baxter,,no_eligible_route
+22704,Warranwood,20169,Baxter,,no_eligible_route
+22717,Waterford Park,20169,Baxter,,no_eligible_route
+22720,Waterways,20169,Baxter,,no_eligible_route
+22721,Watsonia,20169,Baxter,149.8,ok
+22722,Watsonia North,20169,Baxter,,no_eligible_route
+22723,Watsons Creek (Vic.),20169,Baxter,,no_eligible_route
+22727,Wattle Glen,20169,Baxter,181.55,ok
+22740,Weir Views,20169,Baxter,,no_eligible_route
+22750,Werribee,20169,Baxter,173.02,ok
+22751,Werribee South,20169,Baxter,,no_eligible_route
+22753,Wesburn,20169,Baxter,,no_eligible_route
+22756,West Footscray,20169,Baxter,124.5,ok
+22757,West Melbourne,20169,Baxter,140.83,ok
+22761,Westmeadows,20169,Baxter,163.83,ok
+22766,Wheelers Hill,20169,Baxter,,no_eligible_route
+22775,Whittlesea,20169,Baxter,,no_eligible_route
+22784,Wildwood,20169,Baxter,,no_eligible_route
+22791,Williams Landing,20169,Baxter,159.87,ok
+22792,Williamstown (Vic.),20169,Baxter,127.68,ok
+22793,Williamstown North,20169,Baxter,147.22,ok
+22805,Windsor (Vic.),20169,Baxter,99.12,ok
+22820,Wollert,20169,Baxter,,no_eligible_route
+22825,Wonga Park,20169,Baxter,,no_eligible_route
+22843,Woodstock (Vic.),20169,Baxter,,no_eligible_route
+22857,Woori Yallock,20169,Baxter,,no_eligible_route
+22883,Wyndham Vale,20169,Baxter,,no_eligible_route
+22892,Yallambie,20169,Baxter,,no_eligible_route
+22898,Yan Yean,20169,Baxter,,no_eligible_route
+22906,Yannathan,20169,Baxter,,no_eligible_route
+22910,Yarra Glen,20169,Baxter,,no_eligible_route
+22911,Yarra Junction,20169,Baxter,,no_eligible_route
+22916,Yarrambat,20169,Baxter,,no_eligible_route
+22917,Yarraville,20169,Baxter,124.62,ok
+22925,Yellingbo,20169,Baxter,,no_eligible_route
+22930,Yering,20169,Baxter,,no_eligible_route
+22941,Yuroke,20169,Baxter,,no_eligible_route

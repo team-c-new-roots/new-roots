@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20173,Bayswater (Vic.),79.15,ok
+20003,Aberfeldie,20173,Bayswater (Vic.),101.7,ok
+20011,Aintree,20173,Bayswater (Vic.),145.43,ok
+20015,Airport West,20173,Bayswater (Vic.),121.8,ok
+20017,Albanvale,20173,Bayswater (Vic.),131.52,ok
+20018,Albert Park (Vic.),20173,Bayswater (Vic.),84.27,ok
+20021,Albion (Vic.),20173,Bayswater (Vic.),106.3,ok
+20034,Alphington,20173,Bayswater (Vic.),84.32,ok
+20035,Altona (Vic.),20173,Bayswater (Vic.),107.4,ok
+20036,Altona Meadows,20173,Bayswater (Vic.),115.55,ok
+20037,Altona North,20173,Bayswater (Vic.),110.8,ok
+20062,Ardeer,20173,Bayswater (Vic.),115.45,ok
+20066,Armadale (Vic.),20173,Bayswater (Vic.),74.55,ok
+20071,Arthurs Creek,20173,Bayswater (Vic.),,no_eligible_route
+20072,Arthurs Seat,20173,Bayswater (Vic.),,no_eligible_route
+20075,Ascot Vale,20173,Bayswater (Vic.),92.53,ok
+20077,Ashburton,20173,Bayswater (Vic.),72.15,ok
+20078,Ashwood,20173,Bayswater (Vic.),72.67,ok
+20079,Aspendale,20173,Bayswater (Vic.),123.8,ok
+20080,Aspendale Gardens,20173,Bayswater (Vic.),118.58,ok
+20082,Attwood,20173,Bayswater (Vic.),137.52,ok
+20089,Avondale Heights,20173,Bayswater (Vic.),117.83,ok
+20091,Avonsleigh,20173,Bayswater (Vic.),85.77,ok
+20095,Bacchus Marsh,20173,Bayswater (Vic.),,no_eligible_route
+20097,Badger Creek,20173,Bayswater (Vic.),120.83,ok
+20105,Balaclava (Vic.),20173,Bayswater (Vic.),73.18,ok
+20120,Balnarring,20173,Bayswater (Vic.),,no_eligible_route
+20121,Balnarring Beach,20173,Bayswater (Vic.),,no_eligible_route
+20123,Balwyn,20173,Bayswater (Vic.),54.28,ok
+20124,Balwyn North,20173,Bayswater (Vic.),58.25,ok
+20131,Bangholme,20173,Bayswater (Vic.),149.03,ok
+20169,Baxter,20173,Bayswater (Vic.),158.32,ok
+20171,Bayles,20173,Bayswater (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),20173,Bayswater (Vic.),0.0,same_centroid
+20174,Bayswater North,20173,Bayswater (Vic.),36.0,ok
+20175,Beaconsfield (Vic.),20173,Bayswater (Vic.),130.13,ok
+20176,Beaconsfield Upper,20173,Bayswater (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),20173,Bayswater (Vic.),116.57,ok
+20187,Beenak,20173,Bayswater (Vic.),,no_eligible_route
+20188,Belgrave,20173,Bayswater (Vic.),35.92,ok
+20189,Belgrave Heights,20173,Bayswater (Vic.),58.58,ok
+20190,Belgrave South,20173,Bayswater (Vic.),59.57,ok
+20198,Bellfield (Banyule - Vic.),20173,Bayswater (Vic.),98.35,ok
+20207,Bend Of Islands,20173,Bayswater (Vic.),,no_eligible_route
+20212,Benloch,20173,Bayswater (Vic.),,no_eligible_route
+20214,Bentleigh,20173,Bayswater (Vic.),97.58,ok
+20215,Bentleigh East,20173,Bayswater (Vic.),90.73,ok
+20224,Berwick,20173,Bayswater (Vic.),102.58,ok
+20233,Beveridge,20173,Bayswater (Vic.),168.07,ok
+20237,Big Pats Creek,20173,Bayswater (Vic.),,no_eligible_route
+20248,Bittern,20173,Bayswater (Vic.),176.3,ok
+20251,Black Rock (Vic.),20173,Bayswater (Vic.),110.0,ok
+20252,Blackburn,20173,Bayswater (Vic.),34.12,ok
+20253,Blackburn North,20173,Bayswater (Vic.),50.27,ok
+20254,Blackburn South,20173,Bayswater (Vic.),50.47,ok
+20257,Blairgowrie,20173,Bayswater (Vic.),226.63,ok
+20260,Blind Bight,20173,Bayswater (Vic.),,no_eligible_route
+20272,Bolinda,20173,Bayswater (Vic.),,no_eligible_route
+20278,Bonbeach,20173,Bayswater (Vic.),123.17,ok
+20280,Boneo,20173,Bayswater (Vic.),,no_eligible_route
+20282,Bonnie Brook,20173,Bayswater (Vic.),177.98,ok
+20304,Boronia,20173,Bayswater (Vic.),22.78,ok
+20307,Botanic Ridge,20173,Bayswater (Vic.),150.45,ok
+20314,Box Hill (Vic.),20173,Bayswater (Vic.),41.33,ok
+20315,Box Hill North,20173,Bayswater (Vic.),52.0,ok
+20316,Box Hill South,20173,Bayswater (Vic.),49.73,ok
+20320,Braeside,20173,Bayswater (Vic.),125.43,ok
+20324,Braybrook,20173,Bayswater (Vic.),113.15,ok
+20331,Briar Hill,20173,Bayswater (Vic.),86.9,ok
+20337,Brighton (Vic.),20173,Bayswater (Vic.),85.95,ok
+20338,Brighton East,20173,Bayswater (Vic.),97.2,ok
+20346,Broadmeadows (Vic.),20173,Bayswater (Vic.),113.43,ok
+20351,Brookfield (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+20352,Brooklyn (Vic.),20173,Bayswater (Vic.),110.42,ok
+20361,Brunswick (Vic.),20173,Bayswater (Vic.),94.05,ok
+20362,Brunswick East,20173,Bayswater (Vic.),95.33,ok
+20363,Brunswick West,20173,Bayswater (Vic.),95.43,ok
+20381,Bulla (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+20386,Bulleen,20173,Bayswater (Vic.),77.15,ok
+20387,Bullengarook,20173,Bayswater (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),20173,Bayswater (Vic.),104.5,ok
+20411,Bunyip,20173,Bayswater (Vic.),,no_eligible_route
+20412,Bunyip North,20173,Bayswater (Vic.),,no_eligible_route
+20418,Burnley,20173,Bayswater (Vic.),69.75,ok
+20419,Burnside (Vic.),20173,Bayswater (Vic.),124.33,ok
+20420,Burnside Heights,20173,Bayswater (Vic.),132.15,ok
+20426,Burwood (Vic.),20173,Bayswater (Vic.),60.23,ok
+20427,Burwood East,20173,Bayswater (Vic.),52.47,ok
+20435,Bylands,20173,Bayswater (Vic.),,no_eligible_route
+20441,Cairnlea,20173,Bayswater (Vic.),113.52,ok
+20442,Calder Park,20173,Bayswater (Vic.),140.08,ok
+20443,Caldermeade,20173,Bayswater (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),20173,Bayswater (Vic.),71.08,ok
+20455,Campbellfield,20173,Bayswater (Vic.),127.8,ok
+20466,Cannons Creek,20173,Bayswater (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),20173,Bayswater (Vic.),48.57,ok
+20474,Cape Schanck,20173,Bayswater (Vic.),,no_eligible_route
+20476,Capel Sound,20173,Bayswater (Vic.),211.98,ok
+20487,Cardinia,20173,Bayswater (Vic.),,no_eligible_route
+20495,Carlton (Vic.),20173,Bayswater (Vic.),81.0,ok
+20496,Carlton North,20173,Bayswater (Vic.),92.1,ok
+20498,Carnegie,20173,Bayswater (Vic.),94.6,ok
+20500,Caroline Springs,20173,Bayswater (Vic.),133.22,ok
+20507,Carrum,20173,Bayswater (Vic.),127.4,ok
+20508,Carrum Downs,20173,Bayswater (Vic.),108.02,ok
+20512,Castella,20173,Bayswater (Vic.),,no_eligible_route
+20517,Catani,20173,Bayswater (Vic.),,no_eligible_route
+20521,Caulfield,20173,Bayswater (Vic.),94.25,ok
+20522,Caulfield East,20173,Bayswater (Vic.),85.98,ok
+20523,Caulfield North,20173,Bayswater (Vic.),76.9,ok
+20524,Caulfield South,20173,Bayswater (Vic.),98.82,ok
+20528,Chadstone,20173,Bayswater (Vic.),71.77,ok
+20537,Chelsea,20173,Bayswater (Vic.),115.08,ok
+20538,Chelsea Heights,20173,Bayswater (Vic.),123.58,ok
+20539,Cheltenham (Vic.),20173,Bayswater (Vic.),109.73,ok
+20541,Cherokee,20173,Bayswater (Vic.),,no_eligible_route
+20555,Chintin,20173,Bayswater (Vic.),,no_eligible_route
+20556,Chirnside Park,20173,Bayswater (Vic.),68.42,ok
+20559,Christmas Hills (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+20560,Chum Creek,20173,Bayswater (Vic.),,no_eligible_route
+20566,Clarinda,20173,Bayswater (Vic.),95.97,ok
+20567,Clarkefield,20173,Bayswater (Vic.),,no_eligible_route
+20569,Clayton,20173,Bayswater (Vic.),74.22,ok
+20570,Clayton South,20173,Bayswater (Vic.),101.4,ok
+20572,Clematis,20173,Bayswater (Vic.),57.18,ok
+20574,Clifton Hill,20173,Bayswater (Vic.),75.32,ok
+20576,Clonbinane,20173,Bayswater (Vic.),,no_eligible_route
+20581,Clyde (Vic.),20173,Bayswater (Vic.),155.28,ok
+20582,Clyde North,20173,Bayswater (Vic.),123.05,ok
+20587,Cobaw,20173,Bayswater (Vic.),,no_eligible_route
+20590,Cobblebank,20173,Bayswater (Vic.),196.13,ok
+20596,Coburg,20173,Bayswater (Vic.),100.78,ok
+20597,Coburg North,20173,Bayswater (Vic.),110.35,ok
+20600,Cockatoo (Vic.),20173,Bayswater (Vic.),89.45,ok
+20601,Cocoroc,20173,Bayswater (Vic.),,no_eligible_route
+20605,Coimadai,20173,Bayswater (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),20173,Bayswater (Vic.),73.63,ok
+20624,Coolaroo,20173,Bayswater (Vic.),117.02,ok
+20633,Cora Lynn,20173,Bayswater (Vic.),,no_eligible_route
+20654,Cottles Bridge,20173,Bayswater (Vic.),,no_eligible_route
+20661,Craigieburn,20173,Bayswater (Vic.),137.55,ok
+20662,Cranbourne,20173,Bayswater (Vic.),110.17,ok
+20663,Cranbourne East,20173,Bayswater (Vic.),112.33,ok
+20664,Cranbourne North,20173,Bayswater (Vic.),108.5,ok
+20665,Cranbourne South,20173,Bayswater (Vic.),153.8,ok
+20666,Cranbourne West,20173,Bayswater (Vic.),119.87,ok
+20670,Cremorne (Vic.),20173,Bayswater (Vic.),63.73,ok
+20674,Crib Point,20173,Bayswater (Vic.),185.27,ok
+20682,Croydon (Vic.),20173,Bayswater (Vic.),36.57,ok
+20683,Croydon Hills,20173,Bayswater (Vic.),57.23,ok
+20684,Croydon North,20173,Bayswater (Vic.),61.07,ok
+20685,Croydon South,20173,Bayswater (Vic.),33.23,ok
+20702,Dallas,20173,Bayswater (Vic.),119.15,ok
+20703,Dalmore,20173,Bayswater (Vic.),,no_eligible_route
+20707,Dandenong,20173,Bayswater (Vic.),67.9,ok
+20708,Dandenong North,20173,Bayswater (Vic.),75.82,ok
+20709,Dandenong South,20173,Bayswater (Vic.),104.7,ok
+20712,Darley,20173,Bayswater (Vic.),,no_eligible_route
+20716,Darraweit Guim,20173,Bayswater (Vic.),,no_eligible_route
+20724,Deanside,20173,Bayswater (Vic.),159.45,ok
+20728,Deepdene (Vic.),20173,Bayswater (Vic.),60.18,ok
+20729,Deer Park,20173,Bayswater (Vic.),113.28,ok
+20731,Delahey,20173,Bayswater (Vic.),129.95,ok
+20743,Derrimut,20173,Bayswater (Vic.),150.85,ok
+20748,Devon Meadows,20173,Bayswater (Vic.),,no_eligible_route
+20750,Dewhurst,20173,Bayswater (Vic.),,no_eligible_route
+20752,Diamond Creek,20173,Bayswater (Vic.),104.63,ok
+20754,Diggers Rest,20173,Bayswater (Vic.),144.4,ok
+20758,Dingley Village,20173,Bayswater (Vic.),102.27,ok
+20762,Dixons Creek,20173,Bayswater (Vic.),,no_eligible_route
+20766,Docklands,20173,Bayswater (Vic.),79.85,ok
+20769,Don Valley,20173,Bayswater (Vic.),,no_eligible_route
+20771,Doncaster,20173,Bayswater (Vic.),54.8,ok
+20772,Doncaster East,20173,Bayswater (Vic.),63.77,ok
+20773,Donnybrook (Vic.),20173,Bayswater (Vic.),166.6,ok
+20774,Donvale,20173,Bayswater (Vic.),62.97,ok
+20779,Doreen,20173,Bayswater (Vic.),,no_eligible_route
+20783,Doveton,20173,Bayswater (Vic.),85.68,ok
+20788,Dromana,20173,Bayswater (Vic.),,no_eligible_route
+20825,Eaglemont,20173,Bayswater (Vic.),83.92,ok
+20830,East Melbourne,20173,Bayswater (Vic.),69.92,ok
+20833,East Warburton,20173,Bayswater (Vic.),,no_eligible_route
+20843,Eden Park,20173,Bayswater (Vic.),,no_eligible_route
+20848,Edithvale,20173,Bayswater (Vic.),105.57,ok
+20864,Elsternwick,20173,Bayswater (Vic.),81.1,ok
+20865,Eltham (Vic.),20173,Bayswater (Vic.),86.87,ok
+20866,Eltham North,20173,Bayswater (Vic.),108.37,ok
+20867,Elwood,20173,Bayswater (Vic.),87.28,ok
+20868,Emerald (Vic.),20173,Bayswater (Vic.),84.37,ok
+20871,Endeavour Hills,20173,Bayswater (Vic.),89.82,ok
+20878,Epping (Vic.),20173,Bayswater (Vic.),140.17,ok
+20885,Essendon,20173,Bayswater (Vic.),98.45,ok
+20886,Essendon Fields,20173,Bayswater (Vic.),124.85,ok
+20887,Essendon North,20173,Bayswater (Vic.),105.85,ok
+20888,Essendon West,20173,Bayswater (Vic.),104.32,ok
+20889,Eumemmerring,20173,Bayswater (Vic.),89.9,ok
+20898,Exford,20173,Bayswater (Vic.),,no_eligible_route
+20899,Eynesbury,20173,Bayswater (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),20173,Bayswater (Vic.),88.75,ok
+20909,Fawkner,20173,Bayswater (Vic.),120.25,ok
+20916,Fernshaw,20173,Bayswater (Vic.),,no_eligible_route
+20917,Ferntree Gully,20173,Bayswater (Vic.),36.53,ok
+20918,Ferny Creek,20173,Bayswater (Vic.),71.2,ok
+20920,Fingal (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),20173,Bayswater (Vic.),77.93,ok
+20925,Fitzroy North,20173,Bayswater (Vic.),85.53,ok
+20929,Flemington,20173,Bayswater (Vic.),90.07,ok
+20930,Flinders (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+20935,Footscray,20173,Bayswater (Vic.),86.17,ok
+20937,Forest Hill (Vic.),20173,Bayswater (Vic.),50.45,ok
+20947,Frankston,20173,Bayswater (Vic.),133.75,ok
+20948,Frankston North,20173,Bayswater (Vic.),131.87,ok
+20949,Frankston South,20173,Bayswater (Vic.),168.77,ok
+20950,Fraser Rise,20173,Bayswater (Vic.),150.83,ok
+20965,Gardenvale,20173,Bayswater (Vic.),82.38,ok
+20966,Garfield,20173,Bayswater (Vic.),,no_eligible_route
+20967,Garfield North,20173,Bayswater (Vic.),,no_eligible_route
+20979,Gembrook,20173,Bayswater (Vic.),,no_eligible_route
+20995,Gilderoy,20173,Bayswater (Vic.),,no_eligible_route
+21001,Gisborne,20173,Bayswater (Vic.),,no_eligible_route
+21002,Gisborne South,20173,Bayswater (Vic.),,no_eligible_route
+21004,Gladstone Park,20173,Bayswater (Vic.),130.35,ok
+21005,Gladysdale,20173,Bayswater (Vic.),,no_eligible_route
+21009,Glen Huntly,20173,Bayswater (Vic.),89.12,ok
+21010,Glen Iris (Vic.),20173,Bayswater (Vic.),76.98,ok
+21013,Glen Waverley,20173,Bayswater (Vic.),60.02,ok
+21047,Glenroy (Vic.),20173,Bayswater (Vic.),111.0,ok
+21059,Goldie,20173,Bayswater (Vic.),,no_eligible_route
+21079,Gowanbrae,20173,Bayswater (Vic.),126.8,ok
+21087,Grangefields,20173,Bayswater (Vic.),182.43,ok
+21104,Greensborough,20173,Bayswater (Vic.),90.25,ok
+21105,Greenvale (Vic.),20173,Bayswater (Vic.),134.68,ok
+21115,Gruyere,20173,Bayswater (Vic.),,no_eligible_route
+21121,Guys Hill,20173,Bayswater (Vic.),,no_eligible_route
+21124,Hadfield,20173,Bayswater (Vic.),122.28,ok
+21125,Hallam,20173,Bayswater (Vic.),107.2,ok
+21131,Hampton (Vic.),20173,Bayswater (Vic.),93.78,ok
+21132,Hampton East,20173,Bayswater (Vic.),104.35,ok
+21133,Hampton Park,20173,Bayswater (Vic.),105.3,ok
+21139,Harkaway,20173,Bayswater (Vic.),,no_eligible_route
+21140,Harkness,20173,Bayswater (Vic.),,no_eligible_route
+21145,Hastings (Vic.),20173,Bayswater (Vic.),177.83,ok
+21152,Hawthorn (Vic.),20173,Bayswater (Vic.),58.15,ok
+21153,Hawthorn East,20173,Bayswater (Vic.),59.22,ok
+21158,Healesville,20173,Bayswater (Vic.),124.75,ok
+21159,Heath Hill,20173,Bayswater (Vic.),,no_eligible_route
+21161,Heathcote Junction,20173,Bayswater (Vic.),,no_eligible_route
+21163,Heatherton,20173,Bayswater (Vic.),102.27,ok
+21165,Heathmont,20173,Bayswater (Vic.),21.82,ok
+21167,Heidelberg,20173,Bayswater (Vic.),81.72,ok
+21168,Heidelberg Heights,20173,Bayswater (Vic.),92.98,ok
+21169,Heidelberg West,20173,Bayswater (Vic.),97.98,ok
+21176,Hesket,20173,Bayswater (Vic.),,no_eligible_route
+21185,Highett,20173,Bayswater (Vic.),97.12,ok
+21193,Hillside (Melton - Vic.),20173,Bayswater (Vic.),135.38,ok
+21195,Hmas Cerberus,20173,Bayswater (Vic.),,no_eligible_route
+21196,Hoddles Creek,20173,Bayswater (Vic.),,no_eligible_route
+21202,Hopetoun Park,20173,Bayswater (Vic.),,no_eligible_route
+21203,Hoppers Crossing,20173,Bayswater (Vic.),122.23,ok
+21214,Hughesdale,20173,Bayswater (Vic.),75.03,ok
+21215,Humevale,20173,Bayswater (Vic.),,no_eligible_route
+21218,Huntingdale (Vic.),20173,Bayswater (Vic.),79.98,ok
+21223,Hurstbridge,20173,Bayswater (Vic.),105.18,ok
+21238,Iona,20173,Bayswater (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),20173,Bayswater (Vic.),88.92,ok
+21247,Ivanhoe East,20173,Bayswater (Vic.),91.53,ok
+21248,Jacana,20173,Bayswater (Vic.),115.57,ok
+21277,Junction Village,20173,Bayswater (Vic.),148.5,ok
+21284,Kalkallo,20173,Bayswater (Vic.),159.6,ok
+21286,Kallista,20173,Bayswater (Vic.),74.63,ok
+21287,Kalorama,20173,Bayswater (Vic.),65.7,ok
+21294,Kangaroo Ground,20173,Bayswater (Vic.),120.42,ok
+21312,Kealba,20173,Bayswater (Vic.),116.67,ok
+21314,Keilor,20173,Bayswater (Vic.),147.82,ok
+21315,Keilor Downs,20173,Bayswater (Vic.),133.65,ok
+21316,Keilor East,20173,Bayswater (Vic.),118.68,ok
+21317,Keilor Lodge,20173,Bayswater (Vic.),146.13,ok
+21318,Keilor North,20173,Bayswater (Vic.),147.1,ok
+21319,Keilor Park,20173,Bayswater (Vic.),126.6,ok
+21327,Kensington (Vic.),20173,Bayswater (Vic.),82.85,ok
+21333,Kerrie,20173,Bayswater (Vic.),,no_eligible_route
+21336,Kew (Vic.),20173,Bayswater (Vic.),71.6,ok
+21337,Kew East,20173,Bayswater (Vic.),83.73,ok
+21339,Keysborough,20173,Bayswater (Vic.),107.55,ok
+21354,Kilsyth,20173,Bayswater (Vic.),51.4,ok
+21355,Kilsyth South,20173,Bayswater (Vic.),45.37,ok
+21358,Kinglake,20173,Bayswater (Vic.),,no_eligible_route
+21359,Kinglake Central,20173,Bayswater (Vic.),,no_eligible_route
+21360,Kinglake West,20173,Bayswater (Vic.),,no_eligible_route
+21362,Kings Park (Vic.),20173,Bayswater (Vic.),128.85,ok
+21363,Kingsbury,20173,Bayswater (Vic.),114.27,ok
+21365,Kingsville,20173,Bayswater (Vic.),99.65,ok
+21374,Knoxfield,20173,Bayswater (Vic.),34.08,ok
+21380,Koo Wee Rup,20173,Bayswater (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,20173,Bayswater (Vic.),,no_eligible_route
+21393,Kooyong,20173,Bayswater (Vic.),69.4,ok
+21411,Kurunjang,20173,Bayswater (Vic.),214.22,ok
+21452,Lalor,20173,Bayswater (Vic.),110.6,ok
+21456,Lancefield,20173,Bayswater (Vic.),,no_eligible_route
+21459,Lang Lang,20173,Bayswater (Vic.),,no_eligible_route
+21460,Lang Lang East,20173,Bayswater (Vic.),,no_eligible_route
+21467,Langwarrin,20173,Bayswater (Vic.),147.18,ok
+21468,Langwarrin South,20173,Bayswater (Vic.),,no_eligible_route
+21473,Launching Place,20173,Bayswater (Vic.),80.55,ok
+21476,Laverton (Vic.),20173,Bayswater (Vic.),103.0,ok
+21477,Laverton North,20173,Bayswater (Vic.),139.43,ok
+21504,Lilydale (Vic.),20173,Bayswater (Vic.),66.03,ok
+21533,Long Forest,20173,Bayswater (Vic.),,no_eligible_route
+21547,Lower Plenty,20173,Bayswater (Vic.),105.55,ok
+21554,Lynbrook,20173,Bayswater (Vic.),94.95,ok
+21555,Lyndhurst (Vic.),20173,Bayswater (Vic.),146.25,ok
+21558,Lysterfield,20173,Bayswater (Vic.),173.22,walk_only
+21559,Lysterfield South,20173,Bayswater (Vic.),194.93,walk_only
+21561,Macclesfield (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+21562,Macedon,20173,Bayswater (Vic.),,no_eligible_route
+21564,Macleod (Vic.),20173,Bayswater (Vic.),102.27,ok
+21569,Maddingley,20173,Bayswater (Vic.),,no_eligible_route
+21575,Maidstone,20173,Bayswater (Vic.),108.53,ok
+21578,Main Ridge,20173,Bayswater (Vic.),,no_eligible_route
+21586,Malvern (Vic.),20173,Bayswater (Vic.),70.87,ok
+21587,Malvern East,20173,Bayswater (Vic.),83.88,ok
+21588,Mambourin,20173,Bayswater (Vic.),,no_eligible_route
+21597,Manor Lakes,20173,Bayswater (Vic.),156.47,ok
+21604,Maribyrnong,20173,Bayswater (Vic.),105.28,ok
+21619,Maryknoll,20173,Bayswater (Vic.),,no_eligible_route
+21625,McCrae,20173,Bayswater (Vic.),205.18,ok
+21629,McKinnon,20173,Bayswater (Vic.),86.42,ok
+21635,Meadow Heights,20173,Bayswater (Vic.),128.45,ok
+21640,Melbourne,20173,Bayswater (Vic.),66.02,ok
+21641,Melbourne Airport,20173,Bayswater (Vic.),,no_eligible_route
+21642,Melton (Vic.),20173,Bayswater (Vic.),198.35,ok
+21643,Melton South,20173,Bayswater (Vic.),211.95,ok
+21644,Melton West,20173,Bayswater (Vic.),207.18,ok
+21648,Mentone,20173,Bayswater (Vic.),96.77,ok
+21649,Menzies Creek,20173,Bayswater (Vic.),55.98,ok
+21659,Mernda,20173,Bayswater (Vic.),154.08,ok
+21662,Merricks,20173,Bayswater (Vic.),,no_eligible_route
+21663,Merricks Beach,20173,Bayswater (Vic.),,no_eligible_route
+21664,Merricks North,20173,Bayswater (Vic.),,no_eligible_route
+21668,Merrimu,20173,Bayswater (Vic.),,no_eligible_route
+21675,Mickleham,20173,Bayswater (Vic.),155.58,ok
+21677,Middle Park (Vic.),20173,Bayswater (Vic.),90.55,ok
+21683,Mill Park,20173,Bayswater (Vic.),128.1,ok
+21685,Millgrove,20173,Bayswater (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),20173,Bayswater (Vic.),33.77,ok
+21727,Monbulk,20173,Bayswater (Vic.),82.08,ok
+21728,Monegeetta,20173,Bayswater (Vic.),,no_eligible_route
+21731,Monomeith,20173,Bayswater (Vic.),,no_eligible_route
+21732,Mont Albert,20173,Bayswater (Vic.),47.97,ok
+21733,Mont Albert North,20173,Bayswater (Vic.),57.95,ok
+21735,Montmorency,20173,Bayswater (Vic.),92.92,ok
+21736,Montrose (Vic.),20173,Bayswater (Vic.),52.62,ok
+21742,Moonee Ponds,20173,Bayswater (Vic.),84.92,ok
+21746,Moorabbin,20173,Bayswater (Vic.),102.37,ok
+21747,Moorabbin Airport,20173,Bayswater (Vic.),113.93,ok
+21754,Moorooduc,20173,Bayswater (Vic.),,no_eligible_route
+21755,Mooroolbark,20173,Bayswater (Vic.),57.1,ok
+21760,Mordialloc,20173,Bayswater (Vic.),123.8,ok
+21763,Mornington (Vic.),20173,Bayswater (Vic.),177.1,ok
+21779,Mount Burnett,20173,Bayswater (Vic.),,no_eligible_route
+21786,Mount Cottrell,20173,Bayswater (Vic.),,no_eligible_route
+21787,Mount Dandenong,20173,Bayswater (Vic.),59.2,ok
+21793,Mount Eliza,20173,Bayswater (Vic.),150.17,ok
+21795,Mount Evelyn,20173,Bayswater (Vic.),72.47,ok
+21801,Mount Macedon,20173,Bayswater (Vic.),,no_eligible_route
+21803,Mount Martha,20173,Bayswater (Vic.),173.7,ok
+21814,Mount Toolebewong,20173,Bayswater (Vic.),,no_eligible_route
+21816,Mount Waverley,20173,Bayswater (Vic.),65.75,ok
+21827,Mulgrave (Vic.),20173,Bayswater (Vic.),86.05,ok
+21849,Murrumbeena,20173,Bayswater (Vic.),90.93,ok
+21872,Nangana,20173,Bayswater (Vic.),,no_eligible_route
+21878,Nar Nar Goon,20173,Bayswater (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,20173,Bayswater (Vic.),,no_eligible_route
+21893,Narre Warren,20173,Bayswater (Vic.),104.68,ok
+21894,Narre Warren East,20173,Bayswater (Vic.),,no_eligible_route
+21895,Narre Warren North,20173,Bayswater (Vic.),124.95,ok
+21896,Narre Warren South,20173,Bayswater (Vic.),109.0,ok
+21921,New Gisborne,20173,Bayswater (Vic.),,no_eligible_route
+21934,Newport (Vic.),20173,Bayswater (Vic.),87.85,ok
+21942,Niddrie,20173,Bayswater (Vic.),117.8,ok
+21952,Noble Park,20173,Bayswater (Vic.),88.98,ok
+21953,Noble Park North,20173,Bayswater (Vic.),97.67,ok
+21966,North Melbourne,20173,Bayswater (Vic.),88.3,ok
+21969,North Warrandyte,20173,Bayswater (Vic.),80.13,ok
+21971,Northcote,20173,Bayswater (Vic.),88.33,ok
+21974,Notting Hill,20173,Bayswater (Vic.),63.25,ok
+21985,Nunawading,20173,Bayswater (Vic.),32.23,ok
+21991,Nutfield,20173,Bayswater (Vic.),,no_eligible_route
+21998,Oak Park,20173,Bayswater (Vic.),103.23,ok
+21999,Oaklands Junction,20173,Bayswater (Vic.),,no_eligible_route
+22000,Oakleigh,20173,Bayswater (Vic.),68.68,ok
+22001,Oakleigh East,20173,Bayswater (Vic.),74.28,ok
+22002,Oakleigh South,20173,Bayswater (Vic.),76.02,ok
+22006,Officer,20173,Bayswater (Vic.),122.23,ok
+22007,Officer South,20173,Bayswater (Vic.),161.8,ok
+22009,Olinda (Vic.),20173,Bayswater (Vic.),74.52,ok
+22016,Ormond,20173,Bayswater (Vic.),86.85,ok
+22027,Pakenham,20173,Bayswater (Vic.),119.15,ok
+22028,Pakenham South,20173,Bayswater (Vic.),,no_eligible_route
+22029,Pakenham Upper,20173,Bayswater (Vic.),,no_eligible_route
+22032,Panton Hill,20173,Bayswater (Vic.),,no_eligible_route
+22036,Park Orchards,20173,Bayswater (Vic.),47.88,ok
+22037,Parkdale,20173,Bayswater (Vic.),112.18,ok
+22038,Parkville (Vic.),20173,Bayswater (Vic.),87.13,ok
+22041,Pascoe Vale,20173,Bayswater (Vic.),107.6,ok
+22042,Pascoe Vale South,20173,Bayswater (Vic.),103.33,ok
+22047,Patterson Lakes,20173,Bayswater (Vic.),130.95,ok
+22050,Pearcedale,20173,Bayswater (Vic.),171.1,ok
+22058,Pentland Hills,20173,Bayswater (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+22084,Plenty (Vic.),20173,Bayswater (Vic.),116.77,ok
+22085,Plumpton (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+22086,Point Cook,20173,Bayswater (Vic.),119.23,ok
+22087,Point Leo,20173,Bayswater (Vic.),,no_eligible_route
+22107,Port Melbourne,20173,Bayswater (Vic.),85.85,ok
+22113,Portsea,20173,Bayswater (Vic.),,no_eligible_route
+22115,Powelltown,20173,Bayswater (Vic.),,no_eligible_route
+22118,Prahran,20173,Bayswater (Vic.),75.73,ok
+22121,Preston (Vic.),20173,Bayswater (Vic.),99.12,ok
+22122,Princes Hill,20173,Bayswater (Vic.),86.28,ok
+22132,Quandong,20173,Bayswater (Vic.),,no_eligible_route
+22141,Ravenhall,20173,Bayswater (Vic.),173.03,ok
+22148,Red Hill (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+22149,Red Hill South,20173,Bayswater (Vic.),,no_eligible_route
+22160,Research,20173,Bayswater (Vic.),86.03,ok
+22161,Reservoir (Vic.),20173,Bayswater (Vic.),107.42,ok
+22170,Richmond (Vic.),20173,Bayswater (Vic.),70.42,ok
+22172,Riddells Creek,20173,Bayswater (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),20173,Bayswater (Vic.),29.27,ok
+22175,Ringwood East,20173,Bayswater (Vic.),41.98,ok
+22176,Ringwood North,20173,Bayswater (Vic.),40.62,ok
+22179,Ripponlea,20173,Bayswater (Vic.),71.82,ok
+22185,Rochford,20173,Bayswater (Vic.),,no_eligible_route
+22186,Rockbank,20173,Bayswater (Vic.),163.7,ok
+22193,Romsey,20173,Bayswater (Vic.),,no_eligible_route
+22194,Rosanna,20173,Bayswater (Vic.),91.92,ok
+22198,Rosebud,20173,Bayswater (Vic.),,no_eligible_route
+22207,Rowville,20173,Bayswater (Vic.),52.62,ok
+22208,Roxburgh Park,20173,Bayswater (Vic.),133.08,ok
+22220,Rye,20173,Bayswater (Vic.),234.7,ok
+22221,Rythdale,20173,Bayswater (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),20173,Bayswater (Vic.),189.67,ok
+22232,Sandhurst,20173,Bayswater (Vic.),133.03,ok
+22234,Sandringham (Vic.),20173,Bayswater (Vic.),98.67,ok
+22239,Sassafras (Vic.),20173,Bayswater (Vic.),55.97,ok
+22242,Scoresby,20173,Bayswater (Vic.),50.97,ok
+22247,Seabrook,20173,Bayswater (Vic.),119.4,ok
+22249,Seaford (Vic.),20173,Bayswater (Vic.),129.17,ok
+22250,Seaholme,20173,Bayswater (Vic.),102.08,ok
+22256,Seddon (Vic.),20173,Bayswater (Vic.),86.1,ok
+22258,Selby,20173,Bayswater (Vic.),55.65,ok
+22263,Seville,20173,Bayswater (Vic.),104.55,ok
+22264,Seville East,20173,Bayswater (Vic.),92.43,ok
+22278,Sherbrooke,20173,Bayswater (Vic.),64.7,ok
+22279,Shoreham,20173,Bayswater (Vic.),,no_eligible_route
+22281,Silvan,20173,Bayswater (Vic.),74.18,ok
+22291,Skye (Vic.),20173,Bayswater (Vic.),122.7,ok
+22295,Smiths Gully,20173,Bayswater (Vic.),,no_eligible_route
+22303,Somers,20173,Bayswater (Vic.),,no_eligible_route
+22304,Somerton (Vic.),20173,Bayswater (Vic.),133.22,ok
+22305,Somerville (Vic.),20173,Bayswater (Vic.),182.88,ok
+22306,Sorrento (Vic.),20173,Bayswater (Vic.),225.47,ok
+22309,South Kingsville,20173,Bayswater (Vic.),105.1,ok
+22310,South Melbourne,20173,Bayswater (Vic.),78.58,ok
+22311,South Morang,20173,Bayswater (Vic.),137.28,ok
+22313,South Wharf,20173,Bayswater (Vic.),78.85,ok
+22314,South Yarra,20173,Bayswater (Vic.),62.58,ok
+22315,Southbank,20173,Bayswater (Vic.),72.67,ok
+22319,Spotswood,20173,Bayswater (Vic.),86.25,ok
+22325,Springfield (Macedon Ranges - Vic.),20173,Bayswater (Vic.),,no_eligible_route
+22328,Springvale (Vic.),20173,Bayswater (Vic.),87.53,ok
+22329,Springvale South,20173,Bayswater (Vic.),87.15,ok
+22330,St Albans (Vic.),20173,Bayswater (Vic.),108.93,ok
+22332,St Andrews (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+22333,St Andrews Beach,20173,Bayswater (Vic.),,no_eligible_route
+22339,St Helena,20173,Bayswater (Vic.),111.13,ok
+22343,St Kilda (Vic.),20173,Bayswater (Vic.),84.52,ok
+22344,St Kilda East,20173,Bayswater (Vic.),79.25,ok
+22345,St Kilda West,20173,Bayswater (Vic.),89.2,ok
+22355,Steels Creek,20173,Bayswater (Vic.),,no_eligible_route
+22375,Strathewen,20173,Bayswater (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),20173,Bayswater (Vic.),111.4,ok
+22381,Strathmore Heights,20173,Bayswater (Vic.),125.65,ok
+22382,Strathtulloh,20173,Bayswater (Vic.),,no_eligible_route
+22391,Sunbury,20173,Bayswater (Vic.),167.22,ok
+22395,Sunshine (Vic.),20173,Bayswater (Vic.),97.72,ok
+22396,Sunshine North,20173,Bayswater (Vic.),112.78,ok
+22397,Sunshine West,20173,Bayswater (Vic.),129.88,ok
+22399,Surrey Hills,20173,Bayswater (Vic.),48.32,ok
+22414,Sydenham (Vic.),20173,Bayswater (Vic.),123.33,ok
+22451,Tarneit,20173,Bayswater (Vic.),147.3,ok
+22457,Tarrawarra,20173,Bayswater (Vic.),100.35,ok
+22473,Taylors Hill,20173,Bayswater (Vic.),134.33,ok
+22474,Taylors Lakes,20173,Bayswater (Vic.),127.73,ok
+22476,Tecoma,20173,Bayswater (Vic.),32.92,ok
+22483,Templestowe,20173,Bayswater (Vic.),72.82,ok
+22484,Templestowe Lower,20173,Bayswater (Vic.),76.3,ok
+22496,The Basin (Vic.),20173,Bayswater (Vic.),30.3,ok
+22501,The Patch,20173,Bayswater (Vic.),72.65,ok
+22504,Thomastown,20173,Bayswater (Vic.),115.9,ok
+22508,Thornbury,20173,Bayswater (Vic.),94.5,ok
+22509,Thornhill Park,20173,Bayswater (Vic.),,no_eligible_route
+22514,Three Bridges,20173,Bayswater (Vic.),,no_eligible_route
+22531,Tonimbuk,20173,Bayswater (Vic.),,no_eligible_route
+22536,Toolangi,20173,Bayswater (Vic.),,no_eligible_route
+22537,Toolern Vale,20173,Bayswater (Vic.),,no_eligible_route
+22546,Tooradin,20173,Bayswater (Vic.),,no_eligible_route
+22547,Toorak,20173,Bayswater (Vic.),75.53,ok
+22550,Tootgarook,20173,Bayswater (Vic.),218.12,ok
+22556,Tottenham (Vic.),20173,Bayswater (Vic.),120.28,ok
+22572,Travancore,20173,Bayswater (Vic.),89.67,ok
+22576,Tremont,20173,Bayswater (Vic.),48.1,ok
+22582,Truganina,20173,Bayswater (Vic.),196.45,ok
+22584,Tuerong,20173,Bayswater (Vic.),,no_eligible_route
+22586,Tullamarine,20173,Bayswater (Vic.),140.18,ok
+22594,Tyabb,20173,Bayswater (Vic.),171.75,ok
+22598,Tynong,20173,Bayswater (Vic.),,no_eligible_route
+22599,Tynong North,20173,Bayswater (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,20173,Bayswater (Vic.),30.07,ok
+22617,Upper Plenty,20173,Bayswater (Vic.),,no_eligible_route
+22620,Upwey,20173,Bayswater (Vic.),32.78,ok
+22627,Vermont,20173,Bayswater (Vic.),37.35,ok
+22628,Vermont South,20173,Bayswater (Vic.),43.23,ok
+22629,Vervale,20173,Bayswater (Vic.),,no_eligible_route
+22633,Viewbank,20173,Bayswater (Vic.),109.73,ok
+22661,Wallan,20173,Bayswater (Vic.),,no_eligible_route
+22672,Wandin East,20173,Bayswater (Vic.),,no_eligible_route
+22673,Wandin North,20173,Bayswater (Vic.),64.68,ok
+22676,Wandong,20173,Bayswater (Vic.),,no_eligible_route
+22685,Wantirna,20173,Bayswater (Vic.),42.73,ok
+22686,Wantirna South,20173,Bayswater (Vic.),48.3,ok
+22689,Warburton (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+22695,Warneet,20173,Bayswater (Vic.),,no_eligible_route
+22702,Warrandyte,20173,Bayswater (Vic.),62.53,ok
+22703,Warrandyte South,20173,Bayswater (Vic.),75.92,ok
+22704,Warranwood,20173,Bayswater (Vic.),49.23,ok
+22717,Waterford Park,20173,Bayswater (Vic.),,no_eligible_route
+22720,Waterways,20173,Bayswater (Vic.),111.58,ok
+22721,Watsonia,20173,Bayswater (Vic.),97.18,ok
+22722,Watsonia North,20173,Bayswater (Vic.),110.68,ok
+22723,Watsons Creek (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+22727,Wattle Glen,20173,Bayswater (Vic.),119.93,ok
+22740,Weir Views,20173,Bayswater (Vic.),,no_eligible_route
+22750,Werribee,20173,Bayswater (Vic.),114.03,ok
+22751,Werribee South,20173,Bayswater (Vic.),,no_eligible_route
+22753,Wesburn,20173,Bayswater (Vic.),110.48,ok
+22756,West Footscray,20173,Bayswater (Vic.),98.42,ok
+22757,West Melbourne,20173,Bayswater (Vic.),90.82,ok
+22761,Westmeadows,20173,Bayswater (Vic.),126.22,ok
+22766,Wheelers Hill,20173,Bayswater (Vic.),50.85,ok
+22775,Whittlesea,20173,Bayswater (Vic.),,no_eligible_route
+22784,Wildwood,20173,Bayswater (Vic.),,no_eligible_route
+22791,Williams Landing,20173,Bayswater (Vic.),117.25,ok
+22792,Williamstown (Vic.),20173,Bayswater (Vic.),95.07,ok
+22793,Williamstown North,20173,Bayswater (Vic.),104.55,ok
+22805,Windsor (Vic.),20173,Bayswater (Vic.),69.08,ok
+22820,Wollert,20173,Bayswater (Vic.),154.12,ok
+22825,Wonga Park,20173,Bayswater (Vic.),58.27,ok
+22843,Woodstock (Vic.),20173,Bayswater (Vic.),,no_eligible_route
+22857,Woori Yallock,20173,Bayswater (Vic.),89.63,ok
+22883,Wyndham Vale,20173,Bayswater (Vic.),150.78,ok
+22892,Yallambie,20173,Bayswater (Vic.),119.28,ok
+22898,Yan Yean,20173,Bayswater (Vic.),170.85,ok
+22906,Yannathan,20173,Bayswater (Vic.),,no_eligible_route
+22910,Yarra Glen,20173,Bayswater (Vic.),96.65,ok
+22911,Yarra Junction,20173,Bayswater (Vic.),114.75,ok
+22916,Yarrambat,20173,Bayswater (Vic.),113.33,ok
+22917,Yarraville,20173,Bayswater (Vic.),92.0,ok
+22925,Yellingbo,20173,Bayswater (Vic.),,no_eligible_route
+22930,Yering,20173,Bayswater (Vic.),,no_eligible_route
+22941,Yuroke,20173,Bayswater (Vic.),186.93,ok

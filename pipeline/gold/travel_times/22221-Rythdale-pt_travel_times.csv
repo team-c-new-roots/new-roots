@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22221,Rythdale,,no_eligible_route
+20003,Aberfeldie,22221,Rythdale,,no_eligible_route
+20011,Aintree,22221,Rythdale,,no_eligible_route
+20015,Airport West,22221,Rythdale,,no_eligible_route
+20017,Albanvale,22221,Rythdale,,no_eligible_route
+20018,Albert Park (Vic.),22221,Rythdale,,no_eligible_route
+20021,Albion (Vic.),22221,Rythdale,,no_eligible_route
+20034,Alphington,22221,Rythdale,,no_eligible_route
+20035,Altona (Vic.),22221,Rythdale,,no_eligible_route
+20036,Altona Meadows,22221,Rythdale,,no_eligible_route
+20037,Altona North,22221,Rythdale,,no_eligible_route
+20062,Ardeer,22221,Rythdale,,no_eligible_route
+20066,Armadale (Vic.),22221,Rythdale,,no_eligible_route
+20071,Arthurs Creek,22221,Rythdale,,no_eligible_route
+20072,Arthurs Seat,22221,Rythdale,,no_eligible_route
+20075,Ascot Vale,22221,Rythdale,,no_eligible_route
+20077,Ashburton,22221,Rythdale,,no_eligible_route
+20078,Ashwood,22221,Rythdale,,no_eligible_route
+20079,Aspendale,22221,Rythdale,,no_eligible_route
+20080,Aspendale Gardens,22221,Rythdale,,no_eligible_route
+20082,Attwood,22221,Rythdale,,no_eligible_route
+20089,Avondale Heights,22221,Rythdale,,no_eligible_route
+20091,Avonsleigh,22221,Rythdale,,no_eligible_route
+20095,Bacchus Marsh,22221,Rythdale,,no_eligible_route
+20097,Badger Creek,22221,Rythdale,,no_eligible_route
+20105,Balaclava (Vic.),22221,Rythdale,,no_eligible_route
+20120,Balnarring,22221,Rythdale,,no_eligible_route
+20121,Balnarring Beach,22221,Rythdale,,no_eligible_route
+20123,Balwyn,22221,Rythdale,,no_eligible_route
+20124,Balwyn North,22221,Rythdale,,no_eligible_route
+20131,Bangholme,22221,Rythdale,,no_eligible_route
+20169,Baxter,22221,Rythdale,,no_eligible_route
+20171,Bayles,22221,Rythdale,200.38,walk_only
+20173,Bayswater (Vic.),22221,Rythdale,,no_eligible_route
+20174,Bayswater North,22221,Rythdale,,no_eligible_route
+20175,Beaconsfield (Vic.),22221,Rythdale,234.08,walk_only
+20176,Beaconsfield Upper,22221,Rythdale,,no_eligible_route
+20182,Beaumaris (Vic.),22221,Rythdale,,no_eligible_route
+20187,Beenak,22221,Rythdale,,no_eligible_route
+20188,Belgrave,22221,Rythdale,,no_eligible_route
+20189,Belgrave Heights,22221,Rythdale,,no_eligible_route
+20190,Belgrave South,22221,Rythdale,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),22221,Rythdale,,no_eligible_route
+20207,Bend Of Islands,22221,Rythdale,,no_eligible_route
+20212,Benloch,22221,Rythdale,,no_eligible_route
+20214,Bentleigh,22221,Rythdale,,no_eligible_route
+20215,Bentleigh East,22221,Rythdale,,no_eligible_route
+20224,Berwick,22221,Rythdale,,no_eligible_route
+20233,Beveridge,22221,Rythdale,,no_eligible_route
+20237,Big Pats Creek,22221,Rythdale,,no_eligible_route
+20248,Bittern,22221,Rythdale,,no_eligible_route
+20251,Black Rock (Vic.),22221,Rythdale,,no_eligible_route
+20252,Blackburn,22221,Rythdale,,no_eligible_route
+20253,Blackburn North,22221,Rythdale,,no_eligible_route
+20254,Blackburn South,22221,Rythdale,,no_eligible_route
+20257,Blairgowrie,22221,Rythdale,,no_eligible_route
+20260,Blind Bight,22221,Rythdale,,no_eligible_route
+20272,Bolinda,22221,Rythdale,,no_eligible_route
+20278,Bonbeach,22221,Rythdale,,no_eligible_route
+20280,Boneo,22221,Rythdale,,no_eligible_route
+20282,Bonnie Brook,22221,Rythdale,,no_eligible_route
+20304,Boronia,22221,Rythdale,,no_eligible_route
+20307,Botanic Ridge,22221,Rythdale,,no_eligible_route
+20314,Box Hill (Vic.),22221,Rythdale,,no_eligible_route
+20315,Box Hill North,22221,Rythdale,,no_eligible_route
+20316,Box Hill South,22221,Rythdale,,no_eligible_route
+20320,Braeside,22221,Rythdale,,no_eligible_route
+20324,Braybrook,22221,Rythdale,,no_eligible_route
+20331,Briar Hill,22221,Rythdale,,no_eligible_route
+20337,Brighton (Vic.),22221,Rythdale,,no_eligible_route
+20338,Brighton East,22221,Rythdale,,no_eligible_route
+20346,Broadmeadows (Vic.),22221,Rythdale,,no_eligible_route
+20351,Brookfield (Vic.),22221,Rythdale,,no_eligible_route
+20352,Brooklyn (Vic.),22221,Rythdale,,no_eligible_route
+20361,Brunswick (Vic.),22221,Rythdale,,no_eligible_route
+20362,Brunswick East,22221,Rythdale,,no_eligible_route
+20363,Brunswick West,22221,Rythdale,,no_eligible_route
+20381,Bulla (Vic.),22221,Rythdale,,no_eligible_route
+20386,Bulleen,22221,Rythdale,,no_eligible_route
+20387,Bullengarook,22221,Rythdale,,no_eligible_route
+20399,Bundoora (Vic.),22221,Rythdale,,no_eligible_route
+20411,Bunyip,22221,Rythdale,,no_eligible_route
+20412,Bunyip North,22221,Rythdale,,no_eligible_route
+20418,Burnley,22221,Rythdale,,no_eligible_route
+20419,Burnside (Vic.),22221,Rythdale,,no_eligible_route
+20420,Burnside Heights,22221,Rythdale,,no_eligible_route
+20426,Burwood (Vic.),22221,Rythdale,,no_eligible_route
+20427,Burwood East,22221,Rythdale,,no_eligible_route
+20435,Bylands,22221,Rythdale,,no_eligible_route
+20441,Cairnlea,22221,Rythdale,,no_eligible_route
+20442,Calder Park,22221,Rythdale,,no_eligible_route
+20443,Caldermeade,22221,Rythdale,,no_eligible_route
+20453,Camberwell (Vic.),22221,Rythdale,,no_eligible_route
+20455,Campbellfield,22221,Rythdale,,no_eligible_route
+20466,Cannons Creek,22221,Rythdale,,no_eligible_route
+20468,Canterbury (Vic.),22221,Rythdale,,no_eligible_route
+20474,Cape Schanck,22221,Rythdale,,no_eligible_route
+20476,Capel Sound,22221,Rythdale,,no_eligible_route
+20487,Cardinia,22221,Rythdale,64.32,walk_only
+20495,Carlton (Vic.),22221,Rythdale,,no_eligible_route
+20496,Carlton North,22221,Rythdale,,no_eligible_route
+20498,Carnegie,22221,Rythdale,,no_eligible_route
+20500,Caroline Springs,22221,Rythdale,,no_eligible_route
+20507,Carrum,22221,Rythdale,,no_eligible_route
+20508,Carrum Downs,22221,Rythdale,,no_eligible_route
+20512,Castella,22221,Rythdale,,no_eligible_route
+20517,Catani,22221,Rythdale,,no_eligible_route
+20521,Caulfield,22221,Rythdale,,no_eligible_route
+20522,Caulfield East,22221,Rythdale,,no_eligible_route
+20523,Caulfield North,22221,Rythdale,,no_eligible_route
+20524,Caulfield South,22221,Rythdale,,no_eligible_route
+20528,Chadstone,22221,Rythdale,,no_eligible_route
+20537,Chelsea,22221,Rythdale,,no_eligible_route
+20538,Chelsea Heights,22221,Rythdale,,no_eligible_route
+20539,Cheltenham (Vic.),22221,Rythdale,,no_eligible_route
+20541,Cherokee,22221,Rythdale,,no_eligible_route
+20555,Chintin,22221,Rythdale,,no_eligible_route
+20556,Chirnside Park,22221,Rythdale,,no_eligible_route
+20559,Christmas Hills (Vic.),22221,Rythdale,,no_eligible_route
+20560,Chum Creek,22221,Rythdale,,no_eligible_route
+20566,Clarinda,22221,Rythdale,,no_eligible_route
+20567,Clarkefield,22221,Rythdale,,no_eligible_route
+20569,Clayton,22221,Rythdale,,no_eligible_route
+20570,Clayton South,22221,Rythdale,,no_eligible_route
+20572,Clematis,22221,Rythdale,,no_eligible_route
+20574,Clifton Hill,22221,Rythdale,,no_eligible_route
+20576,Clonbinane,22221,Rythdale,,no_eligible_route
+20581,Clyde (Vic.),22221,Rythdale,199.07,walk_only
+20582,Clyde North,22221,Rythdale,173.58,walk_only
+20587,Cobaw,22221,Rythdale,,no_eligible_route
+20590,Cobblebank,22221,Rythdale,,no_eligible_route
+20596,Coburg,22221,Rythdale,,no_eligible_route
+20597,Coburg North,22221,Rythdale,,no_eligible_route
+20600,Cockatoo (Vic.),22221,Rythdale,,no_eligible_route
+20601,Cocoroc,22221,Rythdale,,no_eligible_route
+20605,Coimadai,22221,Rythdale,,no_eligible_route
+20613,Coldstream (Vic.),22221,Rythdale,,no_eligible_route
+20616,Collingwood (Vic.),22221,Rythdale,,no_eligible_route
+20624,Coolaroo,22221,Rythdale,,no_eligible_route
+20633,Cora Lynn,22221,Rythdale,202.25,walk_only
+20654,Cottles Bridge,22221,Rythdale,,no_eligible_route
+20661,Craigieburn,22221,Rythdale,,no_eligible_route
+20662,Cranbourne,22221,Rythdale,,no_eligible_route
+20663,Cranbourne East,22221,Rythdale,215.25,walk_only
+20664,Cranbourne North,22221,Rythdale,,no_eligible_route
+20665,Cranbourne South,22221,Rythdale,,no_eligible_route
+20666,Cranbourne West,22221,Rythdale,,no_eligible_route
+20670,Cremorne (Vic.),22221,Rythdale,,no_eligible_route
+20674,Crib Point,22221,Rythdale,,no_eligible_route
+20682,Croydon (Vic.),22221,Rythdale,,no_eligible_route
+20683,Croydon Hills,22221,Rythdale,,no_eligible_route
+20684,Croydon North,22221,Rythdale,,no_eligible_route
+20685,Croydon South,22221,Rythdale,,no_eligible_route
+20702,Dallas,22221,Rythdale,,no_eligible_route
+20703,Dalmore,22221,Rythdale,108.1,walk_only
+20707,Dandenong,22221,Rythdale,,no_eligible_route
+20708,Dandenong North,22221,Rythdale,,no_eligible_route
+20709,Dandenong South,22221,Rythdale,,no_eligible_route
+20712,Darley,22221,Rythdale,,no_eligible_route
+20716,Darraweit Guim,22221,Rythdale,,no_eligible_route
+20724,Deanside,22221,Rythdale,,no_eligible_route
+20728,Deepdene (Vic.),22221,Rythdale,,no_eligible_route
+20729,Deer Park,22221,Rythdale,,no_eligible_route
+20731,Delahey,22221,Rythdale,,no_eligible_route
+20743,Derrimut,22221,Rythdale,,no_eligible_route
+20748,Devon Meadows,22221,Rythdale,,no_eligible_route
+20750,Dewhurst,22221,Rythdale,,no_eligible_route
+20752,Diamond Creek,22221,Rythdale,,no_eligible_route
+20754,Diggers Rest,22221,Rythdale,,no_eligible_route
+20758,Dingley Village,22221,Rythdale,,no_eligible_route
+20762,Dixons Creek,22221,Rythdale,,no_eligible_route
+20766,Docklands,22221,Rythdale,,no_eligible_route
+20769,Don Valley,22221,Rythdale,,no_eligible_route
+20771,Doncaster,22221,Rythdale,,no_eligible_route
+20772,Doncaster East,22221,Rythdale,,no_eligible_route
+20773,Donnybrook (Vic.),22221,Rythdale,,no_eligible_route
+20774,Donvale,22221,Rythdale,,no_eligible_route
+20779,Doreen,22221,Rythdale,,no_eligible_route
+20783,Doveton,22221,Rythdale,,no_eligible_route
+20788,Dromana,22221,Rythdale,,no_eligible_route
+20825,Eaglemont,22221,Rythdale,,no_eligible_route
+20830,East Melbourne,22221,Rythdale,,no_eligible_route
+20833,East Warburton,22221,Rythdale,,no_eligible_route
+20843,Eden Park,22221,Rythdale,,no_eligible_route
+20848,Edithvale,22221,Rythdale,,no_eligible_route
+20864,Elsternwick,22221,Rythdale,,no_eligible_route
+20865,Eltham (Vic.),22221,Rythdale,,no_eligible_route
+20866,Eltham North,22221,Rythdale,,no_eligible_route
+20867,Elwood,22221,Rythdale,,no_eligible_route
+20868,Emerald (Vic.),22221,Rythdale,,no_eligible_route
+20871,Endeavour Hills,22221,Rythdale,,no_eligible_route
+20878,Epping (Vic.),22221,Rythdale,,no_eligible_route
+20885,Essendon,22221,Rythdale,,no_eligible_route
+20886,Essendon Fields,22221,Rythdale,,no_eligible_route
+20887,Essendon North,22221,Rythdale,,no_eligible_route
+20888,Essendon West,22221,Rythdale,,no_eligible_route
+20889,Eumemmerring,22221,Rythdale,,no_eligible_route
+20898,Exford,22221,Rythdale,,no_eligible_route
+20899,Eynesbury,22221,Rythdale,,no_eligible_route
+20901,Fairfield (Vic.),22221,Rythdale,,no_eligible_route
+20909,Fawkner,22221,Rythdale,,no_eligible_route
+20916,Fernshaw,22221,Rythdale,,no_eligible_route
+20917,Ferntree Gully,22221,Rythdale,,no_eligible_route
+20918,Ferny Creek,22221,Rythdale,,no_eligible_route
+20920,Fingal (Vic.),22221,Rythdale,,no_eligible_route
+20924,Fitzroy (Vic.),22221,Rythdale,,no_eligible_route
+20925,Fitzroy North,22221,Rythdale,,no_eligible_route
+20929,Flemington,22221,Rythdale,,no_eligible_route
+20930,Flinders (Vic.),22221,Rythdale,,no_eligible_route
+20935,Footscray,22221,Rythdale,,no_eligible_route
+20937,Forest Hill (Vic.),22221,Rythdale,,no_eligible_route
+20947,Frankston,22221,Rythdale,,no_eligible_route
+20948,Frankston North,22221,Rythdale,,no_eligible_route
+20949,Frankston South,22221,Rythdale,,no_eligible_route
+20950,Fraser Rise,22221,Rythdale,,no_eligible_route
+20965,Gardenvale,22221,Rythdale,,no_eligible_route
+20966,Garfield,22221,Rythdale,,no_eligible_route
+20967,Garfield North,22221,Rythdale,,no_eligible_route
+20979,Gembrook,22221,Rythdale,,no_eligible_route
+20995,Gilderoy,22221,Rythdale,,no_eligible_route
+21001,Gisborne,22221,Rythdale,,no_eligible_route
+21002,Gisborne South,22221,Rythdale,,no_eligible_route
+21004,Gladstone Park,22221,Rythdale,,no_eligible_route
+21005,Gladysdale,22221,Rythdale,,no_eligible_route
+21009,Glen Huntly,22221,Rythdale,,no_eligible_route
+21010,Glen Iris (Vic.),22221,Rythdale,,no_eligible_route
+21013,Glen Waverley,22221,Rythdale,,no_eligible_route
+21047,Glenroy (Vic.),22221,Rythdale,,no_eligible_route
+21059,Goldie,22221,Rythdale,,no_eligible_route
+21079,Gowanbrae,22221,Rythdale,,no_eligible_route
+21087,Grangefields,22221,Rythdale,,no_eligible_route
+21104,Greensborough,22221,Rythdale,,no_eligible_route
+21105,Greenvale (Vic.),22221,Rythdale,,no_eligible_route
+21115,Gruyere,22221,Rythdale,,no_eligible_route
+21121,Guys Hill,22221,Rythdale,,no_eligible_route
+21124,Hadfield,22221,Rythdale,,no_eligible_route
+21125,Hallam,22221,Rythdale,,no_eligible_route
+21131,Hampton (Vic.),22221,Rythdale,,no_eligible_route
+21132,Hampton East,22221,Rythdale,,no_eligible_route
+21133,Hampton Park,22221,Rythdale,,no_eligible_route
+21139,Harkaway,22221,Rythdale,,no_eligible_route
+21140,Harkness,22221,Rythdale,,no_eligible_route
+21145,Hastings (Vic.),22221,Rythdale,,no_eligible_route
+21152,Hawthorn (Vic.),22221,Rythdale,,no_eligible_route
+21153,Hawthorn East,22221,Rythdale,,no_eligible_route
+21158,Healesville,22221,Rythdale,,no_eligible_route
+21159,Heath Hill,22221,Rythdale,,no_eligible_route
+21161,Heathcote Junction,22221,Rythdale,,no_eligible_route
+21163,Heatherton,22221,Rythdale,,no_eligible_route
+21165,Heathmont,22221,Rythdale,,no_eligible_route
+21167,Heidelberg,22221,Rythdale,,no_eligible_route
+21168,Heidelberg Heights,22221,Rythdale,,no_eligible_route
+21169,Heidelberg West,22221,Rythdale,,no_eligible_route
+21176,Hesket,22221,Rythdale,,no_eligible_route
+21185,Highett,22221,Rythdale,,no_eligible_route
+21193,Hillside (Melton - Vic.),22221,Rythdale,,no_eligible_route
+21195,Hmas Cerberus,22221,Rythdale,,no_eligible_route
+21196,Hoddles Creek,22221,Rythdale,,no_eligible_route
+21202,Hopetoun Park,22221,Rythdale,,no_eligible_route
+21203,Hoppers Crossing,22221,Rythdale,,no_eligible_route
+21214,Hughesdale,22221,Rythdale,,no_eligible_route
+21215,Humevale,22221,Rythdale,,no_eligible_route
+21218,Huntingdale (Vic.),22221,Rythdale,,no_eligible_route
+21223,Hurstbridge,22221,Rythdale,,no_eligible_route
+21238,Iona,22221,Rythdale,,no_eligible_route
+21246,Ivanhoe (Vic.),22221,Rythdale,,no_eligible_route
+21247,Ivanhoe East,22221,Rythdale,,no_eligible_route
+21248,Jacana,22221,Rythdale,,no_eligible_route
+21277,Junction Village,22221,Rythdale,,no_eligible_route
+21284,Kalkallo,22221,Rythdale,,no_eligible_route
+21286,Kallista,22221,Rythdale,,no_eligible_route
+21287,Kalorama,22221,Rythdale,,no_eligible_route
+21294,Kangaroo Ground,22221,Rythdale,,no_eligible_route
+21312,Kealba,22221,Rythdale,,no_eligible_route
+21314,Keilor,22221,Rythdale,,no_eligible_route
+21315,Keilor Downs,22221,Rythdale,,no_eligible_route
+21316,Keilor East,22221,Rythdale,,no_eligible_route
+21317,Keilor Lodge,22221,Rythdale,,no_eligible_route
+21318,Keilor North,22221,Rythdale,,no_eligible_route
+21319,Keilor Park,22221,Rythdale,,no_eligible_route
+21327,Kensington (Vic.),22221,Rythdale,,no_eligible_route
+21333,Kerrie,22221,Rythdale,,no_eligible_route
+21336,Kew (Vic.),22221,Rythdale,,no_eligible_route
+21337,Kew East,22221,Rythdale,,no_eligible_route
+21339,Keysborough,22221,Rythdale,,no_eligible_route
+21354,Kilsyth,22221,Rythdale,,no_eligible_route
+21355,Kilsyth South,22221,Rythdale,,no_eligible_route
+21358,Kinglake,22221,Rythdale,,no_eligible_route
+21359,Kinglake Central,22221,Rythdale,,no_eligible_route
+21360,Kinglake West,22221,Rythdale,,no_eligible_route
+21362,Kings Park (Vic.),22221,Rythdale,,no_eligible_route
+21363,Kingsbury,22221,Rythdale,,no_eligible_route
+21365,Kingsville,22221,Rythdale,,no_eligible_route
+21374,Knoxfield,22221,Rythdale,,no_eligible_route
+21380,Koo Wee Rup,22221,Rythdale,110.37,walk_only
+21381,Koo Wee Rup North,22221,Rythdale,100.42,walk_only
+21393,Kooyong,22221,Rythdale,,no_eligible_route
+21411,Kurunjang,22221,Rythdale,,no_eligible_route
+21452,Lalor,22221,Rythdale,,no_eligible_route
+21456,Lancefield,22221,Rythdale,,no_eligible_route
+21459,Lang Lang,22221,Rythdale,,no_eligible_route
+21460,Lang Lang East,22221,Rythdale,,no_eligible_route
+21467,Langwarrin,22221,Rythdale,,no_eligible_route
+21468,Langwarrin South,22221,Rythdale,,no_eligible_route
+21473,Launching Place,22221,Rythdale,,no_eligible_route
+21476,Laverton (Vic.),22221,Rythdale,,no_eligible_route
+21477,Laverton North,22221,Rythdale,,no_eligible_route
+21504,Lilydale (Vic.),22221,Rythdale,,no_eligible_route
+21533,Long Forest,22221,Rythdale,,no_eligible_route
+21547,Lower Plenty,22221,Rythdale,,no_eligible_route
+21554,Lynbrook,22221,Rythdale,,no_eligible_route
+21555,Lyndhurst (Vic.),22221,Rythdale,,no_eligible_route
+21558,Lysterfield,22221,Rythdale,,no_eligible_route
+21559,Lysterfield South,22221,Rythdale,,no_eligible_route
+21561,Macclesfield (Vic.),22221,Rythdale,,no_eligible_route
+21562,Macedon,22221,Rythdale,,no_eligible_route
+21564,Macleod (Vic.),22221,Rythdale,,no_eligible_route
+21569,Maddingley,22221,Rythdale,,no_eligible_route
+21575,Maidstone,22221,Rythdale,,no_eligible_route
+21578,Main Ridge,22221,Rythdale,,no_eligible_route
+21586,Malvern (Vic.),22221,Rythdale,,no_eligible_route
+21587,Malvern East,22221,Rythdale,,no_eligible_route
+21588,Mambourin,22221,Rythdale,,no_eligible_route
+21597,Manor Lakes,22221,Rythdale,,no_eligible_route
+21604,Maribyrnong,22221,Rythdale,,no_eligible_route
+21619,Maryknoll,22221,Rythdale,,no_eligible_route
+21625,McCrae,22221,Rythdale,,no_eligible_route
+21629,McKinnon,22221,Rythdale,,no_eligible_route
+21635,Meadow Heights,22221,Rythdale,,no_eligible_route
+21640,Melbourne,22221,Rythdale,,no_eligible_route
+21641,Melbourne Airport,22221,Rythdale,,no_eligible_route
+21642,Melton (Vic.),22221,Rythdale,,no_eligible_route
+21643,Melton South,22221,Rythdale,,no_eligible_route
+21644,Melton West,22221,Rythdale,,no_eligible_route
+21648,Mentone,22221,Rythdale,,no_eligible_route
+21649,Menzies Creek,22221,Rythdale,,no_eligible_route
+21659,Mernda,22221,Rythdale,,no_eligible_route
+21662,Merricks,22221,Rythdale,,no_eligible_route
+21663,Merricks Beach,22221,Rythdale,,no_eligible_route
+21664,Merricks North,22221,Rythdale,,no_eligible_route
+21668,Merrimu,22221,Rythdale,,no_eligible_route
+21675,Mickleham,22221,Rythdale,,no_eligible_route
+21677,Middle Park (Vic.),22221,Rythdale,,no_eligible_route
+21683,Mill Park,22221,Rythdale,,no_eligible_route
+21685,Millgrove,22221,Rythdale,,no_eligible_route
+21706,Mitcham (Vic.),22221,Rythdale,,no_eligible_route
+21727,Monbulk,22221,Rythdale,,no_eligible_route
+21728,Monegeetta,22221,Rythdale,,no_eligible_route
+21731,Monomeith,22221,Rythdale,222.45,walk_only
+21732,Mont Albert,22221,Rythdale,,no_eligible_route
+21733,Mont Albert North,22221,Rythdale,,no_eligible_route
+21735,Montmorency,22221,Rythdale,,no_eligible_route
+21736,Montrose (Vic.),22221,Rythdale,,no_eligible_route
+21742,Moonee Ponds,22221,Rythdale,,no_eligible_route
+21746,Moorabbin,22221,Rythdale,,no_eligible_route
+21747,Moorabbin Airport,22221,Rythdale,,no_eligible_route
+21754,Moorooduc,22221,Rythdale,,no_eligible_route
+21755,Mooroolbark,22221,Rythdale,,no_eligible_route
+21760,Mordialloc,22221,Rythdale,,no_eligible_route
+21763,Mornington (Vic.),22221,Rythdale,,no_eligible_route
+21779,Mount Burnett,22221,Rythdale,,no_eligible_route
+21786,Mount Cottrell,22221,Rythdale,,no_eligible_route
+21787,Mount Dandenong,22221,Rythdale,,no_eligible_route
+21793,Mount Eliza,22221,Rythdale,,no_eligible_route
+21795,Mount Evelyn,22221,Rythdale,,no_eligible_route
+21801,Mount Macedon,22221,Rythdale,,no_eligible_route
+21803,Mount Martha,22221,Rythdale,,no_eligible_route
+21814,Mount Toolebewong,22221,Rythdale,,no_eligible_route
+21816,Mount Waverley,22221,Rythdale,,no_eligible_route
+21827,Mulgrave (Vic.),22221,Rythdale,,no_eligible_route
+21849,Murrumbeena,22221,Rythdale,,no_eligible_route
+21872,Nangana,22221,Rythdale,,no_eligible_route
+21878,Nar Nar Goon,22221,Rythdale,162.17,walk_only
+21879,Nar Nar Goon North,22221,Rythdale,,no_eligible_route
+21893,Narre Warren,22221,Rythdale,,no_eligible_route
+21894,Narre Warren East,22221,Rythdale,,no_eligible_route
+21895,Narre Warren North,22221,Rythdale,,no_eligible_route
+21896,Narre Warren South,22221,Rythdale,,no_eligible_route
+21921,New Gisborne,22221,Rythdale,,no_eligible_route
+21934,Newport (Vic.),22221,Rythdale,,no_eligible_route
+21942,Niddrie,22221,Rythdale,,no_eligible_route
+21952,Noble Park,22221,Rythdale,,no_eligible_route
+21953,Noble Park North,22221,Rythdale,,no_eligible_route
+21966,North Melbourne,22221,Rythdale,,no_eligible_route
+21969,North Warrandyte,22221,Rythdale,,no_eligible_route
+21971,Northcote,22221,Rythdale,,no_eligible_route
+21974,Notting Hill,22221,Rythdale,,no_eligible_route
+21985,Nunawading,22221,Rythdale,,no_eligible_route
+21991,Nutfield,22221,Rythdale,,no_eligible_route
+21998,Oak Park,22221,Rythdale,,no_eligible_route
+21999,Oaklands Junction,22221,Rythdale,,no_eligible_route
+22000,Oakleigh,22221,Rythdale,,no_eligible_route
+22001,Oakleigh East,22221,Rythdale,,no_eligible_route
+22002,Oakleigh South,22221,Rythdale,,no_eligible_route
+22006,Officer,22221,Rythdale,188.1,walk_only
+22007,Officer South,22221,Rythdale,134.12,walk_only
+22009,Olinda (Vic.),22221,Rythdale,,no_eligible_route
+22016,Ormond,22221,Rythdale,,no_eligible_route
+22027,Pakenham,22221,Rythdale,111.97,walk_only
+22028,Pakenham South,22221,Rythdale,72.17,walk_only
+22029,Pakenham Upper,22221,Rythdale,234.75,walk_only
+22032,Panton Hill,22221,Rythdale,,no_eligible_route
+22036,Park Orchards,22221,Rythdale,,no_eligible_route
+22037,Parkdale,22221,Rythdale,,no_eligible_route
+22038,Parkville (Vic.),22221,Rythdale,,no_eligible_route
+22041,Pascoe Vale,22221,Rythdale,,no_eligible_route
+22042,Pascoe Vale South,22221,Rythdale,,no_eligible_route
+22047,Patterson Lakes,22221,Rythdale,,no_eligible_route
+22050,Pearcedale,22221,Rythdale,,no_eligible_route
+22058,Pentland Hills,22221,Rythdale,,no_eligible_route
+22064,Pheasant Creek (Vic.),22221,Rythdale,,no_eligible_route
+22084,Plenty (Vic.),22221,Rythdale,,no_eligible_route
+22085,Plumpton (Vic.),22221,Rythdale,,no_eligible_route
+22086,Point Cook,22221,Rythdale,,no_eligible_route
+22087,Point Leo,22221,Rythdale,,no_eligible_route
+22107,Port Melbourne,22221,Rythdale,,no_eligible_route
+22113,Portsea,22221,Rythdale,,no_eligible_route
+22115,Powelltown,22221,Rythdale,,no_eligible_route
+22118,Prahran,22221,Rythdale,,no_eligible_route
+22121,Preston (Vic.),22221,Rythdale,,no_eligible_route
+22122,Princes Hill,22221,Rythdale,,no_eligible_route
+22132,Quandong,22221,Rythdale,,no_eligible_route
+22141,Ravenhall,22221,Rythdale,,no_eligible_route
+22148,Red Hill (Vic.),22221,Rythdale,,no_eligible_route
+22149,Red Hill South,22221,Rythdale,,no_eligible_route
+22160,Research,22221,Rythdale,,no_eligible_route
+22161,Reservoir (Vic.),22221,Rythdale,,no_eligible_route
+22170,Richmond (Vic.),22221,Rythdale,,no_eligible_route
+22172,Riddells Creek,22221,Rythdale,,no_eligible_route
+22174,Ringwood (Vic.),22221,Rythdale,,no_eligible_route
+22175,Ringwood East,22221,Rythdale,,no_eligible_route
+22176,Ringwood North,22221,Rythdale,,no_eligible_route
+22179,Ripponlea,22221,Rythdale,,no_eligible_route
+22185,Rochford,22221,Rythdale,,no_eligible_route
+22186,Rockbank,22221,Rythdale,,no_eligible_route
+22193,Romsey,22221,Rythdale,,no_eligible_route
+22194,Rosanna,22221,Rythdale,,no_eligible_route
+22198,Rosebud,22221,Rythdale,,no_eligible_route
+22207,Rowville,22221,Rythdale,,no_eligible_route
+22208,Roxburgh Park,22221,Rythdale,,no_eligible_route
+22220,Rye,22221,Rythdale,,no_eligible_route
+22221,Rythdale,22221,Rythdale,0.0,same_centroid
+22222,Safety Beach (Vic.),22221,Rythdale,,no_eligible_route
+22232,Sandhurst,22221,Rythdale,,no_eligible_route
+22234,Sandringham (Vic.),22221,Rythdale,,no_eligible_route
+22239,Sassafras (Vic.),22221,Rythdale,,no_eligible_route
+22242,Scoresby,22221,Rythdale,,no_eligible_route
+22247,Seabrook,22221,Rythdale,,no_eligible_route
+22249,Seaford (Vic.),22221,Rythdale,,no_eligible_route
+22250,Seaholme,22221,Rythdale,,no_eligible_route
+22256,Seddon (Vic.),22221,Rythdale,,no_eligible_route
+22258,Selby,22221,Rythdale,,no_eligible_route
+22263,Seville,22221,Rythdale,,no_eligible_route
+22264,Seville East,22221,Rythdale,,no_eligible_route
+22278,Sherbrooke,22221,Rythdale,,no_eligible_route
+22279,Shoreham,22221,Rythdale,,no_eligible_route
+22281,Silvan,22221,Rythdale,,no_eligible_route
+22291,Skye (Vic.),22221,Rythdale,,no_eligible_route
+22295,Smiths Gully,22221,Rythdale,,no_eligible_route
+22303,Somers,22221,Rythdale,,no_eligible_route
+22304,Somerton (Vic.),22221,Rythdale,,no_eligible_route
+22305,Somerville (Vic.),22221,Rythdale,,no_eligible_route
+22306,Sorrento (Vic.),22221,Rythdale,,no_eligible_route
+22309,South Kingsville,22221,Rythdale,,no_eligible_route
+22310,South Melbourne,22221,Rythdale,,no_eligible_route
+22311,South Morang,22221,Rythdale,,no_eligible_route
+22313,South Wharf,22221,Rythdale,,no_eligible_route
+22314,South Yarra,22221,Rythdale,,no_eligible_route
+22315,Southbank,22221,Rythdale,,no_eligible_route
+22319,Spotswood,22221,Rythdale,,no_eligible_route
+22325,Springfield (Macedon Ranges - Vic.),22221,Rythdale,,no_eligible_route
+22328,Springvale (Vic.),22221,Rythdale,,no_eligible_route
+22329,Springvale South,22221,Rythdale,,no_eligible_route
+22330,St Albans (Vic.),22221,Rythdale,,no_eligible_route
+22332,St Andrews (Vic.),22221,Rythdale,,no_eligible_route
+22333,St Andrews Beach,22221,Rythdale,,no_eligible_route
+22339,St Helena,22221,Rythdale,,no_eligible_route
+22343,St Kilda (Vic.),22221,Rythdale,,no_eligible_route
+22344,St Kilda East,22221,Rythdale,,no_eligible_route
+22345,St Kilda West,22221,Rythdale,,no_eligible_route
+22355,Steels Creek,22221,Rythdale,,no_eligible_route
+22375,Strathewen,22221,Rythdale,,no_eligible_route
+22380,Strathmore (Vic.),22221,Rythdale,,no_eligible_route
+22381,Strathmore Heights,22221,Rythdale,,no_eligible_route
+22382,Strathtulloh,22221,Rythdale,,no_eligible_route
+22391,Sunbury,22221,Rythdale,,no_eligible_route
+22395,Sunshine (Vic.),22221,Rythdale,,no_eligible_route
+22396,Sunshine North,22221,Rythdale,,no_eligible_route
+22397,Sunshine West,22221,Rythdale,,no_eligible_route
+22399,Surrey Hills,22221,Rythdale,,no_eligible_route
+22414,Sydenham (Vic.),22221,Rythdale,,no_eligible_route
+22451,Tarneit,22221,Rythdale,,no_eligible_route
+22457,Tarrawarra,22221,Rythdale,,no_eligible_route
+22473,Taylors Hill,22221,Rythdale,,no_eligible_route
+22474,Taylors Lakes,22221,Rythdale,,no_eligible_route
+22476,Tecoma,22221,Rythdale,,no_eligible_route
+22483,Templestowe,22221,Rythdale,,no_eligible_route
+22484,Templestowe Lower,22221,Rythdale,,no_eligible_route
+22496,The Basin (Vic.),22221,Rythdale,,no_eligible_route
+22501,The Patch,22221,Rythdale,,no_eligible_route
+22504,Thomastown,22221,Rythdale,,no_eligible_route
+22508,Thornbury,22221,Rythdale,,no_eligible_route
+22509,Thornhill Park,22221,Rythdale,,no_eligible_route
+22514,Three Bridges,22221,Rythdale,,no_eligible_route
+22531,Tonimbuk,22221,Rythdale,,no_eligible_route
+22536,Toolangi,22221,Rythdale,,no_eligible_route
+22537,Toolern Vale,22221,Rythdale,,no_eligible_route
+22546,Tooradin,22221,Rythdale,173.9,walk_only
+22547,Toorak,22221,Rythdale,,no_eligible_route
+22550,Tootgarook,22221,Rythdale,,no_eligible_route
+22556,Tottenham (Vic.),22221,Rythdale,,no_eligible_route
+22572,Travancore,22221,Rythdale,,no_eligible_route
+22576,Tremont,22221,Rythdale,,no_eligible_route
+22582,Truganina,22221,Rythdale,,no_eligible_route
+22584,Tuerong,22221,Rythdale,,no_eligible_route
+22586,Tullamarine,22221,Rythdale,,no_eligible_route
+22594,Tyabb,22221,Rythdale,,no_eligible_route
+22598,Tynong,22221,Rythdale,,no_eligible_route
+22599,Tynong North,22221,Rythdale,,no_eligible_route
+22614,Upper Ferntree Gully,22221,Rythdale,,no_eligible_route
+22617,Upper Plenty,22221,Rythdale,,no_eligible_route
+22620,Upwey,22221,Rythdale,,no_eligible_route
+22627,Vermont,22221,Rythdale,,no_eligible_route
+22628,Vermont South,22221,Rythdale,,no_eligible_route
+22629,Vervale,22221,Rythdale,,no_eligible_route
+22633,Viewbank,22221,Rythdale,,no_eligible_route
+22661,Wallan,22221,Rythdale,,no_eligible_route
+22672,Wandin East,22221,Rythdale,,no_eligible_route
+22673,Wandin North,22221,Rythdale,,no_eligible_route
+22676,Wandong,22221,Rythdale,,no_eligible_route
+22685,Wantirna,22221,Rythdale,,no_eligible_route
+22686,Wantirna South,22221,Rythdale,,no_eligible_route
+22689,Warburton (Vic.),22221,Rythdale,,no_eligible_route
+22695,Warneet,22221,Rythdale,,no_eligible_route
+22702,Warrandyte,22221,Rythdale,,no_eligible_route
+22703,Warrandyte South,22221,Rythdale,,no_eligible_route
+22704,Warranwood,22221,Rythdale,,no_eligible_route
+22717,Waterford Park,22221,Rythdale,,no_eligible_route
+22720,Waterways,22221,Rythdale,,no_eligible_route
+22721,Watsonia,22221,Rythdale,,no_eligible_route
+22722,Watsonia North,22221,Rythdale,,no_eligible_route
+22723,Watsons Creek (Vic.),22221,Rythdale,,no_eligible_route
+22727,Wattle Glen,22221,Rythdale,,no_eligible_route
+22740,Weir Views,22221,Rythdale,,no_eligible_route
+22750,Werribee,22221,Rythdale,,no_eligible_route
+22751,Werribee South,22221,Rythdale,,no_eligible_route
+22753,Wesburn,22221,Rythdale,,no_eligible_route
+22756,West Footscray,22221,Rythdale,,no_eligible_route
+22757,West Melbourne,22221,Rythdale,,no_eligible_route
+22761,Westmeadows,22221,Rythdale,,no_eligible_route
+22766,Wheelers Hill,22221,Rythdale,,no_eligible_route
+22775,Whittlesea,22221,Rythdale,,no_eligible_route
+22784,Wildwood,22221,Rythdale,,no_eligible_route
+22791,Williams Landing,22221,Rythdale,,no_eligible_route
+22792,Williamstown (Vic.),22221,Rythdale,,no_eligible_route
+22793,Williamstown North,22221,Rythdale,,no_eligible_route
+22805,Windsor (Vic.),22221,Rythdale,,no_eligible_route
+22820,Wollert,22221,Rythdale,,no_eligible_route
+22825,Wonga Park,22221,Rythdale,,no_eligible_route
+22843,Woodstock (Vic.),22221,Rythdale,,no_eligible_route
+22857,Woori Yallock,22221,Rythdale,,no_eligible_route
+22883,Wyndham Vale,22221,Rythdale,,no_eligible_route
+22892,Yallambie,22221,Rythdale,,no_eligible_route
+22898,Yan Yean,22221,Rythdale,,no_eligible_route
+22906,Yannathan,22221,Rythdale,,no_eligible_route
+22910,Yarra Glen,22221,Rythdale,,no_eligible_route
+22911,Yarra Junction,22221,Rythdale,,no_eligible_route
+22916,Yarrambat,22221,Rythdale,,no_eligible_route
+22917,Yarraville,22221,Rythdale,,no_eligible_route
+22925,Yellingbo,22221,Rythdale,,no_eligible_route
+22930,Yering,22221,Rythdale,,no_eligible_route
+22941,Yuroke,22221,Rythdale,,no_eligible_route

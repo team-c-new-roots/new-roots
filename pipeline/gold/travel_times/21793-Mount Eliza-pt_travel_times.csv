@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21793,Mount Eliza,108.8,ok
+20003,Aberfeldie,21793,Mount Eliza,139.1,ok
+20011,Aintree,21793,Mount Eliza,174.83,ok
+20015,Airport West,21793,Mount Eliza,148.2,ok
+20017,Albanvale,21793,Mount Eliza,150.3,ok
+20018,Albert Park (Vic.),21793,Mount Eliza,115.67,ok
+20021,Albion (Vic.),21793,Mount Eliza,124.7,ok
+20034,Alphington,21793,Mount Eliza,120.72,ok
+20035,Altona (Vic.),21793,Mount Eliza,145.8,ok
+20036,Altona Meadows,21793,Mount Eliza,157.95,ok
+20037,Altona North,21793,Mount Eliza,148.2,ok
+20062,Ardeer,21793,Mount Eliza,142.93,ok
+20066,Armadale (Vic.),21793,Mount Eliza,76.93,ok
+20071,Arthurs Creek,21793,Mount Eliza,,no_eligible_route
+20072,Arthurs Seat,21793,Mount Eliza,93.47,ok
+20075,Ascot Vale,21793,Mount Eliza,119.63,ok
+20077,Ashburton,21793,Mount Eliza,112.8,ok
+20078,Ashwood,21793,Mount Eliza,110.42,ok
+20079,Aspendale,21793,Mount Eliza,52.88,ok
+20080,Aspendale Gardens,21793,Mount Eliza,72.73,ok
+20082,Attwood,21793,Mount Eliza,171.15,ok
+20089,Avondale Heights,21793,Mount Eliza,152.23,ok
+20091,Avonsleigh,21793,Mount Eliza,,no_eligible_route
+20095,Bacchus Marsh,21793,Mount Eliza,,no_eligible_route
+20097,Badger Creek,21793,Mount Eliza,,no_eligible_route
+20105,Balaclava (Vic.),21793,Mount Eliza,93.48,ok
+20120,Balnarring,21793,Mount Eliza,137.82,ok
+20121,Balnarring Beach,21793,Mount Eliza,134.35,ok
+20123,Balwyn,21793,Mount Eliza,122.32,ok
+20124,Balwyn North,21793,Mount Eliza,125.45,ok
+20131,Bangholme,21793,Mount Eliza,90.8,ok
+20169,Baxter,21793,Mount Eliza,50.27,ok
+20171,Bayles,21793,Mount Eliza,,no_eligible_route
+20173,Bayswater (Vic.),21793,Mount Eliza,123.0,ok
+20174,Bayswater North,21793,Mount Eliza,148.77,ok
+20175,Beaconsfield (Vic.),21793,Mount Eliza,120.28,ok
+20176,Beaconsfield Upper,21793,Mount Eliza,,no_eligible_route
+20182,Beaumaris (Vic.),21793,Mount Eliza,76.08,ok
+20187,Beenak,21793,Mount Eliza,,no_eligible_route
+20188,Belgrave,21793,Mount Eliza,136.28,ok
+20189,Belgrave Heights,21793,Mount Eliza,174.95,ok
+20190,Belgrave South,21793,Mount Eliza,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21793,Mount Eliza,128.47,ok
+20207,Bend Of Islands,21793,Mount Eliza,,no_eligible_route
+20212,Benloch,21793,Mount Eliza,,no_eligible_route
+20214,Bentleigh,21793,Mount Eliza,66.6,ok
+20215,Bentleigh East,21793,Mount Eliza,78.93,ok
+20224,Berwick,21793,Mount Eliza,95.45,ok
+20233,Beveridge,21793,Mount Eliza,,no_eligible_route
+20237,Big Pats Creek,21793,Mount Eliza,,no_eligible_route
+20248,Bittern,21793,Mount Eliza,87.92,ok
+20251,Black Rock (Vic.),21793,Mount Eliza,81.88,ok
+20252,Blackburn,21793,Mount Eliza,121.07,ok
+20253,Blackburn North,21793,Mount Eliza,127.52,ok
+20254,Blackburn South,21793,Mount Eliza,136.22,ok
+20257,Blairgowrie,21793,Mount Eliza,90.97,ok
+20260,Blind Bight,21793,Mount Eliza,,no_eligible_route
+20272,Bolinda,21793,Mount Eliza,,no_eligible_route
+20278,Bonbeach,21793,Mount Eliza,46.6,ok
+20280,Boneo,21793,Mount Eliza,,no_eligible_route
+20282,Bonnie Brook,21793,Mount Eliza,207.38,ok
+20304,Boronia,21793,Mount Eliza,128.77,ok
+20307,Botanic Ridge,21793,Mount Eliza,104.1,ok
+20314,Box Hill (Vic.),21793,Mount Eliza,115.42,ok
+20315,Box Hill North,21793,Mount Eliza,123.4,ok
+20316,Box Hill South,21793,Mount Eliza,111.28,ok
+20320,Braeside,21793,Mount Eliza,98.0,ok
+20324,Braybrook,21793,Mount Eliza,136.55,ok
+20331,Briar Hill,21793,Mount Eliza,153.3,ok
+20337,Brighton (Vic.),21793,Mount Eliza,84.12,ok
+20338,Brighton East,21793,Mount Eliza,73.77,ok
+20346,Broadmeadows (Vic.),21793,Mount Eliza,147.55,ok
+20351,Brookfield (Vic.),21793,Mount Eliza,,no_eligible_route
+20352,Brooklyn (Vic.),21793,Mount Eliza,147.82,ok
+20361,Brunswick (Vic.),21793,Mount Eliza,122.65,ok
+20362,Brunswick East,21793,Mount Eliza,124.73,ok
+20363,Brunswick West,21793,Mount Eliza,126.83,ok
+20381,Bulla (Vic.),21793,Mount Eliza,,no_eligible_route
+20386,Bulleen,21793,Mount Eliza,137.6,ok
+20387,Bullengarook,21793,Mount Eliza,,no_eligible_route
+20399,Bundoora (Vic.),21793,Mount Eliza,147.45,ok
+20411,Bunyip,21793,Mount Eliza,,no_eligible_route
+20412,Bunyip North,21793,Mount Eliza,,no_eligible_route
+20418,Burnley,21793,Mount Eliza,107.95,ok
+20419,Burnside (Vic.),21793,Mount Eliza,168.12,ok
+20420,Burnside Heights,21793,Mount Eliza,167.73,ok
+20426,Burwood (Vic.),21793,Mount Eliza,110.35,ok
+20427,Burwood East,21793,Mount Eliza,117.0,ok
+20435,Bylands,21793,Mount Eliza,,no_eligible_route
+20441,Cairnlea,21793,Mount Eliza,142.92,ok
+20442,Calder Park,21793,Mount Eliza,158.48,ok
+20443,Caldermeade,21793,Mount Eliza,,no_eligible_route
+20453,Camberwell (Vic.),21793,Mount Eliza,110.32,ok
+20455,Campbellfield,21793,Mount Eliza,156.2,ok
+20466,Cannons Creek,21793,Mount Eliza,,no_eligible_route
+20468,Canterbury (Vic.),21793,Mount Eliza,116.97,ok
+20474,Cape Schanck,21793,Mount Eliza,,no_eligible_route
+20476,Capel Sound,21793,Mount Eliza,74.32,ok
+20487,Cardinia,21793,Mount Eliza,,no_eligible_route
+20495,Carlton (Vic.),21793,Mount Eliza,110.92,ok
+20496,Carlton North,21793,Mount Eliza,121.5,ok
+20498,Carnegie,21793,Mount Eliza,79.5,ok
+20500,Caroline Springs,21793,Mount Eliza,162.62,ok
+20507,Carrum,21793,Mount Eliza,42.02,ok
+20508,Carrum Downs,21793,Mount Eliza,42.12,ok
+20512,Castella,21793,Mount Eliza,,no_eligible_route
+20517,Catani,21793,Mount Eliza,,no_eligible_route
+20521,Caulfield,21793,Mount Eliza,86.63,ok
+20522,Caulfield East,21793,Mount Eliza,77.38,ok
+20523,Caulfield North,21793,Mount Eliza,85.3,ok
+20524,Caulfield South,21793,Mount Eliza,83.22,ok
+20528,Chadstone,21793,Mount Eliza,106.03,ok
+20537,Chelsea,21793,Mount Eliza,47.37,ok
+20538,Chelsea Heights,21793,Mount Eliza,65.38,ok
+20539,Cheltenham (Vic.),21793,Mount Eliza,67.72,ok
+20541,Cherokee,21793,Mount Eliza,,no_eligible_route
+20555,Chintin,21793,Mount Eliza,,no_eligible_route
+20556,Chirnside Park,21793,Mount Eliza,179.52,ok
+20559,Christmas Hills (Vic.),21793,Mount Eliza,,no_eligible_route
+20560,Chum Creek,21793,Mount Eliza,,no_eligible_route
+20566,Clarinda,21793,Mount Eliza,88.12,ok
+20567,Clarkefield,21793,Mount Eliza,,no_eligible_route
+20569,Clayton,21793,Mount Eliza,99.7,ok
+20570,Clayton South,21793,Mount Eliza,98.8,ok
+20572,Clematis,21793,Mount Eliza,,no_eligible_route
+20574,Clifton Hill,21793,Mount Eliza,106.72,ok
+20576,Clonbinane,21793,Mount Eliza,,no_eligible_route
+20581,Clyde (Vic.),21793,Mount Eliza,,no_eligible_route
+20582,Clyde North,21793,Mount Eliza,112.92,ok
+20587,Cobaw,21793,Mount Eliza,,no_eligible_route
+20590,Cobblebank,21793,Mount Eliza,,no_eligible_route
+20596,Coburg,21793,Mount Eliza,128.18,ok
+20597,Coburg North,21793,Mount Eliza,137.75,ok
+20600,Cockatoo (Vic.),21793,Mount Eliza,,no_eligible_route
+20601,Cocoroc,21793,Mount Eliza,,no_eligible_route
+20605,Coimadai,21793,Mount Eliza,,no_eligible_route
+20613,Coldstream (Vic.),21793,Mount Eliza,,no_eligible_route
+20616,Collingwood (Vic.),21793,Mount Eliza,106.03,ok
+20624,Coolaroo,21793,Mount Eliza,148.42,ok
+20633,Cora Lynn,21793,Mount Eliza,,no_eligible_route
+20654,Cottles Bridge,21793,Mount Eliza,,no_eligible_route
+20661,Craigieburn,21793,Mount Eliza,174.95,ok
+20662,Cranbourne,21793,Mount Eliza,53.7,ok
+20663,Cranbourne East,21793,Mount Eliza,95.37,ok
+20664,Cranbourne North,21793,Mount Eliza,90.65,ok
+20665,Cranbourne South,21793,Mount Eliza,107.23,ok
+20666,Cranbourne West,21793,Mount Eliza,81.27,ok
+20670,Cremorne (Vic.),21793,Mount Eliza,94.53,ok
+20674,Crib Point,21793,Mount Eliza,94.3,ok
+20682,Croydon (Vic.),21793,Mount Eliza,132.3,ok
+20683,Croydon Hills,21793,Mount Eliza,154.62,ok
+20684,Croydon North,21793,Mount Eliza,155.57,ok
+20685,Croydon South,21793,Mount Eliza,141.8,ok
+20702,Dallas,21793,Mount Eliza,154.85,ok
+20703,Dalmore,21793,Mount Eliza,,no_eligible_route
+20707,Dandenong,21793,Mount Eliza,73.15,ok
+20708,Dandenong North,21793,Mount Eliza,99.75,ok
+20709,Dandenong South,21793,Mount Eliza,58.3,ok
+20712,Darley,21793,Mount Eliza,,no_eligible_route
+20716,Darraweit Guim,21793,Mount Eliza,,no_eligible_route
+20724,Deanside,21793,Mount Eliza,188.85,ok
+20728,Deepdene (Vic.),21793,Mount Eliza,114.32,ok
+20729,Deer Park,21793,Mount Eliza,163.4,ok
+20731,Delahey,21793,Mount Eliza,159.25,ok
+20743,Derrimut,21793,Mount Eliza,159.25,ok
+20748,Devon Meadows,21793,Mount Eliza,,no_eligible_route
+20750,Dewhurst,21793,Mount Eliza,,no_eligible_route
+20752,Diamond Creek,21793,Mount Eliza,173.03,ok
+20754,Diggers Rest,21793,Mount Eliza,167.12,ok
+20758,Dingley Village,21793,Mount Eliza,81.63,ok
+20762,Dixons Creek,21793,Mount Eliza,,no_eligible_route
+20766,Docklands,21793,Mount Eliza,109.05,ok
+20769,Don Valley,21793,Mount Eliza,,no_eligible_route
+20771,Doncaster,21793,Mount Eliza,125.2,ok
+20772,Doncaster East,21793,Mount Eliza,126.17,ok
+20773,Donnybrook (Vic.),21793,Mount Eliza,,no_eligible_route
+20774,Donvale,21793,Mount Eliza,132.9,ok
+20779,Doreen,21793,Mount Eliza,,no_eligible_route
+20783,Doveton,21793,Mount Eliza,86.88,ok
+20788,Dromana,21793,Mount Eliza,83.1,ok
+20825,Eaglemont,21793,Mount Eliza,139.05,ok
+20830,East Melbourne,21793,Mount Eliza,100.32,ok
+20833,East Warburton,21793,Mount Eliza,,no_eligible_route
+20843,Eden Park,21793,Mount Eliza,,no_eligible_route
+20848,Edithvale,21793,Mount Eliza,51.22,ok
+20864,Elsternwick,21793,Mount Eliza,91.0,ok
+20865,Eltham (Vic.),21793,Mount Eliza,154.27,ok
+20866,Eltham North,21793,Mount Eliza,170.85,ok
+20867,Elwood,21793,Mount Eliza,101.97,ok
+20868,Emerald (Vic.),21793,Mount Eliza,,no_eligible_route
+20871,Endeavour Hills,21793,Mount Eliza,108.98,ok
+20878,Epping (Vic.),21793,Mount Eliza,173.82,ok
+20885,Essendon,21793,Mount Eliza,129.85,ok
+20886,Essendon Fields,21793,Mount Eliza,151.25,ok
+20887,Essendon North,21793,Mount Eliza,132.25,ok
+20888,Essendon West,21793,Mount Eliza,139.72,ok
+20889,Eumemmerring,21793,Mount Eliza,97.05,ok
+20898,Exford,21793,Mount Eliza,,no_eligible_route
+20899,Eynesbury,21793,Mount Eliza,,no_eligible_route
+20901,Fairfield (Vic.),21793,Mount Eliza,127.03,ok
+20909,Fawkner,21793,Mount Eliza,148.65,ok
+20916,Fernshaw,21793,Mount Eliza,,no_eligible_route
+20917,Ferntree Gully,21793,Mount Eliza,112.03,ok
+20918,Ferny Creek,21793,Mount Eliza,174.57,ok
+20920,Fingal (Vic.),21793,Mount Eliza,,no_eligible_route
+20924,Fitzroy (Vic.),21793,Mount Eliza,108.33,ok
+20925,Fitzroy North,21793,Mount Eliza,114.93,ok
+20929,Flemington,21793,Mount Eliza,128.17,ok
+20930,Flinders (Vic.),21793,Mount Eliza,,no_eligible_route
+20935,Footscray,21793,Mount Eliza,113.12,ok
+20937,Forest Hill (Vic.),21793,Mount Eliza,105.6,ok
+20947,Frankston,21793,Mount Eliza,31.98,ok
+20948,Frankston North,21793,Mount Eliza,44.28,ok
+20949,Frankston South,21793,Mount Eliza,56.25,ok
+20950,Fraser Rise,21793,Mount Eliza,169.23,ok
+20965,Gardenvale,21793,Mount Eliza,78.22,ok
+20966,Garfield,21793,Mount Eliza,,no_eligible_route
+20967,Garfield North,21793,Mount Eliza,,no_eligible_route
+20979,Gembrook,21793,Mount Eliza,,no_eligible_route
+20995,Gilderoy,21793,Mount Eliza,,no_eligible_route
+21001,Gisborne,21793,Mount Eliza,,no_eligible_route
+21002,Gisborne South,21793,Mount Eliza,,no_eligible_route
+21004,Gladstone Park,21793,Mount Eliza,161.37,ok
+21005,Gladysdale,21793,Mount Eliza,,no_eligible_route
+21009,Glen Huntly,21793,Mount Eliza,72.58,ok
+21010,Glen Iris (Vic.),21793,Mount Eliza,109.72,ok
+21013,Glen Waverley,21793,Mount Eliza,96.2,ok
+21047,Glenroy (Vic.),21793,Mount Eliza,142.4,ok
+21059,Goldie,21793,Mount Eliza,,no_eligible_route
+21079,Gowanbrae,21793,Mount Eliza,161.85,ok
+21087,Grangefields,21793,Mount Eliza,211.83,ok
+21104,Greensborough,21793,Mount Eliza,147.58,ok
+21105,Greenvale (Vic.),21793,Mount Eliza,,no_eligible_route
+21115,Gruyere,21793,Mount Eliza,,no_eligible_route
+21121,Guys Hill,21793,Mount Eliza,,no_eligible_route
+21124,Hadfield,21793,Mount Eliza,150.68,ok
+21125,Hallam,21793,Mount Eliza,100.57,ok
+21131,Hampton (Vic.),21793,Mount Eliza,78.07,ok
+21132,Hampton East,21793,Mount Eliza,71.3,ok
+21133,Hampton Park,21793,Mount Eliza,96.98,ok
+21139,Harkaway,21793,Mount Eliza,,no_eligible_route
+21140,Harkness,21793,Mount Eliza,,no_eligible_route
+21145,Hastings (Vic.),21793,Mount Eliza,71.42,ok
+21152,Hawthorn (Vic.),21793,Mount Eliza,95.45,ok
+21153,Hawthorn East,21793,Mount Eliza,98.83,ok
+21158,Healesville,21793,Mount Eliza,,no_eligible_route
+21159,Heath Hill,21793,Mount Eliza,,no_eligible_route
+21161,Heathcote Junction,21793,Mount Eliza,,no_eligible_route
+21163,Heatherton,21793,Mount Eliza,83.05,ok
+21165,Heathmont,21793,Mount Eliza,133.43,ok
+21167,Heidelberg,21793,Mount Eliza,141.85,ok
+21168,Heidelberg Heights,21793,Mount Eliza,141.82,ok
+21169,Heidelberg West,21793,Mount Eliza,132.57,ok
+21176,Hesket,21793,Mount Eliza,,no_eligible_route
+21185,Highett,21793,Mount Eliza,59.87,ok
+21193,Hillside (Melton - Vic.),21793,Mount Eliza,153.78,ok
+21195,Hmas Cerberus,21793,Mount Eliza,130.7,ok
+21196,Hoddles Creek,21793,Mount Eliza,,no_eligible_route
+21202,Hopetoun Park,21793,Mount Eliza,,no_eligible_route
+21203,Hoppers Crossing,21793,Mount Eliza,157.63,ok
+21214,Hughesdale,21793,Mount Eliza,85.52,ok
+21215,Humevale,21793,Mount Eliza,,no_eligible_route
+21218,Huntingdale (Vic.),21793,Mount Eliza,98.03,ok
+21223,Hurstbridge,21793,Mount Eliza,173.58,ok
+21238,Iona,21793,Mount Eliza,,no_eligible_route
+21246,Ivanhoe (Vic.),21793,Mount Eliza,125.32,ok
+21247,Ivanhoe East,21793,Mount Eliza,144.98,ok
+21248,Jacana,21793,Mount Eliza,146.97,ok
+21277,Junction Village,21793,Mount Eliza,,no_eligible_route
+21284,Kalkallo,21793,Mount Eliza,,no_eligible_route
+21286,Kallista,21793,Mount Eliza,178.0,ok
+21287,Kalorama,21793,Mount Eliza,169.82,ok
+21294,Kangaroo Ground,21793,Mount Eliza,,no_eligible_route
+21312,Kealba,21793,Mount Eliza,156.92,ok
+21314,Keilor,21793,Mount Eliza,192.57,ok
+21315,Keilor Downs,21793,Mount Eliza,152.05,ok
+21316,Keilor East,21793,Mount Eliza,141.87,ok
+21317,Keilor Lodge,21793,Mount Eliza,154.67,ok
+21318,Keilor North,21793,Mount Eliza,160.73,ok
+21319,Keilor Park,21793,Mount Eliza,164.0,ok
+21327,Kensington (Vic.),21793,Mount Eliza,114.25,ok
+21333,Kerrie,21793,Mount Eliza,,no_eligible_route
+21336,Kew (Vic.),21793,Mount Eliza,108.48,ok
+21337,Kew East,21793,Mount Eliza,125.52,ok
+21339,Keysborough,21793,Mount Eliza,74.78,ok
+21354,Kilsyth,21793,Mount Eliza,164.58,ok
+21355,Kilsyth South,21793,Mount Eliza,,no_eligible_route
+21358,Kinglake,21793,Mount Eliza,,no_eligible_route
+21359,Kinglake Central,21793,Mount Eliza,,no_eligible_route
+21360,Kinglake West,21793,Mount Eliza,,no_eligible_route
+21362,Kings Park (Vic.),21793,Mount Eliza,153.97,ok
+21363,Kingsbury,21793,Mount Eliza,147.67,ok
+21365,Kingsville,21793,Mount Eliza,122.18,ok
+21374,Knoxfield,21793,Mount Eliza,105.5,ok
+21380,Koo Wee Rup,21793,Mount Eliza,,no_eligible_route
+21381,Koo Wee Rup North,21793,Mount Eliza,,no_eligible_route
+21393,Kooyong,21793,Mount Eliza,94.23,ok
+21411,Kurunjang,21793,Mount Eliza,,no_eligible_route
+21452,Lalor,21793,Mount Eliza,138.0,ok
+21456,Lancefield,21793,Mount Eliza,,no_eligible_route
+21459,Lang Lang,21793,Mount Eliza,,no_eligible_route
+21460,Lang Lang East,21793,Mount Eliza,,no_eligible_route
+21467,Langwarrin,21793,Mount Eliza,48.95,ok
+21468,Langwarrin South,21793,Mount Eliza,72.83,ok
+21473,Launching Place,21793,Mount Eliza,,no_eligible_route
+21476,Laverton (Vic.),21793,Mount Eliza,141.4,ok
+21477,Laverton North,21793,Mount Eliza,182.43,ok
+21504,Lilydale (Vic.),21793,Mount Eliza,164.0,ok
+21533,Long Forest,21793,Mount Eliza,,no_eligible_route
+21547,Lower Plenty,21793,Mount Eliza,169.87,ok
+21554,Lynbrook,21793,Mount Eliza,88.7,ok
+21555,Lyndhurst (Vic.),21793,Mount Eliza,123.18,ok
+21558,Lysterfield,21793,Mount Eliza,158.88,ok
+21559,Lysterfield South,21793,Mount Eliza,147.53,ok
+21561,Macclesfield (Vic.),21793,Mount Eliza,,no_eligible_route
+21562,Macedon,21793,Mount Eliza,,no_eligible_route
+21564,Macleod (Vic.),21793,Mount Eliza,140.67,ok
+21569,Maddingley,21793,Mount Eliza,,no_eligible_route
+21575,Maidstone,21793,Mount Eliza,131.93,ok
+21578,Main Ridge,21793,Mount Eliza,,no_eligible_route
+21586,Malvern (Vic.),21793,Mount Eliza,87.97,ok
+21587,Malvern East,21793,Mount Eliza,98.85,ok
+21588,Mambourin,21793,Mount Eliza,,no_eligible_route
+21597,Manor Lakes,21793,Mount Eliza,193.33,ok
+21604,Maribyrnong,21793,Mount Eliza,130.45,ok
+21619,Maryknoll,21793,Mount Eliza,,no_eligible_route
+21625,McCrae,21793,Mount Eliza,65.05,ok
+21629,McKinnon,21793,Mount Eliza,60.58,ok
+21635,Meadow Heights,21793,Mount Eliza,159.85,ok
+21640,Melbourne,21793,Mount Eliza,97.42,ok
+21641,Melbourne Airport,21793,Mount Eliza,,no_eligible_route
+21642,Melton (Vic.),21793,Mount Eliza,,no_eligible_route
+21643,Melton South,21793,Mount Eliza,,no_eligible_route
+21644,Melton West,21793,Mount Eliza,,no_eligible_route
+21648,Mentone,21793,Mount Eliza,56.53,ok
+21649,Menzies Creek,21793,Mount Eliza,,no_eligible_route
+21659,Mernda,21793,Mount Eliza,184.35,ok
+21662,Merricks,21793,Mount Eliza,,no_eligible_route
+21663,Merricks Beach,21793,Mount Eliza,,no_eligible_route
+21664,Merricks North,21793,Mount Eliza,,no_eligible_route
+21668,Merrimu,21793,Mount Eliza,,no_eligible_route
+21675,Mickleham,21793,Mount Eliza,,no_eligible_route
+21677,Middle Park (Vic.),21793,Mount Eliza,114.08,ok
+21683,Mill Park,21793,Mount Eliza,161.22,ok
+21685,Millgrove,21793,Mount Eliza,,no_eligible_route
+21706,Mitcham (Vic.),21793,Mount Eliza,125.03,ok
+21727,Monbulk,21793,Mount Eliza,185.45,ok
+21728,Monegeetta,21793,Mount Eliza,,no_eligible_route
+21731,Monomeith,21793,Mount Eliza,,no_eligible_route
+21732,Mont Albert,21793,Mount Eliza,124.37,ok
+21733,Mont Albert North,21793,Mount Eliza,139.38,ok
+21735,Montmorency,21793,Mount Eliza,148.23,ok
+21736,Montrose (Vic.),21793,Mount Eliza,157.28,ok
+21742,Moonee Ponds,21793,Mount Eliza,116.32,ok
+21746,Moorabbin,21793,Mount Eliza,76.65,ok
+21747,Moorabbin Airport,21793,Mount Eliza,86.0,ok
+21754,Moorooduc,21793,Mount Eliza,107.43,walk_only
+21755,Mooroolbark,21793,Mount Eliza,150.92,ok
+21760,Mordialloc,21793,Mount Eliza,61.72,ok
+21763,Mornington (Vic.),21793,Mount Eliza,28.43,ok
+21779,Mount Burnett,21793,Mount Eliza,,no_eligible_route
+21786,Mount Cottrell,21793,Mount Eliza,,no_eligible_route
+21787,Mount Dandenong,21793,Mount Eliza,167.53,ok
+21793,Mount Eliza,21793,Mount Eliza,0.0,same_centroid
+21795,Mount Evelyn,21793,Mount Eliza,181.5,ok
+21801,Mount Macedon,21793,Mount Eliza,,no_eligible_route
+21803,Mount Martha,21793,Mount Eliza,29.03,ok
+21814,Mount Toolebewong,21793,Mount Eliza,,no_eligible_route
+21816,Mount Waverley,21793,Mount Eliza,112.07,ok
+21827,Mulgrave (Vic.),21793,Mount Eliza,96.13,ok
+21849,Murrumbeena,21793,Mount Eliza,84.33,ok
+21872,Nangana,21793,Mount Eliza,,no_eligible_route
+21878,Nar Nar Goon,21793,Mount Eliza,,no_eligible_route
+21879,Nar Nar Goon North,21793,Mount Eliza,,no_eligible_route
+21893,Narre Warren,21793,Mount Eliza,101.0,ok
+21894,Narre Warren East,21793,Mount Eliza,,no_eligible_route
+21895,Narre Warren North,21793,Mount Eliza,115.82,ok
+21896,Narre Warren South,21793,Mount Eliza,99.83,ok
+21921,New Gisborne,21793,Mount Eliza,,no_eligible_route
+21934,Newport (Vic.),21793,Mount Eliza,121.25,ok
+21942,Niddrie,21793,Mount Eliza,144.2,ok
+21952,Noble Park,21793,Mount Eliza,87.83,ok
+21953,Noble Park North,21793,Mount Eliza,102.43,ok
+21966,North Melbourne,21793,Mount Eliza,107.92,ok
+21969,North Warrandyte,21793,Mount Eliza,173.1,ok
+21971,Northcote,21793,Mount Eliza,121.2,ok
+21974,Notting Hill,21793,Mount Eliza,108.45,ok
+21985,Nunawading,21793,Mount Eliza,109.13,ok
+21991,Nutfield,21793,Mount Eliza,,no_eligible_route
+21998,Oak Park,21793,Mount Eliza,134.63,ok
+21999,Oaklands Junction,21793,Mount Eliza,,no_eligible_route
+22000,Oakleigh,21793,Mount Eliza,92.78,ok
+22001,Oakleigh East,21793,Mount Eliza,102.6,ok
+22002,Oakleigh South,21793,Mount Eliza,85.25,ok
+22006,Officer,21793,Mount Eliza,115.1,ok
+22007,Officer South,21793,Mount Eliza,153.67,ok
+22009,Olinda (Vic.),21793,Mount Eliza,175.88,ok
+22016,Ormond,21793,Mount Eliza,67.6,ok
+22027,Pakenham,21793,Mount Eliza,114.15,ok
+22028,Pakenham South,21793,Mount Eliza,,no_eligible_route
+22029,Pakenham Upper,21793,Mount Eliza,,no_eligible_route
+22032,Panton Hill,21793,Mount Eliza,,no_eligible_route
+22036,Park Orchards,21793,Mount Eliza,144.28,ok
+22037,Parkdale,21793,Mount Eliza,57.63,ok
+22038,Parkville (Vic.),21793,Mount Eliza,118.53,ok
+22041,Pascoe Vale,21793,Mount Eliza,139.0,ok
+22042,Pascoe Vale South,21793,Mount Eliza,134.73,ok
+22047,Patterson Lakes,21793,Mount Eliza,52.88,ok
+22050,Pearcedale,21793,Mount Eliza,75.97,ok
+22058,Pentland Hills,21793,Mount Eliza,,no_eligible_route
+22064,Pheasant Creek (Vic.),21793,Mount Eliza,,no_eligible_route
+22084,Plenty (Vic.),21793,Mount Eliza,172.17,ok
+22085,Plumpton (Vic.),21793,Mount Eliza,,no_eligible_route
+22086,Point Cook,21793,Mount Eliza,171.3,ok
+22087,Point Leo,21793,Mount Eliza,,no_eligible_route
+22107,Port Melbourne,21793,Mount Eliza,123.25,ok
+22113,Portsea,21793,Mount Eliza,113.82,ok
+22115,Powelltown,21793,Mount Eliza,,no_eligible_route
+22118,Prahran,21793,Mount Eliza,93.1,ok
+22121,Preston (Vic.),21793,Mount Eliza,132.6,ok
+22122,Princes Hill,21793,Mount Eliza,115.68,ok
+22132,Quandong,21793,Mount Eliza,,no_eligible_route
+22141,Ravenhall,21793,Mount Eliza,,no_eligible_route
+22148,Red Hill (Vic.),21793,Mount Eliza,,no_eligible_route
+22149,Red Hill South,21793,Mount Eliza,,no_eligible_route
+22160,Research,21793,Mount Eliza,,no_eligible_route
+22161,Reservoir (Vic.),21793,Mount Eliza,134.82,ok
+22170,Richmond (Vic.),21793,Mount Eliza,105.12,ok
+22172,Riddells Creek,21793,Mount Eliza,,no_eligible_route
+22174,Ringwood (Vic.),21793,Mount Eliza,126.23,ok
+22175,Ringwood East,21793,Mount Eliza,132.38,ok
+22176,Ringwood North,21793,Mount Eliza,139.02,ok
+22179,Ripponlea,21793,Mount Eliza,92.97,ok
+22185,Rochford,21793,Mount Eliza,,no_eligible_route
+22186,Rockbank,21793,Mount Eliza,196.2,ok
+22193,Romsey,21793,Mount Eliza,,no_eligible_route
+22194,Rosanna,21793,Mount Eliza,135.13,ok
+22198,Rosebud,21793,Mount Eliza,81.37,ok
+22207,Rowville,21793,Mount Eliza,98.67,ok
+22208,Roxburgh Park,21793,Mount Eliza,164.48,ok
+22220,Rye,21793,Mount Eliza,98.03,ok
+22221,Rythdale,21793,Mount Eliza,,no_eligible_route
+22222,Safety Beach (Vic.),21793,Mount Eliza,47.0,ok
+22232,Sandhurst,21793,Mount Eliza,61.07,ok
+22234,Sandringham (Vic.),21793,Mount Eliza,84.77,ok
+22239,Sassafras (Vic.),21793,Mount Eliza,157.33,ok
+22242,Scoresby,21793,Mount Eliza,107.58,ok
+22247,Seabrook,21793,Mount Eliza,156.22,ok
+22249,Seaford (Vic.),21793,Mount Eliza,45.27,ok
+22250,Seaholme,21793,Mount Eliza,140.48,ok
+22256,Seddon (Vic.),21793,Mount Eliza,112.83,ok
+22258,Selby,21793,Mount Eliza,,no_eligible_route
+22263,Seville,21793,Mount Eliza,,no_eligible_route
+22264,Seville East,21793,Mount Eliza,,no_eligible_route
+22278,Sherbrooke,21793,Mount Eliza,168.07,ok
+22279,Shoreham,21793,Mount Eliza,,no_eligible_route
+22281,Silvan,21793,Mount Eliza,177.55,ok
+22291,Skye (Vic.),21793,Mount Eliza,71.57,ok
+22295,Smiths Gully,21793,Mount Eliza,,no_eligible_route
+22303,Somers,21793,Mount Eliza,118.83,ok
+22304,Somerton (Vic.),21793,Mount Eliza,168.42,ok
+22305,Somerville (Vic.),21793,Mount Eliza,74.52,ok
+22306,Sorrento (Vic.),21793,Mount Eliza,82.8,ok
+22309,South Kingsville,21793,Mount Eliza,133.5,ok
+22310,South Melbourne,21793,Mount Eliza,114.57,ok
+22311,South Morang,21793,Mount Eliza,169.98,ok
+22313,South Wharf,21793,Mount Eliza,111.45,ok
+22314,South Yarra,21793,Mount Eliza,79.98,ok
+22315,Southbank,21793,Mount Eliza,103.62,ok
+22319,Spotswood,21793,Mount Eliza,114.65,ok
+22325,Springfield (Macedon Ranges - Vic.),21793,Mount Eliza,,no_eligible_route
+22328,Springvale (Vic.),21793,Mount Eliza,77.05,ok
+22329,Springvale South,21793,Mount Eliza,68.18,ok
+22330,St Albans (Vic.),21793,Mount Eliza,127.33,ok
+22332,St Andrews (Vic.),21793,Mount Eliza,,no_eligible_route
+22333,St Andrews Beach,21793,Mount Eliza,,no_eligible_route
+22339,St Helena,21793,Mount Eliza,168.28,ok
+22343,St Kilda (Vic.),21793,Mount Eliza,100.7,ok
+22344,St Kilda East,21793,Mount Eliza,93.65,ok
+22345,St Kilda West,21793,Mount Eliza,106.43,ok
+22355,Steels Creek,21793,Mount Eliza,,no_eligible_route
+22375,Strathewen,21793,Mount Eliza,,no_eligible_route
+22380,Strathmore (Vic.),21793,Mount Eliza,142.8,ok
+22381,Strathmore Heights,21793,Mount Eliza,154.8,ok
+22382,Strathtulloh,21793,Mount Eliza,,no_eligible_route
+22391,Sunbury,21793,Mount Eliza,,no_eligible_route
+22395,Sunshine (Vic.),21793,Mount Eliza,116.12,ok
+22396,Sunshine North,21793,Mount Eliza,135.18,ok
+22397,Sunshine West,21793,Mount Eliza,142.47,ok
+22399,Surrey Hills,21793,Mount Eliza,121.8,ok
+22414,Sydenham (Vic.),21793,Mount Eliza,141.73,ok
+22451,Tarneit,21793,Mount Eliza,188.57,ok
+22457,Tarrawarra,21793,Mount Eliza,,no_eligible_route
+22473,Taylors Hill,21793,Mount Eliza,163.73,ok
+22474,Taylors Lakes,21793,Mount Eliza,146.62,ok
+22476,Tecoma,21793,Mount Eliza,133.28,ok
+22483,Templestowe,21793,Mount Eliza,135.57,ok
+22484,Templestowe Lower,21793,Mount Eliza,132.53,ok
+22496,The Basin (Vic.),21793,Mount Eliza,148.47,ok
+22501,The Patch,21793,Mount Eliza,176.02,ok
+22504,Thomastown,21793,Mount Eliza,143.3,ok
+22508,Thornbury,21793,Mount Eliza,127.08,ok
+22509,Thornhill Park,21793,Mount Eliza,,no_eligible_route
+22514,Three Bridges,21793,Mount Eliza,,no_eligible_route
+22531,Tonimbuk,21793,Mount Eliza,,no_eligible_route
+22536,Toolangi,21793,Mount Eliza,,no_eligible_route
+22537,Toolern Vale,21793,Mount Eliza,,no_eligible_route
+22546,Tooradin,21793,Mount Eliza,,no_eligible_route
+22547,Toorak,21793,Mount Eliza,96.45,ok
+22550,Tootgarook,21793,Mount Eliza,81.45,ok
+22556,Tottenham (Vic.),21793,Mount Eliza,143.55,ok
+22572,Travancore,21793,Mount Eliza,125.1,ok
+22576,Tremont,21793,Mount Eliza,144.27,ok
+22582,Truganina,21793,Mount Eliza,,no_eligible_route
+22584,Tuerong,21793,Mount Eliza,177.5,walk_only
+22586,Tullamarine,21793,Mount Eliza,165.58,ok
+22594,Tyabb,21793,Mount Eliza,67.83,ok
+22598,Tynong,21793,Mount Eliza,,no_eligible_route
+22599,Tynong North,21793,Mount Eliza,,no_eligible_route
+22614,Upper Ferntree Gully,21793,Mount Eliza,123.82,ok
+22617,Upper Plenty,21793,Mount Eliza,,no_eligible_route
+22620,Upwey,21793,Mount Eliza,133.15,ok
+22627,Vermont,21793,Mount Eliza,128.28,ok
+22628,Vermont South,21793,Mount Eliza,120.65,ok
+22629,Vervale,21793,Mount Eliza,,no_eligible_route
+22633,Viewbank,21793,Mount Eliza,168.3,ok
+22661,Wallan,21793,Mount Eliza,,no_eligible_route
+22672,Wandin East,21793,Mount Eliza,,no_eligible_route
+22673,Wandin North,21793,Mount Eliza,,no_eligible_route
+22676,Wandong,21793,Mount Eliza,,no_eligible_route
+22685,Wantirna,21793,Mount Eliza,120.6,ok
+22686,Wantirna South,21793,Mount Eliza,110.88,ok
+22689,Warburton (Vic.),21793,Mount Eliza,,no_eligible_route
+22695,Warneet,21793,Mount Eliza,,no_eligible_route
+22702,Warrandyte,21793,Mount Eliza,139.35,ok
+22703,Warrandyte South,21793,Mount Eliza,169.32,ok
+22704,Warranwood,21793,Mount Eliza,146.98,ok
+22717,Waterford Park,21793,Mount Eliza,,no_eligible_route
+22720,Waterways,21793,Mount Eliza,71.18,ok
+22721,Watsonia,21793,Mount Eliza,135.58,ok
+22722,Watsonia North,21793,Mount Eliza,159.12,ok
+22723,Watsons Creek (Vic.),21793,Mount Eliza,,no_eligible_route
+22727,Wattle Glen,21793,Mount Eliza,177.33,ok
+22740,Weir Views,21793,Mount Eliza,,no_eligible_route
+22750,Werribee,21793,Mount Eliza,156.43,ok
+22751,Werribee South,21793,Mount Eliza,,no_eligible_route
+22753,Wesburn,21793,Mount Eliza,,no_eligible_route
+22756,West Footscray,21793,Mount Eliza,120.28,ok
+22757,West Melbourne,21793,Mount Eliza,128.22,ok
+22761,Westmeadows,21793,Mount Eliza,152.62,ok
+22766,Wheelers Hill,21793,Mount Eliza,99.02,ok
+22775,Whittlesea,21793,Mount Eliza,,no_eligible_route
+22784,Wildwood,21793,Mount Eliza,,no_eligible_route
+22791,Williams Landing,21793,Mount Eliza,155.65,ok
+22792,Williamstown (Vic.),21793,Mount Eliza,123.47,ok
+22793,Williamstown North,21793,Mount Eliza,143.0,ok
+22805,Windsor (Vic.),21793,Mount Eliza,95.9,ok
+22820,Wollert,21793,Mount Eliza,191.52,ok
+22825,Wonga Park,21793,Mount Eliza,,no_eligible_route
+22843,Woodstock (Vic.),21793,Mount Eliza,,no_eligible_route
+22857,Woori Yallock,21793,Mount Eliza,,no_eligible_route
+22883,Wyndham Vale,21793,Mount Eliza,178.25,ok
+22892,Yallambie,21793,Mount Eliza,164.85,ok
+22898,Yan Yean,21793,Mount Eliza,189.25,ok
+22906,Yannathan,21793,Mount Eliza,,no_eligible_route
+22910,Yarra Glen,21793,Mount Eliza,,no_eligible_route
+22911,Yarra Junction,21793,Mount Eliza,,no_eligible_route
+22916,Yarrambat,21793,Mount Eliza,190.03,ok
+22917,Yarraville,21793,Mount Eliza,120.4,ok
+22925,Yellingbo,21793,Mount Eliza,,no_eligible_route
+22930,Yering,21793,Mount Eliza,,no_eligible_route
+22941,Yuroke,21793,Mount Eliza,,no_eligible_route

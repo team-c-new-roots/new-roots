@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21318,Keilor North,85.6,ok
+20003,Aberfeldie,21318,Keilor North,55.43,ok
+20011,Aintree,21318,Keilor North,67.0,ok
+20015,Airport West,21318,Keilor North,43.98,ok
+20017,Albanvale,21318,Keilor North,64.83,ok
+20018,Albert Park (Vic.),21318,Keilor North,77.72,ok
+20021,Albion (Vic.),21318,Keilor North,59.87,ok
+20034,Alphington,21318,Keilor North,85.77,ok
+20035,Altona (Vic.),21318,Keilor North,100.85,ok
+20036,Altona Meadows,21318,Keilor North,101.12,ok
+20037,Altona North,21318,Keilor North,100.37,ok
+20062,Ardeer,21318,Keilor North,72.02,ok
+20066,Armadale (Vic.),21318,Keilor North,89.0,ok
+20071,Arthurs Creek,21318,Keilor North,,no_eligible_route
+20072,Arthurs Seat,21318,Keilor North,,no_eligible_route
+20075,Ascot Vale,21318,Keilor North,60.68,ok
+20077,Ashburton,21318,Keilor North,104.6,ok
+20078,Ashwood,21318,Keilor North,114.8,ok
+20079,Aspendale,21318,Keilor North,135.25,ok
+20080,Aspendale Gardens,21318,Keilor North,156.78,ok
+20082,Attwood,21318,Keilor North,87.08,ok
+20089,Avondale Heights,21318,Keilor North,75.35,ok
+20091,Avonsleigh,21318,Keilor North,,no_eligible_route
+20095,Bacchus Marsh,21318,Keilor North,,no_eligible_route
+20097,Badger Creek,21318,Keilor North,203.45,ok
+20105,Balaclava (Vic.),21318,Keilor North,89.63,ok
+20120,Balnarring,21318,Keilor North,,no_eligible_route
+20121,Balnarring Beach,21318,Keilor North,,no_eligible_route
+20123,Balwyn,21318,Keilor North,113.77,ok
+20124,Balwyn North,21318,Keilor North,112.5,ok
+20131,Bangholme,21318,Keilor North,200.75,ok
+20169,Baxter,21318,Keilor North,,no_eligible_route
+20171,Bayles,21318,Keilor North,,no_eligible_route
+20173,Bayswater (Vic.),21318,Keilor North,138.25,ok
+20174,Bayswater North,21318,Keilor North,164.68,ok
+20175,Beaconsfield (Vic.),21318,Keilor North,164.82,ok
+20176,Beaconsfield Upper,21318,Keilor North,,no_eligible_route
+20182,Beaumaris (Vic.),21318,Keilor North,149.98,ok
+20187,Beenak,21318,Keilor North,,no_eligible_route
+20188,Belgrave,21318,Keilor North,151.33,ok
+20189,Belgrave Heights,21318,Keilor North,183.0,ok
+20190,Belgrave South,21318,Keilor North,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21318,Keilor North,83.12,ok
+20207,Bend Of Islands,21318,Keilor North,,no_eligible_route
+20212,Benloch,21318,Keilor North,,no_eligible_route
+20214,Bentleigh,21318,Keilor North,112.03,ok
+20215,Bentleigh East,21318,Keilor North,112.98,ok
+20224,Berwick,21318,Keilor North,137.62,ok
+20233,Beveridge,21318,Keilor North,120.52,ok
+20237,Big Pats Creek,21318,Keilor North,,no_eligible_route
+20248,Bittern,21318,Keilor North,,no_eligible_route
+20251,Black Rock (Vic.),21318,Keilor North,152.73,ok
+20252,Blackburn,21318,Keilor North,102.58,ok
+20253,Blackburn North,21318,Keilor North,112.57,ok
+20254,Blackburn South,21318,Keilor North,120.55,ok
+20257,Blairgowrie,21318,Keilor North,,no_eligible_route
+20260,Blind Bight,21318,Keilor North,,no_eligible_route
+20272,Bolinda,21318,Keilor North,,no_eligible_route
+20278,Bonbeach,21318,Keilor North,140.25,ok
+20280,Boneo,21318,Keilor North,,no_eligible_route
+20282,Bonnie Brook,21318,Keilor North,99.55,ok
+20304,Boronia,21318,Keilor North,140.72,ok
+20307,Botanic Ridge,21318,Keilor North,176.37,ok
+20314,Box Hill (Vic.),21318,Keilor North,100.7,ok
+20315,Box Hill North,21318,Keilor North,110.45,ok
+20316,Box Hill South,21318,Keilor North,120.05,ok
+20320,Braeside,21318,Keilor North,161.65,ok
+20324,Braybrook,21318,Keilor North,73.15,ok
+20331,Briar Hill,21318,Keilor North,124.48,ok
+20337,Brighton (Vic.),21318,Keilor North,102.4,ok
+20338,Brighton East,21318,Keilor North,105.65,ok
+20346,Broadmeadows (Vic.),21318,Keilor North,75.6,ok
+20351,Brookfield (Vic.),21318,Keilor North,151.17,ok
+20352,Brooklyn (Vic.),21318,Keilor North,83.55,ok
+20361,Brunswick (Vic.),21318,Keilor North,67.83,ok
+20362,Brunswick East,21318,Keilor North,71.62,ok
+20363,Brunswick West,21318,Keilor North,58.43,ok
+20381,Bulla (Vic.),21318,Keilor North,78.92,ok
+20386,Bulleen,21318,Keilor North,105.02,ok
+20387,Bullengarook,21318,Keilor North,,no_eligible_route
+20399,Bundoora (Vic.),21318,Keilor North,92.5,ok
+20411,Bunyip,21318,Keilor North,,no_eligible_route
+20412,Bunyip North,21318,Keilor North,,no_eligible_route
+20418,Burnley,21318,Keilor North,98.0,ok
+20419,Burnside (Vic.),21318,Keilor North,78.32,ok
+20420,Burnside Heights,21318,Keilor North,59.6,ok
+20426,Burwood (Vic.),21318,Keilor North,126.4,ok
+20427,Burwood East,21318,Keilor North,130.92,ok
+20435,Bylands,21318,Keilor North,,no_eligible_route
+20441,Cairnlea,21318,Keilor North,67.9,ok
+20442,Calder Park,21318,Keilor North,66.1,ok
+20443,Caldermeade,21318,Keilor North,,no_eligible_route
+20453,Camberwell (Vic.),21318,Keilor North,103.53,ok
+20455,Campbellfield,21318,Keilor North,95.22,ok
+20466,Cannons Creek,21318,Keilor North,,no_eligible_route
+20468,Canterbury (Vic.),21318,Keilor North,106.02,ok
+20474,Cape Schanck,21318,Keilor North,,no_eligible_route
+20476,Capel Sound,21318,Keilor North,,no_eligible_route
+20487,Cardinia,21318,Keilor North,,no_eligible_route
+20495,Carlton (Vic.),21318,Keilor North,79.67,ok
+20496,Carlton North,21318,Keilor North,79.38,ok
+20498,Carnegie,21318,Keilor North,101.02,ok
+20500,Caroline Springs,21318,Keilor North,63.42,ok
+20507,Carrum,21318,Keilor North,140.07,ok
+20508,Carrum Downs,21318,Keilor North,157.1,ok
+20512,Castella,21318,Keilor North,,no_eligible_route
+20517,Catani,21318,Keilor North,,no_eligible_route
+20521,Caulfield,21318,Keilor North,104.7,ok
+20522,Caulfield East,21318,Keilor North,95.43,ok
+20523,Caulfield North,21318,Keilor North,97.93,ok
+20524,Caulfield South,21318,Keilor North,109.88,ok
+20528,Chadstone,21318,Keilor North,113.2,ok
+20537,Chelsea,21318,Keilor North,137.32,ok
+20538,Chelsea Heights,21318,Keilor North,151.0,ok
+20539,Cheltenham (Vic.),21318,Keilor North,126.78,ok
+20541,Cherokee,21318,Keilor North,,no_eligible_route
+20555,Chintin,21318,Keilor North,,no_eligible_route
+20556,Chirnside Park,21318,Keilor North,190.28,ok
+20559,Christmas Hills (Vic.),21318,Keilor North,,no_eligible_route
+20560,Chum Creek,21318,Keilor North,,no_eligible_route
+20566,Clarinda,21318,Keilor North,120.17,ok
+20567,Clarkefield,21318,Keilor North,,no_eligible_route
+20569,Clayton,21318,Keilor North,118.87,ok
+20570,Clayton South,21318,Keilor North,129.3,ok
+20572,Clematis,21318,Keilor North,,no_eligible_route
+20574,Clifton Hill,21318,Keilor North,84.25,ok
+20576,Clonbinane,21318,Keilor North,,no_eligible_route
+20581,Clyde (Vic.),21318,Keilor North,,no_eligible_route
+20582,Clyde North,21318,Keilor North,163.97,ok
+20587,Cobaw,21318,Keilor North,,no_eligible_route
+20590,Cobblebank,21318,Keilor North,127.15,ok
+20596,Coburg,21318,Keilor North,62.25,ok
+20597,Coburg North,21318,Keilor North,73.8,ok
+20600,Cockatoo (Vic.),21318,Keilor North,,no_eligible_route
+20601,Cocoroc,21318,Keilor North,,no_eligible_route
+20605,Coimadai,21318,Keilor North,,no_eligible_route
+20613,Coldstream (Vic.),21318,Keilor North,,no_eligible_route
+20616,Collingwood (Vic.),21318,Keilor North,86.25,ok
+20624,Coolaroo,21318,Keilor North,74.2,ok
+20633,Cora Lynn,21318,Keilor North,,no_eligible_route
+20654,Cottles Bridge,21318,Keilor North,,no_eligible_route
+20661,Craigieburn,21318,Keilor North,90.0,ok
+20662,Cranbourne,21318,Keilor North,154.15,ok
+20663,Cranbourne East,21318,Keilor North,160.15,ok
+20664,Cranbourne North,21318,Keilor North,162.17,ok
+20665,Cranbourne South,21318,Keilor North,179.72,ok
+20666,Cranbourne West,21318,Keilor North,154.67,ok
+20670,Cremorne (Vic.),21318,Keilor North,85.38,ok
+20674,Crib Point,21318,Keilor North,,no_eligible_route
+20682,Croydon (Vic.),21318,Keilor North,119.35,ok
+20683,Croydon Hills,21318,Keilor North,140.67,ok
+20684,Croydon North,21318,Keilor North,161.42,ok
+20685,Croydon South,21318,Keilor North,150.35,ok
+20702,Dallas,21318,Keilor North,78.9,ok
+20703,Dalmore,21318,Keilor North,,no_eligible_route
+20707,Dandenong,21318,Keilor North,125.13,ok
+20708,Dandenong North,21318,Keilor North,143.6,ok
+20709,Dandenong South,21318,Keilor North,156.98,ok
+20712,Darley,21318,Keilor North,,no_eligible_route
+20716,Darraweit Guim,21318,Keilor North,,no_eligible_route
+20724,Deanside,21318,Keilor North,80.02,ok
+20728,Deepdene (Vic.),21318,Keilor North,106.37,ok
+20729,Deer Park,21318,Keilor North,63.53,ok
+20731,Delahey,21318,Keilor North,50.33,ok
+20743,Derrimut,21318,Keilor North,106.0,ok
+20748,Devon Meadows,21318,Keilor North,,no_eligible_route
+20750,Dewhurst,21318,Keilor North,,no_eligible_route
+20752,Diamond Creek,21318,Keilor North,128.08,ok
+20754,Diggers Rest,21318,Keilor North,29.65,ok
+20758,Dingley Village,21318,Keilor North,135.68,ok
+20762,Dixons Creek,21318,Keilor North,,no_eligible_route
+20766,Docklands,21318,Keilor North,73.08,ok
+20769,Don Valley,21318,Keilor North,,no_eligible_route
+20771,Doncaster,21318,Keilor North,108.73,ok
+20772,Doncaster East,21318,Keilor North,111.22,ok
+20773,Donnybrook (Vic.),21318,Keilor North,128.05,ok
+20774,Donvale,21318,Keilor North,134.55,ok
+20779,Doreen,21318,Keilor North,153.45,ok
+20783,Doveton,21318,Keilor North,143.08,ok
+20788,Dromana,21318,Keilor North,261.68,ok
+20825,Eaglemont,21318,Keilor North,100.15,ok
+20830,East Melbourne,21318,Keilor North,76.37,ok
+20833,East Warburton,21318,Keilor North,,no_eligible_route
+20843,Eden Park,21318,Keilor North,,no_eligible_route
+20848,Edithvale,21318,Keilor North,137.45,ok
+20864,Elsternwick,21318,Keilor North,97.55,ok
+20865,Eltham (Vic.),21318,Keilor North,127.22,ok
+20866,Eltham North,21318,Keilor North,129.2,ok
+20867,Elwood,21318,Keilor North,103.73,ok
+20868,Emerald (Vic.),21318,Keilor North,,no_eligible_route
+20871,Endeavour Hills,21318,Keilor North,155.03,ok
+20878,Epping (Vic.),21318,Keilor North,103.33,ok
+20885,Essendon,21318,Keilor North,34.95,ok
+20886,Essendon Fields,21318,Keilor North,50.3,ok
+20887,Essendon North,21318,Keilor North,30.65,ok
+20888,Essendon West,21318,Keilor North,52.35,ok
+20889,Eumemmerring,21318,Keilor North,143.47,ok
+20898,Exford,21318,Keilor North,,no_eligible_route
+20899,Eynesbury,21318,Keilor North,161.25,ok
+20901,Fairfield (Vic.),21318,Keilor North,92.55,ok
+20909,Fawkner,21318,Keilor North,88.6,ok
+20916,Fernshaw,21318,Keilor North,,no_eligible_route
+20917,Ferntree Gully,21318,Keilor North,147.9,ok
+20918,Ferny Creek,21318,Keilor North,,no_eligible_route
+20920,Fingal (Vic.),21318,Keilor North,,no_eligible_route
+20924,Fitzroy (Vic.),21318,Keilor North,83.37,ok
+20925,Fitzroy North,21318,Keilor North,74.92,ok
+20929,Flemington,21318,Keilor North,62.45,ok
+20930,Flinders (Vic.),21318,Keilor North,,no_eligible_route
+20935,Footscray,21318,Keilor North,71.43,ok
+20937,Forest Hill (Vic.),21318,Keilor North,124.9,ok
+20947,Frankston,21318,Keilor North,154.03,ok
+20948,Frankston North,21318,Keilor North,177.27,ok
+20949,Frankston South,21318,Keilor North,,no_eligible_route
+20950,Fraser Rise,21318,Keilor North,77.85,ok
+20965,Gardenvale,21318,Keilor North,98.83,ok
+20966,Garfield,21318,Keilor North,,no_eligible_route
+20967,Garfield North,21318,Keilor North,,no_eligible_route
+20979,Gembrook,21318,Keilor North,,no_eligible_route
+20995,Gilderoy,21318,Keilor North,,no_eligible_route
+21001,Gisborne,21318,Keilor North,,no_eligible_route
+21002,Gisborne South,21318,Keilor North,,no_eligible_route
+21004,Gladstone Park,21318,Keilor North,74.75,ok
+21005,Gladysdale,21318,Keilor North,,no_eligible_route
+21009,Glen Huntly,21318,Keilor North,103.57,ok
+21010,Glen Iris (Vic.),21318,Keilor North,115.1,ok
+21013,Glen Waverley,21318,Keilor North,122.02,ok
+21047,Glenroy (Vic.),21318,Keilor North,70.45,ok
+21059,Goldie,21318,Keilor North,,no_eligible_route
+21079,Gowanbrae,21318,Keilor North,57.25,ok
+21087,Grangefields,21318,Keilor North,105.0,ok
+21104,Greensborough,21318,Keilor North,112.63,ok
+21105,Greenvale (Vic.),21318,Keilor North,110.13,ok
+21115,Gruyere,21318,Keilor North,,no_eligible_route
+21121,Guys Hill,21318,Keilor North,,no_eligible_route
+21124,Hadfield,21318,Keilor North,70.73,ok
+21125,Hallam,21318,Keilor North,143.73,ok
+21131,Hampton (Vic.),21318,Keilor North,120.23,ok
+21132,Hampton East,21318,Keilor North,118.8,ok
+21133,Hampton Park,21318,Keilor North,146.15,ok
+21139,Harkaway,21318,Keilor North,,no_eligible_route
+21140,Harkness,21318,Keilor North,152.98,ok
+21145,Hastings (Vic.),21318,Keilor North,,no_eligible_route
+21152,Hawthorn (Vic.),21318,Keilor North,98.4,ok
+21153,Hawthorn East,21318,Keilor North,97.88,ok
+21158,Healesville,21318,Keilor North,207.37,ok
+21159,Heath Hill,21318,Keilor North,,no_eligible_route
+21161,Heathcote Junction,21318,Keilor North,,no_eligible_route
+21163,Heatherton,21318,Keilor North,127.18,ok
+21165,Heathmont,21318,Keilor North,128.52,ok
+21167,Heidelberg,21318,Keilor North,92.43,ok
+21168,Heidelberg Heights,21318,Keilor North,87.28,ok
+21169,Heidelberg West,21318,Keilor North,83.28,ok
+21176,Hesket,21318,Keilor North,,no_eligible_route
+21185,Highett,21318,Keilor North,111.57,ok
+21193,Hillside (Melton - Vic.),21318,Keilor North,55.5,ok
+21195,Hmas Cerberus,21318,Keilor North,,no_eligible_route
+21196,Hoddles Creek,21318,Keilor North,,no_eligible_route
+21202,Hopetoun Park,21318,Keilor North,,no_eligible_route
+21203,Hoppers Crossing,21318,Keilor North,118.08,ok
+21214,Hughesdale,21318,Keilor North,103.65,ok
+21215,Humevale,21318,Keilor North,,no_eligible_route
+21218,Huntingdale (Vic.),21318,Keilor North,109.08,ok
+21223,Hurstbridge,21318,Keilor North,128.63,ok
+21238,Iona,21318,Keilor North,,no_eligible_route
+21246,Ivanhoe (Vic.),21318,Keilor North,84.92,ok
+21247,Ivanhoe East,21318,Keilor North,108.02,ok
+21248,Jacana,21318,Keilor North,73.6,ok
+21277,Junction Village,21318,Keilor North,188.7,ok
+21284,Kalkallo,21318,Keilor North,124.65,ok
+21286,Kallista,21318,Keilor North,,no_eligible_route
+21287,Kalorama,21318,Keilor North,,no_eligible_route
+21294,Kangaroo Ground,21318,Keilor North,,no_eligible_route
+21312,Kealba,21318,Keilor North,56.58,ok
+21314,Keilor,21318,Keilor North,60.33,ok
+21315,Keilor Downs,21318,Keilor North,48.32,ok
+21316,Keilor East,21318,Keilor North,68.77,ok
+21317,Keilor Lodge,21318,Keilor North,23.83,ok
+21318,Keilor North,21318,Keilor North,0.0,same_centroid
+21319,Keilor Park,21318,Keilor North,65.0,ok
+21327,Kensington (Vic.),21318,Keilor North,56.27,ok
+21333,Kerrie,21318,Keilor North,,no_eligible_route
+21336,Kew (Vic.),21318,Keilor North,101.52,ok
+21337,Kew East,21318,Keilor North,109.57,ok
+21339,Keysborough,21318,Keilor North,144.95,ok
+21354,Kilsyth,21318,Keilor North,150.63,ok
+21355,Kilsyth South,21318,Keilor North,,no_eligible_route
+21358,Kinglake,21318,Keilor North,,no_eligible_route
+21359,Kinglake Central,21318,Keilor North,,no_eligible_route
+21360,Kinglake West,21318,Keilor North,,no_eligible_route
+21362,Kings Park (Vic.),21318,Keilor North,57.37,ok
+21363,Kingsbury,21318,Keilor North,91.72,ok
+21365,Kingsville,21318,Keilor North,73.3,ok
+21374,Knoxfield,21318,Keilor North,144.78,ok
+21380,Koo Wee Rup,21318,Keilor North,,no_eligible_route
+21381,Koo Wee Rup North,21318,Keilor North,,no_eligible_route
+21393,Kooyong,21318,Keilor North,95.78,ok
+21411,Kurunjang,21318,Keilor North,130.18,ok
+21452,Lalor,21318,Keilor North,104.05,ok
+21456,Lancefield,21318,Keilor North,,no_eligible_route
+21459,Lang Lang,21318,Keilor North,,no_eligible_route
+21460,Lang Lang East,21318,Keilor North,,no_eligible_route
+21467,Langwarrin,21318,Keilor North,171.38,ok
+21468,Langwarrin South,21318,Keilor North,,no_eligible_route
+21473,Launching Place,21318,Keilor North,,no_eligible_route
+21476,Laverton (Vic.),21318,Keilor North,96.45,ok
+21477,Laverton North,21318,Keilor North,118.82,ok
+21504,Lilydale (Vic.),21318,Keilor North,150.65,ok
+21533,Long Forest,21318,Keilor North,,no_eligible_route
+21547,Lower Plenty,21318,Keilor North,136.78,ok
+21554,Lynbrook,21318,Keilor North,134.87,ok
+21555,Lyndhurst (Vic.),21318,Keilor North,,no_eligible_route
+21558,Lysterfield,21318,Keilor North,,no_eligible_route
+21559,Lysterfield South,21318,Keilor North,193.58,ok
+21561,Macclesfield (Vic.),21318,Keilor North,,no_eligible_route
+21562,Macedon,21318,Keilor North,,no_eligible_route
+21564,Macleod (Vic.),21318,Keilor North,105.72,ok
+21569,Maddingley,21318,Keilor North,,no_eligible_route
+21575,Maidstone,21318,Keilor North,77.95,ok
+21578,Main Ridge,21318,Keilor North,,no_eligible_route
+21586,Malvern (Vic.),21318,Keilor North,102.0,ok
+21587,Malvern East,21318,Keilor North,108.38,ok
+21588,Mambourin,21318,Keilor North,,no_eligible_route
+21597,Manor Lakes,21318,Keilor North,149.92,ok
+21604,Maribyrnong,21318,Keilor North,71.73,ok
+21619,Maryknoll,21318,Keilor North,,no_eligible_route
+21625,McCrae,21318,Keilor North,,no_eligible_route
+21629,McKinnon,21318,Keilor North,100.87,ok
+21635,Meadow Heights,21318,Keilor North,81.3,ok
+21640,Melbourne,21318,Keilor North,71.47,ok
+21641,Melbourne Airport,21318,Keilor North,177.33,walk_only
+21642,Melton (Vic.),21318,Keilor North,129.37,ok
+21643,Melton South,21318,Keilor North,127.73,ok
+21644,Melton West,21318,Keilor North,124.73,ok
+21648,Mentone,21318,Keilor North,118.33,ok
+21649,Menzies Creek,21318,Keilor North,,no_eligible_route
+21659,Mernda,21318,Keilor North,133.82,ok
+21662,Merricks,21318,Keilor North,,no_eligible_route
+21663,Merricks Beach,21318,Keilor North,,no_eligible_route
+21664,Merricks North,21318,Keilor North,,no_eligible_route
+21668,Merrimu,21318,Keilor North,,no_eligible_route
+21675,Mickleham,21318,Keilor North,131.03,ok
+21677,Middle Park (Vic.),21318,Keilor North,83.8,ok
+21683,Mill Park,21318,Keilor North,117.13,ok
+21685,Millgrove,21318,Keilor North,,no_eligible_route
+21706,Mitcham (Vic.),21318,Keilor North,114.25,ok
+21727,Monbulk,21318,Keilor North,,no_eligible_route
+21728,Monegeetta,21318,Keilor North,,no_eligible_route
+21731,Monomeith,21318,Keilor North,,no_eligible_route
+21732,Mont Albert,21318,Keilor North,111.63,ok
+21733,Mont Albert North,21318,Keilor North,111.2,ok
+21735,Montmorency,21318,Keilor North,113.28,ok
+21736,Montrose (Vic.),21318,Keilor North,143.33,ok
+21742,Moonee Ponds,21318,Keilor North,42.02,ok
+21746,Moorabbin,21318,Keilor North,125.82,ok
+21747,Moorabbin Airport,21318,Keilor North,138.05,ok
+21754,Moorooduc,21318,Keilor North,,no_eligible_route
+21755,Mooroolbark,21318,Keilor North,137.97,ok
+21760,Mordialloc,21318,Keilor North,134.35,ok
+21763,Mornington (Vic.),21318,Keilor North,200.9,ok
+21779,Mount Burnett,21318,Keilor North,,no_eligible_route
+21786,Mount Cottrell,21318,Keilor North,,no_eligible_route
+21787,Mount Dandenong,21318,Keilor North,,no_eligible_route
+21793,Mount Eliza,21318,Keilor North,179.08,ok
+21795,Mount Evelyn,21318,Keilor North,,no_eligible_route
+21801,Mount Macedon,21318,Keilor North,,no_eligible_route
+21803,Mount Martha,21318,Keilor North,218.37,ok
+21814,Mount Toolebewong,21318,Keilor North,,no_eligible_route
+21816,Mount Waverley,21318,Keilor North,113.45,ok
+21827,Mulgrave (Vic.),21318,Keilor North,137.38,ok
+21849,Murrumbeena,21318,Keilor North,103.77,ok
+21872,Nangana,21318,Keilor North,,no_eligible_route
+21878,Nar Nar Goon,21318,Keilor North,,no_eligible_route
+21879,Nar Nar Goon North,21318,Keilor North,,no_eligible_route
+21893,Narre Warren,21318,Keilor North,143.17,ok
+21894,Narre Warren East,21318,Keilor North,,no_eligible_route
+21895,Narre Warren North,21318,Keilor North,192.08,ok
+21896,Narre Warren South,21318,Keilor North,160.42,ok
+21921,New Gisborne,21318,Keilor North,,no_eligible_route
+21934,Newport (Vic.),21318,Keilor North,81.3,ok
+21942,Niddrie,21318,Keilor North,29.08,ok
+21952,Noble Park,21318,Keilor North,115.87,ok
+21953,Noble Park North,21318,Keilor North,149.05,ok
+21966,North Melbourne,21318,Keilor North,68.87,ok
+21969,North Warrandyte,21318,Keilor North,135.85,ok
+21971,Northcote,21318,Keilor North,81.78,ok
+21974,Notting Hill,21318,Keilor North,123.55,ok
+21985,Nunawading,21318,Keilor North,106.73,ok
+21991,Nutfield,21318,Keilor North,,no_eligible_route
+21998,Oak Park,21318,Keilor North,62.68,ok
+21999,Oaklands Junction,21318,Keilor North,,no_eligible_route
+22000,Oakleigh,21318,Keilor North,106.32,ok
+22001,Oakleigh East,21318,Keilor North,117.65,ok
+22002,Oakleigh South,21318,Keilor North,115.47,ok
+22006,Officer,21318,Keilor North,157.27,ok
+22007,Officer South,21318,Keilor North,193.83,ok
+22009,Olinda (Vic.),21318,Keilor North,,no_eligible_route
+22016,Ormond,21318,Keilor North,101.3,ok
+22027,Pakenham,21318,Keilor North,156.32,ok
+22028,Pakenham South,21318,Keilor North,,no_eligible_route
+22029,Pakenham Upper,21318,Keilor North,,no_eligible_route
+22032,Panton Hill,21318,Keilor North,,no_eligible_route
+22036,Park Orchards,21318,Keilor North,138.33,ok
+22037,Parkdale,21318,Keilor North,126.63,ok
+22038,Parkville (Vic.),21318,Keilor North,67.92,ok
+22041,Pascoe Vale,21318,Keilor North,67.05,ok
+22042,Pascoe Vale South,21318,Keilor North,57.32,ok
+22047,Patterson Lakes,21318,Keilor North,157.4,ok
+22050,Pearcedale,21318,Keilor North,197.02,ok
+22058,Pentland Hills,21318,Keilor North,,no_eligible_route
+22064,Pheasant Creek (Vic.),21318,Keilor North,,no_eligible_route
+22084,Plenty (Vic.),21318,Keilor North,144.22,ok
+22085,Plumpton (Vic.),21318,Keilor North,,no_eligible_route
+22086,Point Cook,21318,Keilor North,112.68,ok
+22087,Point Leo,21318,Keilor North,,no_eligible_route
+22107,Port Melbourne,21318,Keilor North,79.3,ok
+22113,Portsea,21318,Keilor North,,no_eligible_route
+22115,Powelltown,21318,Keilor North,,no_eligible_route
+22118,Prahran,21318,Keilor North,95.8,ok
+22121,Preston (Vic.),21318,Keilor North,73.72,ok
+22122,Princes Hill,21318,Keilor North,72.68,ok
+22132,Quandong,21318,Keilor North,,no_eligible_route
+22141,Ravenhall,21318,Keilor North,77.6,ok
+22148,Red Hill (Vic.),21318,Keilor North,,no_eligible_route
+22149,Red Hill South,21318,Keilor North,,no_eligible_route
+22160,Research,21318,Keilor North,129.72,ok
+22161,Reservoir (Vic.),21318,Keilor North,88.23,ok
+22170,Richmond (Vic.),21318,Keilor North,88.32,ok
+22172,Riddells Creek,21318,Keilor North,,no_eligible_route
+22174,Ringwood (Vic.),21318,Keilor North,120.88,ok
+22175,Ringwood East,21318,Keilor North,119.43,ok
+22176,Ringwood North,21318,Keilor North,133.07,ok
+22179,Ripponlea,21318,Keilor North,88.27,ok
+22185,Rochford,21318,Keilor North,,no_eligible_route
+22186,Rockbank,21318,Keilor North,86.08,ok
+22193,Romsey,21318,Keilor North,,no_eligible_route
+22194,Rosanna,21318,Keilor North,100.8,ok
+22198,Rosebud,21318,Keilor North,,no_eligible_route
+22207,Rowville,21318,Keilor North,149.58,ok
+22208,Roxburgh Park,21318,Keilor North,92.53,ok
+22220,Rye,21318,Keilor North,,no_eligible_route
+22221,Rythdale,21318,Keilor North,,no_eligible_route
+22222,Safety Beach (Vic.),21318,Keilor North,229.58,ok
+22232,Sandhurst,21318,Keilor North,185.03,ok
+22234,Sandringham (Vic.),21318,Keilor North,124.2,ok
+22239,Sassafras (Vic.),21318,Keilor North,,no_eligible_route
+22242,Scoresby,21318,Keilor North,141.43,ok
+22247,Seabrook,21318,Keilor North,106.87,ok
+22249,Seaford (Vic.),21318,Keilor North,152.17,ok
+22250,Seaholme,21318,Keilor North,89.27,ok
+22256,Seddon (Vic.),21318,Keilor North,68.0,ok
+22258,Selby,21318,Keilor North,183.93,ok
+22263,Seville,21318,Keilor North,,no_eligible_route
+22264,Seville East,21318,Keilor North,,no_eligible_route
+22278,Sherbrooke,21318,Keilor North,,no_eligible_route
+22279,Shoreham,21318,Keilor North,,no_eligible_route
+22281,Silvan,21318,Keilor North,,no_eligible_route
+22291,Skye (Vic.),21318,Keilor North,172.95,ok
+22295,Smiths Gully,21318,Keilor North,,no_eligible_route
+22303,Somers,21318,Keilor North,,no_eligible_route
+22304,Somerton (Vic.),21318,Keilor North,90.75,ok
+22305,Somerville (Vic.),21318,Keilor North,,no_eligible_route
+22306,Sorrento (Vic.),21318,Keilor North,,no_eligible_route
+22309,South Kingsville,21318,Keilor North,98.55,ok
+22310,South Melbourne,21318,Keilor North,76.62,ok
+22311,South Morang,21318,Keilor North,130.73,ok
+22313,South Wharf,21318,Keilor North,75.4,ok
+22314,South Yarra,21318,Keilor North,79.03,ok
+22315,Southbank,21318,Keilor North,78.92,ok
+22319,Spotswood,21318,Keilor North,79.7,ok
+22325,Springfield (Macedon Ranges - Vic.),21318,Keilor North,,no_eligible_route
+22328,Springvale (Vic.),21318,Keilor North,116.83,ok
+22329,Springvale South,21318,Keilor North,123.68,ok
+22330,St Albans (Vic.),21318,Keilor North,51.0,ok
+22332,St Andrews (Vic.),21318,Keilor North,,no_eligible_route
+22333,St Andrews Beach,21318,Keilor North,,no_eligible_route
+22339,St Helena,21318,Keilor North,127.5,ok
+22343,St Kilda (Vic.),21318,Keilor North,89.85,ok
+22344,St Kilda East,21318,Keilor North,99.45,ok
+22345,St Kilda West,21318,Keilor North,86.13,ok
+22355,Steels Creek,21318,Keilor North,,no_eligible_route
+22375,Strathewen,21318,Keilor North,,no_eligible_route
+22380,Strathmore (Vic.),21318,Keilor North,56.83,ok
+22381,Strathmore Heights,21318,Keilor North,53.85,ok
+22382,Strathtulloh,21318,Keilor North,181.62,ok
+22391,Sunbury,21318,Keilor North,71.47,ok
+22395,Sunshine (Vic.),21318,Keilor North,55.28,ok
+22396,Sunshine North,21318,Keilor North,67.52,ok
+22397,Sunshine West,21318,Keilor North,84.45,ok
+22399,Surrey Hills,21318,Keilor North,113.83,ok
+22414,Sydenham (Vic.),21318,Keilor North,41.25,ok
+22451,Tarneit,21318,Keilor North,132.87,ok
+22457,Tarrawarra,21318,Keilor North,182.97,ok
+22473,Taylors Hill,21318,Keilor North,53.18,ok
+22474,Taylors Lakes,21318,Keilor North,31.9,walk_only
+22476,Tecoma,21318,Keilor North,148.33,ok
+22483,Templestowe,21318,Keilor North,123.62,ok
+22484,Templestowe Lower,21318,Keilor North,119.58,ok
+22496,The Basin (Vic.),21318,Keilor North,,no_eligible_route
+22501,The Patch,21318,Keilor North,,no_eligible_route
+22504,Thomastown,21318,Keilor North,107.65,ok
+22508,Thornbury,21318,Keilor North,73.22,ok
+22509,Thornhill Park,21318,Keilor North,,no_eligible_route
+22514,Three Bridges,21318,Keilor North,,no_eligible_route
+22531,Tonimbuk,21318,Keilor North,,no_eligible_route
+22536,Toolangi,21318,Keilor North,,no_eligible_route
+22537,Toolern Vale,21318,Keilor North,,no_eligible_route
+22546,Tooradin,21318,Keilor North,,no_eligible_route
+22547,Toorak,21318,Keilor North,98.42,ok
+22550,Tootgarook,21318,Keilor North,,no_eligible_route
+22556,Tottenham (Vic.),21318,Keilor North,88.33,ok
+22572,Travancore,21318,Keilor North,59.67,ok
+22576,Tremont,21318,Keilor North,165.93,ok
+22582,Truganina,21318,Keilor North,144.07,ok
+22584,Tuerong,21318,Keilor North,,no_eligible_route
+22586,Tullamarine,21318,Keilor North,66.58,ok
+22594,Tyabb,21318,Keilor North,,no_eligible_route
+22598,Tynong,21318,Keilor North,,no_eligible_route
+22599,Tynong North,21318,Keilor North,,no_eligible_route
+22614,Upper Ferntree Gully,21318,Keilor North,145.48,ok
+22617,Upper Plenty,21318,Keilor North,,no_eligible_route
+22620,Upwey,21318,Keilor North,148.2,ok
+22627,Vermont,21318,Keilor North,123.55,ok
+22628,Vermont South,21318,Keilor North,144.87,ok
+22629,Vervale,21318,Keilor North,,no_eligible_route
+22633,Viewbank,21318,Keilor North,103.18,ok
+22661,Wallan,21318,Keilor North,,no_eligible_route
+22672,Wandin East,21318,Keilor North,,no_eligible_route
+22673,Wandin North,21318,Keilor North,,no_eligible_route
+22676,Wandong,21318,Keilor North,,no_eligible_route
+22685,Wantirna,21318,Keilor North,136.48,ok
+22686,Wantirna South,21318,Keilor North,149.33,ok
+22689,Warburton (Vic.),21318,Keilor North,,no_eligible_route
+22695,Warneet,21318,Keilor North,,no_eligible_route
+22702,Warrandyte,21318,Keilor North,124.4,ok
+22703,Warrandyte South,21318,Keilor North,,no_eligible_route
+22704,Warranwood,21318,Keilor North,144.22,ok
+22717,Waterford Park,21318,Keilor North,,no_eligible_route
+22720,Waterways,21318,Keilor North,148.12,ok
+22721,Watsonia,21318,Keilor North,100.63,ok
+22722,Watsonia North,21318,Keilor North,109.08,ok
+22723,Watsons Creek (Vic.),21318,Keilor North,,no_eligible_route
+22727,Wattle Glen,21318,Keilor North,132.38,ok
+22740,Weir Views,21318,Keilor North,150.82,ok
+22750,Werribee,21318,Keilor North,107.48,ok
+22751,Werribee South,21318,Keilor North,,no_eligible_route
+22753,Wesburn,21318,Keilor North,,no_eligible_route
+22756,West Footscray,21318,Keilor North,66.45,ok
+22757,West Melbourne,21318,Keilor North,81.27,ok
+22761,Westmeadows,21318,Keilor North,69.48,ok
+22766,Wheelers Hill,21318,Keilor North,132.87,ok
+22775,Whittlesea,21318,Keilor North,,no_eligible_route
+22784,Wildwood,21318,Keilor North,,no_eligible_route
+22791,Williams Landing,21318,Keilor North,110.7,ok
+22792,Williamstown (Vic.),21318,Keilor North,89.63,ok
+22793,Williamstown North,21318,Keilor North,98.0,ok
+22805,Windsor (Vic.),21318,Keilor North,85.53,ok
+22820,Wollert,21318,Keilor North,115.57,ok
+22825,Wonga Park,21318,Keilor North,,no_eligible_route
+22843,Woodstock (Vic.),21318,Keilor North,,no_eligible_route
+22857,Woori Yallock,21318,Keilor North,,no_eligible_route
+22883,Wyndham Vale,21318,Keilor North,140.42,ok
+22892,Yallambie,21318,Keilor North,116.92,ok
+22898,Yan Yean,21318,Keilor North,164.3,ok
+22906,Yannathan,21318,Keilor North,,no_eligible_route
+22910,Yarra Glen,21318,Keilor North,180.27,ok
+22911,Yarra Junction,21318,Keilor North,,no_eligible_route
+22916,Yarrambat,21318,Keilor North,144.78,ok
+22917,Yarraville,21318,Keilor North,80.53,ok
+22925,Yellingbo,21318,Keilor North,,no_eligible_route
+22930,Yering,21318,Keilor North,,no_eligible_route
+22941,Yuroke,21318,Keilor North,145.67,ok

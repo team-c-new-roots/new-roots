@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20729,Deer Park,75.53,ok
+20003,Aberfeldie,20729,Deer Park,60.75,ok
+20011,Aintree,20729,Deer Park,47.3,ok
+20015,Airport West,20729,Deer Park,70.28,ok
+20017,Albanvale,20729,Deer Park,30.18,ok
+20018,Albert Park (Vic.),20729,Deer Park,75.65,ok
+20021,Albion (Vic.),20729,Deer Park,14.7,ok
+20034,Alphington,20729,Deer Park,76.2,ok
+20035,Altona (Vic.),20729,Deer Park,69.02,ok
+20036,Altona Meadows,20729,Deer Park,67.93,ok
+20037,Altona North,20729,Deer Park,65.18,ok
+20062,Ardeer,20729,Deer Park,14.92,ok
+20066,Armadale (Vic.),20729,Deer Park,68.92,ok
+20071,Arthurs Creek,20729,Deer Park,,no_eligible_route
+20072,Arthurs Seat,20729,Deer Park,225.45,ok
+20075,Ascot Vale,20729,Deer Park,50.05,ok
+20077,Ashburton,20729,Deer Park,87.53,ok
+20078,Ashwood,20729,Deer Park,96.73,ok
+20079,Aspendale,20729,Deer Park,111.18,ok
+20080,Aspendale Gardens,20729,Deer Park,127.93,ok
+20082,Attwood,20729,Deer Park,104.73,ok
+20089,Avondale Heights,20729,Deer Park,44.22,ok
+20091,Avonsleigh,20729,Deer Park,,no_eligible_route
+20095,Bacchus Marsh,20729,Deer Park,,no_eligible_route
+20097,Badger Creek,20729,Deer Park,197.38,ok
+20105,Balaclava (Vic.),20729,Deer Park,81.47,ok
+20120,Balnarring,20729,Deer Park,,no_eligible_route
+20121,Balnarring Beach,20729,Deer Park,,no_eligible_route
+20123,Balwyn,20729,Deer Park,100.87,ok
+20124,Balwyn North,20729,Deer Park,98.43,ok
+20131,Bangholme,20729,Deer Park,169.27,ok
+20169,Baxter,20729,Deer Park,,no_eligible_route
+20171,Bayles,20729,Deer Park,,no_eligible_route
+20173,Bayswater (Vic.),20729,Deer Park,115.18,ok
+20174,Bayswater North,20729,Deer Park,125.15,ok
+20175,Beaconsfield (Vic.),20729,Deer Park,141.63,ok
+20176,Beaconsfield Upper,20729,Deer Park,,no_eligible_route
+20182,Beaumaris (Vic.),20729,Deer Park,115.07,ok
+20187,Beenak,20729,Deer Park,,no_eligible_route
+20188,Belgrave,20729,Deer Park,130.27,ok
+20189,Belgrave Heights,20729,Deer Park,159.93,ok
+20190,Belgrave South,20729,Deer Park,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20729,Deer Park,96.45,ok
+20207,Bend Of Islands,20729,Deer Park,,no_eligible_route
+20212,Benloch,20729,Deer Park,,no_eligible_route
+20214,Bentleigh,20729,Deer Park,87.97,ok
+20215,Bentleigh East,20729,Deer Park,92.32,ok
+20224,Berwick,20729,Deer Park,114.43,ok
+20233,Beveridge,20729,Deer Park,129.45,ok
+20237,Big Pats Creek,20729,Deer Park,,no_eligible_route
+20248,Bittern,20729,Deer Park,,no_eligible_route
+20251,Black Rock (Vic.),20729,Deer Park,112.38,ok
+20252,Blackburn,20729,Deer Park,92.52,ok
+20253,Blackburn North,20729,Deer Park,99.5,ok
+20254,Blackburn South,20729,Deer Park,107.85,ok
+20257,Blairgowrie,20729,Deer Park,219.48,ok
+20260,Blind Bight,20729,Deer Park,,no_eligible_route
+20272,Bolinda,20729,Deer Park,,no_eligible_route
+20278,Bonbeach,20729,Deer Park,116.18,ok
+20280,Boneo,20729,Deer Park,,no_eligible_route
+20282,Bonnie Brook,20729,Deer Park,91.5,ok
+20304,Boronia,20729,Deer Park,117.65,ok
+20307,Botanic Ridge,20729,Deer Park,155.3,ok
+20314,Box Hill (Vic.),20729,Deer Park,89.63,ok
+20315,Box Hill North,20729,Deer Park,104.38,ok
+20316,Box Hill South,20729,Deer Park,95.12,ok
+20320,Braeside,20729,Deer Park,140.58,ok
+20324,Braybrook,20729,Deer Park,31.82,ok
+20331,Briar Hill,20729,Deer Park,119.18,ok
+20337,Brighton (Vic.),20729,Deer Park,94.33,ok
+20338,Brighton East,20729,Deer Park,91.65,ok
+20346,Broadmeadows (Vic.),20729,Deer Park,92.53,ok
+20351,Brookfield (Vic.),20729,Deer Park,107.1,ok
+20352,Brooklyn (Vic.),20729,Deer Park,48.37,ok
+20361,Brunswick (Vic.),20729,Deer Park,64.43,ok
+20362,Brunswick East,20729,Deer Park,75.72,ok
+20363,Brunswick West,20729,Deer Park,67.37,ok
+20381,Bulla (Vic.),20729,Deer Park,,no_eligible_route
+20386,Bulleen,20729,Deer Park,102.58,ok
+20387,Bullengarook,20729,Deer Park,,no_eligible_route
+20399,Bundoora (Vic.),20729,Deer Park,115.43,ok
+20411,Bunyip,20729,Deer Park,,no_eligible_route
+20412,Bunyip North,20729,Deer Park,,no_eligible_route
+20418,Burnley,20729,Deer Park,80.93,ok
+20419,Burnside (Vic.),20729,Deer Park,14.85,ok
+20420,Burnside Heights,20729,Deer Park,23.67,ok
+20426,Burwood (Vic.),20729,Deer Park,104.33,ok
+20427,Burwood East,20729,Deer Park,104.23,ok
+20435,Bylands,20729,Deer Park,,no_eligible_route
+20441,Cairnlea,20729,Deer Park,23.5,ok
+20442,Calder Park,20729,Deer Park,65.83,ok
+20443,Caldermeade,20729,Deer Park,,no_eligible_route
+20453,Camberwell (Vic.),20729,Deer Park,86.47,ok
+20455,Campbellfield,20729,Deer Park,110.18,ok
+20466,Cannons Creek,20729,Deer Park,,no_eligible_route
+20468,Canterbury (Vic.),20729,Deer Park,82.95,ok
+20474,Cape Schanck,20729,Deer Park,,no_eligible_route
+20476,Capel Sound,20729,Deer Park,204.83,ok
+20487,Cardinia,20729,Deer Park,,no_eligible_route
+20495,Carlton (Vic.),20729,Deer Park,55.92,ok
+20496,Carlton North,20729,Deer Park,69.65,ok
+20498,Carnegie,20729,Deer Park,78.95,ok
+20500,Caroline Springs,20729,Deer Park,24.9,ok
+20507,Carrum,20729,Deer Park,116.0,ok
+20508,Carrum Downs,20729,Deer Park,128.23,ok
+20512,Castella,20729,Deer Park,,no_eligible_route
+20517,Catani,20729,Deer Park,,no_eligible_route
+20521,Caulfield,20729,Deer Park,81.67,ok
+20522,Caulfield East,20729,Deer Park,72.37,ok
+20523,Caulfield North,20729,Deer Park,72.28,ok
+20524,Caulfield South,20729,Deer Park,86.2,ok
+20528,Chadstone,20729,Deer Park,88.02,ok
+20537,Chelsea,20729,Deer Park,113.25,ok
+20538,Chelsea Heights,20729,Deer Park,129.93,ok
+20539,Cheltenham (Vic.),20729,Deer Park,102.72,ok
+20541,Cherokee,20729,Deer Park,,no_eligible_route
+20555,Chintin,20729,Deer Park,,no_eligible_route
+20556,Chirnside Park,20729,Deer Park,164.33,ok
+20559,Christmas Hills (Vic.),20729,Deer Park,,no_eligible_route
+20560,Chum Creek,20729,Deer Park,,no_eligible_route
+20566,Clarinda,20729,Deer Park,97.32,ok
+20567,Clarkefield,20729,Deer Park,,no_eligible_route
+20569,Clayton,20729,Deer Park,92.8,ok
+20570,Clayton South,20729,Deer Park,106.78,ok
+20572,Clematis,20729,Deer Park,,no_eligible_route
+20574,Clifton Hill,20729,Deer Park,70.18,ok
+20576,Clonbinane,20729,Deer Park,,no_eligible_route
+20581,Clyde (Vic.),20729,Deer Park,166.13,ok
+20582,Clyde North,20729,Deer Park,141.9,ok
+20587,Cobaw,20729,Deer Park,,no_eligible_route
+20590,Cobblebank,20729,Deer Park,91.35,ok
+20596,Coburg,20729,Deer Park,72.17,ok
+20597,Coburg North,20729,Deer Park,81.73,ok
+20600,Cockatoo (Vic.),20729,Deer Park,,no_eligible_route
+20601,Cocoroc,20729,Deer Park,,no_eligible_route
+20605,Coimadai,20729,Deer Park,,no_eligible_route
+20613,Coldstream (Vic.),20729,Deer Park,,no_eligible_route
+20616,Collingwood (Vic.),20729,Deer Park,70.95,ok
+20624,Coolaroo,20729,Deer Park,93.13,ok
+20633,Cora Lynn,20729,Deer Park,,no_eligible_route
+20654,Cottles Bridge,20729,Deer Park,,no_eligible_route
+20661,Craigieburn,20729,Deer Park,108.97,ok
+20662,Cranbourne,20729,Deer Park,131.75,ok
+20663,Cranbourne East,20729,Deer Park,131.18,ok
+20664,Cranbourne North,20729,Deer Park,124.1,ok
+20665,Cranbourne South,20729,Deer Park,158.65,ok
+20666,Cranbourne West,20729,Deer Park,130.0,ok
+20670,Cremorne (Vic.),20729,Deer Park,72.23,ok
+20674,Crib Point,20729,Deer Park,,no_eligible_route
+20682,Croydon (Vic.),20729,Deer Park,110.28,ok
+20683,Croydon Hills,20729,Deer Park,134.6,ok
+20684,Croydon North,20729,Deer Park,129.03,ok
+20685,Croydon South,20729,Deer Park,141.0,ok
+20702,Dallas,20729,Deer Park,94.83,ok
+20703,Dalmore,20729,Deer Park,,no_eligible_route
+20707,Dandenong,20729,Deer Park,102.03,ok
+20708,Dandenong North,20729,Deer Park,120.1,ok
+20709,Dandenong South,20729,Deer Park,127.4,ok
+20712,Darley,20729,Deer Park,,no_eligible_route
+20716,Darraweit Guim,20729,Deer Park,,no_eligible_route
+20724,Deanside,20729,Deer Park,47.1,ok
+20728,Deepdene (Vic.),20729,Deer Park,89.3,ok
+20729,Deer Park,20729,Deer Park,0.0,same_centroid
+20731,Delahey,20729,Deer Park,46.35,ok
+20743,Derrimut,20729,Deer Park,41.38,ok
+20748,Devon Meadows,20729,Deer Park,172.88,ok
+20750,Dewhurst,20729,Deer Park,,no_eligible_route
+20752,Diamond Creek,20729,Deer Park,127.02,ok
+20754,Diggers Rest,20729,Deer Park,59.78,ok
+20758,Dingley Village,20729,Deer Park,114.62,ok
+20762,Dixons Creek,20729,Deer Park,,no_eligible_route
+20766,Docklands,20729,Deer Park,68.62,ok
+20769,Don Valley,20729,Deer Park,,no_eligible_route
+20771,Doncaster,20729,Deer Park,100.67,ok
+20772,Doncaster East,20729,Deer Park,100.15,ok
+20773,Donnybrook (Vic.),20729,Deer Park,134.98,ok
+20774,Donvale,20729,Deer Park,123.3,ok
+20779,Doreen,20729,Deer Park,153.5,ok
+20783,Doveton,20729,Deer Park,120.02,ok
+20788,Dromana,20729,Deer Park,214.62,ok
+20825,Eaglemont,20729,Deer Park,89.07,ok
+20830,East Melbourne,20729,Deer Park,66.3,ok
+20833,East Warburton,20729,Deer Park,,no_eligible_route
+20843,Eden Park,20729,Deer Park,,no_eligible_route
+20848,Edithvale,20729,Deer Park,113.38,ok
+20864,Elsternwick,20729,Deer Park,88.02,ok
+20865,Eltham (Vic.),20729,Deer Park,123.15,ok
+20866,Eltham North,20729,Deer Park,116.13,ok
+20867,Elwood,20729,Deer Park,86.93,ok
+20868,Emerald (Vic.),20729,Deer Park,,no_eligible_route
+20871,Endeavour Hills,20729,Deer Park,129.35,ok
+20878,Epping (Vic.),20729,Deer Park,126.27,ok
+20885,Essendon,20729,Deer Park,60.98,ok
+20886,Essendon Fields,20729,Deer Park,82.23,ok
+20887,Essendon North,20729,Deer Park,63.23,ok
+20888,Essendon West,20729,Deer Park,49.15,ok
+20889,Eumemmerring,20729,Deer Park,122.4,ok
+20898,Exford,20729,Deer Park,,no_eligible_route
+20899,Eynesbury,20729,Deer Park,119.75,ok
+20901,Fairfield (Vic.),20729,Deer Park,74.13,ok
+20909,Fawkner,20729,Deer Park,100.53,ok
+20916,Fernshaw,20729,Deer Park,,no_eligible_route
+20917,Ferntree Gully,20729,Deer Park,119.02,ok
+20918,Ferny Creek,20729,Deer Park,159.55,ok
+20920,Fingal (Vic.),20729,Deer Park,,no_eligible_route
+20924,Fitzroy (Vic.),20729,Deer Park,64.85,ok
+20925,Fitzroy North,20729,Deer Park,73.65,ok
+20929,Flemington,20729,Deer Park,55.45,ok
+20930,Flinders (Vic.),20729,Deer Park,,no_eligible_route
+20935,Footscray,20729,Deer Park,45.0,ok
+20937,Forest Hill (Vic.),20729,Deer Park,108.83,ok
+20947,Frankston,20729,Deer Park,132.97,ok
+20948,Frankston North,20729,Deer Park,144.27,ok
+20949,Frankston South,20729,Deer Park,,no_eligible_route
+20950,Fraser Rise,20729,Deer Park,65.9,ok
+20965,Gardenvale,20729,Deer Park,90.77,ok
+20966,Garfield,20729,Deer Park,,no_eligible_route
+20967,Garfield North,20729,Deer Park,,no_eligible_route
+20979,Gembrook,20729,Deer Park,,no_eligible_route
+20995,Gilderoy,20729,Deer Park,,no_eligible_route
+21001,Gisborne,20729,Deer Park,,no_eligible_route
+21002,Gisborne South,20729,Deer Park,,no_eligible_route
+21004,Gladstone Park,20729,Deer Park,98.83,ok
+21005,Gladysdale,20729,Deer Park,,no_eligible_route
+21009,Glen Huntly,20729,Deer Park,79.5,ok
+21010,Glen Iris (Vic.),20729,Deer Park,95.03,ok
+21013,Glen Waverley,20729,Deer Park,101.95,ok
+21047,Glenroy (Vic.),20729,Deer Park,87.38,ok
+21059,Goldie,20729,Deer Park,,no_eligible_route
+21079,Gowanbrae,20729,Deer Park,92.83,ok
+21087,Grangefields,20729,Deer Park,83.75,ok
+21104,Greensborough,20729,Deer Park,107.55,ok
+21105,Greenvale (Vic.),20729,Deer Park,119.07,ok
+21115,Gruyere,20729,Deer Park,,no_eligible_route
+21121,Guys Hill,20729,Deer Park,,no_eligible_route
+21124,Hadfield,20729,Deer Park,79.67,ok
+21125,Hallam,20729,Deer Park,119.55,ok
+21131,Hampton (Vic.),20729,Deer Park,102.17,ok
+21132,Hampton East,20729,Deer Park,94.73,ok
+21133,Hampton Park,20729,Deer Park,120.97,ok
+21139,Harkaway,20729,Deer Park,,no_eligible_route
+21140,Harkness,20729,Deer Park,107.37,ok
+21145,Hastings (Vic.),20729,Deer Park,,no_eligible_route
+21152,Hawthorn (Vic.),20729,Deer Park,79.33,ok
+21153,Hawthorn East,20729,Deer Park,88.45,ok
+21158,Healesville,20729,Deer Park,201.3,ok
+21159,Heath Hill,20729,Deer Park,,no_eligible_route
+21161,Heathcote Junction,20729,Deer Park,,no_eligible_route
+21163,Heatherton,20729,Deer Park,105.12,ok
+21165,Heathmont,20729,Deer Park,105.45,ok
+21167,Heidelberg,20729,Deer Park,95.1,ok
+21168,Heidelberg Heights,20729,Deer Park,103.37,ok
+21169,Heidelberg West,20729,Deer Park,100.22,ok
+21176,Hesket,20729,Deer Park,,no_eligible_route
+21185,Highett,20729,Deer Park,87.5,ok
+21193,Hillside (Melton - Vic.),20729,Deer Park,48.03,ok
+21195,Hmas Cerberus,20729,Deer Park,,no_eligible_route
+21196,Hoddles Creek,20729,Deer Park,,no_eligible_route
+21202,Hopetoun Park,20729,Deer Park,,no_eligible_route
+21203,Hoppers Crossing,20729,Deer Park,92.62,ok
+21214,Hughesdale,20729,Deer Park,80.58,ok
+21215,Humevale,20729,Deer Park,,no_eligible_route
+21218,Huntingdale (Vic.),20729,Deer Park,86.02,ok
+21223,Hurstbridge,20729,Deer Park,127.57,ok
+21238,Iona,20729,Deer Park,,no_eligible_route
+21246,Ivanhoe (Vic.),20729,Deer Park,85.15,ok
+21247,Ivanhoe East,20729,Deer Park,83.72,ok
+21248,Jacana,20729,Deer Park,91.95,ok
+21277,Junction Village,20729,Deer Park,159.02,ok
+21284,Kalkallo,20729,Deer Park,130.98,ok
+21286,Kallista,20729,Deer Park,162.98,ok
+21287,Kalorama,20729,Deer Park,137.25,ok
+21294,Kangaroo Ground,20729,Deer Park,154.8,ok
+21312,Kealba,20729,Deer Park,48.05,ok
+21314,Keilor,20729,Deer Park,74.88,ok
+21315,Keilor Downs,20729,Deer Park,55.72,ok
+21316,Keilor East,20729,Deer Park,48.85,ok
+21317,Keilor Lodge,20729,Deer Park,56.57,ok
+21318,Keilor North,20729,Deer Park,66.72,ok
+21319,Keilor Park,20729,Deer Park,66.98,ok
+21327,Kensington (Vic.),20729,Deer Park,54.9,ok
+21333,Kerrie,20729,Deer Park,,no_eligible_route
+21336,Kew (Vic.),20729,Deer Park,87.45,ok
+21337,Kew East,20729,Deer Park,91.5,ok
+21339,Keysborough,20729,Deer Park,116.77,ok
+21354,Kilsyth,20729,Deer Park,125.85,ok
+21355,Kilsyth South,20729,Deer Park,141.72,ok
+21358,Kinglake,20729,Deer Park,,no_eligible_route
+21359,Kinglake Central,20729,Deer Park,,no_eligible_route
+21360,Kinglake West,20729,Deer Park,,no_eligible_route
+21362,Kings Park (Vic.),20729,Deer Park,40.23,ok
+21363,Kingsbury,20729,Deer Park,114.65,ok
+21365,Kingsville,20729,Deer Park,48.12,ok
+21374,Knoxfield,20729,Deer Park,115.92,ok
+21380,Koo Wee Rup,20729,Deer Park,,no_eligible_route
+21381,Koo Wee Rup North,20729,Deer Park,,no_eligible_route
+21393,Kooyong,20729,Deer Park,75.72,ok
+21411,Kurunjang,20729,Deer Park,86.68,ok
+21452,Lalor,20729,Deer Park,102.98,ok
+21456,Lancefield,20729,Deer Park,,no_eligible_route
+21459,Lang Lang,20729,Deer Park,,no_eligible_route
+21460,Lang Lang East,20729,Deer Park,,no_eligible_route
+21467,Langwarrin,20729,Deer Park,150.32,ok
+21468,Langwarrin South,20729,Deer Park,,no_eligible_route
+21473,Launching Place,20729,Deer Park,,no_eligible_route
+21476,Laverton (Vic.),20729,Deer Park,73.38,ok
+21477,Laverton North,20729,Deer Park,63.05,ok
+21504,Lilydale (Vic.),20729,Deer Park,139.43,ok
+21533,Long Forest,20729,Deer Park,,no_eligible_route
+21547,Lower Plenty,20729,Deer Park,138.83,ok
+21554,Lynbrook,20729,Deer Park,113.8,ok
+21555,Lyndhurst (Vic.),20729,Deer Park,158.38,ok
+21558,Lysterfield,20729,Deer Park,,no_eligible_route
+21559,Lysterfield South,20729,Deer Park,170.52,ok
+21561,Macclesfield (Vic.),20729,Deer Park,,no_eligible_route
+21562,Macedon,20729,Deer Park,,no_eligible_route
+21564,Macleod (Vic.),20729,Deer Park,100.65,ok
+21569,Maddingley,20729,Deer Park,,no_eligible_route
+21575,Maidstone,20729,Deer Park,28.52,ok
+21578,Main Ridge,20729,Deer Park,,no_eligible_route
+21586,Malvern (Vic.),20729,Deer Park,76.93,ok
+21587,Malvern East,20729,Deer Park,83.83,ok
+21588,Mambourin,20729,Deer Park,,no_eligible_route
+21597,Manor Lakes,20729,Deer Park,128.85,ok
+21604,Maribyrnong,20729,Deer Park,36.53,ok
+21619,Maryknoll,20729,Deer Park,,no_eligible_route
+21625,McCrae,20729,Deer Park,198.03,ok
+21629,McKinnon,20729,Deer Park,76.8,ok
+21635,Meadow Heights,20729,Deer Park,104.83,ok
+21640,Melbourne,20729,Deer Park,59.4,ok
+21641,Melbourne Airport,20729,Deer Park,216.77,walk_only
+21642,Melton (Vic.),20729,Deer Park,86.87,ok
+21643,Melton South,20729,Deer Park,75.23,ok
+21644,Melton West,20729,Deer Park,81.87,ok
+21648,Mentone,20729,Deer Park,97.48,ok
+21649,Menzies Creek,20729,Deer Park,,no_eligible_route
+21659,Mernda,20729,Deer Park,141.47,ok
+21662,Merricks,20729,Deer Park,,no_eligible_route
+21663,Merricks Beach,20729,Deer Park,,no_eligible_route
+21664,Merricks North,20729,Deer Park,,no_eligible_route
+21668,Merrimu,20729,Deer Park,,no_eligible_route
+21675,Mickleham,20729,Deer Park,139.97,ok
+21677,Middle Park (Vic.),20729,Deer Park,81.73,ok
+21683,Mill Park,20729,Deer Park,130.2,ok
+21685,Millgrove,20729,Deer Park,,no_eligible_route
+21706,Mitcham (Vic.),20729,Deer Park,104.18,ok
+21727,Monbulk,20729,Deer Park,172.43,ok
+21728,Monegeetta,20729,Deer Park,,no_eligible_route
+21731,Monomeith,20729,Deer Park,,no_eligible_route
+21732,Mont Albert,20729,Deer Park,90.35,ok
+21733,Mont Albert North,20729,Deer Park,105.13,ok
+21735,Montmorency,20729,Deer Park,109.22,ok
+21736,Montrose (Vic.),20729,Deer Park,129.55,ok
+21742,Moonee Ponds,20729,Deer Park,51.72,ok
+21746,Moorabbin,20729,Deer Park,99.75,ok
+21747,Moorabbin Airport,20729,Deer Park,116.98,ok
+21754,Moorooduc,20729,Deer Park,,no_eligible_route
+21755,Mooroolbark,20729,Deer Park,119.48,ok
+21760,Mordialloc,20729,Deer Park,112.78,ok
+21763,Mornington (Vic.),20729,Deer Park,169.83,ok
+21779,Mount Burnett,20729,Deer Park,,no_eligible_route
+21786,Mount Cottrell,20729,Deer Park,235.65,walk_only
+21787,Mount Dandenong,20729,Deer Park,141.25,ok
+21793,Mount Eliza,20729,Deer Park,147.02,ok
+21795,Mount Evelyn,20729,Deer Park,145.42,ok
+21801,Mount Macedon,20729,Deer Park,,no_eligible_route
+21803,Mount Martha,20729,Deer Park,166.55,ok
+21814,Mount Toolebewong,20729,Deer Park,,no_eligible_route
+21816,Mount Waverley,20729,Deer Park,93.38,ok
+21827,Mulgrave (Vic.),20729,Deer Park,110.12,ok
+21849,Murrumbeena,20729,Deer Park,80.7,ok
+21872,Nangana,20729,Deer Park,,no_eligible_route
+21878,Nar Nar Goon,20729,Deer Park,,no_eligible_route
+21879,Nar Nar Goon North,20729,Deer Park,,no_eligible_route
+21893,Narre Warren,20729,Deer Park,119.98,ok
+21894,Narre Warren East,20729,Deer Park,,no_eligible_route
+21895,Narre Warren North,20729,Deer Park,131.8,ok
+21896,Narre Warren South,20729,Deer Park,122.35,ok
+21921,New Gisborne,20729,Deer Park,,no_eligible_route
+21934,Newport (Vic.),20729,Deer Park,56.38,ok
+21942,Niddrie,20729,Deer Park,72.02,ok
+21952,Noble Park,20729,Deer Park,92.8,ok
+21953,Noble Park North,20729,Deer Park,122.78,ok
+21966,North Melbourne,20729,Deer Park,51.93,ok
+21969,North Warrandyte,20729,Deer Park,134.78,ok
+21971,Northcote,20729,Deer Park,83.72,ok
+21974,Notting Hill,20729,Deer Park,101.43,ok
+21985,Nunawading,20729,Deer Park,96.67,ok
+21991,Nutfield,20729,Deer Park,,no_eligible_route
+21998,Oak Park,20729,Deer Park,79.62,ok
+21999,Oaklands Junction,20729,Deer Park,,no_eligible_route
+22000,Oakleigh,20729,Deer Park,81.77,ok
+22001,Oakleigh East,20729,Deer Park,91.58,ok
+22002,Oakleigh South,20729,Deer Park,93.4,ok
+22006,Officer,20729,Deer Park,134.08,ok
+22007,Officer South,20729,Deer Park,168.65,ok
+22009,Olinda (Vic.),20729,Deer Park,162.87,ok
+22016,Ormond,20729,Deer Park,77.23,ok
+22027,Pakenham,20729,Deer Park,133.13,ok
+22028,Pakenham South,20729,Deer Park,,no_eligible_route
+22029,Pakenham Upper,20729,Deer Park,,no_eligible_route
+22032,Panton Hill,20729,Deer Park,,no_eligible_route
+22036,Park Orchards,20729,Deer Park,125.27,ok
+22037,Parkdale,20729,Deer Park,102.57,ok
+22038,Parkville (Vic.),20729,Deer Park,65.52,ok
+22041,Pascoe Vale,20729,Deer Park,82.48,ok
+22042,Pascoe Vale South,20729,Deer Park,76.25,ok
+22047,Patterson Lakes,20729,Deer Park,133.33,ok
+22050,Pearcedale,20729,Deer Park,175.95,ok
+22058,Pentland Hills,20729,Deer Park,,no_eligible_route
+22064,Pheasant Creek (Vic.),20729,Deer Park,,no_eligible_route
+22084,Plenty (Vic.),20729,Deer Park,133.15,ok
+22085,Plumpton (Vic.),20729,Deer Park,,no_eligible_route
+22086,Point Cook,20729,Deer Park,91.62,ok
+22087,Point Leo,20729,Deer Park,,no_eligible_route
+22107,Port Melbourne,20729,Deer Park,76.23,ok
+22113,Portsea,20729,Deer Park,,no_eligible_route
+22115,Powelltown,20729,Deer Park,,no_eligible_route
+22118,Prahran,20729,Deer Park,73.3,ok
+22121,Preston (Vic.),20729,Deer Park,85.65,ok
+22122,Princes Hill,20729,Deer Park,66.67,ok
+22132,Quandong,20729,Deer Park,,no_eligible_route
+22141,Ravenhall,20729,Deer Park,42.55,ok
+22148,Red Hill (Vic.),20729,Deer Park,,no_eligible_route
+22149,Red Hill South,20729,Deer Park,,no_eligible_route
+22160,Research,20729,Deer Park,128.65,ok
+22161,Reservoir (Vic.),20729,Deer Park,99.8,ok
+22170,Richmond (Vic.),20729,Deer Park,74.25,ok
+22172,Riddells Creek,20729,Deer Park,,no_eligible_route
+22174,Ringwood (Vic.),20729,Deer Park,110.82,ok
+22175,Ringwood East,20729,Deer Park,110.37,ok
+22176,Ringwood North,20729,Deer Park,120.0,ok
+22179,Ripponlea,20729,Deer Park,80.2,ok
+22185,Rochford,20729,Deer Park,,no_eligible_route
+22186,Rockbank,20729,Deer Park,48.13,ok
+22193,Romsey,20729,Deer Park,,no_eligible_route
+22194,Rosanna,20729,Deer Park,95.12,ok
+22198,Rosebud,20729,Deer Park,215.35,ok
+22207,Rowville,20729,Deer Park,123.4,ok
+22208,Roxburgh Park,20729,Deer Park,106.63,ok
+22220,Rye,20729,Deer Park,227.55,ok
+22221,Rythdale,20729,Deer Park,,no_eligible_route
+22222,Safety Beach (Vic.),20729,Deer Park,182.52,ok
+22232,Sandhurst,20729,Deer Park,157.17,ok
+22234,Sandringham (Vic.),20729,Deer Park,107.05,ok
+22239,Sassafras (Vic.),20729,Deer Park,144.32,ok
+22242,Scoresby,20729,Deer Park,116.57,ok
+22247,Seabrook,20729,Deer Park,81.68,ok
+22249,Seaford (Vic.),20729,Deer Park,128.1,ok
+22250,Seaholme,20729,Deer Park,54.08,ok
+22256,Seddon (Vic.),20729,Deer Park,42.82,ok
+22258,Selby,20729,Deer Park,160.87,ok
+22263,Seville,20729,Deer Park,,no_eligible_route
+22264,Seville East,20729,Deer Park,,no_eligible_route
+22278,Sherbrooke,20729,Deer Park,153.05,ok
+22279,Shoreham,20729,Deer Park,,no_eligible_route
+22281,Silvan,20729,Deer Park,164.53,ok
+22291,Skye (Vic.),20729,Deer Park,151.1,ok
+22295,Smiths Gully,20729,Deer Park,,no_eligible_route
+22303,Somers,20729,Deer Park,,no_eligible_route
+22304,Somerton (Vic.),20729,Deer Park,111.6,ok
+22305,Somerville (Vic.),20729,Deer Park,,no_eligible_route
+22306,Sorrento (Vic.),20729,Deer Park,218.32,ok
+22309,South Kingsville,20729,Deer Park,65.53,ok
+22310,South Melbourne,20729,Deer Park,71.7,ok
+22311,South Morang,20729,Deer Park,129.67,ok
+22313,South Wharf,20729,Deer Park,71.6,ok
+22314,South Yarra,20729,Deer Park,65.87,ok
+22315,Southbank,20729,Deer Park,67.27,ok
+22319,Spotswood,20729,Deer Park,56.63,ok
+22325,Springfield (Macedon Ranges - Vic.),20729,Deer Park,,no_eligible_route
+22328,Springvale (Vic.),20729,Deer Park,93.77,ok
+22329,Springvale South,20729,Deer Park,94.5,ok
+22330,St Albans (Vic.),20729,Deer Park,34.32,ok
+22332,St Andrews (Vic.),20729,Deer Park,,no_eligible_route
+22333,St Andrews Beach,20729,Deer Park,,no_eligible_route
+22339,St Helena,20729,Deer Park,125.65,ok
+22343,St Kilda (Vic.),20729,Deer Park,76.95,ok
+22344,St Kilda East,20729,Deer Park,80.63,ok
+22345,St Kilda West,20729,Deer Park,79.58,ok
+22355,Steels Creek,20729,Deer Park,,no_eligible_route
+22375,Strathewen,20729,Deer Park,,no_eligible_route
+22380,Strathmore (Vic.),20729,Deer Park,81.82,ok
+22381,Strathmore Heights,20729,Deer Park,83.25,ok
+22382,Strathtulloh,20729,Deer Park,119.88,ok
+22391,Sunbury,20729,Deer Park,,no_eligible_route
+22395,Sunshine (Vic.),20729,Deer Park,23.83,ok
+22396,Sunshine North,20729,Deer Park,41.17,ok
+22397,Sunshine West,20729,Deer Park,39.45,ok
+22399,Surrey Hills,20729,Deer Park,90.77,ok
+22414,Sydenham (Vic.),20729,Deer Park,48.72,ok
+22451,Tarneit,20729,Deer Park,107.68,ok
+22457,Tarrawarra,20729,Deer Park,176.9,ok
+22473,Taylors Hill,20729,Deer Park,38.77,ok
+22474,Taylors Lakes,20729,Deer Park,49.18,ok
+22476,Tecoma,20729,Deer Park,127.27,ok
+22483,Templestowe,20729,Deer Park,103.55,ok
+22484,Templestowe Lower,20729,Deer Park,103.52,ok
+22496,The Basin (Vic.),20729,Deer Park,133.45,ok
+22501,The Patch,20729,Deer Park,161.0,ok
+22504,Thomastown,20729,Deer Park,108.28,ok
+22508,Thornbury,20729,Deer Park,89.88,ok
+22509,Thornhill Park,20729,Deer Park,138.97,ok
+22514,Three Bridges,20729,Deer Park,,no_eligible_route
+22531,Tonimbuk,20729,Deer Park,,no_eligible_route
+22536,Toolangi,20729,Deer Park,,no_eligible_route
+22537,Toolern Vale,20729,Deer Park,,no_eligible_route
+22546,Tooradin,20729,Deer Park,,no_eligible_route
+22547,Toorak,20729,Deer Park,78.35,ok
+22550,Tootgarook,20729,Deer Park,210.97,ok
+22556,Tottenham (Vic.),20729,Deer Park,53.15,ok
+22572,Travancore,20729,Deer Park,63.77,ok
+22576,Tremont,20729,Deer Park,138.45,ok
+22582,Truganina,20729,Deer Park,120.77,walk_only
+22584,Tuerong,20729,Deer Park,,no_eligible_route
+22586,Tullamarine,20729,Deer Park,93.02,ok
+22594,Tyabb,20729,Deer Park,,no_eligible_route
+22598,Tynong,20729,Deer Park,,no_eligible_route
+22599,Tynong North,20729,Deer Park,,no_eligible_route
+22614,Upper Ferntree Gully,20729,Deer Park,122.42,ok
+22617,Upper Plenty,20729,Deer Park,,no_eligible_route
+22620,Upwey,20729,Deer Park,127.13,ok
+22627,Vermont,20729,Deer Park,116.73,ok
+22628,Vermont South,20729,Deer Park,116.12,ok
+22629,Vervale,20729,Deer Park,,no_eligible_route
+22633,Viewbank,20729,Deer Park,110.12,ok
+22661,Wallan,20729,Deer Park,,no_eligible_route
+22672,Wandin East,20729,Deer Park,,no_eligible_route
+22673,Wandin North,20729,Deer Park,,no_eligible_route
+22676,Wandong,20729,Deer Park,,no_eligible_route
+22685,Wantirna,20729,Deer Park,127.82,ok
+22686,Wantirna South,20729,Deer Park,124.87,ok
+22689,Warburton (Vic.),20729,Deer Park,,no_eligible_route
+22695,Warneet,20729,Deer Park,,no_eligible_route
+22702,Warrandyte,20729,Deer Park,116.33,ok
+22703,Warrandyte South,20729,Deer Park,149.3,ok
+22704,Warranwood,20729,Deer Park,126.97,ok
+22717,Waterford Park,20729,Deer Park,,no_eligible_route
+22720,Waterways,20729,Deer Park,120.93,ok
+22721,Watsonia,20729,Deer Park,95.57,ok
+22722,Watsonia North,20729,Deer Park,116.02,ok
+22723,Watsons Creek (Vic.),20729,Deer Park,,no_eligible_route
+22727,Wattle Glen,20729,Deer Park,131.32,ok
+22740,Weir Views,20729,Deer Park,109.32,ok
+22750,Werribee,20729,Deer Park,86.42,ok
+22751,Werribee South,20729,Deer Park,124.43,ok
+22753,Wesburn,20729,Deer Park,,no_eligible_route
+22756,West Footscray,20729,Deer Park,41.27,ok
+22757,West Melbourne,20729,Deer Park,68.65,ok
+22761,Westmeadows,20729,Deer Park,93.42,ok
+22766,Wheelers Hill,20729,Deer Park,104.0,ok
+22775,Whittlesea,20729,Deer Park,,no_eligible_route
+22784,Wildwood,20729,Deer Park,,no_eligible_route
+22791,Williams Landing,20729,Deer Park,87.63,ok
+22792,Williamstown (Vic.),20729,Deer Park,65.45,ok
+22793,Williamstown North,20729,Deer Park,74.58,ok
+22805,Windsor (Vic.),20729,Deer Park,75.27,ok
+22820,Wollert,20729,Deer Park,124.5,ok
+22825,Wonga Park,20729,Deer Park,170.65,ok
+22843,Woodstock (Vic.),20729,Deer Park,,no_eligible_route
+22857,Woori Yallock,20729,Deer Park,,no_eligible_route
+22883,Wyndham Vale,20729,Deer Park,117.23,ok
+22892,Yallambie,20729,Deer Park,122.85,ok
+22898,Yan Yean,20729,Deer Park,158.23,ok
+22906,Yannathan,20729,Deer Park,,no_eligible_route
+22910,Yarra Glen,20729,Deer Park,174.2,ok
+22911,Yarra Junction,20729,Deer Park,,no_eligible_route
+22916,Yarrambat,20729,Deer Park,132.72,ok
+22917,Yarraville,20729,Deer Park,53.95,ok
+22925,Yellingbo,20729,Deer Park,,no_eligible_route
+22930,Yering,20729,Deer Park,,no_eligible_route
+22941,Yuroke,20729,Deer Park,154.6,ok

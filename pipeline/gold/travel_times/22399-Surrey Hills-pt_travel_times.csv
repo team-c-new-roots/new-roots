@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22399,Surrey Hills,50.12,ok
+20003,Aberfeldie,22399,Surrey Hills,76.35,ok
+20011,Aintree,22399,Surrey Hills,121.08,ok
+20015,Airport West,22399,Surrey Hills,98.78,ok
+20017,Albanvale,22399,Surrey Hills,101.55,ok
+20018,Albert Park (Vic.),22399,Surrey Hills,64.82,ok
+20021,Albion (Vic.),22399,Surrey Hills,81.95,ok
+20034,Alphington,22399,Surrey Hills,64.97,ok
+20035,Altona (Vic.),22399,Surrey Hills,92.05,ok
+20036,Altona Meadows,22399,Surrey Hills,92.2,ok
+20037,Altona North,22399,Surrey Hills,93.45,ok
+20062,Ardeer,22399,Surrey Hills,91.1,ok
+20066,Armadale (Vic.),22399,Surrey Hills,51.2,ok
+20071,Arthurs Creek,22399,Surrey Hills,,no_eligible_route
+20072,Arthurs Seat,22399,Surrey Hills,196.72,ok
+20075,Ascot Vale,22399,Surrey Hills,69.88,ok
+20077,Ashburton,22399,Surrey Hills,36.03,ok
+20078,Ashwood,22399,Surrey Hills,35.58,ok
+20079,Aspendale,22399,Surrey Hills,86.45,ok
+20080,Aspendale Gardens,22399,Surrey Hills,109.47,ok
+20082,Attwood,22399,Surrey Hills,105.17,ok
+20089,Avondale Heights,22399,Surrey Hills,92.48,ok
+20091,Avonsleigh,22399,Surrey Hills,116.43,ok
+20095,Bacchus Marsh,22399,Surrey Hills,,no_eligible_route
+20097,Badger Creek,22399,Surrey Hills,118.7,ok
+20105,Balaclava (Vic.),22399,Surrey Hills,53.83,ok
+20120,Balnarring,22399,Surrey Hills,,no_eligible_route
+20121,Balnarring Beach,22399,Surrey Hills,,no_eligible_route
+20123,Balwyn,22399,Surrey Hills,21.82,ok
+20124,Balwyn North,22399,Surrey Hills,31.38,ok
+20131,Bangholme,22399,Surrey Hills,143.42,ok
+20169,Baxter,22399,Surrey Hills,123.52,ok
+20171,Bayles,22399,Surrey Hills,,no_eligible_route
+20173,Bayswater (Vic.),22399,Surrey Hills,47.5,ok
+20174,Bayswater North,22399,Surrey Hills,59.62,ok
+20175,Beaconsfield (Vic.),22399,Surrey Hills,116.17,ok
+20176,Beaconsfield Upper,22399,Surrey Hills,,no_eligible_route
+20182,Beaumaris (Vic.),22399,Surrey Hills,90.33,ok
+20187,Beenak,22399,Surrey Hills,,no_eligible_route
+20188,Belgrave,22399,Surrey Hills,60.58,ok
+20189,Belgrave Heights,22399,Surrey Hills,83.25,ok
+20190,Belgrave South,22399,Surrey Hills,84.23,ok
+20198,Bellfield (Banyule - Vic.),22399,Surrey Hills,75.07,ok
+20207,Bend Of Islands,22399,Surrey Hills,,no_eligible_route
+20212,Benloch,22399,Surrey Hills,,no_eligible_route
+20214,Bentleigh,22399,Surrey Hills,70.6,ok
+20215,Bentleigh East,22399,Surrey Hills,57.65,ok
+20224,Berwick,22399,Surrey Hills,88.97,ok
+20233,Beveridge,22399,Surrey Hills,131.72,ok
+20237,Big Pats Creek,22399,Surrey Hills,,no_eligible_route
+20248,Bittern,22399,Surrey Hills,150.78,ok
+20251,Black Rock (Vic.),22399,Surrey Hills,86.65,ok
+20252,Blackburn,22399,Surrey Hills,23.83,ok
+20253,Blackburn North,22399,Surrey Hills,37.88,ok
+20254,Blackburn South,22399,Surrey Hills,39.17,ok
+20257,Blairgowrie,22399,Surrey Hills,188.75,ok
+20260,Blind Bight,22399,Surrey Hills,,no_eligible_route
+20272,Bolinda,22399,Surrey Hills,,no_eligible_route
+20278,Bonbeach,22399,Surrey Hills,91.45,ok
+20280,Boneo,22399,Surrey Hills,,no_eligible_route
+20282,Bonnie Brook,22399,Surrey Hills,162.63,ok
+20304,Boronia,22399,Surrey Hills,49.97,ok
+20307,Botanic Ridge,22399,Surrey Hills,144.83,ok
+20314,Box Hill (Vic.),22399,Surrey Hills,20.38,ok
+20315,Box Hill North,22399,Surrey Hills,25.48,ok
+20316,Box Hill South,22399,Surrey Hills,25.97,ok
+20320,Braeside,22399,Surrey Hills,115.53,ok
+20324,Braybrook,22399,Surrey Hills,83.73,ok
+20331,Briar Hill,22399,Surrey Hills,73.12,ok
+20337,Brighton (Vic.),22399,Surrey Hills,66.6,ok
+20338,Brighton East,22399,Surrey Hills,72.28,ok
+20346,Broadmeadows (Vic.),22399,Surrey Hills,94.8,ok
+20351,Brookfield (Vic.),22399,Surrey Hills,175.13,ok
+20352,Brooklyn (Vic.),22399,Surrey Hills,88.48,ok
+20361,Brunswick (Vic.),22399,Surrey Hills,66.7,ok
+20362,Brunswick East,22399,Surrey Hills,71.57,ok
+20363,Brunswick West,22399,Surrey Hills,75.08,ok
+20381,Bulla (Vic.),22399,Surrey Hills,159.32,ok
+20386,Bulleen,22399,Surrey Hills,55.63,ok
+20387,Bullengarook,22399,Surrey Hills,,no_eligible_route
+20399,Bundoora (Vic.),22399,Surrey Hills,80.98,ok
+20411,Bunyip,22399,Surrey Hills,,no_eligible_route
+20412,Bunyip North,22399,Surrey Hills,,no_eligible_route
+20418,Burnley,22399,Surrey Hills,43.4,ok
+20419,Burnside (Vic.),22399,Surrey Hills,102.98,ok
+20420,Burnside Heights,22399,Surrey Hills,111.98,ok
+20426,Burwood (Vic.),22399,Surrey Hills,23.87,ok
+20427,Burwood East,22399,Surrey Hills,32.47,ok
+20435,Bylands,22399,Surrey Hills,,no_eligible_route
+20441,Cairnlea,22399,Surrey Hills,93.17,ok
+20442,Calder Park,22399,Surrey Hills,124.73,ok
+20443,Caldermeade,22399,Surrey Hills,,no_eligible_route
+20453,Camberwell (Vic.),22399,Surrey Hills,20.9,ok
+20455,Campbellfield,22399,Surrey Hills,102.72,ok
+20466,Cannons Creek,22399,Surrey Hills,,no_eligible_route
+20468,Canterbury (Vic.),22399,Surrey Hills,23.83,ok
+20474,Cape Schanck,22399,Surrey Hills,,no_eligible_route
+20476,Capel Sound,22399,Surrey Hills,173.1,ok
+20487,Cardinia,22399,Surrey Hills,,no_eligible_route
+20495,Carlton (Vic.),22399,Surrey Hills,57.65,ok
+20496,Carlton North,22399,Surrey Hills,68.88,ok
+20498,Carnegie,22399,Surrey Hills,58.38,ok
+20500,Caroline Springs,22399,Surrey Hills,106.87,ok
+20507,Carrum,22399,Surrey Hills,91.27,ok
+20508,Carrum Downs,22399,Surrey Hills,107.77,ok
+20512,Castella,22399,Surrey Hills,,no_eligible_route
+20517,Catani,22399,Surrey Hills,,no_eligible_route
+20521,Caulfield,22399,Surrey Hills,66.03,ok
+20522,Caulfield East,22399,Surrey Hills,59.05,ok
+20523,Caulfield North,22399,Surrey Hills,56.82,ok
+20524,Caulfield South,22399,Surrey Hills,73.47,ok
+20528,Chadstone,22399,Surrey Hills,38.55,ok
+20537,Chelsea,22399,Surrey Hills,88.52,ok
+20538,Chelsea Heights,22399,Surrey Hills,109.47,ok
+20539,Cheltenham (Vic.),22399,Surrey Hills,73.65,ok
+20541,Cherokee,22399,Surrey Hills,,no_eligible_route
+20555,Chintin,22399,Surrey Hills,,no_eligible_route
+20556,Chirnside Park,22399,Surrey Hills,71.87,ok
+20559,Christmas Hills (Vic.),22399,Surrey Hills,,no_eligible_route
+20560,Chum Creek,22399,Surrey Hills,,no_eligible_route
+20566,Clarinda,22399,Surrey Hills,74.63,ok
+20567,Clarkefield,22399,Surrey Hills,,no_eligible_route
+20569,Clayton,22399,Surrey Hills,61.18,ok
+20570,Clayton South,22399,Surrey Hills,83.32,ok
+20572,Clematis,22399,Surrey Hills,87.85,ok
+20574,Clifton Hill,22399,Surrey Hills,54.97,ok
+20576,Clonbinane,22399,Surrey Hills,,no_eligible_route
+20581,Clyde (Vic.),22399,Surrey Hills,150.67,ok
+20582,Clyde North,22399,Surrey Hills,116.43,ok
+20587,Cobaw,22399,Surrey Hills,,no_eligible_route
+20590,Cobblebank,22399,Surrey Hills,159.78,ok
+20596,Coburg,22399,Surrey Hills,74.43,ok
+20597,Coburg North,22399,Surrey Hills,85.0,ok
+20600,Cockatoo (Vic.),22399,Surrey Hills,120.12,ok
+20601,Cocoroc,22399,Surrey Hills,,no_eligible_route
+20605,Coimadai,22399,Surrey Hills,,no_eligible_route
+20613,Coldstream (Vic.),22399,Surrey Hills,,no_eligible_route
+20616,Collingwood (Vic.),22399,Surrey Hills,50.33,ok
+20624,Coolaroo,22399,Surrey Hills,94.4,ok
+20633,Cora Lynn,22399,Surrey Hills,,no_eligible_route
+20654,Cottles Bridge,22399,Surrey Hills,,no_eligible_route
+20661,Craigieburn,22399,Surrey Hills,111.23,ok
+20662,Cranbourne,22399,Surrey Hills,109.62,ok
+20663,Cranbourne East,22399,Surrey Hills,110.72,ok
+20664,Cranbourne North,22399,Surrey Hills,106.82,ok
+20665,Cranbourne South,22399,Surrey Hills,148.18,ok
+20666,Cranbourne West,22399,Surrey Hills,104.53,ok
+20670,Cremorne (Vic.),22399,Surrey Hills,39.92,ok
+20674,Crib Point,22399,Surrey Hills,159.75,ok
+20682,Croydon (Vic.),22399,Surrey Hills,40.6,ok
+20683,Croydon Hills,22399,Surrey Hills,61.92,ok
+20684,Croydon North,22399,Surrey Hills,57.35,ok
+20685,Croydon South,22399,Surrey Hills,64.52,ok
+20702,Dallas,22399,Surrey Hills,96.1,ok
+20703,Dalmore,22399,Surrey Hills,,no_eligible_route
+20707,Dandenong,22399,Surrey Hills,76.6,ok
+20708,Dandenong North,22399,Surrey Hills,92.07,ok
+20709,Dandenong South,22399,Surrey Hills,100.93,ok
+20712,Darley,22399,Surrey Hills,,no_eligible_route
+20716,Darraweit Guim,22399,Surrey Hills,,no_eligible_route
+20724,Deanside,22399,Surrey Hills,127.23,ok
+20728,Deepdene (Vic.),22399,Surrey Hills,20.67,ok
+20729,Deer Park,22399,Surrey Hills,88.93,ok
+20731,Delahey,22399,Surrey Hills,101.6,ok
+20743,Derrimut,22399,Surrey Hills,117.5,ok
+20748,Devon Meadows,22399,Surrey Hills,,no_eligible_route
+20750,Dewhurst,22399,Surrey Hills,,no_eligible_route
+20752,Diamond Creek,22399,Surrey Hills,83.12,ok
+20754,Diggers Rest,22399,Surrey Hills,117.05,ok
+20758,Dingley Village,22399,Surrey Hills,89.88,ok
+20762,Dixons Creek,22399,Surrey Hills,,no_eligible_route
+20766,Docklands,22399,Surrey Hills,54.98,ok
+20769,Don Valley,22399,Surrey Hills,,no_eligible_route
+20771,Doncaster,22399,Surrey Hills,32.43,ok
+20772,Doncaster East,22399,Surrey Hills,46.47,ok
+20773,Donnybrook (Vic.),22399,Surrey Hills,127.25,ok
+20774,Donvale,22399,Surrey Hills,53.2,ok
+20779,Doreen,22399,Surrey Hills,126.77,ok
+20783,Doveton,22399,Surrey Hills,93.4,ok
+20788,Dromana,22399,Surrey Hills,183.88,ok
+20825,Eaglemont,22399,Surrey Hills,62.4,ok
+20830,East Melbourne,22399,Surrey Hills,47.57,ok
+20833,East Warburton,22399,Surrey Hills,,no_eligible_route
+20843,Eden Park,22399,Surrey Hills,,no_eligible_route
+20848,Edithvale,22399,Surrey Hills,88.65,ok
+20864,Elsternwick,22399,Surrey Hills,61.75,ok
+20865,Eltham (Vic.),22399,Surrey Hills,73.35,ok
+20866,Eltham North,22399,Surrey Hills,82.23,ok
+20867,Elwood,22399,Surrey Hills,67.93,ok
+20868,Emerald (Vic.),22399,Surrey Hills,115.03,ok
+20871,Endeavour Hills,22399,Surrey Hills,100.88,ok
+20878,Epping (Vic.),22399,Surrey Hills,115.18,ok
+20885,Essendon,22399,Surrey Hills,77.1,ok
+20886,Essendon Fields,22399,Surrey Hills,98.02,ok
+20887,Essendon North,22399,Surrey Hills,82.12,ok
+20888,Essendon West,22399,Surrey Hills,76.97,ok
+20889,Eumemmerring,22399,Surrey Hills,99.93,ok
+20898,Exford,22399,Surrey Hills,,no_eligible_route
+20899,Eynesbury,22399,Surrey Hills,,no_eligible_route
+20901,Fairfield (Vic.),22399,Surrey Hills,71.28,ok
+20909,Fawkner,22399,Surrey Hills,95.17,ok
+20916,Fernshaw,22399,Surrey Hills,,no_eligible_route
+20917,Ferntree Gully,22399,Surrey Hills,61.2,ok
+20918,Ferny Creek,22399,Surrey Hills,95.87,ok
+20920,Fingal (Vic.),22399,Surrey Hills,,no_eligible_route
+20924,Fitzroy (Vic.),22399,Surrey Hills,57.58,ok
+20925,Fitzroy North,22399,Surrey Hills,66.18,ok
+20929,Flemington,22399,Surrey Hills,71.72,ok
+20930,Flinders (Vic.),22399,Surrey Hills,,no_eligible_route
+20935,Footscray,22399,Surrey Hills,63.82,ok
+20937,Forest Hill (Vic.),22399,Surrey Hills,36.15,ok
+20947,Frankston,22399,Surrey Hills,110.23,ok
+20948,Frankston North,22399,Surrey Hills,122.08,ok
+20949,Frankston South,22399,Surrey Hills,128.5,ok
+20950,Fraser Rise,22399,Surrey Hills,135.48,ok
+20965,Gardenvale,22399,Surrey Hills,63.03,ok
+20966,Garfield,22399,Surrey Hills,,no_eligible_route
+20967,Garfield North,22399,Surrey Hills,,no_eligible_route
+20979,Gembrook,22399,Surrey Hills,,no_eligible_route
+20995,Gilderoy,22399,Surrey Hills,,no_eligible_route
+21001,Gisborne,22399,Surrey Hills,,no_eligible_route
+21002,Gisborne South,22399,Surrey Hills,,no_eligible_route
+21004,Gladstone Park,22399,Surrey Hills,108.95,ok
+21005,Gladysdale,22399,Surrey Hills,,no_eligible_route
+21009,Glen Huntly,22399,Surrey Hills,65.77,ok
+21010,Glen Iris (Vic.),22399,Surrey Hills,27.07,ok
+21013,Glen Waverley,22399,Surrey Hills,51.48,ok
+21047,Glenroy (Vic.),22399,Surrey Hills,89.65,ok
+21059,Goldie,22399,Surrey Hills,,no_eligible_route
+21079,Gowanbrae,22399,Surrey Hills,111.33,ok
+21087,Grangefields,22399,Surrey Hills,158.88,ok
+21104,Greensborough,22399,Surrey Hills,61.32,ok
+21105,Greenvale (Vic.),22399,Surrey Hills,119.6,ok
+21115,Gruyere,22399,Surrey Hills,,no_eligible_route
+21121,Guys Hill,22399,Surrey Hills,,no_eligible_route
+21124,Hadfield,22399,Surrey Hills,97.2,ok
+21125,Hallam,22399,Surrey Hills,94.08,ok
+21131,Hampton (Vic.),22399,Surrey Hills,74.43,ok
+21132,Hampton East,22399,Surrey Hills,81.0,ok
+21133,Hampton Park,22399,Surrey Hills,96.5,ok
+21139,Harkaway,22399,Surrey Hills,,no_eligible_route
+21140,Harkness,22399,Surrey Hills,176.62,ok
+21145,Hastings (Vic.),22399,Surrey Hills,141.67,ok
+21152,Hawthorn (Vic.),22399,Surrey Hills,35.8,ok
+21153,Hawthorn East,22399,Surrey Hills,21.83,ok
+21158,Healesville,22399,Surrey Hills,126.62,ok
+21159,Heath Hill,22399,Surrey Hills,,no_eligible_route
+21161,Heathcote Junction,22399,Surrey Hills,,no_eligible_route
+21163,Heatherton,22399,Surrey Hills,75.57,ok
+21165,Heathmont,22399,Surrey Hills,37.77,ok
+21167,Heidelberg,22399,Surrey Hills,56.2,ok
+21168,Heidelberg Heights,22399,Surrey Hills,61.47,ok
+21169,Heidelberg West,22399,Surrey Hills,71.08,ok
+21176,Hesket,22399,Surrey Hills,,no_eligible_route
+21185,Highett,22399,Surrey Hills,73.77,ok
+21193,Hillside (Melton - Vic.),22399,Surrey Hills,109.13,ok
+21195,Hmas Cerberus,22399,Surrey Hills,,no_eligible_route
+21196,Hoddles Creek,22399,Surrey Hills,,no_eligible_route
+21202,Hopetoun Park,22399,Surrey Hills,,no_eligible_route
+21203,Hoppers Crossing,22399,Surrey Hills,104.88,ok
+21214,Hughesdale,22399,Surrey Hills,49.83,ok
+21215,Humevale,22399,Surrey Hills,157.15,ok
+21218,Huntingdale (Vic.),22399,Surrey Hills,57.32,ok
+21223,Hurstbridge,22399,Surrey Hills,83.67,ok
+21238,Iona,22399,Surrey Hills,,no_eligible_route
+21246,Ivanhoe (Vic.),22399,Surrey Hills,59.48,ok
+21247,Ivanhoe East,22399,Surrey Hills,54.95,ok
+21248,Jacana,22399,Surrey Hills,94.22,ok
+21277,Junction Village,22399,Surrey Hills,149.17,ok
+21284,Kalkallo,22399,Surrey Hills,132.25,ok
+21286,Kallista,22399,Surrey Hills,99.3,ok
+21287,Kalorama,22399,Surrey Hills,73.57,ok
+21294,Kangaroo Ground,22399,Surrey Hills,106.9,ok
+21312,Kealba,22399,Surrey Hills,101.2,ok
+21314,Keilor,22399,Surrey Hills,120.47,ok
+21315,Keilor Downs,22399,Surrey Hills,109.3,ok
+21316,Keilor East,22399,Surrey Hills,91.33,ok
+21317,Keilor Lodge,22399,Surrey Hills,103.92,ok
+21318,Keilor North,22399,Surrey Hills,109.98,ok
+21319,Keilor Park,22399,Surrey Hills,100.25,ok
+21327,Kensington (Vic.),22399,Surrey Hills,59.95,ok
+21333,Kerrie,22399,Surrey Hills,,no_eligible_route
+21336,Kew (Vic.),22399,Surrey Hills,35.08,ok
+21337,Kew East,22399,Surrey Hills,48.6,ok
+21339,Keysborough,22399,Surrey Hills,90.92,ok
+21354,Kilsyth,22399,Surrey Hills,58.95,ok
+21355,Kilsyth South,22399,Surrey Hills,74.03,ok
+21358,Kinglake,22399,Surrey Hills,206.08,ok
+21359,Kinglake Central,22399,Surrey Hills,,no_eligible_route
+21360,Kinglake West,22399,Surrey Hills,160.12,ok
+21362,Kings Park (Vic.),22399,Surrey Hills,97.3,ok
+21363,Kingsbury,22399,Surrey Hills,93.22,ok
+21365,Kingsville,22399,Surrey Hills,74.3,ok
+21374,Knoxfield,22399,Surrey Hills,62.62,ok
+21380,Koo Wee Rup,22399,Surrey Hills,,no_eligible_route
+21381,Koo Wee Rup North,22399,Surrey Hills,,no_eligible_route
+21393,Kooyong,22399,Surrey Hills,42.98,ok
+21411,Kurunjang,22399,Surrey Hills,153.82,ok
+21452,Lalor,22399,Surrey Hills,87.25,ok
+21456,Lancefield,22399,Surrey Hills,,no_eligible_route
+21459,Lang Lang,22399,Surrey Hills,,no_eligible_route
+21460,Lang Lang East,22399,Surrey Hills,,no_eligible_route
+21467,Langwarrin,22399,Surrey Hills,124.2,ok
+21468,Langwarrin South,22399,Surrey Hills,,no_eligible_route
+21473,Launching Place,22399,Surrey Hills,83.25,ok
+21476,Laverton (Vic.),22399,Surrey Hills,83.65,ok
+21477,Laverton North,22399,Surrey Hills,115.07,ok
+21504,Lilydale (Vic.),22399,Surrey Hills,64.9,ok
+21533,Long Forest,22399,Surrey Hills,,no_eligible_route
+21547,Lower Plenty,22399,Surrey Hills,73.03,ok
+21554,Lynbrook,22399,Surrey Hills,90.33,ok
+21555,Lyndhurst (Vic.),22399,Surrey Hills,132.92,ok
+21558,Lysterfield,22399,Surrey Hills,,no_eligible_route
+21559,Lysterfield South,22399,Surrey Hills,129.62,ok
+21561,Macclesfield (Vic.),22399,Surrey Hills,,no_eligible_route
+21562,Macedon,22399,Surrey Hills,,no_eligible_route
+21564,Macleod (Vic.),22399,Surrey Hills,72.75,ok
+21569,Maddingley,22399,Surrey Hills,,no_eligible_route
+21575,Maidstone,22399,Surrey Hills,82.18,ok
+21578,Main Ridge,22399,Surrey Hills,,no_eligible_route
+21586,Malvern (Vic.),22399,Surrey Hills,46.65,ok
+21587,Malvern East,22399,Surrey Hills,52.13,ok
+21588,Mambourin,22399,Surrey Hills,,no_eligible_route
+21597,Manor Lakes,22399,Surrey Hills,141.38,ok
+21604,Maribyrnong,22399,Surrey Hills,82.93,ok
+21619,Maryknoll,22399,Surrey Hills,,no_eligible_route
+21625,McCrae,22399,Surrey Hills,168.3,ok
+21629,McKinnon,22399,Surrey Hills,63.07,ok
+21635,Meadow Heights,22399,Surrey Hills,107.1,ok
+21640,Melbourne,22399,Surrey Hills,41.67,ok
+21641,Melbourne Airport,22399,Surrey Hills,,no_eligible_route
+21642,Melton (Vic.),22399,Surrey Hills,162.0,ok
+21643,Melton South,22399,Surrey Hills,174.37,ok
+21644,Melton West,22399,Surrey Hills,150.0,ok
+21648,Mentone,22399,Surrey Hills,68.68,ok
+21649,Menzies Creek,22399,Surrey Hills,86.65,ok
+21659,Mernda,22399,Surrey Hills,119.73,ok
+21662,Merricks,22399,Surrey Hills,,no_eligible_route
+21663,Merricks Beach,22399,Surrey Hills,,no_eligible_route
+21664,Merricks North,22399,Surrey Hills,,no_eligible_route
+21668,Merrimu,22399,Surrey Hills,,no_eligible_route
+21675,Mickleham,22399,Surrey Hills,140.5,ok
+21677,Middle Park (Vic.),22399,Surrey Hills,68.2,ok
+21683,Mill Park,22399,Surrey Hills,102.58,ok
+21685,Millgrove,22399,Surrey Hills,,no_eligible_route
+21706,Mitcham (Vic.),22399,Surrey Hills,35.5,ok
+21727,Monbulk,22399,Surrey Hills,106.75,ok
+21728,Monegeetta,22399,Surrey Hills,,no_eligible_route
+21731,Monomeith,22399,Surrey Hills,,no_eligible_route
+21732,Mont Albert,22399,Surrey Hills,13.45,ok
+21733,Mont Albert North,22399,Surrey Hills,20.52,ok
+21735,Montmorency,22399,Surrey Hills,53.43,ok
+21736,Montrose (Vic.),22399,Surrey Hills,64.87,ok
+21742,Moonee Ponds,22399,Surrey Hills,63.57,ok
+21746,Moorabbin,22399,Surrey Hills,77.67,ok
+21747,Moorabbin Airport,22399,Surrey Hills,91.25,ok
+21754,Moorooduc,22399,Surrey Hills,,no_eligible_route
+21755,Mooroolbark,22399,Surrey Hills,59.8,ok
+21760,Mordialloc,22399,Surrey Hills,88.05,ok
+21763,Mornington (Vic.),22399,Surrey Hills,141.93,ok
+21779,Mount Burnett,22399,Surrey Hills,,no_eligible_route
+21786,Mount Cottrell,22399,Surrey Hills,,no_eligible_route
+21787,Mount Dandenong,22399,Surrey Hills,76.57,ok
+21793,Mount Eliza,22399,Surrey Hills,116.28,ok
+21795,Mount Evelyn,22399,Surrey Hills,76.73,ok
+21801,Mount Macedon,22399,Surrey Hills,,no_eligible_route
+21803,Mount Martha,22399,Surrey Hills,134.82,ok
+21814,Mount Toolebewong,22399,Surrey Hills,,no_eligible_route
+21816,Mount Waverley,22399,Surrey Hills,41.67,ok
+21827,Mulgrave (Vic.),22399,Surrey Hills,84.85,ok
+21849,Murrumbeena,22399,Surrey Hills,60.4,ok
+21872,Nangana,22399,Surrey Hills,,no_eligible_route
+21878,Nar Nar Goon,22399,Surrey Hills,,no_eligible_route
+21879,Nar Nar Goon North,22399,Surrey Hills,,no_eligible_route
+21893,Narre Warren,22399,Surrey Hills,96.07,ok
+21894,Narre Warren East,22399,Surrey Hills,,no_eligible_route
+21895,Narre Warren North,22399,Surrey Hills,104.33,ok
+21896,Narre Warren South,22399,Surrey Hills,106.88,ok
+21921,New Gisborne,22399,Surrey Hills,,no_eligible_route
+21934,Newport (Vic.),22399,Surrey Hills,66.55,ok
+21942,Niddrie,22399,Surrey Hills,91.73,ok
+21952,Noble Park,22399,Surrey Hills,67.33,ok
+21953,Noble Park North,22399,Surrey Hills,96.55,ok
+21966,North Melbourne,22399,Surrey Hills,58.95,ok
+21969,North Warrandyte,22399,Surrey Hills,91.83,ok
+21971,Northcote,22399,Surrey Hills,69.45,ok
+21974,Notting Hill,22399,Surrey Hills,55.25,ok
+21985,Nunawading,22399,Surrey Hills,27.98,ok
+21991,Nutfield,22399,Surrey Hills,,no_eligible_route
+21998,Oak Park,22399,Surrey Hills,81.88,ok
+21999,Oaklands Junction,22399,Surrey Hills,,no_eligible_route
+22000,Oakleigh,22399,Surrey Hills,44.27,ok
+22001,Oakleigh East,22399,Surrey Hills,59.32,ok
+22002,Oakleigh South,22399,Surrey Hills,64.77,ok
+22006,Officer,22399,Surrey Hills,108.62,ok
+22007,Officer South,22399,Surrey Hills,156.18,ok
+22009,Olinda (Vic.),22399,Surrey Hills,99.18,ok
+22016,Ormond,22399,Surrey Hills,63.5,ok
+22027,Pakenham,22399,Surrey Hills,107.67,ok
+22028,Pakenham South,22399,Surrey Hills,,no_eligible_route
+22029,Pakenham Upper,22399,Surrey Hills,,no_eligible_route
+22032,Panton Hill,22399,Surrey Hills,,no_eligible_route
+22036,Park Orchards,22399,Surrey Hills,51.47,ok
+22037,Parkdale,22399,Surrey Hills,77.83,ok
+22038,Parkville (Vic.),22399,Surrey Hills,64.78,ok
+22041,Pascoe Vale,22399,Surrey Hills,86.25,ok
+22042,Pascoe Vale South,22399,Surrey Hills,81.98,ok
+22047,Patterson Lakes,22399,Surrey Hills,106.13,ok
+22050,Pearcedale,22399,Surrey Hills,165.48,ok
+22058,Pentland Hills,22399,Surrey Hills,,no_eligible_route
+22064,Pheasant Creek (Vic.),22399,Surrey Hills,175.77,ok
+22084,Plenty (Vic.),22399,Surrey Hills,93.25,ok
+22085,Plumpton (Vic.),22399,Surrey Hills,,no_eligible_route
+22086,Point Cook,22399,Surrey Hills,103.88,ok
+22087,Point Leo,22399,Surrey Hills,,no_eligible_route
+22107,Port Melbourne,22399,Surrey Hills,66.5,ok
+22113,Portsea,22399,Surrey Hills,204.6,ok
+22115,Powelltown,22399,Surrey Hills,,no_eligible_route
+22118,Prahran,22399,Surrey Hills,54.38,ok
+22121,Preston (Vic.),22399,Surrey Hills,80.85,ok
+22122,Princes Hill,22399,Surrey Hills,64.93,ok
+22132,Quandong,22399,Surrey Hills,,no_eligible_route
+22141,Ravenhall,22399,Surrey Hills,137.68,ok
+22148,Red Hill (Vic.),22399,Surrey Hills,,no_eligible_route
+22149,Red Hill South,22399,Surrey Hills,,no_eligible_route
+22160,Research,22399,Surrey Hills,87.23,ok
+22161,Reservoir (Vic.),22399,Surrey Hills,84.07,ok
+22170,Richmond (Vic.),22399,Surrey Hills,42.3,ok
+22172,Riddells Creek,22399,Surrey Hills,,no_eligible_route
+22174,Ringwood (Vic.),22399,Surrey Hills,42.12,ok
+22175,Ringwood East,22399,Surrey Hills,41.68,ok
+22176,Ringwood North,22399,Surrey Hills,52.32,ok
+22179,Ripponlea,22399,Surrey Hills,50.47,ok
+22185,Rochford,22399,Surrey Hills,,no_eligible_route
+22186,Rockbank,22399,Surrey Hills,135.27,ok
+22193,Romsey,22399,Surrey Hills,,no_eligible_route
+22194,Rosanna,22399,Surrey Hills,67.22,ok
+22198,Rosebud,22399,Surrey Hills,184.62,ok
+22207,Rowville,22399,Surrey Hills,77.28,ok
+22208,Roxburgh Park,22399,Surrey Hills,108.5,ok
+22220,Rye,22399,Surrey Hills,196.82,ok
+22221,Rythdale,22399,Surrey Hills,,no_eligible_route
+22222,Safety Beach (Vic.),22399,Surrey Hills,151.78,ok
+22232,Sandhurst,22399,Surrey Hills,133.7,ok
+22234,Sandringham (Vic.),22399,Surrey Hills,79.32,ok
+22239,Sassafras (Vic.),22399,Surrey Hills,80.63,ok
+22242,Scoresby,22399,Surrey Hills,76.5,ok
+22247,Seabrook,22399,Surrey Hills,93.95,ok
+22249,Seaford (Vic.),22399,Surrey Hills,103.37,ok
+22250,Seaholme,22399,Surrey Hills,86.73,ok
+22256,Seddon (Vic.),22399,Surrey Hills,60.75,ok
+22258,Selby,22399,Surrey Hills,86.32,ok
+22263,Seville,22399,Surrey Hills,96.42,ok
+22264,Seville East,22399,Surrey Hills,83.3,ok
+22278,Sherbrooke,22399,Surrey Hills,89.37,ok
+22279,Shoreham,22399,Surrey Hills,,no_eligible_route
+22281,Silvan,22399,Surrey Hills,92.8,ok
+22291,Skye (Vic.),22399,Surrey Hills,117.08,ok
+22295,Smiths Gully,22399,Surrey Hills,,no_eligible_route
+22303,Somers,22399,Surrey Hills,,no_eligible_route
+22304,Somerton (Vic.),22399,Surrey Hills,107.13,ok
+22305,Somerville (Vic.),22399,Surrey Hills,146.77,ok
+22306,Sorrento (Vic.),22399,Surrey Hills,184.58,ok
+22309,South Kingsville,22399,Surrey Hills,79.75,ok
+22310,South Melbourne,22399,Surrey Hills,55.97,ok
+22311,South Morang,22399,Surrey Hills,107.95,ok
+22313,South Wharf,22399,Surrey Hills,56.5,ok
+22314,South Yarra,22399,Surrey Hills,42.13,ok
+22315,Southbank,22399,Surrey Hills,49.37,ok
+22319,Spotswood,22399,Surrey Hills,60.9,ok
+22325,Springfield (Macedon Ranges - Vic.),22399,Surrey Hills,,no_eligible_route
+22328,Springvale (Vic.),22399,Surrey Hills,72.3,ok
+22329,Springvale South,22399,Surrey Hills,71.03,ok
+22330,St Albans (Vic.),22399,Surrey Hills,84.58,ok
+22332,St Andrews (Vic.),22399,Surrey Hills,,no_eligible_route
+22333,St Andrews Beach,22399,Surrey Hills,,no_eligible_route
+22339,St Helena,22399,Surrey Hills,84.5,ok
+22343,St Kilda (Vic.),22399,Surrey Hills,56.17,ok
+22344,St Kilda East,22399,Surrey Hills,58.9,ok
+22345,St Kilda West,22399,Surrey Hills,66.88,ok
+22355,Steels Creek,22399,Surrey Hills,,no_eligible_route
+22375,Strathewen,22399,Surrey Hills,,no_eligible_route
+22380,Strathmore (Vic.),22399,Surrey Hills,90.05,ok
+22381,Strathmore Heights,22399,Surrey Hills,99.52,ok
+22382,Strathtulloh,22399,Surrey Hills,,no_eligible_route
+22391,Sunbury,22399,Surrey Hills,152.13,ok
+22395,Sunshine (Vic.),22399,Surrey Hills,73.37,ok
+22396,Sunshine North,22399,Surrey Hills,97.43,ok
+22397,Sunshine West,22399,Surrey Hills,103.53,ok
+22399,Surrey Hills,22399,Surrey Hills,0.0,same_centroid
+22414,Sydenham (Vic.),22399,Surrey Hills,98.98,ok
+22451,Tarneit,22399,Surrey Hills,119.95,ok
+22457,Tarrawarra,22399,Surrey Hills,98.22,ok
+22473,Taylors Hill,22399,Surrey Hills,108.8,ok
+22474,Taylors Lakes,22399,Surrey Hills,101.38,ok
+22476,Tecoma,22399,Surrey Hills,57.58,ok
+22483,Templestowe,22399,Surrey Hills,54.65,ok
+22484,Templestowe Lower,22399,Surrey Hills,53.78,ok
+22496,The Basin (Vic.),22399,Surrey Hills,71.07,ok
+22501,The Patch,22399,Surrey Hills,97.32,ok
+22504,Thomastown,22399,Surrey Hills,92.55,ok
+22508,Thornbury,22399,Surrey Hills,75.33,ok
+22509,Thornhill Park,22399,Surrey Hills,,no_eligible_route
+22514,Three Bridges,22399,Surrey Hills,,no_eligible_route
+22531,Tonimbuk,22399,Surrey Hills,,no_eligible_route
+22536,Toolangi,22399,Surrey Hills,,no_eligible_route
+22537,Toolern Vale,22399,Surrey Hills,,no_eligible_route
+22546,Tooradin,22399,Surrey Hills,,no_eligible_route
+22547,Toorak,22399,Surrey Hills,52.17,ok
+22550,Tootgarook,22399,Surrey Hills,180.23,ok
+22556,Tottenham (Vic.),22399,Surrey Hills,96.07,ok
+22572,Travancore,22399,Surrey Hills,68.32,ok
+22576,Tremont,22399,Surrey Hills,72.77,ok
+22582,Truganina,22399,Surrey Hills,171.1,ok
+22584,Tuerong,22399,Surrey Hills,,no_eligible_route
+22586,Tullamarine,22399,Surrey Hills,109.3,ok
+22594,Tyabb,22399,Surrey Hills,139.08,ok
+22598,Tynong,22399,Surrey Hills,,no_eligible_route
+22599,Tynong North,22399,Surrey Hills,,no_eligible_route
+22614,Upper Ferntree Gully,22399,Surrey Hills,54.73,ok
+22617,Upper Plenty,22399,Surrey Hills,,no_eligible_route
+22620,Upwey,22399,Surrey Hills,57.45,ok
+22627,Vermont,22399,Surrey Hills,48.07,ok
+22628,Vermont South,22399,Surrey Hills,44.33,ok
+22629,Vervale,22399,Surrey Hills,,no_eligible_route
+22633,Viewbank,22399,Surrey Hills,77.22,ok
+22661,Wallan,22399,Surrey Hills,,no_eligible_route
+22672,Wandin East,22399,Surrey Hills,,no_eligible_route
+22673,Wandin North,22399,Surrey Hills,67.38,ok
+22676,Wandong,22399,Surrey Hills,,no_eligible_route
+22685,Wantirna,22399,Surrey Hills,58.13,ok
+22686,Wantirna South,22399,Surrey Hills,66.12,ok
+22689,Warburton (Vic.),22399,Surrey Hills,,no_eligible_route
+22695,Warneet,22399,Surrey Hills,,no_eligible_route
+22702,Warrandyte,22399,Surrey Hills,68.43,ok
+22703,Warrandyte South,22399,Surrey Hills,82.63,ok
+22704,Warranwood,22399,Surrey Hills,59.93,ok
+22717,Waterford Park,22399,Surrey Hills,,no_eligible_route
+22720,Waterways,22399,Surrey Hills,102.47,ok
+22721,Watsonia,22399,Surrey Hills,67.67,ok
+22722,Watsonia North,22399,Surrey Hills,72.17,ok
+22723,Watsons Creek (Vic.),22399,Surrey Hills,,no_eligible_route
+22727,Wattle Glen,22399,Surrey Hills,87.42,ok
+22740,Weir Views,22399,Surrey Hills,204.83,ok
+22750,Werribee,22399,Surrey Hills,96.68,ok
+22751,Werribee South,22399,Surrey Hills,136.7,ok
+22753,Wesburn,22399,Surrey Hills,99.35,ok
+22756,West Footscray,22399,Surrey Hills,76.53,ok
+22757,West Melbourne,22399,Surrey Hills,73.47,ok
+22761,Westmeadows,22399,Surrey Hills,97.92,ok
+22766,Wheelers Hill,22399,Surrey Hills,69.53,ok
+22775,Whittlesea,22399,Surrey Hills,,no_eligible_route
+22784,Wildwood,22399,Surrey Hills,,no_eligible_route
+22791,Williams Landing,22399,Surrey Hills,97.9,ok
+22792,Williamstown (Vic.),22399,Surrey Hills,69.72,ok
+22793,Williamstown North,22399,Surrey Hills,84.22,ok
+22805,Windsor (Vic.),22399,Surrey Hills,49.73,ok
+22820,Wollert,22399,Surrey Hills,126.77,ok
+22825,Wonga Park,22399,Surrey Hills,64.13,ok
+22843,Woodstock (Vic.),22399,Surrey Hills,,no_eligible_route
+22857,Woori Yallock,22399,Surrey Hills,78.5,ok
+22883,Wyndham Vale,22399,Surrey Hills,127.5,ok
+22892,Yallambie,22399,Surrey Hills,74.77,ok
+22898,Yan Yean,22399,Surrey Hills,141.5,ok
+22906,Yannathan,22399,Surrey Hills,,no_eligible_route
+22910,Yarra Glen,22399,Surrey Hills,98.52,ok
+22911,Yarra Junction,22399,Surrey Hills,105.62,ok
+22916,Yarrambat,22399,Surrey Hills,93.82,ok
+22917,Yarraville,22399,Surrey Hills,66.65,ok
+22925,Yellingbo,22399,Surrey Hills,,no_eligible_route
+22930,Yering,22399,Surrey Hills,,no_eligible_route
+22941,Yuroke,22399,Surrey Hills,156.87,ok

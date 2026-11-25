@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20253,Blackburn North,46.77,ok
+20003,Aberfeldie,20253,Blackburn North,87.85,ok
+20011,Aintree,20253,Blackburn North,129.58,ok
+20015,Airport West,20253,Blackburn North,102.95,ok
+20017,Albanvale,20253,Blackburn North,107.05,ok
+20018,Albert Park (Vic.),20253,Blackburn North,70.97,ok
+20021,Albion (Vic.),20253,Blackburn North,87.45,ok
+20034,Alphington,20253,Blackburn North,55.47,ok
+20035,Altona (Vic.),20253,Blackburn North,96.9,ok
+20036,Altona Meadows,20253,Blackburn North,105.05,ok
+20037,Altona North,20253,Blackburn North,106.3,ok
+20062,Ardeer,20253,Blackburn North,101.6,ok
+20066,Armadale (Vic.),20253,Blackburn North,64.05,ok
+20071,Arthurs Creek,20253,Blackburn North,,no_eligible_route
+20072,Arthurs Seat,20253,Blackburn North,,no_eligible_route
+20075,Ascot Vale,20253,Blackburn North,78.68,ok
+20077,Ashburton,20253,Blackburn North,53.65,ok
+20078,Ashwood,20253,Blackburn North,55.17,ok
+20079,Aspendale,20253,Blackburn North,105.3,ok
+20080,Aspendale Gardens,20253,Blackburn North,109.43,ok
+20082,Attwood,20253,Blackburn North,108.67,ok
+20089,Avondale Heights,20253,Blackburn North,103.98,ok
+20091,Avonsleigh,20253,Blackburn North,116.37,ok
+20095,Bacchus Marsh,20253,Blackburn North,,no_eligible_route
+20097,Badger Creek,20253,Blackburn North,123.63,ok
+20105,Balaclava (Vic.),20253,Blackburn North,62.68,ok
+20120,Balnarring,20253,Blackburn North,,no_eligible_route
+20121,Balnarring Beach,20253,Blackburn North,,no_eligible_route
+20123,Balwyn,20253,Blackburn North,38.83,ok
+20124,Balwyn North,20253,Blackburn North,49.37,ok
+20131,Bangholme,20253,Blackburn North,148.95,ok
+20169,Baxter,20253,Blackburn North,145.65,ok
+20171,Bayles,20253,Blackburn North,,no_eligible_route
+20173,Bayswater (Vic.),20253,Blackburn North,48.43,ok
+20174,Bayswater North,20253,Blackburn North,63.27,ok
+20175,Beaconsfield (Vic.),20253,Blackburn North,126.88,ok
+20176,Beaconsfield Upper,20253,Blackburn North,,no_eligible_route
+20182,Beaumaris (Vic.),20253,Blackburn North,103.18,ok
+20187,Beenak,20253,Blackburn North,,no_eligible_route
+20188,Belgrave,20253,Blackburn North,61.52,ok
+20189,Belgrave Heights,20253,Blackburn North,86.05,ok
+20190,Belgrave South,20253,Blackburn North,87.03,ok
+20198,Bellfield (Banyule - Vic.),20253,Blackburn North,66.22,ok
+20207,Bend Of Islands,20253,Blackburn North,,no_eligible_route
+20212,Benloch,20253,Blackburn North,,no_eligible_route
+20214,Bentleigh,20253,Blackburn North,87.08,ok
+20215,Bentleigh East,20253,Blackburn North,73.23,ok
+20224,Berwick,20253,Blackburn North,99.68,ok
+20233,Beveridge,20253,Blackburn North,139.22,ok
+20237,Big Pats Creek,20253,Blackburn North,,no_eligible_route
+20248,Bittern,20253,Blackburn North,163.63,ok
+20251,Black Rock (Vic.),20253,Blackburn North,99.5,ok
+20252,Blackburn,20253,Blackburn North,17.17,ok
+20253,Blackburn North,20253,Blackburn North,0.0,same_centroid
+20254,Blackburn South,20253,Blackburn North,41.1,ok
+20257,Blairgowrie,20253,Blackburn North,217.6,ok
+20260,Blind Bight,20253,Blackburn North,,no_eligible_route
+20272,Bolinda,20253,Blackburn North,,no_eligible_route
+20278,Bonbeach,20253,Blackburn North,102.55,ok
+20280,Boneo,20253,Blackburn North,,no_eligible_route
+20282,Bonnie Brook,20253,Blackburn North,162.13,ok
+20304,Boronia,20253,Blackburn North,50.9,ok
+20307,Botanic Ridge,20253,Blackburn North,155.55,ok
+20314,Box Hill (Vic.),20253,Blackburn North,21.42,ok
+20315,Box Hill North,20253,Blackburn North,13.63,ok
+20316,Box Hill South,20253,Blackburn North,30.23,ok
+20320,Braeside,20253,Blackburn North,116.48,ok
+20324,Braybrook,20253,Blackburn North,96.58,ok
+20331,Briar Hill,20253,Blackburn North,68.28,ok
+20337,Brighton (Vic.),20253,Blackburn North,75.45,ok
+20338,Brighton East,20253,Blackburn North,83.35,ok
+20346,Broadmeadows (Vic.),20253,Blackburn North,97.3,ok
+20351,Brookfield (Vic.),20253,Blackburn North,188.52,ok
+20352,Brooklyn (Vic.),20253,Blackburn North,100.87,ok
+20361,Brunswick (Vic.),20253,Blackburn North,73.2,ok
+20362,Brunswick East,20253,Blackburn North,64.07,ok
+20363,Brunswick West,20253,Blackburn North,80.47,ok
+20381,Bulla (Vic.),20253,Blackburn North,158.82,ok
+20386,Bulleen,20253,Blackburn North,55.65,ok
+20387,Bullengarook,20253,Blackburn North,,no_eligible_route
+20399,Bundoora (Vic.),20253,Blackburn North,66.53,ok
+20411,Bunyip,20253,Blackburn North,,no_eligible_route
+20412,Bunyip North,20253,Blackburn North,,no_eligible_route
+20418,Burnley,20253,Blackburn North,56.25,ok
+20419,Burnside (Vic.),20253,Blackburn North,111.48,ok
+20420,Burnside Heights,20253,Blackburn North,119.3,ok
+20426,Burwood (Vic.),20253,Blackburn North,41.73,ok
+20427,Burwood East,20253,Blackburn North,32.97,ok
+20435,Bylands,20253,Blackburn North,,no_eligible_route
+20441,Cairnlea,20253,Blackburn North,104.02,ok
+20442,Calder Park,20253,Blackburn North,124.23,ok
+20443,Caldermeade,20253,Blackburn North,,no_eligible_route
+20453,Camberwell (Vic.),20253,Blackburn North,52.58,ok
+20455,Campbellfield,20253,Blackburn North,108.95,ok
+20466,Cannons Creek,20253,Blackburn North,,no_eligible_route
+20468,Canterbury (Vic.),20253,Blackburn North,36.07,ok
+20474,Cape Schanck,20253,Blackburn North,,no_eligible_route
+20476,Capel Sound,20253,Blackburn North,202.95,ok
+20487,Cardinia,20253,Blackburn North,,no_eligible_route
+20495,Carlton (Vic.),20253,Blackburn North,48.32,ok
+20496,Carlton North,20253,Blackburn North,68.27,ok
+20498,Carnegie,20253,Blackburn North,77.07,ok
+20500,Caroline Springs,20253,Blackburn North,120.25,ok
+20507,Carrum,20253,Blackburn North,106.78,ok
+20508,Carrum Downs,20253,Blackburn North,116.35,ok
+20512,Castella,20253,Blackburn North,,no_eligible_route
+20517,Catani,20253,Blackburn North,,no_eligible_route
+20521,Caulfield,20253,Blackburn North,78.88,ok
+20522,Caulfield East,20253,Blackburn North,71.9,ok
+20523,Caulfield North,20253,Blackburn North,66.4,ok
+20524,Caulfield South,20253,Blackburn North,87.32,ok
+20528,Chadstone,20253,Blackburn North,60.05,ok
+20537,Chelsea,20253,Blackburn North,95.55,ok
+20538,Chelsea Heights,20253,Blackburn North,108.48,ok
+20539,Cheltenham (Vic.),20253,Blackburn North,96.83,ok
+20541,Cherokee,20253,Blackburn North,,no_eligible_route
+20555,Chintin,20253,Blackburn North,,no_eligible_route
+20556,Chirnside Park,20253,Blackburn North,78.8,ok
+20559,Christmas Hills (Vic.),20253,Blackburn North,,no_eligible_route
+20560,Chum Creek,20253,Blackburn North,,no_eligible_route
+20566,Clarinda,20253,Blackburn North,85.58,ok
+20567,Clarkefield,20253,Blackburn North,,no_eligible_route
+20569,Clayton,20253,Blackburn North,69.85,ok
+20570,Clayton South,20253,Blackburn North,90.9,ok
+20572,Clematis,20253,Blackburn North,88.78,ok
+20574,Clifton Hill,20253,Blackburn North,45.47,ok
+20576,Clonbinane,20253,Blackburn North,,no_eligible_route
+20581,Clyde (Vic.),20253,Blackburn North,164.25,ok
+20582,Clyde North,20253,Blackburn North,127.15,ok
+20587,Cobaw,20253,Blackburn North,,no_eligible_route
+20590,Cobblebank,20253,Blackburn North,167.28,ok
+20596,Coburg,20253,Blackburn North,80.93,ok
+20597,Coburg North,20253,Blackburn North,90.5,ok
+20600,Cockatoo (Vic.),20253,Blackburn North,120.05,ok
+20601,Cocoroc,20253,Blackburn North,,no_eligible_route
+20605,Coimadai,20253,Blackburn North,,no_eligible_route
+20613,Coldstream (Vic.),20253,Blackburn North,,no_eligible_route
+20616,Collingwood (Vic.),20253,Blackburn North,36.88,ok
+20624,Coolaroo,20253,Blackburn North,103.17,ok
+20633,Cora Lynn,20253,Blackburn North,,no_eligible_route
+20654,Cottles Bridge,20253,Blackburn North,,no_eligible_route
+20661,Craigieburn,20253,Blackburn North,113.73,ok
+20662,Cranbourne,20253,Blackburn North,120.33,ok
+20663,Cranbourne East,20253,Blackburn North,121.43,ok
+20664,Cranbourne North,20253,Blackburn North,117.53,ok
+20665,Cranbourne South,20253,Blackburn North,158.9,ok
+20666,Cranbourne West,20253,Blackburn North,115.25,ok
+20670,Cremorne (Vic.),20253,Blackburn North,51.23,ok
+20674,Crib Point,20253,Blackburn North,172.6,ok
+20682,Croydon (Vic.),20253,Blackburn North,40.4,ok
+20683,Croydon Hills,20253,Blackburn North,61.72,ok
+20684,Croydon North,20253,Blackburn North,57.15,ok
+20685,Croydon South,20253,Blackburn North,64.32,ok
+20702,Dallas,20253,Blackburn North,104.95,ok
+20703,Dalmore,20253,Blackburn North,,no_eligible_route
+20707,Dandenong,20253,Blackburn North,86.1,ok
+20708,Dandenong North,20253,Blackburn North,84.78,ok
+20709,Dandenong South,20253,Blackburn North,111.65,ok
+20712,Darley,20253,Blackburn North,,no_eligible_route
+20716,Darraweit Guim,20253,Blackburn North,,no_eligible_route
+20724,Deanside,20253,Blackburn North,136.73,ok
+20728,Deepdene (Vic.),20253,Blackburn North,33.68,ok
+20729,Deer Park,20253,Blackburn North,98.43,ok
+20731,Delahey,20253,Blackburn North,114.98,ok
+20743,Derrimut,20253,Blackburn North,130.35,ok
+20748,Devon Meadows,20253,Blackburn North,,no_eligible_route
+20750,Dewhurst,20253,Blackburn North,,no_eligible_route
+20752,Diamond Creek,20253,Blackburn North,81.57,ok
+20754,Diggers Rest,20253,Blackburn North,115.55,ok
+20758,Dingley Village,20253,Blackburn North,93.87,ok
+20762,Dixons Creek,20253,Blackburn North,,no_eligible_route
+20766,Docklands,20253,Blackburn North,63.48,ok
+20769,Don Valley,20253,Blackburn North,,no_eligible_route
+20771,Doncaster,20253,Blackburn North,27.78,ok
+20772,Doncaster East,20253,Blackburn North,23.12,ok
+20773,Donnybrook (Vic.),20253,Blackburn North,138.75,ok
+20774,Donvale,20253,Blackburn North,37.55,ok
+20779,Doreen,20253,Blackburn North,101.82,ok
+20783,Doveton,20253,Blackburn North,106.65,ok
+20788,Dromana,20253,Blackburn North,,no_eligible_route
+20825,Eaglemont,20253,Blackburn North,62.42,ok
+20830,East Melbourne,20253,Blackburn North,44.6,ok
+20833,East Warburton,20253,Blackburn North,,no_eligible_route
+20843,Eden Park,20253,Blackburn North,,no_eligible_route
+20848,Edithvale,20253,Blackburn North,86.03,ok
+20864,Elsternwick,20253,Blackburn North,70.6,ok
+20865,Eltham (Vic.),20253,Blackburn North,66.9,ok
+20866,Eltham North,20253,Blackburn North,77.43,ok
+20867,Elwood,20253,Blackburn North,67.7,ok
+20868,Emerald (Vic.),20253,Blackburn North,115.97,ok
+20871,Endeavour Hills,20253,Blackburn North,116.47,ok
+20878,Epping (Vic.),20253,Blackburn North,104.53,ok
+20885,Essendon,20253,Blackburn North,84.95,ok
+20886,Essendon Fields,20253,Blackburn North,106.0,ok
+20887,Essendon North,20253,Blackburn North,87.0,ok
+20888,Essendon West,20253,Blackburn North,88.82,ok
+20889,Eumemmerring,20253,Blackburn North,110.65,ok
+20898,Exford,20253,Blackburn North,,no_eligible_route
+20899,Eynesbury,20253,Blackburn North,,no_eligible_route
+20901,Fairfield (Vic.),20253,Blackburn North,59.9,ok
+20909,Fawkner,20253,Blackburn North,101.4,ok
+20916,Fernshaw,20253,Blackburn North,,no_eligible_route
+20917,Ferntree Gully,20253,Blackburn North,58.13,ok
+20918,Ferny Creek,20253,Blackburn North,96.8,ok
+20920,Fingal (Vic.),20253,Blackburn North,,no_eligible_route
+20924,Fitzroy (Vic.),20253,Blackburn North,49.2,ok
+20925,Fitzroy North,20253,Blackburn North,56.68,ok
+20929,Flemington,20253,Blackburn North,79.57,ok
+20930,Flinders (Vic.),20253,Blackburn North,,no_eligible_route
+20935,Footscray,20253,Blackburn North,74.87,ok
+20937,Forest Hill (Vic.),20253,Blackburn North,28.08,ok
+20947,Frankston,20253,Blackburn North,123.22,ok
+20948,Frankston North,20253,Blackburn North,131.38,ok
+20949,Frankston South,20253,Blackburn North,157.02,ok
+20950,Fraser Rise,20253,Blackburn North,134.98,ok
+20965,Gardenvale,20253,Blackburn North,71.88,ok
+20966,Garfield,20253,Blackburn North,,no_eligible_route
+20967,Garfield North,20253,Blackburn North,,no_eligible_route
+20979,Gembrook,20253,Blackburn North,,no_eligible_route
+20995,Gilderoy,20253,Blackburn North,,no_eligible_route
+21001,Gisborne,20253,Blackburn North,,no_eligible_route
+21002,Gisborne South,20253,Blackburn North,,no_eligible_route
+21004,Gladstone Park,20253,Blackburn North,116.5,ok
+21005,Gladysdale,20253,Blackburn North,,no_eligible_route
+21009,Glen Huntly,20253,Blackburn North,78.62,ok
+21010,Glen Iris (Vic.),20253,Blackburn North,55.65,ok
+21013,Glen Waverley,20253,Blackburn North,44.1,ok
+21047,Glenroy (Vic.),20253,Blackburn North,97.15,ok
+21059,Goldie,20253,Blackburn North,,no_eligible_route
+21079,Gowanbrae,20253,Blackburn North,113.95,ok
+21087,Grangefields,20253,Blackburn North,166.38,ok
+21104,Greensborough,20253,Blackburn North,53.23,ok
+21105,Greenvale (Vic.),20253,Blackburn North,121.83,ok
+21115,Gruyere,20253,Blackburn North,,no_eligible_route
+21121,Guys Hill,20253,Blackburn North,,no_eligible_route
+21124,Hadfield,20253,Blackburn North,99.43,ok
+21125,Hallam,20253,Blackburn North,104.8,ok
+21131,Hampton (Vic.),20253,Blackburn North,83.28,ok
+21132,Hampton East,20253,Blackburn North,93.85,ok
+21133,Hampton Park,20253,Blackburn North,107.22,ok
+21139,Harkaway,20253,Blackburn North,,no_eligible_route
+21140,Harkness,20253,Blackburn North,190.0,ok
+21145,Hastings (Vic.),20253,Blackburn North,165.17,ok
+21152,Hawthorn (Vic.),20253,Blackburn North,47.65,ok
+21153,Hawthorn East,20253,Blackburn North,48.72,ok
+21158,Healesville,20253,Blackburn North,127.55,ok
+21159,Heath Hill,20253,Blackburn North,,no_eligible_route
+21161,Heathcote Junction,20253,Blackburn North,,no_eligible_route
+21163,Heatherton,20253,Blackburn North,86.15,ok
+21165,Heathmont,20253,Blackburn North,38.7,ok
+21167,Heidelberg,20253,Blackburn North,59.22,ok
+21168,Heidelberg Heights,20253,Blackburn North,65.95,ok
+21169,Heidelberg West,20253,Blackburn North,70.48,ok
+21176,Hesket,20253,Blackburn North,,no_eligible_route
+21185,Highett,20253,Blackburn North,86.62,ok
+21193,Hillside (Melton - Vic.),20253,Blackburn North,115.63,ok
+21195,Hmas Cerberus,20253,Blackburn North,,no_eligible_route
+21196,Hoddles Creek,20253,Blackburn North,,no_eligible_route
+21202,Hopetoun Park,20253,Blackburn North,,no_eligible_route
+21203,Hoppers Crossing,20253,Blackburn North,114.02,ok
+21214,Hughesdale,20253,Blackburn North,71.42,ok
+21215,Humevale,20253,Blackburn North,148.53,ok
+21218,Huntingdale (Vic.),20253,Blackburn North,77.33,ok
+21223,Hurstbridge,20253,Blackburn North,81.85,ok
+21238,Iona,20253,Blackburn North,,no_eligible_route
+21246,Ivanhoe (Vic.),20253,Blackburn North,55.95,ok
+21247,Ivanhoe East,20253,Blackburn North,55.97,ok
+21248,Jacana,20253,Blackburn North,101.72,ok
+21277,Junction Village,20253,Blackburn North,,no_eligible_route
+21284,Kalkallo,20253,Blackburn North,141.1,ok
+21286,Kallista,20253,Blackburn North,98.23,ok
+21287,Kalorama,20253,Blackburn North,73.37,ok
+21294,Kangaroo Ground,20253,Blackburn North,87.63,ok
+21312,Kealba,20253,Blackburn North,102.7,ok
+21314,Keilor,20253,Blackburn North,129.32,ok
+21315,Keilor Downs,20253,Blackburn North,113.48,ok
+21316,Keilor East,20253,Blackburn North,103.18,ok
+21317,Keilor Lodge,20253,Blackburn North,114.33,ok
+21318,Keilor North,20253,Blackburn North,123.37,ok
+21319,Keilor Park,20253,Blackburn North,111.1,ok
+21327,Kensington (Vic.),20253,Blackburn North,69.0,ok
+21333,Kerrie,20253,Blackburn North,,no_eligible_route
+21336,Kew (Vic.),20253,Blackburn North,53.1,ok
+21337,Kew East,20253,Blackburn North,56.08,ok
+21339,Keysborough,20253,Blackburn North,106.63,ok
+21354,Kilsyth,20253,Blackburn North,68.88,ok
+21355,Kilsyth South,20253,Blackburn North,71.97,ok
+21358,Kinglake,20253,Blackburn North,197.47,ok
+21359,Kinglake Central,20253,Blackburn North,,no_eligible_route
+21360,Kinglake West,20253,Blackburn North,151.5,ok
+21362,Kings Park (Vic.),20253,Blackburn North,110.15,ok
+21363,Kingsbury,20253,Blackburn North,85.42,ok
+21365,Kingsville,20253,Blackburn North,83.93,ok
+21374,Knoxfield,20253,Blackburn North,63.55,ok
+21380,Koo Wee Rup,20253,Blackburn North,,no_eligible_route
+21381,Koo Wee Rup North,20253,Blackburn North,,no_eligible_route
+21393,Kooyong,20253,Blackburn North,58.83,ok
+21411,Kurunjang,20253,Blackburn North,167.2,ok
+21452,Lalor,20253,Blackburn North,78.75,ok
+21456,Lancefield,20253,Blackburn North,,no_eligible_route
+21459,Lang Lang,20253,Blackburn North,,no_eligible_route
+21460,Lang Lang East,20253,Blackburn North,,no_eligible_route
+21467,Langwarrin,20253,Blackburn North,137.18,ok
+21468,Langwarrin South,20253,Blackburn North,,no_eligible_route
+21473,Launching Place,20253,Blackburn North,84.18,ok
+21476,Laverton (Vic.),20253,Blackburn North,92.5,ok
+21477,Laverton North,20253,Blackburn North,126.58,ok
+21504,Lilydale (Vic.),20253,Blackburn North,68.83,ok
+21533,Long Forest,20253,Blackburn North,,no_eligible_route
+21547,Lower Plenty,20253,Blackburn North,66.58,ok
+21554,Lynbrook,20253,Blackburn North,101.05,ok
+21555,Lyndhurst (Vic.),20253,Blackburn North,143.63,ok
+21558,Lysterfield,20253,Blackburn North,,no_eligible_route
+21559,Lysterfield South,20253,Blackburn North,,no_eligible_route
+21561,Macclesfield (Vic.),20253,Blackburn North,,no_eligible_route
+21562,Macedon,20253,Blackburn North,,no_eligible_route
+21564,Macleod (Vic.),20253,Blackburn North,70.3,ok
+21569,Maddingley,20253,Blackburn North,,no_eligible_route
+21575,Maidstone,20253,Blackburn North,95.03,ok
+21578,Main Ridge,20253,Blackburn North,,no_eligible_route
+21586,Malvern (Vic.),20253,Blackburn North,62.25,ok
+21587,Malvern East,20253,Blackburn North,67.13,ok
+21588,Mambourin,20253,Blackburn North,,no_eligible_route
+21597,Manor Lakes,20253,Blackburn North,145.97,ok
+21604,Maribyrnong,20253,Blackburn North,92.43,ok
+21619,Maryknoll,20253,Blackburn North,,no_eligible_route
+21625,McCrae,20253,Blackburn North,,no_eligible_route
+21629,McKinnon,20253,Blackburn North,75.92,ok
+21635,Meadow Heights,20253,Blackburn North,114.6,ok
+21640,Melbourne,20253,Blackburn North,55.52,ok
+21641,Melbourne Airport,20253,Blackburn North,,no_eligible_route
+21642,Melton (Vic.),20253,Blackburn North,169.5,ok
+21643,Melton South,20253,Blackburn North,183.1,ok
+21644,Melton West,20253,Blackburn North,163.38,ok
+21648,Mentone,20253,Blackburn North,83.27,ok
+21649,Menzies Creek,20253,Blackburn North,87.58,ok
+21659,Mernda,20253,Blackburn North,113.12,ok
+21662,Merricks,20253,Blackburn North,,no_eligible_route
+21663,Merricks Beach,20253,Blackburn North,,no_eligible_route
+21664,Merricks North,20253,Blackburn North,,no_eligible_route
+21668,Merrimu,20253,Blackburn North,,no_eligible_route
+21675,Mickleham,20253,Blackburn North,142.73,ok
+21677,Middle Park (Vic.),20253,Blackburn North,74.83,ok
+21683,Mill Park,20253,Blackburn North,89.13,ok
+21685,Millgrove,20253,Blackburn North,,no_eligible_route
+21706,Mitcham (Vic.),20253,Blackburn North,27.32,ok
+21727,Monbulk,20253,Blackburn North,105.68,ok
+21728,Monegeetta,20253,Blackburn North,,no_eligible_route
+21731,Monomeith,20253,Blackburn North,,no_eligible_route
+21732,Mont Albert,20253,Blackburn North,29.9,ok
+21733,Mont Albert North,20253,Blackburn North,28.27,ok
+21735,Montmorency,20253,Blackburn North,52.98,ok
+21736,Montrose (Vic.),20253,Blackburn North,65.67,ok
+21742,Moonee Ponds,20253,Blackburn North,71.07,ok
+21746,Moorabbin,20253,Blackburn North,88.87,ok
+21747,Moorabbin Airport,20253,Blackburn North,108.1,ok
+21754,Moorooduc,20253,Blackburn North,,no_eligible_route
+21755,Mooroolbark,20253,Blackburn North,59.73,ok
+21760,Mordialloc,20253,Blackburn North,106.9,ok
+21763,Mornington (Vic.),20253,Blackburn North,160.73,ok
+21779,Mount Burnett,20253,Blackburn North,,no_eligible_route
+21786,Mount Cottrell,20253,Blackburn North,,no_eligible_route
+21787,Mount Dandenong,20253,Blackburn North,76.37,ok
+21793,Mount Eliza,20253,Blackburn North,131.27,ok
+21795,Mount Evelyn,20253,Blackburn North,80.57,ok
+21801,Mount Macedon,20253,Blackburn North,,no_eligible_route
+21803,Mount Martha,20253,Blackburn North,164.67,ok
+21814,Mount Toolebewong,20253,Blackburn North,,no_eligible_route
+21816,Mount Waverley,20253,Blackburn North,48.25,ok
+21827,Mulgrave (Vic.),20253,Blackburn North,77.57,ok
+21849,Murrumbeena,20253,Blackburn North,74.98,ok
+21872,Nangana,20253,Blackburn North,,no_eligible_route
+21878,Nar Nar Goon,20253,Blackburn North,,no_eligible_route
+21879,Nar Nar Goon North,20253,Blackburn North,,no_eligible_route
+21893,Narre Warren,20253,Blackburn North,105.23,ok
+21894,Narre Warren East,20253,Blackburn North,,no_eligible_route
+21895,Narre Warren North,20253,Blackburn North,115.05,ok
+21896,Narre Warren South,20253,Blackburn North,116.47,ok
+21921,New Gisborne,20253,Blackburn North,,no_eligible_route
+21934,Newport (Vic.),20253,Blackburn North,77.35,ok
+21942,Niddrie,20253,Blackburn North,98.95,ok
+21952,Noble Park,20253,Blackburn North,78.05,ok
+21953,Noble Park North,20253,Blackburn North,95.3,ok
+21966,North Melbourne,20253,Blackburn North,62.4,ok
+21969,North Warrandyte,20253,Blackburn North,59.48,ok
+21971,Northcote,20253,Blackburn North,59.48,ok
+21974,Notting Hill,20253,Blackburn North,54.18,ok
+21985,Nunawading,20253,Blackburn North,16.95,ok
+21991,Nutfield,20253,Blackburn North,,no_eligible_route
+21998,Oak Park,20253,Blackburn North,89.38,ok
+21999,Oaklands Junction,20253,Blackburn North,,no_eligible_route
+22000,Oakleigh,20253,Blackburn North,64.88,ok
+22001,Oakleigh East,20253,Blackburn North,65.9,ok
+22002,Oakleigh South,20253,Blackburn North,66.52,ok
+22006,Officer,20253,Blackburn North,119.33,ok
+22007,Officer South,20253,Blackburn North,166.9,ok
+22009,Olinda (Vic.),20253,Blackburn North,100.02,ok
+22016,Ormond,20253,Blackburn North,76.35,ok
+22027,Pakenham,20253,Blackburn North,118.38,ok
+22028,Pakenham South,20253,Blackburn North,,no_eligible_route
+22029,Pakenham Upper,20253,Blackburn North,,no_eligible_route
+22032,Panton Hill,20253,Blackburn North,,no_eligible_route
+22036,Park Orchards,20253,Blackburn North,30.4,ok
+22037,Parkdale,20253,Blackburn North,96.68,ok
+22038,Parkville (Vic.),20253,Blackburn North,71.28,ok
+22041,Pascoe Vale,20253,Blackburn North,93.75,ok
+22042,Pascoe Vale South,20253,Blackburn North,89.48,ok
+22047,Patterson Lakes,20253,Blackburn North,110.33,ok
+22050,Pearcedale,20253,Blackburn North,176.2,ok
+22058,Pentland Hills,20253,Blackburn North,,no_eligible_route
+22064,Pheasant Creek (Vic.),20253,Blackburn North,167.15,ok
+22084,Plenty (Vic.),20253,Blackburn North,82.8,ok
+22085,Plumpton (Vic.),20253,Blackburn North,,no_eligible_route
+22086,Point Cook,20253,Blackburn North,108.73,ok
+22087,Point Leo,20253,Blackburn North,,no_eligible_route
+22107,Port Melbourne,20253,Blackburn North,75.35,ok
+22113,Portsea,20253,Blackburn North,,no_eligible_route
+22115,Powelltown,20253,Blackburn North,,no_eligible_route
+22118,Prahran,20253,Blackburn North,65.42,ok
+22121,Preston (Vic.),20253,Blackburn North,70.27,ok
+22122,Princes Hill,20253,Blackburn North,64.32,ok
+22132,Quandong,20253,Blackburn North,,no_eligible_route
+22141,Ravenhall,20253,Blackburn North,144.18,ok
+22148,Red Hill (Vic.),20253,Blackburn North,,no_eligible_route
+22149,Red Hill South,20253,Blackburn North,,no_eligible_route
+22160,Research,20253,Blackburn North,65.38,ok
+22161,Reservoir (Vic.),20253,Blackburn North,75.57,ok
+22170,Richmond (Vic.),20253,Blackburn North,52.02,ok
+22172,Riddells Creek,20253,Blackburn North,,no_eligible_route
+22174,Ringwood (Vic.),20253,Blackburn North,41.33,ok
+22175,Ringwood East,20253,Blackburn North,41.48,ok
+22176,Ringwood North,20253,Blackburn North,36.98,ok
+22179,Ripponlea,20253,Blackburn North,61.32,ok
+22185,Rochford,20253,Blackburn North,,no_eligible_route
+22186,Rockbank,20253,Blackburn North,142.77,ok
+22193,Romsey,20253,Blackburn North,,no_eligible_route
+22194,Rosanna,20253,Blackburn North,53.03,ok
+22198,Rosebud,20253,Blackburn North,,no_eligible_route
+22207,Rowville,20253,Blackburn North,74.22,ok
+22208,Roxburgh Park,20253,Blackburn North,107.0,ok
+22220,Rye,20253,Blackburn North,225.67,ok
+22221,Rythdale,20253,Blackburn North,,no_eligible_route
+22222,Safety Beach (Vic.),20253,Blackburn North,180.63,ok
+22232,Sandhurst,20253,Blackburn North,147.32,ok
+22234,Sandringham (Vic.),20253,Blackburn North,88.17,ok
+22239,Sassafras (Vic.),20253,Blackburn North,81.57,ok
+22242,Scoresby,20253,Blackburn North,77.43,ok
+22247,Seabrook,20253,Blackburn North,102.8,ok
+22249,Seaford (Vic.),20253,Blackburn North,118.35,ok
+22250,Seaholme,20253,Blackburn North,91.58,ok
+22256,Seddon (Vic.),20253,Blackburn North,74.58,ok
+22258,Selby,20253,Blackburn North,87.25,ok
+22263,Seville,20253,Blackburn North,103.35,ok
+22264,Seville East,20253,Blackburn North,90.23,ok
+22278,Sherbrooke,20253,Blackburn North,88.3,ok
+22279,Shoreham,20253,Blackburn North,,no_eligible_route
+22281,Silvan,20253,Blackburn North,93.73,ok
+22291,Skye (Vic.),20253,Blackburn North,127.8,ok
+22295,Smiths Gully,20253,Blackburn North,,no_eligible_route
+22303,Somers,20253,Blackburn North,,no_eligible_route
+22304,Somerton (Vic.),20253,Blackburn North,111.37,ok
+22305,Somerville (Vic.),20253,Blackburn North,170.22,ok
+22306,Sorrento (Vic.),20253,Blackburn North,216.43,ok
+22309,South Kingsville,20253,Blackburn North,95.6,ok
+22310,South Melbourne,20253,Blackburn North,68.08,ok
+22311,South Morang,20253,Blackburn North,101.45,ok
+22313,South Wharf,20253,Blackburn North,66.47,ok
+22314,South Yarra,20253,Blackburn North,52.08,ok
+22315,Southbank,20253,Blackburn North,62.17,ok
+22319,Spotswood,20253,Blackburn North,75.75,ok
+22325,Springfield (Macedon Ranges - Vic.),20253,Blackburn North,,no_eligible_route
+22328,Springvale (Vic.),20253,Blackburn North,68.13,ok
+22329,Springvale South,20253,Blackburn North,67.75,ok
+22330,St Albans (Vic.),20253,Blackburn North,90.08,ok
+22332,St Andrews (Vic.),20253,Blackburn North,,no_eligible_route
+22333,St Andrews Beach,20253,Blackburn North,,no_eligible_route
+22339,St Helena,20253,Blackburn North,75.08,ok
+22343,St Kilda (Vic.),20253,Blackburn North,55.67,ok
+22344,St Kilda East,20253,Blackburn North,69.75,ok
+22345,St Kilda West,20253,Blackburn North,67.35,ok
+22355,Steels Creek,20253,Blackburn North,,no_eligible_route
+22375,Strathewen,20253,Blackburn North,,no_eligible_route
+22380,Strathmore (Vic.),20253,Blackburn North,91.85,ok
+22381,Strathmore Heights,20253,Blackburn North,102.63,ok
+22382,Strathtulloh,20253,Blackburn North,,no_eligible_route
+22391,Sunbury,20253,Blackburn North,154.37,ok
+22395,Sunshine (Vic.),20253,Blackburn North,78.87,ok
+22396,Sunshine North,20253,Blackburn North,96.93,ok
+22397,Sunshine West,20253,Blackburn North,106.22,ok
+22399,Surrey Hills,20253,Blackburn North,35.87,ok
+22414,Sydenham (Vic.),20253,Blackburn North,104.48,ok
+22451,Tarneit,20253,Blackburn North,128.8,ok
+22457,Tarrawarra,20253,Blackburn North,103.15,ok
+22473,Taylors Hill,20253,Blackburn North,114.32,ok
+22474,Taylors Lakes,20253,Blackburn North,104.9,ok
+22476,Tecoma,20253,Blackburn North,58.52,ok
+22483,Templestowe,20253,Blackburn North,39.67,ok
+22484,Templestowe Lower,20253,Blackburn North,47.98,ok
+22496,The Basin (Vic.),20253,Blackburn North,69.0,ok
+22501,The Patch,20253,Blackburn North,96.25,ok
+22504,Thomastown,20253,Blackburn North,84.05,ok
+22508,Thornbury,20253,Blackburn North,65.65,ok
+22509,Thornhill Park,20253,Blackburn North,,no_eligible_route
+22514,Three Bridges,20253,Blackburn North,,no_eligible_route
+22531,Tonimbuk,20253,Blackburn North,,no_eligible_route
+22536,Toolangi,20253,Blackburn North,,no_eligible_route
+22537,Toolern Vale,20253,Blackburn North,,no_eligible_route
+22546,Tooradin,20253,Blackburn North,,no_eligible_route
+22547,Toorak,20253,Blackburn North,66.03,ok
+22550,Tootgarook,20253,Blackburn North,209.08,ok
+22556,Tottenham (Vic.),20253,Blackburn North,105.3,ok
+22572,Travancore,20253,Blackburn North,70.82,ok
+22576,Tremont,20253,Blackburn North,73.7,ok
+22582,Truganina,20253,Blackburn North,183.95,ok
+22584,Tuerong,20253,Blackburn North,,no_eligible_route
+22586,Tullamarine,20253,Blackburn North,116.4,ok
+22594,Tyabb,20253,Blackburn North,159.08,ok
+22598,Tynong,20253,Blackburn North,,no_eligible_route
+22599,Tynong North,20253,Blackburn North,,no_eligible_route
+22614,Upper Ferntree Gully,20253,Blackburn North,55.67,ok
+22617,Upper Plenty,20253,Blackburn North,,no_eligible_route
+22620,Upwey,20253,Blackburn North,58.38,ok
+22627,Vermont,20253,Blackburn North,41.52,ok
+22628,Vermont South,20253,Blackburn North,49.37,ok
+22629,Vervale,20253,Blackburn North,,no_eligible_route
+22633,Viewbank,20253,Blackburn North,74.35,ok
+22661,Wallan,20253,Blackburn North,,no_eligible_route
+22672,Wandin East,20253,Blackburn North,,no_eligible_route
+22673,Wandin North,20253,Blackburn North,68.32,ok
+22676,Wandong,20253,Blackburn North,,no_eligible_route
+22685,Wantirna,20253,Blackburn North,51.07,ok
+22686,Wantirna South,20253,Blackburn North,59.6,ok
+22689,Warburton (Vic.),20253,Blackburn North,,no_eligible_route
+22695,Warneet,20253,Blackburn North,,no_eligible_route
+22702,Warrandyte,20253,Blackburn North,42.3,ok
+22703,Warrandyte South,20253,Blackburn North,72.43,ok
+22704,Warranwood,20253,Blackburn North,55.22,ok
+22717,Waterford Park,20253,Blackburn North,,no_eligible_route
+22720,Waterways,20253,Blackburn North,100.18,ok
+22721,Watsonia,20253,Blackburn North,65.22,ok
+22722,Watsonia North,20253,Blackburn North,71.08,ok
+22723,Watsons Creek (Vic.),20253,Blackburn North,,no_eligible_route
+22727,Wattle Glen,20253,Blackburn North,86.97,ok
+22740,Weir Views,20253,Blackburn North,218.22,ok
+22750,Werribee,20253,Blackburn North,103.53,ok
+22751,Werribee South,20253,Blackburn North,150.08,ok
+22753,Wesburn,20253,Blackburn North,108.28,ok
+22756,West Footscray,20253,Blackburn North,82.03,ok
+22757,West Melbourne,20253,Blackburn North,74.97,ok
+22761,Westmeadows,20253,Blackburn North,101.42,ok
+22766,Wheelers Hill,20253,Blackburn North,64.25,ok
+22775,Whittlesea,20253,Blackburn North,,no_eligible_route
+22784,Wildwood,20253,Blackburn North,,no_eligible_route
+22791,Williams Landing,20253,Blackburn North,106.75,ok
+22792,Williamstown (Vic.),20253,Blackburn North,85.68,ok
+22793,Williamstown North,20253,Blackburn North,94.05,ok
+22805,Windsor (Vic.),20253,Blackburn North,58.58,ok
+22820,Wollert,20253,Blackburn North,136.62,ok
+22825,Wonga Park,20253,Blackburn North,65.07,ok
+22843,Woodstock (Vic.),20253,Blackburn North,,no_eligible_route
+22857,Woori Yallock,20253,Blackburn North,79.43,ok
+22883,Wyndham Vale,20253,Blackburn North,136.35,ok
+22892,Yallambie,20253,Blackburn North,69.22,ok
+22898,Yan Yean,20253,Blackburn North,126.88,ok
+22906,Yannathan,20253,Blackburn North,,no_eligible_route
+22910,Yarra Glen,20253,Blackburn North,99.45,ok
+22911,Yarra Junction,20253,Blackburn North,112.55,ok
+22916,Yarrambat,20253,Blackburn North,78.37,ok
+22917,Yarraville,20253,Blackburn North,81.5,ok
+22925,Yellingbo,20253,Blackburn North,,no_eligible_route
+22930,Yering,20253,Blackburn North,,no_eligible_route
+22941,Yuroke,20253,Blackburn North,164.37,ok

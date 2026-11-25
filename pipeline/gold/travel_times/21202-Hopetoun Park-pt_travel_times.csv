@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21202,Hopetoun Park,,no_eligible_route
+20003,Aberfeldie,21202,Hopetoun Park,,no_eligible_route
+20011,Aintree,21202,Hopetoun Park,,no_eligible_route
+20015,Airport West,21202,Hopetoun Park,,no_eligible_route
+20017,Albanvale,21202,Hopetoun Park,,no_eligible_route
+20018,Albert Park (Vic.),21202,Hopetoun Park,,no_eligible_route
+20021,Albion (Vic.),21202,Hopetoun Park,,no_eligible_route
+20034,Alphington,21202,Hopetoun Park,,no_eligible_route
+20035,Altona (Vic.),21202,Hopetoun Park,,no_eligible_route
+20036,Altona Meadows,21202,Hopetoun Park,,no_eligible_route
+20037,Altona North,21202,Hopetoun Park,,no_eligible_route
+20062,Ardeer,21202,Hopetoun Park,,no_eligible_route
+20066,Armadale (Vic.),21202,Hopetoun Park,,no_eligible_route
+20071,Arthurs Creek,21202,Hopetoun Park,,no_eligible_route
+20072,Arthurs Seat,21202,Hopetoun Park,,no_eligible_route
+20075,Ascot Vale,21202,Hopetoun Park,,no_eligible_route
+20077,Ashburton,21202,Hopetoun Park,,no_eligible_route
+20078,Ashwood,21202,Hopetoun Park,,no_eligible_route
+20079,Aspendale,21202,Hopetoun Park,,no_eligible_route
+20080,Aspendale Gardens,21202,Hopetoun Park,,no_eligible_route
+20082,Attwood,21202,Hopetoun Park,,no_eligible_route
+20089,Avondale Heights,21202,Hopetoun Park,,no_eligible_route
+20091,Avonsleigh,21202,Hopetoun Park,,no_eligible_route
+20095,Bacchus Marsh,21202,Hopetoun Park,98.68,walk_only
+20097,Badger Creek,21202,Hopetoun Park,,no_eligible_route
+20105,Balaclava (Vic.),21202,Hopetoun Park,,no_eligible_route
+20120,Balnarring,21202,Hopetoun Park,,no_eligible_route
+20121,Balnarring Beach,21202,Hopetoun Park,,no_eligible_route
+20123,Balwyn,21202,Hopetoun Park,,no_eligible_route
+20124,Balwyn North,21202,Hopetoun Park,,no_eligible_route
+20131,Bangholme,21202,Hopetoun Park,,no_eligible_route
+20169,Baxter,21202,Hopetoun Park,,no_eligible_route
+20171,Bayles,21202,Hopetoun Park,,no_eligible_route
+20173,Bayswater (Vic.),21202,Hopetoun Park,,no_eligible_route
+20174,Bayswater North,21202,Hopetoun Park,,no_eligible_route
+20175,Beaconsfield (Vic.),21202,Hopetoun Park,,no_eligible_route
+20176,Beaconsfield Upper,21202,Hopetoun Park,,no_eligible_route
+20182,Beaumaris (Vic.),21202,Hopetoun Park,,no_eligible_route
+20187,Beenak,21202,Hopetoun Park,,no_eligible_route
+20188,Belgrave,21202,Hopetoun Park,,no_eligible_route
+20189,Belgrave Heights,21202,Hopetoun Park,,no_eligible_route
+20190,Belgrave South,21202,Hopetoun Park,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21202,Hopetoun Park,,no_eligible_route
+20207,Bend Of Islands,21202,Hopetoun Park,,no_eligible_route
+20212,Benloch,21202,Hopetoun Park,,no_eligible_route
+20214,Bentleigh,21202,Hopetoun Park,,no_eligible_route
+20215,Bentleigh East,21202,Hopetoun Park,,no_eligible_route
+20224,Berwick,21202,Hopetoun Park,,no_eligible_route
+20233,Beveridge,21202,Hopetoun Park,,no_eligible_route
+20237,Big Pats Creek,21202,Hopetoun Park,,no_eligible_route
+20248,Bittern,21202,Hopetoun Park,,no_eligible_route
+20251,Black Rock (Vic.),21202,Hopetoun Park,,no_eligible_route
+20252,Blackburn,21202,Hopetoun Park,,no_eligible_route
+20253,Blackburn North,21202,Hopetoun Park,,no_eligible_route
+20254,Blackburn South,21202,Hopetoun Park,,no_eligible_route
+20257,Blairgowrie,21202,Hopetoun Park,,no_eligible_route
+20260,Blind Bight,21202,Hopetoun Park,,no_eligible_route
+20272,Bolinda,21202,Hopetoun Park,,no_eligible_route
+20278,Bonbeach,21202,Hopetoun Park,,no_eligible_route
+20280,Boneo,21202,Hopetoun Park,,no_eligible_route
+20282,Bonnie Brook,21202,Hopetoun Park,,no_eligible_route
+20304,Boronia,21202,Hopetoun Park,,no_eligible_route
+20307,Botanic Ridge,21202,Hopetoun Park,,no_eligible_route
+20314,Box Hill (Vic.),21202,Hopetoun Park,,no_eligible_route
+20315,Box Hill North,21202,Hopetoun Park,,no_eligible_route
+20316,Box Hill South,21202,Hopetoun Park,,no_eligible_route
+20320,Braeside,21202,Hopetoun Park,,no_eligible_route
+20324,Braybrook,21202,Hopetoun Park,,no_eligible_route
+20331,Briar Hill,21202,Hopetoun Park,,no_eligible_route
+20337,Brighton (Vic.),21202,Hopetoun Park,,no_eligible_route
+20338,Brighton East,21202,Hopetoun Park,,no_eligible_route
+20346,Broadmeadows (Vic.),21202,Hopetoun Park,,no_eligible_route
+20351,Brookfield (Vic.),21202,Hopetoun Park,105.75,walk_only
+20352,Brooklyn (Vic.),21202,Hopetoun Park,,no_eligible_route
+20361,Brunswick (Vic.),21202,Hopetoun Park,,no_eligible_route
+20362,Brunswick East,21202,Hopetoun Park,,no_eligible_route
+20363,Brunswick West,21202,Hopetoun Park,,no_eligible_route
+20381,Bulla (Vic.),21202,Hopetoun Park,,no_eligible_route
+20386,Bulleen,21202,Hopetoun Park,,no_eligible_route
+20387,Bullengarook,21202,Hopetoun Park,,no_eligible_route
+20399,Bundoora (Vic.),21202,Hopetoun Park,,no_eligible_route
+20411,Bunyip,21202,Hopetoun Park,,no_eligible_route
+20412,Bunyip North,21202,Hopetoun Park,,no_eligible_route
+20418,Burnley,21202,Hopetoun Park,,no_eligible_route
+20419,Burnside (Vic.),21202,Hopetoun Park,,no_eligible_route
+20420,Burnside Heights,21202,Hopetoun Park,,no_eligible_route
+20426,Burwood (Vic.),21202,Hopetoun Park,,no_eligible_route
+20427,Burwood East,21202,Hopetoun Park,,no_eligible_route
+20435,Bylands,21202,Hopetoun Park,,no_eligible_route
+20441,Cairnlea,21202,Hopetoun Park,,no_eligible_route
+20442,Calder Park,21202,Hopetoun Park,,no_eligible_route
+20443,Caldermeade,21202,Hopetoun Park,,no_eligible_route
+20453,Camberwell (Vic.),21202,Hopetoun Park,,no_eligible_route
+20455,Campbellfield,21202,Hopetoun Park,,no_eligible_route
+20466,Cannons Creek,21202,Hopetoun Park,,no_eligible_route
+20468,Canterbury (Vic.),21202,Hopetoun Park,,no_eligible_route
+20474,Cape Schanck,21202,Hopetoun Park,,no_eligible_route
+20476,Capel Sound,21202,Hopetoun Park,,no_eligible_route
+20487,Cardinia,21202,Hopetoun Park,,no_eligible_route
+20495,Carlton (Vic.),21202,Hopetoun Park,,no_eligible_route
+20496,Carlton North,21202,Hopetoun Park,,no_eligible_route
+20498,Carnegie,21202,Hopetoun Park,,no_eligible_route
+20500,Caroline Springs,21202,Hopetoun Park,,no_eligible_route
+20507,Carrum,21202,Hopetoun Park,,no_eligible_route
+20508,Carrum Downs,21202,Hopetoun Park,,no_eligible_route
+20512,Castella,21202,Hopetoun Park,,no_eligible_route
+20517,Catani,21202,Hopetoun Park,,no_eligible_route
+20521,Caulfield,21202,Hopetoun Park,,no_eligible_route
+20522,Caulfield East,21202,Hopetoun Park,,no_eligible_route
+20523,Caulfield North,21202,Hopetoun Park,,no_eligible_route
+20524,Caulfield South,21202,Hopetoun Park,,no_eligible_route
+20528,Chadstone,21202,Hopetoun Park,,no_eligible_route
+20537,Chelsea,21202,Hopetoun Park,,no_eligible_route
+20538,Chelsea Heights,21202,Hopetoun Park,,no_eligible_route
+20539,Cheltenham (Vic.),21202,Hopetoun Park,,no_eligible_route
+20541,Cherokee,21202,Hopetoun Park,,no_eligible_route
+20555,Chintin,21202,Hopetoun Park,,no_eligible_route
+20556,Chirnside Park,21202,Hopetoun Park,,no_eligible_route
+20559,Christmas Hills (Vic.),21202,Hopetoun Park,,no_eligible_route
+20560,Chum Creek,21202,Hopetoun Park,,no_eligible_route
+20566,Clarinda,21202,Hopetoun Park,,no_eligible_route
+20567,Clarkefield,21202,Hopetoun Park,,no_eligible_route
+20569,Clayton,21202,Hopetoun Park,,no_eligible_route
+20570,Clayton South,21202,Hopetoun Park,,no_eligible_route
+20572,Clematis,21202,Hopetoun Park,,no_eligible_route
+20574,Clifton Hill,21202,Hopetoun Park,,no_eligible_route
+20576,Clonbinane,21202,Hopetoun Park,,no_eligible_route
+20581,Clyde (Vic.),21202,Hopetoun Park,,no_eligible_route
+20582,Clyde North,21202,Hopetoun Park,,no_eligible_route
+20587,Cobaw,21202,Hopetoun Park,,no_eligible_route
+20590,Cobblebank,21202,Hopetoun Park,153.3,walk_only
+20596,Coburg,21202,Hopetoun Park,,no_eligible_route
+20597,Coburg North,21202,Hopetoun Park,,no_eligible_route
+20600,Cockatoo (Vic.),21202,Hopetoun Park,,no_eligible_route
+20601,Cocoroc,21202,Hopetoun Park,,no_eligible_route
+20605,Coimadai,21202,Hopetoun Park,181.73,walk_only
+20613,Coldstream (Vic.),21202,Hopetoun Park,,no_eligible_route
+20616,Collingwood (Vic.),21202,Hopetoun Park,,no_eligible_route
+20624,Coolaroo,21202,Hopetoun Park,,no_eligible_route
+20633,Cora Lynn,21202,Hopetoun Park,,no_eligible_route
+20654,Cottles Bridge,21202,Hopetoun Park,,no_eligible_route
+20661,Craigieburn,21202,Hopetoun Park,,no_eligible_route
+20662,Cranbourne,21202,Hopetoun Park,,no_eligible_route
+20663,Cranbourne East,21202,Hopetoun Park,,no_eligible_route
+20664,Cranbourne North,21202,Hopetoun Park,,no_eligible_route
+20665,Cranbourne South,21202,Hopetoun Park,,no_eligible_route
+20666,Cranbourne West,21202,Hopetoun Park,,no_eligible_route
+20670,Cremorne (Vic.),21202,Hopetoun Park,,no_eligible_route
+20674,Crib Point,21202,Hopetoun Park,,no_eligible_route
+20682,Croydon (Vic.),21202,Hopetoun Park,,no_eligible_route
+20683,Croydon Hills,21202,Hopetoun Park,,no_eligible_route
+20684,Croydon North,21202,Hopetoun Park,,no_eligible_route
+20685,Croydon South,21202,Hopetoun Park,,no_eligible_route
+20702,Dallas,21202,Hopetoun Park,,no_eligible_route
+20703,Dalmore,21202,Hopetoun Park,,no_eligible_route
+20707,Dandenong,21202,Hopetoun Park,,no_eligible_route
+20708,Dandenong North,21202,Hopetoun Park,,no_eligible_route
+20709,Dandenong South,21202,Hopetoun Park,,no_eligible_route
+20712,Darley,21202,Hopetoun Park,182.32,walk_only
+20716,Darraweit Guim,21202,Hopetoun Park,,no_eligible_route
+20724,Deanside,21202,Hopetoun Park,,no_eligible_route
+20728,Deepdene (Vic.),21202,Hopetoun Park,,no_eligible_route
+20729,Deer Park,21202,Hopetoun Park,,no_eligible_route
+20731,Delahey,21202,Hopetoun Park,,no_eligible_route
+20743,Derrimut,21202,Hopetoun Park,,no_eligible_route
+20748,Devon Meadows,21202,Hopetoun Park,,no_eligible_route
+20750,Dewhurst,21202,Hopetoun Park,,no_eligible_route
+20752,Diamond Creek,21202,Hopetoun Park,,no_eligible_route
+20754,Diggers Rest,21202,Hopetoun Park,,no_eligible_route
+20758,Dingley Village,21202,Hopetoun Park,,no_eligible_route
+20762,Dixons Creek,21202,Hopetoun Park,,no_eligible_route
+20766,Docklands,21202,Hopetoun Park,,no_eligible_route
+20769,Don Valley,21202,Hopetoun Park,,no_eligible_route
+20771,Doncaster,21202,Hopetoun Park,,no_eligible_route
+20772,Doncaster East,21202,Hopetoun Park,,no_eligible_route
+20773,Donnybrook (Vic.),21202,Hopetoun Park,,no_eligible_route
+20774,Donvale,21202,Hopetoun Park,,no_eligible_route
+20779,Doreen,21202,Hopetoun Park,,no_eligible_route
+20783,Doveton,21202,Hopetoun Park,,no_eligible_route
+20788,Dromana,21202,Hopetoun Park,,no_eligible_route
+20825,Eaglemont,21202,Hopetoun Park,,no_eligible_route
+20830,East Melbourne,21202,Hopetoun Park,,no_eligible_route
+20833,East Warburton,21202,Hopetoun Park,,no_eligible_route
+20843,Eden Park,21202,Hopetoun Park,,no_eligible_route
+20848,Edithvale,21202,Hopetoun Park,,no_eligible_route
+20864,Elsternwick,21202,Hopetoun Park,,no_eligible_route
+20865,Eltham (Vic.),21202,Hopetoun Park,,no_eligible_route
+20866,Eltham North,21202,Hopetoun Park,,no_eligible_route
+20867,Elwood,21202,Hopetoun Park,,no_eligible_route
+20868,Emerald (Vic.),21202,Hopetoun Park,,no_eligible_route
+20871,Endeavour Hills,21202,Hopetoun Park,,no_eligible_route
+20878,Epping (Vic.),21202,Hopetoun Park,,no_eligible_route
+20885,Essendon,21202,Hopetoun Park,,no_eligible_route
+20886,Essendon Fields,21202,Hopetoun Park,,no_eligible_route
+20887,Essendon North,21202,Hopetoun Park,,no_eligible_route
+20888,Essendon West,21202,Hopetoun Park,,no_eligible_route
+20889,Eumemmerring,21202,Hopetoun Park,,no_eligible_route
+20898,Exford,21202,Hopetoun Park,,no_eligible_route
+20899,Eynesbury,21202,Hopetoun Park,,no_eligible_route
+20901,Fairfield (Vic.),21202,Hopetoun Park,,no_eligible_route
+20909,Fawkner,21202,Hopetoun Park,,no_eligible_route
+20916,Fernshaw,21202,Hopetoun Park,,no_eligible_route
+20917,Ferntree Gully,21202,Hopetoun Park,,no_eligible_route
+20918,Ferny Creek,21202,Hopetoun Park,,no_eligible_route
+20920,Fingal (Vic.),21202,Hopetoun Park,,no_eligible_route
+20924,Fitzroy (Vic.),21202,Hopetoun Park,,no_eligible_route
+20925,Fitzroy North,21202,Hopetoun Park,,no_eligible_route
+20929,Flemington,21202,Hopetoun Park,,no_eligible_route
+20930,Flinders (Vic.),21202,Hopetoun Park,,no_eligible_route
+20935,Footscray,21202,Hopetoun Park,,no_eligible_route
+20937,Forest Hill (Vic.),21202,Hopetoun Park,,no_eligible_route
+20947,Frankston,21202,Hopetoun Park,,no_eligible_route
+20948,Frankston North,21202,Hopetoun Park,,no_eligible_route
+20949,Frankston South,21202,Hopetoun Park,,no_eligible_route
+20950,Fraser Rise,21202,Hopetoun Park,,no_eligible_route
+20965,Gardenvale,21202,Hopetoun Park,,no_eligible_route
+20966,Garfield,21202,Hopetoun Park,,no_eligible_route
+20967,Garfield North,21202,Hopetoun Park,,no_eligible_route
+20979,Gembrook,21202,Hopetoun Park,,no_eligible_route
+20995,Gilderoy,21202,Hopetoun Park,,no_eligible_route
+21001,Gisborne,21202,Hopetoun Park,,no_eligible_route
+21002,Gisborne South,21202,Hopetoun Park,,no_eligible_route
+21004,Gladstone Park,21202,Hopetoun Park,,no_eligible_route
+21005,Gladysdale,21202,Hopetoun Park,,no_eligible_route
+21009,Glen Huntly,21202,Hopetoun Park,,no_eligible_route
+21010,Glen Iris (Vic.),21202,Hopetoun Park,,no_eligible_route
+21013,Glen Waverley,21202,Hopetoun Park,,no_eligible_route
+21047,Glenroy (Vic.),21202,Hopetoun Park,,no_eligible_route
+21059,Goldie,21202,Hopetoun Park,,no_eligible_route
+21079,Gowanbrae,21202,Hopetoun Park,,no_eligible_route
+21087,Grangefields,21202,Hopetoun Park,212.35,walk_only
+21104,Greensborough,21202,Hopetoun Park,,no_eligible_route
+21105,Greenvale (Vic.),21202,Hopetoun Park,,no_eligible_route
+21115,Gruyere,21202,Hopetoun Park,,no_eligible_route
+21121,Guys Hill,21202,Hopetoun Park,,no_eligible_route
+21124,Hadfield,21202,Hopetoun Park,,no_eligible_route
+21125,Hallam,21202,Hopetoun Park,,no_eligible_route
+21131,Hampton (Vic.),21202,Hopetoun Park,,no_eligible_route
+21132,Hampton East,21202,Hopetoun Park,,no_eligible_route
+21133,Hampton Park,21202,Hopetoun Park,,no_eligible_route
+21139,Harkaway,21202,Hopetoun Park,,no_eligible_route
+21140,Harkness,21202,Hopetoun Park,124.13,walk_only
+21145,Hastings (Vic.),21202,Hopetoun Park,,no_eligible_route
+21152,Hawthorn (Vic.),21202,Hopetoun Park,,no_eligible_route
+21153,Hawthorn East,21202,Hopetoun Park,,no_eligible_route
+21158,Healesville,21202,Hopetoun Park,,no_eligible_route
+21159,Heath Hill,21202,Hopetoun Park,,no_eligible_route
+21161,Heathcote Junction,21202,Hopetoun Park,,no_eligible_route
+21163,Heatherton,21202,Hopetoun Park,,no_eligible_route
+21165,Heathmont,21202,Hopetoun Park,,no_eligible_route
+21167,Heidelberg,21202,Hopetoun Park,,no_eligible_route
+21168,Heidelberg Heights,21202,Hopetoun Park,,no_eligible_route
+21169,Heidelberg West,21202,Hopetoun Park,,no_eligible_route
+21176,Hesket,21202,Hopetoun Park,,no_eligible_route
+21185,Highett,21202,Hopetoun Park,,no_eligible_route
+21193,Hillside (Melton - Vic.),21202,Hopetoun Park,,no_eligible_route
+21195,Hmas Cerberus,21202,Hopetoun Park,,no_eligible_route
+21196,Hoddles Creek,21202,Hopetoun Park,,no_eligible_route
+21202,Hopetoun Park,21202,Hopetoun Park,0.0,same_centroid
+21203,Hoppers Crossing,21202,Hopetoun Park,,no_eligible_route
+21214,Hughesdale,21202,Hopetoun Park,,no_eligible_route
+21215,Humevale,21202,Hopetoun Park,,no_eligible_route
+21218,Huntingdale (Vic.),21202,Hopetoun Park,,no_eligible_route
+21223,Hurstbridge,21202,Hopetoun Park,,no_eligible_route
+21238,Iona,21202,Hopetoun Park,,no_eligible_route
+21246,Ivanhoe (Vic.),21202,Hopetoun Park,,no_eligible_route
+21247,Ivanhoe East,21202,Hopetoun Park,,no_eligible_route
+21248,Jacana,21202,Hopetoun Park,,no_eligible_route
+21277,Junction Village,21202,Hopetoun Park,,no_eligible_route
+21284,Kalkallo,21202,Hopetoun Park,,no_eligible_route
+21286,Kallista,21202,Hopetoun Park,,no_eligible_route
+21287,Kalorama,21202,Hopetoun Park,,no_eligible_route
+21294,Kangaroo Ground,21202,Hopetoun Park,,no_eligible_route
+21312,Kealba,21202,Hopetoun Park,,no_eligible_route
+21314,Keilor,21202,Hopetoun Park,,no_eligible_route
+21315,Keilor Downs,21202,Hopetoun Park,,no_eligible_route
+21316,Keilor East,21202,Hopetoun Park,,no_eligible_route
+21317,Keilor Lodge,21202,Hopetoun Park,,no_eligible_route
+21318,Keilor North,21202,Hopetoun Park,,no_eligible_route
+21319,Keilor Park,21202,Hopetoun Park,,no_eligible_route
+21327,Kensington (Vic.),21202,Hopetoun Park,,no_eligible_route
+21333,Kerrie,21202,Hopetoun Park,,no_eligible_route
+21336,Kew (Vic.),21202,Hopetoun Park,,no_eligible_route
+21337,Kew East,21202,Hopetoun Park,,no_eligible_route
+21339,Keysborough,21202,Hopetoun Park,,no_eligible_route
+21354,Kilsyth,21202,Hopetoun Park,,no_eligible_route
+21355,Kilsyth South,21202,Hopetoun Park,,no_eligible_route
+21358,Kinglake,21202,Hopetoun Park,,no_eligible_route
+21359,Kinglake Central,21202,Hopetoun Park,,no_eligible_route
+21360,Kinglake West,21202,Hopetoun Park,,no_eligible_route
+21362,Kings Park (Vic.),21202,Hopetoun Park,,no_eligible_route
+21363,Kingsbury,21202,Hopetoun Park,,no_eligible_route
+21365,Kingsville,21202,Hopetoun Park,,no_eligible_route
+21374,Knoxfield,21202,Hopetoun Park,,no_eligible_route
+21380,Koo Wee Rup,21202,Hopetoun Park,,no_eligible_route
+21381,Koo Wee Rup North,21202,Hopetoun Park,,no_eligible_route
+21393,Kooyong,21202,Hopetoun Park,,no_eligible_route
+21411,Kurunjang,21202,Hopetoun Park,162.32,walk_only
+21452,Lalor,21202,Hopetoun Park,,no_eligible_route
+21456,Lancefield,21202,Hopetoun Park,,no_eligible_route
+21459,Lang Lang,21202,Hopetoun Park,,no_eligible_route
+21460,Lang Lang East,21202,Hopetoun Park,,no_eligible_route
+21467,Langwarrin,21202,Hopetoun Park,,no_eligible_route
+21468,Langwarrin South,21202,Hopetoun Park,,no_eligible_route
+21473,Launching Place,21202,Hopetoun Park,,no_eligible_route
+21476,Laverton (Vic.),21202,Hopetoun Park,,no_eligible_route
+21477,Laverton North,21202,Hopetoun Park,,no_eligible_route
+21504,Lilydale (Vic.),21202,Hopetoun Park,,no_eligible_route
+21533,Long Forest,21202,Hopetoun Park,60.63,walk_only
+21547,Lower Plenty,21202,Hopetoun Park,,no_eligible_route
+21554,Lynbrook,21202,Hopetoun Park,,no_eligible_route
+21555,Lyndhurst (Vic.),21202,Hopetoun Park,,no_eligible_route
+21558,Lysterfield,21202,Hopetoun Park,,no_eligible_route
+21559,Lysterfield South,21202,Hopetoun Park,,no_eligible_route
+21561,Macclesfield (Vic.),21202,Hopetoun Park,,no_eligible_route
+21562,Macedon,21202,Hopetoun Park,,no_eligible_route
+21564,Macleod (Vic.),21202,Hopetoun Park,,no_eligible_route
+21569,Maddingley,21202,Hopetoun Park,159.32,walk_only
+21575,Maidstone,21202,Hopetoun Park,,no_eligible_route
+21578,Main Ridge,21202,Hopetoun Park,,no_eligible_route
+21586,Malvern (Vic.),21202,Hopetoun Park,,no_eligible_route
+21587,Malvern East,21202,Hopetoun Park,,no_eligible_route
+21588,Mambourin,21202,Hopetoun Park,,no_eligible_route
+21597,Manor Lakes,21202,Hopetoun Park,,no_eligible_route
+21604,Maribyrnong,21202,Hopetoun Park,,no_eligible_route
+21619,Maryknoll,21202,Hopetoun Park,,no_eligible_route
+21625,McCrae,21202,Hopetoun Park,,no_eligible_route
+21629,McKinnon,21202,Hopetoun Park,,no_eligible_route
+21635,Meadow Heights,21202,Hopetoun Park,,no_eligible_route
+21640,Melbourne,21202,Hopetoun Park,,no_eligible_route
+21641,Melbourne Airport,21202,Hopetoun Park,,no_eligible_route
+21642,Melton (Vic.),21202,Hopetoun Park,162.18,walk_only
+21643,Melton South,21202,Hopetoun Park,130.72,walk_only
+21644,Melton West,21202,Hopetoun Park,79.95,walk_only
+21648,Mentone,21202,Hopetoun Park,,no_eligible_route
+21649,Menzies Creek,21202,Hopetoun Park,,no_eligible_route
+21659,Mernda,21202,Hopetoun Park,,no_eligible_route
+21662,Merricks,21202,Hopetoun Park,,no_eligible_route
+21663,Merricks Beach,21202,Hopetoun Park,,no_eligible_route
+21664,Merricks North,21202,Hopetoun Park,,no_eligible_route
+21668,Merrimu,21202,Hopetoun Park,87.23,walk_only
+21675,Mickleham,21202,Hopetoun Park,,no_eligible_route
+21677,Middle Park (Vic.),21202,Hopetoun Park,,no_eligible_route
+21683,Mill Park,21202,Hopetoun Park,,no_eligible_route
+21685,Millgrove,21202,Hopetoun Park,,no_eligible_route
+21706,Mitcham (Vic.),21202,Hopetoun Park,,no_eligible_route
+21727,Monbulk,21202,Hopetoun Park,,no_eligible_route
+21728,Monegeetta,21202,Hopetoun Park,,no_eligible_route
+21731,Monomeith,21202,Hopetoun Park,,no_eligible_route
+21732,Mont Albert,21202,Hopetoun Park,,no_eligible_route
+21733,Mont Albert North,21202,Hopetoun Park,,no_eligible_route
+21735,Montmorency,21202,Hopetoun Park,,no_eligible_route
+21736,Montrose (Vic.),21202,Hopetoun Park,,no_eligible_route
+21742,Moonee Ponds,21202,Hopetoun Park,,no_eligible_route
+21746,Moorabbin,21202,Hopetoun Park,,no_eligible_route
+21747,Moorabbin Airport,21202,Hopetoun Park,,no_eligible_route
+21754,Moorooduc,21202,Hopetoun Park,,no_eligible_route
+21755,Mooroolbark,21202,Hopetoun Park,,no_eligible_route
+21760,Mordialloc,21202,Hopetoun Park,,no_eligible_route
+21763,Mornington (Vic.),21202,Hopetoun Park,,no_eligible_route
+21779,Mount Burnett,21202,Hopetoun Park,,no_eligible_route
+21786,Mount Cottrell,21202,Hopetoun Park,,no_eligible_route
+21787,Mount Dandenong,21202,Hopetoun Park,,no_eligible_route
+21793,Mount Eliza,21202,Hopetoun Park,,no_eligible_route
+21795,Mount Evelyn,21202,Hopetoun Park,,no_eligible_route
+21801,Mount Macedon,21202,Hopetoun Park,,no_eligible_route
+21803,Mount Martha,21202,Hopetoun Park,,no_eligible_route
+21814,Mount Toolebewong,21202,Hopetoun Park,,no_eligible_route
+21816,Mount Waverley,21202,Hopetoun Park,,no_eligible_route
+21827,Mulgrave (Vic.),21202,Hopetoun Park,,no_eligible_route
+21849,Murrumbeena,21202,Hopetoun Park,,no_eligible_route
+21872,Nangana,21202,Hopetoun Park,,no_eligible_route
+21878,Nar Nar Goon,21202,Hopetoun Park,,no_eligible_route
+21879,Nar Nar Goon North,21202,Hopetoun Park,,no_eligible_route
+21893,Narre Warren,21202,Hopetoun Park,,no_eligible_route
+21894,Narre Warren East,21202,Hopetoun Park,,no_eligible_route
+21895,Narre Warren North,21202,Hopetoun Park,,no_eligible_route
+21896,Narre Warren South,21202,Hopetoun Park,,no_eligible_route
+21921,New Gisborne,21202,Hopetoun Park,,no_eligible_route
+21934,Newport (Vic.),21202,Hopetoun Park,,no_eligible_route
+21942,Niddrie,21202,Hopetoun Park,,no_eligible_route
+21952,Noble Park,21202,Hopetoun Park,,no_eligible_route
+21953,Noble Park North,21202,Hopetoun Park,,no_eligible_route
+21966,North Melbourne,21202,Hopetoun Park,,no_eligible_route
+21969,North Warrandyte,21202,Hopetoun Park,,no_eligible_route
+21971,Northcote,21202,Hopetoun Park,,no_eligible_route
+21974,Notting Hill,21202,Hopetoun Park,,no_eligible_route
+21985,Nunawading,21202,Hopetoun Park,,no_eligible_route
+21991,Nutfield,21202,Hopetoun Park,,no_eligible_route
+21998,Oak Park,21202,Hopetoun Park,,no_eligible_route
+21999,Oaklands Junction,21202,Hopetoun Park,,no_eligible_route
+22000,Oakleigh,21202,Hopetoun Park,,no_eligible_route
+22001,Oakleigh East,21202,Hopetoun Park,,no_eligible_route
+22002,Oakleigh South,21202,Hopetoun Park,,no_eligible_route
+22006,Officer,21202,Hopetoun Park,,no_eligible_route
+22007,Officer South,21202,Hopetoun Park,,no_eligible_route
+22009,Olinda (Vic.),21202,Hopetoun Park,,no_eligible_route
+22016,Ormond,21202,Hopetoun Park,,no_eligible_route
+22027,Pakenham,21202,Hopetoun Park,,no_eligible_route
+22028,Pakenham South,21202,Hopetoun Park,,no_eligible_route
+22029,Pakenham Upper,21202,Hopetoun Park,,no_eligible_route
+22032,Panton Hill,21202,Hopetoun Park,,no_eligible_route
+22036,Park Orchards,21202,Hopetoun Park,,no_eligible_route
+22037,Parkdale,21202,Hopetoun Park,,no_eligible_route
+22038,Parkville (Vic.),21202,Hopetoun Park,,no_eligible_route
+22041,Pascoe Vale,21202,Hopetoun Park,,no_eligible_route
+22042,Pascoe Vale South,21202,Hopetoun Park,,no_eligible_route
+22047,Patterson Lakes,21202,Hopetoun Park,,no_eligible_route
+22050,Pearcedale,21202,Hopetoun Park,,no_eligible_route
+22058,Pentland Hills,21202,Hopetoun Park,,no_eligible_route
+22064,Pheasant Creek (Vic.),21202,Hopetoun Park,,no_eligible_route
+22084,Plenty (Vic.),21202,Hopetoun Park,,no_eligible_route
+22085,Plumpton (Vic.),21202,Hopetoun Park,237.1,walk_only
+22086,Point Cook,21202,Hopetoun Park,,no_eligible_route
+22087,Point Leo,21202,Hopetoun Park,,no_eligible_route
+22107,Port Melbourne,21202,Hopetoun Park,,no_eligible_route
+22113,Portsea,21202,Hopetoun Park,,no_eligible_route
+22115,Powelltown,21202,Hopetoun Park,,no_eligible_route
+22118,Prahran,21202,Hopetoun Park,,no_eligible_route
+22121,Preston (Vic.),21202,Hopetoun Park,,no_eligible_route
+22122,Princes Hill,21202,Hopetoun Park,,no_eligible_route
+22132,Quandong,21202,Hopetoun Park,,no_eligible_route
+22141,Ravenhall,21202,Hopetoun Park,,no_eligible_route
+22148,Red Hill (Vic.),21202,Hopetoun Park,,no_eligible_route
+22149,Red Hill South,21202,Hopetoun Park,,no_eligible_route
+22160,Research,21202,Hopetoun Park,,no_eligible_route
+22161,Reservoir (Vic.),21202,Hopetoun Park,,no_eligible_route
+22170,Richmond (Vic.),21202,Hopetoun Park,,no_eligible_route
+22172,Riddells Creek,21202,Hopetoun Park,,no_eligible_route
+22174,Ringwood (Vic.),21202,Hopetoun Park,,no_eligible_route
+22175,Ringwood East,21202,Hopetoun Park,,no_eligible_route
+22176,Ringwood North,21202,Hopetoun Park,,no_eligible_route
+22179,Ripponlea,21202,Hopetoun Park,,no_eligible_route
+22185,Rochford,21202,Hopetoun Park,,no_eligible_route
+22186,Rockbank,21202,Hopetoun Park,,no_eligible_route
+22193,Romsey,21202,Hopetoun Park,,no_eligible_route
+22194,Rosanna,21202,Hopetoun Park,,no_eligible_route
+22198,Rosebud,21202,Hopetoun Park,,no_eligible_route
+22207,Rowville,21202,Hopetoun Park,,no_eligible_route
+22208,Roxburgh Park,21202,Hopetoun Park,,no_eligible_route
+22220,Rye,21202,Hopetoun Park,,no_eligible_route
+22221,Rythdale,21202,Hopetoun Park,,no_eligible_route
+22222,Safety Beach (Vic.),21202,Hopetoun Park,,no_eligible_route
+22232,Sandhurst,21202,Hopetoun Park,,no_eligible_route
+22234,Sandringham (Vic.),21202,Hopetoun Park,,no_eligible_route
+22239,Sassafras (Vic.),21202,Hopetoun Park,,no_eligible_route
+22242,Scoresby,21202,Hopetoun Park,,no_eligible_route
+22247,Seabrook,21202,Hopetoun Park,,no_eligible_route
+22249,Seaford (Vic.),21202,Hopetoun Park,,no_eligible_route
+22250,Seaholme,21202,Hopetoun Park,,no_eligible_route
+22256,Seddon (Vic.),21202,Hopetoun Park,,no_eligible_route
+22258,Selby,21202,Hopetoun Park,,no_eligible_route
+22263,Seville,21202,Hopetoun Park,,no_eligible_route
+22264,Seville East,21202,Hopetoun Park,,no_eligible_route
+22278,Sherbrooke,21202,Hopetoun Park,,no_eligible_route
+22279,Shoreham,21202,Hopetoun Park,,no_eligible_route
+22281,Silvan,21202,Hopetoun Park,,no_eligible_route
+22291,Skye (Vic.),21202,Hopetoun Park,,no_eligible_route
+22295,Smiths Gully,21202,Hopetoun Park,,no_eligible_route
+22303,Somers,21202,Hopetoun Park,,no_eligible_route
+22304,Somerton (Vic.),21202,Hopetoun Park,,no_eligible_route
+22305,Somerville (Vic.),21202,Hopetoun Park,,no_eligible_route
+22306,Sorrento (Vic.),21202,Hopetoun Park,,no_eligible_route
+22309,South Kingsville,21202,Hopetoun Park,,no_eligible_route
+22310,South Melbourne,21202,Hopetoun Park,,no_eligible_route
+22311,South Morang,21202,Hopetoun Park,,no_eligible_route
+22313,South Wharf,21202,Hopetoun Park,,no_eligible_route
+22314,South Yarra,21202,Hopetoun Park,,no_eligible_route
+22315,Southbank,21202,Hopetoun Park,,no_eligible_route
+22319,Spotswood,21202,Hopetoun Park,,no_eligible_route
+22325,Springfield (Macedon Ranges - Vic.),21202,Hopetoun Park,,no_eligible_route
+22328,Springvale (Vic.),21202,Hopetoun Park,,no_eligible_route
+22329,Springvale South,21202,Hopetoun Park,,no_eligible_route
+22330,St Albans (Vic.),21202,Hopetoun Park,,no_eligible_route
+22332,St Andrews (Vic.),21202,Hopetoun Park,,no_eligible_route
+22333,St Andrews Beach,21202,Hopetoun Park,,no_eligible_route
+22339,St Helena,21202,Hopetoun Park,,no_eligible_route
+22343,St Kilda (Vic.),21202,Hopetoun Park,,no_eligible_route
+22344,St Kilda East,21202,Hopetoun Park,,no_eligible_route
+22345,St Kilda West,21202,Hopetoun Park,,no_eligible_route
+22355,Steels Creek,21202,Hopetoun Park,,no_eligible_route
+22375,Strathewen,21202,Hopetoun Park,,no_eligible_route
+22380,Strathmore (Vic.),21202,Hopetoun Park,,no_eligible_route
+22381,Strathmore Heights,21202,Hopetoun Park,,no_eligible_route
+22382,Strathtulloh,21202,Hopetoun Park,188.48,walk_only
+22391,Sunbury,21202,Hopetoun Park,,no_eligible_route
+22395,Sunshine (Vic.),21202,Hopetoun Park,,no_eligible_route
+22396,Sunshine North,21202,Hopetoun Park,,no_eligible_route
+22397,Sunshine West,21202,Hopetoun Park,,no_eligible_route
+22399,Surrey Hills,21202,Hopetoun Park,,no_eligible_route
+22414,Sydenham (Vic.),21202,Hopetoun Park,,no_eligible_route
+22451,Tarneit,21202,Hopetoun Park,,no_eligible_route
+22457,Tarrawarra,21202,Hopetoun Park,,no_eligible_route
+22473,Taylors Hill,21202,Hopetoun Park,,no_eligible_route
+22474,Taylors Lakes,21202,Hopetoun Park,,no_eligible_route
+22476,Tecoma,21202,Hopetoun Park,,no_eligible_route
+22483,Templestowe,21202,Hopetoun Park,,no_eligible_route
+22484,Templestowe Lower,21202,Hopetoun Park,,no_eligible_route
+22496,The Basin (Vic.),21202,Hopetoun Park,,no_eligible_route
+22501,The Patch,21202,Hopetoun Park,,no_eligible_route
+22504,Thomastown,21202,Hopetoun Park,,no_eligible_route
+22508,Thornbury,21202,Hopetoun Park,,no_eligible_route
+22509,Thornhill Park,21202,Hopetoun Park,210.63,walk_only
+22514,Three Bridges,21202,Hopetoun Park,,no_eligible_route
+22531,Tonimbuk,21202,Hopetoun Park,,no_eligible_route
+22536,Toolangi,21202,Hopetoun Park,,no_eligible_route
+22537,Toolern Vale,21202,Hopetoun Park,227.95,walk_only
+22546,Tooradin,21202,Hopetoun Park,,no_eligible_route
+22547,Toorak,21202,Hopetoun Park,,no_eligible_route
+22550,Tootgarook,21202,Hopetoun Park,,no_eligible_route
+22556,Tottenham (Vic.),21202,Hopetoun Park,,no_eligible_route
+22572,Travancore,21202,Hopetoun Park,,no_eligible_route
+22576,Tremont,21202,Hopetoun Park,,no_eligible_route
+22582,Truganina,21202,Hopetoun Park,,no_eligible_route
+22584,Tuerong,21202,Hopetoun Park,,no_eligible_route
+22586,Tullamarine,21202,Hopetoun Park,,no_eligible_route
+22594,Tyabb,21202,Hopetoun Park,,no_eligible_route
+22598,Tynong,21202,Hopetoun Park,,no_eligible_route
+22599,Tynong North,21202,Hopetoun Park,,no_eligible_route
+22614,Upper Ferntree Gully,21202,Hopetoun Park,,no_eligible_route
+22617,Upper Plenty,21202,Hopetoun Park,,no_eligible_route
+22620,Upwey,21202,Hopetoun Park,,no_eligible_route
+22627,Vermont,21202,Hopetoun Park,,no_eligible_route
+22628,Vermont South,21202,Hopetoun Park,,no_eligible_route
+22629,Vervale,21202,Hopetoun Park,,no_eligible_route
+22633,Viewbank,21202,Hopetoun Park,,no_eligible_route
+22661,Wallan,21202,Hopetoun Park,,no_eligible_route
+22672,Wandin East,21202,Hopetoun Park,,no_eligible_route
+22673,Wandin North,21202,Hopetoun Park,,no_eligible_route
+22676,Wandong,21202,Hopetoun Park,,no_eligible_route
+22685,Wantirna,21202,Hopetoun Park,,no_eligible_route
+22686,Wantirna South,21202,Hopetoun Park,,no_eligible_route
+22689,Warburton (Vic.),21202,Hopetoun Park,,no_eligible_route
+22695,Warneet,21202,Hopetoun Park,,no_eligible_route
+22702,Warrandyte,21202,Hopetoun Park,,no_eligible_route
+22703,Warrandyte South,21202,Hopetoun Park,,no_eligible_route
+22704,Warranwood,21202,Hopetoun Park,,no_eligible_route
+22717,Waterford Park,21202,Hopetoun Park,,no_eligible_route
+22720,Waterways,21202,Hopetoun Park,,no_eligible_route
+22721,Watsonia,21202,Hopetoun Park,,no_eligible_route
+22722,Watsonia North,21202,Hopetoun Park,,no_eligible_route
+22723,Watsons Creek (Vic.),21202,Hopetoun Park,,no_eligible_route
+22727,Wattle Glen,21202,Hopetoun Park,,no_eligible_route
+22740,Weir Views,21202,Hopetoun Park,160.5,walk_only
+22750,Werribee,21202,Hopetoun Park,,no_eligible_route
+22751,Werribee South,21202,Hopetoun Park,,no_eligible_route
+22753,Wesburn,21202,Hopetoun Park,,no_eligible_route
+22756,West Footscray,21202,Hopetoun Park,,no_eligible_route
+22757,West Melbourne,21202,Hopetoun Park,,no_eligible_route
+22761,Westmeadows,21202,Hopetoun Park,,no_eligible_route
+22766,Wheelers Hill,21202,Hopetoun Park,,no_eligible_route
+22775,Whittlesea,21202,Hopetoun Park,,no_eligible_route
+22784,Wildwood,21202,Hopetoun Park,,no_eligible_route
+22791,Williams Landing,21202,Hopetoun Park,,no_eligible_route
+22792,Williamstown (Vic.),21202,Hopetoun Park,,no_eligible_route
+22793,Williamstown North,21202,Hopetoun Park,,no_eligible_route
+22805,Windsor (Vic.),21202,Hopetoun Park,,no_eligible_route
+22820,Wollert,21202,Hopetoun Park,,no_eligible_route
+22825,Wonga Park,21202,Hopetoun Park,,no_eligible_route
+22843,Woodstock (Vic.),21202,Hopetoun Park,,no_eligible_route
+22857,Woori Yallock,21202,Hopetoun Park,,no_eligible_route
+22883,Wyndham Vale,21202,Hopetoun Park,,no_eligible_route
+22892,Yallambie,21202,Hopetoun Park,,no_eligible_route
+22898,Yan Yean,21202,Hopetoun Park,,no_eligible_route
+22906,Yannathan,21202,Hopetoun Park,,no_eligible_route
+22910,Yarra Glen,21202,Hopetoun Park,,no_eligible_route
+22911,Yarra Junction,21202,Hopetoun Park,,no_eligible_route
+22916,Yarrambat,21202,Hopetoun Park,,no_eligible_route
+22917,Yarraville,21202,Hopetoun Park,,no_eligible_route
+22925,Yellingbo,21202,Hopetoun Park,,no_eligible_route
+22930,Yering,21202,Hopetoun Park,,no_eligible_route
+22941,Yuroke,21202,Hopetoun Park,,no_eligible_route

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22911,Yarra Junction,143.6,ok
+20003,Aberfeldie,22911,Yarra Junction,182.1,ok
+20011,Aintree,22911,Yarra Junction,,no_eligible_route
+20015,Airport West,22911,Yarra Junction,,no_eligible_route
+20017,Albanvale,22911,Yarra Junction,218.83,ok
+20018,Albert Park (Vic.),22911,Yarra Junction,151.72,ok
+20021,Albion (Vic.),22911,Yarra Junction,181.75,ok
+20034,Alphington,22911,Yarra Junction,147.77,ok
+20035,Altona (Vic.),22911,Yarra Junction,182.85,ok
+20036,Altona Meadows,22911,Yarra Junction,207.55,ok
+20037,Altona North,22911,Yarra Junction,,no_eligible_route
+20062,Ardeer,22911,Yarra Junction,199.98,ok
+20066,Armadale (Vic.),22911,Yarra Junction,151.0,ok
+20071,Arthurs Creek,22911,Yarra Junction,,no_eligible_route
+20072,Arthurs Seat,22911,Yarra Junction,,no_eligible_route
+20075,Ascot Vale,22911,Yarra Junction,160.98,ok
+20077,Ashburton,22911,Yarra Junction,150.6,ok
+20078,Ashwood,22911,Yarra Junction,151.12,ok
+20079,Aspendale,22911,Yarra Junction,193.25,ok
+20080,Aspendale Gardens,22911,Yarra Junction,188.25,ok
+20082,Attwood,22911,Yarra Junction,215.2,ok
+20089,Avondale Heights,22911,Yarra Junction,205.28,ok
+20091,Avonsleigh,22911,Yarra Junction,,no_eligible_route
+20095,Bacchus Marsh,22911,Yarra Junction,,no_eligible_route
+20097,Badger Creek,22911,Yarra Junction,154.45,ok
+20105,Balaclava (Vic.),22911,Yarra Junction,151.63,ok
+20120,Balnarring,22911,Yarra Junction,,no_eligible_route
+20121,Balnarring Beach,22911,Yarra Junction,,no_eligible_route
+20123,Balwyn,22911,Yarra Junction,126.78,ok
+20124,Balwyn North,22911,Yarra Junction,161.5,ok
+20131,Bangholme,22911,Yarra Junction,,no_eligible_route
+20169,Baxter,22911,Yarra Junction,,no_eligible_route
+20171,Bayles,22911,Yarra Junction,,no_eligible_route
+20173,Bayswater (Vic.),22911,Yarra Junction,118.25,ok
+20174,Bayswater North,22911,Yarra Junction,99.68,ok
+20175,Beaconsfield (Vic.),22911,Yarra Junction,215.7,ok
+20176,Beaconsfield Upper,22911,Yarra Junction,,no_eligible_route
+20182,Beaumaris (Vic.),22911,Yarra Junction,203.65,ok
+20187,Beenak,22911,Yarra Junction,236.35,walk_only
+20188,Belgrave,22911,Yarra Junction,115.63,ok
+20189,Belgrave Heights,22911,Yarra Junction,143.0,ok
+20190,Belgrave South,22911,Yarra Junction,141.98,ok
+20198,Bellfield (Banyule - Vic.),22911,Yarra Junction,164.52,ok
+20207,Bend Of Islands,22911,Yarra Junction,,no_eligible_route
+20212,Benloch,22911,Yarra Junction,,no_eligible_route
+20214,Bentleigh,22911,Yarra Junction,171.03,ok
+20215,Bentleigh East,22911,Yarra Junction,177.38,ok
+20224,Berwick,22911,Yarra Junction,188.5,ok
+20233,Beveridge,22911,Yarra Junction,,no_eligible_route
+20237,Big Pats Creek,22911,Yarra Junction,205.32,walk_only
+20248,Bittern,22911,Yarra Junction,,no_eligible_route
+20251,Black Rock (Vic.),22911,Yarra Junction,203.73,ok
+20252,Blackburn,22911,Yarra Junction,101.57,ok
+20253,Blackburn North,22911,Yarra Junction,119.25,ok
+20254,Blackburn South,22911,Yarra Junction,125.65,ok
+20257,Blairgowrie,22911,Yarra Junction,,no_eligible_route
+20260,Blind Bight,22911,Yarra Junction,,no_eligible_route
+20272,Bolinda,22911,Yarra Junction,,no_eligible_route
+20278,Bonbeach,22911,Yarra Junction,198.25,ok
+20280,Boneo,22911,Yarra Junction,,no_eligible_route
+20282,Bonnie Brook,22911,Yarra Junction,,no_eligible_route
+20304,Boronia,22911,Yarra Junction,120.72,ok
+20307,Botanic Ridge,22911,Yarra Junction,,no_eligible_route
+20314,Box Hill (Vic.),22911,Yarra Junction,109.03,ok
+20315,Box Hill North,22911,Yarra Junction,129.43,ok
+20316,Box Hill South,22911,Yarra Junction,130.18,ok
+20320,Braeside,22911,Yarra Junction,207.57,ok
+20324,Braybrook,22911,Yarra Junction,182.17,ok
+20331,Briar Hill,22911,Yarra Junction,160.18,ok
+20337,Brighton (Vic.),22911,Yarra Junction,164.4,ok
+20338,Brighton East,22911,Yarra Junction,180.72,ok
+20346,Broadmeadows (Vic.),22911,Yarra Junction,184.6,ok
+20351,Brookfield (Vic.),22911,Yarra Junction,,no_eligible_route
+20352,Brooklyn (Vic.),22911,Yarra Junction,,no_eligible_route
+20361,Brunswick (Vic.),22911,Yarra Junction,149.5,ok
+20362,Brunswick East,22911,Yarra Junction,160.78,ok
+20363,Brunswick West,22911,Yarra Junction,170.88,ok
+20381,Bulla (Vic.),22911,Yarra Junction,,no_eligible_route
+20386,Bulleen,22911,Yarra Junction,152.6,ok
+20387,Bullengarook,22911,Yarra Junction,,no_eligible_route
+20399,Bundoora (Vic.),22911,Yarra Junction,178.95,ok
+20411,Bunyip,22911,Yarra Junction,,no_eligible_route
+20412,Bunyip North,22911,Yarra Junction,,no_eligible_route
+20418,Burnley,22911,Yarra Junction,148.0,ok
+20419,Burnside (Vic.),22911,Yarra Junction,,no_eligible_route
+20420,Burnside Heights,22911,Yarra Junction,,no_eligible_route
+20426,Burwood (Vic.),22911,Yarra Junction,139.68,ok
+20427,Burwood East,22911,Yarra Junction,132.92,ok
+20435,Bylands,22911,Yarra Junction,,no_eligible_route
+20441,Cairnlea,22911,Yarra Junction,204.4,ok
+20442,Calder Park,22911,Yarra Junction,,no_eligible_route
+20443,Caldermeade,22911,Yarra Junction,,no_eligible_route
+20453,Camberwell (Vic.),22911,Yarra Junction,141.15,ok
+20455,Campbellfield,22911,Yarra Junction,193.25,ok
+20466,Cannons Creek,22911,Yarra Junction,,no_eligible_route
+20468,Canterbury (Vic.),22911,Yarra Junction,120.02,ok
+20474,Cape Schanck,22911,Yarra Junction,,no_eligible_route
+20476,Capel Sound,22911,Yarra Junction,,no_eligible_route
+20487,Cardinia,22911,Yarra Junction,,no_eligible_route
+20495,Carlton (Vic.),22911,Yarra Junction,147.45,ok
+20496,Carlton North,22911,Yarra Junction,157.55,ok
+20498,Carnegie,22911,Yarra Junction,164.55,ok
+20500,Caroline Springs,22911,Yarra Junction,,no_eligible_route
+20507,Carrum,22911,Yarra Junction,198.07,ok
+20508,Carrum Downs,22911,Yarra Junction,189.3,ok
+20512,Castella,22911,Yarra Junction,,no_eligible_route
+20517,Catani,22911,Yarra Junction,,no_eligible_route
+20521,Caulfield,22911,Yarra Junction,161.7,ok
+20522,Caulfield East,22911,Yarra Junction,161.43,ok
+20523,Caulfield North,22911,Yarra Junction,159.93,ok
+20524,Caulfield South,22911,Yarra Junction,166.88,ok
+20528,Chadstone,22911,Yarra Junction,156.0,ok
+20537,Chelsea,22911,Yarra Junction,181.37,ok
+20538,Chelsea Heights,22911,Yarra Junction,193.65,ok
+20539,Cheltenham (Vic.),22911,Yarra Junction,184.63,ok
+20541,Cherokee,22911,Yarra Junction,,no_eligible_route
+20555,Chintin,22911,Yarra Junction,,no_eligible_route
+20556,Chirnside Park,22911,Yarra Junction,86.62,ok
+20559,Christmas Hills (Vic.),22911,Yarra Junction,,no_eligible_route
+20560,Chum Creek,22911,Yarra Junction,,no_eligible_route
+20566,Clarinda,22911,Yarra Junction,185.03,ok
+20567,Clarkefield,22911,Yarra Junction,,no_eligible_route
+20569,Clayton,22911,Yarra Junction,153.67,ok
+20570,Clayton South,22911,Yarra Junction,183.97,ok
+20572,Clematis,22911,Yarra Junction,,no_eligible_route
+20574,Clifton Hill,22911,Yarra Junction,141.85,ok
+20576,Clonbinane,22911,Yarra Junction,,no_eligible_route
+20581,Clyde (Vic.),22911,Yarra Junction,,no_eligible_route
+20582,Clyde North,22911,Yarra Junction,,no_eligible_route
+20587,Cobaw,22911,Yarra Junction,,no_eligible_route
+20590,Cobblebank,22911,Yarra Junction,,no_eligible_route
+20596,Coburg,22911,Yarra Junction,155.23,ok
+20597,Coburg North,22911,Yarra Junction,164.8,ok
+20600,Cockatoo (Vic.),22911,Yarra Junction,,no_eligible_route
+20601,Cocoroc,22911,Yarra Junction,,no_eligible_route
+20605,Coimadai,22911,Yarra Junction,,no_eligible_route
+20613,Coldstream (Vic.),22911,Yarra Junction,,no_eligible_route
+20616,Collingwood (Vic.),22911,Yarra Junction,144.25,ok
+20624,Coolaroo,22911,Yarra Junction,185.47,ok
+20633,Cora Lynn,22911,Yarra Junction,,no_eligible_route
+20654,Cottles Bridge,22911,Yarra Junction,,no_eligible_route
+20661,Craigieburn,22911,Yarra Junction,214.63,ok
+20662,Cranbourne,22911,Yarra Junction,215.15,ok
+20663,Cranbourne East,22911,Yarra Junction,229.25,ok
+20664,Cranbourne North,22911,Yarra Junction,,no_eligible_route
+20665,Cranbourne South,22911,Yarra Junction,,no_eligible_route
+20666,Cranbourne West,22911,Yarra Junction,227.22,ok
+20670,Cremorne (Vic.),22911,Yarra Junction,128.18,ok
+20674,Crib Point,22911,Yarra Junction,,no_eligible_route
+20682,Croydon (Vic.),22911,Yarra Junction,84.4,ok
+20683,Croydon Hills,22911,Yarra Junction,106.02,ok
+20684,Croydon North,22911,Yarra Junction,84.98,ok
+20685,Croydon South,22911,Yarra Junction,110.27,ok
+20702,Dallas,22911,Yarra Junction,191.9,ok
+20703,Dalmore,22911,Yarra Junction,,no_eligible_route
+20707,Dandenong,22911,Yarra Junction,169.82,ok
+20708,Dandenong North,22911,Yarra Junction,169.23,ok
+20709,Dandenong South,22911,Yarra Junction,190.9,ok
+20712,Darley,22911,Yarra Junction,,no_eligible_route
+20716,Darraweit Guim,22911,Yarra Junction,,no_eligible_route
+20724,Deanside,22911,Yarra Junction,,no_eligible_route
+20728,Deepdene (Vic.),22911,Yarra Junction,124.63,ok
+20729,Deer Park,22911,Yarra Junction,,no_eligible_route
+20731,Delahey,22911,Yarra Junction,216.3,ok
+20743,Derrimut,22911,Yarra Junction,,no_eligible_route
+20748,Devon Meadows,22911,Yarra Junction,,no_eligible_route
+20750,Dewhurst,22911,Yarra Junction,,no_eligible_route
+20752,Diamond Creek,22911,Yarra Junction,180.98,ok
+20754,Diggers Rest,22911,Yarra Junction,224.17,ok
+20758,Dingley Village,22911,Yarra Junction,201.98,ok
+20762,Dixons Creek,22911,Yarra Junction,,no_eligible_route
+20766,Docklands,22911,Yarra Junction,147.78,ok
+20769,Don Valley,22911,Yarra Junction,121.72,walk_only
+20771,Doncaster,22911,Yarra Junction,135.25,ok
+20772,Doncaster East,22911,Yarra Junction,121.22,ok
+20773,Donnybrook (Vic.),22911,Yarra Junction,,no_eligible_route
+20774,Donvale,22911,Yarra Junction,143.42,ok
+20779,Doreen,22911,Yarra Junction,,no_eligible_route
+20783,Doveton,22911,Yarra Junction,181.6,ok
+20788,Dromana,22911,Yarra Junction,,no_eligible_route
+20825,Eaglemont,22911,Yarra Junction,158.37,ok
+20830,East Melbourne,22911,Yarra Junction,134.37,ok
+20833,East Warburton,22911,Yarra Junction,,no_eligible_route
+20843,Eden Park,22911,Yarra Junction,,no_eligible_route
+20848,Edithvale,22911,Yarra Junction,172.85,ok
+20864,Elsternwick,22911,Yarra Junction,153.08,ok
+20865,Eltham (Vic.),22911,Yarra Junction,175.32,ok
+20866,Eltham North,22911,Yarra Junction,183.38,ok
+20867,Elwood,22911,Yarra Junction,158.73,ok
+20868,Emerald (Vic.),22911,Yarra Junction,,no_eligible_route
+20871,Endeavour Hills,22911,Yarra Junction,,no_eligible_route
+20878,Epping (Vic.),22911,Yarra Junction,197.98,ok
+20885,Essendon,22911,Yarra Junction,166.9,ok
+20886,Essendon Fields,22911,Yarra Junction,,no_eligible_route
+20887,Essendon North,22911,Yarra Junction,187.77,ok
+20888,Essendon West,22911,Yarra Junction,190.13,ok
+20889,Eumemmerring,22911,Yarra Junction,,no_eligible_route
+20898,Exford,22911,Yarra Junction,,no_eligible_route
+20899,Eynesbury,22911,Yarra Junction,,no_eligible_route
+20901,Fairfield (Vic.),22911,Yarra Junction,154.08,ok
+20909,Fawkner,22911,Yarra Junction,185.7,ok
+20916,Fernshaw,22911,Yarra Junction,,no_eligible_route
+20917,Ferntree Gully,22911,Yarra Junction,131.28,ok
+20918,Ferny Creek,22911,Yarra Junction,162.62,ok
+20920,Fingal (Vic.),22911,Yarra Junction,,no_eligible_route
+20924,Fitzroy (Vic.),22911,Yarra Junction,144.38,ok
+20925,Fitzroy North,22911,Yarra Junction,150.98,ok
+20929,Flemington,22911,Yarra Junction,165.22,ok
+20930,Flinders (Vic.),22911,Yarra Junction,,no_eligible_route
+20935,Footscray,22911,Yarra Junction,154.62,ok
+20937,Forest Hill (Vic.),22911,Yarra Junction,123.83,ok
+20947,Frankston,22911,Yarra Junction,226.35,ok
+20948,Frankston North,22911,Yarra Junction,213.15,ok
+20949,Frankston South,22911,Yarra Junction,,no_eligible_route
+20950,Fraser Rise,22911,Yarra Junction,,no_eligible_route
+20965,Gardenvale,22911,Yarra Junction,160.83,ok
+20966,Garfield,22911,Yarra Junction,,no_eligible_route
+20967,Garfield North,22911,Yarra Junction,,no_eligible_route
+20979,Gembrook,22911,Yarra Junction,,no_eligible_route
+20995,Gilderoy,22911,Yarra Junction,174.15,walk_only
+21001,Gisborne,22911,Yarra Junction,,no_eligible_route
+21002,Gisborne South,22911,Yarra Junction,,no_eligible_route
+21004,Gladstone Park,22911,Yarra Junction,198.8,ok
+21005,Gladysdale,22911,Yarra Junction,79.77,walk_only
+21009,Glen Huntly,22911,Yarra Junction,163.57,ok
+21010,Glen Iris (Vic.),22911,Yarra Junction,146.43,ok
+21013,Glen Waverley,22911,Yarra Junction,140.47,ok
+21047,Glenroy (Vic.),22911,Yarra Junction,179.45,ok
+21059,Goldie,22911,Yarra Junction,,no_eligible_route
+21079,Gowanbrae,22911,Yarra Junction,201.13,ok
+21087,Grangefields,22911,Yarra Junction,,no_eligible_route
+21104,Greensborough,22911,Yarra Junction,144.65,ok
+21105,Greenvale (Vic.),22911,Yarra Junction,,no_eligible_route
+21115,Gruyere,22911,Yarra Junction,,no_eligible_route
+21121,Guys Hill,22911,Yarra Junction,,no_eligible_route
+21124,Hadfield,22911,Yarra Junction,187.73,ok
+21125,Hallam,22911,Yarra Junction,194.62,ok
+21131,Hampton (Vic.),22911,Yarra Junction,171.23,ok
+21132,Hampton East,22911,Yarra Junction,177.8,ok
+21133,Hampton Park,22911,Yarra Junction,212.18,ok
+21139,Harkaway,22911,Yarra Junction,,no_eligible_route
+21140,Harkness,22911,Yarra Junction,,no_eligible_route
+21145,Hastings (Vic.),22911,Yarra Junction,,no_eligible_route
+21152,Hawthorn (Vic.),22911,Yarra Junction,139.6,ok
+21153,Hawthorn East,22911,Yarra Junction,124.67,ok
+21158,Healesville,22911,Yarra Junction,,no_eligible_route
+21159,Heath Hill,22911,Yarra Junction,,no_eligible_route
+21161,Heathcote Junction,22911,Yarra Junction,,no_eligible_route
+21163,Heatherton,22911,Yarra Junction,187.92,ok
+21165,Heathmont,22911,Yarra Junction,107.6,ok
+21167,Heidelberg,22911,Yarra Junction,155.17,ok
+21168,Heidelberg Heights,22911,Yarra Junction,173.4,ok
+21169,Heidelberg West,22911,Yarra Junction,168.62,ok
+21176,Hesket,22911,Yarra Junction,,no_eligible_route
+21185,Highett,22911,Yarra Junction,170.57,ok
+21193,Hillside (Melton - Vic.),22911,Yarra Junction,,no_eligible_route
+21195,Hmas Cerberus,22911,Yarra Junction,,no_eligible_route
+21196,Hoddles Creek,22911,Yarra Junction,126.37,walk_only
+21202,Hopetoun Park,22911,Yarra Junction,,no_eligible_route
+21203,Hoppers Crossing,22911,Yarra Junction,206.83,ok
+21214,Hughesdale,22911,Yarra Junction,164.37,ok
+21215,Humevale,22911,Yarra Junction,,no_eligible_route
+21218,Huntingdale (Vic.),22911,Yarra Junction,168.08,ok
+21223,Hurstbridge,22911,Yarra Junction,190.63,ok
+21238,Iona,22911,Yarra Junction,,no_eligible_route
+21246,Ivanhoe (Vic.),22911,Yarra Junction,152.37,ok
+21247,Ivanhoe East,22911,Yarra Junction,170.33,ok
+21248,Jacana,22911,Yarra Junction,184.02,ok
+21277,Junction Village,22911,Yarra Junction,,no_eligible_route
+21284,Kalkallo,22911,Yarra Junction,,no_eligible_route
+21286,Kallista,22911,Yarra Junction,128.33,ok
+21287,Kalorama,22911,Yarra Junction,116.7,ok
+21294,Kangaroo Ground,22911,Yarra Junction,,no_eligible_route
+21312,Kealba,22911,Yarra Junction,213.97,ok
+21314,Keilor,22911,Yarra Junction,,no_eligible_route
+21315,Keilor Downs,22911,Yarra Junction,209.1,ok
+21316,Keilor East,22911,Yarra Junction,,no_eligible_route
+21317,Keilor Lodge,22911,Yarra Junction,,no_eligible_route
+21318,Keilor North,22911,Yarra Junction,222.55,ok
+21319,Keilor Park,22911,Yarra Junction,,no_eligible_route
+21327,Kensington (Vic.),22911,Yarra Junction,151.3,ok
+21333,Kerrie,22911,Yarra Junction,,no_eligible_route
+21336,Kew (Vic.),22911,Yarra Junction,135.05,ok
+21337,Kew East,22911,Yarra Junction,151.57,ok
+21339,Keysborough,22911,Yarra Junction,195.62,ok
+21354,Kilsyth,22911,Yarra Junction,103.43,ok
+21355,Kilsyth South,22911,Yarra Junction,126.33,ok
+21358,Kinglake,22911,Yarra Junction,,no_eligible_route
+21359,Kinglake Central,22911,Yarra Junction,,no_eligible_route
+21360,Kinglake West,22911,Yarra Junction,,no_eligible_route
+21362,Kings Park (Vic.),22911,Yarra Junction,211.02,ok
+21363,Kingsbury,22911,Yarra Junction,183.72,ok
+21365,Kingsville,22911,Yarra Junction,165.1,ok
+21374,Knoxfield,22911,Yarra Junction,135.47,ok
+21380,Koo Wee Rup,22911,Yarra Junction,,no_eligible_route
+21381,Koo Wee Rup North,22911,Yarra Junction,,no_eligible_route
+21393,Kooyong,22911,Yarra Junction,142.78,ok
+21411,Kurunjang,22911,Yarra Junction,,no_eligible_route
+21452,Lalor,22911,Yarra Junction,175.05,ok
+21456,Lancefield,22911,Yarra Junction,,no_eligible_route
+21459,Lang Lang,22911,Yarra Junction,,no_eligible_route
+21460,Lang Lang East,22911,Yarra Junction,,no_eligible_route
+21467,Langwarrin,22911,Yarra Junction,,no_eligible_route
+21468,Langwarrin South,22911,Yarra Junction,,no_eligible_route
+21473,Launching Place,22911,Yarra Junction,26.55,ok
+21476,Laverton (Vic.),22911,Yarra Junction,178.45,ok
+21477,Laverton North,22911,Yarra Junction,,no_eligible_route
+21504,Lilydale (Vic.),22911,Yarra Junction,52.77,ok
+21533,Long Forest,22911,Yarra Junction,,no_eligible_route
+21547,Lower Plenty,22911,Yarra Junction,159.0,ok
+21554,Lynbrook,22911,Yarra Junction,195.87,ok
+21555,Lyndhurst (Vic.),22911,Yarra Junction,,no_eligible_route
+21558,Lysterfield,22911,Yarra Junction,,no_eligible_route
+21559,Lysterfield South,22911,Yarra Junction,,no_eligible_route
+21561,Macclesfield (Vic.),22911,Yarra Junction,,no_eligible_route
+21562,Macedon,22911,Yarra Junction,,no_eligible_route
+21564,Macleod (Vic.),22911,Yarra Junction,167.72,ok
+21569,Maddingley,22911,Yarra Junction,,no_eligible_route
+21575,Maidstone,22911,Yarra Junction,183.37,ok
+21578,Main Ridge,22911,Yarra Junction,,no_eligible_route
+21586,Malvern (Vic.),22911,Yarra Junction,139.32,ok
+21587,Malvern East,22911,Yarra Junction,155.38,ok
+21588,Mambourin,22911,Yarra Junction,,no_eligible_route
+21597,Manor Lakes,22911,Yarra Junction,,no_eligible_route
+21604,Maribyrnong,22911,Yarra Junction,176.73,ok
+21619,Maryknoll,22911,Yarra Junction,,no_eligible_route
+21625,McCrae,22911,Yarra Junction,,no_eligible_route
+21629,McKinnon,22911,Yarra Junction,160.87,ok
+21635,Meadow Heights,22911,Yarra Junction,196.9,ok
+21640,Melbourne,22911,Yarra Junction,129.47,ok
+21641,Melbourne Airport,22911,Yarra Junction,,no_eligible_route
+21642,Melton (Vic.),22911,Yarra Junction,,no_eligible_route
+21643,Melton South,22911,Yarra Junction,,no_eligible_route
+21644,Melton West,22911,Yarra Junction,,no_eligible_route
+21648,Mentone,22911,Yarra Junction,169.22,ok
+21649,Menzies Creek,22911,Yarra Junction,,no_eligible_route
+21659,Mernda,22911,Yarra Junction,221.4,ok
+21662,Merricks,22911,Yarra Junction,,no_eligible_route
+21663,Merricks Beach,22911,Yarra Junction,,no_eligible_route
+21664,Merricks North,22911,Yarra Junction,,no_eligible_route
+21668,Merrimu,22911,Yarra Junction,,no_eligible_route
+21675,Mickleham,22911,Yarra Junction,,no_eligible_route
+21677,Middle Park (Vic.),22911,Yarra Junction,157.8,ok
+21683,Mill Park,22911,Yarra Junction,189.88,ok
+21685,Millgrove,22911,Yarra Junction,128.07,walk_only
+21706,Mitcham (Vic.),22911,Yarra Junction,101.22,ok
+21727,Monbulk,22911,Yarra Junction,119.32,ok
+21728,Monegeetta,22911,Yarra Junction,,no_eligible_route
+21731,Monomeith,22911,Yarra Junction,,no_eligible_route
+21732,Mont Albert,22911,Yarra Junction,120.03,ok
+21733,Mont Albert North,22911,Yarra Junction,135.58,ok
+21735,Montmorency,22911,Yarra Junction,146.37,ok
+21736,Montrose (Vic.),22911,Yarra Junction,96.87,ok
+21742,Moonee Ponds,22911,Yarra Junction,153.37,ok
+21746,Moorabbin,22911,Yarra Junction,194.62,ok
+21747,Moorabbin Airport,22911,Yarra Junction,,no_eligible_route
+21754,Moorooduc,22911,Yarra Junction,,no_eligible_route
+21755,Mooroolbark,22911,Yarra Junction,93.25,ok
+21760,Mordialloc,22911,Yarra Junction,194.85,ok
+21763,Mornington (Vic.),22911,Yarra Junction,,no_eligible_route
+21779,Mount Burnett,22911,Yarra Junction,,no_eligible_route
+21786,Mount Cottrell,22911,Yarra Junction,,no_eligible_route
+21787,Mount Dandenong,22911,Yarra Junction,136.32,ok
+21793,Mount Eliza,22911,Yarra Junction,,no_eligible_route
+21795,Mount Evelyn,22911,Yarra Junction,81.82,ok
+21801,Mount Macedon,22911,Yarra Junction,,no_eligible_route
+21803,Mount Martha,22911,Yarra Junction,,no_eligible_route
+21814,Mount Toolebewong,22911,Yarra Junction,,no_eligible_route
+21816,Mount Waverley,22911,Yarra Junction,159.07,ok
+21827,Mulgrave (Vic.),22911,Yarra Junction,173.05,ok
+21849,Murrumbeena,22911,Yarra Junction,166.77,ok
+21872,Nangana,22911,Yarra Junction,,no_eligible_route
+21878,Nar Nar Goon,22911,Yarra Junction,,no_eligible_route
+21879,Nar Nar Goon North,22911,Yarra Junction,,no_eligible_route
+21893,Narre Warren,22911,Yarra Junction,194.05,ok
+21894,Narre Warren East,22911,Yarra Junction,,no_eligible_route
+21895,Narre Warren North,22911,Yarra Junction,,no_eligible_route
+21896,Narre Warren South,22911,Yarra Junction,,no_eligible_route
+21921,New Gisborne,22911,Yarra Junction,,no_eligible_route
+21934,Newport (Vic.),22911,Yarra Junction,158.3,ok
+21942,Niddrie,22911,Yarra Junction,226.67,ok
+21952,Noble Park,22911,Yarra Junction,167.87,ok
+21953,Noble Park North,22911,Yarra Junction,196.43,ok
+21966,North Melbourne,22911,Yarra Junction,152.75,ok
+21969,North Warrandyte,22911,Yarra Junction,162.72,ok
+21971,Northcote,22911,Yarra Junction,158.25,ok
+21974,Notting Hill,22911,Yarra Junction,140.0,ok
+21985,Nunawading,22911,Yarra Junction,99.68,ok
+21991,Nutfield,22911,Yarra Junction,,no_eligible_route
+21998,Oak Park,22911,Yarra Junction,171.68,ok
+21999,Oaklands Junction,22911,Yarra Junction,,no_eligible_route
+22000,Oakleigh,22911,Yarra Junction,165.02,ok
+22001,Oakleigh East,22911,Yarra Junction,166.25,ok
+22002,Oakleigh South,22911,Yarra Junction,158.47,ok
+22006,Officer,22911,Yarra Junction,208.15,ok
+22007,Officer South,22911,Yarra Junction,,no_eligible_route
+22009,Olinda (Vic.),22911,Yarra Junction,,no_eligible_route
+22016,Ormond,22911,Yarra Junction,161.3,ok
+22027,Pakenham,22911,Yarra Junction,207.2,ok
+22028,Pakenham South,22911,Yarra Junction,,no_eligible_route
+22029,Pakenham Upper,22911,Yarra Junction,,no_eligible_route
+22032,Panton Hill,22911,Yarra Junction,,no_eligible_route
+22036,Park Orchards,22911,Yarra Junction,120.33,ok
+22037,Parkdale,22911,Yarra Junction,185.63,ok
+22038,Parkville (Vic.),22911,Yarra Junction,152.25,ok
+22041,Pascoe Vale,22911,Yarra Junction,176.05,ok
+22042,Pascoe Vale South,22911,Yarra Junction,171.78,ok
+22047,Patterson Lakes,22911,Yarra Junction,215.4,ok
+22050,Pearcedale,22911,Yarra Junction,,no_eligible_route
+22058,Pentland Hills,22911,Yarra Junction,,no_eligible_route
+22064,Pheasant Creek (Vic.),22911,Yarra Junction,,no_eligible_route
+22084,Plenty (Vic.),22911,Yarra Junction,168.22,ok
+22085,Plumpton (Vic.),22911,Yarra Junction,,no_eligible_route
+22086,Point Cook,22911,Yarra Junction,,no_eligible_route
+22087,Point Leo,22911,Yarra Junction,,no_eligible_route
+22107,Port Melbourne,22911,Yarra Junction,161.58,ok
+22113,Portsea,22911,Yarra Junction,,no_eligible_route
+22115,Powelltown,22911,Yarra Junction,,no_eligible_route
+22118,Prahran,22911,Yarra Junction,151.37,ok
+22121,Preston (Vic.),22911,Yarra Junction,169.65,ok
+22122,Princes Hill,22911,Yarra Junction,151.73,ok
+22132,Quandong,22911,Yarra Junction,,no_eligible_route
+22141,Ravenhall,22911,Yarra Junction,,no_eligible_route
+22148,Red Hill (Vic.),22911,Yarra Junction,,no_eligible_route
+22149,Red Hill South,22911,Yarra Junction,,no_eligible_route
+22160,Research,22911,Yarra Junction,,no_eligible_route
+22161,Reservoir (Vic.),22911,Yarra Junction,171.87,ok
+22170,Richmond (Vic.),22911,Yarra Junction,137.57,ok
+22172,Riddells Creek,22911,Yarra Junction,,no_eligible_route
+22174,Ringwood (Vic.),22911,Yarra Junction,98.57,ok
+22175,Ringwood East,22911,Yarra Junction,92.42,ok
+22176,Ringwood North,22911,Yarra Junction,115.07,ok
+22179,Ripponlea,22911,Yarra Junction,150.27,ok
+22185,Rochford,22911,Yarra Junction,,no_eligible_route
+22186,Rockbank,22911,Yarra Junction,,no_eligible_route
+22193,Romsey,22911,Yarra Junction,,no_eligible_route
+22194,Rosanna,22911,Yarra Junction,162.18,ok
+22198,Rosebud,22911,Yarra Junction,,no_eligible_route
+22207,Rowville,22911,Yarra Junction,165.38,ok
+22208,Roxburgh Park,22911,Yarra Junction,201.53,ok
+22220,Rye,22911,Yarra Junction,,no_eligible_route
+22221,Rythdale,22911,Yarra Junction,,no_eligible_route
+22222,Safety Beach (Vic.),22911,Yarra Junction,,no_eligible_route
+22232,Sandhurst,22911,Yarra Junction,217.23,ok
+22234,Sandringham (Vic.),22911,Yarra Junction,176.12,ok
+22239,Sassafras (Vic.),22911,Yarra Junction,145.38,ok
+22242,Scoresby,22911,Yarra Junction,161.33,ok
+22247,Seabrook,22911,Yarra Junction,194.85,ok
+22249,Seaford (Vic.),22911,Yarra Junction,210.17,ok
+22250,Seaholme,22911,Yarra Junction,177.53,ok
+22256,Seddon (Vic.),22911,Yarra Junction,151.55,ok
+22258,Selby,22911,Yarra Junction,147.9,ok
+22263,Seville,22911,Yarra Junction,63.33,ok
+22264,Seville East,22911,Yarra Junction,41.52,ok
+22278,Sherbrooke,22911,Yarra Junction,127.48,ok
+22279,Shoreham,22911,Yarra Junction,,no_eligible_route
+22281,Silvan,22911,Yarra Junction,100.55,ok
+22291,Skye (Vic.),22911,Yarra Junction,,no_eligible_route
+22295,Smiths Gully,22911,Yarra Junction,,no_eligible_route
+22303,Somers,22911,Yarra Junction,,no_eligible_route
+22304,Somerton (Vic.),22911,Yarra Junction,204.47,ok
+22305,Somerville (Vic.),22911,Yarra Junction,,no_eligible_route
+22306,Sorrento (Vic.),22911,Yarra Junction,,no_eligible_route
+22309,South Kingsville,22911,Yarra Junction,170.55,ok
+22310,South Melbourne,22911,Yarra Junction,151.77,ok
+22311,South Morang,22911,Yarra Junction,201.08,ok
+22313,South Wharf,22911,Yarra Junction,144.3,ok
+22314,South Yarra,22911,Yarra Junction,141.03,ok
+22315,Southbank,22911,Yarra Junction,137.12,ok
+22319,Spotswood,22911,Yarra Junction,151.7,ok
+22325,Springfield (Macedon Ranges - Vic.),22911,Yarra Junction,,no_eligible_route
+22328,Springvale (Vic.),22911,Yarra Junction,158.95,ok
+22329,Springvale South,22911,Yarra Junction,157.57,ok
+22330,St Albans (Vic.),22911,Yarra Junction,184.38,ok
+22332,St Andrews (Vic.),22911,Yarra Junction,,no_eligible_route
+22333,St Andrews Beach,22911,Yarra Junction,,no_eligible_route
+22339,St Helena,22911,Yarra Junction,164.33,ok
+22343,St Kilda (Vic.),22911,Yarra Junction,148.02,ok
+22344,St Kilda East,22911,Yarra Junction,161.57,ok
+22345,St Kilda West,22911,Yarra Junction,155.65,ok
+22355,Steels Creek,22911,Yarra Junction,,no_eligible_route
+22375,Strathewen,22911,Yarra Junction,,no_eligible_route
+22380,Strathmore (Vic.),22911,Yarra Junction,179.85,ok
+22381,Strathmore Heights,22911,Yarra Junction,194.1,ok
+22382,Strathtulloh,22911,Yarra Junction,,no_eligible_route
+22391,Sunbury,22911,Yarra Junction,,no_eligible_route
+22395,Sunshine (Vic.),22911,Yarra Junction,173.17,ok
+22396,Sunshine North,22911,Yarra Junction,202.97,ok
+22397,Sunshine West,22911,Yarra Junction,205.33,ok
+22399,Surrey Hills,22911,Yarra Junction,119.82,ok
+22414,Sydenham (Vic.),22911,Yarra Junction,198.78,ok
+22451,Tarneit,22911,Yarra Junction,,no_eligible_route
+22457,Tarrawarra,22911,Yarra Junction,133.97,ok
+22473,Taylors Hill,22911,Yarra Junction,,no_eligible_route
+22474,Taylors Lakes,22911,Yarra Junction,203.67,ok
+22476,Tecoma,22911,Yarra Junction,128.33,ok
+22483,Templestowe,22911,Yarra Junction,142.63,ok
+22484,Templestowe Lower,22911,Yarra Junction,152.75,ok
+22496,The Basin (Vic.),22911,Yarra Junction,136.52,ok
+22501,The Patch,22911,Yarra Junction,126.52,ok
+22504,Thomastown,22911,Yarra Junction,180.35,ok
+22508,Thornbury,22911,Yarra Junction,164.13,ok
+22509,Thornhill Park,22911,Yarra Junction,,no_eligible_route
+22514,Three Bridges,22911,Yarra Junction,122.7,walk_only
+22531,Tonimbuk,22911,Yarra Junction,,no_eligible_route
+22536,Toolangi,22911,Yarra Junction,,no_eligible_route
+22537,Toolern Vale,22911,Yarra Junction,,no_eligible_route
+22546,Tooradin,22911,Yarra Junction,,no_eligible_route
+22547,Toorak,22911,Yarra Junction,151.97,ok
+22550,Tootgarook,22911,Yarra Junction,,no_eligible_route
+22556,Tottenham (Vic.),22911,Yarra Junction,200.6,ok
+22572,Travancore,22911,Yarra Junction,163.12,ok
+22576,Tremont,22911,Yarra Junction,141.52,ok
+22582,Truganina,22911,Yarra Junction,,no_eligible_route
+22584,Tuerong,22911,Yarra Junction,,no_eligible_route
+22586,Tullamarine,22911,Yarra Junction,225.95,ok
+22594,Tyabb,22911,Yarra Junction,,no_eligible_route
+22598,Tynong,22911,Yarra Junction,,no_eligible_route
+22599,Tynong North,22911,Yarra Junction,,no_eligible_route
+22614,Upper Ferntree Gully,22911,Yarra Junction,125.48,ok
+22617,Upper Plenty,22911,Yarra Junction,,no_eligible_route
+22620,Upwey,22911,Yarra Junction,128.2,ok
+22627,Vermont,22911,Yarra Junction,115.33,ok
+22628,Vermont South,22911,Yarra Junction,121.68,ok
+22629,Vervale,22911,Yarra Junction,,no_eligible_route
+22633,Viewbank,22911,Yarra Junction,176.82,ok
+22661,Wallan,22911,Yarra Junction,,no_eligible_route
+22672,Wandin East,22911,Yarra Junction,,no_eligible_route
+22673,Wandin North,22911,Yarra Junction,43.67,ok
+22676,Wandong,22911,Yarra Junction,,no_eligible_route
+22685,Wantirna,22911,Yarra Junction,122.88,ok
+22686,Wantirna South,22911,Yarra Junction,140.02,ok
+22689,Warburton (Vic.),22911,Yarra Junction,181.78,walk_only
+22695,Warneet,22911,Yarra Junction,,no_eligible_route
+22702,Warrandyte,22911,Yarra Junction,132.98,ok
+22703,Warrandyte South,22911,Yarra Junction,147.37,ok
+22704,Warranwood,22911,Yarra Junction,115.22,ok
+22717,Waterford Park,22911,Yarra Junction,,no_eligible_route
+22720,Waterways,22911,Yarra Junction,180.0,ok
+22721,Watsonia,22911,Yarra Junction,162.63,ok
+22722,Watsonia North,22911,Yarra Junction,182.25,ok
+22723,Watsons Creek (Vic.),22911,Yarra Junction,,no_eligible_route
+22727,Wattle Glen,22911,Yarra Junction,194.38,ok
+22740,Weir Views,22911,Yarra Junction,,no_eligible_route
+22750,Werribee,22911,Yarra Junction,205.85,ok
+22751,Werribee South,22911,Yarra Junction,,no_eligible_route
+22753,Wesburn,22911,Yarra Junction,29.8,ok
+22756,West Footscray,22911,Yarra Junction,171.13,ok
+22757,West Melbourne,22911,Yarra Junction,176.12,ok
+22761,Westmeadows,22911,Yarra Junction,196.67,ok
+22766,Wheelers Hill,22911,Yarra Junction,,no_eligible_route
+22775,Whittlesea,22911,Yarra Junction,,no_eligible_route
+22784,Wildwood,22911,Yarra Junction,,no_eligible_route
+22791,Williams Landing,22911,Yarra Junction,192.7,ok
+22792,Williamstown (Vic.),22911,Yarra Junction,160.52,ok
+22793,Williamstown North,22911,Yarra Junction,180.05,ok
+22805,Windsor (Vic.),22911,Yarra Junction,147.53,ok
+22820,Wollert,22911,Yarra Junction,,no_eligible_route
+22825,Wonga Park,22911,Yarra Junction,85.12,ok
+22843,Woodstock (Vic.),22911,Yarra Junction,,no_eligible_route
+22857,Woori Yallock,22911,Yarra Junction,30.47,ok
+22883,Wyndham Vale,22911,Yarra Junction,,no_eligible_route
+22892,Yallambie,22911,Yarra Junction,173.07,ok
+22898,Yan Yean,22911,Yarra Junction,,no_eligible_route
+22906,Yannathan,22911,Yarra Junction,,no_eligible_route
+22910,Yarra Glen,22911,Yarra Junction,,no_eligible_route
+22911,Yarra Junction,22911,Yarra Junction,0.0,same_centroid
+22916,Yarrambat,22911,Yarra Junction,186.08,ok
+22917,Yarraville,22911,Yarra Junction,157.45,ok
+22925,Yellingbo,22911,Yarra Junction,,no_eligible_route
+22930,Yering,22911,Yarra Junction,,no_eligible_route
+22941,Yuroke,22911,Yarra Junction,,no_eligible_route

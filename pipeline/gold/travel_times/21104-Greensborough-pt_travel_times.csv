@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21104,Greensborough,48.97,ok
+20003,Aberfeldie,21104,Greensborough,78.2,ok
+20011,Aintree,21104,Greensborough,136.95,ok
+20015,Airport West,21104,Greensborough,96.4,ok
+20017,Albanvale,21104,Greensborough,120.4,ok
+20018,Albert Park (Vic.),21104,Greensborough,75.78,ok
+20021,Albion (Vic.),21104,Greensborough,97.82,ok
+20034,Alphington,21104,Greensborough,32.63,ok
+20035,Altona (Vic.),21104,Greensborough,93.9,ok
+20036,Altona Meadows,21104,Greensborough,110.85,ok
+20037,Altona North,21104,Greensborough,106.3,ok
+20062,Ardeer,21104,Greensborough,106.97,ok
+20066,Armadale (Vic.),21104,Greensborough,60.05,ok
+20071,Arthurs Creek,21104,Greensborough,,no_eligible_route
+20072,Arthurs Seat,21104,Greensborough,232.57,ok
+20075,Ascot Vale,21104,Greensborough,77.73,ok
+20077,Ashburton,21104,Greensborough,80.22,ok
+20078,Ashwood,21104,Greensborough,81.12,ok
+20079,Aspendale,21104,Greensborough,107.3,ok
+20080,Aspendale Gardens,21104,Greensborough,127.63,ok
+20082,Attwood,21104,Greensborough,90.3,ok
+20089,Avondale Heights,21104,Greensborough,105.33,ok
+20091,Avonsleigh,21104,Greensborough,,no_eligible_route
+20095,Bacchus Marsh,21104,Greensborough,,no_eligible_route
+20097,Badger Creek,21104,Greensborough,152.55,ok
+20105,Balaclava (Vic.),21104,Greensborough,78.68,ok
+20120,Balnarring,21104,Greensborough,,no_eligible_route
+20121,Balnarring Beach,21104,Greensborough,,no_eligible_route
+20123,Balwyn,21104,Greensborough,69.43,ok
+20124,Balwyn North,21104,Greensborough,62.08,ok
+20131,Bangholme,21104,Greensborough,158.9,ok
+20169,Baxter,21104,Greensborough,147.65,ok
+20171,Bayles,21104,Greensborough,,no_eligible_route
+20173,Bayswater (Vic.),21104,Greensborough,83.35,ok
+20174,Bayswater North,21104,Greensborough,102.73,ok
+20175,Beaconsfield (Vic.),21104,Greensborough,156.75,ok
+20176,Beaconsfield Upper,21104,Greensborough,,no_eligible_route
+20182,Beaumaris (Vic.),21104,Greensborough,105.18,ok
+20187,Beenak,21104,Greensborough,,no_eligible_route
+20188,Belgrave,21104,Greensborough,96.43,ok
+20189,Belgrave Heights,21104,Greensborough,131.1,ok
+20190,Belgrave South,21104,Greensborough,125.08,ok
+20198,Bellfield (Banyule - Vic.),21104,Greensborough,44.57,ok
+20207,Bend Of Islands,21104,Greensborough,,no_eligible_route
+20212,Benloch,21104,Greensborough,,no_eligible_route
+20214,Bentleigh,21104,Greensborough,83.08,ok
+20215,Bentleigh East,21104,Greensborough,100.03,ok
+20224,Berwick,21104,Greensborough,119.55,ok
+20233,Beveridge,21104,Greensborough,120.55,ok
+20237,Big Pats Creek,21104,Greensborough,,no_eligible_route
+20248,Bittern,21104,Greensborough,165.63,ok
+20251,Black Rock (Vic.),21104,Greensborough,110.98,ok
+20252,Blackburn,21104,Greensborough,51.22,ok
+20253,Blackburn North,21104,Greensborough,47.82,ok
+20254,Blackburn South,21104,Greensborough,68.02,ok
+20257,Blairgowrie,21104,Greensborough,226.6,ok
+20260,Blind Bight,21104,Greensborough,,no_eligible_route
+20272,Bolinda,21104,Greensborough,,no_eligible_route
+20278,Bonbeach,21104,Greensborough,111.3,ok
+20280,Boneo,21104,Greensborough,,no_eligible_route
+20282,Bonnie Brook,21104,Greensborough,169.5,ok
+20304,Boronia,21104,Greensborough,85.82,ok
+20307,Botanic Ridge,21104,Greensborough,169.42,ok
+20314,Box Hill (Vic.),21104,Greensborough,52.52,ok
+20315,Box Hill North,21104,Greensborough,54.48,ok
+20316,Box Hill South,21104,Greensborough,56.28,ok
+20320,Braeside,21104,Greensborough,134.38,ok
+20324,Braybrook,21104,Greensborough,104.65,ok
+20331,Briar Hill,21104,Greensborough,13.68,ok
+20337,Brighton (Vic.),21104,Greensborough,91.45,ok
+20338,Brighton East,21104,Greensborough,96.87,ok
+20346,Broadmeadows (Vic.),21104,Greensborough,56.75,ok
+20351,Brookfield (Vic.),21104,Greensborough,,no_eligible_route
+20352,Brooklyn (Vic.),21104,Greensborough,103.33,ok
+20361,Brunswick (Vic.),21104,Greensborough,61.83,ok
+20362,Brunswick East,21104,Greensborough,60.02,ok
+20363,Brunswick West,21104,Greensborough,68.42,ok
+20381,Bulla (Vic.),21104,Greensborough,,no_eligible_route
+20386,Bulleen,21104,Greensborough,47.07,ok
+20387,Bullengarook,21104,Greensborough,,no_eligible_route
+20399,Bundoora (Vic.),21104,Greensborough,22.45,ok
+20411,Bunyip,21104,Greensborough,,no_eligible_route
+20412,Bunyip North,21104,Greensborough,,no_eligible_route
+20418,Burnley,21104,Greensborough,83.05,ok
+20419,Burnside (Vic.),21104,Greensborough,115.85,ok
+20420,Burnside Heights,21104,Greensborough,123.67,ok
+20426,Burwood (Vic.),21104,Greensborough,68.03,ok
+20427,Burwood East,21104,Greensborough,67.02,ok
+20435,Bylands,21104,Greensborough,,no_eligible_route
+20441,Cairnlea,21104,Greensborough,109.02,ok
+20442,Calder Park,21104,Greensborough,131.6,ok
+20443,Caldermeade,21104,Greensborough,,no_eligible_route
+20453,Camberwell (Vic.),21104,Greensborough,79.05,ok
+20455,Campbellfield,21104,Greensborough,92.28,ok
+20466,Cannons Creek,21104,Greensborough,,no_eligible_route
+20468,Canterbury (Vic.),21104,Greensborough,73.38,ok
+20474,Cape Schanck,21104,Greensborough,,no_eligible_route
+20476,Capel Sound,21104,Greensborough,211.95,ok
+20487,Cardinia,21104,Greensborough,,no_eligible_route
+20495,Carlton (Vic.),21104,Greensborough,58.68,ok
+20496,Carlton North,21104,Greensborough,68.15,ok
+20498,Carnegie,21104,Greensborough,92.62,ok
+20500,Caroline Springs,21104,Greensborough,127.78,ok
+20507,Carrum,21104,Greensborough,111.12,ok
+20508,Carrum Downs,21104,Greensborough,135.4,ok
+20512,Castella,21104,Greensborough,,no_eligible_route
+20517,Catani,21104,Greensborough,,no_eligible_route
+20521,Caulfield,21104,Greensborough,88.78,ok
+20522,Caulfield East,21104,Greensborough,80.48,ok
+20523,Caulfield North,21104,Greensborough,73.4,ok
+20524,Caulfield South,21104,Greensborough,91.32,ok
+20528,Chadstone,21104,Greensborough,78.83,ok
+20537,Chelsea,21104,Greensborough,109.37,ok
+20538,Chelsea Heights,21104,Greensborough,125.05,ok
+20539,Cheltenham (Vic.),21104,Greensborough,98.83,ok
+20541,Cherokee,21104,Greensborough,,no_eligible_route
+20555,Chintin,21104,Greensborough,,no_eligible_route
+20556,Chirnside Park,21104,Greensborough,116.72,ok
+20559,Christmas Hills (Vic.),21104,Greensborough,,no_eligible_route
+20560,Chum Creek,21104,Greensborough,,no_eligible_route
+20566,Clarinda,21104,Greensborough,95.63,ok
+20567,Clarkefield,21104,Greensborough,,no_eligible_route
+20569,Clayton,21104,Greensborough,81.77,ok
+20570,Clayton South,21104,Greensborough,100.95,ok
+20572,Clematis,21104,Greensborough,,no_eligible_route
+20574,Clifton Hill,21104,Greensborough,36.93,ok
+20576,Clonbinane,21104,Greensborough,,no_eligible_route
+20581,Clyde (Vic.),21104,Greensborough,183.25,ok
+20582,Clyde North,21104,Greensborough,157.02,ok
+20587,Cobaw,21104,Greensborough,,no_eligible_route
+20590,Cobblebank,21104,Greensborough,178.63,ok
+20596,Coburg,21104,Greensborough,67.38,ok
+20597,Coburg North,21104,Greensborough,70.53,ok
+20600,Cockatoo (Vic.),21104,Greensborough,,no_eligible_route
+20601,Cocoroc,21104,Greensborough,,no_eligible_route
+20605,Coimadai,21104,Greensborough,,no_eligible_route
+20613,Coldstream (Vic.),21104,Greensborough,,no_eligible_route
+20616,Collingwood (Vic.),21104,Greensborough,47.72,ok
+20624,Coolaroo,21104,Greensborough,74.23,ok
+20633,Cora Lynn,21104,Greensborough,,no_eligible_route
+20654,Cottles Bridge,21104,Greensborough,218.8,walk_only
+20661,Craigieburn,21104,Greensborough,94.07,ok
+20662,Cranbourne,21104,Greensborough,147.2,ok
+20663,Cranbourne East,21104,Greensborough,151.3,ok
+20664,Cranbourne North,21104,Greensborough,141.22,ok
+20665,Cranbourne South,21104,Greensborough,172.77,ok
+20666,Cranbourne West,21104,Greensborough,147.72,ok
+20670,Cremorne (Vic.),21104,Greensborough,58.63,ok
+20674,Crib Point,21104,Greensborough,174.6,ok
+20682,Croydon (Vic.),21104,Greensborough,72.45,ok
+20683,Croydon Hills,21104,Greensborough,93.82,ok
+20684,Croydon North,21104,Greensborough,92.2,ok
+20685,Croydon South,21104,Greensborough,105.45,ok
+20702,Dallas,21104,Greensborough,71.63,ok
+20703,Dalmore,21104,Greensborough,,no_eligible_route
+20707,Dandenong,21104,Greensborough,107.15,ok
+20708,Dandenong North,21104,Greensborough,111.27,ok
+20709,Dandenong South,21104,Greensborough,134.57,ok
+20712,Darley,21104,Greensborough,,no_eligible_route
+20716,Darraweit Guim,21104,Greensborough,,no_eligible_route
+20724,Deanside,21104,Greensborough,148.08,ok
+20728,Deepdene (Vic.),21104,Greensborough,56.82,ok
+20729,Deer Park,21104,Greensborough,104.8,ok
+20731,Delahey,21104,Greensborough,121.47,ok
+20743,Derrimut,21104,Greensborough,139.35,ok
+20748,Devon Meadows,21104,Greensborough,190.0,ok
+20750,Dewhurst,21104,Greensborough,,no_eligible_route
+20752,Diamond Creek,21104,Greensborough,30.97,ok
+20754,Diggers Rest,21104,Greensborough,126.9,ok
+20758,Dingley Village,21104,Greensborough,115.73,ok
+20762,Dixons Creek,21104,Greensborough,,no_eligible_route
+20766,Docklands,21104,Greensborough,68.85,ok
+20769,Don Valley,21104,Greensborough,,no_eligible_route
+20771,Doncaster,21104,Greensborough,29.35,ok
+20772,Doncaster East,21104,Greensborough,35.13,ok
+20773,Donnybrook (Vic.),21104,Greensborough,118.03,ok
+20774,Donvale,21104,Greensborough,67.65,ok
+20779,Doreen,21104,Greensborough,55.4,ok
+20783,Doveton,21104,Greensborough,136.13,ok
+20788,Dromana,21104,Greensborough,221.73,ok
+20825,Eaglemont,21104,Greensborough,37.15,ok
+20830,East Melbourne,21104,Greensborough,43.0,ok
+20833,East Warburton,21104,Greensborough,,no_eligible_route
+20843,Eden Park,21104,Greensborough,,no_eligible_route
+20848,Edithvale,21104,Greensborough,104.95,ok
+20864,Elsternwick,21104,Greensborough,86.6,ok
+20865,Eltham (Vic.),21104,Greensborough,27.3,ok
+20866,Eltham North,21104,Greensborough,15.45,ok
+20867,Elwood,21104,Greensborough,83.05,ok
+20868,Emerald (Vic.),21104,Greensborough,,no_eligible_route
+20871,Endeavour Hills,21104,Greensborough,148.08,ok
+20878,Epping (Vic.),21104,Greensborough,72.97,ok
+20885,Essendon,21104,Greensborough,77.98,ok
+20886,Essendon Fields,21104,Greensborough,103.48,ok
+20887,Essendon North,21104,Greensborough,82.22,ok
+20888,Essendon West,21104,Greensborough,88.82,ok
+20889,Eumemmerring,21104,Greensborough,136.52,ok
+20898,Exford,21104,Greensborough,,no_eligible_route
+20899,Eynesbury,21104,Greensborough,,no_eligible_route
+20901,Fairfield (Vic.),21104,Greensborough,42.93,ok
+20909,Fawkner,21104,Greensborough,66.53,ok
+20916,Fernshaw,21104,Greensborough,,no_eligible_route
+20917,Ferntree Gully,21104,Greensborough,92.18,ok
+20918,Ferny Creek,21104,Greensborough,142.72,ok
+20920,Fingal (Vic.),21104,Greensborough,,no_eligible_route
+20924,Fitzroy (Vic.),21104,Greensborough,56.52,ok
+20925,Fitzroy North,21104,Greensborough,43.57,ok
+20929,Flemington,21104,Greensborough,81.57,ok
+20930,Flinders (Vic.),21104,Greensborough,,no_eligible_route
+20935,Footscray,21104,Greensborough,75.67,ok
+20937,Forest Hill (Vic.),21104,Greensborough,61.0,ok
+20947,Frankston,21104,Greensborough,133.08,ok
+20948,Frankston North,21104,Greensborough,142.23,ok
+20949,Frankston South,21104,Greensborough,159.02,ok
+20950,Fraser Rise,21104,Greensborough,142.35,ok
+20965,Gardenvale,21104,Greensborough,87.88,ok
+20966,Garfield,21104,Greensborough,,no_eligible_route
+20967,Garfield North,21104,Greensborough,,no_eligible_route
+20979,Gembrook,21104,Greensborough,,no_eligible_route
+20995,Gilderoy,21104,Greensborough,,no_eligible_route
+21001,Gisborne,21104,Greensborough,,no_eligible_route
+21002,Gisborne South,21104,Greensborough,,no_eligible_route
+21004,Gladstone Park,21104,Greensborough,78.78,ok
+21005,Gladysdale,21104,Greensborough,,no_eligible_route
+21009,Glen Huntly,21104,Greensborough,83.62,ok
+21010,Glen Iris (Vic.),21104,Greensborough,87.5,ok
+21013,Glen Waverley,21104,Greensborough,76.57,ok
+21047,Glenroy (Vic.),21104,Greensborough,78.62,ok
+21059,Goldie,21104,Greensborough,,no_eligible_route
+21079,Gowanbrae,21104,Greensborough,87.28,ok
+21087,Grangefields,21104,Greensborough,173.95,ok
+21104,Greensborough,21104,Greensborough,0.0,same_centroid
+21105,Greenvale (Vic.),21104,Greensborough,99.8,ok
+21115,Gruyere,21104,Greensborough,,no_eligible_route
+21121,Guys Hill,21104,Greensborough,,no_eligible_route
+21124,Hadfield,21104,Greensborough,72.05,ok
+21125,Hallam,21104,Greensborough,134.67,ok
+21131,Hampton (Vic.),21104,Greensborough,101.28,ok
+21132,Hampton East,21104,Greensborough,89.85,ok
+21133,Hampton Park,21104,Greensborough,137.08,ok
+21139,Harkaway,21104,Greensborough,,no_eligible_route
+21140,Harkness,21104,Greensborough,,no_eligible_route
+21145,Hastings (Vic.),21104,Greensborough,167.17,ok
+21152,Hawthorn (Vic.),21104,Greensborough,71.92,ok
+21153,Hawthorn East,21104,Greensborough,70.12,ok
+21158,Healesville,21104,Greensborough,156.47,ok
+21159,Heath Hill,21104,Greensborough,,no_eligible_route
+21161,Heathcote Junction,21104,Greensborough,,no_eligible_route
+21163,Heatherton,21104,Greensborough,112.15,ok
+21165,Heathmont,21104,Greensborough,73.62,ok
+21167,Heidelberg,21104,Greensborough,35.07,ok
+21168,Heidelberg Heights,21104,Greensborough,33.42,ok
+21169,Heidelberg West,21104,Greensborough,40.83,ok
+21176,Hesket,21104,Greensborough,,no_eligible_route
+21185,Highett,21104,Greensborough,82.62,ok
+21193,Hillside (Melton - Vic.),21104,Greensborough,121.88,ok
+21195,Hmas Cerberus,21104,Greensborough,,no_eligible_route
+21196,Hoddles Creek,21104,Greensborough,,no_eligible_route
+21202,Hopetoun Park,21104,Greensborough,,no_eligible_route
+21203,Hoppers Crossing,21104,Greensborough,117.73,ok
+21214,Hughesdale,21104,Greensborough,95.7,ok
+21215,Humevale,21104,Greensborough,99.93,ok
+21218,Huntingdale (Vic.),21104,Greensborough,101.13,ok
+21223,Hurstbridge,21104,Greensborough,32.25,ok
+21238,Iona,21104,Greensborough,,no_eligible_route
+21246,Ivanhoe (Vic.),21104,Greensborough,29.57,ok
+21247,Ivanhoe East,21104,Greensborough,42.82,ok
+21248,Jacana,21104,Greensborough,66.98,ok
+21277,Junction Village,21104,Greensborough,176.13,ok
+21284,Kalkallo,21104,Greensborough,142.68,ok
+21286,Kallista,21104,Greensborough,139.15,ok
+21287,Kalorama,21104,Greensborough,109.42,ok
+21294,Kangaroo Ground,21104,Greensborough,63.85,ok
+21312,Kealba,21104,Greensborough,108.18,ok
+21314,Keilor,21104,Greensborough,130.32,ok
+21315,Keilor Downs,21104,Greensborough,125.17,ok
+21316,Keilor East,21104,Greensborough,102.82,ok
+21317,Keilor Lodge,21104,Greensborough,127.68,ok
+21318,Keilor North,21104,Greensborough,135.83,ok
+21319,Keilor Park,21104,Greensborough,108.55,ok
+21327,Kensington (Vic.),21104,Greensborough,63.35,ok
+21333,Kerrie,21104,Greensborough,,no_eligible_route
+21336,Kew (Vic.),21104,Greensborough,62.55,ok
+21337,Kew East,21104,Greensborough,61.27,ok
+21339,Keysborough,21104,Greensborough,107.93,ok
+21354,Kilsyth,21104,Greensborough,96.8,ok
+21355,Kilsyth South,21104,Greensborough,106.88,ok
+21358,Kinglake,21104,Greensborough,,no_eligible_route
+21359,Kinglake Central,21104,Greensborough,,no_eligible_route
+21360,Kinglake West,21104,Greensborough,,no_eligible_route
+21362,Kings Park (Vic.),21104,Greensborough,119.15,ok
+21363,Kingsbury,21104,Greensborough,40.87,ok
+21365,Kingsville,21104,Greensborough,86.15,ok
+21374,Knoxfield,21104,Greensborough,95.08,ok
+21380,Koo Wee Rup,21104,Greensborough,,no_eligible_route
+21381,Koo Wee Rup North,21104,Greensborough,,no_eligible_route
+21393,Kooyong,21104,Greensborough,77.83,ok
+21411,Kurunjang,21104,Greensborough,196.72,ok
+21452,Lalor,21104,Greensborough,54.32,ok
+21456,Lancefield,21104,Greensborough,,no_eligible_route
+21459,Lang Lang,21104,Greensborough,,no_eligible_route
+21460,Lang Lang East,21104,Greensborough,,no_eligible_route
+21467,Langwarrin,21104,Greensborough,147.05,ok
+21468,Langwarrin South,21104,Greensborough,,no_eligible_route
+21473,Launching Place,21104,Greensborough,131.1,ok
+21476,Laverton (Vic.),21104,Greensborough,99.5,ok
+21477,Laverton North,21104,Greensborough,127.92,ok
+21504,Lilydale (Vic.),21104,Greensborough,99.75,ok
+21533,Long Forest,21104,Greensborough,,no_eligible_route
+21547,Lower Plenty,21104,Greensborough,36.55,ok
+21554,Lynbrook,21104,Greensborough,123.97,ok
+21555,Lyndhurst (Vic.),21104,Greensborough,178.5,ok
+21558,Lysterfield,21104,Greensborough,,no_eligible_route
+21559,Lysterfield South,21104,Greensborough,187.63,ok
+21561,Macclesfield (Vic.),21104,Greensborough,,no_eligible_route
+21562,Macedon,21104,Greensborough,,no_eligible_route
+21564,Macleod (Vic.),21104,Greensborough,25.52,ok
+21569,Maddingley,21104,Greensborough,,no_eligible_route
+21575,Maidstone,21104,Greensborough,99.68,ok
+21578,Main Ridge,21104,Greensborough,,no_eligible_route
+21586,Malvern (Vic.),21104,Greensborough,79.08,ok
+21587,Malvern East,21104,Greensborough,90.43,ok
+21588,Mambourin,21104,Greensborough,,no_eligible_route
+21597,Manor Lakes,21104,Greensborough,156.43,ok
+21604,Maribyrnong,21104,Greensborough,85.78,ok
+21619,Maryknoll,21104,Greensborough,,no_eligible_route
+21625,McCrae,21104,Greensborough,205.15,ok
+21629,McKinnon,21104,Greensborough,71.92,ok
+21635,Meadow Heights,21104,Greensborough,82.5,ok
+21640,Melbourne,21104,Greensborough,63.33,ok
+21641,Melbourne Airport,21104,Greensborough,,no_eligible_route
+21642,Melton (Vic.),21104,Greensborough,180.85,ok
+21643,Melton South,21104,Greensborough,194.45,ok
+21644,Melton West,21104,Greensborough,189.68,ok
+21648,Mentone,21104,Greensborough,93.6,ok
+21649,Menzies Creek,21104,Greensborough,,no_eligible_route
+21659,Mernda,21104,Greensborough,59.52,ok
+21662,Merricks,21104,Greensborough,,no_eligible_route
+21663,Merricks Beach,21104,Greensborough,,no_eligible_route
+21664,Merricks North,21104,Greensborough,,no_eligible_route
+21668,Merrimu,21104,Greensborough,,no_eligible_route
+21675,Mickleham,21104,Greensborough,126.07,ok
+21677,Middle Park (Vic.),21104,Greensborough,81.87,ok
+21683,Mill Park,21104,Greensborough,44.67,ok
+21685,Millgrove,21104,Greensborough,,no_eligible_route
+21706,Mitcham (Vic.),21104,Greensborough,60.18,ok
+21727,Monbulk,21104,Greensborough,146.6,ok
+21728,Monegeetta,21104,Greensborough,,no_eligible_route
+21731,Monomeith,21104,Greensborough,,no_eligible_route
+21732,Mont Albert,21104,Greensborough,59.83,ok
+21733,Mont Albert North,21104,Greensborough,45.68,ok
+21735,Montmorency,21104,Greensborough,16.48,ok
+21736,Montrose (Vic.),21104,Greensborough,91.72,ok
+21742,Moonee Ponds,21104,Greensborough,73.07,ok
+21746,Moorabbin,21104,Greensborough,108.77,ok
+21747,Moorabbin Airport,21104,Greensborough,117.1,ok
+21754,Moorooduc,21104,Greensborough,,no_eligible_route
+21755,Mooroolbark,21104,Greensborough,93.07,ok
+21760,Mordialloc,21104,Greensborough,108.9,ok
+21763,Mornington (Vic.),21104,Greensborough,164.95,ok
+21779,Mount Burnett,21104,Greensborough,,no_eligible_route
+21786,Mount Cottrell,21104,Greensborough,,no_eligible_route
+21787,Mount Dandenong,21104,Greensborough,103.42,ok
+21793,Mount Eliza,21104,Greensborough,143.13,ok
+21795,Mount Evelyn,21104,Greensborough,107.58,ok
+21801,Mount Macedon,21104,Greensborough,,no_eligible_route
+21803,Mount Martha,21104,Greensborough,173.67,ok
+21814,Mount Toolebewong,21104,Greensborough,,no_eligible_route
+21816,Mount Waverley,21104,Greensborough,72.3,ok
+21827,Mulgrave (Vic.),21104,Greensborough,105.48,ok
+21849,Murrumbeena,21104,Greensborough,95.82,ok
+21872,Nangana,21104,Greensborough,,no_eligible_route
+21878,Nar Nar Goon,21104,Greensborough,,no_eligible_route
+21879,Nar Nar Goon North,21104,Greensborough,,no_eligible_route
+21893,Narre Warren,21104,Greensborough,135.1,ok
+21894,Narre Warren East,21104,Greensborough,,no_eligible_route
+21895,Narre Warren North,21104,Greensborough,144.92,ok
+21896,Narre Warren South,21104,Greensborough,139.47,ok
+21921,New Gisborne,21104,Greensborough,,no_eligible_route
+21934,Newport (Vic.),21104,Greensborough,84.35,ok
+21942,Niddrie,21104,Greensborough,99.32,ok
+21952,Noble Park,21104,Greensborough,104.97,ok
+21953,Noble Park North,21104,Greensborough,129.63,ok
+21966,North Melbourne,21104,Greensborough,72.77,ok
+21969,North Warrandyte,21104,Greensborough,47.92,ok
+21971,Northcote,21104,Greensborough,48.43,ok
+21974,Notting Hill,21104,Greensborough,69.1,ok
+21985,Nunawading,21104,Greensborough,51.92,ok
+21991,Nutfield,21104,Greensborough,207.45,walk_only
+21998,Oak Park,21104,Greensborough,80.82,ok
+21999,Oaklands Junction,21104,Greensborough,,no_eligible_route
+22000,Oakleigh,21104,Greensborough,94.45,ok
+22001,Oakleigh East,21104,Greensborough,88.95,ok
+22002,Oakleigh South,21104,Greensborough,84.57,ok
+22006,Officer,21104,Greensborough,149.2,ok
+22007,Officer South,21104,Greensborough,186.82,ok
+22009,Olinda (Vic.),21104,Greensborough,138.07,ok
+22016,Ormond,21104,Greensborough,72.35,ok
+22027,Pakenham,21104,Greensborough,138.25,ok
+22028,Pakenham South,21104,Greensborough,,no_eligible_route
+22029,Pakenham Upper,21104,Greensborough,,no_eligible_route
+22032,Panton Hill,21104,Greensborough,207.5,walk_only
+22036,Park Orchards,21104,Greensborough,62.32,ok
+22037,Parkdale,21104,Greensborough,97.68,ok
+22038,Parkville (Vic.),21104,Greensborough,75.27,ok
+22041,Pascoe Vale,21104,Greensborough,84.6,ok
+22042,Pascoe Vale South,21104,Greensborough,74.43,ok
+22047,Patterson Lakes,21104,Greensborough,120.98,ok
+22050,Pearcedale,21104,Greensborough,190.07,ok
+22058,Pentland Hills,21104,Greensborough,,no_eligible_route
+22064,Pheasant Creek (Vic.),21104,Greensborough,,no_eligible_route
+22084,Plenty (Vic.),21104,Greensborough,32.2,ok
+22085,Plumpton (Vic.),21104,Greensborough,,no_eligible_route
+22086,Point Cook,21104,Greensborough,116.73,ok
+22087,Point Leo,21104,Greensborough,,no_eligible_route
+22107,Port Melbourne,21104,Greensborough,77.37,ok
+22113,Portsea,21104,Greensborough,,no_eligible_route
+22115,Powelltown,21104,Greensborough,,no_eligible_route
+22118,Prahran,21104,Greensborough,66.85,ok
+22121,Preston (Vic.),21104,Greensborough,48.68,ok
+22122,Princes Hill,21104,Greensborough,60.75,ok
+22132,Quandong,21104,Greensborough,,no_eligible_route
+22141,Ravenhall,21104,Greensborough,155.53,ok
+22148,Red Hill (Vic.),21104,Greensborough,,no_eligible_route
+22149,Red Hill South,21104,Greensborough,,no_eligible_route
+22160,Research,21104,Greensborough,39.78,ok
+22161,Reservoir (Vic.),21104,Greensborough,58.2,ok
+22170,Richmond (Vic.),21104,Greensborough,51.95,ok
+22172,Riddells Creek,21104,Greensborough,,no_eligible_route
+22174,Ringwood (Vic.),21104,Greensborough,67.38,ok
+22175,Ringwood East,21104,Greensborough,74.53,ok
+22176,Ringwood North,21104,Greensborough,67.28,ok
+22179,Ripponlea,21104,Greensborough,77.32,ok
+22185,Rochford,21104,Greensborough,,no_eligible_route
+22186,Rockbank,21104,Greensborough,154.12,ok
+22193,Romsey,21104,Greensborough,,no_eligible_route
+22194,Rosanna,21104,Greensborough,23.95,ok
+22198,Rosebud,21104,Greensborough,222.47,ok
+22207,Rowville,21104,Greensborough,103.77,ok
+22208,Roxburgh Park,21104,Greensborough,89.28,ok
+22220,Rye,21104,Greensborough,234.67,ok
+22221,Rythdale,21104,Greensborough,,no_eligible_route
+22222,Safety Beach (Vic.),21104,Greensborough,189.63,ok
+22232,Sandhurst,21104,Greensborough,149.32,ok
+22234,Sandringham (Vic.),21104,Greensborough,105.25,ok
+22239,Sassafras (Vic.),21104,Greensborough,125.48,ok
+22242,Scoresby,21104,Greensborough,113.35,ok
+22247,Seabrook,21104,Greensborough,107.8,ok
+22249,Seaford (Vic.),21104,Greensborough,123.22,ok
+22250,Seaholme,21104,Greensborough,88.58,ok
+22256,Seddon (Vic.),21104,Greensborough,72.6,ok
+22258,Selby,21104,Greensborough,135.03,ok
+22263,Seville,21104,Greensborough,142.27,ok
+22264,Seville East,21104,Greensborough,129.15,ok
+22278,Sherbrooke,21104,Greensborough,129.22,ok
+22279,Shoreham,21104,Greensborough,,no_eligible_route
+22281,Silvan,21104,Greensborough,138.7,ok
+22291,Skye (Vic.),21104,Greensborough,166.0,ok
+22295,Smiths Gully,21104,Greensborough,,no_eligible_route
+22303,Somers,21104,Greensborough,,no_eligible_route
+22304,Somerton (Vic.),21104,Greensborough,84.9,ok
+22305,Somerville (Vic.),21104,Greensborough,172.22,ok
+22306,Sorrento (Vic.),21104,Greensborough,225.43,ok
+22309,South Kingsville,21104,Greensborough,100.6,ok
+22310,South Melbourne,21104,Greensborough,74.08,ok
+22311,South Morang,21104,Greensborough,57.72,ok
+22313,South Wharf,21104,Greensborough,73.33,ok
+22314,South Yarra,21104,Greensborough,51.98,ok
+22315,Southbank,21104,Greensborough,74.12,ok
+22319,Spotswood,21104,Greensborough,72.75,ok
+22325,Springfield (Macedon Ranges - Vic.),21104,Greensborough,,no_eligible_route
+22328,Springvale (Vic.),21104,Greensborough,90.05,ok
+22329,Springvale South,21104,Greensborough,88.67,ok
+22330,St Albans (Vic.),21104,Greensborough,95.43,ok
+22332,St Andrews (Vic.),21104,Greensborough,,no_eligible_route
+22333,St Andrews Beach,21104,Greensborough,,no_eligible_route
+22339,St Helena,21104,Greensborough,13.45,ok
+22343,St Kilda (Vic.),21104,Greensborough,71.02,ok
+22344,St Kilda East,21104,Greensborough,79.77,ok
+22345,St Kilda West,21104,Greensborough,82.7,ok
+22355,Steels Creek,21104,Greensborough,,no_eligible_route
+22375,Strathewen,21104,Greensborough,,no_eligible_route
+22380,Strathmore (Vic.),21104,Greensborough,94.2,ok
+22381,Strathmore Heights,21104,Greensborough,90.58,ok
+22382,Strathtulloh,21104,Greensborough,,no_eligible_route
+22391,Sunbury,21104,Greensborough,158.73,ok
+22395,Sunshine (Vic.),21104,Greensborough,84.22,ok
+22396,Sunshine North,21104,Greensborough,104.3,ok
+22397,Sunshine West,21104,Greensborough,117.57,ok
+22399,Surrey Hills,21104,Greensborough,54.75,ok
+22414,Sydenham (Vic.),21104,Greensborough,109.83,ok
+22451,Tarneit,21104,Greensborough,133.8,ok
+22457,Tarrawarra,21104,Greensborough,132.07,ok
+22473,Taylors Hill,21104,Greensborough,125.85,ok
+22474,Taylors Lakes,21104,Greensborough,118.25,ok
+22476,Tecoma,21104,Greensborough,93.43,ok
+22483,Templestowe,21104,Greensborough,33.72,ok
+22484,Templestowe Lower,21104,Greensborough,50.65,ok
+22496,The Basin (Vic.),21104,Greensborough,110.62,ok
+22501,The Patch,21104,Greensborough,137.17,ok
+22504,Thomastown,21104,Greensborough,61.92,ok
+22508,Thornbury,21104,Greensborough,49.83,ok
+22509,Thornhill Park,21104,Greensborough,,no_eligible_route
+22514,Three Bridges,21104,Greensborough,,no_eligible_route
+22531,Tonimbuk,21104,Greensborough,,no_eligible_route
+22536,Toolangi,21104,Greensborough,,no_eligible_route
+22537,Toolern Vale,21104,Greensborough,,no_eligible_route
+22546,Tooradin,21104,Greensborough,,no_eligible_route
+22547,Toorak,21104,Greensborough,75.47,ok
+22550,Tootgarook,21104,Greensborough,218.08,ok
+22556,Tottenham (Vic.),21104,Greensborough,110.92,ok
+22572,Travancore,21104,Greensborough,81.17,ok
+22576,Tremont,21104,Greensborough,111.03,ok
+22582,Truganina,21104,Greensborough,185.95,ok
+22584,Tuerong,21104,Greensborough,,no_eligible_route
+22586,Tullamarine,21104,Greensborough,84.67,ok
+22594,Tyabb,21104,Greensborough,161.08,ok
+22598,Tynong,21104,Greensborough,,no_eligible_route
+22599,Tynong North,21104,Greensborough,,no_eligible_route
+22614,Upper Ferntree Gully,21104,Greensborough,90.58,ok
+22617,Upper Plenty,21104,Greensborough,,no_eligible_route
+22620,Upwey,21104,Greensborough,93.3,ok
+22627,Vermont,21104,Greensborough,77.65,ok
+22628,Vermont South,21104,Greensborough,88.78,ok
+22629,Vervale,21104,Greensborough,,no_eligible_route
+22633,Viewbank,21104,Greensborough,26.37,ok
+22661,Wallan,21104,Greensborough,,no_eligible_route
+22672,Wandin East,21104,Greensborough,,no_eligible_route
+22673,Wandin North,21104,Greensborough,115.23,ok
+22676,Wandong,21104,Greensborough,,no_eligible_route
+22685,Wantirna,21104,Greensborough,86.58,ok
+22686,Wantirna South,21104,Greensborough,93.03,ok
+22689,Warburton (Vic.),21104,Greensborough,,no_eligible_route
+22695,Warneet,21104,Greensborough,,no_eligible_route
+22702,Warrandyte,21104,Greensborough,44.5,ok
+22703,Warrandyte South,21104,Greensborough,75.63,ok
+22704,Warranwood,21104,Greensborough,62.05,ok
+22717,Waterford Park,21104,Greensborough,,no_eligible_route
+22720,Waterways,21104,Greensborough,120.1,ok
+22721,Watsonia,21104,Greensborough,17.68,ok
+22722,Watsonia North,21104,Greensborough,24.0,ok
+22723,Watsons Creek (Vic.),21104,Greensborough,220.32,walk_only
+22727,Wattle Glen,21104,Greensborough,39.58,ok
+22740,Weir Views,21104,Greensborough,,no_eligible_route
+22750,Werribee,21104,Greensborough,121.53,ok
+22751,Werribee South,21104,Greensborough,149.55,ok
+22753,Wesburn,21104,Greensborough,147.2,ok
+22756,West Footscray,21104,Greensborough,92.4,ok
+22757,West Melbourne,21104,Greensborough,79.33,ok
+22761,Westmeadows,21104,Greensborough,72.7,ok
+22766,Wheelers Hill,21104,Greensborough,83.17,ok
+22775,Whittlesea,21104,Greensborough,,no_eligible_route
+22784,Wildwood,21104,Greensborough,,no_eligible_route
+22791,Williams Landing,21104,Greensborough,113.75,ok
+22792,Williamstown (Vic.),21104,Greensborough,90.57,ok
+22793,Williamstown North,21104,Greensborough,106.07,ok
+22805,Windsor (Vic.),21104,Greensborough,74.58,ok
+22820,Wollert,21104,Greensborough,96.2,ok
+22825,Wonga Park,21104,Greensborough,101.98,ok
+22843,Woodstock (Vic.),21104,Greensborough,,no_eligible_route
+22857,Woori Yallock,21104,Greensborough,126.35,ok
+22883,Wyndham Vale,21104,Greensborough,141.35,ok
+22892,Yallambie,21104,Greensborough,28.23,ok
+22898,Yan Yean,21104,Greensborough,76.28,ok
+22906,Yannathan,21104,Greensborough,,no_eligible_route
+22910,Yarra Glen,21104,Greensborough,129.37,ok
+22911,Yarra Junction,21104,Greensborough,151.47,ok
+22916,Yarrambat,21104,Greensborough,27.95,ok
+22917,Yarraville,21104,Greensborough,78.5,ok
+22925,Yellingbo,21104,Greensborough,,no_eligible_route
+22930,Yering,21104,Greensborough,,no_eligible_route
+22941,Yuroke,21104,Greensborough,145.7,ok

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22474,Taylors Lakes,77.57,ok
+20003,Aberfeldie,22474,Taylors Lakes,56.75,ok
+20011,Aintree,22474,Taylors Lakes,55.5,ok
+20015,Airport West,22474,Taylors Lakes,51.88,ok
+20017,Albanvale,22474,Taylors Lakes,39.87,ok
+20018,Albert Park (Vic.),22474,Taylors Lakes,81.68,ok
+20021,Albion (Vic.),22474,Taylors Lakes,38.72,ok
+20034,Alphington,22474,Taylors Lakes,86.73,ok
+20035,Altona (Vic.),22474,Taylors Lakes,82.82,ok
+20036,Altona Meadows,22474,Taylors Lakes,79.97,ok
+20037,Altona North,22474,Taylors Lakes,80.22,ok
+20062,Ardeer,22474,Taylors Lakes,46.87,ok
+20066,Armadale (Vic.),22474,Taylors Lakes,73.95,ok
+20071,Arthurs Creek,22474,Taylors Lakes,,no_eligible_route
+20072,Arthurs Seat,22474,Taylors Lakes,241.02,ok
+20075,Ascot Vale,22474,Taylors Lakes,70.92,ok
+20077,Ashburton,22474,Taylors Lakes,93.57,ok
+20078,Ashwood,22474,Taylors Lakes,107.43,ok
+20079,Aspendale,22474,Taylors Lakes,117.22,ok
+20080,Aspendale Gardens,22474,Taylors Lakes,133.97,ok
+20082,Attwood,22474,Taylors Lakes,86.33,ok
+20089,Avondale Heights,22474,Taylors Lakes,57.37,ok
+20091,Avonsleigh,22474,Taylors Lakes,,no_eligible_route
+20095,Bacchus Marsh,22474,Taylors Lakes,,no_eligible_route
+20097,Badger Creek,22474,Taylors Lakes,207.68,ok
+20105,Balaclava (Vic.),22474,Taylors Lakes,86.72,ok
+20120,Balnarring,22474,Taylors Lakes,,no_eligible_route
+20121,Balnarring Beach,22474,Taylors Lakes,,no_eligible_route
+20123,Balwyn,22474,Taylors Lakes,100.33,ok
+20124,Balwyn North,22474,Taylors Lakes,101.47,ok
+20131,Bangholme,22474,Taylors Lakes,175.3,ok
+20169,Baxter,22474,Taylors Lakes,,no_eligible_route
+20171,Bayles,22474,Taylors Lakes,,no_eligible_route
+20173,Bayswater (Vic.),22474,Taylors Lakes,120.22,ok
+20174,Bayswater North,22474,Taylors Lakes,131.18,ok
+20175,Beaconsfield (Vic.),22474,Taylors Lakes,147.67,ok
+20176,Beaconsfield Upper,22474,Taylors Lakes,,no_eligible_route
+20182,Beaumaris (Vic.),22474,Taylors Lakes,121.1,ok
+20187,Beenak,22474,Taylors Lakes,,no_eligible_route
+20188,Belgrave,22474,Taylors Lakes,133.3,ok
+20189,Belgrave Heights,22474,Taylors Lakes,164.97,ok
+20190,Belgrave South,22474,Taylors Lakes,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),22474,Taylors Lakes,93.35,ok
+20207,Bend Of Islands,22474,Taylors Lakes,,no_eligible_route
+20212,Benloch,22474,Taylors Lakes,,no_eligible_route
+20214,Bentleigh,22474,Taylors Lakes,94.0,ok
+20215,Bentleigh East,22474,Taylors Lakes,92.77,ok
+20224,Berwick,22474,Taylors Lakes,120.47,ok
+20233,Beveridge,22474,Taylors Lakes,130.75,ok
+20237,Big Pats Creek,22474,Taylors Lakes,,no_eligible_route
+20248,Bittern,22474,Taylors Lakes,,no_eligible_route
+20251,Black Rock (Vic.),22474,Taylors Lakes,126.9,ok
+20252,Blackburn,22474,Taylors Lakes,97.55,ok
+20253,Blackburn North,22474,Taylors Lakes,103.53,ok
+20254,Blackburn South,22474,Taylors Lakes,113.88,ok
+20257,Blairgowrie,22474,Taylors Lakes,235.05,ok
+20260,Blind Bight,22474,Taylors Lakes,,no_eligible_route
+20272,Bolinda,22474,Taylors Lakes,,no_eligible_route
+20278,Bonbeach,22474,Taylors Lakes,122.22,ok
+20280,Boneo,22474,Taylors Lakes,,no_eligible_route
+20282,Bonnie Brook,22474,Taylors Lakes,92.05,ok
+20304,Boronia,22474,Taylors Lakes,122.68,ok
+20307,Botanic Ridge,22474,Taylors Lakes,158.33,ok
+20314,Box Hill (Vic.),22474,Taylors Lakes,94.67,ok
+20315,Box Hill North,22474,Taylors Lakes,111.42,ok
+20316,Box Hill South,22474,Taylors Lakes,101.15,ok
+20320,Braeside,22474,Taylors Lakes,143.62,ok
+20324,Braybrook,22474,Taylors Lakes,58.85,ok
+20331,Briar Hill,22474,Taylors Lakes,123.05,ok
+20337,Brighton (Vic.),22474,Taylors Lakes,100.37,ok
+20338,Brighton East,22474,Taylors Lakes,102.68,ok
+20346,Broadmeadows (Vic.),22474,Taylors Lakes,83.02,ok
+20351,Brookfield (Vic.),22474,Taylors Lakes,127.57,ok
+20352,Brooklyn (Vic.),22474,Taylors Lakes,63.4,ok
+20361,Brunswick (Vic.),22474,Taylors Lakes,68.47,ok
+20362,Brunswick East,22474,Taylors Lakes,81.75,ok
+20363,Brunswick West,22474,Taylors Lakes,68.67,ok
+20381,Bulla (Vic.),22474,Taylors Lakes,211.6,walk_only
+20386,Bulleen,22474,Taylors Lakes,108.62,ok
+20387,Bullengarook,22474,Taylors Lakes,,no_eligible_route
+20399,Bundoora (Vic.),22474,Taylors Lakes,102.73,ok
+20411,Bunyip,22474,Taylors Lakes,,no_eligible_route
+20412,Bunyip North,22474,Taylors Lakes,,no_eligible_route
+20418,Burnley,22474,Taylors Lakes,90.97,ok
+20419,Burnside (Vic.),22474,Taylors Lakes,55.75,ok
+20420,Burnside Heights,22474,Taylors Lakes,34.0,ok
+20426,Burwood (Vic.),22474,Taylors Lakes,107.3,ok
+20427,Burwood East,22474,Taylors Lakes,110.27,ok
+20435,Bylands,22474,Taylors Lakes,,no_eligible_route
+20441,Cairnlea,22474,Taylors Lakes,42.93,ok
+20442,Calder Park,22474,Taylors Lakes,38.5,ok
+20443,Caldermeade,22474,Taylors Lakes,,no_eligible_route
+20453,Camberwell (Vic.),22474,Taylors Lakes,101.5,ok
+20455,Campbellfield,22474,Taylors Lakes,105.45,ok
+20466,Cannons Creek,22474,Taylors Lakes,,no_eligible_route
+20468,Canterbury (Vic.),22474,Taylors Lakes,87.98,ok
+20474,Cape Schanck,22474,Taylors Lakes,,no_eligible_route
+20476,Capel Sound,22474,Taylors Lakes,220.4,ok
+20487,Cardinia,22474,Taylors Lakes,,no_eligible_route
+20495,Carlton (Vic.),22474,Taylors Lakes,59.95,ok
+20496,Carlton North,22474,Taylors Lakes,76.07,ok
+20498,Carnegie,22474,Taylors Lakes,82.98,ok
+20500,Caroline Springs,22474,Taylors Lakes,37.82,ok
+20507,Carrum,22474,Taylors Lakes,122.03,ok
+20508,Carrum Downs,22474,Taylors Lakes,127.27,ok
+20512,Castella,22474,Taylors Lakes,,no_eligible_route
+20517,Catani,22474,Taylors Lakes,,no_eligible_route
+20521,Caulfield,22474,Taylors Lakes,89.7,ok
+20522,Caulfield East,22474,Taylors Lakes,76.4,ok
+20523,Caulfield North,22474,Taylors Lakes,81.32,ok
+20524,Caulfield South,22474,Taylors Lakes,97.23,ok
+20528,Chadstone,22474,Taylors Lakes,103.05,ok
+20537,Chelsea,22474,Taylors Lakes,119.28,ok
+20538,Chelsea Heights,22474,Taylors Lakes,132.97,ok
+20539,Cheltenham (Vic.),22474,Taylors Lakes,108.75,ok
+20541,Cherokee,22474,Taylors Lakes,,no_eligible_route
+20555,Chintin,22474,Taylors Lakes,,no_eligible_route
+20556,Chirnside Park,22474,Taylors Lakes,170.53,ok
+20559,Christmas Hills (Vic.),22474,Taylors Lakes,,no_eligible_route
+20560,Chum Creek,22474,Taylors Lakes,,no_eligible_route
+20566,Clarinda,22474,Taylors Lakes,102.13,ok
+20567,Clarkefield,22474,Taylors Lakes,,no_eligible_route
+20569,Clayton,22474,Taylors Lakes,100.83,ok
+20570,Clayton South,22474,Taylors Lakes,111.27,ok
+20572,Clematis,22474,Taylors Lakes,,no_eligible_route
+20574,Clifton Hill,22474,Taylors Lakes,75.82,ok
+20576,Clonbinane,22474,Taylors Lakes,,no_eligible_route
+20581,Clyde (Vic.),22474,Taylors Lakes,178.43,ok
+20582,Clyde North,22474,Taylors Lakes,145.93,ok
+20587,Cobaw,22474,Taylors Lakes,,no_eligible_route
+20590,Cobblebank,22474,Taylors Lakes,120.25,ok
+20596,Coburg,22474,Taylors Lakes,72.48,ok
+20597,Coburg North,22474,Taylors Lakes,84.03,ok
+20600,Cockatoo (Vic.),22474,Taylors Lakes,,no_eligible_route
+20601,Cocoroc,22474,Taylors Lakes,,no_eligible_route
+20605,Coimadai,22474,Taylors Lakes,,no_eligible_route
+20613,Coldstream (Vic.),22474,Taylors Lakes,,no_eligible_route
+20616,Collingwood (Vic.),22474,Taylors Lakes,75.02,ok
+20624,Coolaroo,22474,Taylors Lakes,84.43,ok
+20633,Cora Lynn,22474,Taylors Lakes,,no_eligible_route
+20654,Cottles Bridge,22474,Taylors Lakes,,no_eligible_route
+20661,Craigieburn,22474,Taylors Lakes,100.23,ok
+20662,Cranbourne,22474,Taylors Lakes,135.12,ok
+20663,Cranbourne East,22474,Taylors Lakes,142.12,ok
+20664,Cranbourne North,22474,Taylors Lakes,137.67,ok
+20665,Cranbourne South,22474,Taylors Lakes,161.68,ok
+20666,Cranbourne West,22474,Taylors Lakes,136.63,ok
+20670,Cremorne (Vic.),22474,Taylors Lakes,75.55,ok
+20674,Crib Point,22474,Taylors Lakes,,no_eligible_route
+20682,Croydon (Vic.),22474,Taylors Lakes,122.32,ok
+20683,Croydon Hills,22474,Taylors Lakes,145.63,ok
+20684,Croydon North,22474,Taylors Lakes,141.33,ok
+20685,Croydon South,22474,Taylors Lakes,147.03,ok
+20702,Dallas,22474,Taylors Lakes,89.13,ok
+20703,Dalmore,22474,Taylors Lakes,,no_eligible_route
+20707,Dandenong,22474,Taylors Lakes,106.1,ok
+20708,Dandenong North,22474,Taylors Lakes,125.57,ok
+20709,Dandenong South,22474,Taylors Lakes,127.15,ok
+20712,Darley,22474,Taylors Lakes,,no_eligible_route
+20716,Darraweit Guim,22474,Taylors Lakes,,no_eligible_route
+20724,Deanside,22474,Taylors Lakes,71.77,ok
+20728,Deepdene (Vic.),22474,Taylors Lakes,92.83,ok
+20729,Deer Park,22474,Taylors Lakes,38.57,ok
+20731,Delahey,22474,Taylors Lakes,25.37,ok
+20743,Derrimut,22474,Taylors Lakes,87.95,ok
+20748,Devon Meadows,22474,Taylors Lakes,185.18,ok
+20750,Dewhurst,22474,Taylors Lakes,,no_eligible_route
+20752,Diamond Creek,22474,Taylors Lakes,129.05,ok
+20754,Diggers Rest,22474,Taylors Lakes,43.82,ok
+20758,Dingley Village,22474,Taylors Lakes,117.65,ok
+20762,Dixons Creek,22474,Taylors Lakes,,no_eligible_route
+20766,Docklands,22474,Taylors Lakes,74.65,ok
+20769,Don Valley,22474,Taylors Lakes,,no_eligible_route
+20771,Doncaster,22474,Taylors Lakes,98.7,ok
+20772,Doncaster East,22474,Taylors Lakes,102.18,ok
+20773,Donnybrook (Vic.),22474,Taylors Lakes,118.58,ok
+20774,Donvale,22474,Taylors Lakes,123.52,ok
+20779,Doreen,22474,Taylors Lakes,150.1,ok
+20783,Doveton,22474,Taylors Lakes,125.05,ok
+20788,Dromana,22474,Taylors Lakes,230.18,ok
+20825,Eaglemont,22474,Taylors Lakes,102.1,ok
+20830,East Melbourne,22474,Taylors Lakes,68.33,ok
+20833,East Warburton,22474,Taylors Lakes,,no_eligible_route
+20843,Eden Park,22474,Taylors Lakes,,no_eligible_route
+20848,Edithvale,22474,Taylors Lakes,115.82,ok
+20864,Elsternwick,22474,Taylors Lakes,91.05,ok
+20865,Eltham (Vic.),22474,Taylors Lakes,128.18,ok
+20866,Eltham North,22474,Taylors Lakes,131.7,ok
+20867,Elwood,22474,Taylors Lakes,94.97,ok
+20868,Emerald (Vic.),22474,Taylors Lakes,,no_eligible_route
+20871,Endeavour Hills,22474,Taylors Lakes,137.0,ok
+20878,Epping (Vic.),22474,Taylors Lakes,113.57,ok
+20885,Essendon,22474,Taylors Lakes,45.18,ok
+20886,Essendon Fields,22474,Taylors Lakes,60.53,ok
+20887,Essendon North,22474,Taylors Lakes,40.88,ok
+20888,Essendon West,22474,Taylors Lakes,48.75,ok
+20889,Eumemmerring,22474,Taylors Lakes,125.43,ok
+20898,Exford,22474,Taylors Lakes,,no_eligible_route
+20899,Eynesbury,22474,Taylors Lakes,137.65,ok
+20901,Fairfield (Vic.),22474,Taylors Lakes,87.17,ok
+20909,Fawkner,22474,Taylors Lakes,98.83,ok
+20916,Fernshaw,22474,Taylors Lakes,,no_eligible_route
+20917,Ferntree Gully,22474,Taylors Lakes,118.07,ok
+20918,Ferny Creek,22474,Taylors Lakes,165.58,ok
+20920,Fingal (Vic.),22474,Taylors Lakes,,no_eligible_route
+20924,Fitzroy (Vic.),22474,Taylors Lakes,71.88,ok
+20925,Fitzroy North,22474,Taylors Lakes,82.95,ok
+20929,Flemington,22474,Taylors Lakes,71.08,ok
+20930,Flinders (Vic.),22474,Taylors Lakes,,no_eligible_route
+20935,Footscray,22474,Taylors Lakes,52.17,ok
+20937,Forest Hill (Vic.),22474,Taylors Lakes,119.6,ok
+20947,Frankston,22474,Taylors Lakes,136.0,ok
+20948,Frankston North,22474,Taylors Lakes,151.12,ok
+20949,Frankston South,22474,Taylors Lakes,,no_eligible_route
+20950,Fraser Rise,22474,Taylors Lakes,50.25,ok
+20965,Gardenvale,22474,Taylors Lakes,96.8,ok
+20966,Garfield,22474,Taylors Lakes,,no_eligible_route
+20967,Garfield North,22474,Taylors Lakes,,no_eligible_route
+20979,Gembrook,22474,Taylors Lakes,,no_eligible_route
+20995,Gilderoy,22474,Taylors Lakes,,no_eligible_route
+21001,Gisborne,22474,Taylors Lakes,,no_eligible_route
+21002,Gisborne South,22474,Taylors Lakes,,no_eligible_route
+21004,Gladstone Park,22474,Taylors Lakes,80.43,ok
+21005,Gladysdale,22474,Taylors Lakes,,no_eligible_route
+21009,Glen Huntly,22474,Taylors Lakes,85.53,ok
+21010,Glen Iris (Vic.),22474,Taylors Lakes,105.07,ok
+21013,Glen Waverley,22474,Taylors Lakes,111.98,ok
+21047,Glenroy (Vic.),22474,Taylors Lakes,80.68,ok
+21059,Goldie,22474,Taylors Lakes,,no_eligible_route
+21079,Gowanbrae,22474,Taylors Lakes,67.48,ok
+21087,Grangefields,22474,Taylors Lakes,97.5,ok
+21104,Greensborough,22474,Taylors Lakes,113.6,ok
+21105,Greenvale (Vic.),22474,Taylors Lakes,116.37,ok
+21115,Gruyere,22474,Taylors Lakes,,no_eligible_route
+21121,Guys Hill,22474,Taylors Lakes,,no_eligible_route
+21124,Hadfield,22474,Taylors Lakes,80.97,ok
+21125,Hallam,22474,Taylors Lakes,125.58,ok
+21131,Hampton (Vic.),22474,Taylors Lakes,108.2,ok
+21132,Hampton East,22474,Taylors Lakes,100.77,ok
+21133,Hampton Park,22474,Taylors Lakes,128.0,ok
+21139,Harkaway,22474,Taylors Lakes,,no_eligible_route
+21140,Harkness,22474,Taylors Lakes,147.28,ok
+21145,Hastings (Vic.),22474,Taylors Lakes,,no_eligible_route
+21152,Hawthorn (Vic.),22474,Taylors Lakes,85.37,ok
+21153,Hawthorn East,22474,Taylors Lakes,89.85,ok
+21158,Healesville,22474,Taylors Lakes,211.6,ok
+21159,Heath Hill,22474,Taylors Lakes,,no_eligible_route
+21161,Heathcote Junction,22474,Taylors Lakes,,no_eligible_route
+21163,Heatherton,22474,Taylors Lakes,109.15,ok
+21165,Heathmont,22474,Taylors Lakes,110.48,ok
+21167,Heidelberg,22474,Taylors Lakes,102.67,ok
+21168,Heidelberg Heights,22474,Taylors Lakes,97.52,ok
+21169,Heidelberg West,22474,Taylors Lakes,93.52,ok
+21176,Hesket,22474,Taylors Lakes,,no_eligible_route
+21185,Highett,22474,Taylors Lakes,93.53,ok
+21193,Hillside (Melton - Vic.),22474,Taylors Lakes,28.9,ok
+21195,Hmas Cerberus,22474,Taylors Lakes,,no_eligible_route
+21196,Hoddles Creek,22474,Taylors Lakes,,no_eligible_route
+21202,Hopetoun Park,22474,Taylors Lakes,,no_eligible_route
+21203,Hoppers Crossing,22474,Taylors Lakes,93.65,ok
+21214,Hughesdale,22474,Taylors Lakes,84.62,ok
+21215,Humevale,22474,Taylors Lakes,,no_eligible_route
+21218,Huntingdale (Vic.),22474,Taylors Lakes,90.05,ok
+21223,Hurstbridge,22474,Taylors Lakes,129.6,ok
+21238,Iona,22474,Taylors Lakes,,no_eligible_route
+21246,Ivanhoe (Vic.),22474,Taylors Lakes,91.33,ok
+21247,Ivanhoe East,22474,Taylors Lakes,96.75,ok
+21248,Jacana,22474,Taylors Lakes,79.13,ok
+21277,Junction Village,22474,Taylors Lakes,170.67,ok
+21284,Kalkallo,22474,Taylors Lakes,124.58,ok
+21286,Kallista,22474,Taylors Lakes,169.02,ok
+21287,Kalorama,22474,Taylors Lakes,149.55,ok
+21294,Kangaroo Ground,22474,Taylors Lakes,167.1,ok
+21312,Kealba,22474,Taylors Lakes,34.0,ok
+21314,Keilor,22474,Taylors Lakes,56.87,walk_only
+21315,Keilor Downs,22474,Taylors Lakes,30.83,ok
+21316,Keilor East,22474,Taylors Lakes,48.23,ok
+21317,Keilor Lodge,22474,Taylors Lakes,22.53,walk_only
+21318,Keilor North,22474,Taylors Lakes,31.9,walk_only
+21319,Keilor Park,22474,Taylors Lakes,39.58,ok
+21327,Kensington (Vic.),22474,Taylors Lakes,63.93,ok
+21333,Kerrie,22474,Taylors Lakes,,no_eligible_route
+21336,Kew (Vic.),22474,Taylors Lakes,87.5,ok
+21337,Kew East,22474,Taylors Lakes,90.53,ok
+21339,Keysborough,22474,Taylors Lakes,122.8,ok
+21354,Kilsyth,22474,Taylors Lakes,137.62,ok
+21355,Kilsyth South,22474,Taylors Lakes,154.02,ok
+21358,Kinglake,22474,Taylors Lakes,,no_eligible_route
+21359,Kinglake Central,22474,Taylors Lakes,,no_eligible_route
+21360,Kinglake West,22474,Taylors Lakes,,no_eligible_route
+21362,Kings Park (Vic.),22474,Taylors Lakes,33.1,ok
+21363,Kingsbury,22474,Taylors Lakes,101.95,ok
+21365,Kingsville,22474,Taylors Lakes,52.15,ok
+21374,Knoxfield,22474,Taylors Lakes,114.95,ok
+21380,Koo Wee Rup,22474,Taylors Lakes,,no_eligible_route
+21381,Koo Wee Rup North,22474,Taylors Lakes,,no_eligible_route
+21393,Kooyong,22474,Taylors Lakes,85.75,ok
+21411,Kurunjang,22474,Taylors Lakes,125.48,ok
+21452,Lalor,22474,Taylors Lakes,104.02,ok
+21456,Lancefield,22474,Taylors Lakes,,no_eligible_route
+21459,Lang Lang,22474,Taylors Lakes,,no_eligible_route
+21460,Lang Lang East,22474,Taylors Lakes,,no_eligible_route
+21467,Langwarrin,22474,Taylors Lakes,153.35,ok
+21468,Langwarrin South,22474,Taylors Lakes,,no_eligible_route
+21473,Launching Place,22474,Taylors Lakes,,no_eligible_route
+21476,Laverton (Vic.),22474,Taylors Lakes,77.42,ok
+21477,Laverton North,22474,Taylors Lakes,103.12,ok
+21504,Lilydale (Vic.),22474,Taylors Lakes,154.28,ok
+21533,Long Forest,22474,Taylors Lakes,,no_eligible_route
+21547,Lower Plenty,22474,Taylors Lakes,144.87,ok
+21554,Lynbrook,22474,Taylors Lakes,115.83,ok
+21555,Lyndhurst (Vic.),22474,Taylors Lakes,169.42,ok
+21558,Lysterfield,22474,Taylors Lakes,,no_eligible_route
+21559,Lysterfield South,22474,Taylors Lakes,175.55,ok
+21561,Macclesfield (Vic.),22474,Taylors Lakes,,no_eligible_route
+21562,Macedon,22474,Taylors Lakes,,no_eligible_route
+21564,Macleod (Vic.),22474,Taylors Lakes,106.68,ok
+21569,Maddingley,22474,Taylors Lakes,,no_eligible_route
+21575,Maidstone,22474,Taylors Lakes,55.55,ok
+21578,Main Ridge,22474,Taylors Lakes,,no_eligible_route
+21586,Malvern (Vic.),22474,Taylors Lakes,83.97,ok
+21587,Malvern East,22474,Taylors Lakes,89.87,ok
+21588,Mambourin,22474,Taylors Lakes,,no_eligible_route
+21597,Manor Lakes,22474,Taylors Lakes,131.88,ok
+21604,Maribyrnong,22474,Taylors Lakes,63.57,ok
+21619,Maryknoll,22474,Taylors Lakes,,no_eligible_route
+21625,McCrae,22474,Taylors Lakes,213.6,ok
+21629,McKinnon,22474,Taylors Lakes,82.83,ok
+21635,Meadow Heights,22474,Taylors Lakes,91.53,ok
+21640,Melbourne,22474,Taylors Lakes,63.43,ok
+21641,Melbourne Airport,22474,Taylors Lakes,152.02,walk_only
+21642,Melton (Vic.),22474,Taylors Lakes,105.77,ok
+21643,Melton South,22474,Taylors Lakes,104.13,ok
+21644,Melton West,22474,Taylors Lakes,99.77,ok
+21648,Mentone,22474,Taylors Lakes,102.18,ok
+21649,Menzies Creek,22474,Taylors Lakes,,no_eligible_route
+21659,Mernda,22474,Taylors Lakes,138.35,ok
+21662,Merricks,22474,Taylors Lakes,,no_eligible_route
+21663,Merricks Beach,22474,Taylors Lakes,,no_eligible_route
+21664,Merricks North,22474,Taylors Lakes,,no_eligible_route
+21668,Merrimu,22474,Taylors Lakes,,no_eligible_route
+21675,Mickleham,22474,Taylors Lakes,139.57,ok
+21677,Middle Park (Vic.),22474,Taylors Lakes,86.97,ok
+21683,Mill Park,22474,Taylors Lakes,127.37,ok
+21685,Millgrove,22474,Taylors Lakes,,no_eligible_route
+21706,Mitcham (Vic.),22474,Taylors Lakes,109.22,ok
+21727,Monbulk,22474,Taylors Lakes,176.47,ok
+21728,Monegeetta,22474,Taylors Lakes,,no_eligible_route
+21731,Monomeith,22474,Taylors Lakes,,no_eligible_route
+21732,Mont Albert,22474,Taylors Lakes,95.38,ok
+21733,Mont Albert North,22474,Taylors Lakes,108.17,ok
+21735,Montmorency,22474,Taylors Lakes,114.25,ok
+21736,Montrose (Vic.),22474,Taylors Lakes,139.83,ok
+21742,Moonee Ponds,22474,Taylors Lakes,52.25,ok
+21746,Moorabbin,22474,Taylors Lakes,102.18,ok
+21747,Moorabbin Airport,22474,Taylors Lakes,120.02,ok
+21754,Moorooduc,22474,Taylors Lakes,,no_eligible_route
+21755,Mooroolbark,22474,Taylors Lakes,135.05,ok
+21760,Mordialloc,22474,Taylors Lakes,116.32,ok
+21763,Mornington (Vic.),22474,Taylors Lakes,180.13,ok
+21779,Mount Burnett,22474,Taylors Lakes,,no_eligible_route
+21786,Mount Cottrell,22474,Taylors Lakes,,no_eligible_route
+21787,Mount Dandenong,22474,Taylors Lakes,153.55,ok
+21793,Mount Eliza,22474,Taylors Lakes,152.05,ok
+21795,Mount Evelyn,22474,Taylors Lakes,157.68,ok
+21801,Mount Macedon,22474,Taylors Lakes,,no_eligible_route
+21803,Mount Martha,22474,Taylors Lakes,182.12,ok
+21814,Mount Toolebewong,22474,Taylors Lakes,,no_eligible_route
+21816,Mount Waverley,22474,Taylors Lakes,103.42,ok
+21827,Mulgrave (Vic.),22474,Taylors Lakes,116.15,ok
+21849,Murrumbeena,22474,Taylors Lakes,84.73,ok
+21872,Nangana,22474,Taylors Lakes,,no_eligible_route
+21878,Nar Nar Goon,22474,Taylors Lakes,,no_eligible_route
+21879,Nar Nar Goon North,22474,Taylors Lakes,,no_eligible_route
+21893,Narre Warren,22474,Taylors Lakes,127.57,ok
+21894,Narre Warren East,22474,Taylors Lakes,,no_eligible_route
+21895,Narre Warren North,22474,Taylors Lakes,135.83,ok
+21896,Narre Warren South,22474,Taylors Lakes,137.92,ok
+21921,New Gisborne,22474,Taylors Lakes,,no_eligible_route
+21934,Newport (Vic.),22474,Taylors Lakes,62.27,ok
+21942,Niddrie,22474,Taylors Lakes,39.32,ok
+21952,Noble Park,22474,Taylors Lakes,96.83,ok
+21953,Noble Park North,22474,Taylors Lakes,128.82,ok
+21966,North Melbourne,22474,Taylors Lakes,55.97,ok
+21969,North Warrandyte,22474,Taylors Lakes,140.82,ok
+21971,Northcote,22474,Taylors Lakes,87.22,ok
+21974,Notting Hill,22474,Taylors Lakes,98.58,ok
+21985,Nunawading,22474,Taylors Lakes,101.7,ok
+21991,Nutfield,22474,Taylors Lakes,,no_eligible_route
+21998,Oak Park,22474,Taylors Lakes,72.92,ok
+21999,Oaklands Junction,22474,Taylors Lakes,,no_eligible_route
+22000,Oakleigh,22474,Taylors Lakes,87.28,ok
+22001,Oakleigh East,22474,Taylors Lakes,98.33,ok
+22002,Oakleigh South,22474,Taylors Lakes,97.43,ok
+22006,Officer,22474,Taylors Lakes,140.12,ok
+22007,Officer South,22474,Taylors Lakes,183.68,ok
+22009,Olinda (Vic.),22474,Taylors Lakes,166.9,ok
+22016,Ormond,22474,Taylors Lakes,83.27,ok
+22027,Pakenham,22474,Taylors Lakes,139.17,ok
+22028,Pakenham South,22474,Taylors Lakes,,no_eligible_route
+22029,Pakenham Upper,22474,Taylors Lakes,,no_eligible_route
+22032,Panton Hill,22474,Taylors Lakes,,no_eligible_route
+22036,Park Orchards,22474,Taylors Lakes,137.57,ok
+22037,Parkdale,22474,Taylors Lakes,108.6,ok
+22038,Parkville (Vic.),22474,Taylors Lakes,69.55,ok
+22041,Pascoe Vale,22474,Taylors Lakes,77.28,ok
+22042,Pascoe Vale South,22474,Taylors Lakes,67.55,ok
+22047,Patterson Lakes,22474,Taylors Lakes,139.37,ok
+22050,Pearcedale,22474,Taylors Lakes,178.98,ok
+22058,Pentland Hills,22474,Taylors Lakes,,no_eligible_route
+22064,Pheasant Creek (Vic.),22474,Taylors Lakes,,no_eligible_route
+22084,Plenty (Vic.),22474,Taylors Lakes,145.83,ok
+22085,Plumpton (Vic.),22474,Taylors Lakes,238.48,walk_only
+22086,Point Cook,22474,Taylors Lakes,93.65,ok
+22087,Point Leo,22474,Taylors Lakes,,no_eligible_route
+22107,Port Melbourne,22474,Taylors Lakes,84.27,ok
+22113,Portsea,22474,Taylors Lakes,,no_eligible_route
+22115,Powelltown,22474,Taylors Lakes,,no_eligible_route
+22118,Prahran,22474,Taylors Lakes,78.33,ok
+22121,Preston (Vic.),22474,Taylors Lakes,83.95,ok
+22122,Princes Hill,22474,Taylors Lakes,72.7,ok
+22132,Quandong,22474,Taylors Lakes,,no_eligible_route
+22141,Ravenhall,22474,Taylors Lakes,57.45,ok
+22148,Red Hill (Vic.),22474,Taylors Lakes,,no_eligible_route
+22149,Red Hill South,22474,Taylors Lakes,,no_eligible_route
+22160,Research,22474,Taylors Lakes,134.68,ok
+22161,Reservoir (Vic.),22474,Taylors Lakes,98.47,ok
+22170,Richmond (Vic.),22474,Taylors Lakes,77.87,ok
+22172,Riddells Creek,22474,Taylors Lakes,,no_eligible_route
+22174,Ringwood (Vic.),22474,Taylors Lakes,115.85,ok
+22175,Ringwood East,22474,Taylors Lakes,122.67,ok
+22176,Ringwood North,22474,Taylors Lakes,135.57,ok
+22179,Ripponlea,22474,Taylors Lakes,86.23,ok
+22185,Rochford,22474,Taylors Lakes,,no_eligible_route
+22186,Rockbank,22474,Taylors Lakes,61.12,ok
+22193,Romsey,22474,Taylors Lakes,,no_eligible_route
+22194,Rosanna,22474,Taylors Lakes,101.15,ok
+22198,Rosebud,22474,Taylors Lakes,230.92,ok
+22207,Rowville,22474,Taylors Lakes,128.43,ok
+22208,Roxburgh Park,22474,Taylors Lakes,100.83,ok
+22220,Rye,22474,Taylors Lakes,243.12,ok
+22221,Rythdale,22474,Taylors Lakes,,no_eligible_route
+22222,Safety Beach (Vic.),22474,Taylors Lakes,198.08,ok
+22232,Sandhurst,22474,Taylors Lakes,155.2,ok
+22234,Sandringham (Vic.),22474,Taylors Lakes,113.08,ok
+22239,Sassafras (Vic.),22474,Taylors Lakes,148.35,ok
+22242,Scoresby,22474,Taylors Lakes,111.6,ok
+22247,Seabrook,22474,Taylors Lakes,93.82,ok
+22249,Seaford (Vic.),22474,Taylors Lakes,134.13,ok
+22250,Seaholme,22474,Taylors Lakes,69.12,ok
+22256,Seddon (Vic.),22474,Taylors Lakes,46.85,ok
+22258,Selby,22474,Taylors Lakes,165.9,ok
+22263,Seville,22474,Taylors Lakes,,no_eligible_route
+22264,Seville East,22474,Taylors Lakes,,no_eligible_route
+22278,Sherbrooke,22474,Taylors Lakes,159.08,ok
+22279,Shoreham,22474,Taylors Lakes,,no_eligible_route
+22281,Silvan,22474,Taylors Lakes,168.57,ok
+22291,Skye (Vic.),22474,Taylors Lakes,154.92,ok
+22295,Smiths Gully,22474,Taylors Lakes,,no_eligible_route
+22303,Somers,22474,Taylors Lakes,,no_eligible_route
+22304,Somerton (Vic.),22474,Taylors Lakes,100.98,ok
+22305,Somerville (Vic.),22474,Taylors Lakes,,no_eligible_route
+22306,Sorrento (Vic.),22474,Taylors Lakes,233.88,ok
+22309,South Kingsville,22474,Taylors Lakes,73.57,ok
+22310,South Melbourne,22474,Taylors Lakes,76.73,ok
+22311,South Morang,22474,Taylors Lakes,135.7,ok
+22313,South Wharf,22474,Taylors Lakes,77.73,ok
+22314,South Yarra,22474,Taylors Lakes,68.9,ok
+22315,Southbank,22474,Taylors Lakes,72.3,ok
+22319,Spotswood,22474,Taylors Lakes,60.67,ok
+22325,Springfield (Macedon Ranges - Vic.),22474,Taylors Lakes,,no_eligible_route
+22328,Springvale (Vic.),22474,Taylors Lakes,97.8,ok
+22329,Springvale South,22474,Taylors Lakes,100.53,ok
+22330,St Albans (Vic.),22474,Taylors Lakes,29.85,ok
+22332,St Andrews (Vic.),22474,Taylors Lakes,,no_eligible_route
+22333,St Andrews Beach,22474,Taylors Lakes,,no_eligible_route
+22339,St Helena,22474,Taylors Lakes,129.47,ok
+22343,St Kilda (Vic.),22474,Taylors Lakes,83.98,ok
+22344,St Kilda East,22474,Taylors Lakes,86.67,ok
+22345,St Kilda West,22474,Taylors Lakes,82.62,ok
+22355,Steels Creek,22474,Taylors Lakes,,no_eligible_route
+22375,Strathewen,22474,Taylors Lakes,,no_eligible_route
+22380,Strathmore (Vic.),22474,Taylors Lakes,67.07,ok
+22381,Strathmore Heights,22474,Taylors Lakes,64.08,ok
+22382,Strathtulloh,22474,Taylors Lakes,158.68,ok
+22391,Sunbury,22474,Taylors Lakes,83.17,ok
+22395,Sunshine (Vic.),22474,Taylors Lakes,34.13,ok
+22396,Sunshine North,22474,Taylors Lakes,47.37,ok
+22397,Sunshine West,22474,Taylors Lakes,59.48,ok
+22399,Surrey Hills,22474,Taylors Lakes,95.8,ok
+22414,Sydenham (Vic.),22474,Taylors Lakes,21.85,ok
+22451,Tarneit,22474,Taylors Lakes,116.72,ok
+22457,Tarrawarra,22474,Taylors Lakes,187.2,ok
+22473,Taylors Hill,22474,Taylors Lakes,26.58,ok
+22474,Taylors Lakes,22474,Taylors Lakes,0.0,same_centroid
+22476,Tecoma,22474,Taylors Lakes,130.3,ok
+22483,Templestowe,22474,Taylors Lakes,111.58,ok
+22484,Templestowe Lower,22474,Taylors Lakes,109.45,ok
+22496,The Basin (Vic.),22474,Taylors Lakes,139.48,ok
+22501,The Patch,22474,Taylors Lakes,167.03,ok
+22504,Thomastown,22474,Taylors Lakes,114.32,ok
+22508,Thornbury,22474,Taylors Lakes,83.45,ok
+22509,Thornhill Park,22474,Taylors Lakes,177.77,ok
+22514,Three Bridges,22474,Taylors Lakes,,no_eligible_route
+22531,Tonimbuk,22474,Taylors Lakes,,no_eligible_route
+22536,Toolangi,22474,Taylors Lakes,,no_eligible_route
+22537,Toolern Vale,22474,Taylors Lakes,,no_eligible_route
+22546,Tooradin,22474,Taylors Lakes,,no_eligible_route
+22547,Toorak,22474,Taylors Lakes,84.38,ok
+22550,Tootgarook,22474,Taylors Lakes,226.53,ok
+22556,Tottenham (Vic.),22474,Taylors Lakes,68.18,ok
+22572,Travancore,22474,Taylors Lakes,69.9,ok
+22576,Tremont,22474,Taylors Lakes,144.48,ok
+22582,Truganina,22474,Taylors Lakes,132.75,ok
+22584,Tuerong,22474,Taylors Lakes,,no_eligible_route
+22586,Tullamarine,22474,Taylors Lakes,70.72,ok
+22594,Tyabb,22474,Taylors Lakes,,no_eligible_route
+22598,Tynong,22474,Taylors Lakes,,no_eligible_route
+22599,Tynong North,22474,Taylors Lakes,,no_eligible_route
+22614,Upper Ferntree Gully,22474,Taylors Lakes,127.45,ok
+22617,Upper Plenty,22474,Taylors Lakes,,no_eligible_route
+22620,Upwey,22474,Taylors Lakes,130.17,ok
+22627,Vermont,22474,Taylors Lakes,122.77,ok
+22628,Vermont South,22474,Taylors Lakes,122.15,ok
+22629,Vervale,22474,Taylors Lakes,,no_eligible_route
+22633,Viewbank,22474,Taylors Lakes,113.42,ok
+22661,Wallan,22474,Taylors Lakes,,no_eligible_route
+22672,Wandin East,22474,Taylors Lakes,,no_eligible_route
+22673,Wandin North,22474,Taylors Lakes,,no_eligible_route
+22676,Wandong,22474,Taylors Lakes,,no_eligible_route
+22685,Wantirna,22474,Taylors Lakes,137.45,ok
+22686,Wantirna South,22474,Taylors Lakes,130.9,ok
+22689,Warburton (Vic.),22474,Taylors Lakes,,no_eligible_route
+22695,Warneet,22474,Taylors Lakes,,no_eligible_route
+22702,Warrandyte,22474,Taylors Lakes,115.37,ok
+22703,Warrandyte South,22474,Taylors Lakes,160.33,ok
+22704,Warranwood,22474,Taylors Lakes,138.0,ok
+22717,Waterford Park,22474,Taylors Lakes,,no_eligible_route
+22720,Waterways,22474,Taylors Lakes,122.97,ok
+22721,Watsonia,22474,Taylors Lakes,101.6,ok
+22722,Watsonia North,22474,Taylors Lakes,118.55,ok
+22723,Watsons Creek (Vic.),22474,Taylors Lakes,,no_eligible_route
+22727,Wattle Glen,22474,Taylors Lakes,133.35,ok
+22740,Weir Views,22474,Taylors Lakes,127.22,ok
+22750,Werribee,22474,Taylors Lakes,89.45,ok
+22751,Werribee South,22474,Taylors Lakes,130.47,ok
+22753,Wesburn,22474,Taylors Lakes,,no_eligible_route
+22756,West Footscray,22474,Taylors Lakes,45.3,ok
+22757,West Melbourne,22474,Taylors Lakes,75.28,ok
+22761,Westmeadows,22474,Taylors Lakes,75.02,ok
+22766,Wheelers Hill,22474,Taylors Lakes,103.03,ok
+22775,Whittlesea,22474,Taylors Lakes,,no_eligible_route
+22784,Wildwood,22474,Taylors Lakes,,no_eligible_route
+22791,Williams Landing,22474,Taylors Lakes,91.67,ok
+22792,Williamstown (Vic.),22474,Taylors Lakes,71.6,ok
+22793,Williamstown North,22474,Taylors Lakes,79.97,ok
+22805,Windsor (Vic.),22474,Taylors Lakes,79.3,ok
+22820,Wollert,22474,Taylors Lakes,125.8,ok
+22825,Wonga Park,22474,Taylors Lakes,182.95,ok
+22843,Woodstock (Vic.),22474,Taylors Lakes,,no_eligible_route
+22857,Woori Yallock,22474,Taylors Lakes,,no_eligible_route
+22883,Wyndham Vale,22474,Taylors Lakes,123.27,ok
+22892,Yallambie,22474,Taylors Lakes,127.15,ok
+22898,Yan Yean,22474,Taylors Lakes,169.27,ok
+22906,Yannathan,22474,Taylors Lakes,,no_eligible_route
+22910,Yarra Glen,22474,Taylors Lakes,184.5,ok
+22911,Yarra Junction,22474,Taylors Lakes,,no_eligible_route
+22916,Yarrambat,22474,Taylors Lakes,145.02,ok
+22917,Yarraville,22474,Taylors Lakes,60.98,ok
+22925,Yellingbo,22474,Taylors Lakes,,no_eligible_route
+22930,Yering,22474,Taylors Lakes,,no_eligible_route
+22941,Yuroke,22474,Taylors Lakes,155.9,ok

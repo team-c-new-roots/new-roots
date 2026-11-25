@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21133,Hampton Park,93.43,ok
+20003,Aberfeldie,21133,Hampton Park,117.38,ok
+20011,Aintree,21133,Hampton Park,140.72,ok
+20015,Airport West,21133,Hampton Park,128.08,ok
+20017,Albanvale,21133,Hampton Park,126.8,ok
+20018,Albert Park (Vic.),21133,Hampton Park,92.55,ok
+20021,Albion (Vic.),21133,Hampton Park,101.58,ok
+20034,Alphington,21133,Hampton Park,94.6,ok
+20035,Altona (Vic.),21133,Hampton Park,132.68,ok
+20036,Altona Meadows,21133,Hampton Park,130.63,ok
+20037,Altona North,21133,Hampton Park,127.08,ok
+20062,Ardeer,21133,Hampton Park,116.73,ok
+20066,Armadale (Vic.),21133,Hampton Park,66.82,ok
+20071,Arthurs Creek,21133,Hampton Park,,no_eligible_route
+20072,Arthurs Seat,21133,Hampton Park,146.22,ok
+20075,Ascot Vale,21133,Hampton Park,103.52,ok
+20077,Ashburton,21133,Hampton Park,83.68,ok
+20078,Ashwood,21133,Hampton Park,76.3,ok
+20079,Aspendale,21133,Hampton Park,94.77,ok
+20080,Aspendale Gardens,21133,Hampton Park,81.83,ok
+20082,Attwood,21133,Hampton Park,143.8,ok
+20089,Avondale Heights,21133,Hampton Park,118.12,ok
+20091,Avonsleigh,21133,Hampton Park,,no_eligible_route
+20095,Bacchus Marsh,21133,Hampton Park,,no_eligible_route
+20097,Badger Creek,21133,Hampton Park,196.28,ok
+20105,Balaclava (Vic.),21133,Hampton Park,78.37,ok
+20120,Balnarring,21133,Hampton Park,175.7,ok
+20121,Balnarring Beach,21133,Hampton Park,172.23,ok
+20123,Balwyn,21133,Hampton Park,104.2,ok
+20124,Balwyn North,21133,Hampton Park,112.33,ok
+20131,Bangholme,21133,Hampton Park,90.78,ok
+20169,Baxter,21133,Hampton Park,105.15,ok
+20171,Bayles,21133,Hampton Park,,no_eligible_route
+20173,Bayswater (Vic.),21133,Hampton Park,95.88,ok
+20174,Bayswater North,21133,Hampton Park,102.25,ok
+20175,Beaconsfield (Vic.),21133,Hampton Park,65.53,ok
+20176,Beaconsfield Upper,21133,Hampton Park,,no_eligible_route
+20182,Beaumaris (Vic.),21133,Hampton Park,103.97,ok
+20187,Beenak,21133,Hampton Park,,no_eligible_route
+20188,Belgrave,21133,Hampton Park,103.27,ok
+20189,Belgrave Heights,21133,Hampton Park,,no_eligible_route
+20190,Belgrave South,21133,Hampton Park,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21133,Hampton Park,111.35,ok
+20207,Bend Of Islands,21133,Hampton Park,,no_eligible_route
+20212,Benloch,21133,Hampton Park,,no_eligible_route
+20214,Bentleigh,21133,Hampton Park,68.97,ok
+20215,Bentleigh East,21133,Hampton Park,56.02,ok
+20224,Berwick,21133,Hampton Park,36.33,ok
+20233,Beveridge,21133,Hampton Park,174.35,ok
+20237,Big Pats Creek,21133,Hampton Park,,no_eligible_route
+20248,Bittern,21133,Hampton Park,126.42,ok
+20251,Black Rock (Vic.),21133,Hampton Park,98.28,ok
+20252,Blackburn,21133,Hampton Park,89.78,ok
+20253,Blackburn North,21133,Hampton Park,106.08,ok
+20254,Blackburn South,21133,Hampton Park,95.63,ok
+20257,Blairgowrie,21133,Hampton Park,154.25,ok
+20260,Blind Bight,21133,Hampton Park,,no_eligible_route
+20272,Bolinda,21133,Hampton Park,,no_eligible_route
+20278,Bonbeach,21133,Hampton Park,91.08,ok
+20280,Boneo,21133,Hampton Park,,no_eligible_route
+20282,Bonnie Brook,21133,Hampton Park,173.27,ok
+20304,Boronia,21133,Hampton Park,90.03,ok
+20307,Botanic Ridge,21133,Hampton Park,64.07,ok
+20314,Box Hill (Vic.),21133,Hampton Park,79.3,ok
+20315,Box Hill North,21133,Hampton Park,87.28,ok
+20316,Box Hill South,21133,Hampton Park,80.17,ok
+20320,Braeside,21133,Hampton Park,94.37,ok
+20324,Braybrook,21133,Hampton Park,104.37,ok
+20331,Briar Hill,21133,Hampton Park,121.18,ok
+20337,Brighton (Vic.),21133,Hampton Park,81.5,ok
+20338,Brighton East,21133,Hampton Park,70.65,ok
+20346,Broadmeadows (Vic.),21133,Hampton Park,130.43,ok
+20351,Brookfield (Vic.),21133,Hampton Park,,no_eligible_route
+20352,Brooklyn (Vic.),21133,Hampton Park,115.15,ok
+20361,Brunswick (Vic.),21133,Hampton Park,96.33,ok
+20362,Brunswick East,21133,Hampton Park,96.2,ok
+20363,Brunswick West,21133,Hampton Park,99.72,ok
+20381,Bulla (Vic.),21133,Hampton Park,,no_eligible_route
+20386,Bulleen,21133,Hampton Park,121.43,ok
+20387,Bullengarook,21133,Hampton Park,,no_eligible_route
+20399,Bundoora (Vic.),21133,Hampton Park,125.33,ok
+20411,Bunyip,21133,Hampton Park,,no_eligible_route
+20412,Bunyip North,21133,Hampton Park,,no_eligible_route
+20418,Burnley,21133,Hampton Park,92.92,ok
+20419,Burnside (Vic.),21133,Hampton Park,128.62,ok
+20420,Burnside Heights,21133,Hampton Park,133.62,ok
+20426,Burwood (Vic.),21133,Hampton Park,77.23,ok
+20427,Burwood East,21133,Hampton Park,81.17,ok
+20435,Bylands,21133,Hampton Park,,no_eligible_route
+20441,Cairnlea,21133,Hampton Park,108.8,ok
+20442,Calder Park,21133,Hampton Park,145.37,ok
+20443,Caldermeade,21133,Hampton Park,,no_eligible_route
+20453,Camberwell (Vic.),21133,Hampton Park,92.95,ok
+20455,Campbellfield,21133,Hampton Park,143.08,ok
+20466,Cannons Creek,21133,Hampton Park,,no_eligible_route
+20468,Canterbury (Vic.),21133,Hampton Park,102.85,ok
+20474,Cape Schanck,21133,Hampton Park,,no_eligible_route
+20476,Capel Sound,21133,Hampton Park,130.6,ok
+20487,Cardinia,21133,Hampton Park,,no_eligible_route
+20495,Carlton (Vic.),21133,Hampton Park,81.8,ok
+20496,Carlton North,21133,Hampton Park,100.38,ok
+20498,Carnegie,21133,Hampton Park,61.13,ok
+20500,Caroline Springs,21133,Hampton Park,128.5,ok
+20507,Carrum,21133,Hampton Park,83.53,ok
+20508,Carrum Downs,21133,Hampton Park,61.13,ok
+20512,Castella,21133,Hampton Park,,no_eligible_route
+20517,Catani,21133,Hampton Park,,no_eligible_route
+20521,Caulfield,21133,Hampton Park,72.67,ok
+20522,Caulfield East,21133,Hampton Park,58.8,ok
+20523,Caulfield North,21133,Hampton Park,61.82,ok
+20524,Caulfield South,21133,Hampton Park,74.1,ok
+20528,Chadstone,21133,Hampton Park,67.92,ok
+20537,Chelsea,21133,Hampton Park,78.2,ok
+20538,Chelsea Heights,21133,Hampton Park,82.13,ok
+20539,Cheltenham (Vic.),21133,Hampton Park,64.63,ok
+20541,Cherokee,21133,Hampton Park,,no_eligible_route
+20555,Chintin,21133,Hampton Park,,no_eligible_route
+20556,Chirnside Park,21133,Hampton Park,170.23,ok
+20559,Christmas Hills (Vic.),21133,Hampton Park,,no_eligible_route
+20560,Chum Creek,21133,Hampton Park,,no_eligible_route
+20566,Clarinda,21133,Hampton Park,62.37,ok
+20567,Clarkefield,21133,Hampton Park,,no_eligible_route
+20569,Clayton,21133,Hampton Park,58.48,ok
+20570,Clayton South,21133,Hampton Park,67.68,ok
+20572,Clematis,21133,Hampton Park,,no_eligible_route
+20574,Clifton Hill,21133,Hampton Park,88.68,ok
+20576,Clonbinane,21133,Hampton Park,,no_eligible_route
+20581,Clyde (Vic.),21133,Hampton Park,86.9,ok
+20582,Clyde North,21133,Hampton Park,56.67,ok
+20587,Cobaw,21133,Hampton Park,,no_eligible_route
+20590,Cobblebank,21133,Hampton Park,182.42,ok
+20596,Coburg,21133,Hampton Park,102.07,ok
+20597,Coburg North,21133,Hampton Park,111.63,ok
+20600,Cockatoo (Vic.),21133,Hampton Park,,no_eligible_route
+20601,Cocoroc,21133,Hampton Park,,no_eligible_route
+20605,Coimadai,21133,Hampton Park,,no_eligible_route
+20613,Coldstream (Vic.),21133,Hampton Park,,no_eligible_route
+20616,Collingwood (Vic.),21133,Hampton Park,91.08,ok
+20624,Coolaroo,21133,Hampton Park,128.03,ok
+20633,Cora Lynn,21133,Hampton Park,,no_eligible_route
+20654,Cottles Bridge,21133,Hampton Park,,no_eligible_route
+20661,Craigieburn,21133,Hampton Park,148.87,ok
+20662,Cranbourne,21133,Hampton Park,41.07,ok
+20663,Cranbourne East,21133,Hampton Park,50.95,ok
+20664,Cranbourne North,21133,Hampton Park,39.4,ok
+20665,Cranbourne South,21133,Hampton Park,67.42,ok
+20666,Cranbourne West,21133,Hampton Park,27.77,ok
+20670,Cremorne (Vic.),21133,Hampton Park,82.42,ok
+20674,Crib Point,21133,Hampton Park,135.38,ok
+20682,Croydon (Vic.),21133,Hampton Park,105.65,ok
+20683,Croydon Hills,21133,Hampton Park,120.52,ok
+20684,Croydon North,21133,Hampton Park,125.45,ok
+20685,Croydon South,21133,Hampton Park,111.0,ok
+20702,Dallas,21133,Hampton Park,129.73,ok
+20703,Dalmore,21133,Hampton Park,,no_eligible_route
+20707,Dandenong,21133,Hampton Park,29.2,ok
+20708,Dandenong North,21133,Hampton Park,52.57,ok
+20709,Dandenong South,21133,Hampton Park,57.73,ok
+20712,Darley,21133,Hampton Park,,no_eligible_route
+20716,Darraweit Guim,21133,Hampton Park,,no_eligible_route
+20724,Deanside,21133,Hampton Park,151.87,ok
+20728,Deepdene (Vic.),21133,Hampton Park,96.7,ok
+20729,Deer Park,21133,Hampton Park,113.57,ok
+20731,Delahey,21133,Hampton Park,124.7,ok
+20743,Derrimut,21133,Hampton Park,138.13,ok
+20748,Devon Meadows,21133,Hampton Park,92.65,ok
+20750,Dewhurst,21133,Hampton Park,,no_eligible_route
+20752,Diamond Creek,21133,Hampton Park,136.92,ok
+20754,Diggers Rest,21133,Hampton Park,130.68,ok
+20758,Dingley Village,21133,Hampton Park,51.97,ok
+20762,Dixons Creek,21133,Hampton Park,,no_eligible_route
+20766,Docklands,21133,Hampton Park,86.62,ok
+20769,Don Valley,21133,Hampton Park,,no_eligible_route
+20771,Doncaster,21133,Hampton Park,101.08,ok
+20772,Doncaster East,21133,Hampton Park,106.05,ok
+20773,Donnybrook (Vic.),21133,Hampton Park,172.88,ok
+20774,Donvale,21133,Hampton Park,107.78,ok
+20779,Doreen,21133,Hampton Park,172.4,ok
+20783,Doveton,21133,Hampton Park,42.38,ok
+20788,Dromana,21133,Hampton Park,144.22,ok
+20825,Eaglemont,21133,Hampton Park,115.93,ok
+20830,East Melbourne,21133,Hampton Park,81.2,ok
+20833,East Warburton,21133,Hampton Park,,no_eligible_route
+20843,Eden Park,21133,Hampton Park,,no_eligible_route
+20848,Edithvale,21133,Hampton Park,68.68,ok
+20864,Elsternwick,21133,Hampton Park,77.9,ok
+20865,Eltham (Vic.),21133,Hampton Park,122.15,ok
+20866,Eltham North,21133,Hampton Park,142.03,ok
+20867,Elwood,21133,Hampton Park,92.17,ok
+20868,Emerald (Vic.),21133,Hampton Park,,no_eligible_route
+20871,Endeavour Hills,21133,Hampton Park,41.3,ok
+20878,Epping (Vic.),21133,Hampton Park,156.45,ok
+20885,Essendon,21133,Hampton Park,110.08,ok
+20886,Essendon Fields,21133,Hampton Park,131.65,ok
+20887,Essendon North,21133,Hampton Park,112.13,ok
+20888,Essendon West,21133,Hampton Park,113.6,ok
+20889,Eumemmerring,21133,Hampton Park,26.88,ok
+20898,Exford,21133,Hampton Park,,no_eligible_route
+20899,Eynesbury,21133,Hampton Park,,no_eligible_route
+20901,Fairfield (Vic.),21133,Hampton Park,103.92,ok
+20909,Fawkner,21133,Hampton Park,135.53,ok
+20916,Fernshaw,21133,Hampton Park,,no_eligible_route
+20917,Ferntree Gully,21133,Hampton Park,78.92,ok
+20918,Ferny Creek,21133,Hampton Park,,no_eligible_route
+20920,Fingal (Vic.),21133,Hampton Park,,no_eligible_route
+20924,Fitzroy (Vic.),21133,Hampton Park,86.22,ok
+20925,Fitzroy North,21133,Hampton Park,93.82,ok
+20929,Flemington,21133,Hampton Park,101.95,ok
+20930,Flinders (Vic.),21133,Hampton Park,,no_eligible_route
+20935,Footscray,21133,Hampton Park,87.0,ok
+20937,Forest Hill (Vic.),21133,Hampton Park,79.48,ok
+20947,Frankston,21133,Hampton Park,64.6,ok
+20948,Frankston North,21133,Hampton Park,66.03,ok
+20949,Frankston South,21133,Hampton Park,110.13,ok
+20950,Fraser Rise,21133,Hampton Park,156.12,ok
+20965,Gardenvale,21133,Hampton Park,72.1,ok
+20966,Garfield,21133,Hampton Park,,no_eligible_route
+20967,Garfield North,21133,Hampton Park,,no_eligible_route
+20979,Gembrook,21133,Hampton Park,,no_eligible_route
+20995,Gilderoy,21133,Hampton Park,,no_eligible_route
+21001,Gisborne,21133,Hampton Park,,no_eligible_route
+21002,Gisborne South,21133,Hampton Park,,no_eligible_route
+21004,Gladstone Park,21133,Hampton Park,144.63,ok
+21005,Gladysdale,21133,Hampton Park,,no_eligible_route
+21009,Glen Huntly,21133,Hampton Park,69.4,ok
+21010,Glen Iris (Vic.),21133,Hampton Park,91.98,ok
+21013,Glen Waverley,21133,Hampton Park,67.08,ok
+21047,Glenroy (Vic.),21133,Hampton Park,123.82,ok
+21059,Goldie,21133,Hampton Park,,no_eligible_route
+21079,Gowanbrae,21133,Hampton Park,133.08,ok
+21087,Grangefields,21133,Hampton Park,177.72,ok
+21104,Greensborough,21133,Hampton Park,115.48,ok
+21105,Greenvale (Vic.),21133,Hampton Park,157.97,ok
+21115,Gruyere,21133,Hampton Park,,no_eligible_route
+21121,Guys Hill,21133,Hampton Park,201.9,walk_only
+21124,Hadfield,21133,Hampton Park,119.57,ok
+21125,Hallam,21133,Hampton Park,18.37,ok
+21131,Hampton (Vic.),21133,Hampton Park,85.95,ok
+21132,Hampton East,21133,Hampton Park,84.63,ok
+21133,Hampton Park,21133,Hampton Park,0.0,same_centroid
+21139,Harkaway,21133,Hampton Park,165.58,walk_only
+21140,Harkness,21133,Hampton Park,,no_eligible_route
+21145,Hastings (Vic.),21133,Hampton Park,123.3,ok
+21152,Hawthorn (Vic.),21133,Hampton Park,78.33,ok
+21153,Hawthorn East,21133,Hampton Park,81.72,ok
+21158,Healesville,21133,Hampton Park,200.2,ok
+21159,Heath Hill,21133,Hampton Park,,no_eligible_route
+21161,Heathcote Junction,21133,Hampton Park,,no_eligible_route
+21163,Heatherton,21133,Hampton Park,70.02,ok
+21165,Heathmont,21133,Hampton Park,98.32,ok
+21167,Heidelberg,21133,Hampton Park,111.0,ok
+21168,Heidelberg Heights,21133,Hampton Park,117.27,ok
+21169,Heidelberg West,21133,Hampton Park,115.45,ok
+21176,Hesket,21133,Hampton Park,,no_eligible_route
+21185,Highett,21133,Hampton Park,76.28,ok
+21193,Hillside (Melton - Vic.),21133,Hampton Park,130.77,ok
+21195,Hmas Cerberus,21133,Hampton Park,168.58,ok
+21196,Hoddles Creek,21133,Hampton Park,,no_eligible_route
+21202,Hopetoun Park,21133,Hampton Park,,no_eligible_route
+21203,Hoppers Crossing,21133,Hampton Park,138.8,ok
+21214,Hughesdale,21133,Hampton Park,52.05,ok
+21215,Humevale,21133,Hampton Park,,no_eligible_route
+21218,Huntingdale (Vic.),21133,Hampton Park,52.92,ok
+21223,Hurstbridge,21133,Hampton Park,137.47,ok
+21238,Iona,21133,Hampton Park,,no_eligible_route
+21246,Ivanhoe (Vic.),21133,Hampton Park,99.2,ok
+21247,Ivanhoe East,21133,Hampton Park,109.62,ok
+21248,Jacana,21133,Hampton Park,129.85,ok
+21277,Junction Village,21133,Hampton Park,78.78,ok
+21284,Kalkallo,21133,Hampton Park,165.88,ok
+21286,Kallista,21133,Hampton Park,,no_eligible_route
+21287,Kalorama,21133,Hampton Park,143.15,ok
+21294,Kangaroo Ground,21133,Hampton Park,,no_eligible_route
+21312,Kealba,21133,Hampton Park,117.83,ok
+21314,Keilor,21133,Hampton Park,154.1,ok
+21315,Keilor Downs,21133,Hampton Park,128.93,ok
+21316,Keilor East,21133,Hampton Park,125.75,ok
+21317,Keilor Lodge,21133,Hampton Park,133.55,ok
+21318,Keilor North,21133,Hampton Park,139.62,ok
+21319,Keilor Park,21133,Hampton Park,135.88,ok
+21327,Kensington (Vic.),21133,Hampton Park,94.8,ok
+21333,Kerrie,21133,Hampton Park,,no_eligible_route
+21336,Kew (Vic.),21133,Hampton Park,93.37,ok
+21337,Kew East,21133,Hampton Park,109.67,ok
+21339,Keysborough,21133,Hampton Park,57.05,ok
+21354,Kilsyth,21133,Hampton Park,125.48,ok
+21355,Kilsyth South,21133,Hampton Park,116.62,ok
+21358,Kinglake,21133,Hampton Park,,no_eligible_route
+21359,Kinglake Central,21133,Hampton Park,,no_eligible_route
+21360,Kinglake West,21133,Hampton Park,,no_eligible_route
+21362,Kings Park (Vic.),21133,Hampton Park,117.93,ok
+21363,Kingsbury,21133,Hampton Park,125.55,ok
+21365,Kingsville,21133,Hampton Park,96.03,ok
+21374,Knoxfield,21133,Hampton Park,68.38,ok
+21380,Koo Wee Rup,21133,Hampton Park,,no_eligible_route
+21381,Koo Wee Rup North,21133,Hampton Park,,no_eligible_route
+21393,Kooyong,21133,Hampton Park,79.12,ok
+21411,Kurunjang,21133,Hampton Park,200.5,ok
+21452,Lalor,21133,Hampton Park,121.88,ok
+21456,Lancefield,21133,Hampton Park,,no_eligible_route
+21459,Lang Lang,21133,Hampton Park,,no_eligible_route
+21460,Lang Lang East,21133,Hampton Park,,no_eligible_route
+21467,Langwarrin,21133,Hampton Park,60.78,ok
+21468,Langwarrin South,21133,Hampton Park,,no_eligible_route
+21473,Launching Place,21133,Hampton Park,,no_eligible_route
+21476,Laverton (Vic.),21133,Hampton Park,119.28,ok
+21477,Laverton North,21133,Hampton Park,145.72,ok
+21504,Lilydale (Vic.),21133,Hampton Park,141.1,ok
+21533,Long Forest,21133,Hampton Park,,no_eligible_route
+21547,Lower Plenty,21133,Hampton Park,147.83,ok
+21554,Lynbrook,21133,Hampton Park,21.08,ok
+21555,Lyndhurst (Vic.),21133,Hampton Park,77.15,ok
+21558,Lysterfield,21133,Hampton Park,200.67,walk_only
+21559,Lysterfield South,21133,Hampton Park,89.65,ok
+21561,Macclesfield (Vic.),21133,Hampton Park,,no_eligible_route
+21562,Macedon,21133,Hampton Park,,no_eligible_route
+21564,Macleod (Vic.),21133,Hampton Park,114.55,ok
+21569,Maddingley,21133,Hampton Park,,no_eligible_route
+21575,Maidstone,21133,Hampton Park,103.82,ok
+21578,Main Ridge,21133,Hampton Park,,no_eligible_route
+21586,Malvern (Vic.),21133,Hampton Park,73.83,ok
+21587,Malvern East,21133,Hampton Park,69.62,ok
+21588,Mambourin,21133,Hampton Park,,no_eligible_route
+21597,Manor Lakes,21133,Hampton Park,176.22,ok
+21604,Maribyrnong,21133,Hampton Park,112.62,ok
+21619,Maryknoll,21133,Hampton Park,,no_eligible_route
+21625,McCrae,21133,Hampton Park,117.8,ok
+21629,McKinnon,21133,Hampton Park,66.7,ok
+21635,Meadow Heights,21133,Hampton Park,142.73,ok
+21640,Melbourne,21133,Hampton Park,73.6,ok
+21641,Melbourne Airport,21133,Hampton Park,,no_eligible_route
+21642,Melton (Vic.),21133,Hampton Park,184.63,ok
+21643,Melton South,21133,Hampton Park,198.23,ok
+21644,Melton West,21133,Hampton Park,193.47,ok
+21648,Mentone,21133,Hampton Park,67.05,ok
+21649,Menzies Creek,21133,Hampton Park,,no_eligible_route
+21659,Mernda,21133,Hampton Park,160.37,ok
+21662,Merricks,21133,Hampton Park,,no_eligible_route
+21663,Merricks Beach,21133,Hampton Park,,no_eligible_route
+21664,Merricks North,21133,Hampton Park,,no_eligible_route
+21668,Merrimu,21133,Hampton Park,,no_eligible_route
+21675,Mickleham,21133,Hampton Park,180.87,ok
+21677,Middle Park (Vic.),21133,Hampton Park,97.83,ok
+21683,Mill Park,21133,Hampton Park,148.1,ok
+21685,Millgrove,21133,Hampton Park,,no_eligible_route
+21706,Mitcham (Vic.),21133,Hampton Park,99.58,ok
+21727,Monbulk,21133,Hampton Park,145.33,ok
+21728,Monegeetta,21133,Hampton Park,,no_eligible_route
+21731,Monomeith,21133,Hampton Park,,no_eligible_route
+21732,Mont Albert,21133,Hampton Park,98.25,ok
+21733,Mont Albert North,21133,Hampton Park,104.05,ok
+21735,Montmorency,21133,Hampton Park,125.12,ok
+21736,Montrose (Vic.),21133,Hampton Park,126.7,ok
+21742,Moonee Ponds,21133,Hampton Park,99.2,ok
+21746,Moorabbin,21133,Hampton Park,79.65,ok
+21747,Moorabbin Airport,21133,Hampton Park,81.97,ok
+21754,Moorooduc,21133,Hampton Park,131.38,ok
+21755,Mooroolbark,21133,Hampton Park,125.38,ok
+21760,Mordialloc,21133,Hampton Park,80.83,ok
+21763,Mornington (Vic.),21133,Hampton Park,115.72,ok
+21779,Mount Burnett,21133,Hampton Park,,no_eligible_route
+21786,Mount Cottrell,21133,Hampton Park,,no_eligible_route
+21787,Mount Dandenong,21133,Hampton Park,147.15,ok
+21793,Mount Eliza,21133,Hampton Park,95.78,ok
+21795,Mount Evelyn,21133,Hampton Park,141.38,ok
+21801,Mount Macedon,21133,Hampton Park,,no_eligible_route
+21803,Mount Martha,21133,Hampton Park,116.32,ok
+21814,Mount Toolebewong,21133,Hampton Park,,no_eligible_route
+21816,Mount Waverley,21133,Hampton Park,68.23,ok
+21827,Mulgrave (Vic.),21133,Hampton Park,74.18,ok
+21849,Murrumbeena,21133,Hampton Park,56.18,ok
+21872,Nangana,21133,Hampton Park,,no_eligible_route
+21878,Nar Nar Goon,21133,Hampton Park,,no_eligible_route
+21879,Nar Nar Goon North,21133,Hampton Park,,no_eligible_route
+21893,Narre Warren,21133,Hampton Park,27.43,ok
+21894,Narre Warren East,21133,Hampton Park,211.75,walk_only
+21895,Narre Warren North,21133,Hampton Park,44.7,ok
+21896,Narre Warren South,21133,Hampton Park,33.58,ok
+21921,New Gisborne,21133,Hampton Park,,no_eligible_route
+21934,Newport (Vic.),21133,Hampton Park,104.13,ok
+21942,Niddrie,21133,Hampton Park,124.08,ok
+21952,Noble Park,21133,Hampton Park,33.72,ok
+21953,Noble Park North,21133,Hampton Park,58.38,ok
+21966,North Melbourne,21133,Hampton Park,81.8,ok
+21969,North Warrandyte,21133,Hampton Park,148.68,ok
+21971,Northcote,21133,Hampton Park,102.62,ok
+21974,Notting Hill,21133,Hampton Park,71.33,ok
+21985,Nunawading,21133,Hampton Park,84.02,ok
+21991,Nutfield,21133,Hampton Park,,no_eligible_route
+21998,Oak Park,21133,Hampton Park,117.52,ok
+21999,Oaklands Junction,21133,Hampton Park,,no_eligible_route
+22000,Oakleigh,21133,Hampton Park,53.45,ok
+22001,Oakleigh East,21133,Hampton Park,65.07,ok
+22002,Oakleigh South,21133,Hampton Park,52.3,ok
+22006,Officer,21133,Hampton Park,55.98,ok
+22007,Officer South,21133,Hampton Park,96.55,ok
+22009,Olinda (Vic.),21133,Hampton Park,,no_eligible_route
+22016,Ormond,21133,Hampton Park,62.02,ok
+22027,Pakenham,21133,Hampton Park,55.03,ok
+22028,Pakenham South,21133,Hampton Park,,no_eligible_route
+22029,Pakenham Upper,21133,Hampton Park,,no_eligible_route
+22032,Panton Hill,21133,Hampton Park,,no_eligible_route
+22036,Park Orchards,21133,Hampton Park,106.05,ok
+22037,Parkdale,21133,Hampton Park,88.47,ok
+22038,Parkville (Vic.),21133,Hampton Park,91.42,ok
+22041,Pascoe Vale,21133,Hampton Park,121.88,ok
+22042,Pascoe Vale South,21133,Hampton Park,111.0,ok
+22047,Patterson Lakes,21133,Hampton Park,93.63,ok
+22050,Pearcedale,21133,Hampton Park,85.72,ok
+22058,Pentland Hills,21133,Hampton Park,,no_eligible_route
+22064,Pheasant Creek (Vic.),21133,Hampton Park,,no_eligible_route
+22084,Plenty (Vic.),21133,Hampton Park,156.7,ok
+22085,Plumpton (Vic.),21133,Hampton Park,,no_eligible_route
+22086,Point Cook,21133,Hampton Park,145.52,ok
+22087,Point Leo,21133,Hampton Park,,no_eligible_route
+22107,Port Melbourne,21133,Hampton Park,102.13,ok
+22113,Portsea,21133,Hampton Park,170.1,ok
+22115,Powelltown,21133,Hampton Park,,no_eligible_route
+22118,Prahran,21133,Hampton Park,80.98,ok
+22121,Preston (Vic.),21133,Hampton Park,112.4,ok
+22122,Princes Hill,21133,Hampton Park,94.57,ok
+22132,Quandong,21133,Hampton Park,,no_eligible_route
+22141,Ravenhall,21133,Hampton Park,159.32,ok
+22148,Red Hill (Vic.),21133,Hampton Park,,no_eligible_route
+22149,Red Hill South,21133,Hampton Park,,no_eligible_route
+22160,Research,21133,Hampton Park,142.55,ok
+22161,Reservoir (Vic.),21133,Hampton Park,118.7,ok
+22170,Richmond (Vic.),21133,Hampton Park,88.73,ok
+22172,Riddells Creek,21133,Hampton Park,,no_eligible_route
+22174,Ringwood (Vic.),21133,Hampton Park,91.12,ok
+22175,Ringwood East,21133,Hampton Park,110.53,ok
+22176,Ringwood North,21133,Hampton Park,104.9,ok
+22179,Ripponlea,21133,Hampton Park,79.18,ok
+22185,Rochford,21133,Hampton Park,,no_eligible_route
+22186,Rockbank,21133,Hampton Park,157.9,ok
+22193,Romsey,21133,Hampton Park,,no_eligible_route
+22194,Rosanna,21133,Hampton Park,109.02,ok
+22198,Rosebud,21133,Hampton Park,134.12,ok
+22207,Rowville,21133,Hampton Park,65.55,ok
+22208,Roxburgh Park,21133,Hampton Park,142.13,ok
+22220,Rye,21133,Hampton Park,154.32,ok
+22221,Rythdale,21133,Hampton Park,,no_eligible_route
+22222,Safety Beach (Vic.),21133,Hampton Park,125.12,ok
+22232,Sandhurst,21133,Hampton Park,86.23,ok
+22234,Sandringham (Vic.),21133,Hampton Park,94.42,ok
+22239,Sassafras (Vic.),21133,Hampton Park,,no_eligible_route
+22242,Scoresby,21133,Hampton Park,78.08,ok
+22247,Seabrook,21133,Hampton Park,127.58,ok
+22249,Seaford (Vic.),21133,Hampton Park,80.4,ok
+22250,Seaholme,21133,Hampton Park,122.98,ok
+22256,Seddon (Vic.),21133,Hampton Park,86.72,ok
+22258,Selby,21133,Hampton Park,,no_eligible_route
+22263,Seville,21133,Hampton Park,,no_eligible_route
+22264,Seville East,21133,Hampton Park,,no_eligible_route
+22278,Sherbrooke,21133,Hampton Park,127.95,ok
+22279,Shoreham,21133,Hampton Park,,no_eligible_route
+22281,Silvan,21133,Hampton Park,137.43,ok
+22291,Skye (Vic.),21133,Hampton Park,40.32,ok
+22295,Smiths Gully,21133,Hampton Park,,no_eligible_route
+22303,Somers,21133,Hampton Park,156.72,ok
+22304,Somerton (Vic.),21133,Hampton Park,146.5,ok
+22305,Somerville (Vic.),21133,Hampton Park,128.4,ok
+22306,Sorrento (Vic.),21133,Hampton Park,150.08,ok
+22309,South Kingsville,21133,Hampton Park,117.38,ok
+22310,South Melbourne,21133,Hampton Park,83.6,ok
+22311,South Morang,21133,Hampton Park,153.58,ok
+22313,South Wharf,21133,Hampton Park,88.6,ok
+22314,South Yarra,21133,Hampton Park,69.87,ok
+22315,Southbank,21133,Hampton Park,80.17,ok
+22319,Spotswood,21133,Hampton Park,98.53,ok
+22325,Springfield (Macedon Ranges - Vic.),21133,Hampton Park,,no_eligible_route
+22328,Springvale (Vic.),21133,Hampton Park,43.65,ok
+22329,Springvale South,21133,Hampton Park,47.4,ok
+22330,St Albans (Vic.),21133,Hampton Park,104.22,ok
+22332,St Andrews (Vic.),21133,Hampton Park,,no_eligible_route
+22333,St Andrews Beach,21133,Hampton Park,,no_eligible_route
+22339,St Helena,21133,Hampton Park,140.33,ok
+22343,St Kilda (Vic.),21133,Hampton Park,84.58,ok
+22344,St Kilda East,21133,Hampton Park,77.53,ok
+22345,St Kilda West,21133,Hampton Park,89.48,ok
+22355,Steels Creek,21133,Hampton Park,,no_eligible_route
+22375,Strathewen,21133,Hampton Park,,no_eligible_route
+22380,Strathmore (Vic.),21133,Hampton Park,125.68,ok
+22381,Strathmore Heights,21133,Hampton Park,133.15,ok
+22382,Strathtulloh,21133,Hampton Park,,no_eligible_route
+22391,Sunbury,21133,Hampton Park,173.5,ok
+22395,Sunshine (Vic.),21133,Hampton Park,93.0,ok
+22396,Sunshine North,21133,Hampton Park,118.07,ok
+22397,Sunshine West,21133,Hampton Park,121.35,ok
+22399,Surrey Hills,21133,Hampton Park,88.53,ok
+22414,Sydenham (Vic.),21133,Hampton Park,119.62,ok
+22451,Tarneit,21133,Hampton Park,153.58,ok
+22457,Tarrawarra,21133,Hampton Park,175.8,ok
+22473,Taylors Hill,21133,Hampton Park,129.43,ok
+22474,Taylors Lakes,21133,Hampton Park,124.5,ok
+22476,Tecoma,21133,Hampton Park,100.38,ok
+22483,Templestowe,21133,Hampton Park,122.45,ok
+22484,Templestowe Lower,21133,Hampton Park,119.42,ok
+22496,The Basin (Vic.),21133,Hampton Park,108.35,ok
+22501,The Patch,21133,Hampton Park,135.9,ok
+22504,Thomastown,21133,Hampton Park,127.18,ok
+22508,Thornbury,21133,Hampton Park,108.78,ok
+22509,Thornhill Park,21133,Hampton Park,,no_eligible_route
+22514,Three Bridges,21133,Hampton Park,,no_eligible_route
+22531,Tonimbuk,21133,Hampton Park,,no_eligible_route
+22536,Toolangi,21133,Hampton Park,,no_eligible_route
+22537,Toolern Vale,21133,Hampton Park,,no_eligible_route
+22546,Tooradin,21133,Hampton Park,,no_eligible_route
+22547,Toorak,21133,Hampton Park,79.82,ok
+22550,Tootgarook,21133,Hampton Park,137.73,ok
+22556,Tottenham (Vic.),21133,Hampton Park,116.53,ok
+22572,Travancore,21133,Hampton Park,95.95,ok
+22576,Tremont,21133,Hampton Park,111.15,ok
+22582,Truganina,21133,Hampton Park,226.97,ok
+22584,Tuerong,21133,Hampton Park,,no_eligible_route
+22586,Tullamarine,21133,Hampton Park,148.82,ok
+22594,Tyabb,21133,Hampton Park,120.72,ok
+22598,Tynong,21133,Hampton Park,,no_eligible_route
+22599,Tynong North,21133,Hampton Park,,no_eligible_route
+22614,Upper Ferntree Gully,21133,Hampton Park,90.7,ok
+22617,Upper Plenty,21133,Hampton Park,,no_eligible_route
+22620,Upwey,21133,Hampton Park,97.57,ok
+22627,Vermont,21133,Hampton Park,98.45,ok
+22628,Vermont South,21133,Hampton Park,89.53,ok
+22629,Vervale,21133,Hampton Park,,no_eligible_route
+22633,Viewbank,21133,Hampton Park,146.18,ok
+22661,Wallan,21133,Hampton Park,,no_eligible_route
+22672,Wandin East,21133,Hampton Park,,no_eligible_route
+22673,Wandin North,21133,Hampton Park,,no_eligible_route
+22676,Wandong,21133,Hampton Park,,no_eligible_route
+22685,Wantirna,21133,Hampton Park,85.48,ok
+22686,Wantirna South,21133,Hampton Park,78.77,ok
+22689,Warburton (Vic.),21133,Hampton Park,,no_eligible_route
+22695,Warneet,21133,Hampton Park,,no_eligible_route
+22702,Warrandyte,21133,Hampton Park,122.23,ok
+22703,Warrandyte South,21133,Hampton Park,138.2,ok
+22704,Warranwood,21133,Hampton Park,115.52,ok
+22717,Waterford Park,21133,Hampton Park,,no_eligible_route
+22720,Waterways,21133,Hampton Park,73.83,ok
+22721,Watsonia,21133,Hampton Park,109.47,ok
+22722,Watsonia North,21133,Hampton Park,136.0,ok
+22723,Watsons Creek (Vic.),21133,Hampton Park,,no_eligible_route
+22727,Wattle Glen,21133,Hampton Park,144.22,ok
+22740,Weir Views,21133,Hampton Park,,no_eligible_route
+22750,Werribee,21133,Hampton Park,143.32,ok
+22751,Werribee South,21133,Hampton Park,,no_eligible_route
+22753,Wesburn,21133,Hampton Park,,no_eligible_route
+22756,West Footscray,21133,Hampton Park,96.17,ok
+22757,West Melbourne,21133,Hampton Park,101.1,ok
+22761,Westmeadows,21133,Hampton Park,136.55,ok
+22766,Wheelers Hill,21133,Hampton Park,74.0,ok
+22775,Whittlesea,21133,Hampton Park,,no_eligible_route
+22784,Wildwood,21133,Hampton Park,,no_eligible_route
+22791,Williams Landing,21133,Hampton Park,133.53,ok
+22792,Williamstown (Vic.),21133,Hampton Park,107.35,ok
+22793,Williamstown North,21133,Hampton Park,125.85,ok
+22805,Windsor (Vic.),21133,Hampton Park,76.65,ok
+22820,Wollert,21133,Hampton Park,161.4,ok
+22825,Wonga Park,21133,Hampton Park,,no_eligible_route
+22843,Woodstock (Vic.),21133,Hampton Park,,no_eligible_route
+22857,Woori Yallock,21133,Hampton Park,,no_eligible_route
+22883,Wyndham Vale,21133,Hampton Park,161.13,ok
+22892,Yallambie,21133,Hampton Park,141.75,ok
+22898,Yan Yean,21133,Hampton Park,176.13,ok
+22906,Yannathan,21133,Hampton Park,,no_eligible_route
+22910,Yarra Glen,21133,Hampton Park,173.1,ok
+22911,Yarra Junction,21133,Hampton Park,,no_eligible_route
+22916,Yarrambat,21133,Hampton Park,157.62,ok
+22917,Yarraville,21133,Hampton Park,100.85,ok
+22925,Yellingbo,21133,Hampton Park,,no_eligible_route
+22930,Yering,21133,Hampton Park,,no_eligible_route
+22941,Yuroke,21133,Hampton Park,199.5,ok

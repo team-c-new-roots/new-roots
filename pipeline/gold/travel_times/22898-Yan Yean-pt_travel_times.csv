@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22898,Yan Yean,99.03,ok
+20003,Aberfeldie,22898,Yan Yean,128.67,ok
+20011,Aintree,22898,Yan Yean,187.0,ok
+20015,Airport West,22898,Yan Yean,143.37,ok
+20017,Albanvale,22898,Yan Yean,173.08,ok
+20018,Albert Park (Vic.),22898,Yan Yean,133.73,ok
+20021,Albion (Vic.),22898,Yan Yean,147.87,ok
+20034,Alphington,22898,Yan Yean,100.7,ok
+20035,Altona (Vic.),22898,Yan Yean,158.97,ok
+20036,Altona Meadows,22898,Yan Yean,170.92,ok
+20037,Altona North,22898,Yan Yean,185.37,ok
+20062,Ardeer,22898,Yan Yean,166.1,ok
+20066,Armadale (Vic.),22898,Yan Yean,124.12,ok
+20071,Arthurs Creek,22898,Yan Yean,133.17,walk_only
+20072,Arthurs Seat,22898,Yan Yean,,no_eligible_route
+20075,Ascot Vale,22898,Yan Yean,137.8,ok
+20077,Ashburton,22898,Yan Yean,138.72,ok
+20078,Ashwood,22898,Yan Yean,143.23,ok
+20079,Aspendale,22898,Yan Yean,166.37,ok
+20080,Aspendale Gardens,22898,Yan Yean,192.6,ok
+20082,Attwood,22898,Yan Yean,141.32,ok
+20089,Avondale Heights,22898,Yan Yean,147.47,ok
+20091,Avonsleigh,22898,Yan Yean,,no_eligible_route
+20095,Bacchus Marsh,22898,Yan Yean,,no_eligible_route
+20097,Badger Creek,22898,Yan Yean,,no_eligible_route
+20105,Balaclava (Vic.),22898,Yan Yean,142.75,ok
+20120,Balnarring,22898,Yan Yean,,no_eligible_route
+20121,Balnarring Beach,22898,Yan Yean,,no_eligible_route
+20123,Balwyn,22898,Yan Yean,131.88,ok
+20124,Balwyn North,22898,Yan Yean,127.07,ok
+20131,Bangholme,22898,Yan Yean,228.07,ok
+20169,Baxter,22898,Yan Yean,,no_eligible_route
+20171,Bayles,22898,Yan Yean,,no_eligible_route
+20173,Bayswater (Vic.),22898,Yan Yean,156.37,ok
+20174,Bayswater North,22898,Yan Yean,182.8,ok
+20175,Beaconsfield (Vic.),22898,Yan Yean,206.82,ok
+20176,Beaconsfield Upper,22898,Yan Yean,,no_eligible_route
+20182,Beaumaris (Vic.),22898,Yan Yean,184.18,ok
+20187,Beenak,22898,Yan Yean,,no_eligible_route
+20188,Belgrave,22898,Yan Yean,164.45,ok
+20189,Belgrave Heights,22898,Yan Yean,201.12,ok
+20190,Belgrave South,22898,Yan Yean,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),22898,Yan Yean,104.05,ok
+20207,Bend Of Islands,22898,Yan Yean,,no_eligible_route
+20212,Benloch,22898,Yan Yean,,no_eligible_route
+20214,Bentleigh,22898,Yan Yean,144.15,ok
+20215,Bentleigh East,22898,Yan Yean,163.1,ok
+20224,Berwick,22898,Yan Yean,179.62,ok
+20233,Beveridge,22898,Yan Yean,138.63,ok
+20237,Big Pats Creek,22898,Yan Yean,,no_eligible_route
+20248,Bittern,22898,Yan Yean,,no_eligible_route
+20251,Black Rock (Vic.),22898,Yan Yean,194.85,ok
+20252,Blackburn,22898,Yan Yean,122.23,ok
+20253,Blackburn North,22898,Yan Yean,120.83,ok
+20254,Blackburn South,22898,Yan Yean,142.03,ok
+20257,Blairgowrie,22898,Yan Yean,,no_eligible_route
+20260,Blind Bight,22898,Yan Yean,,no_eligible_route
+20272,Bolinda,22898,Yan Yean,,no_eligible_route
+20278,Bonbeach,22898,Yan Yean,171.37,ok
+20280,Boneo,22898,Yan Yean,,no_eligible_route
+20282,Bonnie Brook,22898,Yan Yean,219.55,ok
+20304,Boronia,22898,Yan Yean,158.83,ok
+20307,Botanic Ridge,22898,Yan Yean,,no_eligible_route
+20314,Box Hill (Vic.),22898,Yan Yean,119.03,ok
+20315,Box Hill North,22898,Yan Yean,116.85,ok
+20316,Box Hill South,22898,Yan Yean,122.3,ok
+20320,Braeside,22898,Yan Yean,211.15,ok
+20324,Braybrook,22898,Yan Yean,154.72,ok
+20331,Briar Hill,22898,Yan Yean,89.82,ok
+20337,Brighton (Vic.),22898,Yan Yean,155.52,ok
+20338,Brighton East,22898,Yan Yean,154.83,ok
+20346,Broadmeadows (Vic.),22898,Yan Yean,109.83,ok
+20351,Brookfield (Vic.),22898,Yan Yean,,no_eligible_route
+20352,Brooklyn (Vic.),22898,Yan Yean,168.55,ok
+20361,Brunswick (Vic.),22898,Yan Yean,112.45,ok
+20362,Brunswick East,22898,Yan Yean,106.2,ok
+20363,Brunswick West,22898,Yan Yean,114.88,ok
+20381,Bulla (Vic.),22898,Yan Yean,,no_eligible_route
+20386,Bulleen,22898,Yan Yean,123.13,ok
+20387,Bullengarook,22898,Yan Yean,,no_eligible_route
+20399,Bundoora (Vic.),22898,Yan Yean,85.95,ok
+20411,Bunyip,22898,Yan Yean,,no_eligible_route
+20412,Bunyip North,22898,Yan Yean,,no_eligible_route
+20418,Burnley,22898,Yan Yean,132.12,ok
+20419,Burnside (Vic.),22898,Yan Yean,180.28,ok
+20420,Burnside Heights,22898,Yan Yean,179.9,ok
+20426,Burwood (Vic.),22898,Yan Yean,131.8,ok
+20427,Burwood East,22898,Yan Yean,148.12,ok
+20435,Bylands,22898,Yan Yean,,no_eligible_route
+20441,Cairnlea,22898,Yan Yean,155.08,ok
+20442,Calder Park,22898,Yan Yean,191.65,ok
+20443,Caldermeade,22898,Yan Yean,,no_eligible_route
+20453,Camberwell (Vic.),22898,Yan Yean,137.65,ok
+20455,Campbellfield,22898,Yan Yean,130.75,ok
+20466,Cannons Creek,22898,Yan Yean,,no_eligible_route
+20468,Canterbury (Vic.),22898,Yan Yean,131.13,ok
+20474,Cape Schanck,22898,Yan Yean,,no_eligible_route
+20476,Capel Sound,22898,Yan Yean,,no_eligible_route
+20487,Cardinia,22898,Yan Yean,,no_eligible_route
+20495,Carlton (Vic.),22898,Yan Yean,113.35,ok
+20496,Carlton North,22898,Yan Yean,119.2,ok
+20498,Carnegie,22898,Yan Yean,142.67,ok
+20500,Caroline Springs,22898,Yan Yean,174.78,ok
+20507,Carrum,22898,Yan Yean,171.18,ok
+20508,Carrum Downs,22898,Yan Yean,200.28,ok
+20512,Castella,22898,Yan Yean,,no_eligible_route
+20517,Catani,22898,Yan Yean,,no_eligible_route
+20521,Caulfield,22898,Yan Yean,144.8,ok
+20522,Caulfield East,22898,Yan Yean,134.55,ok
+20523,Caulfield North,22898,Yan Yean,138.47,ok
+20524,Caulfield South,22898,Yan Yean,149.38,ok
+20528,Chadstone,22898,Yan Yean,148.12,ok
+20537,Chelsea,22898,Yan Yean,168.43,ok
+20538,Chelsea Heights,22898,Yan Yean,194.9,ok
+20539,Cheltenham (Vic.),22898,Yan Yean,158.9,ok
+20541,Cherokee,22898,Yan Yean,,no_eligible_route
+20555,Chintin,22898,Yan Yean,,no_eligible_route
+20556,Chirnside Park,22898,Yan Yean,210.68,ok
+20559,Christmas Hills (Vic.),22898,Yan Yean,,no_eligible_route
+20560,Chum Creek,22898,Yan Yean,,no_eligible_route
+20566,Clarinda,22898,Yan Yean,184.35,ok
+20567,Clarkefield,22898,Yan Yean,,no_eligible_route
+20569,Clayton,22898,Yan Yean,163.93,ok
+20570,Clayton South,22898,Yan Yean,175.75,ok
+20572,Clematis,22898,Yan Yean,,no_eligible_route
+20574,Clifton Hill,22898,Yan Yean,90.0,ok
+20576,Clonbinane,22898,Yan Yean,,no_eligible_route
+20581,Clyde (Vic.),22898,Yan Yean,,no_eligible_route
+20582,Clyde North,22898,Yan Yean,,no_eligible_route
+20587,Cobaw,22898,Yan Yean,,no_eligible_route
+20590,Cobblebank,22898,Yan Yean,,no_eligible_route
+20596,Coburg,22898,Yan Yean,104.47,ok
+20597,Coburg North,22898,Yan Yean,102.58,ok
+20600,Cockatoo (Vic.),22898,Yan Yean,,no_eligible_route
+20601,Cocoroc,22898,Yan Yean,,no_eligible_route
+20605,Coimadai,22898,Yan Yean,,no_eligible_route
+20613,Coldstream (Vic.),22898,Yan Yean,,no_eligible_route
+20616,Collingwood (Vic.),22898,Yan Yean,99.03,ok
+20624,Coolaroo,22898,Yan Yean,114.15,ok
+20633,Cora Lynn,22898,Yan Yean,,no_eligible_route
+20654,Cottles Bridge,22898,Yan Yean,177.97,walk_only
+20661,Craigieburn,22898,Yan Yean,108.12,ok
+20662,Cranbourne,22898,Yan Yean,206.27,ok
+20663,Cranbourne East,22898,Yan Yean,220.37,ok
+20664,Cranbourne North,22898,Yan Yean,,no_eligible_route
+20665,Cranbourne South,22898,Yan Yean,,no_eligible_route
+20666,Cranbourne West,22898,Yan Yean,218.33,ok
+20670,Cremorne (Vic.),22898,Yan Yean,121.65,ok
+20674,Crib Point,22898,Yan Yean,,no_eligible_route
+20682,Croydon (Vic.),22898,Yan Yean,147.47,ok
+20683,Croydon Hills,22898,Yan Yean,186.38,ok
+20684,Croydon North,22898,Yan Yean,186.73,ok
+20685,Croydon South,22898,Yan Yean,186.47,ok
+20702,Dallas,22898,Yan Yean,119.02,ok
+20703,Dalmore,22898,Yan Yean,,no_eligible_route
+20707,Dandenong,22898,Yan Yean,167.22,ok
+20708,Dandenong North,22898,Yan Yean,181.35,ok
+20709,Dandenong South,22898,Yan Yean,198.58,ok
+20712,Darley,22898,Yan Yean,,no_eligible_route
+20716,Darraweit Guim,22898,Yan Yean,,no_eligible_route
+20724,Deanside,22898,Yan Yean,201.02,ok
+20728,Deepdene (Vic.),22898,Yan Yean,124.98,ok
+20729,Deer Park,22898,Yan Yean,175.57,ok
+20731,Delahey,22898,Yan Yean,171.98,ok
+20743,Derrimut,22898,Yan Yean,192.42,ok
+20748,Devon Meadows,22898,Yan Yean,,no_eligible_route
+20750,Dewhurst,22898,Yan Yean,,no_eligible_route
+20752,Diamond Creek,22898,Yan Yean,91.1,ok
+20754,Diggers Rest,22898,Yan Yean,195.28,ok
+20758,Dingley Village,22898,Yan Yean,218.1,ok
+20762,Dixons Creek,22898,Yan Yean,,no_eligible_route
+20766,Docklands,22898,Yan Yean,122.38,ok
+20769,Don Valley,22898,Yan Yean,,no_eligible_route
+20771,Doncaster,22898,Yan Yean,100.85,ok
+20772,Doncaster East,22898,Yan Yean,111.15,ok
+20773,Donnybrook (Vic.),22898,Yan Yean,138.17,ok
+20774,Donvale,22898,Yan Yean,140.67,ok
+20779,Doreen,22898,Yan Yean,64.68,ok
+20783,Doveton,22898,Yan Yean,193.72,ok
+20788,Dromana,22898,Yan Yean,,no_eligible_route
+20825,Eaglemont,22898,Yan Yean,105.22,ok
+20830,East Melbourne,22898,Yan Yean,98.07,ok
+20833,East Warburton,22898,Yan Yean,,no_eligible_route
+20843,Eden Park,22898,Yan Yean,147.18,walk_only
+20848,Edithvale,22898,Yan Yean,168.57,ok
+20864,Elsternwick,22898,Yan Yean,147.97,ok
+20865,Eltham (Vic.),22898,Yan Yean,102.32,ok
+20866,Eltham North,22898,Yan Yean,88.32,ok
+20867,Elwood,22898,Yan Yean,138.12,ok
+20868,Emerald (Vic.),22898,Yan Yean,,no_eligible_route
+20871,Endeavour Hills,22898,Yan Yean,,no_eligible_route
+20878,Epping (Vic.),22898,Yan Yean,97.22,ok
+20885,Essendon,22898,Yan Yean,118.07,ok
+20886,Essendon Fields,22898,Yan Yean,146.42,ok
+20887,Essendon North,22898,Yan Yean,119.27,ok
+20888,Essendon West,22898,Yan Yean,124.88,ok
+20889,Eumemmerring,22898,Yan Yean,,no_eligible_route
+20898,Exford,22898,Yan Yean,,no_eligible_route
+20899,Eynesbury,22898,Yan Yean,,no_eligible_route
+20901,Fairfield (Vic.),22898,Yan Yean,100.32,ok
+20909,Fawkner,22898,Yan Yean,119.92,ok
+20916,Fernshaw,22898,Yan Yean,,no_eligible_route
+20917,Ferntree Gully,22898,Yan Yean,174.2,ok
+20918,Ferny Creek,22898,Yan Yean,,no_eligible_route
+20920,Fingal (Vic.),22898,Yan Yean,,no_eligible_route
+20924,Fitzroy (Vic.),22898,Yan Yean,112.33,ok
+20925,Fitzroy North,22898,Yan Yean,92.72,ok
+20929,Flemington,22898,Yan Yean,135.63,ok
+20930,Flinders (Vic.),22898,Yan Yean,,no_eligible_route
+20935,Footscray,22898,Yan Yean,135.53,ok
+20937,Forest Hill (Vic.),22898,Yan Yean,140.02,ok
+20947,Frankston,22898,Yan Yean,199.47,ok
+20948,Frankston North,22898,Yan Yean,208.22,ok
+20949,Frankston South,22898,Yan Yean,,no_eligible_route
+20950,Fraser Rise,22898,Yan Yean,202.4,ok
+20965,Gardenvale,22898,Yan Yean,146.3,ok
+20966,Garfield,22898,Yan Yean,,no_eligible_route
+20967,Garfield North,22898,Yan Yean,,no_eligible_route
+20979,Gembrook,22898,Yan Yean,,no_eligible_route
+20995,Gilderoy,22898,Yan Yean,,no_eligible_route
+21001,Gisborne,22898,Yan Yean,,no_eligible_route
+21002,Gisborne South,22898,Yan Yean,,no_eligible_route
+21004,Gladstone Park,22898,Yan Yean,131.53,ok
+21005,Gladysdale,22898,Yan Yean,,no_eligible_route
+21009,Glen Huntly,22898,Yan Yean,136.68,ok
+21010,Glen Iris (Vic.),22898,Yan Yean,148.22,ok
+21013,Glen Waverley,22898,Yan Yean,152.58,ok
+21047,Glenroy (Vic.),22898,Yan Yean,130.7,ok
+21059,Goldie,22898,Yan Yean,,no_eligible_route
+21079,Gowanbrae,22898,Yan Yean,138.37,ok
+21087,Grangefields,22898,Yan Yean,224.0,ok
+21104,Greensborough,22898,Yan Yean,76.38,ok
+21105,Greenvale (Vic.),22898,Yan Yean,128.25,ok
+21115,Gruyere,22898,Yan Yean,,no_eligible_route
+21121,Guys Hill,22898,Yan Yean,,no_eligible_route
+21124,Hadfield,22898,Yan Yean,119.85,ok
+21125,Hallam,22898,Yan Yean,185.73,ok
+21131,Hampton (Vic.),22898,Yan Yean,162.35,ok
+21132,Hampton East,22898,Yan Yean,150.92,ok
+21133,Hampton Park,22898,Yan Yean,203.3,ok
+21139,Harkaway,22898,Yan Yean,,no_eligible_route
+21140,Harkness,22898,Yan Yean,,no_eligible_route
+21145,Hastings (Vic.),22898,Yan Yean,,no_eligible_route
+21152,Hawthorn (Vic.),22898,Yan Yean,127.52,ok
+21153,Hawthorn East,22898,Yan Yean,129.0,ok
+21158,Healesville,22898,Yan Yean,,no_eligible_route
+21159,Heath Hill,22898,Yan Yean,,no_eligible_route
+21161,Heathcote Junction,22898,Yan Yean,,no_eligible_route
+21163,Heatherton,22898,Yan Yean,179.03,ok
+21165,Heathmont,22898,Yan Yean,141.63,ok
+21167,Heidelberg,22898,Yan Yean,104.68,ok
+21168,Heidelberg Heights,22898,Yan Yean,104.55,ok
+21169,Heidelberg West,22898,Yan Yean,107.55,ok
+21176,Hesket,22898,Yan Yean,,no_eligible_route
+21185,Highett,22898,Yan Yean,143.68,ok
+21193,Hillside (Melton - Vic.),22898,Yan Yean,186.95,ok
+21195,Hmas Cerberus,22898,Yan Yean,,no_eligible_route
+21196,Hoddles Creek,22898,Yan Yean,,no_eligible_route
+21202,Hopetoun Park,22898,Yan Yean,,no_eligible_route
+21203,Hoppers Crossing,22898,Yan Yean,176.08,ok
+21214,Hughesdale,22898,Yan Yean,147.77,ok
+21215,Humevale,22898,Yan Yean,165.28,walk_only
+21218,Huntingdale (Vic.),22898,Yan Yean,152.2,ok
+21223,Hurstbridge,22898,Yan Yean,91.38,ok
+21238,Iona,22898,Yan Yean,,no_eligible_route
+21246,Ivanhoe (Vic.),22898,Yan Yean,98.63,ok
+21247,Ivanhoe East,22898,Yan Yean,109.9,ok
+21248,Jacana,22898,Yan Yean,119.07,ok
+21277,Junction Village,22898,Yan Yean,,no_eligible_route
+21284,Kalkallo,22898,Yan Yean,131.17,ok
+21286,Kallista,22898,Yan Yean,,no_eligible_route
+21287,Kalorama,22898,Yan Yean,,no_eligible_route
+21294,Kangaroo Ground,22898,Yan Yean,131.98,ok
+21312,Kealba,22898,Yan Yean,171.33,ok
+21314,Keilor,22898,Yan Yean,177.38,ok
+21315,Keilor Downs,22898,Yan Yean,175.22,ok
+21316,Keilor East,22898,Yan Yean,136.88,ok
+21317,Keilor Lodge,22898,Yan Yean,179.07,ok
+21318,Keilor North,22898,Yan Yean,198.67,ok
+21319,Keilor Park,22898,Yan Yean,157.17,ok
+21327,Kensington (Vic.),22898,Yan Yean,128.42,ok
+21333,Kerrie,22898,Yan Yean,,no_eligible_route
+21336,Kew (Vic.),22898,Yan Yean,114.65,ok
+21337,Kew East,22898,Yan Yean,118.68,ok
+21339,Keysborough,22898,Yan Yean,211.73,ok
+21354,Kilsyth,22898,Yan Yean,,no_eligible_route
+21355,Kilsyth South,22898,Yan Yean,,no_eligible_route
+21358,Kinglake,22898,Yan Yean,,no_eligible_route
+21359,Kinglake Central,22898,Yan Yean,,no_eligible_route
+21360,Kinglake West,22898,Yan Yean,,no_eligible_route
+21362,Kings Park (Vic.),22898,Yan Yean,170.42,ok
+21363,Kingsbury,22898,Yan Yean,95.97,ok
+21365,Kingsville,22898,Yan Yean,144.35,ok
+21374,Knoxfield,22898,Yan Yean,178.5,ok
+21380,Koo Wee Rup,22898,Yan Yean,,no_eligible_route
+21381,Koo Wee Rup North,22898,Yan Yean,,no_eligible_route
+21393,Kooyong,22898,Yan Yean,128.9,ok
+21411,Kurunjang,22898,Yan Yean,,no_eligible_route
+21452,Lalor,22898,Yan Yean,71.17,ok
+21456,Lancefield,22898,Yan Yean,,no_eligible_route
+21459,Lang Lang,22898,Yan Yean,,no_eligible_route
+21460,Lang Lang East,22898,Yan Yean,,no_eligible_route
+21467,Langwarrin,22898,Yan Yean,,no_eligible_route
+21468,Langwarrin South,22898,Yan Yean,,no_eligible_route
+21473,Launching Place,22898,Yan Yean,,no_eligible_route
+21476,Laverton (Vic.),22898,Yan Yean,154.57,ok
+21477,Laverton North,22898,Yan Yean,194.6,ok
+21504,Lilydale (Vic.),22898,Yan Yean,187.17,ok
+21533,Long Forest,22898,Yan Yean,,no_eligible_route
+21547,Lower Plenty,22898,Yan Yean,112.3,ok
+21554,Lynbrook,22898,Yan Yean,176.98,ok
+21555,Lyndhurst (Vic.),22898,Yan Yean,,no_eligible_route
+21558,Lysterfield,22898,Yan Yean,,no_eligible_route
+21559,Lysterfield South,22898,Yan Yean,,no_eligible_route
+21561,Macclesfield (Vic.),22898,Yan Yean,,no_eligible_route
+21562,Macedon,22898,Yan Yean,,no_eligible_route
+21564,Macleod (Vic.),22898,Yan Yean,94.53,ok
+21569,Maddingley,22898,Yan Yean,,no_eligible_route
+21575,Maidstone,22898,Yan Yean,150.1,ok
+21578,Main Ridge,22898,Yan Yean,,no_eligible_route
+21586,Malvern (Vic.),22898,Yan Yean,132.13,ok
+21587,Malvern East,22898,Yan Yean,141.5,ok
+21588,Mambourin,22898,Yan Yean,,no_eligible_route
+21597,Manor Lakes,22898,Yan Yean,206.03,ok
+21604,Maribyrnong,22898,Yan Yean,150.85,ok
+21619,Maryknoll,22898,Yan Yean,,no_eligible_route
+21625,McCrae,22898,Yan Yean,,no_eligible_route
+21629,McKinnon,22898,Yan Yean,133.98,ok
+21635,Meadow Heights,22898,Yan Yean,115.6,ok
+21640,Melbourne,22898,Yan Yean,120.58,ok
+21641,Melbourne Airport,22898,Yan Yean,,no_eligible_route
+21642,Melton (Vic.),22898,Yan Yean,,no_eligible_route
+21643,Melton South,22898,Yan Yean,,no_eligible_route
+21644,Melton West,22898,Yan Yean,,no_eligible_route
+21648,Mentone,22898,Yan Yean,153.67,ok
+21649,Menzies Creek,22898,Yan Yean,,no_eligible_route
+21659,Mernda,22898,Yan Yean,56.53,ok
+21662,Merricks,22898,Yan Yean,,no_eligible_route
+21663,Merricks Beach,22898,Yan Yean,,no_eligible_route
+21664,Merricks North,22898,Yan Yean,,no_eligible_route
+21668,Merrimu,22898,Yan Yean,,no_eligible_route
+21675,Mickleham,22898,Yan Yean,126.15,ok
+21677,Middle Park (Vic.),22898,Yan Yean,137.12,ok
+21683,Mill Park,22898,Yan Yean,74.13,ok
+21685,Millgrove,22898,Yan Yean,,no_eligible_route
+21706,Mitcham (Vic.),22898,Yan Yean,122.2,ok
+21727,Monbulk,22898,Yan Yean,,no_eligible_route
+21728,Monegeetta,22898,Yan Yean,,no_eligible_route
+21731,Monomeith,22898,Yan Yean,,no_eligible_route
+21732,Mont Albert,22898,Yan Yean,132.23,ok
+21733,Mont Albert North,22898,Yan Yean,129.32,ok
+21735,Montmorency,22898,Yan Yean,88.5,ok
+21736,Montrose (Vic.),22898,Yan Yean,,no_eligible_route
+21742,Moonee Ponds,22898,Yan Yean,119.13,ok
+21746,Moorabbin,22898,Yan Yean,168.65,ok
+21747,Moorabbin Airport,22898,Yan Yean,201.6,ok
+21754,Moorooduc,22898,Yan Yean,,no_eligible_route
+21755,Mooroolbark,22898,Yan Yean,174.08,ok
+21760,Mordialloc,22898,Yan Yean,167.97,ok
+21763,Mornington (Vic.),22898,Yan Yean,,no_eligible_route
+21779,Mount Burnett,22898,Yan Yean,,no_eligible_route
+21786,Mount Cottrell,22898,Yan Yean,,no_eligible_route
+21787,Mount Dandenong,22898,Yan Yean,,no_eligible_route
+21793,Mount Eliza,22898,Yan Yean,,no_eligible_route
+21795,Mount Evelyn,22898,Yan Yean,,no_eligible_route
+21801,Mount Macedon,22898,Yan Yean,,no_eligible_route
+21803,Mount Martha,22898,Yan Yean,,no_eligible_route
+21814,Mount Toolebewong,22898,Yan Yean,,no_eligible_route
+21816,Mount Waverley,22898,Yan Yean,146.57,ok
+21827,Mulgrave (Vic.),22898,Yan Yean,181.45,ok
+21849,Murrumbeena,22898,Yan Yean,147.88,ok
+21872,Nangana,22898,Yan Yean,,no_eligible_route
+21878,Nar Nar Goon,22898,Yan Yean,,no_eligible_route
+21879,Nar Nar Goon North,22898,Yan Yean,,no_eligible_route
+21893,Narre Warren,22898,Yan Yean,185.17,ok
+21894,Narre Warren East,22898,Yan Yean,,no_eligible_route
+21895,Narre Warren North,22898,Yan Yean,,no_eligible_route
+21896,Narre Warren South,22898,Yan Yean,228.6,ok
+21921,New Gisborne,22898,Yan Yean,,no_eligible_route
+21934,Newport (Vic.),22898,Yan Yean,139.42,ok
+21942,Niddrie,22898,Yan Yean,139.37,ok
+21952,Noble Park,22898,Yan Yean,158.98,ok
+21953,Noble Park North,22898,Yan Yean,192.17,ok
+21966,North Melbourne,22898,Yan Yean,123.87,ok
+21969,North Warrandyte,22898,Yan Yean,113.97,ok
+21971,Northcote,22898,Yan Yean,90.73,ok
+21974,Notting Hill,22898,Yan Yean,156.12,ok
+21985,Nunawading,22898,Yan Yean,113.93,ok
+21991,Nutfield,22898,Yan Yean,137.77,walk_only
+21998,Oak Park,22898,Yan Yean,129.8,ok
+21999,Oaklands Junction,22898,Yan Yean,,no_eligible_route
+22000,Oakleigh,22898,Yan Yean,150.43,ok
+22001,Oakleigh East,22898,Yan Yean,167.57,ok
+22002,Oakleigh South,22898,Yan Yean,162.58,ok
+22006,Officer,22898,Yan Yean,199.27,ok
+22007,Officer South,22898,Yan Yean,,no_eligible_route
+22009,Olinda (Vic.),22898,Yan Yean,,no_eligible_route
+22016,Ormond,22898,Yan Yean,134.42,ok
+22027,Pakenham,22898,Yan Yean,198.32,ok
+22028,Pakenham South,22898,Yan Yean,,no_eligible_route
+22029,Pakenham Upper,22898,Yan Yean,,no_eligible_route
+22032,Panton Hill,22898,Yan Yean,,no_eligible_route
+22036,Park Orchards,22898,Yan Yean,156.45,ok
+22037,Parkdale,22898,Yan Yean,158.75,ok
+22038,Parkville (Vic.),22898,Yan Yean,128.7,ok
+22041,Pascoe Vale,22898,Yan Yean,117.43,ok
+22042,Pascoe Vale South,22898,Yan Yean,111.48,ok
+22047,Patterson Lakes,22898,Yan Yean,188.52,ok
+22050,Pearcedale,22898,Yan Yean,,no_eligible_route
+22058,Pentland Hills,22898,Yan Yean,,no_eligible_route
+22064,Pheasant Creek (Vic.),22898,Yan Yean,,no_eligible_route
+22084,Plenty (Vic.),22898,Yan Yean,77.67,ok
+22085,Plumpton (Vic.),22898,Yan Yean,,no_eligible_route
+22086,Point Cook,22898,Yan Yean,183.47,ok
+22087,Point Leo,22898,Yan Yean,,no_eligible_route
+22107,Port Melbourne,22898,Yan Yean,127.42,ok
+22113,Portsea,22898,Yan Yean,,no_eligible_route
+22115,Powelltown,22898,Yan Yean,,no_eligible_route
+22118,Prahran,22898,Yan Yean,130.92,ok
+22121,Preston (Vic.),22898,Yan Yean,88.73,ok
+22122,Princes Hill,22898,Yan Yean,112.8,ok
+22132,Quandong,22898,Yan Yean,,no_eligible_route
+22141,Ravenhall,22898,Yan Yean,,no_eligible_route
+22148,Red Hill (Vic.),22898,Yan Yean,,no_eligible_route
+22149,Red Hill South,22898,Yan Yean,,no_eligible_route
+22160,Research,22898,Yan Yean,107.83,ok
+22161,Reservoir (Vic.),22898,Yan Yean,78.98,ok
+22170,Richmond (Vic.),22898,Yan Yean,115.85,ok
+22172,Riddells Creek,22898,Yan Yean,,no_eligible_route
+22174,Ringwood (Vic.),22898,Yan Yean,128.4,ok
+22175,Ringwood East,22898,Yan Yean,155.55,ok
+22176,Ringwood North,22898,Yan Yean,151.18,ok
+22179,Ripponlea,22898,Yan Yean,141.38,ok
+22185,Rochford,22898,Yan Yean,,no_eligible_route
+22186,Rockbank,22898,Yan Yean,208.37,ok
+22193,Romsey,22898,Yan Yean,,no_eligible_route
+22194,Rosanna,22898,Yan Yean,97.02,ok
+22198,Rosebud,22898,Yan Yean,,no_eligible_route
+22207,Rowville,22898,Yan Yean,178.5,ok
+22208,Roxburgh Park,22898,Yan Yean,117.42,ok
+22220,Rye,22898,Yan Yean,,no_eligible_route
+22221,Rythdale,22898,Yan Yean,,no_eligible_route
+22222,Safety Beach (Vic.),22898,Yan Yean,,no_eligible_route
+22232,Sandhurst,22898,Yan Yean,229.15,ok
+22234,Sandringham (Vic.),22898,Yan Yean,167.23,ok
+22239,Sassafras (Vic.),22898,Yan Yean,,no_eligible_route
+22242,Scoresby,22898,Yan Yean,184.2,ok
+22247,Seabrook,22898,Yan Yean,168.38,ok
+22249,Seaford (Vic.),22898,Yan Yean,183.28,ok
+22250,Seaholme,22898,Yan Yean,153.65,ok
+22256,Seddon (Vic.),22898,Yan Yean,135.0,ok
+22258,Selby,22898,Yan Yean,202.05,ok
+22263,Seville,22898,Yan Yean,,no_eligible_route
+22264,Seville East,22898,Yan Yean,,no_eligible_route
+22278,Sherbrooke,22898,Yan Yean,,no_eligible_route
+22279,Shoreham,22898,Yan Yean,,no_eligible_route
+22281,Silvan,22898,Yan Yean,,no_eligible_route
+22291,Skye (Vic.),22898,Yan Yean,238.52,ok
+22295,Smiths Gully,22898,Yan Yean,,no_eligible_route
+22303,Somers,22898,Yan Yean,,no_eligible_route
+22304,Somerton (Vic.),22898,Yan Yean,108.87,ok
+22305,Somerville (Vic.),22898,Yan Yean,,no_eligible_route
+22306,Sorrento (Vic.),22898,Yan Yean,,no_eligible_route
+22309,South Kingsville,22898,Yan Yean,156.67,ok
+22310,South Melbourne,22898,Yan Yean,128.42,ok
+22311,South Morang,22898,Yan Yean,63.87,ok
+22313,South Wharf,22898,Yan Yean,124.4,ok
+22314,South Yarra,22898,Yan Yean,116.05,ok
+22315,Southbank,22898,Yan Yean,126.92,ok
+22319,Spotswood,22898,Yan Yean,132.82,ok
+22325,Springfield (Macedon Ranges - Vic.),22898,Yan Yean,,no_eligible_route
+22328,Springvale (Vic.),22898,Yan Yean,159.95,ok
+22329,Springvale South,22898,Yan Yean,165.68,ok
+22330,St Albans (Vic.),22898,Yan Yean,150.5,ok
+22332,St Andrews (Vic.),22898,Yan Yean,,no_eligible_route
+22333,St Andrews Beach,22898,Yan Yean,,no_eligible_route
+22339,St Helena,22898,Yan Yean,82.7,ok
+22343,St Kilda (Vic.),22898,Yan Yean,126.08,ok
+22344,St Kilda East,22898,Yan Yean,140.82,ok
+22345,St Kilda West,22898,Yan Yean,135.8,ok
+22355,Steels Creek,22898,Yan Yean,,no_eligible_route
+22375,Strathewen,22898,Yan Yean,,no_eligible_route
+22380,Strathmore (Vic.),22898,Yan Yean,131.4,ok
+22381,Strathmore Heights,22898,Yan Yean,138.43,ok
+22382,Strathtulloh,22898,Yan Yean,,no_eligible_route
+22391,Sunbury,22898,Yan Yean,,no_eligible_route
+22395,Sunshine (Vic.),22898,Yan Yean,139.28,ok
+22396,Sunshine North,22898,Yan Yean,151.2,ok
+22397,Sunshine West,22898,Yan Yean,171.45,ok
+22399,Surrey Hills,22898,Yan Yean,138.95,ok
+22414,Sydenham (Vic.),22898,Yan Yean,159.9,ok
+22451,Tarneit,22898,Yan Yean,201.67,ok
+22457,Tarrawarra,22898,Yan Yean,,no_eligible_route
+22473,Taylors Hill,22898,Yan Yean,175.9,ok
+22474,Taylors Lakes,22898,Yan Yean,174.02,ok
+22476,Tecoma,22898,Yan Yean,161.45,ok
+22483,Templestowe,22898,Yan Yean,101.73,ok
+22484,Templestowe Lower,22898,Yan Yean,122.23,ok
+22496,The Basin (Vic.),22898,Yan Yean,219.0,ok
+22501,The Patch,22898,Yan Yean,,no_eligible_route
+22504,Thomastown,22898,Yan Yean,79.15,ok
+22508,Thornbury,22898,Yan Yean,89.7,ok
+22509,Thornhill Park,22898,Yan Yean,,no_eligible_route
+22514,Three Bridges,22898,Yan Yean,,no_eligible_route
+22531,Tonimbuk,22898,Yan Yean,,no_eligible_route
+22536,Toolangi,22898,Yan Yean,,no_eligible_route
+22537,Toolern Vale,22898,Yan Yean,,no_eligible_route
+22546,Tooradin,22898,Yan Yean,,no_eligible_route
+22547,Toorak,22898,Yan Yean,138.08,ok
+22550,Tootgarook,22898,Yan Yean,,no_eligible_route
+22556,Tottenham (Vic.),22898,Yan Yean,165.72,ok
+22572,Travancore,22898,Yan Yean,133.78,ok
+22576,Tremont,22898,Yan Yean,184.05,ok
+22582,Truganina,22898,Yan Yean,,no_eligible_route
+22584,Tuerong,22898,Yan Yean,,no_eligible_route
+22586,Tullamarine,22898,Yan Yean,133.4,ok
+22594,Tyabb,22898,Yan Yean,,no_eligible_route
+22598,Tynong,22898,Yan Yean,,no_eligible_route
+22599,Tynong North,22898,Yan Yean,,no_eligible_route
+22614,Upper Ferntree Gully,22898,Yan Yean,163.6,ok
+22617,Upper Plenty,22898,Yan Yean,227.75,walk_only
+22620,Upwey,22898,Yan Yean,166.32,ok
+22627,Vermont,22898,Yan Yean,160.27,ok
+22628,Vermont South,22898,Yan Yean,154.98,ok
+22629,Vervale,22898,Yan Yean,,no_eligible_route
+22633,Viewbank,22898,Yan Yean,120.77,ok
+22661,Wallan,22898,Yan Yean,,no_eligible_route
+22672,Wandin East,22898,Yan Yean,,no_eligible_route
+22673,Wandin North,22898,Yan Yean,,no_eligible_route
+22676,Wandong,22898,Yan Yean,,no_eligible_route
+22685,Wantirna,22898,Yan Yean,152.6,ok
+22686,Wantirna South,22898,Yan Yean,164.45,ok
+22689,Warburton (Vic.),22898,Yan Yean,,no_eligible_route
+22695,Warneet,22898,Yan Yean,,no_eligible_route
+22702,Warrandyte,22898,Yan Yean,115.1,ok
+22703,Warrandyte South,22898,Yan Yean,,no_eligible_route
+22704,Warranwood,22898,Yan Yean,182.63,ok
+22717,Waterford Park,22898,Yan Yean,,no_eligible_route
+22720,Waterways,22898,Yan Yean,196.12,ok
+22721,Watsonia,22898,Yan Yean,85.75,ok
+22722,Watsonia North,22898,Yan Yean,97.25,ok
+22723,Watsons Creek (Vic.),22898,Yan Yean,,no_eligible_route
+22727,Wattle Glen,22898,Yan Yean,98.72,ok
+22740,Weir Views,22898,Yan Yean,,no_eligible_route
+22750,Werribee,22898,Yan Yean,168.6,ok
+22751,Werribee South,22898,Yan Yean,,no_eligible_route
+22753,Wesburn,22898,Yan Yean,,no_eligible_route
+22756,West Footscray,22898,Yan Yean,142.45,ok
+22757,West Melbourne,22898,Yan Yean,132.38,ok
+22761,Westmeadows,22898,Yan Yean,122.78,ok
+22766,Wheelers Hill,22898,Yan Yean,184.3,ok
+22775,Whittlesea,22898,Yan Yean,180.98,walk_only
+22784,Wildwood,22898,Yan Yean,,no_eligible_route
+22791,Williams Landing,22898,Yan Yean,168.82,ok
+22792,Williamstown (Vic.),22898,Yan Yean,151.63,ok
+22793,Williamstown North,22898,Yan Yean,161.17,ok
+22805,Windsor (Vic.),22898,Yan Yean,132.7,ok
+22820,Wollert,22898,Yan Yean,95.33,ok
+22825,Wonga Park,22898,Yan Yean,,no_eligible_route
+22843,Woodstock (Vic.),22898,Yan Yean,90.22,walk_only
+22857,Woori Yallock,22898,Yan Yean,,no_eligible_route
+22883,Wyndham Vale,22898,Yan Yean,201.82,ok
+22892,Yallambie,22898,Yan Yean,115.02,ok
+22898,Yan Yean,22898,Yan Yean,0.0,same_centroid
+22906,Yannathan,22898,Yan Yean,,no_eligible_route
+22910,Yarra Glen,22898,Yan Yean,,no_eligible_route
+22911,Yarra Junction,22898,Yan Yean,,no_eligible_route
+22916,Yarrambat,22898,Yan Yean,57.8,ok
+22917,Yarraville,22898,Yan Yean,138.57,ok
+22925,Yellingbo,22898,Yan Yean,,no_eligible_route
+22930,Yering,22898,Yan Yean,,no_eligible_route
+22941,Yuroke,22898,Yan Yean,163.78,ok

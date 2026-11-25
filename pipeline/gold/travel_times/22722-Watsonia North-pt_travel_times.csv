@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22722,Watsonia North,52.23,ok
+20003,Aberfeldie,22722,Watsonia North,86.87,ok
+20011,Aintree,22722,Watsonia North,140.2,ok
+20015,Airport West,22722,Watsonia North,91.2,ok
+20017,Albanvale,22722,Watsonia North,131.28,ok
+20018,Albert Park (Vic.),22722,Watsonia North,79.03,ok
+20021,Albion (Vic.),22722,Watsonia North,101.07,ok
+20034,Alphington,22722,Watsonia North,33.9,ok
+20035,Altona (Vic.),22722,Watsonia North,105.35,ok
+20036,Altona Meadows,22722,Watsonia North,119.12,ok
+20037,Altona North,22722,Watsonia North,110.57,ok
+20062,Ardeer,22722,Watsonia North,110.22,ok
+20066,Armadale (Vic.),22722,Watsonia North,71.5,ok
+20071,Arthurs Creek,22722,Watsonia North,,no_eligible_route
+20072,Arthurs Seat,22722,Watsonia North,,no_eligible_route
+20075,Ascot Vale,22722,Watsonia North,82.0,ok
+20077,Ashburton,22722,Watsonia North,83.92,ok
+20078,Ashwood,22722,Watsonia North,100.92,ok
+20079,Aspendale,22722,Watsonia North,118.57,ok
+20080,Aspendale Gardens,22722,Watsonia North,144.8,ok
+20082,Attwood,22722,Watsonia North,85.8,ok
+20089,Avondale Heights,22722,Watsonia North,105.67,ok
+20091,Avonsleigh,22722,Watsonia North,,no_eligible_route
+20095,Bacchus Marsh,22722,Watsonia North,,no_eligible_route
+20097,Badger Creek,22722,Watsonia North,174.87,ok
+20105,Balaclava (Vic.),22722,Watsonia North,83.95,ok
+20120,Balnarring,22722,Watsonia North,,no_eligible_route
+20121,Balnarring Beach,22722,Watsonia North,,no_eligible_route
+20123,Balwyn,22722,Watsonia North,72.68,ok
+20124,Balwyn North,22722,Watsonia North,69.82,ok
+20131,Bangholme,22722,Watsonia North,171.65,ok
+20169,Baxter,22722,Watsonia North,,no_eligible_route
+20171,Bayles,22722,Watsonia North,,no_eligible_route
+20173,Bayswater (Vic.),22722,Watsonia North,105.6,ok
+20174,Bayswater North,22722,Watsonia North,98.63,ok
+20175,Beaconsfield (Vic.),22722,Watsonia North,175.2,ok
+20176,Beaconsfield Upper,22722,Watsonia North,,no_eligible_route
+20182,Beaumaris (Vic.),22722,Watsonia North,117.45,ok
+20187,Beenak,22722,Watsonia North,,no_eligible_route
+20188,Belgrave,22722,Watsonia North,113.68,ok
+20189,Belgrave Heights,22722,Watsonia North,148.35,ok
+20190,Belgrave South,22722,Watsonia North,147.33,ok
+20198,Bellfield (Banyule - Vic.),22722,Watsonia North,39.43,ok
+20207,Bend Of Islands,22722,Watsonia North,,no_eligible_route
+20212,Benloch,22722,Watsonia North,,no_eligible_route
+20214,Bentleigh,22722,Watsonia North,94.53,ok
+20215,Bentleigh East,22722,Watsonia North,104.3,ok
+20224,Berwick,22722,Watsonia North,131.0,ok
+20233,Beveridge,22722,Watsonia North,115.35,ok
+20237,Big Pats Creek,22722,Watsonia North,,no_eligible_route
+20248,Bittern,22722,Watsonia North,,no_eligible_route
+20251,Black Rock (Vic.),22722,Watsonia North,123.25,ok
+20252,Blackburn,22722,Watsonia North,63.53,ok
+20253,Blackburn North,22722,Watsonia North,67.07,ok
+20254,Blackburn South,22722,Watsonia North,84.27,ok
+20257,Blairgowrie,22722,Watsonia North,,no_eligible_route
+20260,Blind Bight,22722,Watsonia North,,no_eligible_route
+20272,Bolinda,22722,Watsonia North,,no_eligible_route
+20278,Bonbeach,22722,Watsonia North,122.75,ok
+20280,Boneo,22722,Watsonia North,,no_eligible_route
+20282,Bonnie Brook,22722,Watsonia North,172.75,ok
+20304,Boronia,22722,Watsonia North,108.07,ok
+20307,Botanic Ridge,22722,Watsonia North,177.68,ok
+20314,Box Hill (Vic.),22722,Watsonia North,67.3,ok
+20315,Box Hill North,22722,Watsonia North,65.08,ok
+20316,Box Hill South,22722,Watsonia North,67.53,ok
+20320,Braeside,22722,Watsonia North,144.6,ok
+20324,Braybrook,22722,Watsonia North,107.92,ok
+20331,Briar Hill,22722,Watsonia North,29.43,ok
+20337,Brighton (Vic.),22722,Watsonia North,96.72,ok
+20338,Brighton East,22722,Watsonia North,100.13,ok
+20346,Broadmeadows (Vic.),22722,Watsonia North,51.55,ok
+20351,Brookfield (Vic.),22722,Watsonia North,,no_eligible_route
+20352,Brooklyn (Vic.),22722,Watsonia North,108.48,ok
+20361,Brunswick (Vic.),22722,Watsonia North,70.65,ok
+20362,Brunswick East,22722,Watsonia North,64.4,ok
+20363,Brunswick West,22722,Watsonia North,73.08,ok
+20381,Bulla (Vic.),22722,Watsonia North,,no_eligible_route
+20386,Bulleen,22722,Watsonia North,58.52,ok
+20387,Bullengarook,22722,Watsonia North,,no_eligible_route
+20399,Bundoora (Vic.),22722,Watsonia North,17.78,ok
+20411,Bunyip,22722,Watsonia North,,no_eligible_route
+20412,Bunyip North,22722,Watsonia North,,no_eligible_route
+20418,Burnley,22722,Watsonia North,88.27,ok
+20419,Burnside (Vic.),22722,Watsonia North,119.1,ok
+20420,Burnside Heights,22722,Watsonia North,126.92,ok
+20426,Burwood (Vic.),22722,Watsonia North,77.03,ok
+20427,Burwood East,22722,Watsonia North,82.27,ok
+20435,Bylands,22722,Watsonia North,,no_eligible_route
+20441,Cairnlea,22722,Watsonia North,113.28,ok
+20442,Calder Park,22722,Watsonia North,134.85,ok
+20443,Caldermeade,22722,Watsonia North,,no_eligible_route
+20453,Camberwell (Vic.),22722,Watsonia North,82.85,ok
+20455,Campbellfield,22722,Watsonia North,87.08,ok
+20466,Cannons Creek,22722,Watsonia North,,no_eligible_route
+20468,Canterbury (Vic.),22722,Watsonia North,83.58,ok
+20474,Cape Schanck,22722,Watsonia North,,no_eligible_route
+20476,Capel Sound,22722,Watsonia North,,no_eligible_route
+20487,Cardinia,22722,Watsonia North,,no_eligible_route
+20495,Carlton (Vic.),22722,Watsonia North,61.93,ok
+20496,Carlton North,22722,Watsonia North,71.4,ok
+20498,Carnegie,22722,Watsonia North,95.87,ok
+20500,Caroline Springs,22722,Watsonia North,131.03,ok
+20507,Carrum,22722,Watsonia North,122.57,ok
+20508,Carrum Downs,22722,Watsonia North,146.67,ok
+20512,Castella,22722,Watsonia North,,no_eligible_route
+20517,Catani,22722,Watsonia North,,no_eligible_route
+20521,Caulfield,22722,Watsonia North,101.05,ok
+20522,Caulfield East,22722,Watsonia North,83.75,ok
+20523,Caulfield North,22722,Watsonia North,84.67,ok
+20524,Caulfield South,22722,Watsonia North,100.58,ok
+20528,Chadstone,22722,Watsonia North,98.63,ok
+20537,Chelsea,22722,Watsonia North,119.82,ok
+20538,Chelsea Heights,22722,Watsonia North,147.1,ok
+20539,Cheltenham (Vic.),22722,Watsonia North,110.1,ok
+20541,Cherokee,22722,Watsonia North,,no_eligible_route
+20555,Chintin,22722,Watsonia North,,no_eligible_route
+20556,Chirnside Park,22722,Watsonia North,138.47,ok
+20559,Christmas Hills (Vic.),22722,Watsonia North,,no_eligible_route
+20560,Chum Creek,22722,Watsonia North,,no_eligible_route
+20566,Clarinda,22722,Watsonia North,116.88,ok
+20567,Clarkefield,22722,Watsonia North,,no_eligible_route
+20569,Clayton,22722,Watsonia North,103.02,ok
+20570,Clayton South,22722,Watsonia North,122.2,ok
+20572,Clematis,22722,Watsonia North,,no_eligible_route
+20574,Clifton Hill,22722,Watsonia North,43.2,ok
+20576,Clonbinane,22722,Watsonia North,,no_eligible_route
+20581,Clyde (Vic.),22722,Watsonia North,,no_eligible_route
+20582,Clyde North,22722,Watsonia North,165.28,ok
+20587,Cobaw,22722,Watsonia North,,no_eligible_route
+20590,Cobblebank,22722,Watsonia North,190.08,ok
+20596,Coburg,22722,Watsonia North,62.67,ok
+20597,Coburg North,22722,Watsonia North,60.78,ok
+20600,Cockatoo (Vic.),22722,Watsonia North,,no_eligible_route
+20601,Cocoroc,22722,Watsonia North,,no_eligible_route
+20605,Coimadai,22722,Watsonia North,,no_eligible_route
+20613,Coldstream (Vic.),22722,Watsonia North,,no_eligible_route
+20616,Collingwood (Vic.),22722,Watsonia North,52.23,ok
+20624,Coolaroo,22722,Watsonia North,69.03,ok
+20633,Cora Lynn,22722,Watsonia North,,no_eligible_route
+20654,Cottles Bridge,22722,Watsonia North,,no_eligible_route
+20661,Craigieburn,22722,Watsonia North,87.87,ok
+20662,Cranbourne,22722,Watsonia North,150.47,ok
+20663,Cranbourne East,22722,Watsonia North,161.47,ok
+20664,Cranbourne North,22722,Watsonia North,189.62,ok
+20665,Cranbourne South,22722,Watsonia North,181.03,ok
+20666,Cranbourne West,22722,Watsonia North,155.98,ok
+20670,Cremorne (Vic.),22722,Watsonia North,70.08,ok
+20674,Crib Point,22722,Watsonia North,,no_eligible_route
+20682,Croydon (Vic.),22722,Watsonia North,91.77,ok
+20683,Croydon Hills,22722,Watsonia North,111.07,ok
+20684,Croydon North,22722,Watsonia North,112.45,ok
+20685,Croydon South,22722,Watsonia North,127.77,ok
+20702,Dallas,22722,Watsonia North,66.43,ok
+20703,Dalmore,22722,Watsonia North,,no_eligible_route
+20707,Dandenong,22722,Watsonia North,115.45,ok
+20708,Dandenong North,22722,Watsonia North,128.95,ok
+20709,Dandenong South,22722,Watsonia North,142.5,ok
+20712,Darley,22722,Watsonia North,,no_eligible_route
+20716,Darraweit Guim,22722,Watsonia North,,no_eligible_route
+20724,Deanside,22722,Watsonia North,154.22,ok
+20728,Deepdene (Vic.),22722,Watsonia North,60.07,ok
+20729,Deer Park,22722,Watsonia North,108.05,ok
+20731,Delahey,22722,Watsonia North,124.72,ok
+20743,Derrimut,22722,Watsonia North,151.12,ok
+20748,Devon Meadows,22722,Watsonia North,,no_eligible_route
+20750,Dewhurst,22722,Watsonia North,,no_eligible_route
+20752,Diamond Creek,22722,Watsonia North,44.4,ok
+20754,Diggers Rest,22722,Watsonia North,139.17,ok
+20758,Dingley Village,22722,Watsonia North,125.22,ok
+20762,Dixons Creek,22722,Watsonia North,,no_eligible_route
+20766,Docklands,22722,Watsonia North,72.1,ok
+20769,Don Valley,22722,Watsonia North,,no_eligible_route
+20771,Doncaster,22722,Watsonia North,40.15,ok
+20772,Doncaster East,22722,Watsonia North,57.38,ok
+20773,Donnybrook (Vic.),22722,Watsonia North,122.88,ok
+20774,Donvale,22722,Watsonia North,89.93,ok
+20779,Doreen,22722,Watsonia North,73.65,ok
+20783,Doveton,22722,Watsonia North,144.4,ok
+20788,Dromana,22722,Watsonia North,,no_eligible_route
+20825,Eaglemont,22722,Watsonia North,40.42,ok
+20830,East Melbourne,22722,Watsonia North,51.27,ok
+20833,East Warburton,22722,Watsonia North,,no_eligible_route
+20843,Eden Park,22722,Watsonia North,,no_eligible_route
+20848,Edithvale,22722,Watsonia North,119.95,ok
+20864,Elsternwick,22722,Watsonia North,91.87,ok
+20865,Eltham (Vic.),22722,Watsonia North,43.67,ok
+20866,Eltham North,22722,Watsonia North,35.88,ok
+20867,Elwood,22722,Watsonia North,91.32,ok
+20868,Emerald (Vic.),22722,Watsonia North,,no_eligible_route
+20871,Endeavour Hills,22722,Watsonia North,156.35,ok
+20878,Epping (Vic.),22722,Watsonia North,80.45,ok
+20885,Essendon,22722,Watsonia North,76.27,ok
+20886,Essendon Fields,22722,Watsonia North,98.28,ok
+20887,Essendon North,22722,Watsonia North,77.47,ok
+20888,Essendon West,22722,Watsonia North,83.08,ok
+20889,Eumemmerring,22722,Watsonia North,144.78,ok
+20898,Exford,22722,Watsonia North,,no_eligible_route
+20899,Eynesbury,22722,Watsonia North,,no_eligible_route
+20901,Fairfield (Vic.),22722,Watsonia North,44.2,ok
+20909,Fawkner,22722,Watsonia North,60.33,ok
+20916,Fernshaw,22722,Watsonia North,,no_eligible_route
+20917,Ferntree Gully,22722,Watsonia North,102.43,ok
+20918,Ferny Creek,22722,Watsonia North,150.97,ok
+20920,Fingal (Vic.),22722,Watsonia North,,no_eligible_route
+20924,Fitzroy (Vic.),22722,Watsonia North,59.77,ok
+20925,Fitzroy North,22722,Watsonia North,55.02,ok
+20929,Flemington,22722,Watsonia North,84.83,ok
+20930,Flinders (Vic.),22722,Watsonia North,,no_eligible_route
+20935,Footscray,22722,Watsonia North,83.73,ok
+20937,Forest Hill (Vic.),22722,Watsonia North,77.25,ok
+20947,Frankston,22722,Watsonia North,140.35,ok
+20948,Frankston North,22722,Watsonia North,159.5,ok
+20949,Frankston South,22722,Watsonia North,,no_eligible_route
+20950,Fraser Rise,22722,Watsonia North,145.6,ok
+20965,Gardenvale,22722,Watsonia North,93.15,ok
+20966,Garfield,22722,Watsonia North,,no_eligible_route
+20967,Garfield North,22722,Watsonia North,,no_eligible_route
+20979,Gembrook,22722,Watsonia North,,no_eligible_route
+20995,Gilderoy,22722,Watsonia North,,no_eligible_route
+21001,Gisborne,22722,Watsonia North,,no_eligible_route
+21002,Gisborne South,22722,Watsonia North,,no_eligible_route
+21004,Gladstone Park,22722,Watsonia North,73.58,ok
+21005,Gladysdale,22722,Watsonia North,,no_eligible_route
+21009,Glen Huntly,22722,Watsonia North,86.07,ok
+21010,Glen Iris (Vic.),22722,Watsonia North,90.75,ok
+21013,Glen Waverley,22722,Watsonia North,90.82,ok
+21047,Glenroy (Vic.),22722,Watsonia North,73.42,ok
+21059,Goldie,22722,Watsonia North,,no_eligible_route
+21079,Gowanbrae,22722,Watsonia North,82.08,ok
+21087,Grangefields,22722,Watsonia North,177.2,ok
+21104,Greensborough,22722,Watsonia North,23.0,ok
+21105,Greenvale (Vic.),22722,Watsonia North,97.97,ok
+21115,Gruyere,22722,Watsonia North,,no_eligible_route
+21121,Guys Hill,22722,Watsonia North,,no_eligible_route
+21124,Hadfield,22722,Watsonia North,66.85,ok
+21125,Hallam,22722,Watsonia North,137.12,ok
+21131,Hampton (Vic.),22722,Watsonia North,104.55,ok
+21132,Hampton East,22722,Watsonia North,101.3,ok
+21133,Hampton Park,22722,Watsonia North,148.35,ok
+21139,Harkaway,22722,Watsonia North,,no_eligible_route
+21140,Harkness,22722,Watsonia North,,no_eligible_route
+21145,Hastings (Vic.),22722,Watsonia North,,no_eligible_route
+21152,Hawthorn (Vic.),22722,Watsonia North,76.18,ok
+21153,Hawthorn East,22722,Watsonia North,73.37,ok
+21158,Healesville,22722,Watsonia North,178.78,ok
+21159,Heath Hill,22722,Watsonia North,,no_eligible_route
+21161,Heathcote Junction,22722,Watsonia North,,no_eligible_route
+21163,Heatherton,22722,Watsonia North,128.5,ok
+21165,Heathmont,22722,Watsonia North,90.03,ok
+21167,Heidelberg,22722,Watsonia North,42.88,ok
+21168,Heidelberg Heights,22722,Watsonia North,43.65,ok
+21169,Heidelberg West,22722,Watsonia North,35.07,ok
+21176,Hesket,22722,Watsonia North,,no_eligible_route
+21185,Highett,22722,Watsonia North,94.07,ok
+21193,Hillside (Melton - Vic.),22722,Watsonia North,130.15,ok
+21195,Hmas Cerberus,22722,Watsonia North,,no_eligible_route
+21196,Hoddles Creek,22722,Watsonia North,,no_eligible_route
+21202,Hopetoun Park,22722,Watsonia North,,no_eligible_route
+21203,Hoppers Crossing,22722,Watsonia North,124.0,ok
+21214,Hughesdale,22722,Watsonia North,99.97,ok
+21215,Humevale,22722,Watsonia North,121.33,ok
+21218,Huntingdale (Vic.),22722,Watsonia North,105.4,ok
+21223,Hurstbridge,22722,Watsonia North,44.95,ok
+21238,Iona,22722,Watsonia North,,no_eligible_route
+21246,Ivanhoe (Vic.),22722,Watsonia North,31.83,ok
+21247,Ivanhoe East,22722,Watsonia North,46.07,ok
+21248,Jacana,22722,Watsonia North,61.78,ok
+21277,Junction Village,22722,Watsonia North,190.02,ok
+21284,Kalkallo,22722,Watsonia North,136.48,ok
+21286,Kallista,22722,Watsonia North,154.4,ok
+21287,Kalorama,22722,Watsonia North,120.67,ok
+21294,Kangaroo Ground,22722,Watsonia North,85.28,ok
+21312,Kealba,22722,Watsonia North,111.43,ok
+21314,Keilor,22722,Watsonia North,129.1,ok
+21315,Keilor Downs,22722,Watsonia North,135.63,ok
+21316,Keilor East,22722,Watsonia North,100.6,ok
+21317,Keilor Lodge,22722,Watsonia North,130.78,ok
+21318,Keilor North,22722,Watsonia North,141.87,ok
+21319,Keilor Park,22722,Watsonia North,103.35,ok
+21327,Kensington (Vic.),22722,Watsonia North,74.8,ok
+21333,Kerrie,22722,Watsonia North,,no_eligible_route
+21336,Kew (Vic.),22722,Watsonia North,66.37,ok
+21337,Kew East,22722,Watsonia North,64.52,ok
+21339,Keysborough,22722,Watsonia North,128.18,ok
+21354,Kilsyth,22722,Watsonia North,105.07,ok
+21355,Kilsyth South,22722,Watsonia North,125.13,ok
+21358,Kinglake,22722,Watsonia North,,no_eligible_route
+21359,Kinglake Central,22722,Watsonia North,,no_eligible_route
+21360,Kinglake West,22722,Watsonia North,,no_eligible_route
+21362,Kings Park (Vic.),22722,Watsonia North,128.62,ok
+21363,Kingsbury,22722,Watsonia North,26.5,ok
+21365,Kingsville,22722,Watsonia North,97.55,ok
+21374,Knoxfield,22722,Watsonia North,114.72,ok
+21380,Koo Wee Rup,22722,Watsonia North,,no_eligible_route
+21381,Koo Wee Rup North,22722,Watsonia North,,no_eligible_route
+21393,Kooyong,22722,Watsonia North,82.1,ok
+21411,Kurunjang,22722,Watsonia North,208.17,ok
+21452,Lalor,22722,Watsonia North,49.03,ok
+21456,Lancefield,22722,Watsonia North,,no_eligible_route
+21459,Lang Lang,22722,Watsonia North,,no_eligible_route
+21460,Lang Lang East,22722,Watsonia North,,no_eligible_route
+21467,Langwarrin,22722,Watsonia North,154.32,ok
+21468,Langwarrin South,22722,Watsonia North,,no_eligible_route
+21473,Launching Place,22722,Watsonia North,153.42,ok
+21476,Laverton (Vic.),22722,Watsonia North,107.77,ok
+21477,Laverton North,22722,Watsonia North,134.2,ok
+21504,Lilydale (Vic.),22722,Watsonia North,122.07,ok
+21533,Long Forest,22722,Watsonia North,,no_eligible_route
+21547,Lower Plenty,22722,Watsonia North,58.8,ok
+21554,Lynbrook,22722,Watsonia North,125.18,ok
+21555,Lyndhurst (Vic.),22722,Watsonia North,,no_eligible_route
+21558,Lysterfield,22722,Watsonia North,,no_eligible_route
+21559,Lysterfield South,22722,Watsonia North,,no_eligible_route
+21561,Macclesfield (Vic.),22722,Watsonia North,,no_eligible_route
+21562,Macedon,22722,Watsonia North,,no_eligible_route
+21564,Macleod (Vic.),22722,Watsonia North,28.7,ok
+21569,Maddingley,22722,Watsonia North,,no_eligible_route
+21575,Maidstone,22722,Watsonia North,104.15,ok
+21578,Main Ridge,22722,Watsonia North,,no_eligible_route
+21586,Malvern (Vic.),22722,Watsonia North,82.33,ok
+21587,Malvern East,22722,Watsonia North,94.7,ok
+21588,Mambourin,22722,Watsonia North,,no_eligible_route
+21597,Manor Lakes,22722,Watsonia North,164.7,ok
+21604,Maribyrnong,22722,Watsonia North,100.05,ok
+21619,Maryknoll,22722,Watsonia North,,no_eligible_route
+21625,McCrae,22722,Watsonia North,,no_eligible_route
+21629,McKinnon,22722,Watsonia North,83.37,ok
+21635,Meadow Heights,22722,Watsonia North,77.3,ok
+21640,Melbourne,22722,Watsonia North,68.78,ok
+21641,Melbourne Airport,22722,Watsonia North,,no_eligible_route
+21642,Melton (Vic.),22722,Watsonia North,192.3,ok
+21643,Melton South,22722,Watsonia North,205.9,ok
+21644,Melton West,22722,Watsonia North,201.13,ok
+21648,Mentone,22722,Watsonia North,104.05,ok
+21649,Menzies Creek,22722,Watsonia North,,no_eligible_route
+21659,Mernda,22722,Watsonia North,80.37,ok
+21662,Merricks,22722,Watsonia North,,no_eligible_route
+21663,Merricks Beach,22722,Watsonia North,,no_eligible_route
+21664,Merricks North,22722,Watsonia North,,no_eligible_route
+21668,Merrimu,22722,Watsonia North,,no_eligible_route
+21675,Mickleham,22722,Watsonia North,119.87,ok
+21677,Middle Park (Vic.),22722,Watsonia North,85.12,ok
+21683,Mill Park,22722,Watsonia North,39.38,ok
+21685,Millgrove,22722,Watsonia North,,no_eligible_route
+21706,Mitcham (Vic.),22722,Watsonia North,76.5,ok
+21727,Monbulk,22722,Watsonia North,161.85,ok
+21728,Monegeetta,22722,Watsonia North,,no_eligible_route
+21731,Monomeith,22722,Watsonia North,,no_eligible_route
+21732,Mont Albert,22722,Watsonia North,71.57,ok
+21733,Mont Albert North,22722,Watsonia North,60.42,ok
+21735,Montmorency,22722,Watsonia North,30.6,ok
+21736,Montrose (Vic.),22722,Watsonia North,107.28,ok
+21742,Moonee Ponds,22722,Watsonia North,77.33,ok
+21746,Moorabbin,22722,Watsonia North,112.02,ok
+21747,Moorabbin Airport,22722,Watsonia North,138.55,ok
+21754,Moorooduc,22722,Watsonia North,,no_eligible_route
+21755,Mooroolbark,22722,Watsonia North,102.9,ok
+21760,Mordialloc,22722,Watsonia North,119.35,ok
+21763,Mornington (Vic.),22722,Watsonia North,176.4,ok
+21779,Mount Burnett,22722,Watsonia North,,no_eligible_route
+21786,Mount Cottrell,22722,Watsonia North,,no_eligible_route
+21787,Mount Dandenong,22722,Watsonia North,124.67,ok
+21793,Mount Eliza,22722,Watsonia North,148.4,ok
+21795,Mount Evelyn,22722,Watsonia North,125.13,ok
+21801,Mount Macedon,22722,Watsonia North,,no_eligible_route
+21803,Mount Martha,22722,Watsonia North,193.87,ok
+21814,Mount Toolebewong,22722,Watsonia North,,no_eligible_route
+21816,Mount Waverley,22722,Watsonia North,94.62,ok
+21827,Mulgrave (Vic.),22722,Watsonia North,122.73,ok
+21849,Murrumbeena,22722,Watsonia North,99.27,ok
+21872,Nangana,22722,Watsonia North,,no_eligible_route
+21878,Nar Nar Goon,22722,Watsonia North,,no_eligible_route
+21879,Nar Nar Goon North,22722,Watsonia North,,no_eligible_route
+21893,Narre Warren,22722,Watsonia North,136.55,ok
+21894,Narre Warren East,22722,Watsonia North,,no_eligible_route
+21895,Narre Warren North,22722,Watsonia North,195.87,ok
+21896,Narre Warren South,22722,Watsonia North,179.38,ok
+21921,New Gisborne,22722,Watsonia North,,no_eligible_route
+21934,Newport (Vic.),22722,Watsonia North,90.8,ok
+21942,Niddrie,22722,Watsonia North,100.15,ok
+21952,Noble Park,22722,Watsonia North,107.18,ok
+21953,Noble Park North,22722,Watsonia North,139.88,ok
+21966,North Melbourne,22722,Watsonia North,76.02,ok
+21969,North Warrandyte,22722,Watsonia North,62.17,ok
+21971,Northcote,22722,Watsonia North,50.03,ok
+21974,Notting Hill,22722,Watsonia North,90.35,ok
+21985,Nunawading,22722,Watsonia North,68.23,ok
+21991,Nutfield,22722,Watsonia North,239.23,walk_only
+21998,Oak Park,22722,Watsonia North,74.62,ok
+21999,Oaklands Junction,22722,Watsonia North,,no_eligible_route
+22000,Oakleigh,22722,Watsonia North,102.63,ok
+22001,Oakleigh East,22722,Watsonia North,111.27,ok
+22002,Oakleigh South,22722,Watsonia North,105.82,ok
+22006,Officer,22722,Watsonia North,150.65,ok
+22007,Officer South,22722,Watsonia North,202.22,ok
+22009,Olinda (Vic.),22722,Watsonia North,149.32,ok
+22016,Ormond,22722,Watsonia North,83.8,ok
+22027,Pakenham,22722,Watsonia North,149.7,ok
+22028,Pakenham South,22722,Watsonia North,,no_eligible_route
+22029,Pakenham Upper,22722,Watsonia North,,no_eligible_route
+22032,Panton Hill,22722,Watsonia North,239.27,walk_only
+22036,Park Orchards,22722,Watsonia North,83.57,ok
+22037,Parkdale,22722,Watsonia North,109.13,ok
+22038,Parkville (Vic.),22722,Watsonia North,79.53,ok
+22041,Pascoe Vale,22722,Watsonia North,75.63,ok
+22042,Pascoe Vale South,22722,Watsonia North,69.68,ok
+22047,Patterson Lakes,22722,Watsonia North,136.1,ok
+22050,Pearcedale,22722,Watsonia North,198.33,ok
+22058,Pentland Hills,22722,Watsonia North,,no_eligible_route
+22064,Pheasant Creek (Vic.),22722,Watsonia North,,no_eligible_route
+22084,Plenty (Vic.),22722,Watsonia North,49.63,ok
+22085,Plumpton (Vic.),22722,Watsonia North,,no_eligible_route
+22086,Point Cook,22722,Watsonia North,133.18,ok
+22087,Point Leo,22722,Watsonia North,,no_eligible_route
+22107,Port Melbourne,22722,Watsonia North,80.62,ok
+22113,Portsea,22722,Watsonia North,,no_eligible_route
+22115,Powelltown,22722,Watsonia North,,no_eligible_route
+22118,Prahran,22722,Watsonia North,78.3,ok
+22121,Preston (Vic.),22722,Watsonia North,32.97,ok
+22122,Princes Hill,22722,Watsonia North,64.0,ok
+22132,Quandong,22722,Watsonia North,,no_eligible_route
+22141,Ravenhall,22722,Watsonia North,166.98,ok
+22148,Red Hill (Vic.),22722,Watsonia North,,no_eligible_route
+22149,Red Hill South,22722,Watsonia North,,no_eligible_route
+22160,Research,22722,Watsonia North,56.03,ok
+22161,Reservoir (Vic.),22722,Watsonia North,43.05,ok
+22170,Richmond (Vic.),22722,Watsonia North,63.4,ok
+22172,Riddells Creek,22722,Watsonia North,,no_eligible_route
+22174,Ringwood (Vic.),22722,Watsonia North,83.7,ok
+22175,Ringwood East,22722,Watsonia North,90.12,ok
+22176,Ringwood North,22722,Watsonia North,89.53,ok
+22179,Ripponlea,22722,Watsonia North,82.58,ok
+22185,Rochford,22722,Watsonia North,,no_eligible_route
+22186,Rockbank,22722,Watsonia North,158.47,ok
+22193,Romsey,22722,Watsonia North,,no_eligible_route
+22194,Rosanna,22722,Watsonia North,32.22,ok
+22198,Rosebud,22722,Watsonia North,,no_eligible_route
+22207,Rowville,22722,Watsonia North,125.02,ok
+22208,Roxburgh Park,22722,Watsonia North,86.13,ok
+22220,Rye,22722,Watsonia North,,no_eligible_route
+22221,Rythdale,22722,Watsonia North,,no_eligible_route
+22222,Safety Beach (Vic.),22722,Watsonia North,205.08,ok
+22232,Sandhurst,22722,Watsonia North,172.43,ok
+22234,Sandringham (Vic.),22722,Watsonia North,109.43,ok
+22239,Sassafras (Vic.),22722,Watsonia North,133.73,ok
+22242,Scoresby,22722,Watsonia North,112.98,ok
+22247,Seabrook,22722,Watsonia North,116.07,ok
+22249,Seaford (Vic.),22722,Watsonia North,134.67,ok
+22250,Seaholme,22722,Watsonia North,100.03,ok
+22256,Seddon (Vic.),22722,Watsonia North,84.05,ok
+22258,Selby,22722,Watsonia North,151.28,ok
+22263,Seville,22722,Watsonia North,164.58,ok
+22264,Seville East,22722,Watsonia North,151.47,ok
+22278,Sherbrooke,22722,Watsonia North,144.47,ok
+22279,Shoreham,22722,Watsonia North,,no_eligible_route
+22281,Silvan,22722,Watsonia North,153.95,ok
+22291,Skye (Vic.),22722,Watsonia North,174.27,ok
+22295,Smiths Gully,22722,Watsonia North,,no_eligible_route
+22303,Somers,22722,Watsonia North,,no_eligible_route
+22304,Somerton (Vic.),22722,Watsonia North,91.5,ok
+22305,Somerville (Vic.),22722,Watsonia North,,no_eligible_route
+22306,Sorrento (Vic.),22722,Watsonia North,,no_eligible_route
+22309,South Kingsville,22722,Watsonia North,104.87,ok
+22310,South Melbourne,22722,Watsonia North,77.93,ok
+22311,South Morang,22722,Watsonia North,65.57,ok
+22313,South Wharf,22722,Watsonia North,76.6,ok
+22314,South Yarra,22722,Watsonia North,63.43,ok
+22315,Southbank,22722,Watsonia North,77.37,ok
+22319,Spotswood,22722,Watsonia North,84.2,ok
+22325,Springfield (Macedon Ranges - Vic.),22722,Watsonia North,,no_eligible_route
+22328,Springvale (Vic.),22722,Watsonia North,110.3,ok
+22329,Springvale South,22722,Watsonia North,108.92,ok
+22330,St Albans (Vic.),22722,Watsonia North,103.7,ok
+22332,St Andrews (Vic.),22722,Watsonia North,,no_eligible_route
+22333,St Andrews Beach,22722,Watsonia North,,no_eligible_route
+22339,St Helena,22722,Watsonia North,38.88,ok
+22343,St Kilda (Vic.),22722,Watsonia North,79.28,ok
+22344,St Kilda East,22722,Watsonia North,83.02,ok
+22345,St Kilda West,22722,Watsonia North,87.45,ok
+22355,Steels Creek,22722,Watsonia North,,no_eligible_route
+22375,Strathewen,22722,Watsonia North,,no_eligible_route
+22380,Strathmore (Vic.),22722,Watsonia North,88.27,ok
+22381,Strathmore Heights,22722,Watsonia North,85.38,ok
+22382,Strathtulloh,22722,Watsonia North,,no_eligible_route
+22391,Sunbury,22722,Watsonia North,161.98,ok
+22395,Sunshine (Vic.),22722,Watsonia North,92.48,ok
+22396,Sunshine North,22722,Watsonia North,107.55,ok
+22397,Sunshine West,22722,Watsonia North,127.33,ok
+22399,Surrey Hills,22722,Watsonia North,69.48,ok
+22414,Sydenham (Vic.),22722,Watsonia North,118.2,ok
+22451,Tarneit,22722,Watsonia North,142.07,ok
+22457,Tarrawarra,22722,Watsonia North,154.38,ok
+22473,Taylors Hill,22722,Watsonia North,129.1,ok
+22474,Taylors Lakes,22722,Watsonia North,122.5,ok
+22476,Tecoma,22722,Watsonia North,110.68,ok
+22483,Templestowe,22722,Watsonia North,51.97,ok
+22484,Templestowe Lower,22722,Watsonia North,61.9,ok
+22496,The Basin (Vic.),22722,Watsonia North,124.87,ok
+22501,The Patch,22722,Watsonia North,152.42,ok
+22504,Thomastown,22722,Watsonia North,56.18,ok
+22508,Thornbury,22722,Watsonia North,48.13,ok
+22509,Thornhill Park,22722,Watsonia North,,no_eligible_route
+22514,Three Bridges,22722,Watsonia North,,no_eligible_route
+22531,Tonimbuk,22722,Watsonia North,,no_eligible_route
+22536,Toolangi,22722,Watsonia North,,no_eligible_route
+22537,Toolern Vale,22722,Watsonia North,,no_eligible_route
+22546,Tooradin,22722,Watsonia North,,no_eligible_route
+22547,Toorak,22722,Watsonia North,86.82,ok
+22550,Tootgarook,22722,Watsonia North,,no_eligible_route
+22556,Tottenham (Vic.),22722,Watsonia North,116.02,ok
+22572,Travancore,22722,Watsonia North,84.43,ok
+22576,Tremont,22722,Watsonia North,129.87,ok
+22582,Truganina,22722,Watsonia North,215.45,ok
+22584,Tuerong,22722,Watsonia North,,no_eligible_route
+22586,Tullamarine,22722,Watsonia North,79.47,ok
+22594,Tyabb,22722,Watsonia North,,no_eligible_route
+22598,Tynong,22722,Watsonia North,,no_eligible_route
+22599,Tynong North,22722,Watsonia North,,no_eligible_route
+22614,Upper Ferntree Gully,22722,Watsonia North,112.83,ok
+22617,Upper Plenty,22722,Watsonia North,,no_eligible_route
+22620,Upwey,22722,Watsonia North,110.55,ok
+22627,Vermont,22722,Watsonia North,85.07,ok
+22628,Vermont South,22722,Watsonia North,100.22,ok
+22629,Vervale,22722,Watsonia North,,no_eligible_route
+22633,Viewbank,22722,Watsonia North,39.5,ok
+22661,Wallan,22722,Watsonia North,,no_eligible_route
+22672,Wandin East,22722,Watsonia North,,no_eligible_route
+22673,Wandin North,22722,Watsonia North,137.55,ok
+22676,Wandong,22722,Watsonia North,,no_eligible_route
+22685,Wantirna,22722,Watsonia North,101.83,ok
+22686,Wantirna South,22722,Watsonia North,108.0,ok
+22689,Warburton (Vic.),22722,Watsonia North,,no_eligible_route
+22695,Warneet,22722,Watsonia North,,no_eligible_route
+22702,Warrandyte,22722,Watsonia North,60.33,ok
+22703,Warrandyte South,22722,Watsonia North,92.88,ok
+22704,Warranwood,22722,Watsonia North,82.42,ok
+22717,Waterford Park,22722,Watsonia North,,no_eligible_route
+22720,Waterways,22722,Watsonia North,132.35,ok
+22721,Watsonia,22722,Watsonia North,10.45,ok
+22722,Watsonia North,22722,Watsonia North,0.0,same_centroid
+22723,Watsons Creek (Vic.),22722,Watsonia North,,no_eligible_route
+22727,Wattle Glen,22722,Watsonia North,53.7,ok
+22740,Weir Views,22722,Watsonia North,,no_eligible_route
+22750,Werribee,22722,Watsonia North,126.8,ok
+22751,Werribee South,22722,Watsonia North,,no_eligible_route
+22753,Wesburn,22722,Watsonia North,169.52,ok
+22756,West Footscray,22722,Watsonia North,95.65,ok
+22757,West Melbourne,22722,Watsonia North,82.58,ok
+22761,Westmeadows,22722,Watsonia North,65.5,ok
+22766,Wheelers Hill,22722,Watsonia North,104.42,ok
+22775,Whittlesea,22722,Watsonia North,,no_eligible_route
+22784,Wildwood,22722,Watsonia North,,no_eligible_route
+22791,Williams Landing,22722,Watsonia North,122.02,ok
+22792,Williamstown (Vic.),22722,Watsonia North,94.83,ok
+22793,Williamstown North,22722,Watsonia North,114.33,ok
+22805,Windsor (Vic.),22722,Watsonia North,79.85,ok
+22820,Wollert,22722,Watsonia North,106.4,ok
+22825,Wonga Park,22722,Watsonia North,139.3,ok
+22843,Woodstock (Vic.),22722,Watsonia North,,no_eligible_route
+22857,Woori Yallock,22722,Watsonia North,148.67,ok
+22883,Wyndham Vale,22722,Watsonia North,149.62,ok
+22892,Yallambie,22722,Watsonia North,40.2,ok
+22898,Yan Yean,22722,Watsonia North,95.72,ok
+22906,Yannathan,22722,Watsonia North,,no_eligible_route
+22910,Yarra Glen,22722,Watsonia North,151.68,ok
+22911,Yarra Junction,22722,Watsonia North,173.78,ok
+22916,Yarrambat,22722,Watsonia North,48.2,ok
+22917,Yarraville,22722,Watsonia North,89.95,ok
+22925,Yellingbo,22722,Watsonia North,,no_eligible_route
+22930,Yering,22722,Watsonia North,,no_eligible_route
+22941,Yuroke,22722,Watsonia North,140.5,ok

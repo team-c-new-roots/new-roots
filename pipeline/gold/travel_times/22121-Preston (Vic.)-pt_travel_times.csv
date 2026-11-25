@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22121,Preston (Vic.),34.87,ok
+20003,Aberfeldie,22121,Preston (Vic.),52.2,ok
+20011,Aintree,22121,Preston (Vic.),118.83,ok
+20015,Airport West,22121,Preston (Vic.),62.9,ok
+20017,Albanvale,22121,Preston (Vic.),96.3,ok
+20018,Albert Park (Vic.),22121,Preston (Vic.),62.67,ok
+20021,Albion (Vic.),22121,Preston (Vic.),79.7,ok
+20034,Alphington,22121,Preston (Vic.),33.75,ok
+20035,Altona (Vic.),22121,Preston (Vic.),85.8,ok
+20036,Altona Meadows,22121,Preston (Vic.),93.95,ok
+20037,Altona North,22121,Preston (Vic.),94.2,ok
+20062,Ardeer,22121,Preston (Vic.),85.55,ok
+20066,Armadale (Vic.),22121,Preston (Vic.),51.95,ok
+20071,Arthurs Creek,22121,Preston (Vic.),,no_eligible_route
+20072,Arthurs Seat,22121,Preston (Vic.),204.47,ok
+20075,Ascot Vale,22121,Preston (Vic.),61.57,ok
+20077,Ashburton,22121,Preston (Vic.),65.55,ok
+20078,Ashwood,22121,Preston (Vic.),84.75,ok
+20079,Aspendale,22121,Preston (Vic.),93.2,ok
+20080,Aspendale Gardens,22121,Preston (Vic.),113.53,ok
+20082,Attwood,22121,Preston (Vic.),77.62,ok
+20089,Avondale Heights,22121,Preston (Vic.),71.0,ok
+20091,Avonsleigh,22121,Preston (Vic.),,no_eligible_route
+20095,Bacchus Marsh,22121,Preston (Vic.),,no_eligible_route
+20097,Badger Creek,22121,Preston (Vic.),165.4,ok
+20105,Balaclava (Vic.),22121,Preston (Vic.),64.73,ok
+20120,Balnarring,22121,Preston (Vic.),,no_eligible_route
+20121,Balnarring Beach,22121,Preston (Vic.),,no_eligible_route
+20123,Balwyn,22121,Preston (Vic.),61.72,ok
+20124,Balwyn North,22121,Preston (Vic.),59.45,ok
+20131,Bangholme,22121,Preston (Vic.),144.8,ok
+20169,Baxter,22121,Preston (Vic.),131.27,ok
+20171,Bayles,22121,Preston (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),22121,Preston (Vic.),93.2,ok
+20174,Bayswater North,22121,Preston (Vic.),111.17,ok
+20175,Beaconsfield (Vic.),22121,Preston (Vic.),136.4,ok
+20176,Beaconsfield Upper,22121,Preston (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),22121,Preston (Vic.),91.08,ok
+20187,Beenak,22121,Preston (Vic.),,no_eligible_route
+20188,Belgrave,22121,Preston (Vic.),106.28,ok
+20189,Belgrave Heights,22121,Preston (Vic.),134.95,ok
+20190,Belgrave South,22121,Preston (Vic.),133.93,ok
+20198,Bellfield (Banyule - Vic.),22121,Preston (Vic.),24.17,ok
+20207,Bend Of Islands,22121,Preston (Vic.),,no_eligible_route
+20212,Benloch,22121,Preston (Vic.),,no_eligible_route
+20214,Bentleigh,22121,Preston (Vic.),74.98,ok
+20215,Bentleigh East,22121,Preston (Vic.),77.93,ok
+20224,Berwick,22121,Preston (Vic.),112.45,ok
+20233,Beveridge,22121,Preston (Vic.),107.17,ok
+20237,Big Pats Creek,22121,Preston (Vic.),,no_eligible_route
+20248,Bittern,22121,Preston (Vic.),157.57,ok
+20251,Black Rock (Vic.),22121,Preston (Vic.),96.88,ok
+20252,Blackburn,22121,Preston (Vic.),63.07,ok
+20253,Blackburn North,22121,Preston (Vic.),60.52,ok
+20254,Blackburn South,22121,Preston (Vic.),78.87,ok
+20257,Blairgowrie,22121,Preston (Vic.),196.5,ok
+20260,Blind Bight,22121,Preston (Vic.),,no_eligible_route
+20272,Bolinda,22121,Preston (Vic.),,no_eligible_route
+20278,Bonbeach,22121,Preston (Vic.),98.2,ok
+20280,Boneo,22121,Preston (Vic.),,no_eligible_route
+20282,Bonnie Brook,22121,Preston (Vic.),151.38,ok
+20304,Boronia,22121,Preston (Vic.),95.67,ok
+20307,Botanic Ridge,22121,Preston (Vic.),155.32,ok
+20314,Box Hill (Vic.),22121,Preston (Vic.),63.97,ok
+20315,Box Hill North,22121,Preston (Vic.),62.33,ok
+20316,Box Hill South,22121,Preston (Vic.),69.88,ok
+20320,Braeside,22121,Preston (Vic.),120.28,ok
+20324,Braybrook,22121,Preston (Vic.),72.53,ok
+20331,Briar Hill,22121,Preston (Vic.),52.98,ok
+20337,Brighton (Vic.),22121,Preston (Vic.),76.38,ok
+20338,Brighton East,22121,Preston (Vic.),79.63,ok
+20346,Broadmeadows (Vic.),22121,Preston (Vic.),53.7,ok
+20351,Brookfield (Vic.),22121,Preston (Vic.),176.88,ok
+20352,Brooklyn (Vic.),22121,Preston (Vic.),89.23,ok
+20361,Brunswick (Vic.),22121,Preston (Vic.),31.77,ok
+20362,Brunswick East,22121,Preston (Vic.),36.95,ok
+20363,Brunswick West,22121,Preston (Vic.),40.18,ok
+20381,Bulla (Vic.),22121,Preston (Vic.),130.38,ok
+20386,Bulleen,22121,Preston (Vic.),45.07,ok
+20387,Bullengarook,22121,Preston (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),22121,Preston (Vic.),23.4,ok
+20411,Bunyip,22121,Preston (Vic.),,no_eligible_route
+20412,Bunyip North,22121,Preston (Vic.),,no_eligible_route
+20418,Burnley,22121,Preston (Vic.),58.95,ok
+20419,Burnside (Vic.),22121,Preston (Vic.),97.05,ok
+20420,Burnside Heights,22121,Preston (Vic.),105.25,ok
+20426,Burwood (Vic.),22121,Preston (Vic.),79.28,ok
+20427,Burwood East,22121,Preston (Vic.),76.87,ok
+20435,Bylands,22121,Preston (Vic.),,no_eligible_route
+20441,Cairnlea,22121,Preston (Vic.),95.92,ok
+20442,Calder Park,22121,Preston (Vic.),113.48,ok
+20443,Caldermeade,22121,Preston (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),22121,Preston (Vic.),64.48,ok
+20455,Campbellfield,22121,Preston (Vic.),65.9,ok
+20466,Cannons Creek,22121,Preston (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),22121,Preston (Vic.),65.97,ok
+20474,Cape Schanck,22121,Preston (Vic.),,no_eligible_route
+20476,Capel Sound,22121,Preston (Vic.),180.85,ok
+20487,Cardinia,22121,Preston (Vic.),,no_eligible_route
+20495,Carlton (Vic.),22121,Preston (Vic.),42.57,ok
+20496,Carlton North,22121,Preston (Vic.),44.67,ok
+20498,Carnegie,22121,Preston (Vic.),73.5,ok
+20500,Caroline Springs,22121,Preston (Vic.),101.48,ok
+20507,Carrum,22121,Preston (Vic.),98.02,ok
+20508,Carrum Downs,22121,Preston (Vic.),123.12,ok
+20512,Castella,22121,Preston (Vic.),,no_eligible_route
+20517,Catani,22121,Preston (Vic.),,no_eligible_route
+20521,Caulfield,22121,Preston (Vic.),74.63,ok
+20522,Caulfield East,22121,Preston (Vic.),63.38,ok
+20523,Caulfield North,22121,Preston (Vic.),65.3,ok
+20524,Caulfield South,22121,Preston (Vic.),76.23,ok
+20528,Chadstone,22121,Preston (Vic.),83.03,ok
+20537,Chelsea,22121,Preston (Vic.),95.27,ok
+20538,Chelsea Heights,22121,Preston (Vic.),110.95,ok
+20539,Cheltenham (Vic.),22121,Preston (Vic.),84.73,ok
+20541,Cherokee,22121,Preston (Vic.),,no_eligible_route
+20555,Chintin,22121,Preston (Vic.),,no_eligible_route
+20556,Chirnside Park,22121,Preston (Vic.),116.57,ok
+20559,Christmas Hills (Vic.),22121,Preston (Vic.),,no_eligible_route
+20560,Chum Creek,22121,Preston (Vic.),,no_eligible_route
+20566,Clarinda,22121,Preston (Vic.),100.12,ok
+20567,Clarkefield,22121,Preston (Vic.),,no_eligible_route
+20569,Clayton,22121,Preston (Vic.),91.82,ok
+20570,Clayton South,22121,Preston (Vic.),107.58,ok
+20572,Clematis,22121,Preston (Vic.),,no_eligible_route
+20574,Clifton Hill,22121,Preston (Vic.),25.83,ok
+20576,Clonbinane,22121,Preston (Vic.),,no_eligible_route
+20581,Clyde (Vic.),22121,Preston (Vic.),159.15,ok
+20582,Clyde North,22121,Preston (Vic.),140.92,ok
+20587,Cobaw,22121,Preston (Vic.),,no_eligible_route
+20590,Cobblebank,22121,Preston (Vic.),161.23,ok
+20596,Coburg,22121,Preston (Vic.),23.97,ok
+20597,Coburg North,22121,Preston (Vic.),36.08,ok
+20600,Cockatoo (Vic.),22121,Preston (Vic.),,no_eligible_route
+20601,Cocoroc,22121,Preston (Vic.),,no_eligible_route
+20605,Coimadai,22121,Preston (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),22121,Preston (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),22121,Preston (Vic.),32.48,ok
+20624,Coolaroo,22121,Preston (Vic.),60.32,ok
+20633,Cora Lynn,22121,Preston (Vic.),,no_eligible_route
+20654,Cottles Bridge,22121,Preston (Vic.),,no_eligible_route
+20661,Craigieburn,22121,Preston (Vic.),77.68,ok
+20662,Cranbourne,22121,Preston (Vic.),125.32,ok
+20663,Cranbourne East,22121,Preston (Vic.),130.2,ok
+20664,Cranbourne North,22121,Preston (Vic.),122.12,ok
+20665,Cranbourne South,22121,Preston (Vic.),158.67,ok
+20666,Cranbourne West,22121,Preston (Vic.),131.02,ok
+20670,Cremorne (Vic.),22121,Preston (Vic.),47.52,ok
+20674,Crib Point,22121,Preston (Vic.),166.53,ok
+20682,Croydon (Vic.),22121,Preston (Vic.),87.3,ok
+20683,Croydon Hills,22121,Preston (Vic.),109.62,ok
+20684,Croydon North,22121,Preston (Vic.),105.05,ok
+20685,Croydon South,22121,Preston (Vic.),108.22,ok
+20702,Dallas,22121,Preston (Vic.),59.55,ok
+20703,Dalmore,22121,Preston (Vic.),,no_eligible_route
+20707,Dandenong,22121,Preston (Vic.),100.08,ok
+20708,Dandenong North,22121,Preston (Vic.),120.2,ok
+20709,Dandenong South,22121,Preston (Vic.),118.42,ok
+20712,Darley,22121,Preston (Vic.),,no_eligible_route
+20716,Darraweit Guim,22121,Preston (Vic.),,no_eligible_route
+20724,Deanside,22121,Preston (Vic.),128.98,ok
+20728,Deepdene (Vic.),22121,Preston (Vic.),56.82,ok
+20729,Deer Park,22121,Preston (Vic.),82.38,ok
+20731,Delahey,22121,Preston (Vic.),103.35,ok
+20743,Derrimut,22121,Preston (Vic.),120.25,ok
+20748,Devon Meadows,22121,Preston (Vic.),165.9,ok
+20750,Dewhurst,22121,Preston (Vic.),,no_eligible_route
+20752,Diamond Creek,22121,Preston (Vic.),71.88,ok
+20754,Diggers Rest,22121,Preston (Vic.),99.43,ok
+20758,Dingley Village,22121,Preston (Vic.),97.63,ok
+20762,Dixons Creek,22121,Preston (Vic.),,no_eligible_route
+20766,Docklands,22121,Preston (Vic.),53.73,ok
+20769,Don Valley,22121,Preston (Vic.),,no_eligible_route
+20771,Doncaster,22121,Preston (Vic.),53.2,ok
+20772,Doncaster East,22121,Preston (Vic.),61.17,ok
+20773,Donnybrook (Vic.),22121,Preston (Vic.),99.7,ok
+20774,Donvale,22121,Preston (Vic.),82.5,ok
+20779,Doreen,22121,Preston (Vic.),75.55,ok
+20783,Doveton,22121,Preston (Vic.),113.03,ok
+20788,Dromana,22121,Preston (Vic.),191.63,ok
+20825,Eaglemont,22121,Preston (Vic.),41.65,ok
+20830,East Melbourne,22121,Preston (Vic.),33.9,ok
+20833,East Warburton,22121,Preston (Vic.),,no_eligible_route
+20843,Eden Park,22121,Preston (Vic.),,no_eligible_route
+20848,Edithvale,22121,Preston (Vic.),95.4,ok
+20864,Elsternwick,22121,Preston (Vic.),68.07,ok
+20865,Eltham (Vic.),22121,Preston (Vic.),67.22,ok
+20866,Eltham North,22121,Preston (Vic.),57.1,ok
+20867,Elwood,22121,Preston (Vic.),63.98,ok
+20868,Emerald (Vic.),22121,Preston (Vic.),,no_eligible_route
+20871,Endeavour Hills,22121,Preston (Vic.),120.37,ok
+20878,Epping (Vic.),22121,Preston (Vic.),62.6,ok
+20885,Essendon,22121,Preston (Vic.),39.6,ok
+20886,Essendon Fields,22121,Preston (Vic.),65.95,ok
+20887,Essendon North,22121,Preston (Vic.),40.8,ok
+20888,Essendon West,22121,Preston (Vic.),48.42,ok
+20889,Eumemmerring,22121,Preston (Vic.),123.42,ok
+20898,Exford,22121,Preston (Vic.),,no_eligible_route
+20899,Eynesbury,22121,Preston (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),22121,Preston (Vic.),36.25,ok
+20909,Fawkner,22121,Preston (Vic.),52.25,ok
+20916,Fernshaw,22121,Preston (Vic.),,no_eligible_route
+20917,Ferntree Gully,22121,Preston (Vic.),106.13,ok
+20918,Ferny Creek,22121,Preston (Vic.),145.57,ok
+20920,Fingal (Vic.),22121,Preston (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),22121,Preston (Vic.),31.55,ok
+20925,Fitzroy North,22121,Preston (Vic.),31.5,ok
+20929,Flemington,22121,Preston (Vic.),66.17,ok
+20930,Flinders (Vic.),22121,Preston (Vic.),,no_eligible_route
+20935,Footscray,22121,Preston (Vic.),67.12,ok
+20937,Forest Hill (Vic.),22121,Preston (Vic.),75.85,ok
+20947,Frankston,22121,Preston (Vic.),117.98,ok
+20948,Frankston North,22121,Preston (Vic.),128.13,ok
+20949,Frankston South,22121,Preston (Vic.),136.25,ok
+20950,Fraser Rise,22121,Preston (Vic.),124.23,ok
+20965,Gardenvale,22121,Preston (Vic.),72.13,ok
+20966,Garfield,22121,Preston (Vic.),,no_eligible_route
+20967,Garfield North,22121,Preston (Vic.),,no_eligible_route
+20979,Gembrook,22121,Preston (Vic.),,no_eligible_route
+20995,Gilderoy,22121,Preston (Vic.),,no_eligible_route
+21001,Gisborne,22121,Preston (Vic.),,no_eligible_route
+21002,Gisborne South,22121,Preston (Vic.),,no_eligible_route
+21004,Gladstone Park,22121,Preston (Vic.),75.73,ok
+21005,Gladysdale,22121,Preston (Vic.),,no_eligible_route
+21009,Glen Huntly,22121,Preston (Vic.),66.52,ok
+21010,Glen Iris (Vic.),22121,Preston (Vic.),74.55,ok
+21013,Glen Waverley,22121,Preston (Vic.),89.97,ok
+21047,Glenroy (Vic.),22121,Preston (Vic.),51.83,ok
+21059,Goldie,22121,Preston (Vic.),,no_eligible_route
+21079,Gowanbrae,22121,Preston (Vic.),76.55,ok
+21087,Grangefields,22121,Preston (Vic.),155.83,ok
+21104,Greensborough,22121,Preston (Vic.),46.55,ok
+21105,Greenvale (Vic.),22121,Preston (Vic.),91.8,ok
+21115,Gruyere,22121,Preston (Vic.),,no_eligible_route
+21121,Guys Hill,22121,Preston (Vic.),,no_eligible_route
+21124,Hadfield,22121,Preston (Vic.),43.38,ok
+21125,Hallam,22121,Preston (Vic.),117.57,ok
+21131,Hampton (Vic.),22121,Preston (Vic.),87.18,ok
+21132,Hampton East,22121,Preston (Vic.),81.75,ok
+21133,Hampton Park,22121,Preston (Vic.),118.98,ok
+21139,Harkaway,22121,Preston (Vic.),,no_eligible_route
+21140,Harkness,22121,Preston (Vic.),178.37,ok
+21145,Hastings (Vic.),22121,Preston (Vic.),149.42,ok
+21152,Hawthorn (Vic.),22121,Preston (Vic.),58.82,ok
+21153,Hawthorn East,22121,Preston (Vic.),59.83,ok
+21158,Healesville,22121,Preston (Vic.),169.32,ok
+21159,Heath Hill,22121,Preston (Vic.),,no_eligible_route
+21161,Heathcote Junction,22121,Preston (Vic.),,no_eligible_route
+21163,Heatherton,22121,Preston (Vic.),98.05,ok
+21165,Heathmont,22121,Preston (Vic.),83.47,ok
+21167,Heidelberg,22121,Preston (Vic.),33.83,ok
+21168,Heidelberg Heights,22121,Preston (Vic.),26.33,ok
+21169,Heidelberg West,22121,Preston (Vic.),25.33,ok
+21176,Hesket,22121,Preston (Vic.),,no_eligible_route
+21185,Highett,22121,Preston (Vic.),74.52,ok
+21193,Hillside (Melton - Vic.),22121,Preston (Vic.),108.78,ok
+21195,Hmas Cerberus,22121,Preston (Vic.),,no_eligible_route
+21196,Hoddles Creek,22121,Preston (Vic.),,no_eligible_route
+21202,Hopetoun Park,22121,Preston (Vic.),,no_eligible_route
+21203,Hoppers Crossing,22121,Preston (Vic.),104.33,ok
+21214,Hughesdale,22121,Preston (Vic.),78.6,ok
+21215,Humevale,22121,Preston (Vic.),107.93,ok
+21218,Huntingdale (Vic.),22121,Preston (Vic.),84.03,ok
+21223,Hurstbridge,22121,Preston (Vic.),65.53,ok
+21238,Iona,22121,Preston (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),22121,Preston (Vic.),30.9,ok
+21247,Ivanhoe East,22121,Preston (Vic.),46.73,ok
+21248,Jacana,22121,Preston (Vic.),63.93,ok
+21277,Junction Village,22121,Preston (Vic.),152.03,ok
+21284,Kalkallo,22121,Preston (Vic.),119.7,ok
+21286,Kallista,22121,Preston (Vic.),143.0,ok
+21287,Kalorama,22121,Preston (Vic.),115.27,ok
+21294,Kangaroo Ground,22121,Preston (Vic.),100.77,ok
+21312,Kealba,22121,Preston (Vic.),95.07,ok
+21314,Keilor,22121,Preston (Vic.),99.92,ok
+21315,Keilor Downs,22121,Preston (Vic.),102.73,ok
+21316,Keilor East,22121,Preston (Vic.),60.42,ok
+21317,Keilor Lodge,22121,Preston (Vic.),99.4,ok
+21318,Keilor North,22121,Preston (Vic.),72.12,ok
+21319,Keilor Park,22121,Preston (Vic.),76.7,ok
+21327,Kensington (Vic.),22121,Preston (Vic.),54.57,ok
+21333,Kerrie,22121,Preston (Vic.),,no_eligible_route
+21336,Kew (Vic.),22121,Preston (Vic.),47.45,ok
+21337,Kew East,22121,Preston (Vic.),50.52,ok
+21339,Keysborough,22121,Preston (Vic.),110.17,ok
+21354,Kilsyth,22121,Preston (Vic.),104.65,ok
+21355,Kilsyth South,22121,Preston (Vic.),116.73,ok
+21358,Kinglake,22121,Preston (Vic.),,no_eligible_route
+21359,Kinglake Central,22121,Preston (Vic.),,no_eligible_route
+21360,Kinglake West,22121,Preston (Vic.),,no_eligible_route
+21362,Kings Park (Vic.),22121,Preston (Vic.),100.05,ok
+21363,Kingsbury,22121,Preston (Vic.),22.62,ok
+21365,Kingsville,22121,Preston (Vic.),76.18,ok
+21374,Knoxfield,22121,Preston (Vic.),109.32,ok
+21380,Koo Wee Rup,22121,Preston (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,22121,Preston (Vic.),,no_eligible_route
+21393,Kooyong,22121,Preston (Vic.),63.73,ok
+21411,Kurunjang,22121,Preston (Vic.),155.57,ok
+21452,Lalor,22121,Preston (Vic.),36.03,ok
+21456,Lancefield,22121,Preston (Vic.),,no_eligible_route
+21459,Lang Lang,22121,Preston (Vic.),,no_eligible_route
+21460,Lang Lang East,22121,Preston (Vic.),,no_eligible_route
+21467,Langwarrin,22121,Preston (Vic.),131.95,ok
+21468,Langwarrin South,22121,Preston (Vic.),,no_eligible_route
+21473,Launching Place,22121,Preston (Vic.),136.98,ok
+21476,Laverton (Vic.),22121,Preston (Vic.),86.4,ok
+21477,Laverton North,22121,Preston (Vic.),114.52,ok
+21504,Lilydale (Vic.),22121,Preston (Vic.),110.6,ok
+21533,Long Forest,22121,Preston (Vic.),,no_eligible_route
+21547,Lower Plenty,22121,Preston (Vic.),70.3,ok
+21554,Lynbrook,22121,Preston (Vic.),109.82,ok
+21555,Lyndhurst (Vic.),22121,Preston (Vic.),157.4,ok
+21558,Lysterfield,22121,Preston (Vic.),163.88,ok
+21559,Lysterfield South,22121,Preston (Vic.),163.1,ok
+21561,Macclesfield (Vic.),22121,Preston (Vic.),,no_eligible_route
+21562,Macedon,22121,Preston (Vic.),,no_eligible_route
+21564,Macleod (Vic.),22121,Preston (Vic.),41.25,ok
+21569,Maddingley,22121,Preston (Vic.),,no_eligible_route
+21575,Maidstone,22121,Preston (Vic.),69.15,ok
+21578,Main Ridge,22121,Preston (Vic.),,no_eligible_route
+21586,Malvern (Vic.),22121,Preston (Vic.),63.97,ok
+21587,Malvern East,22121,Preston (Vic.),75.85,ok
+21588,Mambourin,22121,Preston (Vic.),,no_eligible_route
+21597,Manor Lakes,22121,Preston (Vic.),144.87,ok
+21604,Maribyrnong,22121,Preston (Vic.),60.88,ok
+21619,Maryknoll,22121,Preston (Vic.),,no_eligible_route
+21625,McCrae,22121,Preston (Vic.),176.05,ok
+21629,McKinnon,22121,Preston (Vic.),63.82,ok
+21635,Meadow Heights,22121,Preston (Vic.),78.28,ok
+21640,Melbourne,22121,Preston (Vic.),51.42,ok
+21641,Melbourne Airport,22121,Preston (Vic.),,no_eligible_route
+21642,Melton (Vic.),22121,Preston (Vic.),163.45,ok
+21643,Melton South,22121,Preston (Vic.),176.12,ok
+21644,Melton West,22121,Preston (Vic.),151.75,ok
+21648,Mentone,22121,Preston (Vic.),79.5,ok
+21649,Menzies Creek,22121,Preston (Vic.),,no_eligible_route
+21659,Mernda,22121,Preston (Vic.),65.52,ok
+21662,Merricks,22121,Preston (Vic.),,no_eligible_route
+21663,Merricks Beach,22121,Preston (Vic.),,no_eligible_route
+21664,Merricks North,22121,Preston (Vic.),,no_eligible_route
+21668,Merrimu,22121,Preston (Vic.),,no_eligible_route
+21675,Mickleham,22121,Preston (Vic.),109.68,ok
+21677,Middle Park (Vic.),22121,Preston (Vic.),68.75,ok
+21683,Mill Park,22121,Preston (Vic.),47.23,ok
+21685,Millgrove,22121,Preston (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),22121,Preston (Vic.),76.03,ok
+21727,Monbulk,22121,Preston (Vic.),150.45,ok
+21728,Monegeetta,22121,Preston (Vic.),,no_eligible_route
+21731,Monomeith,22121,Preston (Vic.),,no_eligible_route
+21732,Mont Albert,22121,Preston (Vic.),68.85,ok
+21733,Mont Albert North,22121,Preston (Vic.),59.15,ok
+21735,Montmorency,22121,Preston (Vic.),57.18,ok
+21736,Montrose (Vic.),22121,Preston (Vic.),107.57,ok
+21742,Moonee Ponds,22121,Preston (Vic.),47.88,ok
+21746,Moorabbin,22121,Preston (Vic.),92.57,ok
+21747,Moorabbin Airport,22121,Preston (Vic.),99.0,ok
+21754,Moorooduc,22121,Preston (Vic.),,no_eligible_route
+21755,Mooroolbark,22121,Preston (Vic.),97.5,ok
+21760,Mordialloc,22121,Preston (Vic.),94.8,ok
+21763,Mornington (Vic.),22121,Preston (Vic.),149.68,ok
+21779,Mount Burnett,22121,Preston (Vic.),,no_eligible_route
+21786,Mount Cottrell,22121,Preston (Vic.),,no_eligible_route
+21787,Mount Dandenong,22121,Preston (Vic.),119.27,ok
+21793,Mount Eliza,22121,Preston (Vic.),124.03,ok
+21795,Mount Evelyn,22121,Preston (Vic.),123.43,ok
+21801,Mount Macedon,22121,Preston (Vic.),,no_eligible_route
+21803,Mount Martha,22121,Preston (Vic.),142.57,ok
+21814,Mount Toolebewong,22121,Preston (Vic.),,no_eligible_route
+21816,Mount Waverley,22121,Preston (Vic.),81.4,ok
+21827,Mulgrave (Vic.),22121,Preston (Vic.),107.3,ok
+21849,Murrumbeena,22121,Preston (Vic.),78.72,ok
+21872,Nangana,22121,Preston (Vic.),,no_eligible_route
+21878,Nar Nar Goon,22121,Preston (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,22121,Preston (Vic.),,no_eligible_route
+21893,Narre Warren,22121,Preston (Vic.),114.55,ok
+21894,Narre Warren East,22121,Preston (Vic.),,no_eligible_route
+21895,Narre Warren North,22121,Preston (Vic.),130.82,ok
+21896,Narre Warren South,22121,Preston (Vic.),120.37,ok
+21921,New Gisborne,22121,Preston (Vic.),,no_eligible_route
+21934,Newport (Vic.),22121,Preston (Vic.),71.25,ok
+21942,Niddrie,22121,Preston (Vic.),58.9,ok
+21952,Noble Park,22121,Preston (Vic.),90.82,ok
+21953,Noble Park North,22121,Preston (Vic.),123.8,ok
+21966,North Melbourne,22121,Preston (Vic.),56.32,ok
+21969,North Warrandyte,22121,Preston (Vic.),77.75,ok
+21971,Northcote,22121,Preston (Vic.),17.7,ok
+21974,Notting Hill,22121,Preston (Vic.),84.95,ok
+21985,Nunawading,22121,Preston (Vic.),67.72,ok
+21991,Nutfield,22121,Preston (Vic.),,no_eligible_route
+21998,Oak Park,22121,Preston (Vic.),56.32,ok
+21999,Oaklands Junction,22121,Preston (Vic.),,no_eligible_route
+22000,Oakleigh,22121,Preston (Vic.),80.78,ok
+22001,Oakleigh East,22121,Preston (Vic.),90.6,ok
+22002,Oakleigh South,22121,Preston (Vic.),87.42,ok
+22006,Officer,22121,Preston (Vic.),132.1,ok
+22007,Officer South,22121,Preston (Vic.),172.67,ok
+22009,Olinda (Vic.),22121,Preston (Vic.),143.92,ok
+22016,Ormond,22121,Preston (Vic.),64.25,ok
+22027,Pakenham,22121,Preston (Vic.),129.02,ok
+22028,Pakenham South,22121,Preston (Vic.),,no_eligible_route
+22029,Pakenham Upper,22121,Preston (Vic.),,no_eligible_route
+22032,Panton Hill,22121,Preston (Vic.),,no_eligible_route
+22036,Park Orchards,22121,Preston (Vic.),76.17,ok
+22037,Parkdale,22121,Preston (Vic.),84.58,ok
+22038,Parkville (Vic.),22121,Preston (Vic.),51.5,ok
+22041,Pascoe Vale,22121,Preston (Vic.),37.83,ok
+22042,Pascoe Vale South,22121,Preston (Vic.),31.02,ok
+22047,Patterson Lakes,22121,Preston (Vic.),106.88,ok
+22050,Pearcedale,22121,Preston (Vic.),175.97,ok
+22058,Pentland Hills,22121,Preston (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),22121,Preston (Vic.),,no_eligible_route
+22084,Plenty (Vic.),22121,Preston (Vic.),74.53,ok
+22085,Plumpton (Vic.),22121,Preston (Vic.),,no_eligible_route
+22086,Point Cook,22121,Preston (Vic.),104.33,ok
+22087,Point Leo,22121,Preston (Vic.),,no_eligible_route
+22107,Port Melbourne,22121,Preston (Vic.),64.25,ok
+22113,Portsea,22121,Preston (Vic.),212.35,ok
+22115,Powelltown,22121,Preston (Vic.),,no_eligible_route
+22118,Prahran,22121,Preston (Vic.),58.75,ok
+22121,Preston (Vic.),22121,Preston (Vic.),0.0,same_centroid
+22122,Princes Hill,22121,Preston (Vic.),36.42,ok
+22132,Quandong,22121,Preston (Vic.),,no_eligible_route
+22141,Ravenhall,22121,Preston (Vic.),118.13,ok
+22148,Red Hill (Vic.),22121,Preston (Vic.),,no_eligible_route
+22149,Red Hill South,22121,Preston (Vic.),,no_eligible_route
+22160,Research,22121,Preston (Vic.),77.62,ok
+22161,Reservoir (Vic.),22121,Preston (Vic.),26.05,ok
+22170,Richmond (Vic.),22121,Preston (Vic.),43.27,ok
+22172,Riddells Creek,22121,Preston (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),22121,Preston (Vic.),83.23,ok
+22175,Ringwood East,22121,Preston (Vic.),87.38,ok
+22176,Ringwood North,22121,Preston (Vic.),82.75,ok
+22179,Ripponlea,22121,Preston (Vic.),63.45,ok
+22185,Rochford,22121,Preston (Vic.),,no_eligible_route
+22186,Rockbank,22121,Preston (Vic.),136.72,ok
+22193,Romsey,22121,Preston (Vic.),,no_eligible_route
+22194,Rosanna,22121,Preston (Vic.),38.28,ok
+22198,Rosebud,22121,Preston (Vic.),192.37,ok
+22207,Rowville,22121,Preston (Vic.),118.85,ok
+22208,Roxburgh Park,22121,Preston (Vic.),78.95,ok
+22220,Rye,22121,Preston (Vic.),204.57,ok
+22221,Rythdale,22121,Preston (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),22121,Preston (Vic.),159.53,ok
+22232,Sandhurst,22121,Preston (Vic.),135.22,ok
+22234,Sandringham (Vic.),22121,Preston (Vic.),91.15,ok
+22239,Sassafras (Vic.),22121,Preston (Vic.),128.33,ok
+22242,Scoresby,22121,Preston (Vic.),107.58,ok
+22247,Seabrook,22121,Preston (Vic.),97.22,ok
+22249,Seaford (Vic.),22121,Preston (Vic.),110.12,ok
+22250,Seaholme,22121,Preston (Vic.),80.48,ok
+22256,Seddon (Vic.),22121,Preston (Vic.),64.5,ok
+22258,Selby,22121,Preston (Vic.),138.88,ok
+22263,Seville,22121,Preston (Vic.),142.12,ok
+22264,Seville East,22121,Preston (Vic.),129.0,ok
+22278,Sherbrooke,22121,Preston (Vic.),133.07,ok
+22279,Shoreham,22121,Preston (Vic.),,no_eligible_route
+22281,Silvan,22121,Preston (Vic.),142.55,ok
+22291,Skye (Vic.),22121,Preston (Vic.),126.25,ok
+22295,Smiths Gully,22121,Preston (Vic.),,no_eligible_route
+22303,Somers,22121,Preston (Vic.),,no_eligible_route
+22304,Somerton (Vic.),22121,Preston (Vic.),71.32,ok
+22305,Somerville (Vic.),22121,Preston (Vic.),154.52,ok
+22306,Sorrento (Vic.),22121,Preston (Vic.),192.33,ok
+22309,South Kingsville,22121,Preston (Vic.),83.5,ok
+22310,South Melbourne,22121,Preston (Vic.),60.25,ok
+22311,South Morang,22121,Preston (Vic.),56.73,ok
+22313,South Wharf,22121,Preston (Vic.),56.23,ok
+22314,South Yarra,22121,Preston (Vic.),43.88,ok
+22315,Southbank,22121,Preston (Vic.),58.75,ok
+22319,Spotswood,22121,Preston (Vic.),64.65,ok
+22325,Springfield (Macedon Ranges - Vic.),22121,Preston (Vic.),,no_eligible_route
+22328,Springvale (Vic.),22121,Preston (Vic.),91.78,ok
+22329,Springvale South,22121,Preston (Vic.),96.52,ok
+22330,St Albans (Vic.),22121,Preston (Vic.),82.33,ok
+22332,St Andrews (Vic.),22121,Preston (Vic.),,no_eligible_route
+22333,St Andrews Beach,22121,Preston (Vic.),,no_eligible_route
+22339,St Helena,22121,Preston (Vic.),62.37,ok
+22343,St Kilda (Vic.),22121,Preston (Vic.),51.95,ok
+22344,St Kilda East,22121,Preston (Vic.),66.65,ok
+22345,St Kilda West,22121,Preston (Vic.),63.63,ok
+22355,Steels Creek,22121,Preston (Vic.),,no_eligible_route
+22375,Strathewen,22121,Preston (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),22121,Preston (Vic.),51.8,ok
+22381,Strathmore Heights,22121,Preston (Vic.),62.58,ok
+22382,Strathtulloh,22121,Preston (Vic.),,no_eligible_route
+22391,Sunbury,22121,Preston (Vic.),,no_eligible_route
+22395,Sunshine (Vic.),22121,Preston (Vic.),71.12,ok
+22396,Sunshine North,22121,Preston (Vic.),76.73,ok
+22397,Sunshine West,22121,Preston (Vic.),99.17,ok
+22399,Surrey Hills,22121,Preston (Vic.),70.77,ok
+22414,Sydenham (Vic.),22121,Preston (Vic.),96.73,ok
+22451,Tarneit,22121,Preston (Vic.),124.25,ok
+22457,Tarrawarra,22121,Preston (Vic.),144.92,ok
+22473,Taylors Hill,22121,Preston (Vic.),103.57,ok
+22474,Taylors Lakes,22121,Preston (Vic.),94.15,ok
+22476,Tecoma,22121,Preston (Vic.),103.28,ok
+22483,Templestowe,22121,Preston (Vic.),65.57,ok
+22484,Templestowe Lower,22121,Preston (Vic.),60.53,ok
+22496,The Basin (Vic.),22121,Preston (Vic.),114.47,ok
+22501,The Patch,22121,Preston (Vic.),141.02,ok
+22504,Thomastown,22121,Preston (Vic.),40.75,ok
+22508,Thornbury,22121,Preston (Vic.),15.8,ok
+22509,Thornhill Park,22121,Preston (Vic.),,no_eligible_route
+22514,Three Bridges,22121,Preston (Vic.),,no_eligible_route
+22531,Tonimbuk,22121,Preston (Vic.),,no_eligible_route
+22536,Toolangi,22121,Preston (Vic.),,no_eligible_route
+22537,Toolern Vale,22121,Preston (Vic.),,no_eligible_route
+22546,Tooradin,22121,Preston (Vic.),,no_eligible_route
+22547,Toorak,22121,Preston (Vic.),60.37,ok
+22550,Tootgarook,22121,Preston (Vic.),187.98,ok
+22556,Tottenham (Vic.),22121,Preston (Vic.),97.55,ok
+22572,Travancore,22121,Preston (Vic.),60.98,ok
+22576,Tremont,22121,Preston (Vic.),120.88,ok
+22582,Truganina,22121,Preston (Vic.),171.85,ok
+22584,Tuerong,22121,Preston (Vic.),,no_eligible_route
+22586,Tullamarine,22121,Preston (Vic.),67.35,ok
+22594,Tyabb,22121,Preston (Vic.),146.83,ok
+22598,Tynong,22121,Preston (Vic.),,no_eligible_route
+22599,Tynong North,22121,Preston (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,22121,Preston (Vic.),100.43,ok
+22617,Upper Plenty,22121,Preston (Vic.),,no_eligible_route
+22620,Upwey,22121,Preston (Vic.),103.15,ok
+22627,Vermont,22121,Preston (Vic.),91.5,ok
+22628,Vermont South,22121,Preston (Vic.),94.82,ok
+22629,Vervale,22121,Preston (Vic.),,no_eligible_route
+22633,Viewbank,22121,Preston (Vic.),42.23,ok
+22661,Wallan,22121,Preston (Vic.),,no_eligible_route
+22672,Wandin East,22121,Preston (Vic.),,no_eligible_route
+22673,Wandin North,22121,Preston (Vic.),115.08,ok
+22676,Wandong,22121,Preston (Vic.),,no_eligible_route
+22685,Wantirna,22121,Preston (Vic.),96.43,ok
+22686,Wantirna South,22121,Preston (Vic.),107.88,ok
+22689,Warburton (Vic.),22121,Preston (Vic.),,no_eligible_route
+22695,Warneet,22121,Preston (Vic.),,no_eligible_route
+22702,Warrandyte,22121,Preston (Vic.),79.35,ok
+22703,Warrandyte South,22121,Preston (Vic.),112.43,ok
+22704,Warranwood,22121,Preston (Vic.),92.98,ok
+22717,Waterford Park,22121,Preston (Vic.),,no_eligible_route
+22720,Waterways,22121,Preston (Vic.),116.18,ok
+22721,Watsonia,22121,Preston (Vic.),29.38,ok
+22722,Watsonia North,22121,Preston (Vic.),33.98,ok
+22723,Watsons Creek (Vic.),22121,Preston (Vic.),,no_eligible_route
+22727,Wattle Glen,22121,Preston (Vic.),69.28,ok
+22740,Weir Views,22121,Preston (Vic.),206.58,ok
+22750,Werribee,22121,Preston (Vic.),102.43,ok
+22751,Werribee South,22121,Preston (Vic.),138.45,ok
+22753,Wesburn,22121,Preston (Vic.),153.08,ok
+22756,West Footscray,22121,Preston (Vic.),74.28,ok
+22757,West Melbourne,22121,Preston (Vic.),66.22,ok
+22761,Westmeadows,22121,Preston (Vic.),69.65,ok
+22766,Wheelers Hill,22121,Preston (Vic.),99.02,ok
+22775,Whittlesea,22121,Preston (Vic.),,no_eligible_route
+22784,Wildwood,22121,Preston (Vic.),,no_eligible_route
+22791,Williams Landing,22121,Preston (Vic.),100.65,ok
+22792,Williamstown (Vic.),22121,Preston (Vic.),78.47,ok
+22793,Williamstown North,22121,Preston (Vic.),92.95,ok
+22805,Windsor (Vic.),22121,Preston (Vic.),58.57,ok
+22820,Wollert,22121,Preston (Vic.),100.72,ok
+22825,Wonga Park,22121,Preston (Vic.),111.83,ok
+22843,Woodstock (Vic.),22121,Preston (Vic.),,no_eligible_route
+22857,Woori Yallock,22121,Preston (Vic.),126.2,ok
+22883,Wyndham Vale,22121,Preston (Vic.),131.25,ok
+22892,Yallambie,22121,Preston (Vic.),54.32,ok
+22898,Yan Yean,22121,Preston (Vic.),89.28,ok
+22906,Yannathan,22121,Preston (Vic.),,no_eligible_route
+22910,Yarra Glen,22121,Preston (Vic.),142.22,ok
+22911,Yarra Junction,22121,Preston (Vic.),157.35,ok
+22916,Yarrambat,22121,Preston (Vic.),68.67,ok
+22917,Yarraville,22121,Preston (Vic.),70.4,ok
+22925,Yellingbo,22121,Preston (Vic.),,no_eligible_route
+22930,Yering,22121,Preston (Vic.),,no_eligible_route
+22941,Yuroke,22121,Preston (Vic.),132.02,ok

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21849,Murrumbeena,58.72,ok
+20003,Aberfeldie,21849,Murrumbeena,79.27,ok
+20011,Aintree,21849,Murrumbeena,109.0,ok
+20015,Airport West,21849,Murrumbeena,95.37,ok
+20017,Albanvale,21849,Murrumbeena,86.47,ok
+20018,Albert Park (Vic.),21849,Murrumbeena,58.73,ok
+20021,Albion (Vic.),21849,Murrumbeena,69.87,ok
+20034,Alphington,21849,Murrumbeena,63.88,ok
+20035,Altona (Vic.),21849,Murrumbeena,87.97,ok
+20036,Altona Meadows,21849,Murrumbeena,90.97,ok
+20037,Altona North,21849,Murrumbeena,91.15,ok
+20062,Ardeer,21849,Murrumbeena,78.02,ok
+20066,Armadale (Vic.),21849,Murrumbeena,33.1,ok
+20071,Arthurs Creek,21849,Murrumbeena,,no_eligible_route
+20072,Arthurs Seat,21849,Murrumbeena,153.63,ok
+20075,Ascot Vale,21849,Murrumbeena,69.1,ok
+20077,Ashburton,21849,Murrumbeena,47.57,ok
+20078,Ashwood,21849,Murrumbeena,40.62,ok
+20079,Aspendale,21849,Murrumbeena,58.52,ok
+20080,Aspendale Gardens,21849,Murrumbeena,72.7,ok
+20082,Attwood,21849,Murrumbeena,99.08,ok
+20089,Avondale Heights,21849,Murrumbeena,81.4,ok
+20091,Avonsleigh,21849,Murrumbeena,134.18,ok
+20095,Bacchus Marsh,21849,Murrumbeena,,no_eligible_route
+20097,Badger Creek,21849,Murrumbeena,163.57,ok
+20105,Balaclava (Vic.),21849,Murrumbeena,40.65,ok
+20120,Balnarring,21849,Murrumbeena,169.98,ok
+20121,Balnarring Beach,21849,Murrumbeena,166.52,ok
+20123,Balwyn,21849,Murrumbeena,67.22,ok
+20124,Balwyn North,21849,Murrumbeena,75.35,ok
+20131,Bangholme,21849,Murrumbeena,99.95,ok
+20169,Baxter,21849,Murrumbeena,96.43,ok
+20171,Bayles,21849,Murrumbeena,,no_eligible_route
+20173,Bayswater (Vic.),21849,Murrumbeena,94.25,ok
+20174,Bayswater North,21849,Murrumbeena,105.42,ok
+20175,Beaconsfield (Vic.),21849,Murrumbeena,81.45,ok
+20176,Beaconsfield Upper,21849,Murrumbeena,,no_eligible_route
+20182,Beaumaris (Vic.),21849,Murrumbeena,60.4,ok
+20187,Beenak,21849,Murrumbeena,,no_eligible_route
+20188,Belgrave,21849,Murrumbeena,87.15,ok
+20189,Belgrave Heights,21849,Murrumbeena,,no_eligible_route
+20190,Belgrave South,21849,Murrumbeena,123.7,ok
+20198,Bellfield (Banyule - Vic.),21849,Murrumbeena,79.63,ok
+20207,Bend Of Islands,21849,Murrumbeena,,no_eligible_route
+20212,Benloch,21849,Murrumbeena,,no_eligible_route
+20214,Bentleigh,21849,Murrumbeena,32.18,ok
+20215,Bentleigh East,21849,Murrumbeena,24.33,ok
+20224,Berwick,21849,Murrumbeena,60.5,ok
+20233,Beveridge,21849,Murrumbeena,137.63,ok
+20237,Big Pats Creek,21849,Murrumbeena,,no_eligible_route
+20248,Bittern,21849,Murrumbeena,120.7,ok
+20251,Black Rock (Vic.),21849,Murrumbeena,67.67,ok
+20252,Blackburn,21849,Murrumbeena,67.58,ok
+20253,Blackburn North,21849,Murrumbeena,74.85,ok
+20254,Blackburn South,21849,Murrumbeena,62.78,ok
+20257,Blairgowrie,21849,Murrumbeena,153.67,ok
+20260,Blind Bight,21849,Murrumbeena,,no_eligible_route
+20272,Bolinda,21849,Murrumbeena,,no_eligible_route
+20278,Bonbeach,21849,Murrumbeena,63.52,ok
+20280,Boneo,21849,Murrumbeena,,no_eligible_route
+20282,Bonnie Brook,21849,Murrumbeena,141.55,ok
+20304,Boronia,21849,Murrumbeena,93.2,ok
+20307,Botanic Ridge,21849,Murrumbeena,97.37,ok
+20314,Box Hill (Vic.),21849,Murrumbeena,49.98,ok
+20315,Box Hill North,21849,Murrumbeena,60.17,ok
+20316,Box Hill South,21849,Murrumbeena,48.05,ok
+20320,Braeside,21849,Murrumbeena,79.07,ok
+20324,Braybrook,21849,Murrumbeena,71.65,ok
+20331,Briar Hill,21849,Murrumbeena,102.37,ok
+20337,Brighton (Vic.),21849,Murrumbeena,47.05,ok
+20338,Brighton East,21849,Murrumbeena,35.87,ok
+20346,Broadmeadows (Vic.),21849,Murrumbeena,91.0,ok
+20351,Brookfield (Vic.),21849,Murrumbeena,164.05,ok
+20352,Brooklyn (Vic.),21849,Murrumbeena,77.28,ok
+20361,Brunswick (Vic.),21849,Murrumbeena,62.62,ok
+20362,Brunswick East,21849,Murrumbeena,67.48,ok
+20363,Brunswick West,21849,Murrumbeena,69.0,ok
+20381,Bulla (Vic.),21849,Murrumbeena,138.23,ok
+20386,Bulleen,21849,Murrumbeena,83.77,ok
+20387,Bullengarook,21849,Murrumbeena,,no_eligible_route
+20399,Bundoora (Vic.),21849,Murrumbeena,97.62,ok
+20411,Bunyip,21849,Murrumbeena,,no_eligible_route
+20412,Bunyip North,21849,Murrumbeena,,no_eligible_route
+20418,Burnley,21849,Murrumbeena,58.45,ok
+20419,Burnside (Vic.),21849,Murrumbeena,86.9,ok
+20420,Burnside Heights,21849,Murrumbeena,94.72,ok
+20426,Burwood (Vic.),21849,Murrumbeena,42.95,ok
+20427,Burwood East,21849,Murrumbeena,57.3,ok
+20435,Bylands,21849,Murrumbeena,,no_eligible_route
+20441,Cairnlea,21849,Murrumbeena,78.08,ok
+20442,Calder Park,21849,Murrumbeena,103.65,ok
+20443,Caldermeade,21849,Murrumbeena,,no_eligible_route
+20453,Camberwell (Vic.),21849,Murrumbeena,56.83,ok
+20455,Campbellfield,21849,Murrumbeena,101.37,ok
+20466,Cannons Creek,21849,Murrumbeena,,no_eligible_route
+20468,Canterbury (Vic.),21849,Murrumbeena,66.13,ok
+20474,Cape Schanck,21849,Murrumbeena,,no_eligible_route
+20476,Capel Sound,21849,Murrumbeena,138.02,ok
+20487,Cardinia,21849,Murrumbeena,,no_eligible_route
+20495,Carlton (Vic.),21849,Murrumbeena,52.08,ok
+20496,Carlton North,21849,Murrumbeena,65.83,ok
+20498,Carnegie,21849,Murrumbeena,9.53,ok
+20500,Caroline Springs,21849,Murrumbeena,95.78,ok
+20507,Carrum,21849,Murrumbeena,63.33,ok
+20508,Carrum Downs,21849,Murrumbeena,75.3,ok
+20512,Castella,21849,Murrumbeena,,no_eligible_route
+20517,Catani,21849,Murrumbeena,,no_eligible_route
+20521,Caulfield,21849,Murrumbeena,29.35,ok
+20522,Caulfield East,21849,Murrumbeena,28.08,ok
+20523,Caulfield North,21849,Murrumbeena,30.47,ok
+20524,Caulfield South,21849,Murrumbeena,21.53,ok
+20528,Chadstone,21849,Murrumbeena,24.08,ok
+20537,Chelsea,21849,Murrumbeena,60.58,ok
+20538,Chelsea Heights,21849,Murrumbeena,74.27,ok
+20539,Cheltenham (Vic.),21849,Murrumbeena,43.13,ok
+20541,Cherokee,21849,Murrumbeena,,no_eligible_route
+20555,Chintin,21849,Murrumbeena,,no_eligible_route
+20556,Chirnside Park,21849,Murrumbeena,112.62,ok
+20559,Christmas Hills (Vic.),21849,Murrumbeena,,no_eligible_route
+20560,Chum Creek,21849,Murrumbeena,,no_eligible_route
+20566,Clarinda,21849,Murrumbeena,42.17,ok
+20567,Clarkefield,21849,Murrumbeena,,no_eligible_route
+20569,Clayton,21849,Murrumbeena,35.58,ok
+20570,Clayton South,21849,Murrumbeena,48.85,ok
+20572,Clematis,21849,Murrumbeena,,no_eligible_route
+20574,Clifton Hill,21849,Murrumbeena,56.97,ok
+20576,Clonbinane,21849,Murrumbeena,,no_eligible_route
+20581,Clyde (Vic.),21849,Murrumbeena,,no_eligible_route
+20582,Clyde North,21849,Murrumbeena,83.97,ok
+20587,Cobaw,21849,Murrumbeena,,no_eligible_route
+20590,Cobblebank,21849,Murrumbeena,148.7,ok
+20596,Coburg,21849,Murrumbeena,70.35,ok
+20597,Coburg North,21849,Murrumbeena,80.92,ok
+20600,Cockatoo (Vic.),21849,Murrumbeena,137.87,ok
+20601,Cocoroc,21849,Murrumbeena,,no_eligible_route
+20605,Coimadai,21849,Murrumbeena,,no_eligible_route
+20613,Coldstream (Vic.),21849,Murrumbeena,,no_eligible_route
+20616,Collingwood (Vic.),21849,Murrumbeena,59.37,ok
+20624,Coolaroo,21849,Murrumbeena,93.78,ok
+20633,Cora Lynn,21849,Murrumbeena,,no_eligible_route
+20654,Cottles Bridge,21849,Murrumbeena,,no_eligible_route
+20661,Craigieburn,21849,Murrumbeena,101.15,ok
+20662,Cranbourne,21849,Murrumbeena,65.37,ok
+20663,Cranbourne East,21849,Murrumbeena,75.25,ok
+20664,Cranbourne North,21849,Murrumbeena,66.7,ok
+20665,Cranbourne South,21849,Murrumbeena,100.72,ok
+20666,Cranbourne West,21849,Murrumbeena,68.07,ok
+20670,Cremorne (Vic.),21849,Murrumbeena,48.7,ok
+20674,Crib Point,21849,Murrumbeena,129.67,ok
+20682,Croydon (Vic.),21849,Murrumbeena,85.35,ok
+20683,Croydon Hills,21849,Murrumbeena,105.67,ok
+20684,Croydon North,21849,Murrumbeena,103.22,ok
+20685,Croydon South,21849,Murrumbeena,104.27,ok
+20702,Dallas,21849,Murrumbeena,96.72,ok
+20703,Dalmore,21849,Murrumbeena,,no_eligible_route
+20707,Dandenong,21849,Murrumbeena,48.1,ok
+20708,Dandenong North,21849,Murrumbeena,71.88,ok
+20709,Dandenong South,21849,Murrumbeena,64.47,ok
+20712,Darley,21849,Murrumbeena,,no_eligible_route
+20716,Darraweit Guim,21849,Murrumbeena,,no_eligible_route
+20724,Deanside,21849,Murrumbeena,116.15,ok
+20728,Deepdene (Vic.),21849,Murrumbeena,59.72,ok
+20729,Deer Park,21849,Murrumbeena,75.85,ok
+20731,Delahey,21849,Murrumbeena,90.52,ok
+20743,Derrimut,21849,Murrumbeena,105.42,ok
+20748,Devon Meadows,21849,Murrumbeena,,no_eligible_route
+20750,Dewhurst,21849,Murrumbeena,,no_eligible_route
+20752,Diamond Creek,21849,Murrumbeena,107.2,ok
+20754,Diggers Rest,21849,Murrumbeena,97.97,ok
+20758,Dingley Village,21849,Murrumbeena,63.8,ok
+20762,Dixons Creek,21849,Murrumbeena,,no_eligible_route
+20766,Docklands,21849,Murrumbeena,54.9,ok
+20769,Don Valley,21849,Murrumbeena,,no_eligible_route
+20771,Doncaster,21849,Murrumbeena,64.97,ok
+20772,Doncaster East,21849,Murrumbeena,83.33,ok
+20773,Donnybrook (Vic.),21849,Murrumbeena,128.17,ok
+20774,Donvale,21849,Murrumbeena,96.47,ok
+20779,Doreen,21849,Murrumbeena,126.68,ok
+20783,Doveton,21849,Murrumbeena,60.93,ok
+20788,Dromana,21849,Murrumbeena,151.63,ok
+20825,Eaglemont,21849,Murrumbeena,82.22,ok
+20830,East Melbourne,21849,Murrumbeena,49.48,ok
+20833,East Warburton,21849,Murrumbeena,,no_eligible_route
+20843,Eden Park,21849,Murrumbeena,,no_eligible_route
+20848,Edithvale,21849,Murrumbeena,60.72,ok
+20864,Elsternwick,21849,Murrumbeena,31.32,ok
+20865,Eltham (Vic.),21849,Murrumbeena,105.33,ok
+20866,Eltham North,21849,Murrumbeena,99.32,ok
+20867,Elwood,21849,Murrumbeena,44.6,ok
+20868,Emerald (Vic.),21849,Murrumbeena,124.53,ok
+20871,Endeavour Hills,21849,Murrumbeena,68.42,ok
+20878,Epping (Vic.),21849,Murrumbeena,115.1,ok
+20885,Essendon,21849,Murrumbeena,75.02,ok
+20886,Essendon Fields,21849,Murrumbeena,98.42,ok
+20887,Essendon North,21849,Murrumbeena,79.42,ok
+20888,Essendon West,21849,Murrumbeena,78.88,ok
+20889,Eumemmerring,21849,Murrumbeena,62.1,ok
+20898,Exford,21849,Murrumbeena,,no_eligible_route
+20899,Eynesbury,21849,Murrumbeena,,no_eligible_route
+20901,Fairfield (Vic.),21849,Murrumbeena,70.2,ok
+20909,Fawkner,21849,Murrumbeena,93.82,ok
+20916,Fernshaw,21849,Murrumbeena,,no_eligible_route
+20917,Ferntree Gully,21849,Murrumbeena,73.8,ok
+20918,Ferny Creek,21849,Murrumbeena,,no_eligible_route
+20920,Fingal (Vic.),21849,Murrumbeena,,no_eligible_route
+20924,Fitzroy (Vic.),21849,Murrumbeena,53.5,ok
+20925,Fitzroy North,21849,Murrumbeena,61.1,ok
+20929,Flemington,21849,Murrumbeena,69.23,ok
+20930,Flinders (Vic.),21849,Murrumbeena,,no_eligible_route
+20935,Footscray,21849,Murrumbeena,57.28,ok
+20937,Forest Hill (Vic.),21849,Murrumbeena,62.65,ok
+20947,Frankston,21849,Murrumbeena,77.3,ok
+20948,Frankston North,21849,Murrumbeena,89.15,ok
+20949,Frankston South,21849,Murrumbeena,102.42,ok
+20950,Fraser Rise,21849,Murrumbeena,114.4,ok
+20965,Gardenvale,21849,Murrumbeena,30.53,ok
+20966,Garfield,21849,Murrumbeena,,no_eligible_route
+20967,Garfield North,21849,Murrumbeena,,no_eligible_route
+20979,Gembrook,21849,Murrumbeena,,no_eligible_route
+20995,Gilderoy,21849,Murrumbeena,,no_eligible_route
+21001,Gisborne,21849,Murrumbeena,,no_eligible_route
+21002,Gisborne South,21849,Murrumbeena,,no_eligible_route
+21004,Gladstone Park,21849,Murrumbeena,105.87,ok
+21005,Gladysdale,21849,Murrumbeena,,no_eligible_route
+21009,Glen Huntly,21849,Murrumbeena,24.37,ok
+21010,Glen Iris (Vic.),21849,Murrumbeena,48.33,ok
+21013,Glen Waverley,21849,Murrumbeena,51.02,ok
+21047,Glenroy (Vic.),21849,Murrumbeena,83.1,ok
+21059,Goldie,21849,Murrumbeena,,no_eligible_route
+21079,Gowanbrae,21849,Murrumbeena,100.37,ok
+21087,Grangefields,21849,Murrumbeena,146.0,ok
+21104,Greensborough,21849,Murrumbeena,90.73,ok
+21105,Greenvale (Vic.),21849,Murrumbeena,111.25,ok
+21115,Gruyere,21849,Murrumbeena,,no_eligible_route
+21121,Guys Hill,21849,Murrumbeena,,no_eligible_route
+21124,Hadfield,21849,Murrumbeena,86.85,ok
+21125,Hallam,21849,Murrumbeena,65.62,ok
+21131,Hampton (Vic.),21849,Murrumbeena,53.38,ok
+21132,Hampton East,21849,Murrumbeena,39.38,ok
+21133,Hampton Park,21849,Murrumbeena,62.03,ok
+21139,Harkaway,21849,Murrumbeena,,no_eligible_route
+21140,Harkness,21849,Murrumbeena,165.53,ok
+21145,Hastings (Vic.),21849,Murrumbeena,117.58,ok
+21152,Hawthorn (Vic.),21849,Murrumbeena,51.62,ok
+21153,Hawthorn East,21849,Murrumbeena,52.12,ok
+21158,Healesville,21849,Murrumbeena,167.48,ok
+21159,Heath Hill,21849,Murrumbeena,,no_eligible_route
+21161,Heathcote Junction,21849,Murrumbeena,,no_eligible_route
+21163,Heatherton,21849,Murrumbeena,49.18,ok
+21165,Heathmont,21849,Murrumbeena,83.23,ok
+21167,Heidelberg,21849,Murrumbeena,82.55,ok
+21168,Heidelberg Heights,21849,Murrumbeena,83.55,ok
+21169,Heidelberg West,21849,Murrumbeena,84.73,ok
+21176,Hesket,21849,Murrumbeena,,no_eligible_route
+21185,Highett,21849,Murrumbeena,34.83,ok
+21193,Hillside (Melton - Vic.),21849,Murrumbeena,95.05,ok
+21195,Hmas Cerberus,21849,Murrumbeena,162.87,ok
+21196,Hoddles Creek,21849,Murrumbeena,,no_eligible_route
+21202,Hopetoun Park,21849,Murrumbeena,,no_eligible_route
+21203,Hoppers Crossing,21849,Murrumbeena,101.08,ok
+21214,Hughesdale,21849,Murrumbeena,9.28,ok
+21215,Humevale,21849,Murrumbeena,157.07,ok
+21218,Huntingdale (Vic.),21849,Murrumbeena,31.57,ok
+21223,Hurstbridge,21849,Murrumbeena,107.75,ok
+21238,Iona,21849,Murrumbeena,,no_eligible_route
+21246,Ivanhoe (Vic.),21849,Murrumbeena,68.48,ok
+21247,Ivanhoe East,21849,Murrumbeena,79.9,ok
+21248,Jacana,21849,Murrumbeena,92.13,ok
+21277,Junction Village,21849,Murrumbeena,111.7,ok
+21284,Kalkallo,21849,Murrumbeena,133.17,ok
+21286,Kallista,21849,Murrumbeena,145.17,ok
+21287,Kalorama,21849,Murrumbeena,119.43,ok
+21294,Kangaroo Ground,21849,Murrumbeena,138.98,ok
+21312,Kealba,21849,Murrumbeena,80.23,ok
+21314,Keilor,21849,Murrumbeena,107.02,ok
+21315,Keilor Downs,21849,Murrumbeena,92.9,ok
+21316,Keilor East,21849,Murrumbeena,83.03,ok
+21317,Keilor Lodge,21849,Murrumbeena,90.83,ok
+21318,Keilor North,21849,Murrumbeena,98.9,ok
+21319,Keilor Park,21849,Murrumbeena,102.17,ok
+21327,Kensington (Vic.),21849,Murrumbeena,59.42,ok
+21333,Kerrie,21849,Murrumbeena,,no_eligible_route
+21336,Kew (Vic.),21849,Murrumbeena,68.65,ok
+21337,Kew East,21849,Murrumbeena,72.68,ok
+21339,Keysborough,21849,Murrumbeena,55.45,ok
+21354,Kilsyth,21849,Murrumbeena,106.38,ok
+21355,Kilsyth South,21849,Murrumbeena,115.5,ok
+21358,Kinglake,21849,Murrumbeena,206.0,ok
+21359,Kinglake Central,21849,Murrumbeena,,no_eligible_route
+21360,Kinglake West,21849,Murrumbeena,160.03,ok
+21362,Kings Park (Vic.),21849,Murrumbeena,85.22,ok
+21363,Kingsbury,21849,Murrumbeena,96.83,ok
+21365,Kingsville,21849,Murrumbeena,66.32,ok
+21374,Knoxfield,21849,Murrumbeena,73.7,ok
+21380,Koo Wee Rup,21849,Murrumbeena,,no_eligible_route
+21381,Koo Wee Rup North,21849,Murrumbeena,,no_eligible_route
+21393,Kooyong,21849,Murrumbeena,48.4,ok
+21411,Kurunjang,21849,Murrumbeena,142.73,ok
+21452,Lalor,21849,Murrumbeena,86.17,ok
+21456,Lancefield,21849,Murrumbeena,,no_eligible_route
+21459,Lang Lang,21849,Murrumbeena,,no_eligible_route
+21460,Lang Lang East,21849,Murrumbeena,,no_eligible_route
+21467,Langwarrin,21849,Murrumbeena,88.08,ok
+21468,Langwarrin South,21849,Murrumbeena,,no_eligible_route
+21473,Launching Place,21849,Murrumbeena,127.0,ok
+21476,Laverton (Vic.),21849,Murrumbeena,81.57,ok
+21477,Laverton North,21849,Murrumbeena,97.27,ok
+21504,Lilydale (Vic.),21849,Murrumbeena,106.65,ok
+21533,Long Forest,21849,Murrumbeena,,no_eligible_route
+21547,Lower Plenty,21849,Murrumbeena,107.0,ok
+21554,Lynbrook,21849,Murrumbeena,57.87,ok
+21555,Lyndhurst (Vic.),21849,Murrumbeena,94.45,ok
+21558,Lysterfield,21849,Murrumbeena,123.65,ok
+21559,Lysterfield South,21849,Murrumbeena,113.58,ok
+21561,Macclesfield (Vic.),21849,Murrumbeena,,no_eligible_route
+21562,Macedon,21849,Murrumbeena,,no_eligible_route
+21564,Macleod (Vic.),21849,Murrumbeena,83.53,ok
+21569,Maddingley,21849,Murrumbeena,,no_eligible_route
+21575,Maidstone,21849,Murrumbeena,72.95,ok
+21578,Main Ridge,21849,Murrumbeena,,no_eligible_route
+21586,Malvern (Vic.),21849,Murrumbeena,38.3,ok
+21587,Malvern East,21849,Murrumbeena,26.95,ok
+21588,Mambourin,21849,Murrumbeena,,no_eligible_route
+21597,Manor Lakes,21849,Murrumbeena,131.03,ok
+21604,Maribyrnong,21849,Murrumbeena,75.9,ok
+21619,Maryknoll,21849,Murrumbeena,,no_eligible_route
+21625,McCrae,21849,Murrumbeena,125.22,ok
+21629,McKinnon,21849,Murrumbeena,24.13,ok
+21635,Meadow Heights,21849,Murrumbeena,102.42,ok
+21640,Melbourne,21849,Murrumbeena,40.88,ok
+21641,Melbourne Airport,21849,Murrumbeena,,no_eligible_route
+21642,Melton (Vic.),21849,Murrumbeena,150.92,ok
+21643,Melton South,21849,Murrumbeena,163.28,ok
+21644,Melton West,21849,Murrumbeena,138.92,ok
+21648,Mentone,21849,Murrumbeena,44.82,ok
+21649,Menzies Creek,21849,Murrumbeena,,no_eligible_route
+21659,Mernda,21849,Murrumbeena,115.65,ok
+21662,Merricks,21849,Murrumbeena,,no_eligible_route
+21663,Merricks Beach,21849,Murrumbeena,,no_eligible_route
+21664,Merricks North,21849,Murrumbeena,,no_eligible_route
+21668,Merrimu,21849,Murrumbeena,,no_eligible_route
+21675,Mickleham,21849,Murrumbeena,133.15,ok
+21677,Middle Park (Vic.),21849,Murrumbeena,58.7,ok
+21683,Mill Park,21849,Murrumbeena,104.25,ok
+21685,Millgrove,21849,Murrumbeena,,no_eligible_route
+21706,Mitcham (Vic.),21849,Murrumbeena,79.25,ok
+21727,Monbulk,21849,Murrumbeena,152.62,ok
+21728,Monegeetta,21849,Murrumbeena,,no_eligible_route
+21731,Monomeith,21849,Murrumbeena,,no_eligible_route
+21732,Mont Albert,21849,Murrumbeena,55.33,ok
+21733,Mont Albert North,21849,Murrumbeena,67.93,ok
+21735,Montmorency,21849,Murrumbeena,86.4,ok
+21736,Montrose (Vic.),21849,Murrumbeena,112.73,ok
+21742,Moonee Ponds,21849,Murrumbeena,61.48,ok
+21746,Moorabbin,21849,Murrumbeena,33.77,ok
+21747,Moorabbin Airport,21849,Murrumbeena,64.82,ok
+21754,Moorooduc,21849,Murrumbeena,128.8,ok
+21755,Mooroolbark,21849,Murrumbeena,101.55,ok
+21760,Mordialloc,21849,Murrumbeena,59.47,ok
+21763,Mornington (Vic.),21849,Murrumbeena,113.13,ok
+21779,Mount Burnett,21849,Murrumbeena,,no_eligible_route
+21786,Mount Cottrell,21849,Murrumbeena,,no_eligible_route
+21787,Mount Dandenong,21849,Murrumbeena,121.33,ok
+21793,Mount Eliza,21849,Murrumbeena,93.2,ok
+21795,Mount Evelyn,21849,Murrumbeena,124.6,ok
+21801,Mount Macedon,21849,Murrumbeena,,no_eligible_route
+21803,Mount Martha,21849,Murrumbeena,113.73,ok
+21814,Mount Toolebewong,21849,Murrumbeena,,no_eligible_route
+21816,Mount Waverley,21849,Murrumbeena,39.4,ok
+21827,Mulgrave (Vic.),21849,Murrumbeena,53.9,ok
+21849,Murrumbeena,21849,Murrumbeena,0.0,same_centroid
+21872,Nangana,21849,Murrumbeena,,no_eligible_route
+21878,Nar Nar Goon,21849,Murrumbeena,,no_eligible_route
+21879,Nar Nar Goon North,21849,Murrumbeena,,no_eligible_route
+21893,Narre Warren,21849,Murrumbeena,64.58,ok
+21894,Narre Warren East,21849,Murrumbeena,,no_eligible_route
+21895,Narre Warren North,21849,Murrumbeena,73.87,ok
+21896,Narre Warren South,21849,Murrumbeena,68.42,ok
+21921,New Gisborne,21849,Murrumbeena,,no_eligible_route
+21934,Newport (Vic.),21849,Murrumbeena,66.42,ok
+21942,Niddrie,21849,Murrumbeena,91.37,ok
+21952,Noble Park,21849,Murrumbeena,38.87,ok
+21953,Noble Park North,21849,Murrumbeena,66.55,ok
+21966,North Melbourne,21849,Murrumbeena,52.08,ok
+21969,North Warrandyte,21849,Murrumbeena,119.97,ok
+21971,Northcote,21849,Murrumbeena,68.37,ok
+21974,Notting Hill,21849,Murrumbeena,38.82,ok
+21985,Nunawading,21849,Murrumbeena,67.18,ok
+21991,Nutfield,21849,Murrumbeena,,no_eligible_route
+21998,Oak Park,21849,Murrumbeena,79.8,ok
+21999,Oaklands Junction,21849,Murrumbeena,,no_eligible_route
+22000,Oakleigh,21849,Murrumbeena,23.22,ok
+22001,Oakleigh East,21849,Murrumbeena,36.65,ok
+22002,Oakleigh South,21849,Murrumbeena,34.3,ok
+22006,Officer,21849,Murrumbeena,80.15,ok
+22007,Officer South,21849,Murrumbeena,130.82,ok
+22009,Olinda (Vic.),21849,Murrumbeena,148.08,ok
+22016,Ormond,21849,Murrumbeena,15.57,ok
+22027,Pakenham,21849,Murrumbeena,76.07,ok
+22028,Pakenham South,21849,Murrumbeena,,no_eligible_route
+22029,Pakenham Upper,21849,Murrumbeena,,no_eligible_route
+22032,Panton Hill,21849,Murrumbeena,,no_eligible_route
+22036,Park Orchards,21849,Murrumbeena,89.22,ok
+22037,Parkdale,21849,Murrumbeena,49.9,ok
+22038,Parkville (Vic.),21849,Murrumbeena,58.7,ok
+22041,Pascoe Vale,21849,Murrumbeena,84.17,ok
+22042,Pascoe Vale South,21849,Murrumbeena,79.9,ok
+22047,Patterson Lakes,21849,Murrumbeena,79.15,ok
+22050,Pearcedale,21849,Murrumbeena,118.02,ok
+22058,Pentland Hills,21849,Murrumbeena,,no_eligible_route
+22064,Pheasant Creek (Vic.),21849,Murrumbeena,175.68,ok
+22084,Plenty (Vic.),21849,Murrumbeena,117.33,ok
+22085,Plumpton (Vic.),21849,Murrumbeena,,no_eligible_route
+22086,Point Cook,21849,Murrumbeena,99.8,ok
+22087,Point Leo,21849,Murrumbeena,,no_eligible_route
+22107,Port Melbourne,21849,Murrumbeena,66.42,ok
+22113,Portsea,21849,Murrumbeena,169.52,ok
+22115,Powelltown,21849,Murrumbeena,,no_eligible_route
+22118,Prahran,21849,Murrumbeena,47.27,ok
+22121,Preston (Vic.),21849,Murrumbeena,79.77,ok
+22122,Princes Hill,21849,Murrumbeena,64.85,ok
+22132,Quandong,21849,Murrumbeena,,no_eligible_route
+22141,Ravenhall,21849,Murrumbeena,117.6,ok
+22148,Red Hill (Vic.),21849,Murrumbeena,,no_eligible_route
+22149,Red Hill South,21849,Murrumbeena,,no_eligible_route
+22160,Research,21849,Murrumbeena,109.83,ok
+22161,Reservoir (Vic.),21849,Murrumbeena,82.98,ok
+22170,Richmond (Vic.),21849,Murrumbeena,56.22,ok
+22172,Riddells Creek,21849,Murrumbeena,,no_eligible_route
+22174,Ringwood (Vic.),21849,Murrumbeena,85.87,ok
+22175,Ringwood East,21849,Murrumbeena,85.43,ok
+22176,Ringwood North,21849,Murrumbeena,95.8,ok
+22179,Ripponlea,21849,Murrumbeena,35.62,ok
+22185,Rochford,21849,Murrumbeena,,no_eligible_route
+22186,Rockbank,21849,Murrumbeena,124.18,ok
+22193,Romsey,21849,Murrumbeena,,no_eligible_route
+22194,Rosanna,21849,Murrumbeena,78.3,ok
+22198,Rosebud,21849,Murrumbeena,141.53,ok
+22207,Rowville,21849,Murrumbeena,63.67,ok
+22208,Roxburgh Park,21849,Murrumbeena,99.42,ok
+22220,Rye,21849,Murrumbeena,161.73,ok
+22221,Rythdale,21849,Murrumbeena,,no_eligible_route
+22222,Safety Beach (Vic.),21849,Murrumbeena,129.7,ok
+22232,Sandhurst,21849,Murrumbeena,101.23,ok
+22234,Sandringham (Vic.),21849,Murrumbeena,57.87,ok
+22239,Sassafras (Vic.),21849,Murrumbeena,119.1,ok
+22242,Scoresby,21849,Murrumbeena,64.3,ok
+22247,Seabrook,21849,Murrumbeena,94.87,ok
+22249,Seaford (Vic.),21849,Murrumbeena,75.43,ok
+22250,Seaholme,21849,Murrumbeena,82.65,ok
+22256,Seddon (Vic.),21849,Murrumbeena,57.0,ok
+22258,Selby,21849,Murrumbeena,141.05,ok
+22263,Seville,21849,Murrumbeena,138.17,ok
+22264,Seville East,21849,Murrumbeena,125.05,ok
+22278,Sherbrooke,21849,Murrumbeena,135.23,ok
+22279,Shoreham,21849,Murrumbeena,,no_eligible_route
+22281,Silvan,21849,Murrumbeena,144.72,ok
+22291,Skye (Vic.),21849,Murrumbeena,76.62,ok
+22295,Smiths Gully,21849,Murrumbeena,,no_eligible_route
+22303,Somers,21849,Murrumbeena,151.0,ok
+22304,Somerton (Vic.),21849,Murrumbeena,103.78,ok
+22305,Somerville (Vic.),21849,Murrumbeena,121.68,ok
+22306,Sorrento (Vic.),21849,Murrumbeena,149.5,ok
+22309,South Kingsville,21849,Murrumbeena,79.67,ok
+22310,South Melbourne,21849,Murrumbeena,53.88,ok
+22311,South Morang,21849,Murrumbeena,107.87,ok
+22313,South Wharf,21849,Murrumbeena,57.88,ok
+22314,South Yarra,21849,Murrumbeena,36.15,ok
+22315,Southbank,21849,Murrumbeena,47.32,ok
+22319,Spotswood,21849,Murrumbeena,60.82,ok
+22325,Springfield (Macedon Ranges - Vic.),21849,Murrumbeena,,no_eligible_route
+22328,Springvale (Vic.),21849,Murrumbeena,37.55,ok
+22329,Springvale South,21849,Murrumbeena,40.57,ok
+22330,St Albans (Vic.),21849,Murrumbeena,72.5,ok
+22332,St Andrews (Vic.),21849,Murrumbeena,,no_eligible_route
+22333,St Andrews Beach,21849,Murrumbeena,,no_eligible_route
+22339,St Helena,21849,Murrumbeena,98.58,ok
+22343,St Kilda (Vic.),21849,Murrumbeena,43.53,ok
+22344,St Kilda East,21849,Murrumbeena,39.82,ok
+22345,St Kilda West,21849,Murrumbeena,54.85,ok
+22355,Steels Creek,21849,Murrumbeena,,no_eligible_route
+22375,Strathewen,21849,Murrumbeena,,no_eligible_route
+22380,Strathmore (Vic.),21849,Murrumbeena,85.27,ok
+22381,Strathmore Heights,21849,Murrumbeena,96.05,ok
+22382,Strathtulloh,21849,Murrumbeena,,no_eligible_route
+22391,Sunbury,21849,Murrumbeena,130.78,ok
+22395,Sunshine (Vic.),21849,Murrumbeena,61.28,ok
+22396,Sunshine North,21849,Murrumbeena,76.35,ok
+22397,Sunshine West,21849,Murrumbeena,84.63,ok
+22399,Surrey Hills,21849,Murrumbeena,52.22,ok
+22414,Sydenham (Vic.),21849,Murrumbeena,86.9,ok
+22451,Tarneit,21849,Murrumbeena,120.87,ok
+22457,Tarrawarra,21849,Murrumbeena,143.08,ok
+22473,Taylors Hill,21849,Murrumbeena,93.73,ok
+22474,Taylors Lakes,21849,Murrumbeena,81.32,ok
+22476,Tecoma,21849,Murrumbeena,96.27,ok
+22483,Templestowe,21849,Murrumbeena,87.73,ok
+22484,Templestowe Lower,21849,Murrumbeena,82.7,ok
+22496,The Basin (Vic.),21849,Murrumbeena,104.23,ok
+22501,The Patch,21849,Murrumbeena,143.18,ok
+22504,Thomastown,21849,Murrumbeena,91.47,ok
+22508,Thornbury,21849,Murrumbeena,74.25,ok
+22509,Thornhill Park,21849,Murrumbeena,,no_eligible_route
+22514,Three Bridges,21849,Murrumbeena,,no_eligible_route
+22531,Tonimbuk,21849,Murrumbeena,,no_eligible_route
+22536,Toolangi,21849,Murrumbeena,,no_eligible_route
+22537,Toolern Vale,21849,Murrumbeena,,no_eligible_route
+22546,Tooradin,21849,Murrumbeena,,no_eligible_route
+22547,Toorak,21849,Murrumbeena,49.73,ok
+22550,Tootgarook,21849,Murrumbeena,145.15,ok
+22556,Tottenham (Vic.),21849,Murrumbeena,84.82,ok
+22572,Travancore,21849,Murrumbeena,63.23,ok
+22576,Tremont,21849,Murrumbeena,118.32,ok
+22582,Truganina,21849,Murrumbeena,172.02,ok
+22584,Tuerong,21849,Murrumbeena,,no_eligible_route
+22586,Tullamarine,21849,Murrumbeena,105.82,ok
+22594,Tyabb,21849,Murrumbeena,114.0,ok
+22598,Tynong,21849,Murrumbeena,,no_eligible_route
+22599,Tynong North,21849,Murrumbeena,,no_eligible_route
+22614,Upper Ferntree Gully,21849,Murrumbeena,93.03,ok
+22617,Upper Plenty,21849,Murrumbeena,,no_eligible_route
+22620,Upwey,21849,Murrumbeena,81.45,ok
+22627,Vermont,21849,Murrumbeena,81.05,ok
+22628,Vermont South,21849,Murrumbeena,74.18,ok
+22629,Vervale,21849,Murrumbeena,,no_eligible_route
+22633,Viewbank,21849,Murrumbeena,88.3,ok
+22661,Wallan,21849,Murrumbeena,,no_eligible_route
+22672,Wandin East,21849,Murrumbeena,,no_eligible_route
+22673,Wandin North,21849,Murrumbeena,111.13,ok
+22676,Wandong,21849,Murrumbeena,,no_eligible_route
+22685,Wantirna,21849,Murrumbeena,99.48,ok
+22686,Wantirna South,21849,Murrumbeena,73.45,ok
+22689,Warburton (Vic.),21849,Murrumbeena,,no_eligible_route
+22695,Warneet,21849,Murrumbeena,,no_eligible_route
+22702,Warrandyte,21849,Murrumbeena,99.52,ok
+22703,Warrandyte South,21849,Murrumbeena,126.37,ok
+22704,Warranwood,21849,Murrumbeena,104.03,ok
+22717,Waterford Park,21849,Murrumbeena,,no_eligible_route
+22720,Waterways,21849,Murrumbeena,67.0,ok
+22721,Watsonia,21849,Murrumbeena,78.75,ok
+22722,Watsonia North,21849,Murrumbeena,95.2,ok
+22723,Watsons Creek (Vic.),21849,Murrumbeena,,no_eligible_route
+22727,Wattle Glen,21849,Murrumbeena,111.5,ok
+22740,Weir Views,21849,Murrumbeena,193.75,ok
+22750,Werribee,21849,Murrumbeena,97.6,ok
+22751,Werribee South,21849,Murrumbeena,136.62,ok
+22753,Wesburn,21849,Murrumbeena,143.1,ok
+22756,West Footscray,21849,Murrumbeena,64.45,ok
+22757,West Melbourne,21849,Murrumbeena,73.38,ok
+22761,Westmeadows,21849,Murrumbeena,91.83,ok
+22766,Wheelers Hill,21849,Murrumbeena,51.73,ok
+22775,Whittlesea,21849,Murrumbeena,,no_eligible_route
+22784,Wildwood,21849,Murrumbeena,,no_eligible_route
+22791,Williams Landing,21849,Murrumbeena,95.82,ok
+22792,Williamstown (Vic.),21849,Murrumbeena,69.63,ok
+22793,Williamstown North,21849,Murrumbeena,84.13,ok
+22805,Windsor (Vic.),21849,Murrumbeena,43.93,ok
+22820,Wollert,21849,Murrumbeena,119.68,ok
+22825,Wonga Park,21849,Murrumbeena,112.0,ok
+22843,Woodstock (Vic.),21849,Murrumbeena,,no_eligible_route
+22857,Woori Yallock,21849,Murrumbeena,122.25,ok
+22883,Wyndham Vale,21849,Murrumbeena,119.42,ok
+22892,Yallambie,21849,Murrumbeena,98.03,ok
+22898,Yan Yean,21849,Murrumbeena,141.42,ok
+22906,Yannathan,21849,Murrumbeena,,no_eligible_route
+22910,Yarra Glen,21849,Murrumbeena,140.38,ok
+22911,Yarra Junction,21849,Murrumbeena,147.37,ok
+22916,Yarrambat,21849,Murrumbeena,113.9,ok
+22917,Yarraville,21849,Murrumbeena,66.57,ok
+22925,Yellingbo,21849,Murrumbeena,,no_eligible_route
+22930,Yering,21849,Murrumbeena,,no_eligible_route
+22941,Yuroke,21849,Murrumbeena,155.48,ok

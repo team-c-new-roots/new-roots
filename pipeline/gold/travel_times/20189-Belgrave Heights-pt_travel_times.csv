@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20189,Belgrave Heights,122.8,ok
+20003,Aberfeldie,20189,Belgrave Heights,145.1,ok
+20011,Aintree,20189,Belgrave Heights,188.83,ok
+20015,Airport West,20189,Belgrave Heights,169.2,ok
+20017,Albanvale,20189,Belgrave Heights,174.92,ok
+20018,Albert Park (Vic.),20189,Belgrave Heights,135.57,ok
+20021,Albion (Vic.),20189,Belgrave Heights,149.7,ok
+20034,Alphington,20189,Belgrave Heights,134.72,ok
+20035,Altona (Vic.),20189,Belgrave Heights,160.18,ok
+20036,Altona Meadows,20189,Belgrave Heights,163.95,ok
+20037,Altona North,20189,Belgrave Heights,154.2,ok
+20062,Ardeer,20189,Belgrave Heights,167.93,ok
+20066,Armadale (Vic.),20189,Belgrave Heights,117.95,ok
+20071,Arthurs Creek,20189,Belgrave Heights,,no_eligible_route
+20072,Arthurs Seat,20189,Belgrave Heights,,no_eligible_route
+20075,Ascot Vale,20189,Belgrave Heights,138.32,ok
+20077,Ashburton,20189,Belgrave Heights,120.67,ok
+20078,Ashwood,20189,Belgrave Heights,116.07,ok
+20079,Aspendale,20189,Belgrave Heights,155.2,ok
+20080,Aspendale Gardens,20189,Belgrave Heights,148.95,ok
+20082,Attwood,20189,Belgrave Heights,192.53,ok
+20089,Avondale Heights,20189,Belgrave Heights,166.23,ok
+20091,Avonsleigh,20189,Belgrave Heights,78.13,ok
+20095,Bacchus Marsh,20189,Belgrave Heights,,no_eligible_route
+20097,Badger Creek,20189,Belgrave Heights,172.4,ok
+20105,Balaclava (Vic.),20189,Belgrave Heights,119.58,ok
+20120,Balnarring,20189,Belgrave Heights,,no_eligible_route
+20121,Balnarring Beach,20189,Belgrave Heights,,no_eligible_route
+20123,Balwyn,20189,Belgrave Heights,97.68,ok
+20124,Balwyn North,20189,Belgrave Heights,101.65,ok
+20131,Bangholme,20189,Belgrave Heights,,no_eligible_route
+20169,Baxter,20189,Belgrave Heights,,no_eligible_route
+20171,Bayles,20189,Belgrave Heights,,no_eligible_route
+20173,Bayswater (Vic.),20189,Belgrave Heights,66.18,ok
+20174,Bayswater North,20189,Belgrave Heights,87.37,ok
+20175,Beaconsfield (Vic.),20189,Belgrave Heights,155.65,ok
+20176,Beaconsfield Upper,20189,Belgrave Heights,216.73,walk_only
+20182,Beaumaris (Vic.),20189,Belgrave Heights,159.6,ok
+20187,Beenak,20189,Belgrave Heights,,no_eligible_route
+20188,Belgrave,20189,Belgrave Heights,25.55,ok
+20189,Belgrave Heights,20189,Belgrave Heights,0.0,same_centroid
+20190,Belgrave South,20189,Belgrave Heights,39.12,walk_only
+20198,Bellfield (Banyule - Vic.),20189,Belgrave Heights,141.75,ok
+20207,Bend Of Islands,20189,Belgrave Heights,,no_eligible_route
+20212,Benloch,20189,Belgrave Heights,,no_eligible_route
+20214,Bentleigh,20189,Belgrave Heights,136.38,ok
+20215,Bentleigh East,20189,Belgrave Heights,130.33,ok
+20224,Berwick,20189,Belgrave Heights,128.45,ok
+20233,Beveridge,20189,Belgrave Heights,,no_eligible_route
+20237,Big Pats Creek,20189,Belgrave Heights,,no_eligible_route
+20248,Bittern,20189,Belgrave Heights,,no_eligible_route
+20251,Black Rock (Vic.),20189,Belgrave Heights,173.08,ok
+20252,Blackburn,20189,Belgrave Heights,77.52,ok
+20253,Blackburn North,20189,Belgrave Heights,93.67,ok
+20254,Blackburn South,20189,Belgrave Heights,93.87,ok
+20257,Blairgowrie,20189,Belgrave Heights,,no_eligible_route
+20260,Blind Bight,20189,Belgrave Heights,,no_eligible_route
+20272,Bolinda,20189,Belgrave Heights,,no_eligible_route
+20278,Bonbeach,20189,Belgrave Heights,160.2,ok
+20280,Boneo,20189,Belgrave Heights,,no_eligible_route
+20282,Bonnie Brook,20189,Belgrave Heights,221.38,ok
+20304,Boronia,20189,Belgrave Heights,62.67,ok
+20307,Botanic Ridge,20189,Belgrave Heights,180.85,ok
+20314,Box Hill (Vic.),20189,Belgrave Heights,84.73,ok
+20315,Box Hill North,20189,Belgrave Heights,95.4,ok
+20316,Box Hill South,20189,Belgrave Heights,93.13,ok
+20320,Braeside,20189,Belgrave Heights,160.48,ok
+20324,Braybrook,20189,Belgrave Heights,156.55,ok
+20331,Briar Hill,20189,Belgrave Heights,130.3,ok
+20337,Brighton (Vic.),20189,Belgrave Heights,132.35,ok
+20338,Brighton East,20189,Belgrave Heights,140.6,ok
+20346,Broadmeadows (Vic.),20189,Belgrave Heights,161.93,ok
+20351,Brookfield (Vic.),20189,Belgrave Heights,,no_eligible_route
+20352,Brooklyn (Vic.),20189,Belgrave Heights,153.82,ok
+20361,Brunswick (Vic.),20189,Belgrave Heights,137.03,ok
+20362,Brunswick East,20189,Belgrave Heights,140.7,ok
+20363,Brunswick West,20189,Belgrave Heights,138.83,ok
+20381,Bulla (Vic.),20189,Belgrave Heights,,no_eligible_route
+20386,Bulleen,20189,Belgrave Heights,120.55,ok
+20387,Bullengarook,20189,Belgrave Heights,,no_eligible_route
+20399,Bundoora (Vic.),20189,Belgrave Heights,147.9,ok
+20411,Bunyip,20189,Belgrave Heights,,no_eligible_route
+20412,Bunyip North,20189,Belgrave Heights,,no_eligible_route
+20418,Burnley,20189,Belgrave Heights,113.15,ok
+20419,Burnside (Vic.),20189,Belgrave Heights,182.12,ok
+20420,Burnside Heights,20189,Belgrave Heights,181.73,ok
+20426,Burwood (Vic.),20189,Belgrave Heights,103.63,ok
+20427,Burwood East,20189,Belgrave Heights,96.43,ok
+20435,Bylands,20189,Belgrave Heights,,no_eligible_route
+20441,Cairnlea,20189,Belgrave Heights,156.92,ok
+20442,Calder Park,20189,Belgrave Heights,193.48,ok
+20443,Caldermeade,20189,Belgrave Heights,,no_eligible_route
+20453,Camberwell (Vic.),20189,Belgrave Heights,110.4,ok
+20455,Campbellfield,20189,Belgrave Heights,170.58,ok
+20466,Cannons Creek,20189,Belgrave Heights,,no_eligible_route
+20468,Canterbury (Vic.),20189,Belgrave Heights,93.23,ok
+20474,Cape Schanck,20189,Belgrave Heights,,no_eligible_route
+20476,Capel Sound,20189,Belgrave Heights,,no_eligible_route
+20487,Cardinia,20189,Belgrave Heights,,no_eligible_route
+20495,Carlton (Vic.),20189,Belgrave Heights,125.4,ok
+20496,Carlton North,20189,Belgrave Heights,137.5,ok
+20498,Carnegie,20189,Belgrave Heights,120.97,ok
+20500,Caroline Springs,20189,Belgrave Heights,176.62,ok
+20507,Carrum,20189,Belgrave Heights,160.02,ok
+20508,Carrum Downs,20189,Belgrave Heights,133.25,ok
+20512,Castella,20189,Belgrave Heights,,no_eligible_route
+20517,Catani,20189,Belgrave Heights,,no_eligible_route
+20521,Caulfield,20189,Belgrave Heights,137.65,ok
+20522,Caulfield East,20189,Belgrave Heights,119.92,ok
+20523,Caulfield North,20189,Belgrave Heights,120.3,ok
+20524,Caulfield South,20189,Belgrave Heights,143.9,ok
+20528,Chadstone,20189,Belgrave Heights,115.17,ok
+20537,Chelsea,20189,Belgrave Heights,145.32,ok
+20538,Chelsea Heights,20189,Belgrave Heights,156.6,ok
+20539,Cheltenham (Vic.),20189,Belgrave Heights,139.58,ok
+20541,Cherokee,20189,Belgrave Heights,,no_eligible_route
+20555,Chintin,20189,Belgrave Heights,,no_eligible_route
+20556,Chirnside Park,20189,Belgrave Heights,104.57,ok
+20559,Christmas Hills (Vic.),20189,Belgrave Heights,,no_eligible_route
+20560,Chum Creek,20189,Belgrave Heights,,no_eligible_route
+20566,Clarinda,20189,Belgrave Heights,127.48,ok
+20567,Clarkefield,20189,Belgrave Heights,,no_eligible_route
+20569,Clayton,20189,Belgrave Heights,114.62,ok
+20570,Clayton South,20189,Belgrave Heights,132.8,ok
+20572,Clematis,20189,Belgrave Heights,49.55,ok
+20574,Clifton Hill,20189,Belgrave Heights,121.72,ok
+20576,Clonbinane,20189,Belgrave Heights,,no_eligible_route
+20581,Clyde (Vic.),20189,Belgrave Heights,179.15,ok
+20582,Clyde North,20189,Belgrave Heights,163.6,ok
+20587,Cobaw,20189,Belgrave Heights,,no_eligible_route
+20590,Cobblebank,20189,Belgrave Heights,,no_eligible_route
+20596,Coburg,20189,Belgrave Heights,143.57,ok
+20597,Coburg North,20189,Belgrave Heights,153.13,ok
+20600,Cockatoo (Vic.),20189,Belgrave Heights,81.82,ok
+20601,Cocoroc,20189,Belgrave Heights,,no_eligible_route
+20605,Coimadai,20189,Belgrave Heights,,no_eligible_route
+20613,Coldstream (Vic.),20189,Belgrave Heights,,no_eligible_route
+20616,Collingwood (Vic.),20189,Belgrave Heights,120.13,ok
+20624,Coolaroo,20189,Belgrave Heights,162.8,ok
+20633,Cora Lynn,20189,Belgrave Heights,,no_eligible_route
+20654,Cottles Bridge,20189,Belgrave Heights,,no_eligible_route
+20661,Craigieburn,20189,Belgrave Heights,180.95,ok
+20662,Cranbourne,20189,Belgrave Heights,149.1,ok
+20663,Cranbourne East,20189,Belgrave Heights,153.1,ok
+20664,Cranbourne North,20189,Belgrave Heights,137.12,ok
+20665,Cranbourne South,20189,Belgrave Heights,184.2,ok
+20666,Cranbourne West,20189,Belgrave Heights,156.02,ok
+20670,Cremorne (Vic.),20189,Belgrave Heights,109.13,ok
+20674,Crib Point,20189,Belgrave Heights,,no_eligible_route
+20682,Croydon (Vic.),20189,Belgrave Heights,82.68,ok
+20683,Croydon Hills,20189,Belgrave Heights,97.63,ok
+20684,Croydon North,20189,Belgrave Heights,101.43,ok
+20685,Croydon South,20189,Belgrave Heights,90.8,ok
+20702,Dallas,20189,Belgrave Heights,169.23,ok
+20703,Dalmore,20189,Belgrave Heights,,no_eligible_route
+20707,Dandenong,20189,Belgrave Heights,104.77,ok
+20708,Dandenong North,20189,Belgrave Heights,102.18,ok
+20709,Dandenong South,20189,Belgrave Heights,130.85,ok
+20712,Darley,20189,Belgrave Heights,,no_eligible_route
+20716,Darraweit Guim,20189,Belgrave Heights,,no_eligible_route
+20724,Deanside,20189,Belgrave Heights,202.85,ok
+20728,Deepdene (Vic.),20189,Belgrave Heights,101.97,ok
+20729,Deer Park,20189,Belgrave Heights,177.4,ok
+20731,Delahey,20189,Belgrave Heights,173.82,ok
+20743,Derrimut,20189,Belgrave Heights,194.25,ok
+20748,Devon Meadows,20189,Belgrave Heights,185.9,ok
+20750,Dewhurst,20189,Belgrave Heights,220.08,walk_only
+20752,Diamond Creek,20189,Belgrave Heights,148.03,ok
+20754,Diggers Rest,20189,Belgrave Heights,201.5,ok
+20758,Dingley Village,20189,Belgrave Heights,133.08,ok
+20762,Dixons Creek,20189,Belgrave Heights,,no_eligible_route
+20766,Docklands,20189,Belgrave Heights,123.25,ok
+20769,Don Valley,20189,Belgrave Heights,,no_eligible_route
+20771,Doncaster,20189,Belgrave Heights,98.2,ok
+20772,Doncaster East,20189,Belgrave Heights,98.55,ok
+20773,Donnybrook (Vic.),20189,Belgrave Heights,,no_eligible_route
+20774,Donvale,20189,Belgrave Heights,103.9,ok
+20779,Doreen,20189,Belgrave Heights,,no_eligible_route
+20783,Doveton,20189,Belgrave Heights,116.55,ok
+20788,Dromana,20189,Belgrave Heights,,no_eligible_route
+20825,Eaglemont,20189,Belgrave Heights,127.32,ok
+20830,East Melbourne,20189,Belgrave Heights,117.32,ok
+20833,East Warburton,20189,Belgrave Heights,,no_eligible_route
+20843,Eden Park,20189,Belgrave Heights,,no_eligible_route
+20848,Edithvale,20189,Belgrave Heights,135.8,ok
+20864,Elsternwick,20189,Belgrave Heights,127.5,ok
+20865,Eltham (Vic.),20189,Belgrave Heights,130.27,ok
+20866,Eltham North,20189,Belgrave Heights,149.15,ok
+20867,Elwood,20189,Belgrave Heights,133.68,ok
+20868,Emerald (Vic.),20189,Belgrave Heights,76.73,ok
+20871,Endeavour Hills,20189,Belgrave Heights,116.18,ok
+20878,Epping (Vic.),20189,Belgrave Heights,175.32,ok
+20885,Essendon,20189,Belgrave Heights,144.23,ok
+20886,Essendon Fields,20189,Belgrave Heights,172.25,ok
+20887,Essendon North,20189,Belgrave Heights,153.25,ok
+20888,Essendon West,20189,Belgrave Heights,147.72,ok
+20889,Eumemmerring,20189,Belgrave Heights,133.47,ok
+20898,Exford,20189,Belgrave Heights,,no_eligible_route
+20899,Eynesbury,20189,Belgrave Heights,,no_eligible_route
+20901,Fairfield (Vic.),20189,Belgrave Heights,141.03,ok
+20909,Fawkner,20189,Belgrave Heights,163.03,ok
+20916,Fernshaw,20189,Belgrave Heights,,no_eligible_route
+20917,Ferntree Gully,20189,Belgrave Heights,62.9,ok
+20918,Ferny Creek,20189,Belgrave Heights,97.57,ok
+20920,Fingal (Vic.),20189,Belgrave Heights,,no_eligible_route
+20924,Fitzroy (Vic.),20189,Belgrave Heights,126.33,ok
+20925,Fitzroy North,20189,Belgrave Heights,133.47,ok
+20929,Flemington,20189,Belgrave Heights,137.47,ok
+20930,Flinders (Vic.),20189,Belgrave Heights,,no_eligible_route
+20935,Footscray,20189,Belgrave Heights,132.57,ok
+20937,Forest Hill (Vic.),20189,Belgrave Heights,95.58,ok
+20947,Frankston,20189,Belgrave Heights,158.98,ok
+20948,Frankston North,20189,Belgrave Heights,154.82,ok
+20949,Frankston South,20189,Belgrave Heights,,no_eligible_route
+20950,Fraser Rise,20189,Belgrave Heights,204.23,ok
+20965,Gardenvale,20189,Belgrave Heights,128.78,ok
+20966,Garfield,20189,Belgrave Heights,,no_eligible_route
+20967,Garfield North,20189,Belgrave Heights,,no_eligible_route
+20979,Gembrook,20189,Belgrave Heights,,no_eligible_route
+20995,Gilderoy,20189,Belgrave Heights,,no_eligible_route
+21001,Gisborne,20189,Belgrave Heights,,no_eligible_route
+21002,Gisborne South,20189,Belgrave Heights,,no_eligible_route
+21004,Gladstone Park,20189,Belgrave Heights,176.13,ok
+21005,Gladysdale,20189,Belgrave Heights,,no_eligible_route
+21009,Glen Huntly,20189,Belgrave Heights,132.52,ok
+21010,Glen Iris (Vic.),20189,Belgrave Heights,120.38,ok
+21013,Glen Waverley,20189,Belgrave Heights,91.2,ok
+21047,Glenroy (Vic.),20189,Belgrave Heights,156.78,ok
+21059,Goldie,20189,Belgrave Heights,,no_eligible_route
+21079,Gowanbrae,20189,Belgrave Heights,178.47,ok
+21087,Grangefields,20189,Belgrave Heights,225.83,ok
+21104,Greensborough,20189,Belgrave Heights,121.98,ok
+21105,Greenvale (Vic.),20189,Belgrave Heights,,no_eligible_route
+21115,Gruyere,20189,Belgrave Heights,,no_eligible_route
+21121,Guys Hill,20189,Belgrave Heights,190.73,walk_only
+21124,Hadfield,20189,Belgrave Heights,165.07,ok
+21125,Hallam,20189,Belgrave Heights,133.57,ok
+21131,Hampton (Vic.),20189,Belgrave Heights,140.18,ok
+21132,Hampton East,20189,Belgrave Heights,142.28,ok
+21133,Hampton Park,20189,Belgrave Heights,135.98,ok
+21139,Harkaway,20189,Belgrave Heights,138.37,walk_only
+21140,Harkness,20189,Belgrave Heights,,no_eligible_route
+21145,Hastings (Vic.),20189,Belgrave Heights,,no_eligible_route
+21152,Hawthorn (Vic.),20189,Belgrave Heights,105.55,ok
+21153,Hawthorn East,20189,Belgrave Heights,104.62,ok
+21158,Healesville,20189,Belgrave Heights,176.32,ok
+21159,Heath Hill,20189,Belgrave Heights,,no_eligible_route
+21161,Heathcote Junction,20189,Belgrave Heights,,no_eligible_route
+21163,Heatherton,20189,Belgrave Heights,141.87,ok
+21165,Heathmont,20189,Belgrave Heights,65.22,ok
+21167,Heidelberg,20189,Belgrave Heights,125.12,ok
+21168,Heidelberg Heights,20189,Belgrave Heights,144.38,ok
+21169,Heidelberg West,20189,Belgrave Heights,141.38,ok
+21176,Hesket,20189,Belgrave Heights,,no_eligible_route
+21185,Highett,20189,Belgrave Heights,140.52,ok
+21193,Hillside (Melton - Vic.),20189,Belgrave Heights,188.78,ok
+21195,Hmas Cerberus,20189,Belgrave Heights,,no_eligible_route
+21196,Hoddles Creek,20189,Belgrave Heights,,no_eligible_route
+21202,Hopetoun Park,20189,Belgrave Heights,,no_eligible_route
+21203,Hoppers Crossing,20189,Belgrave Heights,177.92,ok
+21214,Hughesdale,20189,Belgrave Heights,106.4,ok
+21215,Humevale,20189,Belgrave Heights,,no_eligible_route
+21218,Huntingdale (Vic.),20189,Belgrave Heights,107.9,ok
+21223,Hurstbridge,20189,Belgrave Heights,148.58,ok
+21238,Iona,20189,Belgrave Heights,,no_eligible_route
+21246,Ivanhoe (Vic.),20189,Belgrave Heights,139.32,ok
+21247,Ivanhoe East,20189,Belgrave Heights,139.28,ok
+21248,Jacana,20189,Belgrave Heights,161.35,ok
+21277,Junction Village,20189,Belgrave Heights,172.03,ok
+21284,Kalkallo,20189,Belgrave Heights,,no_eligible_route
+21286,Kallista,20189,Belgrave Heights,67.52,ok
+21287,Kalorama,20189,Belgrave Heights,94.82,ok
+21294,Kangaroo Ground,20189,Belgrave Heights,167.82,ok
+21312,Kealba,20189,Belgrave Heights,181.92,ok
+21314,Keilor,20189,Belgrave Heights,,no_eligible_route
+21315,Keilor Downs,20189,Belgrave Heights,177.05,ok
+21316,Keilor East,20189,Belgrave Heights,162.08,ok
+21317,Keilor Lodge,20189,Belgrave Heights,198.72,ok
+21318,Keilor North,20189,Belgrave Heights,199.88,ok
+21319,Keilor Park,20189,Belgrave Heights,170.0,ok
+21327,Kensington (Vic.),20189,Belgrave Heights,128.63,ok
+21333,Kerrie,20189,Belgrave Heights,,no_eligible_route
+21336,Kew (Vic.),20189,Belgrave Heights,112.38,ok
+21337,Kew East,20189,Belgrave Heights,127.13,ok
+21339,Keysborough,20189,Belgrave Heights,137.78,ok
+21354,Kilsyth,20189,Belgrave Heights,94.98,ok
+21355,Kilsyth South,20189,Belgrave Heights,86.12,ok
+21358,Kinglake,20189,Belgrave Heights,,no_eligible_route
+21359,Kinglake Central,20189,Belgrave Heights,,no_eligible_route
+21360,Kinglake West,20189,Belgrave Heights,,no_eligible_route
+21362,Kings Park (Vic.),20189,Belgrave Heights,172.25,ok
+21363,Kingsbury,20189,Belgrave Heights,161.05,ok
+21365,Kingsville,20189,Belgrave Heights,143.05,ok
+21374,Knoxfield,20189,Belgrave Heights,64.32,ok
+21380,Koo Wee Rup,20189,Belgrave Heights,,no_eligible_route
+21381,Koo Wee Rup North,20189,Belgrave Heights,,no_eligible_route
+21393,Kooyong,20189,Belgrave Heights,112.8,ok
+21411,Kurunjang,20189,Belgrave Heights,,no_eligible_route
+21452,Lalor,20189,Belgrave Heights,154.0,ok
+21456,Lancefield,20189,Belgrave Heights,,no_eligible_route
+21459,Lang Lang,20189,Belgrave Heights,,no_eligible_route
+21460,Lang Lang East,20189,Belgrave Heights,,no_eligible_route
+21467,Langwarrin,20189,Belgrave Heights,172.95,ok
+21468,Langwarrin South,20189,Belgrave Heights,,no_eligible_route
+21473,Launching Place,20189,Belgrave Heights,117.95,ok
+21476,Laverton (Vic.),20189,Belgrave Heights,155.78,ok
+21477,Laverton North,20189,Belgrave Heights,196.43,ok
+21504,Lilydale (Vic.),20189,Belgrave Heights,97.93,ok
+21533,Long Forest,20189,Belgrave Heights,,no_eligible_route
+21547,Lower Plenty,20189,Belgrave Heights,143.87,ok
+21554,Lynbrook,20189,Belgrave Heights,129.82,ok
+21555,Lyndhurst (Vic.),20189,Belgrave Heights,184.4,ok
+21558,Lysterfield,20189,Belgrave Heights,69.4,walk_only
+21559,Lysterfield South,20189,Belgrave Heights,137.2,walk_only
+21561,Macclesfield (Vic.),20189,Belgrave Heights,,no_eligible_route
+21562,Macedon,20189,Belgrave Heights,,no_eligible_route
+21564,Macleod (Vic.),20189,Belgrave Heights,145.67,ok
+21569,Maddingley,20189,Belgrave Heights,,no_eligible_route
+21575,Maidstone,20189,Belgrave Heights,151.93,ok
+21578,Main Ridge,20189,Belgrave Heights,,no_eligible_route
+21586,Malvern (Vic.),20189,Belgrave Heights,114.27,ok
+21587,Malvern East,20189,Belgrave Heights,119.03,ok
+21588,Mambourin,20189,Belgrave Heights,,no_eligible_route
+21597,Manor Lakes,20189,Belgrave Heights,207.87,ok
+21604,Maribyrnong,20189,Belgrave Heights,152.68,ok
+21619,Maryknoll,20189,Belgrave Heights,,no_eligible_route
+21625,McCrae,20189,Belgrave Heights,,no_eligible_route
+21629,McKinnon,20189,Belgrave Heights,128.57,ok
+21635,Meadow Heights,20189,Belgrave Heights,174.23,ok
+21640,Melbourne,20189,Belgrave Heights,110.42,ok
+21641,Melbourne Airport,20189,Belgrave Heights,,no_eligible_route
+21642,Melton (Vic.),20189,Belgrave Heights,,no_eligible_route
+21643,Melton South,20189,Belgrave Heights,,no_eligible_route
+21644,Melton West,20189,Belgrave Heights,,no_eligible_route
+21648,Mentone,20189,Belgrave Heights,125.17,ok
+21649,Menzies Creek,20189,Belgrave Heights,48.35,ok
+21659,Mernda,20189,Belgrave Heights,194.53,ok
+21662,Merricks,20189,Belgrave Heights,,no_eligible_route
+21663,Merricks Beach,20189,Belgrave Heights,,no_eligible_route
+21664,Merricks North,20189,Belgrave Heights,,no_eligible_route
+21668,Merrimu,20189,Belgrave Heights,,no_eligible_route
+21675,Mickleham,20189,Belgrave Heights,,no_eligible_route
+21677,Middle Park (Vic.),20189,Belgrave Heights,138.95,ok
+21683,Mill Park,20189,Belgrave Heights,166.5,ok
+21685,Millgrove,20189,Belgrave Heights,,no_eligible_route
+21706,Mitcham (Vic.),20189,Belgrave Heights,77.17,ok
+21727,Monbulk,20189,Belgrave Heights,79.45,ok
+21728,Monegeetta,20189,Belgrave Heights,,no_eligible_route
+21731,Monomeith,20189,Belgrave Heights,,no_eligible_route
+21732,Mont Albert,20189,Belgrave Heights,91.42,ok
+21733,Mont Albert North,20189,Belgrave Heights,101.35,ok
+21735,Montmorency,20189,Belgrave Heights,123.7,ok
+21736,Montrose (Vic.),20189,Belgrave Heights,97.85,ok
+21742,Moonee Ponds,20189,Belgrave Heights,130.7,ok
+21746,Moorabbin,20189,Belgrave Heights,143.75,ok
+21747,Moorabbin Airport,20189,Belgrave Heights,143.08,ok
+21754,Moorooduc,20189,Belgrave Heights,,no_eligible_route
+21755,Mooroolbark,20189,Belgrave Heights,91.88,ok
+21760,Mordialloc,20189,Belgrave Heights,153.23,ok
+21763,Mornington (Vic.),20189,Belgrave Heights,195.85,ok
+21779,Mount Burnett,20189,Belgrave Heights,,no_eligible_route
+21786,Mount Cottrell,20189,Belgrave Heights,,no_eligible_route
+21787,Mount Dandenong,20189,Belgrave Heights,85.57,ok
+21793,Mount Eliza,20189,Belgrave Heights,174.03,ok
+21795,Mount Evelyn,20189,Belgrave Heights,75.5,ok
+21801,Mount Macedon,20189,Belgrave Heights,,no_eligible_route
+21803,Mount Martha,20189,Belgrave Heights,213.32,ok
+21814,Mount Toolebewong,20189,Belgrave Heights,,no_eligible_route
+21816,Mount Waverley,20189,Belgrave Heights,106.35,ok
+21827,Mulgrave (Vic.),20189,Belgrave Heights,108.2,ok
+21849,Murrumbeena,20189,Belgrave Heights,117.3,ok
+21872,Nangana,20189,Belgrave Heights,,no_eligible_route
+21878,Nar Nar Goon,20189,Belgrave Heights,,no_eligible_route
+21879,Nar Nar Goon North,20189,Belgrave Heights,,no_eligible_route
+21893,Narre Warren,20189,Belgrave Heights,134.0,ok
+21894,Narre Warren East,20189,Belgrave Heights,77.45,walk_only
+21895,Narre Warren North,20189,Belgrave Heights,108.6,walk_only
+21896,Narre Warren South,20189,Belgrave Heights,135.37,ok
+21921,New Gisborne,20189,Belgrave Heights,,no_eligible_route
+21934,Newport (Vic.),20189,Belgrave Heights,136.25,ok
+21942,Niddrie,20189,Belgrave Heights,165.2,ok
+21952,Noble Park,20189,Belgrave Heights,123.83,ok
+21953,Noble Park North,20189,Belgrave Heights,125.07,ok
+21966,North Melbourne,20189,Belgrave Heights,130.88,ok
+21969,North Warrandyte,20189,Belgrave Heights,123.53,ok
+21971,Northcote,20189,Belgrave Heights,136.2,ok
+21974,Notting Hill,20189,Belgrave Heights,89.62,ok
+21985,Nunawading,20189,Belgrave Heights,75.63,ok
+21991,Nutfield,20189,Belgrave Heights,,no_eligible_route
+21998,Oak Park,20189,Belgrave Heights,149.02,ok
+21999,Oaklands Junction,20189,Belgrave Heights,,no_eligible_route
+22000,Oakleigh,20189,Belgrave Heights,99.05,ok
+22001,Oakleigh East,20189,Belgrave Heights,100.65,ok
+22002,Oakleigh South,20189,Belgrave Heights,116.25,ok
+22006,Officer,20189,Belgrave Heights,148.1,ok
+22007,Officer South,20189,Belgrave Heights,,no_eligible_route
+22009,Olinda (Vic.),20189,Belgrave Heights,100.88,ok
+22016,Ormond,20189,Belgrave Heights,130.25,ok
+22027,Pakenham,20189,Belgrave Heights,147.15,ok
+22028,Pakenham South,20189,Belgrave Heights,,no_eligible_route
+22029,Pakenham Upper,20189,Belgrave Heights,,no_eligible_route
+22032,Panton Hill,20189,Belgrave Heights,,no_eligible_route
+22036,Park Orchards,20189,Belgrave Heights,97.67,ok
+22037,Parkdale,20189,Belgrave Heights,146.08,ok
+22038,Parkville (Vic.),20189,Belgrave Heights,130.53,ok
+22041,Pascoe Vale,20189,Belgrave Heights,153.38,ok
+22042,Pascoe Vale South,20189,Belgrave Heights,149.12,ok
+22047,Patterson Lakes,20189,Belgrave Heights,161.1,ok
+22050,Pearcedale,20189,Belgrave Heights,201.5,ok
+22058,Pentland Hills,20189,Belgrave Heights,,no_eligible_route
+22064,Pheasant Creek (Vic.),20189,Belgrave Heights,,no_eligible_route
+22084,Plenty (Vic.),20189,Belgrave Heights,145.55,ok
+22085,Plumpton (Vic.),20189,Belgrave Heights,,no_eligible_route
+22086,Point Cook,20189,Belgrave Heights,185.3,ok
+22087,Point Leo,20189,Belgrave Heights,,no_eligible_route
+22107,Port Melbourne,20189,Belgrave Heights,129.25,ok
+22113,Portsea,20189,Belgrave Heights,,no_eligible_route
+22115,Powelltown,20189,Belgrave Heights,,no_eligible_route
+22118,Prahran,20189,Belgrave Heights,119.13,ok
+22121,Preston (Vic.),20189,Belgrave Heights,147.6,ok
+22122,Princes Hill,20189,Belgrave Heights,131.68,ok
+22132,Quandong,20189,Belgrave Heights,,no_eligible_route
+22141,Ravenhall,20189,Belgrave Heights,,no_eligible_route
+22148,Red Hill (Vic.),20189,Belgrave Heights,,no_eligible_route
+22149,Red Hill South,20189,Belgrave Heights,,no_eligible_route
+22160,Research,20189,Belgrave Heights,129.43,ok
+22161,Reservoir (Vic.),20189,Belgrave Heights,150.82,ok
+22170,Richmond (Vic.),20189,Belgrave Heights,113.82,ok
+22172,Riddells Creek,20189,Belgrave Heights,,no_eligible_route
+22174,Ringwood (Vic.),20189,Belgrave Heights,72.67,ok
+22175,Ringwood East,20189,Belgrave Heights,82.65,ok
+22176,Ringwood North,20189,Belgrave Heights,92.4,ok
+22179,Ripponlea,20189,Belgrave Heights,118.22,ok
+22185,Rochford,20189,Belgrave Heights,,no_eligible_route
+22186,Rockbank,20189,Belgrave Heights,210.2,ok
+22193,Romsey,20189,Belgrave Heights,,no_eligible_route
+22194,Rosanna,20189,Belgrave Heights,135.32,ok
+22198,Rosebud,20189,Belgrave Heights,,no_eligible_route
+22207,Rowville,20189,Belgrave Heights,87.98,ok
+22208,Roxburgh Park,20189,Belgrave Heights,177.65,ok
+22220,Rye,20189,Belgrave Heights,,no_eligible_route
+22221,Rythdale,20189,Belgrave Heights,,no_eligible_route
+22222,Safety Beach (Vic.),20189,Belgrave Heights,224.53,ok
+22232,Sandhurst,20189,Belgrave Heights,159.18,ok
+22234,Sandringham (Vic.),20189,Belgrave Heights,144.15,ok
+22239,Sassafras (Vic.),20189,Belgrave Heights,82.33,ok
+22242,Scoresby,20189,Belgrave Heights,78.2,ok
+22247,Seabrook,20189,Belgrave Heights,170.22,ok
+22249,Seaford (Vic.),20189,Belgrave Heights,161.32,ok
+22250,Seaholme,20189,Belgrave Heights,150.1,ok
+22256,Seddon (Vic.),20189,Belgrave Heights,129.5,ok
+22258,Selby,20189,Belgrave Heights,48.02,ok
+22263,Seville,20189,Belgrave Heights,129.12,ok
+22264,Seville East,20189,Belgrave Heights,116.0,ok
+22278,Sherbrooke,20189,Belgrave Heights,61.07,ok
+22279,Shoreham,20189,Belgrave Heights,,no_eligible_route
+22281,Silvan,20189,Belgrave Heights,71.55,ok
+22291,Skye (Vic.),20189,Belgrave Heights,,no_eligible_route
+22295,Smiths Gully,20189,Belgrave Heights,,no_eligible_route
+22303,Somers,20189,Belgrave Heights,,no_eligible_route
+22304,Somerton (Vic.),20189,Belgrave Heights,176.62,ok
+22305,Somerville (Vic.),20189,Belgrave Heights,,no_eligible_route
+22306,Sorrento (Vic.),20189,Belgrave Heights,,no_eligible_route
+22309,South Kingsville,20189,Belgrave Heights,148.5,ok
+22310,South Melbourne,20189,Belgrave Heights,121.98,ok
+22311,South Morang,20189,Belgrave Heights,178.42,ok
+22313,South Wharf,20189,Belgrave Heights,122.25,ok
+22314,South Yarra,20189,Belgrave Heights,108.98,ok
+22315,Southbank,20189,Belgrave Heights,118.07,ok
+22319,Spotswood,20189,Belgrave Heights,129.65,ok
+22325,Springfield (Macedon Ranges - Vic.),20189,Belgrave Heights,,no_eligible_route
+22328,Springvale (Vic.),20189,Belgrave Heights,117.9,ok
+22329,Springvale South,20189,Belgrave Heights,117.52,ok
+22330,St Albans (Vic.),20189,Belgrave Heights,152.33,ok
+22332,St Andrews (Vic.),20189,Belgrave Heights,,no_eligible_route
+22333,St Andrews Beach,20189,Belgrave Heights,,no_eligible_route
+22339,St Helena,20189,Belgrave Heights,141.67,ok
+22343,St Kilda (Vic.),20189,Belgrave Heights,127.92,ok
+22344,St Kilda East,20189,Belgrave Heights,122.65,ok
+22345,St Kilda West,20189,Belgrave Heights,132.6,ok
+22355,Steels Creek,20189,Belgrave Heights,,no_eligible_route
+22375,Strathewen,20189,Belgrave Heights,,no_eligible_route
+22380,Strathmore (Vic.),20189,Belgrave Heights,157.18,ok
+22381,Strathmore Heights,20189,Belgrave Heights,171.43,ok
+22382,Strathtulloh,20189,Belgrave Heights,,no_eligible_route
+22391,Sunbury,20189,Belgrave Heights,,no_eligible_route
+22395,Sunshine (Vic.),20189,Belgrave Heights,141.12,ok
+22396,Sunshine North,20189,Belgrave Heights,170.92,ok
+22397,Sunshine West,20189,Belgrave Heights,173.28,ok
+22399,Surrey Hills,20189,Belgrave Heights,91.72,ok
+22414,Sydenham (Vic.),20189,Belgrave Heights,168.67,ok
+22451,Tarneit,20189,Belgrave Heights,203.5,ok
+22457,Tarrawarra,20189,Belgrave Heights,151.92,ok
+22473,Taylors Hill,20189,Belgrave Heights,177.73,ok
+22474,Taylors Lakes,20189,Belgrave Heights,175.85,ok
+22476,Tecoma,20189,Belgrave Heights,39.32,ok
+22483,Templestowe,20189,Belgrave Heights,119.97,ok
+22484,Templestowe Lower,20189,Belgrave Heights,119.7,ok
+22496,The Basin (Vic.),20189,Belgrave Heights,94.77,ok
+22501,The Patch,20189,Belgrave Heights,69.02,ok
+22504,Thomastown,20189,Belgrave Heights,159.3,ok
+22508,Thornbury,20189,Belgrave Heights,142.08,ok
+22509,Thornhill Park,20189,Belgrave Heights,,no_eligible_route
+22514,Three Bridges,20189,Belgrave Heights,,no_eligible_route
+22531,Tonimbuk,20189,Belgrave Heights,,no_eligible_route
+22536,Toolangi,20189,Belgrave Heights,,no_eligible_route
+22537,Toolern Vale,20189,Belgrave Heights,,no_eligible_route
+22546,Tooradin,20189,Belgrave Heights,,no_eligible_route
+22547,Toorak,20189,Belgrave Heights,118.93,ok
+22550,Tootgarook,20189,Belgrave Heights,,no_eligible_route
+22556,Tottenham (Vic.),20189,Belgrave Heights,163.68,ok
+22572,Travancore,20189,Belgrave Heights,138.07,ok
+22576,Tremont,20189,Belgrave Heights,64.65,ok
+22582,Truganina,20189,Belgrave Heights,,no_eligible_route
+22584,Tuerong,20189,Belgrave Heights,,no_eligible_route
+22586,Tullamarine,20189,Belgrave Heights,189.93,ok
+22594,Tyabb,20189,Belgrave Heights,,no_eligible_route
+22598,Tynong,20189,Belgrave Heights,,no_eligible_route
+22599,Tynong North,20189,Belgrave Heights,,no_eligible_route
+22614,Upper Ferntree Gully,20189,Belgrave Heights,51.82,ok
+22617,Upper Plenty,20189,Belgrave Heights,,no_eligible_route
+22620,Upwey,20189,Belgrave Heights,47.73,ok
+22627,Vermont,20189,Belgrave Heights,85.75,ok
+22628,Vermont South,20189,Belgrave Heights,91.87,ok
+22629,Vervale,20189,Belgrave Heights,,no_eligible_route
+22633,Viewbank,20189,Belgrave Heights,153.6,ok
+22661,Wallan,20189,Belgrave Heights,,no_eligible_route
+22672,Wandin East,20189,Belgrave Heights,,no_eligible_route
+22673,Wandin North,20189,Belgrave Heights,102.08,ok
+22676,Wandong,20189,Belgrave Heights,,no_eligible_route
+22685,Wantirna,20189,Belgrave Heights,94.43,ok
+22686,Wantirna South,20189,Belgrave Heights,91.45,ok
+22689,Warburton (Vic.),20189,Belgrave Heights,,no_eligible_route
+22695,Warneet,20189,Belgrave Heights,,no_eligible_route
+22702,Warrandyte,20189,Belgrave Heights,105.93,ok
+22703,Warrandyte South,20189,Belgrave Heights,120.32,ok
+22704,Warranwood,20189,Belgrave Heights,92.63,ok
+22717,Waterford Park,20189,Belgrave Heights,,no_eligible_route
+22720,Waterways,20189,Belgrave Heights,141.95,ok
+22721,Watsonia,20189,Belgrave Heights,140.58,ok
+22722,Watsonia North,20189,Belgrave Heights,148.08,ok
+22723,Watsons Creek (Vic.),20189,Belgrave Heights,,no_eligible_route
+22727,Wattle Glen,20189,Belgrave Heights,152.33,ok
+22740,Weir Views,20189,Belgrave Heights,,no_eligible_route
+22750,Werribee,20189,Belgrave Heights,170.43,ok
+22751,Werribee South,20189,Belgrave Heights,,no_eligible_route
+22753,Wesburn,20189,Belgrave Heights,134.05,ok
+22756,West Footscray,20189,Belgrave Heights,144.28,ok
+22757,West Melbourne,20189,Belgrave Heights,134.22,ok
+22761,Westmeadows,20189,Belgrave Heights,174.0,ok
+22766,Wheelers Hill,20189,Belgrave Heights,80.08,ok
+22775,Whittlesea,20189,Belgrave Heights,,no_eligible_route
+22784,Wildwood,20189,Belgrave Heights,,no_eligible_route
+22791,Williams Landing,20189,Belgrave Heights,170.03,ok
+22792,Williamstown (Vic.),20189,Belgrave Heights,138.47,ok
+22793,Williamstown North,20189,Belgrave Heights,155.83,ok
+22805,Windsor (Vic.),20189,Belgrave Heights,115.48,ok
+22820,Wollert,20189,Belgrave Heights,197.52,ok
+22825,Wonga Park,20189,Belgrave Heights,106.83,ok
+22843,Woodstock (Vic.),20189,Belgrave Heights,,no_eligible_route
+22857,Woori Yallock,20189,Belgrave Heights,113.2,ok
+22883,Wyndham Vale,20189,Belgrave Heights,198.63,ok
+22892,Yallambie,20189,Belgrave Heights,148.87,ok
+22898,Yan Yean,20189,Belgrave Heights,208.25,ok
+22906,Yannathan,20189,Belgrave Heights,,no_eligible_route
+22910,Yarra Glen,20189,Belgrave Heights,149.22,ok
+22911,Yarra Junction,20189,Belgrave Heights,138.32,ok
+22916,Yarrambat,20189,Belgrave Heights,163.42,ok
+22917,Yarraville,20189,Belgrave Heights,135.4,ok
+22925,Yellingbo,20189,Belgrave Heights,,no_eligible_route
+22930,Yering,20189,Belgrave Heights,,no_eligible_route
+22941,Yuroke,20189,Belgrave Heights,,no_eligible_route

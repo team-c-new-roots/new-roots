@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21125,Hallam,98.35,ok
+20003,Aberfeldie,21125,Hallam,122.3,ok
+20011,Aintree,21125,Hallam,146.63,ok
+20015,Airport West,21125,Hallam,133.0,ok
+20017,Albanvale,21125,Hallam,132.72,ok
+20018,Albert Park (Vic.),21125,Hallam,98.47,ok
+20021,Albion (Vic.),21125,Hallam,107.5,ok
+20034,Alphington,21125,Hallam,102.52,ok
+20035,Altona (Vic.),21125,Hallam,130.72,ok
+20036,Altona Meadows,21125,Hallam,135.55,ok
+20037,Altona North,21125,Hallam,132.0,ok
+20062,Ardeer,21125,Hallam,121.65,ok
+20066,Armadale (Vic.),21125,Hallam,72.73,ok
+20071,Arthurs Creek,21125,Hallam,,no_eligible_route
+20072,Arthurs Seat,21125,Hallam,,no_eligible_route
+20075,Ascot Vale,21125,Hallam,104.55,ok
+20077,Ashburton,21125,Hallam,88.6,ok
+20078,Ashwood,21125,Hallam,82.22,ok
+20079,Aspendale,21125,Hallam,99.68,ok
+20080,Aspendale Gardens,21125,Hallam,86.75,ok
+20082,Attwood,21125,Hallam,148.72,ok
+20089,Avondale Heights,21125,Hallam,124.03,ok
+20091,Avonsleigh,21125,Hallam,132.08,ok
+20095,Bacchus Marsh,21125,Hallam,,no_eligible_route
+20097,Badger Creek,21125,Hallam,201.2,ok
+20105,Balaclava (Vic.),21125,Hallam,83.28,ok
+20120,Balnarring,21125,Hallam,180.62,ok
+20121,Balnarring Beach,21125,Hallam,177.15,ok
+20123,Balwyn,21125,Hallam,109.12,ok
+20124,Balwyn North,21125,Hallam,117.25,ok
+20131,Bangholme,21125,Hallam,95.7,ok
+20169,Baxter,21125,Hallam,110.07,ok
+20171,Bayles,21125,Hallam,,no_eligible_route
+20173,Bayswater (Vic.),21125,Hallam,98.92,ok
+20174,Bayswater North,21125,Hallam,102.28,ok
+20175,Beaconsfield (Vic.),21125,Hallam,65.65,ok
+20176,Beaconsfield Upper,21125,Hallam,,no_eligible_route
+20182,Beaumaris (Vic.),21125,Hallam,93.88,ok
+20187,Beenak,21125,Hallam,,no_eligible_route
+20188,Belgrave,21125,Hallam,108.18,ok
+20189,Belgrave Heights,21125,Hallam,201.3,walk_only
+20190,Belgrave South,21125,Hallam,185.78,walk_only
+20198,Bellfield (Banyule - Vic.),21125,Hallam,119.27,ok
+20207,Bend Of Islands,21125,Hallam,,no_eligible_route
+20212,Benloch,21125,Hallam,,no_eligible_route
+20214,Bentleigh,21125,Hallam,74.88,ok
+20215,Bentleigh East,21125,Hallam,61.93,ok
+20224,Berwick,21125,Hallam,35.02,ok
+20233,Beveridge,21125,Hallam,179.27,ok
+20237,Big Pats Creek,21125,Hallam,,no_eligible_route
+20248,Bittern,21125,Hallam,131.33,ok
+20251,Black Rock (Vic.),21125,Hallam,103.2,ok
+20252,Blackburn,21125,Hallam,92.87,ok
+20253,Blackburn North,21125,Hallam,111.0,ok
+20254,Blackburn South,21125,Hallam,100.55,ok
+20257,Blairgowrie,21125,Hallam,187.42,ok
+20260,Blind Bight,21125,Hallam,,no_eligible_route
+20272,Bolinda,21125,Hallam,,no_eligible_route
+20278,Bonbeach,21125,Hallam,96.0,ok
+20280,Boneo,21125,Hallam,,no_eligible_route
+20282,Bonnie Brook,21125,Hallam,179.18,ok
+20304,Boronia,21125,Hallam,90.07,ok
+20307,Botanic Ridge,21125,Hallam,84.88,ok
+20314,Box Hill (Vic.),21125,Hallam,87.22,ok
+20315,Box Hill North,21125,Hallam,95.2,ok
+20316,Box Hill South,21125,Hallam,84.08,ok
+20320,Braeside,21125,Hallam,91.4,ok
+20324,Braybrook,21125,Hallam,109.28,ok
+20331,Briar Hill,21125,Hallam,129.1,ok
+20337,Brighton (Vic.),21125,Hallam,87.42,ok
+20338,Brighton East,21125,Hallam,76.57,ok
+20346,Broadmeadows (Vic.),21125,Hallam,132.47,ok
+20351,Brookfield (Vic.),21125,Hallam,,no_eligible_route
+20352,Brooklyn (Vic.),21125,Hallam,123.07,ok
+20361,Brunswick (Vic.),21125,Hallam,104.25,ok
+20362,Brunswick East,21125,Hallam,104.12,ok
+20363,Brunswick West,21125,Hallam,104.63,ok
+20381,Bulla (Vic.),21125,Hallam,,no_eligible_route
+20386,Bulleen,21125,Hallam,116.35,ok
+20387,Bullengarook,21125,Hallam,,no_eligible_route
+20399,Bundoora (Vic.),21125,Hallam,131.25,ok
+20411,Bunyip,21125,Hallam,,no_eligible_route
+20412,Bunyip North,21125,Hallam,,no_eligible_route
+20418,Burnley,21125,Hallam,98.83,ok
+20419,Burnside (Vic.),21125,Hallam,133.53,ok
+20420,Burnside Heights,21125,Hallam,138.53,ok
+20426,Burwood (Vic.),21125,Hallam,83.15,ok
+20427,Burwood East,21125,Hallam,87.08,ok
+20435,Bylands,21125,Hallam,,no_eligible_route
+20441,Cairnlea,21125,Hallam,114.72,ok
+20442,Calder Park,21125,Hallam,143.4,ok
+20443,Caldermeade,21125,Hallam,,no_eligible_route
+20453,Camberwell (Vic.),21125,Hallam,97.87,ok
+20455,Campbellfield,21125,Hallam,141.12,ok
+20466,Cannons Creek,21125,Hallam,,no_eligible_route
+20468,Canterbury (Vic.),21125,Hallam,107.77,ok
+20474,Cape Schanck,21125,Hallam,,no_eligible_route
+20476,Capel Sound,21125,Hallam,171.77,ok
+20487,Cardinia,21125,Hallam,,no_eligible_route
+20495,Carlton (Vic.),21125,Hallam,89.72,ok
+20496,Carlton North,21125,Hallam,106.3,ok
+20498,Carnegie,21125,Hallam,68.05,ok
+20500,Caroline Springs,21125,Hallam,133.42,ok
+20507,Carrum,21125,Hallam,95.82,ok
+20508,Carrum Downs,21125,Hallam,66.05,ok
+20512,Castella,21125,Hallam,,no_eligible_route
+20517,Catani,21125,Hallam,,no_eligible_route
+20521,Caulfield,21125,Hallam,78.58,ok
+20522,Caulfield East,21125,Hallam,65.72,ok
+20523,Caulfield North,21125,Hallam,69.73,ok
+20524,Caulfield South,21125,Hallam,80.02,ok
+20528,Chadstone,21125,Hallam,72.83,ok
+20537,Chelsea,21125,Hallam,83.12,ok
+20538,Chelsea Heights,21125,Hallam,87.05,ok
+20539,Cheltenham (Vic.),21125,Hallam,77.92,ok
+20541,Cherokee,21125,Hallam,,no_eligible_route
+20555,Chintin,21125,Hallam,,no_eligible_route
+20556,Chirnside Park,21125,Hallam,155.43,ok
+20559,Christmas Hills (Vic.),21125,Hallam,,no_eligible_route
+20560,Chum Creek,21125,Hallam,,no_eligible_route
+20566,Clarinda,21125,Hallam,67.28,ok
+20567,Clarkefield,21125,Hallam,,no_eligible_route
+20569,Clayton,21125,Hallam,64.4,ok
+20570,Clayton South,21125,Hallam,72.6,ok
+20572,Clematis,21125,Hallam,120.5,ok
+20574,Clifton Hill,21125,Hallam,96.6,ok
+20576,Clonbinane,21125,Hallam,,no_eligible_route
+20581,Clyde (Vic.),21125,Hallam,,no_eligible_route
+20582,Clyde North,21125,Hallam,63.97,ok
+20587,Cobaw,21125,Hallam,,no_eligible_route
+20590,Cobblebank,21125,Hallam,187.33,ok
+20596,Coburg,21125,Hallam,109.98,ok
+20597,Coburg North,21125,Hallam,119.55,ok
+20600,Cockatoo (Vic.),21125,Hallam,126.63,ok
+20601,Cocoroc,21125,Hallam,,no_eligible_route
+20605,Coimadai,21125,Hallam,,no_eligible_route
+20613,Coldstream (Vic.),21125,Hallam,,no_eligible_route
+20616,Collingwood (Vic.),21125,Hallam,98.95,ok
+20624,Coolaroo,21125,Hallam,132.95,ok
+20633,Cora Lynn,21125,Hallam,,no_eligible_route
+20654,Cottles Bridge,21125,Hallam,,no_eligible_route
+20661,Craigieburn,21125,Hallam,153.78,ok
+20662,Cranbourne,21125,Hallam,52.88,ok
+20663,Cranbourne East,21125,Hallam,62.77,ok
+20664,Cranbourne North,21125,Hallam,47.87,ok
+20665,Cranbourne South,21125,Hallam,88.23,ok
+20666,Cranbourne West,21125,Hallam,39.58,ok
+20670,Cremorne (Vic.),21125,Hallam,88.33,ok
+20674,Crib Point,21125,Hallam,140.3,ok
+20682,Croydon (Vic.),21125,Hallam,104.1,ok
+20683,Croydon Hills,21125,Hallam,118.55,ok
+20684,Croydon North,21125,Hallam,131.48,ok
+20685,Croydon South,21125,Hallam,111.73,ok
+20702,Dallas,21125,Hallam,134.65,ok
+20703,Dalmore,21125,Hallam,,no_eligible_route
+20707,Dandenong,21125,Hallam,36.8,ok
+20708,Dandenong North,21125,Hallam,57.48,ok
+20709,Dandenong South,21125,Hallam,61.33,ok
+20712,Darley,21125,Hallam,,no_eligible_route
+20716,Darraweit Guim,21125,Hallam,,no_eligible_route
+20724,Deanside,21125,Hallam,156.78,ok
+20728,Deepdene (Vic.),21125,Hallam,101.62,ok
+20729,Deer Park,21125,Hallam,118.48,ok
+20731,Delahey,21125,Hallam,129.62,ok
+20743,Derrimut,21125,Hallam,143.05,ok
+20748,Devon Meadows,21125,Hallam,,no_eligible_route
+20750,Dewhurst,21125,Hallam,,no_eligible_route
+20752,Diamond Creek,21125,Hallam,144.83,ok
+20754,Diggers Rest,21125,Hallam,135.6,ok
+20758,Dingley Village,21125,Hallam,65.25,ok
+20762,Dixons Creek,21125,Hallam,,no_eligible_route
+20766,Docklands,21125,Hallam,92.53,ok
+20769,Don Valley,21125,Hallam,,no_eligible_route
+20771,Doncaster,21125,Hallam,99.0,ok
+20772,Doncaster East,21125,Hallam,110.97,ok
+20773,Donnybrook (Vic.),21125,Hallam,177.8,ok
+20774,Donvale,21125,Hallam,112.7,ok
+20779,Doreen,21125,Hallam,177.32,ok
+20783,Doveton,21125,Hallam,40.55,ok
+20788,Dromana,21125,Hallam,,no_eligible_route
+20825,Eaglemont,21125,Hallam,120.85,ok
+20830,East Melbourne,21125,Hallam,89.12,ok
+20833,East Warburton,21125,Hallam,,no_eligible_route
+20843,Eden Park,21125,Hallam,,no_eligible_route
+20848,Edithvale,21125,Hallam,71.72,ok
+20864,Elsternwick,21125,Hallam,82.82,ok
+20865,Eltham (Vic.),21125,Hallam,130.07,ok
+20866,Eltham North,21125,Hallam,146.95,ok
+20867,Elwood,21125,Hallam,97.08,ok
+20868,Emerald (Vic.),21125,Hallam,,no_eligible_route
+20871,Endeavour Hills,21125,Hallam,40.33,ok
+20878,Epping (Vic.),21125,Hallam,161.37,ok
+20885,Essendon,21125,Hallam,114.77,ok
+20886,Essendon Fields,21125,Hallam,136.17,ok
+20887,Essendon North,21125,Hallam,117.05,ok
+20888,Essendon West,21125,Hallam,118.52,ok
+20889,Eumemmerring,21125,Hallam,23.92,ok
+20898,Exford,21125,Hallam,,no_eligible_route
+20899,Eynesbury,21125,Hallam,,no_eligible_route
+20901,Fairfield (Vic.),21125,Hallam,108.83,ok
+20909,Fawkner,21125,Hallam,133.57,ok
+20916,Fernshaw,21125,Hallam,,no_eligible_route
+20917,Ferntree Gully,21125,Hallam,83.83,ok
+20918,Ferny Creek,21125,Hallam,,no_eligible_route
+20920,Fingal (Vic.),21125,Hallam,,no_eligible_route
+20924,Fitzroy (Vic.),21125,Hallam,91.13,ok
+20925,Fitzroy North,21125,Hallam,98.73,ok
+20929,Flemington,21125,Hallam,106.87,ok
+20930,Flinders (Vic.),21125,Hallam,,no_eligible_route
+20935,Footscray,21125,Hallam,94.92,ok
+20937,Forest Hill (Vic.),21125,Hallam,77.4,ok
+20947,Frankston,21125,Hallam,77.42,ok
+20948,Frankston North,21125,Hallam,77.85,ok
+20949,Frankston South,21125,Hallam,115.05,ok
+20950,Fraser Rise,21125,Hallam,154.15,ok
+20965,Gardenvale,21125,Hallam,78.02,ok
+20966,Garfield,21125,Hallam,,no_eligible_route
+20967,Garfield North,21125,Hallam,,no_eligible_route
+20979,Gembrook,21125,Hallam,,no_eligible_route
+20995,Gilderoy,21125,Hallam,,no_eligible_route
+21001,Gisborne,21125,Hallam,,no_eligible_route
+21002,Gisborne South,21125,Hallam,,no_eligible_route
+21004,Gladstone Park,21125,Hallam,146.28,ok
+21005,Gladysdale,21125,Hallam,,no_eligible_route
+21009,Glen Huntly,21125,Hallam,74.32,ok
+21010,Glen Iris (Vic.),21125,Hallam,96.9,ok
+21013,Glen Waverley,21125,Hallam,68.0,ok
+21047,Glenroy (Vic.),21125,Hallam,127.32,ok
+21059,Goldie,21125,Hallam,,no_eligible_route
+21079,Gowanbrae,21125,Hallam,138.0,ok
+21087,Grangefields,21125,Hallam,183.63,ok
+21104,Greensborough,21125,Hallam,129.38,ok
+21105,Greenvale (Vic.),21125,Hallam,162.88,ok
+21115,Gruyere,21125,Hallam,,no_eligible_route
+21121,Guys Hill,21125,Hallam,197.58,walk_only
+21124,Hadfield,21125,Hallam,124.48,ok
+21125,Hallam,21125,Hallam,0.0,same_centroid
+21131,Hampton (Vic.),21125,Hallam,97.23,ok
+21132,Hampton East,21125,Hallam,89.55,ok
+21133,Hampton Park,21125,Hallam,25.55,ok
+21139,Harkaway,21125,Hallam,149.27,walk_only
+21140,Harkness,21125,Hallam,,no_eligible_route
+21145,Hastings (Vic.),21125,Hallam,128.22,ok
+21152,Hawthorn (Vic.),21125,Hallam,86.25,ok
+21153,Hawthorn East,21125,Hallam,89.63,ok
+21158,Healesville,21125,Hallam,205.12,ok
+21159,Heath Hill,21125,Hallam,,no_eligible_route
+21161,Heathcote Junction,21125,Hallam,,no_eligible_route
+21163,Heatherton,21125,Hallam,74.93,ok
+21165,Heathmont,21125,Hallam,101.35,ok
+21167,Heidelberg,21125,Hallam,118.92,ok
+21168,Heidelberg Heights,21125,Hallam,122.18,ok
+21169,Heidelberg West,21125,Hallam,123.37,ok
+21176,Hesket,21125,Hallam,,no_eligible_route
+21185,Highett,21125,Hallam,82.32,ok
+21193,Hillside (Melton - Vic.),21125,Hallam,135.68,ok
+21195,Hmas Cerberus,21125,Hallam,173.5,ok
+21196,Hoddles Creek,21125,Hallam,,no_eligible_route
+21202,Hopetoun Park,21125,Hallam,,no_eligible_route
+21203,Hoppers Crossing,21125,Hallam,142.55,ok
+21214,Hughesdale,21125,Hallam,58.97,ok
+21215,Humevale,21125,Hallam,,no_eligible_route
+21218,Huntingdale (Vic.),21125,Hallam,58.83,ok
+21223,Hurstbridge,21125,Hallam,145.38,ok
+21238,Iona,21125,Hallam,,no_eligible_route
+21246,Ivanhoe (Vic.),21125,Hallam,107.12,ok
+21247,Ivanhoe East,21125,Hallam,114.53,ok
+21248,Jacana,21125,Hallam,131.88,ok
+21277,Junction Village,21125,Hallam,95.22,ok
+21284,Kalkallo,21125,Hallam,170.8,ok
+21286,Kallista,21125,Hallam,147.32,ok
+21287,Kalorama,21125,Hallam,140.18,ok
+21294,Kangaroo Ground,21125,Hallam,,no_eligible_route
+21312,Kealba,21125,Hallam,122.75,ok
+21314,Keilor,21125,Hallam,159.02,ok
+21315,Keilor Downs,21125,Hallam,134.85,ok
+21316,Keilor East,21125,Hallam,130.67,ok
+21317,Keilor Lodge,21125,Hallam,138.47,ok
+21318,Keilor North,21125,Hallam,144.53,ok
+21319,Keilor Park,21125,Hallam,140.8,ok
+21327,Kensington (Vic.),21125,Hallam,99.72,ok
+21333,Kerrie,21125,Hallam,,no_eligible_route
+21336,Kew (Vic.),21125,Hallam,99.28,ok
+21337,Kew East,21125,Hallam,114.58,ok
+21339,Keysborough,21125,Hallam,61.97,ok
+21354,Kilsyth,21125,Hallam,124.52,ok
+21355,Kilsyth South,21125,Hallam,116.65,ok
+21358,Kinglake,21125,Hallam,,no_eligible_route
+21359,Kinglake Central,21125,Hallam,,no_eligible_route
+21360,Kinglake West,21125,Hallam,,no_eligible_route
+21362,Kings Park (Vic.),21125,Hallam,122.85,ok
+21363,Kingsbury,21125,Hallam,131.47,ok
+21365,Kingsville,21125,Hallam,103.95,ok
+21374,Knoxfield,21125,Hallam,73.3,ok
+21380,Koo Wee Rup,21125,Hallam,,no_eligible_route
+21381,Koo Wee Rup North,21125,Hallam,,no_eligible_route
+21393,Kooyong,21125,Hallam,85.03,ok
+21411,Kurunjang,21125,Hallam,205.42,ok
+21452,Lalor,21125,Hallam,129.8,ok
+21456,Lancefield,21125,Hallam,,no_eligible_route
+21459,Lang Lang,21125,Hallam,,no_eligible_route
+21460,Lang Lang East,21125,Hallam,,no_eligible_route
+21467,Langwarrin,21125,Hallam,75.6,ok
+21468,Langwarrin South,21125,Hallam,,no_eligible_route
+21473,Launching Place,21125,Hallam,,no_eligible_route
+21476,Laverton (Vic.),21125,Hallam,124.2,ok
+21477,Laverton North,21125,Hallam,150.63,ok
+21504,Lilydale (Vic.),21125,Hallam,142.37,ok
+21533,Long Forest,21125,Hallam,,no_eligible_route
+21547,Lower Plenty,21125,Hallam,152.75,ok
+21554,Lynbrook,21125,Hallam,31.9,ok
+21555,Lyndhurst (Vic.),21125,Hallam,76.75,ok
+21558,Lysterfield,21125,Hallam,124.8,ok
+21559,Lysterfield South,21125,Hallam,88.68,ok
+21561,Macclesfield (Vic.),21125,Hallam,,no_eligible_route
+21562,Macedon,21125,Hallam,,no_eligible_route
+21564,Macleod (Vic.),21125,Hallam,122.47,ok
+21569,Maddingley,21125,Hallam,,no_eligible_route
+21575,Maidstone,21125,Hallam,109.73,ok
+21578,Main Ridge,21125,Hallam,,no_eligible_route
+21586,Malvern (Vic.),21125,Hallam,79.75,ok
+21587,Malvern East,21125,Hallam,75.53,ok
+21588,Mambourin,21125,Hallam,,no_eligible_route
+21597,Manor Lakes,21125,Hallam,178.25,ok
+21604,Maribyrnong,21125,Hallam,115.37,ok
+21619,Maryknoll,21125,Hallam,,no_eligible_route
+21625,McCrae,21125,Hallam,,no_eligible_route
+21629,McKinnon,21125,Hallam,71.62,ok
+21635,Meadow Heights,21125,Hallam,144.77,ok
+21640,Melbourne,21125,Hallam,78.52,ok
+21641,Melbourne Airport,21125,Hallam,,no_eligible_route
+21642,Melton (Vic.),21125,Hallam,189.55,ok
+21643,Melton South,21125,Hallam,203.15,ok
+21644,Melton West,21125,Hallam,198.38,ok
+21648,Mentone,21125,Hallam,80.33,ok
+21649,Menzies Creek,21125,Hallam,124.13,ok
+21659,Mernda,21125,Hallam,165.28,ok
+21662,Merricks,21125,Hallam,,no_eligible_route
+21663,Merricks Beach,21125,Hallam,,no_eligible_route
+21664,Merricks North,21125,Hallam,,no_eligible_route
+21668,Merrimu,21125,Hallam,,no_eligible_route
+21675,Mickleham,21125,Hallam,185.78,ok
+21677,Middle Park (Vic.),21125,Hallam,102.75,ok
+21683,Mill Park,21125,Hallam,154.02,ok
+21685,Millgrove,21125,Hallam,,no_eligible_route
+21706,Mitcham (Vic.),21125,Hallam,103.62,ok
+21727,Monbulk,21125,Hallam,150.25,ok
+21728,Monegeetta,21125,Hallam,,no_eligible_route
+21731,Monomeith,21125,Hallam,,no_eligible_route
+21732,Mont Albert,21125,Hallam,100.2,ok
+21733,Mont Albert North,21125,Hallam,108.97,ok
+21735,Montmorency,21125,Hallam,131.03,ok
+21736,Montrose (Vic.),21125,Hallam,123.73,ok
+21742,Moonee Ponds,21125,Hallam,101.23,ok
+21746,Moorabbin,21125,Hallam,85.57,ok
+21747,Moorabbin Airport,21125,Hallam,74.85,ok
+21754,Moorooduc,21125,Hallam,,no_eligible_route
+21755,Mooroolbark,21125,Hallam,122.42,ok
+21760,Mordialloc,21125,Hallam,85.75,ok
+21763,Mornington (Vic.),21125,Hallam,128.48,ok
+21779,Mount Burnett,21125,Hallam,109.27,ok
+21786,Mount Cottrell,21125,Hallam,,no_eligible_route
+21787,Mount Dandenong,21125,Hallam,143.45,ok
+21793,Mount Eliza,21125,Hallam,102.83,ok
+21795,Mount Evelyn,21125,Hallam,141.58,ok
+21801,Mount Macedon,21125,Hallam,,no_eligible_route
+21803,Mount Martha,21125,Hallam,121.37,ok
+21814,Mount Toolebewong,21125,Hallam,,no_eligible_route
+21816,Mount Waverley,21125,Hallam,73.15,ok
+21827,Mulgrave (Vic.),21125,Hallam,71.77,ok
+21849,Murrumbeena,21125,Hallam,63.1,ok
+21872,Nangana,21125,Hallam,,no_eligible_route
+21878,Nar Nar Goon,21125,Hallam,,no_eligible_route
+21879,Nar Nar Goon North,21125,Hallam,,no_eligible_route
+21893,Narre Warren,21125,Hallam,30.22,ok
+21894,Narre Warren East,21125,Hallam,166.62,walk_only
+21895,Narre Warren North,21125,Hallam,44.2,ok
+21896,Narre Warren South,21125,Hallam,45.93,ok
+21921,New Gisborne,21125,Hallam,,no_eligible_route
+21934,Newport (Vic.),21125,Hallam,109.05,ok
+21942,Niddrie,21125,Hallam,129.0,ok
+21952,Noble Park,21125,Hallam,38.4,ok
+21953,Noble Park North,21125,Hallam,64.42,ok
+21966,North Melbourne,21125,Hallam,89.72,ok
+21969,North Warrandyte,21125,Hallam,153.6,ok
+21971,Northcote,21125,Hallam,108.53,ok
+21974,Notting Hill,21125,Hallam,72.25,ok
+21985,Nunawading,21125,Hallam,80.93,ok
+21991,Nutfield,21125,Hallam,,no_eligible_route
+21998,Oak Park,21125,Hallam,119.55,ok
+21999,Oaklands Junction,21125,Hallam,,no_eligible_route
+22000,Oakleigh,21125,Hallam,59.37,ok
+22001,Oakleigh East,21125,Hallam,69.98,ok
+22002,Oakleigh South,21125,Hallam,58.22,ok
+22006,Officer,21125,Hallam,54.67,ok
+22007,Officer South,21125,Hallam,92.67,ok
+22009,Olinda (Vic.),21125,Hallam,,no_eligible_route
+22016,Ormond,21125,Hallam,67.93,ok
+22027,Pakenham,21125,Hallam,52.02,ok
+22028,Pakenham South,21125,Hallam,,no_eligible_route
+22029,Pakenham Upper,21125,Hallam,85.22,ok
+22032,Panton Hill,21125,Hallam,,no_eligible_route
+22036,Park Orchards,21125,Hallam,108.2,ok
+22037,Parkdale,21125,Hallam,90.97,ok
+22038,Parkville (Vic.),21125,Hallam,96.33,ok
+22041,Pascoe Vale,21125,Hallam,123.92,ok
+22042,Pascoe Vale South,21125,Hallam,115.92,ok
+22047,Patterson Lakes,21125,Hallam,93.9,ok
+22050,Pearcedale,21125,Hallam,,no_eligible_route
+22058,Pentland Hills,21125,Hallam,,no_eligible_route
+22064,Pheasant Creek (Vic.),21125,Hallam,,no_eligible_route
+22084,Plenty (Vic.),21125,Hallam,159.08,ok
+22085,Plumpton (Vic.),21125,Hallam,,no_eligible_route
+22086,Point Cook,21125,Hallam,150.43,ok
+22087,Point Leo,21125,Hallam,,no_eligible_route
+22107,Port Melbourne,21125,Hallam,107.05,ok
+22113,Portsea,21125,Hallam,203.27,ok
+22115,Powelltown,21125,Hallam,,no_eligible_route
+22118,Prahran,21125,Hallam,92.12,ok
+22121,Preston (Vic.),21125,Hallam,118.32,ok
+22122,Princes Hill,21125,Hallam,100.48,ok
+22132,Quandong,21125,Hallam,,no_eligible_route
+22141,Ravenhall,21125,Hallam,164.23,ok
+22148,Red Hill (Vic.),21125,Hallam,,no_eligible_route
+22149,Red Hill South,21125,Hallam,,no_eligible_route
+22160,Research,21125,Hallam,147.47,ok
+22161,Reservoir (Vic.),21125,Hallam,126.62,ok
+22170,Richmond (Vic.),21125,Hallam,94.65,ok
+22172,Riddells Creek,21125,Hallam,,no_eligible_route
+22174,Ringwood (Vic.),21125,Hallam,95.15,ok
+22175,Ringwood East,21125,Hallam,113.3,ok
+22176,Ringwood North,21125,Hallam,102.93,ok
+22179,Ripponlea,21125,Hallam,84.1,ok
+22185,Rochford,21125,Hallam,,no_eligible_route
+22186,Rockbank,21125,Hallam,162.82,ok
+22193,Romsey,21125,Hallam,,no_eligible_route
+22194,Rosanna,21125,Hallam,116.93,ok
+22198,Rosebud,21125,Hallam,,no_eligible_route
+22207,Rowville,21125,Hallam,67.58,ok
+22208,Roxburgh Park,21125,Hallam,147.05,ok
+22220,Rye,21125,Hallam,195.48,ok
+22221,Rythdale,21125,Hallam,,no_eligible_route
+22222,Safety Beach (Vic.),21125,Hallam,138.33,ok
+22232,Sandhurst,21125,Hallam,91.98,ok
+22234,Sandringham (Vic.),21125,Hallam,99.33,ok
+22239,Sassafras (Vic.),21125,Hallam,133.25,ok
+22242,Scoresby,21125,Hallam,81.77,ok
+22247,Seabrook,21125,Hallam,132.5,ok
+22249,Seaford (Vic.),21125,Hallam,86.22,ok
+22250,Seaholme,21125,Hallam,125.4,ok
+22256,Seddon (Vic.),21125,Hallam,94.63,ok
+22258,Selby,21125,Hallam,131.47,ok
+22263,Seville,21125,Hallam,,no_eligible_route
+22264,Seville East,21125,Hallam,,no_eligible_route
+22278,Sherbrooke,21125,Hallam,132.87,ok
+22279,Shoreham,21125,Hallam,,no_eligible_route
+22281,Silvan,21125,Hallam,142.35,ok
+22291,Skye (Vic.),21125,Hallam,52.13,ok
+22295,Smiths Gully,21125,Hallam,,no_eligible_route
+22303,Somers,21125,Hallam,161.63,ok
+22304,Somerton (Vic.),21125,Hallam,151.42,ok
+22305,Somerville (Vic.),21125,Hallam,133.32,ok
+22306,Sorrento (Vic.),21125,Hallam,183.25,ok
+22309,South Kingsville,21125,Hallam,124.75,ok
+22310,South Melbourne,21125,Hallam,91.52,ok
+22311,South Morang,21125,Hallam,158.5,ok
+22313,South Wharf,21125,Hallam,94.52,ok
+22314,South Yarra,21125,Hallam,75.78,ok
+22315,Southbank,21125,Hallam,87.95,ok
+22319,Spotswood,21125,Hallam,106.45,ok
+22325,Springfield (Macedon Ranges - Vic.),21125,Hallam,,no_eligible_route
+22328,Springvale (Vic.),21125,Hallam,48.33,ok
+22329,Springvale South,21125,Hallam,52.32,ok
+22330,St Albans (Vic.),21125,Hallam,110.13,ok
+22332,St Andrews (Vic.),21125,Hallam,,no_eligible_route
+22333,St Andrews Beach,21125,Hallam,,no_eligible_route
+22339,St Helena,21125,Hallam,145.25,ok
+22343,St Kilda (Vic.),21125,Hallam,90.02,ok
+22344,St Kilda East,21125,Hallam,82.45,ok
+22345,St Kilda West,21125,Hallam,96.4,ok
+22355,Steels Creek,21125,Hallam,,no_eligible_route
+22375,Strathewen,21125,Hallam,,no_eligible_route
+22380,Strathmore (Vic.),21125,Hallam,127.72,ok
+22381,Strathmore Heights,21125,Hallam,138.07,ok
+22382,Strathtulloh,21125,Hallam,,no_eligible_route
+22391,Sunbury,21125,Hallam,178.42,ok
+22395,Sunshine (Vic.),21125,Hallam,98.92,ok
+22396,Sunshine North,21125,Hallam,123.98,ok
+22397,Sunshine West,21125,Hallam,126.27,ok
+22399,Surrey Hills,21125,Hallam,94.45,ok
+22414,Sydenham (Vic.),21125,Hallam,124.53,ok
+22451,Tarneit,21125,Hallam,158.5,ok
+22457,Tarrawarra,21125,Hallam,180.72,ok
+22473,Taylors Hill,21125,Hallam,134.35,ok
+22474,Taylors Lakes,21125,Hallam,129.42,ok
+22476,Tecoma,21125,Hallam,105.3,ok
+22483,Templestowe,21125,Hallam,128.37,ok
+22484,Templestowe Lower,21125,Hallam,116.5,ok
+22496,The Basin (Vic.),21125,Hallam,105.38,ok
+22501,The Patch,21125,Hallam,140.82,ok
+22504,Thomastown,21125,Hallam,135.1,ok
+22508,Thornbury,21125,Hallam,114.7,ok
+22509,Thornhill Park,21125,Hallam,,no_eligible_route
+22514,Three Bridges,21125,Hallam,,no_eligible_route
+22531,Tonimbuk,21125,Hallam,,no_eligible_route
+22536,Toolangi,21125,Hallam,,no_eligible_route
+22537,Toolern Vale,21125,Hallam,,no_eligible_route
+22546,Tooradin,21125,Hallam,,no_eligible_route
+22547,Toorak,21125,Hallam,85.73,ok
+22550,Tootgarook,21125,Hallam,178.9,ok
+22556,Tottenham (Vic.),21125,Hallam,124.45,ok
+22572,Travancore,21125,Hallam,100.87,ok
+22576,Tremont,21125,Hallam,116.07,ok
+22582,Truganina,21125,Hallam,231.88,ok
+22584,Tuerong,21125,Hallam,,no_eligible_route
+22586,Tullamarine,21125,Hallam,150.5,ok
+22594,Tyabb,21125,Hallam,125.63,ok
+22598,Tynong,21125,Hallam,,no_eligible_route
+22599,Tynong North,21125,Hallam,,no_eligible_route
+22614,Upper Ferntree Gully,21125,Hallam,95.62,ok
+22617,Upper Plenty,21125,Hallam,,no_eligible_route
+22620,Upwey,21125,Hallam,102.48,ok
+22627,Vermont,21125,Hallam,95.48,ok
+22628,Vermont South,21125,Hallam,91.78,ok
+22629,Vervale,21125,Hallam,,no_eligible_route
+22633,Viewbank,21125,Hallam,151.1,ok
+22661,Wallan,21125,Hallam,,no_eligible_route
+22672,Wandin East,21125,Hallam,,no_eligible_route
+22673,Wandin North,21125,Hallam,,no_eligible_route
+22676,Wandong,21125,Hallam,,no_eligible_route
+22685,Wantirna,21125,Hallam,88.52,ok
+22686,Wantirna South,21125,Hallam,81.8,ok
+22689,Warburton (Vic.),21125,Hallam,,no_eligible_route
+22695,Warneet,21125,Hallam,,no_eligible_route
+22702,Warrandyte,21125,Hallam,125.85,ok
+22703,Warrandyte South,21125,Hallam,140.23,ok
+22704,Warranwood,21125,Hallam,113.55,ok
+22717,Waterford Park,21125,Hallam,,no_eligible_route
+22720,Waterways,21125,Hallam,78.75,ok
+22721,Watsonia,21125,Hallam,117.38,ok
+22722,Watsonia North,21125,Hallam,138.25,ok
+22723,Watsons Creek (Vic.),21125,Hallam,,no_eligible_route
+22727,Wattle Glen,21125,Hallam,149.13,ok
+22740,Weir Views,21125,Hallam,,no_eligible_route
+22750,Werribee,21125,Hallam,145.72,ok
+22751,Werribee South,21125,Hallam,,no_eligible_route
+22753,Wesburn,21125,Hallam,,no_eligible_route
+22756,West Footscray,21125,Hallam,102.08,ok
+22757,West Melbourne,21125,Hallam,107.02,ok
+22761,Westmeadows,21125,Hallam,137.53,ok
+22766,Wheelers Hill,21125,Hallam,78.92,ok
+22775,Whittlesea,21125,Hallam,,no_eligible_route
+22784,Wildwood,21125,Hallam,,no_eligible_route
+22791,Williams Landing,21125,Hallam,138.45,ok
+22792,Williamstown (Vic.),21125,Hallam,115.27,ok
+22793,Williamstown North,21125,Hallam,130.77,ok
+22805,Windsor (Vic.),21125,Hallam,81.57,ok
+22820,Wollert,21125,Hallam,166.32,ok
+22825,Wonga Park,21125,Hallam,173.58,ok
+22843,Woodstock (Vic.),21125,Hallam,,no_eligible_route
+22857,Woori Yallock,21125,Hallam,,no_eligible_route
+22883,Wyndham Vale,21125,Hallam,163.17,ok
+22892,Yallambie,21125,Hallam,146.67,ok
+22898,Yan Yean,21125,Hallam,182.05,ok
+22906,Yannathan,21125,Hallam,,no_eligible_route
+22910,Yarra Glen,21125,Hallam,178.02,ok
+22911,Yarra Junction,21125,Hallam,,no_eligible_route
+22916,Yarrambat,21125,Hallam,162.53,ok
+22917,Yarraville,21125,Hallam,105.77,ok
+22925,Yellingbo,21125,Hallam,,no_eligible_route
+22930,Yering,21125,Hallam,,no_eligible_route
+22941,Yuroke,21125,Hallam,204.42,ok

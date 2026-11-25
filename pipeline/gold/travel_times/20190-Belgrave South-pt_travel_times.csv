@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20190,Belgrave South,122.18,ok
+20003,Aberfeldie,20190,Belgrave South,144.48,ok
+20011,Aintree,20190,Belgrave South,188.22,ok
+20015,Airport West,20190,Belgrave South,168.58,ok
+20017,Albanvale,20190,Belgrave South,174.3,ok
+20018,Albert Park (Vic.),20190,Belgrave South,134.95,ok
+20021,Albion (Vic.),20190,Belgrave South,149.08,ok
+20034,Alphington,20190,Belgrave South,134.1,ok
+20035,Altona (Vic.),20190,Belgrave South,160.18,ok
+20036,Altona Meadows,20190,Belgrave South,163.33,ok
+20037,Altona North,20190,Belgrave South,153.58,ok
+20062,Ardeer,20190,Belgrave South,167.32,ok
+20066,Armadale (Vic.),20190,Belgrave South,117.33,ok
+20071,Arthurs Creek,20190,Belgrave South,,no_eligible_route
+20072,Arthurs Seat,20190,Belgrave South,,no_eligible_route
+20075,Ascot Vale,20190,Belgrave South,138.32,ok
+20077,Ashburton,20190,Belgrave South,120.05,ok
+20078,Ashwood,20190,Belgrave South,115.45,ok
+20079,Aspendale,20190,Belgrave South,154.58,ok
+20080,Aspendale Gardens,20190,Belgrave South,148.33,ok
+20082,Attwood,20190,Belgrave South,192.53,ok
+20089,Avondale Heights,20190,Belgrave South,165.62,ok
+20091,Avonsleigh,20190,Belgrave South,77.52,ok
+20095,Bacchus Marsh,20190,Belgrave South,,no_eligible_route
+20097,Badger Creek,20190,Belgrave South,171.78,ok
+20105,Balaclava (Vic.),20190,Belgrave South,118.97,ok
+20120,Balnarring,20190,Belgrave South,,no_eligible_route
+20121,Balnarring Beach,20190,Belgrave South,,no_eligible_route
+20123,Balwyn,20190,Belgrave South,97.07,ok
+20124,Balwyn North,20190,Belgrave South,101.03,ok
+20131,Bangholme,20190,Belgrave South,,no_eligible_route
+20169,Baxter,20190,Belgrave South,,no_eligible_route
+20171,Bayles,20190,Belgrave South,,no_eligible_route
+20173,Bayswater (Vic.),20190,Belgrave South,65.57,ok
+20174,Bayswater North,20190,Belgrave South,86.75,ok
+20175,Beaconsfield (Vic.),20190,Belgrave South,155.03,ok
+20176,Beaconsfield Upper,20190,Belgrave South,185.6,walk_only
+20182,Beaumaris (Vic.),20190,Belgrave South,158.98,ok
+20187,Beenak,20190,Belgrave South,,no_eligible_route
+20188,Belgrave,20190,Belgrave South,24.93,ok
+20189,Belgrave Heights,20190,Belgrave South,36.02,ok
+20190,Belgrave South,20190,Belgrave South,0.0,same_centroid
+20198,Bellfield (Banyule - Vic.),20190,Belgrave South,141.13,ok
+20207,Bend Of Islands,20190,Belgrave South,,no_eligible_route
+20212,Benloch,20190,Belgrave South,,no_eligible_route
+20214,Bentleigh,20190,Belgrave South,135.77,ok
+20215,Bentleigh East,20190,Belgrave South,137.57,ok
+20224,Berwick,20190,Belgrave South,127.83,ok
+20233,Beveridge,20190,Belgrave South,,no_eligible_route
+20237,Big Pats Creek,20190,Belgrave South,,no_eligible_route
+20248,Bittern,20190,Belgrave South,,no_eligible_route
+20251,Black Rock (Vic.),20190,Belgrave South,172.07,ok
+20252,Blackburn,20190,Belgrave South,76.9,ok
+20253,Blackburn North,20190,Belgrave South,93.05,ok
+20254,Blackburn South,20190,Belgrave South,93.25,ok
+20257,Blairgowrie,20190,Belgrave South,,no_eligible_route
+20260,Blind Bight,20190,Belgrave South,,no_eligible_route
+20272,Bolinda,20190,Belgrave South,,no_eligible_route
+20278,Bonbeach,20190,Belgrave South,159.58,ok
+20280,Boneo,20190,Belgrave South,,no_eligible_route
+20282,Bonnie Brook,20190,Belgrave South,220.77,ok
+20304,Boronia,20190,Belgrave South,62.05,ok
+20307,Botanic Ridge,20190,Belgrave South,195.7,ok
+20314,Box Hill (Vic.),20190,Belgrave South,84.12,ok
+20315,Box Hill North,20190,Belgrave South,94.78,ok
+20316,Box Hill South,20190,Belgrave South,92.52,ok
+20320,Braeside,20190,Belgrave South,159.87,ok
+20324,Braybrook,20190,Belgrave South,155.93,ok
+20331,Briar Hill,20190,Belgrave South,129.68,ok
+20337,Brighton (Vic.),20190,Belgrave South,131.73,ok
+20338,Brighton East,20190,Belgrave South,139.98,ok
+20346,Broadmeadows (Vic.),20190,Belgrave South,161.93,ok
+20351,Brookfield (Vic.),20190,Belgrave South,,no_eligible_route
+20352,Brooklyn (Vic.),20190,Belgrave South,153.2,ok
+20361,Brunswick (Vic.),20190,Belgrave South,136.83,ok
+20362,Brunswick East,20190,Belgrave South,140.12,ok
+20363,Brunswick West,20190,Belgrave South,138.22,ok
+20381,Bulla (Vic.),20190,Belgrave South,,no_eligible_route
+20386,Bulleen,20190,Belgrave South,119.93,ok
+20387,Bullengarook,20190,Belgrave South,,no_eligible_route
+20399,Bundoora (Vic.),20190,Belgrave South,147.28,ok
+20411,Bunyip,20190,Belgrave South,,no_eligible_route
+20412,Bunyip North,20190,Belgrave South,,no_eligible_route
+20418,Burnley,20190,Belgrave South,112.53,ok
+20419,Burnside (Vic.),20190,Belgrave South,181.5,ok
+20420,Burnside Heights,20190,Belgrave South,181.12,ok
+20426,Burwood (Vic.),20190,Belgrave South,103.02,ok
+20427,Burwood East,20190,Belgrave South,95.82,ok
+20435,Bylands,20190,Belgrave South,,no_eligible_route
+20441,Cairnlea,20190,Belgrave South,156.3,ok
+20442,Calder Park,20190,Belgrave South,192.87,ok
+20443,Caldermeade,20190,Belgrave South,,no_eligible_route
+20453,Camberwell (Vic.),20190,Belgrave South,109.78,ok
+20455,Campbellfield,20190,Belgrave South,170.58,ok
+20466,Cannons Creek,20190,Belgrave South,,no_eligible_route
+20468,Canterbury (Vic.),20190,Belgrave South,92.62,ok
+20474,Cape Schanck,20190,Belgrave South,,no_eligible_route
+20476,Capel Sound,20190,Belgrave South,,no_eligible_route
+20487,Cardinia,20190,Belgrave South,,no_eligible_route
+20495,Carlton (Vic.),20190,Belgrave South,124.78,ok
+20496,Carlton North,20190,Belgrave South,136.88,ok
+20498,Carnegie,20190,Belgrave South,120.35,ok
+20500,Caroline Springs,20190,Belgrave South,176.0,ok
+20507,Carrum,20190,Belgrave South,159.4,ok
+20508,Carrum Downs,20190,Belgrave South,132.63,ok
+20512,Castella,20190,Belgrave South,,no_eligible_route
+20517,Catani,20190,Belgrave South,,no_eligible_route
+20521,Caulfield,20190,Belgrave South,137.03,ok
+20522,Caulfield East,20190,Belgrave South,119.3,ok
+20523,Caulfield North,20190,Belgrave South,119.68,ok
+20524,Caulfield South,20190,Belgrave South,143.6,ok
+20528,Chadstone,20190,Belgrave South,114.55,ok
+20537,Chelsea,20190,Belgrave South,144.7,ok
+20538,Chelsea Heights,20190,Belgrave South,155.98,ok
+20539,Cheltenham (Vic.),20190,Belgrave South,138.97,ok
+20541,Cherokee,20190,Belgrave South,,no_eligible_route
+20555,Chintin,20190,Belgrave South,,no_eligible_route
+20556,Chirnside Park,20190,Belgrave South,103.95,ok
+20559,Christmas Hills (Vic.),20190,Belgrave South,,no_eligible_route
+20560,Chum Creek,20190,Belgrave South,,no_eligible_route
+20566,Clarinda,20190,Belgrave South,126.87,ok
+20567,Clarkefield,20190,Belgrave South,,no_eligible_route
+20569,Clayton,20190,Belgrave South,114.0,ok
+20570,Clayton South,20190,Belgrave South,132.18,ok
+20572,Clematis,20190,Belgrave South,48.93,ok
+20574,Clifton Hill,20190,Belgrave South,121.1,ok
+20576,Clonbinane,20190,Belgrave South,,no_eligible_route
+20581,Clyde (Vic.),20190,Belgrave South,178.53,ok
+20582,Clyde North,20190,Belgrave South,162.98,ok
+20587,Cobaw,20190,Belgrave South,,no_eligible_route
+20590,Cobblebank,20190,Belgrave South,,no_eligible_route
+20596,Coburg,20190,Belgrave South,143.57,ok
+20597,Coburg North,20190,Belgrave South,153.13,ok
+20600,Cockatoo (Vic.),20190,Belgrave South,81.2,ok
+20601,Cocoroc,20190,Belgrave South,,no_eligible_route
+20605,Coimadai,20190,Belgrave South,,no_eligible_route
+20613,Coldstream (Vic.),20190,Belgrave South,,no_eligible_route
+20616,Collingwood (Vic.),20190,Belgrave South,119.52,ok
+20624,Coolaroo,20190,Belgrave South,162.8,ok
+20633,Cora Lynn,20190,Belgrave South,,no_eligible_route
+20654,Cottles Bridge,20190,Belgrave South,,no_eligible_route
+20661,Craigieburn,20190,Belgrave South,180.33,ok
+20662,Cranbourne,20190,Belgrave South,148.48,ok
+20663,Cranbourne East,20190,Belgrave South,152.33,ok
+20664,Cranbourne North,20190,Belgrave South,136.5,ok
+20665,Cranbourne South,20190,Belgrave South,,no_eligible_route
+20666,Cranbourne West,20190,Belgrave South,155.4,ok
+20670,Cremorne (Vic.),20190,Belgrave South,108.52,ok
+20674,Crib Point,20190,Belgrave South,,no_eligible_route
+20682,Croydon (Vic.),20190,Belgrave South,82.68,ok
+20683,Croydon Hills,20190,Belgrave South,97.02,ok
+20684,Croydon North,20190,Belgrave South,101.43,ok
+20685,Croydon South,20190,Belgrave South,90.18,ok
+20702,Dallas,20190,Belgrave South,169.23,ok
+20703,Dalmore,20190,Belgrave South,,no_eligible_route
+20707,Dandenong,20190,Belgrave South,104.15,ok
+20708,Dandenong North,20190,Belgrave South,101.57,ok
+20709,Dandenong South,20190,Belgrave South,130.23,ok
+20712,Darley,20190,Belgrave South,,no_eligible_route
+20716,Darraweit Guim,20190,Belgrave South,,no_eligible_route
+20724,Deanside,20190,Belgrave South,202.23,ok
+20728,Deepdene (Vic.),20190,Belgrave South,101.97,ok
+20729,Deer Park,20190,Belgrave South,176.78,ok
+20731,Delahey,20190,Belgrave South,173.2,ok
+20743,Derrimut,20190,Belgrave South,193.63,ok
+20748,Devon Meadows,20190,Belgrave South,185.28,ok
+20750,Dewhurst,20190,Belgrave South,180.97,walk_only
+20752,Diamond Creek,20190,Belgrave South,147.42,ok
+20754,Diggers Rest,20190,Belgrave South,201.5,ok
+20758,Dingley Village,20190,Belgrave South,132.47,ok
+20762,Dixons Creek,20190,Belgrave South,,no_eligible_route
+20766,Docklands,20190,Belgrave South,122.63,ok
+20769,Don Valley,20190,Belgrave South,,no_eligible_route
+20771,Doncaster,20190,Belgrave South,97.58,ok
+20772,Doncaster East,20190,Belgrave South,98.55,ok
+20773,Donnybrook (Vic.),20190,Belgrave South,,no_eligible_route
+20774,Donvale,20190,Belgrave South,103.28,ok
+20779,Doreen,20190,Belgrave South,,no_eligible_route
+20783,Doveton,20190,Belgrave South,115.93,ok
+20788,Dromana,20190,Belgrave South,,no_eligible_route
+20825,Eaglemont,20190,Belgrave South,126.7,ok
+20830,East Melbourne,20190,Belgrave South,116.7,ok
+20833,East Warburton,20190,Belgrave South,,no_eligible_route
+20843,Eden Park,20190,Belgrave South,,no_eligible_route
+20848,Edithvale,20190,Belgrave South,135.18,ok
+20864,Elsternwick,20190,Belgrave South,126.88,ok
+20865,Eltham (Vic.),20190,Belgrave South,129.65,ok
+20866,Eltham North,20190,Belgrave South,147.23,ok
+20867,Elwood,20190,Belgrave South,133.07,ok
+20868,Emerald (Vic.),20190,Belgrave South,76.12,ok
+20871,Endeavour Hills,20190,Belgrave South,115.57,ok
+20878,Epping (Vic.),20190,Belgrave South,175.32,ok
+20885,Essendon,20190,Belgrave South,144.23,ok
+20886,Essendon Fields,20190,Belgrave South,171.63,ok
+20887,Essendon North,20190,Belgrave South,152.63,ok
+20888,Essendon West,20190,Belgrave South,147.1,ok
+20889,Eumemmerring,20190,Belgrave South,132.85,ok
+20898,Exford,20190,Belgrave South,,no_eligible_route
+20899,Eynesbury,20190,Belgrave South,,no_eligible_route
+20901,Fairfield (Vic.),20190,Belgrave South,140.42,ok
+20909,Fawkner,20190,Belgrave South,163.03,ok
+20916,Fernshaw,20190,Belgrave South,,no_eligible_route
+20917,Ferntree Gully,20190,Belgrave South,62.28,ok
+20918,Ferny Creek,20190,Belgrave South,96.95,ok
+20920,Fingal (Vic.),20190,Belgrave South,,no_eligible_route
+20924,Fitzroy (Vic.),20190,Belgrave South,125.72,ok
+20925,Fitzroy North,20190,Belgrave South,132.85,ok
+20929,Flemington,20190,Belgrave South,136.85,ok
+20930,Flinders (Vic.),20190,Belgrave South,,no_eligible_route
+20935,Footscray,20190,Belgrave South,131.95,ok
+20937,Forest Hill (Vic.),20190,Belgrave South,94.97,ok
+20947,Frankston,20190,Belgrave South,158.37,ok
+20948,Frankston North,20190,Belgrave South,156.48,ok
+20949,Frankston South,20190,Belgrave South,,no_eligible_route
+20950,Fraser Rise,20190,Belgrave South,203.62,ok
+20965,Gardenvale,20190,Belgrave South,128.17,ok
+20966,Garfield,20190,Belgrave South,,no_eligible_route
+20967,Garfield North,20190,Belgrave South,,no_eligible_route
+20979,Gembrook,20190,Belgrave South,,no_eligible_route
+20995,Gilderoy,20190,Belgrave South,,no_eligible_route
+21001,Gisborne,20190,Belgrave South,,no_eligible_route
+21002,Gisborne South,20190,Belgrave South,,no_eligible_route
+21004,Gladstone Park,20190,Belgrave South,176.13,ok
+21005,Gladysdale,20190,Belgrave South,,no_eligible_route
+21009,Glen Huntly,20190,Belgrave South,131.9,ok
+21010,Glen Iris (Vic.),20190,Belgrave South,119.77,ok
+21013,Glen Waverley,20190,Belgrave South,90.58,ok
+21047,Glenroy (Vic.),20190,Belgrave South,156.78,ok
+21059,Goldie,20190,Belgrave South,,no_eligible_route
+21079,Gowanbrae,20190,Belgrave South,178.47,ok
+21087,Grangefields,20190,Belgrave South,225.22,ok
+21104,Greensborough,20190,Belgrave South,121.98,ok
+21105,Greenvale (Vic.),20190,Belgrave South,,no_eligible_route
+21115,Gruyere,20190,Belgrave South,,no_eligible_route
+21121,Guys Hill,20190,Belgrave South,159.62,walk_only
+21124,Hadfield,20190,Belgrave South,165.07,ok
+21125,Hallam,20190,Belgrave South,132.95,ok
+21131,Hampton (Vic.),20190,Belgrave South,139.57,ok
+21132,Hampton East,20190,Belgrave South,141.67,ok
+21133,Hampton Park,20190,Belgrave South,135.37,ok
+21139,Harkaway,20190,Belgrave South,107.25,walk_only
+21140,Harkness,20190,Belgrave South,,no_eligible_route
+21145,Hastings (Vic.),20190,Belgrave South,,no_eligible_route
+21152,Hawthorn (Vic.),20190,Belgrave South,104.93,ok
+21153,Hawthorn East,20190,Belgrave South,104.0,ok
+21158,Healesville,20190,Belgrave South,175.7,ok
+21159,Heath Hill,20190,Belgrave South,,no_eligible_route
+21161,Heathcote Junction,20190,Belgrave South,,no_eligible_route
+21163,Heatherton,20190,Belgrave South,141.25,ok
+21165,Heathmont,20190,Belgrave South,64.6,ok
+21167,Heidelberg,20190,Belgrave South,124.5,ok
+21168,Heidelberg Heights,20190,Belgrave South,143.77,ok
+21169,Heidelberg West,20190,Belgrave South,140.77,ok
+21176,Hesket,20190,Belgrave South,,no_eligible_route
+21185,Highett,20190,Belgrave South,139.9,ok
+21193,Hillside (Melton - Vic.),20190,Belgrave South,188.17,ok
+21195,Hmas Cerberus,20190,Belgrave South,,no_eligible_route
+21196,Hoddles Creek,20190,Belgrave South,,no_eligible_route
+21202,Hopetoun Park,20190,Belgrave South,,no_eligible_route
+21203,Hoppers Crossing,20190,Belgrave South,177.3,ok
+21214,Hughesdale,20190,Belgrave South,105.78,ok
+21215,Humevale,20190,Belgrave South,,no_eligible_route
+21218,Huntingdale (Vic.),20190,Belgrave South,107.28,ok
+21223,Hurstbridge,20190,Belgrave South,147.97,ok
+21238,Iona,20190,Belgrave South,,no_eligible_route
+21246,Ivanhoe (Vic.),20190,Belgrave South,138.7,ok
+21247,Ivanhoe East,20190,Belgrave South,138.67,ok
+21248,Jacana,20190,Belgrave South,161.35,ok
+21277,Junction Village,20190,Belgrave South,171.42,ok
+21284,Kalkallo,20190,Belgrave South,,no_eligible_route
+21286,Kallista,20190,Belgrave South,66.9,ok
+21287,Kalorama,20190,Belgrave South,94.2,ok
+21294,Kangaroo Ground,20190,Belgrave South,167.2,ok
+21312,Kealba,20190,Belgrave South,181.3,ok
+21314,Keilor,20190,Belgrave South,,no_eligible_route
+21315,Keilor Downs,20190,Belgrave South,176.43,ok
+21316,Keilor East,20190,Belgrave South,161.47,ok
+21317,Keilor Lodge,20190,Belgrave South,198.1,ok
+21318,Keilor North,20190,Belgrave South,199.88,ok
+21319,Keilor Park,20190,Belgrave South,169.38,ok
+21327,Kensington (Vic.),20190,Belgrave South,128.08,ok
+21333,Kerrie,20190,Belgrave South,,no_eligible_route
+21336,Kew (Vic.),20190,Belgrave South,112.38,ok
+21337,Kew East,20190,Belgrave South,126.52,ok
+21339,Keysborough,20190,Belgrave South,137.17,ok
+21354,Kilsyth,20190,Belgrave South,94.98,ok
+21355,Kilsyth South,20190,Belgrave South,86.12,ok
+21358,Kinglake,20190,Belgrave South,,no_eligible_route
+21359,Kinglake Central,20190,Belgrave South,,no_eligible_route
+21360,Kinglake West,20190,Belgrave South,,no_eligible_route
+21362,Kings Park (Vic.),20190,Belgrave South,171.63,ok
+21363,Kingsbury,20190,Belgrave South,161.05,ok
+21365,Kingsville,20190,Belgrave South,142.43,ok
+21374,Knoxfield,20190,Belgrave South,63.7,ok
+21380,Koo Wee Rup,20190,Belgrave South,,no_eligible_route
+21381,Koo Wee Rup North,20190,Belgrave South,,no_eligible_route
+21393,Kooyong,20190,Belgrave South,112.18,ok
+21411,Kurunjang,20190,Belgrave South,,no_eligible_route
+21452,Lalor,20190,Belgrave South,153.38,ok
+21456,Lancefield,20190,Belgrave South,,no_eligible_route
+21459,Lang Lang,20190,Belgrave South,,no_eligible_route
+21460,Lang Lang East,20190,Belgrave South,,no_eligible_route
+21467,Langwarrin,20190,Belgrave South,172.33,ok
+21468,Langwarrin South,20190,Belgrave South,,no_eligible_route
+21473,Launching Place,20190,Belgrave South,117.33,ok
+21476,Laverton (Vic.),20190,Belgrave South,155.78,ok
+21477,Laverton North,20190,Belgrave South,195.82,ok
+21504,Lilydale (Vic.),20190,Belgrave South,97.32,ok
+21533,Long Forest,20190,Belgrave South,,no_eligible_route
+21547,Lower Plenty,20190,Belgrave South,150.58,ok
+21554,Lynbrook,20190,Belgrave South,129.2,ok
+21555,Lyndhurst (Vic.),20190,Belgrave South,183.78,ok
+21558,Lysterfield,20190,Belgrave South,89.87,walk_only
+21559,Lysterfield South,20190,Belgrave South,157.65,walk_only
+21561,Macclesfield (Vic.),20190,Belgrave South,,no_eligible_route
+21562,Macedon,20190,Belgrave South,,no_eligible_route
+21564,Macleod (Vic.),20190,Belgrave South,145.05,ok
+21569,Maddingley,20190,Belgrave South,,no_eligible_route
+21575,Maidstone,20190,Belgrave South,151.32,ok
+21578,Main Ridge,20190,Belgrave South,,no_eligible_route
+21586,Malvern (Vic.),20190,Belgrave South,113.65,ok
+21587,Malvern East,20190,Belgrave South,118.42,ok
+21588,Mambourin,20190,Belgrave South,,no_eligible_route
+21597,Manor Lakes,20190,Belgrave South,207.25,ok
+21604,Maribyrnong,20190,Belgrave South,152.07,ok
+21619,Maryknoll,20190,Belgrave South,,no_eligible_route
+21625,McCrae,20190,Belgrave South,,no_eligible_route
+21629,McKinnon,20190,Belgrave South,128.27,ok
+21635,Meadow Heights,20190,Belgrave South,174.23,ok
+21640,Melbourne,20190,Belgrave South,109.8,ok
+21641,Melbourne Airport,20190,Belgrave South,,no_eligible_route
+21642,Melton (Vic.),20190,Belgrave South,,no_eligible_route
+21643,Melton South,20190,Belgrave South,,no_eligible_route
+21644,Melton West,20190,Belgrave South,,no_eligible_route
+21648,Mentone,20190,Belgrave South,124.55,ok
+21649,Menzies Creek,20190,Belgrave South,47.73,ok
+21659,Mernda,20190,Belgrave South,193.92,ok
+21662,Merricks,20190,Belgrave South,,no_eligible_route
+21663,Merricks Beach,20190,Belgrave South,,no_eligible_route
+21664,Merricks North,20190,Belgrave South,,no_eligible_route
+21668,Merrimu,20190,Belgrave South,,no_eligible_route
+21675,Mickleham,20190,Belgrave South,,no_eligible_route
+21677,Middle Park (Vic.),20190,Belgrave South,135.77,ok
+21683,Mill Park,20190,Belgrave South,165.88,ok
+21685,Millgrove,20190,Belgrave South,,no_eligible_route
+21706,Mitcham (Vic.),20190,Belgrave South,76.55,ok
+21727,Monbulk,20190,Belgrave South,78.83,ok
+21728,Monegeetta,20190,Belgrave South,,no_eligible_route
+21731,Monomeith,20190,Belgrave South,,no_eligible_route
+21732,Mont Albert,20190,Belgrave South,90.8,ok
+21733,Mont Albert North,20190,Belgrave South,100.73,ok
+21735,Montmorency,20190,Belgrave South,123.7,ok
+21736,Montrose (Vic.),20190,Belgrave South,97.23,ok
+21742,Moonee Ponds,20190,Belgrave South,130.7,ok
+21746,Moorabbin,20190,Belgrave South,143.13,ok
+21747,Moorabbin Airport,20190,Belgrave South,142.47,ok
+21754,Moorooduc,20190,Belgrave South,,no_eligible_route
+21755,Mooroolbark,20190,Belgrave South,91.88,ok
+21760,Mordialloc,20190,Belgrave South,152.62,ok
+21763,Mornington (Vic.),20190,Belgrave South,195.23,ok
+21779,Mount Burnett,20190,Belgrave South,236.92,walk_only
+21786,Mount Cottrell,20190,Belgrave South,,no_eligible_route
+21787,Mount Dandenong,20190,Belgrave South,84.95,ok
+21793,Mount Eliza,20190,Belgrave South,173.42,ok
+21795,Mount Evelyn,20190,Belgrave South,74.88,ok
+21801,Mount Macedon,20190,Belgrave South,,no_eligible_route
+21803,Mount Martha,20190,Belgrave South,212.7,ok
+21814,Mount Toolebewong,20190,Belgrave South,,no_eligible_route
+21816,Mount Waverley,20190,Belgrave South,105.73,ok
+21827,Mulgrave (Vic.),20190,Belgrave South,119.9,ok
+21849,Murrumbeena,20190,Belgrave South,116.68,ok
+21872,Nangana,20190,Belgrave South,,no_eligible_route
+21878,Nar Nar Goon,20190,Belgrave South,,no_eligible_route
+21879,Nar Nar Goon North,20190,Belgrave South,,no_eligible_route
+21893,Narre Warren,20190,Belgrave South,133.38,ok
+21894,Narre Warren East,20190,Belgrave South,41.08,walk_only
+21895,Narre Warren North,20190,Belgrave South,89.97,walk_only
+21896,Narre Warren South,20190,Belgrave South,134.75,ok
+21921,New Gisborne,20190,Belgrave South,,no_eligible_route
+21934,Newport (Vic.),20190,Belgrave South,135.63,ok
+21942,Niddrie,20190,Belgrave South,164.58,ok
+21952,Noble Park,20190,Belgrave South,123.22,ok
+21953,Noble Park North,20190,Belgrave South,124.45,ok
+21966,North Melbourne,20190,Belgrave South,132.3,ok
+21969,North Warrandyte,20190,Belgrave South,122.92,ok
+21971,Northcote,20190,Belgrave South,135.58,ok
+21974,Notting Hill,20190,Belgrave South,89.0,ok
+21985,Nunawading,20190,Belgrave South,75.02,ok
+21991,Nutfield,20190,Belgrave South,,no_eligible_route
+21998,Oak Park,20190,Belgrave South,149.02,ok
+21999,Oaklands Junction,20190,Belgrave South,,no_eligible_route
+22000,Oakleigh,20190,Belgrave South,98.43,ok
+22001,Oakleigh East,20190,Belgrave South,100.03,ok
+22002,Oakleigh South,20190,Belgrave South,115.63,ok
+22006,Officer,20190,Belgrave South,147.48,ok
+22007,Officer South,20190,Belgrave South,,no_eligible_route
+22009,Olinda (Vic.),20190,Belgrave South,100.27,ok
+22016,Ormond,20190,Belgrave South,129.63,ok
+22027,Pakenham,20190,Belgrave South,146.53,ok
+22028,Pakenham South,20190,Belgrave South,,no_eligible_route
+22029,Pakenham Upper,20190,Belgrave South,,no_eligible_route
+22032,Panton Hill,20190,Belgrave South,,no_eligible_route
+22036,Park Orchards,20190,Belgrave South,97.67,ok
+22037,Parkdale,20190,Belgrave South,145.47,ok
+22038,Parkville (Vic.),20190,Belgrave South,129.92,ok
+22041,Pascoe Vale,20190,Belgrave South,153.38,ok
+22042,Pascoe Vale South,20190,Belgrave South,149.12,ok
+22047,Patterson Lakes,20190,Belgrave South,160.48,ok
+22050,Pearcedale,20190,Belgrave South,216.35,ok
+22058,Pentland Hills,20190,Belgrave South,,no_eligible_route
+22064,Pheasant Creek (Vic.),20190,Belgrave South,,no_eligible_route
+22084,Plenty (Vic.),20190,Belgrave South,145.55,ok
+22085,Plumpton (Vic.),20190,Belgrave South,,no_eligible_route
+22086,Point Cook,20190,Belgrave South,184.68,ok
+22087,Point Leo,20190,Belgrave South,,no_eligible_route
+22107,Port Melbourne,20190,Belgrave South,128.63,ok
+22113,Portsea,20190,Belgrave South,,no_eligible_route
+22115,Powelltown,20190,Belgrave South,,no_eligible_route
+22118,Prahran,20190,Belgrave South,118.52,ok
+22121,Preston (Vic.),20190,Belgrave South,146.98,ok
+22122,Princes Hill,20190,Belgrave South,131.07,ok
+22132,Quandong,20190,Belgrave South,,no_eligible_route
+22141,Ravenhall,20190,Belgrave South,,no_eligible_route
+22148,Red Hill (Vic.),20190,Belgrave South,,no_eligible_route
+22149,Red Hill South,20190,Belgrave South,,no_eligible_route
+22160,Research,20190,Belgrave South,128.82,ok
+22161,Reservoir (Vic.),20190,Belgrave South,150.2,ok
+22170,Richmond (Vic.),20190,Belgrave South,113.2,ok
+22172,Riddells Creek,20190,Belgrave South,,no_eligible_route
+22174,Ringwood (Vic.),20190,Belgrave South,72.05,ok
+22175,Ringwood East,20190,Belgrave South,82.03,ok
+22176,Ringwood North,20190,Belgrave South,91.98,ok
+22179,Ripponlea,20190,Belgrave South,117.6,ok
+22185,Rochford,20190,Belgrave South,,no_eligible_route
+22186,Rockbank,20190,Belgrave South,209.58,ok
+22193,Romsey,20190,Belgrave South,,no_eligible_route
+22194,Rosanna,20190,Belgrave South,134.7,ok
+22198,Rosebud,20190,Belgrave South,,no_eligible_route
+22207,Rowville,20190,Belgrave South,87.37,ok
+22208,Roxburgh Park,20190,Belgrave South,177.03,ok
+22220,Rye,20190,Belgrave South,,no_eligible_route
+22221,Rythdale,20190,Belgrave South,,no_eligible_route
+22222,Safety Beach (Vic.),20190,Belgrave South,223.92,ok
+22232,Sandhurst,20190,Belgrave South,158.57,ok
+22234,Sandringham (Vic.),20190,Belgrave South,143.53,ok
+22239,Sassafras (Vic.),20190,Belgrave South,81.72,ok
+22242,Scoresby,20190,Belgrave South,77.58,ok
+22247,Seabrook,20190,Belgrave South,169.6,ok
+22249,Seaford (Vic.),20190,Belgrave South,160.7,ok
+22250,Seaholme,20190,Belgrave South,149.48,ok
+22256,Seddon (Vic.),20190,Belgrave South,128.88,ok
+22258,Selby,20190,Belgrave South,47.4,ok
+22263,Seville,20190,Belgrave South,128.5,ok
+22264,Seville East,20190,Belgrave South,115.38,ok
+22278,Sherbrooke,20190,Belgrave South,60.45,ok
+22279,Shoreham,20190,Belgrave South,,no_eligible_route
+22281,Silvan,20190,Belgrave South,70.93,ok
+22291,Skye (Vic.),20190,Belgrave South,,no_eligible_route
+22295,Smiths Gully,20190,Belgrave South,,no_eligible_route
+22303,Somers,20190,Belgrave South,,no_eligible_route
+22304,Somerton (Vic.),20190,Belgrave South,176.0,ok
+22305,Somerville (Vic.),20190,Belgrave South,,no_eligible_route
+22306,Sorrento (Vic.),20190,Belgrave South,,no_eligible_route
+22309,South Kingsville,20190,Belgrave South,147.88,ok
+22310,South Melbourne,20190,Belgrave South,121.37,ok
+22311,South Morang,20190,Belgrave South,178.42,ok
+22313,South Wharf,20190,Belgrave South,121.63,ok
+22314,South Yarra,20190,Belgrave South,108.37,ok
+22315,Southbank,20190,Belgrave South,117.45,ok
+22319,Spotswood,20190,Belgrave South,129.03,ok
+22325,Springfield (Macedon Ranges - Vic.),20190,Belgrave South,,no_eligible_route
+22328,Springvale (Vic.),20190,Belgrave South,117.28,ok
+22329,Springvale South,20190,Belgrave South,116.9,ok
+22330,St Albans (Vic.),20190,Belgrave South,151.72,ok
+22332,St Andrews (Vic.),20190,Belgrave South,,no_eligible_route
+22333,St Andrews Beach,20190,Belgrave South,,no_eligible_route
+22339,St Helena,20190,Belgrave South,141.67,ok
+22343,St Kilda (Vic.),20190,Belgrave South,127.3,ok
+22344,St Kilda East,20190,Belgrave South,122.03,ok
+22345,St Kilda West,20190,Belgrave South,131.98,ok
+22355,Steels Creek,20190,Belgrave South,,no_eligible_route
+22375,Strathewen,20190,Belgrave South,,no_eligible_route
+22380,Strathmore (Vic.),20190,Belgrave South,157.18,ok
+22381,Strathmore Heights,20190,Belgrave South,171.43,ok
+22382,Strathtulloh,20190,Belgrave South,,no_eligible_route
+22391,Sunbury,20190,Belgrave South,,no_eligible_route
+22395,Sunshine (Vic.),20190,Belgrave South,140.5,ok
+22396,Sunshine North,20190,Belgrave South,170.3,ok
+22397,Sunshine West,20190,Belgrave South,172.67,ok
+22399,Surrey Hills,20190,Belgrave South,91.1,ok
+22414,Sydenham (Vic.),20190,Belgrave South,168.05,ok
+22451,Tarneit,20190,Belgrave South,202.88,ok
+22457,Tarrawarra,20190,Belgrave South,151.3,ok
+22473,Taylors Hill,20190,Belgrave South,177.12,ok
+22474,Taylors Lakes,20190,Belgrave South,175.23,ok
+22476,Tecoma,20190,Belgrave South,38.7,ok
+22483,Templestowe,20190,Belgrave South,119.97,ok
+22484,Templestowe Lower,20190,Belgrave South,119.08,ok
+22496,The Basin (Vic.),20190,Belgrave South,94.15,ok
+22501,The Patch,20190,Belgrave South,68.4,ok
+22504,Thomastown,20190,Belgrave South,158.68,ok
+22508,Thornbury,20190,Belgrave South,141.47,ok
+22509,Thornhill Park,20190,Belgrave South,,no_eligible_route
+22514,Three Bridges,20190,Belgrave South,,no_eligible_route
+22531,Tonimbuk,20190,Belgrave South,,no_eligible_route
+22536,Toolangi,20190,Belgrave South,,no_eligible_route
+22537,Toolern Vale,20190,Belgrave South,,no_eligible_route
+22546,Tooradin,20190,Belgrave South,,no_eligible_route
+22547,Toorak,20190,Belgrave South,124.3,ok
+22550,Tootgarook,20190,Belgrave South,,no_eligible_route
+22556,Tottenham (Vic.),20190,Belgrave South,163.07,ok
+22572,Travancore,20190,Belgrave South,137.45,ok
+22576,Tremont,20190,Belgrave South,64.03,ok
+22582,Truganina,20190,Belgrave South,,no_eligible_route
+22584,Tuerong,20190,Belgrave South,,no_eligible_route
+22586,Tullamarine,20190,Belgrave South,189.32,ok
+22594,Tyabb,20190,Belgrave South,,no_eligible_route
+22598,Tynong,20190,Belgrave South,,no_eligible_route
+22599,Tynong North,20190,Belgrave South,,no_eligible_route
+22614,Upper Ferntree Gully,20190,Belgrave South,51.2,ok
+22617,Upper Plenty,20190,Belgrave South,,no_eligible_route
+22620,Upwey,20190,Belgrave South,47.12,ok
+22627,Vermont,20190,Belgrave South,85.13,ok
+22628,Vermont South,20190,Belgrave South,91.25,ok
+22629,Vervale,20190,Belgrave South,,no_eligible_route
+22633,Viewbank,20190,Belgrave South,152.98,ok
+22661,Wallan,20190,Belgrave South,,no_eligible_route
+22672,Wandin East,20190,Belgrave South,,no_eligible_route
+22673,Wandin North,20190,Belgrave South,101.47,ok
+22676,Wandong,20190,Belgrave South,,no_eligible_route
+22685,Wantirna,20190,Belgrave South,93.82,ok
+22686,Wantirna South,20190,Belgrave South,90.83,ok
+22689,Warburton (Vic.),20190,Belgrave South,,no_eligible_route
+22695,Warneet,20190,Belgrave South,,no_eligible_route
+22702,Warrandyte,20190,Belgrave South,105.32,ok
+22703,Warrandyte South,20190,Belgrave South,119.7,ok
+22704,Warranwood,20190,Belgrave South,92.02,ok
+22717,Waterford Park,20190,Belgrave South,,no_eligible_route
+22720,Waterways,20190,Belgrave South,141.33,ok
+22721,Watsonia,20190,Belgrave South,139.97,ok
+22722,Watsonia North,20190,Belgrave South,147.47,ok
+22723,Watsons Creek (Vic.),20190,Belgrave South,,no_eligible_route
+22727,Wattle Glen,20190,Belgrave South,151.72,ok
+22740,Weir Views,20190,Belgrave South,,no_eligible_route
+22750,Werribee,20190,Belgrave South,169.82,ok
+22751,Werribee South,20190,Belgrave South,,no_eligible_route
+22753,Wesburn,20190,Belgrave South,133.43,ok
+22756,West Footscray,20190,Belgrave South,143.67,ok
+22757,West Melbourne,20190,Belgrave South,133.6,ok
+22761,Westmeadows,20190,Belgrave South,174.0,ok
+22766,Wheelers Hill,20190,Belgrave South,79.47,ok
+22775,Whittlesea,20190,Belgrave South,,no_eligible_route
+22784,Wildwood,20190,Belgrave South,,no_eligible_route
+22791,Williams Landing,20190,Belgrave South,170.03,ok
+22792,Williamstown (Vic.),20190,Belgrave South,137.85,ok
+22793,Williamstown North,20190,Belgrave South,155.22,ok
+22805,Windsor (Vic.),20190,Belgrave South,114.87,ok
+22820,Wollert,20190,Belgrave South,196.9,ok
+22825,Wonga Park,20190,Belgrave South,106.22,ok
+22843,Woodstock (Vic.),20190,Belgrave South,,no_eligible_route
+22857,Woori Yallock,20190,Belgrave South,112.58,ok
+22883,Wyndham Vale,20190,Belgrave South,203.03,ok
+22892,Yallambie,20190,Belgrave South,148.25,ok
+22898,Yan Yean,20190,Belgrave South,207.63,ok
+22906,Yannathan,20190,Belgrave South,,no_eligible_route
+22910,Yarra Glen,20190,Belgrave South,148.6,ok
+22911,Yarra Junction,20190,Belgrave South,137.7,ok
+22916,Yarrambat,20190,Belgrave South,163.42,ok
+22917,Yarraville,20190,Belgrave South,134.78,ok
+22925,Yellingbo,20190,Belgrave South,,no_eligible_route
+22930,Yering,20190,Belgrave South,,no_eligible_route
+22941,Yuroke,20190,Belgrave South,,no_eligible_route

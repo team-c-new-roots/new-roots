@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22629,Vervale,,no_eligible_route
+20003,Aberfeldie,22629,Vervale,,no_eligible_route
+20011,Aintree,22629,Vervale,,no_eligible_route
+20015,Airport West,22629,Vervale,,no_eligible_route
+20017,Albanvale,22629,Vervale,,no_eligible_route
+20018,Albert Park (Vic.),22629,Vervale,,no_eligible_route
+20021,Albion (Vic.),22629,Vervale,,no_eligible_route
+20034,Alphington,22629,Vervale,,no_eligible_route
+20035,Altona (Vic.),22629,Vervale,,no_eligible_route
+20036,Altona Meadows,22629,Vervale,,no_eligible_route
+20037,Altona North,22629,Vervale,,no_eligible_route
+20062,Ardeer,22629,Vervale,,no_eligible_route
+20066,Armadale (Vic.),22629,Vervale,,no_eligible_route
+20071,Arthurs Creek,22629,Vervale,,no_eligible_route
+20072,Arthurs Seat,22629,Vervale,,no_eligible_route
+20075,Ascot Vale,22629,Vervale,,no_eligible_route
+20077,Ashburton,22629,Vervale,,no_eligible_route
+20078,Ashwood,22629,Vervale,,no_eligible_route
+20079,Aspendale,22629,Vervale,,no_eligible_route
+20080,Aspendale Gardens,22629,Vervale,,no_eligible_route
+20082,Attwood,22629,Vervale,,no_eligible_route
+20089,Avondale Heights,22629,Vervale,,no_eligible_route
+20091,Avonsleigh,22629,Vervale,,no_eligible_route
+20095,Bacchus Marsh,22629,Vervale,,no_eligible_route
+20097,Badger Creek,22629,Vervale,,no_eligible_route
+20105,Balaclava (Vic.),22629,Vervale,,no_eligible_route
+20120,Balnarring,22629,Vervale,,no_eligible_route
+20121,Balnarring Beach,22629,Vervale,,no_eligible_route
+20123,Balwyn,22629,Vervale,,no_eligible_route
+20124,Balwyn North,22629,Vervale,,no_eligible_route
+20131,Bangholme,22629,Vervale,,no_eligible_route
+20169,Baxter,22629,Vervale,,no_eligible_route
+20171,Bayles,22629,Vervale,113.02,walk_only
+20173,Bayswater (Vic.),22629,Vervale,,no_eligible_route
+20174,Bayswater North,22629,Vervale,,no_eligible_route
+20175,Beaconsfield (Vic.),22629,Vervale,,no_eligible_route
+20176,Beaconsfield Upper,22629,Vervale,,no_eligible_route
+20182,Beaumaris (Vic.),22629,Vervale,,no_eligible_route
+20187,Beenak,22629,Vervale,,no_eligible_route
+20188,Belgrave,22629,Vervale,,no_eligible_route
+20189,Belgrave Heights,22629,Vervale,,no_eligible_route
+20190,Belgrave South,22629,Vervale,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),22629,Vervale,,no_eligible_route
+20207,Bend Of Islands,22629,Vervale,,no_eligible_route
+20212,Benloch,22629,Vervale,,no_eligible_route
+20214,Bentleigh,22629,Vervale,,no_eligible_route
+20215,Bentleigh East,22629,Vervale,,no_eligible_route
+20224,Berwick,22629,Vervale,,no_eligible_route
+20233,Beveridge,22629,Vervale,,no_eligible_route
+20237,Big Pats Creek,22629,Vervale,,no_eligible_route
+20248,Bittern,22629,Vervale,,no_eligible_route
+20251,Black Rock (Vic.),22629,Vervale,,no_eligible_route
+20252,Blackburn,22629,Vervale,,no_eligible_route
+20253,Blackburn North,22629,Vervale,,no_eligible_route
+20254,Blackburn South,22629,Vervale,,no_eligible_route
+20257,Blairgowrie,22629,Vervale,,no_eligible_route
+20260,Blind Bight,22629,Vervale,,no_eligible_route
+20272,Bolinda,22629,Vervale,,no_eligible_route
+20278,Bonbeach,22629,Vervale,,no_eligible_route
+20280,Boneo,22629,Vervale,,no_eligible_route
+20282,Bonnie Brook,22629,Vervale,,no_eligible_route
+20304,Boronia,22629,Vervale,,no_eligible_route
+20307,Botanic Ridge,22629,Vervale,,no_eligible_route
+20314,Box Hill (Vic.),22629,Vervale,,no_eligible_route
+20315,Box Hill North,22629,Vervale,,no_eligible_route
+20316,Box Hill South,22629,Vervale,,no_eligible_route
+20320,Braeside,22629,Vervale,,no_eligible_route
+20324,Braybrook,22629,Vervale,,no_eligible_route
+20331,Briar Hill,22629,Vervale,,no_eligible_route
+20337,Brighton (Vic.),22629,Vervale,,no_eligible_route
+20338,Brighton East,22629,Vervale,,no_eligible_route
+20346,Broadmeadows (Vic.),22629,Vervale,,no_eligible_route
+20351,Brookfield (Vic.),22629,Vervale,,no_eligible_route
+20352,Brooklyn (Vic.),22629,Vervale,,no_eligible_route
+20361,Brunswick (Vic.),22629,Vervale,,no_eligible_route
+20362,Brunswick East,22629,Vervale,,no_eligible_route
+20363,Brunswick West,22629,Vervale,,no_eligible_route
+20381,Bulla (Vic.),22629,Vervale,,no_eligible_route
+20386,Bulleen,22629,Vervale,,no_eligible_route
+20387,Bullengarook,22629,Vervale,,no_eligible_route
+20399,Bundoora (Vic.),22629,Vervale,,no_eligible_route
+20411,Bunyip,22629,Vervale,97.1,walk_only
+20412,Bunyip North,22629,Vervale,156.3,walk_only
+20418,Burnley,22629,Vervale,,no_eligible_route
+20419,Burnside (Vic.),22629,Vervale,,no_eligible_route
+20420,Burnside Heights,22629,Vervale,,no_eligible_route
+20426,Burwood (Vic.),22629,Vervale,,no_eligible_route
+20427,Burwood East,22629,Vervale,,no_eligible_route
+20435,Bylands,22629,Vervale,,no_eligible_route
+20441,Cairnlea,22629,Vervale,,no_eligible_route
+20442,Calder Park,22629,Vervale,,no_eligible_route
+20443,Caldermeade,22629,Vervale,234.88,walk_only
+20453,Camberwell (Vic.),22629,Vervale,,no_eligible_route
+20455,Campbellfield,22629,Vervale,,no_eligible_route
+20466,Cannons Creek,22629,Vervale,,no_eligible_route
+20468,Canterbury (Vic.),22629,Vervale,,no_eligible_route
+20474,Cape Schanck,22629,Vervale,,no_eligible_route
+20476,Capel Sound,22629,Vervale,,no_eligible_route
+20487,Cardinia,22629,Vervale,,no_eligible_route
+20495,Carlton (Vic.),22629,Vervale,,no_eligible_route
+20496,Carlton North,22629,Vervale,,no_eligible_route
+20498,Carnegie,22629,Vervale,,no_eligible_route
+20500,Caroline Springs,22629,Vervale,,no_eligible_route
+20507,Carrum,22629,Vervale,,no_eligible_route
+20508,Carrum Downs,22629,Vervale,,no_eligible_route
+20512,Castella,22629,Vervale,,no_eligible_route
+20517,Catani,22629,Vervale,112.37,walk_only
+20521,Caulfield,22629,Vervale,,no_eligible_route
+20522,Caulfield East,22629,Vervale,,no_eligible_route
+20523,Caulfield North,22629,Vervale,,no_eligible_route
+20524,Caulfield South,22629,Vervale,,no_eligible_route
+20528,Chadstone,22629,Vervale,,no_eligible_route
+20537,Chelsea,22629,Vervale,,no_eligible_route
+20538,Chelsea Heights,22629,Vervale,,no_eligible_route
+20539,Cheltenham (Vic.),22629,Vervale,,no_eligible_route
+20541,Cherokee,22629,Vervale,,no_eligible_route
+20555,Chintin,22629,Vervale,,no_eligible_route
+20556,Chirnside Park,22629,Vervale,,no_eligible_route
+20559,Christmas Hills (Vic.),22629,Vervale,,no_eligible_route
+20560,Chum Creek,22629,Vervale,,no_eligible_route
+20566,Clarinda,22629,Vervale,,no_eligible_route
+20567,Clarkefield,22629,Vervale,,no_eligible_route
+20569,Clayton,22629,Vervale,,no_eligible_route
+20570,Clayton South,22629,Vervale,,no_eligible_route
+20572,Clematis,22629,Vervale,,no_eligible_route
+20574,Clifton Hill,22629,Vervale,,no_eligible_route
+20576,Clonbinane,22629,Vervale,,no_eligible_route
+20581,Clyde (Vic.),22629,Vervale,,no_eligible_route
+20582,Clyde North,22629,Vervale,,no_eligible_route
+20587,Cobaw,22629,Vervale,,no_eligible_route
+20590,Cobblebank,22629,Vervale,,no_eligible_route
+20596,Coburg,22629,Vervale,,no_eligible_route
+20597,Coburg North,22629,Vervale,,no_eligible_route
+20600,Cockatoo (Vic.),22629,Vervale,,no_eligible_route
+20601,Cocoroc,22629,Vervale,,no_eligible_route
+20605,Coimadai,22629,Vervale,,no_eligible_route
+20613,Coldstream (Vic.),22629,Vervale,,no_eligible_route
+20616,Collingwood (Vic.),22629,Vervale,,no_eligible_route
+20624,Coolaroo,22629,Vervale,,no_eligible_route
+20633,Cora Lynn,22629,Vervale,47.33,walk_only
+20654,Cottles Bridge,22629,Vervale,,no_eligible_route
+20661,Craigieburn,22629,Vervale,,no_eligible_route
+20662,Cranbourne,22629,Vervale,,no_eligible_route
+20663,Cranbourne East,22629,Vervale,,no_eligible_route
+20664,Cranbourne North,22629,Vervale,,no_eligible_route
+20665,Cranbourne South,22629,Vervale,,no_eligible_route
+20666,Cranbourne West,22629,Vervale,,no_eligible_route
+20670,Cremorne (Vic.),22629,Vervale,,no_eligible_route
+20674,Crib Point,22629,Vervale,,no_eligible_route
+20682,Croydon (Vic.),22629,Vervale,,no_eligible_route
+20683,Croydon Hills,22629,Vervale,,no_eligible_route
+20684,Croydon North,22629,Vervale,,no_eligible_route
+20685,Croydon South,22629,Vervale,,no_eligible_route
+20702,Dallas,22629,Vervale,,no_eligible_route
+20703,Dalmore,22629,Vervale,,no_eligible_route
+20707,Dandenong,22629,Vervale,,no_eligible_route
+20708,Dandenong North,22629,Vervale,,no_eligible_route
+20709,Dandenong South,22629,Vervale,,no_eligible_route
+20712,Darley,22629,Vervale,,no_eligible_route
+20716,Darraweit Guim,22629,Vervale,,no_eligible_route
+20724,Deanside,22629,Vervale,,no_eligible_route
+20728,Deepdene (Vic.),22629,Vervale,,no_eligible_route
+20729,Deer Park,22629,Vervale,,no_eligible_route
+20731,Delahey,22629,Vervale,,no_eligible_route
+20743,Derrimut,22629,Vervale,,no_eligible_route
+20748,Devon Meadows,22629,Vervale,,no_eligible_route
+20750,Dewhurst,22629,Vervale,,no_eligible_route
+20752,Diamond Creek,22629,Vervale,,no_eligible_route
+20754,Diggers Rest,22629,Vervale,,no_eligible_route
+20758,Dingley Village,22629,Vervale,,no_eligible_route
+20762,Dixons Creek,22629,Vervale,,no_eligible_route
+20766,Docklands,22629,Vervale,,no_eligible_route
+20769,Don Valley,22629,Vervale,,no_eligible_route
+20771,Doncaster,22629,Vervale,,no_eligible_route
+20772,Doncaster East,22629,Vervale,,no_eligible_route
+20773,Donnybrook (Vic.),22629,Vervale,,no_eligible_route
+20774,Donvale,22629,Vervale,,no_eligible_route
+20779,Doreen,22629,Vervale,,no_eligible_route
+20783,Doveton,22629,Vervale,,no_eligible_route
+20788,Dromana,22629,Vervale,,no_eligible_route
+20825,Eaglemont,22629,Vervale,,no_eligible_route
+20830,East Melbourne,22629,Vervale,,no_eligible_route
+20833,East Warburton,22629,Vervale,,no_eligible_route
+20843,Eden Park,22629,Vervale,,no_eligible_route
+20848,Edithvale,22629,Vervale,,no_eligible_route
+20864,Elsternwick,22629,Vervale,,no_eligible_route
+20865,Eltham (Vic.),22629,Vervale,,no_eligible_route
+20866,Eltham North,22629,Vervale,,no_eligible_route
+20867,Elwood,22629,Vervale,,no_eligible_route
+20868,Emerald (Vic.),22629,Vervale,,no_eligible_route
+20871,Endeavour Hills,22629,Vervale,,no_eligible_route
+20878,Epping (Vic.),22629,Vervale,,no_eligible_route
+20885,Essendon,22629,Vervale,,no_eligible_route
+20886,Essendon Fields,22629,Vervale,,no_eligible_route
+20887,Essendon North,22629,Vervale,,no_eligible_route
+20888,Essendon West,22629,Vervale,,no_eligible_route
+20889,Eumemmerring,22629,Vervale,,no_eligible_route
+20898,Exford,22629,Vervale,,no_eligible_route
+20899,Eynesbury,22629,Vervale,,no_eligible_route
+20901,Fairfield (Vic.),22629,Vervale,,no_eligible_route
+20909,Fawkner,22629,Vervale,,no_eligible_route
+20916,Fernshaw,22629,Vervale,,no_eligible_route
+20917,Ferntree Gully,22629,Vervale,,no_eligible_route
+20918,Ferny Creek,22629,Vervale,,no_eligible_route
+20920,Fingal (Vic.),22629,Vervale,,no_eligible_route
+20924,Fitzroy (Vic.),22629,Vervale,,no_eligible_route
+20925,Fitzroy North,22629,Vervale,,no_eligible_route
+20929,Flemington,22629,Vervale,,no_eligible_route
+20930,Flinders (Vic.),22629,Vervale,,no_eligible_route
+20935,Footscray,22629,Vervale,,no_eligible_route
+20937,Forest Hill (Vic.),22629,Vervale,,no_eligible_route
+20947,Frankston,22629,Vervale,,no_eligible_route
+20948,Frankston North,22629,Vervale,,no_eligible_route
+20949,Frankston South,22629,Vervale,,no_eligible_route
+20950,Fraser Rise,22629,Vervale,,no_eligible_route
+20965,Gardenvale,22629,Vervale,,no_eligible_route
+20966,Garfield,22629,Vervale,62.08,walk_only
+20967,Garfield North,22629,Vervale,149.87,walk_only
+20979,Gembrook,22629,Vervale,,no_eligible_route
+20995,Gilderoy,22629,Vervale,,no_eligible_route
+21001,Gisborne,22629,Vervale,,no_eligible_route
+21002,Gisborne South,22629,Vervale,,no_eligible_route
+21004,Gladstone Park,22629,Vervale,,no_eligible_route
+21005,Gladysdale,22629,Vervale,,no_eligible_route
+21009,Glen Huntly,22629,Vervale,,no_eligible_route
+21010,Glen Iris (Vic.),22629,Vervale,,no_eligible_route
+21013,Glen Waverley,22629,Vervale,,no_eligible_route
+21047,Glenroy (Vic.),22629,Vervale,,no_eligible_route
+21059,Goldie,22629,Vervale,,no_eligible_route
+21079,Gowanbrae,22629,Vervale,,no_eligible_route
+21087,Grangefields,22629,Vervale,,no_eligible_route
+21104,Greensborough,22629,Vervale,,no_eligible_route
+21105,Greenvale (Vic.),22629,Vervale,,no_eligible_route
+21115,Gruyere,22629,Vervale,,no_eligible_route
+21121,Guys Hill,22629,Vervale,,no_eligible_route
+21124,Hadfield,22629,Vervale,,no_eligible_route
+21125,Hallam,22629,Vervale,,no_eligible_route
+21131,Hampton (Vic.),22629,Vervale,,no_eligible_route
+21132,Hampton East,22629,Vervale,,no_eligible_route
+21133,Hampton Park,22629,Vervale,,no_eligible_route
+21139,Harkaway,22629,Vervale,,no_eligible_route
+21140,Harkness,22629,Vervale,,no_eligible_route
+21145,Hastings (Vic.),22629,Vervale,,no_eligible_route
+21152,Hawthorn (Vic.),22629,Vervale,,no_eligible_route
+21153,Hawthorn East,22629,Vervale,,no_eligible_route
+21158,Healesville,22629,Vervale,,no_eligible_route
+21159,Heath Hill,22629,Vervale,214.9,walk_only
+21161,Heathcote Junction,22629,Vervale,,no_eligible_route
+21163,Heatherton,22629,Vervale,,no_eligible_route
+21165,Heathmont,22629,Vervale,,no_eligible_route
+21167,Heidelberg,22629,Vervale,,no_eligible_route
+21168,Heidelberg Heights,22629,Vervale,,no_eligible_route
+21169,Heidelberg West,22629,Vervale,,no_eligible_route
+21176,Hesket,22629,Vervale,,no_eligible_route
+21185,Highett,22629,Vervale,,no_eligible_route
+21193,Hillside (Melton - Vic.),22629,Vervale,,no_eligible_route
+21195,Hmas Cerberus,22629,Vervale,,no_eligible_route
+21196,Hoddles Creek,22629,Vervale,,no_eligible_route
+21202,Hopetoun Park,22629,Vervale,,no_eligible_route
+21203,Hoppers Crossing,22629,Vervale,,no_eligible_route
+21214,Hughesdale,22629,Vervale,,no_eligible_route
+21215,Humevale,22629,Vervale,,no_eligible_route
+21218,Huntingdale (Vic.),22629,Vervale,,no_eligible_route
+21223,Hurstbridge,22629,Vervale,,no_eligible_route
+21238,Iona,22629,Vervale,65.37,walk_only
+21246,Ivanhoe (Vic.),22629,Vervale,,no_eligible_route
+21247,Ivanhoe East,22629,Vervale,,no_eligible_route
+21248,Jacana,22629,Vervale,,no_eligible_route
+21277,Junction Village,22629,Vervale,,no_eligible_route
+21284,Kalkallo,22629,Vervale,,no_eligible_route
+21286,Kallista,22629,Vervale,,no_eligible_route
+21287,Kalorama,22629,Vervale,,no_eligible_route
+21294,Kangaroo Ground,22629,Vervale,,no_eligible_route
+21312,Kealba,22629,Vervale,,no_eligible_route
+21314,Keilor,22629,Vervale,,no_eligible_route
+21315,Keilor Downs,22629,Vervale,,no_eligible_route
+21316,Keilor East,22629,Vervale,,no_eligible_route
+21317,Keilor Lodge,22629,Vervale,,no_eligible_route
+21318,Keilor North,22629,Vervale,,no_eligible_route
+21319,Keilor Park,22629,Vervale,,no_eligible_route
+21327,Kensington (Vic.),22629,Vervale,,no_eligible_route
+21333,Kerrie,22629,Vervale,,no_eligible_route
+21336,Kew (Vic.),22629,Vervale,,no_eligible_route
+21337,Kew East,22629,Vervale,,no_eligible_route
+21339,Keysborough,22629,Vervale,,no_eligible_route
+21354,Kilsyth,22629,Vervale,,no_eligible_route
+21355,Kilsyth South,22629,Vervale,,no_eligible_route
+21358,Kinglake,22629,Vervale,,no_eligible_route
+21359,Kinglake Central,22629,Vervale,,no_eligible_route
+21360,Kinglake West,22629,Vervale,,no_eligible_route
+21362,Kings Park (Vic.),22629,Vervale,,no_eligible_route
+21363,Kingsbury,22629,Vervale,,no_eligible_route
+21365,Kingsville,22629,Vervale,,no_eligible_route
+21374,Knoxfield,22629,Vervale,,no_eligible_route
+21380,Koo Wee Rup,22629,Vervale,204.77,walk_only
+21381,Koo Wee Rup North,22629,Vervale,167.15,walk_only
+21393,Kooyong,22629,Vervale,,no_eligible_route
+21411,Kurunjang,22629,Vervale,,no_eligible_route
+21452,Lalor,22629,Vervale,,no_eligible_route
+21456,Lancefield,22629,Vervale,,no_eligible_route
+21459,Lang Lang,22629,Vervale,,no_eligible_route
+21460,Lang Lang East,22629,Vervale,,no_eligible_route
+21467,Langwarrin,22629,Vervale,,no_eligible_route
+21468,Langwarrin South,22629,Vervale,,no_eligible_route
+21473,Launching Place,22629,Vervale,,no_eligible_route
+21476,Laverton (Vic.),22629,Vervale,,no_eligible_route
+21477,Laverton North,22629,Vervale,,no_eligible_route
+21504,Lilydale (Vic.),22629,Vervale,,no_eligible_route
+21533,Long Forest,22629,Vervale,,no_eligible_route
+21547,Lower Plenty,22629,Vervale,,no_eligible_route
+21554,Lynbrook,22629,Vervale,,no_eligible_route
+21555,Lyndhurst (Vic.),22629,Vervale,,no_eligible_route
+21558,Lysterfield,22629,Vervale,,no_eligible_route
+21559,Lysterfield South,22629,Vervale,,no_eligible_route
+21561,Macclesfield (Vic.),22629,Vervale,,no_eligible_route
+21562,Macedon,22629,Vervale,,no_eligible_route
+21564,Macleod (Vic.),22629,Vervale,,no_eligible_route
+21569,Maddingley,22629,Vervale,,no_eligible_route
+21575,Maidstone,22629,Vervale,,no_eligible_route
+21578,Main Ridge,22629,Vervale,,no_eligible_route
+21586,Malvern (Vic.),22629,Vervale,,no_eligible_route
+21587,Malvern East,22629,Vervale,,no_eligible_route
+21588,Mambourin,22629,Vervale,,no_eligible_route
+21597,Manor Lakes,22629,Vervale,,no_eligible_route
+21604,Maribyrnong,22629,Vervale,,no_eligible_route
+21619,Maryknoll,22629,Vervale,201.52,walk_only
+21625,McCrae,22629,Vervale,,no_eligible_route
+21629,McKinnon,22629,Vervale,,no_eligible_route
+21635,Meadow Heights,22629,Vervale,,no_eligible_route
+21640,Melbourne,22629,Vervale,,no_eligible_route
+21641,Melbourne Airport,22629,Vervale,,no_eligible_route
+21642,Melton (Vic.),22629,Vervale,,no_eligible_route
+21643,Melton South,22629,Vervale,,no_eligible_route
+21644,Melton West,22629,Vervale,,no_eligible_route
+21648,Mentone,22629,Vervale,,no_eligible_route
+21649,Menzies Creek,22629,Vervale,,no_eligible_route
+21659,Mernda,22629,Vervale,,no_eligible_route
+21662,Merricks,22629,Vervale,,no_eligible_route
+21663,Merricks Beach,22629,Vervale,,no_eligible_route
+21664,Merricks North,22629,Vervale,,no_eligible_route
+21668,Merrimu,22629,Vervale,,no_eligible_route
+21675,Mickleham,22629,Vervale,,no_eligible_route
+21677,Middle Park (Vic.),22629,Vervale,,no_eligible_route
+21683,Mill Park,22629,Vervale,,no_eligible_route
+21685,Millgrove,22629,Vervale,,no_eligible_route
+21706,Mitcham (Vic.),22629,Vervale,,no_eligible_route
+21727,Monbulk,22629,Vervale,,no_eligible_route
+21728,Monegeetta,22629,Vervale,,no_eligible_route
+21731,Monomeith,22629,Vervale,195.6,walk_only
+21732,Mont Albert,22629,Vervale,,no_eligible_route
+21733,Mont Albert North,22629,Vervale,,no_eligible_route
+21735,Montmorency,22629,Vervale,,no_eligible_route
+21736,Montrose (Vic.),22629,Vervale,,no_eligible_route
+21742,Moonee Ponds,22629,Vervale,,no_eligible_route
+21746,Moorabbin,22629,Vervale,,no_eligible_route
+21747,Moorabbin Airport,22629,Vervale,,no_eligible_route
+21754,Moorooduc,22629,Vervale,,no_eligible_route
+21755,Mooroolbark,22629,Vervale,,no_eligible_route
+21760,Mordialloc,22629,Vervale,,no_eligible_route
+21763,Mornington (Vic.),22629,Vervale,,no_eligible_route
+21779,Mount Burnett,22629,Vervale,,no_eligible_route
+21786,Mount Cottrell,22629,Vervale,,no_eligible_route
+21787,Mount Dandenong,22629,Vervale,,no_eligible_route
+21793,Mount Eliza,22629,Vervale,,no_eligible_route
+21795,Mount Evelyn,22629,Vervale,,no_eligible_route
+21801,Mount Macedon,22629,Vervale,,no_eligible_route
+21803,Mount Martha,22629,Vervale,,no_eligible_route
+21814,Mount Toolebewong,22629,Vervale,,no_eligible_route
+21816,Mount Waverley,22629,Vervale,,no_eligible_route
+21827,Mulgrave (Vic.),22629,Vervale,,no_eligible_route
+21849,Murrumbeena,22629,Vervale,,no_eligible_route
+21872,Nangana,22629,Vervale,,no_eligible_route
+21878,Nar Nar Goon,22629,Vervale,143.97,walk_only
+21879,Nar Nar Goon North,22629,Vervale,232.6,walk_only
+21893,Narre Warren,22629,Vervale,,no_eligible_route
+21894,Narre Warren East,22629,Vervale,,no_eligible_route
+21895,Narre Warren North,22629,Vervale,,no_eligible_route
+21896,Narre Warren South,22629,Vervale,,no_eligible_route
+21921,New Gisborne,22629,Vervale,,no_eligible_route
+21934,Newport (Vic.),22629,Vervale,,no_eligible_route
+21942,Niddrie,22629,Vervale,,no_eligible_route
+21952,Noble Park,22629,Vervale,,no_eligible_route
+21953,Noble Park North,22629,Vervale,,no_eligible_route
+21966,North Melbourne,22629,Vervale,,no_eligible_route
+21969,North Warrandyte,22629,Vervale,,no_eligible_route
+21971,Northcote,22629,Vervale,,no_eligible_route
+21974,Notting Hill,22629,Vervale,,no_eligible_route
+21985,Nunawading,22629,Vervale,,no_eligible_route
+21991,Nutfield,22629,Vervale,,no_eligible_route
+21998,Oak Park,22629,Vervale,,no_eligible_route
+21999,Oaklands Junction,22629,Vervale,,no_eligible_route
+22000,Oakleigh,22629,Vervale,,no_eligible_route
+22001,Oakleigh East,22629,Vervale,,no_eligible_route
+22002,Oakleigh South,22629,Vervale,,no_eligible_route
+22006,Officer,22629,Vervale,,no_eligible_route
+22007,Officer South,22629,Vervale,,no_eligible_route
+22009,Olinda (Vic.),22629,Vervale,,no_eligible_route
+22016,Ormond,22629,Vervale,,no_eligible_route
+22027,Pakenham,22629,Vervale,,no_eligible_route
+22028,Pakenham South,22629,Vervale,209.13,walk_only
+22029,Pakenham Upper,22629,Vervale,,no_eligible_route
+22032,Panton Hill,22629,Vervale,,no_eligible_route
+22036,Park Orchards,22629,Vervale,,no_eligible_route
+22037,Parkdale,22629,Vervale,,no_eligible_route
+22038,Parkville (Vic.),22629,Vervale,,no_eligible_route
+22041,Pascoe Vale,22629,Vervale,,no_eligible_route
+22042,Pascoe Vale South,22629,Vervale,,no_eligible_route
+22047,Patterson Lakes,22629,Vervale,,no_eligible_route
+22050,Pearcedale,22629,Vervale,,no_eligible_route
+22058,Pentland Hills,22629,Vervale,,no_eligible_route
+22064,Pheasant Creek (Vic.),22629,Vervale,,no_eligible_route
+22084,Plenty (Vic.),22629,Vervale,,no_eligible_route
+22085,Plumpton (Vic.),22629,Vervale,,no_eligible_route
+22086,Point Cook,22629,Vervale,,no_eligible_route
+22087,Point Leo,22629,Vervale,,no_eligible_route
+22107,Port Melbourne,22629,Vervale,,no_eligible_route
+22113,Portsea,22629,Vervale,,no_eligible_route
+22115,Powelltown,22629,Vervale,,no_eligible_route
+22118,Prahran,22629,Vervale,,no_eligible_route
+22121,Preston (Vic.),22629,Vervale,,no_eligible_route
+22122,Princes Hill,22629,Vervale,,no_eligible_route
+22132,Quandong,22629,Vervale,,no_eligible_route
+22141,Ravenhall,22629,Vervale,,no_eligible_route
+22148,Red Hill (Vic.),22629,Vervale,,no_eligible_route
+22149,Red Hill South,22629,Vervale,,no_eligible_route
+22160,Research,22629,Vervale,,no_eligible_route
+22161,Reservoir (Vic.),22629,Vervale,,no_eligible_route
+22170,Richmond (Vic.),22629,Vervale,,no_eligible_route
+22172,Riddells Creek,22629,Vervale,,no_eligible_route
+22174,Ringwood (Vic.),22629,Vervale,,no_eligible_route
+22175,Ringwood East,22629,Vervale,,no_eligible_route
+22176,Ringwood North,22629,Vervale,,no_eligible_route
+22179,Ripponlea,22629,Vervale,,no_eligible_route
+22185,Rochford,22629,Vervale,,no_eligible_route
+22186,Rockbank,22629,Vervale,,no_eligible_route
+22193,Romsey,22629,Vervale,,no_eligible_route
+22194,Rosanna,22629,Vervale,,no_eligible_route
+22198,Rosebud,22629,Vervale,,no_eligible_route
+22207,Rowville,22629,Vervale,,no_eligible_route
+22208,Roxburgh Park,22629,Vervale,,no_eligible_route
+22220,Rye,22629,Vervale,,no_eligible_route
+22221,Rythdale,22629,Vervale,238.45,walk_only
+22222,Safety Beach (Vic.),22629,Vervale,,no_eligible_route
+22232,Sandhurst,22629,Vervale,,no_eligible_route
+22234,Sandringham (Vic.),22629,Vervale,,no_eligible_route
+22239,Sassafras (Vic.),22629,Vervale,,no_eligible_route
+22242,Scoresby,22629,Vervale,,no_eligible_route
+22247,Seabrook,22629,Vervale,,no_eligible_route
+22249,Seaford (Vic.),22629,Vervale,,no_eligible_route
+22250,Seaholme,22629,Vervale,,no_eligible_route
+22256,Seddon (Vic.),22629,Vervale,,no_eligible_route
+22258,Selby,22629,Vervale,,no_eligible_route
+22263,Seville,22629,Vervale,,no_eligible_route
+22264,Seville East,22629,Vervale,,no_eligible_route
+22278,Sherbrooke,22629,Vervale,,no_eligible_route
+22279,Shoreham,22629,Vervale,,no_eligible_route
+22281,Silvan,22629,Vervale,,no_eligible_route
+22291,Skye (Vic.),22629,Vervale,,no_eligible_route
+22295,Smiths Gully,22629,Vervale,,no_eligible_route
+22303,Somers,22629,Vervale,,no_eligible_route
+22304,Somerton (Vic.),22629,Vervale,,no_eligible_route
+22305,Somerville (Vic.),22629,Vervale,,no_eligible_route
+22306,Sorrento (Vic.),22629,Vervale,,no_eligible_route
+22309,South Kingsville,22629,Vervale,,no_eligible_route
+22310,South Melbourne,22629,Vervale,,no_eligible_route
+22311,South Morang,22629,Vervale,,no_eligible_route
+22313,South Wharf,22629,Vervale,,no_eligible_route
+22314,South Yarra,22629,Vervale,,no_eligible_route
+22315,Southbank,22629,Vervale,,no_eligible_route
+22319,Spotswood,22629,Vervale,,no_eligible_route
+22325,Springfield (Macedon Ranges - Vic.),22629,Vervale,,no_eligible_route
+22328,Springvale (Vic.),22629,Vervale,,no_eligible_route
+22329,Springvale South,22629,Vervale,,no_eligible_route
+22330,St Albans (Vic.),22629,Vervale,,no_eligible_route
+22332,St Andrews (Vic.),22629,Vervale,,no_eligible_route
+22333,St Andrews Beach,22629,Vervale,,no_eligible_route
+22339,St Helena,22629,Vervale,,no_eligible_route
+22343,St Kilda (Vic.),22629,Vervale,,no_eligible_route
+22344,St Kilda East,22629,Vervale,,no_eligible_route
+22345,St Kilda West,22629,Vervale,,no_eligible_route
+22355,Steels Creek,22629,Vervale,,no_eligible_route
+22375,Strathewen,22629,Vervale,,no_eligible_route
+22380,Strathmore (Vic.),22629,Vervale,,no_eligible_route
+22381,Strathmore Heights,22629,Vervale,,no_eligible_route
+22382,Strathtulloh,22629,Vervale,,no_eligible_route
+22391,Sunbury,22629,Vervale,,no_eligible_route
+22395,Sunshine (Vic.),22629,Vervale,,no_eligible_route
+22396,Sunshine North,22629,Vervale,,no_eligible_route
+22397,Sunshine West,22629,Vervale,,no_eligible_route
+22399,Surrey Hills,22629,Vervale,,no_eligible_route
+22414,Sydenham (Vic.),22629,Vervale,,no_eligible_route
+22451,Tarneit,22629,Vervale,,no_eligible_route
+22457,Tarrawarra,22629,Vervale,,no_eligible_route
+22473,Taylors Hill,22629,Vervale,,no_eligible_route
+22474,Taylors Lakes,22629,Vervale,,no_eligible_route
+22476,Tecoma,22629,Vervale,,no_eligible_route
+22483,Templestowe,22629,Vervale,,no_eligible_route
+22484,Templestowe Lower,22629,Vervale,,no_eligible_route
+22496,The Basin (Vic.),22629,Vervale,,no_eligible_route
+22501,The Patch,22629,Vervale,,no_eligible_route
+22504,Thomastown,22629,Vervale,,no_eligible_route
+22508,Thornbury,22629,Vervale,,no_eligible_route
+22509,Thornhill Park,22629,Vervale,,no_eligible_route
+22514,Three Bridges,22629,Vervale,,no_eligible_route
+22531,Tonimbuk,22629,Vervale,217.63,walk_only
+22536,Toolangi,22629,Vervale,,no_eligible_route
+22537,Toolern Vale,22629,Vervale,,no_eligible_route
+22546,Tooradin,22629,Vervale,,no_eligible_route
+22547,Toorak,22629,Vervale,,no_eligible_route
+22550,Tootgarook,22629,Vervale,,no_eligible_route
+22556,Tottenham (Vic.),22629,Vervale,,no_eligible_route
+22572,Travancore,22629,Vervale,,no_eligible_route
+22576,Tremont,22629,Vervale,,no_eligible_route
+22582,Truganina,22629,Vervale,,no_eligible_route
+22584,Tuerong,22629,Vervale,,no_eligible_route
+22586,Tullamarine,22629,Vervale,,no_eligible_route
+22594,Tyabb,22629,Vervale,,no_eligible_route
+22598,Tynong,22629,Vervale,96.3,walk_only
+22599,Tynong North,22629,Vervale,204.15,walk_only
+22614,Upper Ferntree Gully,22629,Vervale,,no_eligible_route
+22617,Upper Plenty,22629,Vervale,,no_eligible_route
+22620,Upwey,22629,Vervale,,no_eligible_route
+22627,Vermont,22629,Vervale,,no_eligible_route
+22628,Vermont South,22629,Vervale,,no_eligible_route
+22629,Vervale,22629,Vervale,0.0,same_centroid
+22633,Viewbank,22629,Vervale,,no_eligible_route
+22661,Wallan,22629,Vervale,,no_eligible_route
+22672,Wandin East,22629,Vervale,,no_eligible_route
+22673,Wandin North,22629,Vervale,,no_eligible_route
+22676,Wandong,22629,Vervale,,no_eligible_route
+22685,Wantirna,22629,Vervale,,no_eligible_route
+22686,Wantirna South,22629,Vervale,,no_eligible_route
+22689,Warburton (Vic.),22629,Vervale,,no_eligible_route
+22695,Warneet,22629,Vervale,,no_eligible_route
+22702,Warrandyte,22629,Vervale,,no_eligible_route
+22703,Warrandyte South,22629,Vervale,,no_eligible_route
+22704,Warranwood,22629,Vervale,,no_eligible_route
+22717,Waterford Park,22629,Vervale,,no_eligible_route
+22720,Waterways,22629,Vervale,,no_eligible_route
+22721,Watsonia,22629,Vervale,,no_eligible_route
+22722,Watsonia North,22629,Vervale,,no_eligible_route
+22723,Watsons Creek (Vic.),22629,Vervale,,no_eligible_route
+22727,Wattle Glen,22629,Vervale,,no_eligible_route
+22740,Weir Views,22629,Vervale,,no_eligible_route
+22750,Werribee,22629,Vervale,,no_eligible_route
+22751,Werribee South,22629,Vervale,,no_eligible_route
+22753,Wesburn,22629,Vervale,,no_eligible_route
+22756,West Footscray,22629,Vervale,,no_eligible_route
+22757,West Melbourne,22629,Vervale,,no_eligible_route
+22761,Westmeadows,22629,Vervale,,no_eligible_route
+22766,Wheelers Hill,22629,Vervale,,no_eligible_route
+22775,Whittlesea,22629,Vervale,,no_eligible_route
+22784,Wildwood,22629,Vervale,,no_eligible_route
+22791,Williams Landing,22629,Vervale,,no_eligible_route
+22792,Williamstown (Vic.),22629,Vervale,,no_eligible_route
+22793,Williamstown North,22629,Vervale,,no_eligible_route
+22805,Windsor (Vic.),22629,Vervale,,no_eligible_route
+22820,Wollert,22629,Vervale,,no_eligible_route
+22825,Wonga Park,22629,Vervale,,no_eligible_route
+22843,Woodstock (Vic.),22629,Vervale,,no_eligible_route
+22857,Woori Yallock,22629,Vervale,,no_eligible_route
+22883,Wyndham Vale,22629,Vervale,,no_eligible_route
+22892,Yallambie,22629,Vervale,,no_eligible_route
+22898,Yan Yean,22629,Vervale,,no_eligible_route
+22906,Yannathan,22629,Vervale,150.53,walk_only
+22910,Yarra Glen,22629,Vervale,,no_eligible_route
+22911,Yarra Junction,22629,Vervale,,no_eligible_route
+22916,Yarrambat,22629,Vervale,,no_eligible_route
+22917,Yarraville,22629,Vervale,,no_eligible_route
+22925,Yellingbo,22629,Vervale,,no_eligible_route
+22930,Yering,22629,Vervale,,no_eligible_route
+22941,Yuroke,22629,Vervale,,no_eligible_route

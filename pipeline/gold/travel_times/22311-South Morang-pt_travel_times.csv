@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),22311,South Morang,60.0,ok
+20003,Aberfeldie,22311,South Morang,93.63,ok
+20011,Aintree,22311,South Morang,142.97,ok
+20015,Airport West,22311,South Morang,102.45,ok
+20017,Albanvale,22311,South Morang,120.43,ok
+20018,Albert Park (Vic.),22311,South Morang,90.8,ok
+20021,Albion (Vic.),22311,South Morang,103.83,ok
+20034,Alphington,22311,South Morang,62.85,ok
+20035,Altona (Vic.),22311,South Morang,113.93,ok
+20036,Altona Meadows,22311,South Morang,120.47,ok
+20037,Altona North,22311,South Morang,118.33,ok
+20062,Ardeer,22311,South Morang,117.98,ok
+20066,Armadale (Vic.),22311,South Morang,76.08,ok
+20071,Arthurs Creek,22311,South Morang,221.02,walk_only
+20072,Arthurs Seat,22311,South Morang,242.6,ok
+20075,Ascot Vale,22311,South Morang,92.07,ok
+20077,Ashburton,22311,South Morang,89.68,ok
+20078,Ashwood,22311,South Morang,113.88,ok
+20079,Aspendale,22311,South Morang,117.33,ok
+20080,Aspendale Gardens,22311,South Morang,137.67,ok
+20082,Attwood,22311,South Morang,98.05,ok
+20089,Avondale Heights,22311,South Morang,112.43,ok
+20091,Avonsleigh,22311,South Morang,,no_eligible_route
+20095,Bacchus Marsh,22311,South Morang,,no_eligible_route
+20097,Badger Creek,22311,South Morang,202.53,ok
+20105,Balaclava (Vic.),22311,South Morang,90.72,ok
+20120,Balnarring,22311,South Morang,,no_eligible_route
+20121,Balnarring Beach,22311,South Morang,,no_eligible_route
+20123,Balwyn,22311,South Morang,89.85,ok
+20124,Balwyn North,22311,South Morang,84.47,ok
+20131,Bangholme,22311,South Morang,168.93,ok
+20169,Baxter,22311,South Morang,157.68,ok
+20171,Bayles,22311,South Morang,,no_eligible_route
+20173,Bayswater (Vic.),22311,South Morang,113.33,ok
+20174,Bayswater North,22311,South Morang,125.3,ok
+20175,Beaconsfield (Vic.),22311,South Morang,164.53,ok
+20176,Beaconsfield Upper,22311,South Morang,,no_eligible_route
+20182,Beaumaris (Vic.),22311,South Morang,115.22,ok
+20187,Beenak,22311,South Morang,,no_eligible_route
+20188,Belgrave,22311,South Morang,126.42,ok
+20189,Belgrave Heights,22311,South Morang,158.08,ok
+20190,Belgrave South,22311,South Morang,164.07,ok
+20198,Bellfield (Banyule - Vic.),22311,South Morang,67.2,ok
+20207,Bend Of Islands,22311,South Morang,,no_eligible_route
+20212,Benloch,22311,South Morang,,no_eligible_route
+20214,Bentleigh,22311,South Morang,99.12,ok
+20215,Bentleigh East,22311,South Morang,102.07,ok
+20224,Berwick,22311,South Morang,139.58,ok
+20233,Beveridge,22311,South Morang,100.58,ok
+20237,Big Pats Creek,22311,South Morang,,no_eligible_route
+20248,Bittern,22311,South Morang,175.67,ok
+20251,Black Rock (Vic.),22311,South Morang,120.57,ok
+20252,Blackburn,22311,South Morang,79.2,ok
+20253,Blackburn North,22311,South Morang,77.8,ok
+20254,Blackburn South,22311,South Morang,98.0,ok
+20257,Blairgowrie,22311,South Morang,236.63,ok
+20260,Blind Bight,22311,South Morang,,no_eligible_route
+20272,Bolinda,22311,South Morang,,no_eligible_route
+20278,Bonbeach,22311,South Morang,122.33,ok
+20280,Boneo,22311,South Morang,,no_eligible_route
+20282,Bonnie Brook,22311,South Morang,175.52,ok
+20304,Boronia,22311,South Morang,115.8,ok
+20307,Botanic Ridge,22311,South Morang,189.45,ok
+20314,Box Hill (Vic.),22311,South Morang,95.12,ok
+20315,Box Hill North,22311,South Morang,86.47,ok
+20316,Box Hill South,22311,South Morang,98.02,ok
+20320,Braeside,22311,South Morang,144.42,ok
+20324,Braybrook,22311,South Morang,114.68,ok
+20331,Briar Hill,22311,South Morang,57.17,ok
+20337,Brighton (Vic.),22311,South Morang,103.48,ok
+20338,Brighton East,22311,South Morang,111.9,ok
+20346,Broadmeadows (Vic.),22311,South Morang,65.8,ok
+20351,Brookfield (Vic.),22311,South Morang,,no_eligible_route
+20352,Brooklyn (Vic.),22311,South Morang,113.37,ok
+20361,Brunswick (Vic.),22311,South Morang,71.87,ok
+20362,Brunswick East,22311,South Morang,70.05,ok
+20363,Brunswick West,22311,South Morang,78.45,ok
+20381,Bulla (Vic.),22311,South Morang,172.2,ok
+20386,Bulleen,22311,South Morang,82.73,ok
+20387,Bullengarook,22311,South Morang,,no_eligible_route
+20399,Bundoora (Vic.),22311,South Morang,41.48,ok
+20411,Bunyip,22311,South Morang,,no_eligible_route
+20412,Bunyip North,22311,South Morang,,no_eligible_route
+20418,Burnley,22311,South Morang,83.08,ok
+20419,Burnside (Vic.),22311,South Morang,130.87,ok
+20420,Burnside Heights,22311,South Morang,134.12,ok
+20426,Burwood (Vic.),22311,South Morang,107.42,ok
+20427,Burwood East,22311,South Morang,96.0,ok
+20435,Bylands,22311,South Morang,,no_eligible_route
+20441,Cairnlea,22311,South Morang,121.05,ok
+20442,Calder Park,22311,South Morang,137.62,ok
+20443,Caldermeade,22311,South Morang,,no_eligible_route
+20453,Camberwell (Vic.),22311,South Morang,88.62,ok
+20455,Campbellfield,22311,South Morang,85.65,ok
+20466,Cannons Creek,22311,South Morang,,no_eligible_route
+20468,Canterbury (Vic.),22311,South Morang,90.1,ok
+20474,Cape Schanck,22311,South Morang,,no_eligible_route
+20476,Capel Sound,22311,South Morang,221.98,ok
+20487,Cardinia,22311,South Morang,,no_eligible_route
+20495,Carlton (Vic.),22311,South Morang,66.7,ok
+20496,Carlton North,22311,South Morang,80.17,ok
+20498,Carnegie,22311,South Morang,97.63,ok
+20500,Caroline Springs,22311,South Morang,137.93,ok
+20507,Carrum,22311,South Morang,122.15,ok
+20508,Carrum Downs,22311,South Morang,149.25,ok
+20512,Castella,22311,South Morang,,no_eligible_route
+20517,Catani,22311,South Morang,,no_eligible_route
+20521,Caulfield,22311,South Morang,98.77,ok
+20522,Caulfield East,22311,South Morang,87.52,ok
+20523,Caulfield North,22311,South Morang,89.43,ok
+20524,Caulfield South,22311,South Morang,100.37,ok
+20528,Chadstone,22311,South Morang,107.17,ok
+20537,Chelsea,22311,South Morang,119.4,ok
+20538,Chelsea Heights,22311,South Morang,143.52,ok
+20539,Cheltenham (Vic.),22311,South Morang,108.87,ok
+20541,Cherokee,22311,South Morang,,no_eligible_route
+20555,Chintin,22311,South Morang,,no_eligible_route
+20556,Chirnside Park,22311,South Morang,140.7,ok
+20559,Christmas Hills (Vic.),22311,South Morang,,no_eligible_route
+20560,Chum Creek,22311,South Morang,,no_eligible_route
+20566,Clarinda,22311,South Morang,124.25,ok
+20567,Clarkefield,22311,South Morang,,no_eligible_route
+20569,Clayton,22311,South Morang,116.75,ok
+20570,Clayton South,22311,South Morang,131.72,ok
+20572,Clematis,22311,South Morang,,no_eligible_route
+20574,Clifton Hill,22311,South Morang,49.97,ok
+20576,Clonbinane,22311,South Morang,,no_eligible_route
+20581,Clyde (Vic.),22311,South Morang,183.28,ok
+20582,Clyde North,22311,South Morang,167.73,ok
+20587,Cobaw,22311,South Morang,,no_eligible_route
+20590,Cobblebank,22311,South Morang,202.67,ok
+20596,Coburg,22311,South Morang,67.43,ok
+20597,Coburg North,22311,South Morang,68.55,ok
+20600,Cockatoo (Vic.),22311,South Morang,,no_eligible_route
+20601,Cocoroc,22311,South Morang,,no_eligible_route
+20605,Coimadai,22311,South Morang,,no_eligible_route
+20613,Coldstream (Vic.),22311,South Morang,,no_eligible_route
+20616,Collingwood (Vic.),22311,South Morang,60.0,ok
+20624,Coolaroo,22311,South Morang,70.12,ok
+20633,Cora Lynn,22311,South Morang,,no_eligible_route
+20654,Cottles Bridge,22311,South Morang,224.78,walk_only
+20661,Craigieburn,22311,South Morang,75.1,ok
+20662,Cranbourne,22311,South Morang,153.23,ok
+20663,Cranbourne East,22311,South Morang,157.23,ok
+20664,Cranbourne North,22311,South Morang,150.25,ok
+20665,Cranbourne South,22311,South Morang,192.8,ok
+20666,Cranbourne West,22311,South Morang,160.15,ok
+20670,Cremorne (Vic.),22311,South Morang,74.67,ok
+20674,Crib Point,22311,South Morang,184.63,ok
+20682,Croydon (Vic.),22311,South Morang,107.43,ok
+20683,Croydon Hills,22311,South Morang,131.77,ok
+20684,Croydon North,22311,South Morang,126.18,ok
+20685,Croydon South,22311,South Morang,132.35,ok
+20702,Dallas,22311,South Morang,79.68,ok
+20703,Dalmore,22311,South Morang,,no_eligible_route
+20707,Dandenong,22311,South Morang,124.22,ok
+20708,Dandenong North,22311,South Morang,142.32,ok
+20709,Dandenong South,22311,South Morang,146.55,ok
+20712,Darley,22311,South Morang,,no_eligible_route
+20716,Darraweit Guim,22311,South Morang,,no_eligible_route
+20724,Deanside,22311,South Morang,156.98,ok
+20728,Deepdene (Vic.),22311,South Morang,84.95,ok
+20729,Deer Park,22311,South Morang,114.82,ok
+20731,Delahey,22311,South Morang,135.95,ok
+20743,Derrimut,22311,South Morang,149.38,ok
+20748,Devon Meadows,22311,South Morang,190.03,ok
+20750,Dewhurst,22311,South Morang,,no_eligible_route
+20752,Diamond Creek,22311,South Morang,59.87,ok
+20754,Diggers Rest,22311,South Morang,131.93,ok
+20758,Dingley Village,22311,South Morang,125.77,ok
+20762,Dixons Creek,22311,South Morang,,no_eligible_route
+20766,Docklands,22311,South Morang,77.87,ok
+20769,Don Valley,22311,South Morang,,no_eligible_route
+20771,Doncaster,22311,South Morang,67.82,ok
+20772,Doncaster East,22311,South Morang,68.12,ok
+20773,Donnybrook (Vic.),22311,South Morang,103.12,ok
+20774,Donvale,22311,South Morang,101.63,ok
+20779,Doreen,22311,South Morang,54.63,ok
+20783,Doveton,22311,South Morang,137.17,ok
+20788,Dromana,22311,South Morang,231.77,ok
+20825,Eaglemont,22311,South Morang,81.18,ok
+20830,East Melbourne,22311,South Morang,59.03,ok
+20833,East Warburton,22311,South Morang,,no_eligible_route
+20843,Eden Park,22311,South Morang,,no_eligible_route
+20848,Edithvale,22311,South Morang,119.53,ok
+20864,Elsternwick,22311,South Morang,98.63,ok
+20865,Eltham (Vic.),22311,South Morang,71.4,ok
+20866,Eltham North,22311,South Morang,61.28,ok
+20867,Elwood,22311,South Morang,103.08,ok
+20868,Emerald (Vic.),22311,South Morang,,no_eligible_route
+20871,Endeavour Hills,22311,South Morang,148.5,ok
+20878,Epping (Vic.),22311,South Morang,49.68,ok
+20885,Essendon,22311,South Morang,82.03,ok
+20886,Essendon Fields,22311,South Morang,107.38,ok
+20887,Essendon North,22311,South Morang,83.23,ok
+20888,Essendon West,22311,South Morang,89.85,ok
+20889,Eumemmerring,22311,South Morang,147.55,ok
+20898,Exford,22311,South Morang,,no_eligible_route
+20899,Eynesbury,22311,South Morang,,no_eligible_route
+20901,Fairfield (Vic.),22311,South Morang,65.28,ok
+20909,Fawkner,22311,South Morang,72.58,ok
+20916,Fernshaw,22311,South Morang,,no_eligible_route
+20917,Ferntree Gully,22311,South Morang,126.17,ok
+20918,Ferny Creek,22311,South Morang,164.7,ok
+20920,Fingal (Vic.),22311,South Morang,,no_eligible_route
+20924,Fitzroy (Vic.),22311,South Morang,63.48,ok
+20925,Fitzroy North,22311,South Morang,61.68,ok
+20929,Flemington,22311,South Morang,91.6,ok
+20930,Flinders (Vic.),22311,South Morang,,no_eligible_route
+20935,Footscray,22311,South Morang,91.25,ok
+20937,Forest Hill (Vic.),22311,South Morang,99.98,ok
+20947,Frankston,22311,South Morang,143.12,ok
+20948,Frankston North,22311,South Morang,159.35,ok
+20949,Frankston South,22311,South Morang,169.05,ok
+20950,Fraser Rise,22311,South Morang,148.37,ok
+20965,Gardenvale,22311,South Morang,96.27,ok
+20966,Garfield,22311,South Morang,,no_eligible_route
+20967,Garfield North,22311,South Morang,,no_eligible_route
+20979,Gembrook,22311,South Morang,,no_eligible_route
+20995,Gilderoy,22311,South Morang,,no_eligible_route
+21001,Gisborne,22311,South Morang,,no_eligible_route
+21002,Gisborne South,22311,South Morang,,no_eligible_route
+21004,Gladstone Park,22311,South Morang,88.5,ok
+21005,Gladysdale,22311,South Morang,,no_eligible_route
+21009,Glen Huntly,22311,South Morang,90.65,ok
+21010,Glen Iris (Vic.),22311,South Morang,98.68,ok
+21013,Glen Waverley,22311,South Morang,113.55,ok
+21047,Glenroy (Vic.),22311,South Morang,87.67,ok
+21059,Goldie,22311,South Morang,,no_eligible_route
+21079,Gowanbrae,22311,South Morang,95.33,ok
+21087,Grangefields,22311,South Morang,179.97,ok
+21104,Greensborough,22311,South Morang,41.85,ok
+21105,Greenvale (Vic.),22311,South Morang,87.22,ok
+21115,Gruyere,22311,South Morang,,no_eligible_route
+21121,Guys Hill,22311,South Morang,,no_eligible_route
+21124,Hadfield,22311,South Morang,79.82,ok
+21125,Hallam,22311,South Morang,144.7,ok
+21131,Hampton (Vic.),22311,South Morang,111.32,ok
+21132,Hampton East,22311,South Morang,105.88,ok
+21133,Hampton Park,22311,South Morang,147.12,ok
+21139,Harkaway,22311,South Morang,,no_eligible_route
+21140,Harkness,22311,South Morang,,no_eligible_route
+21145,Hastings (Vic.),22311,South Morang,177.2,ok
+21152,Hawthorn (Vic.),22311,South Morang,83.48,ok
+21153,Hawthorn East,22311,South Morang,86.97,ok
+21158,Healesville,22311,South Morang,206.45,ok
+21159,Heath Hill,22311,South Morang,,no_eligible_route
+21161,Heathcote Junction,22311,South Morang,,no_eligible_route
+21163,Heatherton,22311,South Morang,122.18,ok
+21165,Heathmont,22311,South Morang,103.6,ok
+21167,Heidelberg,22311,South Morang,76.52,ok
+21168,Heidelberg Heights,22311,South Morang,69.93,ok
+21169,Heidelberg West,22311,South Morang,62.83,ok
+21176,Hesket,22311,South Morang,,no_eligible_route
+21185,Highett,22311,South Morang,98.65,ok
+21193,Hillside (Melton - Vic.),22311,South Morang,132.92,ok
+21195,Hmas Cerberus,22311,South Morang,,no_eligible_route
+21196,Hoddles Creek,22311,South Morang,,no_eligible_route
+21202,Hopetoun Park,22311,South Morang,,no_eligible_route
+21203,Hoppers Crossing,22311,South Morang,131.77,ok
+21214,Hughesdale,22311,South Morang,102.73,ok
+21215,Humevale,22311,South Morang,,no_eligible_route
+21218,Huntingdale (Vic.),22311,South Morang,108.17,ok
+21223,Hurstbridge,22311,South Morang,60.35,ok
+21238,Iona,22311,South Morang,,no_eligible_route
+21246,Ivanhoe (Vic.),22311,South Morang,67.45,ok
+21247,Ivanhoe East,22311,South Morang,75.87,ok
+21248,Jacana,22311,South Morang,76.03,ok
+21277,Junction Village,22311,South Morang,176.17,ok
+21284,Kalkallo,22311,South Morang,113.12,ok
+21286,Kallista,22311,South Morang,168.13,ok
+21287,Kalorama,22311,South Morang,134.4,ok
+21294,Kangaroo Ground,22311,South Morang,112.95,ok
+21312,Kealba,22311,South Morang,123.2,ok
+21314,Keilor,22311,South Morang,140.35,ok
+21315,Keilor Downs,22311,South Morang,126.87,ok
+21316,Keilor East,22311,South Morang,101.85,ok
+21317,Keilor Lodge,22311,South Morang,127.72,ok
+21318,Keilor North,22311,South Morang,142.87,ok
+21319,Keilor Park,22311,South Morang,121.13,ok
+21327,Kensington (Vic.),22311,South Morang,80.93,ok
+21333,Kerrie,22311,South Morang,,no_eligible_route
+21336,Kew (Vic.),22311,South Morang,74.62,ok
+21337,Kew East,22311,South Morang,78.65,ok
+21339,Keysborough,22311,South Morang,141.53,ok
+21354,Kilsyth,22311,South Morang,123.78,ok
+21355,Kilsyth South,22311,South Morang,138.87,ok
+21358,Kinglake,22311,South Morang,,no_eligible_route
+21359,Kinglake Central,22311,South Morang,,no_eligible_route
+21360,Kinglake West,22311,South Morang,,no_eligible_route
+21362,Kings Park (Vic.),22311,South Morang,128.65,ok
+21363,Kingsbury,22311,South Morang,53.93,ok
+21365,Kingsville,22311,South Morang,100.32,ok
+21374,Knoxfield,22311,South Morang,136.63,ok
+21380,Koo Wee Rup,22311,South Morang,,no_eligible_route
+21381,Koo Wee Rup North,22311,South Morang,,no_eligible_route
+21393,Kooyong,22311,South Morang,92.87,ok
+21411,Kurunjang,22311,South Morang,220.75,ok
+21452,Lalor,22311,South Morang,34.13,ok
+21456,Lancefield,22311,South Morang,,no_eligible_route
+21459,Lang Lang,22311,South Morang,,no_eligible_route
+21460,Lang Lang East,22311,South Morang,,no_eligible_route
+21467,Langwarrin,22311,South Morang,157.08,ok
+21468,Langwarrin South,22311,South Morang,,no_eligible_route
+21473,Launching Place,22311,South Morang,155.08,ok
+21476,Laverton (Vic.),22311,South Morang,110.53,ok
+21477,Laverton North,22311,South Morang,141.95,ok
+21504,Lilydale (Vic.),22311,South Morang,134.73,ok
+21533,Long Forest,22311,South Morang,,no_eligible_route
+21547,Lower Plenty,22311,South Morang,71.53,ok
+21554,Lynbrook,22311,South Morang,133.95,ok
+21555,Lyndhurst (Vic.),22311,South Morang,188.53,ok
+21558,Lysterfield,22311,South Morang,,no_eligible_route
+21559,Lysterfield South,22311,South Morang,187.67,ok
+21561,Macclesfield (Vic.),22311,South Morang,,no_eligible_route
+21562,Macedon,22311,South Morang,,no_eligible_route
+21564,Macleod (Vic.),22311,South Morang,70.43,ok
+21569,Maddingley,22311,South Morang,,no_eligible_route
+21575,Maidstone,22311,South Morang,109.72,ok
+21578,Main Ridge,22311,South Morang,,no_eligible_route
+21586,Malvern (Vic.),22311,South Morang,88.1,ok
+21587,Malvern East,22311,South Morang,99.98,ok
+21588,Mambourin,22311,South Morang,,no_eligible_route
+21597,Manor Lakes,22311,South Morang,172.0,ok
+21604,Maribyrnong,22311,South Morang,106.82,ok
+21619,Maryknoll,22311,South Morang,,no_eligible_route
+21625,McCrae,22311,South Morang,215.18,ok
+21629,McKinnon,22311,South Morang,87.95,ok
+21635,Meadow Heights,22311,South Morang,66.38,ok
+21640,Melbourne,22311,South Morang,77.55,ok
+21641,Melbourne Airport,22311,South Morang,,no_eligible_route
+21642,Melton (Vic.),22311,South Morang,204.88,ok
+21643,Melton South,22311,South Morang,218.48,ok
+21644,Melton West,22311,South Morang,213.72,ok
+21648,Mentone,22311,South Morang,103.63,ok
+21649,Menzies Creek,22311,South Morang,,no_eligible_route
+21659,Mernda,22311,South Morang,30.65,ok
+21662,Merricks,22311,South Morang,,no_eligible_route
+21663,Merricks Beach,22311,South Morang,,no_eligible_route
+21664,Merricks North,22311,South Morang,,no_eligible_route
+21668,Merrimu,22311,South Morang,,no_eligible_route
+21675,Mickleham,22311,South Morang,102.1,ok
+21677,Middle Park (Vic.),22311,South Morang,96.88,ok
+21683,Mill Park,22311,South Morang,26.22,ok
+21685,Millgrove,22311,South Morang,,no_eligible_route
+21706,Mitcham (Vic.),22311,South Morang,92.17,ok
+21727,Monbulk,22311,South Morang,175.58,ok
+21728,Monegeetta,22311,South Morang,,no_eligible_route
+21731,Monomeith,22311,South Morang,,no_eligible_route
+21732,Mont Albert,22311,South Morang,95.5,ok
+21733,Mont Albert North,22311,South Morang,87.28,ok
+21735,Montmorency,22311,South Morang,59.47,ok
+21736,Montrose (Vic.),22311,South Morang,126.7,ok
+21742,Moonee Ponds,22311,South Morang,84.45,ok
+21746,Moorabbin,22311,South Morang,116.7,ok
+21747,Moorabbin Airport,22311,South Morang,127.13,ok
+21754,Moorooduc,22311,South Morang,,no_eligible_route
+21755,Mooroolbark,22311,South Morang,116.63,ok
+21760,Mordialloc,22311,South Morang,118.93,ok
+21763,Mornington (Vic.),22311,South Morang,189.63,ok
+21779,Mount Burnett,22311,South Morang,,no_eligible_route
+21786,Mount Cottrell,22311,South Morang,,no_eligible_route
+21787,Mount Dandenong,22311,South Morang,138.4,ok
+21793,Mount Eliza,22311,South Morang,160.17,ok
+21795,Mount Evelyn,22311,South Morang,142.57,ok
+21801,Mount Macedon,22311,South Morang,,no_eligible_route
+21803,Mount Martha,22311,South Morang,183.7,ok
+21814,Mount Toolebewong,22311,South Morang,,no_eligible_route
+21816,Mount Waverley,22311,South Morang,110.53,ok
+21827,Mulgrave (Vic.),22311,South Morang,135.27,ok
+21849,Murrumbeena,22311,South Morang,102.85,ok
+21872,Nangana,22311,South Morang,,no_eligible_route
+21878,Nar Nar Goon,22311,South Morang,,no_eligible_route
+21879,Nar Nar Goon North,22311,South Morang,,no_eligible_route
+21893,Narre Warren,22311,South Morang,142.68,ok
+21894,Narre Warren East,22311,South Morang,,no_eligible_route
+21895,Narre Warren North,22311,South Morang,154.95,ok
+21896,Narre Warren South,22311,South Morang,148.5,ok
+21921,New Gisborne,22311,South Morang,,no_eligible_route
+21934,Newport (Vic.),22311,South Morang,95.38,ok
+21942,Niddrie,22311,South Morang,100.33,ok
+21952,Noble Park,22311,South Morang,114.95,ok
+21953,Noble Park North,22311,South Morang,147.93,ok
+21966,North Melbourne,22311,South Morang,84.83,ok
+21969,North Warrandyte,22311,South Morang,85.93,ok
+21971,Northcote,22311,South Morang,59.7,ok
+21974,Notting Hill,22311,South Morang,104.08,ok
+21985,Nunawading,22311,South Morang,83.9,ok
+21991,Nutfield,22311,South Morang,184.68,walk_only
+21998,Oak Park,22311,South Morang,86.87,ok
+21999,Oaklands Junction,22311,South Morang,,no_eligible_route
+22000,Oakleigh,22311,South Morang,105.4,ok
+22001,Oakleigh East,22311,South Morang,121.73,ok
+22002,Oakleigh South,22311,South Morang,111.55,ok
+22006,Officer,22311,South Morang,159.23,ok
+22007,Officer South,22311,South Morang,200.8,ok
+22009,Olinda (Vic.),22311,South Morang,163.05,ok
+22016,Ormond,22311,South Morang,88.38,ok
+22027,Pakenham,22311,South Morang,157.15,ok
+22028,Pakenham South,22311,South Morang,,no_eligible_route
+22029,Pakenham Upper,22311,South Morang,,no_eligible_route
+22032,Panton Hill,22311,South Morang,,no_eligible_route
+22036,Park Orchards,22311,South Morang,97.3,ok
+22037,Parkdale,22311,South Morang,108.72,ok
+22038,Parkville (Vic.),22311,South Morang,87.75,ok
+22041,Pascoe Vale,22311,South Morang,83.4,ok
+22042,Pascoe Vale South,22311,South Morang,75.45,ok
+22047,Patterson Lakes,22311,South Morang,131.02,ok
+22050,Pearcedale,22311,South Morang,210.1,ok
+22058,Pentland Hills,22311,South Morang,,no_eligible_route
+22064,Pheasant Creek (Vic.),22311,South Morang,,no_eligible_route
+22084,Plenty (Vic.),22311,South Morang,49.63,ok
+22085,Plumpton (Vic.),22311,South Morang,,no_eligible_route
+22086,Point Cook,22311,South Morang,131.77,ok
+22087,Point Leo,22311,South Morang,,no_eligible_route
+22107,Port Melbourne,22311,South Morang,91.9,ok
+22113,Portsea,22311,South Morang,,no_eligible_route
+22115,Powelltown,22311,South Morang,,no_eligible_route
+22118,Prahran,22311,South Morang,82.88,ok
+22121,Preston (Vic.),22311,South Morang,53.7,ok
+22122,Princes Hill,22311,South Morang,73.77,ok
+22132,Quandong,22311,South Morang,,no_eligible_route
+22141,Ravenhall,22311,South Morang,164.3,ok
+22148,Red Hill (Vic.),22311,South Morang,,no_eligible_route
+22149,Red Hill South,22311,South Morang,,no_eligible_route
+22160,Research,22311,South Morang,79.8,ok
+22161,Reservoir (Vic.),22311,South Morang,44.95,ok
+22170,Richmond (Vic.),22311,South Morang,72.82,ok
+22172,Riddells Creek,22311,South Morang,,no_eligible_route
+22174,Ringwood (Vic.),22311,South Morang,99.37,ok
+22175,Ringwood East,22311,South Morang,107.52,ok
+22176,Ringwood North,22311,South Morang,106.27,ok
+22179,Ripponlea,22311,South Morang,89.35,ok
+22185,Rochford,22311,South Morang,,no_eligible_route
+22186,Rockbank,22311,South Morang,164.33,ok
+22193,Romsey,22311,South Morang,,no_eligible_route
+22194,Rosanna,22311,South Morang,69.53,ok
+22198,Rosebud,22311,South Morang,232.5,ok
+22207,Rowville,22311,South Morang,138.47,ok
+22208,Roxburgh Park,22311,South Morang,78.18,ok
+22220,Rye,22311,South Morang,244.7,ok
+22221,Rythdale,22311,South Morang,,no_eligible_route
+22222,Safety Beach (Vic.),22311,South Morang,199.67,ok
+22232,Sandhurst,22311,South Morang,159.35,ok
+22234,Sandringham (Vic.),22311,South Morang,116.2,ok
+22239,Sassafras (Vic.),22311,South Morang,147.47,ok
+22242,Scoresby,22311,South Morang,126.72,ok
+22247,Seabrook,22311,South Morang,121.35,ok
+22249,Seaford (Vic.),22311,South Morang,134.25,ok
+22250,Seaholme,22311,South Morang,108.62,ok
+22256,Seddon (Vic.),22311,South Morang,90.97,ok
+22258,Selby,22311,South Morang,159.02,ok
+22263,Seville,22311,South Morang,166.25,ok
+22264,Seville East,22311,South Morang,153.13,ok
+22278,Sherbrooke,22311,South Morang,158.2,ok
+22279,Shoreham,22311,South Morang,,no_eligible_route
+22281,Silvan,22311,South Morang,167.68,ok
+22291,Skye (Vic.),22311,South Morang,186.03,ok
+22295,Smiths Gully,22311,South Morang,,no_eligible_route
+22303,Somers,22311,South Morang,,no_eligible_route
+22304,Somerton (Vic.),22311,South Morang,69.0,ok
+22305,Somerville (Vic.),22311,South Morang,182.25,ok
+22306,Sorrento (Vic.),22311,South Morang,235.47,ok
+22309,South Kingsville,22311,South Morang,112.63,ok
+22310,South Melbourne,22311,South Morang,87.12,ok
+22311,South Morang,22311,South Morang,0.0,same_centroid
+22313,South Wharf,22311,South Morang,81.37,ok
+22314,South Yarra,22311,South Morang,68.02,ok
+22315,Southbank,22311,South Morang,83.88,ok
+22319,Spotswood,22311,South Morang,92.78,ok
+22325,Springfield (Macedon Ranges - Vic.),22311,South Morang,,no_eligible_route
+22328,Springvale (Vic.),22311,South Morang,115.92,ok
+22329,Springvale South,22311,South Morang,121.65,ok
+22330,St Albans (Vic.),22311,South Morang,106.47,ok
+22332,St Andrews (Vic.),22311,South Morang,,no_eligible_route
+22333,St Andrews Beach,22311,South Morang,,no_eligible_route
+22339,St Helena,22311,South Morang,56.55,ok
+22343,St Kilda (Vic.),22311,South Morang,91.05,ok
+22344,St Kilda East,22311,South Morang,94.78,ok
+22345,St Kilda West,22311,South Morang,95.77,ok
+22355,Steels Creek,22311,South Morang,,no_eligible_route
+22375,Strathewen,22311,South Morang,,no_eligible_route
+22380,Strathmore (Vic.),22311,South Morang,93.23,ok
+22381,Strathmore Heights,22311,South Morang,95.4,ok
+22382,Strathtulloh,22311,South Morang,,no_eligible_route
+22391,Sunbury,22311,South Morang,173.75,ok
+22395,Sunshine (Vic.),22311,South Morang,95.25,ok
+22396,Sunshine North,22311,South Morang,110.32,ok
+22397,Sunshine West,22311,South Morang,123.82,ok
+22399,Surrey Hills,22311,South Morang,95.9,ok
+22414,Sydenham (Vic.),22311,South Morang,120.87,ok
+22451,Tarneit,22311,South Morang,148.38,ok
+22457,Tarrawarra,22311,South Morang,182.05,ok
+22473,Taylors Hill,22311,South Morang,127.7,ok
+22474,Taylors Lakes,22311,South Morang,118.28,ok
+22476,Tecoma,22311,South Morang,123.42,ok
+22483,Templestowe,22311,South Morang,65.7,ok
+22484,Templestowe Lower,22311,South Morang,78.63,ok
+22496,The Basin (Vic.),22311,South Morang,138.6,ok
+22501,The Patch,22311,South Morang,166.15,ok
+22504,Thomastown,22311,South Morang,42.12,ok
+22508,Thornbury,22311,South Morang,57.67,ok
+22509,Thornhill Park,22311,South Morang,,no_eligible_route
+22514,Three Bridges,22311,South Morang,,no_eligible_route
+22531,Tonimbuk,22311,South Morang,,no_eligible_route
+22536,Toolangi,22311,South Morang,,no_eligible_route
+22537,Toolern Vale,22311,South Morang,,no_eligible_route
+22546,Tooradin,22311,South Morang,,no_eligible_route
+22547,Toorak,22311,South Morang,84.5,ok
+22550,Tootgarook,22311,South Morang,228.12,ok
+22556,Tottenham (Vic.),22311,South Morang,121.68,ok
+22572,Travancore,22311,South Morang,88.72,ok
+22576,Tremont,22311,South Morang,141.02,ok
+22582,Truganina,22311,South Morang,195.98,ok
+22584,Tuerong,22311,South Morang,,no_eligible_route
+22586,Tullamarine,22311,South Morang,95.72,ok
+22594,Tyabb,22311,South Morang,171.12,ok
+22598,Tynong,22311,South Morang,,no_eligible_route
+22599,Tynong North,22311,South Morang,,no_eligible_route
+22614,Upper Ferntree Gully,22311,South Morang,120.57,ok
+22617,Upper Plenty,22311,South Morang,,no_eligible_route
+22620,Upwey,22311,South Morang,123.28,ok
+22627,Vermont,22311,South Morang,110.63,ok
+22628,Vermont South,22311,South Morang,113.95,ok
+22629,Vervale,22311,South Morang,,no_eligible_route
+22633,Viewbank,22311,South Morang,76.95,ok
+22661,Wallan,22311,South Morang,,no_eligible_route
+22672,Wandin East,22311,South Morang,,no_eligible_route
+22673,Wandin North,22311,South Morang,139.22,ok
+22676,Wandong,22311,South Morang,,no_eligible_route
+22685,Wantirna,22311,South Morang,111.57,ok
+22686,Wantirna South,22311,South Morang,124.42,ok
+22689,Warburton (Vic.),22311,South Morang,,no_eligible_route
+22695,Warneet,22311,South Morang,,no_eligible_route
+22702,Warrandyte,22311,South Morang,79.48,ok
+22703,Warrandyte South,22311,South Morang,126.62,ok
+22704,Warranwood,22311,South Morang,112.12,ok
+22717,Waterford Park,22311,South Morang,,no_eligible_route
+22720,Waterways,22311,South Morang,142.9,ok
+22721,Watsonia,22311,South Morang,51.72,ok
+22722,Watsonia North,22311,South Morang,53.1,ok
+22723,Watsons Creek (Vic.),22311,South Morang,,no_eligible_route
+22727,Wattle Glen,22311,South Morang,67.68,ok
+22740,Weir Views,22311,South Morang,,no_eligible_route
+22750,Werribee,22311,South Morang,131.57,ok
+22751,Werribee South,22311,South Morang,,no_eligible_route
+22753,Wesburn,22311,South Morang,171.18,ok
+22756,West Footscray,22311,South Morang,98.42,ok
+22757,West Melbourne,22311,South Morang,90.35,ok
+22761,Westmeadows,22311,South Morang,79.75,ok
+22766,Wheelers Hill,22311,South Morang,118.15,ok
+22775,Whittlesea,22311,South Morang,,no_eligible_route
+22784,Wildwood,22311,South Morang,,no_eligible_route
+22791,Williams Landing,22311,South Morang,124.78,ok
+22792,Williamstown (Vic.),22311,South Morang,102.6,ok
+22793,Williamstown North,22311,South Morang,117.13,ok
+22805,Windsor (Vic.),22311,South Morang,83.78,ok
+22820,Wollert,22311,South Morang,70.28,ok
+22825,Wonga Park,22311,South Morang,140.97,ok
+22843,Woodstock (Vic.),22311,South Morang,213.98,walk_only
+22857,Woori Yallock,22311,South Morang,150.33,ok
+22883,Wyndham Vale,22311,South Morang,161.38,ok
+22892,Yallambie,22311,South Morang,75.82,ok
+22898,Yan Yean,22311,South Morang,69.37,ok
+22906,Yannathan,22311,South Morang,,no_eligible_route
+22910,Yarra Glen,22311,South Morang,179.35,ok
+22911,Yarra Junction,22311,South Morang,175.45,ok
+22916,Yarrambat,22311,South Morang,44.75,ok
+22917,Yarraville,22311,South Morang,98.53,ok
+22925,Yellingbo,22311,South Morang,,no_eligible_route
+22930,Yering,22311,South Morang,,no_eligible_route
+22941,Yuroke,22311,South Morang,134.45,ok
