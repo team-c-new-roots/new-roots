@@ -12,6 +12,7 @@ const sections = [
   { id: 'collect', heading: 'privacy.collectHeading', body: 'privacy.collect' },
   { id: 'never', heading: 'privacy.neverHeading', body: 'privacy.never' },
   { id: 'where', heading: 'privacy.whereHeading', body: 'privacy.where' },
+  { id: 'saved', heading: 'privacy.savedHeading', body: 'privacy.saved' },
   { id: 'tracking', heading: 'privacy.trackingHeading', body: 'privacy.tracking' },
   { id: 'map', heading: 'privacy.mapHeading', body: 'privacy.map' },
   { id: 'shared', heading: 'privacy.sharedHeading', body: 'privacy.shared' },

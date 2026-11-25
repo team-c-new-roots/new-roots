@@ -56,10 +56,24 @@ export default {
     updated: 'Data last updated {date}.',
     wcag: 'Built to meet WCAG 2.2 level AA.',
   },
+  save: {
+    button: 'Save',
+    // read out after Save, so a screen reader hears what it saves and where
+    buttonMore: 'my answers on this device',
+    title: 'Save your answers on this device?',
+    body: 'Your answers and summary will stay in this browser so you can come back to them, even after a refresh. Anyone who uses this device can see them, so don’t save on a shared phone or computer. They’re never sent to us, and they’re removed 30 days after your last visit.',
+    confirm: 'Save',
+    cancel: 'Don’t save',
+    saved: 'Saved on this device. Select Save again to stop saving.',
+    stopped: 'No longer saved on this device.',
+    failed: 'This browser won’t let us save. Your answers stay until you close the tab.',
+    back: 'Your answers are saved on this device.',
+    backLink: 'See your suburbs',
+  },
   clear: {
     button: 'Clear my details',
     title: 'Clear your details?',
-    body: 'This removes your answers and your saved suburbs from this phone or computer. You can’t undo it.',
+    body: 'This removes your answers and your saved suburbs from this device. You can’t undo it.',
     confirm: 'Clear my details',
     cancel: 'Keep my details',
   },
@@ -88,7 +102,7 @@ export default {
     purpose: 'Find where you can afford to rent in Melbourne',
     who: 'New Roots is a free guide for refugees and people seeking asylum looking for a first home. It works out the rent you can afford, then shows which suburbs fit your budget and your family.',
     free: 'Free to use',
-    private: 'No account, nothing saved',
+    private: 'No account, nothing sent to us',
     melbourne: 'Greater Melbourne',
     heading: 'What language do you speak?',
     lead: 'Choose one, and New Roots will appear in it.',
@@ -120,10 +134,11 @@ export default {
     doesnt2: 'Doesn’t give visa or legal advice',
     doesnt3: 'Isn’t part of any government department',
     doesnt4: 'Doesn’t cover places outside Greater Melbourne yet',
-    privacy: 'Nothing you enter is saved or shared, and you don’t need an account.',
+    privacy:
+      'Nothing you enter is sent to us or saved, unless you choose to save it on this device. You don’t need an account.',
     privacyLink: 'Read our privacy page',
     start: 'Find suburbs I can afford',
-    steps: '4 short steps. No account, and nothing is saved.',
+    steps: '4 short steps, and no account needed.',
     helpNow: 'Need help now? See support services',
   },
   steps: {
@@ -707,9 +722,9 @@ export default {
     limits:
       'A busy road, railway or creek can make the real walk longer, so check the route on a map before you rely on it.',
     healthSource:
-      'Pharmacies and GPs: Geoscience Australia, from the National Health Services Directory.',
+      'Pharmacies and GPs: Geoscience Australia, from the National Health Services Directory, October 2026.',
     centrelinkSource:
-      'Services Australia centres: Services Australia Office Locations, through the Digital Atlas of Australia.',
+      'Services Australia centres: Services Australia Office Locations, through the Digital Atlas of Australia, August 2023.',
   },
   communityPlaces: {
     title: 'Libraries and community centres',
@@ -720,7 +735,7 @@ export default {
       'No libraries or community centres in or within {km} of {suburb} | 1 library or community centre in or within {km} of {suburb} | {n} libraries and community centres in or within {km} of {suburb}',
     none: 'There are no libraries or community centres in {suburb} or within {km} of it.',
     open: 'See the list',
-    source: 'Places: Vicmap Features of Interest.',
+    source: 'Places: Vicmap Features of Interest, October 2026.',
   },
   rentTrend: {
     title: 'Rent trend',
@@ -828,15 +843,18 @@ export default {
     never: 'We never ask for your name, address, phone number, email, visa or Centrelink details.',
     whereHeading: 'Where your answers go',
     where:
-      'Your answers stay in this browser tab. They aren’t saved to your phone and they aren’t sent to us. Closing or refreshing the tab clears them, and so does Clear my details.',
+      'Your answers stay in this browser tab and aren’t sent to us. Closing or refreshing the tab clears them, unless you choose Save. Clear my details always clears them.',
+    savedHeading: 'If you choose Save',
+    saved:
+      'Your answers, your summary, your language and the theme are kept in this browser on this device, and nowhere else. Select Save again or choose Clear my details to remove them straight away. If you don’t come back for 30 days, they’re removed.',
     trackingHeading: 'No accounts or tracking',
     tracking:
       'There are no accounts, no analytics and no advertising. We don’t use cookies to follow you.',
     mapHeading: 'The street map',
     map: 'The map shows suburb shapes without loading anything from other websites. If you turn on Street map, map pictures load from OpenStreetMap. Like any website, they can see your device’s internet address and that the request came from New Roots.',
-    sharedHeading: 'If you share a phone',
+    sharedHeading: 'If you share a phone or computer',
     shared:
-      'When you finish, choose Clear my details or close the tab. A printed or saved summary has no names, addresses or visa details.',
+      'When you finish, choose Clear my details or close the tab, and don’t use Save. A printed or saved summary has no names, addresses or visa details.',
     hostingHeading: 'Our hosting',
     hosting:
       'Like any website, the service that hosts New Roots may keep short technical records of visits, such as the time and the device’s internet address. Those records never include your answers.',

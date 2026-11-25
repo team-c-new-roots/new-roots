@@ -118,11 +118,15 @@ const router = createRouter({
   },
 })
 
-// UX, not security. answers only live in memory, so a refresh or a pasted
-// link lands here with no budget. send them to the question that's missing
-// instead of showing results built from nothing
+// UX, not security. without Save, answers only live in memory, so a refresh
+// or a pasted link lands here with no budget. if everything's gone it starts
+// at step 1, so nobody carries on from step 2 with their household quietly
+// reset. if they've answered step 1 this visit, it's the income that's missing
 router.beforeEach((to) => {
-  if (to.meta.needsBudget && !useAnswersStore().incomeDone) return { name: 'income' }
+  const answers = useAnswersStore()
+  if (to.meta.needsBudget && !answers.incomeDone) {
+    return { name: answers.hasAnswers ? 'income' : 'household' }
+  }
 })
 
 export function pageTitle(route: RouteLocationNormalized): string {

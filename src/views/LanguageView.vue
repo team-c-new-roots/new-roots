@@ -2,8 +2,10 @@
 import { computed, ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
-import { HandHeart, Lock, MapPin, Phone } from '@lucide/vue'
+import { Bookmark, HandHeart, Lock, MapPin, Phone } from '@lucide/vue'
 import { useLanguageStore } from '@/stores/language'
+import { useAnswersStore } from '@/stores/answers'
+import { useSavedStore } from '@/stores/saved'
 import { GREETINGS, type AppLanguage, type AppLanguageCode } from '@/data/languages'
 import type { ChoiceOption } from '@/types'
 import RadioGroup from '@/components/ui/RadioGroup.vue'
@@ -18,6 +20,10 @@ import RadioGroup from '@/components/ui/RadioGroup.vue'
 const { t } = useI18n()
 const router = useRouter()
 const language = useLanguageStore()
+const answers = useAnswersStore()
+const saved = useSavedStore()
+// US 2.7, back with saved answers, so the first thing is the way back to them
+const savedReturn = computed(() => saved.on && answers.incomeDone)
 // open already if the language in use is one of the extra ones
 const showMore = ref(language.current.group === 'more')
 
@@ -45,6 +51,13 @@ const choice = computed<AppLanguageCode | null>({
 
 <template>
   <div class="page page--narrow language-page">
+    <p v-if="savedReturn" class="panel language-page__saved">
+      <Bookmark :size="20" aria-hidden="true" />
+      <span>
+        {{ t('save.back') }}
+        <RouterLink :to="{ name: 'results' }">{{ t('save.backLink') }}</RouterLink>
+      </span>
+    </p>
     <p class="language-page__greeting">
       <span
         v-for="(line, row) in GREETINGS"
@@ -134,6 +147,22 @@ const choice = computed<AppLanguageCode | null>({
 <style scoped>
 .language-page {
   text-align: center;
+}
+
+.language-page__saved {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+  text-align: start;
+  font-weight: 700;
+}
+
+.language-page__saved svg {
+  flex: none;
+  margin-top: 0.15rem;
+  color: var(--nr-wine-text);
+  fill: currentColor;
 }
 
 .language-page__greeting {

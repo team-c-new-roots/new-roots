@@ -5,6 +5,7 @@ import { X } from '@lucide/vue'
 import type { NavLink } from '@/composables/useNavLinks'
 import { useAnswersStore } from '@/stores/answers'
 import ClearDetailsButton from './ClearDetailsButton.vue'
+import SaveToggle from './SaveToggle.vue'
 import ThemePicker from '@/components/ui/ThemePicker.vue'
 
 /* the menu panel. a native <dialog> with showModal(), not a hand-rolled
@@ -78,6 +79,8 @@ function onClick(event: MouseEvent) {
 
       <div class="nav-panel__footer">
         <ThemePicker id="menu-theme" />
+        <!-- US 2.7, here too so saving can be turned off from any page -->
+        <SaveToggle v-if="answers.hasAnswers" />
         <ClearDetailsButton v-if="answers.hasAnswers" class="btn--block" @cleared="leave" />
       </div>
     </div>

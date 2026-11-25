@@ -4,6 +4,7 @@ import { useI18n } from 'vue-i18n'
 import type { RouteLocationRaw } from 'vue-router'
 import { ChevronLeft } from '@lucide/vue'
 import ErrorSummary from '@/components/ui/ErrorSummary.vue'
+import SaveToggle from '@/components/layout/SaveToggle.vue'
 
 /* the frame around each question: step count, progress bar, the form, then
    Next and Back. one question per screen, per the wireframe. the step view
@@ -41,9 +42,14 @@ async function submit() {
 
 <template>
   <div class="page page--narrow step">
-    <p class="step__count">
-      {{ t(continued ? 'steps.stepContinued' : 'steps.stepOf', { step, total: TOTAL_STEPS }) }}
-    </p>
+    <!-- Save sits top right on every step and the results (US 2.7), so a
+         refresh halfway through doesn't start them again -->
+    <div class="step__top">
+      <p class="step__count">
+        {{ t(continued ? 'steps.stepContinued' : 'steps.stepOf', { step, total: TOTAL_STEPS }) }}
+      </p>
+      <SaveToggle />
+    </div>
     <div class="step__bar" aria-hidden="true">
       <span
         :style="{ inlineSize: `${((step + (continued ? 0.5 : 0)) / TOTAL_STEPS) * 100}%` }"
@@ -67,8 +73,17 @@ async function submit() {
 </template>
 
 <style scoped>
+.step__top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0 1rem;
+  margin-bottom: 0.25rem;
+}
+
 .step__count {
-  margin-bottom: 0.5rem;
+  margin: 0;
   font-weight: 700;
 }
 

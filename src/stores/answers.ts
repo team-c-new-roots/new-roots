@@ -15,10 +15,12 @@ import { blankAdult, budgetParts, estimateBudget } from '@/services/budget'
 import { homeRequest, suggestBedrooms } from '@/services/household'
 import { DEFAULT_IMPORTANCE } from '@/data/topics'
 import { ENGLISH } from '@/data/languages'
+import type { SavedAnswers } from '@/services/saved'
 
-/* everything someone tells New Roots lives here and only here. memory only,
-   never localStorage or sessionStorage, so closing the tab really does
-   forget it. on a shared phone that matters more than surviving a refresh */
+/* everything someone tells New Roots lives here. memory only, unless they
+   choose Save (US 2.7, see stores/saved), so by default closing
+   the tab really does forget it. on a shared phone that matters more than
+   surviving a refresh */
 
 // US 2.4, the summary holds up to five suburbs and starts with the top three.
 // five still prints on one A4 page, and leaves room for their own picks
@@ -176,6 +178,56 @@ export const useAnswersStore = defineStore('answers', () => {
     return true
   }
 
+  // a plain copy for Save
+  function snapshot(): SavedAnswers {
+    return {
+      adults: adults.value,
+      children: children.value,
+      chosenBedrooms: chosenBedrooms.value,
+      homeType: homeType.value,
+      incomeSource: incomeSource.value,
+      incomes: incomes.value.map((income) => ({ ...income })),
+      familyTax: familyTax.value,
+      wageAmount: wageAmount.value,
+      wagePeriod: wagePeriod.value,
+      couple: couple.value,
+      teens: teens.value,
+      youngestUnderFive: youngestUnderFive.value,
+      communityLanguage: communityLanguage.value,
+      communityLanguageLabel: communityLanguageLabel.value,
+      importance: { ...importance },
+      places: [...places.value],
+      chosenSchoolNeed: chosenSchoolNeed.value,
+      shortlist: shortlist.value ? [...shortlist.value] : null,
+    }
+  }
+
+  // back from storage, already checked by cleanAnswers. adults and children
+  // go first, their watchers reset the incomes and family tax
+  function restore(saved: SavedAnswers) {
+    adults.value = saved.adults
+    children.value = saved.children
+    incomes.value = Array.from(
+      { length: saved.adults },
+      (_, index) => saved.incomes[index] ?? blankAdult(),
+    )
+    chosenBedrooms.value = saved.chosenBedrooms
+    homeType.value = saved.homeType
+    incomeSource.value = saved.incomeSource
+    familyTax.value = saved.familyTax
+    wageAmount.value = saved.wageAmount
+    wagePeriod.value = saved.wagePeriod
+    couple.value = saved.couple
+    teens.value = saved.teens
+    youngestUnderFive.value = saved.youngestUnderFive
+    communityLanguage.value = saved.communityLanguage
+    communityLanguageLabel.value = saved.communityLanguageLabel
+    Object.assign(importance, saved.importance)
+    places.value = saved.places
+    chosenSchoolNeed.value = saved.chosenSchoolNeed
+    shortlist.value = saved.shortlist
+  }
+
   function clear() {
     adults.value = 1
     children.value = 0
@@ -228,6 +280,8 @@ export const useAnswersStore = defineStore('answers', () => {
     hasAnswers,
     summaryIds,
     toggleShortlist,
+    snapshot,
+    restore,
     clear,
   }
 })

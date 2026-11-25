@@ -22,6 +22,7 @@ import SuburbCard from '@/components/results/SuburbCard.vue'
 import NothingFits from '@/components/results/NothingFits.vue'
 import ResultsGate from '@/components/results/ResultsGate.vue'
 import ClearDetailsButton from '@/components/layout/ClearDetailsButton.vue'
+import SaveToggle from '@/components/layout/SaveToggle.vue'
 import DataNote from '@/components/results/DataNote.vue'
 import NextSteps from '@/components/results/NextSteps.vue'
 import BudgetBreakdown from '@/components/steps/BudgetBreakdown.vue'
@@ -185,9 +186,14 @@ async function showMore() {
   <div class="page results">
     <div class="results__head">
       <h1>{{ nothingFits ? t('nothingFits.title') : t('results.title') }}</h1>
-      <RouterLink :to="{ name: 'household' }" class="link-action">{{
-        t('results.edit')
-      }}</RouterLink>
+      <!-- US 2.7, top right where people land after a refresh or a visit
+           next week, beside changing their answers -->
+      <div class="results__head-actions no-print">
+        <RouterLink :to="{ name: 'household' }" class="link-action">{{
+          t('results.edit')
+        }}</RouterLink>
+        <SaveToggle />
+      </div>
     </div>
     <p v-if="!nothingFits" class="results__line">
       {{ summaryLine }}
@@ -417,6 +423,14 @@ async function showMore() {
   align-items: baseline;
   justify-content: space-between;
   gap: 0 1rem;
+}
+
+.results__head-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 1.25rem;
+  margin-bottom: 0.75rem;
 }
 
 .results__line {

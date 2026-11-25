@@ -4,6 +4,7 @@ import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
 import { useAnswersStore } from '@/stores/answers'
 import { useResultsStore } from '@/stores/results'
+import { useSavedStore } from '@/stores/saved'
 import { useFlash } from '@/composables/useFlash'
 import ConfirmDialog from '@/components/ui/ConfirmDialog.vue'
 
@@ -23,10 +24,13 @@ const { t } = useI18n()
 const router = useRouter()
 const answers = useAnswersStore()
 const results = useResultsStore()
+const saved = useSavedStore()
 const { set } = useFlash()
 const dialog = ref<InstanceType<typeof ConfirmDialog> | null>(null)
 
 function clearAll() {
+  // the saved copy first, so the cleared answers aren't written back (US 2.7)
+  saved.stop()
   answers.clear()
   // the last ranking was worked out from those answers, so it goes too
   results.reset()
