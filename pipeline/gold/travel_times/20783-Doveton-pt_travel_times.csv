@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20783,Doveton,91.95,ok
+20003,Aberfeldie,20783,Doveton,115.9,ok
+20011,Aintree,20783,Doveton,150.23,ok
+20015,Airport West,20783,Doveton,126.6,ok
+20017,Albanvale,20783,Doveton,119.7,ok
+20018,Albert Park (Vic.),20783,Doveton,91.62,ok
+20021,Albion (Vic.),20783,Doveton,101.1,ok
+20034,Alphington,20783,Doveton,97.12,ok
+20035,Altona (Vic.),20783,Doveton,124.2,ok
+20036,Altona Meadows,20783,Doveton,127.35,ok
+20037,Altona North,20783,Doveton,132.38,ok
+20062,Ardeer,20783,Doveton,119.33,ok
+20066,Armadale (Vic.),20783,Doveton,72.33,ok
+20071,Arthurs Creek,20783,Doveton,,no_eligible_route
+20072,Arthurs Seat,20783,Doveton,,no_eligible_route
+20075,Ascot Vale,20783,Doveton,102.03,ok
+20077,Ashburton,20783,Doveton,82.2,ok
+20078,Ashwood,20783,Doveton,76.82,ok
+20079,Aspendale,20783,Doveton,91.6,ok
+20080,Aspendale Gardens,20783,Doveton,80.35,ok
+20082,Attwood,20783,Doveton,142.32,ok
+20089,Avondale Heights,20783,Doveton,122.63,ok
+20091,Avonsleigh,20783,Doveton,,no_eligible_route
+20095,Bacchus Marsh,20783,Doveton,,no_eligible_route
+20097,Badger Creek,20783,Doveton,171.33,ok
+20105,Balaclava (Vic.),20783,Doveton,75.88,ok
+20120,Balnarring,20783,Doveton,174.22,ok
+20121,Balnarring Beach,20783,Doveton,170.75,ok
+20123,Balwyn,20783,Doveton,102.72,ok
+20124,Balwyn North,20783,Doveton,110.85,ok
+20131,Bangholme,20783,Doveton,89.3,ok
+20169,Baxter,20783,Doveton,106.95,ok
+20171,Bayles,20783,Doveton,,no_eligible_route
+20173,Bayswater (Vic.),20783,Doveton,68.93,ok
+20174,Bayswater North,20783,Doveton,86.27,ok
+20175,Beaconsfield (Vic.),20783,Doveton,76.58,ok
+20176,Beaconsfield Upper,20783,Doveton,,no_eligible_route
+20182,Beaumaris (Vic.),20783,Doveton,89.13,ok
+20187,Beenak,20783,Doveton,,no_eligible_route
+20188,Belgrave,20783,Doveton,89.28,ok
+20189,Belgrave Heights,20783,Doveton,114.88,ok
+20190,Belgrave South,20783,Doveton,113.87,ok
+20198,Bellfield (Banyule - Vic.),20783,Doveton,113.87,ok
+20207,Bend Of Islands,20783,Doveton,,no_eligible_route
+20212,Benloch,20783,Doveton,,no_eligible_route
+20214,Bentleigh,20783,Doveton,68.48,ok
+20215,Bentleigh East,20783,Doveton,55.53,ok
+20224,Berwick,20783,Doveton,49.38,ok
+20233,Beveridge,20783,Doveton,172.87,ok
+20237,Big Pats Creek,20783,Doveton,,no_eligible_route
+20248,Bittern,20783,Doveton,124.93,ok
+20251,Black Rock (Vic.),20783,Doveton,94.93,ok
+20252,Blackburn,20783,Doveton,85.3,ok
+20253,Blackburn North,20783,Doveton,96.1,ok
+20254,Blackburn South,20783,Doveton,90.5,ok
+20257,Blairgowrie,20783,Doveton,175.48,ok
+20260,Blind Bight,20783,Doveton,,no_eligible_route
+20272,Bolinda,20783,Doveton,,no_eligible_route
+20278,Bonbeach,20783,Doveton,91.6,ok
+20280,Boneo,20783,Doveton,,no_eligible_route
+20282,Bonnie Brook,20783,Doveton,182.78,ok
+20304,Boronia,20783,Doveton,73.08,ok
+20307,Botanic Ridge,20783,Doveton,92.75,ok
+20314,Box Hill (Vic.),20783,Doveton,85.82,ok
+20315,Box Hill North,20783,Doveton,93.8,ok
+20316,Box Hill South,20783,Doveton,82.68,ok
+20320,Braeside,20783,Doveton,78.55,ok
+20324,Braybrook,20783,Doveton,102.88,ok
+20331,Briar Hill,20783,Doveton,128.7,ok
+20337,Brighton (Vic.),20783,Doveton,82.02,ok
+20338,Brighton East,20783,Doveton,71.17,ok
+20346,Broadmeadows (Vic.),20783,Doveton,128.95,ok
+20351,Brookfield (Vic.),20783,Doveton,,no_eligible_route
+20352,Brooklyn (Vic.),20783,Doveton,116.78,ok
+20361,Brunswick (Vic.),20783,Doveton,99.85,ok
+20362,Brunswick East,20783,Doveton,100.72,ok
+20363,Brunswick West,20783,Doveton,102.23,ok
+20381,Bulla (Vic.),20783,Doveton,,no_eligible_route
+20386,Bulleen,20783,Doveton,116.95,ok
+20387,Bullengarook,20783,Doveton,,no_eligible_route
+20399,Bundoora (Vic.),20783,Doveton,126.8,ok
+20411,Bunyip,20783,Doveton,,no_eligible_route
+20412,Bunyip North,20783,Doveton,,no_eligible_route
+20418,Burnley,20783,Doveton,97.35,ok
+20419,Burnside (Vic.),20783,Doveton,129.13,ok
+20420,Burnside Heights,20783,Doveton,130.97,ok
+20426,Burwood (Vic.),20783,Doveton,79.75,ok
+20427,Burwood East,20783,Doveton,75.68,ok
+20435,Bylands,20783,Doveton,,no_eligible_route
+20441,Cairnlea,20783,Doveton,112.32,ok
+20442,Calder Park,20783,Doveton,136.88,ok
+20443,Caldermeade,20783,Doveton,,no_eligible_route
+20453,Camberwell (Vic.),20783,Doveton,91.47,ok
+20455,Campbellfield,20783,Doveton,134.6,ok
+20466,Cannons Creek,20783,Doveton,,no_eligible_route
+20468,Canterbury (Vic.),20783,Doveton,101.37,ok
+20474,Cape Schanck,20783,Doveton,,no_eligible_route
+20476,Capel Sound,20783,Doveton,159.83,ok
+20487,Cardinia,20783,Doveton,,no_eligible_route
+20495,Carlton (Vic.),20783,Doveton,83.32,ok
+20496,Carlton North,20783,Doveton,100.9,ok
+20498,Carnegie,20783,Doveton,61.65,ok
+20500,Caroline Springs,20783,Doveton,127.02,ok
+20507,Carrum,20783,Doveton,91.42,ok
+20508,Carrum Downs,20783,Doveton,55.18,ok
+20512,Castella,20783,Doveton,,no_eligible_route
+20517,Catani,20783,Doveton,,no_eligible_route
+20521,Caulfield,20783,Doveton,77.23,ok
+20522,Caulfield East,20783,Doveton,59.32,ok
+20523,Caulfield North,20783,Doveton,66.33,ok
+20524,Caulfield South,20783,Doveton,80.62,ok
+20528,Chadstone,20783,Doveton,66.43,ok
+20537,Chelsea,20783,Doveton,81.72,ok
+20538,Chelsea Heights,20783,Doveton,87.3,ok
+20539,Cheltenham (Vic.),20783,Doveton,62.15,ok
+20541,Cherokee,20783,Doveton,,no_eligible_route
+20555,Chintin,20783,Doveton,,no_eligible_route
+20556,Chirnside Park,20783,Doveton,125.47,ok
+20559,Christmas Hills (Vic.),20783,Doveton,,no_eligible_route
+20560,Chum Creek,20783,Doveton,,no_eligible_route
+20566,Clarinda,20783,Doveton,60.88,ok
+20567,Clarkefield,20783,Doveton,,no_eligible_route
+20569,Clayton,20783,Doveton,58.0,ok
+20570,Clayton South,20783,Doveton,64.38,ok
+20572,Clematis,20783,Doveton,,no_eligible_route
+20574,Clifton Hill,20783,Doveton,90.2,ok
+20576,Clonbinane,20783,Doveton,,no_eligible_route
+20581,Clyde (Vic.),20783,Doveton,,no_eligible_route
+20582,Clyde North,20783,Doveton,78.9,ok
+20587,Cobaw,20783,Doveton,,no_eligible_route
+20590,Cobblebank,20783,Doveton,190.47,ok
+20596,Coburg,20783,Doveton,106.58,ok
+20597,Coburg North,20783,Doveton,116.15,ok
+20600,Cockatoo (Vic.),20783,Doveton,,no_eligible_route
+20601,Cocoroc,20783,Doveton,,no_eligible_route
+20605,Coimadai,20783,Doveton,,no_eligible_route
+20613,Coldstream (Vic.),20783,Doveton,,no_eligible_route
+20616,Collingwood (Vic.),20783,Doveton,92.6,ok
+20624,Coolaroo,20783,Doveton,126.55,ok
+20633,Cora Lynn,20783,Doveton,,no_eligible_route
+20654,Cottles Bridge,20783,Doveton,,no_eligible_route
+20661,Craigieburn,20783,Doveton,147.38,ok
+20662,Cranbourne,20783,Doveton,60.75,ok
+20663,Cranbourne East,20783,Doveton,68.03,ok
+20664,Cranbourne North,20783,Doveton,56.58,ok
+20665,Cranbourne South,20783,Doveton,96.1,ok
+20666,Cranbourne West,20783,Doveton,64.42,ok
+20670,Cremorne (Vic.),20783,Doveton,87.93,ok
+20674,Crib Point,20783,Doveton,133.9,ok
+20682,Croydon (Vic.),20783,Doveton,86.67,ok
+20683,Croydon Hills,20783,Doveton,102.53,ok
+20684,Croydon North,20783,Doveton,110.98,ok
+20685,Croydon South,20783,Doveton,89.73,ok
+20702,Dallas,20783,Doveton,128.25,ok
+20703,Dalmore,20783,Doveton,,no_eligible_route
+20707,Dandenong,20783,Doveton,25.7,ok
+20708,Dandenong North,20783,Doveton,43.43,ok
+20709,Dandenong South,20783,Doveton,52.35,ok
+20712,Darley,20783,Doveton,,no_eligible_route
+20716,Darraweit Guim,20783,Doveton,,no_eligible_route
+20724,Deanside,20783,Doveton,159.92,ok
+20728,Deepdene (Vic.),20783,Doveton,95.22,ok
+20729,Deer Park,20783,Doveton,118.08,ok
+20731,Delahey,20783,Doveton,123.22,ok
+20743,Derrimut,20783,Doveton,133.97,ok
+20748,Devon Meadows,20783,Doveton,,no_eligible_route
+20750,Dewhurst,20783,Doveton,,no_eligible_route
+20752,Diamond Creek,20783,Doveton,139.43,ok
+20754,Diggers Rest,20783,Doveton,138.73,ok
+20758,Dingley Village,20783,Doveton,48.48,ok
+20762,Dixons Creek,20783,Doveton,,no_eligible_route
+20766,Docklands,20783,Doveton,88.13,ok
+20769,Don Valley,20783,Doveton,,no_eligible_route
+20771,Doncaster,20783,Doveton,98.6,ok
+20772,Doncaster East,20783,Doveton,98.07,ok
+20773,Donnybrook (Vic.),20783,Doveton,171.4,ok
+20774,Donvale,20783,Doveton,104.3,ok
+20779,Doreen,20783,Doveton,170.92,ok
+20783,Doveton,20783,Doveton,0.0,same_centroid
+20788,Dromana,20783,Doveton,,no_eligible_route
+20825,Eaglemont,20783,Doveton,115.45,ok
+20830,East Melbourne,20783,Doveton,82.72,ok
+20833,East Warburton,20783,Doveton,,no_eligible_route
+20843,Eden Park,20783,Doveton,,no_eligible_route
+20848,Edithvale,20783,Doveton,72.2,ok
+20864,Elsternwick,20783,Doveton,80.42,ok
+20865,Eltham (Vic.),20783,Doveton,126.67,ok
+20866,Eltham North,20783,Doveton,140.55,ok
+20867,Elwood,20783,Doveton,94.68,ok
+20868,Emerald (Vic.),20783,Doveton,,no_eligible_route
+20871,Endeavour Hills,20783,Doveton,19.83,ok
+20878,Epping (Vic.),20783,Doveton,156.97,ok
+20885,Essendon,20783,Doveton,108.6,ok
+20886,Essendon Fields,20783,Doveton,130.17,ok
+20887,Essendon North,20783,Doveton,110.65,ok
+20888,Essendon West,20783,Doveton,112.12,ok
+20889,Eumemmerring,20783,Doveton,24.9,walk_only
+20898,Exford,20783,Doveton,,no_eligible_route
+20899,Eynesbury,20783,Doveton,,no_eligible_route
+20901,Fairfield (Vic.),20783,Doveton,103.43,ok
+20909,Fawkner,20783,Doveton,127.05,ok
+20916,Fernshaw,20783,Doveton,,no_eligible_route
+20917,Ferntree Gully,20783,Doveton,63.97,ok
+20918,Ferny Creek,20783,Doveton,126.5,ok
+20920,Fingal (Vic.),20783,Doveton,,no_eligible_route
+20924,Fitzroy (Vic.),20783,Doveton,89.73,ok
+20925,Fitzroy North,20783,Doveton,97.33,ok
+20929,Flemington,20783,Doveton,100.47,ok
+20930,Flinders (Vic.),20783,Doveton,,no_eligible_route
+20935,Footscray,20783,Doveton,88.52,ok
+20937,Forest Hill (Vic.),20783,Doveton,76.0,ok
+20947,Frankston,20783,Doveton,80.92,ok
+20948,Frankston North,20783,Doveton,86.53,ok
+20949,Frankston South,20783,Doveton,115.23,ok
+20950,Fraser Rise,20783,Doveton,147.63,ok
+20965,Gardenvale,20783,Doveton,75.62,ok
+20966,Garfield,20783,Doveton,,no_eligible_route
+20967,Garfield North,20783,Doveton,,no_eligible_route
+20979,Gembrook,20783,Doveton,,no_eligible_route
+20995,Gilderoy,20783,Doveton,,no_eligible_route
+21001,Gisborne,20783,Doveton,,no_eligible_route
+21002,Gisborne South,20783,Doveton,,no_eligible_route
+21004,Gladstone Park,20783,Doveton,143.15,ok
+21005,Gladysdale,20783,Doveton,,no_eligible_route
+21009,Glen Huntly,20783,Doveton,68.92,ok
+21010,Glen Iris (Vic.),20783,Doveton,90.5,ok
+21013,Glen Waverley,20783,Doveton,64.6,ok
+21047,Glenroy (Vic.),20783,Doveton,122.33,ok
+21059,Goldie,20783,Doveton,,no_eligible_route
+21079,Gowanbrae,20783,Doveton,129.73,ok
+21087,Grangefields,20783,Doveton,187.23,ok
+21104,Greensborough,20783,Doveton,116.5,ok
+21105,Greenvale (Vic.),20783,Doveton,156.48,ok
+21115,Gruyere,20783,Doveton,,no_eligible_route
+21121,Guys Hill,20783,Doveton,,no_eligible_route
+21124,Hadfield,20783,Doveton,127.62,ok
+21125,Hallam,20783,Doveton,42.48,ok
+21131,Hampton (Vic.),20783,Doveton,85.12,ok
+21132,Hampton East,20783,Doveton,84.15,ok
+21133,Hampton Park,20783,Doveton,50.38,ok
+21139,Harkaway,20783,Doveton,196.07,walk_only
+21140,Harkness,20783,Doveton,,no_eligible_route
+21145,Hastings (Vic.),20783,Doveton,126.47,ok
+21152,Hawthorn (Vic.),20783,Doveton,82.85,ok
+21153,Hawthorn East,20783,Doveton,87.62,ok
+21158,Healesville,20783,Doveton,175.25,ok
+21159,Heath Hill,20783,Doveton,,no_eligible_route
+21161,Heathcote Junction,20783,Doveton,,no_eligible_route
+21163,Heatherton,20783,Doveton,68.53,ok
+21165,Heathmont,20783,Doveton,82.37,ok
+21167,Heidelberg,20783,Doveton,115.52,ok
+21168,Heidelberg Heights,20783,Doveton,115.78,ok
+21169,Heidelberg West,20783,Doveton,118.97,ok
+21176,Hesket,20783,Doveton,,no_eligible_route
+21185,Highett,20783,Doveton,74.8,ok
+21193,Hillside (Melton - Vic.),20783,Doveton,132.18,ok
+21195,Hmas Cerberus,20783,Doveton,167.1,ok
+21196,Hoddles Creek,20783,Doveton,,no_eligible_route
+21202,Hopetoun Park,20783,Doveton,,no_eligible_route
+21203,Hoppers Crossing,20783,Doveton,137.32,ok
+21214,Hughesdale,20783,Doveton,52.57,ok
+21215,Humevale,20783,Doveton,,no_eligible_route
+21218,Huntingdale (Vic.),20783,Doveton,52.43,ok
+21223,Hurstbridge,20783,Doveton,139.98,ok
+21238,Iona,20783,Doveton,,no_eligible_route
+21246,Ivanhoe (Vic.),20783,Doveton,101.72,ok
+21247,Ivanhoe East,20783,Doveton,117.67,ok
+21248,Jacana,20783,Doveton,128.37,ok
+21277,Junction Village,20783,Doveton,100.58,ok
+21284,Kalkallo,20783,Doveton,164.4,ok
+21286,Kallista,20783,Doveton,,no_eligible_route
+21287,Kalorama,20783,Doveton,113.2,ok
+21294,Kangaroo Ground,20783,Doveton,166.75,ok
+21312,Kealba,20783,Doveton,121.47,ok
+21314,Keilor,20783,Doveton,152.62,ok
+21315,Keilor Downs,20783,Doveton,127.13,ok
+21316,Keilor East,20783,Doveton,123.27,ok
+21317,Keilor Lodge,20783,Doveton,124.07,ok
+21318,Keilor North,20783,Doveton,130.13,ok
+21319,Keilor Park,20783,Doveton,134.4,ok
+21327,Kensington (Vic.),20783,Doveton,93.32,ok
+21333,Kerrie,20783,Doveton,,no_eligible_route
+21336,Kew (Vic.),20783,Doveton,98.88,ok
+21337,Kew East,20783,Doveton,108.18,ok
+21339,Keysborough,20783,Doveton,46.8,ok
+21354,Kilsyth,20783,Doveton,104.53,ok
+21355,Kilsyth South,20783,Doveton,100.63,ok
+21358,Kinglake,20783,Doveton,,no_eligible_route
+21359,Kinglake Central,20783,Doveton,,no_eligible_route
+21360,Kinglake West,20783,Doveton,,no_eligible_route
+21362,Kings Park (Vic.),20783,Doveton,116.45,ok
+21363,Kingsbury,20783,Doveton,137.07,ok
+21365,Kingsville,20783,Doveton,97.58,ok
+21374,Knoxfield,20783,Doveton,54.4,ok
+21380,Koo Wee Rup,20783,Doveton,,no_eligible_route
+21381,Koo Wee Rup North,20783,Doveton,,no_eligible_route
+21393,Kooyong,20783,Doveton,82.63,ok
+21411,Kurunjang,20783,Doveton,208.55,ok
+21452,Lalor,20783,Doveton,124.4,ok
+21456,Lancefield,20783,Doveton,,no_eligible_route
+21459,Lang Lang,20783,Doveton,,no_eligible_route
+21460,Lang Lang East,20783,Doveton,,no_eligible_route
+21467,Langwarrin,20783,Doveton,80.97,ok
+21468,Langwarrin South,20783,Doveton,,no_eligible_route
+21473,Launching Place,20783,Doveton,139.85,ok
+21476,Laverton (Vic.),20783,Doveton,117.8,ok
+21477,Laverton North,20783,Doveton,144.23,ok
+21504,Lilydale (Vic.),20783,Doveton,118.53,ok
+21533,Long Forest,20783,Doveton,,no_eligible_route
+21547,Lower Plenty,20783,Doveton,135.85,ok
+21554,Lynbrook,20783,Doveton,47.75,ok
+21555,Lyndhurst (Vic.),20783,Doveton,86.8,ok
+21558,Lysterfield,20783,Doveton,106.82,ok
+21559,Lysterfield South,20783,Doveton,65.0,ok
+21561,Macclesfield (Vic.),20783,Doveton,,no_eligible_route
+21562,Macedon,20783,Doveton,,no_eligible_route
+21564,Macleod (Vic.),20783,Doveton,117.07,ok
+21569,Maddingley,20783,Doveton,,no_eligible_route
+21575,Maidstone,20783,Doveton,104.33,ok
+21578,Main Ridge,20783,Doveton,,no_eligible_route
+21586,Malvern (Vic.),20783,Doveton,74.32,ok
+21587,Malvern East,20783,Doveton,69.13,ok
+21588,Mambourin,20783,Doveton,,no_eligible_route
+21597,Manor Lakes,20783,Doveton,171.27,ok
+21604,Maribyrnong,20783,Doveton,109.85,ok
+21619,Maryknoll,20783,Doveton,,no_eligible_route
+21625,McCrae,20783,Doveton,,no_eligible_route
+21629,McKinnon,20783,Doveton,66.22,ok
+21635,Meadow Heights,20783,Doveton,141.25,ok
+21640,Melbourne,20783,Doveton,73.12,ok
+21641,Melbourne Airport,20783,Doveton,,no_eligible_route
+21642,Melton (Vic.),20783,Doveton,192.68,ok
+21643,Melton South,20783,Doveton,206.28,ok
+21644,Melton West,20783,Doveton,201.52,ok
+21648,Mentone,20783,Doveton,66.22,ok
+21649,Menzies Creek,20783,Doveton,,no_eligible_route
+21659,Mernda,20783,Doveton,158.88,ok
+21662,Merricks,20783,Doveton,,no_eligible_route
+21663,Merricks Beach,20783,Doveton,,no_eligible_route
+21664,Merricks North,20783,Doveton,,no_eligible_route
+21668,Merrimu,20783,Doveton,,no_eligible_route
+21675,Mickleham,20783,Doveton,179.38,ok
+21677,Middle Park (Vic.),20783,Doveton,94.97,ok
+21683,Mill Park,20783,Doveton,151.23,ok
+21685,Millgrove,20783,Doveton,,no_eligible_route
+21706,Mitcham (Vic.),20783,Doveton,85.6,ok
+21727,Monbulk,20783,Doveton,150.38,ok
+21728,Monegeetta,20783,Doveton,,no_eligible_route
+21731,Monomeith,20783,Doveton,,no_eligible_route
+21732,Mont Albert,20783,Doveton,97.68,ok
+21733,Mont Albert North,20783,Doveton,102.57,ok
+21735,Montmorency,20783,Doveton,123.22,ok
+21736,Montrose (Vic.),20783,Doveton,106.5,ok
+21742,Moonee Ponds,20783,Doveton,94.72,ok
+21746,Moorabbin,20783,Doveton,76.17,ok
+21747,Moorabbin Airport,20783,Doveton,58.48,ok
+21754,Moorooduc,20783,Doveton,,no_eligible_route
+21755,Mooroolbark,20783,Doveton,111.85,ok
+21760,Mordialloc,20783,Doveton,68.35,ok
+21763,Mornington (Vic.),20783,Doveton,128.67,ok
+21779,Mount Burnett,20783,Doveton,,no_eligible_route
+21786,Mount Cottrell,20783,Doveton,,no_eligible_route
+21787,Mount Dandenong,20783,Doveton,118.47,ok
+21793,Mount Eliza,20783,Doveton,103.02,ok
+21795,Mount Evelyn,20783,Doveton,125.57,ok
+21801,Mount Macedon,20783,Doveton,,no_eligible_route
+21803,Mount Martha,20783,Doveton,121.55,ok
+21814,Mount Toolebewong,20783,Doveton,,no_eligible_route
+21816,Mount Waverley,20783,Doveton,66.75,ok
+21827,Mulgrave (Vic.),20783,Doveton,62.78,ok
+21849,Murrumbeena,20783,Doveton,56.7,ok
+21872,Nangana,20783,Doveton,,no_eligible_route
+21878,Nar Nar Goon,20783,Doveton,,no_eligible_route
+21879,Nar Nar Goon North,20783,Doveton,,no_eligible_route
+21893,Narre Warren,20783,Doveton,36.78,ok
+21894,Narre Warren East,20783,Doveton,173.18,walk_only
+21895,Narre Warren North,20783,Doveton,61.22,ok
+21896,Narre Warren South,20783,Doveton,60.3,ok
+21921,New Gisborne,20783,Doveton,,no_eligible_route
+21934,Newport (Vic.),20783,Doveton,102.65,ok
+21942,Niddrie,20783,Doveton,122.6,ok
+21952,Noble Park,20783,Doveton,33.23,ok
+21953,Noble Park North,20783,Doveton,56.37,ok
+21966,North Melbourne,20783,Doveton,83.32,ok
+21969,North Warrandyte,20783,Doveton,122.47,ok
+21971,Northcote,20783,Doveton,105.33,ok
+21974,Notting Hill,20783,Doveton,61.85,ok
+21985,Nunawading,20783,Doveton,80.28,ok
+21991,Nutfield,20783,Doveton,,no_eligible_route
+21998,Oak Park,20783,Doveton,116.03,ok
+21999,Oaklands Junction,20783,Doveton,,no_eligible_route
+22000,Oakleigh,20783,Doveton,51.18,ok
+22001,Oakleigh East,20783,Doveton,61.0,ok
+22002,Oakleigh South,20783,Doveton,51.82,ok
+22006,Officer,20783,Doveton,69.03,ok
+22007,Officer South,20783,Doveton,,no_eligible_route
+22009,Olinda (Vic.),20783,Doveton,127.82,ok
+22016,Ormond,20783,Doveton,65.53,ok
+22027,Pakenham,20783,Doveton,68.08,ok
+22028,Pakenham South,20783,Doveton,,no_eligible_route
+22029,Pakenham Upper,20783,Doveton,,no_eligible_route
+22032,Panton Hill,20783,Doveton,,no_eligible_route
+22036,Park Orchards,20783,Doveton,97.18,ok
+22037,Parkdale,20783,Doveton,79.1,ok
+22038,Parkville (Vic.),20783,Doveton,93.93,ok
+22041,Pascoe Vale,20783,Doveton,120.4,ok
+22042,Pascoe Vale South,20783,Doveton,115.52,ok
+22047,Patterson Lakes,20783,Doveton,92.5,ok
+22050,Pearcedale,20783,Doveton,113.4,ok
+22058,Pentland Hills,20783,Doveton,,no_eligible_route
+22064,Pheasant Creek (Vic.),20783,Doveton,,no_eligible_route
+22084,Plenty (Vic.),20783,Doveton,145.07,ok
+22085,Plumpton (Vic.),20783,Doveton,,no_eligible_route
+22086,Point Cook,20783,Doveton,144.03,ok
+22087,Point Leo,20783,Doveton,,no_eligible_route
+22107,Port Melbourne,20783,Doveton,100.93,ok
+22113,Portsea,20783,Doveton,191.33,ok
+22115,Powelltown,20783,Doveton,,no_eligible_route
+22118,Prahran,20783,Doveton,85.72,ok
+22121,Preston (Vic.),20783,Doveton,118.0,ok
+22122,Princes Hill,20783,Doveton,95.08,ok
+22132,Quandong,20783,Doveton,,no_eligible_route
+22141,Ravenhall,20783,Doveton,167.37,ok
+22148,Red Hill (Vic.),20783,Doveton,,no_eligible_route
+22149,Red Hill South,20783,Doveton,,no_eligible_route
+22160,Research,20783,Doveton,128.37,ok
+22161,Reservoir (Vic.),20783,Doveton,121.22,ok
+22170,Richmond (Vic.),20783,Doveton,89.67,ok
+22172,Riddells Creek,20783,Doveton,,no_eligible_route
+22174,Ringwood (Vic.),20783,Doveton,76.17,ok
+22175,Ringwood East,20783,Doveton,93.32,ok
+22176,Ringwood North,20783,Doveton,91.92,ok
+22179,Ripponlea,20783,Doveton,85.7,ok
+22185,Rochford,20783,Doveton,,no_eligible_route
+22186,Rockbank,20783,Doveton,165.95,ok
+22193,Romsey,20783,Doveton,,no_eligible_route
+22194,Rosanna,20783,Doveton,111.53,ok
+22198,Rosebud,20783,Doveton,,no_eligible_route
+22207,Rowville,20783,Doveton,47.6,ok
+22208,Roxburgh Park,20783,Doveton,140.65,ok
+22220,Rye,20783,Doveton,183.55,ok
+22221,Rythdale,20783,Doveton,,no_eligible_route
+22222,Safety Beach (Vic.),20783,Doveton,138.52,ok
+22232,Sandhurst,20783,Doveton,89.58,ok
+22234,Sandringham (Vic.),20783,Doveton,82.17,ok
+22239,Sassafras (Vic.),20783,Doveton,109.27,ok
+22242,Scoresby,20783,Doveton,61.13,ok
+22247,Seabrook,20783,Doveton,126.1,ok
+22249,Seaford (Vic.),20783,Doveton,85.67,ok
+22250,Seaholme,20783,Doveton,118.88,ok
+22256,Seddon (Vic.),20783,Doveton,88.23,ok
+22258,Selby,20783,Doveton,121.95,ok
+22263,Seville,20783,Doveton,151.02,ok
+22264,Seville East,20783,Doveton,137.9,ok
+22278,Sherbrooke,20783,Doveton,130.98,ok
+22279,Shoreham,20783,Doveton,,no_eligible_route
+22281,Silvan,20783,Doveton,123.45,ok
+22291,Skye (Vic.),20783,Doveton,76.97,ok
+22295,Smiths Gully,20783,Doveton,,no_eligible_route
+22303,Somers,20783,Doveton,155.23,ok
+22304,Somerton (Vic.),20783,Doveton,140.02,ok
+22305,Somerville (Vic.),20783,Doveton,131.52,ok
+22306,Sorrento (Vic.),20783,Doveton,171.32,ok
+22309,South Kingsville,20783,Doveton,118.35,ok
+22310,South Melbourne,20783,Doveton,85.97,ok
+22311,South Morang,20783,Doveton,152.1,ok
+22313,South Wharf,20783,Doveton,90.12,ok
+22314,South Yarra,20783,Doveton,75.38,ok
+22315,Southbank,20783,Doveton,80.55,ok
+22319,Spotswood,20783,Doveton,101.05,ok
+22325,Springfield (Macedon Ranges - Vic.),20783,Doveton,,no_eligible_route
+22328,Springvale (Vic.),20783,Doveton,43.17,ok
+22329,Springvale South,20783,Doveton,49.92,ok
+22330,St Albans (Vic.),20783,Doveton,103.73,ok
+22332,St Andrews (Vic.),20783,Doveton,,no_eligible_route
+22333,St Andrews Beach,20783,Doveton,,no_eligible_route
+22339,St Helena,20783,Doveton,138.85,ok
+22343,St Kilda (Vic.),20783,Doveton,83.1,ok
+22344,St Kilda East,20783,Doveton,75.05,ok
+22345,St Kilda West,20783,Doveton,88.83,ok
+22355,Steels Creek,20783,Doveton,,no_eligible_route
+22375,Strathewen,20783,Doveton,,no_eligible_route
+22380,Strathmore (Vic.),20783,Doveton,124.2,ok
+22381,Strathmore Heights,20783,Doveton,131.67,ok
+22382,Strathtulloh,20783,Doveton,,no_eligible_route
+22391,Sunbury,20783,Doveton,172.02,ok
+22395,Sunshine (Vic.),20783,Doveton,92.52,ok
+22396,Sunshine North,20783,Doveton,116.58,ok
+22397,Sunshine West,20783,Doveton,111.87,ok
+22399,Surrey Hills,20783,Doveton,98.05,ok
+22414,Sydenham (Vic.),20783,Doveton,118.13,ok
+22451,Tarneit,20783,Doveton,152.1,ok
+22457,Tarrawarra,20783,Doveton,150.85,ok
+22473,Taylors Hill,20783,Doveton,127.95,ok
+22474,Taylors Lakes,20783,Doveton,123.02,ok
+22476,Tecoma,20783,Doveton,86.4,ok
+22483,Templestowe,20783,Doveton,119.48,ok
+22484,Templestowe Lower,20783,Doveton,117.1,ok
+22496,The Basin (Vic.),20783,Doveton,89.37,ok
+22501,The Patch,20783,Doveton,140.95,ok
+22504,Thomastown,20783,Doveton,129.7,ok
+22508,Thornbury,20783,Doveton,112.48,ok
+22509,Thornhill Park,20783,Doveton,,no_eligible_route
+22514,Three Bridges,20783,Doveton,,no_eligible_route
+22531,Tonimbuk,20783,Doveton,,no_eligible_route
+22536,Toolangi,20783,Doveton,,no_eligible_route
+22537,Toolern Vale,20783,Doveton,,no_eligible_route
+22546,Tooradin,20783,Doveton,,no_eligible_route
+22547,Toorak,20783,Doveton,87.77,ok
+22550,Tootgarook,20783,Doveton,166.97,ok
+22556,Tottenham (Vic.),20783,Doveton,118.95,ok
+22572,Travancore,20783,Doveton,94.47,ok
+22576,Tremont,20783,Doveton,99.57,ok
+22582,Truganina,20783,Doveton,225.48,ok
+22584,Tuerong,20783,Doveton,,no_eligible_route
+22586,Tullamarine,20783,Doveton,147.33,ok
+22594,Tyabb,20783,Doveton,120.38,ok
+22598,Tynong,20783,Doveton,,no_eligible_route
+22599,Tynong North,20783,Doveton,,no_eligible_route
+22614,Upper Ferntree Gully,20783,Doveton,76.72,ok
+22617,Upper Plenty,20783,Doveton,,no_eligible_route
+22620,Upwey,20783,Doveton,82.62,ok
+22627,Vermont,20783,Doveton,74.5,ok
+22628,Vermont South,20783,Doveton,70.8,ok
+22629,Vervale,20783,Doveton,,no_eligible_route
+22633,Viewbank,20783,Doveton,144.7,ok
+22661,Wallan,20783,Doveton,,no_eligible_route
+22672,Wandin East,20783,Doveton,,no_eligible_route
+22673,Wandin North,20783,Doveton,123.98,ok
+22676,Wandong,20783,Doveton,,no_eligible_route
+22685,Wantirna,20783,Doveton,69.53,ok
+22686,Wantirna South,20783,Doveton,62.82,ok
+22689,Warburton (Vic.),20783,Doveton,,no_eligible_route
+22695,Warneet,20783,Doveton,,no_eligible_route
+22702,Warrandyte,20783,Doveton,104.87,ok
+22703,Warrandyte South,20783,Doveton,119.25,ok
+22704,Warranwood,20783,Doveton,96.92,ok
+22717,Waterford Park,20783,Doveton,,no_eligible_route
+22720,Waterways,20783,Doveton,67.98,ok
+22721,Watsonia,20783,Doveton,111.98,ok
+22722,Watsonia North,20783,Doveton,135.52,ok
+22723,Watsons Creek (Vic.),20783,Doveton,,no_eligible_route
+22727,Wattle Glen,20783,Doveton,143.73,ok
+22740,Weir Views,20783,Doveton,,no_eligible_route
+22750,Werribee,20783,Doveton,133.83,ok
+22751,Werribee South,20783,Doveton,,no_eligible_route
+22753,Wesburn,20783,Doveton,155.95,ok
+22756,West Footscray,20783,Doveton,95.68,ok
+22757,West Melbourne,20783,Doveton,109.62,ok
+22761,Westmeadows,20783,Doveton,135.07,ok
+22766,Wheelers Hill,20783,Doveton,62.02,ok
+22775,Whittlesea,20783,Doveton,,no_eligible_route
+22784,Wildwood,20783,Doveton,,no_eligible_route
+22791,Williams Landing,20783,Doveton,132.05,ok
+22792,Williamstown (Vic.),20783,Doveton,109.87,ok
+22793,Williamstown North,20783,Doveton,124.37,ok
+22805,Windsor (Vic.),20783,Doveton,75.17,ok
+22820,Wollert,20783,Doveton,159.92,ok
+22825,Wonga Park,20783,Doveton,125.73,ok
+22843,Woodstock (Vic.),20783,Doveton,,no_eligible_route
+22857,Woori Yallock,20783,Doveton,135.1,ok
+22883,Wyndham Vale,20783,Doveton,159.65,ok
+22892,Yallambie,20783,Doveton,140.27,ok
+22898,Yan Yean,20783,Doveton,175.65,ok
+22906,Yannathan,20783,Doveton,,no_eligible_route
+22910,Yarra Glen,20783,Doveton,148.15,ok
+22911,Yarra Junction,20783,Doveton,160.22,ok
+22916,Yarrambat,20783,Doveton,156.13,ok
+22917,Yarraville,20783,Doveton,99.37,ok
+22925,Yellingbo,20783,Doveton,,no_eligible_route
+22930,Yering,20783,Doveton,,no_eligible_route
+22941,Yuroke,20783,Doveton,198.02,ok

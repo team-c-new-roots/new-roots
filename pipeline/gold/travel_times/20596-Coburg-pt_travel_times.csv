@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20596,Coburg,52.45,ok
+20003,Aberfeldie,20596,Coburg,39.52,ok
+20011,Aintree,20596,Coburg,103.9,ok
+20015,Airport West,20596,Coburg,52.22,ok
+20017,Albanvale,20596,Coburg,81.37,ok
+20018,Albert Park (Vic.),20596,Coburg,50.08,ok
+20021,Albion (Vic.),20596,Coburg,63.77,ok
+20034,Alphington,20596,Coburg,46.95,ok
+20035,Altona (Vic.),20596,Coburg,66.22,ok
+20036,Altona Meadows,20596,Coburg,74.37,ok
+20037,Altona North,20596,Coburg,90.27,ok
+20062,Ardeer,20596,Coburg,72.92,ok
+20066,Armadale (Vic.),20596,Coburg,52.02,ok
+20071,Arthurs Creek,20596,Coburg,,no_eligible_route
+20072,Arthurs Seat,20596,Coburg,206.53,ok
+20075,Ascot Vale,20596,Coburg,41.83,ok
+20077,Ashburton,20596,Coburg,65.62,ok
+20078,Ashwood,20596,Coburg,82.82,ok
+20079,Aspendale,20596,Coburg,92.27,ok
+20080,Aspendale Gardens,20596,Coburg,113.6,ok
+20082,Attwood,20596,Coburg,65.93,ok
+20089,Avondale Heights,20596,Coburg,58.32,ok
+20091,Avonsleigh,20596,Coburg,,no_eligible_route
+20095,Bacchus Marsh,20596,Coburg,,no_eligible_route
+20097,Badger Creek,20596,Coburg,164.82,ok
+20105,Balaclava (Vic.),20596,Coburg,58.0,ok
+20120,Balnarring,20596,Coburg,,no_eligible_route
+20121,Balnarring Beach,20596,Coburg,,no_eligible_route
+20123,Balwyn,20596,Coburg,68.75,ok
+20124,Balwyn North,20596,Coburg,72.72,ok
+20131,Bangholme,20596,Coburg,142.97,ok
+20169,Baxter,20596,Coburg,133.33,ok
+20171,Bayles,20596,Coburg,,no_eligible_route
+20173,Bayswater (Vic.),20596,Coburg,89.27,ok
+20174,Bayswater North,20596,Coburg,100.23,ok
+20175,Beaconsfield (Vic.),20596,Coburg,125.47,ok
+20176,Beaconsfield Upper,20596,Coburg,,no_eligible_route
+20182,Beaumaris (Vic.),20596,Coburg,91.15,ok
+20187,Beenak,20596,Coburg,,no_eligible_route
+20188,Belgrave,20596,Coburg,102.35,ok
+20189,Belgrave Heights,20596,Coburg,131.02,ok
+20190,Belgrave South,20596,Coburg,130.0,ok
+20198,Bellfield (Banyule - Vic.),20596,Coburg,37.52,ok
+20207,Bend Of Islands,20596,Coburg,,no_eligible_route
+20212,Benloch,20596,Coburg,,no_eligible_route
+20214,Bentleigh,20596,Coburg,75.05,ok
+20215,Bentleigh East,20596,Coburg,76.45,ok
+20224,Berwick,20596,Coburg,100.52,ok
+20233,Beveridge,20596,Coburg,100.43,ok
+20237,Big Pats Creek,20596,Coburg,,no_eligible_route
+20248,Bittern,20596,Coburg,151.6,ok
+20251,Black Rock (Vic.),20596,Coburg,96.47,ok
+20252,Blackburn,20596,Coburg,64.6,ok
+20253,Blackburn North,20596,Coburg,75.58,ok
+20254,Blackburn South,20596,Coburg,81.93,ok
+20257,Blairgowrie,20596,Coburg,198.57,ok
+20260,Blind Bight,20596,Coburg,,no_eligible_route
+20272,Bolinda,20596,Coburg,,no_eligible_route
+20278,Bonbeach,20596,Coburg,97.27,ok
+20280,Boneo,20596,Coburg,,no_eligible_route
+20282,Bonnie Brook,20596,Coburg,136.45,ok
+20304,Boronia,20596,Coburg,91.73,ok
+20307,Botanic Ridge,20596,Coburg,141.38,ok
+20314,Box Hill (Vic.),20596,Coburg,64.05,ok
+20315,Box Hill North,20596,Coburg,74.47,ok
+20316,Box Hill South,20596,Coburg,70.2,ok
+20320,Braeside,20596,Coburg,120.35,ok
+20324,Braybrook,20596,Coburg,61.85,ok
+20331,Briar Hill,20596,Coburg,71.27,ok
+20337,Brighton (Vic.),20596,Coburg,70.77,ok
+20338,Brighton East,20596,Coburg,77.02,ok
+20346,Broadmeadows (Vic.),20596,Coburg,43.28,ok
+20351,Brookfield (Vic.),20596,Coburg,156.95,ok
+20352,Brooklyn (Vic.),20596,Coburg,72.18,ok
+20361,Brunswick (Vic.),20596,Coburg,13.42,ok
+20362,Brunswick East,20596,Coburg,26.72,ok
+20363,Brunswick West,20596,Coburg,23.38,ok
+20381,Bulla (Vic.),20596,Coburg,119.7,ok
+20386,Bulleen,20596,Coburg,61.2,ok
+20387,Bullengarook,20596,Coburg,,no_eligible_route
+20399,Bundoora (Vic.),20596,Coburg,45.68,ok
+20411,Bunyip,20596,Coburg,,no_eligible_route
+20412,Bunyip North,20596,Coburg,,no_eligible_route
+20418,Burnley,20596,Coburg,58.02,ok
+20419,Burnside (Vic.),20596,Coburg,82.8,ok
+20420,Burnside Heights,20596,Coburg,90.62,ok
+20426,Burwood (Vic.),20596,Coburg,81.7,ok
+20427,Burwood East,20596,Coburg,79.32,ok
+20435,Bylands,20596,Coburg,,no_eligible_route
+20441,Cairnlea,20596,Coburg,74.98,ok
+20442,Calder Park,20596,Coburg,98.55,ok
+20443,Caldermeade,20596,Coburg,,no_eligible_route
+20453,Camberwell (Vic.),20596,Coburg,64.55,ok
+20455,Campbellfield,20596,Coburg,40.58,ok
+20466,Cannons Creek,20596,Coburg,,no_eligible_route
+20468,Canterbury (Vic.),20596,Coburg,58.03,ok
+20474,Cape Schanck,20596,Coburg,,no_eligible_route
+20476,Capel Sound,20596,Coburg,182.92,ok
+20487,Cardinia,20596,Coburg,,no_eligible_route
+20495,Carlton (Vic.),20596,Coburg,32.53,ok
+20496,Carlton North,20596,Coburg,31.27,ok
+20498,Carnegie,20596,Coburg,66.03,ok
+20500,Caroline Springs,20596,Coburg,88.68,ok
+20507,Carrum,20596,Coburg,97.08,ok
+20508,Carrum Downs,20596,Coburg,110.32,ok
+20512,Castella,20596,Coburg,,no_eligible_route
+20517,Catani,20596,Coburg,,no_eligible_route
+20521,Caulfield,20596,Coburg,70.75,ok
+20522,Caulfield East,20596,Coburg,59.45,ok
+20523,Caulfield North,20596,Coburg,64.62,ok
+20524,Caulfield South,20596,Coburg,75.28,ok
+20528,Chadstone,20596,Coburg,75.1,ok
+20537,Chelsea,20596,Coburg,94.33,ok
+20538,Chelsea Heights,20596,Coburg,109.02,ok
+20539,Cheltenham (Vic.),20596,Coburg,83.8,ok
+20541,Cherokee,20596,Coburg,,no_eligible_route
+20555,Chintin,20596,Coburg,,no_eligible_route
+20556,Chirnside Park,20596,Coburg,109.63,ok
+20559,Christmas Hills (Vic.),20596,Coburg,,no_eligible_route
+20560,Chum Creek,20596,Coburg,,no_eligible_route
+20566,Clarinda,20596,Coburg,85.18,ok
+20567,Clarkefield,20596,Coburg,,no_eligible_route
+20569,Clayton,20596,Coburg,78.88,ok
+20570,Clayton South,20596,Coburg,94.32,ok
+20572,Clematis,20596,Coburg,,no_eligible_route
+20574,Clifton Hill,20596,Coburg,43.27,ok
+20576,Clonbinane,20596,Coburg,,no_eligible_route
+20581,Clyde (Vic.),20596,Coburg,152.22,ok
+20582,Clyde North,20596,Coburg,127.98,ok
+20587,Cobaw,20596,Coburg,,no_eligible_route
+20590,Cobblebank,20596,Coburg,141.6,ok
+20596,Coburg,20596,Coburg,0.0,same_centroid
+20597,Coburg North,20596,Coburg,15.37,ok
+20600,Cockatoo (Vic.),20596,Coburg,,no_eligible_route
+20601,Cocoroc,20596,Coburg,,no_eligible_route
+20605,Coimadai,20596,Coburg,,no_eligible_route
+20613,Coldstream (Vic.),20596,Coburg,,no_eligible_route
+20616,Collingwood (Vic.),20596,Coburg,39.92,ok
+20624,Coolaroo,20596,Coburg,35.0,ok
+20633,Cora Lynn,20596,Coburg,,no_eligible_route
+20654,Cottles Bridge,20596,Coburg,,no_eligible_route
+20661,Craigieburn,20596,Coburg,62.92,ok
+20662,Cranbourne,20596,Coburg,114.38,ok
+20663,Cranbourne East,20596,Coburg,117.27,ok
+20664,Cranbourne North,20596,Coburg,111.18,ok
+20665,Cranbourne South,20596,Coburg,144.73,ok
+20666,Cranbourne West,20596,Coburg,117.08,ok
+20670,Cremorne (Vic.),20596,Coburg,49.0,ok
+20674,Crib Point,20596,Coburg,160.57,ok
+20682,Croydon (Vic.),20596,Coburg,82.37,ok
+20683,Croydon Hills,20596,Coburg,102.68,ok
+20684,Croydon North,20596,Coburg,100.12,ok
+20685,Croydon South,20596,Coburg,101.28,ok
+20702,Dallas,20596,Coburg,34.23,ok
+20703,Dalmore,20596,Coburg,,no_eligible_route
+20707,Dandenong,20596,Coburg,88.12,ok
+20708,Dandenong North,20596,Coburg,107.62,ok
+20709,Dandenong South,20596,Coburg,107.48,ok
+20712,Darley,20596,Coburg,,no_eligible_route
+20716,Darraweit Guim,20596,Coburg,,no_eligible_route
+20724,Deanside,20596,Coburg,109.05,ok
+20728,Deepdene (Vic.),20596,Coburg,69.38,ok
+20729,Deer Park,20596,Coburg,70.75,ok
+20731,Delahey,20596,Coburg,83.42,ok
+20743,Derrimut,20596,Coburg,105.47,ok
+20748,Devon Meadows,20596,Coburg,158.97,ok
+20750,Dewhurst,20596,Coburg,,no_eligible_route
+20752,Diamond Creek,20596,Coburg,88.27,ok
+20754,Diggers Rest,20596,Coburg,86.75,ok
+20758,Dingley Village,20596,Coburg,99.7,ok
+20762,Dixons Creek,20596,Coburg,,no_eligible_route
+20766,Docklands,20596,Coburg,43.15,ok
+20769,Don Valley,20596,Coburg,,no_eligible_route
+20771,Doncaster,20596,Coburg,66.33,ok
+20772,Doncaster East,20596,Coburg,76.23,ok
+20773,Donnybrook (Vic.),20596,Coburg,86.38,ok
+20774,Donvale,20596,Coburg,97.57,ok
+20779,Doreen,20596,Coburg,88.75,ok
+20783,Doveton,20596,Coburg,101.95,ok
+20788,Dromana,20596,Coburg,193.7,ok
+20825,Eaglemont,20596,Coburg,52.83,ok
+20830,East Melbourne,20596,Coburg,45.73,ok
+20833,East Warburton,20596,Coburg,,no_eligible_route
+20843,Eden Park,20596,Coburg,,no_eligible_route
+20848,Edithvale,20596,Coburg,94.47,ok
+20864,Elsternwick,20596,Coburg,65.92,ok
+20865,Eltham (Vic.),20596,Coburg,82.9,ok
+20866,Eltham North,20596,Coburg,79.38,ok
+20867,Elwood,20596,Coburg,72.1,ok
+20868,Emerald (Vic.),20596,Coburg,,no_eligible_route
+20871,Endeavour Hills,20596,Coburg,109.43,ok
+20878,Epping (Vic.),20596,Coburg,76.67,ok
+20885,Essendon,20596,Coburg,27.92,ok
+20886,Essendon Fields,20596,Coburg,55.27,ok
+20887,Essendon North,20596,Coburg,30.12,ok
+20888,Essendon West,20596,Coburg,35.73,ok
+20889,Eumemmerring,20596,Coburg,108.48,ok
+20898,Exford,20596,Coburg,,no_eligible_route
+20899,Eynesbury,20596,Coburg,,no_eligible_route
+20901,Fairfield (Vic.),20596,Coburg,49.55,ok
+20909,Fawkner,20596,Coburg,33.03,ok
+20916,Fernshaw,20596,Coburg,,no_eligible_route
+20917,Ferntree Gully,20596,Coburg,99.1,ok
+20918,Ferny Creek,20596,Coburg,134.63,ok
+20920,Fingal (Vic.),20596,Coburg,,no_eligible_route
+20924,Fitzroy (Vic.),20596,Coburg,36.78,ok
+20925,Fitzroy North,20596,Coburg,33.93,ok
+20929,Flemington,20596,Coburg,41.88,ok
+20930,Flinders (Vic.),20596,Coburg,,no_eligible_route
+20935,Footscray,20596,Coburg,47.98,ok
+20937,Forest Hill (Vic.),20596,Coburg,79.92,ok
+20947,Frankston,20596,Coburg,117.05,ok
+20948,Frankston North,20596,Coburg,126.2,ok
+20949,Frankston South,20596,Coburg,138.32,ok
+20950,Fraser Rise,20596,Coburg,109.3,ok
+20965,Gardenvale,20596,Coburg,67.2,ok
+20966,Garfield,20596,Coburg,,no_eligible_route
+20967,Garfield North,20596,Coburg,,no_eligible_route
+20979,Gembrook,20596,Coburg,,no_eligible_route
+20995,Gilderoy,20596,Coburg,,no_eligible_route
+21001,Gisborne,20596,Coburg,,no_eligible_route
+21002,Gisborne South,20596,Coburg,,no_eligible_route
+21004,Gladstone Park,20596,Coburg,60.72,ok
+21005,Gladysdale,20596,Coburg,,no_eligible_route
+21009,Glen Huntly,20596,Coburg,66.58,ok
+21010,Glen Iris (Vic.),20596,Coburg,67.62,ok
+21013,Glen Waverley,20596,Coburg,81.03,ok
+21047,Glenroy (Vic.),20596,Coburg,39.23,ok
+21059,Goldie,20596,Coburg,,no_eligible_route
+21079,Gowanbrae,20596,Coburg,63.05,ok
+21087,Grangefields,20596,Coburg,140.7,ok
+21104,Greensborough,20596,Coburg,68.83,ok
+21105,Greenvale (Vic.),20596,Coburg,78.05,ok
+21115,Gruyere,20596,Coburg,,no_eligible_route
+21121,Guys Hill,20596,Coburg,,no_eligible_route
+21124,Hadfield,20596,Coburg,28.35,ok
+21125,Hallam,20596,Coburg,106.63,ok
+21131,Hampton (Vic.),20596,Coburg,82.6,ok
+21132,Hampton East,20596,Coburg,83.82,ok
+21133,Hampton Park,20596,Coburg,108.05,ok
+21139,Harkaway,20596,Coburg,,no_eligible_route
+21140,Harkness,20596,Coburg,158.43,ok
+21145,Hastings (Vic.),20596,Coburg,151.48,ok
+21152,Hawthorn (Vic.),20596,Coburg,54.42,ok
+21153,Hawthorn East,20596,Coburg,62.9,ok
+21158,Healesville,20596,Coburg,168.73,ok
+21159,Heath Hill,20596,Coburg,,no_eligible_route
+21161,Heathcote Junction,20596,Coburg,,no_eligible_route
+21163,Heatherton,20596,Coburg,92.2,ok
+21165,Heathmont,20596,Coburg,79.53,ok
+21167,Heidelberg,20596,Coburg,45.02,ok
+21168,Heidelberg Heights,20596,Coburg,42.47,ok
+21169,Heidelberg West,20596,Coburg,39.47,ok
+21176,Hesket,20596,Coburg,,no_eligible_route
+21185,Highett,20596,Coburg,74.58,ok
+21193,Hillside (Melton - Vic.),20596,Coburg,90.95,ok
+21195,Hmas Cerberus,20596,Coburg,,no_eligible_route
+21196,Hoddles Creek,20596,Coburg,,no_eligible_route
+21202,Hopetoun Park,20596,Coburg,,no_eligible_route
+21203,Hoppers Crossing,20596,Coburg,88.33,ok
+21214,Hughesdale,20596,Coburg,67.67,ok
+21215,Humevale,20596,Coburg,,no_eligible_route
+21218,Huntingdale (Vic.),20596,Coburg,73.1,ok
+21223,Hurstbridge,20596,Coburg,88.82,ok
+21238,Iona,20596,Coburg,,no_eligible_route
+21246,Ivanhoe (Vic.),20596,Coburg,40.93,ok
+21247,Ivanhoe East,20596,Coburg,59.77,ok
+21248,Jacana,20596,Coburg,45.93,ok
+21277,Junction Village,20596,Coburg,145.1,ok
+21284,Kalkallo,20596,Coburg,85.38,ok
+21286,Kallista,20596,Coburg,138.07,ok
+21287,Kalorama,20596,Coburg,111.68,ok
+21294,Kangaroo Ground,20596,Coburg,114.45,ok
+21312,Kealba,20596,Coburg,75.13,ok
+21314,Keilor,20596,Coburg,90.28,ok
+21315,Keilor Downs,20596,Coburg,87.8,ok
+21316,Keilor East,20596,Coburg,47.73,ok
+21317,Keilor Lodge,20596,Coburg,85.73,ok
+21318,Keilor North,20596,Coburg,59.43,ok
+21319,Keilor Park,20596,Coburg,66.02,ok
+21327,Kensington (Vic.),20596,Coburg,30.98,ok
+21333,Kerrie,20596,Coburg,,no_eligible_route
+21336,Kew (Vic.),20596,Coburg,61.55,ok
+21337,Kew East,20596,Coburg,65.58,ok
+21339,Keysborough,20596,Coburg,97.47,ok
+21354,Kilsyth,20596,Coburg,101.07,ok
+21355,Kilsyth South,20596,Coburg,114.8,ok
+21358,Kinglake,20596,Coburg,,no_eligible_route
+21359,Kinglake Central,20596,Coburg,,no_eligible_route
+21360,Kinglake West,20596,Coburg,122.1,ok
+21362,Kings Park (Vic.),20596,Coburg,79.12,ok
+21363,Kingsbury,20596,Coburg,44.9,ok
+21365,Kingsville,20596,Coburg,59.47,ok
+21374,Knoxfield,20596,Coburg,100.0,ok
+21380,Koo Wee Rup,20596,Coburg,,no_eligible_route
+21381,Koo Wee Rup North,20596,Coburg,,no_eligible_route
+21393,Kooyong,20596,Coburg,54.8,ok
+21411,Kurunjang,20596,Coburg,135.63,ok
+21452,Lalor,20596,Coburg,48.23,ok
+21456,Lancefield,20596,Coburg,,no_eligible_route
+21459,Lang Lang,20596,Coburg,,no_eligible_route
+21460,Lang Lang East,20596,Coburg,,no_eligible_route
+21467,Langwarrin,20596,Coburg,133.02,ok
+21468,Langwarrin South,20596,Coburg,,no_eligible_route
+21473,Launching Place,20596,Coburg,127.37,ok
+21476,Laverton (Vic.),20596,Coburg,67.82,ok
+21477,Laverton North,20596,Coburg,84.52,ok
+21504,Lilydale (Vic.),20596,Coburg,103.67,ok
+21533,Long Forest,20596,Coburg,,no_eligible_route
+21547,Lower Plenty,20596,Coburg,82.48,ok
+21554,Lynbrook,20596,Coburg,98.88,ok
+21555,Lyndhurst (Vic.),20596,Coburg,144.47,ok
+21558,Lysterfield,20596,Coburg,159.95,ok
+21559,Lysterfield South,20596,Coburg,156.6,ok
+21561,Macclesfield (Vic.),20596,Coburg,,no_eligible_route
+21562,Macedon,20596,Coburg,,no_eligible_route
+21564,Macleod (Vic.),20596,Coburg,63.0,ok
+21569,Maddingley,20596,Coburg,,no_eligible_route
+21575,Maidstone,20596,Coburg,58.47,ok
+21578,Main Ridge,20596,Coburg,,no_eligible_route
+21586,Malvern (Vic.),20596,Coburg,65.02,ok
+21587,Malvern East,20596,Coburg,67.4,ok
+21588,Mambourin,20596,Coburg,,no_eligible_route
+21597,Manor Lakes,20596,Coburg,118.28,ok
+21604,Maribyrnong,20596,Coburg,50.2,ok
+21619,Maryknoll,20596,Coburg,,no_eligible_route
+21625,McCrae,20596,Coburg,178.12,ok
+21629,McKinnon,20596,Coburg,63.88,ok
+21635,Meadow Heights,20596,Coburg,52.38,ok
+21640,Melbourne,20596,Coburg,41.83,ok
+21641,Melbourne Airport,20596,Coburg,228.7,walk_only
+21642,Melton (Vic.),20596,Coburg,143.82,ok
+21643,Melton South,20596,Coburg,156.18,ok
+21644,Melton West,20596,Coburg,131.82,ok
+21648,Mentone,20596,Coburg,78.57,ok
+21649,Menzies Creek,20596,Coburg,,no_eligible_route
+21659,Mernda,20596,Coburg,77.72,ok
+21662,Merricks,20596,Coburg,,no_eligible_route
+21663,Merricks Beach,20596,Coburg,,no_eligible_route
+21664,Merricks North,20596,Coburg,,no_eligible_route
+21668,Merrimu,20596,Coburg,,no_eligible_route
+21675,Mickleham,20596,Coburg,85.95,ok
+21677,Middle Park (Vic.),20596,Coburg,56.17,ok
+21683,Mill Park,20596,Coburg,66.32,ok
+21685,Millgrove,20596,Coburg,,no_eligible_route
+21706,Mitcham (Vic.),20596,Coburg,76.27,ok
+21727,Monbulk,20596,Coburg,145.52,ok
+21728,Monegeetta,20596,Coburg,,no_eligible_route
+21731,Monomeith,20596,Coburg,,no_eligible_route
+21732,Mont Albert,20596,Coburg,64.43,ok
+21733,Mont Albert North,20596,Coburg,76.23,ok
+21735,Montmorency,20596,Coburg,71.62,ok
+21736,Montrose (Vic.),20596,Coburg,103.98,ok
+21742,Moonee Ponds,20596,Coburg,32.23,ok
+21746,Moorabbin,20596,Coburg,81.83,ok
+21747,Moorabbin Airport,20596,Coburg,101.07,ok
+21754,Moorooduc,20596,Coburg,,no_eligible_route
+21755,Mooroolbark,20596,Coburg,93.92,ok
+21760,Mordialloc,20596,Coburg,93.87,ok
+21763,Mornington (Vic.),20596,Coburg,149.92,ok
+21779,Mount Burnett,20596,Coburg,,no_eligible_route
+21786,Mount Cottrell,20596,Coburg,,no_eligible_route
+21787,Mount Dandenong,20596,Coburg,115.68,ok
+21793,Mount Eliza,20596,Coburg,126.1,ok
+21795,Mount Evelyn,20596,Coburg,119.85,ok
+21801,Mount Macedon,20596,Coburg,,no_eligible_route
+21803,Mount Martha,20596,Coburg,144.63,ok
+21814,Mount Toolebewong,20596,Coburg,,no_eligible_route
+21816,Mount Waverley,20596,Coburg,72.47,ok
+21827,Mulgrave (Vic.),20596,Coburg,96.37,ok
+21849,Murrumbeena,20596,Coburg,67.78,ok
+21872,Nangana,20596,Coburg,,no_eligible_route
+21878,Nar Nar Goon,20596,Coburg,,no_eligible_route
+21879,Nar Nar Goon North,20596,Coburg,,no_eligible_route
+21893,Narre Warren,20596,Coburg,103.62,ok
+21894,Narre Warren East,20596,Coburg,,no_eligible_route
+21895,Narre Warren North,20596,Coburg,118.88,ok
+21896,Narre Warren South,20596,Coburg,109.43,ok
+21921,New Gisborne,20596,Coburg,,no_eligible_route
+21934,Newport (Vic.),20596,Coburg,51.67,ok
+21942,Niddrie,20596,Coburg,48.22,ok
+21952,Noble Park,20596,Coburg,79.88,ok
+21953,Noble Park North,20596,Coburg,103.1,ok
+21966,North Melbourne,20596,Coburg,34.03,ok
+21969,North Warrandyte,20596,Coburg,102.87,ok
+21971,Northcote,20596,Coburg,36.52,ok
+21974,Notting Hill,20596,Coburg,83.63,ok
+21985,Nunawading,20596,Coburg,68.75,ok
+21991,Nutfield,20596,Coburg,,no_eligible_route
+21998,Oak Park,20596,Coburg,33.6,ok
+21999,Oaklands Junction,20596,Coburg,,no_eligible_route
+22000,Oakleigh,20596,Coburg,67.85,ok
+22001,Oakleigh East,20596,Coburg,77.67,ok
+22002,Oakleigh South,20596,Coburg,80.48,ok
+22006,Officer,20596,Coburg,121.17,ok
+22007,Officer South,20596,Coburg,155.73,ok
+22009,Olinda (Vic.),20596,Coburg,135.95,ok
+22016,Ormond,20596,Coburg,64.32,ok
+22027,Pakenham,20596,Coburg,118.08,ok
+22028,Pakenham South,20596,Coburg,,no_eligible_route
+22029,Pakenham Upper,20596,Coburg,,no_eligible_route
+22032,Panton Hill,20596,Coburg,,no_eligible_route
+22036,Park Orchards,20596,Coburg,93.23,ok
+22037,Parkdale,20596,Coburg,83.65,ok
+22038,Parkville (Vic.),20596,Coburg,26.23,ok
+22041,Pascoe Vale,20596,Coburg,27.52,ok
+22042,Pascoe Vale South,20596,Coburg,16.28,ok
+22047,Patterson Lakes,20596,Coburg,106.95,ok
+22050,Pearcedale,20596,Coburg,165.03,ok
+22058,Pentland Hills,20596,Coburg,,no_eligible_route
+22064,Pheasant Creek (Vic.),20596,Coburg,137.75,ok
+22084,Plenty (Vic.),20596,Coburg,92.73,ok
+22085,Plumpton (Vic.),20596,Coburg,,no_eligible_route
+22086,Point Cook,20596,Coburg,87.05,ok
+22087,Point Leo,20596,Coburg,,no_eligible_route
+22107,Port Melbourne,20596,Coburg,50.67,ok
+22113,Portsea,20596,Coburg,214.42,ok
+22115,Powelltown,20596,Coburg,,no_eligible_route
+22118,Prahran,20596,Coburg,60.82,ok
+22121,Preston (Vic.),20596,Coburg,25.28,ok
+22122,Princes Hill,20596,Coburg,24.0,ok
+22132,Quandong,20596,Coburg,,no_eligible_route
+22141,Ravenhall,20596,Coburg,107.45,ok
+22148,Red Hill (Vic.),20596,Coburg,,no_eligible_route
+22149,Red Hill South,20596,Coburg,,no_eligible_route
+22160,Research,20596,Coburg,94.78,ok
+22161,Reservoir (Vic.),20596,Coburg,36.63,ok
+22170,Richmond (Vic.),20596,Coburg,55.68,ok
+22172,Riddells Creek,20596,Coburg,,no_eligible_route
+22174,Ringwood (Vic.),20596,Coburg,82.88,ok
+22175,Ringwood East,20596,Coburg,82.45,ok
+22176,Ringwood North,20596,Coburg,94.43,ok
+22179,Ripponlea,20596,Coburg,56.63,ok
+22185,Rochford,20596,Coburg,,no_eligible_route
+22186,Rockbank,20596,Coburg,117.08,ok
+22193,Romsey,20596,Coburg,,no_eligible_route
+22194,Rosanna,20596,Coburg,51.95,ok
+22198,Rosebud,20596,Coburg,194.43,ok
+22207,Rowville,20596,Coburg,108.68,ok
+22208,Roxburgh Park,20596,Coburg,52.22,ok
+22220,Rye,20596,Coburg,206.63,ok
+22221,Rythdale,20596,Coburg,,no_eligible_route
+22222,Safety Beach (Vic.),20596,Coburg,161.6,ok
+22232,Sandhurst,20596,Coburg,135.28,ok
+22234,Sandringham (Vic.),20596,Coburg,87.48,ok
+22239,Sassafras (Vic.),20596,Coburg,117.4,ok
+22242,Scoresby,20596,Coburg,96.65,ok
+22247,Seabrook,20596,Coburg,78.63,ok
+22249,Seaford (Vic.),20596,Coburg,109.18,ok
+22250,Seaholme,20596,Coburg,60.9,ok
+22256,Seddon (Vic.),20596,Coburg,44.92,ok
+22258,Selby,20596,Coburg,134.95,ok
+22263,Seville,20596,Coburg,135.18,ok
+22264,Seville East,20596,Coburg,125.42,ok
+22278,Sherbrooke,20596,Coburg,128.13,ok
+22279,Shoreham,20596,Coburg,,no_eligible_route
+22281,Silvan,20596,Coburg,137.62,ok
+22291,Skye (Vic.),20596,Coburg,123.63,ok
+22295,Smiths Gully,20596,Coburg,,no_eligible_route
+22303,Somers,20596,Coburg,,no_eligible_route
+22304,Somerton (Vic.),20596,Coburg,46.0,ok
+22305,Somerville (Vic.),20596,Coburg,156.58,ok
+22306,Sorrento (Vic.),20596,Coburg,194.4,ok
+22309,South Kingsville,20596,Coburg,63.92,ok
+22310,South Melbourne,20596,Coburg,47.98,ok
+22311,South Morang,20596,Coburg,69.93,ok
+22313,South Wharf,20596,Coburg,45.77,ok
+22314,South Yarra,20596,Coburg,43.95,ok
+22315,Southbank,20596,Coburg,49.07,ok
+22319,Spotswood,20596,Coburg,45.07,ok
+22325,Springfield (Macedon Ranges - Vic.),20596,Coburg,,no_eligible_route
+22328,Springvale (Vic.),20596,Coburg,80.85,ok
+22329,Springvale South,20596,Coburg,82.58,ok
+22330,St Albans (Vic.),20596,Coburg,66.4,ok
+22332,St Andrews (Vic.),20596,Coburg,,no_eligible_route
+22333,St Andrews Beach,20596,Coburg,,no_eligible_route
+22339,St Helena,20596,Coburg,70.65,ok
+22343,St Kilda (Vic.),20596,Coburg,62.22,ok
+22344,St Kilda East,20596,Coburg,66.72,ok
+22345,St Kilda West,20596,Coburg,57.05,ok
+22355,Steels Creek,20596,Coburg,,no_eligible_route
+22375,Strathewen,20596,Coburg,,no_eligible_route
+22380,Strathmore (Vic.),20596,Coburg,32.97,ok
+22381,Strathmore Heights,20596,Coburg,49.9,ok
+22382,Strathtulloh,20596,Coburg,,no_eligible_route
+22391,Sunbury,20596,Coburg,127.68,ok
+22395,Sunshine (Vic.),20596,Coburg,55.18,ok
+22396,Sunshine North,20596,Coburg,64.05,ok
+22397,Sunshine West,20596,Coburg,84.75,ok
+22399,Surrey Hills,20596,Coburg,64.83,ok
+22414,Sydenham (Vic.),20596,Coburg,80.8,ok
+22451,Tarneit,20596,Coburg,105.67,ok
+22457,Tarrawarra,20596,Coburg,144.33,ok
+22473,Taylors Hill,20596,Coburg,88.63,ok
+22474,Taylors Lakes,20596,Coburg,79.22,ok
+22476,Tecoma,20596,Coburg,99.35,ok
+22483,Templestowe,20596,Coburg,78.63,ok
+22484,Templestowe Lower,20596,Coburg,73.6,ok
+22496,The Basin (Vic.),20596,Coburg,108.53,ok
+22501,The Patch,20596,Coburg,136.08,ok
+22504,Thomastown,20596,Coburg,53.53,ok
+22508,Thornbury,20596,Coburg,28.23,ok
+22509,Thornhill Park,20596,Coburg,,no_eligible_route
+22514,Three Bridges,20596,Coburg,,no_eligible_route
+22531,Tonimbuk,20596,Coburg,,no_eligible_route
+22536,Toolangi,20596,Coburg,,no_eligible_route
+22537,Toolern Vale,20596,Coburg,,no_eligible_route
+22546,Tooradin,20596,Coburg,,no_eligible_route
+22547,Toorak,20596,Coburg,65.78,ok
+22550,Tootgarook,20596,Coburg,190.05,ok
+22556,Tottenham (Vic.),20596,Coburg,80.72,ok
+22572,Travancore,20596,Coburg,36.7,ok
+22576,Tremont,20596,Coburg,113.53,ok
+22582,Truganina,20596,Coburg,153.27,ok
+22584,Tuerong,20596,Coburg,,no_eligible_route
+22586,Tullamarine,20596,Coburg,56.67,ok
+22594,Tyabb,20596,Coburg,147.05,ok
+22598,Tynong,20596,Coburg,,no_eligible_route
+22599,Tynong North,20596,Coburg,,no_eligible_route
+22614,Upper Ferntree Gully,20596,Coburg,96.5,ok
+22617,Upper Plenty,20596,Coburg,,no_eligible_route
+22620,Upwey,20596,Coburg,99.22,ok
+22627,Vermont,20596,Coburg,86.82,ok
+22628,Vermont South,20596,Coburg,91.2,ok
+22629,Vervale,20596,Coburg,,no_eligible_route
+22633,Viewbank,20596,Coburg,58.37,ok
+22661,Wallan,20596,Coburg,,no_eligible_route
+22672,Wandin East,20596,Coburg,,no_eligible_route
+22673,Wandin North,20596,Coburg,111.5,ok
+22676,Wandong,20596,Coburg,,no_eligible_route
+22685,Wantirna,20596,Coburg,99.9,ok
+22686,Wantirna South,20596,Coburg,99.95,ok
+22689,Warburton (Vic.),20596,Coburg,,no_eligible_route
+22695,Warneet,20596,Coburg,,no_eligible_route
+22702,Warrandyte,20596,Coburg,93.98,ok
+22703,Warrandyte South,20596,Coburg,123.38,ok
+22704,Warranwood,20596,Coburg,101.05,ok
+22717,Waterford Park,20596,Coburg,,no_eligible_route
+22720,Waterways,20596,Coburg,107.02,ok
+22721,Watsonia,20596,Coburg,55.07,ok
+22722,Watsonia North,20596,Coburg,59.67,ok
+22723,Watsons Creek (Vic.),20596,Coburg,,no_eligible_route
+22727,Wattle Glen,20596,Coburg,92.57,ok
+22740,Weir Views,20596,Coburg,186.65,ok
+22750,Werribee,20596,Coburg,88.22,ok
+22751,Werribee South,20596,Coburg,121.87,ok
+22753,Wesburn,20596,Coburg,143.47,ok
+22756,West Footscray,20596,Coburg,58.35,ok
+22757,West Melbourne,20596,Coburg,52.63,ok
+22761,Westmeadows,20596,Coburg,54.58,ok
+22766,Wheelers Hill,20596,Coburg,86.08,ok
+22775,Whittlesea,20596,Coburg,,no_eligible_route
+22784,Wildwood,20596,Coburg,,no_eligible_route
+22791,Williams Landing,20596,Coburg,82.07,ok
+22792,Williamstown (Vic.),20596,Coburg,54.88,ok
+22793,Williamstown North,20596,Coburg,69.38,ok
+22805,Windsor (Vic.),20596,Coburg,53.9,ok
+22820,Wollert,20596,Coburg,85.9,ok
+22825,Wonga Park,20596,Coburg,107.9,ok
+22843,Woodstock (Vic.),20596,Coburg,,no_eligible_route
+22857,Woori Yallock,20596,Coburg,122.62,ok
+22883,Wyndham Vale,20596,Coburg,106.67,ok
+22892,Yallambie,20596,Coburg,66.5,ok
+22898,Yan Yean,20596,Coburg,107.48,ok
+22906,Yannathan,20596,Coburg,,no_eligible_route
+22910,Yarra Glen,20596,Coburg,137.28,ok
+22911,Yarra Junction,20596,Coburg,147.73,ok
+22916,Yarrambat,20596,Coburg,85.97,ok
+22917,Yarraville,20596,Coburg,50.82,ok
+22925,Yellingbo,20596,Coburg,,no_eligible_route
+22930,Yering,20596,Coburg,,no_eligible_route
+22941,Yuroke,20596,Coburg,118.0,ok

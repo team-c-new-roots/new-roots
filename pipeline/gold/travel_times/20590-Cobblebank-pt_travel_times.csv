@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20590,Cobblebank,129.2,ok
+20003,Aberfeldie,20590,Cobblebank,119.42,ok
+20011,Aintree,20590,Cobblebank,78.6,ok
+20015,Airport West,20590,Cobblebank,142.98,ok
+20017,Albanvale,20590,Cobblebank,84.82,ok
+20018,Albert Park (Vic.),20590,Cobblebank,132.48,ok
+20021,Albion (Vic.),20590,Cobblebank,90.13,ok
+20034,Alphington,20590,Cobblebank,133.37,ok
+20035,Altona (Vic.),20590,Cobblebank,128.45,ok
+20036,Altona Meadows,20590,Cobblebank,125.6,ok
+20037,Altona North,20590,Cobblebank,121.62,ok
+20062,Ardeer,20590,Cobblebank,93.62,ok
+20066,Armadale (Vic.),20590,Cobblebank,120.58,ok
+20071,Arthurs Creek,20590,Cobblebank,,no_eligible_route
+20072,Arthurs Seat,20590,Cobblebank,,no_eligible_route
+20075,Ascot Vale,20590,Cobblebank,123.12,ok
+20077,Ashburton,20590,Cobblebank,153.2,ok
+20078,Ashwood,20590,Cobblebank,163.07,ok
+20079,Aspendale,20590,Cobblebank,162.85,ok
+20080,Aspendale Gardens,20590,Cobblebank,202.38,ok
+20082,Attwood,20590,Cobblebank,191.8,ok
+20089,Avondale Heights,20590,Cobblebank,124.98,ok
+20091,Avonsleigh,20590,Cobblebank,,no_eligible_route
+20095,Bacchus Marsh,20590,Cobblebank,206.83,walk_only
+20097,Badger Creek,20590,Cobblebank,,no_eligible_route
+20105,Balaclava (Vic.),20590,Cobblebank,135.67,ok
+20120,Balnarring,20590,Cobblebank,,no_eligible_route
+20121,Balnarring Beach,20590,Cobblebank,,no_eligible_route
+20123,Balwyn,20590,Cobblebank,155.97,ok
+20124,Balwyn North,20590,Cobblebank,144.1,ok
+20131,Bangholme,20590,Cobblebank,226.55,ok
+20169,Baxter,20590,Cobblebank,,no_eligible_route
+20171,Bayles,20590,Cobblebank,,no_eligible_route
+20173,Bayswater (Vic.),20590,Cobblebank,180.85,ok
+20174,Bayswater North,20590,Cobblebank,207.28,ok
+20175,Beaconsfield (Vic.),20590,Cobblebank,189.3,ok
+20176,Beaconsfield Upper,20590,Cobblebank,,no_eligible_route
+20182,Beaumaris (Vic.),20590,Cobblebank,185.25,ok
+20187,Beenak,20590,Cobblebank,,no_eligible_route
+20188,Belgrave,20590,Cobblebank,193.93,ok
+20189,Belgrave Heights,20590,Cobblebank,225.6,ok
+20190,Belgrave South,20590,Cobblebank,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),20590,Cobblebank,160.12,ok
+20207,Bend Of Islands,20590,Cobblebank,,no_eligible_route
+20212,Benloch,20590,Cobblebank,,no_eligible_route
+20214,Bentleigh,20590,Cobblebank,140.63,ok
+20215,Bentleigh East,20590,Cobblebank,148.4,ok
+20224,Berwick,20590,Cobblebank,162.1,ok
+20233,Beveridge,20590,Cobblebank,,no_eligible_route
+20237,Big Pats Creek,20590,Cobblebank,,no_eligible_route
+20248,Bittern,20590,Cobblebank,,no_eligible_route
+20251,Black Rock (Vic.),20590,Cobblebank,189.33,ok
+20252,Blackburn,20590,Cobblebank,158.18,ok
+20253,Blackburn North,20590,Cobblebank,159.17,ok
+20254,Blackburn South,20590,Cobblebank,172.87,ok
+20257,Blairgowrie,20590,Cobblebank,,no_eligible_route
+20260,Blind Bight,20590,Cobblebank,,no_eligible_route
+20272,Bolinda,20590,Cobblebank,,no_eligible_route
+20278,Bonbeach,20590,Cobblebank,167.85,ok
+20280,Boneo,20590,Cobblebank,,no_eligible_route
+20282,Bonnie Brook,20590,Cobblebank,119.75,ok
+20304,Boronia,20590,Cobblebank,183.32,ok
+20307,Botanic Ridge,20590,Cobblebank,,no_eligible_route
+20314,Box Hill (Vic.),20590,Cobblebank,155.3,ok
+20315,Box Hill North,20590,Cobblebank,166.05,ok
+20316,Box Hill South,20590,Cobblebank,164.93,ok
+20320,Braeside,20590,Cobblebank,222.17,ok
+20324,Braybrook,20590,Cobblebank,96.37,ok
+20331,Briar Hill,20590,Cobblebank,172.08,ok
+20337,Brighton (Vic.),20590,Cobblebank,150.0,ok
+20338,Brighton East,20590,Cobblebank,146.32,ok
+20346,Broadmeadows (Vic.),20590,Cobblebank,160.2,ok
+20351,Brookfield (Vic.),20590,Cobblebank,57.5,ok
+20352,Brooklyn (Vic.),20590,Cobblebank,108.03,ok
+20361,Brunswick (Vic.),20590,Cobblebank,115.1,ok
+20362,Brunswick East,20590,Cobblebank,124.38,ok
+20363,Brunswick West,20590,Cobblebank,135.38,ok
+20381,Bulla (Vic.),20590,Cobblebank,164.72,ok
+20386,Bulleen,20590,Cobblebank,150.25,ok
+20387,Bullengarook,20590,Cobblebank,,no_eligible_route
+20399,Bundoora (Vic.),20590,Cobblebank,170.1,ok
+20411,Bunyip,20590,Cobblebank,,no_eligible_route
+20412,Bunyip North,20590,Cobblebank,,no_eligible_route
+20418,Burnley,20590,Cobblebank,140.6,ok
+20419,Burnside (Vic.),20590,Cobblebank,82.12,ok
+20420,Burnside Heights,20590,Cobblebank,101.35,ok
+20426,Burwood (Vic.),20590,Cobblebank,151.93,ok
+20427,Burwood East,20590,Cobblebank,156.6,ok
+20435,Bylands,20590,Cobblebank,,no_eligible_route
+20441,Cairnlea,20590,Cobblebank,85.12,ok
+20442,Calder Park,20590,Cobblebank,98.37,ok
+20443,Caldermeade,20590,Cobblebank,,no_eligible_route
+20453,Camberwell (Vic.),20590,Cobblebank,149.43,ok
+20455,Campbellfield,20590,Cobblebank,158.85,ok
+20466,Cannons Creek,20590,Cobblebank,,no_eligible_route
+20468,Canterbury (Vic.),20590,Cobblebank,148.62,ok
+20474,Cape Schanck,20590,Cobblebank,,no_eligible_route
+20476,Capel Sound,20590,Cobblebank,,no_eligible_route
+20487,Cardinia,20590,Cobblebank,,no_eligible_route
+20495,Carlton (Vic.),20590,Cobblebank,104.58,ok
+20496,Carlton North,20590,Cobblebank,122.4,ok
+20498,Carnegie,20590,Cobblebank,128.83,ok
+20500,Caroline Springs,20590,Cobblebank,64.43,ok
+20507,Carrum,20590,Cobblebank,167.67,ok
+20508,Carrum Downs,20590,Cobblebank,182.9,ok
+20512,Castella,20590,Cobblebank,,no_eligible_route
+20517,Catani,20590,Cobblebank,,no_eligible_route
+20521,Caulfield,20590,Cobblebank,136.33,ok
+20522,Caulfield East,20590,Cobblebank,122.03,ok
+20523,Caulfield North,20590,Cobblebank,128.2,ok
+20524,Caulfield South,20590,Cobblebank,140.87,ok
+20528,Chadstone,20590,Cobblebank,160.08,ok
+20537,Chelsea,20590,Cobblebank,164.92,ok
+20538,Chelsea Heights,20590,Cobblebank,191.38,ok
+20539,Cheltenham (Vic.),20590,Cobblebank,155.38,ok
+20541,Cherokee,20590,Cobblebank,,no_eligible_route
+20555,Chintin,20590,Cobblebank,,no_eligible_route
+20556,Chirnside Park,20590,Cobblebank,,no_eligible_route
+20559,Christmas Hills (Vic.),20590,Cobblebank,,no_eligible_route
+20560,Chum Creek,20590,Cobblebank,,no_eligible_route
+20566,Clarinda,20590,Cobblebank,168.83,ok
+20567,Clarkefield,20590,Cobblebank,,no_eligible_route
+20569,Clayton,20590,Cobblebank,146.42,ok
+20570,Clayton South,20590,Cobblebank,158.23,ok
+20572,Clematis,20590,Cobblebank,,no_eligible_route
+20574,Clifton Hill,20590,Cobblebank,120.45,ok
+20576,Clonbinane,20590,Cobblebank,,no_eligible_route
+20581,Clyde (Vic.),20590,Cobblebank,,no_eligible_route
+20582,Clyde North,20590,Cobblebank,,no_eligible_route
+20587,Cobaw,20590,Cobblebank,,no_eligible_route
+20590,Cobblebank,20590,Cobblebank,0.0,same_centroid
+20596,Coburg,20590,Cobblebank,120.83,ok
+20597,Coburg North,20590,Cobblebank,130.4,ok
+20600,Cockatoo (Vic.),20590,Cobblebank,,no_eligible_route
+20601,Cocoroc,20590,Cobblebank,,no_eligible_route
+20605,Coimadai,20590,Cobblebank,,no_eligible_route
+20613,Coldstream (Vic.),20590,Cobblebank,,no_eligible_route
+20616,Collingwood (Vic.),20590,Cobblebank,130.65,ok
+20624,Coolaroo,20590,Cobblebank,161.07,ok
+20633,Cora Lynn,20590,Cobblebank,,no_eligible_route
+20654,Cottles Bridge,20590,Cobblebank,,no_eligible_route
+20661,Craigieburn,20590,Cobblebank,177.6,ok
+20662,Cranbourne,20590,Cobblebank,180.75,ok
+20663,Cranbourne East,20590,Cobblebank,194.85,ok
+20664,Cranbourne North,20590,Cobblebank,217.67,ok
+20665,Cranbourne South,20590,Cobblebank,,no_eligible_route
+20666,Cranbourne West,20590,Cobblebank,192.82,ok
+20670,Cremorne (Vic.),20590,Cobblebank,119.18,ok
+20674,Crib Point,20590,Cobblebank,,no_eligible_route
+20682,Croydon (Vic.),20590,Cobblebank,193.95,ok
+20683,Croydon Hills,20590,Cobblebank,231.85,ok
+20684,Croydon North,20590,Cobblebank,,no_eligible_route
+20685,Croydon South,20590,Cobblebank,224.95,ok
+20702,Dallas,20590,Cobblebank,157.5,ok
+20703,Dalmore,20590,Cobblebank,,no_eligible_route
+20707,Dandenong,20590,Cobblebank,149.7,ok
+20708,Dandenong North,20590,Cobblebank,200.4,ok
+20709,Dandenong South,20590,Cobblebank,173.07,ok
+20712,Darley,20590,Cobblebank,,no_eligible_route
+20716,Darraweit Guim,20590,Cobblebank,,no_eligible_route
+20724,Deanside,20590,Cobblebank,63.18,ok
+20728,Deepdene (Vic.),20590,Cobblebank,148.47,ok
+20729,Deer Park,20590,Cobblebank,85.97,ok
+20731,Delahey,20590,Cobblebank,96.17,ok
+20743,Derrimut,20590,Cobblebank,114.02,ok
+20748,Devon Meadows,20590,Cobblebank,,no_eligible_route
+20750,Dewhurst,20590,Cobblebank,,no_eligible_route
+20752,Diamond Creek,20590,Cobblebank,175.68,ok
+20754,Diggers Rest,20590,Cobblebank,124.38,ok
+20758,Dingley Village,20590,Cobblebank,216.58,ok
+20762,Dixons Creek,20590,Cobblebank,,no_eligible_route
+20766,Docklands,20590,Cobblebank,117.28,ok
+20769,Don Valley,20590,Cobblebank,,no_eligible_route
+20771,Doncaster,20590,Cobblebank,154.33,ok
+20772,Doncaster East,20590,Cobblebank,157.82,ok
+20773,Donnybrook (Vic.),20590,Cobblebank,,no_eligible_route
+20774,Donvale,20590,Cobblebank,179.15,ok
+20779,Doreen,20590,Cobblebank,,no_eligible_route
+20783,Doveton,20590,Cobblebank,182.58,ok
+20788,Dromana,20590,Cobblebank,,no_eligible_route
+20825,Eaglemont,20590,Cobblebank,151.7,ok
+20830,East Melbourne,20590,Cobblebank,122.2,ok
+20833,East Warburton,20590,Cobblebank,,no_eligible_route
+20843,Eden Park,20590,Cobblebank,,no_eligible_route
+20848,Edithvale,20590,Cobblebank,165.05,ok
+20864,Elsternwick,20590,Cobblebank,133.68,ok
+20865,Eltham (Vic.),20590,Cobblebank,174.82,ok
+20866,Eltham North,20590,Cobblebank,189.2,ok
+20867,Elwood,20590,Cobblebank,139.33,ok
+20868,Emerald (Vic.),20590,Cobblebank,,no_eligible_route
+20871,Endeavour Hills,20590,Cobblebank,,no_eligible_route
+20878,Epping (Vic.),20590,Cobblebank,193.58,ok
+20885,Essendon,20590,Cobblebank,122.65,ok
+20886,Essendon Fields,20590,Cobblebank,148.9,ok
+20887,Essendon North,20590,Cobblebank,128.25,ok
+20888,Essendon West,20590,Cobblebank,110.82,ok
+20889,Eumemmerring,20590,Cobblebank,197.38,ok
+20898,Exford,20590,Cobblebank,153.22,walk_only
+20899,Eynesbury,20590,Cobblebank,58.4,ok
+20901,Fairfield (Vic.),20590,Cobblebank,139.68,ok
+20909,Fawkner,20590,Cobblebank,151.3,ok
+20916,Fernshaw,20590,Cobblebank,,no_eligible_route
+20917,Ferntree Gully,20590,Cobblebank,173.7,ok
+20918,Ferny Creek,20590,Cobblebank,,no_eligible_route
+20920,Fingal (Vic.),20590,Cobblebank,,no_eligible_route
+20924,Fitzroy (Vic.),20590,Cobblebank,120.42,ok
+20925,Fitzroy North,20590,Cobblebank,131.57,ok
+20929,Flemington,20590,Cobblebank,129.72,ok
+20930,Flinders (Vic.),20590,Cobblebank,,no_eligible_route
+20935,Footscray,20590,Cobblebank,96.8,ok
+20937,Forest Hill (Vic.),20590,Cobblebank,179.35,ok
+20947,Frankston,20590,Cobblebank,195.95,ok
+20948,Frankston North,20590,Cobblebank,206.75,ok
+20949,Frankston South,20590,Cobblebank,,no_eligible_route
+20950,Fraser Rise,20590,Cobblebank,102.43,ok
+20965,Gardenvale,20590,Cobblebank,146.43,ok
+20966,Garfield,20590,Cobblebank,,no_eligible_route
+20967,Garfield North,20590,Cobblebank,,no_eligible_route
+20979,Gembrook,20590,Cobblebank,,no_eligible_route
+20995,Gilderoy,20590,Cobblebank,,no_eligible_route
+21001,Gisborne,20590,Cobblebank,,no_eligible_route
+21002,Gisborne South,20590,Cobblebank,,no_eligible_route
+21004,Gladstone Park,20590,Cobblebank,174.4,ok
+21005,Gladysdale,20590,Cobblebank,,no_eligible_route
+21009,Glen Huntly,20590,Cobblebank,133.17,ok
+21010,Glen Iris (Vic.),20590,Cobblebank,157.7,ok
+21013,Glen Waverley,20590,Cobblebank,164.62,ok
+21047,Glenroy (Vic.),20590,Cobblebank,155.05,ok
+21059,Goldie,20590,Cobblebank,,no_eligible_route
+21079,Gowanbrae,20590,Cobblebank,159.5,ok
+21087,Grangefields,20590,Cobblebank,99.88,ok
+21104,Greensborough,20590,Cobblebank,160.23,ok
+21105,Greenvale (Vic.),20590,Cobblebank,,no_eligible_route
+21115,Gruyere,20590,Cobblebank,,no_eligible_route
+21121,Guys Hill,20590,Cobblebank,,no_eligible_route
+21124,Hadfield,20590,Cobblebank,143.33,ok
+21125,Hallam,20590,Cobblebank,168.22,ok
+21131,Hampton (Vic.),20590,Cobblebank,156.83,ok
+21132,Hampton East,20590,Cobblebank,147.4,ok
+21133,Hampton Park,20590,Cobblebank,185.78,ok
+21139,Harkaway,20590,Cobblebank,,no_eligible_route
+21140,Harkness,20590,Cobblebank,76.8,ok
+21145,Hastings (Vic.),20590,Cobblebank,,no_eligible_route
+21152,Hawthorn (Vic.),20590,Cobblebank,134.47,ok
+21153,Hawthorn East,20590,Cobblebank,134.48,ok
+21158,Healesville,20590,Cobblebank,,no_eligible_route
+21159,Heath Hill,20590,Cobblebank,,no_eligible_route
+21161,Heathcote Junction,20590,Cobblebank,,no_eligible_route
+21163,Heatherton,20590,Cobblebank,169.52,ok
+21165,Heathmont,20590,Cobblebank,171.12,ok
+21167,Heidelberg,20590,Cobblebank,154.5,ok
+21168,Heidelberg Heights,20590,Cobblebank,159.0,ok
+21169,Heidelberg West,20590,Cobblebank,158.88,ok
+21176,Hesket,20590,Cobblebank,,no_eligible_route
+21185,Highett,20590,Cobblebank,140.17,ok
+21193,Hillside (Melton - Vic.),20590,Cobblebank,80.57,ok
+21195,Hmas Cerberus,20590,Cobblebank,,no_eligible_route
+21196,Hoddles Creek,20590,Cobblebank,,no_eligible_route
+21202,Hopetoun Park,20590,Cobblebank,153.33,walk_only
+21203,Hoppers Crossing,20590,Cobblebank,124.7,ok
+21214,Hughesdale,20590,Cobblebank,130.25,ok
+21215,Humevale,20590,Cobblebank,,no_eligible_route
+21218,Huntingdale (Vic.),20590,Cobblebank,134.68,ok
+21223,Hurstbridge,20590,Cobblebank,176.23,ok
+21238,Iona,20590,Cobblebank,,no_eligible_route
+21246,Ivanhoe (Vic.),20590,Cobblebank,137.97,ok
+21247,Ivanhoe East,20590,Cobblebank,157.63,ok
+21248,Jacana,20590,Cobblebank,159.62,ok
+21277,Junction Village,20590,Cobblebank,,no_eligible_route
+21284,Kalkallo,20590,Cobblebank,,no_eligible_route
+21286,Kallista,20590,Cobblebank,,no_eligible_route
+21287,Kalorama,20590,Cobblebank,,no_eligible_route
+21294,Kangaroo Ground,20590,Cobblebank,,no_eligible_route
+21312,Kealba,20590,Cobblebank,102.07,ok
+21314,Keilor,20590,Cobblebank,116.5,ok
+21315,Keilor Downs,20590,Cobblebank,103.1,ok
+21316,Keilor East,20590,Cobblebank,107.52,ok
+21317,Keilor Lodge,20590,Cobblebank,108.32,ok
+21318,Keilor North,20590,Cobblebank,112.13,ok
+21319,Keilor Park,20590,Cobblebank,127.65,ok
+21327,Kensington (Vic.),20590,Cobblebank,117.87,ok
+21333,Kerrie,20590,Cobblebank,,no_eligible_route
+21336,Kew (Vic.),20590,Cobblebank,134.28,ok
+21337,Kew East,20590,Cobblebank,146.17,ok
+21339,Keysborough,20590,Cobblebank,210.22,ok
+21354,Kilsyth,20590,Cobblebank,,no_eligible_route
+21355,Kilsyth South,20590,Cobblebank,,no_eligible_route
+21358,Kinglake,20590,Cobblebank,,no_eligible_route
+21359,Kinglake Central,20590,Cobblebank,,no_eligible_route
+21360,Kinglake West,20590,Cobblebank,,no_eligible_route
+21362,Kings Park (Vic.),20590,Cobblebank,91.42,ok
+21363,Kingsbury,20590,Cobblebank,170.32,ok
+21365,Kingsville,20590,Cobblebank,98.78,ok
+21374,Knoxfield,20590,Cobblebank,170.58,ok
+21380,Koo Wee Rup,20590,Cobblebank,,no_eligible_route
+21381,Koo Wee Rup North,20590,Cobblebank,,no_eligible_route
+21393,Kooyong,20590,Cobblebank,138.38,ok
+21411,Kurunjang,20590,Cobblebank,54.98,ok
+21452,Lalor,20590,Cobblebank,148.65,ok
+21456,Lancefield,20590,Cobblebank,,no_eligible_route
+21459,Lang Lang,20590,Cobblebank,,no_eligible_route
+21460,Lang Lang East,20590,Cobblebank,,no_eligible_route
+21467,Langwarrin,20590,Cobblebank,,no_eligible_route
+21468,Langwarrin South,20590,Cobblebank,,no_eligible_route
+21473,Launching Place,20590,Cobblebank,,no_eligible_route
+21476,Laverton (Vic.),20590,Cobblebank,124.05,ok
+21477,Laverton North,20590,Cobblebank,149.13,ok
+21504,Lilydale (Vic.),20590,Cobblebank,225.65,ok
+21533,Long Forest,20590,Cobblebank,168.33,walk_only
+21547,Lower Plenty,20590,Cobblebank,182.08,ok
+21554,Lynbrook,20590,Cobblebank,161.47,ok
+21555,Lyndhurst (Vic.),20590,Cobblebank,,no_eligible_route
+21558,Lysterfield,20590,Cobblebank,,no_eligible_route
+21559,Lysterfield South,20590,Cobblebank,,no_eligible_route
+21561,Macclesfield (Vic.),20590,Cobblebank,,no_eligible_route
+21562,Macedon,20590,Cobblebank,,no_eligible_route
+21564,Macleod (Vic.),20590,Cobblebank,153.32,ok
+21569,Maddingley,20590,Cobblebank,,no_eligible_route
+21575,Maidstone,20590,Cobblebank,96.62,ok
+21578,Main Ridge,20590,Cobblebank,,no_eligible_route
+21586,Malvern (Vic.),20590,Cobblebank,131.82,ok
+21587,Malvern East,20590,Cobblebank,137.58,ok
+21588,Mambourin,20590,Cobblebank,,no_eligible_route
+21597,Manor Lakes,20590,Cobblebank,175.98,ok
+21604,Maribyrnong,20590,Cobblebank,117.48,ok
+21619,Maryknoll,20590,Cobblebank,,no_eligible_route
+21625,McCrae,20590,Cobblebank,,no_eligible_route
+21629,McKinnon,20590,Cobblebank,130.47,ok
+21635,Meadow Heights,20590,Cobblebank,172.5,ok
+21640,Melbourne,20590,Cobblebank,113.68,ok
+21641,Melbourne Airport,20590,Cobblebank,,no_eligible_route
+21642,Melton (Vic.),20590,Cobblebank,71.58,ok
+21643,Melton South,20590,Cobblebank,34.18,ok
+21644,Melton West,20590,Cobblebank,55.35,ok
+21648,Mentone,20590,Cobblebank,150.15,ok
+21649,Menzies Creek,20590,Cobblebank,,no_eligible_route
+21659,Mernda,20590,Cobblebank,195.0,ok
+21662,Merricks,20590,Cobblebank,,no_eligible_route
+21663,Merricks Beach,20590,Cobblebank,,no_eligible_route
+21664,Merricks North,20590,Cobblebank,,no_eligible_route
+21668,Merrimu,20590,Cobblebank,195.4,walk_only
+21675,Mickleham,20590,Cobblebank,,no_eligible_route
+21677,Middle Park (Vic.),20590,Cobblebank,143.4,ok
+21683,Mill Park,20590,Cobblebank,178.15,ok
+21685,Millgrove,20590,Cobblebank,,no_eligible_route
+21706,Mitcham (Vic.),20590,Cobblebank,169.85,ok
+21727,Monbulk,20590,Cobblebank,,no_eligible_route
+21728,Monegeetta,20590,Cobblebank,,no_eligible_route
+21731,Monomeith,20590,Cobblebank,,no_eligible_route
+21732,Mont Albert,20590,Cobblebank,156.02,ok
+21733,Mont Albert North,20590,Cobblebank,172.22,ok
+21735,Montmorency,20590,Cobblebank,160.88,ok
+21736,Montrose (Vic.),20590,Cobblebank,,no_eligible_route
+21742,Moonee Ponds,20590,Cobblebank,128.97,ok
+21746,Moorabbin,20590,Cobblebank,157.82,ok
+21747,Moorabbin Airport,20590,Cobblebank,192.08,ok
+21754,Moorooduc,20590,Cobblebank,,no_eligible_route
+21755,Mooroolbark,20590,Cobblebank,212.57,ok
+21760,Mordialloc,20590,Cobblebank,164.45,ok
+21763,Mornington (Vic.),20590,Cobblebank,,no_eligible_route
+21779,Mount Burnett,20590,Cobblebank,,no_eligible_route
+21786,Mount Cottrell,20590,Cobblebank,148.33,walk_only
+21787,Mount Dandenong,20590,Cobblebank,,no_eligible_route
+21793,Mount Eliza,20590,Cobblebank,,no_eligible_route
+21795,Mount Evelyn,20590,Cobblebank,,no_eligible_route
+21801,Mount Macedon,20590,Cobblebank,,no_eligible_route
+21803,Mount Martha,20590,Cobblebank,,no_eligible_route
+21814,Mount Toolebewong,20590,Cobblebank,,no_eligible_route
+21816,Mount Waverley,20590,Cobblebank,156.05,ok
+21827,Mulgrave (Vic.),20590,Cobblebank,173.93,ok
+21849,Murrumbeena,20590,Cobblebank,130.37,ok
+21872,Nangana,20590,Cobblebank,,no_eligible_route
+21878,Nar Nar Goon,20590,Cobblebank,,no_eligible_route
+21879,Nar Nar Goon North,20590,Cobblebank,,no_eligible_route
+21893,Narre Warren,20590,Cobblebank,167.65,ok
+21894,Narre Warren East,20590,Cobblebank,,no_eligible_route
+21895,Narre Warren North,20590,Cobblebank,,no_eligible_route
+21896,Narre Warren South,20590,Cobblebank,215.22,ok
+21921,New Gisborne,20590,Cobblebank,,no_eligible_route
+21934,Newport (Vic.),20590,Cobblebank,108.9,ok
+21942,Niddrie,20590,Cobblebank,133.68,ok
+21952,Noble Park,20590,Cobblebank,141.47,ok
+21953,Noble Park North,20590,Cobblebank,174.65,ok
+21966,North Melbourne,20590,Cobblebank,100.6,ok
+21969,North Warrandyte,20590,Cobblebank,204.75,ok
+21971,Northcote,20590,Cobblebank,131.85,ok
+21974,Notting Hill,20590,Cobblebank,154.22,ok
+21985,Nunawading,20590,Cobblebank,162.33,ok
+21991,Nutfield,20590,Cobblebank,,no_eligible_route
+21998,Oak Park,20590,Cobblebank,147.28,ok
+21999,Oaklands Junction,20590,Cobblebank,,no_eligible_route
+22000,Oakleigh,20590,Cobblebank,132.92,ok
+22001,Oakleigh East,20590,Cobblebank,150.05,ok
+22002,Oakleigh South,20590,Cobblebank,155.1,ok
+22006,Officer,20590,Cobblebank,181.75,ok
+22007,Officer South,20590,Cobblebank,,no_eligible_route
+22009,Olinda (Vic.),20590,Cobblebank,,no_eligible_route
+22016,Ormond,20590,Cobblebank,130.9,ok
+22027,Pakenham,20590,Cobblebank,180.8,ok
+22028,Pakenham South,20590,Cobblebank,,no_eligible_route
+22029,Pakenham Upper,20590,Cobblebank,,no_eligible_route
+22032,Panton Hill,20590,Cobblebank,,no_eligible_route
+22036,Park Orchards,20590,Cobblebank,,no_eligible_route
+22037,Parkdale,20590,Cobblebank,155.23,ok
+22038,Parkville (Vic.),20590,Cobblebank,125.85,ok
+22041,Pascoe Vale,20590,Cobblebank,147.02,ok
+22042,Pascoe Vale South,20590,Cobblebank,132.92,ok
+22047,Patterson Lakes,20590,Cobblebank,185.0,ok
+22050,Pearcedale,20590,Cobblebank,,no_eligible_route
+22058,Pentland Hills,20590,Cobblebank,,no_eligible_route
+22064,Pheasant Creek (Vic.),20590,Cobblebank,,no_eligible_route
+22084,Plenty (Vic.),20590,Cobblebank,193.15,ok
+22085,Plumpton (Vic.),20590,Cobblebank,223.35,walk_only
+22086,Point Cook,20590,Cobblebank,149.28,ok
+22087,Point Leo,20590,Cobblebank,,no_eligible_route
+22107,Port Melbourne,20590,Cobblebank,156.18,ok
+22113,Portsea,20590,Cobblebank,,no_eligible_route
+22115,Powelltown,20590,Cobblebank,,no_eligible_route
+22118,Prahran,20590,Cobblebank,127.4,ok
+22121,Preston (Vic.),20590,Cobblebank,143.25,ok
+22122,Princes Hill,20590,Cobblebank,127.6,ok
+22132,Quandong,20590,Cobblebank,,no_eligible_route
+22141,Ravenhall,20590,Cobblebank,80.08,ok
+22148,Red Hill (Vic.),20590,Cobblebank,,no_eligible_route
+22149,Red Hill South,20590,Cobblebank,,no_eligible_route
+22160,Research,20590,Cobblebank,,no_eligible_route
+22161,Reservoir (Vic.),20590,Cobblebank,145.47,ok
+22170,Richmond (Vic.),20590,Cobblebank,123.92,ok
+22172,Riddells Creek,20590,Cobblebank,,no_eligible_route
+22174,Ringwood (Vic.),20590,Cobblebank,176.47,ok
+22175,Ringwood East,20590,Cobblebank,194.03,ok
+22176,Ringwood North,20590,Cobblebank,205.92,ok
+22179,Ripponlea,20590,Cobblebank,131.02,ok
+22185,Rochford,20590,Cobblebank,,no_eligible_route
+22186,Rockbank,20590,Cobblebank,76.43,ok
+22193,Romsey,20590,Cobblebank,,no_eligible_route
+22194,Rosanna,20590,Cobblebank,147.78,ok
+22198,Rosebud,20590,Cobblebank,,no_eligible_route
+22207,Rowville,20590,Cobblebank,184.07,ok
+22208,Roxburgh Park,20590,Cobblebank,174.3,ok
+22220,Rye,20590,Cobblebank,,no_eligible_route
+22221,Rythdale,20590,Cobblebank,,no_eligible_route
+22222,Safety Beach (Vic.),20590,Cobblebank,,no_eligible_route
+22232,Sandhurst,20590,Cobblebank,210.83,ok
+22234,Sandringham (Vic.),20590,Cobblebank,161.72,ok
+22239,Sassafras (Vic.),20590,Cobblebank,,no_eligible_route
+22242,Scoresby,20590,Cobblebank,167.23,ok
+22247,Seabrook,20590,Cobblebank,140.45,ok
+22249,Seaford (Vic.),20590,Cobblebank,179.77,ok
+22250,Seaholme,20590,Cobblebank,113.75,ok
+22256,Seddon (Vic.),20590,Cobblebank,91.48,ok
+22258,Selby,20590,Cobblebank,226.53,ok
+22263,Seville,20590,Cobblebank,,no_eligible_route
+22264,Seville East,20590,Cobblebank,,no_eligible_route
+22278,Sherbrooke,20590,Cobblebank,,no_eligible_route
+22279,Shoreham,20590,Cobblebank,,no_eligible_route
+22281,Silvan,20590,Cobblebank,,no_eligible_route
+22291,Skye (Vic.),20590,Cobblebank,237.0,ok
+22295,Smiths Gully,20590,Cobblebank,,no_eligible_route
+22303,Somers,20590,Cobblebank,,no_eligible_route
+22304,Somerton (Vic.),20590,Cobblebank,173.27,ok
+22305,Somerville (Vic.),20590,Cobblebank,,no_eligible_route
+22306,Sorrento (Vic.),20590,Cobblebank,,no_eligible_route
+22309,South Kingsville,20590,Cobblebank,123.82,ok
+22310,South Melbourne,20590,Cobblebank,126.15,ok
+22311,South Morang,20590,Cobblebank,180.63,ok
+22313,South Wharf,20590,Cobblebank,127.45,ok
+22314,South Yarra,20590,Cobblebank,112.53,ok
+22315,Southbank,20590,Cobblebank,118.55,ok
+22319,Spotswood,20590,Cobblebank,107.3,ok
+22325,Springfield (Macedon Ranges - Vic.),20590,Cobblebank,,no_eligible_route
+22328,Springvale (Vic.),20590,Cobblebank,142.43,ok
+22329,Springvale South,20590,Cobblebank,163.7,ok
+22330,St Albans (Vic.),20590,Cobblebank,89.98,ok
+22332,St Andrews (Vic.),20590,Cobblebank,,no_eligible_route
+22333,St Andrews Beach,20590,Cobblebank,,no_eligible_route
+22339,St Helena,20590,Cobblebank,190.1,ok
+22343,St Kilda (Vic.),20590,Cobblebank,128.62,ok
+22344,St Kilda East,20590,Cobblebank,143.07,ok
+22345,St Kilda West,20590,Cobblebank,139.05,ok
+22355,Steels Creek,20590,Cobblebank,,no_eligible_route
+22375,Strathewen,20590,Cobblebank,,no_eligible_route
+22380,Strathmore (Vic.),20590,Cobblebank,140.48,ok
+22381,Strathmore Heights,20590,Cobblebank,152.45,ok
+22382,Strathtulloh,20590,Cobblebank,36.57,ok
+22391,Sunbury,20590,Cobblebank,177.27,ok
+22395,Sunshine (Vic.),20590,Cobblebank,99.27,ok
+22396,Sunshine North,20590,Cobblebank,97.65,ok
+22397,Sunshine West,20590,Cobblebank,94.12,ok
+22399,Surrey Hills,20590,Cobblebank,156.43,ok
+22414,Sydenham (Vic.),20590,Cobblebank,82.63,ok
+22451,Tarneit,20590,Cobblebank,116.83,ok
+22457,Tarrawarra,20590,Cobblebank,,no_eligible_route
+22473,Taylors Hill,20590,Cobblebank,93.2,ok
+22474,Taylors Lakes,20590,Cobblebank,90.8,ok
+22476,Tecoma,20590,Cobblebank,190.93,ok
+22483,Templestowe,20590,Cobblebank,148.22,ok
+22484,Templestowe Lower,20590,Cobblebank,145.18,ok
+22496,The Basin (Vic.),20590,Cobblebank,,no_eligible_route
+22501,The Patch,20590,Cobblebank,,no_eligible_route
+22504,Thomastown,20590,Cobblebank,153.95,ok
+22508,Thornbury,20590,Cobblebank,137.73,ok
+22509,Thornhill Park,20590,Cobblebank,42.47,ok
+22514,Three Bridges,20590,Cobblebank,,no_eligible_route
+22531,Tonimbuk,20590,Cobblebank,,no_eligible_route
+22536,Toolangi,20590,Cobblebank,,no_eligible_route
+22537,Toolern Vale,20590,Cobblebank,181.0,walk_only
+22546,Tooradin,20590,Cobblebank,,no_eligible_route
+22547,Toorak,20590,Cobblebank,132.02,ok
+22550,Tootgarook,20590,Cobblebank,,no_eligible_route
+22556,Tottenham (Vic.),20590,Cobblebank,112.82,ok
+22572,Travancore,20590,Cobblebank,128.72,ok
+22576,Tremont,20590,Cobblebank,208.53,ok
+22582,Truganina,20590,Cobblebank,130.73,ok
+22584,Tuerong,20590,Cobblebank,,no_eligible_route
+22586,Tullamarine,20590,Cobblebank,158.78,ok
+22594,Tyabb,20590,Cobblebank,,no_eligible_route
+22598,Tynong,20590,Cobblebank,,no_eligible_route
+22599,Tynong North,20590,Cobblebank,,no_eligible_route
+22614,Upper Ferntree Gully,20590,Cobblebank,188.08,ok
+22617,Upper Plenty,20590,Cobblebank,,no_eligible_route
+22620,Upwey,20590,Cobblebank,190.8,ok
+22627,Vermont,20590,Cobblebank,194.68,ok
+22628,Vermont South,20590,Cobblebank,167.47,ok
+22629,Vervale,20590,Cobblebank,,no_eligible_route
+22633,Viewbank,20590,Cobblebank,180.95,ok
+22661,Wallan,20590,Cobblebank,,no_eligible_route
+22672,Wandin East,20590,Cobblebank,,no_eligible_route
+22673,Wandin North,20590,Cobblebank,,no_eligible_route
+22676,Wandong,20590,Cobblebank,,no_eligible_route
+22685,Wantirna,20590,Cobblebank,193.08,ok
+22686,Wantirna South,20590,Cobblebank,187.53,ok
+22689,Warburton (Vic.),20590,Cobblebank,,no_eligible_route
+22695,Warneet,20590,Cobblebank,,no_eligible_route
+22702,Warrandyte,20590,Cobblebank,171.0,ok
+22703,Warrandyte South,20590,Cobblebank,,no_eligible_route
+22704,Warranwood,20590,Cobblebank,,no_eligible_route
+22717,Waterford Park,20590,Cobblebank,,no_eligible_route
+22720,Waterways,20590,Cobblebank,194.6,ok
+22721,Watsonia,20590,Cobblebank,148.23,ok
+22722,Watsonia North,20590,Cobblebank,171.77,ok
+22723,Watsons Creek (Vic.),20590,Cobblebank,,no_eligible_route
+22727,Wattle Glen,20590,Cobblebank,179.98,ok
+22740,Weir Views,20590,Cobblebank,50.58,ok
+22750,Werribee,20590,Cobblebank,143.45,ok
+22751,Werribee South,20590,Cobblebank,,no_eligible_route
+22753,Wesburn,20590,Cobblebank,,no_eligible_route
+22756,West Footscray,20590,Cobblebank,89.93,ok
+22757,West Melbourne,20590,Cobblebank,121.92,ok
+22761,Westmeadows,20590,Cobblebank,174.27,ok
+22766,Wheelers Hill,20590,Cobblebank,158.67,ok
+22775,Whittlesea,20590,Cobblebank,,no_eligible_route
+22784,Wildwood,20590,Cobblebank,,no_eligible_route
+22791,Williams Landing,20590,Cobblebank,128.07,ok
+22792,Williamstown (Vic.),20590,Cobblebank,126.12,ok
+22793,Williamstown North,20590,Cobblebank,129.82,ok
+22805,Windsor (Vic.),20590,Cobblebank,132.4,ok
+22820,Wollert,20590,Cobblebank,194.17,ok
+22825,Wonga Park,20590,Cobblebank,,no_eligible_route
+22843,Woodstock (Vic.),20590,Cobblebank,,no_eligible_route
+22857,Woori Yallock,20590,Cobblebank,,no_eligible_route
+22883,Wyndham Vale,20590,Cobblebank,160.9,ok
+22892,Yallambie,20590,Cobblebank,177.5,ok
+22898,Yan Yean,20590,Cobblebank,220.9,ok
+22906,Yannathan,20590,Cobblebank,,no_eligible_route
+22910,Yarra Glen,20590,Cobblebank,,no_eligible_route
+22911,Yarra Junction,20590,Cobblebank,,no_eligible_route
+22916,Yarrambat,20590,Cobblebank,204.92,ok
+22917,Yarraville,20590,Cobblebank,110.83,ok
+22925,Yellingbo,20590,Cobblebank,,no_eligible_route
+22930,Yering,20590,Cobblebank,,no_eligible_route
+22941,Yuroke,20590,Cobblebank,,no_eligible_route

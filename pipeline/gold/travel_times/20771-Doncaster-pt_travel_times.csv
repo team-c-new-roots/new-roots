@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20771,Doncaster,35.22,ok
+20003,Aberfeldie,20771,Doncaster,78.3,ok
+20011,Aintree,20771,Doncaster,122.03,ok
+20015,Airport West,20771,Doncaster,92.4,ok
+20017,Albanvale,20771,Doncaster,99.5,ok
+20018,Albert Park (Vic.),20771,Doncaster,60.87,ok
+20021,Albion (Vic.),20771,Doncaster,77.9,ok
+20034,Alphington,20771,Doncaster,40.17,ok
+20035,Altona (Vic.),20771,Doncaster,92.0,ok
+20036,Altona Meadows,20771,Doncaster,98.15,ok
+20037,Altona North,20771,Doncaster,97.4,ok
+20062,Ardeer,20771,Doncaster,96.05,ok
+20066,Armadale (Vic.),20771,Doncaster,59.15,ok
+20071,Arthurs Creek,20771,Doncaster,,no_eligible_route
+20072,Arthurs Seat,20771,Doncaster,,no_eligible_route
+20075,Ascot Vale,20771,Doncaster,68.13,ok
+20077,Ashburton,20771,Doncaster,58.2,ok
+20078,Ashwood,20771,Doncaster,53.6,ok
+20079,Aspendale,20771,Doncaster,96.4,ok
+20080,Aspendale Gardens,20771,Doncaster,111.73,ok
+20082,Attwood,20771,Doncaster,109.12,ok
+20089,Avondale Heights,20771,Doncaster,97.43,ok
+20091,Avonsleigh,20771,Doncaster,126.25,ok
+20095,Bacchus Marsh,20771,Doncaster,,no_eligible_route
+20097,Badger Creek,20771,Doncaster,129.93,ok
+20105,Balaclava (Vic.),20771,Doncaster,60.78,ok
+20120,Balnarring,20771,Doncaster,,no_eligible_route
+20121,Balnarring Beach,20771,Doncaster,,no_eligible_route
+20123,Balwyn,20771,Doncaster,32.57,ok
+20124,Balwyn North,20771,Doncaster,18.25,ok
+20131,Bangholme,20771,Doncaster,148.0,ok
+20169,Baxter,20771,Doncaster,136.75,ok
+20171,Bayles,20771,Doncaster,,no_eligible_route
+20173,Bayswater (Vic.),20771,Doncaster,58.32,ok
+20174,Bayswater North,20771,Doncaster,73.43,ok
+20175,Beaconsfield (Vic.),20771,Doncaster,137.18,ok
+20176,Beaconsfield Upper,20771,Doncaster,,no_eligible_route
+20182,Beaumaris (Vic.),20771,Doncaster,94.28,ok
+20187,Beenak,20771,Doncaster,,no_eligible_route
+20188,Belgrave,20771,Doncaster,70.82,ok
+20189,Belgrave Heights,20771,Doncaster,97.07,ok
+20190,Belgrave South,20771,Doncaster,98.05,ok
+20198,Bellfield (Banyule - Vic.),20771,Doncaster,44.38,ok
+20207,Bend Of Islands,20771,Doncaster,,no_eligible_route
+20212,Benloch,20771,Doncaster,,no_eligible_route
+20214,Bentleigh,20771,Doncaster,82.18,ok
+20215,Bentleigh East,20771,Doncaster,77.67,ok
+20224,Berwick,20771,Doncaster,109.98,ok
+20233,Beveridge,20771,Doncaster,132.67,ok
+20237,Big Pats Creek,20771,Doncaster,,no_eligible_route
+20248,Bittern,20771,Doncaster,154.73,ok
+20251,Black Rock (Vic.),20771,Doncaster,100.08,ok
+20252,Blackburn,20771,Doncaster,34.65,ok
+20253,Blackburn North,20771,Doncaster,33.67,ok
+20254,Blackburn South,20771,Doncaster,51.67,ok
+20257,Blairgowrie,20771,Doncaster,215.7,ok
+20260,Blind Bight,20771,Doncaster,,no_eligible_route
+20272,Bolinda,20771,Doncaster,,no_eligible_route
+20278,Bonbeach,20771,Doncaster,101.4,ok
+20280,Boneo,20771,Doncaster,,no_eligible_route
+20282,Bonnie Brook,20771,Doncaster,154.58,ok
+20304,Boronia,20771,Doncaster,57.78,ok
+20307,Botanic Ridge,20771,Doncaster,155.85,ok
+20314,Box Hill (Vic.),20771,Doncaster,18.4,ok
+20315,Box Hill North,20771,Doncaster,16.22,ok
+20316,Box Hill South,20771,Doncaster,22.67,ok
+20320,Braeside,20771,Doncaster,119.33,ok
+20324,Braybrook,20771,Doncaster,79.68,ok
+20331,Briar Hill,20771,Doncaster,42.38,ok
+20337,Brighton (Vic.),20771,Doncaster,73.55,ok
+20338,Brighton East,20771,Doncaster,76.8,ok
+20346,Broadmeadows (Vic.),20771,Doncaster,89.3,ok
+20351,Brookfield (Vic.),20771,Doncaster,180.08,ok
+20352,Brooklyn (Vic.),20771,Doncaster,92.43,ok
+20361,Brunswick (Vic.),20771,Doncaster,57.93,ok
+20362,Brunswick East,20771,Doncaster,51.52,ok
+20363,Brunswick West,20771,Doncaster,64.52,ok
+20381,Bulla (Vic.),20771,Doncaster,151.27,ok
+20386,Bulleen,20771,Doncaster,26.38,ok
+20387,Bullengarook,20771,Doncaster,,no_eligible_route
+20399,Bundoora (Vic.),20771,Doncaster,55.53,ok
+20411,Bunyip,20771,Doncaster,,no_eligible_route
+20412,Bunyip North,20771,Doncaster,,no_eligible_route
+20418,Burnley,20771,Doncaster,58.27,ok
+20419,Burnside (Vic.),20771,Doncaster,105.93,ok
+20420,Burnside Heights,20771,Doncaster,108.93,ok
+20426,Burwood (Vic.),20771,Doncaster,36.48,ok
+20427,Burwood East,20771,Doncaster,45.78,ok
+20435,Bylands,20771,Doncaster,,no_eligible_route
+20441,Cairnlea,20771,Doncaster,89.12,ok
+20442,Calder Park,20771,Doncaster,116.68,ok
+20443,Caldermeade,20771,Doncaster,,no_eligible_route
+20453,Camberwell (Vic.),20771,Doncaster,51.92,ok
+20455,Campbellfield,20771,Doncaster,99.4,ok
+20466,Cannons Creek,20771,Doncaster,,no_eligible_route
+20468,Canterbury (Vic.),20771,Doncaster,39.65,ok
+20474,Cape Schanck,20771,Doncaster,,no_eligible_route
+20476,Capel Sound,20771,Doncaster,201.05,ok
+20487,Cardinia,20771,Doncaster,,no_eligible_route
+20495,Carlton (Vic.),20771,Doncaster,36.77,ok
+20496,Carlton North,20771,Doncaster,56.7,ok
+20498,Carnegie,20771,Doncaster,76.75,ok
+20500,Caroline Springs,20771,Doncaster,103.82,ok
+20507,Carrum,20771,Doncaster,101.22,ok
+20508,Carrum Downs,20771,Doncaster,121.78,ok
+20512,Castella,20771,Doncaster,,no_eligible_route
+20517,Catani,20771,Doncaster,,no_eligible_route
+20521,Caulfield,20771,Doncaster,74.7,ok
+20522,Caulfield East,20771,Doncaster,69.58,ok
+20523,Caulfield North,20771,Doncaster,65.08,ok
+20524,Caulfield South,20771,Doncaster,85.42,ok
+20528,Chadstone,20771,Doncaster,47.28,ok
+20537,Chelsea,20771,Doncaster,98.47,ok
+20538,Chelsea Heights,20771,Doncaster,113.78,ok
+20539,Cheltenham (Vic.),20771,Doncaster,87.93,ok
+20541,Cherokee,20771,Doncaster,,no_eligible_route
+20555,Chintin,20771,Doncaster,,no_eligible_route
+20556,Chirnside Park,20771,Doncaster,85.68,ok
+20559,Christmas Hills (Vic.),20771,Doncaster,,no_eligible_route
+20560,Chum Creek,20771,Doncaster,,no_eligible_route
+20566,Clarinda,20771,Doncaster,86.65,ok
+20567,Clarkefield,20771,Doncaster,,no_eligible_route
+20569,Clayton,20771,Doncaster,73.7,ok
+20570,Clayton South,20771,Doncaster,100.33,ok
+20572,Clematis,20771,Doncaster,98.67,ok
+20574,Clifton Hill,20771,Doncaster,34.92,ok
+20576,Clonbinane,20771,Doncaster,,no_eligible_route
+20581,Clyde (Vic.),20771,Doncaster,162.35,ok
+20582,Clyde North,20771,Doncaster,134.45,ok
+20587,Cobaw,20771,Doncaster,,no_eligible_route
+20590,Cobblebank,20771,Doncaster,160.73,ok
+20596,Coburg,20771,Doncaster,61.93,ok
+20597,Coburg North,20771,Doncaster,76.38,ok
+20600,Cockatoo (Vic.),20771,Doncaster,129.93,ok
+20601,Cocoroc,20771,Doncaster,,no_eligible_route
+20605,Coimadai,20771,Doncaster,,no_eligible_route
+20613,Coldstream (Vic.),20771,Doncaster,,no_eligible_route
+20616,Collingwood (Vic.),20771,Doncaster,24.33,ok
+20624,Coolaroo,20771,Doncaster,90.35,ok
+20633,Cora Lynn,20771,Doncaster,,no_eligible_route
+20654,Cottles Bridge,20771,Doncaster,,no_eligible_route
+20661,Craigieburn,20771,Doncaster,103.18,ok
+20662,Cranbourne,20771,Doncaster,124.3,ok
+20663,Cranbourne East,20771,Doncaster,123.73,ok
+20664,Cranbourne North,20771,Doncaster,119.83,ok
+20665,Cranbourne South,20771,Doncaster,159.2,ok
+20666,Cranbourne West,20771,Doncaster,122.55,ok
+20670,Cremorne (Vic.),20771,Doncaster,44.68,ok
+20674,Crib Point,20771,Doncaster,163.7,ok
+20682,Croydon (Vic.),20771,Doncaster,51.42,ok
+20683,Croydon Hills,20771,Doncaster,75.17,ok
+20684,Croydon North,20771,Doncaster,72.58,ok
+20685,Croydon South,20771,Doncaster,79.75,ok
+20702,Dallas,20771,Doncaster,95.05,ok
+20703,Dalmore,20771,Doncaster,,no_eligible_route
+20707,Dandenong,20771,Doncaster,92.98,ok
+20708,Dandenong North,20771,Doncaster,95.08,ok
+20709,Dandenong South,20771,Doncaster,119.95,ok
+20712,Darley,20771,Doncaster,,no_eligible_route
+20716,Darraweit Guim,20771,Doncaster,,no_eligible_route
+20724,Deanside,20771,Doncaster,130.18,ok
+20728,Deepdene (Vic.),20771,Doncaster,33.7,ok
+20729,Deer Park,20771,Doncaster,91.88,ok
+20731,Delahey,20771,Doncaster,100.02,ok
+20743,Derrimut,20771,Doncaster,113.45,ok
+20748,Devon Meadows,20771,Doncaster,169.1,ok
+20750,Dewhurst,20771,Doncaster,,no_eligible_route
+20752,Diamond Creek,20771,Doncaster,57.38,ok
+20754,Diggers Rest,20771,Doncaster,109.0,ok
+20758,Dingley Village,20771,Doncaster,96.17,ok
+20762,Dixons Creek,20771,Doncaster,,no_eligible_route
+20766,Docklands,20771,Doncaster,56.93,ok
+20769,Don Valley,20771,Doncaster,,no_eligible_route
+20771,Doncaster,20771,Doncaster,0.0,same_centroid
+20772,Doncaster East,20771,Doncaster,24.12,ok
+20773,Donnybrook (Vic.),20771,Doncaster,131.2,ok
+20774,Donvale,20771,Doncaster,43.07,ok
+20779,Doreen,20771,Doncaster,91.82,ok
+20783,Doveton,20771,Doncaster,113.42,ok
+20788,Dromana,20771,Doncaster,210.83,ok
+20825,Eaglemont,20771,Doncaster,36.95,ok
+20830,East Melbourne,20771,Doncaster,32.05,ok
+20833,East Warburton,20771,Doncaster,,no_eligible_route
+20843,Eden Park,20771,Doncaster,,no_eligible_route
+20848,Edithvale,20771,Doncaster,88.33,ok
+20864,Elsternwick,20771,Doncaster,67.23,ok
+20865,Eltham (Vic.),20771,Doncaster,45.9,ok
+20866,Eltham North,20771,Doncaster,54.43,ok
+20867,Elwood,20771,Doncaster,61.15,ok
+20868,Emerald (Vic.),20771,Doncaster,125.85,ok
+20871,Endeavour Hills,20771,Doncaster,120.3,ok
+20878,Epping (Vic.),20771,Doncaster,96.77,ok
+20885,Essendon,20771,Doncaster,72.53,ok
+20886,Essendon Fields,20771,Doncaster,95.45,ok
+20887,Essendon North,20771,Doncaster,73.73,ok
+20888,Essendon West,20771,Doncaster,77.92,ok
+20889,Eumemmerring,20771,Doncaster,117.95,ok
+20898,Exford,20771,Doncaster,,no_eligible_route
+20899,Eynesbury,20771,Doncaster,,no_eligible_route
+20901,Fairfield (Vic.),20771,Doncaster,48.65,ok
+20909,Fawkner,20771,Doncaster,91.85,ok
+20916,Fernshaw,20771,Doncaster,,no_eligible_route
+20917,Ferntree Gully,20771,Doncaster,68.02,ok
+20918,Ferny Creek,20771,Doncaster,113.1,ok
+20920,Fingal (Vic.),20771,Doncaster,,no_eligible_route
+20924,Fitzroy (Vic.),20771,Doncaster,33.55,ok
+20925,Fitzroy North,20771,Doncaster,43.13,ok
+20929,Flemington,20771,Doncaster,68.67,ok
+20930,Flinders (Vic.),20771,Doncaster,,no_eligible_route
+20935,Footscray,20771,Doncaster,65.32,ok
+20937,Forest Hill (Vic.),20771,Doncaster,36.38,ok
+20947,Frankston,20771,Doncaster,122.18,ok
+20948,Frankston North,20771,Doncaster,134.33,ok
+20949,Frankston South,20771,Doncaster,148.12,ok
+20950,Fraser Rise,20771,Doncaster,127.43,ok
+20965,Gardenvale,20771,Doncaster,69.98,ok
+20966,Garfield,20771,Doncaster,,no_eligible_route
+20967,Garfield North,20771,Doncaster,,no_eligible_route
+20979,Gembrook,20771,Doncaster,,no_eligible_route
+20995,Gilderoy,20771,Doncaster,,no_eligible_route
+21001,Gisborne,20771,Doncaster,,no_eligible_route
+21002,Gisborne South,20771,Doncaster,,no_eligible_route
+21004,Gladstone Park,20771,Doncaster,105.95,ok
+21005,Gladysdale,20771,Doncaster,,no_eligible_route
+21009,Glen Huntly,20771,Doncaster,73.72,ok
+21010,Glen Iris (Vic.),20771,Doncaster,59.08,ok
+21013,Glen Waverley,20771,Doncaster,54.4,ok
+21047,Glenroy (Vic.),20771,Doncaster,86.6,ok
+21059,Goldie,20771,Doncaster,,no_eligible_route
+21079,Gowanbrae,20771,Doncaster,103.4,ok
+21087,Grangefields,20771,Doncaster,159.03,ok
+21104,Greensborough,20771,Doncaster,38.58,ok
+21105,Greenvale (Vic.),20771,Doncaster,113.28,ok
+21115,Gruyere,20771,Doncaster,,no_eligible_route
+21121,Guys Hill,20771,Doncaster,,no_eligible_route
+21124,Hadfield,20771,Doncaster,84.32,ok
+21125,Hallam,20771,Doncaster,115.1,ok
+21131,Hampton (Vic.),20771,Doncaster,86.38,ok
+21132,Hampton East,20771,Doncaster,88.95,ok
+21133,Hampton Park,20771,Doncaster,117.52,ok
+21139,Harkaway,20771,Doncaster,,no_eligible_route
+21140,Harkness,20771,Doncaster,181.57,ok
+21145,Hastings (Vic.),20771,Doncaster,156.27,ok
+21152,Hawthorn (Vic.),20771,Doncaster,50.67,ok
+21153,Hawthorn East,20771,Doncaster,50.02,ok
+21158,Healesville,20771,Doncaster,,no_eligible_route
+21159,Heath Hill,20771,Doncaster,,no_eligible_route
+21161,Heathcote Junction,20771,Doncaster,,no_eligible_route
+21163,Heatherton,20771,Doncaster,84.58,ok
+21165,Heathmont,20771,Doncaster,45.58,ok
+21167,Heidelberg,20771,Doncaster,32.75,ok
+21168,Heidelberg Heights,20771,Doncaster,41.02,ok
+21169,Heidelberg West,20771,Doncaster,45.02,ok
+21176,Hesket,20771,Doncaster,,no_eligible_route
+21185,Highett,20771,Doncaster,81.72,ok
+21193,Hillside (Melton - Vic.),20771,Doncaster,109.08,ok
+21195,Hmas Cerberus,20771,Doncaster,,no_eligible_route
+21196,Hoddles Creek,20771,Doncaster,,no_eligible_route
+21202,Hopetoun Park,20771,Doncaster,,no_eligible_route
+21203,Hoppers Crossing,20771,Doncaster,103.83,ok
+21214,Hughesdale,20771,Doncaster,69.85,ok
+21215,Humevale,20771,Doncaster,,no_eligible_route
+21218,Huntingdale (Vic.),20771,Doncaster,72.77,ok
+21223,Hurstbridge,20771,Doncaster,57.93,ok
+21238,Iona,20771,Doncaster,,no_eligible_route
+21246,Ivanhoe (Vic.),20771,Doncaster,38.1,ok
+21247,Ivanhoe East,20771,Doncaster,37.7,ok
+21248,Jacana,20771,Doncaster,91.17,ok
+21277,Junction Village,20771,Doncaster,155.23,ok
+21284,Kalkallo,20771,Doncaster,140.8,ok
+21286,Kallista,20771,Doncaster,109.53,ok
+21287,Kalorama,20771,Doncaster,81.38,ok
+21294,Kangaroo Ground,20771,Doncaster,78.45,ok
+21312,Kealba,20771,Doncaster,96.15,ok
+21314,Keilor,20771,Doncaster,120.42,ok
+21315,Keilor Downs,20771,Doncaster,105.25,ok
+21316,Keilor East,20771,Doncaster,92.28,ok
+21317,Keilor Lodge,20771,Doncaster,106.78,ok
+21318,Keilor North,20771,Doncaster,96.62,ok
+21319,Keilor Park,20771,Doncaster,101.2,ok
+21327,Kensington (Vic.),20771,Doncaster,58.45,ok
+21333,Kerrie,20771,Doncaster,,no_eligible_route
+21336,Kew (Vic.),20771,Doncaster,35.47,ok
+21337,Kew East,20771,Doncaster,23.97,ok
+21339,Keysborough,20771,Doncaster,95.32,ok
+21354,Kilsyth,20771,Doncaster,74.77,ok
+21355,Kilsyth South,20771,Doncaster,83.27,ok
+21358,Kinglake,20771,Doncaster,,no_eligible_route
+21359,Kinglake Central,20771,Doncaster,,no_eligible_route
+21360,Kinglake West,20771,Doncaster,132.22,ok
+21362,Kings Park (Vic.),20771,Doncaster,93.25,ok
+21363,Kingsbury,20771,Doncaster,64.12,ok
+21365,Kingsville,20771,Doncaster,74.38,ok
+21374,Knoxfield,20771,Doncaster,74.53,ok
+21380,Koo Wee Rup,20771,Doncaster,,no_eligible_route
+21381,Koo Wee Rup North,20771,Doncaster,,no_eligible_route
+21393,Kooyong,20771,Doncaster,56.63,ok
+21411,Kurunjang,20771,Doncaster,158.77,ok
+21452,Lalor,20771,Doncaster,65.2,ok
+21456,Lancefield,20771,Doncaster,,no_eligible_route
+21459,Lang Lang,20771,Doncaster,,no_eligible_route
+21460,Lang Lang East,20771,Doncaster,,no_eligible_route
+21467,Langwarrin,20771,Doncaster,136.15,ok
+21468,Langwarrin South,20771,Doncaster,,no_eligible_route
+21473,Launching Place,20771,Doncaster,95.07,ok
+21476,Laverton (Vic.),20771,Doncaster,87.6,ok
+21477,Laverton North,20771,Doncaster,114.02,ok
+21504,Lilydale (Vic.),20771,Doncaster,78.72,ok
+21533,Long Forest,20771,Doncaster,,no_eligible_route
+21547,Lower Plenty,20771,Doncaster,46.3,ok
+21554,Lynbrook,20771,Doncaster,105.93,ok
+21555,Lyndhurst (Vic.),20771,Doncaster,155.93,ok
+21558,Lysterfield,20771,Doncaster,138.0,ok
+21559,Lysterfield South,20771,Doncaster,,no_eligible_route
+21561,Macclesfield (Vic.),20771,Doncaster,,no_eligible_route
+21562,Macedon,20771,Doncaster,,no_eligible_route
+21564,Macleod (Vic.),20771,Doncaster,50.3,ok
+21569,Maddingley,20771,Doncaster,,no_eligible_route
+21575,Maidstone,20771,Doncaster,81.13,ok
+21578,Main Ridge,20771,Doncaster,,no_eligible_route
+21586,Malvern (Vic.),20771,Doncaster,63.87,ok
+21587,Malvern East,20771,Doncaster,65.57,ok
+21588,Mambourin,20771,Doncaster,,no_eligible_route
+21597,Manor Lakes,20771,Doncaster,149.53,ok
+21604,Maribyrnong,20771,Doncaster,83.88,ok
+21619,Maryknoll,20771,Doncaster,,no_eligible_route
+21625,McCrae,20771,Doncaster,194.25,ok
+21629,McKinnon,20771,Doncaster,71.02,ok
+21635,Meadow Heights,20771,Doncaster,97.45,ok
+21640,Melbourne,20771,Doncaster,51.62,ok
+21641,Melbourne Airport,20771,Doncaster,,no_eligible_route
+21642,Melton (Vic.),20771,Doncaster,162.95,ok
+21643,Melton South,20771,Doncaster,176.55,ok
+21644,Melton West,20771,Doncaster,154.95,ok
+21648,Mentone,20771,Doncaster,73.7,ok
+21649,Menzies Creek,20771,Doncaster,97.47,ok
+21659,Mernda,20771,Doncaster,96.68,ok
+21662,Merricks,20771,Doncaster,,no_eligible_route
+21663,Merricks Beach,20771,Doncaster,,no_eligible_route
+21664,Merricks North,20771,Doncaster,,no_eligible_route
+21668,Merrimu,20771,Doncaster,,no_eligible_route
+21675,Mickleham,20771,Doncaster,134.18,ok
+21677,Middle Park (Vic.),20771,Doncaster,66.95,ok
+21683,Mill Park,20771,Doncaster,67.85,ok
+21685,Millgrove,20771,Doncaster,,no_eligible_route
+21706,Mitcham (Vic.),20771,Doncaster,39.72,ok
+21727,Monbulk,20771,Doncaster,116.98,ok
+21728,Monegeetta,20771,Doncaster,,no_eligible_route
+21731,Monomeith,20771,Doncaster,,no_eligible_route
+21732,Mont Albert,20771,Doncaster,28.28,ok
+21733,Mont Albert North,20771,Doncaster,17.13,ok
+21735,Montmorency,20771,Doncaster,23.7,ok
+21736,Montrose (Vic.),20771,Doncaster,72.68,ok
+21742,Moonee Ponds,20771,Doncaster,60.52,ok
+21746,Moorabbin,20771,Doncaster,78.88,ok
+21747,Moorabbin Airport,20771,Doncaster,106.2,ok
+21754,Moorooduc,20771,Doncaster,,no_eligible_route
+21755,Mooroolbark,20771,Doncaster,66.62,ok
+21760,Mordialloc,20771,Doncaster,98.0,ok
+21763,Mornington (Vic.),20771,Doncaster,162.38,ok
+21779,Mount Burnett,20771,Doncaster,,no_eligible_route
+21786,Mount Cottrell,20771,Doncaster,,no_eligible_route
+21787,Mount Dandenong,20771,Doncaster,91.8,ok
+21793,Mount Eliza,20771,Doncaster,135.23,ok
+21795,Mount Evelyn,20771,Doncaster,90.55,ok
+21801,Mount Macedon,20771,Doncaster,,no_eligible_route
+21803,Mount Martha,20771,Doncaster,162.77,ok
+21814,Mount Toolebewong,20771,Doncaster,,no_eligible_route
+21816,Mount Waverley,20771,Doncaster,43.27,ok
+21827,Mulgrave (Vic.),20771,Doncaster,87.87,ok
+21849,Murrumbeena,20771,Doncaster,66.72,ok
+21872,Nangana,20771,Doncaster,,no_eligible_route
+21878,Nar Nar Goon,20771,Doncaster,,no_eligible_route
+21879,Nar Nar Goon North,20771,Doncaster,,no_eligible_route
+21893,Narre Warren,20771,Doncaster,115.53,ok
+21894,Narre Warren East,20771,Doncaster,,no_eligible_route
+21895,Narre Warren North,20771,Doncaster,125.35,ok
+21896,Narre Warren South,20771,Doncaster,120.9,ok
+21921,New Gisborne,20771,Doncaster,,no_eligible_route
+21934,Newport (Vic.),20771,Doncaster,72.45,ok
+21942,Niddrie,20771,Doncaster,88.55,ok
+21952,Noble Park,20771,Doncaster,87.35,ok
+21953,Noble Park North,20771,Doncaster,99.57,ok
+21966,North Melbourne,20771,Doncaster,52.85,ok
+21969,North Warrandyte,20771,Doncaster,63.17,ok
+21971,Northcote,20771,Doncaster,47.4,ok
+21974,Notting Hill,20771,Doncaster,62.07,ok
+21985,Nunawading,20771,Doncaster,30.8,ok
+21991,Nutfield,20771,Doncaster,,no_eligible_route
+21998,Oak Park,20771,Doncaster,78.83,ok
+21999,Oaklands Junction,20771,Doncaster,,no_eligible_route
+22000,Oakleigh,20771,Doncaster,63.32,ok
+22001,Oakleigh East,20771,Doncaster,68.33,ok
+22002,Oakleigh South,20771,Doncaster,80.95,ok
+22006,Officer,20771,Doncaster,129.63,ok
+22007,Officer South,20771,Doncaster,167.2,ok
+22009,Olinda (Vic.),20771,Doncaster,114.42,ok
+22016,Ormond,20771,Doncaster,71.45,ok
+22027,Pakenham,20771,Doncaster,128.68,ok
+22028,Pakenham South,20771,Doncaster,,no_eligible_route
+22029,Pakenham Upper,20771,Doncaster,,no_eligible_route
+22032,Panton Hill,20771,Doncaster,,no_eligible_route
+22036,Park Orchards,20771,Doncaster,40.28,ok
+22037,Parkdale,20771,Doncaster,87.78,ok
+22038,Parkville (Vic.),20771,Doncaster,57.73,ok
+22041,Pascoe Vale,20771,Doncaster,83.2,ok
+22042,Pascoe Vale South,20771,Doncaster,65.95,ok
+22047,Patterson Lakes,20771,Doncaster,110.08,ok
+22050,Pearcedale,20771,Doncaster,176.5,ok
+22058,Pentland Hills,20771,Doncaster,,no_eligible_route
+22064,Pheasant Creek (Vic.),20771,Doncaster,147.87,ok
+22084,Plenty (Vic.),20771,Doncaster,63.52,ok
+22085,Plumpton (Vic.),20771,Doncaster,,no_eligible_route
+22086,Point Cook,20771,Doncaster,103.83,ok
+22087,Point Leo,20771,Doncaster,,no_eligible_route
+22107,Port Melbourne,20771,Doncaster,67.45,ok
+22113,Portsea,20771,Doncaster,,no_eligible_route
+22115,Powelltown,20771,Doncaster,,no_eligible_route
+22118,Prahran,20771,Doncaster,62.52,ok
+22121,Preston (Vic.),20771,Doncaster,49.9,ok
+22122,Princes Hill,20771,Doncaster,50.88,ok
+22132,Quandong,20771,Doncaster,,no_eligible_route
+22141,Ravenhall,20771,Doncaster,137.63,ok
+22148,Red Hill (Vic.),20771,Doncaster,,no_eligible_route
+22149,Red Hill South,20771,Doncaster,,no_eligible_route
+22160,Research,20771,Doncaster,52.3,ok
+22161,Reservoir (Vic.),20771,Doncaster,62.02,ok
+22170,Richmond (Vic.),20771,Doncaster,44.07,ok
+22172,Riddells Creek,20771,Doncaster,,no_eligible_route
+22174,Ringwood (Vic.),20771,Doncaster,52.93,ok
+22175,Ringwood East,20771,Doncaster,51.5,ok
+22176,Ringwood North,20771,Doncaster,47.25,ok
+22179,Ripponlea,20771,Doncaster,59.42,ok
+22185,Rochford,20771,Doncaster,,no_eligible_route
+22186,Rockbank,20771,Doncaster,136.22,ok
+22193,Romsey,20771,Doncaster,,no_eligible_route
+22194,Rosanna,20771,Doncaster,34.75,ok
+22198,Rosebud,20771,Doncaster,211.57,ok
+22207,Rowville,20771,Doncaster,86.52,ok
+22208,Roxburgh Park,20771,Doncaster,100.45,ok
+22220,Rye,20771,Doncaster,223.77,ok
+22221,Rythdale,20771,Doncaster,,no_eligible_route
+22222,Safety Beach (Vic.),20771,Doncaster,178.73,ok
+22232,Sandhurst,20771,Doncaster,138.42,ok
+22234,Sandringham (Vic.),20771,Doncaster,91.27,ok
+22239,Sassafras (Vic.),20771,Doncaster,95.87,ok
+22242,Scoresby,20771,Doncaster,83.32,ok
+22247,Seabrook,20771,Doncaster,100.42,ok
+22249,Seaford (Vic.),20771,Doncaster,113.32,ok
+22250,Seaholme,20771,Doncaster,86.68,ok
+22256,Seddon (Vic.),20771,Doncaster,65.03,ok
+22258,Selby,20771,Doncaster,97.13,ok
+22263,Seville,20771,Doncaster,110.23,ok
+22264,Seville East,20771,Doncaster,101.53,ok
+22278,Sherbrooke,20771,Doncaster,99.6,ok
+22279,Shoreham,20771,Doncaster,,no_eligible_route
+22281,Silvan,20771,Doncaster,109.08,ok
+22291,Skye (Vic.),20771,Doncaster,152.43,ok
+22295,Smiths Gully,20771,Doncaster,,no_eligible_route
+22303,Somers,20771,Doncaster,,no_eligible_route
+22304,Somerton (Vic.),20771,Doncaster,103.82,ok
+22305,Somerville (Vic.),20771,Doncaster,161.32,ok
+22306,Sorrento (Vic.),20771,Doncaster,214.53,ok
+22309,South Kingsville,20771,Doncaster,89.7,ok
+22310,South Melbourne,20771,Doncaster,57.18,ok
+22311,South Morang,20771,Doncaster,86.03,ok
+22313,South Wharf,20771,Doncaster,57.92,ok
+22314,South Yarra,20771,Doncaster,44.8,ok
+22315,Southbank,20771,Doncaster,56.2,ok
+22319,Spotswood,20771,Doncaster,70.85,ok
+22325,Springfield (Macedon Ranges - Vic.),20771,Doncaster,,no_eligible_route
+22328,Springvale (Vic.),20771,Doncaster,75.43,ok
+22329,Springvale South,20771,Doncaster,75.05,ok
+22330,St Albans (Vic.),20771,Doncaster,80.53,ok
+22332,St Andrews (Vic.),20771,Doncaster,,no_eligible_route
+22333,St Andrews Beach,20771,Doncaster,,no_eligible_route
+22339,St Helena,20771,Doncaster,55.8,ok
+22343,St Kilda (Vic.),20771,Doncaster,48.12,ok
+22344,St Kilda East,20771,Doncaster,65.72,ok
+22345,St Kilda West,20771,Doncaster,60.8,ok
+22355,Steels Creek,20771,Doncaster,,no_eligible_route
+22375,Strathewen,20771,Doncaster,,no_eligible_route
+22380,Strathmore (Vic.),20771,Doncaster,83.3,ok
+22381,Strathmore Heights,20771,Doncaster,94.08,ok
+22382,Strathtulloh,20771,Doncaster,,no_eligible_route
+22391,Sunbury,20771,Doncaster,148.82,ok
+22395,Sunshine (Vic.),20771,Doncaster,69.32,ok
+22396,Sunshine North,20771,Doncaster,89.38,ok
+22397,Sunshine West,20771,Doncaster,99.48,ok
+22399,Surrey Hills,20771,Doncaster,31.2,ok
+22414,Sydenham (Vic.),20771,Doncaster,94.93,ok
+22451,Tarneit,20771,Doncaster,127.45,ok
+22457,Tarrawarra,20771,Doncaster,109.45,ok
+22473,Taylors Hill,20771,Doncaster,104.75,ok
+22474,Taylors Lakes,20771,Doncaster,97.35,ok
+22476,Tecoma,20771,Doncaster,67.82,ok
+22483,Templestowe,20771,Doncaster,23.92,ok
+22484,Templestowe Lower,20771,Doncaster,21.45,ok
+22496,The Basin (Vic.),20771,Doncaster,80.3,ok
+22501,The Patch,20771,Doncaster,107.55,ok
+22504,Thomastown,20771,Doncaster,70.5,ok
+22508,Thornbury,20771,Doncaster,53.28,ok
+22509,Thornhill Park,20771,Doncaster,,no_eligible_route
+22514,Three Bridges,20771,Doncaster,,no_eligible_route
+22531,Tonimbuk,20771,Doncaster,,no_eligible_route
+22536,Toolangi,20771,Doncaster,,no_eligible_route
+22537,Toolern Vale,20771,Doncaster,,no_eligible_route
+22546,Tooradin,20771,Doncaster,,no_eligible_route
+22547,Toorak,20771,Doncaster,64.57,ok
+22550,Tootgarook,20771,Doncaster,207.18,ok
+22556,Tottenham (Vic.),20771,Doncaster,95.75,ok
+22572,Travancore,20771,Doncaster,64.27,ok
+22576,Tremont,20771,Doncaster,86.0,ok
+22582,Truganina,20771,Doncaster,175.05,ok
+22584,Tuerong,20771,Doncaster,,no_eligible_route
+22586,Tullamarine,20771,Doncaster,105.25,ok
+22594,Tyabb,20771,Doncaster,150.18,ok
+22598,Tynong,20771,Doncaster,,no_eligible_route
+22599,Tynong North,20771,Doncaster,,no_eligible_route
+22614,Upper Ferntree Gully,20771,Doncaster,65.55,ok
+22617,Upper Plenty,20771,Doncaster,,no_eligible_route
+22620,Upwey,20771,Doncaster,68.27,ok
+22627,Vermont,20771,Doncaster,53.62,ok
+22628,Vermont South,20771,Doncaster,58.67,ok
+22629,Vervale,20771,Doncaster,,no_eligible_route
+22633,Viewbank,20771,Doncaster,51.77,ok
+22661,Wallan,20771,Doncaster,,no_eligible_route
+22672,Wandin East,20771,Doncaster,,no_eligible_route
+22673,Wandin North,20771,Doncaster,79.2,ok
+22676,Wandong,20771,Doncaster,,no_eligible_route
+22685,Wantirna,20771,Doncaster,62.95,ok
+22686,Wantirna South,20771,Doncaster,72.42,ok
+22689,Warburton (Vic.),20771,Doncaster,,no_eligible_route
+22695,Warneet,20771,Doncaster,,no_eligible_route
+22702,Warrandyte,20771,Doncaster,43.98,ok
+22703,Warrandyte South,20771,Doncaster,73.12,ok
+22704,Warranwood,20771,Doncaster,62.65,ok
+22717,Waterford Park,20771,Doncaster,,no_eligible_route
+22720,Waterways,20771,Doncaster,99.48,ok
+22721,Watsonia,20771,Doncaster,45.22,ok
+22722,Watsonia North,20771,Doncaster,43.43,ok
+22723,Watsons Creek (Vic.),20771,Doncaster,,no_eligible_route
+22727,Wattle Glen,20771,Doncaster,67.97,ok
+22740,Weir Views,20771,Doncaster,209.78,ok
+22750,Werribee,20771,Doncaster,105.63,ok
+22751,Werribee South,20771,Doncaster,141.65,ok
+22753,Wesburn,20771,Doncaster,111.17,ok
+22756,West Footscray,20771,Doncaster,72.48,ok
+22757,West Melbourne,20771,Doncaster,69.42,ok
+22761,Westmeadows,20771,Doncaster,101.87,ok
+22766,Wheelers Hill,20771,Doncaster,73.55,ok
+22775,Whittlesea,20771,Doncaster,,no_eligible_route
+22784,Wildwood,20771,Doncaster,,no_eligible_route
+22791,Williams Landing,20771,Doncaster,101.85,ok
+22792,Williamstown (Vic.),20771,Doncaster,81.67,ok
+22793,Williamstown North,20771,Doncaster,96.2,ok
+22805,Windsor (Vic.),20771,Doncaster,54.73,ok
+22820,Wollert,20771,Doncaster,131.72,ok
+22825,Wonga Park,20771,Doncaster,71.95,ok
+22843,Woodstock (Vic.),20771,Doncaster,,no_eligible_route
+22857,Woori Yallock,20771,Doncaster,90.32,ok
+22883,Wyndham Vale,20771,Doncaster,134.45,ok
+22892,Yallambie,20771,Doncaster,41.03,ok
+22898,Yan Yean,20771,Doncaster,,no_eligible_route
+22906,Yannathan,20771,Doncaster,,no_eligible_route
+22910,Yarra Glen,20771,Doncaster,,no_eligible_route
+22911,Yarra Junction,20771,Doncaster,123.85,ok
+22916,Yarrambat,20771,Doncaster,59.08,ok
+22917,Yarraville,20771,Doncaster,76.17,ok
+22925,Yellingbo,20771,Doncaster,,no_eligible_route
+22930,Yering,20771,Doncaster,,no_eligible_route
+22941,Yuroke,20771,Doncaster,161.82,ok

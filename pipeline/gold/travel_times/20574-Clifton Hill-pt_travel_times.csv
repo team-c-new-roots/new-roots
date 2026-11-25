@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20574,Clifton Hill,19.13,ok
+20003,Aberfeldie,20574,Clifton Hill,52.37,ok
+20011,Aintree,20574,Clifton Hill,102.1,ok
+20015,Airport West,20574,Clifton Hill,72.47,ok
+20017,Albanvale,20574,Clifton Hill,79.57,ok
+20018,Albert Park (Vic.),20574,Clifton Hill,43.93,ok
+20021,Albion (Vic.),20574,Clifton Hill,61.97,ok
+20034,Alphington,20574,Clifton Hill,15.85,ok
+20035,Altona (Vic.),20574,Clifton Hill,68.07,ok
+20036,Altona Meadows,20574,Clifton Hill,75.22,ok
+20037,Altona North,20574,Clifton Hill,74.47,ok
+20062,Ardeer,20574,Clifton Hill,71.12,ok
+20066,Armadale (Vic.),20574,Clifton Hill,35.22,ok
+20071,Arthurs Creek,20574,Clifton Hill,,no_eligible_route
+20072,Arthurs Seat,20574,Clifton Hill,181.73,ok
+20075,Ascot Vale,20574,Clifton Hill,47.2,ok
+20077,Ashburton,20574,Clifton Hill,48.82,ok
+20078,Ashwood,20574,Clifton Hill,63.02,ok
+20079,Aspendale,20574,Clifton Hill,71.47,ok
+20080,Aspendale Gardens,20574,Clifton Hill,88.8,ok
+20082,Attwood,20574,Clifton Hill,79.18,ok
+20089,Avondale Heights,20574,Clifton Hill,68.5,ok
+20091,Avonsleigh,20574,Clifton Hill,140.4,ok
+20095,Bacchus Marsh,20574,Clifton Hill,,no_eligible_route
+20097,Badger Creek,20574,Clifton Hill,142.67,ok
+20105,Balaclava (Vic.),20574,Clifton Hill,44.85,ok
+20120,Balnarring,20574,Clifton Hill,177.08,ok
+20121,Balnarring Beach,20574,Clifton Hill,173.62,ok
+20123,Balwyn,20574,Clifton Hill,45.98,ok
+20124,Balwyn North,20574,Clifton Hill,39.68,ok
+20131,Bangholme,20574,Clifton Hill,122.07,ok
+20169,Baxter,20574,Clifton Hill,108.53,ok
+20171,Bayles,20574,Clifton Hill,,no_eligible_route
+20173,Bayswater (Vic.),20574,Clifton Hill,70.47,ok
+20174,Bayswater North,20574,Clifton Hill,88.63,ok
+20175,Beaconsfield (Vic.),20574,Clifton Hill,118.67,ok
+20176,Beaconsfield Upper,20574,Clifton Hill,,no_eligible_route
+20182,Beaumaris (Vic.),20574,Clifton Hill,71.35,ok
+20187,Beenak,20574,Clifton Hill,,no_eligible_route
+20188,Belgrave,20574,Clifton Hill,83.55,ok
+20189,Belgrave Heights,20574,Clifton Hill,112.22,ok
+20190,Belgrave South,20574,Clifton Hill,111.2,ok
+20198,Bellfield (Banyule - Vic.),20574,Clifton Hill,36.7,ok
+20207,Bend Of Islands,20574,Clifton Hill,,no_eligible_route
+20212,Benloch,20574,Clifton Hill,,no_eligible_route
+20214,Bentleigh,20574,Clifton Hill,58.25,ok
+20215,Bentleigh East,20574,Clifton Hill,61.2,ok
+20224,Berwick,20574,Clifton Hill,93.72,ok
+20233,Beveridge,20574,Clifton Hill,107.73,ok
+20237,Big Pats Creek,20574,Clifton Hill,,no_eligible_route
+20248,Bittern,20574,Clifton Hill,127.8,ok
+20251,Black Rock (Vic.),20574,Clifton Hill,77.15,ok
+20252,Blackburn,20574,Clifton Hill,46.8,ok
+20253,Blackburn North,20574,Clifton Hill,40.07,ok
+20254,Blackburn South,20574,Clifton Hill,64.13,ok
+20257,Blairgowrie,20574,Clifton Hill,173.77,ok
+20260,Blind Bight,20574,Clifton Hill,,no_eligible_route
+20272,Bolinda,20574,Clifton Hill,,no_eligible_route
+20278,Bonbeach,20574,Clifton Hill,76.47,ok
+20280,Boneo,20574,Clifton Hill,,no_eligible_route
+20282,Bonnie Brook,20574,Clifton Hill,134.65,ok
+20304,Boronia,20574,Clifton Hill,72.93,ok
+20307,Botanic Ridge,20574,Clifton Hill,135.58,ok
+20314,Box Hill (Vic.),20574,Clifton Hill,46.25,ok
+20315,Box Hill North,20574,Clifton Hill,45.6,ok
+20316,Box Hill South,20574,Clifton Hill,52.4,ok
+20320,Braeside,20574,Clifton Hill,97.27,ok
+20324,Braybrook,20574,Clifton Hill,64.75,ok
+20331,Briar Hill,20574,Clifton Hill,45.27,ok
+20337,Brighton (Vic.),20574,Clifton Hill,57.62,ok
+20338,Brighton East,20574,Clifton Hill,63.03,ok
+20346,Broadmeadows (Vic.),20574,Clifton Hill,56.9,ok
+20351,Brookfield (Vic.),20574,Clifton Hill,157.15,ok
+20352,Brooklyn (Vic.),20574,Clifton Hill,69.5,ok
+20361,Brunswick (Vic.),20574,Clifton Hill,31.97,ok
+20362,Brunswick East,20574,Clifton Hill,30.15,ok
+20363,Brunswick West,20574,Clifton Hill,38.55,ok
+20381,Bulla (Vic.),20574,Clifton Hill,131.33,ok
+20386,Bulleen,20574,Clifton Hill,40.87,ok
+20387,Bullengarook,20574,Clifton Hill,,no_eligible_route
+20399,Bundoora (Vic.),20574,Clifton Hill,50.13,ok
+20411,Bunyip,20574,Clifton Hill,,no_eligible_route
+20412,Bunyip North,20574,Clifton Hill,,no_eligible_route
+20418,Burnley,20574,Clifton Hill,42.22,ok
+20419,Burnside (Vic.),20574,Clifton Hill,81.0,ok
+20420,Burnside Heights,20574,Clifton Hill,88.82,ok
+20426,Burwood (Vic.),20574,Clifton Hill,62.9,ok
+20427,Burwood East,20574,Clifton Hill,57.13,ok
+20435,Bylands,20574,Clifton Hill,,no_eligible_route
+20441,Cairnlea,20574,Clifton Hill,69.18,ok
+20442,Calder Park,20574,Clifton Hill,96.75,ok
+20443,Caldermeade,20574,Clifton Hill,,no_eligible_route
+20453,Camberwell (Vic.),20574,Clifton Hill,47.75,ok
+20455,Campbellfield,20574,Clifton Hill,75.13,ok
+20466,Cannons Creek,20574,Clifton Hill,,no_eligible_route
+20468,Canterbury (Vic.),20574,Clifton Hill,46.23,ok
+20474,Cape Schanck,20574,Clifton Hill,,no_eligible_route
+20476,Capel Sound,20574,Clifton Hill,158.12,ok
+20487,Cardinia,20574,Clifton Hill,,no_eligible_route
+20495,Carlton (Vic.),20574,Clifton Hill,25.27,ok
+20496,Carlton North,20574,Clifton Hill,29.47,ok
+20498,Carnegie,20574,Clifton Hill,56.77,ok
+20500,Caroline Springs,20574,Clifton Hill,88.88,ok
+20507,Carrum,20574,Clifton Hill,76.28,ok
+20508,Carrum Downs,20574,Clifton Hill,95.38,ok
+20512,Castella,20574,Clifton Hill,,no_eligible_route
+20517,Catani,20574,Clifton Hill,,no_eligible_route
+20521,Caulfield,20574,Clifton Hill,53.95,ok
+20522,Caulfield East,20574,Clifton Hill,44.65,ok
+20523,Caulfield North,20574,Clifton Hill,44.57,ok
+20524,Caulfield South,20574,Clifton Hill,58.48,ok
+20528,Chadstone,20574,Clifton Hill,66.3,ok
+20537,Chelsea,20574,Clifton Hill,73.53,ok
+20538,Chelsea Heights,20574,Clifton Hill,88.22,ok
+20539,Cheltenham (Vic.),20574,Clifton Hill,63.0,ok
+20541,Cherokee,20574,Clifton Hill,,no_eligible_route
+20555,Chintin,20574,Clifton Hill,,no_eligible_route
+20556,Chirnside Park,20574,Clifton Hill,93.83,ok
+20559,Christmas Hills (Vic.),20574,Clifton Hill,,no_eligible_route
+20560,Chum Creek,20574,Clifton Hill,,no_eligible_route
+20566,Clarinda,20574,Clifton Hill,75.38,ok
+20567,Clarkefield,20574,Clifton Hill,,no_eligible_route
+20569,Clayton,20574,Clifton Hill,71.4,ok
+20570,Clayton South,20574,Clifton Hill,84.52,ok
+20572,Clematis,20574,Clifton Hill,112.82,ok
+20574,Clifton Hill,20574,Clifton Hill,0.0,same_centroid
+20576,Clonbinane,20574,Clifton Hill,,no_eligible_route
+20581,Clyde (Vic.),20574,Clifton Hill,142.42,ok
+20582,Clyde North,20574,Clifton Hill,119.18,ok
+20587,Cobaw,20574,Clifton Hill,,no_eligible_route
+20590,Cobblebank,20574,Clifton Hill,141.8,ok
+20596,Coburg,20574,Clifton Hill,41.53,ok
+20597,Coburg North,20574,Clifton Hill,51.98,ok
+20600,Cockatoo (Vic.),20574,Clifton Hill,144.08,ok
+20601,Cocoroc,20574,Clifton Hill,,no_eligible_route
+20605,Coimadai,20574,Clifton Hill,,no_eligible_route
+20613,Coldstream (Vic.),20574,Clifton Hill,,no_eligible_route
+20616,Collingwood (Vic.),20574,Clifton Hill,13.67,ok
+20624,Coolaroo,20574,Clifton Hill,65.42,ok
+20633,Cora Lynn,20574,Clifton Hill,,no_eligible_route
+20654,Cottles Bridge,20574,Clifton Hill,,no_eligible_route
+20661,Craigieburn,20574,Clifton Hill,79.25,ok
+20662,Cranbourne,20574,Clifton Hill,100.58,ok
+20663,Cranbourne East,20574,Clifton Hill,110.37,ok
+20664,Cranbourne North,20574,Clifton Hill,98.92,ok
+20665,Cranbourne South,20574,Clifton Hill,138.93,ok
+20666,Cranbourne West,20574,Clifton Hill,107.28,ok
+20670,Cremorne (Vic.),20574,Clifton Hill,27.02,ok
+20674,Crib Point,20574,Clifton Hill,136.77,ok
+20682,Croydon (Vic.),20574,Clifton Hill,64.57,ok
+20683,Croydon Hills,20574,Clifton Hill,85.88,ok
+20684,Croydon North,20574,Clifton Hill,81.32,ok
+20685,Croydon South,20574,Clifton Hill,85.48,ok
+20702,Dallas,20574,Clifton Hill,71.78,ok
+20703,Dalmore,20574,Clifton Hill,,no_eligible_route
+20707,Dandenong,20574,Clifton Hill,80.32,ok
+20708,Dandenong North,20574,Clifton Hill,99.38,ok
+20709,Dandenong South,20574,Clifton Hill,97.68,ok
+20712,Darley,20574,Clifton Hill,,no_eligible_route
+20716,Darraweit Guim,20574,Clifton Hill,,no_eligible_route
+20724,Deanside,20574,Clifton Hill,109.25,ok
+20728,Deepdene (Vic.),20574,Clifton Hill,42.93,ok
+20729,Deer Park,20574,Clifton Hill,68.95,ok
+20731,Delahey,20574,Clifton Hill,83.62,ok
+20743,Derrimut,20574,Clifton Hill,98.67,ok
+20748,Devon Meadows,20574,Clifton Hill,149.17,ok
+20750,Dewhurst,20574,Clifton Hill,,no_eligible_route
+20752,Diamond Creek,20574,Clifton Hill,54.27,ok
+20754,Diggers Rest,20574,Clifton Hill,91.07,ok
+20758,Dingley Village,20574,Clifton Hill,74.9,ok
+20762,Dixons Creek,20574,Clifton Hill,,no_eligible_route
+20766,Docklands,20574,Clifton Hill,36.0,ok
+20769,Don Valley,20574,Clifton Hill,,no_eligible_route
+20771,Doncaster,20574,Clifton Hill,38.93,ok
+20772,Doncaster East,20574,Clifton Hill,41.43,ok
+20773,Donnybrook (Vic.),20574,Clifton Hill,101.27,ok
+20774,Donvale,20574,Clifton Hill,64.75,ok
+20779,Doreen,20574,Clifton Hill,78.75,ok
+20783,Doveton,20574,Clifton Hill,94.3,ok
+20788,Dromana,20574,Clifton Hill,168.9,ok
+20825,Eaglemont,20574,Clifton Hill,30.28,ok
+20830,East Melbourne,20574,Clifton Hill,16.17,ok
+20833,East Warburton,20574,Clifton Hill,,no_eligible_route
+20843,Eden Park,20574,Clifton Hill,,no_eligible_route
+20848,Edithvale,20574,Clifton Hill,73.67,ok
+20864,Elsternwick,20574,Clifton Hill,52.77,ok
+20865,Eltham (Vic.),20574,Clifton Hill,53.4,ok
+20866,Eltham North,20574,Clifton Hill,53.65,ok
+20867,Elwood,20574,Clifton Hill,47.48,ok
+20868,Emerald (Vic.),20574,Clifton Hill,140.0,ok
+20871,Endeavour Hills,20574,Clifton Hill,101.63,ok
+20878,Epping (Vic.),20574,Clifton Hill,65.8,ok
+20885,Essendon,20574,Clifton Hill,53.12,ok
+20886,Essendon Fields,20574,Clifton Hill,74.03,ok
+20887,Essendon North,20574,Clifton Hill,56.52,ok
+20888,Essendon West,20574,Clifton Hill,52.98,ok
+20889,Eumemmerring,20574,Clifton Hill,97.32,ok
+20898,Exford,20574,Clifton Hill,,no_eligible_route
+20899,Eynesbury,20574,Clifton Hill,175.9,ok
+20901,Fairfield (Vic.),20574,Clifton Hill,12.78,ok
+20909,Fawkner,20574,Clifton Hill,60.9,ok
+20916,Fernshaw,20574,Clifton Hill,,no_eligible_route
+20917,Ferntree Gully,20574,Clifton Hill,82.17,ok
+20918,Ferny Creek,20574,Clifton Hill,123.83,ok
+20920,Fingal (Vic.),20574,Clifton Hill,,no_eligible_route
+20924,Fitzroy (Vic.),20574,Clifton Hill,21.32,ok
+20925,Fitzroy North,20574,Clifton Hill,17.67,ok
+20929,Flemington,20574,Clifton Hill,47.73,ok
+20930,Flinders (Vic.),20574,Clifton Hill,,no_eligible_route
+20935,Footscray,20574,Clifton Hill,48.83,ok
+20937,Forest Hill (Vic.),20574,Clifton Hill,59.12,ok
+20947,Frankston,20574,Clifton Hill,93.25,ok
+20948,Frankston North,20574,Clifton Hill,99.4,ok
+20949,Frankston South,20574,Clifton Hill,113.52,ok
+20950,Fraser Rise,20574,Clifton Hill,107.5,ok
+20965,Gardenvale,20574,Clifton Hill,53.32,ok
+20966,Garfield,20574,Clifton Hill,,no_eligible_route
+20967,Garfield North,20574,Clifton Hill,,no_eligible_route
+20979,Gembrook,20574,Clifton Hill,,no_eligible_route
+20995,Gilderoy,20574,Clifton Hill,,no_eligible_route
+21001,Gisborne,20574,Clifton Hill,,no_eligible_route
+21002,Gisborne South,20574,Clifton Hill,,no_eligible_route
+21004,Gladstone Park,20574,Clifton Hill,78.93,ok
+21005,Gladysdale,20574,Clifton Hill,,no_eligible_route
+21009,Glen Huntly,20574,Clifton Hill,49.78,ok
+21010,Glen Iris (Vic.),20574,Clifton Hill,54.82,ok
+21013,Glen Waverley,20574,Clifton Hill,67.23,ok
+21047,Glenroy (Vic.),20574,Clifton Hill,63.2,ok
+21059,Goldie,20574,Clifton Hill,,no_eligible_route
+21079,Gowanbrae,20574,Clifton Hill,78.57,ok
+21087,Grangefields,20574,Clifton Hill,139.1,ok
+21104,Greensborough,20574,Clifton Hill,38.82,ok
+21105,Greenvale (Vic.),20574,Clifton Hill,90.35,ok
+21115,Gruyere,20574,Clifton Hill,,no_eligible_route
+21121,Guys Hill,20574,Clifton Hill,,no_eligible_route
+21124,Hadfield,20574,Clifton Hill,57.92,ok
+21125,Hallam,20574,Clifton Hill,98.83,ok
+21131,Hampton (Vic.),20574,Clifton Hill,65.45,ok
+21132,Hampton East,20574,Clifton Hill,65.02,ok
+21133,Hampton Park,20574,Clifton Hill,95.72,ok
+21139,Harkaway,20574,Clifton Hill,,no_eligible_route
+21140,Harkness,20574,Clifton Hill,158.63,ok
+21145,Hastings (Vic.),20574,Clifton Hill,126.68,ok
+21152,Hawthorn (Vic.),20574,Clifton Hill,40.35,ok
+21153,Hawthorn East,20574,Clifton Hill,42.37,ok
+21158,Healesville,20574,Clifton Hill,146.58,ok
+21159,Heath Hill,20574,Clifton Hill,,no_eligible_route
+21161,Heathcote Junction,20574,Clifton Hill,,no_eligible_route
+21163,Heatherton,20574,Clifton Hill,78.32,ok
+21165,Heathmont,20574,Clifton Hill,60.73,ok
+21167,Heidelberg,20574,Clifton Hill,32.62,ok
+21168,Heidelberg Heights,20574,Clifton Hill,33.62,ok
+21169,Heidelberg West,20574,Clifton Hill,39.62,ok
+21176,Hesket,20574,Clifton Hill,,no_eligible_route
+21185,Highett,20574,Clifton Hill,57.78,ok
+21193,Hillside (Melton - Vic.),20574,Clifton Hill,88.15,ok
+21195,Hmas Cerberus,20574,Clifton Hill,169.97,ok
+21196,Hoddles Creek,20574,Clifton Hill,,no_eligible_route
+21202,Hopetoun Park,20574,Clifton Hill,,no_eligible_route
+21203,Hoppers Crossing,20574,Clifton Hill,83.9,ok
+21214,Hughesdale,20574,Clifton Hill,58.87,ok
+21215,Humevale,20574,Clifton Hill,111.13,ok
+21218,Huntingdale (Vic.),20574,Clifton Hill,64.3,ok
+21223,Hurstbridge,20574,Clifton Hill,54.82,ok
+21238,Iona,20574,Clifton Hill,,no_eligible_route
+21246,Ivanhoe (Vic.),20574,Clifton Hill,17.55,ok
+21247,Ivanhoe East,20574,Clifton Hill,28.93,ok
+21248,Jacana,20574,Clifton Hill,67.13,ok
+21277,Junction Village,20574,Clifton Hill,135.3,ok
+21284,Kalkallo,20574,Clifton Hill,116.87,ok
+21286,Kallista,20574,Clifton Hill,120.27,ok
+21287,Kalorama,20574,Clifton Hill,95.53,ok
+21294,Kangaroo Ground,20574,Clifton Hill,91.05,ok
+21312,Kealba,20574,Clifton Hill,74.33,ok
+21314,Keilor,20574,Clifton Hill,97.48,ok
+21315,Keilor Downs,20574,Clifton Hill,82.0,ok
+21316,Keilor East,20574,Clifton Hill,67.35,ok
+21317,Keilor Lodge,20574,Clifton Hill,82.85,ok
+21318,Keilor North,20574,Clifton Hill,76.68,ok
+21319,Keilor Park,20574,Clifton Hill,76.27,ok
+21327,Kensington (Vic.),20574,Clifton Hill,37.52,ok
+21333,Kerrie,20574,Clifton Hill,,no_eligible_route
+21336,Kew (Vic.),20574,Clifton Hill,29.72,ok
+21337,Kew East,20574,Clifton Hill,33.78,ok
+21339,Keysborough,20574,Clifton Hill,89.67,ok
+21354,Kilsyth,20574,Clifton Hill,83.92,ok
+21355,Kilsyth South,20574,Clifton Hill,94.0,ok
+21358,Kinglake,20574,Clifton Hill,,no_eligible_route
+21359,Kinglake Central,20574,Clifton Hill,,no_eligible_route
+21360,Kinglake West,20574,Clifton Hill,112.1,ok
+21362,Kings Park (Vic.),20574,Clifton Hill,78.32,ok
+21363,Kingsbury,20574,Clifton Hill,49.47,ok
+21365,Kingsville,20574,Clifton Hill,58.42,ok
+21374,Knoxfield,20574,Clifton Hill,86.58,ok
+21380,Koo Wee Rup,20574,Clifton Hill,,no_eligible_route
+21381,Koo Wee Rup North,20574,Clifton Hill,,no_eligible_route
+21393,Kooyong,20574,Clifton Hill,41.0,ok
+21411,Kurunjang,20574,Clifton Hill,135.83,ok
+21452,Lalor,20574,Clifton Hill,39.23,ok
+21456,Lancefield,20574,Clifton Hill,,no_eligible_route
+21459,Lang Lang,20574,Clifton Hill,,no_eligible_route
+21460,Lang Lang East,20574,Clifton Hill,,no_eligible_route
+21467,Langwarrin,20574,Clifton Hill,107.22,ok
+21468,Langwarrin South,20574,Clifton Hill,,no_eligible_route
+21473,Launching Place,20574,Clifton Hill,108.22,ok
+21476,Laverton (Vic.),20574,Clifton Hill,65.67,ok
+21477,Laverton North,20574,Clifton Hill,83.37,ok
+21504,Lilydale (Vic.),20574,Clifton Hill,87.87,ok
+21533,Long Forest,20574,Clifton Hill,,no_eligible_route
+21547,Lower Plenty,20574,Clifton Hill,64.08,ok
+21554,Lynbrook,20574,Clifton Hill,90.08,ok
+21555,Lyndhurst (Vic.),20574,Clifton Hill,135.67,ok
+21558,Lysterfield,20574,Clifton Hill,141.15,ok
+21559,Lysterfield South,20574,Clifton Hill,140.37,ok
+21561,Macclesfield (Vic.),20574,Clifton Hill,,no_eligible_route
+21562,Macedon,20574,Clifton Hill,,no_eligible_route
+21564,Macleod (Vic.),20574,Clifton Hill,31.9,ok
+21569,Maddingley,20574,Clifton Hill,,no_eligible_route
+21575,Maidstone,20574,Clifton Hill,64.2,ok
+21578,Main Ridge,20574,Clifton Hill,,no_eligible_route
+21586,Malvern (Vic.),20574,Clifton Hill,45.23,ok
+21587,Malvern East,20574,Clifton Hill,53.6,ok
+21588,Mambourin,20574,Clifton Hill,,no_eligible_route
+21597,Manor Lakes,20574,Clifton Hill,117.13,ok
+21604,Maribyrnong,20574,Clifton Hill,58.95,ok
+21619,Maryknoll,20574,Clifton Hill,,no_eligible_route
+21625,McCrae,20574,Clifton Hill,153.32,ok
+21629,McKinnon,20574,Clifton Hill,47.08,ok
+21635,Meadow Heights,20574,Clifton Hill,77.52,ok
+21640,Melbourne,20574,Clifton Hill,35.68,ok
+21641,Melbourne Airport,20574,Clifton Hill,,no_eligible_route
+21642,Melton (Vic.),20574,Clifton Hill,144.02,ok
+21643,Melton South,20574,Clifton Hill,142.38,ok
+21644,Melton West,20574,Clifton Hill,132.02,ok
+21648,Mentone,20574,Clifton Hill,57.77,ok
+21649,Menzies Creek,20574,Clifton Hill,111.62,ok
+21659,Mernda,20574,Clifton Hill,68.72,ok
+21662,Merricks,20574,Clifton Hill,,no_eligible_route
+21663,Merricks Beach,20574,Clifton Hill,,no_eligible_route
+21664,Merricks North,20574,Clifton Hill,,no_eligible_route
+21668,Merrimu,20574,Clifton Hill,,no_eligible_route
+21675,Mickleham,20574,Clifton Hill,111.25,ok
+21677,Middle Park (Vic.),20574,Clifton Hill,50.02,ok
+21683,Mill Park,20574,Clifton Hill,57.32,ok
+21685,Millgrove,20574,Clifton Hill,,no_eligible_route
+21706,Mitcham (Vic.),20574,Clifton Hill,56.3,ok
+21727,Monbulk,20574,Clifton Hill,127.72,ok
+21728,Monegeetta,20574,Clifton Hill,,no_eligible_route
+21731,Monomeith,20574,Clifton Hill,,no_eligible_route
+21732,Mont Albert,20574,Clifton Hill,46.23,ok
+21733,Mont Albert North,20574,Clifton Hill,44.42,ok
+21735,Montmorency,20574,Clifton Hill,39.47,ok
+21736,Montrose (Vic.),20574,Clifton Hill,87.83,ok
+21742,Moonee Ponds,20574,Clifton Hill,39.58,ok
+21746,Moorabbin,20574,Clifton Hill,75.83,ok
+21747,Moorabbin Airport,20574,Clifton Hill,76.27,ok
+21754,Moorooduc,20574,Clifton Hill,140.9,ok
+21755,Mooroolbark,20574,Clifton Hill,77.77,ok
+21760,Mordialloc,20574,Clifton Hill,73.07,ok
+21763,Mornington (Vic.),20574,Clifton Hill,124.12,ok
+21779,Mount Burnett,20574,Clifton Hill,,no_eligible_route
+21786,Mount Cottrell,20574,Clifton Hill,,no_eligible_route
+21787,Mount Dandenong,20574,Clifton Hill,99.53,ok
+21793,Mount Eliza,20574,Clifton Hill,101.3,ok
+21795,Mount Evelyn,20574,Clifton Hill,100.7,ok
+21801,Mount Macedon,20574,Clifton Hill,,no_eligible_route
+21803,Mount Martha,20574,Clifton Hill,119.83,ok
+21814,Mount Toolebewong,20574,Clifton Hill,,no_eligible_route
+21816,Mount Waverley,20574,Clifton Hill,58.67,ok
+21827,Mulgrave (Vic.),20574,Clifton Hill,86.57,ok
+21849,Murrumbeena,20574,Clifton Hill,58.98,ok
+21872,Nangana,20574,Clifton Hill,,no_eligible_route
+21878,Nar Nar Goon,20574,Clifton Hill,,no_eligible_route
+21879,Nar Nar Goon North,20574,Clifton Hill,,no_eligible_route
+21893,Narre Warren,20574,Clifton Hill,97.8,ok
+21894,Narre Warren East,20574,Clifton Hill,,no_eligible_route
+21895,Narre Warren North,20574,Clifton Hill,111.08,ok
+21896,Narre Warren South,20574,Clifton Hill,102.63,ok
+21921,New Gisborne,20574,Clifton Hill,,no_eligible_route
+21934,Newport (Vic.),20574,Clifton Hill,50.52,ok
+21942,Niddrie,20574,Clifton Hill,67.75,ok
+21952,Noble Park,20574,Clifton Hill,71.08,ok
+21953,Noble Park North,20574,Clifton Hill,93.3,ok
+21966,North Melbourne,20574,Clifton Hill,39.57,ok
+21969,North Warrandyte,20574,Clifton Hill,67.03,ok
+21971,Northcote,20574,Clifton Hill,21.43,ok
+21974,Notting Hill,20574,Clifton Hill,71.22,ok
+21985,Nunawading,20574,Clifton Hill,46.98,ok
+21991,Nutfield,20574,Clifton Hill,,no_eligible_route
+21998,Oak Park,20574,Clifton Hill,57.9,ok
+21999,Oaklands Junction,20574,Clifton Hill,,no_eligible_route
+22000,Oakleigh,20574,Clifton Hill,61.05,ok
+22001,Oakleigh East,20574,Clifton Hill,70.87,ok
+22002,Oakleigh South,20574,Clifton Hill,70.68,ok
+22006,Officer,20574,Clifton Hill,113.37,ok
+22007,Officer South,20574,Clifton Hill,149.93,ok
+22009,Olinda (Vic.),20574,Clifton Hill,124.15,ok
+22016,Ormond,20574,Clifton Hill,47.52,ok
+22027,Pakenham,20574,Clifton Hill,113.28,ok
+22028,Pakenham South,20574,Clifton Hill,,no_eligible_route
+22029,Pakenham Upper,20574,Clifton Hill,,no_eligible_route
+22032,Panton Hill,20574,Clifton Hill,,no_eligible_route
+22036,Park Orchards,20574,Clifton Hill,59.43,ok
+22037,Parkdale,20574,Clifton Hill,62.85,ok
+22038,Parkville (Vic.),20574,Clifton Hill,43.8,ok
+22041,Pascoe Vale,20574,Clifton Hill,53.73,ok
+22042,Pascoe Vale South,20574,Clifton Hill,51.55,ok
+22047,Patterson Lakes,20574,Clifton Hill,85.15,ok
+22050,Pearcedale,20574,Clifton Hill,156.23,ok
+22058,Pentland Hills,20574,Clifton Hill,,no_eligible_route
+22064,Pheasant Creek (Vic.),20574,Clifton Hill,127.75,ok
+22084,Plenty (Vic.),20574,Clifton Hill,64.4,ok
+22085,Plumpton (Vic.),20574,Clifton Hill,,no_eligible_route
+22086,Point Cook,20574,Clifton Hill,82.9,ok
+22087,Point Leo,20574,Clifton Hill,,no_eligible_route
+22107,Port Melbourne,20574,Clifton Hill,45.52,ok
+22113,Portsea,20574,Clifton Hill,189.62,ok
+22115,Powelltown,20574,Clifton Hill,,no_eligible_route
+22118,Prahran,20574,Clifton Hill,41.85,ok
+22121,Preston (Vic.),20574,Clifton Hill,32.83,ok
+22122,Princes Hill,20574,Clifton Hill,27.83,ok
+22132,Quandong,20574,Clifton Hill,,no_eligible_route
+22141,Ravenhall,20574,Clifton Hill,110.7,ok
+22148,Red Hill (Vic.),20574,Clifton Hill,,no_eligible_route
+22149,Red Hill South,20574,Clifton Hill,,no_eligible_route
+22160,Research,20574,Clifton Hill,60.9,ok
+22161,Reservoir (Vic.),20574,Clifton Hill,36.05,ok
+22170,Richmond (Vic.),20574,Clifton Hill,25.8,ok
+22172,Riddells Creek,20574,Clifton Hill,,no_eligible_route
+22174,Ringwood (Vic.),20574,Clifton Hill,63.5,ok
+22175,Ringwood East,20574,Clifton Hill,64.65,ok
+22176,Ringwood North,20574,Clifton Hill,60.02,ok
+22179,Ripponlea,20574,Clifton Hill,41.75,ok
+22185,Rochford,20574,Clifton Hill,,no_eligible_route
+22186,Rockbank,20574,Clifton Hill,117.28,ok
+22193,Romsey,20574,Clifton Hill,,no_eligible_route
+22194,Rosanna,20574,Clifton Hill,26.37,ok
+22198,Rosebud,20574,Clifton Hill,169.63,ok
+22207,Rowville,20574,Clifton Hill,96.12,ok
+22208,Roxburgh Park,20574,Clifton Hill,77.52,ok
+22220,Rye,20574,Clifton Hill,181.83,ok
+22221,Rythdale,20574,Clifton Hill,,no_eligible_route
+22222,Safety Beach (Vic.),20574,Clifton Hill,136.8,ok
+22232,Sandhurst,20574,Clifton Hill,115.48,ok
+22234,Sandringham (Vic.),20574,Clifton Hill,68.42,ok
+22239,Sassafras (Vic.),20574,Clifton Hill,106.6,ok
+22242,Scoresby,20574,Clifton Hill,92.85,ok
+22247,Seabrook,20574,Clifton Hill,74.97,ok
+22249,Seaford (Vic.),20574,Clifton Hill,88.38,ok
+22250,Seaholme,20574,Clifton Hill,62.75,ok
+22256,Seddon (Vic.),20574,Clifton Hill,46.77,ok
+22258,Selby,20574,Clifton Hill,111.28,ok
+22263,Seville,20574,Clifton Hill,119.38,ok
+22264,Seville East,20574,Clifton Hill,106.27,ok
+22278,Sherbrooke,20574,Clifton Hill,110.33,ok
+22279,Shoreham,20574,Clifton Hill,,no_eligible_route
+22281,Silvan,20574,Clifton Hill,118.77,ok
+22291,Skye (Vic.),20574,Clifton Hill,103.52,ok
+22295,Smiths Gully,20574,Clifton Hill,,no_eligible_route
+22303,Somers,20574,Clifton Hill,158.1,ok
+22304,Somerton (Vic.),20574,Clifton Hill,76.23,ok
+22305,Somerville (Vic.),20574,Clifton Hill,131.78,ok
+22306,Sorrento (Vic.),20574,Clifton Hill,169.6,ok
+22309,South Kingsville,20574,Clifton Hill,65.77,ok
+22310,South Melbourne,20574,Clifton Hill,41.83,ok
+22311,South Morang,20574,Clifton Hill,59.93,ok
+22313,South Wharf,20574,Clifton Hill,40.5,ok
+22314,South Yarra,20574,Clifton Hill,27.15,ok
+22315,Southbank,20574,Clifton Hill,39.27,ok
+22319,Spotswood,20574,Clifton Hill,46.92,ok
+22325,Springfield (Macedon Ranges - Vic.),20574,Clifton Hill,,no_eligible_route
+22328,Springvale (Vic.),20574,Clifton Hill,72.05,ok
+22329,Springvale South,20574,Clifton Hill,74.78,ok
+22330,St Albans (Vic.),20574,Clifton Hill,64.6,ok
+22332,St Andrews (Vic.),20574,Clifton Hill,,no_eligible_route
+22333,St Andrews Beach,20574,Clifton Hill,,no_eligible_route
+22339,St Helena,20574,Clifton Hill,49.65,ok
+22343,St Kilda (Vic.),20574,Clifton Hill,31.45,ok
+22344,St Kilda East,20574,Clifton Hill,47.92,ok
+22345,St Kilda West,20574,Clifton Hill,46.13,ok
+22355,Steels Creek,20574,Clifton Hill,,no_eligible_route
+22375,Strathewen,20574,Clifton Hill,,no_eligible_route
+22380,Strathmore (Vic.),20574,Clifton Hill,60.37,ok
+22381,Strathmore Heights,20574,Clifton Hill,71.15,ok
+22382,Strathtulloh,20574,Clifton Hill,196.27,ok
+22391,Sunbury,20574,Clifton Hill,124.88,ok
+22395,Sunshine (Vic.),20574,Clifton Hill,53.38,ok
+22396,Sunshine North,20574,Clifton Hill,69.45,ok
+22397,Sunshine West,20574,Clifton Hill,76.73,ok
+22399,Surrey Hills,20574,Clifton Hill,48.03,ok
+22414,Sydenham (Vic.),20574,Clifton Hill,79.0,ok
+22451,Tarneit,20574,Clifton Hill,100.97,ok
+22457,Tarrawarra,20574,Clifton Hill,122.18,ok
+22473,Taylors Hill,20574,Clifton Hill,83.83,ok
+22474,Taylors Lakes,20574,Clifton Hill,73.42,ok
+22476,Tecoma,20574,Clifton Hill,80.55,ok
+22483,Templestowe,20574,Clifton Hill,43.83,ok
+22484,Templestowe Lower,20574,Clifton Hill,38.8,ok
+22496,The Basin (Vic.),20574,Clifton Hill,91.73,ok
+22501,The Patch,20574,Clifton Hill,118.28,ok
+22504,Thomastown,20574,Clifton Hill,44.53,ok
+22508,Thornbury,20574,Clifton Hill,27.32,ok
+22509,Thornhill Park,20574,Clifton Hill,,no_eligible_route
+22514,Three Bridges,20574,Clifton Hill,,no_eligible_route
+22531,Tonimbuk,20574,Clifton Hill,,no_eligible_route
+22536,Toolangi,20574,Clifton Hill,,no_eligible_route
+22537,Toolern Vale,20574,Clifton Hill,,no_eligible_route
+22546,Tooradin,20574,Clifton Hill,,no_eligible_route
+22547,Toorak,20574,Clifton Hill,43.63,ok
+22550,Tootgarook,20574,Clifton Hill,165.25,ok
+22556,Tottenham (Vic.),20574,Clifton Hill,76.92,ok
+22572,Travancore,20574,Clifton Hill,46.33,ok
+22576,Tremont,20574,Clifton Hill,98.15,ok
+22582,Truganina,20574,Clifton Hill,152.12,ok
+22584,Tuerong,20574,Clifton Hill,,no_eligible_route
+22586,Tullamarine,20574,Clifton Hill,82.32,ok
+22594,Tyabb,20574,Clifton Hill,123.25,ok
+22598,Tynong,20574,Clifton Hill,,no_eligible_route
+22599,Tynong North,20574,Clifton Hill,,no_eligible_route
+22614,Upper Ferntree Gully,20574,Clifton Hill,77.7,ok
+22617,Upper Plenty,20574,Clifton Hill,,no_eligible_route
+22620,Upwey,20574,Clifton Hill,80.42,ok
+22627,Vermont,20574,Clifton Hill,69.02,ok
+22628,Vermont South,20574,Clifton Hill,78.08,ok
+22629,Vervale,20574,Clifton Hill,,no_eligible_route
+22633,Viewbank,20574,Clifton Hill,33.37,ok
+22661,Wallan,20574,Clifton Hill,,no_eligible_route
+22672,Wandin East,20574,Clifton Hill,,no_eligible_route
+22673,Wandin North,20574,Clifton Hill,92.35,ok
+22676,Wandong,20574,Clifton Hill,,no_eligible_route
+22685,Wantirna,20574,Clifton Hill,79.1,ok
+22686,Wantirna South,20574,Clifton Hill,86.42,ok
+22689,Warburton (Vic.),20574,Clifton Hill,,no_eligible_route
+22695,Warneet,20574,Clifton Hill,,no_eligible_route
+22702,Warrandyte,20574,Clifton Hill,59.62,ok
+22703,Warrandyte South,20574,Clifton Hill,95.75,ok
+22704,Warranwood,20574,Clifton Hill,68.25,ok
+22717,Waterford Park,20574,Clifton Hill,,no_eligible_route
+22720,Waterways,20574,Clifton Hill,93.45,ok
+22721,Watsonia,20574,Clifton Hill,26.82,ok
+22722,Watsonia North,20574,Clifton Hill,46.27,ok
+22723,Watsons Creek (Vic.),20574,Clifton Hill,,no_eligible_route
+22727,Wattle Glen,20574,Clifton Hill,58.57,ok
+22740,Weir Views,20574,Clifton Hill,165.47,ok
+22750,Werribee,20574,Clifton Hill,78.7,ok
+22751,Werribee South,20574,Clifton Hill,115.72,ok
+22753,Wesburn,20574,Clifton Hill,124.32,ok
+22756,West Footscray,20574,Clifton Hill,56.55,ok
+22757,West Melbourne,20574,Clifton Hill,46.48,ok
+22761,Westmeadows,20574,Clifton Hill,70.85,ok
+22766,Wheelers Hill,20574,Clifton Hill,79.28,ok
+22775,Whittlesea,20574,Clifton Hill,,no_eligible_route
+22784,Wildwood,20574,Clifton Hill,,no_eligible_route
+22791,Williams Landing,20574,Clifton Hill,79.92,ok
+22792,Williamstown (Vic.),20574,Clifton Hill,57.73,ok
+22793,Williamstown North,20574,Clifton Hill,72.23,ok
+22805,Windsor (Vic.),20574,Clifton Hill,40.75,ok
+22820,Wollert,20574,Clifton Hill,99.78,ok
+22825,Wonga Park,20574,Clifton Hill,89.1,ok
+22843,Woodstock (Vic.),20574,Clifton Hill,,no_eligible_route
+22857,Woori Yallock,20574,Clifton Hill,103.47,ok
+22883,Wyndham Vale,20574,Clifton Hill,105.52,ok
+22892,Yallambie,20574,Clifton Hill,45.1,ok
+22898,Yan Yean,20574,Clifton Hill,92.48,ok
+22906,Yannathan,20574,Clifton Hill,,no_eligible_route
+22910,Yarra Glen,20574,Clifton Hill,119.48,ok
+22911,Yarra Junction,20574,Clifton Hill,128.58,ok
+22916,Yarrambat,20574,Clifton Hill,66.97,ok
+22917,Yarraville,20574,Clifton Hill,52.67,ok
+22925,Yellingbo,20574,Clifton Hill,,no_eligible_route
+22930,Yering,20574,Clifton Hill,,no_eligible_route
+22941,Yuroke,20574,Clifton Hill,132.88,ok

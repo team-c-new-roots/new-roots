@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20728,Deepdene (Vic.),34.05,ok
+20003,Aberfeldie,20728,Deepdene (Vic.),82.52,ok
+20011,Aintree,20728,Deepdene (Vic.),118.58,ok
+20015,Airport West,20728,Deepdene (Vic.),97.55,ok
+20017,Albanvale,20728,Deepdene (Vic.),102.32,ok
+20018,Albert Park (Vic.),20728,Deepdene (Vic.),62.42,ok
+20021,Albion (Vic.),20728,Deepdene (Vic.),80.45,ok
+20034,Alphington,20728,Deepdene (Vic.),38.32,ok
+20035,Altona (Vic.),20728,Deepdene (Vic.),82.55,ok
+20036,Altona Meadows,20728,Deepdene (Vic.),88.7,ok
+20037,Altona North,20728,Deepdene (Vic.),98.95,ok
+20062,Ardeer,20728,Deepdene (Vic.),88.6,ok
+20066,Armadale (Vic.),20728,Deepdene (Vic.),41.07,ok
+20071,Arthurs Creek,20728,Deepdene (Vic.),,no_eligible_route
+20072,Arthurs Seat,20728,Deepdene (Vic.),205.25,ok
+20075,Ascot Vale,20728,Deepdene (Vic.),68.65,ok
+20077,Ashburton,20728,Deepdene (Vic.),35.3,ok
+20078,Ashwood,20728,Deepdene (Vic.),54.7,ok
+20079,Aspendale,20728,Deepdene (Vic.),86.22,ok
+20080,Aspendale Gardens,20728,Deepdene (Vic.),103.55,ok
+20082,Attwood,20728,Deepdene (Vic.),105.93,ok
+20089,Avondale Heights,20728,Deepdene (Vic.),96.25,ok
+20091,Avonsleigh,20728,Deepdene (Vic.),125.38,ok
+20095,Bacchus Marsh,20728,Deepdene (Vic.),,no_eligible_route
+20097,Badger Creek,20728,Deepdene (Vic.),126.65,ok
+20105,Balaclava (Vic.),20728,Deepdene (Vic.),51.23,ok
+20120,Balnarring,20728,Deepdene (Vic.),,no_eligible_route
+20121,Balnarring Beach,20728,Deepdene (Vic.),,no_eligible_route
+20123,Balwyn,20728,Deepdene (Vic.),12.57,ok
+20124,Balwyn North,20728,Deepdene (Vic.),23.9,ok
+20131,Bangholme,20728,Deepdene (Vic.),136.82,ok
+20169,Baxter,20728,Deepdene (Vic.),128.43,ok
+20171,Bayles,20728,Deepdene (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),20728,Deepdene (Vic.),57.45,ok
+20174,Bayswater North,20728,Deepdene (Vic.),71.62,ok
+20175,Beaconsfield (Vic.),20728,Deepdene (Vic.),129.42,ok
+20176,Beaconsfield Upper,20728,Deepdene (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),20728,Deepdene (Vic.),85.97,ok
+20187,Beenak,20728,Deepdene (Vic.),,no_eligible_route
+20188,Belgrave,20728,Deepdene (Vic.),70.53,ok
+20189,Belgrave Heights,20728,Deepdene (Vic.),94.2,ok
+20190,Belgrave South,20728,Deepdene (Vic.),95.18,ok
+20198,Bellfield (Banyule - Vic.),20728,Deepdene (Vic.),51.48,ok
+20207,Bend Of Islands,20728,Deepdene (Vic.),,no_eligible_route
+20212,Benloch,20728,Deepdene (Vic.),,no_eligible_route
+20214,Bentleigh,20728,Deepdene (Vic.),69.87,ok
+20215,Bentleigh East,20728,Deepdene (Vic.),72.82,ok
+20224,Berwick,20728,Deepdene (Vic.),103.33,ok
+20233,Beveridge,20728,Deepdene (Vic.),139.48,ok
+20237,Big Pats Creek,20728,Deepdene (Vic.),,no_eligible_route
+20248,Bittern,20728,Deepdene (Vic.),146.42,ok
+20251,Black Rock (Vic.),20728,Deepdene (Vic.),91.77,ok
+20252,Blackburn,20728,Deepdene (Vic.),31.77,ok
+20253,Blackburn North,20728,Deepdene (Vic.),42.05,ok
+20254,Blackburn South,20728,Deepdene (Vic.),49.38,ok
+20257,Blairgowrie,20728,Deepdene (Vic.),197.28,ok
+20260,Blind Bight,20728,Deepdene (Vic.),,no_eligible_route
+20272,Bolinda,20728,Deepdene (Vic.),,no_eligible_route
+20278,Bonbeach,20728,Deepdene (Vic.),91.22,ok
+20280,Boneo,20728,Deepdene (Vic.),,no_eligible_route
+20282,Bonnie Brook,20728,Deepdene (Vic.),152.13,ok
+20304,Boronia,20728,Deepdene (Vic.),59.92,ok
+20307,Botanic Ridge,20728,Deepdene (Vic.),150.57,ok
+20314,Box Hill (Vic.),20728,Deepdene (Vic.),24.38,ok
+20315,Box Hill North,20728,Deepdene (Vic.),34.65,ok
+20316,Box Hill South,20728,Deepdene (Vic.),30.38,ok
+20320,Braeside,20728,Deepdene (Vic.),112.02,ok
+20324,Braybrook,20728,Deepdene (Vic.),88.23,ok
+20331,Briar Hill,20728,Deepdene (Vic.),73.05,ok
+20337,Brighton (Vic.),20728,Deepdene (Vic.),68.1,ok
+20338,Brighton East,20728,Deepdene (Vic.),66.68,ok
+20346,Broadmeadows (Vic.),20728,Deepdene (Vic.),93.32,ok
+20351,Brookfield (Vic.),20728,Deepdene (Vic.),181.53,ok
+20352,Brooklyn (Vic.),20728,Deepdene (Vic.),93.87,ok
+20361,Brunswick (Vic.),20728,Deepdene (Vic.),64.4,ok
+20362,Brunswick East,20728,Deepdene (Vic.),58.33,ok
+20363,Brunswick West,20728,Deepdene (Vic.),73.58,ok
+20381,Bulla (Vic.),20728,Deepdene (Vic.),158.08,ok
+20386,Bulleen,20728,Deepdene (Vic.),54.97,ok
+20387,Bullengarook,20728,Deepdene (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),20728,Deepdene (Vic.),74.47,ok
+20411,Bunyip,20728,Deepdene (Vic.),,no_eligible_route
+20412,Bunyip North,20728,Deepdene (Vic.),,no_eligible_route
+20418,Burnley,20728,Deepdene (Vic.),42.9,ok
+20419,Burnside (Vic.),20728,Deepdene (Vic.),97.48,ok
+20420,Burnside Heights,20728,Deepdene (Vic.),105.3,ok
+20426,Burwood (Vic.),20728,Deepdene (Vic.),38.62,ok
+20427,Burwood East,20728,Deepdene (Vic.),47.5,ok
+20435,Bylands,20728,Deepdene (Vic.),,no_eligible_route
+20441,Cairnlea,20728,Deepdene (Vic.),97.67,ok
+20442,Calder Park,20728,Deepdene (Vic.),115.23,ok
+20443,Caldermeade,20728,Deepdene (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),20728,Deepdene (Vic.),34.23,ok
+20455,Campbellfield,20728,Deepdene (Vic.),97.95,ok
+20466,Cannons Creek,20728,Deepdene (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),20728,Deepdene (Vic.),15.78,ok
+20474,Cape Schanck,20728,Deepdene (Vic.),,no_eligible_route
+20476,Capel Sound,20728,Deepdene (Vic.),181.63,ok
+20487,Cardinia,20728,Deepdene (Vic.),,no_eligible_route
+20495,Carlton (Vic.),20728,Deepdene (Vic.),40.58,ok
+20496,Carlton North,20728,Deepdene (Vic.),63.65,ok
+20498,Carnegie,20728,Deepdene (Vic.),62.37,ok
+20500,Caroline Springs,20728,Deepdene (Vic.),106.37,ok
+20507,Carrum,20728,Deepdene (Vic.),91.03,ok
+20508,Carrum Downs,20728,Deepdene (Vic.),113.27,ok
+20512,Castella,20728,Deepdene (Vic.),,no_eligible_route
+20517,Catani,20728,Deepdene (Vic.),,no_eligible_route
+20521,Caulfield,20728,Deepdene (Vic.),57.7,ok
+20522,Caulfield East,20728,Deepdene (Vic.),54.68,ok
+20523,Caulfield North,20728,Deepdene (Vic.),43.32,ok
+20524,Caulfield South,20728,Deepdene (Vic.),62.23,ok
+20528,Chadstone,20728,Deepdene (Vic.),50.42,ok
+20537,Chelsea,20728,Deepdene (Vic.),88.28,ok
+20538,Chelsea Heights,20728,Deepdene (Vic.),111.4,ok
+20539,Cheltenham (Vic.),20728,Deepdene (Vic.),77.75,ok
+20541,Cherokee,20728,Deepdene (Vic.),,no_eligible_route
+20555,Chintin,20728,Deepdene (Vic.),,no_eligible_route
+20556,Chirnside Park,20728,Deepdene (Vic.),86.82,ok
+20559,Christmas Hills (Vic.),20728,Deepdene (Vic.),,no_eligible_route
+20560,Chum Creek,20728,Deepdene (Vic.),,no_eligible_route
+20566,Clarinda,20728,Deepdene (Vic.),81.73,ok
+20567,Clarkefield,20728,Deepdene (Vic.),,no_eligible_route
+20569,Clayton,20728,Deepdene (Vic.),68.87,ok
+20570,Clayton South,20728,Deepdene (Vic.),87.05,ok
+20572,Clematis,20728,Deepdene (Vic.),97.8,ok
+20574,Clifton Hill,20728,Deepdene (Vic.),40.82,ok
+20576,Clonbinane,20728,Deepdene (Vic.),,no_eligible_route
+20581,Clyde (Vic.),20728,Deepdene (Vic.),154.03,ok
+20582,Clyde North,20728,Deepdene (Vic.),125.93,ok
+20587,Cobaw,20728,Deepdene (Vic.),,no_eligible_route
+20590,Cobblebank,20728,Deepdene (Vic.),166.18,ok
+20596,Coburg,20728,Deepdene (Vic.),73.7,ok
+20597,Coburg North,20728,Deepdene (Vic.),84.5,ok
+20600,Cockatoo (Vic.),20728,Deepdene (Vic.),129.07,ok
+20601,Cocoroc,20728,Deepdene (Vic.),,no_eligible_route
+20605,Coimadai,20728,Deepdene (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),20728,Deepdene (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),20728,Deepdene (Vic.),36.78,ok
+20624,Coolaroo,20728,Deepdene (Vic.),90.37,ok
+20633,Cora Lynn,20728,Deepdene (Vic.),,no_eligible_route
+20654,Cottles Bridge,20728,Deepdene (Vic.),,no_eligible_route
+20661,Craigieburn,20728,Deepdene (Vic.),110.0,ok
+20662,Cranbourne,20728,Deepdene (Vic.),115.78,ok
+20663,Cranbourne East,20728,Deepdene (Vic.),115.22,ok
+20664,Cranbourne North,20728,Deepdene (Vic.),111.32,ok
+20665,Cranbourne South,20728,Deepdene (Vic.),159.45,ok
+20666,Cranbourne West,20728,Deepdene (Vic.),114.03,ok
+20670,Cremorne (Vic.),20728,Deepdene (Vic.),39.42,ok
+20674,Crib Point,20728,Deepdene (Vic.),155.38,ok
+20682,Croydon (Vic.),20728,Deepdene (Vic.),48.55,ok
+20683,Croydon Hills,20728,Deepdene (Vic.),71.87,ok
+20684,Croydon North,20728,Deepdene (Vic.),71.3,ok
+20685,Croydon South,20728,Deepdene (Vic.),77.37,ok
+20702,Dallas,20728,Deepdene (Vic.),94.87,ok
+20703,Dalmore,20728,Deepdene (Vic.),,no_eligible_route
+20707,Dandenong,20728,Deepdene (Vic.),88.1,ok
+20708,Dandenong North,20728,Deepdene (Vic.),84.87,ok
+20709,Dandenong South,20728,Deepdene (Vic.),111.43,ok
+20712,Darley,20728,Deepdene (Vic.),,no_eligible_route
+20716,Darraweit Guim,20728,Deepdene (Vic.),,no_eligible_route
+20724,Deanside,20728,Deepdene (Vic.),132.6,ok
+20728,Deepdene (Vic.),20728,Deepdene (Vic.),0.0,same_centroid
+20729,Deer Park,20728,Deepdene (Vic.),86.43,ok
+20731,Delahey,20728,Deepdene (Vic.),108.0,ok
+20743,Derrimut,20728,Deepdene (Vic.),121.32,ok
+20748,Devon Meadows,20728,Deepdene (Vic.),160.78,ok
+20750,Dewhurst,20728,Deepdene (Vic.),,no_eligible_route
+20752,Diamond Creek,20728,Deepdene (Vic.),78.05,ok
+20754,Diggers Rest,20728,Deepdene (Vic.),108.55,ok
+20758,Dingley Village,20728,Deepdene (Vic.),96.52,ok
+20762,Dixons Creek,20728,Deepdene (Vic.),,no_eligible_route
+20766,Docklands,20728,Deepdene (Vic.),51.75,ok
+20769,Don Valley,20728,Deepdene (Vic.),,no_eligible_route
+20771,Doncaster,20728,Deepdene (Vic.),38.17,ok
+20772,Doncaster East,20728,Deepdene (Vic.),55.5,ok
+20773,Donnybrook (Vic.),20728,Deepdene (Vic.),128.02,ok
+20774,Donvale,20728,Deepdene (Vic.),64.15,ok
+20779,Doreen,20728,Deepdene (Vic.),109.2,ok
+20783,Doveton,20728,Deepdene (Vic.),106.05,ok
+20788,Dromana,20728,Deepdene (Vic.),192.42,ok
+20825,Eaglemont,20728,Deepdene (Vic.),46.1,ok
+20830,East Melbourne,20728,Deepdene (Vic.),35.22,ok
+20833,East Warburton,20728,Deepdene (Vic.),,no_eligible_route
+20843,Eden Park,20728,Deepdene (Vic.),,no_eligible_route
+20848,Edithvale,20728,Deepdene (Vic.),88.42,ok
+20864,Elsternwick,20728,Deepdene (Vic.),58.7,ok
+20865,Eltham (Vic.),20728,Deepdene (Vic.),77.18,ok
+20866,Eltham North,20728,Deepdene (Vic.),77.17,ok
+20867,Elwood,20728,Deepdene (Vic.),67.97,ok
+20868,Emerald (Vic.),20728,Deepdene (Vic.),124.98,ok
+20871,Endeavour Hills,20728,Deepdene (Vic.),113.38,ok
+20878,Epping (Vic.),20728,Deepdene (Vic.),100.95,ok
+20885,Essendon,20728,Deepdene (Vic.),77.87,ok
+20886,Essendon Fields,20728,Deepdene (Vic.),96.78,ok
+20887,Essendon North,20728,Deepdene (Vic.),80.88,ok
+20888,Essendon West,20728,Deepdene (Vic.),78.73,ok
+20889,Eumemmerring,20728,Deepdene (Vic.),111.43,ok
+20898,Exford,20728,Deepdene (Vic.),,no_eligible_route
+20899,Eynesbury,20728,Deepdene (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),20728,Deepdene (Vic.),43.03,ok
+20909,Fawkner,20728,Deepdene (Vic.),90.4,ok
+20916,Fernshaw,20728,Deepdene (Vic.),,no_eligible_route
+20917,Ferntree Gully,20728,Deepdene (Vic.),67.15,ok
+20918,Ferny Creek,20728,Deepdene (Vic.),109.82,ok
+20920,Fingal (Vic.),20728,Deepdene (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),20728,Deepdene (Vic.),34.37,ok
+20925,Fitzroy North,20728,Deepdene (Vic.),53.58,ok
+20929,Flemington,20728,Deepdene (Vic.),71.48,ok
+20930,Flinders (Vic.),20728,Deepdene (Vic.),,no_eligible_route
+20935,Footscray,20728,Deepdene (Vic.),64.32,ok
+20937,Forest Hill (Vic.),20728,Deepdene (Vic.),45.1,ok
+20947,Frankston,20728,Deepdene (Vic.),108.0,ok
+20948,Frankston North,20728,Deepdene (Vic.),128.23,ok
+20949,Frankston South,20728,Deepdene (Vic.),137.03,ok
+20950,Fraser Rise,20728,Deepdene (Vic.),125.98,ok
+20965,Gardenvale,20728,Deepdene (Vic.),60.88,ok
+20966,Garfield,20728,Deepdene (Vic.),,no_eligible_route
+20967,Garfield North,20728,Deepdene (Vic.),,no_eligible_route
+20979,Gembrook,20728,Deepdene (Vic.),,no_eligible_route
+20995,Gilderoy,20728,Deepdene (Vic.),,no_eligible_route
+21001,Gisborne,20728,Deepdene (Vic.),,no_eligible_route
+21002,Gisborne South,20728,Deepdene (Vic.),,no_eligible_route
+21004,Gladstone Park,20728,Deepdene (Vic.),109.77,ok
+21005,Gladysdale,20728,Deepdene (Vic.),,no_eligible_route
+21009,Glen Huntly,20728,Deepdene (Vic.),61.98,ok
+21010,Glen Iris (Vic.),20728,Deepdene (Vic.),36.3,ok
+21013,Glen Waverley,20728,Deepdene (Vic.),58.72,ok
+21047,Glenroy (Vic.),20728,Deepdene (Vic.),88.95,ok
+21059,Goldie,20728,Deepdene (Vic.),,no_eligible_route
+21079,Gowanbrae,20728,Deepdene (Vic.),108.22,ok
+21087,Grangefields,20728,Deepdene (Vic.),157.58,ok
+21104,Greensborough,20728,Deepdene (Vic.),62.6,ok
+21105,Greenvale (Vic.),20728,Deepdene (Vic.),116.1,ok
+21115,Gruyere,20728,Deepdene (Vic.),,no_eligible_route
+21121,Guys Hill,20728,Deepdene (Vic.),,no_eligible_route
+21124,Hadfield,20728,Deepdene (Vic.),91.33,ok
+21125,Hallam,20728,Deepdene (Vic.),108.45,ok
+21131,Hampton (Vic.),20728,Deepdene (Vic.),75.93,ok
+21132,Hampton East,20728,Deepdene (Vic.),76.63,ok
+21133,Hampton Park,20728,Deepdene (Vic.),110.87,ok
+21139,Harkaway,20728,Deepdene (Vic.),,no_eligible_route
+21140,Harkness,20728,Deepdene (Vic.),183.02,ok
+21145,Hastings (Vic.),20728,Deepdene (Vic.),147.95,ok
+21152,Hawthorn (Vic.),20728,Deepdene (Vic.),24.88,ok
+21153,Hawthorn East,20728,Deepdene (Vic.),21.75,ok
+21158,Healesville,20728,Deepdene (Vic.),,no_eligible_route
+21159,Heath Hill,20728,Deepdene (Vic.),,no_eligible_route
+21161,Heathcote Junction,20728,Deepdene (Vic.),,no_eligible_route
+21163,Heatherton,20728,Deepdene (Vic.),91.3,ok
+21165,Heathmont,20728,Deepdene (Vic.),47.72,ok
+21167,Heidelberg,20728,Deepdene (Vic.),52.88,ok
+21168,Heidelberg Heights,20728,Deepdene (Vic.),45.0,ok
+21169,Heidelberg West,20728,Deepdene (Vic.),57.4,ok
+21176,Hesket,20728,Deepdene (Vic.),,no_eligible_route
+21185,Highett,20728,Deepdene (Vic.),69.4,ok
+21193,Hillside (Melton - Vic.),20728,Deepdene (Vic.),105.63,ok
+21195,Hmas Cerberus,20728,Deepdene (Vic.),,no_eligible_route
+21196,Hoddles Creek,20728,Deepdene (Vic.),,no_eligible_route
+21202,Hopetoun Park,20728,Deepdene (Vic.),,no_eligible_route
+21203,Hoppers Crossing,20728,Deepdene (Vic.),104.67,ok
+21214,Hughesdale,20728,Deepdene (Vic.),66.62,ok
+21215,Humevale,20728,Deepdene (Vic.),145.55,ok
+21218,Huntingdale (Vic.),20728,Deepdene (Vic.),74.92,ok
+21223,Hurstbridge,20728,Deepdene (Vic.),78.6,ok
+21238,Iona,20728,Deepdene (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),20728,Deepdene (Vic.),33.17,ok
+21247,Ivanhoe East,20728,Deepdene (Vic.),28.88,ok
+21248,Jacana,20728,Deepdene (Vic.),94.92,ok
+21277,Junction Village,20728,Deepdene (Vic.),146.92,ok
+21284,Kalkallo,20728,Deepdene (Vic.),131.02,ok
+21286,Kallista,20728,Deepdene (Vic.),106.25,ok
+21287,Kalorama,20728,Deepdene (Vic.),80.52,ok
+21294,Kangaroo Ground,20728,Deepdene (Vic.),113.83,ok
+21312,Kealba,20728,Deepdene (Vic.),90.82,ok
+21314,Keilor,20728,Deepdene (Vic.),119.23,ok
+21315,Keilor Downs,20728,Deepdene (Vic.),105.8,ok
+21316,Keilor East,20728,Deepdene (Vic.),93.1,ok
+21317,Keilor Lodge,20728,Deepdene (Vic.),106.68,ok
+21318,Keilor North,20728,Deepdene (Vic.),102.17,ok
+21319,Keilor Park,20728,Deepdene (Vic.),101.02,ok
+21327,Kensington (Vic.),20728,Deepdene (Vic.),60.45,ok
+21333,Kerrie,20728,Deepdene (Vic.),,no_eligible_route
+21336,Kew (Vic.),20728,Deepdene (Vic.),17.02,ok
+21337,Kew East,20728,Deepdene (Vic.),34.53,ok
+21339,Keysborough,20728,Deepdene (Vic.),103.18,ok
+21354,Kilsyth,20728,Deepdene (Vic.),67.9,ok
+21355,Kilsyth South,20728,Deepdene (Vic.),79.98,ok
+21358,Kinglake,20728,Deepdene (Vic.),194.48,ok
+21359,Kinglake Central,20728,Deepdene (Vic.),,no_eligible_route
+21360,Kinglake West,20728,Deepdene (Vic.),148.52,ok
+21362,Kings Park (Vic.),20728,Deepdene (Vic.),101.8,ok
+21363,Kingsbury,20728,Deepdene (Vic.),73.48,ok
+21365,Kingsville,20728,Deepdene (Vic.),74.8,ok
+21374,Knoxfield,20728,Deepdene (Vic.),73.57,ok
+21380,Koo Wee Rup,20728,Deepdene (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,20728,Deepdene (Vic.),,no_eligible_route
+21393,Kooyong,20728,Deepdene (Vic.),31.82,ok
+21411,Kurunjang,20728,Deepdene (Vic.),160.22,ok
+21452,Lalor,20728,Deepdene (Vic.),70.02,ok
+21456,Lancefield,20728,Deepdene (Vic.),,no_eligible_route
+21459,Lang Lang,20728,Deepdene (Vic.),,no_eligible_route
+21460,Lang Lang East,20728,Deepdene (Vic.),,no_eligible_route
+21467,Langwarrin,20728,Deepdene (Vic.),123.97,ok
+21468,Langwarrin South,20728,Deepdene (Vic.),,no_eligible_route
+21473,Launching Place,20728,Deepdene (Vic.),94.2,ok
+21476,Laverton (Vic.),20728,Deepdene (Vic.),85.15,ok
+21477,Laverton North,20728,Deepdene (Vic.),120.58,ok
+21504,Lilydale (Vic.),20728,Deepdene (Vic.),79.85,ok
+21533,Long Forest,20728,Deepdene (Vic.),,no_eligible_route
+21547,Lower Plenty,20728,Deepdene (Vic.),82.2,ok
+21554,Lynbrook,20728,Deepdene (Vic.),97.83,ok
+21555,Lyndhurst (Vic.),20728,Deepdene (Vic.),142.42,ok
+21558,Lysterfield,20728,Deepdene (Vic.),135.13,ok
+21559,Lysterfield South,20728,Deepdene (Vic.),134.85,ok
+21561,Macclesfield (Vic.),20728,Deepdene (Vic.),,no_eligible_route
+21562,Macedon,20728,Deepdene (Vic.),,no_eligible_route
+21564,Macleod (Vic.),20728,Deepdene (Vic.),55.68,ok
+21569,Maddingley,20728,Deepdene (Vic.),,no_eligible_route
+21575,Maidstone,20728,Deepdene (Vic.),85.68,ok
+21578,Main Ridge,20728,Deepdene (Vic.),,no_eligible_route
+21586,Malvern (Vic.),20728,Deepdene (Vic.),33.02,ok
+21587,Malvern East,20728,Deepdene (Vic.),40.08,ok
+21588,Mambourin,20728,Deepdene (Vic.),,no_eligible_route
+21597,Manor Lakes,20728,Deepdene (Vic.),138.62,ok
+21604,Maribyrnong,20728,Deepdene (Vic.),86.7,ok
+21619,Maryknoll,20728,Deepdene (Vic.),,no_eligible_route
+21625,McCrae,20728,Deepdene (Vic.),176.83,ok
+21629,McKinnon,20728,Deepdene (Vic.),58.7,ok
+21635,Meadow Heights,20728,Deepdene (Vic.),103.0,ok
+21640,Melbourne,20728,Deepdene (Vic.),45.17,ok
+21641,Melbourne Airport,20728,Deepdene (Vic.),,no_eligible_route
+21642,Melton (Vic.),20728,Deepdene (Vic.),168.4,ok
+21643,Melton South,20728,Deepdene (Vic.),180.77,ok
+21644,Melton West,20728,Deepdene (Vic.),156.4,ok
+21648,Mentone,20728,Deepdene (Vic.),72.52,ok
+21649,Menzies Creek,20728,Deepdene (Vic.),96.6,ok
+21659,Mernda,20728,Deepdene (Vic.),106.13,ok
+21662,Merricks,20728,Deepdene (Vic.),,no_eligible_route
+21663,Merricks Beach,20728,Deepdene (Vic.),,no_eligible_route
+21664,Merricks North,20728,Deepdene (Vic.),,no_eligible_route
+21668,Merrimu,20728,Deepdene (Vic.),,no_eligible_route
+21675,Mickleham,20728,Deepdene (Vic.),137.0,ok
+21677,Middle Park (Vic.),20728,Deepdene (Vic.),68.5,ok
+21683,Mill Park,20728,Deepdene (Vic.),92.73,ok
+21685,Millgrove,20728,Deepdene (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),20728,Deepdene (Vic.),43.45,ok
+21727,Monbulk,20728,Deepdene (Vic.),113.7,ok
+21728,Monegeetta,20728,Deepdene (Vic.),,no_eligible_route
+21731,Monomeith,20728,Deepdene (Vic.),,no_eligible_route
+21732,Mont Albert,20728,Deepdene (Vic.),17.1,ok
+21733,Mont Albert North,20728,Deepdene (Vic.),31.42,ok
+21735,Montmorency,20728,Deepdene (Vic.),62.6,ok
+21736,Montrose (Vic.),20728,Deepdene (Vic.),73.82,ok
+21742,Moonee Ponds,20728,Deepdene (Vic.),62.07,ok
+21746,Moorabbin,20728,Deepdene (Vic.),82.02,ok
+21747,Moorabbin Airport,20728,Deepdene (Vic.),97.88,ok
+21754,Moorooduc,20728,Deepdene (Vic.),,no_eligible_route
+21755,Mooroolbark,20728,Deepdene (Vic.),68.75,ok
+21760,Mordialloc,20728,Deepdene (Vic.),87.82,ok
+21763,Mornington (Vic.),20728,Deepdene (Vic.),138.87,ok
+21779,Mount Burnett,20728,Deepdene (Vic.),,no_eligible_route
+21786,Mount Cottrell,20728,Deepdene (Vic.),,no_eligible_route
+21787,Mount Dandenong,20728,Deepdene (Vic.),90.52,ok
+21793,Mount Eliza,20728,Deepdene (Vic.),117.05,ok
+21795,Mount Evelyn,20728,Deepdene (Vic.),87.68,ok
+21801,Mount Macedon,20728,Deepdene (Vic.),,no_eligible_route
+21803,Mount Martha,20728,Deepdene (Vic.),143.35,ok
+21814,Mount Toolebewong,20728,Deepdene (Vic.),,no_eligible_route
+21816,Mount Waverley,20728,Deepdene (Vic.),46.4,ok
+21827,Mulgrave (Vic.),20728,Deepdene (Vic.),92.58,ok
+21849,Murrumbeena,20728,Deepdene (Vic.),66.73,ok
+21872,Nangana,20728,Deepdene (Vic.),,no_eligible_route
+21878,Nar Nar Goon,20728,Deepdene (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,20728,Deepdene (Vic.),,no_eligible_route
+21893,Narre Warren,20728,Deepdene (Vic.),107.57,ok
+21894,Narre Warren East,20728,Deepdene (Vic.),,no_eligible_route
+21895,Narre Warren North,20728,Deepdene (Vic.),125.7,ok
+21896,Narre Warren South,20728,Deepdene (Vic.),110.25,ok
+21921,New Gisborne,20728,Deepdene (Vic.),,no_eligible_route
+21934,Newport (Vic.),20728,Deepdene (Vic.),68.0,ok
+21942,Niddrie,20728,Deepdene (Vic.),90.5,ok
+21952,Noble Park,20728,Deepdene (Vic.),78.83,ok
+21953,Noble Park North,20728,Deepdene (Vic.),107.32,ok
+21966,North Melbourne,20728,Deepdene (Vic.),60.43,ok
+21969,North Warrandyte,20728,Deepdene (Vic.),101.82,ok
+21971,Northcote,20728,Deepdene (Vic.),52.22,ok
+21974,Notting Hill,20728,Deepdene (Vic.),61.2,ok
+21985,Nunawading,20728,Deepdene (Vic.),35.93,ok
+21991,Nutfield,20728,Deepdene (Vic.),,no_eligible_route
+21998,Oak Park,20728,Deepdene (Vic.),82.65,ok
+21999,Oaklands Junction,20728,Deepdene (Vic.),,no_eligible_route
+22000,Oakleigh,20728,Deepdene (Vic.),65.8,ok
+22001,Oakleigh East,20728,Deepdene (Vic.),63.05,ok
+22002,Oakleigh South,20728,Deepdene (Vic.),73.67,ok
+22006,Officer,20728,Deepdene (Vic.),122.98,ok
+22007,Officer South,20728,Deepdene (Vic.),167.45,ok
+22009,Olinda (Vic.),20728,Deepdene (Vic.),109.17,ok
+22016,Ormond,20728,Deepdene (Vic.),59.13,ok
+22027,Pakenham,20728,Deepdene (Vic.),122.03,ok
+22028,Pakenham South,20728,Deepdene (Vic.),,no_eligible_route
+22029,Pakenham Upper,20728,Deepdene (Vic.),,no_eligible_route
+22032,Panton Hill,20728,Deepdene (Vic.),,no_eligible_route
+22036,Park Orchards,20728,Deepdene (Vic.),63.42,ok
+22037,Parkdale,20728,Deepdene (Vic.),77.6,ok
+22038,Parkville (Vic.),20728,Deepdene (Vic.),68.95,ok
+22041,Pascoe Vale,20728,Deepdene (Vic.),87.02,ok
+22042,Pascoe Vale South,20728,Deepdene (Vic.),82.75,ok
+22047,Patterson Lakes,20728,Deepdene (Vic.),99.9,ok
+22050,Pearcedale,20728,Deepdene (Vic.),176.75,ok
+22058,Pentland Hills,20728,Deepdene (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),20728,Deepdene (Vic.),164.17,ok
+22084,Plenty (Vic.),20728,Deepdene (Vic.),88.18,ok
+22085,Plumpton (Vic.),20728,Deepdene (Vic.),,no_eligible_route
+22086,Point Cook,20728,Deepdene (Vic.),101.38,ok
+22087,Point Leo,20728,Deepdene (Vic.),,no_eligible_route
+22107,Port Melbourne,20728,Deepdene (Vic.),65.27,ok
+22113,Portsea,20728,Deepdene (Vic.),213.13,ok
+22115,Powelltown,20728,Deepdene (Vic.),,no_eligible_route
+22118,Prahran,20728,Deepdene (Vic.),46.88,ok
+22121,Preston (Vic.),20728,Deepdene (Vic.),63.62,ok
+22122,Princes Hill,20728,Deepdene (Vic.),59.7,ok
+22132,Quandong,20728,Deepdene (Vic.),,no_eligible_route
+22141,Ravenhall,20728,Deepdene (Vic.),134.18,ok
+22148,Red Hill (Vic.),20728,Deepdene (Vic.),,no_eligible_route
+22149,Red Hill South,20728,Deepdene (Vic.),,no_eligible_route
+22160,Research,20728,Deepdene (Vic.),84.68,ok
+22161,Reservoir (Vic.),20728,Deepdene (Vic.),66.83,ok
+22170,Richmond (Vic.),20728,Deepdene (Vic.),28.25,ok
+22172,Riddells Creek,20728,Deepdene (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),20728,Deepdene (Vic.),51.07,ok
+22175,Ringwood East,20728,Deepdene (Vic.),48.63,ok
+22176,Ringwood North,20728,Deepdene (Vic.),62.27,ok
+22179,Ripponlea,20728,Deepdene (Vic.),53.97,ok
+22185,Rochford,20728,Deepdene (Vic.),,no_eligible_route
+22186,Rockbank,20728,Deepdene (Vic.),137.85,ok
+22193,Romsey,20728,Deepdene (Vic.),,no_eligible_route
+22194,Rosanna,20728,Deepdene (Vic.),50.15,ok
+22198,Rosebud,20728,Deepdene (Vic.),193.15,ok
+22207,Rowville,20728,Deepdene (Vic.),86.23,ok
+22208,Roxburgh Park,20728,Deepdene (Vic.),107.27,ok
+22220,Rye,20728,Deepdene (Vic.),205.35,ok
+22221,Rythdale,20728,Deepdene (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),20728,Deepdene (Vic.),160.32,ok
+22232,Sandhurst,20728,Deepdene (Vic.),130.1,ok
+22234,Sandringham (Vic.),20728,Deepdene (Vic.),80.82,ok
+22239,Sassafras (Vic.),20728,Deepdene (Vic.),92.58,ok
+22242,Scoresby,20728,Deepdene (Vic.),82.45,ok
+22247,Seabrook,20728,Deepdene (Vic.),93.45,ok
+22249,Seaford (Vic.),20728,Deepdene (Vic.),103.13,ok
+22250,Seaholme,20728,Deepdene (Vic.),77.23,ok
+22256,Seddon (Vic.),20728,Deepdene (Vic.),59.25,ok
+22258,Selby,20728,Deepdene (Vic.),96.27,ok
+22263,Seville,20728,Deepdene (Vic.),111.37,ok
+22264,Seville East,20728,Deepdene (Vic.),98.25,ok
+22278,Sherbrooke,20728,Deepdene (Vic.),96.32,ok
+22279,Shoreham,20728,Deepdene (Vic.),,no_eligible_route
+22281,Silvan,20728,Deepdene (Vic.),105.8,ok
+22291,Skye (Vic.),20728,Deepdene (Vic.),127.03,ok
+22295,Smiths Gully,20728,Deepdene (Vic.),,no_eligible_route
+22303,Somers,20728,Deepdene (Vic.),,no_eligible_route
+22304,Somerton (Vic.),20728,Deepdene (Vic.),104.37,ok
+22305,Somerville (Vic.),20728,Deepdene (Vic.),153.0,ok
+22306,Sorrento (Vic.),20728,Deepdene (Vic.),193.12,ok
+22309,South Kingsville,20728,Deepdene (Vic.),80.25,ok
+22310,South Melbourne,20728,Deepdene (Vic.),56.47,ok
+22311,South Morang,20728,Deepdene (Vic.),96.35,ok
+22313,South Wharf,20728,Deepdene (Vic.),54.73,ok
+22314,South Yarra,20728,Deepdene (Vic.),43.85,ok
+22315,Southbank,20728,Deepdene (Vic.),49.87,ok
+22319,Spotswood,20728,Deepdene (Vic.),59.4,ok
+22325,Springfield (Macedon Ranges - Vic.),20728,Deepdene (Vic.),,no_eligible_route
+22328,Springvale (Vic.),20728,Deepdene (Vic.),79.8,ok
+22329,Springvale South,20728,Deepdene (Vic.),83.77,ok
+22330,St Albans (Vic.),20728,Deepdene (Vic.),83.08,ok
+22332,St Andrews (Vic.),20728,Deepdene (Vic.),,no_eligible_route
+22333,St Andrews Beach,20728,Deepdene (Vic.),,no_eligible_route
+22339,St Helena,20728,Deepdene (Vic.),72.43,ok
+22343,St Kilda (Vic.),20728,Deepdene (Vic.),55.93,ok
+22344,St Kilda East,20728,Deepdene (Vic.),51.4,ok
+22345,St Kilda West,20728,Deepdene (Vic.),65.45,ok
+22355,Steels Creek,20728,Deepdene (Vic.),,no_eligible_route
+22375,Strathewen,20728,Deepdene (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),20728,Deepdene (Vic.),90.12,ok
+22381,Strathmore Heights,20728,Deepdene (Vic.),98.28,ok
+22382,Strathtulloh,20728,Deepdene (Vic.),,no_eligible_route
+22391,Sunbury,20728,Deepdene (Vic.),141.37,ok
+22395,Sunshine (Vic.),20728,Deepdene (Vic.),70.87,ok
+22396,Sunshine North,20728,Deepdene (Vic.),94.2,ok
+22397,Sunshine West,20728,Deepdene (Vic.),99.22,ok
+22399,Surrey Hills,20728,Deepdene (Vic.),23.33,ok
+22414,Sydenham (Vic.),20728,Deepdene (Vic.),97.48,ok
+22451,Tarneit,20728,Deepdene (Vic.),119.45,ok
+22457,Tarrawarra,20728,Deepdene (Vic.),106.17,ok
+22473,Taylors Hill,20728,Deepdene (Vic.),104.32,ok
+22474,Taylors Lakes,20728,Deepdene (Vic.),95.9,ok
+22476,Tecoma,20728,Deepdene (Vic.),67.53,ok
+22483,Templestowe,20728,Deepdene (Vic.),57.93,ok
+22484,Templestowe Lower,20728,Deepdene (Vic.),52.9,ok
+22496,The Basin (Vic.),20728,Deepdene (Vic.),77.02,ok
+22501,The Patch,20728,Deepdene (Vic.),104.27,ok
+22504,Thomastown,20728,Deepdene (Vic.),75.32,ok
+22508,Thornbury,20728,Deepdene (Vic.),58.1,ok
+22509,Thornhill Park,20728,Deepdene (Vic.),,no_eligible_route
+22514,Three Bridges,20728,Deepdene (Vic.),,no_eligible_route
+22531,Tonimbuk,20728,Deepdene (Vic.),,no_eligible_route
+22536,Toolangi,20728,Deepdene (Vic.),,no_eligible_route
+22537,Toolern Vale,20728,Deepdene (Vic.),,no_eligible_route
+22546,Tooradin,20728,Deepdene (Vic.),,no_eligible_route
+22547,Toorak,20728,Deepdene (Vic.),43.95,ok
+22550,Tootgarook,20728,Deepdene (Vic.),188.77,ok
+22556,Tottenham (Vic.),20728,Deepdene (Vic.),101.57,ok
+22572,Travancore,20728,Deepdene (Vic.),70.33,ok
+22576,Tremont,20728,Deepdene (Vic.),85.13,ok
+22582,Truganina,20728,Deepdene (Vic.),176.6,ok
+22584,Tuerong,20728,Deepdene (Vic.),,no_eligible_route
+22586,Tullamarine,20728,Deepdene (Vic.),110.07,ok
+22594,Tyabb,20728,Deepdene (Vic.),141.87,ok
+22598,Tynong,20728,Deepdene (Vic.),,no_eligible_route
+22599,Tynong North,20728,Deepdene (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,20728,Deepdene (Vic.),64.68,ok
+22617,Upper Plenty,20728,Deepdene (Vic.),,no_eligible_route
+22620,Upwey,20728,Deepdene (Vic.),67.4,ok
+22627,Vermont,20728,Deepdene (Vic.),56.0,ok
+22628,Vermont South,20728,Deepdene (Vic.),60.38,ok
+22629,Vervale,20728,Deepdene (Vic.),,no_eligible_route
+22633,Viewbank,20728,Deepdene (Vic.),63.15,ok
+22661,Wallan,20728,Deepdene (Vic.),,no_eligible_route
+22672,Wandin East,20728,Deepdene (Vic.),,no_eligible_route
+22673,Wandin North,20728,Deepdene (Vic.),78.33,ok
+22676,Wandong,20728,Deepdene (Vic.),,no_eligible_route
+22685,Wantirna,20728,Deepdene (Vic.),69.68,ok
+22686,Wantirna South,20728,Deepdene (Vic.),77.62,ok
+22689,Warburton (Vic.),20728,Deepdene (Vic.),,no_eligible_route
+22695,Warneet,20728,Deepdene (Vic.),,no_eligible_route
+22702,Warrandyte,20728,Deepdene (Vic.),75.6,ok
+22703,Warrandyte South,20728,Deepdene (Vic.),93.57,ok
+22704,Warranwood,20728,Deepdene (Vic.),67.23,ok
+22717,Waterford Park,20728,Deepdene (Vic.),,no_eligible_route
+22720,Waterways,20728,Deepdene (Vic.),106.2,ok
+22721,Watsonia,20728,Deepdene (Vic.),50.6,ok
+22722,Watsonia North,20728,Deepdene (Vic.),72.05,ok
+22723,Watsons Creek (Vic.),20728,Deepdene (Vic.),,no_eligible_route
+22727,Wattle Glen,20728,Deepdene (Vic.),82.35,ok
+22740,Weir Views,20728,Deepdene (Vic.),211.23,ok
+22750,Werribee,20728,Deepdene (Vic.),96.18,ok
+22751,Werribee South,20728,Deepdene (Vic.),145.23,ok
+22753,Wesburn,20728,Deepdene (Vic.),110.3,ok
+22756,West Footscray,20728,Deepdene (Vic.),79.03,ok
+22757,West Melbourne,20728,Deepdene (Vic.),71.87,ok
+22761,Westmeadows,20728,Deepdene (Vic.),98.68,ok
+22766,Wheelers Hill,20728,Deepdene (Vic.),81.77,ok
+22775,Whittlesea,20728,Deepdene (Vic.),,no_eligible_route
+22784,Wildwood,20728,Deepdene (Vic.),,no_eligible_route
+22791,Williams Landing,20728,Deepdene (Vic.),99.4,ok
+22792,Williamstown (Vic.),20728,Deepdene (Vic.),77.22,ok
+22793,Williamstown North,20728,Deepdene (Vic.),86.7,ok
+22805,Windsor (Vic.),20728,Deepdene (Vic.),47.67,ok
+22820,Wollert,20728,Deepdene (Vic.),126.53,ok
+22825,Wonga Park,20728,Deepdene (Vic.),73.08,ok
+22843,Woodstock (Vic.),20728,Deepdene (Vic.),,no_eligible_route
+22857,Woori Yallock,20728,Deepdene (Vic.),89.45,ok
+22883,Wyndham Vale,20728,Deepdene (Vic.),127.0,ok
+22892,Yallambie,20728,Deepdene (Vic.),75.88,ok
+22898,Yan Yean,20728,Deepdene (Vic.),129.9,ok
+22906,Yannathan,20728,Deepdene (Vic.),,no_eligible_route
+22910,Yarra Glen,20728,Deepdene (Vic.),,no_eligible_route
+22911,Yarra Junction,20728,Deepdene (Vic.),120.57,ok
+22916,Yarrambat,20728,Deepdene (Vic.),88.75,ok
+22917,Yarraville,20728,Deepdene (Vic.),65.15,ok
+22925,Yellingbo,20728,Deepdene (Vic.),,no_eligible_route
+22930,Yering,20728,Deepdene (Vic.),,no_eligible_route
+22941,Yuroke,20728,Deepdene (Vic.),165.4,ok
