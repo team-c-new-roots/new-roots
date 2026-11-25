@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21165,Heathmont,72.2,ok
+20003,Aberfeldie,21165,Heathmont,94.75,ok
+20011,Aintree,21165,Heathmont,138.48,ok
+20015,Airport West,21165,Heathmont,114.85,ok
+20017,Albanvale,21165,Heathmont,124.57,ok
+20018,Albert Park (Vic.),21165,Heathmont,77.32,ok
+20021,Albion (Vic.),21165,Heathmont,99.35,ok
+20034,Alphington,21165,Heathmont,77.37,ok
+20035,Altona (Vic.),21165,Heathmont,100.45,ok
+20036,Altona Meadows,21165,Heathmont,108.6,ok
+20037,Altona North,21165,Heathmont,103.85,ok
+20062,Ardeer,21165,Heathmont,108.5,ok
+20066,Armadale (Vic.),21165,Heathmont,67.6,ok
+20071,Arthurs Creek,21165,Heathmont,,no_eligible_route
+20072,Arthurs Seat,21165,Heathmont,,no_eligible_route
+20075,Ascot Vale,21165,Heathmont,85.58,ok
+20077,Ashburton,21165,Heathmont,65.2,ok
+20078,Ashwood,21165,Heathmont,66.72,ok
+20079,Aspendale,21165,Heathmont,116.85,ok
+20080,Aspendale Gardens,21165,Heathmont,116.85,ok
+20082,Attwood,21165,Heathmont,130.57,ok
+20089,Avondale Heights,21165,Heathmont,110.88,ok
+20091,Avonsleigh,21165,Heathmont,84.03,ok
+20095,Bacchus Marsh,21165,Heathmont,,no_eligible_route
+20097,Badger Creek,21165,Heathmont,120.4,ok
+20105,Balaclava (Vic.),21165,Heathmont,66.23,ok
+20120,Balnarring,21165,Heathmont,,no_eligible_route
+20121,Balnarring Beach,21165,Heathmont,,no_eligible_route
+20123,Balwyn,21165,Heathmont,47.33,ok
+20124,Balwyn North,21165,Heathmont,51.3,ok
+20131,Bangholme,21165,Heathmont,145.18,ok
+20169,Baxter,21165,Heathmont,158.45,ok
+20171,Bayles,21165,Heathmont,,no_eligible_route
+20173,Bayswater (Vic.),21165,Heathmont,21.1,ok
+20174,Bayswater North,21165,Heathmont,25.17,ok
+20175,Beaconsfield (Vic.),21165,Heathmont,130.93,ok
+20176,Beaconsfield Upper,21165,Heathmont,,no_eligible_route
+20182,Beaumaris (Vic.),21165,Heathmont,109.62,ok
+20187,Beenak,21165,Heathmont,,no_eligible_route
+20188,Belgrave,21165,Heathmont,34.18,ok
+20189,Belgrave Heights,21165,Heathmont,56.85,ok
+20190,Belgrave South,21165,Heathmont,57.83,ok
+20198,Bellfield (Banyule - Vic.),21165,Heathmont,102.12,ok
+20207,Bend Of Islands,21165,Heathmont,,no_eligible_route
+20212,Benloch,21165,Heathmont,,no_eligible_route
+20214,Bentleigh,21165,Heathmont,90.63,ok
+20215,Bentleigh East,21165,Heathmont,83.78,ok
+20224,Berwick,21165,Heathmont,103.73,ok
+20233,Beveridge,21165,Heathmont,161.12,ok
+20237,Big Pats Creek,21165,Heathmont,,no_eligible_route
+20248,Bittern,21165,Heathmont,176.43,ok
+20251,Black Rock (Vic.),21165,Heathmont,103.05,ok
+20252,Blackburn,21165,Heathmont,27.17,ok
+20253,Blackburn North,21165,Heathmont,45.72,ok
+20254,Blackburn South,21165,Heathmont,46.52,ok
+20257,Blairgowrie,21165,Heathmont,222.78,ok
+20260,Blind Bight,21165,Heathmont,,no_eligible_route
+20272,Bolinda,21165,Heathmont,,no_eligible_route
+20278,Bonbeach,21165,Heathmont,117.97,ok
+20280,Boneo,21165,Heathmont,,no_eligible_route
+20282,Bonnie Brook,21165,Heathmont,171.03,ok
+20304,Boronia,21165,Heathmont,21.05,ok
+20307,Botanic Ridge,21165,Heathmont,146.6,ok
+20314,Box Hill (Vic.),21165,Heathmont,34.38,ok
+20315,Box Hill North,21165,Heathmont,50.05,ok
+20316,Box Hill South,21165,Heathmont,42.78,ok
+20320,Braeside,21165,Heathmont,123.7,ok
+20324,Braybrook,21165,Heathmont,106.2,ok
+20331,Briar Hill,21165,Heathmont,89.95,ok
+20337,Brighton (Vic.),21165,Heathmont,79.0,ok
+20338,Brighton East,21165,Heathmont,90.25,ok
+20346,Broadmeadows (Vic.),21165,Heathmont,106.48,ok
+20351,Brookfield (Vic.),21165,Heathmont,,no_eligible_route
+20352,Brooklyn (Vic.),21165,Heathmont,103.47,ok
+20361,Brunswick (Vic.),21165,Heathmont,87.1,ok
+20362,Brunswick East,21165,Heathmont,88.38,ok
+20363,Brunswick West,21165,Heathmont,88.48,ok
+20381,Bulla (Vic.),21165,Heathmont,,no_eligible_route
+20386,Bulleen,21165,Heathmont,76.2,ok
+20387,Bullengarook,21165,Heathmont,,no_eligible_route
+20399,Bundoora (Vic.),21165,Heathmont,97.55,ok
+20411,Bunyip,21165,Heathmont,,no_eligible_route
+20412,Bunyip North,21165,Heathmont,,no_eligible_route
+20418,Burnley,21165,Heathmont,63.8,ok
+20419,Burnside (Vic.),21165,Heathmont,117.38,ok
+20420,Burnside Heights,21165,Heathmont,125.2,ok
+20426,Burwood (Vic.),21165,Heathmont,53.28,ok
+20427,Burwood East,21165,Heathmont,47.52,ok
+20435,Bylands,21165,Heathmont,,no_eligible_route
+20441,Cairnlea,21165,Heathmont,106.57,ok
+20442,Calder Park,21165,Heathmont,133.13,ok
+20443,Caldermeade,21165,Heathmont,,no_eligible_route
+20453,Camberwell (Vic.),21165,Heathmont,64.13,ok
+20455,Campbellfield,21165,Heathmont,120.85,ok
+20466,Cannons Creek,21165,Heathmont,,no_eligible_route
+20468,Canterbury (Vic.),21165,Heathmont,41.62,ok
+20474,Cape Schanck,21165,Heathmont,,no_eligible_route
+20476,Capel Sound,21165,Heathmont,208.13,ok
+20487,Cardinia,21165,Heathmont,,no_eligible_route
+20495,Carlton (Vic.),21165,Heathmont,74.05,ok
+20496,Carlton North,21165,Heathmont,85.15,ok
+20498,Carnegie,21165,Heathmont,89.87,ok
+20500,Caroline Springs,21165,Heathmont,126.27,ok
+20507,Carrum,21165,Heathmont,121.67,ok
+20508,Carrum Downs,21165,Heathmont,92.15,ok
+20512,Castella,21165,Heathmont,,no_eligible_route
+20517,Catani,21165,Heathmont,,no_eligible_route
+20521,Caulfield,21165,Heathmont,87.33,ok
+20522,Caulfield East,21165,Heathmont,82.03,ok
+20523,Caulfield North,21165,Heathmont,69.95,ok
+20524,Caulfield South,21165,Heathmont,91.87,ok
+20528,Chadstone,21165,Heathmont,64.82,ok
+20537,Chelsea,21165,Heathmont,110.97,ok
+20538,Chelsea Heights,21165,Heathmont,121.85,ok
+20539,Cheltenham (Vic.),21165,Heathmont,108.38,ok
+20541,Cherokee,21165,Heathmont,,no_eligible_route
+20555,Chintin,21165,Heathmont,,no_eligible_route
+20556,Chirnside Park,21165,Heathmont,67.55,ok
+20559,Christmas Hills (Vic.),21165,Heathmont,,no_eligible_route
+20560,Chum Creek,21165,Heathmont,,no_eligible_route
+20566,Clarinda,21165,Heathmont,90.77,ok
+20567,Clarkefield,21165,Heathmont,,no_eligible_route
+20569,Clayton,21165,Heathmont,67.27,ok
+20570,Clayton South,21165,Heathmont,94.45,ok
+20572,Clematis,21165,Heathmont,55.45,ok
+20574,Clifton Hill,21165,Heathmont,68.37,ok
+20576,Clonbinane,21165,Heathmont,,no_eligible_route
+20581,Clyde (Vic.),21165,Heathmont,154.43,ok
+20582,Clyde North,21165,Heathmont,120.82,ok
+20587,Cobaw,21165,Heathmont,,no_eligible_route
+20590,Cobblebank,21165,Heathmont,189.18,ok
+20596,Coburg,21165,Heathmont,93.83,ok
+20597,Coburg North,21165,Heathmont,103.4,ok
+20600,Cockatoo (Vic.),21165,Heathmont,87.72,ok
+20601,Cocoroc,21165,Heathmont,,no_eligible_route
+20605,Coimadai,21165,Heathmont,,no_eligible_route
+20613,Coldstream (Vic.),21165,Heathmont,,no_eligible_route
+20616,Collingwood (Vic.),21165,Heathmont,66.68,ok
+20624,Coolaroo,21165,Heathmont,110.07,ok
+20633,Cora Lynn,21165,Heathmont,,no_eligible_route
+20654,Cottles Bridge,21165,Heathmont,,no_eligible_route
+20661,Craigieburn,21165,Heathmont,130.6,ok
+20662,Cranbourne,21165,Heathmont,111.22,ok
+20663,Cranbourne East,21165,Heathmont,117.0,ok
+20664,Cranbourne North,21165,Heathmont,109.55,ok
+20665,Cranbourne South,21165,Heathmont,149.95,ok
+20666,Cranbourne West,21165,Heathmont,116.3,ok
+20670,Cremorne (Vic.),21165,Heathmont,56.78,ok
+20674,Crib Point,21165,Heathmont,185.4,ok
+20682,Croydon (Vic.),21165,Heathmont,33.95,ok
+20683,Croydon Hills,21165,Heathmont,50.28,ok
+20684,Croydon North,21165,Heathmont,68.55,ok
+20685,Croydon South,21165,Heathmont,43.02,ok
+20702,Dallas,21165,Heathmont,112.2,ok
+20703,Dalmore,21165,Heathmont,,no_eligible_route
+20707,Dandenong,21165,Heathmont,68.67,ok
+20708,Dandenong North,21165,Heathmont,74.08,ok
+20709,Dandenong South,21165,Heathmont,90.32,ok
+20712,Darley,21165,Heathmont,,no_eligible_route
+20716,Darraweit Guim,21165,Heathmont,,no_eligible_route
+20724,Deanside,21165,Heathmont,152.5,ok
+20728,Deepdene (Vic.),21165,Heathmont,53.23,ok
+20729,Deer Park,21165,Heathmont,106.33,ok
+20731,Delahey,21165,Heathmont,123.0,ok
+20743,Derrimut,21165,Heathmont,150.22,ok
+20748,Devon Meadows,21165,Heathmont,157.8,ok
+20750,Dewhurst,21165,Heathmont,,no_eligible_route
+20752,Diamond Creek,21165,Heathmont,97.68,ok
+20754,Diggers Rest,21165,Heathmont,137.45,ok
+20758,Dingley Village,21165,Heathmont,100.53,ok
+20762,Dixons Creek,21165,Heathmont,,no_eligible_route
+20766,Docklands,21165,Heathmont,72.9,ok
+20769,Don Valley,21165,Heathmont,,no_eligible_route
+20771,Doncaster,21165,Heathmont,53.85,ok
+20772,Doncaster East,21165,Heathmont,56.82,ok
+20773,Donnybrook (Vic.),21165,Heathmont,159.65,ok
+20774,Donvale,21165,Heathmont,56.02,ok
+20779,Doreen,21165,Heathmont,,no_eligible_route
+20783,Doveton,21165,Heathmont,88.45,ok
+20788,Dromana,21165,Heathmont,217.92,ok
+20825,Eaglemont,21165,Heathmont,76.97,ok
+20830,East Melbourne,21165,Heathmont,62.97,ok
+20833,East Warburton,21165,Heathmont,,no_eligible_route
+20843,Eden Park,21165,Heathmont,,no_eligible_route
+20848,Edithvale,21165,Heathmont,98.45,ok
+20864,Elsternwick,21165,Heathmont,74.15,ok
+20865,Eltham (Vic.),21165,Heathmont,79.92,ok
+20866,Eltham North,21165,Heathmont,101.42,ok
+20867,Elwood,21165,Heathmont,80.33,ok
+20868,Emerald (Vic.),21165,Heathmont,82.63,ok
+20871,Endeavour Hills,21165,Heathmont,91.47,ok
+20878,Epping (Vic.),21165,Heathmont,133.22,ok
+20885,Essendon,21165,Heathmont,91.5,ok
+20886,Essendon Fields,21165,Heathmont,117.9,ok
+20887,Essendon North,21165,Heathmont,98.9,ok
+20888,Essendon West,21165,Heathmont,97.37,ok
+20889,Eumemmerring,21165,Heathmont,90.95,ok
+20898,Exford,21165,Heathmont,,no_eligible_route
+20899,Eynesbury,21165,Heathmont,,no_eligible_route
+20901,Fairfield (Vic.),21165,Heathmont,81.8,ok
+20909,Fawkner,21165,Heathmont,113.3,ok
+20916,Fernshaw,21165,Heathmont,,no_eligible_route
+20917,Ferntree Gully,21165,Heathmont,34.8,ok
+20918,Ferny Creek,21165,Heathmont,69.47,ok
+20920,Fingal (Vic.),21165,Heathmont,,no_eligible_route
+20924,Fitzroy (Vic.),21165,Heathmont,70.98,ok
+20925,Fitzroy North,21165,Heathmont,78.58,ok
+20929,Flemington,21165,Heathmont,83.12,ok
+20930,Flinders (Vic.),21165,Heathmont,,no_eligible_route
+20935,Footscray,21165,Heathmont,79.22,ok
+20937,Forest Hill (Vic.),21165,Heathmont,43.5,ok
+20947,Frankston,21165,Heathmont,133.88,ok
+20948,Frankston North,21165,Heathmont,107.18,ok
+20949,Frankston South,21165,Heathmont,169.82,ok
+20950,Fraser Rise,21165,Heathmont,143.88,ok
+20965,Gardenvale,21165,Heathmont,75.43,ok
+20966,Garfield,21165,Heathmont,,no_eligible_route
+20967,Garfield North,21165,Heathmont,,no_eligible_route
+20979,Gembrook,21165,Heathmont,,no_eligible_route
+20995,Gilderoy,21165,Heathmont,,no_eligible_route
+21001,Gisborne,21165,Heathmont,,no_eligible_route
+21002,Gisborne South,21165,Heathmont,,no_eligible_route
+21004,Gladstone Park,21165,Heathmont,123.4,ok
+21005,Gladysdale,21165,Heathmont,,no_eligible_route
+21009,Glen Huntly,21165,Heathmont,85.17,ok
+21010,Glen Iris (Vic.),21165,Heathmont,72.03,ok
+21013,Glen Waverley,21165,Heathmont,53.07,ok
+21047,Glenroy (Vic.),21165,Heathmont,104.05,ok
+21059,Goldie,21165,Heathmont,,no_eligible_route
+21079,Gowanbrae,21165,Heathmont,119.85,ok
+21087,Grangefields,21165,Heathmont,175.48,ok
+21104,Greensborough,21165,Heathmont,85.25,ok
+21105,Greenvale (Vic.),21165,Heathmont,127.73,ok
+21115,Gruyere,21165,Heathmont,,no_eligible_route
+21121,Guys Hill,21165,Heathmont,,no_eligible_route
+21124,Hadfield,21165,Heathmont,124.33,ok
+21125,Hallam,21165,Heathmont,108.03,ok
+21131,Hampton (Vic.),21165,Heathmont,86.83,ok
+21132,Hampton East,21165,Heathmont,97.4,ok
+21133,Hampton Park,21165,Heathmont,93.88,ok
+21139,Harkaway,21165,Heathmont,,no_eligible_route
+21140,Harkness,21165,Heathmont,,no_eligible_route
+21145,Hastings (Vic.),21165,Heathmont,177.97,ok
+21152,Hawthorn (Vic.),21165,Heathmont,51.2,ok
+21153,Hawthorn East,21165,Heathmont,52.27,ok
+21158,Healesville,21165,Heathmont,124.32,ok
+21159,Heath Hill,21165,Heathmont,,no_eligible_route
+21161,Heathcote Junction,21165,Heathmont,,no_eligible_route
+21163,Heatherton,21165,Heathmont,97.78,ok
+21165,Heathmont,21165,Heathmont,0.0,same_centroid
+21167,Heidelberg,21165,Heathmont,74.77,ok
+21168,Heidelberg Heights,21165,Heathmont,86.03,ok
+21169,Heidelberg West,21165,Heathmont,91.03,ok
+21176,Hesket,21165,Heathmont,,no_eligible_route
+21185,Highett,21165,Heathmont,90.17,ok
+21193,Hillside (Melton - Vic.),21165,Heathmont,128.43,ok
+21195,Hmas Cerberus,21165,Heathmont,,no_eligible_route
+21196,Hoddles Creek,21165,Heathmont,,no_eligible_route
+21202,Hopetoun Park,21165,Heathmont,,no_eligible_route
+21203,Hoppers Crossing,21165,Heathmont,115.28,ok
+21214,Hughesdale,21165,Heathmont,78.3,ok
+21215,Humevale,21165,Heathmont,,no_eligible_route
+21218,Huntingdale (Vic.),21165,Heathmont,73.03,ok
+21223,Hurstbridge,21165,Heathmont,98.23,ok
+21238,Iona,21165,Heathmont,,no_eligible_route
+21246,Ivanhoe (Vic.),21165,Heathmont,81.97,ok
+21247,Ivanhoe East,21165,Heathmont,84.58,ok
+21248,Jacana,21165,Heathmont,108.62,ok
+21277,Junction Village,21165,Heathmont,147.32,ok
+21284,Kalkallo,21165,Heathmont,152.65,ok
+21286,Kallista,21165,Heathmont,72.9,ok
+21287,Kalorama,21165,Heathmont,48.27,ok
+21294,Kangaroo Ground,21165,Heathmont,102.67,ok
+21312,Kealba,21165,Heathmont,109.72,ok
+21314,Keilor,21165,Heathmont,140.87,ok
+21315,Keilor Downs,21165,Heathmont,126.7,ok
+21316,Keilor East,21165,Heathmont,111.73,ok
+21317,Keilor Lodge,21165,Heathmont,139.18,ok
+21318,Keilor North,21165,Heathmont,140.15,ok
+21319,Keilor Park,21165,Heathmont,119.65,ok
+21327,Kensington (Vic.),21165,Heathmont,75.9,ok
+21333,Kerrie,21165,Heathmont,,no_eligible_route
+21336,Kew (Vic.),21165,Heathmont,64.65,ok
+21337,Kew East,21165,Heathmont,85.28,ok
+21339,Keysborough,21165,Heathmont,107.68,ok
+21354,Kilsyth,21165,Heathmont,37.6,ok
+21355,Kilsyth South,21165,Heathmont,42.63,ok
+21358,Kinglake,21165,Heathmont,,no_eligible_route
+21359,Kinglake Central,21165,Heathmont,,no_eligible_route
+21360,Kinglake West,21165,Heathmont,,no_eligible_route
+21362,Kings Park (Vic.),21165,Heathmont,121.9,ok
+21363,Kingsbury,21165,Heathmont,107.32,ok
+21365,Kingsville,21165,Heathmont,92.7,ok
+21374,Knoxfield,21165,Heathmont,35.22,ok
+21380,Koo Wee Rup,21165,Heathmont,,no_eligible_route
+21381,Koo Wee Rup North,21165,Heathmont,,no_eligible_route
+21393,Kooyong,21165,Heathmont,62.45,ok
+21411,Kurunjang,21165,Heathmont,207.27,ok
+21452,Lalor,21165,Heathmont,103.65,ok
+21456,Lancefield,21165,Heathmont,,no_eligible_route
+21459,Lang Lang,21165,Heathmont,,no_eligible_route
+21460,Lang Lang East,21165,Heathmont,,no_eligible_route
+21467,Langwarrin,21165,Heathmont,139.32,ok
+21468,Langwarrin South,21165,Heathmont,,no_eligible_route
+21473,Launching Place,21165,Heathmont,92.93,ok
+21476,Laverton (Vic.),21165,Heathmont,96.05,ok
+21477,Laverton North,21165,Heathmont,132.48,ok
+21504,Lilydale (Vic.),21165,Heathmont,69.6,ok
+21533,Long Forest,21165,Heathmont,,no_eligible_route
+21547,Lower Plenty,21165,Heathmont,104.93,ok
+21554,Lynbrook,21165,Heathmont,91.72,ok
+21555,Lyndhurst (Vic.),21165,Heathmont,149.3,ok
+21558,Lysterfield,21165,Heathmont,208.1,walk_only
+21559,Lysterfield South,21165,Heathmont,104.03,ok
+21561,Macclesfield (Vic.),21165,Heathmont,,no_eligible_route
+21562,Macedon,21165,Heathmont,,no_eligible_route
+21564,Macleod (Vic.),21165,Heathmont,95.32,ok
+21569,Maddingley,21165,Heathmont,,no_eligible_route
+21575,Maidstone,21165,Heathmont,101.58,ok
+21578,Main Ridge,21165,Heathmont,,no_eligible_route
+21586,Malvern (Vic.),21165,Heathmont,63.92,ok
+21587,Malvern East,21165,Heathmont,77.98,ok
+21588,Mambourin,21165,Heathmont,,no_eligible_route
+21597,Manor Lakes,21165,Heathmont,149.52,ok
+21604,Maribyrnong,21165,Heathmont,98.33,ok
+21619,Maryknoll,21165,Heathmont,,no_eligible_route
+21625,McCrae,21165,Heathmont,201.33,ok
+21629,McKinnon,21165,Heathmont,79.47,ok
+21635,Meadow Heights,21165,Heathmont,121.5,ok
+21640,Melbourne,21165,Heathmont,59.07,ok
+21641,Melbourne Airport,21165,Heathmont,,no_eligible_route
+21642,Melton (Vic.),21165,Heathmont,191.4,ok
+21643,Melton South,21165,Heathmont,205.0,ok
+21644,Melton West,21165,Heathmont,200.23,ok
+21648,Mentone,21165,Heathmont,89.82,ok
+21649,Menzies Creek,21165,Heathmont,54.25,ok
+21659,Mernda,21165,Heathmont,147.13,ok
+21662,Merricks,21165,Heathmont,,no_eligible_route
+21663,Merricks Beach,21165,Heathmont,,no_eligible_route
+21664,Merricks North,21165,Heathmont,,no_eligible_route
+21668,Merrimu,21165,Heathmont,,no_eligible_route
+21675,Mickleham,21165,Heathmont,148.63,ok
+21677,Middle Park (Vic.),21165,Heathmont,83.6,ok
+21683,Mill Park,21165,Heathmont,121.15,ok
+21685,Millgrove,21165,Heathmont,,no_eligible_route
+21706,Mitcham (Vic.),21165,Heathmont,26.82,ok
+21727,Monbulk,21165,Heathmont,80.35,ok
+21728,Monegeetta,21165,Heathmont,,no_eligible_route
+21731,Monomeith,21165,Heathmont,,no_eligible_route
+21732,Mont Albert,21165,Heathmont,41.02,ok
+21733,Mont Albert North,21165,Heathmont,53.0,ok
+21735,Montmorency,21165,Heathmont,85.97,ok
+21736,Montrose (Vic.),21165,Heathmont,38.82,ok
+21742,Moonee Ponds,21165,Heathmont,77.97,ok
+21746,Moorabbin,21165,Heathmont,107.42,ok
+21747,Moorabbin Airport,21165,Heathmont,114.98,ok
+21754,Moorooduc,21165,Heathmont,,no_eligible_route
+21755,Mooroolbark,21165,Heathmont,50.15,ok
+21760,Mordialloc,21165,Heathmont,118.45,ok
+21763,Mornington (Vic.),21165,Heathmont,171.13,ok
+21779,Mount Burnett,21165,Heathmont,,no_eligible_route
+21786,Mount Cottrell,21165,Heathmont,,no_eligible_route
+21787,Mount Dandenong,21165,Heathmont,53.27,ok
+21793,Mount Eliza,21165,Heathmont,146.68,ok
+21795,Mount Evelyn,21165,Heathmont,58.67,ok
+21801,Mount Macedon,21165,Heathmont,,no_eligible_route
+21803,Mount Martha,21165,Heathmont,169.85,ok
+21814,Mount Toolebewong,21165,Heathmont,,no_eligible_route
+21816,Mount Waverley,21165,Heathmont,59.8,ok
+21827,Mulgrave (Vic.),21165,Heathmont,80.1,ok
+21849,Murrumbeena,21165,Heathmont,86.53,ok
+21872,Nangana,21165,Heathmont,,no_eligible_route
+21878,Nar Nar Goon,21165,Heathmont,,no_eligible_route
+21879,Nar Nar Goon North,21165,Heathmont,,no_eligible_route
+21893,Narre Warren,21165,Heathmont,106.73,ok
+21894,Narre Warren East,21165,Heathmont,,no_eligible_route
+21895,Narre Warren North,21165,Heathmont,121.1,ok
+21896,Narre Warren South,21165,Heathmont,107.27,ok
+21921,New Gisborne,21165,Heathmont,,no_eligible_route
+21934,Newport (Vic.),21165,Heathmont,80.9,ok
+21942,Niddrie,21165,Heathmont,110.85,ok
+21952,Noble Park,21165,Heathmont,93.47,ok
+21953,Noble Park North,21165,Heathmont,86.98,ok
+21966,North Melbourne,21165,Heathmont,81.35,ok
+21969,North Warrandyte,21165,Heathmont,73.18,ok
+21971,Northcote,21165,Heathmont,81.38,ok
+21974,Notting Hill,21165,Heathmont,53.6,ok
+21985,Nunawading,21165,Heathmont,25.28,ok
+21991,Nutfield,21165,Heathmont,,no_eligible_route
+21998,Oak Park,21165,Heathmont,96.28,ok
+21999,Oaklands Junction,21165,Heathmont,,no_eligible_route
+22000,Oakleigh,21165,Heathmont,70.95,ok
+22001,Oakleigh East,21165,Heathmont,72.55,ok
+22002,Oakleigh South,21165,Heathmont,70.07,ok
+22006,Officer,21165,Heathmont,123.38,ok
+22007,Officer South,21165,Heathmont,157.95,ok
+22009,Olinda (Vic.),21165,Heathmont,72.78,ok
+22016,Ormond,21165,Heathmont,79.9,ok
+22027,Pakenham,21165,Heathmont,122.43,ok
+22028,Pakenham South,21165,Heathmont,,no_eligible_route
+22029,Pakenham Upper,21165,Heathmont,,no_eligible_route
+22032,Panton Hill,21165,Heathmont,,no_eligible_route
+22036,Park Orchards,21165,Heathmont,40.93,ok
+22037,Parkdale,21165,Heathmont,108.23,ok
+22038,Parkville (Vic.),21165,Heathmont,80.18,ok
+22041,Pascoe Vale,21165,Heathmont,100.65,ok
+22042,Pascoe Vale South,21165,Heathmont,96.38,ok
+22047,Patterson Lakes,21165,Heathmont,125.75,ok
+22050,Pearcedale,21165,Heathmont,167.25,ok
+22058,Pentland Hills,21165,Heathmont,,no_eligible_route
+22064,Pheasant Creek (Vic.),21165,Heathmont,,no_eligible_route
+22084,Plenty (Vic.),21165,Heathmont,109.82,ok
+22085,Plumpton (Vic.),21165,Heathmont,,no_eligible_route
+22086,Point Cook,21165,Heathmont,112.28,ok
+22087,Point Leo,21165,Heathmont,,no_eligible_route
+22107,Port Melbourne,21165,Heathmont,78.9,ok
+22113,Portsea,21165,Heathmont,,no_eligible_route
+22115,Powelltown,21165,Heathmont,,no_eligible_route
+22118,Prahran,21165,Heathmont,68.78,ok
+22121,Preston (Vic.),21165,Heathmont,92.17,ok
+22122,Princes Hill,21165,Heathmont,79.33,ok
+22132,Quandong,21165,Heathmont,,no_eligible_route
+22141,Ravenhall,21165,Heathmont,166.08,ok
+22148,Red Hill (Vic.),21165,Heathmont,,no_eligible_route
+22149,Red Hill South,21165,Heathmont,,no_eligible_route
+22160,Research,21165,Heathmont,79.08,ok
+22161,Reservoir (Vic.),21165,Heathmont,100.47,ok
+22170,Richmond (Vic.),21165,Heathmont,63.47,ok
+22172,Riddells Creek,21165,Heathmont,,no_eligible_route
+22174,Ringwood (Vic.),21165,Heathmont,22.25,ok
+22175,Ringwood East,21165,Heathmont,30.37,ok
+22176,Ringwood North,21165,Heathmont,33.67,ok
+22179,Ripponlea,21165,Heathmont,64.87,ok
+22185,Rochford,21165,Heathmont,,no_eligible_route
+22186,Rockbank,21165,Heathmont,156.75,ok
+22193,Romsey,21165,Heathmont,,no_eligible_route
+22194,Rosanna,21165,Heathmont,91.78,ok
+22198,Rosebud,21165,Heathmont,218.65,ok
+22207,Rowville,21165,Heathmont,49.88,ok
+22208,Roxburgh Park,21165,Heathmont,126.13,ok
+22220,Rye,21165,Heathmont,230.85,ok
+22221,Rythdale,21165,Heathmont,,no_eligible_route
+22222,Safety Beach (Vic.),21165,Heathmont,185.82,ok
+22232,Sandhurst,21165,Heathmont,134.08,ok
+22234,Sandringham (Vic.),21165,Heathmont,91.72,ok
+22239,Sassafras (Vic.),21165,Heathmont,54.23,ok
+22242,Scoresby,21165,Heathmont,50.1,ok
+22247,Seabrook,21165,Heathmont,112.45,ok
+22249,Seaford (Vic.),21165,Heathmont,127.55,ok
+22250,Seaholme,21165,Heathmont,95.13,ok
+22256,Seddon (Vic.),21165,Heathmont,79.15,ok
+22258,Selby,21165,Heathmont,53.92,ok
+22263,Seville,21165,Heathmont,104.12,ok
+22264,Seville East,21165,Heathmont,92.0,ok
+22278,Sherbrooke,21165,Heathmont,62.97,ok
+22279,Shoreham,21165,Heathmont,,no_eligible_route
+22281,Silvan,21165,Heathmont,69.5,ok
+22291,Skye (Vic.),21165,Heathmont,118.85,ok
+22295,Smiths Gully,21165,Heathmont,,no_eligible_route
+22303,Somers,21165,Heathmont,,no_eligible_route
+22304,Somerton (Vic.),21165,Heathmont,128.35,ok
+22305,Somerville (Vic.),21165,Heathmont,183.02,ok
+22306,Sorrento (Vic.),21165,Heathmont,221.62,ok
+22309,South Kingsville,21165,Heathmont,98.15,ok
+22310,South Melbourne,21165,Heathmont,71.63,ok
+22311,South Morang,21165,Heathmont,130.33,ok
+22313,South Wharf,21165,Heathmont,71.9,ok
+22314,South Yarra,21165,Heathmont,55.63,ok
+22315,Southbank,21165,Heathmont,65.72,ok
+22319,Spotswood,21165,Heathmont,79.3,ok
+22325,Springfield (Macedon Ranges - Vic.),21165,Heathmont,,no_eligible_route
+22328,Springvale (Vic.),21165,Heathmont,83.55,ok
+22329,Springvale South,21165,Heathmont,83.17,ok
+22330,St Albans (Vic.),21165,Heathmont,101.98,ok
+22332,St Andrews (Vic.),21165,Heathmont,,no_eligible_route
+22333,St Andrews Beach,21165,Heathmont,,no_eligible_route
+22339,St Helena,21165,Heathmont,104.18,ok
+22343,St Kilda (Vic.),21165,Heathmont,77.57,ok
+22344,St Kilda East,21165,Heathmont,72.3,ok
+22345,St Kilda West,21165,Heathmont,82.25,ok
+22355,Steels Creek,21165,Heathmont,,no_eligible_route
+22375,Strathewen,21165,Heathmont,,no_eligible_route
+22380,Strathmore (Vic.),21165,Heathmont,104.45,ok
+22381,Strathmore Heights,21165,Heathmont,118.7,ok
+22382,Strathtulloh,21165,Heathmont,,no_eligible_route
+22391,Sunbury,21165,Heathmont,160.27,ok
+22395,Sunshine (Vic.),21165,Heathmont,90.77,ok
+22396,Sunshine North,21165,Heathmont,105.83,ok
+22397,Sunshine West,21165,Heathmont,122.93,ok
+22399,Surrey Hills,21165,Heathmont,41.37,ok
+22414,Sydenham (Vic.),21165,Heathmont,116.38,ok
+22451,Tarneit,21165,Heathmont,140.35,ok
+22457,Tarrawarra,21165,Heathmont,99.92,ok
+22473,Taylors Hill,21165,Heathmont,127.38,ok
+22474,Taylors Lakes,21165,Heathmont,120.78,ok
+22476,Tecoma,21165,Heathmont,31.18,ok
+22483,Templestowe,21165,Heathmont,65.87,ok
+22484,Templestowe Lower,21165,Heathmont,75.35,ok
+22496,The Basin (Vic.),21165,Heathmont,40.67,ok
+22501,The Patch,21165,Heathmont,70.92,ok
+22504,Thomastown,21165,Heathmont,108.95,ok
+22508,Thornbury,21165,Heathmont,87.55,ok
+22509,Thornhill Park,21165,Heathmont,,no_eligible_route
+22514,Three Bridges,21165,Heathmont,,no_eligible_route
+22531,Tonimbuk,21165,Heathmont,,no_eligible_route
+22536,Toolangi,21165,Heathmont,,no_eligible_route
+22537,Toolern Vale,21165,Heathmont,,no_eligible_route
+22546,Tooradin,21165,Heathmont,,no_eligible_route
+22547,Toorak,21165,Heathmont,68.58,ok
+22550,Tootgarook,21165,Heathmont,214.27,ok
+22556,Tottenham (Vic.),21165,Heathmont,111.18,ok
+22572,Travancore,21165,Heathmont,82.72,ok
+22576,Tremont,21165,Heathmont,46.37,ok
+22582,Truganina,21165,Heathmont,189.5,ok
+22584,Tuerong,21165,Heathmont,,no_eligible_route
+22586,Tullamarine,21165,Heathmont,133.23,ok
+22594,Tyabb,21165,Heathmont,171.88,ok
+22598,Tynong,21165,Heathmont,,no_eligible_route
+22599,Tynong North,21165,Heathmont,,no_eligible_route
+22614,Upper Ferntree Gully,21165,Heathmont,28.33,ok
+22617,Upper Plenty,21165,Heathmont,,no_eligible_route
+22620,Upwey,21165,Heathmont,31.05,ok
+22627,Vermont,21165,Heathmont,30.4,ok
+22628,Vermont South,21165,Heathmont,36.28,ok
+22629,Vervale,21165,Heathmont,,no_eligible_route
+22633,Viewbank,21165,Heathmont,102.78,ok
+22661,Wallan,21165,Heathmont,,no_eligible_route
+22672,Wandin East,21165,Heathmont,,no_eligible_route
+22673,Wandin North,21165,Heathmont,76.08,ok
+22676,Wandong,21165,Heathmont,,no_eligible_route
+22685,Wantirna,21165,Heathmont,39.72,ok
+22686,Wantirna South,21165,Heathmont,54.35,ok
+22689,Warburton (Vic.),21165,Heathmont,,no_eligible_route
+22695,Warneet,21165,Heathmont,,no_eligible_route
+22702,Warrandyte,21165,Heathmont,55.58,ok
+22703,Warrandyte South,21165,Heathmont,68.97,ok
+22704,Warranwood,21165,Heathmont,42.28,ok
+22717,Waterford Park,21165,Heathmont,,no_eligible_route
+22720,Waterways,21165,Heathmont,107.6,ok
+22721,Watsonia,21165,Heathmont,92.23,ok
+22722,Watsonia North,21165,Heathmont,103.73,ok
+22723,Watsons Creek (Vic.),21165,Heathmont,,no_eligible_route
+22727,Wattle Glen,21165,Heathmont,112.98,ok
+22740,Weir Views,21165,Heathmont,,no_eligible_route
+22750,Werribee,21165,Heathmont,107.08,ok
+22751,Werribee South,21165,Heathmont,,no_eligible_route
+22753,Wesburn,21165,Heathmont,109.03,ok
+22756,West Footscray,21165,Heathmont,91.47,ok
+22757,West Melbourne,21165,Heathmont,83.87,ok
+22761,Westmeadows,21165,Heathmont,119.27,ok
+22766,Wheelers Hill,21165,Heathmont,51.98,ok
+22775,Whittlesea,21165,Heathmont,,no_eligible_route
+22784,Wildwood,21165,Heathmont,,no_eligible_route
+22791,Williams Landing,21165,Heathmont,110.3,ok
+22792,Williamstown (Vic.),21165,Heathmont,88.12,ok
+22793,Williamstown North,21165,Heathmont,97.6,ok
+22805,Windsor (Vic.),21165,Heathmont,62.13,ok
+22820,Wollert,21165,Heathmont,148.17,ok
+22825,Wonga Park,21165,Heathmont,55.48,ok
+22843,Woodstock (Vic.),21165,Heathmont,,no_eligible_route
+22857,Woori Yallock,21165,Heathmont,88.18,ok
+22883,Wyndham Vale,21165,Heathmont,143.83,ok
+22892,Yallambie,21165,Heathmont,98.67,ok
+22898,Yan Yean,21165,Heathmont,163.9,ok
+22906,Yannathan,21165,Heathmont,,no_eligible_route
+22910,Yarra Glen,21165,Heathmont,96.22,ok
+22911,Yarra Junction,21165,Heathmont,113.3,ok
+22916,Yarrambat,21165,Heathmont,106.38,ok
+22917,Yarraville,21165,Heathmont,85.05,ok
+22925,Yellingbo,21165,Heathmont,,no_eligible_route
+22930,Yering,21165,Heathmont,,no_eligible_route
+22941,Yuroke,21165,Heathmont,179.98,ok

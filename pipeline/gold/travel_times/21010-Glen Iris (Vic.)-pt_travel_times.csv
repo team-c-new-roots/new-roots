@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21010,Glen Iris (Vic.),51.78,ok
+20003,Aberfeldie,21010,Glen Iris (Vic.),80.58,ok
+20011,Aintree,21010,Glen Iris (Vic.),124.32,ok
+20015,Airport West,21010,Glen Iris (Vic.),91.18,ok
+20017,Albanvale,21010,Glen Iris (Vic.),101.78,ok
+20018,Albert Park (Vic.),21010,Glen Iris (Vic.),63.15,ok
+20021,Albion (Vic.),21010,Glen Iris (Vic.),85.18,ok
+20034,Alphington,21010,Glen Iris (Vic.),60.7,ok
+20035,Altona (Vic.),21010,Glen Iris (Vic.),86.28,ok
+20036,Altona Meadows,21010,Glen Iris (Vic.),92.93,ok
+20037,Altona North,21010,Glen Iris (Vic.),93.18,ok
+20062,Ardeer,21010,Glen Iris (Vic.),97.83,ok
+20066,Armadale (Vic.),21010,Glen Iris (Vic.),23.0,ok
+20071,Arthurs Creek,21010,Glen Iris (Vic.),,no_eligible_route
+20072,Arthurs Seat,21010,Glen Iris (Vic.),197.45,ok
+20075,Ascot Vale,21010,Glen Iris (Vic.),69.62,ok
+20077,Ashburton,21010,Glen Iris (Vic.),21.3,ok
+20078,Ashwood,21010,Glen Iris (Vic.),22.95,ok
+20079,Aspendale,21010,Glen Iris (Vic.),82.18,ok
+20080,Aspendale Gardens,21010,Glen Iris (Vic.),100.85,ok
+20082,Attwood,21010,Glen Iris (Vic.),96.9,ok
+20089,Avondale Heights,21010,Glen Iris (Vic.),100.22,ok
+20091,Avonsleigh,21010,Glen Iris (Vic.),156.43,ok
+20095,Bacchus Marsh,21010,Glen Iris (Vic.),,no_eligible_route
+20097,Badger Creek,21010,Glen Iris (Vic.),157.88,ok
+20105,Balaclava (Vic.),21010,Glen Iris (Vic.),46.47,ok
+20120,Balnarring,21010,Glen Iris (Vic.),,no_eligible_route
+20121,Balnarring Beach,21010,Glen Iris (Vic.),,no_eligible_route
+20123,Balwyn,21010,Glen Iris (Vic.),37.98,ok
+20124,Balwyn North,21010,Glen Iris (Vic.),41.95,ok
+20131,Bangholme,21010,Glen Iris (Vic.),133.22,ok
+20169,Baxter,21010,Glen Iris (Vic.),122.53,ok
+20171,Bayles,21010,Glen Iris (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),21010,Glen Iris (Vic.),71.5,ok
+20174,Bayswater North,21010,Glen Iris (Vic.),91.67,ok
+20175,Beaconsfield (Vic.),21010,Glen Iris (Vic.),118.27,ok
+20176,Beaconsfield Upper,21010,Glen Iris (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),21010,Glen Iris (Vic.),80.07,ok
+20187,Beenak,21010,Glen Iris (Vic.),,no_eligible_route
+20188,Belgrave,21010,Glen Iris (Vic.),84.58,ok
+20189,Belgrave Heights,21010,Glen Iris (Vic.),116.25,ok
+20190,Belgrave South,21010,Glen Iris (Vic.),119.23,ok
+20198,Bellfield (Banyule - Vic.),21010,Glen Iris (Vic.),77.95,ok
+20207,Bend Of Islands,21010,Glen Iris (Vic.),,no_eligible_route
+20212,Benloch,21010,Glen Iris (Vic.),,no_eligible_route
+20214,Bentleigh,21010,Glen Iris (Vic.),63.13,ok
+20215,Bentleigh East,21010,Glen Iris (Vic.),56.73,ok
+20224,Berwick,21010,Glen Iris (Vic.),93.43,ok
+20233,Beveridge,21010,Glen Iris (Vic.),127.45,ok
+20237,Big Pats Creek,21010,Glen Iris (Vic.),,no_eligible_route
+20248,Bittern,21010,Glen Iris (Vic.),140.52,ok
+20251,Black Rock (Vic.),21010,Glen Iris (Vic.),84.38,ok
+20252,Blackburn,21010,Glen Iris (Vic.),42.83,ok
+20253,Blackburn North,21010,Glen Iris (Vic.),62.88,ok
+20254,Blackburn South,21010,Glen Iris (Vic.),55.05,ok
+20257,Blairgowrie,21010,Glen Iris (Vic.),189.48,ok
+20260,Blind Bight,21010,Glen Iris (Vic.),,no_eligible_route
+20272,Bolinda,21010,Glen Iris (Vic.),,no_eligible_route
+20278,Bonbeach,21010,Glen Iris (Vic.),87.18,ok
+20280,Boneo,21010,Glen Iris (Vic.),,no_eligible_route
+20282,Bonnie Brook,21010,Glen Iris (Vic.),156.87,ok
+20304,Boronia,21010,Glen Iris (Vic.),73.97,ok
+20307,Botanic Ridge,21010,Glen Iris (Vic.),134.63,ok
+20314,Box Hill (Vic.),21010,Glen Iris (Vic.),42.28,ok
+20315,Box Hill North,21010,Glen Iris (Vic.),54.6,ok
+20316,Box Hill South,21010,Glen Iris (Vic.),44.28,ok
+20320,Braeside,21010,Glen Iris (Vic.),109.32,ok
+20324,Braybrook,21010,Glen Iris (Vic.),91.52,ok
+20331,Briar Hill,21010,Glen Iris (Vic.),99.42,ok
+20337,Brighton (Vic.),21010,Glen Iris (Vic.),61.33,ok
+20338,Brighton East,21010,Glen Iris (Vic.),63.82,ok
+20346,Broadmeadows (Vic.),21010,Glen Iris (Vic.),94.32,ok
+20351,Brookfield (Vic.),21010,Glen Iris (Vic.),186.37,ok
+20352,Brooklyn (Vic.),21010,Glen Iris (Vic.),93.42,ok
+20361,Brunswick (Vic.),21010,Glen Iris (Vic.),63.43,ok
+20362,Brunswick East,21010,Glen Iris (Vic.),71.3,ok
+20363,Brunswick West,21010,Glen Iris (Vic.),75.82,ok
+20381,Bulla (Vic.),21010,Glen Iris (Vic.),153.55,ok
+20386,Bulleen,21010,Glen Iris (Vic.),74.08,ok
+20387,Bullengarook,21010,Glen Iris (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),21010,Glen Iris (Vic.),93.43,ok
+20411,Bunyip,21010,Glen Iris (Vic.),,no_eligible_route
+20412,Bunyip North,21010,Glen Iris (Vic.),,no_eligible_route
+20418,Burnley,21010,Glen Iris (Vic.),39.13,ok
+20419,Burnside (Vic.),21010,Glen Iris (Vic.),106.72,ok
+20420,Burnside Heights,21010,Glen Iris (Vic.),114.53,ok
+20426,Burwood (Vic.),21010,Glen Iris (Vic.),36.28,ok
+20427,Burwood East,21010,Glen Iris (Vic.),43.25,ok
+20435,Bylands,21010,Glen Iris (Vic.),,no_eligible_route
+20441,Cairnlea,21010,Glen Iris (Vic.),106.4,ok
+20442,Calder Park,21010,Glen Iris (Vic.),118.97,ok
+20443,Caldermeade,21010,Glen Iris (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),21010,Glen Iris (Vic.),26.15,ok
+20455,Campbellfield,21010,Glen Iris (Vic.),100.18,ok
+20466,Cannons Creek,21010,Glen Iris (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),21010,Glen Iris (Vic.),30.62,ok
+20474,Cape Schanck,21010,Glen Iris (Vic.),,no_eligible_route
+20476,Capel Sound,21010,Glen Iris (Vic.),173.83,ok
+20487,Cardinia,21010,Glen Iris (Vic.),,no_eligible_route
+20495,Carlton (Vic.),21010,Glen Iris (Vic.),55.38,ok
+20496,Carlton North,21010,Glen Iris (Vic.),72.62,ok
+20498,Carnegie,21010,Glen Iris (Vic.),47.95,ok
+20500,Caroline Springs,21010,Glen Iris (Vic.),116.1,ok
+20507,Carrum,21010,Glen Iris (Vic.),87.0,ok
+20508,Carrum Downs,21010,Glen Iris (Vic.),110.23,ok
+20512,Castella,21010,Glen Iris (Vic.),,no_eligible_route
+20517,Catani,21010,Glen Iris (Vic.),,no_eligible_route
+20521,Caulfield,21010,Glen Iris (Vic.),51.83,ok
+20522,Caulfield East,21010,Glen Iris (Vic.),48.32,ok
+20523,Caulfield North,21010,Glen Iris (Vic.),41.45,ok
+20524,Caulfield South,21010,Glen Iris (Vic.),55.22,ok
+20528,Chadstone,21010,Glen Iris (Vic.),35.02,ok
+20537,Chelsea,21010,Glen Iris (Vic.),84.25,ok
+20538,Chelsea Heights,21010,Glen Iris (Vic.),98.1,ok
+20539,Cheltenham (Vic.),21010,Glen Iris (Vic.),73.72,ok
+20541,Cherokee,21010,Glen Iris (Vic.),,no_eligible_route
+20555,Chintin,21010,Glen Iris (Vic.),,no_eligible_route
+20556,Chirnside Park,21010,Glen Iris (Vic.),105.55,ok
+20559,Christmas Hills (Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+20560,Chum Creek,21010,Glen Iris (Vic.),,no_eligible_route
+20566,Clarinda,21010,Glen Iris (Vic.),78.6,ok
+20567,Clarkefield,21010,Glen Iris (Vic.),,no_eligible_route
+20569,Clayton,21010,Glen Iris (Vic.),57.8,ok
+20570,Clayton South,21010,Glen Iris (Vic.),83.78,ok
+20572,Clematis,21010,Glen Iris (Vic.),128.85,ok
+20574,Clifton Hill,21010,Glen Iris (Vic.),50.7,ok
+20576,Clonbinane,21010,Glen Iris (Vic.),,no_eligible_route
+20581,Clyde (Vic.),21010,Glen Iris (Vic.),138.13,ok
+20582,Clyde North,21010,Glen Iris (Vic.),116.9,ok
+20587,Cobaw,21010,Glen Iris (Vic.),,no_eligible_route
+20590,Cobblebank,21010,Glen Iris (Vic.),168.52,ok
+20596,Coburg,21010,Glen Iris (Vic.),71.17,ok
+20597,Coburg North,21010,Glen Iris (Vic.),84.73,ok
+20600,Cockatoo (Vic.),21010,Glen Iris (Vic.),160.12,ok
+20601,Cocoroc,21010,Glen Iris (Vic.),,no_eligible_route
+20605,Coimadai,21010,Glen Iris (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),21010,Glen Iris (Vic.),49.02,ok
+20624,Coolaroo,21010,Glen Iris (Vic.),91.4,ok
+20633,Cora Lynn,21010,Glen Iris (Vic.),,no_eligible_route
+20654,Cottles Bridge,21010,Glen Iris (Vic.),,no_eligible_route
+20661,Craigieburn,21010,Glen Iris (Vic.),101.97,ok
+20662,Cranbourne,21010,Glen Iris (Vic.),98.3,ok
+20663,Cranbourne East,21010,Glen Iris (Vic.),106.18,ok
+20664,Cranbourne North,21010,Glen Iris (Vic.),96.63,ok
+20665,Cranbourne South,21010,Glen Iris (Vic.),137.98,ok
+20666,Cranbourne West,21010,Glen Iris (Vic.),105.5,ok
+20670,Cremorne (Vic.),21010,Glen Iris (Vic.),39.12,ok
+20674,Crib Point,21010,Glen Iris (Vic.),149.48,ok
+20682,Croydon (Vic.),21010,Glen Iris (Vic.),59.6,ok
+20683,Croydon Hills,21010,Glen Iris (Vic.),89.92,ok
+20684,Croydon North,21010,Glen Iris (Vic.),85.35,ok
+20685,Croydon South,21010,Glen Iris (Vic.),90.6,ok
+20702,Dallas,21010,Glen Iris (Vic.),95.83,ok
+20703,Dalmore,21010,Glen Iris (Vic.),,no_eligible_route
+20707,Dandenong,21010,Glen Iris (Vic.),78.03,ok
+20708,Dandenong North,21010,Glen Iris (Vic.),85.7,ok
+20709,Dandenong South,21010,Glen Iris (Vic.),100.12,ok
+20712,Darley,21010,Glen Iris (Vic.),,no_eligible_route
+20716,Darraweit Guim,21010,Glen Iris (Vic.),,no_eligible_route
+20724,Deanside,21010,Glen Iris (Vic.),137.97,ok
+20728,Deepdene (Vic.),21010,Glen Iris (Vic.),40.62,ok
+20729,Deer Park,21010,Glen Iris (Vic.),95.67,ok
+20731,Delahey,21010,Glen Iris (Vic.),112.33,ok
+20743,Derrimut,21010,Glen Iris (Vic.),122.05,ok
+20748,Devon Meadows,21010,Glen Iris (Vic.),,no_eligible_route
+20750,Dewhurst,21010,Glen Iris (Vic.),,no_eligible_route
+20752,Diamond Creek,21010,Glen Iris (Vic.),107.02,ok
+20754,Diggers Rest,21010,Glen Iris (Vic.),113.28,ok
+20758,Dingley Village,21010,Glen Iris (Vic.),87.12,ok
+20762,Dixons Creek,21010,Glen Iris (Vic.),,no_eligible_route
+20766,Docklands,21010,Glen Iris (Vic.),51.72,ok
+20769,Don Valley,21010,Glen Iris (Vic.),,no_eligible_route
+20771,Doncaster,21010,Glen Iris (Vic.),55.65,ok
+20772,Doncaster East,21010,Glen Iris (Vic.),70.47,ok
+20773,Donnybrook (Vic.),21010,Glen Iris (Vic.),133.48,ok
+20774,Donvale,21010,Glen Iris (Vic.),79.62,ok
+20779,Doreen,21010,Glen Iris (Vic.),125.5,ok
+20783,Doveton,21010,Glen Iris (Vic.),90.87,ok
+20788,Dromana,21010,Glen Iris (Vic.),184.62,ok
+20825,Eaglemont,21010,Glen Iris (Vic.),78.58,ok
+20830,East Melbourne,21010,Glen Iris (Vic.),46.3,ok
+20833,East Warburton,21010,Glen Iris (Vic.),,no_eligible_route
+20843,Eden Park,21010,Glen Iris (Vic.),,no_eligible_route
+20848,Edithvale,21010,Glen Iris (Vic.),84.38,ok
+20864,Elsternwick,21010,Glen Iris (Vic.),44.93,ok
+20865,Eltham (Vic.),21010,Glen Iris (Vic.),100.57,ok
+20866,Eltham North,21010,Glen Iris (Vic.),95.13,ok
+20867,Elwood,21010,Glen Iris (Vic.),58.93,ok
+20868,Emerald (Vic.),21010,Glen Iris (Vic.),156.03,ok
+20871,Endeavour Hills,21010,Glen Iris (Vic.),103.68,ok
+20878,Epping (Vic.),21010,Glen Iris (Vic.),117.27,ok
+20885,Essendon,21010,Glen Iris (Vic.),72.83,ok
+20886,Essendon Fields,21010,Glen Iris (Vic.),97.75,ok
+20887,Essendon North,21010,Glen Iris (Vic.),75.23,ok
+20888,Essendon West,21010,Glen Iris (Vic.),79.7,ok
+20889,Eumemmerring,21010,Glen Iris (Vic.),95.03,ok
+20898,Exford,21010,Glen Iris (Vic.),,no_eligible_route
+20899,Eynesbury,21010,Glen Iris (Vic.),,no_eligible_route
+20901,Fairfield (Vic.),21010,Glen Iris (Vic.),69.02,ok
+20909,Fawkner,21010,Glen Iris (Vic.),92.63,ok
+20916,Fernshaw,21010,Glen Iris (Vic.),,no_eligible_route
+20917,Ferntree Gully,21010,Glen Iris (Vic.),72.03,ok
+20918,Ferny Creek,21010,Glen Iris (Vic.),131.87,ok
+20920,Fingal (Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),21010,Glen Iris (Vic.),58.82,ok
+20925,Fitzroy North,21010,Glen Iris (Vic.),67.33,ok
+20929,Flemington,21010,Glen Iris (Vic.),72.45,ok
+20930,Flinders (Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+20935,Footscray,21010,Glen Iris (Vic.),65.55,ok
+20937,Forest Hill (Vic.),21010,Glen Iris (Vic.),53.58,ok
+20947,Frankston,21010,Glen Iris (Vic.),104.97,ok
+20948,Frankston North,21010,Glen Iris (Vic.),114.62,ok
+20949,Frankston South,21010,Glen Iris (Vic.),127.4,ok
+20950,Fraser Rise,21010,Glen Iris (Vic.),129.72,ok
+20965,Gardenvale,21010,Glen Iris (Vic.),50.12,ok
+20966,Garfield,21010,Glen Iris (Vic.),,no_eligible_route
+20967,Garfield North,21010,Glen Iris (Vic.),,no_eligible_route
+20979,Gembrook,21010,Glen Iris (Vic.),,no_eligible_route
+20995,Gilderoy,21010,Glen Iris (Vic.),,no_eligible_route
+21001,Gisborne,21010,Glen Iris (Vic.),,no_eligible_route
+21002,Gisborne South,21010,Glen Iris (Vic.),,no_eligible_route
+21004,Gladstone Park,21010,Glen Iris (Vic.),106.68,ok
+21005,Gladysdale,21010,Glen Iris (Vic.),,no_eligible_route
+21009,Glen Huntly,21010,Glen Iris (Vic.),54.67,ok
+21010,Glen Iris (Vic.),21010,Glen Iris (Vic.),0.0,same_centroid
+21013,Glen Waverley,21010,Glen Iris (Vic.),36.95,ok
+21047,Glenroy (Vic.),21010,Glen Iris (Vic.),85.38,ok
+21059,Goldie,21010,Glen Iris (Vic.),,no_eligible_route
+21079,Gowanbrae,21010,Glen Iris (Vic.),109.18,ok
+21087,Grangefields,21010,Glen Iris (Vic.),161.32,ok
+21104,Greensborough,21010,Glen Iris (Vic.),87.57,ok
+21105,Greenvale (Vic.),21010,Glen Iris (Vic.),111.07,ok
+21115,Gruyere,21010,Glen Iris (Vic.),,no_eligible_route
+21121,Guys Hill,21010,Glen Iris (Vic.),,no_eligible_route
+21124,Hadfield,21010,Glen Iris (Vic.),91.67,ok
+21125,Hallam,21010,Glen Iris (Vic.),98.55,ok
+21131,Hampton (Vic.),21010,Glen Iris (Vic.),69.17,ok
+21132,Hampton East,21010,Glen Iris (Vic.),69.9,ok
+21133,Hampton Park,21010,Glen Iris (Vic.),93.43,ok
+21139,Harkaway,21010,Glen Iris (Vic.),,no_eligible_route
+21140,Harkness,21010,Glen Iris (Vic.),187.85,ok
+21145,Hastings (Vic.),21010,Glen Iris (Vic.),142.05,ok
+21152,Hawthorn (Vic.),21010,Glen Iris (Vic.),34.43,ok
+21153,Hawthorn East,21010,Glen Iris (Vic.),26.62,ok
+21158,Healesville,21010,Glen Iris (Vic.),161.8,ok
+21159,Heath Hill,21010,Glen Iris (Vic.),,no_eligible_route
+21161,Heathcote Junction,21010,Glen Iris (Vic.),,no_eligible_route
+21163,Heatherton,21010,Glen Iris (Vic.),79.03,ok
+21165,Heathmont,21010,Glen Iris (Vic.),61.77,ok
+21167,Heidelberg,21010,Glen Iris (Vic.),81.37,ok
+21168,Heidelberg Heights,21010,Glen Iris (Vic.),80.73,ok
+21169,Heidelberg West,21010,Glen Iris (Vic.),83.05,ok
+21176,Hesket,21010,Glen Iris (Vic.),,no_eligible_route
+21185,Highett,21010,Glen Iris (Vic.),62.67,ok
+21193,Hillside (Melton - Vic.),21010,Glen Iris (Vic.),114.27,ok
+21195,Hmas Cerberus,21010,Glen Iris (Vic.),,no_eligible_route
+21196,Hoddles Creek,21010,Glen Iris (Vic.),,no_eligible_route
+21202,Hopetoun Park,21010,Glen Iris (Vic.),,no_eligible_route
+21203,Hoppers Crossing,21010,Glen Iris (Vic.),98.62,ok
+21214,Hughesdale,21010,Glen Iris (Vic.),52.3,ok
+21215,Humevale,21010,Glen Iris (Vic.),162.38,ok
+21218,Huntingdale (Vic.),21010,Glen Iris (Vic.),54.78,ok
+21223,Hurstbridge,21010,Glen Iris (Vic.),107.57,ok
+21238,Iona,21010,Glen Iris (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),21010,Glen Iris (Vic.),65.3,ok
+21247,Ivanhoe East,21010,Glen Iris (Vic.),65.17,ok
+21248,Jacana,21010,Glen Iris (Vic.),89.95,ok
+21277,Junction Village,21010,Glen Iris (Vic.),136.63,ok
+21284,Kalkallo,21010,Glen Iris (Vic.),131.98,ok
+21286,Kallista,21010,Glen Iris (Vic.),128.3,ok
+21287,Kalorama,21010,Glen Iris (Vic.),89.57,ok
+21294,Kangaroo Ground,21010,Glen Iris (Vic.),136.8,ok
+21312,Kealba,21010,Glen Iris (Vic.),99.05,ok
+21314,Keilor,21010,Glen Iris (Vic.),120.2,ok
+21315,Keilor Downs,21010,Glen Iris (Vic.),108.22,ok
+21316,Keilor East,21010,Glen Iris (Vic.),94.07,ok
+21317,Keilor Lodge,21010,Glen Iris (Vic.),106.65,ok
+21318,Keilor North,21010,Glen Iris (Vic.),102.9,ok
+21319,Keilor Park,21010,Glen Iris (Vic.),101.98,ok
+21327,Kensington (Vic.),21010,Glen Iris (Vic.),57.23,ok
+21333,Kerrie,21010,Glen Iris (Vic.),,no_eligible_route
+21336,Kew (Vic.),21010,Glen Iris (Vic.),48.47,ok
+21337,Kew East,21010,Glen Iris (Vic.),55.43,ok
+21339,Keysborough,21010,Glen Iris (Vic.),86.38,ok
+21354,Kilsyth,21010,Glen Iris (Vic.),90.88,ok
+21355,Kilsyth South,21010,Glen Iris (Vic.),102.03,ok
+21358,Kinglake,21010,Glen Iris (Vic.),211.32,ok
+21359,Kinglake Central,21010,Glen Iris (Vic.),,no_eligible_route
+21360,Kinglake West,21010,Glen Iris (Vic.),165.35,ok
+21362,Kings Park (Vic.),21010,Glen Iris (Vic.),110.0,ok
+21363,Kingsbury,21010,Glen Iris (Vic.),95.15,ok
+21365,Kingsville,21010,Glen Iris (Vic.),78.53,ok
+21374,Knoxfield,21010,Glen Iris (Vic.),66.7,ok
+21380,Koo Wee Rup,21010,Glen Iris (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,21010,Glen Iris (Vic.),,no_eligible_route
+21393,Kooyong,21010,Glen Iris (Vic.),27.08,ok
+21411,Kurunjang,21010,Glen Iris (Vic.),165.05,ok
+21452,Lalor,21010,Glen Iris (Vic.),86.48,ok
+21456,Lancefield,21010,Glen Iris (Vic.),,no_eligible_route
+21459,Lang Lang,21010,Glen Iris (Vic.),,no_eligible_route
+21460,Lang Lang East,21010,Glen Iris (Vic.),,no_eligible_route
+21467,Langwarrin,21010,Glen Iris (Vic.),121.02,ok
+21468,Langwarrin South,21010,Glen Iris (Vic.),,no_eligible_route
+21473,Launching Place,21010,Glen Iris (Vic.),121.25,ok
+21476,Laverton (Vic.),21010,Glen Iris (Vic.),82.38,ok
+21477,Laverton North,21010,Glen Iris (Vic.),121.32,ok
+21504,Lilydale (Vic.),21010,Glen Iris (Vic.),99.58,ok
+21533,Long Forest,21010,Glen Iris (Vic.),,no_eligible_route
+21547,Lower Plenty,21010,Glen Iris (Vic.),101.25,ok
+21554,Lynbrook,21010,Glen Iris (Vic.),87.8,ok
+21555,Lyndhurst (Vic.),21010,Glen Iris (Vic.),131.38,ok
+21558,Lysterfield,21010,Glen Iris (Vic.),,no_eligible_route
+21559,Lysterfield South,21010,Glen Iris (Vic.),114.58,ok
+21561,Macclesfield (Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+21562,Macedon,21010,Glen Iris (Vic.),,no_eligible_route
+21564,Macleod (Vic.),21010,Glen Iris (Vic.),80.65,ok
+21569,Maddingley,21010,Glen Iris (Vic.),,no_eligible_route
+21575,Maidstone,21010,Glen Iris (Vic.),83.42,ok
+21578,Main Ridge,21010,Glen Iris (Vic.),,no_eligible_route
+21586,Malvern (Vic.),21010,Glen Iris (Vic.),18.12,ok
+21587,Malvern East,21010,Glen Iris (Vic.),17.6,ok
+21588,Mambourin,21010,Glen Iris (Vic.),,no_eligible_route
+21597,Manor Lakes,21010,Glen Iris (Vic.),138.85,ok
+21604,Maribyrnong,21010,Glen Iris (Vic.),87.67,ok
+21619,Maryknoll,21010,Glen Iris (Vic.),,no_eligible_route
+21625,McCrae,21010,Glen Iris (Vic.),169.03,ok
+21629,McKinnon,21010,Glen Iris (Vic.),51.97,ok
+21635,Meadow Heights,21010,Glen Iris (Vic.),102.83,ok
+21640,Melbourne,21010,Glen Iris (Vic.),41.4,ok
+21641,Melbourne Airport,21010,Glen Iris (Vic.),,no_eligible_route
+21642,Melton (Vic.),21010,Glen Iris (Vic.),170.73,ok
+21643,Melton South,21010,Glen Iris (Vic.),184.33,ok
+21644,Melton West,21010,Glen Iris (Vic.),161.23,ok
+21648,Mentone,21010,Glen Iris (Vic.),66.37,ok
+21649,Menzies Creek,21010,Glen Iris (Vic.),127.65,ok
+21659,Mernda,21010,Glen Iris (Vic.),126.47,ok
+21662,Merricks,21010,Glen Iris (Vic.),,no_eligible_route
+21663,Merricks Beach,21010,Glen Iris (Vic.),,no_eligible_route
+21664,Merricks North,21010,Glen Iris (Vic.),,no_eligible_route
+21668,Merrimu,21010,Glen Iris (Vic.),,no_eligible_route
+21675,Mickleham,21010,Glen Iris (Vic.),133.97,ok
+21677,Middle Park (Vic.),21010,Glen Iris (Vic.),62.55,ok
+21683,Mill Park,21010,Glen Iris (Vic.),109.57,ok
+21685,Millgrove,21010,Glen Iris (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),21010,Glen Iris (Vic.),54.5,ok
+21727,Monbulk,21010,Glen Iris (Vic.),135.75,ok
+21728,Monegeetta,21010,Glen Iris (Vic.),,no_eligible_route
+21731,Monomeith,21010,Glen Iris (Vic.),,no_eligible_route
+21732,Mont Albert,21010,Glen Iris (Vic.),50.28,ok
+21733,Mont Albert North,21010,Glen Iris (Vic.),46.73,ok
+21735,Montmorency,21010,Glen Iris (Vic.),80.65,ok
+21736,Montrose (Vic.),21010,Glen Iris (Vic.),80.87,ok
+21742,Moonee Ponds,21010,Glen Iris (Vic.),59.3,ok
+21746,Moorabbin,21010,Glen Iris (Vic.),70.75,ok
+21747,Moorabbin Airport,21010,Glen Iris (Vic.),90.15,ok
+21754,Moorooduc,21010,Glen Iris (Vic.),,no_eligible_route
+21755,Mooroolbark,21010,Glen Iris (Vic.),74.8,ok
+21760,Mordialloc,21010,Glen Iris (Vic.),83.78,ok
+21763,Mornington (Vic.),21010,Glen Iris (Vic.),140.83,ok
+21779,Mount Burnett,21010,Glen Iris (Vic.),,no_eligible_route
+21786,Mount Cottrell,21010,Glen Iris (Vic.),,no_eligible_route
+21787,Mount Dandenong,21010,Glen Iris (Vic.),96.57,ok
+21793,Mount Eliza,21010,Glen Iris (Vic.),115.18,ok
+21795,Mount Evelyn,21010,Glen Iris (Vic.),100.73,ok
+21801,Mount Macedon,21010,Glen Iris (Vic.),,no_eligible_route
+21803,Mount Martha,21010,Glen Iris (Vic.),135.55,ok
+21814,Mount Toolebewong,21010,Glen Iris (Vic.),,no_eligible_route
+21816,Mount Waverley,21010,Glen Iris (Vic.),28.38,ok
+21827,Mulgrave (Vic.),21010,Glen Iris (Vic.),69.87,ok
+21849,Murrumbeena,21010,Glen Iris (Vic.),47.1,ok
+21872,Nangana,21010,Glen Iris (Vic.),,no_eligible_route
+21878,Nar Nar Goon,21010,Glen Iris (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,21010,Glen Iris (Vic.),,no_eligible_route
+21893,Narre Warren,21010,Glen Iris (Vic.),97.87,ok
+21894,Narre Warren East,21010,Glen Iris (Vic.),,no_eligible_route
+21895,Narre Warren North,21010,Glen Iris (Vic.),109.13,ok
+21896,Narre Warren South,21010,Glen Iris (Vic.),103.85,ok
+21921,New Gisborne,21010,Glen Iris (Vic.),,no_eligible_route
+21934,Newport (Vic.),21010,Glen Iris (Vic.),67.23,ok
+21942,Niddrie,21010,Glen Iris (Vic.),91.47,ok
+21952,Noble Park,21010,Glen Iris (Vic.),68.8,ok
+21953,Noble Park North,21010,Glen Iris (Vic.),88.05,ok
+21966,North Melbourne,21010,Glen Iris (Vic.),58.68,ok
+21969,North Warrandyte,21010,Glen Iris (Vic.),118.4,ok
+21971,Northcote,21010,Glen Iris (Vic.),68.68,ok
+21974,Notting Hill,21010,Glen Iris (Vic.),48.93,ok
+21985,Nunawading,21010,Glen Iris (Vic.),46.98,ok
+21991,Nutfield,21010,Glen Iris (Vic.),,no_eligible_route
+21998,Oak Park,21010,Glen Iris (Vic.),77.62,ok
+21999,Oaklands Junction,21010,Glen Iris (Vic.),,no_eligible_route
+22000,Oakleigh,21010,Glen Iris (Vic.),46.73,ok
+22001,Oakleigh East,21010,Glen Iris (Vic.),51.78,ok
+22002,Oakleigh South,21010,Glen Iris (Vic.),64.4,ok
+22006,Officer,21010,Glen Iris (Vic.),113.08,ok
+22007,Officer South,21010,Glen Iris (Vic.),145.98,ok
+22009,Olinda (Vic.),21010,Glen Iris (Vic.),126.37,ok
+22016,Ormond,21010,Glen Iris (Vic.),52.4,ok
+22027,Pakenham,21010,Glen Iris (Vic.),112.13,ok
+22028,Pakenham South,21010,Glen Iris (Vic.),,no_eligible_route
+22029,Pakenham Upper,21010,Glen Iris (Vic.),,no_eligible_route
+22032,Panton Hill,21010,Glen Iris (Vic.),,no_eligible_route
+22036,Park Orchards,21010,Glen Iris (Vic.),79.47,ok
+22037,Parkdale,21010,Glen Iris (Vic.),73.57,ok
+22038,Parkville (Vic.),21010,Glen Iris (Vic.),66.52,ok
+22041,Pascoe Vale,21010,Glen Iris (Vic.),81.98,ok
+22042,Pascoe Vale South,21010,Glen Iris (Vic.),83.72,ok
+22047,Patterson Lakes,21010,Glen Iris (Vic.),95.87,ok
+22050,Pearcedale,21010,Glen Iris (Vic.),155.28,ok
+22058,Pentland Hills,21010,Glen Iris (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),21010,Glen Iris (Vic.),181.0,ok
+22084,Plenty (Vic.),21010,Glen Iris (Vic.),112.47,ok
+22085,Plumpton (Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+22086,Point Cook,21010,Glen Iris (Vic.),98.62,ok
+22087,Point Leo,21010,Glen Iris (Vic.),,no_eligible_route
+22107,Port Melbourne,21010,Glen Iris (Vic.),64.7,ok
+22113,Portsea,21010,Glen Iris (Vic.),205.33,ok
+22115,Powelltown,21010,Glen Iris (Vic.),,no_eligible_route
+22118,Prahran,21010,Glen Iris (Vic.),31.48,ok
+22121,Preston (Vic.),21010,Glen Iris (Vic.),77.5,ok
+22122,Princes Hill,21010,Glen Iris (Vic.),67.67,ok
+22132,Quandong,21010,Glen Iris (Vic.),,no_eligible_route
+22141,Ravenhall,21010,Glen Iris (Vic.),145.42,ok
+22148,Red Hill (Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+22149,Red Hill South,21010,Glen Iris (Vic.),,no_eligible_route
+22160,Research,21010,Glen Iris (Vic.),108.65,ok
+22161,Reservoir (Vic.),21010,Glen Iris (Vic.),83.3,ok
+22170,Richmond (Vic.),21010,Glen Iris (Vic.),41.62,ok
+22172,Riddells Creek,21010,Glen Iris (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),21010,Glen Iris (Vic.),61.12,ok
+22175,Ringwood East,21010,Glen Iris (Vic.),59.68,ok
+22176,Ringwood North,21010,Glen Iris (Vic.),76.32,ok
+22179,Ripponlea,21010,Glen Iris (Vic.),47.2,ok
+22185,Rochford,21010,Glen Iris (Vic.),,no_eligible_route
+22186,Rockbank,21010,Glen Iris (Vic.),144.0,ok
+22193,Romsey,21010,Glen Iris (Vic.),,no_eligible_route
+22194,Rosanna,21010,Glen Iris (Vic.),75.12,ok
+22198,Rosebud,21010,Glen Iris (Vic.),185.35,ok
+22207,Rowville,21010,Glen Iris (Vic.),72.83,ok
+22208,Roxburgh Park,21010,Glen Iris (Vic.),95.23,ok
+22220,Rye,21010,Glen Iris (Vic.),197.55,ok
+22221,Rythdale,21010,Glen Iris (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),21010,Glen Iris (Vic.),152.52,ok
+22232,Sandhurst,21010,Glen Iris (Vic.),124.2,ok
+22234,Sandringham (Vic.),21010,Glen Iris (Vic.),78.3,ok
+22239,Sassafras (Vic.),21010,Glen Iris (Vic.),114.63,ok
+22242,Scoresby,21010,Glen Iris (Vic.),69.57,ok
+22247,Seabrook,21010,Glen Iris (Vic.),93.68,ok
+22249,Seaford (Vic.),21010,Glen Iris (Vic.),99.1,ok
+22250,Seaholme,21010,Glen Iris (Vic.),80.97,ok
+22256,Seddon (Vic.),21010,Glen Iris (Vic.),64.98,ok
+22258,Selby,21010,Glen Iris (Vic.),117.18,ok
+22263,Seville,21010,Glen Iris (Vic.),131.1,ok
+22264,Seville East,21010,Glen Iris (Vic.),117.98,ok
+22278,Sherbrooke,21010,Glen Iris (Vic.),118.37,ok
+22279,Shoreham,21010,Glen Iris (Vic.),,no_eligible_route
+22281,Silvan,21010,Glen Iris (Vic.),122.8,ok
+22291,Skye (Vic.),21010,Glen Iris (Vic.),117.4,ok
+22295,Smiths Gully,21010,Glen Iris (Vic.),,no_eligible_route
+22303,Somers,21010,Glen Iris (Vic.),,no_eligible_route
+22304,Somerton (Vic.),21010,Glen Iris (Vic.),104.6,ok
+22305,Somerville (Vic.),21010,Glen Iris (Vic.),147.1,ok
+22306,Sorrento (Vic.),21010,Glen Iris (Vic.),185.32,ok
+22309,South Kingsville,21010,Glen Iris (Vic.),83.98,ok
+22310,South Melbourne,21010,Glen Iris (Vic.),53.7,ok
+22311,South Morang,21010,Glen Iris (Vic.),113.18,ok
+22313,South Wharf,21010,Glen Iris (Vic.),55.23,ok
+22314,South Yarra,21010,Glen Iris (Vic.),41.87,ok
+22315,Southbank,21010,Glen Iris (Vic.),48.1,ok
+22319,Spotswood,21010,Glen Iris (Vic.),65.13,ok
+22325,Springfield (Macedon Ranges - Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+22328,Springvale (Vic.),21010,Glen Iris (Vic.),69.77,ok
+22329,Springvale South,21010,Glen Iris (Vic.),68.72,ok
+22330,St Albans (Vic.),21010,Glen Iris (Vic.),87.82,ok
+22332,St Andrews (Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+22333,St Andrews Beach,21010,Glen Iris (Vic.),,no_eligible_route
+22339,St Helena,21010,Glen Iris (Vic.),96.9,ok
+22343,St Kilda (Vic.),21010,Glen Iris (Vic.),43.9,ok
+22344,St Kilda East,21010,Glen Iris (Vic.),42.87,ok
+22345,St Kilda West,21010,Glen Iris (Vic.),55.58,ok
+22355,Steels Creek,21010,Glen Iris (Vic.),,no_eligible_route
+22375,Strathewen,21010,Glen Iris (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),21010,Glen Iris (Vic.),85.58,ok
+22381,Strathmore Heights,21010,Glen Iris (Vic.),90.87,ok
+22382,Strathtulloh,21010,Glen Iris (Vic.),,no_eligible_route
+22391,Sunbury,21010,Glen Iris (Vic.),149.6,ok
+22395,Sunshine (Vic.),21010,Glen Iris (Vic.),76.6,ok
+22396,Sunshine North,21010,Glen Iris (Vic.),91.67,ok
+22397,Sunshine West,21010,Glen Iris (Vic.),99.95,ok
+22399,Surrey Hills,21010,Glen Iris (Vic.),34.95,ok
+22414,Sydenham (Vic.),21010,Glen Iris (Vic.),102.22,ok
+22451,Tarneit,21010,Glen Iris (Vic.),119.68,ok
+22457,Tarrawarra,21010,Glen Iris (Vic.),137.4,ok
+22473,Taylors Hill,21010,Glen Iris (Vic.),109.05,ok
+22474,Taylors Lakes,21010,Glen Iris (Vic.),96.63,ok
+22476,Tecoma,21010,Glen Iris (Vic.),81.58,ok
+22483,Templestowe,21010,Glen Iris (Vic.),80.55,ok
+22484,Templestowe Lower,21010,Glen Iris (Vic.),75.52,ok
+22496,The Basin (Vic.),21010,Glen Iris (Vic.),99.07,ok
+22501,The Patch,21010,Glen Iris (Vic.),126.32,ok
+22504,Thomastown,21010,Glen Iris (Vic.),91.78,ok
+22508,Thornbury,21010,Glen Iris (Vic.),74.57,ok
+22509,Thornhill Park,21010,Glen Iris (Vic.),,no_eligible_route
+22514,Three Bridges,21010,Glen Iris (Vic.),,no_eligible_route
+22531,Tonimbuk,21010,Glen Iris (Vic.),,no_eligible_route
+22536,Toolangi,21010,Glen Iris (Vic.),,no_eligible_route
+22537,Toolern Vale,21010,Glen Iris (Vic.),,no_eligible_route
+22546,Tooradin,21010,Glen Iris (Vic.),,no_eligible_route
+22547,Toorak,21010,Glen Iris (Vic.),37.4,ok
+22550,Tootgarook,21010,Glen Iris (Vic.),180.97,ok
+22556,Tottenham (Vic.),21010,Glen Iris (Vic.),102.8,ok
+22572,Travancore,21010,Glen Iris (Vic.),70.55,ok
+22576,Tremont,21010,Glen Iris (Vic.),99.18,ok
+22582,Truganina,21010,Glen Iris (Vic.),177.33,ok
+22584,Tuerong,21010,Glen Iris (Vic.),,no_eligible_route
+22586,Tullamarine,21010,Glen Iris (Vic.),111.13,ok
+22594,Tyabb,21010,Glen Iris (Vic.),135.97,ok
+22598,Tynong,21010,Glen Iris (Vic.),,no_eligible_route
+22599,Tynong North,21010,Glen Iris (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,21010,Glen Iris (Vic.),78.73,ok
+22617,Upper Plenty,21010,Glen Iris (Vic.),,no_eligible_route
+22620,Upwey,21010,Glen Iris (Vic.),81.45,ok
+22627,Vermont,21010,Glen Iris (Vic.),61.27,ok
+22628,Vermont South,21010,Glen Iris (Vic.),53.82,ok
+22629,Vervale,21010,Glen Iris (Vic.),,no_eligible_route
+22633,Viewbank,21010,Glen Iris (Vic.),88.62,ok
+22661,Wallan,21010,Glen Iris (Vic.),,no_eligible_route
+22672,Wandin East,21010,Glen Iris (Vic.),,no_eligible_route
+22673,Wandin North,21010,Glen Iris (Vic.),104.07,ok
+22676,Wandong,21010,Glen Iris (Vic.),,no_eligible_route
+22685,Wantirna,21010,Glen Iris (Vic.),75.85,ok
+22686,Wantirna South,21010,Glen Iris (Vic.),61.37,ok
+22689,Warburton (Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+22695,Warneet,21010,Glen Iris (Vic.),,no_eligible_route
+22702,Warrandyte,21010,Glen Iris (Vic.),89.65,ok
+22703,Warrandyte South,21010,Glen Iris (Vic.),108.62,ok
+22704,Warranwood,21010,Glen Iris (Vic.),84.93,ok
+22717,Waterford Park,21010,Glen Iris (Vic.),,no_eligible_route
+22720,Waterways,21010,Glen Iris (Vic.),96.43,ok
+22721,Watsonia,21010,Glen Iris (Vic.),75.57,ok
+22722,Watsonia North,21010,Glen Iris (Vic.),98.02,ok
+22723,Watsons Creek (Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+22727,Wattle Glen,21010,Glen Iris (Vic.),111.32,ok
+22740,Weir Views,21010,Glen Iris (Vic.),216.07,ok
+22750,Werribee,21010,Glen Iris (Vic.),96.42,ok
+22751,Werribee South,21010,Glen Iris (Vic.),147.6,ok
+22753,Wesburn,21010,Glen Iris (Vic.),137.35,ok
+22756,West Footscray,21010,Glen Iris (Vic.),79.77,ok
+22757,West Melbourne,21010,Glen Iris (Vic.),70.2,ok
+22761,Westmeadows,21010,Glen Iris (Vic.),89.65,ok
+22766,Wheelers Hill,21010,Glen Iris (Vic.),56.22,ok
+22775,Whittlesea,21010,Glen Iris (Vic.),,no_eligible_route
+22784,Wildwood,21010,Glen Iris (Vic.),,no_eligible_route
+22791,Williams Landing,21010,Glen Iris (Vic.),96.63,ok
+22792,Williamstown (Vic.),21010,Glen Iris (Vic.),77.45,ok
+22793,Williamstown North,21010,Glen Iris (Vic.),86.93,ok
+22805,Windsor (Vic.),21010,Glen Iris (Vic.),35.27,ok
+22820,Wollert,21010,Glen Iris (Vic.),127.5,ok
+22825,Wonga Park,21010,Glen Iris (Vic.),80.13,ok
+22843,Woodstock (Vic.),21010,Glen Iris (Vic.),,no_eligible_route
+22857,Woori Yallock,21010,Glen Iris (Vic.),115.18,ok
+22883,Wyndham Vale,21010,Glen Iris (Vic.),127.23,ok
+22892,Yallambie,21010,Glen Iris (Vic.),102.35,ok
+22898,Yan Yean,21010,Glen Iris (Vic.),143.23,ok
+22906,Yannathan,21010,Glen Iris (Vic.),,no_eligible_route
+22910,Yarra Glen,21010,Glen Iris (Vic.),134.7,ok
+22911,Yarra Junction,21010,Glen Iris (Vic.),141.62,ok
+22916,Yarrambat,21010,Glen Iris (Vic.),112.22,ok
+22917,Yarraville,21010,Glen Iris (Vic.),70.88,ok
+22925,Yellingbo,21010,Glen Iris (Vic.),,no_eligible_route
+22930,Yering,21010,Glen Iris (Vic.),,no_eligible_route
+22941,Yuroke,21010,Glen Iris (Vic.),167.82,ok

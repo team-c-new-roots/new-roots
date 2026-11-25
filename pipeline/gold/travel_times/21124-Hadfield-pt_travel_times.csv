@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21124,Hadfield,66.27,ok
+20003,Aberfeldie,21124,Hadfield,48.9,ok
+20011,Aintree,21124,Hadfield,126.23,ok
+20015,Airport West,21124,Hadfield,65.6,ok
+20017,Albanvale,21124,Hadfield,100.42,ok
+20018,Albert Park (Vic.),21124,Hadfield,66.07,ok
+20021,Albion (Vic.),21124,Hadfield,83.82,ok
+20034,Alphington,21124,Hadfield,65.12,ok
+20035,Altona (Vic.),21124,Hadfield,82.92,ok
+20036,Altona Meadows,21124,Hadfield,91.07,ok
+20037,Altona North,21124,Hadfield,96.32,ok
+20062,Ardeer,21124,Hadfield,92.97,ok
+20066,Armadale (Vic.),21124,Hadfield,71.07,ok
+20071,Arthurs Creek,21124,Hadfield,,no_eligible_route
+20072,Arthurs Seat,21124,Hadfield,231.58,ok
+20075,Ascot Vale,21124,Hadfield,46.03,ok
+20077,Ashburton,21124,Hadfield,84.67,ok
+20078,Ashwood,21124,Hadfield,96.87,ok
+20079,Aspendale,21124,Hadfield,115.95,ok
+20080,Aspendale Gardens,21124,Hadfield,136.28,ok
+20082,Attwood,21124,Hadfield,56.03,ok
+20089,Avondale Heights,21124,Hadfield,67.7,ok
+20091,Avonsleigh,21124,Hadfield,,no_eligible_route
+20095,Bacchus Marsh,21124,Hadfield,,no_eligible_route
+20097,Badger Creek,21124,Hadfield,185.52,ok
+20105,Balaclava (Vic.),21124,Hadfield,73.7,ok
+20120,Balnarring,21124,Hadfield,,no_eligible_route
+20121,Balnarring Beach,21124,Hadfield,,no_eligible_route
+20123,Balwyn,21124,Hadfield,90.8,ok
+20124,Balwyn North,21124,Hadfield,94.57,ok
+20131,Bangholme,21124,Hadfield,167.55,ok
+20169,Baxter,21124,Hadfield,156.3,ok
+20171,Bayles,21124,Hadfield,,no_eligible_route
+20173,Bayswater (Vic.),21124,Hadfield,111.32,ok
+20174,Bayswater North,21124,Hadfield,126.28,ok
+20175,Beaconsfield (Vic.),21124,Hadfield,150.05,ok
+20176,Beaconsfield Upper,21124,Hadfield,,no_eligible_route
+20182,Beaumaris (Vic.),21124,Hadfield,113.83,ok
+20187,Beenak,21124,Hadfield,,no_eligible_route
+20188,Belgrave,21124,Hadfield,124.4,ok
+20189,Belgrave Heights,21124,Hadfield,154.07,ok
+20190,Belgrave South,21124,Hadfield,153.05,ok
+20198,Bellfield (Banyule - Vic.),21124,Hadfield,53.47,ok
+20207,Bend Of Islands,21124,Hadfield,,no_eligible_route
+20212,Benloch,21124,Hadfield,,no_eligible_route
+20214,Bentleigh,21124,Hadfield,94.1,ok
+20215,Bentleigh East,21124,Hadfield,95.05,ok
+20224,Berwick,21124,Hadfield,122.85,ok
+20233,Beveridge,21124,Hadfield,92.87,ok
+20237,Big Pats Creek,21124,Hadfield,,no_eligible_route
+20248,Bittern,21124,Hadfield,174.28,ok
+20251,Black Rock (Vic.),21124,Hadfield,110.8,ok
+20252,Blackburn,21124,Hadfield,84.65,ok
+20253,Blackburn North,21124,Hadfield,99.92,ok
+20254,Blackburn South,21124,Hadfield,100.98,ok
+20257,Blairgowrie,21124,Hadfield,225.62,ok
+20260,Blind Bight,21124,Hadfield,,no_eligible_route
+20272,Bolinda,21124,Hadfield,,no_eligible_route
+20278,Bonbeach,21124,Hadfield,120.95,ok
+20280,Boneo,21124,Hadfield,,no_eligible_route
+20282,Bonnie Brook,21124,Hadfield,158.78,ok
+20304,Boronia,21124,Hadfield,113.78,ok
+20307,Botanic Ridge,21124,Hadfield,164.72,ok
+20314,Box Hill (Vic.),21124,Hadfield,82.77,ok
+20315,Box Hill North,21124,Hadfield,92.52,ok
+20316,Box Hill South,21124,Hadfield,92.25,ok
+20320,Braeside,21124,Hadfield,143.03,ok
+20324,Braybrook,21124,Hadfield,87.95,ok
+20331,Briar Hill,21124,Hadfield,74.15,ok
+20337,Brighton (Vic.),21124,Hadfield,86.75,ok
+20338,Brighton East,21124,Hadfield,94.0,ok
+20346,Broadmeadows (Vic.),21124,Hadfield,41.78,ok
+20351,Brookfield (Vic.),21124,Hadfield,177.0,ok
+20352,Brooklyn (Vic.),21124,Hadfield,93.78,ok
+20361,Brunswick (Vic.),21124,Hadfield,32.18,ok
+20362,Brunswick East,21124,Hadfield,52.1,ok
+20363,Brunswick West,21124,Hadfield,26.88,ok
+20381,Bulla (Vic.),21124,Hadfield,131.43,ok
+20386,Bulleen,21124,Hadfield,89.37,ok
+20387,Bullengarook,21124,Hadfield,,no_eligible_route
+20399,Bundoora (Vic.),21124,Hadfield,56.85,ok
+20411,Bunyip,21124,Hadfield,,no_eligible_route
+20412,Bunyip North,21124,Hadfield,,no_eligible_route
+20418,Burnley,21124,Hadfield,81.35,ok
+20419,Burnside (Vic.),21124,Hadfield,104.85,ok
+20420,Burnside Heights,21124,Hadfield,113.85,ok
+20426,Burwood (Vic.),21124,Hadfield,99.68,ok
+20427,Burwood East,21124,Hadfield,97.5,ok
+20435,Bylands,21124,Hadfield,,no_eligible_route
+20441,Cairnlea,21124,Hadfield,99.55,ok
+20442,Calder Park,21124,Hadfield,120.88,ok
+20443,Caldermeade,21124,Hadfield,,no_eligible_route
+20453,Camberwell (Vic.),21124,Hadfield,83.6,ok
+20455,Campbellfield,21124,Hadfield,41.32,ok
+20466,Cannons Creek,21124,Hadfield,,no_eligible_route
+20468,Canterbury (Vic.),21124,Hadfield,79.08,ok
+20474,Cape Schanck,21124,Hadfield,,no_eligible_route
+20476,Capel Sound,21124,Hadfield,210.97,ok
+20487,Cardinia,21124,Hadfield,,no_eligible_route
+20495,Carlton (Vic.),21124,Hadfield,58.73,ok
+20496,Carlton North,21124,Hadfield,58.73,ok
+20498,Carnegie,21124,Hadfield,86.3,ok
+20500,Caroline Springs,21124,Hadfield,108.73,ok
+20507,Carrum,21124,Hadfield,120.77,ok
+20508,Carrum Downs,21124,Hadfield,130.37,ok
+20512,Castella,21124,Hadfield,,no_eligible_route
+20517,Catani,21124,Hadfield,,no_eligible_route
+20521,Caulfield,21124,Hadfield,89.8,ok
+20522,Caulfield East,21124,Hadfield,80.78,ok
+20523,Caulfield North,21124,Hadfield,81.28,ok
+20524,Caulfield South,21124,Hadfield,94.62,ok
+20528,Chadstone,21124,Hadfield,96.15,ok
+20537,Chelsea,21124,Hadfield,118.02,ok
+20538,Chelsea Heights,21124,Hadfield,133.07,ok
+20539,Cheltenham (Vic.),21124,Hadfield,107.48,ok
+20541,Cherokee,21124,Hadfield,,no_eligible_route
+20555,Chintin,21124,Hadfield,,no_eligible_route
+20556,Chirnside Park,21124,Hadfield,129.68,ok
+20559,Christmas Hills (Vic.),21124,Hadfield,,no_eligible_route
+20560,Chum Creek,21124,Hadfield,,no_eligible_route
+20566,Clarinda,21124,Hadfield,108.52,ok
+20567,Clarkefield,21124,Hadfield,,no_eligible_route
+20569,Clayton,21124,Hadfield,104.88,ok
+20570,Clayton South,21124,Hadfield,116.7,ok
+20572,Clematis,21124,Hadfield,,no_eligible_route
+20574,Clifton Hill,21124,Hadfield,57.23,ok
+20576,Clonbinane,21124,Hadfield,,no_eligible_route
+20581,Clyde (Vic.),21124,Hadfield,172.27,ok
+20582,Clyde North,21124,Hadfield,152.32,ok
+20587,Cobaw,21124,Hadfield,,no_eligible_route
+20590,Cobblebank,21124,Hadfield,159.93,ok
+20596,Coburg,21124,Hadfield,25.6,ok
+20597,Coburg North,21124,Hadfield,26.55,ok
+20600,Cockatoo (Vic.),21124,Hadfield,,no_eligible_route
+20601,Cocoroc,21124,Hadfield,,no_eligible_route
+20605,Coimadai,21124,Hadfield,,no_eligible_route
+20613,Coldstream (Vic.),21124,Hadfield,,no_eligible_route
+20616,Collingwood (Vic.),21124,Hadfield,63.4,ok
+20624,Coolaroo,21124,Hadfield,35.73,ok
+20633,Cora Lynn,21124,Hadfield,,no_eligible_route
+20654,Cottles Bridge,21124,Hadfield,,no_eligible_route
+20661,Craigieburn,21124,Hadfield,58.1,ok
+20662,Cranbourne,21124,Hadfield,138.22,ok
+20663,Cranbourne East,21124,Hadfield,144.6,ok
+20664,Cranbourne North,21124,Hadfield,135.75,ok
+20665,Cranbourne South,21124,Hadfield,168.07,ok
+20666,Cranbourne West,21124,Hadfield,143.02,ok
+20670,Cremorne (Vic.),21124,Hadfield,69.65,ok
+20674,Crib Point,21124,Hadfield,183.25,ok
+20682,Croydon (Vic.),21124,Hadfield,101.42,ok
+20683,Croydon Hills,21124,Hadfield,122.73,ok
+20684,Croydon North,21124,Hadfield,120.68,ok
+20685,Croydon South,21124,Hadfield,121.33,ok
+20702,Dallas,21124,Hadfield,37.97,ok
+20703,Dalmore,21124,Hadfield,,no_eligible_route
+20707,Dandenong,21124,Hadfield,109.2,ok
+20708,Dandenong North,21124,Hadfield,131.95,ok
+20709,Dandenong South,21124,Hadfield,130.25,ok
+20712,Darley,21124,Hadfield,,no_eligible_route
+20716,Darraweit Guim,21124,Hadfield,,no_eligible_route
+20724,Deanside,21124,Hadfield,129.1,ok
+20728,Deepdene (Vic.),21124,Hadfield,88.43,ok
+20729,Deer Park,21124,Hadfield,90.8,ok
+20731,Delahey,21124,Hadfield,103.47,ok
+20743,Derrimut,21124,Hadfield,122.32,ok
+20748,Devon Meadows,21124,Hadfield,179.02,ok
+20750,Dewhurst,21124,Hadfield,,no_eligible_route
+20752,Diamond Creek,21124,Hadfield,98.05,ok
+20754,Diggers Rest,21124,Hadfield,96.2,ok
+20758,Dingley Village,21124,Hadfield,117.75,ok
+20762,Dixons Creek,21124,Hadfield,,no_eligible_route
+20766,Docklands,21124,Hadfield,57.15,ok
+20769,Don Valley,21124,Hadfield,,no_eligible_route
+20771,Doncaster,21124,Hadfield,80.5,ok
+20772,Doncaster East,21124,Hadfield,99.57,ok
+20773,Donnybrook (Vic.),21124,Hadfield,87.12,ok
+20774,Donvale,21124,Hadfield,119.53,ok
+20779,Doreen,21124,Hadfield,109.63,ok
+20783,Doveton,21124,Hadfield,126.15,ok
+20788,Dromana,21124,Hadfield,220.75,ok
+20825,Eaglemont,21124,Hadfield,73.6,ok
+20830,East Melbourne,21124,Hadfield,59.43,ok
+20833,East Warburton,21124,Hadfield,,no_eligible_route
+20843,Eden Park,21124,Hadfield,,no_eligible_route
+20848,Edithvale,21124,Hadfield,118.15,ok
+20864,Elsternwick,21124,Hadfield,81.62,ok
+20865,Eltham (Vic.),21124,Hadfield,87.38,ok
+20866,Eltham North,21124,Hadfield,83.27,ok
+20867,Elwood,21124,Hadfield,88.08,ok
+20868,Emerald (Vic.),21124,Hadfield,,no_eligible_route
+20871,Endeavour Hills,21124,Hadfield,134.0,ok
+20878,Epping (Vic.),21124,Hadfield,77.4,ok
+20885,Essendon,21124,Hadfield,29.3,ok
+20886,Essendon Fields,21124,Hadfield,68.65,ok
+20887,Essendon North,21124,Hadfield,30.5,ok
+20888,Essendon West,21124,Hadfield,45.12,ok
+20889,Eumemmerring,21124,Hadfield,130.82,ok
+20898,Exford,21124,Hadfield,,no_eligible_route
+20899,Eynesbury,21124,Hadfield,,no_eligible_route
+20901,Fairfield (Vic.),21124,Hadfield,70.55,ok
+20909,Fawkner,21124,Hadfield,18.67,ok
+20916,Fernshaw,21124,Hadfield,,no_eligible_route
+20917,Ferntree Gully,21124,Hadfield,121.17,ok
+20918,Ferny Creek,21124,Hadfield,159.2,ok
+20920,Fingal (Vic.),21124,Hadfield,,no_eligible_route
+20924,Fitzroy (Vic.),21124,Hadfield,60.27,ok
+20925,Fitzroy North,21124,Hadfield,53.98,ok
+20929,Flemington,21124,Hadfield,53.87,ok
+20930,Flinders (Vic.),21124,Hadfield,,no_eligible_route
+20935,Footscray,21124,Hadfield,58.5,ok
+20937,Forest Hill (Vic.),21124,Hadfield,101.97,ok
+20947,Frankston,21124,Hadfield,136.1,ok
+20948,Frankston North,21124,Hadfield,153.95,ok
+20949,Frankston South,21124,Hadfield,167.67,ok
+20950,Fraser Rise,21124,Hadfield,131.63,ok
+20965,Gardenvale,21124,Hadfield,82.9,ok
+20966,Garfield,21124,Hadfield,,no_eligible_route
+20967,Garfield North,21124,Hadfield,,no_eligible_route
+20979,Gembrook,21124,Hadfield,,no_eligible_route
+20995,Gilderoy,21124,Hadfield,,no_eligible_route
+21001,Gisborne,21124,Hadfield,,no_eligible_route
+21002,Gisborne South,21124,Hadfield,,no_eligible_route
+21004,Gladstone Park,21124,Hadfield,62.82,ok
+21005,Gladysdale,21124,Hadfield,,no_eligible_route
+21009,Glen Huntly,21124,Hadfield,85.63,ok
+21010,Glen Iris (Vic.),21124,Hadfield,87.67,ok
+21013,Glen Waverley,21124,Hadfield,101.08,ok
+21047,Glenroy (Vic.),21124,Hadfield,18.25,ok
+21059,Goldie,21124,Hadfield,,no_eligible_route
+21079,Gowanbrae,21124,Hadfield,58.05,ok
+21087,Grangefields,21124,Hadfield,160.75,ok
+21104,Greensborough,21124,Hadfield,71.72,ok
+21105,Greenvale (Vic.),21124,Hadfield,68.2,ok
+21115,Gruyere,21124,Hadfield,,no_eligible_route
+21121,Guys Hill,21124,Hadfield,,no_eligible_route
+21124,Hadfield,21124,Hadfield,0.0,same_centroid
+21125,Hallam,21124,Hadfield,127.97,ok
+21131,Hampton (Vic.),21124,Hadfield,93.3,ok
+21132,Hampton East,21124,Hadfield,100.87,ok
+21133,Hampton Park,21124,Hadfield,130.38,ok
+21139,Harkaway,21124,Hadfield,,no_eligible_route
+21140,Harkness,21124,Hadfield,178.48,ok
+21145,Hastings (Vic.),21124,Hadfield,175.82,ok
+21152,Hawthorn (Vic.),21124,Hadfield,76.98,ok
+21153,Hawthorn East,21124,Hadfield,82.95,ok
+21158,Healesville,21124,Hadfield,189.43,ok
+21159,Heath Hill,21124,Hadfield,,no_eligible_route
+21161,Heathcote Junction,21124,Hadfield,,no_eligible_route
+21163,Heatherton,21124,Hadfield,115.53,ok
+21165,Heathmont,21124,Hadfield,101.58,ok
+21167,Heidelberg,21124,Hadfield,62.78,ok
+21168,Heidelberg Heights,21124,Hadfield,70.63,ok
+21169,Heidelberg West,21124,Hadfield,65.6,ok
+21176,Hesket,21124,Hadfield,,no_eligible_route
+21185,Highett,21124,Hadfield,93.63,ok
+21193,Hillside (Melton - Vic.),21124,Hadfield,111.0,ok
+21195,Hmas Cerberus,21124,Hadfield,,no_eligible_route
+21196,Hoddles Creek,21124,Hadfield,,no_eligible_route
+21202,Hopetoun Park,21124,Hadfield,,no_eligible_route
+21203,Hoppers Crossing,21124,Hadfield,96.75,ok
+21214,Hughesdale,21124,Hadfield,87.72,ok
+21215,Humevale,21124,Hadfield,,no_eligible_route
+21218,Huntingdale (Vic.),21124,Hadfield,93.15,ok
+21223,Hurstbridge,21124,Hadfield,98.33,ok
+21238,Iona,21124,Hadfield,,no_eligible_route
+21246,Ivanhoe (Vic.),21124,Hadfield,66.98,ok
+21247,Ivanhoe East,21124,Hadfield,73.33,ok
+21248,Jacana,21124,Hadfield,48.72,ok
+21277,Junction Village,21124,Hadfield,165.15,ok
+21284,Kalkallo,21124,Hadfield,86.12,ok
+21286,Kallista,21124,Hadfield,162.63,ok
+21287,Kalorama,21124,Hadfield,128.9,ok
+21294,Kangaroo Ground,21124,Hadfield,126.93,ok
+21312,Kealba,21124,Hadfield,92.57,ok
+21314,Keilor,21124,Hadfield,102.97,ok
+21315,Keilor Downs,21124,Hadfield,109.85,ok
+21316,Keilor East,21124,Hadfield,57.12,ok
+21317,Keilor Lodge,21124,Hadfield,96.1,ok
+21318,Keilor North,21124,Hadfield,68.82,ok
+21319,Keilor Park,21124,Hadfield,77.4,ok
+21327,Kensington (Vic.),21124,Hadfield,42.62,ok
+21333,Kerrie,21124,Hadfield,,no_eligible_route
+21336,Kew (Vic.),21124,Hadfield,76.88,ok
+21337,Kew East,21124,Hadfield,88.92,ok
+21339,Keysborough,21124,Hadfield,123.8,ok
+21354,Kilsyth,21124,Hadfield,118.28,ok
+21355,Kilsyth South,21124,Hadfield,133.37,ok
+21358,Kinglake,21124,Hadfield,,no_eligible_route
+21359,Kinglake Central,21124,Hadfield,,no_eligible_route
+21360,Kinglake West,21124,Hadfield,142.98,ok
+21362,Kings Park (Vic.),21124,Hadfield,103.37,ok
+21363,Kingsbury,21124,Hadfield,60.63,ok
+21365,Kingsville,21124,Hadfield,72.17,ok
+21374,Knoxfield,21124,Hadfield,118.05,ok
+21380,Koo Wee Rup,21124,Hadfield,,no_eligible_route
+21381,Koo Wee Rup North,21124,Hadfield,,no_eligible_route
+21393,Kooyong,21124,Hadfield,74.85,ok
+21411,Kurunjang,21124,Hadfield,155.68,ok
+21452,Lalor,21124,Hadfield,61.12,ok
+21456,Lancefield,21124,Hadfield,,no_eligible_route
+21459,Lang Lang,21124,Hadfield,,no_eligible_route
+21460,Lang Lang East,21124,Hadfield,,no_eligible_route
+21467,Langwarrin,21124,Hadfield,153.45,ok
+21468,Langwarrin South,21124,Hadfield,,no_eligible_route
+21473,Launching Place,21124,Hadfield,144.07,ok
+21476,Laverton (Vic.),21124,Hadfield,80.52,ok
+21477,Laverton North,21124,Hadfield,111.22,ok
+21504,Lilydale (Vic.),21124,Hadfield,123.72,ok
+21533,Long Forest,21124,Hadfield,,no_eligible_route
+21547,Lower Plenty,21124,Hadfield,104.25,ok
+21554,Lynbrook,21124,Hadfield,118.93,ok
+21555,Lyndhurst (Vic.),21124,Hadfield,171.8,ok
+21558,Lysterfield,21124,Hadfield,,no_eligible_route
+21559,Lysterfield South,21124,Hadfield,176.65,ok
+21561,Macclesfield (Vic.),21124,Hadfield,,no_eligible_route
+21562,Macedon,21124,Hadfield,,no_eligible_route
+21564,Macleod (Vic.),21124,Hadfield,78.7,ok
+21569,Maddingley,21124,Hadfield,,no_eligible_route
+21575,Maidstone,21124,Hadfield,70.65,ok
+21578,Main Ridge,21124,Hadfield,,no_eligible_route
+21586,Malvern (Vic.),21124,Hadfield,85.08,ok
+21587,Malvern East,21124,Hadfield,87.45,ok
+21588,Mambourin,21124,Hadfield,,no_eligible_route
+21597,Manor Lakes,21124,Hadfield,139.62,ok
+21604,Maribyrnong,21124,Hadfield,63.08,ok
+21619,Maryknoll,21124,Hadfield,,no_eligible_route
+21625,McCrae,21124,Hadfield,204.17,ok
+21629,McKinnon,21124,Hadfield,82.93,ok
+21635,Meadow Heights,21124,Hadfield,57.53,ok
+21640,Melbourne,21124,Hadfield,56.98,ok
+21641,Melbourne Airport,21124,Hadfield,199.85,walk_only
+21642,Melton (Vic.),21124,Hadfield,162.15,ok
+21643,Melton South,21124,Hadfield,175.75,ok
+21644,Melton West,21124,Hadfield,151.87,ok
+21648,Mentone,21124,Hadfield,102.25,ok
+21649,Menzies Creek,21124,Hadfield,,no_eligible_route
+21659,Mernda,21124,Hadfield,90.6,ok
+21662,Merricks,21124,Hadfield,,no_eligible_route
+21663,Merricks Beach,21124,Hadfield,,no_eligible_route
+21664,Merricks North,21124,Hadfield,,no_eligible_route
+21668,Merrimu,21124,Hadfield,,no_eligible_route
+21675,Mickleham,21124,Hadfield,90.1,ok
+21677,Middle Park (Vic.),21124,Hadfield,72.15,ok
+21683,Mill Park,21124,Hadfield,78.62,ok
+21685,Millgrove,21124,Hadfield,,no_eligible_route
+21706,Mitcham (Vic.),21124,Hadfield,96.32,ok
+21727,Monbulk,21124,Hadfield,170.08,ok
+21728,Monegeetta,21124,Hadfield,,no_eligible_route
+21731,Monomeith,21124,Hadfield,,no_eligible_route
+21732,Mont Albert,21124,Hadfield,84.48,ok
+21733,Mont Albert North,21124,Hadfield,93.27,ok
+21735,Montmorency,21124,Hadfield,80.45,ok
+21736,Montrose (Vic.),21124,Hadfield,121.2,ok
+21742,Moonee Ponds,21124,Hadfield,37.67,ok
+21746,Moorabbin,21124,Hadfield,105.28,ok
+21747,Moorabbin Airport,21124,Hadfield,120.12,ok
+21754,Moorooduc,21124,Hadfield,,no_eligible_route
+21755,Mooroolbark,21124,Hadfield,112.62,ok
+21760,Mordialloc,21124,Hadfield,116.42,ok
+21763,Mornington (Vic.),21124,Hadfield,174.48,ok
+21779,Mount Burnett,21124,Hadfield,,no_eligible_route
+21786,Mount Cottrell,21124,Hadfield,,no_eligible_route
+21787,Mount Dandenong,21124,Hadfield,132.9,ok
+21793,Mount Eliza,21124,Hadfield,152.67,ok
+21795,Mount Evelyn,21124,Hadfield,137.07,ok
+21801,Mount Macedon,21124,Hadfield,,no_eligible_route
+21803,Mount Martha,21124,Hadfield,172.68,ok
+21814,Mount Toolebewong,21124,Hadfield,,no_eligible_route
+21816,Mount Waverley,21124,Hadfield,92.52,ok
+21827,Mulgrave (Vic.),21124,Hadfield,118.53,ok
+21849,Murrumbeena,21124,Hadfield,87.83,ok
+21872,Nangana,21124,Hadfield,,no_eligible_route
+21878,Nar Nar Goon,21124,Hadfield,,no_eligible_route
+21879,Nar Nar Goon North,21124,Hadfield,,no_eligible_route
+21893,Narre Warren,21124,Hadfield,128.4,ok
+21894,Narre Warren East,21124,Hadfield,,no_eligible_route
+21895,Narre Warren North,21124,Hadfield,138.22,ok
+21896,Narre Warren South,21124,Hadfield,134.0,ok
+21921,New Gisborne,21124,Hadfield,,no_eligible_route
+21934,Newport (Vic.),21124,Hadfield,65.37,ok
+21942,Niddrie,21124,Hadfield,61.6,ok
+21952,Noble Park,21124,Hadfield,99.93,ok
+21953,Noble Park North,21124,Hadfield,131.2,ok
+21966,North Melbourne,21124,Hadfield,46.88,ok
+21969,North Warrandyte,21124,Hadfield,115.92,ok
+21971,Northcote,21124,Hadfield,60.85,ok
+21974,Notting Hill,21124,Hadfield,105.58,ok
+21985,Nunawading,21124,Hadfield,88.8,ok
+21991,Nutfield,21124,Hadfield,,no_eligible_route
+21998,Oak Park,21124,Hadfield,39.48,ok
+21999,Oaklands Junction,21124,Hadfield,,no_eligible_route
+22000,Oakleigh,21124,Hadfield,90.38,ok
+22001,Oakleigh East,21124,Hadfield,101.43,ok
+22002,Oakleigh South,21124,Hadfield,100.53,ok
+22006,Officer,21124,Hadfield,142.5,ok
+22007,Officer South,21124,Hadfield,183.78,ok
+22009,Olinda (Vic.),21124,Hadfield,157.55,ok
+22016,Ormond,21124,Hadfield,83.37,ok
+22027,Pakenham,21124,Hadfield,141.55,ok
+22028,Pakenham South,21124,Hadfield,,no_eligible_route
+22029,Pakenham Upper,21124,Hadfield,,no_eligible_route
+22032,Panton Hill,21124,Hadfield,,no_eligible_route
+22036,Park Orchards,21124,Hadfield,115.92,ok
+22037,Parkdale,21124,Hadfield,107.33,ok
+22038,Parkville (Vic.),21124,Hadfield,38.27,ok
+22041,Pascoe Vale,21124,Hadfield,17.52,ok
+22042,Pascoe Vale South,21124,Hadfield,22.97,ok
+22047,Patterson Lakes,21124,Hadfield,129.63,ok
+22050,Pearcedale,21124,Hadfield,185.37,ok
+22058,Pentland Hills,21124,Hadfield,,no_eligible_route
+22064,Pheasant Creek (Vic.),21124,Hadfield,158.63,ok
+22084,Plenty (Vic.),21124,Hadfield,106.9,ok
+22085,Plumpton (Vic.),21124,Hadfield,,no_eligible_route
+22086,Point Cook,21124,Hadfield,96.75,ok
+22087,Point Leo,21124,Hadfield,,no_eligible_route
+22107,Port Melbourne,21124,Hadfield,67.65,ok
+22113,Portsea,21124,Hadfield,,no_eligible_route
+22115,Powelltown,21124,Hadfield,,no_eligible_route
+22118,Prahran,21124,Hadfield,76.72,ok
+22121,Preston (Vic.),21124,Hadfield,39.07,ok
+22122,Princes Hill,21124,Hadfield,47.48,ok
+22132,Quandong,21124,Hadfield,,no_eligible_route
+22141,Ravenhall,21124,Hadfield,139.55,ok
+22148,Red Hill (Vic.),21124,Hadfield,,no_eligible_route
+22149,Red Hill South,21124,Hadfield,,no_eligible_route
+22160,Research,21124,Hadfield,107.27,ok
+22161,Reservoir (Vic.),21124,Hadfield,51.58,ok
+22170,Richmond (Vic.),21124,Hadfield,69.25,ok
+22172,Riddells Creek,21124,Hadfield,,no_eligible_route
+22174,Ringwood (Vic.),21124,Hadfield,102.93,ok
+22175,Ringwood East,21124,Hadfield,101.5,ok
+22176,Ringwood North,21124,Hadfield,113.13,ok
+22179,Ripponlea,21124,Hadfield,72.33,ok
+22185,Rochford,21124,Hadfield,,no_eligible_route
+22186,Rockbank,21124,Hadfield,135.42,ok
+22193,Romsey,21124,Hadfield,,no_eligible_route
+22194,Rosanna,21124,Hadfield,72.72,ok
+22198,Rosebud,21124,Hadfield,221.48,ok
+22207,Rowville,21124,Hadfield,131.53,ok
+22208,Roxburgh Park,21124,Hadfield,56.37,ok
+22220,Rye,21124,Hadfield,233.68,ok
+22221,Rythdale,21124,Hadfield,,no_eligible_route
+22222,Safety Beach (Vic.),21124,Hadfield,188.65,ok
+22232,Sandhurst,21124,Hadfield,157.97,ok
+22234,Sandringham (Vic.),21124,Hadfield,98.18,ok
+22239,Sassafras (Vic.),21124,Hadfield,141.97,ok
+22242,Scoresby,21124,Hadfield,114.7,ok
+22247,Seabrook,21124,Hadfield,96.82,ok
+22249,Seaford (Vic.),21124,Hadfield,132.87,ok
+22250,Seaholme,21124,Hadfield,77.6,ok
+22256,Seddon (Vic.),21124,Hadfield,59.9,ok
+22258,Selby,21124,Hadfield,157.0,ok
+22263,Seville,21124,Hadfield,155.23,ok
+22264,Seville East,21124,Hadfield,142.12,ok
+22278,Sherbrooke,21124,Hadfield,152.7,ok
+22279,Shoreham,21124,Hadfield,,no_eligible_route
+22281,Silvan,21124,Hadfield,162.18,ok
+22291,Skye (Vic.),21124,Hadfield,161.3,ok
+22295,Smiths Gully,21124,Hadfield,,no_eligible_route
+22303,Somers,21124,Hadfield,,no_eligible_route
+22304,Somerton (Vic.),21124,Hadfield,46.73,ok
+22305,Somerville (Vic.),21124,Hadfield,180.87,ok
+22306,Sorrento (Vic.),21124,Hadfield,224.45,ok
+22309,South Kingsville,21124,Hadfield,78.9,ok
+22310,South Melbourne,21124,Hadfield,64.97,ok
+22311,South Morang,21124,Hadfield,83.82,ok
+22313,South Wharf,21124,Hadfield,59.47,ok
+22314,South Yarra,21124,Hadfield,63.0,ok
+22315,Southbank,21124,Hadfield,59.4,ok
+22319,Spotswood,21124,Hadfield,60.05,ok
+22325,Springfield (Macedon Ranges - Vic.),21124,Hadfield,,no_eligible_route
+22328,Springvale (Vic.),21124,Hadfield,100.9,ok
+22329,Springvale South,21124,Hadfield,104.92,ok
+22330,St Albans (Vic.),21124,Hadfield,85.38,ok
+22332,St Andrews (Vic.),21124,Hadfield,,no_eligible_route
+22333,St Andrews Beach,21124,Hadfield,,no_eligible_route
+22339,St Helena,21124,Hadfield,73.53,ok
+22343,St Kilda (Vic.),21124,Hadfield,78.2,ok
+22344,St Kilda East,21124,Hadfield,83.8,ok
+22345,St Kilda West,21124,Hadfield,73.75,ok
+22355,Steels Creek,21124,Hadfield,,no_eligible_route
+22375,Strathewen,21124,Hadfield,,no_eligible_route
+22380,Strathmore (Vic.),21124,Hadfield,39.63,ok
+22381,Strathmore Heights,21124,Hadfield,57.28,ok
+22382,Strathtulloh,21124,Hadfield,,no_eligible_route
+22391,Sunbury,21124,Hadfield,,no_eligible_route
+22395,Sunshine (Vic.),21124,Hadfield,74.47,ok
+22396,Sunshine North,21124,Hadfield,73.43,ok
+22397,Sunshine West,21124,Hadfield,100.22,ok
+22399,Surrey Hills,21124,Hadfield,84.88,ok
+22414,Sydenham (Vic.),21124,Hadfield,100.85,ok
+22451,Tarneit,21124,Hadfield,119.1,ok
+22457,Tarrawarra,21124,Hadfield,165.03,ok
+22473,Taylors Hill,21124,Hadfield,110.97,ok
+22474,Taylors Lakes,21124,Hadfield,84.98,ok
+22476,Tecoma,21124,Hadfield,121.4,ok
+22483,Templestowe,21124,Hadfield,93.97,ok
+22484,Templestowe Lower,21124,Hadfield,101.83,ok
+22496,The Basin (Vic.),21124,Hadfield,133.1,ok
+22501,The Patch,21124,Hadfield,160.65,ok
+22504,Thomastown,21124,Hadfield,62.72,ok
+22508,Thornbury,21124,Hadfield,52.28,ok
+22509,Thornhill Park,21124,Hadfield,,no_eligible_route
+22514,Three Bridges,21124,Hadfield,,no_eligible_route
+22531,Tonimbuk,21124,Hadfield,,no_eligible_route
+22536,Toolangi,21124,Hadfield,,no_eligible_route
+22537,Toolern Vale,21124,Hadfield,,no_eligible_route
+22546,Tooradin,21124,Hadfield,,no_eligible_route
+22547,Toorak,21124,Hadfield,80.48,ok
+22550,Tootgarook,21124,Hadfield,217.1,ok
+22556,Tottenham (Vic.),21124,Hadfield,98.05,ok
+22572,Travancore,21124,Hadfield,50.4,ok
+22576,Tremont,21124,Hadfield,139.0,ok
+22582,Truganina,21124,Hadfield,170.48,ok
+22584,Tuerong,21124,Hadfield,,no_eligible_route
+22586,Tullamarine,21124,Hadfield,71.7,ok
+22594,Tyabb,21124,Hadfield,169.73,ok
+22598,Tynong,21124,Hadfield,,no_eligible_route
+22599,Tynong North,21124,Hadfield,,no_eligible_route
+22614,Upper Ferntree Gully,21124,Hadfield,118.55,ok
+22617,Upper Plenty,21124,Hadfield,,no_eligible_route
+22620,Upwey,21124,Hadfield,121.27,ok
+22627,Vermont,21124,Hadfield,105.62,ok
+22628,Vermont South,21124,Hadfield,115.77,ok
+22629,Vervale,21124,Hadfield,,no_eligible_route
+22633,Viewbank,21124,Hadfield,87.8,ok
+22661,Wallan,21124,Hadfield,,no_eligible_route
+22672,Wandin East,21124,Hadfield,,no_eligible_route
+22673,Wandin North,21124,Hadfield,128.2,ok
+22676,Wandong,21124,Hadfield,,no_eligible_route
+22685,Wantirna,21124,Hadfield,118.55,ok
+22686,Wantirna South,21124,Hadfield,124.52,ok
+22689,Warburton (Vic.),21124,Hadfield,,no_eligible_route
+22695,Warneet,21124,Hadfield,,no_eligible_route
+22702,Warrandyte,21124,Hadfield,110.05,ok
+22703,Warrandyte South,21124,Hadfield,143.43,ok
+22704,Warranwood,21124,Hadfield,121.1,ok
+22717,Waterford Park,21124,Hadfield,,no_eligible_route
+22720,Waterways,21124,Hadfield,129.35,ok
+22721,Watsonia,21124,Hadfield,73.77,ok
+22722,Watsonia North,21124,Hadfield,69.08,ok
+22723,Watsons Creek (Vic.),21124,Hadfield,,no_eligible_route
+22727,Wattle Glen,21124,Hadfield,105.67,ok
+22740,Weir Views,21124,Hadfield,206.7,ok
+22750,Werribee,21124,Hadfield,97.18,ok
+22751,Werribee South,21124,Hadfield,132.85,ok
+22753,Wesburn,21124,Hadfield,160.17,ok
+22756,West Footscray,21124,Hadfield,78.4,ok
+22757,West Melbourne,21124,Hadfield,69.33,ok
+22761,Westmeadows,21124,Hadfield,48.78,ok
+22766,Wheelers Hill,21124,Hadfield,106.13,ok
+22775,Whittlesea,21124,Hadfield,,no_eligible_route
+22784,Wildwood,21124,Hadfield,,no_eligible_route
+22791,Williams Landing,21124,Hadfield,94.77,ok
+22792,Williamstown (Vic.),21124,Hadfield,68.87,ok
+22793,Williamstown North,21124,Hadfield,86.08,ok
+22805,Windsor (Vic.),21124,Hadfield,69.6,ok
+22820,Wollert,21124,Hadfield,86.37,ok
+22825,Wonga Park,21124,Hadfield,129.95,ok
+22843,Woodstock (Vic.),21124,Hadfield,,no_eligible_route
+22857,Woori Yallock,21124,Hadfield,139.32,ok
+22883,Wyndham Vale,21124,Hadfield,125.65,ok
+22892,Yallambie,21124,Hadfield,86.27,ok
+22898,Yan Yean,21124,Hadfield,124.37,ok
+22906,Yannathan,21124,Hadfield,,no_eligible_route
+22910,Yarra Glen,21124,Hadfield,162.33,ok
+22911,Yarra Junction,21124,Hadfield,164.43,ok
+22916,Yarrambat,21124,Hadfield,88.85,ok
+22917,Yarraville,21124,Hadfield,65.8,ok
+22925,Yellingbo,21124,Hadfield,,no_eligible_route
+22930,Yering,21124,Hadfield,,no_eligible_route
+22941,Yuroke,21124,Hadfield,117.72,ok

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20003,Aberfeldie,21381,Koo Wee Rup North,,no_eligible_route
+20011,Aintree,21381,Koo Wee Rup North,,no_eligible_route
+20015,Airport West,21381,Koo Wee Rup North,,no_eligible_route
+20017,Albanvale,21381,Koo Wee Rup North,,no_eligible_route
+20018,Albert Park (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20021,Albion (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20034,Alphington,21381,Koo Wee Rup North,,no_eligible_route
+20035,Altona (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20036,Altona Meadows,21381,Koo Wee Rup North,,no_eligible_route
+20037,Altona North,21381,Koo Wee Rup North,,no_eligible_route
+20062,Ardeer,21381,Koo Wee Rup North,,no_eligible_route
+20066,Armadale (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20071,Arthurs Creek,21381,Koo Wee Rup North,,no_eligible_route
+20072,Arthurs Seat,21381,Koo Wee Rup North,,no_eligible_route
+20075,Ascot Vale,21381,Koo Wee Rup North,,no_eligible_route
+20077,Ashburton,21381,Koo Wee Rup North,,no_eligible_route
+20078,Ashwood,21381,Koo Wee Rup North,,no_eligible_route
+20079,Aspendale,21381,Koo Wee Rup North,,no_eligible_route
+20080,Aspendale Gardens,21381,Koo Wee Rup North,,no_eligible_route
+20082,Attwood,21381,Koo Wee Rup North,,no_eligible_route
+20089,Avondale Heights,21381,Koo Wee Rup North,,no_eligible_route
+20091,Avonsleigh,21381,Koo Wee Rup North,,no_eligible_route
+20095,Bacchus Marsh,21381,Koo Wee Rup North,,no_eligible_route
+20097,Badger Creek,21381,Koo Wee Rup North,,no_eligible_route
+20105,Balaclava (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20120,Balnarring,21381,Koo Wee Rup North,,no_eligible_route
+20121,Balnarring Beach,21381,Koo Wee Rup North,,no_eligible_route
+20123,Balwyn,21381,Koo Wee Rup North,,no_eligible_route
+20124,Balwyn North,21381,Koo Wee Rup North,,no_eligible_route
+20131,Bangholme,21381,Koo Wee Rup North,,no_eligible_route
+20169,Baxter,21381,Koo Wee Rup North,,no_eligible_route
+20171,Bayles,21381,Koo Wee Rup North,99.98,walk_only
+20173,Bayswater (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20174,Bayswater North,21381,Koo Wee Rup North,,no_eligible_route
+20175,Beaconsfield (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20176,Beaconsfield Upper,21381,Koo Wee Rup North,,no_eligible_route
+20182,Beaumaris (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20187,Beenak,21381,Koo Wee Rup North,,no_eligible_route
+20188,Belgrave,21381,Koo Wee Rup North,,no_eligible_route
+20189,Belgrave Heights,21381,Koo Wee Rup North,,no_eligible_route
+20190,Belgrave South,21381,Koo Wee Rup North,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20207,Bend Of Islands,21381,Koo Wee Rup North,,no_eligible_route
+20212,Benloch,21381,Koo Wee Rup North,,no_eligible_route
+20214,Bentleigh,21381,Koo Wee Rup North,,no_eligible_route
+20215,Bentleigh East,21381,Koo Wee Rup North,,no_eligible_route
+20224,Berwick,21381,Koo Wee Rup North,,no_eligible_route
+20233,Beveridge,21381,Koo Wee Rup North,,no_eligible_route
+20237,Big Pats Creek,21381,Koo Wee Rup North,,no_eligible_route
+20248,Bittern,21381,Koo Wee Rup North,,no_eligible_route
+20251,Black Rock (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20252,Blackburn,21381,Koo Wee Rup North,,no_eligible_route
+20253,Blackburn North,21381,Koo Wee Rup North,,no_eligible_route
+20254,Blackburn South,21381,Koo Wee Rup North,,no_eligible_route
+20257,Blairgowrie,21381,Koo Wee Rup North,,no_eligible_route
+20260,Blind Bight,21381,Koo Wee Rup North,,no_eligible_route
+20272,Bolinda,21381,Koo Wee Rup North,,no_eligible_route
+20278,Bonbeach,21381,Koo Wee Rup North,,no_eligible_route
+20280,Boneo,21381,Koo Wee Rup North,,no_eligible_route
+20282,Bonnie Brook,21381,Koo Wee Rup North,,no_eligible_route
+20304,Boronia,21381,Koo Wee Rup North,,no_eligible_route
+20307,Botanic Ridge,21381,Koo Wee Rup North,,no_eligible_route
+20314,Box Hill (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20315,Box Hill North,21381,Koo Wee Rup North,,no_eligible_route
+20316,Box Hill South,21381,Koo Wee Rup North,,no_eligible_route
+20320,Braeside,21381,Koo Wee Rup North,,no_eligible_route
+20324,Braybrook,21381,Koo Wee Rup North,,no_eligible_route
+20331,Briar Hill,21381,Koo Wee Rup North,,no_eligible_route
+20337,Brighton (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20338,Brighton East,21381,Koo Wee Rup North,,no_eligible_route
+20346,Broadmeadows (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20351,Brookfield (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20352,Brooklyn (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20361,Brunswick (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20362,Brunswick East,21381,Koo Wee Rup North,,no_eligible_route
+20363,Brunswick West,21381,Koo Wee Rup North,,no_eligible_route
+20381,Bulla (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20386,Bulleen,21381,Koo Wee Rup North,,no_eligible_route
+20387,Bullengarook,21381,Koo Wee Rup North,,no_eligible_route
+20399,Bundoora (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20411,Bunyip,21381,Koo Wee Rup North,,no_eligible_route
+20412,Bunyip North,21381,Koo Wee Rup North,,no_eligible_route
+20418,Burnley,21381,Koo Wee Rup North,,no_eligible_route
+20419,Burnside (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20420,Burnside Heights,21381,Koo Wee Rup North,,no_eligible_route
+20426,Burwood (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20427,Burwood East,21381,Koo Wee Rup North,,no_eligible_route
+20435,Bylands,21381,Koo Wee Rup North,,no_eligible_route
+20441,Cairnlea,21381,Koo Wee Rup North,,no_eligible_route
+20442,Calder Park,21381,Koo Wee Rup North,,no_eligible_route
+20443,Caldermeade,21381,Koo Wee Rup North,227.75,walk_only
+20453,Camberwell (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20455,Campbellfield,21381,Koo Wee Rup North,,no_eligible_route
+20466,Cannons Creek,21381,Koo Wee Rup North,,no_eligible_route
+20468,Canterbury (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20474,Cape Schanck,21381,Koo Wee Rup North,,no_eligible_route
+20476,Capel Sound,21381,Koo Wee Rup North,,no_eligible_route
+20487,Cardinia,21381,Koo Wee Rup North,164.73,walk_only
+20495,Carlton (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20496,Carlton North,21381,Koo Wee Rup North,,no_eligible_route
+20498,Carnegie,21381,Koo Wee Rup North,,no_eligible_route
+20500,Caroline Springs,21381,Koo Wee Rup North,,no_eligible_route
+20507,Carrum,21381,Koo Wee Rup North,,no_eligible_route
+20508,Carrum Downs,21381,Koo Wee Rup North,,no_eligible_route
+20512,Castella,21381,Koo Wee Rup North,,no_eligible_route
+20517,Catani,21381,Koo Wee Rup North,230.18,walk_only
+20521,Caulfield,21381,Koo Wee Rup North,,no_eligible_route
+20522,Caulfield East,21381,Koo Wee Rup North,,no_eligible_route
+20523,Caulfield North,21381,Koo Wee Rup North,,no_eligible_route
+20524,Caulfield South,21381,Koo Wee Rup North,,no_eligible_route
+20528,Chadstone,21381,Koo Wee Rup North,,no_eligible_route
+20537,Chelsea,21381,Koo Wee Rup North,,no_eligible_route
+20538,Chelsea Heights,21381,Koo Wee Rup North,,no_eligible_route
+20539,Cheltenham (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20541,Cherokee,21381,Koo Wee Rup North,,no_eligible_route
+20555,Chintin,21381,Koo Wee Rup North,,no_eligible_route
+20556,Chirnside Park,21381,Koo Wee Rup North,,no_eligible_route
+20559,Christmas Hills (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20560,Chum Creek,21381,Koo Wee Rup North,,no_eligible_route
+20566,Clarinda,21381,Koo Wee Rup North,,no_eligible_route
+20567,Clarkefield,21381,Koo Wee Rup North,,no_eligible_route
+20569,Clayton,21381,Koo Wee Rup North,,no_eligible_route
+20570,Clayton South,21381,Koo Wee Rup North,,no_eligible_route
+20572,Clematis,21381,Koo Wee Rup North,,no_eligible_route
+20574,Clifton Hill,21381,Koo Wee Rup North,,no_eligible_route
+20576,Clonbinane,21381,Koo Wee Rup North,,no_eligible_route
+20581,Clyde (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20582,Clyde North,21381,Koo Wee Rup North,,no_eligible_route
+20587,Cobaw,21381,Koo Wee Rup North,,no_eligible_route
+20590,Cobblebank,21381,Koo Wee Rup North,,no_eligible_route
+20596,Coburg,21381,Koo Wee Rup North,,no_eligible_route
+20597,Coburg North,21381,Koo Wee Rup North,,no_eligible_route
+20600,Cockatoo (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20601,Cocoroc,21381,Koo Wee Rup North,,no_eligible_route
+20605,Coimadai,21381,Koo Wee Rup North,,no_eligible_route
+20613,Coldstream (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20616,Collingwood (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20624,Coolaroo,21381,Koo Wee Rup North,,no_eligible_route
+20633,Cora Lynn,21381,Koo Wee Rup North,119.9,walk_only
+20654,Cottles Bridge,21381,Koo Wee Rup North,,no_eligible_route
+20661,Craigieburn,21381,Koo Wee Rup North,,no_eligible_route
+20662,Cranbourne,21381,Koo Wee Rup North,,no_eligible_route
+20663,Cranbourne East,21381,Koo Wee Rup North,,no_eligible_route
+20664,Cranbourne North,21381,Koo Wee Rup North,,no_eligible_route
+20665,Cranbourne South,21381,Koo Wee Rup North,,no_eligible_route
+20666,Cranbourne West,21381,Koo Wee Rup North,,no_eligible_route
+20670,Cremorne (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20674,Crib Point,21381,Koo Wee Rup North,,no_eligible_route
+20682,Croydon (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20683,Croydon Hills,21381,Koo Wee Rup North,,no_eligible_route
+20684,Croydon North,21381,Koo Wee Rup North,,no_eligible_route
+20685,Croydon South,21381,Koo Wee Rup North,,no_eligible_route
+20702,Dallas,21381,Koo Wee Rup North,,no_eligible_route
+20703,Dalmore,21381,Koo Wee Rup North,168.68,walk_only
+20707,Dandenong,21381,Koo Wee Rup North,,no_eligible_route
+20708,Dandenong North,21381,Koo Wee Rup North,,no_eligible_route
+20709,Dandenong South,21381,Koo Wee Rup North,,no_eligible_route
+20712,Darley,21381,Koo Wee Rup North,,no_eligible_route
+20716,Darraweit Guim,21381,Koo Wee Rup North,,no_eligible_route
+20724,Deanside,21381,Koo Wee Rup North,,no_eligible_route
+20728,Deepdene (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20729,Deer Park,21381,Koo Wee Rup North,,no_eligible_route
+20731,Delahey,21381,Koo Wee Rup North,,no_eligible_route
+20743,Derrimut,21381,Koo Wee Rup North,,no_eligible_route
+20748,Devon Meadows,21381,Koo Wee Rup North,,no_eligible_route
+20750,Dewhurst,21381,Koo Wee Rup North,,no_eligible_route
+20752,Diamond Creek,21381,Koo Wee Rup North,,no_eligible_route
+20754,Diggers Rest,21381,Koo Wee Rup North,,no_eligible_route
+20758,Dingley Village,21381,Koo Wee Rup North,,no_eligible_route
+20762,Dixons Creek,21381,Koo Wee Rup North,,no_eligible_route
+20766,Docklands,21381,Koo Wee Rup North,,no_eligible_route
+20769,Don Valley,21381,Koo Wee Rup North,,no_eligible_route
+20771,Doncaster,21381,Koo Wee Rup North,,no_eligible_route
+20772,Doncaster East,21381,Koo Wee Rup North,,no_eligible_route
+20773,Donnybrook (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20774,Donvale,21381,Koo Wee Rup North,,no_eligible_route
+20779,Doreen,21381,Koo Wee Rup North,,no_eligible_route
+20783,Doveton,21381,Koo Wee Rup North,,no_eligible_route
+20788,Dromana,21381,Koo Wee Rup North,,no_eligible_route
+20825,Eaglemont,21381,Koo Wee Rup North,,no_eligible_route
+20830,East Melbourne,21381,Koo Wee Rup North,,no_eligible_route
+20833,East Warburton,21381,Koo Wee Rup North,,no_eligible_route
+20843,Eden Park,21381,Koo Wee Rup North,,no_eligible_route
+20848,Edithvale,21381,Koo Wee Rup North,,no_eligible_route
+20864,Elsternwick,21381,Koo Wee Rup North,,no_eligible_route
+20865,Eltham (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20866,Eltham North,21381,Koo Wee Rup North,,no_eligible_route
+20867,Elwood,21381,Koo Wee Rup North,,no_eligible_route
+20868,Emerald (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20871,Endeavour Hills,21381,Koo Wee Rup North,,no_eligible_route
+20878,Epping (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20885,Essendon,21381,Koo Wee Rup North,,no_eligible_route
+20886,Essendon Fields,21381,Koo Wee Rup North,,no_eligible_route
+20887,Essendon North,21381,Koo Wee Rup North,,no_eligible_route
+20888,Essendon West,21381,Koo Wee Rup North,,no_eligible_route
+20889,Eumemmerring,21381,Koo Wee Rup North,,no_eligible_route
+20898,Exford,21381,Koo Wee Rup North,,no_eligible_route
+20899,Eynesbury,21381,Koo Wee Rup North,,no_eligible_route
+20901,Fairfield (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20909,Fawkner,21381,Koo Wee Rup North,,no_eligible_route
+20916,Fernshaw,21381,Koo Wee Rup North,,no_eligible_route
+20917,Ferntree Gully,21381,Koo Wee Rup North,,no_eligible_route
+20918,Ferny Creek,21381,Koo Wee Rup North,,no_eligible_route
+20920,Fingal (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20924,Fitzroy (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20925,Fitzroy North,21381,Koo Wee Rup North,,no_eligible_route
+20929,Flemington,21381,Koo Wee Rup North,,no_eligible_route
+20930,Flinders (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20935,Footscray,21381,Koo Wee Rup North,,no_eligible_route
+20937,Forest Hill (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+20947,Frankston,21381,Koo Wee Rup North,,no_eligible_route
+20948,Frankston North,21381,Koo Wee Rup North,,no_eligible_route
+20949,Frankston South,21381,Koo Wee Rup North,,no_eligible_route
+20950,Fraser Rise,21381,Koo Wee Rup North,,no_eligible_route
+20965,Gardenvale,21381,Koo Wee Rup North,,no_eligible_route
+20966,Garfield,21381,Koo Wee Rup North,224.93,walk_only
+20967,Garfield North,21381,Koo Wee Rup North,,no_eligible_route
+20979,Gembrook,21381,Koo Wee Rup North,,no_eligible_route
+20995,Gilderoy,21381,Koo Wee Rup North,,no_eligible_route
+21001,Gisborne,21381,Koo Wee Rup North,,no_eligible_route
+21002,Gisborne South,21381,Koo Wee Rup North,,no_eligible_route
+21004,Gladstone Park,21381,Koo Wee Rup North,,no_eligible_route
+21005,Gladysdale,21381,Koo Wee Rup North,,no_eligible_route
+21009,Glen Huntly,21381,Koo Wee Rup North,,no_eligible_route
+21010,Glen Iris (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21013,Glen Waverley,21381,Koo Wee Rup North,,no_eligible_route
+21047,Glenroy (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21059,Goldie,21381,Koo Wee Rup North,,no_eligible_route
+21079,Gowanbrae,21381,Koo Wee Rup North,,no_eligible_route
+21087,Grangefields,21381,Koo Wee Rup North,,no_eligible_route
+21104,Greensborough,21381,Koo Wee Rup North,,no_eligible_route
+21105,Greenvale (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21115,Gruyere,21381,Koo Wee Rup North,,no_eligible_route
+21121,Guys Hill,21381,Koo Wee Rup North,,no_eligible_route
+21124,Hadfield,21381,Koo Wee Rup North,,no_eligible_route
+21125,Hallam,21381,Koo Wee Rup North,,no_eligible_route
+21131,Hampton (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21132,Hampton East,21381,Koo Wee Rup North,,no_eligible_route
+21133,Hampton Park,21381,Koo Wee Rup North,,no_eligible_route
+21139,Harkaway,21381,Koo Wee Rup North,,no_eligible_route
+21140,Harkness,21381,Koo Wee Rup North,,no_eligible_route
+21145,Hastings (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21152,Hawthorn (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21153,Hawthorn East,21381,Koo Wee Rup North,,no_eligible_route
+21158,Healesville,21381,Koo Wee Rup North,,no_eligible_route
+21159,Heath Hill,21381,Koo Wee Rup North,,no_eligible_route
+21161,Heathcote Junction,21381,Koo Wee Rup North,,no_eligible_route
+21163,Heatherton,21381,Koo Wee Rup North,,no_eligible_route
+21165,Heathmont,21381,Koo Wee Rup North,,no_eligible_route
+21167,Heidelberg,21381,Koo Wee Rup North,,no_eligible_route
+21168,Heidelberg Heights,21381,Koo Wee Rup North,,no_eligible_route
+21169,Heidelberg West,21381,Koo Wee Rup North,,no_eligible_route
+21176,Hesket,21381,Koo Wee Rup North,,no_eligible_route
+21185,Highett,21381,Koo Wee Rup North,,no_eligible_route
+21193,Hillside (Melton - Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21195,Hmas Cerberus,21381,Koo Wee Rup North,,no_eligible_route
+21196,Hoddles Creek,21381,Koo Wee Rup North,,no_eligible_route
+21202,Hopetoun Park,21381,Koo Wee Rup North,,no_eligible_route
+21203,Hoppers Crossing,21381,Koo Wee Rup North,,no_eligible_route
+21214,Hughesdale,21381,Koo Wee Rup North,,no_eligible_route
+21215,Humevale,21381,Koo Wee Rup North,,no_eligible_route
+21218,Huntingdale (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21223,Hurstbridge,21381,Koo Wee Rup North,,no_eligible_route
+21238,Iona,21381,Koo Wee Rup North,218.13,walk_only
+21246,Ivanhoe (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21247,Ivanhoe East,21381,Koo Wee Rup North,,no_eligible_route
+21248,Jacana,21381,Koo Wee Rup North,,no_eligible_route
+21277,Junction Village,21381,Koo Wee Rup North,,no_eligible_route
+21284,Kalkallo,21381,Koo Wee Rup North,,no_eligible_route
+21286,Kallista,21381,Koo Wee Rup North,,no_eligible_route
+21287,Kalorama,21381,Koo Wee Rup North,,no_eligible_route
+21294,Kangaroo Ground,21381,Koo Wee Rup North,,no_eligible_route
+21312,Kealba,21381,Koo Wee Rup North,,no_eligible_route
+21314,Keilor,21381,Koo Wee Rup North,,no_eligible_route
+21315,Keilor Downs,21381,Koo Wee Rup North,,no_eligible_route
+21316,Keilor East,21381,Koo Wee Rup North,,no_eligible_route
+21317,Keilor Lodge,21381,Koo Wee Rup North,,no_eligible_route
+21318,Keilor North,21381,Koo Wee Rup North,,no_eligible_route
+21319,Keilor Park,21381,Koo Wee Rup North,,no_eligible_route
+21327,Kensington (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21333,Kerrie,21381,Koo Wee Rup North,,no_eligible_route
+21336,Kew (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21337,Kew East,21381,Koo Wee Rup North,,no_eligible_route
+21339,Keysborough,21381,Koo Wee Rup North,,no_eligible_route
+21354,Kilsyth,21381,Koo Wee Rup North,,no_eligible_route
+21355,Kilsyth South,21381,Koo Wee Rup North,,no_eligible_route
+21358,Kinglake,21381,Koo Wee Rup North,,no_eligible_route
+21359,Kinglake Central,21381,Koo Wee Rup North,,no_eligible_route
+21360,Kinglake West,21381,Koo Wee Rup North,,no_eligible_route
+21362,Kings Park (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21363,Kingsbury,21381,Koo Wee Rup North,,no_eligible_route
+21365,Kingsville,21381,Koo Wee Rup North,,no_eligible_route
+21374,Knoxfield,21381,Koo Wee Rup North,,no_eligible_route
+21380,Koo Wee Rup,21381,Koo Wee Rup North,86.32,walk_only
+21381,Koo Wee Rup North,21381,Koo Wee Rup North,0.0,same_centroid
+21393,Kooyong,21381,Koo Wee Rup North,,no_eligible_route
+21411,Kurunjang,21381,Koo Wee Rup North,,no_eligible_route
+21452,Lalor,21381,Koo Wee Rup North,,no_eligible_route
+21456,Lancefield,21381,Koo Wee Rup North,,no_eligible_route
+21459,Lang Lang,21381,Koo Wee Rup North,,no_eligible_route
+21460,Lang Lang East,21381,Koo Wee Rup North,,no_eligible_route
+21467,Langwarrin,21381,Koo Wee Rup North,,no_eligible_route
+21468,Langwarrin South,21381,Koo Wee Rup North,,no_eligible_route
+21473,Launching Place,21381,Koo Wee Rup North,,no_eligible_route
+21476,Laverton (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21477,Laverton North,21381,Koo Wee Rup North,,no_eligible_route
+21504,Lilydale (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21533,Long Forest,21381,Koo Wee Rup North,,no_eligible_route
+21547,Lower Plenty,21381,Koo Wee Rup North,,no_eligible_route
+21554,Lynbrook,21381,Koo Wee Rup North,,no_eligible_route
+21555,Lyndhurst (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21558,Lysterfield,21381,Koo Wee Rup North,,no_eligible_route
+21559,Lysterfield South,21381,Koo Wee Rup North,,no_eligible_route
+21561,Macclesfield (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21562,Macedon,21381,Koo Wee Rup North,,no_eligible_route
+21564,Macleod (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21569,Maddingley,21381,Koo Wee Rup North,,no_eligible_route
+21575,Maidstone,21381,Koo Wee Rup North,,no_eligible_route
+21578,Main Ridge,21381,Koo Wee Rup North,,no_eligible_route
+21586,Malvern (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21587,Malvern East,21381,Koo Wee Rup North,,no_eligible_route
+21588,Mambourin,21381,Koo Wee Rup North,,no_eligible_route
+21597,Manor Lakes,21381,Koo Wee Rup North,,no_eligible_route
+21604,Maribyrnong,21381,Koo Wee Rup North,,no_eligible_route
+21619,Maryknoll,21381,Koo Wee Rup North,205.5,walk_only
+21625,McCrae,21381,Koo Wee Rup North,,no_eligible_route
+21629,McKinnon,21381,Koo Wee Rup North,,no_eligible_route
+21635,Meadow Heights,21381,Koo Wee Rup North,,no_eligible_route
+21640,Melbourne,21381,Koo Wee Rup North,,no_eligible_route
+21641,Melbourne Airport,21381,Koo Wee Rup North,,no_eligible_route
+21642,Melton (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21643,Melton South,21381,Koo Wee Rup North,,no_eligible_route
+21644,Melton West,21381,Koo Wee Rup North,,no_eligible_route
+21648,Mentone,21381,Koo Wee Rup North,,no_eligible_route
+21649,Menzies Creek,21381,Koo Wee Rup North,,no_eligible_route
+21659,Mernda,21381,Koo Wee Rup North,,no_eligible_route
+21662,Merricks,21381,Koo Wee Rup North,,no_eligible_route
+21663,Merricks Beach,21381,Koo Wee Rup North,,no_eligible_route
+21664,Merricks North,21381,Koo Wee Rup North,,no_eligible_route
+21668,Merrimu,21381,Koo Wee Rup North,,no_eligible_route
+21675,Mickleham,21381,Koo Wee Rup North,,no_eligible_route
+21677,Middle Park (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21683,Mill Park,21381,Koo Wee Rup North,,no_eligible_route
+21685,Millgrove,21381,Koo Wee Rup North,,no_eligible_route
+21706,Mitcham (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21727,Monbulk,21381,Koo Wee Rup North,,no_eligible_route
+21728,Monegeetta,21381,Koo Wee Rup North,,no_eligible_route
+21731,Monomeith,21381,Koo Wee Rup North,161.7,walk_only
+21732,Mont Albert,21381,Koo Wee Rup North,,no_eligible_route
+21733,Mont Albert North,21381,Koo Wee Rup North,,no_eligible_route
+21735,Montmorency,21381,Koo Wee Rup North,,no_eligible_route
+21736,Montrose (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21742,Moonee Ponds,21381,Koo Wee Rup North,,no_eligible_route
+21746,Moorabbin,21381,Koo Wee Rup North,,no_eligible_route
+21747,Moorabbin Airport,21381,Koo Wee Rup North,,no_eligible_route
+21754,Moorooduc,21381,Koo Wee Rup North,,no_eligible_route
+21755,Mooroolbark,21381,Koo Wee Rup North,,no_eligible_route
+21760,Mordialloc,21381,Koo Wee Rup North,,no_eligible_route
+21763,Mornington (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21779,Mount Burnett,21381,Koo Wee Rup North,,no_eligible_route
+21786,Mount Cottrell,21381,Koo Wee Rup North,,no_eligible_route
+21787,Mount Dandenong,21381,Koo Wee Rup North,,no_eligible_route
+21793,Mount Eliza,21381,Koo Wee Rup North,,no_eligible_route
+21795,Mount Evelyn,21381,Koo Wee Rup North,,no_eligible_route
+21801,Mount Macedon,21381,Koo Wee Rup North,,no_eligible_route
+21803,Mount Martha,21381,Koo Wee Rup North,,no_eligible_route
+21814,Mount Toolebewong,21381,Koo Wee Rup North,,no_eligible_route
+21816,Mount Waverley,21381,Koo Wee Rup North,,no_eligible_route
+21827,Mulgrave (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21849,Murrumbeena,21381,Koo Wee Rup North,,no_eligible_route
+21872,Nangana,21381,Koo Wee Rup North,,no_eligible_route
+21878,Nar Nar Goon,21381,Koo Wee Rup North,79.7,walk_only
+21879,Nar Nar Goon North,21381,Koo Wee Rup North,213.22,walk_only
+21893,Narre Warren,21381,Koo Wee Rup North,,no_eligible_route
+21894,Narre Warren East,21381,Koo Wee Rup North,,no_eligible_route
+21895,Narre Warren North,21381,Koo Wee Rup North,,no_eligible_route
+21896,Narre Warren South,21381,Koo Wee Rup North,,no_eligible_route
+21921,New Gisborne,21381,Koo Wee Rup North,,no_eligible_route
+21934,Newport (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+21942,Niddrie,21381,Koo Wee Rup North,,no_eligible_route
+21952,Noble Park,21381,Koo Wee Rup North,,no_eligible_route
+21953,Noble Park North,21381,Koo Wee Rup North,,no_eligible_route
+21966,North Melbourne,21381,Koo Wee Rup North,,no_eligible_route
+21969,North Warrandyte,21381,Koo Wee Rup North,,no_eligible_route
+21971,Northcote,21381,Koo Wee Rup North,,no_eligible_route
+21974,Notting Hill,21381,Koo Wee Rup North,,no_eligible_route
+21985,Nunawading,21381,Koo Wee Rup North,,no_eligible_route
+21991,Nutfield,21381,Koo Wee Rup North,,no_eligible_route
+21998,Oak Park,21381,Koo Wee Rup North,,no_eligible_route
+21999,Oaklands Junction,21381,Koo Wee Rup North,,no_eligible_route
+22000,Oakleigh,21381,Koo Wee Rup North,,no_eligible_route
+22001,Oakleigh East,21381,Koo Wee Rup North,,no_eligible_route
+22002,Oakleigh South,21381,Koo Wee Rup North,,no_eligible_route
+22006,Officer,21381,Koo Wee Rup North,,no_eligible_route
+22007,Officer South,21381,Koo Wee Rup North,238.3,walk_only
+22009,Olinda (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22016,Ormond,21381,Koo Wee Rup North,,no_eligible_route
+22027,Pakenham,21381,Koo Wee Rup North,140.77,walk_only
+22028,Pakenham South,21381,Koo Wee Rup North,60.03,walk_only
+22029,Pakenham Upper,21381,Koo Wee Rup North,,no_eligible_route
+22032,Panton Hill,21381,Koo Wee Rup North,,no_eligible_route
+22036,Park Orchards,21381,Koo Wee Rup North,,no_eligible_route
+22037,Parkdale,21381,Koo Wee Rup North,,no_eligible_route
+22038,Parkville (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22041,Pascoe Vale,21381,Koo Wee Rup North,,no_eligible_route
+22042,Pascoe Vale South,21381,Koo Wee Rup North,,no_eligible_route
+22047,Patterson Lakes,21381,Koo Wee Rup North,,no_eligible_route
+22050,Pearcedale,21381,Koo Wee Rup North,,no_eligible_route
+22058,Pentland Hills,21381,Koo Wee Rup North,,no_eligible_route
+22064,Pheasant Creek (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22084,Plenty (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22085,Plumpton (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22086,Point Cook,21381,Koo Wee Rup North,,no_eligible_route
+22087,Point Leo,21381,Koo Wee Rup North,,no_eligible_route
+22107,Port Melbourne,21381,Koo Wee Rup North,,no_eligible_route
+22113,Portsea,21381,Koo Wee Rup North,,no_eligible_route
+22115,Powelltown,21381,Koo Wee Rup North,,no_eligible_route
+22118,Prahran,21381,Koo Wee Rup North,,no_eligible_route
+22121,Preston (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22122,Princes Hill,21381,Koo Wee Rup North,,no_eligible_route
+22132,Quandong,21381,Koo Wee Rup North,,no_eligible_route
+22141,Ravenhall,21381,Koo Wee Rup North,,no_eligible_route
+22148,Red Hill (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22149,Red Hill South,21381,Koo Wee Rup North,,no_eligible_route
+22160,Research,21381,Koo Wee Rup North,,no_eligible_route
+22161,Reservoir (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22170,Richmond (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22172,Riddells Creek,21381,Koo Wee Rup North,,no_eligible_route
+22174,Ringwood (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22175,Ringwood East,21381,Koo Wee Rup North,,no_eligible_route
+22176,Ringwood North,21381,Koo Wee Rup North,,no_eligible_route
+22179,Ripponlea,21381,Koo Wee Rup North,,no_eligible_route
+22185,Rochford,21381,Koo Wee Rup North,,no_eligible_route
+22186,Rockbank,21381,Koo Wee Rup North,,no_eligible_route
+22193,Romsey,21381,Koo Wee Rup North,,no_eligible_route
+22194,Rosanna,21381,Koo Wee Rup North,,no_eligible_route
+22198,Rosebud,21381,Koo Wee Rup North,,no_eligible_route
+22207,Rowville,21381,Koo Wee Rup North,,no_eligible_route
+22208,Roxburgh Park,21381,Koo Wee Rup North,,no_eligible_route
+22220,Rye,21381,Koo Wee Rup North,,no_eligible_route
+22221,Rythdale,21381,Koo Wee Rup North,100.42,walk_only
+22222,Safety Beach (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22232,Sandhurst,21381,Koo Wee Rup North,,no_eligible_route
+22234,Sandringham (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22239,Sassafras (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22242,Scoresby,21381,Koo Wee Rup North,,no_eligible_route
+22247,Seabrook,21381,Koo Wee Rup North,,no_eligible_route
+22249,Seaford (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22250,Seaholme,21381,Koo Wee Rup North,,no_eligible_route
+22256,Seddon (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22258,Selby,21381,Koo Wee Rup North,,no_eligible_route
+22263,Seville,21381,Koo Wee Rup North,,no_eligible_route
+22264,Seville East,21381,Koo Wee Rup North,,no_eligible_route
+22278,Sherbrooke,21381,Koo Wee Rup North,,no_eligible_route
+22279,Shoreham,21381,Koo Wee Rup North,,no_eligible_route
+22281,Silvan,21381,Koo Wee Rup North,,no_eligible_route
+22291,Skye (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22295,Smiths Gully,21381,Koo Wee Rup North,,no_eligible_route
+22303,Somers,21381,Koo Wee Rup North,,no_eligible_route
+22304,Somerton (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22305,Somerville (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22306,Sorrento (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22309,South Kingsville,21381,Koo Wee Rup North,,no_eligible_route
+22310,South Melbourne,21381,Koo Wee Rup North,,no_eligible_route
+22311,South Morang,21381,Koo Wee Rup North,,no_eligible_route
+22313,South Wharf,21381,Koo Wee Rup North,,no_eligible_route
+22314,South Yarra,21381,Koo Wee Rup North,,no_eligible_route
+22315,Southbank,21381,Koo Wee Rup North,,no_eligible_route
+22319,Spotswood,21381,Koo Wee Rup North,,no_eligible_route
+22325,Springfield (Macedon Ranges - Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22328,Springvale (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22329,Springvale South,21381,Koo Wee Rup North,,no_eligible_route
+22330,St Albans (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22332,St Andrews (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22333,St Andrews Beach,21381,Koo Wee Rup North,,no_eligible_route
+22339,St Helena,21381,Koo Wee Rup North,,no_eligible_route
+22343,St Kilda (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22344,St Kilda East,21381,Koo Wee Rup North,,no_eligible_route
+22345,St Kilda West,21381,Koo Wee Rup North,,no_eligible_route
+22355,Steels Creek,21381,Koo Wee Rup North,,no_eligible_route
+22375,Strathewen,21381,Koo Wee Rup North,,no_eligible_route
+22380,Strathmore (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22381,Strathmore Heights,21381,Koo Wee Rup North,,no_eligible_route
+22382,Strathtulloh,21381,Koo Wee Rup North,,no_eligible_route
+22391,Sunbury,21381,Koo Wee Rup North,,no_eligible_route
+22395,Sunshine (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22396,Sunshine North,21381,Koo Wee Rup North,,no_eligible_route
+22397,Sunshine West,21381,Koo Wee Rup North,,no_eligible_route
+22399,Surrey Hills,21381,Koo Wee Rup North,,no_eligible_route
+22414,Sydenham (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22451,Tarneit,21381,Koo Wee Rup North,,no_eligible_route
+22457,Tarrawarra,21381,Koo Wee Rup North,,no_eligible_route
+22473,Taylors Hill,21381,Koo Wee Rup North,,no_eligible_route
+22474,Taylors Lakes,21381,Koo Wee Rup North,,no_eligible_route
+22476,Tecoma,21381,Koo Wee Rup North,,no_eligible_route
+22483,Templestowe,21381,Koo Wee Rup North,,no_eligible_route
+22484,Templestowe Lower,21381,Koo Wee Rup North,,no_eligible_route
+22496,The Basin (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22501,The Patch,21381,Koo Wee Rup North,,no_eligible_route
+22504,Thomastown,21381,Koo Wee Rup North,,no_eligible_route
+22508,Thornbury,21381,Koo Wee Rup North,,no_eligible_route
+22509,Thornhill Park,21381,Koo Wee Rup North,,no_eligible_route
+22514,Three Bridges,21381,Koo Wee Rup North,,no_eligible_route
+22531,Tonimbuk,21381,Koo Wee Rup North,,no_eligible_route
+22536,Toolangi,21381,Koo Wee Rup North,,no_eligible_route
+22537,Toolern Vale,21381,Koo Wee Rup North,,no_eligible_route
+22546,Tooradin,21381,Koo Wee Rup North,234.48,walk_only
+22547,Toorak,21381,Koo Wee Rup North,,no_eligible_route
+22550,Tootgarook,21381,Koo Wee Rup North,,no_eligible_route
+22556,Tottenham (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22572,Travancore,21381,Koo Wee Rup North,,no_eligible_route
+22576,Tremont,21381,Koo Wee Rup North,,no_eligible_route
+22582,Truganina,21381,Koo Wee Rup North,,no_eligible_route
+22584,Tuerong,21381,Koo Wee Rup North,,no_eligible_route
+22586,Tullamarine,21381,Koo Wee Rup North,,no_eligible_route
+22594,Tyabb,21381,Koo Wee Rup North,,no_eligible_route
+22598,Tynong,21381,Koo Wee Rup North,159.62,walk_only
+22599,Tynong North,21381,Koo Wee Rup North,,no_eligible_route
+22614,Upper Ferntree Gully,21381,Koo Wee Rup North,,no_eligible_route
+22617,Upper Plenty,21381,Koo Wee Rup North,,no_eligible_route
+22620,Upwey,21381,Koo Wee Rup North,,no_eligible_route
+22627,Vermont,21381,Koo Wee Rup North,,no_eligible_route
+22628,Vermont South,21381,Koo Wee Rup North,,no_eligible_route
+22629,Vervale,21381,Koo Wee Rup North,167.15,walk_only
+22633,Viewbank,21381,Koo Wee Rup North,,no_eligible_route
+22661,Wallan,21381,Koo Wee Rup North,,no_eligible_route
+22672,Wandin East,21381,Koo Wee Rup North,,no_eligible_route
+22673,Wandin North,21381,Koo Wee Rup North,,no_eligible_route
+22676,Wandong,21381,Koo Wee Rup North,,no_eligible_route
+22685,Wantirna,21381,Koo Wee Rup North,,no_eligible_route
+22686,Wantirna South,21381,Koo Wee Rup North,,no_eligible_route
+22689,Warburton (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22695,Warneet,21381,Koo Wee Rup North,,no_eligible_route
+22702,Warrandyte,21381,Koo Wee Rup North,,no_eligible_route
+22703,Warrandyte South,21381,Koo Wee Rup North,,no_eligible_route
+22704,Warranwood,21381,Koo Wee Rup North,,no_eligible_route
+22717,Waterford Park,21381,Koo Wee Rup North,,no_eligible_route
+22720,Waterways,21381,Koo Wee Rup North,,no_eligible_route
+22721,Watsonia,21381,Koo Wee Rup North,,no_eligible_route
+22722,Watsonia North,21381,Koo Wee Rup North,,no_eligible_route
+22723,Watsons Creek (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22727,Wattle Glen,21381,Koo Wee Rup North,,no_eligible_route
+22740,Weir Views,21381,Koo Wee Rup North,,no_eligible_route
+22750,Werribee,21381,Koo Wee Rup North,,no_eligible_route
+22751,Werribee South,21381,Koo Wee Rup North,,no_eligible_route
+22753,Wesburn,21381,Koo Wee Rup North,,no_eligible_route
+22756,West Footscray,21381,Koo Wee Rup North,,no_eligible_route
+22757,West Melbourne,21381,Koo Wee Rup North,,no_eligible_route
+22761,Westmeadows,21381,Koo Wee Rup North,,no_eligible_route
+22766,Wheelers Hill,21381,Koo Wee Rup North,,no_eligible_route
+22775,Whittlesea,21381,Koo Wee Rup North,,no_eligible_route
+22784,Wildwood,21381,Koo Wee Rup North,,no_eligible_route
+22791,Williams Landing,21381,Koo Wee Rup North,,no_eligible_route
+22792,Williamstown (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22793,Williamstown North,21381,Koo Wee Rup North,,no_eligible_route
+22805,Windsor (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22820,Wollert,21381,Koo Wee Rup North,,no_eligible_route
+22825,Wonga Park,21381,Koo Wee Rup North,,no_eligible_route
+22843,Woodstock (Vic.),21381,Koo Wee Rup North,,no_eligible_route
+22857,Woori Yallock,21381,Koo Wee Rup North,,no_eligible_route
+22883,Wyndham Vale,21381,Koo Wee Rup North,,no_eligible_route
+22892,Yallambie,21381,Koo Wee Rup North,,no_eligible_route
+22898,Yan Yean,21381,Koo Wee Rup North,,no_eligible_route
+22906,Yannathan,21381,Koo Wee Rup North,199.53,walk_only
+22910,Yarra Glen,21381,Koo Wee Rup North,,no_eligible_route
+22911,Yarra Junction,21381,Koo Wee Rup North,,no_eligible_route
+22916,Yarrambat,21381,Koo Wee Rup North,,no_eligible_route
+22917,Yarraville,21381,Koo Wee Rup North,,no_eligible_route
+22925,Yellingbo,21381,Koo Wee Rup North,,no_eligible_route
+22930,Yering,21381,Koo Wee Rup North,,no_eligible_route
+22941,Yuroke,21381,Koo Wee Rup North,,no_eligible_route

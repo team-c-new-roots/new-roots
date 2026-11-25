@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21163,Heatherton,80.03,ok
+20003,Aberfeldie,21163,Heatherton,103.58,ok
+20011,Aintree,21163,Heatherton,126.32,ok
+20015,Airport West,21163,Heatherton,116.68,ok
+20017,Albanvale,21163,Heatherton,112.4,ok
+20018,Albert Park (Vic.),21163,Heatherton,80.38,ok
+20021,Albion (Vic.),21163,Heatherton,87.18,ok
+20034,Alphington,21163,Heatherton,83.2,ok
+20035,Altona (Vic.),21163,Heatherton,120.28,ok
+20036,Altona Meadows,21163,Heatherton,116.28,ok
+20037,Altona North,21163,Heatherton,113.68,ok
+20062,Ardeer,21163,Heatherton,99.33,ok
+20066,Armadale (Vic.),21163,Heatherton,52.42,ok
+20071,Arthurs Creek,21163,Heatherton,,no_eligible_route
+20072,Arthurs Seat,21163,Heatherton,156.03,ok
+20075,Ascot Vale,21163,Heatherton,93.12,ok
+20077,Ashburton,21163,Heatherton,70.25,ok
+20078,Ashwood,21163,Heatherton,61.98,ok
+20079,Aspendale,21163,Heatherton,51.77,ok
+20080,Aspendale Gardens,21163,Heatherton,71.02,ok
+20082,Attwood,21163,Heatherton,125.4,ok
+20089,Avondale Heights,21163,Heatherton,100.72,ok
+20091,Avonsleigh,21163,Heatherton,151.62,ok
+20095,Bacchus Marsh,21163,Heatherton,,no_eligible_route
+20097,Badger Creek,21163,Heatherton,,no_eligible_route
+20105,Balaclava (Vic.),21163,Heatherton,64.97,ok
+20120,Balnarring,21163,Heatherton,169.38,ok
+20121,Balnarring Beach,21163,Heatherton,165.92,ok
+20123,Balwyn,21163,Heatherton,93.8,ok
+20124,Balwyn North,21163,Heatherton,101.13,ok
+20131,Bangholme,21163,Heatherton,108.37,ok
+20169,Baxter,21163,Heatherton,94.75,ok
+20171,Bayles,21163,Heatherton,,no_eligible_route
+20173,Bayswater (Vic.),21163,Heatherton,100.68,ok
+20174,Bayswater North,21163,Heatherton,111.85,ok
+20175,Beaconsfield (Vic.),21163,Heatherton,95.13,ok
+20176,Beaconsfield Upper,21163,Heatherton,,no_eligible_route
+20182,Beaumaris (Vic.),21163,Heatherton,37.88,ok
+20187,Beenak,21163,Heatherton,,no_eligible_route
+20188,Belgrave,21163,Heatherton,109.87,ok
+20189,Belgrave Heights,21163,Heatherton,135.43,ok
+20190,Belgrave South,21163,Heatherton,134.42,ok
+20198,Bellfield (Banyule - Vic.),21163,Heatherton,102.95,ok
+20207,Bend Of Islands,21163,Heatherton,,no_eligible_route
+20212,Benloch,21163,Heatherton,,no_eligible_route
+20214,Bentleigh,21163,Heatherton,42.57,ok
+20215,Bentleigh East,21163,Heatherton,36.7,ok
+20224,Berwick,21163,Heatherton,67.93,ok
+20233,Beveridge,21163,Heatherton,163.95,ok
+20237,Big Pats Creek,21163,Heatherton,,no_eligible_route
+20248,Bittern,21163,Heatherton,120.1,ok
+20251,Black Rock (Vic.),21163,Heatherton,48.45,ok
+20252,Blackburn,21163,Heatherton,69.38,ok
+20253,Blackburn North,21163,Heatherton,93.68,ok
+20254,Blackburn South,21163,Heatherton,75.58,ok
+20257,Blairgowrie,21163,Heatherton,156.07,ok
+20260,Blind Bight,21163,Heatherton,,no_eligible_route
+20272,Bolinda,21163,Heatherton,,no_eligible_route
+20278,Bonbeach,21163,Heatherton,56.77,ok
+20280,Boneo,21163,Heatherton,,no_eligible_route
+20282,Bonnie Brook,21163,Heatherton,158.87,ok
+20304,Boronia,21163,Heatherton,99.63,ok
+20307,Botanic Ridge,21163,Heatherton,100.8,ok
+20314,Box Hill (Vic.),21163,Heatherton,58.98,ok
+20315,Box Hill North,21163,Heatherton,81.97,ok
+20316,Box Hill South,21163,Heatherton,66.85,ok
+20320,Braeside,21163,Heatherton,45.5,ok
+20324,Braybrook,21163,Heatherton,93.97,ok
+20331,Briar Hill,21163,Heatherton,123.13,ok
+20337,Brighton (Vic.),21163,Heatherton,55.68,ok
+20338,Brighton East,21163,Heatherton,53.33,ok
+20346,Broadmeadows (Vic.),21163,Heatherton,119.03,ok
+20351,Brookfield (Vic.),21163,Heatherton,183.37,ok
+20352,Brooklyn (Vic.),21163,Heatherton,104.87,ok
+20361,Brunswick (Vic.),21163,Heatherton,84.93,ok
+20362,Brunswick East,21163,Heatherton,89.22,ok
+20363,Brunswick West,21163,Heatherton,86.32,ok
+20381,Bulla (Vic.),21163,Heatherton,167.55,ok
+20386,Bulleen,21163,Heatherton,107.12,ok
+20387,Bullengarook,21163,Heatherton,,no_eligible_route
+20399,Bundoora (Vic.),21163,Heatherton,110.93,ok
+20411,Bunyip,21163,Heatherton,,no_eligible_route
+20412,Bunyip North,21163,Heatherton,,no_eligible_route
+20418,Burnley,21163,Heatherton,83.52,ok
+20419,Burnside (Vic.),21163,Heatherton,111.22,ok
+20420,Burnside Heights,21163,Heatherton,119.22,ok
+20426,Burwood (Vic.),21163,Heatherton,63.92,ok
+20427,Burwood East,21163,Heatherton,59.77,ok
+20435,Bylands,21163,Heatherton,,no_eligible_route
+20441,Cairnlea,21163,Heatherton,94.4,ok
+20442,Calder Park,21163,Heatherton,132.97,ok
+20443,Caldermeade,21163,Heatherton,,no_eligible_route
+20453,Camberwell (Vic.),21163,Heatherton,77.63,ok
+20455,Campbellfield,21163,Heatherton,130.68,ok
+20466,Cannons Creek,21163,Heatherton,,no_eligible_route
+20468,Canterbury (Vic.),21163,Heatherton,85.45,ok
+20474,Cape Schanck,21163,Heatherton,,no_eligible_route
+20476,Capel Sound,21163,Heatherton,140.42,ok
+20487,Cardinia,21163,Heatherton,,no_eligible_route
+20495,Carlton (Vic.),21163,Heatherton,69.4,ok
+20496,Carlton North,21163,Heatherton,90.2,ok
+20498,Carnegie,21163,Heatherton,47.73,ok
+20500,Caroline Springs,21163,Heatherton,114.1,ok
+20507,Carrum,21163,Heatherton,55.58,ok
+20508,Carrum Downs,21163,Heatherton,78.68,ok
+20512,Castella,21163,Heatherton,,no_eligible_route
+20517,Catani,21163,Heatherton,,no_eligible_route
+20521,Caulfield,21163,Heatherton,60.2,ok
+20522,Caulfield East,21163,Heatherton,45.4,ok
+20523,Caulfield North,21163,Heatherton,50.42,ok
+20524,Caulfield South,21163,Heatherton,54.78,ok
+20528,Chadstone,21163,Heatherton,57.52,ok
+20537,Chelsea,21163,Heatherton,53.83,ok
+20538,Chelsea Heights,21163,Heatherton,74.52,ok
+20539,Cheltenham (Vic.),21163,Heatherton,18.83,ok
+20541,Cherokee,21163,Heatherton,,no_eligible_route
+20555,Chintin,21163,Heatherton,,no_eligible_route
+20556,Chirnside Park,21163,Heatherton,136.05,ok
+20559,Christmas Hills (Vic.),21163,Heatherton,,no_eligible_route
+20560,Chum Creek,21163,Heatherton,,no_eligible_route
+20566,Clarinda,21163,Heatherton,15.97,ok
+20567,Clarkefield,21163,Heatherton,,no_eligible_route
+20569,Clayton,21163,Heatherton,35.12,ok
+20570,Clayton South,21163,Heatherton,21.28,ok
+20572,Clematis,21163,Heatherton,,no_eligible_route
+20574,Clifton Hill,21163,Heatherton,77.28,ok
+20576,Clonbinane,21163,Heatherton,,no_eligible_route
+20581,Clyde (Vic.),21163,Heatherton,,no_eligible_route
+20582,Clyde North,21163,Heatherton,87.4,ok
+20587,Cobaw,21163,Heatherton,,no_eligible_route
+20590,Cobblebank,21163,Heatherton,168.02,ok
+20596,Coburg,21163,Heatherton,90.67,ok
+20597,Coburg North,21163,Heatherton,100.23,ok
+20600,Cockatoo (Vic.),21163,Heatherton,155.3,ok
+20601,Cocoroc,21163,Heatherton,,no_eligible_route
+20605,Coimadai,21163,Heatherton,,no_eligible_route
+20613,Coldstream (Vic.),21163,Heatherton,,no_eligible_route
+20616,Collingwood (Vic.),21163,Heatherton,78.63,ok
+20624,Coolaroo,21163,Heatherton,116.63,ok
+20633,Cora Lynn,21163,Heatherton,,no_eligible_route
+20654,Cottles Bridge,21163,Heatherton,,no_eligible_route
+20661,Craigieburn,21163,Heatherton,138.47,ok
+20662,Cranbourne,21163,Heatherton,68.8,ok
+20663,Cranbourne East,21163,Heatherton,84.9,ok
+20664,Cranbourne North,21163,Heatherton,74.13,ok
+20665,Cranbourne South,21163,Heatherton,104.15,ok
+20666,Cranbourne West,21163,Heatherton,72.5,ok
+20670,Cremorne (Vic.),21163,Heatherton,68.02,ok
+20674,Crib Point,21163,Heatherton,129.07,ok
+20682,Croydon (Vic.),21163,Heatherton,98.78,ok
+20683,Croydon Hills,21163,Heatherton,120.1,ok
+20684,Croydon North,21163,Heatherton,124.53,ok
+20685,Croydon South,21163,Heatherton,120.6,ok
+20702,Dallas,21163,Heatherton,119.03,ok
+20703,Dalmore,21163,Heatherton,,no_eligible_route
+20707,Dandenong,21163,Heatherton,51.57,ok
+20708,Dandenong North,21163,Heatherton,76.2,ok
+20709,Dandenong South,21163,Heatherton,70.9,ok
+20712,Darley,21163,Heatherton,,no_eligible_route
+20716,Darraweit Guim,21163,Heatherton,,no_eligible_route
+20724,Deanside,21163,Heatherton,135.47,ok
+20728,Deepdene (Vic.),21163,Heatherton,86.3,ok
+20729,Deer Park,21163,Heatherton,97.17,ok
+20731,Delahey,21163,Heatherton,109.83,ok
+20743,Derrimut,21163,Heatherton,127.73,ok
+20748,Devon Meadows,21163,Heatherton,,no_eligible_route
+20750,Dewhurst,21163,Heatherton,,no_eligible_route
+20752,Diamond Creek,21163,Heatherton,127.52,ok
+20754,Diggers Rest,21163,Heatherton,117.28,ok
+20758,Dingley Village,21163,Heatherton,45.12,ok
+20762,Dixons Creek,21163,Heatherton,,no_eligible_route
+20766,Docklands,21163,Heatherton,74.22,ok
+20769,Don Valley,21163,Heatherton,,no_eligible_route
+20771,Doncaster,21163,Heatherton,86.77,ok
+20772,Doncaster East,21163,Heatherton,99.65,ok
+20773,Donnybrook (Vic.),21163,Heatherton,147.48,ok
+20774,Donvale,21163,Heatherton,103.38,ok
+20779,Doreen,21163,Heatherton,149.0,ok
+20783,Doveton,21163,Heatherton,71.37,ok
+20788,Dromana,21163,Heatherton,154.03,ok
+20825,Eaglemont,21163,Heatherton,103.53,ok
+20830,East Melbourne,21163,Heatherton,69.8,ok
+20833,East Warburton,21163,Heatherton,,no_eligible_route
+20843,Eden Park,21163,Heatherton,,no_eligible_route
+20848,Edithvale,21163,Heatherton,53.97,ok
+20864,Elsternwick,21163,Heatherton,62.57,ok
+20865,Eltham (Vic.),21163,Heatherton,125.75,ok
+20866,Eltham North,21163,Heatherton,128.63,ok
+20867,Elwood,21163,Heatherton,72.12,ok
+20868,Emerald (Vic.),21163,Heatherton,141.97,ok
+20871,Endeavour Hills,21163,Heatherton,78.85,ok
+20878,Epping (Vic.),21163,Heatherton,143.05,ok
+20885,Essendon,21163,Heatherton,98.68,ok
+20886,Essendon Fields,21163,Heatherton,119.73,ok
+20887,Essendon North,21163,Heatherton,100.73,ok
+20888,Essendon West,21163,Heatherton,103.2,ok
+20889,Eumemmerring,21163,Heatherton,68.53,ok
+20898,Exford,21163,Heatherton,,no_eligible_route
+20899,Eynesbury,21163,Heatherton,,no_eligible_route
+20901,Fairfield (Vic.),21163,Heatherton,91.52,ok
+20909,Fawkner,21163,Heatherton,123.13,ok
+20916,Fernshaw,21163,Heatherton,,no_eligible_route
+20917,Ferntree Gully,21163,Heatherton,84.52,ok
+20918,Ferny Creek,21163,Heatherton,147.05,ok
+20920,Fingal (Vic.),21163,Heatherton,,no_eligible_route
+20924,Fitzroy (Vic.),21163,Heatherton,72.82,ok
+20925,Fitzroy North,21163,Heatherton,80.42,ok
+20929,Flemington,21163,Heatherton,91.55,ok
+20930,Flinders (Vic.),21163,Heatherton,,no_eligible_route
+20935,Footscray,21163,Heatherton,74.6,ok
+20937,Forest Hill (Vic.),21163,Heatherton,75.08,ok
+20947,Frankston,21163,Heatherton,71.55,ok
+20948,Frankston North,21163,Heatherton,82.85,ok
+20949,Frankston South,21163,Heatherton,100.73,ok
+20950,Fraser Rise,21163,Heatherton,143.72,ok
+20965,Gardenvale,21163,Heatherton,58.78,ok
+20966,Garfield,21163,Heatherton,,no_eligible_route
+20967,Garfield North,21163,Heatherton,,no_eligible_route
+20979,Gembrook,21163,Heatherton,,no_eligible_route
+20995,Gilderoy,21163,Heatherton,,no_eligible_route
+21001,Gisborne,21163,Heatherton,,no_eligible_route
+21002,Gisborne South,21163,Heatherton,,no_eligible_route
+21004,Gladstone Park,21163,Heatherton,133.23,ok
+21005,Gladysdale,21163,Heatherton,,no_eligible_route
+21009,Glen Huntly,21163,Heatherton,51.15,ok
+21010,Glen Iris (Vic.),21163,Heatherton,77.37,ok
+21013,Glen Waverley,21163,Heatherton,63.68,ok
+21047,Glenroy (Vic.),21163,Heatherton,113.42,ok
+21059,Goldie,21163,Heatherton,,no_eligible_route
+21079,Gowanbrae,21163,Heatherton,122.68,ok
+21087,Grangefields,21163,Heatherton,163.32,ok
+21104,Greensborough,21163,Heatherton,110.07,ok
+21105,Greenvale (Vic.),21163,Heatherton,145.27,ok
+21115,Gruyere,21163,Heatherton,,no_eligible_route
+21121,Guys Hill,21163,Heatherton,,no_eligible_route
+21124,Hadfield,21163,Heatherton,106.17,ok
+21125,Hallam,21163,Heatherton,73.05,ok
+21131,Hampton (Vic.),21163,Heatherton,53.63,ok
+21132,Hampton East,21163,Heatherton,46.87,ok
+21133,Hampton Park,21163,Heatherton,73.47,ok
+21139,Harkaway,21163,Heatherton,,no_eligible_route
+21140,Harkness,21163,Heatherton,184.85,ok
+21145,Hastings (Vic.),21163,Heatherton,115.98,ok
+21152,Hawthorn (Vic.),21163,Heatherton,69.93,ok
+21153,Hawthorn East,21163,Heatherton,77.32,ok
+21158,Healesville,21163,Heatherton,,no_eligible_route
+21159,Heath Hill,21163,Heatherton,,no_eligible_route
+21161,Heathcote Junction,21163,Heatherton,,no_eligible_route
+21163,Heatherton,21163,Heatherton,0.0,same_centroid
+21165,Heathmont,21163,Heatherton,90.95,ok
+21167,Heidelberg,21163,Heatherton,102.68,ok
+21168,Heidelberg Heights,21163,Heatherton,103.87,ok
+21169,Heidelberg West,21163,Heatherton,105.05,ok
+21176,Hesket,21163,Heatherton,,no_eligible_route
+21185,Highett,21163,Heatherton,34.43,ok
+21193,Hillside (Melton - Vic.),21163,Heatherton,116.35,ok
+21195,Hmas Cerberus,21163,Heatherton,162.27,ok
+21196,Hoddles Creek,21163,Heatherton,,no_eligible_route
+21202,Hopetoun Park,21163,Heatherton,,no_eligible_route
+21203,Hoppers Crossing,21163,Heatherton,120.2,ok
+21214,Hughesdale,21163,Heatherton,40.28,ok
+21215,Humevale,21163,Heatherton,,no_eligible_route
+21218,Huntingdale (Vic.),21163,Heatherton,40.52,ok
+21223,Hurstbridge,21163,Heatherton,128.07,ok
+21238,Iona,21163,Heatherton,,no_eligible_route
+21246,Ivanhoe (Vic.),21163,Heatherton,87.8,ok
+21247,Ivanhoe East,21163,Heatherton,96.22,ok
+21248,Jacana,21163,Heatherton,118.45,ok
+21277,Junction Village,21163,Heatherton,122.13,ok
+21284,Kalkallo,21163,Heatherton,155.48,ok
+21286,Kallista,21163,Heatherton,,no_eligible_route
+21287,Kalorama,21163,Heatherton,132.75,ok
+21294,Kangaroo Ground,21163,Heatherton,167.3,ok
+21312,Kealba,21163,Heatherton,104.43,ok
+21314,Keilor,21163,Heatherton,139.33,ok
+21315,Keilor Downs,21163,Heatherton,114.53,ok
+21316,Keilor East,21163,Heatherton,112.35,ok
+21317,Keilor Lodge,21163,Heatherton,112.15,ok
+21318,Keilor North,21163,Heatherton,118.22,ok
+21319,Keilor Park,21163,Heatherton,125.48,ok
+21327,Kensington (Vic.),21163,Heatherton,76.82,ok
+21333,Kerrie,21163,Heatherton,,no_eligible_route
+21336,Kew (Vic.),21163,Heatherton,83.97,ok
+21337,Kew East,21163,Heatherton,99.27,ok
+21339,Keysborough,21163,Heatherton,66.65,ok
+21354,Kilsyth,21163,Heatherton,122.13,ok
+21355,Kilsyth South,21163,Heatherton,126.22,ok
+21358,Kinglake,21163,Heatherton,,no_eligible_route
+21359,Kinglake Central,21163,Heatherton,,no_eligible_route
+21360,Kinglake West,21163,Heatherton,,no_eligible_route
+21362,Kings Park (Vic.),21163,Heatherton,107.53,ok
+21363,Kingsbury,21163,Heatherton,111.15,ok
+21365,Kingsville,21163,Heatherton,83.67,ok
+21374,Knoxfield,21163,Heatherton,77.98,ok
+21380,Koo Wee Rup,21163,Heatherton,,no_eligible_route
+21381,Koo Wee Rup North,21163,Heatherton,,no_eligible_route
+21393,Kooyong,21163,Heatherton,72.72,ok
+21411,Kurunjang,21163,Heatherton,162.05,ok
+21452,Lalor,21163,Heatherton,110.48,ok
+21456,Lancefield,21163,Heatherton,,no_eligible_route
+21459,Lang Lang,21163,Heatherton,,no_eligible_route
+21460,Lang Lang East,21163,Heatherton,,no_eligible_route
+21467,Langwarrin,21163,Heatherton,87.52,ok
+21468,Langwarrin South,21163,Heatherton,,no_eligible_route
+21473,Launching Place,21163,Heatherton,150.43,ok
+21476,Laverton (Vic.),21163,Heatherton,103.97,ok
+21477,Laverton North,21163,Heatherton,135.32,ok
+21504,Lilydale (Vic.),21163,Heatherton,130.08,ok
+21533,Long Forest,21163,Heatherton,,no_eligible_route
+21547,Lower Plenty,21163,Heatherton,134.52,ok
+21554,Lynbrook,21163,Heatherton,61.3,ok
+21555,Lyndhurst (Vic.),21163,Heatherton,102.88,ok
+21558,Lysterfield,21163,Heatherton,134.37,ok
+21559,Lysterfield South,21163,Heatherton,126.62,ok
+21561,Macclesfield (Vic.),21163,Heatherton,,no_eligible_route
+21562,Macedon,21163,Heatherton,,no_eligible_route
+21564,Macleod (Vic.),21163,Heatherton,105.15,ok
+21569,Maddingley,21163,Heatherton,,no_eligible_route
+21575,Maidstone,21163,Heatherton,89.42,ok
+21578,Main Ridge,21163,Heatherton,,no_eligible_route
+21586,Malvern (Vic.),21163,Heatherton,62.4,ok
+21587,Malvern East,21163,Heatherton,52.85,ok
+21588,Mambourin,21163,Heatherton,,no_eligible_route
+21597,Manor Lakes,21163,Heatherton,165.82,ok
+21604,Maribyrnong,21163,Heatherton,95.22,ok
+21619,Maryknoll,21163,Heatherton,,no_eligible_route
+21625,McCrae,21163,Heatherton,127.62,ok
+21629,McKinnon,21163,Heatherton,39.15,ok
+21635,Meadow Heights,21163,Heatherton,131.33,ok
+21640,Melbourne,21163,Heatherton,60.2,ok
+21641,Melbourne Airport,21163,Heatherton,,no_eligible_route
+21642,Melton (Vic.),21163,Heatherton,170.23,ok
+21643,Melton South,21163,Heatherton,182.6,ok
+21644,Melton West,21163,Heatherton,158.23,ok
+21648,Mentone,21163,Heatherton,25.73,ok
+21649,Menzies Creek,21163,Heatherton,,no_eligible_route
+21659,Mernda,21163,Heatherton,145.97,ok
+21662,Merricks,21163,Heatherton,,no_eligible_route
+21663,Merricks Beach,21163,Heatherton,,no_eligible_route
+21664,Merricks North,21163,Heatherton,,no_eligible_route
+21668,Merrimu,21163,Heatherton,,no_eligible_route
+21675,Mickleham,21163,Heatherton,168.47,ok
+21677,Middle Park (Vic.),21163,Heatherton,83.57,ok
+21683,Mill Park,21163,Heatherton,136.57,ok
+21685,Millgrove,21163,Heatherton,,no_eligible_route
+21706,Mitcham (Vic.),21163,Heatherton,89.68,ok
+21727,Monbulk,21163,Heatherton,154.93,ok
+21728,Monegeetta,21163,Heatherton,,no_eligible_route
+21731,Monomeith,21163,Heatherton,,no_eligible_route
+21732,Mont Albert,21163,Heatherton,81.93,ok
+21733,Mont Albert North,21163,Heatherton,93.65,ok
+21735,Montmorency,21163,Heatherton,112.72,ok
+21736,Montrose (Vic.),21163,Heatherton,125.05,ok
+21742,Moonee Ponds,21163,Heatherton,78.88,ok
+21746,Moorabbin,21163,Heatherton,35.72,ok
+21747,Moorabbin Airport,21163,Heatherton,28.25,ok
+21754,Moorooduc,21163,Heatherton,124.2,ok
+21755,Mooroolbark,21163,Heatherton,114.98,ok
+21760,Mordialloc,21163,Heatherton,37.05,ok
+21763,Mornington (Vic.),21163,Heatherton,104.42,ok
+21779,Mount Burnett,21163,Heatherton,,no_eligible_route
+21786,Mount Cottrell,21163,Heatherton,,no_eligible_route
+21787,Mount Dandenong,21163,Heatherton,132.05,ok
+21793,Mount Eliza,21163,Heatherton,82.6,ok
+21795,Mount Evelyn,21163,Heatherton,140.92,ok
+21801,Mount Macedon,21163,Heatherton,,no_eligible_route
+21803,Mount Martha,21163,Heatherton,109.13,ok
+21814,Mount Toolebewong,21163,Heatherton,,no_eligible_route
+21816,Mount Waverley,21163,Heatherton,48.83,ok
+21827,Mulgrave (Vic.),21163,Heatherton,64.33,ok
+21849,Murrumbeena,21163,Heatherton,44.78,ok
+21872,Nangana,21163,Heatherton,,no_eligible_route
+21878,Nar Nar Goon,21163,Heatherton,,no_eligible_route
+21879,Nar Nar Goon North,21163,Heatherton,,no_eligible_route
+21893,Narre Warren,21163,Heatherton,72.02,ok
+21894,Narre Warren East,21163,Heatherton,,no_eligible_route
+21895,Narre Warren North,21163,Heatherton,84.3,ok
+21896,Narre Warren South,21163,Heatherton,78.85,ok
+21921,New Gisborne,21163,Heatherton,,no_eligible_route
+21934,Newport (Vic.),21163,Heatherton,88.82,ok
+21942,Niddrie,21163,Heatherton,112.68,ok
+21952,Noble Park,21163,Heatherton,42.3,ok
+21953,Noble Park North,21163,Heatherton,77.85,ok
+21966,North Melbourne,21163,Heatherton,69.4,ok
+21969,North Warrandyte,21163,Heatherton,138.28,ok
+21971,Northcote,21163,Heatherton,88.22,ok
+21974,Notting Hill,21163,Heatherton,42.93,ok
+21985,Nunawading,21163,Heatherton,76.62,ok
+21991,Nutfield,21163,Heatherton,,no_eligible_route
+21998,Oak Park,21163,Heatherton,97.2,ok
+21999,Oaklands Junction,21163,Heatherton,,no_eligible_route
+22000,Oakleigh,21163,Heatherton,41.05,ok
+22001,Oakleigh East,21163,Heatherton,47.68,ok
+22002,Oakleigh South,21163,Heatherton,30.9,ok
+22006,Officer,21163,Heatherton,87.58,ok
+22007,Officer South,21163,Heatherton,144.25,ok
+22009,Olinda (Vic.),21163,Heatherton,147.37,ok
+22016,Ormond,21163,Heatherton,39.7,ok
+22027,Pakenham,21163,Heatherton,86.63,ok
+22028,Pakenham South,21163,Heatherton,,no_eligible_route
+22029,Pakenham Upper,21163,Heatherton,,no_eligible_route
+22032,Panton Hill,21163,Heatherton,,no_eligible_route
+22036,Park Orchards,21163,Heatherton,112.65,ok
+22037,Parkdale,21163,Heatherton,43.15,ok
+22038,Parkville (Vic.),21163,Heatherton,78.02,ok
+22041,Pascoe Vale,21163,Heatherton,110.48,ok
+22042,Pascoe Vale South,21163,Heatherton,97.6,ok
+22047,Patterson Lakes,21163,Heatherton,65.45,ok
+22050,Pearcedale,21163,Heatherton,121.45,ok
+22058,Pentland Hills,21163,Heatherton,,no_eligible_route
+22064,Pheasant Creek (Vic.),21163,Heatherton,,no_eligible_route
+22084,Plenty (Vic.),21163,Heatherton,141.65,ok
+22085,Plumpton (Vic.),21163,Heatherton,,no_eligible_route
+22086,Point Cook,21163,Heatherton,132.12,ok
+22087,Point Leo,21163,Heatherton,,no_eligible_route
+22107,Port Melbourne,21163,Heatherton,88.73,ok
+22113,Portsea,21163,Heatherton,171.92,ok
+22115,Powelltown,21163,Heatherton,,no_eligible_route
+22118,Prahran,21163,Heatherton,67.58,ok
+22121,Preston (Vic.),21163,Heatherton,98.0,ok
+22122,Princes Hill,21163,Heatherton,80.17,ok
+22132,Quandong,21163,Heatherton,,no_eligible_route
+22141,Ravenhall,21163,Heatherton,145.92,ok
+22148,Red Hill (Vic.),21163,Heatherton,,no_eligible_route
+22149,Red Hill South,21163,Heatherton,,no_eligible_route
+22160,Research,21163,Heatherton,132.15,ok
+22161,Reservoir (Vic.),21163,Heatherton,107.3,ok
+22170,Richmond (Vic.),21163,Heatherton,74.33,ok
+22172,Riddells Creek,21163,Heatherton,,no_eligible_route
+22174,Ringwood (Vic.),21163,Heatherton,96.3,ok
+22175,Ringwood East,21163,Heatherton,98.87,ok
+22176,Ringwood North,21163,Heatherton,108.7,ok
+22179,Ripponlea,21163,Heatherton,60.53,ok
+22185,Rochford,21163,Heatherton,,no_eligible_route
+22186,Rockbank,21163,Heatherton,143.5,ok
+22193,Romsey,21163,Heatherton,,no_eligible_route
+22194,Rosanna,21163,Heatherton,99.62,ok
+22198,Rosebud,21163,Heatherton,143.93,ok
+22207,Rowville,21163,Heatherton,62.1,ok
+22208,Roxburgh Park,21163,Heatherton,131.73,ok
+22220,Rye,21163,Heatherton,160.05,ok
+22221,Rythdale,21163,Heatherton,,no_eligible_route
+22222,Safety Beach (Vic.),21163,Heatherton,125.1,ok
+22232,Sandhurst,21163,Heatherton,99.78,ok
+22234,Sandringham (Vic.),21163,Heatherton,48.33,ok
+22239,Sassafras (Vic.),21163,Heatherton,129.82,ok
+22242,Scoresby,21163,Heatherton,79.07,ok
+22247,Seabrook,21163,Heatherton,116.7,ok
+22249,Seaford (Vic.),21163,Heatherton,68.68,ok
+22250,Seaholme,21163,Heatherton,108.58,ok
+22256,Seddon (Vic.),21163,Heatherton,74.32,ok
+22258,Selby,21163,Heatherton,142.55,ok
+22263,Seville,21163,Heatherton,161.6,ok
+22264,Seville East,21163,Heatherton,148.48,ok
+22278,Sherbrooke,21163,Heatherton,,no_eligible_route
+22279,Shoreham,21163,Heatherton,,no_eligible_route
+22281,Silvan,21163,Heatherton,147.03,ok
+22291,Skye (Vic.),21163,Heatherton,85.05,ok
+22295,Smiths Gully,21163,Heatherton,,no_eligible_route
+22303,Somers,21163,Heatherton,150.4,ok
+22304,Somerton (Vic.),21163,Heatherton,135.1,ok
+22305,Somerville (Vic.),21163,Heatherton,120.0,ok
+22306,Sorrento (Vic.),21163,Heatherton,151.9,ok
+22309,South Kingsville,21163,Heatherton,105.98,ok
+22310,South Melbourne,21163,Heatherton,72.05,ok
+22311,South Morang,21163,Heatherton,141.18,ok
+22313,South Wharf,21163,Heatherton,74.2,ok
+22314,South Yarra,21163,Heatherton,55.47,ok
+22315,Southbank,21163,Heatherton,66.63,ok
+22319,Spotswood,21163,Heatherton,86.13,ok
+22325,Springfield (Macedon Ranges - Vic.),21163,Heatherton,,no_eligible_route
+22328,Springvale (Vic.),21163,Heatherton,43.27,ok
+22329,Springvale South,21163,Heatherton,52.12,ok
+22330,St Albans (Vic.),21163,Heatherton,89.82,ok
+22332,St Andrews (Vic.),21163,Heatherton,,no_eligible_route
+22333,St Andrews Beach,21163,Heatherton,,no_eligible_route
+22339,St Helena,21163,Heatherton,126.93,ok
+22343,St Kilda (Vic.),21163,Heatherton,71.7,ok
+22344,St Kilda East,21163,Heatherton,64.13,ok
+22345,St Kilda West,21163,Heatherton,77.08,ok
+22355,Steels Creek,21163,Heatherton,,no_eligible_route
+22375,Strathewen,21163,Heatherton,,no_eligible_route
+22380,Strathmore (Vic.),21163,Heatherton,114.28,ok
+22381,Strathmore Heights,21163,Heatherton,122.75,ok
+22382,Strathtulloh,21163,Heatherton,,no_eligible_route
+22391,Sunbury,21163,Heatherton,163.1,ok
+22395,Sunshine (Vic.),21163,Heatherton,78.6,ok
+22396,Sunshine North,21163,Heatherton,105.67,ok
+22397,Sunshine West,21163,Heatherton,107.95,ok
+22399,Surrey Hills,21163,Heatherton,72.22,ok
+22414,Sydenham (Vic.),21163,Heatherton,104.3,ok
+22451,Tarneit,21163,Heatherton,143.18,ok
+22457,Tarrawarra,21163,Heatherton,,no_eligible_route
+22473,Taylors Hill,21163,Heatherton,115.22,ok
+22474,Taylors Lakes,21163,Heatherton,109.62,ok
+22476,Tecoma,21163,Heatherton,106.98,ok
+22483,Templestowe,21163,Heatherton,108.13,ok
+22484,Templestowe Lower,21163,Heatherton,100.27,ok
+22496,The Basin (Vic.),21163,Heatherton,114.95,ok
+22501,The Patch,21163,Heatherton,145.5,ok
+22504,Thomastown,21163,Heatherton,115.78,ok
+22508,Thornbury,21163,Heatherton,94.38,ok
+22509,Thornhill Park,21163,Heatherton,,no_eligible_route
+22514,Three Bridges,21163,Heatherton,,no_eligible_route
+22531,Tonimbuk,21163,Heatherton,,no_eligible_route
+22536,Toolangi,21163,Heatherton,,no_eligible_route
+22537,Toolern Vale,21163,Heatherton,,no_eligible_route
+22546,Tooradin,21163,Heatherton,,no_eligible_route
+22547,Toorak,21163,Heatherton,67.42,ok
+22550,Tootgarook,21163,Heatherton,147.55,ok
+22556,Tottenham (Vic.),21163,Heatherton,107.03,ok
+22572,Travancore,21163,Heatherton,84.55,ok
+22576,Tremont,21163,Heatherton,116.72,ok
+22582,Truganina,21163,Heatherton,191.33,ok
+22584,Tuerong,21163,Heatherton,,no_eligible_route
+22586,Tullamarine,21163,Heatherton,125.13,ok
+22594,Tyabb,21163,Heatherton,113.4,ok
+22598,Tynong,21163,Heatherton,,no_eligible_route
+22599,Tynong North,21163,Heatherton,,no_eligible_route
+22614,Upper Ferntree Gully,21163,Heatherton,100.3,ok
+22617,Upper Plenty,21163,Heatherton,,no_eligible_route
+22620,Upwey,21163,Heatherton,103.17,ok
+22627,Vermont,21163,Heatherton,91.77,ok
+22628,Vermont South,21163,Heatherton,79.13,ok
+22629,Vervale,21163,Heatherton,,no_eligible_route
+22633,Viewbank,21163,Heatherton,122.08,ok
+22661,Wallan,21163,Heatherton,,no_eligible_route
+22672,Wandin East,21163,Heatherton,,no_eligible_route
+22673,Wandin North,21163,Heatherton,134.57,ok
+22676,Wandong,21163,Heatherton,,no_eligible_route
+22685,Wantirna,21163,Heatherton,95.08,ok
+22686,Wantirna South,21163,Heatherton,75.37,ok
+22689,Warburton (Vic.),21163,Heatherton,,no_eligible_route
+22695,Warneet,21163,Heatherton,,no_eligible_route
+22702,Warrandyte,21163,Heatherton,118.42,ok
+22703,Warrandyte South,21163,Heatherton,132.8,ok
+22704,Warranwood,21163,Heatherton,110.47,ok
+22717,Waterford Park,21163,Heatherton,,no_eligible_route
+22720,Waterways,21163,Heatherton,61.07,ok
+22721,Watsonia,21163,Heatherton,98.07,ok
+22722,Watsonia North,21163,Heatherton,123.57,ok
+22723,Watsons Creek (Vic.),21163,Heatherton,,no_eligible_route
+22727,Wattle Glen,21163,Heatherton,131.82,ok
+22740,Weir Views,21163,Heatherton,213.07,ok
+22750,Werribee,21163,Heatherton,123.37,ok
+22751,Werribee South,21163,Heatherton,,no_eligible_route
+22753,Wesburn,21163,Heatherton,166.53,ok
+22756,West Footscray,21163,Heatherton,81.77,ok
+22757,West Melbourne,21163,Heatherton,93.7,ok
+22761,Westmeadows,21163,Heatherton,118.15,ok
+22766,Wheelers Hill,21163,Heatherton,63.6,ok
+22775,Whittlesea,21163,Heatherton,,no_eligible_route
+22784,Wildwood,21163,Heatherton,,no_eligible_route
+22791,Williams Landing,21163,Heatherton,120.13,ok
+22792,Williamstown (Vic.),21163,Heatherton,97.95,ok
+22793,Williamstown North,21163,Heatherton,112.48,ok
+22805,Windsor (Vic.),21163,Heatherton,63.25,ok
+22820,Wollert,21163,Heatherton,151.0,ok
+22825,Wonga Park,21163,Heatherton,136.32,ok
+22843,Woodstock (Vic.),21163,Heatherton,,no_eligible_route
+22857,Woori Yallock,21163,Heatherton,145.68,ok
+22883,Wyndham Vale,21163,Heatherton,150.73,ok
+22892,Yallambie,21163,Heatherton,117.35,ok
+22898,Yan Yean,21163,Heatherton,161.73,ok
+22906,Yannathan,21163,Heatherton,,no_eligible_route
+22910,Yarra Glen,21163,Heatherton,,no_eligible_route
+22911,Yarra Junction,21163,Heatherton,170.8,ok
+22916,Yarrambat,21163,Heatherton,145.22,ok
+22917,Yarraville,21163,Heatherton,89.8,ok
+22925,Yellingbo,21163,Heatherton,,no_eligible_route
+22930,Yering,21163,Heatherton,,no_eligible_route
+22941,Yuroke,21163,Heatherton,185.1,ok

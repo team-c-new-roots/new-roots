@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),20924,Fitzroy (Vic.),17.85,ok
+20003,Aberfeldie,20924,Fitzroy (Vic.),50.7,ok
+20011,Aintree,20924,Fitzroy (Vic.),91.67,ok
+20015,Airport West,20924,Fitzroy (Vic.),70.03,ok
+20017,Albanvale,20924,Fitzroy (Vic.),69.13,ok
+20018,Albert Park (Vic.),20924,Fitzroy (Vic.),37.42,ok
+20021,Albion (Vic.),20924,Fitzroy (Vic.),52.53,ok
+20034,Alphington,20924,Fitzroy (Vic.),29.02,ok
+20035,Altona (Vic.),20924,Fitzroy (Vic.),73.63,ok
+20036,Altona Meadows,20924,Fitzroy (Vic.),73.55,ok
+20037,Altona North,20924,Fitzroy (Vic.),69.8,ok
+20062,Ardeer,20924,Fitzroy (Vic.),62.68,ok
+20066,Armadale (Vic.),20924,Fitzroy (Vic.),34.55,ok
+20071,Arthurs Creek,20924,Fitzroy (Vic.),,no_eligible_route
+20072,Arthurs Seat,20924,Fitzroy (Vic.),181.07,ok
+20075,Ascot Vale,20924,Fitzroy (Vic.),45.53,ok
+20077,Ashburton,20924,Fitzroy (Vic.),45.15,ok
+20078,Ashwood,20924,Fitzroy (Vic.),64.75,ok
+20079,Aspendale,20924,Fitzroy (Vic.),69.8,ok
+20080,Aspendale Gardens,20924,Fitzroy (Vic.),89.13,ok
+20082,Attwood,20924,Fitzroy (Vic.),79.52,ok
+20089,Avondale Heights,20924,Fitzroy (Vic.),64.07,ok
+20091,Avonsleigh,20924,Fitzroy (Vic.),137.73,ok
+20095,Bacchus Marsh,20924,Fitzroy (Vic.),,no_eligible_route
+20097,Badger Creek,20924,Fitzroy (Vic.),144.4,ok
+20105,Balaclava (Vic.),20924,Fitzroy (Vic.),44.18,ok
+20120,Balnarring,20924,Fitzroy (Vic.),177.42,ok
+20121,Balnarring Beach,20924,Fitzroy (Vic.),173.95,ok
+20123,Balwyn,20924,Fitzroy (Vic.),50.02,ok
+20124,Balwyn North,20924,Fitzroy (Vic.),43.37,ok
+20131,Bangholme,20924,Fitzroy (Vic.),122.4,ok
+20169,Baxter,20924,Fitzroy (Vic.),107.87,ok
+20171,Bayles,20924,Fitzroy (Vic.),,no_eligible_route
+20173,Bayswater (Vic.),20924,Fitzroy (Vic.),69.8,ok
+20174,Bayswater North,20924,Fitzroy (Vic.),87.77,ok
+20175,Beaconsfield (Vic.),20924,Fitzroy (Vic.),115.0,ok
+20176,Beaconsfield Upper,20924,Fitzroy (Vic.),,no_eligible_route
+20182,Beaumaris (Vic.),20924,Fitzroy (Vic.),70.83,ok
+20187,Beenak,20924,Fitzroy (Vic.),,no_eligible_route
+20188,Belgrave,20924,Fitzroy (Vic.),82.88,ok
+20189,Belgrave Heights,20924,Fitzroy (Vic.),110.55,ok
+20190,Belgrave South,20924,Fitzroy (Vic.),109.53,ok
+20198,Bellfield (Banyule - Vic.),20924,Fitzroy (Vic.),44.0,ok
+20207,Bend Of Islands,20924,Fitzroy (Vic.),,no_eligible_route
+20212,Benloch,20924,Fitzroy (Vic.),,no_eligible_route
+20214,Bentleigh,20924,Fitzroy (Vic.),57.58,ok
+20215,Bentleigh East,20924,Fitzroy (Vic.),63.53,ok
+20224,Berwick,20924,Fitzroy (Vic.),91.05,ok
+20233,Beveridge,20924,Fitzroy (Vic.),106.07,ok
+20237,Big Pats Creek,20924,Fitzroy (Vic.),,no_eligible_route
+20248,Bittern,20924,Fitzroy (Vic.),128.13,ok
+20251,Black Rock (Vic.),20924,Fitzroy (Vic.),76.63,ok
+20252,Blackburn,20924,Fitzroy (Vic.),46.13,ok
+20253,Blackburn North,20924,Fitzroy (Vic.),40.1,ok
+20254,Blackburn South,20924,Fitzroy (Vic.),62.47,ok
+20257,Blairgowrie,20924,Fitzroy (Vic.),173.1,ok
+20260,Blind Bight,20924,Fitzroy (Vic.),,no_eligible_route
+20272,Bolinda,20924,Fitzroy (Vic.),,no_eligible_route
+20278,Bonbeach,20924,Fitzroy (Vic.),74.8,ok
+20280,Boneo,20924,Fitzroy (Vic.),,no_eligible_route
+20282,Bonnie Brook,20924,Fitzroy (Vic.),124.22,ok
+20304,Boronia,20924,Fitzroy (Vic.),72.27,ok
+20307,Botanic Ridge,20924,Fitzroy (Vic.),129.15,ok
+20314,Box Hill (Vic.),20924,Fitzroy (Vic.),44.58,ok
+20315,Box Hill North,20924,Fitzroy (Vic.),44.8,ok
+20316,Box Hill South,20924,Fitzroy (Vic.),51.73,ok
+20320,Braeside,20924,Fitzroy (Vic.),97.6,ok
+20324,Braybrook,20924,Fitzroy (Vic.),54.32,ok
+20331,Briar Hill,20924,Fitzroy (Vic.),59.33,ok
+20337,Brighton (Vic.),20924,Fitzroy (Vic.),56.95,ok
+20338,Brighton East,20924,Fitzroy (Vic.),62.37,ok
+20346,Broadmeadows (Vic.),20924,Fitzroy (Vic.),68.43,ok
+20351,Brookfield (Vic.),20924,Fitzroy (Vic.),146.72,ok
+20352,Brooklyn (Vic.),20924,Fitzroy (Vic.),64.83,ok
+20361,Brunswick (Vic.),20924,Fitzroy (Vic.),33.87,ok
+20362,Brunswick East,20924,Fitzroy (Vic.),24.45,ok
+20363,Brunswick West,20924,Fitzroy (Vic.),38.48,ok
+20381,Bulla (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+20386,Bulleen,20924,Fitzroy (Vic.),43.07,ok
+20387,Bullengarook,20924,Fitzroy (Vic.),,no_eligible_route
+20399,Bundoora (Vic.),20924,Fitzroy (Vic.),53.98,ok
+20411,Bunyip,20924,Fitzroy (Vic.),,no_eligible_route
+20412,Bunyip North,20924,Fitzroy (Vic.),,no_eligible_route
+20418,Burnley,20924,Fitzroy (Vic.),38.55,ok
+20419,Burnside (Vic.),20924,Fitzroy (Vic.),70.57,ok
+20420,Burnside Heights,20924,Fitzroy (Vic.),82.82,ok
+20426,Burwood (Vic.),20924,Fitzroy (Vic.),62.23,ok
+20427,Burwood East,20924,Fitzroy (Vic.),57.33,ok
+20435,Bylands,20924,Fitzroy (Vic.),,no_eligible_route
+20441,Cairnlea,20924,Fitzroy (Vic.),63.75,ok
+20442,Calder Park,20924,Fitzroy (Vic.),86.32,ok
+20443,Caldermeade,20924,Fitzroy (Vic.),,no_eligible_route
+20453,Camberwell (Vic.),20924,Fitzroy (Vic.),44.08,ok
+20455,Campbellfield,20924,Fitzroy (Vic.),74.8,ok
+20466,Cannons Creek,20924,Fitzroy (Vic.),,no_eligible_route
+20468,Canterbury (Vic.),20924,Fitzroy (Vic.),41.57,ok
+20474,Cape Schanck,20924,Fitzroy (Vic.),,no_eligible_route
+20476,Capel Sound,20924,Fitzroy (Vic.),157.45,ok
+20487,Cardinia,20924,Fitzroy (Vic.),,no_eligible_route
+20495,Carlton (Vic.),20924,Fitzroy (Vic.),13.4,ok
+20496,Carlton North,20924,Fitzroy (Vic.),30.47,ok
+20498,Carnegie,20924,Fitzroy (Vic.),54.78,ok
+20500,Caroline Springs,20924,Fitzroy (Vic.),78.45,ok
+20507,Carrum,20924,Fitzroy (Vic.),74.62,ok
+20508,Carrum Downs,20924,Fitzroy (Vic.),94.72,ok
+20512,Castella,20924,Fitzroy (Vic.),,no_eligible_route
+20517,Catani,20924,Fitzroy (Vic.),,no_eligible_route
+20521,Caulfield,20924,Fitzroy (Vic.),52.28,ok
+20522,Caulfield East,20924,Fitzroy (Vic.),42.98,ok
+20523,Caulfield North,20924,Fitzroy (Vic.),43.9,ok
+20524,Caulfield South,20924,Fitzroy (Vic.),56.82,ok
+20528,Chadstone,20924,Fitzroy (Vic.),61.63,ok
+20537,Chelsea,20924,Fitzroy (Vic.),71.87,ok
+20538,Chelsea Heights,20924,Fitzroy (Vic.),86.55,ok
+20539,Cheltenham (Vic.),20924,Fitzroy (Vic.),61.33,ok
+20541,Cherokee,20924,Fitzroy (Vic.),,no_eligible_route
+20555,Chintin,20924,Fitzroy (Vic.),,no_eligible_route
+20556,Chirnside Park,20924,Fitzroy (Vic.),92.17,ok
+20559,Christmas Hills (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+20560,Chum Creek,20924,Fitzroy (Vic.),,no_eligible_route
+20566,Clarinda,20924,Fitzroy (Vic.),72.72,ok
+20567,Clarkefield,20924,Fitzroy (Vic.),,no_eligible_route
+20569,Clayton,20924,Fitzroy (Vic.),68.73,ok
+20570,Clayton South,20924,Fitzroy (Vic.),80.3,ok
+20572,Clematis,20924,Fitzroy (Vic.),110.15,ok
+20574,Clifton Hill,20924,Fitzroy (Vic.),20.18,ok
+20576,Clonbinane,20924,Fitzroy (Vic.),,no_eligible_route
+20581,Clyde (Vic.),20924,Fitzroy (Vic.),141.98,ok
+20582,Clyde North,20924,Fitzroy (Vic.),113.52,ok
+20587,Cobaw,20924,Fitzroy (Vic.),,no_eligible_route
+20590,Cobblebank,20924,Fitzroy (Vic.),132.37,ok
+20596,Coburg,20924,Fitzroy (Vic.),43.95,ok
+20597,Coburg North,20924,Fitzroy (Vic.),55.52,ok
+20600,Cockatoo (Vic.),20924,Fitzroy (Vic.),141.42,ok
+20601,Cocoroc,20924,Fitzroy (Vic.),,no_eligible_route
+20605,Coimadai,20924,Fitzroy (Vic.),,no_eligible_route
+20613,Coldstream (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+20616,Collingwood (Vic.),20924,Fitzroy (Vic.),12.35,walk_only
+20624,Coolaroo,20924,Fitzroy (Vic.),67.37,ok
+20633,Cora Lynn,20924,Fitzroy (Vic.),,no_eligible_route
+20654,Cottles Bridge,20924,Fitzroy (Vic.),,no_eligible_route
+20661,Craigieburn,20924,Fitzroy (Vic.),78.58,ok
+20662,Cranbourne,20924,Fitzroy (Vic.),99.15,ok
+20663,Cranbourne East,20924,Fitzroy (Vic.),110.03,ok
+20664,Cranbourne North,20924,Fitzroy (Vic.),98.48,ok
+20665,Cranbourne South,20924,Fitzroy (Vic.),132.5,ok
+20666,Cranbourne West,20924,Fitzroy (Vic.),101.62,ok
+20670,Cremorne (Vic.),20924,Fitzroy (Vic.),32.13,ok
+20674,Crib Point,20924,Fitzroy (Vic.),137.1,ok
+20682,Croydon (Vic.),20924,Fitzroy (Vic.),64.9,ok
+20683,Croydon Hills,20924,Fitzroy (Vic.),85.22,ok
+20684,Croydon North,20924,Fitzroy (Vic.),83.05,ok
+20685,Croydon South,20924,Fitzroy (Vic.),83.82,ok
+20702,Dallas,20924,Fitzroy (Vic.),72.45,ok
+20703,Dalmore,20924,Fitzroy (Vic.),,no_eligible_route
+20707,Dandenong,20924,Fitzroy (Vic.),77.68,ok
+20708,Dandenong North,20924,Fitzroy (Vic.),96.15,ok
+20709,Dandenong South,20924,Fitzroy (Vic.),96.25,ok
+20712,Darley,20924,Fitzroy (Vic.),,no_eligible_route
+20716,Darraweit Guim,20924,Fitzroy (Vic.),,no_eligible_route
+20724,Deanside,20924,Fitzroy (Vic.),98.82,ok
+20728,Deepdene (Vic.),20924,Fitzroy (Vic.),40.12,ok
+20729,Deer Park,20924,Fitzroy (Vic.),59.52,ok
+20731,Delahey,20924,Fitzroy (Vic.),73.18,ok
+20743,Derrimut,20924,Fitzroy (Vic.),86.4,ok
+20748,Devon Meadows,20924,Fitzroy (Vic.),148.73,ok
+20750,Dewhurst,20924,Fitzroy (Vic.),,no_eligible_route
+20752,Diamond Creek,20924,Fitzroy (Vic.),68.33,ok
+20754,Diggers Rest,20924,Fitzroy (Vic.),80.63,ok
+20758,Dingley Village,20924,Fitzroy (Vic.),74.23,ok
+20762,Dixons Creek,20924,Fitzroy (Vic.),,no_eligible_route
+20766,Docklands,20924,Fitzroy (Vic.),28.33,ok
+20769,Don Valley,20924,Fitzroy (Vic.),,no_eligible_route
+20771,Doncaster,20924,Fitzroy (Vic.),38.15,ok
+20772,Doncaster East,20924,Fitzroy (Vic.),46.47,ok
+20773,Donnybrook (Vic.),20924,Fitzroy (Vic.),102.53,ok
+20774,Donvale,20924,Fitzroy (Vic.),63.97,ok
+20779,Doreen,20924,Fitzroy (Vic.),91.98,ok
+20783,Doveton,20924,Fitzroy (Vic.),90.87,ok
+20788,Dromana,20924,Fitzroy (Vic.),168.23,ok
+20825,Eaglemont,20924,Fitzroy (Vic.),44.35,ok
+20830,East Melbourne,20924,Fitzroy (Vic.),19.45,ok
+20833,East Warburton,20924,Fitzroy (Vic.),,no_eligible_route
+20843,Eden Park,20924,Fitzroy (Vic.),,no_eligible_route
+20848,Edithvale,20924,Fitzroy (Vic.),72.0,ok
+20864,Elsternwick,20924,Fitzroy (Vic.),52.1,ok
+20865,Eltham (Vic.),20924,Fitzroy (Vic.),67.47,ok
+20866,Eltham North,20924,Fitzroy (Vic.),65.62,ok
+20867,Elwood,20924,Fitzroy (Vic.),55.55,ok
+20868,Emerald (Vic.),20924,Fitzroy (Vic.),137.33,ok
+20871,Endeavour Hills,20924,Fitzroy (Vic.),98.2,ok
+20878,Epping (Vic.),20924,Fitzroy (Vic.),78.4,ok
+20885,Essendon,20924,Fitzroy (Vic.),51.45,ok
+20886,Essendon Fields,20924,Fitzroy (Vic.),72.53,ok
+20887,Essendon North,20924,Fitzroy (Vic.),54.08,ok
+20888,Essendon West,20924,Fitzroy (Vic.),51.32,ok
+20889,Eumemmerring,20924,Fitzroy (Vic.),96.25,ok
+20898,Exford,20924,Fitzroy (Vic.),,no_eligible_route
+20899,Eynesbury,20924,Fitzroy (Vic.),169.47,ok
+20901,Fairfield (Vic.),20924,Fitzroy (Vic.),28.35,ok
+20909,Fawkner,20924,Fitzroy (Vic.),67.25,ok
+20916,Fernshaw,20924,Fitzroy (Vic.),,no_eligible_route
+20917,Ferntree Gully,20924,Fitzroy (Vic.),79.5,ok
+20918,Ferny Creek,20924,Fitzroy (Vic.),122.17,ok
+20920,Fingal (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+20924,Fitzroy (Vic.),20924,Fitzroy (Vic.),0.0,same_centroid
+20925,Fitzroy North,20924,Fitzroy (Vic.),11.7,ok
+20929,Flemington,20924,Fitzroy (Vic.),45.3,ok
+20930,Flinders (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+20935,Footscray,20924,Fitzroy (Vic.),39.95,ok
+20937,Forest Hill (Vic.),20924,Fitzroy (Vic.),58.32,ok
+20947,Frankston,20924,Fitzroy (Vic.),92.58,ok
+20948,Frankston North,20924,Fitzroy (Vic.),99.73,ok
+20949,Frankston South,20924,Fitzroy (Vic.),112.85,ok
+20950,Fraser Rise,20924,Fitzroy (Vic.),97.07,ok
+20965,Gardenvale,20924,Fitzroy (Vic.),53.38,ok
+20966,Garfield,20924,Fitzroy (Vic.),,no_eligible_route
+20967,Garfield North,20924,Fitzroy (Vic.),,no_eligible_route
+20979,Gembrook,20924,Fitzroy (Vic.),,no_eligible_route
+20995,Gilderoy,20924,Fitzroy (Vic.),,no_eligible_route
+21001,Gisborne,20924,Fitzroy (Vic.),,no_eligible_route
+21002,Gisborne South,20924,Fitzroy (Vic.),,no_eligible_route
+21004,Gladstone Park,20924,Fitzroy (Vic.),83.3,ok
+21005,Gladysdale,20924,Fitzroy (Vic.),,no_eligible_route
+21009,Glen Huntly,20924,Fitzroy (Vic.),49.12,ok
+21010,Glen Iris (Vic.),20924,Fitzroy (Vic.),50.15,ok
+21013,Glen Waverley,20924,Fitzroy (Vic.),63.57,ok
+21047,Glenroy (Vic.),20924,Fitzroy (Vic.),62.97,ok
+21059,Goldie,20924,Fitzroy (Vic.),,no_eligible_route
+21079,Gowanbrae,20924,Fitzroy (Vic.),80.37,ok
+21087,Grangefields,20924,Fitzroy (Vic.),128.67,ok
+21104,Greensborough,20924,Fitzroy (Vic.),52.88,ok
+21105,Greenvale (Vic.),20924,Fitzroy (Vic.),89.83,ok
+21115,Gruyere,20924,Fitzroy (Vic.),,no_eligible_route
+21121,Guys Hill,20924,Fitzroy (Vic.),,no_eligible_route
+21124,Hadfield,20924,Fitzroy (Vic.),58.45,ok
+21125,Hallam,20924,Fitzroy (Vic.),96.17,ok
+21131,Hampton (Vic.),20924,Fitzroy (Vic.),64.28,ok
+21132,Hampton East,20924,Fitzroy (Vic.),67.35,ok
+21133,Hampton Park,20924,Fitzroy (Vic.),96.05,ok
+21139,Harkaway,20924,Fitzroy (Vic.),,no_eligible_route
+21140,Harkness,20924,Fitzroy (Vic.),148.2,ok
+21145,Hastings (Vic.),20924,Fitzroy (Vic.),126.02,ok
+21152,Hawthorn (Vic.),20924,Fitzroy (Vic.),37.95,ok
+21153,Hawthorn East,20924,Fitzroy (Vic.),45.43,ok
+21158,Healesville,20924,Fitzroy (Vic.),148.32,ok
+21159,Heath Hill,20924,Fitzroy (Vic.),,no_eligible_route
+21161,Heathcote Junction,20924,Fitzroy (Vic.),,no_eligible_route
+21163,Heatherton,20924,Fitzroy (Vic.),77.8,ok
+21165,Heathmont,20924,Fitzroy (Vic.),60.07,ok
+21167,Heidelberg,20924,Fitzroy (Vic.),45.68,ok
+21168,Heidelberg Heights,20924,Fitzroy (Vic.),46.68,ok
+21169,Heidelberg West,20924,Fitzroy (Vic.),43.03,ok
+21176,Hesket,20924,Fitzroy (Vic.),,no_eligible_route
+21185,Highett,20924,Fitzroy (Vic.),57.12,ok
+21193,Hillside (Melton - Vic.),20924,Fitzroy (Vic.),80.72,ok
+21195,Hmas Cerberus,20924,Fitzroy (Vic.),170.3,ok
+21196,Hoddles Creek,20924,Fitzroy (Vic.),,no_eligible_route
+21202,Hopetoun Park,20924,Fitzroy (Vic.),,no_eligible_route
+21203,Hoppers Crossing,20924,Fitzroy (Vic.),86.47,ok
+21214,Hughesdale,20924,Fitzroy (Vic.),56.2,ok
+21215,Humevale,20924,Fitzroy (Vic.),122.37,ok
+21218,Huntingdale (Vic.),20924,Fitzroy (Vic.),61.63,ok
+21223,Hurstbridge,20924,Fitzroy (Vic.),68.88,ok
+21238,Iona,20924,Fitzroy (Vic.),,no_eligible_route
+21246,Ivanhoe (Vic.),20924,Fitzroy (Vic.),31.62,ok
+21247,Ivanhoe East,20924,Fitzroy (Vic.),41.93,ok
+21248,Jacana,20924,Fitzroy (Vic.),68.57,ok
+21277,Junction Village,20924,Fitzroy (Vic.),134.87,ok
+21284,Kalkallo,20924,Fitzroy (Vic.),118.13,ok
+21286,Kallista,20924,Fitzroy (Vic.),118.6,ok
+21287,Kalorama,20924,Fitzroy (Vic.),98.27,ok
+21294,Kangaroo Ground,20924,Fitzroy (Vic.),104.12,ok
+21312,Kealba,20924,Fitzroy (Vic.),71.78,ok
+21314,Keilor,20924,Fitzroy (Vic.),92.68,ok
+21315,Keilor Downs,20924,Fitzroy (Vic.),75.28,ok
+21316,Keilor East,20924,Fitzroy (Vic.),65.68,ok
+21317,Keilor Lodge,20924,Fitzroy (Vic.),75.5,ok
+21318,Keilor North,20924,Fitzroy (Vic.),76.02,ok
+21319,Keilor Park,20924,Fitzroy (Vic.),74.6,ok
+21327,Kensington (Vic.),20924,Fitzroy (Vic.),35.63,ok
+21333,Kerrie,20924,Fitzroy (Vic.),,no_eligible_route
+21336,Kew (Vic.),20924,Fitzroy (Vic.),24.95,ok
+21337,Kew East,20924,Fitzroy (Vic.),30.98,ok
+21339,Keysborough,20924,Fitzroy (Vic.),88.77,ok
+21354,Kilsyth,20924,Fitzroy (Vic.),85.65,ok
+21355,Kilsyth South,20924,Fitzroy (Vic.),92.33,ok
+21358,Kinglake,20924,Fitzroy (Vic.),171.3,ok
+21359,Kinglake Central,20924,Fitzroy (Vic.),,no_eligible_route
+21360,Kinglake West,20924,Fitzroy (Vic.),125.33,ok
+21362,Kings Park (Vic.),20924,Fitzroy (Vic.),67.88,ok
+21363,Kingsbury,20924,Fitzroy (Vic.),53.2,ok
+21365,Kingsville,20924,Fitzroy (Vic.),49.02,ok
+21374,Knoxfield,20924,Fitzroy (Vic.),84.92,ok
+21380,Koo Wee Rup,20924,Fitzroy (Vic.),,no_eligible_route
+21381,Koo Wee Rup North,20924,Fitzroy (Vic.),,no_eligible_route
+21393,Kooyong,20924,Fitzroy (Vic.),37.33,ok
+21411,Kurunjang,20924,Fitzroy (Vic.),125.4,ok
+21452,Lalor,20924,Fitzroy (Vic.),50.47,ok
+21456,Lancefield,20924,Fitzroy (Vic.),,no_eligible_route
+21459,Lang Lang,20924,Fitzroy (Vic.),,no_eligible_route
+21460,Lang Lang East,20924,Fitzroy (Vic.),,no_eligible_route
+21467,Langwarrin,20924,Fitzroy (Vic.),107.55,ok
+21468,Langwarrin South,20924,Fitzroy (Vic.),,no_eligible_route
+21473,Launching Place,20924,Fitzroy (Vic.),106.55,ok
+21476,Laverton (Vic.),20924,Fitzroy (Vic.),68.43,ok
+21477,Laverton North,20924,Fitzroy (Vic.),86.7,ok
+21504,Lilydale (Vic.),20924,Fitzroy (Vic.),86.2,ok
+21533,Long Forest,20924,Fitzroy (Vic.),,no_eligible_route
+21547,Lower Plenty,20924,Fitzroy (Vic.),78.15,ok
+21554,Lynbrook,20924,Fitzroy (Vic.),87.42,ok
+21555,Lyndhurst (Vic.),20924,Fitzroy (Vic.),130.0,ok
+21558,Lysterfield,20924,Fitzroy (Vic.),140.48,ok
+21559,Lysterfield South,20924,Fitzroy (Vic.),143.7,ok
+21561,Macclesfield (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+21562,Macedon,20924,Fitzroy (Vic.),,no_eligible_route
+21564,Macleod (Vic.),20924,Fitzroy (Vic.),45.97,ok
+21569,Maddingley,20924,Fitzroy (Vic.),,no_eligible_route
+21575,Maidstone,20924,Fitzroy (Vic.),55.62,ok
+21578,Main Ridge,20924,Fitzroy (Vic.),,no_eligible_route
+21586,Malvern (Vic.),20924,Fitzroy (Vic.),50.55,ok
+21587,Malvern East,20924,Fitzroy (Vic.),49.93,ok
+21588,Mambourin,20924,Fitzroy (Vic.),,no_eligible_route
+21597,Manor Lakes,20924,Fitzroy (Vic.),120.47,ok
+21604,Maribyrnong,20924,Fitzroy (Vic.),57.28,ok
+21619,Maryknoll,20924,Fitzroy (Vic.),,no_eligible_route
+21625,McCrae,20924,Fitzroy (Vic.),152.65,ok
+21629,McKinnon,20924,Fitzroy (Vic.),46.42,ok
+21635,Meadow Heights,20924,Fitzroy (Vic.),76.85,ok
+21640,Melbourne,20924,Fitzroy (Vic.),27.02,ok
+21641,Melbourne Airport,20924,Fitzroy (Vic.),,no_eligible_route
+21642,Melton (Vic.),20924,Fitzroy (Vic.),133.58,ok
+21643,Melton South,20924,Fitzroy (Vic.),135.95,ok
+21644,Melton West,20924,Fitzroy (Vic.),121.58,ok
+21648,Mentone,20924,Fitzroy (Vic.),56.1,ok
+21649,Menzies Creek,20924,Fitzroy (Vic.),108.95,ok
+21659,Mernda,20924,Fitzroy (Vic.),84.25,ok
+21662,Merricks,20924,Fitzroy (Vic.),,no_eligible_route
+21663,Merricks Beach,20924,Fitzroy (Vic.),,no_eligible_route
+21664,Merricks North,20924,Fitzroy (Vic.),,no_eligible_route
+21668,Merrimu,20924,Fitzroy (Vic.),,no_eligible_route
+21675,Mickleham,20924,Fitzroy (Vic.),110.58,ok
+21677,Middle Park (Vic.),20924,Fitzroy (Vic.),44.5,ok
+21683,Mill Park,20924,Fitzroy (Vic.),69.55,ok
+21685,Millgrove,20924,Fitzroy (Vic.),,no_eligible_route
+21706,Mitcham (Vic.),20924,Fitzroy (Vic.),56.5,ok
+21727,Monbulk,20924,Fitzroy (Vic.),126.05,ok
+21728,Monegeetta,20924,Fitzroy (Vic.),,no_eligible_route
+21731,Monomeith,20924,Fitzroy (Vic.),,no_eligible_route
+21732,Mont Albert,20924,Fitzroy (Vic.),45.97,ok
+21733,Mont Albert North,20924,Fitzroy (Vic.),46.45,ok
+21735,Montmorency,20924,Fitzroy (Vic.),53.53,ok
+21736,Montrose (Vic.),20924,Fitzroy (Vic.),86.17,ok
+21742,Moonee Ponds,20924,Fitzroy (Vic.),37.92,ok
+21746,Moorabbin,20924,Fitzroy (Vic.),71.37,ok
+21747,Moorabbin Airport,20924,Fitzroy (Vic.),75.6,ok
+21754,Moorooduc,20924,Fitzroy (Vic.),140.23,ok
+21755,Mooroolbark,20924,Fitzroy (Vic.),76.1,ok
+21760,Mordialloc,20924,Fitzroy (Vic.),71.4,ok
+21763,Mornington (Vic.),20924,Fitzroy (Vic.),124.45,ok
+21779,Mount Burnett,20924,Fitzroy (Vic.),,no_eligible_route
+21786,Mount Cottrell,20924,Fitzroy (Vic.),,no_eligible_route
+21787,Mount Dandenong,20924,Fitzroy (Vic.),97.87,ok
+21793,Mount Eliza,20924,Fitzroy (Vic.),100.63,ok
+21795,Mount Evelyn,20924,Fitzroy (Vic.),102.03,ok
+21801,Mount Macedon,20924,Fitzroy (Vic.),,no_eligible_route
+21803,Mount Martha,20924,Fitzroy (Vic.),119.17,ok
+21814,Mount Toolebewong,20924,Fitzroy (Vic.),,no_eligible_route
+21816,Mount Waverley,20924,Fitzroy (Vic.),55.0,ok
+21827,Mulgrave (Vic.),20924,Fitzroy (Vic.),84.45,ok
+21849,Murrumbeena,20924,Fitzroy (Vic.),56.32,ok
+21872,Nangana,20924,Fitzroy (Vic.),,no_eligible_route
+21878,Nar Nar Goon,20924,Fitzroy (Vic.),,no_eligible_route
+21879,Nar Nar Goon North,20924,Fitzroy (Vic.),,no_eligible_route
+21893,Narre Warren,20924,Fitzroy (Vic.),93.15,ok
+21894,Narre Warren East,20924,Fitzroy (Vic.),,no_eligible_route
+21895,Narre Warren North,20924,Fitzroy (Vic.),104.42,ok
+21896,Narre Warren South,20924,Fitzroy (Vic.),98.2,ok
+21921,New Gisborne,20924,Fitzroy (Vic.),,no_eligible_route
+21934,Newport (Vic.),20924,Fitzroy (Vic.),50.0,ok
+21942,Niddrie,20924,Fitzroy (Vic.),66.03,ok
+21952,Noble Park,20924,Fitzroy (Vic.),68.42,ok
+21953,Noble Park North,20924,Fitzroy (Vic.),91.87,ok
+21966,North Melbourne,20924,Fitzroy (Vic.),27.48,ok
+21969,North Warrandyte,20924,Fitzroy (Vic.),81.1,ok
+21971,Northcote,20924,Fitzroy (Vic.),26.27,ok
+21974,Notting Hill,20924,Fitzroy (Vic.),69.37,ok
+21985,Nunawading,20924,Fitzroy (Vic.),47.02,ok
+21991,Nutfield,20924,Fitzroy (Vic.),,no_eligible_route
+21998,Oak Park,20924,Fitzroy (Vic.),56.23,ok
+21999,Oaklands Junction,20924,Fitzroy (Vic.),,no_eligible_route
+22000,Oakleigh,20924,Fitzroy (Vic.),57.35,ok
+22001,Oakleigh East,20924,Fitzroy (Vic.),69.2,ok
+22002,Oakleigh South,20924,Fitzroy (Vic.),65.85,ok
+22006,Officer,20924,Fitzroy (Vic.),110.7,ok
+22007,Officer South,20924,Fitzroy (Vic.),143.27,ok
+22009,Olinda (Vic.),20924,Fitzroy (Vic.),123.48,ok
+22016,Ormond,20924,Fitzroy (Vic.),46.85,ok
+22027,Pakenham,20924,Fitzroy (Vic.),107.62,ok
+22028,Pakenham South,20924,Fitzroy (Vic.),,no_eligible_route
+22029,Pakenham Upper,20924,Fitzroy (Vic.),,no_eligible_route
+22032,Panton Hill,20924,Fitzroy (Vic.),,no_eligible_route
+22036,Park Orchards,20924,Fitzroy (Vic.),58.63,ok
+22037,Parkdale,20924,Fitzroy (Vic.),61.18,ok
+22038,Parkville (Vic.),20924,Fitzroy (Vic.),32.37,ok
+22041,Pascoe Vale,20924,Fitzroy (Vic.),57.27,ok
+22042,Pascoe Vale South,20924,Fitzroy (Vic.),52.08,ok
+22047,Patterson Lakes,20924,Fitzroy (Vic.),85.48,ok
+22050,Pearcedale,20924,Fitzroy (Vic.),149.8,ok
+22058,Pentland Hills,20924,Fitzroy (Vic.),,no_eligible_route
+22064,Pheasant Creek (Vic.),20924,Fitzroy (Vic.),140.98,ok
+22084,Plenty (Vic.),20924,Fitzroy (Vic.),78.47,ok
+22085,Plumpton (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+22086,Point Cook,20924,Fitzroy (Vic.),85.47,ok
+22087,Point Leo,20924,Fitzroy (Vic.),,no_eligible_route
+22107,Port Melbourne,20924,Fitzroy (Vic.),43.85,ok
+22113,Portsea,20924,Fitzroy (Vic.),188.95,ok
+22115,Powelltown,20924,Fitzroy (Vic.),,no_eligible_route
+22118,Prahran,20924,Fitzroy (Vic.),44.35,ok
+22121,Preston (Vic.),20924,Fitzroy (Vic.),35.05,ok
+22122,Princes Hill,20924,Fitzroy (Vic.),26.52,ok
+22132,Quandong,20924,Fitzroy (Vic.),,no_eligible_route
+22141,Ravenhall,20924,Fitzroy (Vic.),100.27,ok
+22148,Red Hill (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+22149,Red Hill South,20924,Fitzroy (Vic.),,no_eligible_route
+22160,Research,20924,Fitzroy (Vic.),74.97,ok
+22161,Reservoir (Vic.),20924,Fitzroy (Vic.),47.28,ok
+22170,Richmond (Vic.),20924,Fitzroy (Vic.),29.87,ok
+22172,Riddells Creek,20924,Fitzroy (Vic.),,no_eligible_route
+22174,Ringwood (Vic.),20924,Fitzroy (Vic.),63.7,ok
+22175,Ringwood East,20924,Fitzroy (Vic.),64.98,ok
+22176,Ringwood North,20924,Fitzroy (Vic.),60.05,ok
+22179,Ripponlea,20924,Fitzroy (Vic.),42.82,ok
+22185,Rochford,20924,Fitzroy (Vic.),,no_eligible_route
+22186,Rockbank,20924,Fitzroy (Vic.),106.85,ok
+22193,Romsey,20924,Fitzroy (Vic.),,no_eligible_route
+22194,Rosanna,20924,Fitzroy (Vic.),40.43,ok
+22198,Rosebud,20924,Fitzroy (Vic.),168.97,ok
+22207,Rowville,20924,Fitzroy (Vic.),95.58,ok
+22208,Roxburgh Park,20924,Fitzroy (Vic.),79.0,ok
+22220,Rye,20924,Fitzroy (Vic.),181.17,ok
+22221,Rythdale,20924,Fitzroy (Vic.),,no_eligible_route
+22222,Safety Beach (Vic.),20924,Fitzroy (Vic.),136.13,ok
+22232,Sandhurst,20924,Fitzroy (Vic.),114.97,ok
+22234,Sandringham (Vic.),20924,Fitzroy (Vic.),66.75,ok
+22239,Sassafras (Vic.),20924,Fitzroy (Vic.),104.93,ok
+22242,Scoresby,20924,Fitzroy (Vic.),92.42,ok
+22247,Seabrook,20924,Fitzroy (Vic.),76.97,ok
+22249,Seaford (Vic.),20924,Fitzroy (Vic.),86.72,ok
+22250,Seaholme,20924,Fitzroy (Vic.),61.08,ok
+22256,Seddon (Vic.),20924,Fitzroy (Vic.),39.67,ok
+22258,Selby,20924,Fitzroy (Vic.),108.62,ok
+22263,Seville,20924,Fitzroy (Vic.),117.72,ok
+22264,Seville East,20924,Fitzroy (Vic.),104.6,ok
+22278,Sherbrooke,20924,Fitzroy (Vic.),108.67,ok
+22279,Shoreham,20924,Fitzroy (Vic.),,no_eligible_route
+22281,Silvan,20924,Fitzroy (Vic.),118.15,ok
+22291,Skye (Vic.),20924,Fitzroy (Vic.),102.85,ok
+22295,Smiths Gully,20924,Fitzroy (Vic.),,no_eligible_route
+22303,Somers,20924,Fitzroy (Vic.),158.43,ok
+22304,Somerton (Vic.),20924,Fitzroy (Vic.),82.22,ok
+22305,Somerville (Vic.),20924,Fitzroy (Vic.),131.12,ok
+22306,Sorrento (Vic.),20924,Fitzroy (Vic.),168.93,ok
+22309,South Kingsville,20924,Fitzroy (Vic.),65.65,ok
+22310,South Melbourne,20924,Fitzroy (Vic.),35.85,ok
+22311,South Morang,20924,Fitzroy (Vic.),73.17,ok
+22313,South Wharf,20924,Fitzroy (Vic.),33.32,ok
+22314,South Yarra,20924,Fitzroy (Vic.),25.48,ok
+22315,Southbank,20924,Fitzroy (Vic.),34.87,ok
+22319,Spotswood,20924,Fitzroy (Vic.),45.25,ok
+22325,Springfield (Macedon Ranges - Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+22328,Springvale (Vic.),20924,Fitzroy (Vic.),69.38,ok
+22329,Springvale South,20924,Fitzroy (Vic.),70.35,ok
+22330,St Albans (Vic.),20924,Fitzroy (Vic.),55.17,ok
+22332,St Andrews (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+22333,St Andrews Beach,20924,Fitzroy (Vic.),,no_eligible_route
+22339,St Helena,20924,Fitzroy (Vic.),61.72,ok
+22343,St Kilda (Vic.),20924,Fitzroy (Vic.),38.22,ok
+22344,St Kilda East,20924,Fitzroy (Vic.),49.68,ok
+22345,St Kilda West,20924,Fitzroy (Vic.),43.23,ok
+22355,Steels Creek,20924,Fitzroy (Vic.),,no_eligible_route
+22375,Strathewen,20924,Fitzroy (Vic.),,no_eligible_route
+22380,Strathmore (Vic.),20924,Fitzroy (Vic.),59.85,ok
+22381,Strathmore Heights,20924,Fitzroy (Vic.),70.63,ok
+22382,Strathtulloh,20924,Fitzroy (Vic.),189.83,ok
+22391,Sunbury,20924,Fitzroy (Vic.),122.78,ok
+22395,Sunshine (Vic.),20924,Fitzroy (Vic.),43.95,ok
+22396,Sunshine North,20924,Fitzroy (Vic.),59.02,ok
+22397,Sunshine West,20924,Fitzroy (Vic.),64.3,ok
+22399,Surrey Hills,20924,Fitzroy (Vic.),46.37,ok
+22414,Sydenham (Vic.),20924,Fitzroy (Vic.),69.57,ok
+22451,Tarneit,20924,Fitzroy (Vic.),104.0,ok
+22457,Tarrawarra,20924,Fitzroy (Vic.),123.92,ok
+22473,Taylors Hill,20924,Fitzroy (Vic.),76.4,ok
+22474,Taylors Lakes,20924,Fitzroy (Vic.),66.98,ok
+22476,Tecoma,20924,Fitzroy (Vic.),79.88,ok
+22483,Templestowe,20924,Fitzroy (Vic.),47.03,ok
+22484,Templestowe Lower,20924,Fitzroy (Vic.),42.0,ok
+22496,The Basin (Vic.),20924,Fitzroy (Vic.),89.37,ok
+22501,The Patch,20924,Fitzroy (Vic.),116.62,ok
+22504,Thomastown,20924,Fitzroy (Vic.),57.77,ok
+22508,Thornbury,20924,Fitzroy (Vic.),33.43,ok
+22509,Thornhill Park,20924,Fitzroy (Vic.),,no_eligible_route
+22514,Three Bridges,20924,Fitzroy (Vic.),,no_eligible_route
+22531,Tonimbuk,20924,Fitzroy (Vic.),,no_eligible_route
+22536,Toolangi,20924,Fitzroy (Vic.),,no_eligible_route
+22537,Toolern Vale,20924,Fitzroy (Vic.),,no_eligible_route
+22546,Tooradin,20924,Fitzroy (Vic.),,no_eligible_route
+22547,Toorak,20924,Fitzroy (Vic.),45.78,ok
+22550,Tootgarook,20924,Fitzroy (Vic.),164.58,ok
+22556,Tottenham (Vic.),20924,Fitzroy (Vic.),73.48,ok
+22572,Travancore,20924,Fitzroy (Vic.),37.9,ok
+22576,Tremont,20924,Fitzroy (Vic.),97.48,ok
+22582,Truganina,20924,Fitzroy (Vic.),154.68,ok
+22584,Tuerong,20924,Fitzroy (Vic.),,no_eligible_route
+22586,Tullamarine,20924,Fitzroy (Vic.),78.48,ok
+22594,Tyabb,20924,Fitzroy (Vic.),123.43,ok
+22598,Tynong,20924,Fitzroy (Vic.),,no_eligible_route
+22599,Tynong North,20924,Fitzroy (Vic.),,no_eligible_route
+22614,Upper Ferntree Gully,20924,Fitzroy (Vic.),77.03,ok
+22617,Upper Plenty,20924,Fitzroy (Vic.),,no_eligible_route
+22620,Upwey,20924,Fitzroy (Vic.),79.75,ok
+22627,Vermont,20924,Fitzroy (Vic.),68.35,ok
+22628,Vermont South,20924,Fitzroy (Vic.),77.23,ok
+22629,Vervale,20924,Fitzroy (Vic.),,no_eligible_route
+22633,Viewbank,20924,Fitzroy (Vic.),47.43,ok
+22661,Wallan,20924,Fitzroy (Vic.),,no_eligible_route
+22672,Wandin East,20924,Fitzroy (Vic.),,no_eligible_route
+22673,Wandin North,20924,Fitzroy (Vic.),90.68,ok
+22676,Wandong,20924,Fitzroy (Vic.),,no_eligible_route
+22685,Wantirna,20924,Fitzroy (Vic.),77.43,ok
+22686,Wantirna South,20924,Fitzroy (Vic.),83.48,ok
+22689,Warburton (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+22695,Warneet,20924,Fitzroy (Vic.),,no_eligible_route
+22702,Warrandyte,20924,Fitzroy (Vic.),64.65,ok
+22703,Warrandyte South,20924,Fitzroy (Vic.),102.78,ok
+22704,Warranwood,20924,Fitzroy (Vic.),68.28,ok
+22717,Waterford Park,20924,Fitzroy (Vic.),,no_eligible_route
+22720,Waterways,20924,Fitzroy (Vic.),91.78,ok
+22721,Watsonia,20924,Fitzroy (Vic.),40.88,ok
+22722,Watsonia North,20924,Fitzroy (Vic.),59.33,ok
+22723,Watsons Creek (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+22727,Wattle Glen,20924,Fitzroy (Vic.),72.63,ok
+22740,Weir Views,20924,Fitzroy (Vic.),159.03,ok
+22750,Werribee,20924,Fitzroy (Vic.),80.27,ok
+22751,Werribee South,20924,Fitzroy (Vic.),118.28,ok
+22753,Wesburn,20924,Fitzroy (Vic.),122.65,ok
+22756,West Footscray,20924,Fitzroy (Vic.),47.12,ok
+22757,West Melbourne,20924,Fitzroy (Vic.),46.45,ok
+22761,Westmeadows,20924,Fitzroy (Vic.),72.27,ok
+22766,Wheelers Hill,20924,Fitzroy (Vic.),77.62,ok
+22775,Whittlesea,20924,Fitzroy (Vic.),,no_eligible_route
+22784,Wildwood,20924,Fitzroy (Vic.),,no_eligible_route
+22791,Williams Landing,20924,Fitzroy (Vic.),80.4,ok
+22792,Williamstown (Vic.),20924,Fitzroy (Vic.),57.22,ok
+22793,Williamstown North,20924,Fitzroy (Vic.),71.72,ok
+22805,Windsor (Vic.),20924,Fitzroy (Vic.),40.08,ok
+22820,Wollert,20924,Fitzroy (Vic.),100.12,ok
+22825,Wonga Park,20924,Fitzroy (Vic.),90.83,ok
+22843,Woodstock (Vic.),20924,Fitzroy (Vic.),,no_eligible_route
+22857,Woori Yallock,20924,Fitzroy (Vic.),101.8,ok
+22883,Wyndham Vale,20924,Fitzroy (Vic.),108.85,ok
+22892,Yallambie,20924,Fitzroy (Vic.),59.17,ok
+22898,Yan Yean,20924,Fitzroy (Vic.),106.72,ok
+22906,Yannathan,20924,Fitzroy (Vic.),,no_eligible_route
+22910,Yarra Glen,20924,Fitzroy (Vic.),121.22,ok
+22911,Yarra Junction,20924,Fitzroy (Vic.),126.92,ok
+22916,Yarrambat,20924,Fitzroy (Vic.),77.03,ok
+22917,Yarraville,20924,Fitzroy (Vic.),50.8,ok
+22925,Yellingbo,20924,Fitzroy (Vic.),,no_eligible_route
+22930,Yering,20924,Fitzroy (Vic.),,no_eligible_route
+22941,Yuroke,20924,Fitzroy (Vic.),131.22,ok

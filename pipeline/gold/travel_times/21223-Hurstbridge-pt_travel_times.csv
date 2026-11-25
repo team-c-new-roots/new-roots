@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21223,Hurstbridge,71.88,ok
+20003,Aberfeldie,21223,Hurstbridge,113.12,ok
+20011,Aintree,21223,Hurstbridge,156.85,ok
+20015,Airport West,21223,Hurstbridge,107.92,ok
+20017,Albanvale,21223,Hurstbridge,147.93,ok
+20018,Albert Park (Vic.),21223,Hurstbridge,95.68,ok
+20021,Albion (Vic.),21223,Hurstbridge,117.72,ok
+20034,Alphington,21223,Hurstbridge,53.55,ok
+20035,Altona (Vic.),21223,Hurstbridge,133.82,ok
+20036,Altona Meadows,21223,Hurstbridge,135.77,ok
+20037,Altona North,21223,Hurstbridge,127.22,ok
+20062,Ardeer,21223,Hurstbridge,126.87,ok
+20066,Armadale (Vic.),21223,Hurstbridge,88.97,ok
+20071,Arthurs Creek,21223,Hurstbridge,130.03,walk_only
+20072,Arthurs Seat,21223,Hurstbridge,,no_eligible_route
+20075,Ascot Vale,21223,Hurstbridge,98.65,ok
+20077,Ashburton,21223,Hurstbridge,100.57,ok
+20078,Ashwood,21223,Hurstbridge,96.47,ok
+20079,Aspendale,21223,Hurstbridge,135.22,ok
+20080,Aspendale Gardens,21223,Hurstbridge,139.22,ok
+20082,Attwood,21223,Hurstbridge,104.93,ok
+20089,Avondale Heights,21223,Hurstbridge,129.25,ok
+20091,Avonsleigh,21223,Hurstbridge,,no_eligible_route
+20095,Bacchus Marsh,21223,Hurstbridge,,no_eligible_route
+20097,Badger Creek,21223,Hurstbridge,170.42,ok
+20105,Balaclava (Vic.),21223,Hurstbridge,100.6,ok
+20120,Balnarring,21223,Hurstbridge,,no_eligible_route
+20121,Balnarring Beach,21223,Hurstbridge,,no_eligible_route
+20123,Balwyn,21223,Hurstbridge,86.75,ok
+20124,Balwyn North,21223,Hurstbridge,77.43,ok
+20131,Bangholme,21223,Hurstbridge,188.3,ok
+20169,Baxter,21223,Hurstbridge,,no_eligible_route
+20171,Bayles,21223,Hurstbridge,,no_eligible_route
+20173,Bayswater (Vic.),21223,Hurstbridge,102.22,ok
+20174,Bayswater North,21223,Hurstbridge,100.18,ok
+20175,Beaconsfield (Vic.),21223,Hurstbridge,167.67,ok
+20176,Beaconsfield Upper,21223,Hurstbridge,,no_eligible_route
+20182,Beaumaris (Vic.),21223,Hurstbridge,134.1,ok
+20187,Beenak,21223,Hurstbridge,,no_eligible_route
+20188,Belgrave,21223,Hurstbridge,122.3,ok
+20189,Belgrave Heights,21223,Hurstbridge,153.97,ok
+20190,Belgrave South,21223,Hurstbridge,157.95,ok
+20198,Bellfield (Banyule - Vic.),21223,Hurstbridge,69.48,ok
+20207,Bend Of Islands,21223,Hurstbridge,192.55,walk_only
+20212,Benloch,21223,Hurstbridge,,no_eligible_route
+20214,Bentleigh,21223,Hurstbridge,112.0,ok
+20215,Bentleigh East,21223,Hurstbridge,120.4,ok
+20224,Berwick,21223,Hurstbridge,140.47,ok
+20233,Beveridge,21223,Hurstbridge,136.12,ok
+20237,Big Pats Creek,21223,Hurstbridge,,no_eligible_route
+20248,Bittern,21223,Hurstbridge,,no_eligible_route
+20251,Black Rock (Vic.),21223,Hurstbridge,139.9,ok
+20252,Blackburn,21223,Hurstbridge,65.08,ok
+20253,Blackburn North,21223,Hurstbridge,63.68,ok
+20254,Blackburn South,21223,Hurstbridge,86.88,ok
+20257,Blairgowrie,21223,Hurstbridge,,no_eligible_route
+20260,Blind Bight,21223,Hurstbridge,,no_eligible_route
+20272,Bolinda,21223,Hurstbridge,,no_eligible_route
+20278,Bonbeach,21223,Hurstbridge,140.22,ok
+20280,Boneo,21223,Hurstbridge,,no_eligible_route
+20282,Bonnie Brook,21223,Hurstbridge,189.4,ok
+20304,Boronia,21223,Hurstbridge,104.68,ok
+20307,Botanic Ridge,21223,Hurstbridge,194.33,ok
+20314,Box Hill (Vic.),21223,Hurstbridge,69.88,ok
+20315,Box Hill North,21223,Hurstbridge,65.12,ok
+20316,Box Hill South,21223,Hurstbridge,74.15,ok
+20320,Braeside,21223,Hurstbridge,158.53,ok
+20324,Braybrook,21223,Hurstbridge,124.57,ok
+20331,Briar Hill,21223,Hurstbridge,41.77,ok
+20337,Brighton (Vic.),21223,Hurstbridge,113.37,ok
+20338,Brighton East,21223,Hurstbridge,116.78,ok
+20346,Broadmeadows (Vic.),21223,Hurstbridge,80.68,ok
+20351,Brookfield (Vic.),21223,Hurstbridge,,no_eligible_route
+20352,Brooklyn (Vic.),21223,Hurstbridge,125.13,ok
+20361,Brunswick (Vic.),21223,Hurstbridge,87.3,ok
+20362,Brunswick East,21223,Hurstbridge,81.05,ok
+20363,Brunswick West,21223,Hurstbridge,89.73,ok
+20381,Bulla (Vic.),21223,Hurstbridge,,no_eligible_route
+20386,Bulleen,21223,Hurstbridge,74.98,ok
+20387,Bullengarook,21223,Hurstbridge,,no_eligible_route
+20399,Bundoora (Vic.),21223,Hurstbridge,49.92,ok
+20411,Bunyip,21223,Hurstbridge,,no_eligible_route
+20412,Bunyip North,21223,Hurstbridge,,no_eligible_route
+20418,Burnley,21223,Hurstbridge,101.23,ok
+20419,Burnside (Vic.),21223,Hurstbridge,135.75,ok
+20420,Burnside Heights,21223,Hurstbridge,143.57,ok
+20426,Burwood (Vic.),21223,Hurstbridge,83.38,ok
+20427,Burwood East,21223,Hurstbridge,84.88,ok
+20435,Bylands,21223,Hurstbridge,,no_eligible_route
+20441,Cairnlea,21223,Hurstbridge,129.93,ok
+20442,Calder Park,21223,Hurstbridge,151.5,ok
+20443,Caldermeade,21223,Hurstbridge,,no_eligible_route
+20453,Camberwell (Vic.),21223,Hurstbridge,94.4,ok
+20455,Campbellfield,21223,Hurstbridge,108.22,ok
+20466,Cannons Creek,21223,Hurstbridge,,no_eligible_route
+20468,Canterbury (Vic.),21223,Hurstbridge,91.25,ok
+20474,Cape Schanck,21223,Hurstbridge,,no_eligible_route
+20476,Capel Sound,21223,Hurstbridge,,no_eligible_route
+20487,Cardinia,21223,Hurstbridge,,no_eligible_route
+20495,Carlton (Vic.),21223,Hurstbridge,78.58,ok
+20496,Carlton North,21223,Hurstbridge,88.05,ok
+20498,Carnegie,21223,Hurstbridge,112.52,ok
+20500,Caroline Springs,21223,Hurstbridge,147.68,ok
+20507,Carrum,21223,Hurstbridge,140.03,ok
+20508,Carrum Downs,21223,Hurstbridge,159.27,ok
+20512,Castella,21223,Hurstbridge,,no_eligible_route
+20517,Catani,21223,Hurstbridge,,no_eligible_route
+20521,Caulfield,21223,Hurstbridge,112.7,ok
+20522,Caulfield East,21223,Hurstbridge,100.4,ok
+20523,Caulfield North,21223,Hurstbridge,101.32,ok
+20524,Caulfield South,21223,Hurstbridge,117.23,ok
+20528,Chadstone,21223,Hurstbridge,94.18,ok
+20537,Chelsea,21223,Hurstbridge,132.33,ok
+20538,Chelsea Heights,21223,Hurstbridge,144.62,ok
+20539,Cheltenham (Vic.),21223,Hurstbridge,126.75,ok
+20541,Cherokee,21223,Hurstbridge,,no_eligible_route
+20555,Chintin,21223,Hurstbridge,,no_eligible_route
+20556,Chirnside Park,21223,Hurstbridge,134.58,ok
+20559,Christmas Hills (Vic.),21223,Hurstbridge,188.38,walk_only
+20560,Chum Creek,21223,Hurstbridge,,no_eligible_route
+20566,Clarinda,21223,Hurstbridge,119.5,ok
+20567,Clarkefield,21223,Hurstbridge,,no_eligible_route
+20569,Clayton,21223,Hurstbridge,105.63,ok
+20570,Clayton South,21223,Hurstbridge,124.82,ok
+20572,Clematis,21223,Hurstbridge,,no_eligible_route
+20574,Clifton Hill,21223,Hurstbridge,62.85,ok
+20576,Clonbinane,21223,Hurstbridge,,no_eligible_route
+20581,Clyde (Vic.),21223,Hurstbridge,,no_eligible_route
+20582,Clyde North,21223,Hurstbridge,181.93,ok
+20587,Cobaw,21223,Hurstbridge,,no_eligible_route
+20590,Cobblebank,21223,Hurstbridge,207.55,ok
+20596,Coburg,21223,Hurstbridge,89.32,ok
+20597,Coburg North,21223,Hurstbridge,96.43,ok
+20600,Cockatoo (Vic.),21223,Hurstbridge,,no_eligible_route
+20601,Cocoroc,21223,Hurstbridge,,no_eligible_route
+20605,Coimadai,21223,Hurstbridge,,no_eligible_route
+20613,Coldstream (Vic.),21223,Hurstbridge,,no_eligible_route
+20616,Collingwood (Vic.),21223,Hurstbridge,71.88,ok
+20624,Coolaroo,21223,Hurstbridge,94.8,ok
+20633,Cora Lynn,21223,Hurstbridge,,no_eligible_route
+20654,Cottles Bridge,21223,Hurstbridge,67.63,walk_only
+20661,Craigieburn,21223,Hurstbridge,110.63,ok
+20662,Cranbourne,21223,Hurstbridge,167.12,ok
+20663,Cranbourne East,21223,Hurstbridge,178.12,ok
+20664,Cranbourne North,21223,Hurstbridge,207.08,ok
+20665,Cranbourne South,21223,Hurstbridge,197.68,ok
+20666,Cranbourne West,21223,Hurstbridge,172.63,ok
+20670,Cremorne (Vic.),21223,Hurstbridge,87.55,ok
+20674,Crib Point,21223,Hurstbridge,,no_eligible_route
+20682,Croydon (Vic.),21223,Hurstbridge,92.32,ok
+20683,Croydon Hills,21223,Hurstbridge,111.68,ok
+20684,Croydon North,21223,Hurstbridge,110.07,ok
+20685,Croydon South,21223,Hurstbridge,116.03,ok
+20702,Dallas,21223,Hurstbridge,92.2,ok
+20703,Dalmore,21223,Hurstbridge,,no_eligible_route
+20707,Dandenong,21223,Hurstbridge,128.07,ok
+20708,Dandenong North,21223,Hurstbridge,127.57,ok
+20709,Dandenong South,21223,Hurstbridge,159.15,ok
+20712,Darley,21223,Hurstbridge,,no_eligible_route
+20716,Darraweit Guim,21223,Hurstbridge,,no_eligible_route
+20724,Deanside,21223,Hurstbridge,170.87,ok
+20728,Deepdene (Vic.),21223,Hurstbridge,76.72,ok
+20729,Deer Park,21223,Hurstbridge,124.7,ok
+20731,Delahey,21223,Hurstbridge,141.37,ok
+20743,Derrimut,21223,Hurstbridge,167.27,ok
+20748,Devon Meadows,21223,Hurstbridge,,no_eligible_route
+20750,Dewhurst,21223,Hurstbridge,,no_eligible_route
+20752,Diamond Creek,21223,Hurstbridge,22.58,ok
+20754,Diggers Rest,21223,Hurstbridge,155.82,ok
+20758,Dingley Village,21223,Hurstbridge,141.87,ok
+20762,Dixons Creek,21223,Hurstbridge,,no_eligible_route
+20766,Docklands,21223,Hurstbridge,88.75,ok
+20769,Don Valley,21223,Hurstbridge,,no_eligible_route
+20771,Doncaster,21223,Hurstbridge,45.12,ok
+20772,Doncaster East,21223,Hurstbridge,54.0,ok
+20773,Donnybrook (Vic.),21223,Hurstbridge,146.02,ok
+20774,Donvale,21223,Hurstbridge,83.55,ok
+20779,Doreen,21223,Hurstbridge,50.2,ok
+20783,Doveton,21223,Hurstbridge,150.57,ok
+20788,Dromana,21223,Hurstbridge,254.65,ok
+20825,Eaglemont,21223,Hurstbridge,57.07,ok
+20830,East Melbourne,21223,Hurstbridge,70.92,ok
+20833,East Warburton,21223,Hurstbridge,,no_eligible_route
+20843,Eden Park,21223,Hurstbridge,,no_eligible_route
+20848,Edithvale,21223,Hurstbridge,123.82,ok
+20864,Elsternwick,21223,Hurstbridge,108.52,ok
+20865,Eltham (Vic.),21223,Hurstbridge,38.18,ok
+20866,Eltham North,21223,Hurstbridge,37.27,ok
+20867,Elwood,21223,Hurstbridge,107.97,ok
+20868,Emerald (Vic.),21223,Hurstbridge,,no_eligible_route
+20871,Endeavour Hills,21223,Hurstbridge,173.0,ok
+20878,Epping (Vic.),21223,Hurstbridge,87.58,ok
+20885,Essendon,21223,Hurstbridge,100.92,ok
+20886,Essendon Fields,21223,Hurstbridge,123.38,ok
+20887,Essendon North,21223,Hurstbridge,102.12,ok
+20888,Essendon West,21223,Hurstbridge,109.73,ok
+20889,Eumemmerring,21223,Hurstbridge,161.43,ok
+20898,Exford,21223,Hurstbridge,,no_eligible_route
+20899,Eynesbury,21223,Hurstbridge,,no_eligible_route
+20901,Fairfield (Vic.),21223,Hurstbridge,63.85,ok
+20909,Fawkner,21223,Hurstbridge,88.47,ok
+20916,Fernshaw,21223,Hurstbridge,,no_eligible_route
+20917,Ferntree Gully,21223,Hurstbridge,101.05,ok
+20918,Ferny Creek,21223,Hurstbridge,153.58,ok
+20920,Fingal (Vic.),21223,Hurstbridge,,no_eligible_route
+20924,Fitzroy (Vic.),21223,Hurstbridge,76.42,ok
+20925,Fitzroy North,21223,Hurstbridge,74.23,ok
+20929,Flemington,21223,Hurstbridge,101.48,ok
+20930,Flinders (Vic.),21223,Hurstbridge,,no_eligible_route
+20935,Footscray,21223,Hurstbridge,104.38,ok
+20937,Forest Hill (Vic.),21223,Hurstbridge,75.87,ok
+20947,Frankston,21223,Hurstbridge,157.0,ok
+20948,Frankston North,21223,Hurstbridge,176.15,ok
+20949,Frankston South,21223,Hurstbridge,,no_eligible_route
+20950,Fraser Rise,21223,Hurstbridge,162.25,ok
+20965,Gardenvale,21223,Hurstbridge,109.8,ok
+20966,Garfield,21223,Hurstbridge,,no_eligible_route
+20967,Garfield North,21223,Hurstbridge,,no_eligible_route
+20979,Gembrook,21223,Hurstbridge,,no_eligible_route
+20995,Gilderoy,21223,Hurstbridge,,no_eligible_route
+21001,Gisborne,21223,Hurstbridge,,no_eligible_route
+21002,Gisborne South,21223,Hurstbridge,,no_eligible_route
+21004,Gladstone Park,21223,Hurstbridge,102.38,ok
+21005,Gladysdale,21223,Hurstbridge,,no_eligible_route
+21009,Glen Huntly,21223,Hurstbridge,103.53,ok
+21010,Glen Iris (Vic.),21223,Hurstbridge,107.4,ok
+21013,Glen Waverley,21223,Hurstbridge,89.43,ok
+21047,Glenroy (Vic.),21223,Hurstbridge,101.55,ok
+21059,Goldie,21223,Hurstbridge,,no_eligible_route
+21079,Gowanbrae,21223,Hurstbridge,111.98,ok
+21087,Grangefields,21223,Hurstbridge,193.85,ok
+21104,Greensborough,21223,Hurstbridge,30.08,ok
+21105,Greenvale (Vic.),21223,Hurstbridge,119.73,ok
+21115,Gruyere,21223,Hurstbridge,,no_eligible_route
+21121,Guys Hill,21223,Hurstbridge,,no_eligible_route
+21124,Hadfield,21223,Hurstbridge,106.7,ok
+21125,Hallam,21223,Hurstbridge,146.58,ok
+21131,Hampton (Vic.),21223,Hurstbridge,121.2,ok
+21132,Hampton East,21223,Hurstbridge,118.77,ok
+21133,Hampton Park,21223,Hurstbridge,161.0,ok
+21139,Harkaway,21223,Hurstbridge,,no_eligible_route
+21140,Harkness,21223,Hurstbridge,,no_eligible_route
+21145,Hastings (Vic.),21223,Hurstbridge,,no_eligible_route
+21152,Hawthorn (Vic.),21223,Hurstbridge,92.83,ok
+21153,Hawthorn East,21223,Hurstbridge,92.88,ok
+21158,Healesville,21223,Hurstbridge,174.33,ok
+21159,Heath Hill,21223,Hurstbridge,,no_eligible_route
+21161,Heathcote Junction,21223,Hurstbridge,,no_eligible_route
+21163,Heatherton,21223,Hurstbridge,138.88,ok
+21165,Heathmont,21223,Hurstbridge,91.58,ok
+21167,Heidelberg,21223,Hurstbridge,59.87,ok
+21168,Heidelberg Heights,21223,Hurstbridge,59.4,ok
+21169,Heidelberg West,21223,Hurstbridge,65.4,ok
+21176,Hesket,21223,Hurstbridge,,no_eligible_route
+21185,Highett,21223,Hurstbridge,111.53,ok
+21193,Hillside (Melton - Vic.),21223,Hurstbridge,146.8,ok
+21195,Hmas Cerberus,21223,Hurstbridge,,no_eligible_route
+21196,Hoddles Creek,21223,Hurstbridge,,no_eligible_route
+21202,Hopetoun Park,21223,Hurstbridge,,no_eligible_route
+21203,Hoppers Crossing,21223,Hurstbridge,143.93,ok
+21214,Hughesdale,21223,Hurstbridge,114.33,ok
+21215,Humevale,21223,Hurstbridge,119.92,ok
+21218,Huntingdale (Vic.),21223,Hurstbridge,119.42,ok
+21223,Hurstbridge,21223,Hurstbridge,0.0,same_centroid
+21238,Iona,21223,Hurstbridge,,no_eligible_route
+21246,Ivanhoe (Vic.),21223,Hurstbridge,50.48,ok
+21247,Ivanhoe East,21223,Hurstbridge,62.72,ok
+21248,Jacana,21223,Hurstbridge,89.92,ok
+21277,Junction Village,21223,Hurstbridge,206.67,ok
+21284,Kalkallo,21223,Hurstbridge,146.02,ok
+21286,Kallista,21223,Hurstbridge,157.02,ok
+21287,Kalorama,21223,Hurstbridge,123.28,ok
+21294,Kangaroo Ground,21223,Hurstbridge,80.83,ok
+21312,Kealba,21223,Hurstbridge,128.08,ok
+21314,Keilor,21223,Hurstbridge,152.23,ok
+21315,Keilor Downs,21223,Hurstbridge,145.07,ok
+21316,Keilor East,21223,Hurstbridge,124.1,ok
+21317,Keilor Lodge,21223,Hurstbridge,153.92,ok
+21318,Keilor North,21223,Hurstbridge,158.52,ok
+21319,Keilor Park,21223,Hurstbridge,132.02,ok
+21327,Kensington (Vic.),21223,Hurstbridge,93.27,ok
+21333,Kerrie,21223,Hurstbridge,,no_eligible_route
+21336,Kew (Vic.),21223,Hurstbridge,87.5,ok
+21337,Kew East,21223,Hurstbridge,81.15,ok
+21339,Keysborough,21223,Hurstbridge,126.8,ok
+21354,Kilsyth,21223,Hurstbridge,106.62,ok
+21355,Kilsyth South,21223,Hurstbridge,124.75,ok
+21358,Kinglake,21223,Hurstbridge,,no_eligible_route
+21359,Kinglake Central,21223,Hurstbridge,,no_eligible_route
+21360,Kinglake West,21223,Hurstbridge,,no_eligible_route
+21362,Kings Park (Vic.),21223,Hurstbridge,145.27,ok
+21363,Kingsbury,21223,Hurstbridge,68.15,ok
+21365,Kingsville,21223,Hurstbridge,114.2,ok
+21374,Knoxfield,21223,Hurstbridge,113.33,ok
+21380,Koo Wee Rup,21223,Hurstbridge,,no_eligible_route
+21381,Koo Wee Rup North,21223,Hurstbridge,,no_eligible_route
+21393,Kooyong,21223,Hurstbridge,98.75,ok
+21411,Kurunjang,21223,Hurstbridge,225.63,ok
+21452,Lalor,21223,Hurstbridge,66.65,ok
+21456,Lancefield,21223,Hurstbridge,,no_eligible_route
+21459,Lang Lang,21223,Hurstbridge,,no_eligible_route
+21460,Lang Lang East,21223,Hurstbridge,,no_eligible_route
+21467,Langwarrin,21223,Hurstbridge,170.97,ok
+21468,Langwarrin South,21223,Hurstbridge,,no_eligible_route
+21473,Launching Place,21223,Hurstbridge,148.97,ok
+21476,Laverton (Vic.),21223,Hurstbridge,124.42,ok
+21477,Laverton North,21223,Hurstbridge,150.85,ok
+21504,Lilydale (Vic.),21223,Hurstbridge,117.62,ok
+21533,Long Forest,21223,Hurstbridge,,no_eligible_route
+21547,Lower Plenty,21223,Hurstbridge,65.82,ok
+21554,Lynbrook,21223,Hurstbridge,147.83,ok
+21555,Lyndhurst (Vic.),21223,Hurstbridge,,no_eligible_route
+21558,Lysterfield,21223,Hurstbridge,,no_eligible_route
+21559,Lysterfield South,21223,Hurstbridge,211.55,ok
+21561,Macclesfield (Vic.),21223,Hurstbridge,,no_eligible_route
+21562,Macedon,21223,Hurstbridge,,no_eligible_route
+21564,Macleod (Vic.),21223,Hurstbridge,46.38,ok
+21569,Maddingley,21223,Hurstbridge,,no_eligible_route
+21575,Maidstone,21223,Hurstbridge,120.8,ok
+21578,Main Ridge,21223,Hurstbridge,,no_eligible_route
+21586,Malvern (Vic.),21223,Hurstbridge,98.98,ok
+21587,Malvern East,21223,Hurstbridge,111.35,ok
+21588,Mambourin,21223,Hurstbridge,,no_eligible_route
+21597,Manor Lakes,21223,Hurstbridge,180.88,ok
+21604,Maribyrnong,21223,Hurstbridge,116.7,ok
+21619,Maryknoll,21223,Hurstbridge,,no_eligible_route
+21625,McCrae,21223,Hurstbridge,,no_eligible_route
+21629,McKinnon,21223,Hurstbridge,100.83,ok
+21635,Meadow Heights,21223,Hurstbridge,102.08,ok
+21640,Melbourne,21223,Hurstbridge,88.43,ok
+21641,Melbourne Airport,21223,Hurstbridge,,no_eligible_route
+21642,Melton (Vic.),21223,Hurstbridge,209.77,ok
+21643,Melton South,21223,Hurstbridge,223.37,ok
+21644,Melton West,21223,Hurstbridge,218.6,ok
+21648,Mentone,21223,Hurstbridge,120.18,ok
+21649,Menzies Creek,21223,Hurstbridge,,no_eligible_route
+21659,Mernda,21223,Hurstbridge,86.5,ok
+21662,Merricks,21223,Hurstbridge,,no_eligible_route
+21663,Merricks Beach,21223,Hurstbridge,,no_eligible_route
+21664,Merricks North,21223,Hurstbridge,,no_eligible_route
+21668,Merrimu,21223,Hurstbridge,,no_eligible_route
+21675,Mickleham,21223,Hurstbridge,142.63,ok
+21677,Middle Park (Vic.),21223,Hurstbridge,101.77,ok
+21683,Mill Park,21223,Hurstbridge,61.73,ok
+21685,Millgrove,21223,Hurstbridge,,no_eligible_route
+21706,Mitcham (Vic.),21223,Hurstbridge,78.05,ok
+21727,Monbulk,21223,Hurstbridge,164.47,ok
+21728,Monegeetta,21223,Hurstbridge,,no_eligible_route
+21731,Monomeith,21223,Hurstbridge,,no_eligible_route
+21732,Mont Albert,21223,Hurstbridge,75.18,ok
+21733,Mont Albert North,21223,Hurstbridge,64.03,ok
+21735,Montmorency,21223,Hurstbridge,32.82,ok
+21736,Montrose (Vic.),21223,Hurstbridge,108.83,ok
+21742,Moonee Ponds,21223,Hurstbridge,93.98,ok
+21746,Moorabbin,21223,Hurstbridge,125.78,ok
+21747,Moorabbin Airport,21223,Hurstbridge,156.02,ok
+21754,Moorooduc,21223,Hurstbridge,,no_eligible_route
+21755,Mooroolbark,21223,Hurstbridge,105.52,ok
+21760,Mordialloc,21223,Hurstbridge,136.82,ok
+21763,Mornington (Vic.),21223,Hurstbridge,194.52,ok
+21779,Mount Burnett,21223,Hurstbridge,,no_eligible_route
+21786,Mount Cottrell,21223,Hurstbridge,,no_eligible_route
+21787,Mount Dandenong,21223,Hurstbridge,127.28,ok
+21793,Mount Eliza,21223,Hurstbridge,165.05,ok
+21795,Mount Evelyn,21223,Hurstbridge,126.68,ok
+21801,Mount Macedon,21223,Hurstbridge,,no_eligible_route
+21803,Mount Martha,21223,Hurstbridge,211.33,ok
+21814,Mount Toolebewong,21223,Hurstbridge,,no_eligible_route
+21816,Mount Waverley,21223,Hurstbridge,90.17,ok
+21827,Mulgrave (Vic.),21223,Hurstbridge,121.35,ok
+21849,Murrumbeena,21223,Hurstbridge,113.62,ok
+21872,Nangana,21223,Hurstbridge,,no_eligible_route
+21878,Nar Nar Goon,21223,Hurstbridge,,no_eligible_route
+21879,Nar Nar Goon North,21223,Hurstbridge,,no_eligible_route
+21893,Narre Warren,21223,Hurstbridge,146.02,ok
+21894,Narre Warren East,21223,Hurstbridge,,no_eligible_route
+21895,Narre Warren North,21223,Hurstbridge,217.93,ok
+21896,Narre Warren South,21223,Hurstbridge,191.58,ok
+21921,New Gisborne,21223,Hurstbridge,,no_eligible_route
+21934,Newport (Vic.),21223,Hurstbridge,109.27,ok
+21942,Niddrie,21223,Hurstbridge,119.22,ok
+21952,Noble Park,21223,Hurstbridge,119.83,ok
+21953,Noble Park North,21223,Hurstbridge,141.82,ok
+21966,North Melbourne,21223,Hurstbridge,92.67,ok
+21969,North Warrandyte,21223,Hurstbridge,51.82,ok
+21971,Northcote,21223,Hurstbridge,71.48,ok
+21974,Notting Hill,21223,Hurstbridge,92.97,ok
+21985,Nunawading,21223,Hurstbridge,71.28,ok
+21991,Nutfield,21223,Hurstbridge,70.5,walk_only
+21998,Oak Park,21223,Hurstbridge,106.75,ok
+21999,Oaklands Junction,21223,Hurstbridge,,no_eligible_route
+22000,Oakleigh,21223,Hurstbridge,109.8,ok
+22001,Oakleigh East,21223,Hurstbridge,106.82,ok
+22002,Oakleigh South,21223,Hurstbridge,108.43,ok
+22006,Officer,21223,Hurstbridge,160.12,ok
+22007,Officer South,21223,Hurstbridge,219.68,ok
+22009,Olinda (Vic.),21223,Hurstbridge,151.93,ok
+22016,Ormond,21223,Hurstbridge,101.27,ok
+22027,Pakenham,21223,Hurstbridge,159.17,ok
+22028,Pakenham South,21223,Hurstbridge,,no_eligible_route
+22029,Pakenham Upper,21223,Hurstbridge,,no_eligible_route
+22032,Panton Hill,21223,Hurstbridge,67.48,walk_only
+22036,Park Orchards,21223,Hurstbridge,86.18,ok
+22037,Parkdale,21223,Hurstbridge,126.6,ok
+22038,Parkville (Vic.),21223,Hurstbridge,100.63,ok
+22041,Pascoe Vale,21223,Hurstbridge,108.52,ok
+22042,Pascoe Vale South,21223,Hurstbridge,94.33,ok
+22047,Patterson Lakes,21223,Hurstbridge,152.75,ok
+22050,Pearcedale,21223,Hurstbridge,214.98,ok
+22058,Pentland Hills,21223,Hurstbridge,,no_eligible_route
+22064,Pheasant Creek (Vic.),21223,Hurstbridge,,no_eligible_route
+22084,Plenty (Vic.),21223,Hurstbridge,48.82,ok
+22085,Plumpton (Vic.),21223,Hurstbridge,,no_eligible_route
+22086,Point Cook,21223,Hurstbridge,150.65,ok
+22087,Point Leo,21223,Hurstbridge,,no_eligible_route
+22107,Port Melbourne,21223,Hurstbridge,97.27,ok
+22113,Portsea,21223,Hurstbridge,,no_eligible_route
+22115,Powelltown,21223,Hurstbridge,,no_eligible_route
+22118,Prahran,21223,Hurstbridge,95.77,ok
+22121,Preston (Vic.),21223,Hurstbridge,74.62,ok
+22122,Princes Hill,21223,Hurstbridge,80.65,ok
+22132,Quandong,21223,Hurstbridge,,no_eligible_route
+22141,Ravenhall,21223,Hurstbridge,184.45,ok
+22148,Red Hill (Vic.),21223,Hurstbridge,,no_eligible_route
+22149,Red Hill South,21223,Hurstbridge,,no_eligible_route
+22160,Research,21223,Hurstbridge,44.68,ok
+22161,Reservoir (Vic.),21223,Hurstbridge,77.47,ok
+22170,Richmond (Vic.),21223,Hurstbridge,81.28,ok
+22172,Riddells Creek,21223,Hurstbridge,,no_eligible_route
+22174,Ringwood (Vic.),21223,Hurstbridge,85.25,ok
+22175,Ringwood East,21223,Hurstbridge,91.67,ok
+22176,Ringwood North,21223,Hurstbridge,92.77,ok
+22179,Ripponlea,21223,Hurstbridge,99.23,ok
+22185,Rochford,21223,Hurstbridge,,no_eligible_route
+22186,Rockbank,21223,Hurstbridge,175.12,ok
+22193,Romsey,21223,Hurstbridge,,no_eligible_route
+22194,Rosanna,21223,Hurstbridge,48.87,ok
+22198,Rosebud,21223,Hurstbridge,,no_eligible_route
+22207,Rowville,21223,Hurstbridge,127.63,ok
+22208,Roxburgh Park,21223,Hurstbridge,103.9,ok
+22220,Rye,21223,Hurstbridge,,no_eligible_route
+22221,Rythdale,21223,Hurstbridge,,no_eligible_route
+22222,Safety Beach (Vic.),21223,Hurstbridge,222.55,ok
+22232,Sandhurst,21223,Hurstbridge,187.2,ok
+22234,Sandringham (Vic.),21223,Hurstbridge,126.08,ok
+22239,Sassafras (Vic.),21223,Hurstbridge,136.35,ok
+22242,Scoresby,21223,Hurstbridge,115.6,ok
+22247,Seabrook,21223,Hurstbridge,132.72,ok
+22249,Seaford (Vic.),21223,Hurstbridge,152.13,ok
+22250,Seaholme,21223,Hurstbridge,123.12,ok
+22256,Seddon (Vic.),21223,Hurstbridge,102.52,ok
+22258,Selby,21223,Hurstbridge,154.9,ok
+22263,Seville,21223,Hurstbridge,160.13,ok
+22264,Seville East,21223,Hurstbridge,147.02,ok
+22278,Sherbrooke,21223,Hurstbridge,147.08,ok
+22279,Shoreham,21223,Hurstbridge,,no_eligible_route
+22281,Silvan,21223,Hurstbridge,156.57,ok
+22291,Skye (Vic.),21223,Hurstbridge,190.92,ok
+22295,Smiths Gully,21223,Hurstbridge,129.77,walk_only
+22303,Somers,21223,Hurstbridge,,no_eligible_route
+22304,Somerton (Vic.),21223,Hurstbridge,99.52,ok
+22305,Somerville (Vic.),21223,Hurstbridge,,no_eligible_route
+22306,Sorrento (Vic.),21223,Hurstbridge,,no_eligible_route
+22309,South Kingsville,21223,Hurstbridge,121.52,ok
+22310,South Melbourne,21223,Hurstbridge,94.58,ok
+22311,South Morang,21223,Hurstbridge,75.33,ok
+22313,South Wharf,21223,Hurstbridge,93.25,ok
+22314,South Yarra,21223,Hurstbridge,80.9,ok
+22315,Southbank,21223,Hurstbridge,94.02,ok
+22319,Spotswood,21223,Hurstbridge,102.67,ok
+22325,Springfield (Macedon Ranges - Vic.),21223,Hurstbridge,,no_eligible_route
+22328,Springvale (Vic.),21223,Hurstbridge,108.92,ok
+22329,Springvale South,21223,Hurstbridge,107.53,ok
+22330,St Albans (Vic.),21223,Hurstbridge,120.35,ok
+22332,St Andrews (Vic.),21223,Hurstbridge,176.77,walk_only
+22333,St Andrews Beach,21223,Hurstbridge,,no_eligible_route
+22339,St Helena,21223,Hurstbridge,32.97,ok
+22343,St Kilda (Vic.),21223,Hurstbridge,95.93,ok
+22344,St Kilda East,21223,Hurstbridge,99.67,ok
+22345,St Kilda West,21223,Hurstbridge,104.1,ok
+22355,Steels Creek,21223,Hurstbridge,,no_eligible_route
+22375,Strathewen,21223,Hurstbridge,211.68,walk_only
+22380,Strathmore (Vic.),21223,Hurstbridge,115.02,ok
+22381,Strathmore Heights,21223,Hurstbridge,110.52,ok
+22382,Strathtulloh,21223,Hurstbridge,,no_eligible_route
+22391,Sunbury,21223,Hurstbridge,178.63,ok
+22395,Sunshine (Vic.),21223,Hurstbridge,109.13,ok
+22396,Sunshine North,21223,Hurstbridge,124.2,ok
+22397,Sunshine West,21223,Hurstbridge,141.3,ok
+22399,Surrey Hills,21223,Hurstbridge,78.1,ok
+22414,Sydenham (Vic.),21223,Hurstbridge,134.75,ok
+22451,Tarneit,21223,Hurstbridge,158.72,ok
+22457,Tarrawarra,21223,Hurstbridge,149.93,ok
+22473,Taylors Hill,21223,Hurstbridge,145.75,ok
+22474,Taylors Lakes,21223,Hurstbridge,139.15,ok
+22476,Tecoma,21223,Hurstbridge,119.3,ok
+22483,Templestowe,21223,Hurstbridge,54.58,ok
+22484,Templestowe Lower,21223,Hurstbridge,53.52,ok
+22496,The Basin (Vic.),21223,Hurstbridge,127.48,ok
+22501,The Patch,21223,Hurstbridge,155.03,ok
+22504,Thomastown,21223,Hurstbridge,74.63,ok
+22508,Thornbury,21223,Hurstbridge,72.75,ok
+22509,Thornhill Park,21223,Hurstbridge,,no_eligible_route
+22514,Three Bridges,21223,Hurstbridge,,no_eligible_route
+22531,Tonimbuk,21223,Hurstbridge,,no_eligible_route
+22536,Toolangi,21223,Hurstbridge,,no_eligible_route
+22537,Toolern Vale,21223,Hurstbridge,,no_eligible_route
+22546,Tooradin,21223,Hurstbridge,,no_eligible_route
+22547,Toorak,21223,Hurstbridge,103.47,ok
+22550,Tootgarook,21223,Hurstbridge,,no_eligible_route
+22556,Tottenham (Vic.),21223,Hurstbridge,132.67,ok
+22572,Travancore,21223,Hurstbridge,101.08,ok
+22576,Tremont,21223,Hurstbridge,129.9,ok
+22582,Truganina,21223,Hurstbridge,232.1,ok
+22584,Tuerong,21223,Hurstbridge,,no_eligible_route
+22586,Tullamarine,21223,Hurstbridge,107.6,ok
+22594,Tyabb,21223,Hurstbridge,,no_eligible_route
+22598,Tynong,21223,Hurstbridge,,no_eligible_route
+22599,Tynong North,21223,Hurstbridge,,no_eligible_route
+22614,Upper Ferntree Gully,21223,Hurstbridge,109.45,ok
+22617,Upper Plenty,21223,Hurstbridge,,no_eligible_route
+22620,Upwey,21223,Hurstbridge,119.17,ok
+22627,Vermont,21223,Hurstbridge,87.3,ok
+22628,Vermont South,21223,Hurstbridge,91.15,ok
+22629,Vervale,21223,Hurstbridge,,no_eligible_route
+22633,Viewbank,21223,Hurstbridge,56.15,ok
+22661,Wallan,21223,Hurstbridge,,no_eligible_route
+22672,Wandin East,21223,Hurstbridge,,no_eligible_route
+22673,Wandin North,21223,Hurstbridge,133.1,ok
+22676,Wandong,21223,Hurstbridge,,no_eligible_route
+22685,Wantirna,21223,Hurstbridge,94.85,ok
+22686,Wantirna South,21223,Hurstbridge,106.62,ok
+22689,Warburton (Vic.),21223,Hurstbridge,,no_eligible_route
+22695,Warneet,21223,Hurstbridge,,no_eligible_route
+22702,Warrandyte,21223,Hurstbridge,54.95,ok
+22703,Warrandyte South,21223,Hurstbridge,93.5,ok
+22704,Warranwood,21223,Hurstbridge,83.03,ok
+22717,Waterford Park,21223,Hurstbridge,,no_eligible_route
+22720,Waterways,21223,Hurstbridge,130.97,ok
+22721,Watsonia,21223,Hurstbridge,37.6,ok
+22722,Watsonia North,21223,Hurstbridge,54.47,ok
+22723,Watsons Creek (Vic.),21223,Hurstbridge,119.6,walk_only
+22727,Wattle Glen,21223,Hurstbridge,19.65,ok
+22740,Weir Views,21223,Hurstbridge,,no_eligible_route
+22750,Werribee,21223,Hurstbridge,143.45,ok
+22751,Werribee South,21223,Hurstbridge,,no_eligible_route
+22753,Wesburn,21223,Hurstbridge,165.07,ok
+22756,West Footscray,21223,Hurstbridge,112.3,ok
+22757,West Melbourne,21223,Hurstbridge,99.23,ok
+22761,Westmeadows,21223,Hurstbridge,93.63,ok
+22766,Wheelers Hill,21223,Hurstbridge,114.03,ok
+22775,Whittlesea,21223,Hurstbridge,,no_eligible_route
+22784,Wildwood,21223,Hurstbridge,,no_eligible_route
+22791,Williams Landing,21223,Hurstbridge,138.67,ok
+22792,Williamstown (Vic.),21223,Hurstbridge,111.48,ok
+22793,Williamstown North,21223,Hurstbridge,128.85,ok
+22805,Windsor (Vic.),21223,Hurstbridge,98.5,ok
+22820,Wollert,21223,Hurstbridge,116.18,ok
+22825,Wonga Park,21223,Hurstbridge,134.85,ok
+22843,Woodstock (Vic.),21223,Hurstbridge,,no_eligible_route
+22857,Woori Yallock,21223,Hurstbridge,144.22,ok
+22883,Wyndham Vale,21223,Hurstbridge,166.27,ok
+22892,Yallambie,21223,Hurstbridge,63.33,ok
+22898,Yan Yean,21223,Hurstbridge,101.27,ok
+22906,Yannathan,21223,Hurstbridge,,no_eligible_route
+22910,Yarra Glen,21223,Hurstbridge,147.23,ok
+22911,Yarra Junction,21223,Hurstbridge,169.33,ok
+22916,Yarrambat,21223,Hurstbridge,35.57,ok
+22917,Yarraville,21223,Hurstbridge,108.42,ok
+22925,Yellingbo,21223,Hurstbridge,,no_eligible_route
+22930,Yering,21223,Hurstbridge,,no_eligible_route
+22941,Yuroke,21223,Hurstbridge,183.63,ok

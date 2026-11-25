@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21339,Keysborough,88.77,ok
+20003,Aberfeldie,21339,Keysborough,112.72,ok
+20011,Aintree,21339,Keysborough,147.05,ok
+20015,Airport West,21339,Keysborough,123.42,ok
+20017,Albanvale,21339,Keysborough,115.52,ok
+20018,Albert Park (Vic.),21339,Keysborough,89.12,ok
+20021,Albion (Vic.),21339,Keysborough,97.92,ok
+20034,Alphington,21339,Keysborough,89.93,ok
+20035,Altona (Vic.),21339,Keysborough,120.02,ok
+20036,Altona Meadows,21339,Keysborough,123.17,ok
+20037,Altona North,21339,Keysborough,129.2,ok
+20062,Ardeer,21339,Keysborough,116.15,ok
+20066,Armadale (Vic.),21339,Keysborough,69.15,ok
+20071,Arthurs Creek,21339,Keysborough,,no_eligible_route
+20072,Arthurs Seat,21339,Keysborough,,no_eligible_route
+20075,Ascot Vale,21339,Keysborough,98.85,ok
+20077,Ashburton,21339,Keysborough,79.02,ok
+20078,Ashwood,21339,Keysborough,73.63,ok
+20079,Aspendale,21339,Keysborough,50.03,ok
+20080,Aspendale Gardens,21339,Keysborough,44.78,ok
+20082,Attwood,21339,Keysborough,139.13,ok
+20089,Avondale Heights,21339,Keysborough,119.45,ok
+20091,Avonsleigh,21339,Keysborough,,no_eligible_route
+20095,Bacchus Marsh,21339,Keysborough,,no_eligible_route
+20097,Badger Creek,21339,Keysborough,204.23,ok
+20105,Balaclava (Vic.),21339,Keysborough,71.7,ok
+20120,Balnarring,21339,Keysborough,164.65,ok
+20121,Balnarring Beach,21339,Keysborough,161.18,ok
+20123,Balwyn,21339,Keysborough,99.53,ok
+20124,Balwyn North,21339,Keysborough,107.67,ok
+20131,Bangholme,21339,Keysborough,86.12,ok
+20169,Baxter,21339,Keysborough,97.38,ok
+20171,Bayles,21339,Keysborough,,no_eligible_route
+20173,Bayswater (Vic.),21339,Keysborough,104.83,ok
+20174,Bayswater North,21339,Keysborough,110.75,ok
+20175,Beaconsfield (Vic.),21339,Keysborough,74.62,ok
+20176,Beaconsfield Upper,21339,Keysborough,,no_eligible_route
+20182,Beaumaris (Vic.),21339,Keysborough,72.92,ok
+20187,Beenak,21339,Keysborough,,no_eligible_route
+20188,Belgrave,21339,Keysborough,112.22,ok
+20189,Belgrave Heights,21339,Keysborough,,no_eligible_route
+20190,Belgrave South,21339,Keysborough,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21339,Keysborough,110.68,ok
+20207,Bend Of Islands,21339,Keysborough,,no_eligible_route
+20212,Benloch,21339,Keysborough,,no_eligible_route
+20214,Bentleigh,21339,Keysborough,60.43,ok
+20215,Bentleigh East,21339,Keysborough,51.35,ok
+20224,Berwick,21339,Keysborough,53.67,ok
+20233,Beveridge,21339,Keysborough,169.68,ok
+20237,Big Pats Creek,21339,Keysborough,,no_eligible_route
+20248,Bittern,21339,Keysborough,115.37,ok
+20251,Black Rock (Vic.),21339,Keysborough,78.72,ok
+20252,Blackburn,21339,Keysborough,81.12,ok
+20253,Blackburn North,21339,Keysborough,96.42,ok
+20254,Blackburn South,21339,Keysborough,86.32,ok
+20257,Blairgowrie,21339,Keysborough,157.33,ok
+20260,Blind Bight,21339,Keysborough,,no_eligible_route
+20272,Bolinda,21339,Keysborough,,no_eligible_route
+20278,Bonbeach,21339,Keysborough,46.15,ok
+20280,Boneo,21339,Keysborough,,no_eligible_route
+20282,Bonnie Brook,21339,Keysborough,179.6,ok
+20304,Boronia,21339,Keysborough,95.65,ok
+20307,Botanic Ridge,21339,Keysborough,106.53,ok
+20314,Box Hill (Vic.),21339,Keysborough,81.63,ok
+20315,Box Hill North,21339,Keysborough,89.62,ok
+20316,Box Hill South,21339,Keysborough,78.5,ok
+20320,Braeside,21339,Keysborough,38.08,ok
+20324,Braybrook,21339,Keysborough,99.7,ok
+20331,Briar Hill,21339,Keysborough,115.13,ok
+20337,Brighton (Vic.),21339,Keysborough,77.83,ok
+20338,Brighton East,21339,Keysborough,66.98,ok
+20346,Broadmeadows (Vic.),21339,Keysborough,125.77,ok
+20351,Brookfield (Vic.),21339,Keysborough,,no_eligible_route
+20352,Brooklyn (Vic.),21339,Keysborough,113.6,ok
+20361,Brunswick (Vic.),21339,Keysborough,91.67,ok
+20362,Brunswick East,21339,Keysborough,99.53,ok
+20363,Brunswick West,21339,Keysborough,98.05,ok
+20381,Bulla (Vic.),21339,Keysborough,,no_eligible_route
+20386,Bulleen,21339,Keysborough,112.77,ok
+20387,Bullengarook,21339,Keysborough,,no_eligible_route
+20399,Bundoora (Vic.),21339,Keysborough,120.73,ok
+20411,Bunyip,21339,Keysborough,,no_eligible_route
+20412,Bunyip North,21339,Keysborough,,no_eligible_route
+20418,Burnley,21339,Keysborough,94.17,ok
+20419,Burnside (Vic.),21339,Keysborough,125.95,ok
+20420,Burnside Heights,21339,Keysborough,128.95,ok
+20426,Burwood (Vic.),21339,Keysborough,75.57,ok
+20427,Burwood East,21339,Keysborough,64.12,ok
+20435,Bylands,21339,Keysborough,,no_eligible_route
+20441,Cairnlea,21339,Keysborough,109.13,ok
+20442,Calder Park,21339,Keysborough,132.7,ok
+20443,Caldermeade,21339,Keysborough,,no_eligible_route
+20453,Camberwell (Vic.),21339,Keysborough,88.28,ok
+20455,Campbellfield,21339,Keysborough,130.42,ok
+20466,Cannons Creek,21339,Keysborough,,no_eligible_route
+20468,Canterbury (Vic.),21339,Keysborough,98.18,ok
+20474,Cape Schanck,21339,Keysborough,,no_eligible_route
+20476,Capel Sound,21339,Keysborough,142.68,ok
+20487,Cardinia,21339,Keysborough,,no_eligible_route
+20495,Carlton (Vic.),21339,Keysborough,77.13,ok
+20496,Carlton North,21339,Keysborough,96.72,ok
+20498,Carnegie,21339,Keysborough,56.47,ok
+20500,Caroline Springs,21339,Keysborough,123.83,ok
+20507,Carrum,21339,Keysborough,51.38,ok
+20508,Carrum Downs,21339,Keysborough,70.63,ok
+20512,Castella,21339,Keysborough,,no_eligible_route
+20517,Catani,21339,Keysborough,,no_eligible_route
+20521,Caulfield,21339,Keysborough,74.05,ok
+20522,Caulfield East,21339,Keysborough,54.13,ok
+20523,Caulfield North,21339,Keysborough,62.52,ok
+20524,Caulfield South,21339,Keysborough,71.05,ok
+20528,Chadstone,21339,Keysborough,62.25,ok
+20537,Chelsea,21339,Keysborough,41.15,ok
+20538,Chelsea Heights,21339,Keysborough,50.43,ok
+20539,Cheltenham (Vic.),21339,Keysborough,47.13,ok
+20541,Cherokee,21339,Keysborough,,no_eligible_route
+20555,Chintin,21339,Keysborough,,no_eligible_route
+20556,Chirnside Park,21339,Keysborough,159.18,ok
+20559,Christmas Hills (Vic.),21339,Keysborough,,no_eligible_route
+20560,Chum Creek,21339,Keysborough,,no_eligible_route
+20566,Clarinda,21339,Keysborough,57.7,ok
+20567,Clarkefield,21339,Keysborough,,no_eligible_route
+20569,Clayton,21339,Keysborough,53.85,ok
+20570,Clayton South,21339,Keysborough,59.48,ok
+20572,Clematis,21339,Keysborough,,no_eligible_route
+20574,Clifton Hill,21339,Keysborough,84.02,ok
+20576,Clonbinane,21339,Keysborough,,no_eligible_route
+20581,Clyde (Vic.),21339,Keysborough,,no_eligible_route
+20582,Clyde North,21339,Keysborough,80.13,ok
+20587,Cobaw,21339,Keysborough,,no_eligible_route
+20590,Cobblebank,21339,Keysborough,197.75,ok
+20596,Coburg,21339,Keysborough,97.4,ok
+20597,Coburg North,21339,Keysborough,106.97,ok
+20600,Cockatoo (Vic.),21339,Keysborough,,no_eligible_route
+20601,Cocoroc,21339,Keysborough,,no_eligible_route
+20605,Coimadai,21339,Keysborough,,no_eligible_route
+20613,Coldstream (Vic.),21339,Keysborough,,no_eligible_route
+20616,Collingwood (Vic.),21339,Keysborough,86.42,ok
+20624,Coolaroo,21339,Keysborough,123.37,ok
+20633,Cora Lynn,21339,Keysborough,,no_eligible_route
+20654,Cottles Bridge,21339,Keysborough,,no_eligible_route
+20661,Craigieburn,21339,Keysborough,144.2,ok
+20662,Cranbourne,21339,Keysborough,66.53,ok
+20663,Cranbourne East,21339,Keysborough,70.42,ok
+20664,Cranbourne North,21339,Keysborough,62.87,ok
+20665,Cranbourne South,21339,Keysborough,109.88,ok
+20666,Cranbourne West,21339,Keysborough,61.23,ok
+20670,Cremorne (Vic.),21339,Keysborough,81.47,ok
+20674,Crib Point,21339,Keysborough,124.33,ok
+20682,Croydon (Vic.),21339,Keysborough,100.98,ok
+20683,Croydon Hills,21339,Keysborough,119.83,ok
+20684,Croydon North,21339,Keysborough,120.78,ok
+20685,Croydon South,21339,Keysborough,119.95,ok
+20702,Dallas,21339,Keysborough,125.07,ok
+20703,Dalmore,21339,Keysborough,,no_eligible_route
+20707,Dandenong,21339,Keysborough,37.83,ok
+20708,Dandenong North,21339,Keysborough,63.42,ok
+20709,Dandenong South,21339,Keysborough,59.63,ok
+20712,Darley,21339,Keysborough,,no_eligible_route
+20716,Darraweit Guim,21339,Keysborough,,no_eligible_route
+20724,Deanside,21339,Keysborough,160.82,ok
+20728,Deepdene (Vic.),21339,Keysborough,92.03,ok
+20729,Deer Park,21339,Keysborough,114.9,ok
+20731,Delahey,21339,Keysborough,120.03,ok
+20743,Derrimut,21339,Keysborough,129.78,ok
+20748,Devon Meadows,21339,Keysborough,,no_eligible_route
+20750,Dewhurst,21339,Keysborough,,no_eligible_route
+20752,Diamond Creek,21339,Keysborough,136.25,ok
+20754,Diggers Rest,21339,Keysborough,141.33,ok
+20758,Dingley Village,21339,Keysborough,38.78,ok
+20762,Dixons Creek,21339,Keysborough,,no_eligible_route
+20766,Docklands,21339,Keysborough,83.95,ok
+20769,Don Valley,21339,Keysborough,,no_eligible_route
+20771,Doncaster,21339,Keysborough,85.03,ok
+20772,Doncaster East,21339,Keysborough,89.0,ok
+20773,Donnybrook (Vic.),21339,Keysborough,168.22,ok
+20774,Donvale,21339,Keysborough,86.15,ok
+20779,Doreen,21339,Keysborough,167.73,ok
+20783,Doveton,21339,Keysborough,49.1,ok
+20788,Dromana,21339,Keysborough,,no_eligible_route
+20825,Eaglemont,21339,Keysborough,112.27,ok
+20830,East Melbourne,21339,Keysborough,76.53,ok
+20833,East Warburton,21339,Keysborough,,no_eligible_route
+20843,Eden Park,21339,Keysborough,,no_eligible_route
+20848,Edithvale,21339,Keysborough,30.63,ok
+20864,Elsternwick,21339,Keysborough,77.23,ok
+20865,Eltham (Vic.),21339,Keysborough,116.1,ok
+20866,Eltham North,21339,Keysborough,132.68,ok
+20867,Elwood,21339,Keysborough,91.5,ok
+20868,Emerald (Vic.),21339,Keysborough,,no_eligible_route
+20871,Endeavour Hills,21339,Keysborough,63.75,ok
+20878,Epping (Vic.),21339,Keysborough,153.78,ok
+20885,Essendon,21339,Keysborough,105.42,ok
+20886,Essendon Fields,21339,Keysborough,126.98,ok
+20887,Essendon North,21339,Keysborough,107.47,ok
+20888,Essendon West,21339,Keysborough,108.93,ok
+20889,Eumemmerring,21339,Keysborough,46.27,ok
+20898,Exford,21339,Keysborough,,no_eligible_route
+20899,Eynesbury,21339,Keysborough,,no_eligible_route
+20901,Fairfield (Vic.),21339,Keysborough,100.25,ok
+20909,Fawkner,21339,Keysborough,122.87,ok
+20916,Fernshaw,21339,Keysborough,,no_eligible_route
+20917,Ferntree Gully,21339,Keysborough,73.87,ok
+20918,Ferny Creek,21339,Keysborough,,no_eligible_route
+20920,Fingal (Vic.),21339,Keysborough,,no_eligible_route
+20924,Fitzroy (Vic.),21339,Keysborough,85.55,ok
+20925,Fitzroy North,21339,Keysborough,91.73,ok
+20929,Flemington,21339,Keysborough,97.28,ok
+20930,Flinders (Vic.),21339,Keysborough,,no_eligible_route
+20935,Footscray,21339,Keysborough,82.33,ok
+20937,Forest Hill (Vic.),21339,Keysborough,62.43,ok
+20947,Frankston,21339,Keysborough,68.82,ok
+20948,Frankston North,21339,Keysborough,81.67,ok
+20949,Frankston South,21339,Keysborough,,no_eligible_route
+20950,Fraser Rise,21339,Keysborough,143.45,ok
+20965,Gardenvale,21339,Keysborough,72.43,ok
+20966,Garfield,21339,Keysborough,,no_eligible_route
+20967,Garfield North,21339,Keysborough,,no_eligible_route
+20979,Gembrook,21339,Keysborough,,no_eligible_route
+20995,Gilderoy,21339,Keysborough,,no_eligible_route
+21001,Gisborne,21339,Keysborough,,no_eligible_route
+21002,Gisborne South,21339,Keysborough,,no_eligible_route
+21004,Gladstone Park,21339,Keysborough,139.97,ok
+21005,Gladysdale,21339,Keysborough,,no_eligible_route
+21009,Glen Huntly,21339,Keysborough,64.73,ok
+21010,Glen Iris (Vic.),21339,Keysborough,87.32,ok
+21013,Glen Waverley,21339,Keysborough,51.03,ok
+21047,Glenroy (Vic.),21339,Keysborough,119.15,ok
+21059,Goldie,21339,Keysborough,,no_eligible_route
+21079,Gowanbrae,21339,Keysborough,128.42,ok
+21087,Grangefields,21339,Keysborough,184.05,ok
+21104,Greensborough,21339,Keysborough,110.82,ok
+21105,Greenvale (Vic.),21339,Keysborough,152.0,ok
+21115,Gruyere,21339,Keysborough,,no_eligible_route
+21121,Guys Hill,21339,Keysborough,,no_eligible_route
+21124,Hadfield,21339,Keysborough,124.9,ok
+21125,Hallam,21339,Keysborough,61.78,ok
+21131,Hampton (Vic.),21339,Keysborough,68.45,ok
+21132,Hampton East,21339,Keysborough,63.13,ok
+21133,Hampton Park,21339,Keysborough,61.37,ok
+21139,Harkaway,21339,Keysborough,,no_eligible_route
+21140,Harkness,21339,Keysborough,,no_eligible_route
+21145,Hastings (Vic.),21339,Keysborough,116.9,ok
+21152,Hawthorn (Vic.),21339,Keysborough,81.67,ok
+21153,Hawthorn East,21339,Keysborough,84.43,ok
+21158,Healesville,21339,Keysborough,208.15,ok
+21159,Heath Hill,21339,Keysborough,,no_eligible_route
+21161,Heathcote Junction,21339,Keysborough,,no_eligible_route
+21163,Heatherton,21339,Keysborough,58.83,ok
+21165,Heathmont,21339,Keysborough,107.3,ok
+21167,Heidelberg,21339,Keysborough,115.07,ok
+21168,Heidelberg Heights,21339,Keysborough,112.6,ok
+21169,Heidelberg West,21339,Keysborough,115.78,ok
+21176,Hesket,21339,Keysborough,,no_eligible_route
+21185,Highett,21339,Keysborough,50.7,ok
+21193,Hillside (Melton - Vic.),21339,Keysborough,128.0,ok
+21195,Hmas Cerberus,21339,Keysborough,,no_eligible_route
+21196,Hoddles Creek,21339,Keysborough,,no_eligible_route
+21202,Hopetoun Park,21339,Keysborough,,no_eligible_route
+21203,Hoppers Crossing,21339,Keysborough,134.13,ok
+21214,Hughesdale,21339,Keysborough,47.38,ok
+21215,Humevale,21339,Keysborough,,no_eligible_route
+21218,Huntingdale (Vic.),21339,Keysborough,49.25,ok
+21223,Hurstbridge,21339,Keysborough,136.8,ok
+21238,Iona,21339,Keysborough,,no_eligible_route
+21246,Ivanhoe (Vic.),21339,Keysborough,98.53,ok
+21247,Ivanhoe East,21339,Keysborough,118.2,ok
+21248,Jacana,21339,Keysborough,125.18,ok
+21277,Junction Village,21339,Keysborough,,no_eligible_route
+21284,Kalkallo,21339,Keysborough,161.22,ok
+21286,Kallista,21339,Keysborough,,no_eligible_route
+21287,Kalorama,21339,Keysborough,132.1,ok
+21294,Kangaroo Ground,21339,Keysborough,,no_eligible_route
+21312,Kealba,21339,Keysborough,118.28,ok
+21314,Keilor,21339,Keysborough,149.43,ok
+21315,Keilor Downs,21339,Keysborough,122.95,ok
+21316,Keilor East,21339,Keysborough,119.08,ok
+21317,Keilor Lodge,21339,Keysborough,119.88,ok
+21318,Keilor North,21339,Keysborough,125.95,ok
+21319,Keilor Park,21339,Keysborough,131.22,ok
+21327,Kensington (Vic.),21339,Keysborough,90.13,ok
+21333,Kerrie,21339,Keysborough,,no_eligible_route
+21336,Kew (Vic.),21339,Keysborough,95.7,ok
+21337,Kew East,21339,Keysborough,105.0,ok
+21339,Keysborough,21339,Keysborough,0.0,same_centroid
+21354,Kilsyth,21339,Keysborough,121.48,ok
+21355,Kilsyth South,21339,Keysborough,125.12,ok
+21358,Kinglake,21339,Keysborough,,no_eligible_route
+21359,Kinglake Central,21339,Keysborough,,no_eligible_route
+21360,Kinglake West,21339,Keysborough,,no_eligible_route
+21362,Kings Park (Vic.),21339,Keysborough,113.27,ok
+21363,Kingsbury,21339,Keysborough,132.88,ok
+21365,Kingsville,21339,Keysborough,94.4,ok
+21374,Knoxfield,21339,Keysborough,83.72,ok
+21380,Koo Wee Rup,21339,Keysborough,,no_eligible_route
+21381,Koo Wee Rup North,21339,Keysborough,,no_eligible_route
+21393,Kooyong,21339,Keysborough,79.45,ok
+21411,Kurunjang,21339,Keysborough,215.83,ok
+21452,Lalor,21339,Keysborough,117.22,ok
+21456,Lancefield,21339,Keysborough,,no_eligible_route
+21459,Lang Lang,21339,Keysborough,,no_eligible_route
+21460,Lang Lang East,21339,Keysborough,,no_eligible_route
+21467,Langwarrin,21339,Keysborough,88.25,ok
+21468,Langwarrin South,21339,Keysborough,,no_eligible_route
+21473,Launching Place,21339,Keysborough,,no_eligible_route
+21476,Laverton (Vic.),21339,Keysborough,114.62,ok
+21477,Laverton North,21339,Keysborough,141.05,ok
+21504,Lilydale (Vic.),21339,Keysborough,134.28,ok
+21533,Long Forest,21339,Keysborough,,no_eligible_route
+21547,Lower Plenty,21339,Keysborough,136.78,ok
+21554,Lynbrook,21339,Keysborough,48.03,ok
+21555,Lyndhurst (Vic.),21339,Keysborough,93.78,ok
+21558,Lysterfield,21339,Keysborough,133.27,ok
+21559,Lysterfield South,21339,Keysborough,115.75,ok
+21561,Macclesfield (Vic.),21339,Keysborough,,no_eligible_route
+21562,Macedon,21339,Keysborough,,no_eligible_route
+21564,Macleod (Vic.),21339,Keysborough,113.88,ok
+21569,Maddingley,21339,Keysborough,,no_eligible_route
+21575,Maidstone,21339,Keysborough,101.15,ok
+21578,Main Ridge,21339,Keysborough,,no_eligible_route
+21586,Malvern (Vic.),21339,Keysborough,71.13,ok
+21587,Malvern East,21339,Keysborough,65.95,ok
+21588,Mambourin,21339,Keysborough,,no_eligible_route
+21597,Manor Lakes,21339,Keysborough,167.08,ok
+21604,Maribyrnong,21339,Keysborough,105.67,ok
+21619,Maryknoll,21339,Keysborough,,no_eligible_route
+21625,McCrae,21339,Keysborough,,no_eligible_route
+21629,McKinnon,21339,Keysborough,54.42,ok
+21635,Meadow Heights,21339,Keysborough,138.07,ok
+21640,Melbourne,21339,Keysborough,69.93,ok
+21641,Melbourne Airport,21339,Keysborough,,no_eligible_route
+21642,Melton (Vic.),21339,Keysborough,199.97,ok
+21643,Melton South,21339,Keysborough,213.57,ok
+21644,Melton West,21339,Keysborough,208.8,ok
+21648,Mentone,21339,Keysborough,47.37,ok
+21649,Menzies Creek,21339,Keysborough,,no_eligible_route
+21659,Mernda,21339,Keysborough,155.7,ok
+21662,Merricks,21339,Keysborough,,no_eligible_route
+21663,Merricks Beach,21339,Keysborough,,no_eligible_route
+21664,Merricks North,21339,Keysborough,,no_eligible_route
+21668,Merrimu,21339,Keysborough,,no_eligible_route
+21675,Mickleham,21339,Keysborough,176.2,ok
+21677,Middle Park (Vic.),21339,Keysborough,97.85,ok
+21683,Mill Park,21339,Keysborough,147.18,ok
+21685,Millgrove,21339,Keysborough,,no_eligible_route
+21706,Mitcham (Vic.),21339,Keysborough,93.55,ok
+21727,Monbulk,21339,Keysborough,154.28,ok
+21728,Monegeetta,21339,Keysborough,,no_eligible_route
+21731,Monomeith,21339,Keysborough,,no_eligible_route
+21732,Mont Albert,21339,Keysborough,94.5,ok
+21733,Mont Albert North,21339,Keysborough,99.38,ok
+21735,Montmorency,21339,Keysborough,114.15,ok
+21736,Montrose (Vic.),21339,Keysborough,124.4,ok
+21742,Moonee Ponds,21339,Keysborough,94.53,ok
+21746,Moorabbin,21339,Keysborough,75.02,ok
+21747,Moorabbin Airport,21339,Keysborough,48.78,ok
+21754,Moorooduc,21339,Keysborough,119.47,ok
+21755,Mooroolbark,21339,Keysborough,114.33,ok
+21760,Mordialloc,21339,Keysborough,26.78,ok
+21763,Mornington (Vic.),21339,Keysborough,103.8,ok
+21779,Mount Burnett,21339,Keysborough,,no_eligible_route
+21786,Mount Cottrell,21339,Keysborough,,no_eligible_route
+21787,Mount Dandenong,21339,Keysborough,136.1,ok
+21793,Mount Eliza,21339,Keysborough,83.87,ok
+21795,Mount Evelyn,21339,Keysborough,140.27,ok
+21801,Mount Macedon,21339,Keysborough,,no_eligible_route
+21803,Mount Martha,21339,Keysborough,93.4,ok
+21814,Mount Toolebewong,21339,Keysborough,,no_eligible_route
+21816,Mount Waverley,21339,Keysborough,63.57,ok
+21827,Mulgrave (Vic.),21339,Keysborough,63.48,ok
+21849,Murrumbeena,21339,Keysborough,51.52,ok
+21872,Nangana,21339,Keysborough,,no_eligible_route
+21878,Nar Nar Goon,21339,Keysborough,,no_eligible_route
+21879,Nar Nar Goon North,21339,Keysborough,,no_eligible_route
+21893,Narre Warren,21339,Keysborough,59.22,ok
+21894,Narre Warren East,21339,Keysborough,,no_eligible_route
+21895,Narre Warren North,21339,Keysborough,69.2,ok
+21896,Narre Warren South,21339,Keysborough,61.58,ok
+21921,New Gisborne,21339,Keysborough,,no_eligible_route
+21934,Newport (Vic.),21339,Keysborough,99.47,ok
+21942,Niddrie,21339,Keysborough,119.42,ok
+21952,Noble Park,21339,Keysborough,20.23,ok
+21953,Noble Park North,21339,Keysborough,53.72,ok
+21966,North Melbourne,21339,Keysborough,77.13,ok
+21969,North Warrandyte,21339,Keysborough,137.63,ok
+21971,Northcote,21339,Keysborough,102.15,ok
+21974,Notting Hill,21339,Keysborough,61.67,ok
+21985,Nunawading,21339,Keysborough,66.97,ok
+21991,Nutfield,21339,Keysborough,,no_eligible_route
+21998,Oak Park,21339,Keysborough,112.85,ok
+21999,Oaklands Junction,21339,Keysborough,,no_eligible_route
+22000,Oakleigh,21339,Keysborough,47.0,ok
+22001,Oakleigh East,21339,Keysborough,56.82,ok
+22002,Oakleigh South,21339,Keysborough,47.63,ok
+22006,Officer,21339,Keysborough,73.32,ok
+22007,Officer South,21339,Keysborough,,no_eligible_route
+22009,Olinda (Vic.),21339,Keysborough,,no_eligible_route
+22016,Ormond,21339,Keysborough,56.35,ok
+22027,Pakenham,21339,Keysborough,69.23,ok
+22028,Pakenham South,21339,Keysborough,,no_eligible_route
+22029,Pakenham Upper,21339,Keysborough,,no_eligible_route
+22032,Panton Hill,21339,Keysborough,,no_eligible_route
+22036,Park Orchards,21339,Keysborough,95.0,ok
+22037,Parkdale,21339,Keysborough,48.47,ok
+22038,Parkville (Vic.),21339,Keysborough,89.75,ok
+22041,Pascoe Vale,21339,Keysborough,117.22,ok
+22042,Pascoe Vale South,21339,Keysborough,112.95,ok
+22047,Patterson Lakes,21339,Keysborough,66.57,ok
+22050,Pearcedale,21339,Keysborough,,no_eligible_route
+22058,Pentland Hills,21339,Keysborough,,no_eligible_route
+22064,Pheasant Creek (Vic.),21339,Keysborough,,no_eligible_route
+22084,Plenty (Vic.),21339,Keysborough,136.0,ok
+22085,Plumpton (Vic.),21339,Keysborough,,no_eligible_route
+22086,Point Cook,21339,Keysborough,140.85,ok
+22087,Point Leo,21339,Keysborough,,no_eligible_route
+22107,Port Melbourne,21339,Keysborough,97.75,ok
+22113,Portsea,21339,Keysborough,,no_eligible_route
+22115,Powelltown,21339,Keysborough,,no_eligible_route
+22118,Prahran,21339,Keysborough,82.53,ok
+22121,Preston (Vic.),21339,Keysborough,114.82,ok
+22122,Princes Hill,21339,Keysborough,90.9,ok
+22132,Quandong,21339,Keysborough,,no_eligible_route
+22141,Ravenhall,21339,Keysborough,174.65,ok
+22148,Red Hill (Vic.),21339,Keysborough,,no_eligible_route
+22149,Red Hill South,21339,Keysborough,,no_eligible_route
+22160,Research,21339,Keysborough,131.5,ok
+22161,Reservoir (Vic.),21339,Keysborough,118.03,ok
+22170,Richmond (Vic.),21339,Keysborough,81.07,ok
+22172,Riddells Creek,21339,Keysborough,,no_eligible_route
+22174,Ringwood (Vic.),21339,Keysborough,91.45,ok
+22175,Ringwood East,21339,Keysborough,105.22,ok
+22176,Ringwood North,21339,Keysborough,101.58,ok
+22179,Ripponlea,21339,Keysborough,82.52,ok
+22185,Rochford,21339,Keysborough,,no_eligible_route
+22186,Rockbank,21339,Keysborough,165.32,ok
+22193,Romsey,21339,Keysborough,,no_eligible_route
+22194,Rosanna,21339,Keysborough,108.35,ok
+22198,Rosebud,21339,Keysborough,,no_eligible_route
+22207,Rowville,21339,Keysborough,65.88,ok
+22208,Roxburgh Park,21339,Keysborough,137.47,ok
+22220,Rye,21339,Keysborough,165.4,ok
+22221,Rythdale,21339,Keysborough,,no_eligible_route
+22222,Safety Beach (Vic.),21339,Keysborough,120.37,ok
+22232,Sandhurst,21339,Keysborough,96.57,ok
+22234,Sandringham (Vic.),21339,Keysborough,72.47,ok
+22239,Sassafras (Vic.),21339,Keysborough,,no_eligible_route
+22242,Scoresby,21339,Keysborough,82.42,ok
+22247,Seabrook,21339,Keysborough,122.92,ok
+22249,Seaford (Vic.),21339,Keysborough,66.95,ok
+22250,Seaholme,21339,Keysborough,114.7,ok
+22256,Seddon (Vic.),21339,Keysborough,82.05,ok
+22258,Selby,21339,Keysborough,,no_eligible_route
+22263,Seville,21339,Keysborough,,no_eligible_route
+22264,Seville East,21339,Keysborough,,no_eligible_route
+22278,Sherbrooke,21339,Keysborough,136.9,ok
+22279,Shoreham,21339,Keysborough,,no_eligible_route
+22281,Silvan,21339,Keysborough,146.38,ok
+22291,Skye (Vic.),21339,Keysborough,73.78,ok
+22295,Smiths Gully,21339,Keysborough,,no_eligible_route
+22303,Somers,21339,Keysborough,145.67,ok
+22304,Somerton (Vic.),21339,Keysborough,135.83,ok
+22305,Somerville (Vic.),21339,Keysborough,,no_eligible_route
+22306,Sorrento (Vic.),21339,Keysborough,156.17,ok
+22309,South Kingsville,21339,Keysborough,115.17,ok
+22310,South Melbourne,21339,Keysborough,78.93,ok
+22311,South Morang,21339,Keysborough,148.92,ok
+22313,South Wharf,21339,Keysborough,86.93,ok
+22314,South Yarra,21339,Keysborough,69.48,ok
+22315,Southbank,21339,Keysborough,75.5,ok
+22319,Spotswood,21339,Keysborough,93.87,ok
+22325,Springfield (Macedon Ranges - Vic.),21339,Keysborough,,no_eligible_route
+22328,Springvale (Vic.),21339,Keysborough,31.88,ok
+22329,Springvale South,21339,Keysborough,23.02,ok
+22330,St Albans (Vic.),21339,Keysborough,100.55,ok
+22332,St Andrews (Vic.),21339,Keysborough,,no_eligible_route
+22333,St Andrews Beach,21339,Keysborough,,no_eligible_route
+22339,St Helena,21339,Keysborough,132.12,ok
+22343,St Kilda (Vic.),21339,Keysborough,78.92,ok
+22344,St Kilda East,21339,Keysborough,70.87,ok
+22345,St Kilda West,21339,Keysborough,84.65,ok
+22355,Steels Creek,21339,Keysborough,,no_eligible_route
+22375,Strathewen,21339,Keysborough,,no_eligible_route
+22380,Strathmore (Vic.),21339,Keysborough,121.02,ok
+22381,Strathmore Heights,21339,Keysborough,128.48,ok
+22382,Strathtulloh,21339,Keysborough,,no_eligible_route
+22391,Sunbury,21339,Keysborough,168.83,ok
+22395,Sunshine (Vic.),21339,Keysborough,89.33,ok
+22396,Sunshine North,21339,Keysborough,112.4,ok
+22397,Sunshine West,21339,Keysborough,107.68,ok
+22399,Surrey Hills,21339,Keysborough,94.87,ok
+22414,Sydenham (Vic.),21339,Keysborough,114.95,ok
+22451,Tarneit,21339,Keysborough,148.92,ok
+22457,Tarrawarra,21339,Keysborough,183.75,ok
+22473,Taylors Hill,21339,Keysborough,124.77,ok
+22474,Taylors Lakes,21339,Keysborough,119.83,ok
+22476,Tecoma,21339,Keysborough,96.12,ok
+22483,Templestowe,21339,Keysborough,125.4,ok
+22484,Templestowe Lower,21339,Keysborough,112.92,ok
+22496,The Basin (Vic.),21339,Keysborough,113.85,ok
+22501,The Patch,21339,Keysborough,144.85,ok
+22504,Thomastown,21339,Keysborough,126.52,ok
+22508,Thornbury,21339,Keysborough,109.3,ok
+22509,Thornhill Park,21339,Keysborough,,no_eligible_route
+22514,Three Bridges,21339,Keysborough,,no_eligible_route
+22531,Tonimbuk,21339,Keysborough,,no_eligible_route
+22536,Toolangi,21339,Keysborough,,no_eligible_route
+22537,Toolern Vale,21339,Keysborough,,no_eligible_route
+22546,Tooradin,21339,Keysborough,,no_eligible_route
+22547,Toorak,21339,Keysborough,84.58,ok
+22550,Tootgarook,21339,Keysborough,148.82,ok
+22556,Tottenham (Vic.),21339,Keysborough,115.77,ok
+22572,Travancore,21339,Keysborough,91.28,ok
+22576,Tremont,21339,Keysborough,120.1,ok
+22582,Truganina,21339,Keysborough,222.3,ok
+22584,Tuerong,21339,Keysborough,,no_eligible_route
+22586,Tullamarine,21339,Keysborough,144.15,ok
+22594,Tyabb,21339,Keysborough,110.82,ok
+22598,Tynong,21339,Keysborough,,no_eligible_route
+22599,Tynong North,21339,Keysborough,,no_eligible_route
+22614,Upper Ferntree Gully,21339,Keysborough,99.65,ok
+22617,Upper Plenty,21339,Keysborough,,no_eligible_route
+22620,Upwey,21339,Keysborough,106.52,ok
+22627,Vermont,21339,Keysborough,92.33,ok
+22628,Vermont South,21339,Keysborough,78.48,ok
+22629,Vervale,21339,Keysborough,,no_eligible_route
+22633,Viewbank,21339,Keysborough,141.52,ok
+22661,Wallan,21339,Keysborough,,no_eligible_route
+22672,Wandin East,21339,Keysborough,,no_eligible_route
+22673,Wandin North,21339,Keysborough,,no_eligible_route
+22676,Wandong,21339,Keysborough,,no_eligible_route
+22685,Wantirna,21339,Keysborough,85.82,ok
+22686,Wantirna South,21339,Keysborough,74.72,ok
+22689,Warburton (Vic.),21339,Keysborough,,no_eligible_route
+22695,Warneet,21339,Keysborough,,no_eligible_route
+22702,Warrandyte,21339,Keysborough,111.18,ok
+22703,Warrandyte South,21339,Keysborough,132.15,ok
+22704,Warranwood,21339,Keysborough,109.82,ok
+22717,Waterford Park,21339,Keysborough,,no_eligible_route
+22720,Waterways,21339,Keysborough,27.42,ok
+22721,Watsonia,21339,Keysborough,108.8,ok
+22722,Watsonia North,21339,Keysborough,124.28,ok
+22723,Watsons Creek (Vic.),21339,Keysborough,,no_eligible_route
+22727,Wattle Glen,21339,Keysborough,140.55,ok
+22740,Weir Views,21339,Keysborough,,no_eligible_route
+22750,Werribee,21339,Keysborough,129.65,ok
+22751,Werribee South,21339,Keysborough,,no_eligible_route
+22753,Wesburn,21339,Keysborough,,no_eligible_route
+22756,West Footscray,21339,Keysborough,92.5,ok
+22757,West Melbourne,21339,Keysborough,106.43,ok
+22761,Westmeadows,21339,Keysborough,131.88,ok
+22766,Wheelers Hill,21339,Keysborough,62.95,ok
+22775,Whittlesea,21339,Keysborough,,no_eligible_route
+22784,Wildwood,21339,Keysborough,,no_eligible_route
+22791,Williams Landing,21339,Keysborough,128.87,ok
+22792,Williamstown (Vic.),21339,Keysborough,106.68,ok
+22793,Williamstown North,21339,Keysborough,121.18,ok
+22805,Windsor (Vic.),21339,Keysborough,71.98,ok
+22820,Wollert,21339,Keysborough,156.73,ok
+22825,Wonga Park,21339,Keysborough,,no_eligible_route
+22843,Woodstock (Vic.),21339,Keysborough,,no_eligible_route
+22857,Woori Yallock,21339,Keysborough,,no_eligible_route
+22883,Wyndham Vale,21339,Keysborough,156.47,ok
+22892,Yallambie,21339,Keysborough,137.08,ok
+22898,Yan Yean,21339,Keysborough,172.47,ok
+22906,Yannathan,21339,Keysborough,,no_eligible_route
+22910,Yarra Glen,21339,Keysborough,181.05,ok
+22911,Yarra Junction,21339,Keysborough,,no_eligible_route
+22916,Yarrambat,21339,Keysborough,146.57,ok
+22917,Yarraville,21339,Keysborough,96.18,ok
+22925,Yellingbo,21339,Keysborough,,no_eligible_route
+22930,Yering,21339,Keysborough,,no_eligible_route
+22941,Yuroke,21339,Keysborough,194.83,ok

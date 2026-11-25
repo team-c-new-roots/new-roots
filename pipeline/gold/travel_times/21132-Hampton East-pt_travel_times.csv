@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21132,Hampton East,66.53,ok
+20003,Aberfeldie,21132,Hampton East,87.83,ok
+20011,Aintree,21132,Hampton East,124.57,ok
+20015,Airport West,21132,Hampton East,109.93,ok
+20017,Albanvale,21132,Hampton East,104.03,ok
+20018,Albert Park (Vic.),21132,Hampton East,68.05,ok
+20021,Albion (Vic.),21132,Hampton East,84.43,ok
+20034,Alphington,21132,Hampton East,73.45,ok
+20035,Altona (Vic.),21132,Hampton East,95.53,ok
+20036,Altona Meadows,21132,Hampton East,103.68,ok
+20037,Altona North,21132,Hampton East,101.93,ok
+20062,Ardeer,21132,Hampton East,94.58,ok
+20066,Armadale (Vic.),21132,Hampton East,36.67,ok
+20071,Arthurs Creek,21132,Hampton East,,no_eligible_route
+20072,Arthurs Seat,21132,Hampton East,141.65,ok
+20075,Ascot Vale,21132,Hampton East,82.37,ok
+20077,Ashburton,21132,Hampton East,73.28,ok
+20078,Ashwood,21132,Hampton East,66.13,ok
+20079,Aspendale,21132,Hampton East,44.38,ok
+20080,Aspendale Gardens,21132,Hampton East,69.13,ok
+20082,Attwood,21132,Hampton East,116.65,ok
+20089,Avondale Heights,21132,Hampton East,96.97,ok
+20091,Avonsleigh,21132,Hampton East,,no_eligible_route
+20095,Bacchus Marsh,21132,Hampton East,,no_eligible_route
+20097,Badger Creek,21132,Hampton East,165.13,ok
+20105,Balaclava (Vic.),21132,Hampton East,45.28,ok
+20120,Balnarring,21132,Hampton East,154.0,ok
+20121,Balnarring Beach,21132,Hampton East,150.53,ok
+20123,Balwyn,21132,Hampton East,77.05,ok
+20124,Balwyn North,21132,Hampton East,85.18,ok
+20131,Bangholme,21132,Hampton East,93.98,ok
+20169,Baxter,21132,Hampton East,84.45,ok
+20171,Bayles,21132,Hampton East,,no_eligible_route
+20173,Bayswater (Vic.),21132,Hampton East,96.93,ok
+20174,Bayswater North,21132,Hampton East,111.9,ok
+20175,Beaconsfield (Vic.),21132,Hampton East,108.13,ok
+20176,Beaconsfield Upper,21132,Hampton East,,no_eligible_route
+20182,Beaumaris (Vic.),21132,Hampton East,30.13,ok
+20187,Beenak,21132,Hampton East,,no_eligible_route
+20188,Belgrave,21132,Hampton East,110.02,ok
+20189,Belgrave Heights,21132,Hampton East,138.68,ok
+20190,Belgrave South,21132,Hampton East,137.67,ok
+20198,Bellfield (Banyule - Vic.),21132,Hampton East,90.2,ok
+20207,Bend Of Islands,21132,Hampton East,,no_eligible_route
+20212,Benloch,21132,Hampton East,,no_eligible_route
+20214,Bentleigh,21132,Hampton East,25.07,ok
+20215,Bentleigh East,21132,Hampton East,32.67,ok
+20224,Berwick,21132,Hampton East,83.18,ok
+20233,Beveridge,21132,Hampton East,143.2,ok
+20237,Big Pats Creek,21132,Hampton East,,no_eligible_route
+20248,Bittern,21132,Hampton East,104.72,ok
+20251,Black Rock (Vic.),21132,Hampton East,25.5,ok
+20252,Blackburn,21132,Hampton East,70.27,ok
+20253,Blackburn North,21132,Hampton East,85.53,ok
+20254,Blackburn South,21132,Hampton East,86.6,ok
+20257,Blairgowrie,21132,Hampton East,141.68,ok
+20260,Blind Bight,21132,Hampton East,,no_eligible_route
+20272,Bolinda,21132,Hampton East,,no_eligible_route
+20278,Bonbeach,21132,Hampton East,49.38,ok
+20280,Boneo,21132,Hampton East,,no_eligible_route
+20282,Bonnie Brook,21132,Hampton East,157.12,ok
+20304,Boronia,21132,Hampton East,99.4,ok
+20307,Botanic Ridge,21132,Hampton East,121.05,ok
+20314,Box Hill (Vic.),21132,Hampton East,69.72,ok
+20315,Box Hill North,21132,Hampton East,79.13,ok
+20316,Box Hill South,21132,Hampton East,71.0,ok
+20320,Braeside,21132,Hampton East,68.4,ok
+20324,Braybrook,21132,Hampton East,86.22,ok
+20331,Briar Hill,21132,Hampton East,114.77,ok
+20337,Brighton (Vic.),21132,Hampton East,29.5,ok
+20338,Brighton East,21132,Hampton East,31.03,ok
+20346,Broadmeadows (Vic.),21132,Hampton East,106.28,ok
+20351,Brookfield (Vic.),21132,Hampton East,181.62,ok
+20352,Brooklyn (Vic.),21132,Hampton East,92.85,ok
+20361,Brunswick (Vic.),21132,Hampton East,76.38,ok
+20362,Brunswick East,21132,Hampton East,83.05,ok
+20363,Brunswick West,21132,Hampton East,83.57,ok
+20381,Bulla (Vic.),21132,Hampton East,160.8,ok
+20386,Bulleen,21132,Hampton East,90.33,ok
+20387,Bullengarook,21132,Hampton East,,no_eligible_route
+20399,Bundoora (Vic.),21132,Hampton East,109.18,ok
+20411,Bunyip,21132,Hampton East,,no_eligible_route
+20412,Bunyip North,21132,Hampton East,,no_eligible_route
+20418,Burnley,21132,Hampton East,64.4,ok
+20419,Burnside (Vic.),21132,Hampton East,103.47,ok
+20420,Burnside Heights,21132,Hampton East,111.28,ok
+20426,Burwood (Vic.),21132,Hampton East,63.07,ok
+20427,Burwood East,21132,Hampton East,78.02,ok
+20435,Bylands,21132,Hampton East,,no_eligible_route
+20441,Cairnlea,21132,Hampton East,95.65,ok
+20442,Calder Park,21132,Hampton East,119.22,ok
+20443,Caldermeade,21132,Hampton East,,no_eligible_route
+20453,Camberwell (Vic.),21132,Hampton East,71.22,ok
+20455,Campbellfield,21132,Hampton East,109.93,ok
+20466,Cannons Creek,21132,Hampton East,,no_eligible_route
+20468,Canterbury (Vic.),21132,Hampton East,69.7,ok
+20474,Cape Schanck,21132,Hampton East,,no_eligible_route
+20476,Capel Sound,21132,Hampton East,126.03,ok
+20487,Cardinia,21132,Hampton East,,no_eligible_route
+20495,Carlton (Vic.),21132,Hampton East,64.65,ok
+20496,Carlton North,21132,Hampton East,82.23,ok
+20498,Carnegie,21132,Hampton East,38.52,ok
+20500,Caroline Springs,21132,Hampton East,110.35,ok
+20507,Carrum,21132,Hampton East,49.2,ok
+20508,Carrum Downs,21132,Hampton East,68.3,ok
+20512,Castella,21132,Hampton East,,no_eligible_route
+20517,Catani,21132,Hampton East,,no_eligible_route
+20521,Caulfield,21132,Hampton East,42.37,ok
+20522,Caulfield East,21132,Hampton East,37.12,ok
+20523,Caulfield North,21132,Hampton East,43.03,ok
+20524,Caulfield South,21132,Hampton East,34.95,ok
+20528,Chadstone,21132,Hampton East,56.0,ok
+20537,Chelsea,21132,Hampton East,46.45,ok
+20538,Chelsea Heights,21132,Hampton East,59.13,ok
+20539,Cheltenham (Vic.),21132,Hampton East,35.17,ok
+20541,Cherokee,21132,Hampton East,,no_eligible_route
+20555,Chintin,21132,Hampton East,,no_eligible_route
+20556,Chirnside Park,21132,Hampton East,120.3,ok
+20559,Christmas Hills (Vic.),21132,Hampton East,,no_eligible_route
+20560,Chum Creek,21132,Hampton East,,no_eligible_route
+20566,Clarinda,21132,Hampton East,38.83,ok
+20567,Clarkefield,21132,Hampton East,,no_eligible_route
+20569,Clayton,21132,Hampton East,58.37,ok
+20570,Clayton South,21132,Hampton East,45.23,ok
+20572,Clematis,21132,Hampton East,,no_eligible_route
+20574,Clifton Hill,21132,Hampton East,63.45,ok
+20576,Clonbinane,21132,Hampton East,,no_eligible_route
+20581,Clyde (Vic.),21132,Hampton East,135.88,ok
+20582,Clyde North,21132,Hampton East,110.63,ok
+20587,Cobaw,21132,Hampton East,,no_eligible_route
+20590,Cobblebank,21132,Hampton East,166.27,ok
+20596,Coburg,21132,Hampton East,85.68,ok
+20597,Coburg North,21132,Hampton East,96.48,ok
+20600,Cockatoo (Vic.),21132,Hampton East,,no_eligible_route
+20601,Cocoroc,21132,Hampton East,,no_eligible_route
+20605,Coimadai,21132,Hampton East,,no_eligible_route
+20613,Coldstream (Vic.),21132,Hampton East,,no_eligible_route
+20616,Collingwood (Vic.),21132,Hampton East,62.77,ok
+20624,Coolaroo,21132,Hampton East,104.35,ok
+20633,Cora Lynn,21132,Hampton East,,no_eligible_route
+20654,Cottles Bridge,21132,Hampton East,,no_eligible_route
+20661,Craigieburn,21132,Hampton East,117.72,ok
+20662,Cranbourne,21132,Hampton East,78.88,ok
+20663,Cranbourne East,21132,Hampton East,101.38,ok
+20664,Cranbourne North,21132,Hampton East,91.38,ok
+20665,Cranbourne South,21132,Hampton East,124.4,ok
+20666,Cranbourne West,21132,Hampton East,91.8,ok
+20670,Cremorne (Vic.),21132,Hampton East,53.27,ok
+20674,Crib Point,21132,Hampton East,113.68,ok
+20682,Croydon (Vic.),21132,Hampton East,87.03,ok
+20683,Croydon Hills,21132,Hampton East,113.35,ok
+20684,Croydon North,21132,Hampton East,104.78,ok
+20685,Croydon South,21132,Hampton East,111.95,ok
+20702,Dallas,21132,Hampton East,108.58,ok
+20703,Dalmore,21132,Hampton East,,no_eligible_route
+20707,Dandenong,21132,Hampton East,70.78,ok
+20708,Dandenong North,21132,Hampton East,90.27,ok
+20709,Dandenong South,21132,Hampton East,87.15,ok
+20712,Darley,21132,Hampton East,,no_eligible_route
+20716,Darraweit Guim,21132,Hampton East,,no_eligible_route
+20724,Deanside,21132,Hampton East,133.72,ok
+20728,Deepdene (Vic.),21132,Hampton East,69.55,ok
+20729,Deer Park,21132,Hampton East,92.42,ok
+20731,Delahey,21132,Hampton East,106.55,ok
+20743,Derrimut,21132,Hampton East,118.3,ok
+20748,Devon Meadows,21132,Hampton East,,no_eligible_route
+20750,Dewhurst,21132,Hampton East,,no_eligible_route
+20752,Diamond Creek,21132,Hampton East,121.77,ok
+20754,Diggers Rest,21132,Hampton East,114.53,ok
+20758,Dingley Village,21132,Hampton East,49.18,ok
+20762,Dixons Creek,21132,Hampton East,,no_eligible_route
+20766,Docklands,21132,Hampton East,66.47,ok
+20769,Don Valley,21132,Hampton East,,no_eligible_route
+20771,Doncaster,21132,Hampton East,83.93,ok
+20772,Doncaster East,21132,Hampton East,93.9,ok
+20773,Donnybrook (Vic.),21132,Hampton East,140.73,ok
+20774,Donvale,21132,Hampton East,106.63,ok
+20779,Doreen,21132,Hampton East,136.25,ok
+20783,Doveton,21132,Hampton East,83.77,ok
+20788,Dromana,21132,Hampton East,139.65,ok
+20825,Eaglemont,21132,Hampton East,91.82,ok
+20830,East Melbourne,21132,Hampton East,59.05,ok
+20833,East Warburton,21132,Hampton East,,no_eligible_route
+20843,Eden Park,21132,Hampton East,,no_eligible_route
+20848,Edithvale,21132,Hampton East,46.58,ok
+20864,Elsternwick,21132,Hampton East,42.73,ok
+20865,Eltham (Vic.),21132,Hampton East,114.9,ok
+20866,Eltham North,21132,Hampton East,111.88,ok
+20867,Elwood,21132,Hampton East,50.58,ok
+20868,Emerald (Vic.),21132,Hampton East,,no_eligible_route
+20871,Endeavour Hills,21132,Hampton East,91.1,ok
+20878,Epping (Vic.),21132,Hampton East,125.67,ok
+20885,Essendon,21132,Hampton East,88.58,ok
+20886,Essendon Fields,21132,Hampton East,113.5,ok
+20887,Essendon North,21132,Hampton East,93.98,ok
+20888,Essendon West,21132,Hampton East,88.45,ok
+20889,Eumemmerring,21132,Hampton East,88.78,ok
+20898,Exford,21132,Hampton East,,no_eligible_route
+20899,Eynesbury,21132,Hampton East,,no_eligible_route
+20901,Fairfield (Vic.),21132,Hampton East,76.88,ok
+20909,Fawkner,21132,Hampton East,102.38,ok
+20916,Fernshaw,21132,Hampton East,,no_eligible_route
+20917,Ferntree Gully,21132,Hampton East,89.77,ok
+20918,Ferny Creek,21132,Hampton East,150.3,ok
+20920,Fingal (Vic.),21132,Hampton East,,no_eligible_route
+20924,Fitzroy (Vic.),21132,Hampton East,65.07,ok
+20925,Fitzroy North,21132,Hampton East,74.67,ok
+20929,Flemington,21132,Hampton East,83.2,ok
+20930,Flinders (Vic.),21132,Hampton East,,no_eligible_route
+20935,Footscray,21132,Hampton East,71.85,ok
+20937,Forest Hill (Vic.),21132,Hampton East,87.58,ok
+20947,Frankston,21132,Hampton East,63.17,ok
+20948,Frankston North,21132,Hampton East,76.32,ok
+20949,Frankston South,21132,Hampton East,90.43,ok
+20950,Fraser Rise,21132,Hampton East,129.97,ok
+20965,Gardenvale,21132,Hampton East,37.95,ok
+20966,Garfield,21132,Hampton East,,no_eligible_route
+20967,Garfield North,21132,Hampton East,,no_eligible_route
+20979,Gembrook,21132,Hampton East,,no_eligible_route
+20995,Gilderoy,21132,Hampton East,,no_eligible_route
+21001,Gisborne,21132,Hampton East,,no_eligible_route
+21002,Gisborne South,21132,Hampton East,,no_eligible_route
+21004,Gladstone Park,21132,Hampton East,120.43,ok
+21005,Gladysdale,21132,Hampton East,,no_eligible_route
+21009,Glen Huntly,21132,Hampton East,31.57,ok
+21010,Glen Iris (Vic.),21132,Hampton East,70.45,ok
+21013,Glen Waverley,21132,Hampton East,78.93,ok
+21047,Glenroy (Vic.),21132,Hampton East,101.13,ok
+21059,Goldie,21132,Hampton East,,no_eligible_route
+21079,Gowanbrae,21132,Hampton East,114.93,ok
+21087,Grangefields,21132,Hampton East,161.57,ok
+21104,Greensborough,21132,Hampton East,100.32,ok
+21105,Greenvale (Vic.),21132,Hampton East,127.82,ok
+21115,Gruyere,21132,Hampton East,,no_eligible_route
+21121,Guys Hill,21132,Hampton East,,no_eligible_route
+21124,Hadfield,21132,Hampton East,103.42,ok
+21125,Hallam,21132,Hampton East,88.3,ok
+21131,Hampton (Vic.),21132,Hampton East,25.68,ok
+21132,Hampton East,21132,Hampton East,0.0,same_centroid
+21133,Hampton Park,21132,Hampton East,86.72,ok
+21139,Harkaway,21132,Hampton East,,no_eligible_route
+21140,Harkness,21132,Hampton East,183.1,ok
+21145,Hastings (Vic.),21132,Hampton East,103.6,ok
+21152,Hawthorn (Vic.),21132,Hampton East,57.18,ok
+21153,Hawthorn East,21132,Hampton East,61.95,ok
+21158,Healesville,21132,Hampton East,169.05,ok
+21159,Heath Hill,21132,Hampton East,,no_eligible_route
+21161,Heathcote Junction,21132,Hampton East,,no_eligible_route
+21163,Heatherton,21132,Hampton East,47.23,ok
+21165,Heathmont,21132,Hampton East,87.2,ok
+21167,Heidelberg,21132,Hampton East,95.12,ok
+21168,Heidelberg Heights,21132,Hampton East,99.12,ok
+21169,Heidelberg West,21132,Hampton East,95.3,ok
+21176,Hesket,21132,Hampton East,,no_eligible_route
+21185,Highett,21132,Hampton East,18.12,ok
+21193,Hillside (Melton - Vic.),21132,Hampton East,114.52,ok
+21195,Hmas Cerberus,21132,Hampton East,146.88,ok
+21196,Hoddles Creek,21132,Hampton East,,no_eligible_route
+21202,Hopetoun Park,21132,Hampton East,,no_eligible_route
+21203,Hoppers Crossing,21132,Hampton East,109.37,ok
+21214,Hughesdale,21132,Hampton East,45.25,ok
+21215,Humevale,21132,Hampton East,,no_eligible_route
+21218,Huntingdale (Vic.),21132,Hampton East,54.77,ok
+21223,Hurstbridge,21132,Hampton East,122.32,ok
+21238,Iona,21132,Hampton East,,no_eligible_route
+21246,Ivanhoe (Vic.),21132,Hampton East,78.05,ok
+21247,Ivanhoe East,21132,Hampton East,86.47,ok
+21248,Jacana,21132,Hampton East,105.7,ok
+21277,Junction Village,21132,Hampton East,137.38,ok
+21284,Kalkallo,21132,Hampton East,147.73,ok
+21286,Kallista,21132,Hampton East,146.73,ok
+21287,Kalorama,21132,Hampton East,116.0,ok
+21294,Kangaroo Ground,21132,Hampton East,151.55,ok
+21312,Kealba,21132,Hampton East,95.8,ok
+21314,Keilor,21132,Hampton East,122.58,ok
+21315,Keilor Downs,21132,Hampton East,109.18,ok
+21316,Keilor East,21132,Hampton East,98.6,ok
+21317,Keilor Lodge,21132,Hampton East,108.4,ok
+21318,Keilor North,21132,Hampton East,114.47,ok
+21319,Keilor Park,21132,Hampton East,111.73,ok
+21327,Kensington (Vic.),21132,Hampton East,72.98,ok
+21333,Kerrie,21132,Hampton East,,no_eligible_route
+21336,Kew (Vic.),21132,Hampton East,72.22,ok
+21337,Kew East,21132,Hampton East,82.52,ok
+21339,Keysborough,21132,Hampton East,62.97,ok
+21354,Kilsyth,21132,Hampton East,105.38,ok
+21355,Kilsyth South,21132,Hampton East,119.47,ok
+21358,Kinglake,21132,Hampton East,,no_eligible_route
+21359,Kinglake Central,21132,Hampton East,,no_eligible_route
+21360,Kinglake West,21132,Hampton East,,no_eligible_route
+21362,Kings Park (Vic.),21132,Hampton East,99.78,ok
+21363,Kingsbury,21132,Hampton East,108.4,ok
+21365,Kingsville,21132,Hampton East,80.92,ok
+21374,Knoxfield,21132,Hampton East,89.67,ok
+21380,Koo Wee Rup,21132,Hampton East,,no_eligible_route
+21381,Koo Wee Rup North,21132,Hampton East,,no_eligible_route
+21393,Kooyong,21132,Hampton East,54.97,ok
+21411,Kurunjang,21132,Hampton East,160.3,ok
+21452,Lalor,21132,Hampton East,94.73,ok
+21456,Lancefield,21132,Hampton East,,no_eligible_route
+21459,Lang Lang,21132,Hampton East,,no_eligible_route
+21460,Lang Lang East,21132,Hampton East,,no_eligible_route
+21467,Langwarrin,21132,Hampton East,77.13,ok
+21468,Langwarrin South,21132,Hampton East,,no_eligible_route
+21473,Launching Place,21132,Hampton East,134.68,ok
+21476,Laverton (Vic.),21132,Hampton East,93.13,ok
+21477,Laverton North,21132,Hampton East,118.57,ok
+21504,Lilydale (Vic.),21132,Hampton East,112.33,ok
+21533,Long Forest,21132,Hampton East,,no_eligible_route
+21547,Lower Plenty,21132,Hampton East,123.68,ok
+21554,Lynbrook,21132,Hampton East,81.55,ok
+21555,Lyndhurst (Vic.),21132,Hampton East,123.13,ok
+21558,Lysterfield,21132,Hampton East,147.6,ok
+21559,Lysterfield South,21132,Hampton East,137.27,ok
+21561,Macclesfield (Vic.),21132,Hampton East,,no_eligible_route
+21562,Macedon,21132,Hampton East,,no_eligible_route
+21564,Macleod (Vic.),21132,Hampton East,93.4,ok
+21569,Maddingley,21132,Hampton East,,no_eligible_route
+21575,Maidstone,21132,Hampton East,87.67,ok
+21578,Main Ridge,21132,Hampton East,,no_eligible_route
+21586,Malvern (Vic.),21132,Hampton East,47.68,ok
+21587,Malvern East,21132,Hampton East,51.1,ok
+21588,Mambourin,21132,Hampton East,,no_eligible_route
+21597,Manor Lakes,21132,Hampton East,151.07,ok
+21604,Maribyrnong,21132,Hampton East,91.47,ok
+21619,Maryknoll,21132,Hampton East,,no_eligible_route
+21625,McCrae,21132,Hampton East,113.23,ok
+21629,McKinnon,21132,Hampton East,21.32,ok
+21635,Meadow Heights,21132,Hampton East,118.58,ok
+21640,Melbourne,21132,Hampton East,56.15,ok
+21641,Melbourne Airport,21132,Hampton East,,no_eligible_route
+21642,Melton (Vic.),21132,Hampton East,168.48,ok
+21643,Melton South,21132,Hampton East,180.85,ok
+21644,Melton West,21132,Hampton East,156.48,ok
+21648,Mentone,21132,Hampton East,28.55,ok
+21649,Menzies Creek,21132,Hampton East,,no_eligible_route
+21659,Mernda,21132,Hampton East,131.22,ok
+21662,Merricks,21132,Hampton East,,no_eligible_route
+21663,Merricks Beach,21132,Hampton East,,no_eligible_route
+21664,Merricks North,21132,Hampton East,,no_eligible_route
+21668,Merrimu,21132,Hampton East,,no_eligible_route
+21675,Mickleham,21132,Hampton East,148.72,ok
+21677,Middle Park (Vic.),21132,Hampton East,64.48,ok
+21683,Mill Park,21132,Hampton East,122.57,ok
+21685,Millgrove,21132,Hampton East,,no_eligible_route
+21706,Mitcham (Vic.),21132,Hampton East,81.93,ok
+21727,Monbulk,21132,Hampton East,154.18,ok
+21728,Monegeetta,21132,Hampton East,,no_eligible_route
+21731,Monomeith,21132,Hampton East,,no_eligible_route
+21732,Mont Albert,21132,Hampton East,70.1,ok
+21733,Mont Albert North,21132,Hampton East,83.9,ok
+21735,Montmorency,21132,Hampton East,100.97,ok
+21736,Montrose (Vic.),21132,Hampton East,108.3,ok
+21742,Moonee Ponds,21132,Hampton East,73.05,ok
+21746,Moorabbin,21132,Hampton East,28.55,ok
+21747,Moorabbin Airport,21132,Hampton East,51.37,ok
+21754,Moorooduc,21132,Hampton East,117.82,ok
+21755,Mooroolbark,21132,Hampton East,98.23,ok
+21760,Mordialloc,21132,Hampton East,42.48,ok
+21763,Mornington (Vic.),21132,Hampton East,101.03,ok
+21779,Mount Burnett,21132,Hampton East,,no_eligible_route
+21786,Mount Cottrell,21132,Hampton East,,no_eligible_route
+21787,Mount Dandenong,21132,Hampton East,120.0,ok
+21793,Mount Eliza,21132,Hampton East,78.22,ok
+21795,Mount Evelyn,21132,Hampton East,124.17,ok
+21801,Mount Macedon,21132,Hampton East,,no_eligible_route
+21803,Mount Martha,21132,Hampton East,96.75,ok
+21814,Mount Toolebewong,21132,Hampton East,,no_eligible_route
+21816,Mount Waverley,21132,Hampton East,66.08,ok
+21827,Mulgrave (Vic.),21132,Hampton East,76.03,ok
+21849,Murrumbeena,21132,Hampton East,38.85,ok
+21872,Nangana,21132,Hampton East,,no_eligible_route
+21878,Nar Nar Goon,21132,Hampton East,,no_eligible_route
+21879,Nar Nar Goon North,21132,Hampton East,,no_eligible_route
+21893,Narre Warren,21132,Hampton East,87.27,ok
+21894,Narre Warren East,21132,Hampton East,,no_eligible_route
+21895,Narre Warren North,21132,Hampton East,98.55,ok
+21896,Narre Warren South,21132,Hampton East,92.1,ok
+21921,New Gisborne,21132,Hampton East,,no_eligible_route
+21934,Newport (Vic.),21132,Hampton East,77.98,ok
+21942,Niddrie,21132,Hampton East,105.93,ok
+21952,Noble Park,21132,Hampton East,61.55,ok
+21953,Noble Park North,21132,Hampton East,82.77,ok
+21966,North Melbourne,21132,Hampton East,66.65,ok
+21969,North Warrandyte,21132,Hampton East,130.53,ok
+21971,Northcote,21132,Hampton East,79.93,ok
+21974,Notting Hill,21132,Hampton East,64.18,ok
+21985,Nunawading,21132,Hampton East,74.42,ok
+21991,Nutfield,21132,Hampton East,,no_eligible_route
+21998,Oak Park,21132,Hampton East,93.37,ok
+21999,Oaklands Junction,21132,Hampton East,,no_eligible_route
+22000,Oakleigh,21132,Hampton East,50.52,ok
+22001,Oakleigh East,21132,Hampton East,61.33,ok
+22002,Oakleigh South,21132,Hampton East,41.98,ok
+22006,Officer,21132,Hampton East,102.83,ok
+22007,Officer South,21132,Hampton East,142.4,ok
+22009,Olinda (Vic.),21132,Hampton East,150.62,ok
+22016,Ormond,21132,Hampton East,25.33,ok
+22027,Pakenham,21132,Hampton East,101.73,ok
+22028,Pakenham South,21132,Hampton East,,no_eligible_route
+22029,Pakenham Upper,21132,Hampton East,,no_eligible_route
+22032,Panton Hill,21132,Hampton East,,no_eligible_route
+22036,Park Orchards,21132,Hampton East,104.02,ok
+22037,Parkdale,21132,Hampton East,35.57,ok
+22038,Parkville (Vic.),21132,Hampton East,75.27,ok
+22041,Pascoe Vale,21132,Hampton East,97.73,ok
+22042,Pascoe Vale South,21132,Hampton East,93.47,ok
+22047,Patterson Lakes,21132,Hampton East,53.07,ok
+22050,Pearcedale,21132,Hampton East,141.7,ok
+22058,Pentland Hills,21132,Hampton East,,no_eligible_route
+22064,Pheasant Creek (Vic.),21132,Hampton East,,no_eligible_route
+22084,Plenty (Vic.),21132,Hampton East,124.9,ok
+22085,Plumpton (Vic.),21132,Hampton East,,no_eligible_route
+22086,Point Cook,21132,Hampton East,109.37,ok
+22087,Point Leo,21132,Hampton East,,no_eligible_route
+22107,Port Melbourne,21132,Hampton East,73.98,ok
+22113,Portsea,21132,Hampton East,157.53,ok
+22115,Powelltown,21132,Hampton East,,no_eligible_route
+22118,Prahran,21132,Hampton East,49.87,ok
+22121,Preston (Vic.),21132,Hampton East,91.33,ok
+22122,Princes Hill,21132,Hampton East,76.42,ok
+22132,Quandong,21132,Hampton East,,no_eligible_route
+22141,Ravenhall,21132,Hampton East,143.17,ok
+22148,Red Hill (Vic.),21132,Hampton East,,no_eligible_route
+22149,Red Hill South,21132,Hampton East,,no_eligible_route
+22160,Research,21132,Hampton East,124.4,ok
+22161,Reservoir (Vic.),21132,Hampton East,91.55,ok
+22170,Richmond (Vic.),21132,Hampton East,57.78,ok
+22172,Riddells Creek,21132,Hampton East,,no_eligible_route
+22174,Ringwood (Vic.),21132,Hampton East,88.57,ok
+22175,Ringwood East,21132,Hampton East,87.12,ok
+22176,Ringwood North,21132,Hampton East,98.75,ok
+22179,Ripponlea,21132,Hampton East,42.35,ok
+22185,Rochford,21132,Hampton East,,no_eligible_route
+22186,Rockbank,21132,Hampton East,141.75,ok
+22193,Romsey,21132,Hampton East,,no_eligible_route
+22194,Rosanna,21132,Hampton East,87.87,ok
+22198,Rosebud,21132,Hampton East,129.55,ok
+22207,Rowville,21132,Hampton East,87.35,ok
+22208,Roxburgh Park,21132,Hampton East,114.98,ok
+22220,Rye,21132,Hampton East,149.75,ok
+22221,Rythdale,21132,Hampton East,,no_eligible_route
+22222,Safety Beach (Vic.),21132,Hampton East,113.72,ok
+22232,Sandhurst,21132,Hampton East,85.4,ok
+22234,Sandringham (Vic.),21132,Hampton East,22.7,ok
+22239,Sassafras (Vic.),21132,Hampton East,129.07,ok
+22242,Scoresby,21132,Hampton East,84.32,ok
+22247,Seabrook,21132,Hampton East,108.95,ok
+22249,Seaford (Vic.),21132,Hampton East,61.3,ok
+22250,Seaholme,21132,Hampton East,90.22,ok
+22256,Seddon (Vic.),21132,Hampton East,71.57,ok
+22258,Selby,21132,Hampton East,142.62,ok
+22263,Seville,21132,Hampton East,145.85,ok
+22264,Seville East,21132,Hampton East,132.73,ok
+22278,Sherbrooke,21132,Hampton East,136.8,ok
+22279,Shoreham,21132,Hampton East,,no_eligible_route
+22281,Silvan,21132,Hampton East,146.28,ok
+22291,Skye (Vic.),21132,Hampton East,71.43,ok
+22295,Smiths Gully,21132,Hampton East,,no_eligible_route
+22303,Somers,21132,Hampton East,135.02,ok
+22304,Somerton (Vic.),21132,Hampton East,114.35,ok
+22305,Somerville (Vic.),21132,Hampton East,109.7,ok
+22306,Sorrento (Vic.),21132,Hampton East,137.52,ok
+22309,South Kingsville,21132,Hampton East,93.23,ok
+22310,South Melbourne,21132,Hampton East,67.45,ok
+22311,South Morang,21132,Hampton East,123.42,ok
+22313,South Wharf,21132,Hampton East,68.98,ok
+22314,South Yarra,21132,Hampton East,39.72,ok
+22315,Southbank,21132,Hampton East,62.88,ok
+22319,Spotswood,21132,Hampton East,74.38,ok
+22325,Springfield (Macedon Ranges - Vic.),21132,Hampton East,,no_eligible_route
+22328,Springvale (Vic.),21132,Hampton East,59.78,ok
+22329,Springvale South,21132,Hampton East,62.37,ok
+22330,St Albans (Vic.),21132,Hampton East,87.07,ok
+22332,St Andrews (Vic.),21132,Hampton East,,no_eligible_route
+22333,St Andrews Beach,21132,Hampton East,,no_eligible_route
+22339,St Helena,21132,Hampton East,109.15,ok
+22343,St Kilda (Vic.),21132,Hampton East,51.93,ok
+22344,St Kilda East,21132,Hampton East,51.38,ok
+22345,St Kilda West,21132,Hampton East,60.63,ok
+22355,Steels Creek,21132,Hampton East,,no_eligible_route
+22375,Strathewen,21132,Hampton East,,no_eligible_route
+22380,Strathmore (Vic.),21132,Hampton East,97.83,ok
+22381,Strathmore Heights,21132,Hampton East,108.62,ok
+22382,Strathtulloh,21132,Hampton East,,no_eligible_route
+22391,Sunbury,21132,Hampton East,146.35,ok
+22395,Sunshine (Vic.),21132,Hampton East,72.85,ok
+22396,Sunshine North,21132,Hampton East,91.92,ok
+22397,Sunshine West,21132,Hampton East,96.2,ok
+22399,Surrey Hills,21132,Hampton East,70.5,ok
+22414,Sydenham (Vic.),21132,Hampton East,101.47,ok
+22451,Tarneit,21132,Hampton East,129.43,ok
+22457,Tarrawarra,21132,Hampton East,144.65,ok
+22473,Taylors Hill,21132,Hampton East,111.28,ok
+22474,Taylors Lakes,21132,Hampton East,96.88,ok
+22476,Tecoma,21132,Hampton East,107.02,ok
+22483,Templestowe,21132,Hampton East,93.3,ok
+22484,Templestowe Lower,21132,Hampton East,88.27,ok
+22496,The Basin (Vic.),21132,Hampton East,118.2,ok
+22501,The Patch,21132,Hampton East,144.75,ok
+22504,Thomastown,21132,Hampton East,103.03,ok
+22508,Thornbury,21132,Hampton East,85.82,ok
+22509,Thornhill Park,21132,Hampton East,,no_eligible_route
+22514,Three Bridges,21132,Hampton East,,no_eligible_route
+22531,Tonimbuk,21132,Hampton East,,no_eligible_route
+22536,Toolangi,21132,Hampton East,,no_eligible_route
+22537,Toolern Vale,21132,Hampton East,,no_eligible_route
+22546,Tooradin,21132,Hampton East,,no_eligible_route
+22547,Toorak,21132,Hampton East,50.3,ok
+22550,Tootgarook,21132,Hampton East,133.17,ok
+22556,Tottenham (Vic.),21132,Hampton East,100.38,ok
+22572,Travancore,21132,Hampton East,77.8,ok
+22576,Tremont,21132,Hampton East,124.37,ok
+22582,Truganina,21132,Hampton East,184.58,ok
+22584,Tuerong,21132,Hampton East,,no_eligible_route
+22586,Tullamarine,21132,Hampton East,122.78,ok
+22594,Tyabb,21132,Hampton East,100.17,ok
+22598,Tynong,21132,Hampton East,,no_eligible_route
+22599,Tynong North,21132,Hampton East,,no_eligible_route
+22614,Upper Ferntree Gully,21132,Hampton East,104.17,ok
+22617,Upper Plenty,21132,Hampton East,,no_eligible_route
+22620,Upwey,21132,Hampton East,106.88,ok
+22627,Vermont,21132,Hampton East,91.48,ok
+22628,Vermont South,21132,Hampton East,93.38,ok
+22629,Vervale,21132,Hampton East,,no_eligible_route
+22633,Viewbank,21132,Hampton East,100.87,ok
+22661,Wallan,21132,Hampton East,,no_eligible_route
+22672,Wandin East,21132,Hampton East,,no_eligible_route
+22673,Wandin North,21132,Hampton East,118.82,ok
+22676,Wandong,21132,Hampton East,,no_eligible_route
+22685,Wantirna,21132,Hampton East,104.57,ok
+22686,Wantirna South,21132,Hampton East,97.62,ok
+22689,Warburton (Vic.),21132,Hampton East,,no_eligible_route
+22695,Warneet,21132,Hampton East,,no_eligible_route
+22702,Warrandyte,21132,Hampton East,110.08,ok
+22703,Warrandyte South,21132,Hampton East,128.05,ok
+22704,Warranwood,21132,Hampton East,105.72,ok
+22717,Waterford Park,21132,Hampton East,,no_eligible_route
+22720,Waterways,21132,Hampton East,59.23,ok
+22721,Watsonia,21132,Hampton East,88.32,ok
+22722,Watsonia North,21132,Hampton East,106.77,ok
+22723,Watsons Creek (Vic.),21132,Hampton East,,no_eligible_route
+22727,Wattle Glen,21132,Hampton East,126.07,ok
+22740,Weir Views,21132,Hampton East,211.32,ok
+22750,Werribee,21132,Hampton East,109.17,ok
+22751,Werribee South,21132,Hampton East,143.18,ok
+22753,Wesburn,21132,Hampton East,150.78,ok
+22756,West Footscray,21132,Hampton East,79.02,ok
+22757,West Melbourne,21132,Hampton East,81.95,ok
+22761,Westmeadows,21132,Hampton East,109.4,ok
+22766,Wheelers Hill,21132,Hampton East,73.75,ok
+22775,Whittlesea,21132,Hampton East,,no_eligible_route
+22784,Wildwood,21132,Hampton East,,no_eligible_route
+22791,Williams Landing,21132,Hampton East,107.38,ok
+22792,Williamstown (Vic.),21132,Hampton East,84.2,ok
+22793,Williamstown North,21132,Hampton East,98.7,ok
+22805,Windsor (Vic.),21132,Hampton East,45.28,ok
+22820,Wollert,21132,Hampton East,138.25,ok
+22825,Wonga Park,21132,Hampton East,120.57,ok
+22843,Woodstock (Vic.),21132,Hampton East,,no_eligible_route
+22857,Woori Yallock,21132,Hampton East,129.93,ok
+22883,Wyndham Vale,21132,Hampton East,135.98,ok
+22892,Yallambie,21132,Hampton East,110.6,ok
+22898,Yan Yean,21132,Hampton East,149.98,ok
+22906,Yannathan,21132,Hampton East,,no_eligible_route
+22910,Yarra Glen,21132,Hampton East,141.95,ok
+22911,Yarra Junction,21132,Hampton East,155.05,ok
+22916,Yarrambat,21132,Hampton East,124.47,ok
+22917,Yarraville,21132,Hampton East,80.13,ok
+22925,Yellingbo,21132,Hampton East,,no_eligible_route
+22930,Yering,21132,Hampton East,,no_eligible_route
+22941,Yuroke,21132,Hampton East,168.35,ok

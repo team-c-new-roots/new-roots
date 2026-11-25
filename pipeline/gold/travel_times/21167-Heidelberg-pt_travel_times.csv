@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21167,Heidelberg,44.42,ok
+20003,Aberfeldie,21167,Heidelberg,75.05,ok
+20011,Aintree,21167,Heidelberg,125.85,ok
+20015,Airport West,21167,Heidelberg,88.75,ok
+20017,Albanvale,21167,Heidelberg,106.58,ok
+20018,Albert Park (Vic.),21167,Heidelberg,69.95,ok
+20021,Albion (Vic.),21167,Heidelberg,89.98,ok
+20034,Alphington,21167,Heidelberg,21.32,ok
+20035,Altona (Vic.),21167,Heidelberg,99.08,ok
+20036,Altona Meadows,21167,Heidelberg,105.03,ok
+20037,Altona North,21167,Heidelberg,101.48,ok
+20062,Ardeer,21167,Heidelberg,101.13,ok
+20066,Armadale (Vic.),21167,Heidelberg,63.23,ok
+20071,Arthurs Creek,21167,Heidelberg,,no_eligible_route
+20072,Arthurs Seat,21167,Heidelberg,,no_eligible_route
+20075,Ascot Vale,21167,Heidelberg,73.92,ok
+20077,Ashburton,21167,Heidelberg,74.83,ok
+20078,Ashwood,21167,Heidelberg,79.08,ok
+20079,Aspendale,21167,Heidelberg,101.48,ok
+20080,Aspendale Gardens,21167,Heidelberg,121.82,ok
+20082,Attwood,21167,Heidelberg,100.47,ok
+20089,Avondale Heights,21167,Heidelberg,93.85,ok
+20091,Avonsleigh,21167,Heidelberg,,no_eligible_route
+20095,Bacchus Marsh,21167,Heidelberg,,no_eligible_route
+20097,Badger Creek,21167,Heidelberg,169.42,ok
+20105,Balaclava (Vic.),21167,Heidelberg,72.87,ok
+20120,Balnarring,21167,Heidelberg,,no_eligible_route
+20121,Balnarring Beach,21167,Heidelberg,,no_eligible_route
+20123,Balwyn,21167,Heidelberg,63.6,ok
+20124,Balwyn North,21167,Heidelberg,54.43,ok
+20131,Bangholme,21167,Heidelberg,153.08,ok
+20169,Baxter,21167,Heidelberg,141.83,ok
+20171,Bayles,21167,Heidelberg,,no_eligible_route
+20173,Bayswater (Vic.),21167,Heidelberg,91.22,ok
+20174,Bayswater North,21167,Heidelberg,108.18,ok
+20175,Beaconsfield (Vic.),21167,Heidelberg,150.93,ok
+20176,Beaconsfield Upper,21167,Heidelberg,,no_eligible_route
+20182,Beaumaris (Vic.),21167,Heidelberg,99.37,ok
+20187,Beenak,21167,Heidelberg,,no_eligible_route
+20188,Belgrave,21167,Heidelberg,93.3,ok
+20189,Belgrave Heights,21167,Heidelberg,132.97,ok
+20190,Belgrave South,21167,Heidelberg,131.95,ok
+20198,Bellfield (Banyule - Vic.),21167,Heidelberg,25.62,ok
+20207,Bend Of Islands,21167,Heidelberg,,no_eligible_route
+20212,Benloch,21167,Heidelberg,,no_eligible_route
+20214,Bentleigh,21167,Heidelberg,86.27,ok
+20215,Bentleigh East,21167,Heidelberg,95.22,ok
+20224,Berwick,21167,Heidelberg,113.73,ok
+20233,Beveridge,21167,Heidelberg,135.42,ok
+20237,Big Pats Creek,21167,Heidelberg,,no_eligible_route
+20248,Bittern,21167,Heidelberg,159.82,ok
+20251,Black Rock (Vic.),21167,Heidelberg,105.17,ok
+20252,Blackburn,21167,Heidelberg,65.88,ok
+20253,Blackburn North,21167,Heidelberg,64.48,ok
+20254,Blackburn South,21167,Heidelberg,79.15,ok
+20257,Blairgowrie,21167,Heidelberg,216.78,ok
+20260,Blind Bight,21167,Heidelberg,,no_eligible_route
+20272,Bolinda,21167,Heidelberg,,no_eligible_route
+20278,Bonbeach,21167,Heidelberg,106.48,ok
+20280,Boneo,21167,Heidelberg,,no_eligible_route
+20282,Bonnie Brook,21167,Heidelberg,163.67,ok
+20304,Boronia,21167,Heidelberg,93.68,ok
+20307,Botanic Ridge,21167,Heidelberg,163.6,ok
+20314,Box Hill (Vic.),21167,Heidelberg,48.48,ok
+20315,Box Hill North,21167,Heidelberg,42.7,ok
+20316,Box Hill South,21167,Heidelberg,56.15,ok
+20320,Braeside,21167,Heidelberg,128.57,ok
+20324,Braybrook,21167,Heidelberg,95.77,ok
+20331,Briar Hill,21167,Heidelberg,40.85,ok
+20337,Brighton (Vic.),21167,Heidelberg,85.63,ok
+20338,Brighton East,21167,Heidelberg,91.05,ok
+20346,Broadmeadows (Vic.),21167,Heidelberg,76.48,ok
+20351,Brookfield (Vic.),21167,Heidelberg,,no_eligible_route
+20352,Brooklyn (Vic.),21167,Heidelberg,97.52,ok
+20361,Brunswick (Vic.),21167,Heidelberg,55.6,ok
+20362,Brunswick East,21167,Heidelberg,53.78,ok
+20363,Brunswick West,21167,Heidelberg,62.43,ok
+20381,Bulla (Vic.),21167,Heidelberg,166.35,ok
+20386,Bulleen,21167,Heidelberg,23.98,ok
+20387,Bullengarook,21167,Heidelberg,,no_eligible_route
+20399,Bundoora (Vic.),21167,Heidelberg,43.72,ok
+20411,Bunyip,21167,Heidelberg,,no_eligible_route
+20412,Bunyip North,21167,Heidelberg,,no_eligible_route
+20418,Burnley,21167,Heidelberg,73.23,ok
+20419,Burnside (Vic.),21167,Heidelberg,110.02,ok
+20420,Burnside Heights,21167,Heidelberg,117.83,ok
+20426,Burwood (Vic.),21167,Heidelberg,66.65,ok
+20427,Burwood East,21167,Heidelberg,67.27,ok
+20435,Bylands,21167,Heidelberg,,no_eligible_route
+20441,Cairnlea,21167,Heidelberg,105.2,ok
+20442,Calder Park,21167,Heidelberg,125.77,ok
+20443,Caldermeade,21167,Heidelberg,,no_eligible_route
+20453,Camberwell (Vic.),21167,Heidelberg,73.77,ok
+20455,Campbellfield,21167,Heidelberg,86.75,ok
+20466,Cannons Creek,21167,Heidelberg,,no_eligible_route
+20468,Canterbury (Vic.),21167,Heidelberg,74.25,ok
+20474,Cape Schanck,21167,Heidelberg,,no_eligible_route
+20476,Capel Sound,21167,Heidelberg,202.13,ok
+20487,Cardinia,21167,Heidelberg,,no_eligible_route
+20495,Carlton (Vic.),21167,Heidelberg,52.85,ok
+20496,Carlton North,21167,Heidelberg,59.33,ok
+20498,Carnegie,21167,Heidelberg,86.78,ok
+20500,Caroline Springs,21167,Heidelberg,113.63,ok
+20507,Carrum,21167,Heidelberg,106.3,ok
+20508,Carrum Downs,21167,Heidelberg,135.4,ok
+20512,Castella,21167,Heidelberg,,no_eligible_route
+20517,Catani,21167,Heidelberg,,no_eligible_route
+20521,Caulfield,21167,Heidelberg,82.97,ok
+20522,Caulfield East,21167,Heidelberg,74.67,ok
+20523,Caulfield North,21167,Heidelberg,75.58,ok
+20524,Caulfield South,21167,Heidelberg,85.5,ok
+20528,Chadstone,21167,Heidelberg,78.18,ok
+20537,Chelsea,21167,Heidelberg,103.55,ok
+20538,Chelsea Heights,21167,Heidelberg,119.23,ok
+20539,Cheltenham (Vic.),21167,Heidelberg,93.02,ok
+20541,Cherokee,21167,Heidelberg,,no_eligible_route
+20555,Chintin,21167,Heidelberg,,no_eligible_route
+20556,Chirnside Park,21167,Heidelberg,119.58,ok
+20559,Christmas Hills (Vic.),21167,Heidelberg,,no_eligible_route
+20560,Chum Creek,21167,Heidelberg,,no_eligible_route
+20566,Clarinda,21167,Heidelberg,107.4,ok
+20567,Clarkefield,21167,Heidelberg,,no_eligible_route
+20569,Clayton,21167,Heidelberg,92.18,ok
+20570,Clayton South,21167,Heidelberg,115.82,ok
+20572,Clematis,21167,Heidelberg,,no_eligible_route
+20574,Clifton Hill,21167,Heidelberg,31.12,ok
+20576,Clonbinane,21167,Heidelberg,,no_eligible_route
+20581,Clyde (Vic.),21167,Heidelberg,177.43,ok
+20582,Clyde North,21167,Heidelberg,151.2,ok
+20587,Cobaw,21167,Heidelberg,,no_eligible_route
+20590,Cobblebank,21167,Heidelberg,172.82,ok
+20596,Coburg,21167,Heidelberg,46.25,ok
+20597,Coburg North,21167,Heidelberg,53.7,ok
+20600,Cockatoo (Vic.),21167,Heidelberg,,no_eligible_route
+20601,Cocoroc,21167,Heidelberg,,no_eligible_route
+20605,Coimadai,21167,Heidelberg,,no_eligible_route
+20613,Coldstream (Vic.),21167,Heidelberg,,no_eligible_route
+20616,Collingwood (Vic.),21167,Heidelberg,41.9,ok
+20624,Coolaroo,21167,Heidelberg,81.17,ok
+20633,Cora Lynn,21167,Heidelberg,,no_eligible_route
+20654,Cottles Bridge,21167,Heidelberg,,no_eligible_route
+20661,Craigieburn,21167,Heidelberg,105.53,ok
+20662,Cranbourne,21167,Heidelberg,141.38,ok
+20663,Cranbourne East,21167,Heidelberg,141.48,ok
+20664,Cranbourne North,21167,Heidelberg,135.4,ok
+20665,Cranbourne South,21167,Heidelberg,166.95,ok
+20666,Cranbourne West,21167,Heidelberg,140.3,ok
+20670,Cremorne (Vic.),21167,Heidelberg,60.77,ok
+20674,Crib Point,21167,Heidelberg,168.78,ok
+20682,Croydon (Vic.),21167,Heidelberg,86.32,ok
+20683,Croydon Hills,21167,Heidelberg,108.48,ok
+20684,Croydon North,21167,Heidelberg,109.07,ok
+20685,Croydon South,21167,Heidelberg,111.23,ok
+20702,Dallas,21167,Heidelberg,85.4,ok
+20703,Dalmore,21167,Heidelberg,,no_eligible_route
+20707,Dandenong,21167,Heidelberg,110.33,ok
+20708,Dandenong North,21167,Heidelberg,129.13,ok
+20709,Dandenong South,21167,Heidelberg,132.42,ok
+20712,Darley,21167,Heidelberg,,no_eligible_route
+20716,Darraweit Guim,21167,Heidelberg,,no_eligible_route
+20724,Deanside,21167,Heidelberg,142.27,ok
+20728,Deepdene (Vic.),21167,Heidelberg,48.98,ok
+20729,Deer Park,21167,Heidelberg,98.97,ok
+20731,Delahey,21167,Heidelberg,115.63,ok
+20743,Derrimut,21167,Heidelberg,129.53,ok
+20748,Devon Meadows,21167,Heidelberg,184.18,ok
+20750,Dewhurst,21167,Heidelberg,,no_eligible_route
+20752,Diamond Creek,21167,Heidelberg,47.85,ok
+20754,Diggers Rest,21167,Heidelberg,121.08,ok
+20758,Dingley Village,21167,Heidelberg,109.92,ok
+20762,Dixons Creek,21167,Heidelberg,,no_eligible_route
+20766,Docklands,21167,Heidelberg,63.02,ok
+20769,Don Valley,21167,Heidelberg,,no_eligible_route
+20771,Doncaster,21167,Heidelberg,29.12,ok
+20772,Doncaster East,21167,Heidelberg,48.27,ok
+20773,Donnybrook (Vic.),21167,Heidelberg,122.55,ok
+20774,Donvale,21167,Heidelberg,80.52,ok
+20779,Doreen,21167,Heidelberg,80.0,ok
+20783,Doveton,21167,Heidelberg,130.32,ok
+20788,Dromana,21167,Heidelberg,211.92,ok
+20825,Eaglemont,21167,Heidelberg,17.95,ok
+20830,East Melbourne,21167,Heidelberg,37.18,ok
+20833,East Warburton,21167,Heidelberg,,no_eligible_route
+20843,Eden Park,21167,Heidelberg,,no_eligible_route
+20848,Edithvale,21167,Heidelberg,103.68,ok
+20864,Elsternwick,21167,Heidelberg,80.78,ok
+20865,Eltham (Vic.),21167,Heidelberg,46.08,ok
+20866,Eltham North,21167,Heidelberg,44.97,ok
+20867,Elwood,21167,Heidelberg,77.23,ok
+20868,Emerald (Vic.),21167,Heidelberg,,no_eligible_route
+20871,Endeavour Hills,21167,Heidelberg,139.65,ok
+20878,Epping (Vic.),21167,Heidelberg,92.48,ok
+20885,Essendon,21167,Heidelberg,63.45,ok
+20886,Essendon Fields,21167,Heidelberg,91.8,ok
+20887,Essendon North,21167,Heidelberg,64.65,ok
+20888,Essendon West,21167,Heidelberg,71.27,ok
+20889,Eumemmerring,21167,Heidelberg,127.7,ok
+20898,Exford,21167,Heidelberg,,no_eligible_route
+20899,Eynesbury,21167,Heidelberg,,no_eligible_route
+20901,Fairfield (Vic.),21167,Heidelberg,26.03,ok
+20909,Fawkner,21167,Heidelberg,76.25,ok
+20916,Fernshaw,21167,Heidelberg,,no_eligible_route
+20917,Ferntree Gully,21167,Heidelberg,90.05,ok
+20918,Ferny Creek,21167,Heidelberg,144.58,ok
+20920,Fingal (Vic.),21167,Heidelberg,,no_eligible_route
+20924,Fitzroy (Vic.),21167,Heidelberg,49.17,ok
+20925,Fitzroy North,21167,Heidelberg,45.48,ok
+20929,Flemington,21167,Heidelberg,75.75,ok
+20930,Flinders (Vic.),21167,Heidelberg,,no_eligible_route
+20935,Footscray,21167,Heidelberg,76.85,ok
+20937,Forest Hill (Vic.),21167,Heidelberg,71.87,ok
+20947,Frankston,21167,Heidelberg,127.27,ok
+20948,Frankston North,21167,Heidelberg,136.42,ok
+20949,Frankston South,21167,Heidelberg,153.2,ok
+20950,Fraser Rise,21167,Heidelberg,134.52,ok
+20965,Gardenvale,21167,Heidelberg,82.07,ok
+20966,Garfield,21167,Heidelberg,,no_eligible_route
+20967,Garfield North,21167,Heidelberg,,no_eligible_route
+20979,Gembrook,21167,Heidelberg,,no_eligible_route
+20995,Gilderoy,21167,Heidelberg,,no_eligible_route
+21001,Gisborne,21167,Heidelberg,,no_eligible_route
+21002,Gisborne South,21167,Heidelberg,,no_eligible_route
+21004,Gladstone Park,21167,Heidelberg,99.52,ok
+21005,Gladysdale,21167,Heidelberg,,no_eligible_route
+21009,Glen Huntly,21167,Heidelberg,77.8,ok
+21010,Glen Iris (Vic.),21167,Heidelberg,81.67,ok
+21013,Glen Waverley,21167,Heidelberg,86.43,ok
+21047,Glenroy (Vic.),21167,Heidelberg,73.45,ok
+21059,Goldie,21167,Heidelberg,,no_eligible_route
+21079,Gowanbrae,21167,Heidelberg,99.4,ok
+21087,Grangefields,21167,Heidelberg,168.12,ok
+21104,Greensborough,21167,Heidelberg,32.4,ok
+21105,Greenvale (Vic.),21167,Heidelberg,113.03,ok
+21115,Gruyere,21167,Heidelberg,,no_eligible_route
+21121,Guys Hill,21167,Heidelberg,,no_eligible_route
+21124,Hadfield,21167,Heidelberg,56.63,ok
+21125,Hallam,21167,Heidelberg,128.85,ok
+21131,Hampton (Vic.),21167,Heidelberg,95.47,ok
+21132,Hampton East,21167,Heidelberg,93.03,ok
+21133,Hampton Park,21167,Heidelberg,131.27,ok
+21139,Harkaway,21167,Heidelberg,,no_eligible_route
+21140,Harkness,21167,Heidelberg,,no_eligible_route
+21145,Hastings (Vic.),21167,Heidelberg,161.35,ok
+21152,Hawthorn (Vic.),21167,Heidelberg,70.1,ok
+21153,Hawthorn East,21167,Heidelberg,60.28,ok
+21158,Healesville,21167,Heidelberg,173.33,ok
+21159,Heath Hill,21167,Heidelberg,,no_eligible_route
+21161,Heathcote Junction,21167,Heidelberg,,no_eligible_route
+21163,Heatherton,21167,Heidelberg,106.33,ok
+21165,Heathmont,21167,Heidelberg,74.48,ok
+21167,Heidelberg,21167,Heidelberg,0.0,same_centroid
+21168,Heidelberg Heights,21167,Heidelberg,16.13,ok
+21169,Heidelberg West,21167,Heidelberg,22.55,ok
+21176,Hesket,21167,Heidelberg,,no_eligible_route
+21185,Highett,21167,Heidelberg,85.8,ok
+21193,Hillside (Melton - Vic.),21167,Heidelberg,119.07,ok
+21195,Hmas Cerberus,21167,Heidelberg,,no_eligible_route
+21196,Hoddles Creek,21167,Heidelberg,,no_eligible_route
+21202,Hopetoun Park,21167,Heidelberg,,no_eligible_route
+21203,Hoppers Crossing,21167,Heidelberg,111.92,ok
+21214,Hughesdale,21167,Heidelberg,88.88,ok
+21215,Humevale,21167,Heidelberg,,no_eligible_route
+21218,Huntingdale (Vic.),21167,Heidelberg,94.32,ok
+21223,Hurstbridge,21167,Heidelberg,48.4,ok
+21238,Iona,21167,Heidelberg,,no_eligible_route
+21246,Ivanhoe (Vic.),21167,Heidelberg,24.28,ok
+21247,Ivanhoe East,21167,Heidelberg,19.95,ok
+21248,Jacana,21167,Heidelberg,86.72,ok
+21277,Junction Village,21167,Heidelberg,170.32,ok
+21284,Kalkallo,21167,Heidelberg,133.55,ok
+21286,Kallista,21167,Heidelberg,141.02,ok
+21287,Kalorama,21167,Heidelberg,138.83,ok
+21294,Kangaroo Ground,21167,Heidelberg,81.63,ok
+21312,Kealba,21167,Heidelberg,102.35,ok
+21314,Keilor,21167,Heidelberg,121.77,ok
+21315,Keilor Downs,21167,Heidelberg,114.02,ok
+21316,Keilor East,21167,Heidelberg,83.27,ok
+21317,Keilor Lodge,21167,Heidelberg,110.95,ok
+21318,Keilor North,21167,Heidelberg,94.97,ok
+21319,Keilor Park,21167,Heidelberg,102.55,ok
+21327,Kensington (Vic.),21167,Heidelberg,66.53,ok
+21333,Kerrie,21167,Heidelberg,,no_eligible_route
+21336,Kew (Vic.),21167,Heidelberg,52.65,ok
+21337,Kew East,21167,Heidelberg,45.15,ok
+21339,Keysborough,21167,Heidelberg,120.8,ok
+21354,Kilsyth,21167,Heidelberg,117.62,ok
+21355,Kilsyth South,21167,Heidelberg,123.75,ok
+21358,Kinglake,21167,Heidelberg,,no_eligible_route
+21359,Kinglake Central,21167,Heidelberg,,no_eligible_route
+21360,Kinglake West,21167,Heidelberg,148.42,ok
+21362,Kings Park (Vic.),21167,Heidelberg,109.33,ok
+21363,Kingsbury,21167,Heidelberg,43.83,ok
+21365,Kingsville,21167,Heidelberg,88.47,ok
+21374,Knoxfield,21167,Heidelberg,101.33,ok
+21380,Koo Wee Rup,21167,Heidelberg,,no_eligible_route
+21381,Koo Wee Rup North,21167,Heidelberg,,no_eligible_route
+21393,Kooyong,21167,Heidelberg,72.02,ok
+21411,Kurunjang,21167,Heidelberg,190.9,ok
+21452,Lalor,21167,Heidelberg,59.95,ok
+21456,Lancefield,21167,Heidelberg,,no_eligible_route
+21459,Lang Lang,21167,Heidelberg,,no_eligible_route
+21460,Lang Lang East,21167,Heidelberg,,no_eligible_route
+21467,Langwarrin,21167,Heidelberg,141.23,ok
+21468,Langwarrin South,21167,Heidelberg,,no_eligible_route
+21473,Launching Place,21167,Heidelberg,133.97,ok
+21476,Laverton (Vic.),21167,Heidelberg,93.68,ok
+21477,Laverton North,21167,Heidelberg,122.1,ok
+21504,Lilydale (Vic.),21167,Heidelberg,113.62,ok
+21533,Long Forest,21167,Heidelberg,,no_eligible_route
+21547,Lower Plenty,21167,Heidelberg,45.67,ok
+21554,Lynbrook,21167,Heidelberg,121.1,ok
+21555,Lyndhurst (Vic.),21167,Heidelberg,168.68,ok
+21558,Lysterfield,21167,Heidelberg,161.9,ok
+21559,Lysterfield South,21167,Heidelberg,181.82,ok
+21561,Macclesfield (Vic.),21167,Heidelberg,,no_eligible_route
+21562,Macedon,21167,Heidelberg,,no_eligible_route
+21564,Macleod (Vic.),21167,Heidelberg,25.48,ok
+21569,Maddingley,21167,Heidelberg,,no_eligible_route
+21575,Maidstone,21167,Heidelberg,93.87,ok
+21578,Main Ridge,21167,Heidelberg,,no_eligible_route
+21586,Malvern (Vic.),21167,Heidelberg,73.25,ok
+21587,Malvern East,21167,Heidelberg,84.62,ok
+21588,Mambourin,21167,Heidelberg,,no_eligible_route
+21597,Manor Lakes,21167,Heidelberg,150.62,ok
+21604,Maribyrnong,21167,Heidelberg,89.97,ok
+21619,Maryknoll,21167,Heidelberg,,no_eligible_route
+21625,McCrae,21167,Heidelberg,195.33,ok
+21629,McKinnon,21167,Heidelberg,75.1,ok
+21635,Meadow Heights,21167,Heidelberg,100.23,ok
+21640,Melbourne,21167,Heidelberg,60.7,ok
+21641,Melbourne Airport,21167,Heidelberg,,no_eligible_route
+21642,Melton (Vic.),21167,Heidelberg,175.03,ok
+21643,Melton South,21167,Heidelberg,188.63,ok
+21644,Melton West,21167,Heidelberg,183.87,ok
+21648,Mentone,21167,Heidelberg,87.78,ok
+21649,Menzies Creek,21167,Heidelberg,,no_eligible_route
+21659,Mernda,21167,Heidelberg,93.43,ok
+21662,Merricks,21167,Heidelberg,,no_eligible_route
+21663,Merricks Beach,21167,Heidelberg,,no_eligible_route
+21664,Merricks North,21167,Heidelberg,,no_eligible_route
+21668,Merrimu,21167,Heidelberg,,no_eligible_route
+21675,Mickleham,21167,Heidelberg,133.93,ok
+21677,Middle Park (Vic.),21167,Heidelberg,76.03,ok
+21683,Mill Park,21167,Heidelberg,66.32,ok
+21685,Millgrove,21167,Heidelberg,,no_eligible_route
+21706,Mitcham (Vic.),21167,Heidelberg,76.62,ok
+21727,Monbulk,21167,Heidelberg,148.47,ok
+21728,Monegeetta,21167,Heidelberg,,no_eligible_route
+21731,Monomeith,21167,Heidelberg,,no_eligible_route
+21732,Mont Albert,21167,Heidelberg,67.08,ok
+21733,Mont Albert North,21167,Heidelberg,63.03,ok
+21735,Montmorency,21167,Heidelberg,33.05,ok
+21736,Montrose (Vic.),21167,Heidelberg,105.58,ok
+21742,Moonee Ponds,21167,Heidelberg,68.25,ok
+21746,Moorabbin,21167,Heidelberg,102.93,ok
+21747,Moorabbin Airport,21167,Heidelberg,111.28,ok
+21754,Moorooduc,21167,Heidelberg,,no_eligible_route
+21755,Mooroolbark,21167,Heidelberg,95.52,ok
+21760,Mordialloc,21167,Heidelberg,103.08,ok
+21763,Mornington (Vic.),21167,Heidelberg,159.13,ok
+21779,Mount Burnett,21167,Heidelberg,,no_eligible_route
+21786,Mount Cottrell,21167,Heidelberg,,no_eligible_route
+21787,Mount Dandenong,21167,Heidelberg,117.28,ok
+21793,Mount Eliza,21167,Heidelberg,137.32,ok
+21795,Mount Evelyn,21167,Heidelberg,121.45,ok
+21801,Mount Macedon,21167,Heidelberg,,no_eligible_route
+21803,Mount Martha,21167,Heidelberg,163.85,ok
+21814,Mount Toolebewong,21167,Heidelberg,,no_eligible_route
+21816,Mount Waverley,21167,Heidelberg,72.17,ok
+21827,Mulgrave (Vic.),21167,Heidelberg,111.3,ok
+21849,Murrumbeena,21167,Heidelberg,89.0,ok
+21872,Nangana,21167,Heidelberg,,no_eligible_route
+21878,Nar Nar Goon,21167,Heidelberg,,no_eligible_route
+21879,Nar Nar Goon North,21167,Heidelberg,,no_eligible_route
+21893,Narre Warren,21167,Heidelberg,129.28,ok
+21894,Narre Warren East,21167,Heidelberg,,no_eligible_route
+21895,Narre Warren North,21167,Heidelberg,139.1,ok
+21896,Narre Warren South,21167,Heidelberg,133.65,ok
+21921,New Gisborne,21167,Heidelberg,,no_eligible_route
+21934,Newport (Vic.),21167,Heidelberg,78.53,ok
+21942,Niddrie,21167,Heidelberg,84.75,ok
+21952,Noble Park,21167,Heidelberg,101.1,ok
+21953,Noble Park North,21167,Heidelberg,132.08,ok
+21966,North Melbourne,21167,Heidelberg,66.93,ok
+21969,North Warrandyte,21167,Heidelberg,64.62,ok
+21971,Northcote,21167,Heidelberg,42.2,ok
+21974,Notting Hill,21167,Heidelberg,92.97,ok
+21985,Nunawading,21167,Heidelberg,66.28,ok
+21991,Nutfield,21167,Heidelberg,,no_eligible_route
+21998,Oak Park,21167,Heidelberg,77.93,ok
+21999,Oaklands Junction,21167,Heidelberg,,no_eligible_route
+22000,Oakleigh,21167,Heidelberg,90.8,ok
+22001,Oakleigh East,21167,Heidelberg,88.82,ok
+22002,Oakleigh South,21167,Heidelberg,100.53,ok
+22006,Officer,21167,Heidelberg,143.38,ok
+22007,Officer South,21167,Heidelberg,184.95,ok
+22009,Olinda (Vic.),21167,Heidelberg,144.9,ok
+22016,Ormond,21167,Heidelberg,75.53,ok
+22027,Pakenham,21167,Heidelberg,132.43,ok
+22028,Pakenham South,21167,Heidelberg,,no_eligible_route
+22029,Pakenham Upper,21167,Heidelberg,,no_eligible_route
+22032,Panton Hill,21167,Heidelberg,,no_eligible_route
+22036,Park Orchards,21167,Heidelberg,79.18,ok
+22037,Parkdale,21167,Heidelberg,92.87,ok
+22038,Parkville (Vic.),21167,Heidelberg,69.45,ok
+22041,Pascoe Vale,21167,Heidelberg,59.45,ok
+22042,Pascoe Vale South,21167,Heidelberg,55.87,ok
+22047,Patterson Lakes,21167,Heidelberg,115.17,ok
+22050,Pearcedale,21167,Heidelberg,,no_eligible_route
+22058,Pentland Hills,21167,Heidelberg,,no_eligible_route
+22064,Pheasant Creek (Vic.),21167,Heidelberg,164.07,ok
+22084,Plenty (Vic.),21167,Heidelberg,60.98,ok
+22085,Plumpton (Vic.),21167,Heidelberg,,no_eligible_route
+22086,Point Cook,21167,Heidelberg,110.92,ok
+22087,Point Leo,21167,Heidelberg,,no_eligible_route
+22107,Port Melbourne,21167,Heidelberg,69.53,ok
+22113,Portsea,21167,Heidelberg,,no_eligible_route
+22115,Powelltown,21167,Heidelberg,,no_eligible_route
+22118,Prahran,21167,Heidelberg,70.03,ok
+22121,Preston (Vic.),21167,Heidelberg,35.77,ok
+22122,Princes Hill,21167,Heidelberg,54.45,ok
+22132,Quandong,21167,Heidelberg,,no_eligible_route
+22141,Ravenhall,21167,Heidelberg,149.72,ok
+22148,Red Hill (Vic.),21167,Heidelberg,,no_eligible_route
+22149,Red Hill South,21167,Heidelberg,,no_eligible_route
+22160,Research,21167,Heidelberg,58.48,ok
+22161,Reservoir (Vic.),21167,Heidelberg,44.92,ok
+22170,Richmond (Vic.),21167,Heidelberg,56.55,ok
+22172,Riddells Creek,21167,Heidelberg,,no_eligible_route
+22174,Ringwood (Vic.),21167,Heidelberg,84.83,ok
+22175,Ringwood East,21167,Heidelberg,86.4,ok
+22176,Ringwood North,21167,Heidelberg,82.77,ok
+22179,Ripponlea,21167,Heidelberg,71.5,ok
+22185,Rochford,21167,Heidelberg,,no_eligible_route
+22186,Rockbank,21167,Heidelberg,147.22,ok
+22193,Romsey,21167,Heidelberg,,no_eligible_route
+22194,Rosanna,21167,Heidelberg,10.13,ok
+22198,Rosebud,21167,Heidelberg,212.65,ok
+22207,Rowville,21167,Heidelberg,117.0,ok
+22208,Roxburgh Park,21167,Heidelberg,104.8,ok
+22220,Rye,21167,Heidelberg,224.85,ok
+22221,Rythdale,21167,Heidelberg,,no_eligible_route
+22222,Safety Beach (Vic.),21167,Heidelberg,179.82,ok
+22232,Sandhurst,21167,Heidelberg,143.5,ok
+22234,Sandringham (Vic.),21167,Heidelberg,99.43,ok
+22239,Sassafras (Vic.),21167,Heidelberg,111.35,ok
+22242,Scoresby,21167,Heidelberg,123.6,ok
+22247,Seabrook,21167,Heidelberg,101.98,ok
+22249,Seaford (Vic.),21167,Heidelberg,118.4,ok
+22250,Seaholme,21167,Heidelberg,93.77,ok
+22256,Seddon (Vic.),21167,Heidelberg,75.78,ok
+22258,Selby,21167,Heidelberg,136.9,ok
+22263,Seville,21167,Heidelberg,145.13,ok
+22264,Seville East,21167,Heidelberg,132.02,ok
+22278,Sherbrooke,21167,Heidelberg,131.08,ok
+22279,Shoreham,21167,Heidelberg,,no_eligible_route
+22281,Silvan,21167,Heidelberg,140.57,ok
+22291,Skye (Vic.),21167,Heidelberg,160.18,ok
+22295,Smiths Gully,21167,Heidelberg,,no_eligible_route
+22303,Somers,21167,Heidelberg,,no_eligible_route
+22304,Somerton (Vic.),21167,Heidelberg,91.17,ok
+22305,Somerville (Vic.),21167,Heidelberg,166.4,ok
+22306,Sorrento (Vic.),21167,Heidelberg,215.62,ok
+22309,South Kingsville,21167,Heidelberg,95.78,ok
+22310,South Melbourne,21167,Heidelberg,68.27,ok
+22311,South Morang,21167,Heidelberg,84.5,ok
+22313,South Wharf,21167,Heidelberg,65.52,ok
+22314,South Yarra,21167,Heidelberg,46.17,ok
+22315,Southbank,21167,Heidelberg,68.28,ok
+22319,Spotswood,21167,Heidelberg,75.93,ok
+22325,Springfield (Macedon Ranges - Vic.),21167,Heidelberg,,no_eligible_route
+22328,Springvale (Vic.),21167,Heidelberg,102.07,ok
+22329,Springvale South,21167,Heidelberg,101.53,ok
+22330,St Albans (Vic.),21167,Heidelberg,92.62,ok
+22332,St Andrews (Vic.),21167,Heidelberg,,no_eligible_route
+22333,St Andrews Beach,21167,Heidelberg,,no_eligible_route
+22339,St Helena,21167,Heidelberg,40.23,ok
+22343,St Kilda (Vic.),21167,Heidelberg,65.2,ok
+22344,St Kilda East,21167,Heidelberg,73.93,ok
+22345,St Kilda West,21167,Heidelberg,76.88,ok
+22355,Steels Creek,21167,Heidelberg,,no_eligible_route
+22375,Strathewen,21167,Heidelberg,,no_eligible_route
+22380,Strathmore (Vic.),21167,Heidelberg,74.65,ok
+22381,Strathmore Heights,21167,Heidelberg,85.43,ok
+22382,Strathtulloh,21167,Heidelberg,,no_eligible_route
+22391,Sunbury,21167,Heidelberg,152.9,ok
+22395,Sunshine (Vic.),21167,Heidelberg,81.4,ok
+22396,Sunshine North,21167,Heidelberg,98.47,ok
+22397,Sunshine West,21167,Heidelberg,98.75,ok
+22399,Surrey Hills,21167,Heidelberg,62.1,ok
+22414,Sydenham (Vic.),21167,Heidelberg,105.68,ok
+22451,Tarneit,21167,Heidelberg,127.98,ok
+22457,Tarrawarra,21167,Heidelberg,148.93,ok
+22473,Taylors Hill,21167,Heidelberg,120.02,ok
+22474,Taylors Lakes,21167,Heidelberg,112.43,ok
+22476,Tecoma,21167,Heidelberg,90.3,ok
+22483,Templestowe,21167,Heidelberg,44.58,ok
+22484,Templestowe Lower,21167,Heidelberg,39.55,ok
+22496,The Basin (Vic.),21167,Heidelberg,112.48,ok
+22501,The Patch,21167,Heidelberg,139.03,ok
+22504,Thomastown,21167,Heidelberg,67.93,ok
+22508,Thornbury,21167,Heidelberg,41.28,ok
+22509,Thornhill Park,21167,Heidelberg,,no_eligible_route
+22514,Three Bridges,21167,Heidelberg,,no_eligible_route
+22531,Tonimbuk,21167,Heidelberg,,no_eligible_route
+22536,Toolangi,21167,Heidelberg,,no_eligible_route
+22537,Toolern Vale,21167,Heidelberg,,no_eligible_route
+22546,Tooradin,21167,Heidelberg,,no_eligible_route
+22547,Toorak,21167,Heidelberg,75.65,ok
+22550,Tootgarook,21167,Heidelberg,208.27,ok
+22556,Tottenham (Vic.),21167,Heidelberg,105.1,ok
+22572,Travancore,21167,Heidelberg,75.35,ok
+22576,Tremont,21167,Heidelberg,118.9,ok
+22582,Truganina,21167,Heidelberg,180.13,ok
+22584,Tuerong,21167,Heidelberg,,no_eligible_route
+22586,Tullamarine,21167,Heidelberg,99.58,ok
+22594,Tyabb,21167,Heidelberg,155.27,ok
+22598,Tynong,21167,Heidelberg,,no_eligible_route
+22599,Tynong North,21167,Heidelberg,,no_eligible_route
+22614,Upper Ferntree Gully,21167,Heidelberg,98.45,ok
+22617,Upper Plenty,21167,Heidelberg,,no_eligible_route
+22620,Upwey,21167,Heidelberg,94.17,ok
+22627,Vermont,21167,Heidelberg,87.3,ok
+22628,Vermont South,21167,Heidelberg,91.15,ok
+22629,Vervale,21167,Heidelberg,,no_eligible_route
+22633,Viewbank,21167,Heidelberg,24.65,ok
+22661,Wallan,21167,Heidelberg,,no_eligible_route
+22672,Wandin East,21167,Heidelberg,,no_eligible_route
+22673,Wandin North,21167,Heidelberg,118.1,ok
+22676,Wandong,21167,Heidelberg,,no_eligible_route
+22685,Wantirna,21167,Heidelberg,94.85,ok
+22686,Wantirna South,21167,Heidelberg,107.38,ok
+22689,Warburton (Vic.),21167,Heidelberg,,no_eligible_route
+22695,Warneet,21167,Heidelberg,,no_eligible_route
+22702,Warrandyte,21167,Heidelberg,63.17,ok
+22703,Warrandyte South,21167,Heidelberg,90.3,ok
+22704,Warranwood,21167,Heidelberg,79.83,ok
+22717,Waterford Park,21167,Heidelberg,,no_eligible_route
+22720,Waterways,21167,Heidelberg,124.47,ok
+22721,Watsonia,21167,Heidelberg,20.4,ok
+22722,Watsonia North,21167,Heidelberg,37.85,ok
+22723,Watsons Creek (Vic.),21167,Heidelberg,,no_eligible_route
+22727,Wattle Glen,21167,Heidelberg,52.15,ok
+22740,Weir Views,21167,Heidelberg,,no_eligible_route
+22750,Werribee,21167,Heidelberg,111.72,ok
+22751,Werribee South,21167,Heidelberg,143.73,ok
+22753,Wesburn,21167,Heidelberg,150.07,ok
+22756,West Footscray,21167,Heidelberg,86.57,ok
+22757,West Melbourne,21167,Heidelberg,73.5,ok
+22761,Westmeadows,21167,Heidelberg,91.43,ok
+22766,Wheelers Hill,21167,Heidelberg,97.03,ok
+22775,Whittlesea,21167,Heidelberg,,no_eligible_route
+22784,Wildwood,21167,Heidelberg,,no_eligible_route
+22791,Williams Landing,21167,Heidelberg,107.93,ok
+22792,Williamstown (Vic.),21167,Heidelberg,85.75,ok
+22793,Williamstown North,21167,Heidelberg,100.25,ok
+22805,Windsor (Vic.),21167,Heidelberg,68.77,ok
+22820,Wollert,21167,Heidelberg,128.27,ok
+22825,Wonga Park,21167,Heidelberg,119.85,ok
+22843,Woodstock (Vic.),21167,Heidelberg,,no_eligible_route
+22857,Woori Yallock,21167,Heidelberg,129.22,ok
+22883,Wyndham Vale,21167,Heidelberg,135.53,ok
+22892,Yallambie,21167,Heidelberg,26.68,ok
+22898,Yan Yean,21167,Heidelberg,117.07,ok
+22906,Yannathan,21167,Heidelberg,,no_eligible_route
+22910,Yarra Glen,21167,Heidelberg,146.23,ok
+22911,Yarra Junction,21167,Heidelberg,154.33,ok
+22916,Yarrambat,21167,Heidelberg,57.55,ok
+22917,Yarraville,21167,Heidelberg,81.68,ok
+22925,Yellingbo,21167,Heidelberg,,no_eligible_route
+22930,Yering,21167,Heidelberg,,no_eligible_route
+22941,Yuroke,21167,Heidelberg,160.57,ok

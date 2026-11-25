@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21452,Lalor,39.3,ok
+20003,Aberfeldie,21452,Lalor,69.93,ok
+20011,Aintree,21452,Lalor,123.27,ok
+20015,Airport West,21452,Lalor,74.33,ok
+20017,Albanvale,21452,Lalor,100.73,ok
+20018,Albert Park (Vic.),21452,Lalor,67.1,ok
+20021,Albion (Vic.),21452,Lalor,84.13,ok
+20034,Alphington,21452,Lalor,43.15,ok
+20035,Altona (Vic.),21452,Lalor,90.23,ok
+20036,Altona Meadows,21452,Lalor,98.38,ok
+20037,Altona North,21452,Lalor,98.63,ok
+20062,Ardeer,21452,Lalor,98.28,ok
+20066,Armadale (Vic.),21452,Lalor,56.38,ok
+20071,Arthurs Creek,21452,Lalor,,no_eligible_route
+20072,Arthurs Seat,21452,Lalor,209.9,ok
+20075,Ascot Vale,21452,Lalor,72.37,ok
+20077,Ashburton,21452,Lalor,69.98,ok
+20078,Ashwood,21452,Lalor,92.18,ok
+20079,Aspendale,21452,Lalor,97.63,ok
+20080,Aspendale Gardens,21452,Lalor,117.97,ok
+20082,Attwood,21452,Lalor,74.58,ok
+20089,Avondale Heights,21452,Lalor,88.73,ok
+20091,Avonsleigh,21452,Lalor,,no_eligible_route
+20095,Bacchus Marsh,21452,Lalor,,no_eligible_route
+20097,Badger Creek,21452,Lalor,176.83,ok
+20105,Balaclava (Vic.),21452,Lalor,71.02,ok
+20120,Balnarring,21452,Lalor,,no_eligible_route
+20121,Balnarring Beach,21452,Lalor,,no_eligible_route
+20123,Balwyn,21452,Lalor,66.15,ok
+20124,Balwyn North,21452,Lalor,63.88,ok
+20131,Bangholme,21452,Lalor,149.23,ok
+20169,Baxter,21452,Lalor,136.7,ok
+20171,Bayles,21452,Lalor,,no_eligible_route
+20173,Bayswater (Vic.),21452,Lalor,98.63,ok
+20174,Bayswater North,21452,Lalor,115.6,ok
+20175,Beaconsfield (Vic.),21452,Lalor,140.83,ok
+20176,Beaconsfield Upper,21452,Lalor,,no_eligible_route
+20182,Beaumaris (Vic.),21452,Lalor,95.52,ok
+20187,Beenak,21452,Lalor,,no_eligible_route
+20188,Belgrave,21452,Lalor,111.72,ok
+20189,Belgrave Heights,21452,Lalor,140.38,ok
+20190,Belgrave South,21452,Lalor,139.37,ok
+20198,Bellfield (Banyule - Vic.),21452,Lalor,46.32,ok
+20207,Bend Of Islands,21452,Lalor,,no_eligible_route
+20212,Benloch,21452,Lalor,,no_eligible_route
+20214,Bentleigh,21452,Lalor,79.42,ok
+20215,Bentleigh East,21452,Lalor,82.37,ok
+20224,Berwick,21452,Lalor,116.88,ok
+20233,Beveridge,21452,Lalor,,no_eligible_route
+20237,Big Pats Creek,21452,Lalor,,no_eligible_route
+20248,Bittern,21452,Lalor,155.97,ok
+20251,Black Rock (Vic.),21452,Lalor,101.32,ok
+20252,Blackburn,21452,Lalor,67.5,ok
+20253,Blackburn North,21452,Lalor,64.95,ok
+20254,Blackburn South,21452,Lalor,83.3,ok
+20257,Blairgowrie,21452,Lalor,201.93,ok
+20260,Blind Bight,21452,Lalor,,no_eligible_route
+20272,Bolinda,21452,Lalor,,no_eligible_route
+20278,Bonbeach,21452,Lalor,102.63,ok
+20280,Boneo,21452,Lalor,,no_eligible_route
+20282,Bonnie Brook,21452,Lalor,155.82,ok
+20304,Boronia,21452,Lalor,101.1,ok
+20307,Botanic Ridge,21452,Lalor,160.75,ok
+20314,Box Hill (Vic.),21452,Lalor,71.57,ok
+20315,Box Hill North,21452,Lalor,66.77,ok
+20316,Box Hill South,21452,Lalor,74.32,ok
+20320,Braeside,21452,Lalor,124.72,ok
+20324,Braybrook,21452,Lalor,94.98,ok
+20331,Briar Hill,21452,Lalor,53.62,ok
+20337,Brighton (Vic.),21452,Lalor,83.78,ok
+20338,Brighton East,21452,Lalor,88.2,ok
+20346,Broadmeadows (Vic.),21452,Lalor,40.1,ok
+20351,Brookfield (Vic.),21452,Lalor,188.32,ok
+20352,Brooklyn (Vic.),21452,Lalor,93.67,ok
+20361,Brunswick (Vic.),21452,Lalor,50.17,ok
+20362,Brunswick East,21452,Lalor,48.35,ok
+20363,Brunswick West,21452,Lalor,56.75,ok
+20381,Bulla (Vic.),21452,Lalor,124.12,ok
+20386,Bulleen,21452,Lalor,63.03,ok
+20387,Bullengarook,21452,Lalor,,no_eligible_route
+20399,Bundoora (Vic.),21452,Lalor,31.0,ok
+20411,Bunyip,21452,Lalor,,no_eligible_route
+20412,Bunyip North,21452,Lalor,,no_eligible_route
+20418,Burnley,21452,Lalor,63.38,ok
+20419,Burnside (Vic.),21452,Lalor,107.17,ok
+20420,Burnside Heights,21452,Lalor,114.42,ok
+20426,Burwood (Vic.),21452,Lalor,83.72,ok
+20427,Burwood East,21452,Lalor,81.3,ok
+20435,Bylands,21452,Lalor,,no_eligible_route
+20441,Cairnlea,21452,Lalor,98.35,ok
+20442,Calder Park,21452,Lalor,117.92,ok
+20443,Caldermeade,21452,Lalor,,no_eligible_route
+20453,Camberwell (Vic.),21452,Lalor,68.92,ok
+20455,Campbellfield,21452,Lalor,66.65,ok
+20466,Cannons Creek,21452,Lalor,,no_eligible_route
+20468,Canterbury (Vic.),21452,Lalor,70.4,ok
+20474,Cape Schanck,21452,Lalor,,no_eligible_route
+20476,Capel Sound,21452,Lalor,186.28,ok
+20487,Cardinia,21452,Lalor,,no_eligible_route
+20495,Carlton (Vic.),21452,Lalor,47.0,ok
+20496,Carlton North,21452,Lalor,58.47,ok
+20498,Carnegie,21452,Lalor,77.93,ok
+20500,Caroline Springs,21452,Lalor,118.05,ok
+20507,Carrum,21452,Lalor,102.45,ok
+20508,Carrum Downs,21452,Lalor,128.55,ok
+20512,Castella,21452,Lalor,,no_eligible_route
+20517,Catani,21452,Lalor,,no_eligible_route
+20521,Caulfield,21452,Lalor,79.07,ok
+20522,Caulfield East,21452,Lalor,67.82,ok
+20523,Caulfield North,21452,Lalor,69.73,ok
+20524,Caulfield South,21452,Lalor,80.67,ok
+20528,Chadstone,21452,Lalor,87.47,ok
+20537,Chelsea,21452,Lalor,99.7,ok
+20538,Chelsea Heights,21452,Lalor,116.38,ok
+20539,Cheltenham (Vic.),21452,Lalor,89.17,ok
+20541,Cherokee,21452,Lalor,,no_eligible_route
+20555,Chintin,21452,Lalor,,no_eligible_route
+20556,Chirnside Park,21452,Lalor,121.0,ok
+20559,Christmas Hills (Vic.),21452,Lalor,,no_eligible_route
+20560,Chum Creek,21452,Lalor,,no_eligible_route
+20566,Clarinda,21452,Lalor,104.55,ok
+20567,Clarkefield,21452,Lalor,,no_eligible_route
+20569,Clayton,21452,Lalor,99.07,ok
+20570,Clayton South,21452,Lalor,112.02,ok
+20572,Clematis,21452,Lalor,,no_eligible_route
+20574,Clifton Hill,21452,Lalor,30.27,ok
+20576,Clonbinane,21452,Lalor,,no_eligible_route
+20581,Clyde (Vic.),21452,Lalor,163.58,ok
+20582,Clyde North,21452,Lalor,148.03,ok
+20587,Cobaw,21452,Lalor,,no_eligible_route
+20590,Cobblebank,21452,Lalor,172.97,ok
+20596,Coburg,21452,Lalor,46.73,ok
+20597,Coburg North,21452,Lalor,48.85,ok
+20600,Cockatoo (Vic.),21452,Lalor,,no_eligible_route
+20601,Cocoroc,21452,Lalor,,no_eligible_route
+20605,Coimadai,21452,Lalor,,no_eligible_route
+20613,Coldstream (Vic.),21452,Lalor,,no_eligible_route
+20616,Collingwood (Vic.),21452,Lalor,39.3,ok
+20624,Coolaroo,21452,Lalor,56.12,ok
+20633,Cora Lynn,21452,Lalor,,no_eligible_route
+20654,Cottles Bridge,21452,Lalor,,no_eligible_route
+20661,Craigieburn,21452,Lalor,69.42,ok
+20662,Cranbourne,21452,Lalor,130.75,ok
+20663,Cranbourne East,21452,Lalor,137.53,ok
+20664,Cranbourne North,21452,Lalor,126.55,ok
+20665,Cranbourne South,21452,Lalor,164.1,ok
+20666,Cranbourne West,21452,Lalor,139.05,ok
+20670,Cremorne (Vic.),21452,Lalor,54.97,ok
+20674,Crib Point,21452,Lalor,164.93,ok
+20682,Croydon (Vic.),21452,Lalor,92.73,ok
+20683,Croydon Hills,21452,Lalor,114.05,ok
+20684,Croydon North,21452,Lalor,111.48,ok
+20685,Croydon South,21452,Lalor,112.65,ok
+20702,Dallas,21452,Lalor,56.38,ok
+20703,Dalmore,21452,Lalor,,no_eligible_route
+20707,Dandenong,21452,Lalor,104.52,ok
+20708,Dandenong North,21452,Lalor,124.63,ok
+20709,Dandenong South,21452,Lalor,122.85,ok
+20712,Darley,21452,Lalor,,no_eligible_route
+20716,Darraweit Guim,21452,Lalor,,no_eligible_route
+20724,Deanside,21452,Lalor,137.28,ok
+20728,Deepdene (Vic.),21452,Lalor,61.25,ok
+20729,Deer Park,21452,Lalor,95.12,ok
+20731,Delahey,21452,Lalor,112.78,ok
+20743,Derrimut,21452,Lalor,128.0,ok
+20748,Devon Meadows,21452,Lalor,170.33,ok
+20750,Dewhurst,21452,Lalor,,no_eligible_route
+20752,Diamond Creek,21452,Lalor,62.18,ok
+20754,Diggers Rest,21452,Lalor,112.23,ok
+20758,Dingley Village,21452,Lalor,103.07,ok
+20762,Dixons Creek,21452,Lalor,,no_eligible_route
+20766,Docklands,21452,Lalor,58.17,ok
+20769,Don Valley,21452,Lalor,,no_eligible_route
+20771,Doncaster,21452,Lalor,61.12,ok
+20772,Doncaster East,21452,Lalor,65.6,ok
+20773,Donnybrook (Vic.),21452,Lalor,108.13,ok
+20774,Donvale,21452,Lalor,86.93,ok
+20779,Doreen,21452,Lalor,53.95,ok
+20783,Doveton,21452,Lalor,117.47,ok
+20788,Dromana,21452,Lalor,197.07,ok
+20825,Eaglemont,21452,Lalor,61.48,ok
+20830,East Melbourne,21452,Lalor,38.33,ok
+20833,East Warburton,21452,Lalor,,no_eligible_route
+20843,Eden Park,21452,Lalor,,no_eligible_route
+20848,Edithvale,21452,Lalor,99.83,ok
+20864,Elsternwick,21452,Lalor,78.93,ok
+20865,Eltham (Vic.),21452,Lalor,67.85,ok
+20866,Eltham North,21452,Lalor,57.73,ok
+20867,Elwood,21452,Lalor,79.38,ok
+20868,Emerald (Vic.),21452,Lalor,,no_eligible_route
+20871,Endeavour Hills,21452,Lalor,124.8,ok
+20878,Epping (Vic.),21452,Lalor,36.32,ok
+20885,Essendon,21452,Lalor,59.33,ok
+20886,Essendon Fields,21452,Lalor,85.2,ok
+20887,Essendon North,21452,Lalor,60.53,ok
+20888,Essendon West,21452,Lalor,66.15,ok
+20889,Eumemmerring,21452,Lalor,127.85,ok
+20898,Exford,21452,Lalor,,no_eligible_route
+20899,Eynesbury,21452,Lalor,,no_eligible_route
+20901,Fairfield (Vic.),21452,Lalor,45.58,ok
+20909,Fawkner,21452,Lalor,52.88,ok
+20916,Fernshaw,21452,Lalor,,no_eligible_route
+20917,Ferntree Gully,21452,Lalor,111.47,ok
+20918,Ferny Creek,21452,Lalor,150.0,ok
+20920,Fingal (Vic.),21452,Lalor,,no_eligible_route
+20924,Fitzroy (Vic.),21452,Lalor,43.78,ok
+20925,Fitzroy North,21452,Lalor,38.98,ok
+20929,Flemington,21452,Lalor,71.9,ok
+20930,Flinders (Vic.),21452,Lalor,,no_eligible_route
+20935,Footscray,21452,Lalor,71.55,ok
+20937,Forest Hill (Vic.),21452,Lalor,80.28,ok
+20947,Frankston,21452,Lalor,123.42,ok
+20948,Frankston North,21452,Lalor,133.57,ok
+20949,Frankston South,21452,Lalor,141.68,ok
+20950,Fraser Rise,21452,Lalor,128.67,ok
+20965,Gardenvale,21452,Lalor,76.57,ok
+20966,Garfield,21452,Lalor,,no_eligible_route
+20967,Garfield North,21452,Lalor,,no_eligible_route
+20979,Gembrook,21452,Lalor,,no_eligible_route
+20995,Gilderoy,21452,Lalor,,no_eligible_route
+21001,Gisborne,21452,Lalor,,no_eligible_route
+21002,Gisborne South,21452,Lalor,,no_eligible_route
+21004,Gladstone Park,21452,Lalor,63.8,ok
+21005,Gladysdale,21452,Lalor,,no_eligible_route
+21009,Glen Huntly,21452,Lalor,70.95,ok
+21010,Glen Iris (Vic.),21452,Lalor,78.98,ok
+21013,Glen Waverley,21452,Lalor,95.4,ok
+21047,Glenroy (Vic.),21452,Lalor,61.97,ok
+21059,Goldie,21452,Lalor,,no_eligible_route
+21079,Gowanbrae,21452,Lalor,72.03,ok
+21087,Grangefields,21452,Lalor,160.27,ok
+21104,Greensborough,21452,Lalor,44.15,ok
+21105,Greenvale (Vic.),21452,Lalor,68.22,ok
+21115,Gruyere,21452,Lalor,,no_eligible_route
+21121,Guys Hill,21452,Lalor,,no_eligible_route
+21124,Hadfield,21452,Lalor,60.12,ok
+21125,Hallam,21452,Lalor,122.0,ok
+21131,Hampton (Vic.),21452,Lalor,91.62,ok
+21132,Hampton East,21452,Lalor,86.18,ok
+21133,Hampton Park,21452,Lalor,123.42,ok
+21139,Harkaway,21452,Lalor,,no_eligible_route
+21140,Harkness,21452,Lalor,189.8,ok
+21145,Hastings (Vic.),21452,Lalor,154.85,ok
+21152,Hawthorn (Vic.),21452,Lalor,63.25,ok
+21153,Hawthorn East,21452,Lalor,64.27,ok
+21158,Healesville,21452,Lalor,180.75,ok
+21159,Heath Hill,21452,Lalor,,no_eligible_route
+21161,Heathcote Junction,21452,Lalor,,no_eligible_route
+21163,Heatherton,21452,Lalor,102.48,ok
+21165,Heathmont,21452,Lalor,88.9,ok
+21167,Heidelberg,21452,Lalor,53.82,ok
+21168,Heidelberg Heights,21452,Lalor,51.67,ok
+21169,Heidelberg West,21452,Lalor,49.67,ok
+21176,Hesket,21452,Lalor,,no_eligible_route
+21185,Highett,21452,Lalor,78.95,ok
+21193,Hillside (Melton - Vic.),21452,Lalor,113.22,ok
+21195,Hmas Cerberus,21452,Lalor,,no_eligible_route
+21196,Hoddles Creek,21452,Lalor,,no_eligible_route
+21202,Hopetoun Park,21452,Lalor,,no_eligible_route
+21203,Hoppers Crossing,21452,Lalor,110.07,ok
+21214,Hughesdale,21452,Lalor,83.03,ok
+21215,Humevale,21452,Lalor,,no_eligible_route
+21218,Huntingdale (Vic.),21452,Lalor,88.47,ok
+21223,Hurstbridge,21452,Lalor,66.65,ok
+21238,Iona,21452,Lalor,,no_eligible_route
+21246,Ivanhoe (Vic.),21452,Lalor,47.75,ok
+21247,Ivanhoe East,21452,Lalor,59.17,ok
+21248,Jacana,21452,Lalor,50.33,ok
+21277,Junction Village,21452,Lalor,156.47,ok
+21284,Kalkallo,21452,Lalor,103.13,ok
+21286,Kallista,21452,Lalor,148.43,ok
+21287,Kalorama,21452,Lalor,119.7,ok
+21294,Kangaroo Ground,21452,Lalor,103.25,ok
+21312,Kealba,21452,Lalor,99.5,ok
+21314,Keilor,21452,Lalor,118.65,ok
+21315,Keilor Downs,21452,Lalor,107.17,ok
+21316,Keilor East,21452,Lalor,78.15,ok
+21317,Keilor Lodge,21452,Lalor,108.02,ok
+21318,Keilor North,21452,Lalor,95.85,ok
+21319,Keilor Park,21452,Lalor,97.43,ok
+21327,Kensington (Vic.),21452,Lalor,61.23,ok
+21333,Kerrie,21452,Lalor,,no_eligible_route
+21336,Kew (Vic.),21452,Lalor,51.88,ok
+21337,Kew East,21452,Lalor,54.95,ok
+21339,Keysborough,21452,Lalor,117.83,ok
+21354,Kilsyth,21452,Lalor,109.08,ok
+21355,Kilsyth South,21452,Lalor,122.17,ok
+21358,Kinglake,21452,Lalor,,no_eligible_route
+21359,Kinglake Central,21452,Lalor,,no_eligible_route
+21360,Kinglake West,21452,Lalor,,no_eligible_route
+21362,Kings Park (Vic.),21452,Lalor,108.95,ok
+21363,Kingsbury,21452,Lalor,42.67,ok
+21365,Kingsville,21452,Lalor,80.62,ok
+21374,Knoxfield,21452,Lalor,114.75,ok
+21380,Koo Wee Rup,21452,Lalor,,no_eligible_route
+21381,Koo Wee Rup North,21452,Lalor,,no_eligible_route
+21393,Kooyong,21452,Lalor,69.17,ok
+21411,Kurunjang,21452,Lalor,167.0,ok
+21452,Lalor,21452,Lalor,0.0,same_centroid
+21456,Lancefield,21452,Lalor,,no_eligible_route
+21459,Lang Lang,21452,Lalor,,no_eligible_route
+21460,Lang Lang East,21452,Lalor,,no_eligible_route
+21467,Langwarrin,21452,Lalor,137.38,ok
+21468,Langwarrin South,21452,Lalor,,no_eligible_route
+21473,Launching Place,21452,Lalor,135.38,ok
+21476,Laverton (Vic.),21452,Lalor,90.83,ok
+21477,Laverton North,21452,Lalor,120.25,ok
+21504,Lilydale (Vic.),21452,Lalor,115.03,ok
+21533,Long Forest,21452,Lalor,,no_eligible_route
+21547,Lower Plenty,21452,Lalor,72.83,ok
+21554,Lynbrook,21452,Lalor,114.25,ok
+21555,Lyndhurst (Vic.),21452,Lalor,168.83,ok
+21558,Lysterfield,21452,Lalor,169.32,ok
+21559,Lysterfield South,21452,Lalor,167.97,ok
+21561,Macclesfield (Vic.),21452,Lalor,,no_eligible_route
+21562,Macedon,21452,Lalor,,no_eligible_route
+21564,Macleod (Vic.),21452,Lalor,60.73,ok
+21569,Maddingley,21452,Lalor,,no_eligible_route
+21575,Maidstone,21452,Lalor,90.02,ok
+21578,Main Ridge,21452,Lalor,,no_eligible_route
+21586,Malvern (Vic.),21452,Lalor,68.4,ok
+21587,Malvern East,21452,Lalor,80.28,ok
+21588,Mambourin,21452,Lalor,,no_eligible_route
+21597,Manor Lakes,21452,Lalor,152.77,ok
+21604,Maribyrnong,21452,Lalor,87.12,ok
+21619,Maryknoll,21452,Lalor,,no_eligible_route
+21625,McCrae,21452,Lalor,181.48,ok
+21629,McKinnon,21452,Lalor,68.25,ok
+21635,Meadow Heights,21452,Lalor,47.38,ok
+21640,Melbourne,21452,Lalor,55.85,ok
+21641,Melbourne Airport,21452,Lalor,,no_eligible_route
+21642,Melton (Vic.),21452,Lalor,175.18,ok
+21643,Melton South,21452,Lalor,187.55,ok
+21644,Melton West,21452,Lalor,163.18,ok
+21648,Mentone,21452,Lalor,83.93,ok
+21649,Menzies Creek,21452,Lalor,,no_eligible_route
+21659,Mernda,21452,Lalor,43.92,ok
+21662,Merricks,21452,Lalor,,no_eligible_route
+21663,Merricks Beach,21452,Lalor,,no_eligible_route
+21664,Merricks North,21452,Lalor,,no_eligible_route
+21668,Merrimu,21452,Lalor,,no_eligible_route
+21675,Mickleham,21452,Lalor,101.42,ok
+21677,Middle Park (Vic.),21452,Lalor,73.18,ok
+21683,Mill Park,21452,Lalor,26.55,ok
+21685,Millgrove,21452,Lalor,,no_eligible_route
+21706,Mitcham (Vic.),21452,Lalor,80.47,ok
+21727,Monbulk,21452,Lalor,155.88,ok
+21728,Monegeetta,21452,Lalor,,no_eligible_route
+21731,Monomeith,21452,Lalor,,no_eligible_route
+21732,Mont Albert,21452,Lalor,73.28,ok
+21733,Mont Albert North,21452,Lalor,63.58,ok
+21735,Montmorency,21452,Lalor,53.77,ok
+21736,Montrose (Vic.),21452,Lalor,112.0,ok
+21742,Moonee Ponds,21452,Lalor,62.4,ok
+21746,Moorabbin,21452,Lalor,97.0,ok
+21747,Moorabbin Airport,21452,Lalor,104.43,ok
+21754,Moorooduc,21452,Lalor,,no_eligible_route
+21755,Mooroolbark,21452,Lalor,101.93,ok
+21760,Mordialloc,21452,Lalor,99.23,ok
+21763,Mornington (Vic.),21452,Lalor,155.12,ok
+21779,Mount Burnett,21452,Lalor,,no_eligible_route
+21786,Mount Cottrell,21452,Lalor,,no_eligible_route
+21787,Mount Dandenong,21452,Lalor,123.7,ok
+21793,Mount Eliza,21452,Lalor,129.47,ok
+21795,Mount Evelyn,21452,Lalor,127.87,ok
+21801,Mount Macedon,21452,Lalor,,no_eligible_route
+21803,Mount Martha,21452,Lalor,148.0,ok
+21814,Mount Toolebewong,21452,Lalor,,no_eligible_route
+21816,Mount Waverley,21452,Lalor,86.83,ok
+21827,Mulgrave (Vic.),21452,Lalor,111.73,ok
+21849,Murrumbeena,21452,Lalor,83.15,ok
+21872,Nangana,21452,Lalor,,no_eligible_route
+21878,Nar Nar Goon,21452,Lalor,,no_eligible_route
+21879,Nar Nar Goon North,21452,Lalor,,no_eligible_route
+21893,Narre Warren,21452,Lalor,118.98,ok
+21894,Narre Warren East,21452,Lalor,,no_eligible_route
+21895,Narre Warren North,21452,Lalor,135.25,ok
+21896,Narre Warren South,21452,Lalor,124.8,ok
+21921,New Gisborne,21452,Lalor,,no_eligible_route
+21934,Newport (Vic.),21452,Lalor,75.68,ok
+21942,Niddrie,21452,Lalor,78.63,ok
+21952,Noble Park,21452,Lalor,95.25,ok
+21953,Noble Park North,21452,Lalor,128.23,ok
+21966,North Melbourne,21452,Lalor,61.13,ok
+21969,North Warrandyte,21452,Lalor,82.38,ok
+21971,Northcote,21452,Lalor,37.0,ok
+21974,Notting Hill,21452,Lalor,89.38,ok
+21985,Nunawading,21452,Lalor,72.15,ok
+21991,Nutfield,21452,Lalor,,no_eligible_route
+21998,Oak Park,21452,Lalor,62.17,ok
+21999,Oaklands Junction,21452,Lalor,,no_eligible_route
+22000,Oakleigh,21452,Lalor,85.7,ok
+22001,Oakleigh East,21452,Lalor,98.75,ok
+22002,Oakleigh South,21452,Lalor,91.85,ok
+22006,Officer,21452,Lalor,136.53,ok
+22007,Officer South,21452,Lalor,179.1,ok
+22009,Olinda (Vic.),21452,Lalor,148.35,ok
+22016,Ormond,21452,Lalor,68.68,ok
+22027,Pakenham,21452,Lalor,133.45,ok
+22028,Pakenham South,21452,Lalor,,no_eligible_route
+22029,Pakenham Upper,21452,Lalor,,no_eligible_route
+22032,Panton Hill,21452,Lalor,,no_eligible_route
+22036,Park Orchards,21452,Lalor,80.6,ok
+22037,Parkdale,21452,Lalor,89.02,ok
+22038,Parkville (Vic.),21452,Lalor,66.97,ok
+22041,Pascoe Vale,21452,Lalor,59.93,ok
+22042,Pascoe Vale South,21452,Lalor,51.75,ok
+22047,Patterson Lakes,21452,Lalor,111.32,ok
+22050,Pearcedale,21452,Lalor,181.4,ok
+22058,Pentland Hills,21452,Lalor,,no_eligible_route
+22064,Pheasant Creek (Vic.),21452,Lalor,,no_eligible_route
+22084,Plenty (Vic.),21452,Lalor,50.93,ok
+22085,Plumpton (Vic.),21452,Lalor,,no_eligible_route
+22086,Point Cook,21452,Lalor,110.07,ok
+22087,Point Leo,21452,Lalor,,no_eligible_route
+22107,Port Melbourne,21452,Lalor,68.68,ok
+22113,Portsea,21452,Lalor,217.78,ok
+22115,Powelltown,21452,Lalor,,no_eligible_route
+22118,Prahran,21452,Lalor,63.18,ok
+22121,Preston (Vic.),21452,Lalor,34.0,ok
+22122,Princes Hill,21452,Lalor,52.07,ok
+22132,Quandong,21452,Lalor,,no_eligible_route
+22141,Ravenhall,21452,Lalor,144.6,ok
+22148,Red Hill (Vic.),21452,Lalor,,no_eligible_route
+22149,Red Hill South,21452,Lalor,,no_eligible_route
+22160,Research,21452,Lalor,76.25,ok
+22161,Reservoir (Vic.),21452,Lalor,25.25,ok
+22170,Richmond (Vic.),21452,Lalor,50.7,ok
+22172,Riddells Creek,21452,Lalor,,no_eligible_route
+22174,Ringwood (Vic.),21452,Lalor,87.67,ok
+22175,Ringwood East,21452,Lalor,92.82,ok
+22176,Ringwood North,21452,Lalor,87.18,ok
+22179,Ripponlea,21452,Lalor,69.65,ok
+22185,Rochford,21452,Lalor,,no_eligible_route
+22186,Rockbank,21452,Lalor,144.63,ok
+22193,Romsey,21452,Lalor,,no_eligible_route
+22194,Rosanna,21452,Lalor,57.57,ok
+22198,Rosebud,21452,Lalor,197.8,ok
+22207,Rowville,21452,Lalor,124.05,ok
+22208,Roxburgh Park,21452,Lalor,62.38,ok
+22220,Rye,21452,Lalor,210.0,ok
+22221,Rythdale,21452,Lalor,,no_eligible_route
+22222,Safety Beach (Vic.),21452,Lalor,164.97,ok
+22232,Sandhurst,21452,Lalor,139.65,ok
+22234,Sandringham (Vic.),21452,Lalor,96.5,ok
+22239,Sassafras (Vic.),21452,Lalor,132.77,ok
+22242,Scoresby,21452,Lalor,112.02,ok
+22247,Seabrook,21452,Lalor,101.65,ok
+22249,Seaford (Vic.),21452,Lalor,114.55,ok
+22250,Seaholme,21452,Lalor,84.92,ok
+22256,Seddon (Vic.),21452,Lalor,68.93,ok
+22258,Selby,21452,Lalor,144.32,ok
+22263,Seville,21452,Lalor,146.55,ok
+22264,Seville East,21452,Lalor,133.43,ok
+22278,Sherbrooke,21452,Lalor,138.5,ok
+22279,Shoreham,21452,Lalor,,no_eligible_route
+22281,Silvan,21452,Lalor,147.98,ok
+22291,Skye (Vic.),21452,Lalor,131.68,ok
+22295,Smiths Gully,21452,Lalor,,no_eligible_route
+22303,Somers,21452,Lalor,,no_eligible_route
+22304,Somerton (Vic.),21452,Lalor,54.0,ok
+22305,Somerville (Vic.),21452,Lalor,159.95,ok
+22306,Sorrento (Vic.),21452,Lalor,197.77,ok
+22309,South Kingsville,21452,Lalor,87.93,ok
+22310,South Melbourne,21452,Lalor,66.0,ok
+22311,South Morang,21452,Lalor,35.13,ok
+22313,South Wharf,21452,Lalor,60.67,ok
+22314,South Yarra,21452,Lalor,48.32,ok
+22315,Southbank,21452,Lalor,63.18,ok
+22319,Spotswood,21452,Lalor,69.08,ok
+22325,Springfield (Macedon Ranges - Vic.),21452,Lalor,,no_eligible_route
+22328,Springvale (Vic.),21452,Lalor,96.22,ok
+22329,Springvale South,21452,Lalor,100.95,ok
+22330,St Albans (Vic.),21452,Lalor,86.77,ok
+22332,St Andrews (Vic.),21452,Lalor,,no_eligible_route
+22333,St Andrews Beach,21452,Lalor,,no_eligible_route
+22339,St Helena,21452,Lalor,53.0,ok
+22343,St Kilda (Vic.),21452,Lalor,67.35,ok
+22344,St Kilda East,21452,Lalor,71.08,ok
+22345,St Kilda West,21452,Lalor,72.07,ok
+22355,Steels Creek,21452,Lalor,,no_eligible_route
+22375,Strathewen,21452,Lalor,,no_eligible_route
+22380,Strathmore (Vic.),21452,Lalor,69.53,ok
+22381,Strathmore Heights,21452,Lalor,73.93,ok
+22382,Strathtulloh,21452,Lalor,,no_eligible_route
+22391,Sunbury,21452,Lalor,150.05,ok
+22395,Sunshine (Vic.),21452,Lalor,75.55,ok
+22396,Sunshine North,21452,Lalor,90.62,ok
+22397,Sunshine West,21452,Lalor,104.12,ok
+22399,Surrey Hills,21452,Lalor,76.2,ok
+22414,Sydenham (Vic.),21452,Lalor,101.17,ok
+22451,Tarneit,21452,Lalor,128.68,ok
+22457,Tarrawarra,21452,Lalor,156.35,ok
+22473,Taylors Hill,21452,Lalor,108.0,ok
+22474,Taylors Lakes,21452,Lalor,98.58,ok
+22476,Tecoma,21452,Lalor,108.72,ok
+22483,Templestowe,21452,Lalor,67.0,ok
+22484,Templestowe Lower,21452,Lalor,64.97,ok
+22496,The Basin (Vic.),21452,Lalor,119.9,ok
+22501,The Patch,21452,Lalor,146.45,ok
+22504,Thomastown,21452,Lalor,20.37,ok
+22508,Thornbury,21452,Lalor,35.97,ok
+22509,Thornhill Park,21452,Lalor,,no_eligible_route
+22514,Three Bridges,21452,Lalor,,no_eligible_route
+22531,Tonimbuk,21452,Lalor,,no_eligible_route
+22536,Toolangi,21452,Lalor,,no_eligible_route
+22537,Toolern Vale,21452,Lalor,,no_eligible_route
+22546,Tooradin,21452,Lalor,,no_eligible_route
+22547,Toorak,21452,Lalor,64.8,ok
+22550,Tootgarook,21452,Lalor,193.42,ok
+22556,Tottenham (Vic.),21452,Lalor,101.98,ok
+22572,Travancore,21452,Lalor,69.02,ok
+22576,Tremont,21452,Lalor,126.32,ok
+22582,Truganina,21452,Lalor,176.28,ok
+22584,Tuerong,21452,Lalor,,no_eligible_route
+22586,Tullamarine,21452,Lalor,67.67,ok
+22594,Tyabb,21452,Lalor,151.42,ok
+22598,Tynong,21452,Lalor,,no_eligible_route
+22599,Tynong North,21452,Lalor,,no_eligible_route
+22614,Upper Ferntree Gully,21452,Lalor,105.87,ok
+22617,Upper Plenty,21452,Lalor,,no_eligible_route
+22620,Upwey,21452,Lalor,108.58,ok
+22627,Vermont,21452,Lalor,95.93,ok
+22628,Vermont South,21452,Lalor,99.25,ok
+22629,Vervale,21452,Lalor,,no_eligible_route
+22633,Viewbank,21452,Lalor,67.57,ok
+22661,Wallan,21452,Lalor,,no_eligible_route
+22672,Wandin East,21452,Lalor,,no_eligible_route
+22673,Wandin North,21452,Lalor,119.52,ok
+22676,Wandong,21452,Lalor,,no_eligible_route
+22685,Wantirna,21452,Lalor,100.87,ok
+22686,Wantirna South,21452,Lalor,112.32,ok
+22689,Warburton (Vic.),21452,Lalor,,no_eligible_route
+22695,Warneet,21452,Lalor,,no_eligible_route
+22702,Warrandyte,21452,Lalor,80.78,ok
+22703,Warrandyte South,21452,Lalor,119.75,ok
+22704,Warranwood,21452,Lalor,97.42,ok
+22717,Waterford Park,21452,Lalor,,no_eligible_route
+22720,Waterways,21452,Lalor,121.62,ok
+22721,Watsonia,21452,Lalor,48.23,ok
+22722,Watsonia North,21452,Lalor,43.55,ok
+22723,Watsons Creek (Vic.),21452,Lalor,,no_eligible_route
+22727,Wattle Glen,21452,Lalor,73.98,ok
+22740,Weir Views,21452,Lalor,218.02,ok
+22750,Werribee,21452,Lalor,111.87,ok
+22751,Werribee South,21452,Lalor,149.88,ok
+22753,Wesburn,21452,Lalor,151.48,ok
+22756,West Footscray,21452,Lalor,78.72,ok
+22757,West Melbourne,21452,Lalor,70.65,ok
+22761,Westmeadows,21452,Lalor,55.05,ok
+22766,Wheelers Hill,21452,Lalor,103.45,ok
+22775,Whittlesea,21452,Lalor,,no_eligible_route
+22784,Wildwood,21452,Lalor,,no_eligible_route
+22791,Williams Landing,21452,Lalor,105.08,ok
+22792,Williamstown (Vic.),21452,Lalor,82.9,ok
+22793,Williamstown North,21452,Lalor,97.43,ok
+22805,Windsor (Vic.),21452,Lalor,63.08,ok
+22820,Wollert,21452,Lalor,82.6,ok
+22825,Wonga Park,21452,Lalor,121.27,ok
+22843,Woodstock (Vic.),21452,Lalor,,no_eligible_route
+22857,Woori Yallock,21452,Lalor,130.63,ok
+22883,Wyndham Vale,21452,Lalor,137.68,ok
+22892,Yallambie,21452,Lalor,74.12,ok
+22898,Yan Yean,21452,Lalor,69.68,ok
+22906,Yannathan,21452,Lalor,,no_eligible_route
+22910,Yarra Glen,21452,Lalor,153.65,ok
+22911,Yarra Junction,21452,Lalor,155.75,ok
+22916,Yarrambat,21452,Lalor,45.07,ok
+22917,Yarraville,21452,Lalor,74.83,ok
+22925,Yellingbo,21452,Lalor,,no_eligible_route
+22930,Yering,21452,Lalor,,no_eligible_route
+22941,Yuroke,21452,Lalor,120.47,ok

@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21140,Harkness,149.23,ok
+20003,Aberfeldie,21140,Harkness,148.85,ok
+20011,Aintree,21140,Harkness,79.87,ok
+20015,Airport West,21140,Harkness,176.48,ok
+20017,Albanvale,21140,Harkness,111.85,ok
+20018,Albert Park (Vic.),21140,Harkness,159.52,ok
+20021,Albion (Vic.),21140,Harkness,92.4,ok
+20034,Alphington,21140,Harkness,164.0,ok
+20035,Altona (Vic.),21140,Harkness,159.08,ok
+20036,Altona Meadows,21140,Harkness,183.78,ok
+20037,Altona North,21140,Harkness,165.48,ok
+20062,Ardeer,21140,Harkness,94.4,ok
+20066,Armadale (Vic.),21140,Harkness,147.62,ok
+20071,Arthurs Creek,21140,Harkness,,no_eligible_route
+20072,Arthurs Seat,21140,Harkness,,no_eligible_route
+20075,Ascot Vale,21140,Harkness,161.62,ok
+20077,Ashburton,21140,Harkness,183.83,ok
+20078,Ashwood,21140,Harkness,198.37,ok
+20079,Aspendale,21140,Harkness,189.88,ok
+20080,Aspendale Gardens,21140,Harkness,216.12,ok
+20082,Attwood,21140,Harkness,,no_eligible_route
+20089,Avondale Heights,21140,Harkness,155.62,ok
+20091,Avonsleigh,21140,Harkness,,no_eligible_route
+20095,Bacchus Marsh,21140,Harkness,177.83,walk_only
+20097,Badger Creek,21140,Harkness,,no_eligible_route
+20105,Balaclava (Vic.),21140,Harkness,166.3,ok
+20120,Balnarring,21140,Harkness,,no_eligible_route
+20121,Balnarring Beach,21140,Harkness,,no_eligible_route
+20123,Balwyn,21140,Harkness,193.58,ok
+20124,Balwyn North,21140,Harkness,174.73,ok
+20131,Bangholme,21140,Harkness,,no_eligible_route
+20169,Baxter,21140,Harkness,,no_eligible_route
+20171,Bayles,21140,Harkness,,no_eligible_route
+20173,Bayswater (Vic.),21140,Harkness,211.48,ok
+20174,Bayswater North,21140,Harkness,237.92,ok
+20175,Beaconsfield (Vic.),21140,Harkness,216.33,ok
+20176,Beaconsfield Upper,21140,Harkness,,no_eligible_route
+20182,Beaumaris (Vic.),21140,Harkness,207.7,ok
+20187,Beenak,21140,Harkness,,no_eligible_route
+20188,Belgrave,21140,Harkness,224.57,ok
+20189,Belgrave Heights,21140,Harkness,256.23,ok
+20190,Belgrave South,21140,Harkness,,no_eligible_route
+20198,Bellfield (Banyule - Vic.),21140,Harkness,197.27,ok
+20207,Bend Of Islands,21140,Harkness,,no_eligible_route
+20212,Benloch,21140,Harkness,,no_eligible_route
+20214,Bentleigh,21140,Harkness,167.67,ok
+20215,Bentleigh East,21140,Harkness,176.02,ok
+20224,Berwick,21140,Harkness,189.13,ok
+20233,Beveridge,21140,Harkness,,no_eligible_route
+20237,Big Pats Creek,21140,Harkness,,no_eligible_route
+20248,Bittern,21140,Harkness,,no_eligible_route
+20251,Black Rock (Vic.),21140,Harkness,219.97,ok
+20252,Blackburn,21140,Harkness,188.82,ok
+20253,Blackburn North,21140,Harkness,208.87,ok
+20254,Blackburn South,21140,Harkness,203.5,ok
+20257,Blairgowrie,21140,Harkness,,no_eligible_route
+20260,Blind Bight,21140,Harkness,,no_eligible_route
+20272,Bolinda,21140,Harkness,,no_eligible_route
+20278,Bonbeach,21140,Harkness,194.88,ok
+20280,Boneo,21140,Harkness,,no_eligible_route
+20282,Bonnie Brook,21140,Harkness,141.38,ok
+20304,Boronia,21140,Harkness,213.95,ok
+20307,Botanic Ridge,21140,Harkness,,no_eligible_route
+20314,Box Hill (Vic.),21140,Harkness,185.93,ok
+20315,Box Hill North,21140,Harkness,206.65,ok
+20316,Box Hill South,21140,Harkness,198.7,ok
+20320,Braeside,21140,Harkness,,no_eligible_route
+20324,Braybrook,21140,Harkness,127.4,ok
+20331,Briar Hill,21140,Harkness,202.72,ok
+20337,Brighton (Vic.),21140,Harkness,180.63,ok
+20338,Brighton East,21140,Harkness,176.95,ok
+20346,Broadmeadows (Vic.),21140,Harkness,185.23,ok
+20351,Brookfield (Vic.),21140,Harkness,66.83,ok
+20352,Brooklyn (Vic.),21140,Harkness,148.67,ok
+20361,Brunswick (Vic.),21140,Harkness,145.73,ok
+20362,Brunswick East,21140,Harkness,151.42,ok
+20363,Brunswick West,21140,Harkness,166.02,ok
+20381,Bulla (Vic.),21140,Harkness,,no_eligible_route
+20386,Bulleen,21140,Harkness,180.88,ok
+20387,Bullengarook,21140,Harkness,,no_eligible_route
+20399,Bundoora (Vic.),21140,Harkness,205.73,ok
+20411,Bunyip,21140,Harkness,,no_eligible_route
+20412,Bunyip North,21140,Harkness,,no_eligible_route
+20418,Burnley,21140,Harkness,171.23,ok
+20419,Burnside (Vic.),21140,Harkness,85.38,ok
+20420,Burnside Heights,21140,Harkness,108.22,ok
+20426,Burwood (Vic.),21140,Harkness,182.57,ok
+20427,Burwood East,21140,Harkness,187.23,ok
+20435,Bylands,21140,Harkness,,no_eligible_route
+20441,Cairnlea,21140,Harkness,108.97,ok
+20442,Calder Park,21140,Harkness,129.0,ok
+20443,Caldermeade,21140,Harkness,,no_eligible_route
+20453,Camberwell (Vic.),21140,Harkness,180.07,ok
+20455,Campbellfield,21140,Harkness,189.48,ok
+20466,Cannons Creek,21140,Harkness,,no_eligible_route
+20468,Canterbury (Vic.),21140,Harkness,179.25,ok
+20474,Cape Schanck,21140,Harkness,,no_eligible_route
+20476,Capel Sound,21140,Harkness,,no_eligible_route
+20487,Cardinia,21140,Harkness,,no_eligible_route
+20495,Carlton (Vic.),21140,Harkness,131.62,ok
+20496,Carlton North,21140,Harkness,149.18,ok
+20498,Carnegie,21140,Harkness,155.87,ok
+20500,Caroline Springs,21140,Harkness,93.07,ok
+20507,Carrum,21140,Harkness,194.7,ok
+20508,Carrum Downs,21140,Harkness,,no_eligible_route
+20512,Castella,21140,Harkness,,no_eligible_route
+20517,Catani,21140,Harkness,,no_eligible_route
+20521,Caulfield,21140,Harkness,166.97,ok
+20522,Caulfield East,21140,Harkness,149.07,ok
+20523,Caulfield North,21140,Harkness,155.23,ok
+20524,Caulfield South,21140,Harkness,171.5,ok
+20528,Chadstone,21140,Harkness,185.12,ok
+20537,Chelsea,21140,Harkness,191.95,ok
+20538,Chelsea Heights,21140,Harkness,218.42,ok
+20539,Cheltenham (Vic.),21140,Harkness,182.42,ok
+20541,Cherokee,21140,Harkness,,no_eligible_route
+20555,Chintin,21140,Harkness,,no_eligible_route
+20556,Chirnside Park,21140,Harkness,,no_eligible_route
+20559,Christmas Hills (Vic.),21140,Harkness,,no_eligible_route
+20560,Chum Creek,21140,Harkness,,no_eligible_route
+20566,Clarinda,21140,Harkness,193.87,ok
+20567,Clarkefield,21140,Harkness,,no_eligible_route
+20569,Clayton,21140,Harkness,173.45,ok
+20570,Clayton South,21140,Harkness,185.27,ok
+20572,Clematis,21140,Harkness,,no_eligible_route
+20574,Clifton Hill,21140,Harkness,147.48,ok
+20576,Clonbinane,21140,Harkness,,no_eligible_route
+20581,Clyde (Vic.),21140,Harkness,,no_eligible_route
+20582,Clyde North,21140,Harkness,,no_eligible_route
+20587,Cobaw,21140,Harkness,,no_eligible_route
+20590,Cobblebank,21140,Harkness,77.92,ok
+20596,Coburg,21140,Harkness,151.47,ok
+20597,Coburg North,21140,Harkness,161.03,ok
+20600,Cockatoo (Vic.),21140,Harkness,,no_eligible_route
+20601,Cocoroc,21140,Harkness,,no_eligible_route
+20605,Coimadai,21140,Harkness,201.5,walk_only
+20613,Coldstream (Vic.),21140,Harkness,,no_eligible_route
+20616,Collingwood (Vic.),21140,Harkness,149.88,ok
+20624,Coolaroo,21140,Harkness,186.1,ok
+20633,Cora Lynn,21140,Harkness,,no_eligible_route
+20654,Cottles Bridge,21140,Harkness,,no_eligible_route
+20661,Craigieburn,21140,Harkness,215.27,ok
+20662,Cranbourne,21140,Harkness,211.38,ok
+20663,Cranbourne East,21140,Harkness,225.48,ok
+20664,Cranbourne North,21140,Harkness,,no_eligible_route
+20665,Cranbourne South,21140,Harkness,,no_eligible_route
+20666,Cranbourne West,21140,Harkness,223.45,ok
+20670,Cremorne (Vic.),21140,Harkness,146.22,ok
+20674,Crib Point,21140,Harkness,,no_eligible_route
+20682,Croydon (Vic.),21140,Harkness,,no_eligible_route
+20683,Croydon Hills,21140,Harkness,,no_eligible_route
+20684,Croydon North,21140,Harkness,,no_eligible_route
+20685,Croydon South,21140,Harkness,,no_eligible_route
+20702,Dallas,21140,Harkness,188.13,ok
+20703,Dalmore,21140,Harkness,,no_eligible_route
+20707,Dandenong,21140,Harkness,176.73,ok
+20708,Dandenong North,21140,Harkness,,no_eligible_route
+20709,Dandenong South,21140,Harkness,203.7,ok
+20712,Darley,21140,Harkness,,no_eligible_route
+20716,Darraweit Guim,21140,Harkness,,no_eligible_route
+20724,Deanside,21140,Harkness,90.22,ok
+20728,Deepdene (Vic.),21140,Harkness,195.95,ok
+20729,Deer Park,21140,Harkness,89.23,ok
+20731,Delahey,21140,Harkness,121.63,ok
+20743,Derrimut,21140,Harkness,142.65,ok
+20748,Devon Meadows,21140,Harkness,,no_eligible_route
+20750,Dewhurst,21140,Harkness,,no_eligible_route
+20752,Diamond Creek,21140,Harkness,206.32,ok
+20754,Diggers Rest,21140,Harkness,136.08,ok
+20758,Dingley Village,21140,Harkness,,no_eligible_route
+20762,Dixons Creek,21140,Harkness,,no_eligible_route
+20766,Docklands,21140,Harkness,144.32,ok
+20769,Don Valley,21140,Harkness,,no_eligible_route
+20771,Doncaster,21140,Harkness,195.07,ok
+20772,Doncaster East,21140,Harkness,191.95,ok
+20773,Donnybrook (Vic.),21140,Harkness,,no_eligible_route
+20774,Donvale,21140,Harkness,,no_eligible_route
+20779,Doreen,21140,Harkness,,no_eligible_route
+20783,Doveton,21140,Harkness,209.62,ok
+20788,Dromana,21140,Harkness,,no_eligible_route
+20825,Eaglemont,21140,Harkness,182.33,ok
+20830,East Melbourne,21140,Harkness,140.0,ok
+20833,East Warburton,21140,Harkness,,no_eligible_route
+20843,Eden Park,21140,Harkness,,no_eligible_route
+20848,Edithvale,21140,Harkness,192.08,ok
+20864,Elsternwick,21140,Harkness,164.32,ok
+20865,Eltham (Vic.),21140,Harkness,205.45,ok
+20866,Eltham North,21140,Harkness,219.83,ok
+20867,Elwood,21140,Harkness,169.97,ok
+20868,Emerald (Vic.),21140,Harkness,,no_eligible_route
+20871,Endeavour Hills,21140,Harkness,,no_eligible_route
+20878,Epping (Vic.),21140,Harkness,215.35,ok
+20885,Essendon,21140,Harkness,152.27,ok
+20886,Essendon Fields,21140,Harkness,179.53,ok
+20887,Essendon North,21140,Harkness,158.88,ok
+20888,Essendon West,21140,Harkness,140.85,ok
+20889,Eumemmerring,21140,Harkness,,no_eligible_route
+20898,Exford,21140,Harkness,219.6,walk_only
+20899,Eynesbury,21140,Harkness,83.47,ok
+20901,Fairfield (Vic.),21140,Harkness,170.15,ok
+20909,Fawkner,21140,Harkness,181.93,ok
+20916,Fernshaw,21140,Harkness,,no_eligible_route
+20917,Ferntree Gully,21140,Harkness,230.32,ok
+20918,Ferny Creek,21140,Harkness,,no_eligible_route
+20920,Fingal (Vic.),21140,Harkness,,no_eligible_route
+20924,Fitzroy (Vic.),21140,Harkness,147.45,ok
+20925,Fitzroy North,21140,Harkness,156.6,ok
+20929,Flemington,21140,Harkness,154.75,ok
+20930,Flinders (Vic.),21140,Harkness,,no_eligible_route
+20935,Footscray,21140,Harkness,123.83,ok
+20937,Forest Hill (Vic.),21140,Harkness,209.98,ok
+20947,Frankston,21140,Harkness,222.98,ok
+20948,Frankston North,21140,Harkness,231.9,ok
+20949,Frankston South,21140,Harkness,,no_eligible_route
+20950,Fraser Rise,21140,Harkness,136.07,ok
+20965,Gardenvale,21140,Harkness,177.07,ok
+20966,Garfield,21140,Harkness,,no_eligible_route
+20967,Garfield North,21140,Harkness,,no_eligible_route
+20979,Gembrook,21140,Harkness,,no_eligible_route
+20995,Gilderoy,21140,Harkness,,no_eligible_route
+21001,Gisborne,21140,Harkness,,no_eligible_route
+21002,Gisborne South,21140,Harkness,,no_eligible_route
+21004,Gladstone Park,21140,Harkness,215.03,ok
+21005,Gladysdale,21140,Harkness,,no_eligible_route
+21009,Glen Huntly,21140,Harkness,160.2,ok
+21010,Glen Iris (Vic.),21140,Harkness,188.33,ok
+21013,Glen Waverley,21140,Harkness,195.25,ok
+21047,Glenroy (Vic.),21140,Harkness,180.08,ok
+21059,Goldie,21140,Harkness,,no_eligible_route
+21079,Gowanbrae,21140,Harkness,190.13,ok
+21087,Grangefields,21140,Harkness,119.52,ok
+21104,Greensborough,21140,Harkness,190.87,ok
+21105,Greenvale (Vic.),21140,Harkness,,no_eligible_route
+21115,Gruyere,21140,Harkness,,no_eligible_route
+21121,Guys Hill,21140,Harkness,,no_eligible_route
+21124,Hadfield,21140,Harkness,183.97,ok
+21125,Hallam,21140,Harkness,195.25,ok
+21131,Hampton (Vic.),21140,Harkness,187.47,ok
+21132,Hampton East,21140,Harkness,174.43,ok
+21133,Hampton Park,21140,Harkness,212.82,ok
+21139,Harkaway,21140,Harkness,,no_eligible_route
+21140,Harkness,21140,Harkness,0.0,same_centroid
+21145,Hastings (Vic.),21140,Harkness,,no_eligible_route
+21152,Hawthorn (Vic.),21140,Harkness,165.1,ok
+21153,Hawthorn East,21140,Harkness,165.12,ok
+21158,Healesville,21140,Harkness,,no_eligible_route
+21159,Heath Hill,21140,Harkness,,no_eligible_route
+21161,Heathcote Junction,21140,Harkness,,no_eligible_route
+21163,Heatherton,21140,Harkness,192.87,ok
+21165,Heathmont,21140,Harkness,201.75,ok
+21167,Heidelberg,21140,Harkness,185.13,ok
+21168,Heidelberg Heights,21140,Harkness,189.63,ok
+21169,Heidelberg West,21140,Harkness,194.1,ok
+21176,Hesket,21140,Harkness,,no_eligible_route
+21185,Highett,21140,Harkness,167.2,ok
+21193,Hillside (Melton - Vic.),21140,Harkness,111.2,ok
+21195,Hmas Cerberus,21140,Harkness,,no_eligible_route
+21196,Hoddles Creek,21140,Harkness,,no_eligible_route
+21202,Hopetoun Park,21140,Harkness,124.33,walk_only
+21203,Hoppers Crossing,21140,Harkness,155.33,ok
+21214,Hughesdale,21140,Harkness,157.28,ok
+21215,Humevale,21140,Harkness,,no_eligible_route
+21218,Huntingdale (Vic.),21140,Harkness,161.72,ok
+21223,Hurstbridge,21140,Harkness,206.87,ok
+21238,Iona,21140,Harkness,,no_eligible_route
+21246,Ivanhoe (Vic.),21140,Harkness,168.6,ok
+21247,Ivanhoe East,21140,Harkness,188.27,ok
+21248,Jacana,21140,Harkness,184.65,ok
+21277,Junction Village,21140,Harkness,,no_eligible_route
+21284,Kalkallo,21140,Harkness,,no_eligible_route
+21286,Kallista,21140,Harkness,,no_eligible_route
+21287,Kalorama,21140,Harkness,,no_eligible_route
+21294,Kangaroo Ground,21140,Harkness,,no_eligible_route
+21312,Kealba,21140,Harkness,150.2,ok
+21314,Keilor,21140,Harkness,176.85,ok
+21315,Keilor Downs,21140,Harkness,142.02,ok
+21316,Keilor East,21140,Harkness,138.15,ok
+21317,Keilor Lodge,21140,Harkness,138.95,ok
+21318,Keilor North,21140,Harkness,145.02,ok
+21319,Keilor Park,21140,Harkness,,no_eligible_route
+21327,Kensington (Vic.),21140,Harkness,140.18,ok
+21333,Kerrie,21140,Harkness,,no_eligible_route
+21336,Kew (Vic.),21140,Harkness,164.92,ok
+21337,Kew East,21140,Harkness,177.48,ok
+21339,Keysborough,21140,Harkness,,no_eligible_route
+21354,Kilsyth,21140,Harkness,,no_eligible_route
+21355,Kilsyth South,21140,Harkness,,no_eligible_route
+21358,Kinglake,21140,Harkness,,no_eligible_route
+21359,Kinglake Central,21140,Harkness,,no_eligible_route
+21360,Kinglake West,21140,Harkness,,no_eligible_route
+21362,Kings Park (Vic.),21140,Harkness,125.0,ok
+21363,Kingsbury,21140,Harkness,201.22,ok
+21365,Kingsville,21140,Harkness,123.82,ok
+21374,Knoxfield,21140,Harkness,,no_eligible_route
+21380,Koo Wee Rup,21140,Harkness,,no_eligible_route
+21381,Koo Wee Rup North,21140,Harkness,,no_eligible_route
+21393,Kooyong,21140,Harkness,169.02,ok
+21411,Kurunjang,21140,Harkness,62.03,ok
+21452,Lalor,21140,Harkness,175.68,ok
+21456,Lancefield,21140,Harkness,,no_eligible_route
+21459,Lang Lang,21140,Harkness,,no_eligible_route
+21460,Lang Lang East,21140,Harkness,,no_eligible_route
+21467,Langwarrin,21140,Harkness,,no_eligible_route
+21468,Langwarrin South,21140,Harkness,,no_eligible_route
+21473,Launching Place,21140,Harkness,,no_eligible_route
+21476,Laverton (Vic.),21140,Harkness,154.68,ok
+21477,Laverton North,21140,Harkness,193.22,ok
+21504,Lilydale (Vic.),21140,Harkness,,no_eligible_route
+21533,Long Forest,21140,Harkness,139.33,walk_only
+21547,Lower Plenty,21140,Harkness,212.72,ok
+21554,Lynbrook,21140,Harkness,192.1,ok
+21555,Lyndhurst (Vic.),21140,Harkness,,no_eligible_route
+21558,Lysterfield,21140,Harkness,,no_eligible_route
+21559,Lysterfield South,21140,Harkness,,no_eligible_route
+21561,Macclesfield (Vic.),21140,Harkness,,no_eligible_route
+21562,Macedon,21140,Harkness,,no_eligible_route
+21564,Macleod (Vic.),21140,Harkness,183.95,ok
+21569,Maddingley,21140,Harkness,238.48,walk_only
+21575,Maidstone,21140,Harkness,139.87,ok
+21578,Main Ridge,21140,Harkness,,no_eligible_route
+21586,Malvern (Vic.),21140,Harkness,158.85,ok
+21587,Malvern East,21140,Harkness,164.62,ok
+21588,Mambourin,21140,Harkness,,no_eligible_route
+21597,Manor Lakes,21140,Harkness,206.62,ok
+21604,Maribyrnong,21140,Harkness,165.73,ok
+21619,Maryknoll,21140,Harkness,,no_eligible_route
+21625,McCrae,21140,Harkness,,no_eligible_route
+21629,McKinnon,21140,Harkness,157.5,ok
+21635,Meadow Heights,21140,Harkness,197.53,ok
+21640,Melbourne,21140,Harkness,140.7,ok
+21641,Melbourne Airport,21140,Harkness,,no_eligible_route
+21642,Melton (Vic.),21140,Harkness,78.63,ok
+21643,Melton South,21140,Harkness,52.22,ok
+21644,Melton West,21140,Harkness,36.38,ok
+21648,Mentone,21140,Harkness,177.18,ok
+21649,Menzies Creek,21140,Harkness,,no_eligible_route
+21659,Mernda,21140,Harkness,222.03,ok
+21662,Merricks,21140,Harkness,,no_eligible_route
+21663,Merricks Beach,21140,Harkness,,no_eligible_route
+21664,Merricks North,21140,Harkness,,no_eligible_route
+21668,Merrimu,21140,Harkness,166.4,walk_only
+21675,Mickleham,21140,Harkness,,no_eligible_route
+21677,Middle Park (Vic.),21140,Harkness,168.25,ok
+21683,Mill Park,21140,Harkness,205.18,ok
+21685,Millgrove,21140,Harkness,,no_eligible_route
+21706,Mitcham (Vic.),21140,Harkness,200.48,ok
+21727,Monbulk,21140,Harkness,,no_eligible_route
+21728,Monegeetta,21140,Harkness,,no_eligible_route
+21731,Monomeith,21140,Harkness,,no_eligible_route
+21732,Mont Albert,21140,Harkness,186.65,ok
+21733,Mont Albert North,21140,Harkness,202.85,ok
+21735,Montmorency,21140,Harkness,191.52,ok
+21736,Montrose (Vic.),21140,Harkness,,no_eligible_route
+21742,Moonee Ponds,21140,Harkness,154.0,ok
+21746,Moorabbin,21140,Harkness,188.43,ok
+21747,Moorabbin Airport,21140,Harkness,222.72,ok
+21754,Moorooduc,21140,Harkness,,no_eligible_route
+21755,Mooroolbark,21140,Harkness,,no_eligible_route
+21760,Mordialloc,21140,Harkness,191.48,ok
+21763,Mornington (Vic.),21140,Harkness,,no_eligible_route
+21779,Mount Burnett,21140,Harkness,,no_eligible_route
+21786,Mount Cottrell,21140,Harkness,,no_eligible_route
+21787,Mount Dandenong,21140,Harkness,,no_eligible_route
+21793,Mount Eliza,21140,Harkness,,no_eligible_route
+21795,Mount Evelyn,21140,Harkness,,no_eligible_route
+21801,Mount Macedon,21140,Harkness,,no_eligible_route
+21803,Mount Martha,21140,Harkness,,no_eligible_route
+21814,Mount Toolebewong,21140,Harkness,,no_eligible_route
+21816,Mount Waverley,21140,Harkness,186.68,ok
+21827,Mulgrave (Vic.),21140,Harkness,,no_eligible_route
+21849,Murrumbeena,21140,Harkness,157.4,ok
+21872,Nangana,21140,Harkness,,no_eligible_route
+21878,Nar Nar Goon,21140,Harkness,,no_eligible_route
+21879,Nar Nar Goon North,21140,Harkness,,no_eligible_route
+21893,Narre Warren,21140,Harkness,194.68,ok
+21894,Narre Warren East,21140,Harkness,,no_eligible_route
+21895,Narre Warren North,21140,Harkness,,no_eligible_route
+21896,Narre Warren South,21140,Harkness,,no_eligible_route
+21921,New Gisborne,21140,Harkness,,no_eligible_route
+21934,Newport (Vic.),21140,Harkness,138.93,ok
+21942,Niddrie,21140,Harkness,172.48,ok
+21952,Noble Park,21140,Harkness,168.5,ok
+21953,Noble Park North,21140,Harkness,201.68,ok
+21966,North Melbourne,21140,Harkness,127.63,ok
+21969,North Warrandyte,21140,Harkness,,no_eligible_route
+21971,Northcote,21140,Harkness,158.88,ok
+21974,Notting Hill,21140,Harkness,,no_eligible_route
+21985,Nunawading,21140,Harkness,192.97,ok
+21991,Nutfield,21140,Harkness,,no_eligible_route
+21998,Oak Park,21140,Harkness,172.32,ok
+21999,Oaklands Junction,21140,Harkness,,no_eligible_route
+22000,Oakleigh,21140,Harkness,159.95,ok
+22001,Oakleigh East,21140,Harkness,177.08,ok
+22002,Oakleigh South,21140,Harkness,173.5,ok
+22006,Officer,21140,Harkness,208.78,ok
+22007,Officer South,21140,Harkness,,no_eligible_route
+22009,Olinda (Vic.),21140,Harkness,,no_eligible_route
+22016,Ormond,21140,Harkness,157.93,ok
+22027,Pakenham,21140,Harkness,207.83,ok
+22028,Pakenham South,21140,Harkness,,no_eligible_route
+22029,Pakenham Upper,21140,Harkness,,no_eligible_route
+22032,Panton Hill,21140,Harkness,,no_eligible_route
+22036,Park Orchards,21140,Harkness,,no_eligible_route
+22037,Parkdale,21140,Harkness,182.27,ok
+22038,Parkville (Vic.),21140,Harkness,148.48,ok
+22041,Pascoe Vale,21140,Harkness,176.68,ok
+22042,Pascoe Vale South,21140,Harkness,163.55,ok
+22047,Patterson Lakes,21140,Harkness,212.03,ok
+22050,Pearcedale,21140,Harkness,,no_eligible_route
+22058,Pentland Hills,21140,Harkness,,no_eligible_route
+22064,Pheasant Creek (Vic.),21140,Harkness,,no_eligible_route
+22084,Plenty (Vic.),21140,Harkness,,no_eligible_route
+22085,Plumpton (Vic.),21140,Harkness,220.88,walk_only
+22086,Point Cook,21140,Harkness,,no_eligible_route
+22087,Point Leo,21140,Harkness,,no_eligible_route
+22107,Port Melbourne,21140,Harkness,200.42,ok
+22113,Portsea,21140,Harkness,,no_eligible_route
+22115,Powelltown,21140,Harkness,,no_eligible_route
+22118,Prahran,21140,Harkness,154.43,ok
+22121,Preston (Vic.),21140,Harkness,170.28,ok
+22122,Princes Hill,21140,Harkness,142.37,ok
+22132,Quandong,21140,Harkness,,no_eligible_route
+22141,Ravenhall,21140,Harkness,110.72,ok
+22148,Red Hill (Vic.),21140,Harkness,,no_eligible_route
+22149,Red Hill South,21140,Harkness,,no_eligible_route
+22160,Research,21140,Harkness,,no_eligible_route
+22161,Reservoir (Vic.),21140,Harkness,172.5,ok
+22170,Richmond (Vic.),21140,Harkness,154.55,ok
+22172,Riddells Creek,21140,Harkness,,no_eligible_route
+22174,Ringwood (Vic.),21140,Harkness,207.1,ok
+22175,Ringwood East,21140,Harkness,227.07,ok
+22176,Ringwood North,21140,Harkness,236.55,ok
+22179,Ripponlea,21140,Harkness,161.65,ok
+22185,Rochford,21140,Harkness,,no_eligible_route
+22186,Rockbank,21140,Harkness,79.7,ok
+22193,Romsey,21140,Harkness,,no_eligible_route
+22194,Rosanna,21140,Harkness,178.42,ok
+22198,Rosebud,21140,Harkness,,no_eligible_route
+22207,Rowville,21140,Harkness,,no_eligible_route
+22208,Roxburgh Park,21140,Harkness,202.17,ok
+22220,Rye,21140,Harkness,,no_eligible_route
+22221,Rythdale,21140,Harkness,,no_eligible_route
+22222,Safety Beach (Vic.),21140,Harkness,,no_eligible_route
+22232,Sandhurst,21140,Harkness,,no_eligible_route
+22234,Sandringham (Vic.),21140,Harkness,192.35,ok
+22239,Sassafras (Vic.),21140,Harkness,,no_eligible_route
+22242,Scoresby,21140,Harkness,,no_eligible_route
+22247,Seabrook,21140,Harkness,171.08,ok
+22249,Seaford (Vic.),21140,Harkness,206.8,ok
+22250,Seaholme,21140,Harkness,150.78,ok
+22256,Seddon (Vic.),21140,Harkness,118.52,ok
+22258,Selby,21140,Harkness,257.17,ok
+22263,Seville,21140,Harkness,,no_eligible_route
+22264,Seville East,21140,Harkness,,no_eligible_route
+22278,Sherbrooke,21140,Harkness,,no_eligible_route
+22279,Shoreham,21140,Harkness,,no_eligible_route
+22281,Silvan,21140,Harkness,,no_eligible_route
+22291,Skye (Vic.),21140,Harkness,,no_eligible_route
+22295,Smiths Gully,21140,Harkness,,no_eligible_route
+22303,Somers,21140,Harkness,,no_eligible_route
+22304,Somerton (Vic.),21140,Harkness,216.13,ok
+22305,Somerville (Vic.),21140,Harkness,,no_eligible_route
+22306,Sorrento (Vic.),21140,Harkness,,no_eligible_route
+22309,South Kingsville,21140,Harkness,151.18,ok
+22310,South Melbourne,21140,Harkness,153.18,ok
+22311,South Morang,21140,Harkness,207.67,ok
+22313,South Wharf,21140,Harkness,147.3,ok
+22314,South Yarra,21140,Harkness,139.57,ok
+22315,Southbank,21140,Harkness,145.58,ok
+22319,Spotswood,21140,Harkness,132.33,ok
+22325,Springfield (Macedon Ranges - Vic.),21140,Harkness,,no_eligible_route
+22328,Springvale (Vic.),21140,Harkness,169.47,ok
+22329,Springvale South,21140,Harkness,190.73,ok
+22330,St Albans (Vic.),21140,Harkness,120.62,ok
+22332,St Andrews (Vic.),21140,Harkness,,no_eligible_route
+22333,St Andrews Beach,21140,Harkness,,no_eligible_route
+22339,St Helena,21140,Harkness,,no_eligible_route
+22343,St Kilda (Vic.),21140,Harkness,159.25,ok
+22344,St Kilda East,21140,Harkness,173.7,ok
+22345,St Kilda West,21140,Harkness,169.68,ok
+22355,Steels Creek,21140,Harkness,,no_eligible_route
+22375,Strathewen,21140,Harkness,,no_eligible_route
+22380,Strathmore (Vic.),21140,Harkness,171.12,ok
+22381,Strathmore Heights,21140,Harkness,183.08,ok
+22382,Strathtulloh,21140,Harkness,92.6,ok
+22391,Sunbury,21140,Harkness,189.78,ok
+22395,Sunshine (Vic.),21140,Harkness,101.53,ok
+22396,Sunshine North,21140,Harkness,123.68,ok
+22397,Sunshine West,21140,Harkness,126.75,ok
+22399,Surrey Hills,21140,Harkness,187.07,ok
+22414,Sydenham (Vic.),21140,Harkness,113.27,ok
+22451,Tarneit,21140,Harkness,147.47,ok
+22457,Tarrawarra,21140,Harkness,,no_eligible_route
+22473,Taylors Hill,21140,Harkness,109.8,ok
+22474,Taylors Lakes,21140,Harkness,124.3,ok
+22476,Tecoma,21140,Harkness,221.57,ok
+22483,Templestowe,21140,Harkness,178.85,ok
+22484,Templestowe Lower,21140,Harkness,175.82,ok
+22496,The Basin (Vic.),21140,Harkness,,no_eligible_route
+22501,The Patch,21140,Harkness,,no_eligible_route
+22504,Thomastown,21140,Harkness,180.98,ok
+22508,Thornbury,21140,Harkness,164.77,ok
+22509,Thornhill Park,21140,Harkness,111.68,ok
+22514,Three Bridges,21140,Harkness,,no_eligible_route
+22531,Tonimbuk,21140,Harkness,,no_eligible_route
+22536,Toolangi,21140,Harkness,,no_eligible_route
+22537,Toolern Vale,21140,Harkness,108.75,walk_only
+22546,Tooradin,21140,Harkness,,no_eligible_route
+22547,Toorak,21140,Harkness,162.13,ok
+22550,Tootgarook,21140,Harkness,,no_eligible_route
+22556,Tottenham (Vic.),21140,Harkness,140.23,ok
+22572,Travancore,21140,Harkness,156.15,ok
+22576,Tremont,21140,Harkness,239.17,ok
+22582,Truganina,21140,Harkness,150.37,ok
+22584,Tuerong,21140,Harkness,,no_eligible_route
+22586,Tullamarine,21140,Harkness,197.22,ok
+22594,Tyabb,21140,Harkness,,no_eligible_route
+22598,Tynong,21140,Harkness,,no_eligible_route
+22599,Tynong North,21140,Harkness,,no_eligible_route
+22614,Upper Ferntree Gully,21140,Harkness,218.72,ok
+22617,Upper Plenty,21140,Harkness,,no_eligible_route
+22620,Upwey,21140,Harkness,221.43,ok
+22627,Vermont,21140,Harkness,225.32,ok
+22628,Vermont South,21140,Harkness,198.1,ok
+22629,Vervale,21140,Harkness,,no_eligible_route
+22633,Viewbank,21140,Harkness,211.58,ok
+22661,Wallan,21140,Harkness,,no_eligible_route
+22672,Wandin East,21140,Harkness,,no_eligible_route
+22673,Wandin North,21140,Harkness,,no_eligible_route
+22676,Wandong,21140,Harkness,,no_eligible_route
+22685,Wantirna,21140,Harkness,,no_eligible_route
+22686,Wantirna South,21140,Harkness,,no_eligible_route
+22689,Warburton (Vic.),21140,Harkness,,no_eligible_route
+22695,Warneet,21140,Harkness,,no_eligible_route
+22702,Warrandyte,21140,Harkness,,no_eligible_route
+22703,Warrandyte South,21140,Harkness,,no_eligible_route
+22704,Warranwood,21140,Harkness,,no_eligible_route
+22717,Waterford Park,21140,Harkness,,no_eligible_route
+22720,Waterways,21140,Harkness,,no_eligible_route
+22721,Watsonia,21140,Harkness,178.87,ok
+22722,Watsonia North,21140,Harkness,202.4,ok
+22723,Watsons Creek (Vic.),21140,Harkness,,no_eligible_route
+22727,Wattle Glen,21140,Harkness,210.62,ok
+22740,Weir Views,21140,Harkness,73.03,ok
+22750,Werribee,21140,Harkness,174.08,ok
+22751,Werribee South,21140,Harkness,,no_eligible_route
+22753,Wesburn,21140,Harkness,,no_eligible_route
+22756,West Footscray,21140,Harkness,116.97,ok
+22757,West Melbourne,21140,Harkness,146.95,ok
+22761,Westmeadows,21140,Harkness,228.88,ok
+22766,Wheelers Hill,21140,Harkness,,no_eligible_route
+22775,Whittlesea,21140,Harkness,,no_eligible_route
+22784,Wildwood,21140,Harkness,,no_eligible_route
+22791,Williams Landing,21140,Harkness,158.7,ok
+22792,Williamstown (Vic.),21140,Harkness,141.15,ok
+22793,Williamstown North,21140,Harkness,160.68,ok
+22805,Windsor (Vic.),21140,Harkness,162.9,ok
+22820,Wollert,21140,Harkness,,no_eligible_route
+22825,Wonga Park,21140,Harkness,,no_eligible_route
+22843,Woodstock (Vic.),21140,Harkness,,no_eligible_route
+22857,Woori Yallock,21140,Harkness,,no_eligible_route
+22883,Wyndham Vale,21140,Harkness,191.53,ok
+22892,Yallambie,21140,Harkness,208.13,ok
+22898,Yan Yean,21140,Harkness,,no_eligible_route
+22906,Yannathan,21140,Harkness,,no_eligible_route
+22910,Yarra Glen,21140,Harkness,,no_eligible_route
+22911,Yarra Junction,21140,Harkness,,no_eligible_route
+22916,Yarrambat,21140,Harkness,,no_eligible_route
+22917,Yarraville,21140,Harkness,135.87,ok
+22925,Yellingbo,21140,Harkness,,no_eligible_route
+22930,Yering,21140,Harkness,,no_eligible_route
+22941,Yuroke,21140,Harkness,,no_eligible_route

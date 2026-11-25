@@ -1,0 +1,573 @@
+origin_suburb_id,origin_suburb_name,destination_suburb_id,destination_suburb_name,pt_travel_time,status
+20002,Abbotsford (Vic.),21009,Glen Huntly,50.93,ok
+20003,Aberfeldie,21009,Glen Huntly,72.23,ok
+20011,Aintree,21009,Glen Huntly,108.97,ok
+20015,Airport West,21009,Glen Huntly,92.33,ok
+20017,Albanvale,21009,Glen Huntly,88.43,ok
+20018,Albert Park (Vic.),21009,Glen Huntly,48.78,ok
+20021,Albion (Vic.),21009,Glen Huntly,68.83,ok
+20034,Alphington,21009,Glen Huntly,58.85,ok
+20035,Altona (Vic.),21009,Glen Huntly,79.93,ok
+20036,Altona Meadows,21009,Glen Huntly,87.08,ok
+20037,Altona North,21009,Glen Huntly,90.33,ok
+20062,Ardeer,21009,Glen Huntly,77.98,ok
+20066,Armadale (Vic.),21009,Glen Huntly,22.07,ok
+20071,Arthurs Creek,21009,Glen Huntly,,no_eligible_route
+20072,Arthurs Seat,21009,Glen Huntly,146.52,ok
+20075,Ascot Vale,21009,Glen Huntly,67.07,ok
+20077,Ashburton,21009,Glen Huntly,55.68,ok
+20078,Ashwood,21009,Glen Huntly,52.58,ok
+20079,Aspendale,21009,Glen Huntly,49.25,ok
+20080,Aspendale Gardens,21009,Glen Huntly,61.58,ok
+20082,Attwood,21009,Glen Huntly,99.05,ok
+20089,Avondale Heights,21009,Glen Huntly,81.37,ok
+20091,Avonsleigh,21009,Glen Huntly,143.27,ok
+20095,Bacchus Marsh,21009,Glen Huntly,,no_eligible_route
+20097,Badger Creek,21009,Glen Huntly,149.53,ok
+20105,Balaclava (Vic.),21009,Glen Huntly,33.22,ok
+20120,Balnarring,21009,Glen Huntly,158.87,ok
+20121,Balnarring Beach,21009,Glen Huntly,155.4,ok
+20123,Balwyn,21009,Glen Huntly,58.82,ok
+20124,Balwyn North,21009,Glen Huntly,62.78,ok
+20131,Bangholme,21009,Glen Huntly,98.85,ok
+20169,Baxter,21009,Glen Huntly,89.32,ok
+20171,Bayles,21009,Glen Huntly,,no_eligible_route
+20173,Bayswater (Vic.),21009,Glen Huntly,80.33,ok
+20174,Bayswater North,21009,Glen Huntly,96.3,ok
+20175,Beaconsfield (Vic.),21009,Glen Huntly,92.53,ok
+20176,Beaconsfield Upper,21009,Glen Huntly,,no_eligible_route
+20182,Beaumaris (Vic.),21009,Glen Huntly,45.37,ok
+20187,Beenak,21009,Glen Huntly,,no_eligible_route
+20188,Belgrave,21009,Glen Huntly,93.42,ok
+20189,Belgrave Heights,21009,Glen Huntly,121.08,ok
+20190,Belgrave South,21009,Glen Huntly,120.07,ok
+20198,Bellfield (Banyule - Vic.),21009,Glen Huntly,74.6,ok
+20207,Bend Of Islands,21009,Glen Huntly,,no_eligible_route
+20212,Benloch,21009,Glen Huntly,,no_eligible_route
+20214,Bentleigh,21009,Glen Huntly,26.03,ok
+20215,Bentleigh East,21009,Glen Huntly,36.98,ok
+20224,Berwick,21009,Glen Huntly,67.58,ok
+20233,Beveridge,21009,Glen Huntly,127.6,ok
+20237,Big Pats Creek,21009,Glen Huntly,,no_eligible_route
+20248,Bittern,21009,Glen Huntly,109.58,ok
+20251,Black Rock (Vic.),21009,Glen Huntly,46.45,ok
+20252,Blackburn,21009,Glen Huntly,54.67,ok
+20253,Blackburn North,21009,Glen Huntly,69.93,ok
+20254,Blackburn South,21009,Glen Huntly,71.0,ok
+20257,Blairgowrie,21009,Glen Huntly,146.55,ok
+20260,Blind Bight,21009,Glen Huntly,,no_eligible_route
+20272,Bolinda,21009,Glen Huntly,,no_eligible_route
+20278,Bonbeach,21009,Glen Huntly,54.25,ok
+20280,Boneo,21009,Glen Huntly,,no_eligible_route
+20282,Bonnie Brook,21009,Glen Huntly,141.52,ok
+20304,Boronia,21009,Glen Huntly,82.8,ok
+20307,Botanic Ridge,21009,Glen Huntly,105.45,ok
+20314,Box Hill (Vic.),21009,Glen Huntly,54.12,ok
+20315,Box Hill North,21009,Glen Huntly,63.53,ok
+20316,Box Hill South,21009,Glen Huntly,57.82,ok
+20320,Braeside,21009,Glen Huntly,73.27,ok
+20324,Braybrook,21009,Glen Huntly,70.62,ok
+20331,Briar Hill,21009,Glen Huntly,97.57,ok
+20337,Brighton (Vic.),21009,Glen Huntly,41.1,ok
+20338,Brighton East,21009,Glen Huntly,29.82,ok
+20346,Broadmeadows (Vic.),21009,Glen Huntly,90.68,ok
+20351,Brookfield (Vic.),21009,Glen Huntly,166.02,ok
+20352,Brooklyn (Vic.),21009,Glen Huntly,77.25,ok
+20361,Brunswick (Vic.),21009,Glen Huntly,60.78,ok
+20362,Brunswick East,21009,Glen Huntly,67.45,ok
+20363,Brunswick West,21009,Glen Huntly,68.97,ok
+20381,Bulla (Vic.),21009,Glen Huntly,145.2,ok
+20386,Bulleen,21009,Glen Huntly,74.73,ok
+20387,Bullengarook,21009,Glen Huntly,,no_eligible_route
+20399,Bundoora (Vic.),21009,Glen Huntly,93.58,ok
+20411,Bunyip,21009,Glen Huntly,,no_eligible_route
+20412,Bunyip North,21009,Glen Huntly,,no_eligible_route
+20418,Burnley,21009,Glen Huntly,48.8,ok
+20419,Burnside (Vic.),21009,Glen Huntly,86.87,ok
+20420,Burnside Heights,21009,Glen Huntly,94.68,ok
+20426,Burwood (Vic.),21009,Glen Huntly,54.88,ok
+20427,Burwood East,21009,Glen Huntly,66.42,ok
+20435,Bylands,21009,Glen Huntly,,no_eligible_route
+20441,Cairnlea,21009,Glen Huntly,77.05,ok
+20442,Calder Park,21009,Glen Huntly,103.62,ok
+20443,Caldermeade,21009,Glen Huntly,,no_eligible_route
+20453,Camberwell (Vic.),21009,Glen Huntly,54.62,ok
+20455,Campbellfield,21009,Glen Huntly,94.33,ok
+20466,Cannons Creek,21009,Glen Huntly,,no_eligible_route
+20468,Canterbury (Vic.),21009,Glen Huntly,54.1,ok
+20474,Cape Schanck,21009,Glen Huntly,,no_eligible_route
+20476,Capel Sound,21009,Glen Huntly,130.9,ok
+20487,Cardinia,21009,Glen Huntly,,no_eligible_route
+20495,Carlton (Vic.),21009,Glen Huntly,51.05,ok
+20496,Carlton North,21009,Glen Huntly,67.18,ok
+20498,Carnegie,21009,Glen Huntly,13.32,ok
+20500,Caroline Springs,21009,Glen Huntly,94.75,ok
+20507,Carrum,21009,Glen Huntly,54.07,ok
+20508,Carrum Downs,21009,Glen Huntly,73.17,ok
+20512,Castella,21009,Glen Huntly,,no_eligible_route
+20517,Catani,21009,Glen Huntly,,no_eligible_route
+20521,Caulfield,21009,Glen Huntly,17.38,ok
+20522,Caulfield East,21009,Glen Huntly,22.52,ok
+20523,Caulfield North,21009,Glen Huntly,27.43,ok
+20524,Caulfield South,21009,Glen Huntly,20.95,ok
+20528,Chadstone,21009,Glen Huntly,32.57,ok
+20537,Chelsea,21009,Glen Huntly,51.32,ok
+20538,Chelsea Heights,21009,Glen Huntly,64.0,ok
+20539,Cheltenham (Vic.),21009,Glen Huntly,40.78,ok
+20541,Cherokee,21009,Glen Huntly,,no_eligible_route
+20555,Chintin,21009,Glen Huntly,,no_eligible_route
+20556,Chirnside Park,21009,Glen Huntly,104.7,ok
+20559,Christmas Hills (Vic.),21009,Glen Huntly,,no_eligible_route
+20560,Chum Creek,21009,Glen Huntly,,no_eligible_route
+20566,Clarinda,21009,Glen Huntly,49.25,ok
+20567,Clarkefield,21009,Glen Huntly,,no_eligible_route
+20569,Clayton,21009,Glen Huntly,44.27,ok
+20570,Clayton South,21009,Glen Huntly,58.38,ok
+20572,Clematis,21009,Glen Huntly,120.68,ok
+20574,Clifton Hill,21009,Glen Huntly,50.85,ok
+20576,Clonbinane,21009,Glen Huntly,,no_eligible_route
+20581,Clyde (Vic.),21009,Glen Huntly,,no_eligible_route
+20582,Clyde North,21009,Glen Huntly,95.05,ok
+20587,Cobaw,21009,Glen Huntly,,no_eligible_route
+20590,Cobblebank,21009,Glen Huntly,150.67,ok
+20596,Coburg,21009,Glen Huntly,70.08,ok
+20597,Coburg North,21009,Glen Huntly,80.88,ok
+20600,Cockatoo (Vic.),21009,Glen Huntly,146.95,ok
+20601,Cocoroc,21009,Glen Huntly,,no_eligible_route
+20605,Coimadai,21009,Glen Huntly,,no_eligible_route
+20613,Coldstream (Vic.),21009,Glen Huntly,,no_eligible_route
+20616,Collingwood (Vic.),21009,Glen Huntly,49.17,ok
+20624,Coolaroo,21009,Glen Huntly,88.75,ok
+20633,Cora Lynn,21009,Glen Huntly,,no_eligible_route
+20654,Cottles Bridge,21009,Glen Huntly,,no_eligible_route
+20661,Craigieburn,21009,Glen Huntly,101.12,ok
+20662,Cranbourne,21009,Glen Huntly,73.45,ok
+20663,Cranbourne East,21009,Glen Huntly,86.33,ok
+20664,Cranbourne North,21009,Glen Huntly,75.78,ok
+20665,Cranbourne South,21009,Glen Huntly,108.8,ok
+20666,Cranbourne West,21009,Glen Huntly,78.15,ok
+20670,Cremorne (Vic.),21009,Glen Huntly,37.67,ok
+20674,Crib Point,21009,Glen Huntly,118.55,ok
+20682,Croydon (Vic.),21009,Glen Huntly,71.43,ok
+20683,Croydon Hills,21009,Glen Huntly,96.75,ok
+20684,Croydon North,21009,Glen Huntly,89.18,ok
+20685,Croydon South,21009,Glen Huntly,96.35,ok
+20702,Dallas,21009,Glen Huntly,92.98,ok
+20703,Dalmore,21009,Glen Huntly,,no_eligible_route
+20707,Dandenong,21009,Glen Huntly,55.18,ok
+20708,Dandenong North,21009,Glen Huntly,76.82,ok
+20709,Dandenong South,21009,Glen Huntly,71.55,ok
+20712,Darley,21009,Glen Huntly,,no_eligible_route
+20716,Darraweit Guim,21009,Glen Huntly,,no_eligible_route
+20724,Deanside,21009,Glen Huntly,118.12,ok
+20728,Deepdene (Vic.),21009,Glen Huntly,51.38,ok
+20729,Deer Park,21009,Glen Huntly,75.82,ok
+20731,Delahey,21009,Glen Huntly,90.48,ok
+20743,Derrimut,21009,Glen Huntly,104.38,ok
+20748,Devon Meadows,21009,Glen Huntly,,no_eligible_route
+20750,Dewhurst,21009,Glen Huntly,,no_eligible_route
+20752,Diamond Creek,21009,Glen Huntly,101.17,ok
+20754,Diggers Rest,21009,Glen Huntly,97.93,ok
+20758,Dingley Village,21009,Glen Huntly,54.68,ok
+20762,Dixons Creek,21009,Glen Huntly,,no_eligible_route
+20766,Docklands,21009,Glen Huntly,50.87,ok
+20769,Don Valley,21009,Glen Huntly,,no_eligible_route
+20771,Doncaster,21009,Glen Huntly,68.33,ok
+20772,Doncaster East,21009,Glen Huntly,78.3,ok
+20773,Donnybrook (Vic.),21009,Glen Huntly,125.13,ok
+20774,Donvale,21009,Glen Huntly,87.03,ok
+20779,Doreen,21009,Glen Huntly,120.65,ok
+20783,Doveton,21009,Glen Huntly,68.17,ok
+20788,Dromana,21009,Glen Huntly,144.52,ok
+20825,Eaglemont,21009,Glen Huntly,76.22,ok
+20830,East Melbourne,21009,Glen Huntly,44.45,ok
+20833,East Warburton,21009,Glen Huntly,,no_eligible_route
+20843,Eden Park,21009,Glen Huntly,,no_eligible_route
+20848,Edithvale,21009,Glen Huntly,51.45,ok
+20864,Elsternwick,21009,Glen Huntly,17.77,ok
+20865,Eltham (Vic.),21009,Glen Huntly,100.3,ok
+20866,Eltham North,21009,Glen Huntly,96.28,ok
+20867,Elwood,21009,Glen Huntly,33.03,ok
+20868,Emerald (Vic.),21009,Glen Huntly,133.62,ok
+20871,Endeavour Hills,21009,Glen Huntly,75.5,ok
+20878,Epping (Vic.),21009,Glen Huntly,110.07,ok
+20885,Essendon,21009,Glen Huntly,72.98,ok
+20886,Essendon Fields,21009,Glen Huntly,95.38,ok
+20887,Essendon North,21009,Glen Huntly,76.38,ok
+20888,Essendon West,21009,Glen Huntly,72.85,ok
+20889,Eumemmerring,21009,Glen Huntly,71.18,ok
+20898,Exford,21009,Glen Huntly,,no_eligible_route
+20899,Eynesbury,21009,Glen Huntly,,no_eligible_route
+20901,Fairfield (Vic.),21009,Glen Huntly,61.28,ok
+20909,Fawkner,21009,Glen Huntly,86.78,ok
+20916,Fernshaw,21009,Glen Huntly,,no_eligible_route
+20917,Ferntree Gully,21009,Glen Huntly,74.17,ok
+20918,Ferny Creek,21009,Glen Huntly,132.7,ok
+20920,Fingal (Vic.),21009,Glen Huntly,,no_eligible_route
+20924,Fitzroy (Vic.),21009,Glen Huntly,51.47,ok
+20925,Fitzroy North,21009,Glen Huntly,59.07,ok
+20929,Flemington,21009,Glen Huntly,67.6,ok
+20930,Flinders (Vic.),21009,Glen Huntly,,no_eligible_route
+20935,Footscray,21009,Glen Huntly,56.25,ok
+20937,Forest Hill (Vic.),21009,Glen Huntly,68.98,ok
+20947,Frankston,21009,Glen Huntly,68.03,ok
+20948,Frankston North,21009,Glen Huntly,79.88,ok
+20949,Frankston South,21009,Glen Huntly,95.3,ok
+20950,Fraser Rise,21009,Glen Huntly,114.37,ok
+20965,Gardenvale,21009,Glen Huntly,27.77,ok
+20966,Garfield,21009,Glen Huntly,,no_eligible_route
+20967,Garfield North,21009,Glen Huntly,,no_eligible_route
+20979,Gembrook,21009,Glen Huntly,,no_eligible_route
+20995,Gilderoy,21009,Glen Huntly,,no_eligible_route
+21001,Gisborne,21009,Glen Huntly,,no_eligible_route
+21002,Gisborne South,21009,Glen Huntly,,no_eligible_route
+21004,Gladstone Park,21009,Glen Huntly,104.83,ok
+21005,Gladysdale,21009,Glen Huntly,,no_eligible_route
+21009,Glen Huntly,21009,Glen Huntly,0.0,same_centroid
+21010,Glen Iris (Vic.),21009,Glen Huntly,55.02,ok
+21013,Glen Waverley,21009,Glen Huntly,56.73,ok
+21047,Glenroy (Vic.),21009,Glen Huntly,83.07,ok
+21059,Goldie,21009,Glen Huntly,,no_eligible_route
+21079,Gowanbrae,21009,Glen Huntly,99.33,ok
+21087,Grangefields,21009,Glen Huntly,145.97,ok
+21104,Greensborough,21009,Glen Huntly,85.72,ok
+21105,Greenvale (Vic.),21009,Glen Huntly,111.22,ok
+21115,Gruyere,21009,Glen Huntly,,no_eligible_route
+21121,Guys Hill,21009,Glen Huntly,,no_eligible_route
+21124,Hadfield,21009,Glen Huntly,88.82,ok
+21125,Hallam,21009,Glen Huntly,72.7,ok
+21131,Hampton (Vic.),21009,Glen Huntly,40.12,ok
+21132,Hampton East,21009,Glen Huntly,32.8,ok
+21133,Hampton Park,21009,Glen Huntly,71.12,ok
+21139,Harkaway,21009,Glen Huntly,,no_eligible_route
+21140,Harkness,21009,Glen Huntly,167.5,ok
+21145,Hastings (Vic.),21009,Glen Huntly,108.47,ok
+21152,Hawthorn (Vic.),21009,Glen Huntly,41.58,ok
+21153,Hawthorn East,21009,Glen Huntly,43.78,ok
+21158,Healesville,21009,Glen Huntly,153.45,ok
+21159,Heath Hill,21009,Glen Huntly,,no_eligible_route
+21161,Heathcote Junction,21009,Glen Huntly,,no_eligible_route
+21163,Heatherton,21009,Glen Huntly,52.1,ok
+21165,Heathmont,21009,Glen Huntly,70.6,ok
+21167,Heidelberg,21009,Glen Huntly,79.52,ok
+21168,Heidelberg Heights,21009,Glen Huntly,77.52,ok
+21169,Heidelberg West,21009,Glen Huntly,79.7,ok
+21176,Hesket,21009,Glen Huntly,,no_eligible_route
+21185,Highett,21009,Glen Huntly,25.57,ok
+21193,Hillside (Melton - Vic.),21009,Glen Huntly,95.02,ok
+21195,Hmas Cerberus,21009,Glen Huntly,151.75,ok
+21196,Hoddles Creek,21009,Glen Huntly,,no_eligible_route
+21202,Hopetoun Park,21009,Glen Huntly,,no_eligible_route
+21203,Hoppers Crossing,21009,Glen Huntly,93.77,ok
+21214,Hughesdale,21009,Glen Huntly,29.33,ok
+21215,Humevale,21009,Glen Huntly,156.03,ok
+21218,Huntingdale (Vic.),21009,Glen Huntly,39.17,ok
+21223,Hurstbridge,21009,Glen Huntly,101.72,ok
+21238,Iona,21009,Glen Huntly,,no_eligible_route
+21246,Ivanhoe (Vic.),21009,Glen Huntly,63.45,ok
+21247,Ivanhoe East,21009,Glen Huntly,70.87,ok
+21248,Jacana,21009,Glen Huntly,90.1,ok
+21277,Junction Village,21009,Glen Huntly,118.78,ok
+21284,Kalkallo,21009,Glen Huntly,132.13,ok
+21286,Kallista,21009,Glen Huntly,129.13,ok
+21287,Kalorama,21009,Glen Huntly,100.4,ok
+21294,Kangaroo Ground,21009,Glen Huntly,133.95,ok
+21312,Kealba,21009,Glen Huntly,80.2,ok
+21314,Keilor,21009,Glen Huntly,106.98,ok
+21315,Keilor Downs,21009,Glen Huntly,93.58,ok
+21316,Keilor East,21009,Glen Huntly,83.0,ok
+21317,Keilor Lodge,21009,Glen Huntly,92.8,ok
+21318,Keilor North,21009,Glen Huntly,96.55,ok
+21319,Keilor Park,21009,Glen Huntly,96.13,ok
+21327,Kensington (Vic.),21009,Glen Huntly,57.38,ok
+21333,Kerrie,21009,Glen Huntly,,no_eligible_route
+21336,Kew (Vic.),21009,Glen Huntly,57.62,ok
+21337,Kew East,21009,Glen Huntly,70.65,ok
+21339,Keysborough,21009,Glen Huntly,63.53,ok
+21354,Kilsyth,21009,Glen Huntly,89.78,ok
+21355,Kilsyth South,21009,Glen Huntly,102.87,ok
+21358,Kinglake,21009,Glen Huntly,204.97,ok
+21359,Kinglake Central,21009,Glen Huntly,,no_eligible_route
+21360,Kinglake West,21009,Glen Huntly,159.0,ok
+21362,Kings Park (Vic.),21009,Glen Huntly,84.18,ok
+21363,Kingsbury,21009,Glen Huntly,92.8,ok
+21365,Kingsville,21009,Glen Huntly,65.32,ok
+21374,Knoxfield,21009,Glen Huntly,74.07,ok
+21380,Koo Wee Rup,21009,Glen Huntly,,no_eligible_route
+21381,Koo Wee Rup North,21009,Glen Huntly,,no_eligible_route
+21393,Kooyong,21009,Glen Huntly,39.37,ok
+21411,Kurunjang,21009,Glen Huntly,144.7,ok
+21452,Lalor,21009,Glen Huntly,82.13,ok
+21456,Lancefield,21009,Glen Huntly,,no_eligible_route
+21459,Lang Lang,21009,Glen Huntly,,no_eligible_route
+21460,Lang Lang East,21009,Glen Huntly,,no_eligible_route
+21467,Langwarrin,21009,Glen Huntly,82.0,ok
+21468,Langwarrin South,21009,Glen Huntly,,no_eligible_route
+21473,Launching Place,21009,Glen Huntly,118.08,ok
+21476,Laverton (Vic.),21009,Glen Huntly,77.53,ok
+21477,Laverton North,21009,Glen Huntly,97.23,ok
+21504,Lilydale (Vic.),21009,Glen Huntly,96.73,ok
+21533,Long Forest,21009,Glen Huntly,,no_eligible_route
+21547,Lower Plenty,21009,Glen Huntly,108.08,ok
+21554,Lynbrook,21009,Glen Huntly,64.95,ok
+21555,Lyndhurst (Vic.),21009,Glen Huntly,107.53,ok
+21558,Lysterfield,21009,Glen Huntly,131.02,ok
+21559,Lysterfield South,21009,Glen Huntly,121.67,ok
+21561,Macclesfield (Vic.),21009,Glen Huntly,,no_eligible_route
+21562,Macedon,21009,Glen Huntly,,no_eligible_route
+21564,Macleod (Vic.),21009,Glen Huntly,78.5,ok
+21569,Maddingley,21009,Glen Huntly,,no_eligible_route
+21575,Maidstone,21009,Glen Huntly,72.07,ok
+21578,Main Ridge,21009,Glen Huntly,,no_eligible_route
+21586,Malvern (Vic.),21009,Glen Huntly,32.08,ok
+21587,Malvern East,21009,Glen Huntly,31.85,ok
+21588,Mambourin,21009,Glen Huntly,,no_eligible_route
+21597,Manor Lakes,21009,Glen Huntly,131.0,ok
+21604,Maribyrnong,21009,Glen Huntly,75.87,ok
+21619,Maryknoll,21009,Glen Huntly,,no_eligible_route
+21625,McCrae,21009,Glen Huntly,118.1,ok
+21629,McKinnon,21009,Glen Huntly,14.87,ok
+21635,Meadow Heights,21009,Glen Huntly,97.38,ok
+21640,Melbourne,21009,Glen Huntly,40.55,ok
+21641,Melbourne Airport,21009,Glen Huntly,,no_eligible_route
+21642,Melton (Vic.),21009,Glen Huntly,152.88,ok
+21643,Melton South,21009,Glen Huntly,165.25,ok
+21644,Melton West,21009,Glen Huntly,140.88,ok
+21648,Mentone,21009,Glen Huntly,35.55,ok
+21649,Menzies Creek,21009,Glen Huntly,119.48,ok
+21659,Mernda,21009,Glen Huntly,113.62,ok
+21662,Merricks,21009,Glen Huntly,,no_eligible_route
+21663,Merricks Beach,21009,Glen Huntly,,no_eligible_route
+21664,Merricks North,21009,Glen Huntly,,no_eligible_route
+21668,Merrimu,21009,Glen Huntly,,no_eligible_route
+21675,Mickleham,21009,Glen Huntly,133.12,ok
+21677,Middle Park (Vic.),21009,Glen Huntly,47.13,ok
+21683,Mill Park,21009,Glen Huntly,103.22,ok
+21685,Millgrove,21009,Glen Huntly,,no_eligible_route
+21706,Mitcham (Vic.),21009,Glen Huntly,66.33,ok
+21727,Monbulk,21009,Glen Huntly,136.58,ok
+21728,Monegeetta,21009,Glen Huntly,,no_eligible_route
+21731,Monomeith,21009,Glen Huntly,,no_eligible_route
+21732,Mont Albert,21009,Glen Huntly,54.5,ok
+21733,Mont Albert North,21009,Glen Huntly,68.3,ok
+21735,Montmorency,21009,Glen Huntly,86.37,ok
+21736,Montrose (Vic.),21009,Glen Huntly,92.7,ok
+21742,Moonee Ponds,21009,Glen Huntly,59.45,ok
+21746,Moorabbin,21009,Glen Huntly,42.62,ok
+21747,Moorabbin Airport,21009,Glen Huntly,58.05,ok
+21754,Moorooduc,21009,Glen Huntly,122.68,ok
+21755,Mooroolbark,21009,Glen Huntly,82.63,ok
+21760,Mordialloc,21009,Glen Huntly,47.35,ok
+21763,Mornington (Vic.),21009,Glen Huntly,105.9,ok
+21779,Mount Burnett,21009,Glen Huntly,,no_eligible_route
+21786,Mount Cottrell,21009,Glen Huntly,,no_eligible_route
+21787,Mount Dandenong,21009,Glen Huntly,104.4,ok
+21793,Mount Eliza,21009,Glen Huntly,83.08,ok
+21795,Mount Evelyn,21009,Glen Huntly,108.57,ok
+21801,Mount Macedon,21009,Glen Huntly,,no_eligible_route
+21803,Mount Martha,21009,Glen Huntly,101.62,ok
+21814,Mount Toolebewong,21009,Glen Huntly,,no_eligible_route
+21816,Mount Waverley,21009,Glen Huntly,38.88,ok
+21827,Mulgrave (Vic.),21009,Glen Huntly,60.43,ok
+21849,Murrumbeena,21009,Glen Huntly,27.15,ok
+21872,Nangana,21009,Glen Huntly,,no_eligible_route
+21878,Nar Nar Goon,21009,Glen Huntly,,no_eligible_route
+21879,Nar Nar Goon North,21009,Glen Huntly,,no_eligible_route
+21893,Narre Warren,21009,Glen Huntly,71.67,ok
+21894,Narre Warren East,21009,Glen Huntly,,no_eligible_route
+21895,Narre Warren North,21009,Glen Huntly,83.95,ok
+21896,Narre Warren South,21009,Glen Huntly,76.5,ok
+21921,New Gisborne,21009,Glen Huntly,,no_eligible_route
+21934,Newport (Vic.),21009,Glen Huntly,62.38,ok
+21942,Niddrie,21009,Glen Huntly,88.48,ok
+21952,Noble Park,21009,Glen Huntly,45.95,ok
+21953,Noble Park North,21009,Glen Huntly,67.17,ok
+21966,North Melbourne,21009,Glen Huntly,51.05,ok
+21969,North Warrandyte,21009,Glen Huntly,113.93,ok
+21971,Northcote,21009,Glen Huntly,64.33,ok
+21974,Notting Hill,21009,Glen Huntly,48.9,ok
+21985,Nunawading,21009,Glen Huntly,58.82,ok
+21991,Nutfield,21009,Glen Huntly,,no_eligible_route
+21998,Oak Park,21009,Glen Huntly,77.77,ok
+21999,Oaklands Junction,21009,Glen Huntly,,no_eligible_route
+22000,Oakleigh,21009,Glen Huntly,34.88,ok
+22001,Oakleigh East,21009,Glen Huntly,44.73,ok
+22002,Oakleigh South,21009,Glen Huntly,43.3,ok
+22006,Officer,21009,Glen Huntly,87.23,ok
+22007,Officer South,21009,Glen Huntly,124.2,ok
+22009,Olinda (Vic.),21009,Glen Huntly,134.02,ok
+22016,Ormond,21009,Glen Huntly,18.6,walk_only
+22027,Pakenham,21009,Glen Huntly,86.28,ok
+22028,Pakenham South,21009,Glen Huntly,,no_eligible_route
+22029,Pakenham Upper,21009,Glen Huntly,,no_eligible_route
+22032,Panton Hill,21009,Glen Huntly,,no_eligible_route
+22036,Park Orchards,21009,Glen Huntly,88.3,ok
+22037,Parkdale,21009,Glen Huntly,40.63,ok
+22038,Parkville (Vic.),21009,Glen Huntly,58.67,ok
+22041,Pascoe Vale,21009,Glen Huntly,82.13,ok
+22042,Pascoe Vale South,21009,Glen Huntly,77.87,ok
+22047,Patterson Lakes,21009,Glen Huntly,57.93,ok
+22050,Pearcedale,21009,Glen Huntly,128.1,ok
+22058,Pentland Hills,21009,Glen Huntly,,no_eligible_route
+22064,Pheasant Creek (Vic.),21009,Glen Huntly,174.65,ok
+22084,Plenty (Vic.),21009,Glen Huntly,111.3,ok
+22085,Plumpton (Vic.),21009,Glen Huntly,,no_eligible_route
+22086,Point Cook,21009,Glen Huntly,93.77,ok
+22087,Point Leo,21009,Glen Huntly,,no_eligible_route
+22107,Port Melbourne,21009,Glen Huntly,58.38,ok
+22113,Portsea,21009,Glen Huntly,162.4,ok
+22115,Powelltown,21009,Glen Huntly,,no_eligible_route
+22118,Prahran,21009,Glen Huntly,34.27,ok
+22121,Preston (Vic.),21009,Glen Huntly,75.73,ok
+22122,Princes Hill,21009,Glen Huntly,60.82,ok
+22132,Quandong,21009,Glen Huntly,,no_eligible_route
+22141,Ravenhall,21009,Glen Huntly,116.57,ok
+22148,Red Hill (Vic.),21009,Glen Huntly,,no_eligible_route
+22149,Red Hill South,21009,Glen Huntly,,no_eligible_route
+22160,Research,21009,Glen Huntly,107.8,ok
+22161,Reservoir (Vic.),21009,Glen Huntly,78.95,ok
+22170,Richmond (Vic.),21009,Glen Huntly,42.18,ok
+22172,Riddells Creek,21009,Glen Huntly,,no_eligible_route
+22174,Ringwood (Vic.),21009,Glen Huntly,72.97,ok
+22175,Ringwood East,21009,Glen Huntly,71.52,ok
+22176,Ringwood North,21009,Glen Huntly,83.15,ok
+22179,Ripponlea,21009,Glen Huntly,23.05,ok
+22185,Rochford,21009,Glen Huntly,,no_eligible_route
+22186,Rockbank,21009,Glen Huntly,126.15,ok
+22193,Romsey,21009,Glen Huntly,,no_eligible_route
+22194,Rosanna,21009,Glen Huntly,73.27,ok
+22198,Rosebud,21009,Glen Huntly,134.42,ok
+22207,Rowville,21009,Glen Huntly,77.55,ok
+22208,Roxburgh Park,21009,Glen Huntly,99.38,ok
+22220,Rye,21009,Glen Huntly,154.62,ok
+22221,Rythdale,21009,Glen Huntly,,no_eligible_route
+22222,Safety Beach (Vic.),21009,Glen Huntly,118.58,ok
+22232,Sandhurst,21009,Glen Huntly,90.27,ok
+22234,Sandringham (Vic.),21009,Glen Huntly,43.58,ok
+22239,Sassafras (Vic.),21009,Glen Huntly,115.47,ok
+22242,Scoresby,21009,Glen Huntly,68.72,ok
+22247,Seabrook,21009,Glen Huntly,92.83,ok
+22249,Seaford (Vic.),21009,Glen Huntly,66.17,ok
+22250,Seaholme,21009,Glen Huntly,74.62,ok
+22256,Seddon (Vic.),21009,Glen Huntly,55.97,ok
+22258,Selby,21009,Glen Huntly,119.15,ok
+22263,Seville,21009,Glen Huntly,129.25,ok
+22264,Seville East,21009,Glen Huntly,116.13,ok
+22278,Sherbrooke,21009,Glen Huntly,119.2,ok
+22279,Shoreham,21009,Glen Huntly,,no_eligible_route
+22281,Silvan,21009,Glen Huntly,128.68,ok
+22291,Skye (Vic.),21009,Glen Huntly,76.3,ok
+22295,Smiths Gully,21009,Glen Huntly,,no_eligible_route
+22303,Somers,21009,Glen Huntly,139.47,ok
+22304,Somerton (Vic.),21009,Glen Huntly,98.75,ok
+22305,Somerville (Vic.),21009,Glen Huntly,113.57,ok
+22306,Sorrento (Vic.),21009,Glen Huntly,142.38,ok
+22309,South Kingsville,21009,Glen Huntly,77.63,ok
+22310,South Melbourne,21009,Glen Huntly,51.73,ok
+22311,South Morang,21009,Glen Huntly,106.83,ok
+22313,South Wharf,21009,Glen Huntly,53.38,ok
+22314,South Yarra,21009,Glen Huntly,25.12,ok
+22315,Southbank,21009,Glen Huntly,47.75,ok
+22319,Spotswood,21009,Glen Huntly,58.78,ok
+22325,Springfield (Macedon Ranges - Vic.),21009,Glen Huntly,,no_eligible_route
+22328,Springvale (Vic.),21009,Glen Huntly,46.92,ok
+22329,Springvale South,21009,Glen Huntly,48.65,ok
+22330,St Albans (Vic.),21009,Glen Huntly,71.47,ok
+22332,St Andrews (Vic.),21009,Glen Huntly,,no_eligible_route
+22333,St Andrews Beach,21009,Glen Huntly,,no_eligible_route
+22339,St Helena,21009,Glen Huntly,93.55,ok
+22343,St Kilda (Vic.),21009,Glen Huntly,31.97,ok
+22344,St Kilda East,21009,Glen Huntly,32.43,ok
+22345,St Kilda West,21009,Glen Huntly,43.28,ok
+22355,Steels Creek,21009,Glen Huntly,,no_eligible_route
+22375,Strathewen,21009,Glen Huntly,,no_eligible_route
+22380,Strathmore (Vic.),21009,Glen Huntly,82.23,ok
+22381,Strathmore Heights,21009,Glen Huntly,93.02,ok
+22382,Strathtulloh,21009,Glen Huntly,,no_eligible_route
+22391,Sunbury,21009,Glen Huntly,130.75,ok
+22395,Sunshine (Vic.),21009,Glen Huntly,60.25,ok
+22396,Sunshine North,21009,Glen Huntly,76.32,ok
+22397,Sunshine West,21009,Glen Huntly,84.6,ok
+22399,Surrey Hills,21009,Glen Huntly,54.9,ok
+22414,Sydenham (Vic.),21009,Glen Huntly,86.87,ok
+22451,Tarneit,21009,Glen Huntly,113.83,ok
+22457,Tarrawarra,21009,Glen Huntly,129.05,ok
+22473,Taylors Hill,21009,Glen Huntly,93.7,ok
+22474,Taylors Lakes,21009,Glen Huntly,81.28,ok
+22476,Tecoma,21009,Glen Huntly,90.42,ok
+22483,Templestowe,21009,Glen Huntly,77.7,ok
+22484,Templestowe Lower,21009,Glen Huntly,72.67,ok
+22496,The Basin (Vic.),21009,Glen Huntly,99.9,ok
+22501,The Patch,21009,Glen Huntly,127.15,ok
+22504,Thomastown,21009,Glen Huntly,87.43,ok
+22508,Thornbury,21009,Glen Huntly,70.22,ok
+22509,Thornhill Park,21009,Glen Huntly,,no_eligible_route
+22514,Three Bridges,21009,Glen Huntly,,no_eligible_route
+22531,Tonimbuk,21009,Glen Huntly,,no_eligible_route
+22536,Toolangi,21009,Glen Huntly,,no_eligible_route
+22537,Toolern Vale,21009,Glen Huntly,,no_eligible_route
+22546,Tooradin,21009,Glen Huntly,,no_eligible_route
+22547,Toorak,21009,Glen Huntly,34.7,ok
+22550,Tootgarook,21009,Glen Huntly,138.03,ok
+22556,Tottenham (Vic.),21009,Glen Huntly,84.78,ok
+22572,Travancore,21009,Glen Huntly,62.2,ok
+22576,Tremont,21009,Glen Huntly,108.02,ok
+22582,Truganina,21009,Glen Huntly,168.98,ok
+22584,Tuerong,21009,Glen Huntly,,no_eligible_route
+22586,Tullamarine,21009,Glen Huntly,105.18,ok
+22594,Tyabb,21009,Glen Huntly,105.03,ok
+22598,Tynong,21009,Glen Huntly,,no_eligible_route
+22599,Tynong North,21009,Glen Huntly,,no_eligible_route
+22614,Upper Ferntree Gully,21009,Glen Huntly,87.57,ok
+22617,Upper Plenty,21009,Glen Huntly,,no_eligible_route
+22620,Upwey,21009,Glen Huntly,90.28,ok
+22627,Vermont,21009,Glen Huntly,75.88,ok
+22628,Vermont South,21009,Glen Huntly,77.78,ok
+22629,Vervale,21009,Glen Huntly,,no_eligible_route
+22633,Viewbank,21009,Glen Huntly,83.27,ok
+22661,Wallan,21009,Glen Huntly,,no_eligible_route
+22672,Wandin East,21009,Glen Huntly,,no_eligible_route
+22673,Wandin North,21009,Glen Huntly,102.22,ok
+22676,Wandong,21009,Glen Huntly,,no_eligible_route
+22685,Wantirna,21009,Glen Huntly,88.97,ok
+22686,Wantirna South,21009,Glen Huntly,79.42,ok
+22689,Warburton (Vic.),21009,Glen Huntly,,no_eligible_route
+22695,Warneet,21009,Glen Huntly,,no_eligible_route
+22702,Warrandyte,21009,Glen Huntly,94.48,ok
+22703,Warrandyte South,21009,Glen Huntly,112.45,ok
+22704,Warranwood,21009,Glen Huntly,90.12,ok
+22717,Waterford Park,21009,Glen Huntly,,no_eligible_route
+22720,Waterways,21009,Glen Huntly,67.82,ok
+22721,Watsonia,21009,Glen Huntly,73.72,ok
+22722,Watsonia North,21009,Glen Huntly,91.17,ok
+22723,Watsons Creek (Vic.),21009,Glen Huntly,,no_eligible_route
+22727,Wattle Glen,21009,Glen Huntly,105.47,ok
+22740,Weir Views,21009,Glen Huntly,195.72,ok
+22750,Werribee,21009,Glen Huntly,90.57,ok
+22751,Werribee South,21009,Glen Huntly,127.58,ok
+22753,Wesburn,21009,Glen Huntly,134.18,ok
+22756,West Footscray,21009,Glen Huntly,63.42,ok
+22757,West Melbourne,21009,Glen Huntly,66.35,ok
+22761,Westmeadows,21009,Glen Huntly,91.8,ok
+22766,Wheelers Hill,21009,Glen Huntly,58.15,ok
+22775,Whittlesea,21009,Glen Huntly,,no_eligible_route
+22784,Wildwood,21009,Glen Huntly,,no_eligible_route
+22791,Williams Landing,21009,Glen Huntly,91.78,ok
+22792,Williamstown (Vic.),21009,Glen Huntly,68.6,ok
+22793,Williamstown North,21009,Glen Huntly,84.1,ok
+22805,Windsor (Vic.),21009,Glen Huntly,34.65,ok
+22820,Wollert,21009,Glen Huntly,119.65,ok
+22825,Wonga Park,21009,Glen Huntly,97.97,ok
+22843,Woodstock (Vic.),21009,Glen Huntly,,no_eligible_route
+22857,Woori Yallock,21009,Glen Huntly,113.33,ok
+22883,Wyndham Vale,21009,Glen Huntly,119.38,ok
+22892,Yallambie,21009,Glen Huntly,95.0,ok
+22898,Yan Yean,21009,Glen Huntly,134.38,ok
+22906,Yannathan,21009,Glen Huntly,,no_eligible_route
+22910,Yarra Glen,21009,Glen Huntly,126.35,ok
+22911,Yarra Junction,21009,Glen Huntly,138.45,ok
+22916,Yarrambat,21009,Glen Huntly,108.87,ok
+22917,Yarraville,21009,Glen Huntly,64.53,ok
+22925,Yellingbo,21009,Glen Huntly,,no_eligible_route
+22930,Yering,21009,Glen Huntly,,no_eligible_route
+22941,Yuroke,21009,Glen Huntly,152.75,ok
