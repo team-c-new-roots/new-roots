@@ -812,9 +812,15 @@ legend {
 
   /* buttons, chosen options and the rank circles fill Autumn Orange with
      Espresso text, since burgundy doesn't stand out against espresso */
+  :root[data-theme='dark'] .btn--primary {
+    border-color: #e9843e;
+    background: #e9843e;
+    color: #302622;
+  }
+
+  /* the buttons get their own rule, since the :is below outranks a :hover */
   :root[data-theme='dark']
     :is(
-      .btn--primary,
       .choice__input:checked + .choice__body,
       .results__tabs button[aria-selected='true'],
       .support__tile[aria-pressed='true'],
@@ -833,22 +839,27 @@ legend {
     color: #302622;
   }
 
+  /* hover goes lighter, which reads as lifted on espresso. the dark theme's
+     link orange, with espresso text at 8.6:1 */
   :root[data-theme='dark'] .btn--primary:hover {
-    background: #d9732e;
+    border-color: #ffb678;
+    background: #ffb678;
     color: #302622;
   }
 
-  /* secondary buttons are Warm Apricot with burgundy text, as in light mode */
+  /* secondary buttons are an outline, as in light mode, so the orange
+     primary stays the strongest thing on screen. border 4.5:1 and cream text
+     14.2:1 on espresso, filling with the raised brown on hover */
   :root[data-theme='dark'] .btn--outline {
-    border-color: #fce5d2;
-    background: #fce5d2;
-    color: #7b282b;
+    border-color: #a0897c;
+    background: transparent;
+    color: #fffaf5;
   }
 
   :root[data-theme='dark'] .btn--outline:hover {
-    border-color: #f8d5b8;
-    background: #f8d5b8;
-    color: #7b282b;
+    border-color: #fffaf5;
+    background: #483831;
+    color: #fffaf5;
   }
 
   /* high contrast: underlined links, a thicker focus ring, and a black edge
