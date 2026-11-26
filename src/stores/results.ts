@@ -36,11 +36,9 @@ export const useResultsStore = defineStore('results', () => {
     let language: LanguageFile | null = null
     if (status.value !== 'ready') status.value = 'loading'
     errorKind.value = null
-    if (!availability.value) {
-      loadAvailability()
-        .then((file) => (availability.value = file))
-        .catch(() => {})
-    }
+    // waited for with the rest, so flagged suburbs don't jump down the list
+    // once it arrives. a failed load just leaves the flag off
+    const extra = availability.value ? null : loadAvailability().catch(() => null)
     try {
       appData = await loadAppData()
       if (request.selected_language) language = await loadLanguage(request.selected_language)
@@ -61,6 +59,10 @@ export const useResultsStore = defineStore('results', () => {
     }
     // the answers changed while a file was loading, the newer call ranks
     if (requestKey.value !== key) return
+
+    const file = extra ? await extra : null
+    if (requestKey.value !== key) return
+    if (file) availability.value = file
 
     data.value = toMapData(appData, scoreSuburbs(appData, language, request), language)
     status.value = 'ready'

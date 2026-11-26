@@ -3,7 +3,8 @@ import { storeToRefs } from 'pinia'
 import { useAnswersStore } from '@/stores/answers'
 import { useResultsStore } from '@/stores/results'
 import { toScoreRequest } from '@/services/scoring'
-import { buildResults } from '@/services/results'
+import { buildResults, type SuburbResult } from '@/services/results'
+import { availabilityFor, rentHomeOf } from '@/services/availability'
 import type { TopicName } from '@/types'
 
 /* what the results, suburb and summary screens share. asks the scoring API
@@ -32,8 +33,16 @@ export function useResults() {
   // the screens using this load straight away, and again if the answers change
   watch(request, () => load(), { immediate: true })
 
+  // flagged for few rentals of their home size, so they rank a little lower (US 2.5)
+  function fewRentals(suburb: SuburbResult): boolean {
+    const file = store.availability
+    if (!file) return false
+    const home = rentHomeOf(suburb.row.selected_home, answers.home.figures, answers.home.rentMetric)
+    return availabilityFor(file, suburb.id, home)?.few ?? false
+  }
+
   const derived = computed(() =>
-    data.value ? buildResults(data.value, answers.budget?.weekly ?? 0) : null,
+    data.value ? buildResults(data.value, answers.budget?.weekly ?? 0, fewRentals) : null,
   )
 
   const nothingFits = computed(() => derived.value !== null && derived.value.ranked.length === 0)

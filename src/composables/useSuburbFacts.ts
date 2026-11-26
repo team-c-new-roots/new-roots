@@ -3,7 +3,7 @@ import { useI18n } from 'vue-i18n'
 import { BookOpen, GraduationCap, School } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
 import { useResultsStore } from '@/stores/results'
-import { availabilityFor } from '@/services/availability'
+import { availabilityFor, rentHomeOf } from '@/services/availability'
 import { useFormat } from '@/composables/useFormat'
 import { useLanguageName } from '@/composables/useLanguageName'
 import { cleanName, languageShare, metricValue, type SuburbResult } from '@/services/results'
@@ -45,10 +45,7 @@ export function useSuburbFacts() {
 
   // the rent figure's own column, for "does well" on the details page
   function rentMetricFor(suburb: SuburbResult): string {
-    const type = suburb.row.selected_home
-    return rentHome.value.type === 'either' && type
-      ? `rent_${rentHome.value.bedrooms}br_${type}`
-      : answers.home.rentMetric
+    return rentHomeOf(suburb.row.selected_home, rentHome.value, answers.home.rentMetric)
   }
 
   // US 2.5, how many homes like theirs were newly leased, for the same home

@@ -72,16 +72,30 @@ export function budgetStatus(row: ResultRow): BudgetStatus {
   return 'above'
 }
 
-function byScore(a: SuburbResult, b: SuburbResult): number {
-  return (
+// US 2.5. a suburb flagged for few rentals sits below any unflagged suburb
+// whose match is up to this many points lower. the match shown doesn't change
+export const FEW_RENTALS_POINTS = 5
+
+type FewRentals = (suburb: SuburbResult) => boolean
+
+function byScore(few: FewRentals) {
+  const key = (suburb: SuburbResult) =>
+    suburb.match === null ? -Infinity : suburb.match - (few(suburb) ? FEW_RENTALS_POINTS : 0)
+  return (a: SuburbResult, b: SuburbResult) =>
     STATUS_ORDER[a.status] - STATUS_ORDER[b.status] ||
+    key(b) - key(a) ||
+    Number(few(a)) - Number(few(b)) ||
     (b.row.overall_score ?? -1) - (a.row.overall_score ?? -1) ||
     (a.rent ?? Infinity) - (b.rent ?? Infinity) ||
     a.name.localeCompare(b.name)
-  )
 }
 
-export function buildResults(data: MapData, budgetWeekly: number): Derived {
+// with no few rentals check, as in most tests, the order is by match alone
+export function buildResults(
+  data: MapData,
+  budgetWeekly: number,
+  few: FewRentals = () => false,
+): Derived {
   const obtById = new Map(data.obt.map((row) => [row.suburb_id, row]))
 
   const all = data.results.map<SuburbResult>((row) => {
@@ -101,7 +115,7 @@ export function buildResults(data: MapData, budgetWeekly: number): Derived {
   })
 
   // within budget first, then close, each by the scoring module's score (US 2.3)
-  const listed = [...all].sort(byScore)
+  const listed = [...all].sort(byScore(few))
   const ranked = listed.filter((suburb) => suburb.status === 'within' || suburb.status === 'close')
   ranked.forEach((suburb, index) => (suburb.rank = index + 1))
 
@@ -127,9 +141,13 @@ function languagesFor(data: MapData, id: string): LanguageRow[] {
 }
 
 // the four most spoken languages, leaving out empty rows the data sometimes has
+// a share under this rounds to 0% at one decimal place, so it's reported as
+// too few speakers instead (US 3.1)
+export const SMALLEST_SHARE = 0.05
+
 export function topLanguages(data: MapData, id: string, limit = 4) {
   return languagesFor(data, id)
-    .filter((row) => (row.percent_spoken ?? 0) > 0)
+    .filter((row) => (row.percent_spoken ?? 0) >= SMALLEST_SHARE)
     .sort((a, b) => (b.percent_spoken ?? 0) - (a.percent_spoken ?? 0))
     .slice(0, limit)
     .map((row) => ({
@@ -140,11 +158,11 @@ export function topLanguages(data: MapData, id: string, limit = 4) {
 }
 
 // null means too few speakers to report. the census perturbs small counts, so
-// 0 isn't trustworthy enough to show as 0% (US 3.1)
+// 0, or anything that would show as 0%, isn't trustworthy enough to show (US 3.1)
 export function languageShare(data: MapData, id: string, censusName: string): number | null {
   const row = languagesFor(data, id).find((item) => item.language === censusName)
   const percent = row?.percent_spoken ?? null
-  return percent !== null && percent > 0 ? percent : null
+  return percent !== null && percent >= SMALLEST_SHARE ? percent : null
 }
 
 export function metricValue(obt: ObtRow | null, metric: string): number | null {

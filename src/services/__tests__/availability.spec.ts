@@ -1,7 +1,13 @@
 import { readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
-import { affordableFor, areaSuburbs, availabilityFor, type AvailabilityFile } from '../availability'
+import {
+  affordableFor,
+  areaSuburbs,
+  availabilityFor,
+  rentHomeOf,
+  type AvailabilityFile,
+} from '../availability'
 import type { AppData } from '@/types/scoring'
 
 // US 2.5, checked against the exported file the app loads
@@ -82,5 +88,17 @@ describe('how often homes come up', () => {
     expect(affordableFor(file, id, 5)).toEqual(affordableFor(file, id, 4))
     expect(file.areas).not.toContain('Mornington Penin’a')
     expect(file.areas.some((name) => name.includes("Penin'a"))).toBe(false)
+  })
+
+  it('uses the same home as the rent figure, so Either never adds flats and houses together', () => {
+    expect(rentHomeOf('flat', { type: 'either', bedrooms: 2 }, 'rent_2br_house')).toBe(
+      'rent_2br_flat',
+    )
+    expect(rentHomeOf('house', { type: 'either', bedrooms: 3 }, 'rent_3br_flat')).toBe(
+      'rent_3br_house',
+    )
+    expect(rentHomeOf(null, { type: 'house', bedrooms: 3 }, 'rent_3br_house')).toBe(
+      'rent_3br_house',
+    )
   })
 })

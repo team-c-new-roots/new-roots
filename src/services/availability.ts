@@ -1,3 +1,5 @@
+import type { HomeLabel } from '@/types'
+
 /* US 2.5, how often homes like theirs come up for rent. from
    scripts/export_availability in export_app_data.py: new leases in the year
    to the rental report's latest quarter, for each home size, and the share
@@ -53,6 +55,18 @@ export function loadAvailability(): Promise<AvailabilityFile> {
     })
   }
   return request
+}
+
+// the rent column a suburb's figures are for. Either uses whichever of flat or
+// house the suburb's rent came from
+export function rentHomeOf(
+  selected: 'flat' | 'house' | null | undefined,
+  figures: HomeLabel,
+  rentMetric: string,
+): string {
+  return figures.type === 'either' && selected
+    ? `rent_${figures.bedrooms}br_${selected}`
+    : rentMetric
 }
 
 // rent_2br_flat or 2br_flat, the same home the rent figures describe

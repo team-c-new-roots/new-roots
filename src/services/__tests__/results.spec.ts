@@ -133,6 +133,30 @@ describe('buildResults', () => {
     expect(result.closest[0]?.overBy).toBe(140)
   })
 
+  it('ranks a suburb with few rentals below unflagged ones up to 5 points behind it (US 2.5)', () => {
+    const suburbs = data([
+      row('few', { overall_score: 82 }),
+      row('five-behind', { overall_score: 77 }),
+      row('six-behind', { overall_score: 76 }),
+    ])
+    const { ranked } = buildResults(suburbs, 500, (suburb) => suburb.id === 'few')
+    expect(ranked.map((item) => item.id)).toEqual(['five-behind', 'few', 'six-behind'])
+    // the match shown stays the same
+    expect(ranked.find((item) => item.id === 'few')?.match).toBe(82)
+  })
+
+  it('keeps budget status ahead of the few rentals flag', () => {
+    const { ranked } = buildResults(
+      data([
+        row('few-within', { overall_score: 60 }),
+        row('close', { rent_to_income_pct: 33, overall_score: 64 }),
+      ]),
+      500,
+      (suburb) => suburb.id === 'few-within',
+    )
+    expect(ranked.map((item) => item.id)).toEqual(['few-within', 'close'])
+  })
+
   it('rounds the match to a whole number for display', () => {
     const { all } = buildResults(data([row('a', { overall_score: 85.25 })]), 500)
     expect(all[0]?.match).toBe(85)
@@ -170,6 +194,13 @@ describe('names and languages', () => {
       },
       {
         suburb_id: 'a',
+        language: 'Hazaraghi',
+        percent_spoken: 0.04,
+        language_score: 1,
+        language_ranking: 300,
+      },
+      {
+        suburb_id: 'a',
         language: 'Vietnamese',
         percent_spoken: 4,
         language_score: 60,
@@ -190,6 +221,11 @@ describe('names and languages', () => {
     expect(languageShare(languages, 'a', 'Dari')).toBe(9.2)
     expect(languageShare(languages, 'a', 'Dinka')).toBeNull()
     expect(languageShare(languages, 'a', 'Pashto')).toBeNull()
+  })
+
+  it('treats a share that would round to 0% as too few to report, never 0% (US 3.1)', () => {
+    expect(languageShare(languages, 'a', 'Hazaraghi')).toBeNull()
+    expect(topLanguages(languages, 'a').map((item) => item.language)).not.toContain('Hazaraghi')
   })
 })
 
