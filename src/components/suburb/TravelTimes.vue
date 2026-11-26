@@ -1,22 +1,32 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { I18nT, useI18n } from 'vue-i18n'
-import { Info, TramFront } from '@lucide/vue'
+import { ChevronDown, Info } from '@lucide/vue'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
 import type { SuburbResult } from '@/services/results'
 import type { MapData } from '@/types/scoring'
 import ExternalLink from '@/components/ui/ExternalLink.vue'
-import { GOOGLE_TRANSIT, JOURNEY_PLANNER } from '@/data/journeyPlanners'
+import { GOOGLE_TRANSIT, JOURNEY_PLANNER, transitTrip } from '@/data/journeyPlanners'
 
 /* US 4.2, public transport times from this suburb to the places they picked
-   on step 4. the times are suburb to suburb, so the box says so and points
-   to the two planners that do address to address once they've found a home */
+   on step 4. one tile a place with the minutes big, so two suburbs are easy
+   to compare. each links to Google Maps, where they can set their own time,
+   since our figure is only ever arriving by 8:30 am, and there's a button to
+   plan any other trip from here. the method folds away underneath */
 
 const props = defineProps<{ item: SuburbResult; data: MapData }>()
 const { t } = useI18n()
 const facts = useSuburbFacts()
 
-const trips = computed(() => facts.travelLines(props.item, props.data))
+// a walk of over an hour isn't a way to get there, the same as the card
+const trips = computed(() =>
+  facts.travelLines(props.item, props.data).map((trip) => {
+    let kind = trip.kind
+    if (kind === 'walk' && (trip.minutes === null || trip.minutes > 60)) kind = 'none'
+    if (kind === 'transit' && trip.minutes === null) kind = 'none'
+    return { ...trip, kind }
+  }),
+)
 </script>
 
 <template>
@@ -30,19 +40,43 @@ const trips = computed(() => facts.travelLines(props.item, props.data))
       </RouterLink>
     </template>
 
-    <template v-else>
-      <ul class="travel__list">
-        <li v-for="trip in trips" :key="trip.key">
-          <TramFront class="travel__icon" :size="22" aria-hidden="true" />
-          <span class="travel__place">{{ trip.place }}</span>
-          <span :class="trip.kind === 'none' ? 'travel__none' : undefined">{{ trip.text }}</span>
-        </li>
-      </ul>
-      <div class="travel__note" role="note" aria-labelledby="travel-note-title">
-        <h3 id="travel-note-title" class="travel__note-title">
-          <Info :size="22" aria-hidden="true" />
-          {{ t('travel.noteTitle') }}
-        </h3>
+    <ul v-else class="travel__list">
+      <li v-for="trip in trips" :key="trip.key" class="travel__trip">
+        <p class="travel__time">
+          <template v-if="trip.kind === 'transit' || trip.kind === 'walk'">
+            <span class="travel__minutes">{{ trip.minutes }}</span>
+            <span>{{ t('travel.minutes') }}</span>
+          </template>
+          <span v-else class="travel__word">{{
+            t(trip.kind === 'same' ? 'travel.here' : 'travel.noRoute')
+          }}</span>
+        </p>
+        <div class="travel__about">
+          <h3 class="travel__place">{{ trip.place }}</h3>
+          <p class="travel__how">{{ t(`travel.how.${trip.kind}`) }}</p>
+          <ExternalLink v-if="trip.kind !== 'same'" :href="transitTrip(item.name, trip.place)">
+            {{ t('travel.trip') }}
+            <span class="visually-hidden">{{
+              t('travel.tripMore', { from: item.name, place: trip.place })
+            }}</span>
+          </ExternalLink>
+        </div>
+      </li>
+    </ul>
+
+    <!-- start filled in, they type where they're going into Google, so an
+         exact address never passes through New Roots -->
+    <ExternalLink class="btn btn--outline travel__plan" :href="transitTrip(item.name)">
+      {{ t('travel.planFrom', { suburb: item.name }) }}
+    </ExternalLink>
+
+    <details v-if="trips.length" class="how">
+      <summary>
+        <Info :size="20" aria-hidden="true" />
+        <span>{{ t('travel.noteTitle') }}</span>
+        <ChevronDown class="how__chevron" :size="20" aria-hidden="true" />
+      </summary>
+      <div class="how__body">
         <p>{{ t('travel.method', { suburb: item.name }) }}</p>
         <I18nT keypath="travel.check" tag="p" scope="global">
           <template #google>
@@ -52,79 +86,68 @@ const trips = computed(() => facts.travelLines(props.item, props.data))
             <ExternalLink :href="JOURNEY_PLANNER">{{ t('travel.planner') }}</ExternalLink>
           </template>
         </I18nT>
+        <p>{{ t('travel.source') }}</p>
       </div>
-      <p class="travel__source">{{ t('travel.source') }}</p>
-    </template>
+    </details>
   </section>
 </template>
 
 <style scoped>
-.travel {
-  margin-top: 1.75rem;
-}
-
 .travel__list {
-  margin: 0.75rem 0;
+  display: grid;
+  gap: 0.75rem;
+  margin: 1rem 0 0;
   padding: 0;
   list-style: none;
 }
 
-.travel__list li {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  column-gap: 0.75rem;
-  padding: 0.6rem 0;
-  border-top: 1px solid var(--nr-line);
-}
-
-.travel__list li:last-child {
-  border-bottom: 1px solid var(--nr-line);
-}
-
-.travel__icon {
-  grid-row: span 2;
-  margin-top: 0.15rem;
-  color: var(--nr-rust);
-}
-
-.travel__place {
-  font-weight: 700;
-}
-
-.travel__none {
-  color: var(--nr-ink-muted);
-}
-
-/* the same apricot box as nearby services and the rent trend */
-.travel__note {
-  margin: 1rem 0 0.5rem;
-  padding: 1rem 1.25rem;
-  border: 1px solid var(--nr-line);
-  border-inline-start: 5px solid var(--nr-orange);
+/* the minutes on the left, big, then where and how */
+.travel__trip {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.9rem 1.1rem;
   border-radius: var(--nr-radius-sm);
   background: var(--nr-panel);
 }
 
-.travel__note p {
-  margin: 0.35rem 0 0;
-}
-
-.travel__note-title {
+.travel__time {
   display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  margin: 0;
-  font-size: 1.25rem;
-}
-
-.travel__note-title svg {
   flex: none;
-  color: var(--nr-rust);
+  flex-direction: column;
+  align-items: center;
+  width: 4.75rem;
+  margin: 0;
+  line-height: 1.2;
+  text-align: center;
 }
 
-.travel__source {
-  margin: 0.25rem 0 0;
-  color: var(--nr-rust);
-  font-size: 0.9375rem;
+.travel__minutes {
+  color: var(--nr-wine-text);
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.travel__word {
+  color: var(--nr-wine-text);
+  font-weight: 700;
+}
+
+.travel__about {
+  min-width: 0;
+}
+
+.travel__place {
+  margin: 0;
+  font-size: 1.0625rem;
+}
+
+.travel__how {
+  margin: 0.1rem 0 0.25rem;
+  color: var(--nr-ink-muted);
+}
+
+.travel__plan {
+  margin-top: 1rem;
 }
 </style>

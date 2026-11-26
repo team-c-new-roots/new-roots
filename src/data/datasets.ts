@@ -38,6 +38,15 @@ export const DATASETS: Dataset[] = [
     url: 'https://discover.data.vic.gov.au/dataset/rental-report-quarterly-moving-annual-rents-by-suburb',
   },
   {
+    id: 'affordable-lettings',
+    updates: 'quarterly',
+    name: 'Rental Report: affordable rental dwellings by council area',
+    publisher: 'Homes Victoria',
+    useKey: 'howItWorks.datasets.affordableLettings',
+    period: 'June 2026',
+    url: 'https://discover.data.vic.gov.au/dataset/rental-report-quarterly-affordable-rental-dwellings-by-lga',
+  },
+  {
     id: 'payment-rates',
     updates: 'twiceYearly',
     name: 'Payment and Rent Assistance rates',

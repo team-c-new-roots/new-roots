@@ -1,3 +1,4 @@
+import { transitTrip } from '@/data/journeyPlanners'
 import { describe, expect, it } from 'vitest'
 import type { AppData } from '@/types/scoring'
 import { travelScores, tripFrom, withTravel, type TravelFile } from '../travel'
@@ -42,5 +43,22 @@ describe('travel times', () => {
     expect(out.suburbs[4]!.travel_time_1_score).toBe(0)
     // the original isn't touched
     expect(data.suburbs[1]!.travel_time_1_value).toBeUndefined()
+  })
+})
+
+describe('Google Maps trip link (US 4.2)', () => {
+  it('opens public transport directions between the two suburbs', () => {
+    const url = new URL(transitTrip('Dandenong North', 'St Kilda East'))
+    expect(url.origin + url.pathname).toBe('https://www.google.com/maps/dir/')
+    expect(url.searchParams.get('api')).toBe('1')
+    expect(url.searchParams.get('origin')).toBe('Dandenong North VIC')
+    expect(url.searchParams.get('destination')).toBe('St Kilda East VIC')
+    expect(url.searchParams.get('travelmode')).toBe('transit')
+  })
+  it('leaves the destination for them to type when there is no place', () => {
+    const url = new URL(transitTrip('Dandenong North'))
+    expect(url.searchParams.get('origin')).toBe('Dandenong North VIC')
+    expect(url.searchParams.has('destination')).toBe(false)
+    expect(url.searchParams.get('travelmode')).toBe('transit')
   })
 })

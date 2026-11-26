@@ -8,6 +8,7 @@ reads, rounds it, and writes:
   public/data/languages/index.json    every language spoken in these suburbs
   public/data/languages/<name>.json   one language's figures, loaded when chosen
   public/data/suburbs.geojson         suburb shapes for the map (needs shapely)
+  public/data/availability.json       how many homes were newly leased, and affordable lettings
   src/data/payments.json              Centrelink rates for the budget
   src/data/exported.json              the export date, shown as "data updated" on the site
 
@@ -218,7 +219,7 @@ def export_suburbs(obt_rows):
             "suburb_area_km2": rounded(number(row.get("suburb_area_km2")), 2),
         }
         for key, text in row.items():
-            # not shown yet (US 2.5 waits on the counted figures), so not shipped
+            # US 2.5 has its own file, see export_availability
             if key.startswith("rental_availability_"):
                 continue
             # rents stay exact, since the cheaper home and the budget caps can turn
@@ -465,6 +466,137 @@ def export_shapes(obt_rows, out):
     print(f"wrote {path.relative_to(REPO)} ({path.stat().st_size // 1024} KB)")
 
 
+# the rental report shortens a few council names to fit its columns
+COUNCIL_NAMES = {"Mornington Penin'a": "Mornington Peninsula"}
+AVAILABILITY_TYPES = ["1br_flat", "2br_flat", "3br_flat", "2br_house", "3br_house", "4br_house"]
+LEVELS = {"suburb": "s", "precinct": "p", "lga": "c"}
+AFFORDABLE_BEDS = {"1 bedroom": "1", "2 bedroom": "2", "3 bedroom": "3", "4+ bedroom": "4"}
+
+
+def council_name(text):
+    text = (text or "").strip()
+    return COUNCIL_NAMES.get(text, text)
+
+
+def month_year(text):
+    # "Jun 2026" -> "June 2026"
+    from datetime import datetime
+
+    return datetime.strptime(text.strip(), "%b %Y").strftime("%B %Y")
+
+
+def export_availability(gold, obt_rows, out):
+    """US 2.5. how many homes of each size were newly leased in the year to the
+    rental report's latest quarter, and the share of each council's new leases
+    that were affordable on Centrelink incomes.
+
+    a suburb's figure is its own, its rental report area's (two or three suburbs
+    reported together) or its council's. the app says which. to say whether
+    that's more or fewer than most suburbs, a shared figure is split evenly
+    across the suburbs sharing it first, otherwise a council total would beat
+    every single suburb. the data team's own ranking doesn't do that, so it's
+    not used here"""
+    affordable_rows = read_rows(gold / "new_roots_affordable_lettings.csv")
+    periods = {row["period"].strip() for row in affordable_rows}
+    if len(periods) != 1:
+        sys.exit(f"expected one period in the affordable lettings, got {sorted(periods)}")
+    period = month_year(periods.pop())
+
+    # each suburb's main council, the one most of it sits in
+    council_of = {}
+    weight_of = {}
+    for row in read_rows(gold / "suburb_lga_mapping.csv"):
+        suburb_id = row["suburb_id"].strip()
+        weight = number(row["lga_weighting"]) or 0
+        if weight > weight_of.get(suburb_id, -1):
+            weight_of[suburb_id] = weight
+            council_of[suburb_id] = council_name(row["lga_name"])
+    suburbs_in_council = {}
+    for name in council_of.values():
+        suburbs_in_council[name] = suburbs_in_council.get(name, 0) + 1
+
+    areas = []
+    area_index = {}
+
+    def area(name):
+        if name not in area_index:
+            area_index[name] = len(areas)
+            areas.append(name)
+        return area_index[name]
+
+    homes = {}
+    for home in AVAILABILITY_TYPES:
+        value_key = f"rental_availability_{home}_value"
+        method_key = f"rental_availability_{home}_infilling_method"
+        name_key = f"rental_availability_{home}_area_name"
+        found = []
+        precinct_size = {}
+        for row in obt_rows:
+            count = number(row.get(value_key))
+            method = (row.get(method_key) or "").strip()
+            if count is None or method not in LEVELS:
+                continue
+            name = (row.get(name_key) or "").strip()
+            if method == "lga":
+                name = council_name(name)
+            if method == "precinct":
+                precinct_size[name] = precinct_size.get(name, 0) + 1
+            found.append((row["suburb_id"].strip(), int(round(count)), method, name))
+
+        rows = []
+        for suburb_id, count, method, name in found:
+            if count <= 0:
+                sys.exit(f"{home} for {suburb_id} is {count}, a missing figure should be blank, not zero")
+            if method == "suburb":
+                shared = 1
+            elif method == "precinct":
+                shared = precinct_size[name]
+            else:
+                if name not in suburbs_in_council:
+                    sys.exit(f"{home} for {suburb_id} uses council {name!r}, which no suburb maps to")
+                shared = suburbs_in_council[name]
+            rows.append((suburb_id, count, method, name, shared, count / shared))
+
+        each = sorted(item[5] for item in rows)
+        table = {}
+        for suburb_id, count, method, name, shared, per_suburb in rows:
+            # share of suburbs with a lower figure, ties counted half
+            below = sum(1 for value in each if value < per_suburb)
+            equal = sum(1 for value in each if value == per_suburb)
+            position = (below + equal / 2) / len(each)
+            band = -1 if position < 1 / 3 else 1 if position > 2 / 3 else 0
+            few = 1 if position < 0.2 else 0
+            table[suburb_id] = [count, LEVELS[method], area(name) if method != "suburb" else -1, shared, band, few]
+        homes[home] = table
+        print(f"  {home}: {len(table)} suburbs, {sum(item[5] for item in table.values())} flagged few")
+
+    affordable = {}
+    for row in affordable_rows:
+        beds = AFFORDABLE_BEDS.get(row["dwelling_type"].strip())
+        if not beds:
+            continue
+        count = number(row["affordable_lettings"])
+        share = number(row["affordable_lettings_share"])
+        if count is None or share is None:
+            continue
+        affordable.setdefault(council_name(row["lga_name"]), {})[beds] = [int(count), rounded(share, 1)]
+
+    missing = sorted({name for name in council_of.values() if name not in affordable})
+    if missing:
+        print(f"  no affordable lettings for {', '.join(missing)}")
+
+    data = {
+        "period": period,
+        "areas": areas,
+        "homes": homes,
+        "councils": {suburb_id: area(name) for suburb_id, name in sorted(council_of.items())},
+        "affordable": affordable,
+    }
+    path = out / "availability.json"
+    path.write_text(json.dumps(data, separators=(",", ":"), ensure_ascii=False))
+    print(f"wrote {path.relative_to(REPO)} ({path.stat().st_size // 1024} KB, {period})")
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("gold", type=Path, help="the Gold folder from Drive")
@@ -488,6 +620,7 @@ def main():
     top_languages, language_labels = export_languages(gold, weights, args.out)
     suburbs = export_suburbs(obt_rows)
     export_essentials(gold, obt_rows, suburbs)
+    export_availability(gold, obt_rows, args.out)
     data = {
         "exported": date.today().isoformat(),
         "weights": weights + export_weights_essentials(),

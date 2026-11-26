@@ -10,6 +10,7 @@ import {
 } from '@/services/appData'
 import { scoreSuburbs } from '@/services/scoring'
 import { loadTravel, withTravel } from '@/services/travel'
+import { loadAvailability, type AvailabilityFile } from '@/services/availability'
 
 export type ResultsStatus = 'idle' | 'loading' | 'ready' | 'error'
 
@@ -21,6 +22,9 @@ export const useResultsStore = defineStore('results', () => {
   const data = shallowRef<MapData | null>(null)
   const errorKind = ref<DataErrorKind | null>(null)
   const requestKey = ref('')
+  // how often homes come up (US 2.5). extra, so the results still show
+  // without it and the card just leaves that line out
+  const availability = shallowRef<AvailabilityFile | null>(null)
 
   async function load(request: ScoreRequest, force = false) {
     const key = JSON.stringify(request)
@@ -32,6 +36,9 @@ export const useResultsStore = defineStore('results', () => {
     let language: LanguageFile | null = null
     if (status.value !== 'ready') status.value = 'loading'
     errorKind.value = null
+    // waited for with the rest, so flagged suburbs don't jump down the list
+    // once it arrives. a failed load just leaves the flag off
+    const extra = availability.value ? null : loadAvailability().catch(() => null)
     try {
       appData = await loadAppData()
       if (request.selected_language) language = await loadLanguage(request.selected_language)
@@ -53,6 +60,10 @@ export const useResultsStore = defineStore('results', () => {
     // the answers changed while a file was loading, the newer call ranks
     if (requestKey.value !== key) return
 
+    const file = extra ? await extra : null
+    if (requestKey.value !== key) return
+    if (file) availability.value = file
+
     data.value = toMapData(appData, scoreSuburbs(appData, language, request), language)
     status.value = 'ready'
   }
@@ -65,5 +76,5 @@ export const useResultsStore = defineStore('results', () => {
     requestKey.value = ''
   }
 
-  return { status, data, errorKind, load, reset }
+  return { status, data, errorKind, availability, load, reset }
 })

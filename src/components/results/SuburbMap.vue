@@ -1270,6 +1270,9 @@ function onPick(event: Event) {
 /* the panel, after the data team's: a wine header with the name and the
    match, then the topic bars */
 .suburb-map__panel {
+  /* so the budget tag shows on the white panel */
+  --nr-tag-bg: var(--nr-tag-on-raised);
+
   margin-top: 1.5rem;
   border: 2px solid var(--nr-wine-line);
   border-radius: var(--nr-radius);

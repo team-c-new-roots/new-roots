@@ -84,10 +84,6 @@ const sources = computed(() => [...new Set(shown.value.map((service) => service.
 </template>
 
 <style scoped>
-.nearby {
-  margin-top: 1.75rem;
-}
-
 .nearby__list {
   margin: 0.75rem 0;
   padding: 0;

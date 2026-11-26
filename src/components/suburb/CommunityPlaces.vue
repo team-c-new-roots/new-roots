@@ -92,10 +92,6 @@ const count = computed(() =>
 </template>
 
 <style scoped>
-.community {
-  margin-top: 1.75rem;
-}
-
 .community__list summary {
   display: flex;
   flex-wrap: wrap;
