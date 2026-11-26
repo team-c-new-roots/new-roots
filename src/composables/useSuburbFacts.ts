@@ -2,6 +2,8 @@ import { computed, type Component } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { BookOpen, GraduationCap, School } from '@lucide/vue'
 import { useAnswersStore } from '@/stores/answers'
+import { useResultsStore } from '@/stores/results'
+import { availabilityFor } from '@/services/availability'
 import { useFormat } from '@/composables/useFormat'
 import { useLanguageName } from '@/composables/useLanguageName'
 import { cleanName, languageShare, metricValue, type SuburbResult } from '@/services/results'
@@ -13,8 +15,9 @@ import type { MapData } from '@/types/scoring'
 // the three never disagree about what a figure says
 export function useSuburbFacts() {
   const answers = useAnswersStore()
+  const results = useResultsStore()
   const languageName = useLanguageName()
-  const { t } = useI18n()
+  const { t, locale } = useI18n()
   const { money, km, percent, home } = useFormat()
 
   // the home the rent figures describe
@@ -46,6 +49,29 @@ export function useSuburbFacts() {
     return rentHome.value.type === 'either' && type
       ? `rent_${rentHome.value.bedrooms}br_${type}`
       : answers.home.rentMetric
+  }
+
+  // US 2.5, how many homes like theirs were newly leased, for the same home
+  // the rent figures describe. null until the file's loaded
+  function availabilityOf(suburb: SuburbResult) {
+    const file = results.availability
+    if (!file) return null
+    return availabilityFor(file, suburb.id, rentMetricFor(suburb))
+  }
+
+  // the card says how this suburb compares, the number is on the suburb page.
+  // a flagged suburb gets the few rentals tag above this line
+  function availabilityLine(suburb: SuburbResult): string | null {
+    if (!results.availability) return null
+    const label = homeFor(suburb)
+    const homes = t(`homesMany.${label.type}`, { beds: label.bedrooms })
+    const found = availabilityOf(suburb)
+    if (!found) return t('availability.missing', { homes })
+    return t(`availability.card.${found.band}`, { homes })
+  }
+
+  function list(names: string[]) {
+    return new Intl.ListFormat(locale.value, { type: 'conjunction' }).format(names)
   }
 
   function rentLine(suburb: SuburbResult): string | null {
@@ -125,6 +151,9 @@ export function useSuburbFacts() {
   }
 
   return {
+    availabilityOf,
+    availabilityLine,
+    list,
     travelLines,
     rentHome,
     schoolMetrics,

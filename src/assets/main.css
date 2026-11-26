@@ -308,18 +308,24 @@ main:focus {
 }
 
 .badge--within {
-  background: var(--nr-surface-raised);
+  background: var(--nr-tag-bg, var(--nr-surface-raised));
   color: var(--nr-wine-text);
 }
 
 .badge--close,
 .badge--above {
-  background: var(--nr-surface-raised);
+  background: var(--nr-tag-bg, var(--nr-surface-raised));
   color: var(--nr-rust);
 }
 
+.badge--few {
+  background: var(--nr-tag-bg, var(--nr-surface-raised));
+  box-shadow: inset 0 0 0 1.5px currentColor;
+  color: var(--nr-flag);
+}
+
 .badge--nodata {
-  background: var(--nr-surface-raised);
+  background: var(--nr-tag-bg, var(--nr-surface-raised));
   color: var(--nr-ink-muted);
 }
 
@@ -1121,4 +1127,84 @@ legend {
   .map-tool__tip {
     transition: none;
   }
+}
+
+/* "How we work this out" on the suburb page. the answer stays on screen and
+   the method folds away, so a section isn't a wall of caveats */
+.how {
+  margin-top: 0.75rem;
+}
+
+.how summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: var(--nr-target);
+  color: var(--nr-wine-text);
+  font-weight: 700;
+  cursor: pointer;
+  list-style: none;
+}
+
+.how summary::-webkit-details-marker {
+  display: none;
+}
+
+.how summary > span {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.how summary svg {
+  flex: none;
+  color: var(--nr-rust);
+}
+
+.how__chevron {
+  transition: transform 0.15s ease;
+}
+
+.how[open] .how__chevron {
+  transform: rotate(180deg);
+}
+
+.how__body {
+  padding: 0.25rem 0 0.25rem 1.75rem;
+}
+
+.how__body p {
+  margin: 0 0 0.6rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .how__chevron {
+    transition: none;
+  }
+}
+
+/* one big figure with its words underneath, for the numbers people compare */
+.figure-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 0;
+}
+
+.figure-tile {
+  padding: 0.9rem 1.1rem;
+  border-radius: var(--nr-radius-sm);
+  background: var(--nr-panel);
+}
+
+.figure-tile__value {
+  display: block;
+  color: var(--nr-wine-text);
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.figure-tile__label {
+  display: block;
+  margin-top: 0.25rem;
 }

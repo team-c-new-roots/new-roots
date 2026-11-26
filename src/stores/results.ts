@@ -10,6 +10,7 @@ import {
 } from '@/services/appData'
 import { scoreSuburbs } from '@/services/scoring'
 import { loadTravel, withTravel } from '@/services/travel'
+import { loadAvailability, type AvailabilityFile } from '@/services/availability'
 
 export type ResultsStatus = 'idle' | 'loading' | 'ready' | 'error'
 
@@ -21,6 +22,9 @@ export const useResultsStore = defineStore('results', () => {
   const data = shallowRef<MapData | null>(null)
   const errorKind = ref<DataErrorKind | null>(null)
   const requestKey = ref('')
+  // how often homes come up (US 2.5). extra, so the results still show
+  // without it and the card just leaves that line out
+  const availability = shallowRef<AvailabilityFile | null>(null)
 
   async function load(request: ScoreRequest, force = false) {
     const key = JSON.stringify(request)
@@ -32,6 +36,11 @@ export const useResultsStore = defineStore('results', () => {
     let language: LanguageFile | null = null
     if (status.value !== 'ready') status.value = 'loading'
     errorKind.value = null
+    if (!availability.value) {
+      loadAvailability()
+        .then((file) => (availability.value = file))
+        .catch(() => {})
+    }
     try {
       appData = await loadAppData()
       if (request.selected_language) language = await loadLanguage(request.selected_language)
@@ -65,5 +74,5 @@ export const useResultsStore = defineStore('results', () => {
     requestKey.value = ''
   }
 
-  return { status, data, errorKind, load, reset }
+  return { status, data, errorKind, availability, load, reset }
 })

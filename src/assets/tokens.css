@@ -45,6 +45,11 @@
   --nr-map-3: #d9732e;
   --nr-map-4: #a14c25;
   --nr-map-5: #7b282b;
+  /* the three step availability scale (US 2.5), from the map's ramp */
+  --nr-scale-fewer: var(--nr-map-1);
+  --nr-scale-about: var(--nr-map-3);
+  --nr-scale-more: var(--nr-map-5);
+  --nr-scale-edge: transparent;
   --nr-map-line: #302622;
   --nr-map-bg: #f4ede6;
 
@@ -59,6 +64,14 @@
   /* a chosen toggle, like Save. orange in dark, burgundy doesn't show on espresso */
   --nr-chosen: var(--nr-wine);
   --nr-chosen-ink: var(--nr-cream);
+  /* tags sitting on an apricot card. white in light, the page's espresso in
+     dark, where the raised brown is the card itself */
+  --nr-tag-on-panel: #ffffff;
+  /* and on a white panel, like the map's */
+  --nr-tag-on-raised: var(--nr-apricot);
+  /* a warning about a suburb, like few rentals. not the error red, which
+     means something needs fixing */
+  --nr-flag: var(--nr-wine);
   /* the circle under the pointer, apricot like the theme options */
   --nr-toggle-hover: var(--nr-apricot);
 
@@ -154,6 +167,9 @@
     --nr-trend-area: #e9843e;
     --nr-trend-city: #dfccbc;
     --nr-select-arrow: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ffb678' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    --nr-tag-on-panel: #302622;
+    --nr-tag-on-raised: #302622;
+    --nr-flag: #ffb678;
     --nr-toggle-hover: var(--nr-apricot-strong);
     --nr-chosen: #e9843e;
     --nr-chosen-ink: #302622;
@@ -195,6 +211,12 @@
     --nr-trend-area: #000000;
     --nr-trend-city: #0040b0;
     --nr-select-arrow: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000000' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    --nr-flag: #000000;
+    --nr-tag-on-raised: #ffffff;
+    --nr-scale-fewer: #ffffff;
+    --nr-scale-about: #fec40b;
+    --nr-scale-more: #0040b0;
+    --nr-scale-edge: #000000;
     --nr-toggle-hover: var(--nr-apricot-strong);
   }
 }

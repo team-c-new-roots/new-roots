@@ -389,6 +389,12 @@ export default {
         'The rent data stops at 4 bedrooms, so these figures are for 4-bed homes. Bigger homes usually cost more.',
     },
   },
+  // more than one, for how many were newly leased (US 2.5)
+  homesMany: {
+    house: '{beds}‑bed houses',
+    flat: '{beds}‑bed flats',
+    either: '{beds}‑bed homes',
+  },
   units: {
     people: '{n} person | {n} people',
     bedrooms: '{n} bedroom | {n} bedrooms',
@@ -654,6 +660,7 @@ export default {
     notFound: 'We couldn’t find that suburb.',
   },
   moveIn: {
+    link: 'Move-in cost',
     title: 'Move-in cost: up to {amount}',
     titleOver: 'Move-in cost: at least {amount}',
     basis:
@@ -691,6 +698,19 @@ export default {
     transit: 'About {minutes} minutes to {place} by public transport',
     walk: 'About {minutes} minutes’ walk to {place}',
     none: 'No public transport gets you to {place} by 8:30 am',
+    minutes: 'minutes',
+    here: 'Here',
+    noRoute: 'No route',
+    how: {
+      transit: 'By public transport, weekdays by 8:30 am',
+      walk: 'On foot, quicker than public transport',
+      none: 'No public transport gets there by 8:30 am on weekdays',
+      same: 'This is the same suburb',
+    },
+    trip: 'Check at your own time in Google Maps',
+    // read after the link, so a screen reader knows which trip
+    tripMore: 'from {from} to {place}',
+    planFrom: 'Plan another trip from {suburb}',
     noteTitle: 'How we work these out',
     method:
       'These are public transport times from the middle of {suburb} to the middle of each place’s suburb, on a Wednesday, arriving by 8:30 am. Your real trip depends on the exact addresses.',
@@ -698,6 +718,51 @@ export default {
       'Once you’ve found a home on a rental website, check the trip from its address in {google} or the {planner}.',
     planner: 'Transport Victoria journey planner',
     source: 'Travel times: worked out by the New Roots data team from public transport timetables.',
+  },
+  availability: {
+    title: 'How often homes come up',
+    // the results cards, short since they're for scanning
+    card: {
+      more: 'More {homes} come up here than in most suburbs',
+      about: 'About as many {homes} come up here as in most suburbs',
+      fewer: 'Fewer {homes} come up here than in most suburbs',
+    },
+    missing: 'Insufficient data on how often {homes} come up here',
+    few: 'Few rentals come up here',
+    verdict: {
+      more: 'More {homes} come up here than in most Melbourne suburbs',
+      about: 'About as many {homes} come up here as in most Melbourne suburbs',
+      fewer: 'Fewer {homes} come up here than in most Melbourne suburbs',
+    },
+    scale: {
+      fewer: 'Fewer than most',
+      about: 'About average',
+      more: 'More than most',
+    },
+    about: 'About {n}',
+    countHere: 'new leases a year for {homes} here',
+    countArea: 'new leases a year for {homes} here, estimated from {area} together',
+    countCouncil: 'new leases a year for {homes} here, estimated from the {area} council area',
+    affordableTile: 'of new {beds} leases in {council} were affordable on Centrelink incomes',
+    past: 'These are past leases, not homes for rent today.',
+    how: 'How we work this out',
+    methodHere:
+      'The rental report counted {count} new leases for {homes} in {suburb} in the year to {period}.',
+    methodArea:
+      'The rental report counts {area} together. They had {count} new leases for {homes} in the year to {period}, which we split evenly across the {shared} suburbs.',
+    methodCouncil:
+      'The rental report has no figure for {suburb} on its own. The {area} council area had {count} new leases for {homes} in the year to {period}, which we split evenly across its {shared} suburbs.',
+    compare:
+      'More or fewer than most compares that number with every Melbourne suburb. Suburbs in the lowest fifth are marked “Few rentals come up here”.',
+    chances:
+      'Where more homes come up, you get more chances to apply. Check rental websites for what’s listed now.',
+    affordableHow:
+      'Affordable means the rent was no more than 30% of the income of a household on Centrelink payments. In the {council} council area, that was {count} of the new {beds} leases.',
+    affordableSource: 'Affordable leases: Homes Victoria Rental Report, {period}.',
+    // non-breaking hyphens, so 1-bedroom never splits at the end of a line
+    beds: '{beds}‑bedroom',
+    bedsFour: '4‑or‑more‑bedroom',
+    source: 'Source: Homes Victoria Rental Report, year to {period}.',
   },
   nearbyServices: {
     title: 'Nearby services',
@@ -911,7 +976,9 @@ export default {
     byHand: 'Entered by hand from the published list',
     datasets: {
       rentalReport:
-        'Median weekly rents for each suburb and home type, and for each council area where a suburb has no figure of its own.',
+        'Median weekly rents and how many homes were newly leased, for each suburb and home type, and for each council area where a suburb has no figure of its own.',
+      affordableLettings:
+        'The share of each council area’s new leases that were affordable for households on Centrelink incomes.',
       paymentRates: 'Centrelink payment and Rent Assistance rates for the budget.',
       census: 'Languages spoken at home and population for each suburb.',
       boundaries: 'Suburb shapes for the map.',

@@ -2,7 +2,16 @@
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { SHORTLIST_MAX } from '@/stores/answers'
-import { Check, CircleAlert, House, Languages, MapPin, Plus, TramFront } from '@lucide/vue'
+import {
+  Check,
+  CircleAlert,
+  House,
+  KeyRound,
+  Languages,
+  MapPin,
+  Plus,
+  TramFront,
+} from '@lucide/vue'
 import type { MapData } from '@/types/scoring'
 import type { SuburbResult } from '@/services/results'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
@@ -15,7 +24,9 @@ import BudgetBadge from '@/components/ui/BudgetBadge.vue'
    splits from its unit, and every card in a row is the same height with
    View details and Show on map along the bottom. only suburbs within or
    close to budget get a number. the rest are listed after them, unnumbered.
-   each card can go in or out of the summary from here too (US 2.4) */
+   each card can go in or out of the summary from here too (US 2.4), and says
+   whether more or fewer homes like theirs come up than in most suburbs,
+   flagging the ones where few do (US 2.5). the count is on the suburb page */
 
 const props = defineProps<{
   item: SuburbResult
@@ -38,15 +49,23 @@ const estimate = computed(() => facts.estimateLine(props.item))
 const language = computed(() => facts.languageLine(props.item, props.data))
 const distances = computed(() => facts.distanceFacts(props.item))
 const travel = computed(() => facts.travelLines(props.item, props.data))
+const leased = computed(() => facts.availabilityLine(props.item))
+const few = computed(() => facts.availabilityOf(props.item)?.few ?? false)
 </script>
 
 <template>
   <article class="suburb-card" :aria-labelledby="headingId">
     <div class="suburb-card__top">
-      <span v-if="item.rank !== null" class="suburb-card__rank" aria-hidden="true">
-        {{ item.rank }}
-      </span>
-      <h3 :id="headingId" class="suburb-card__name">{{ item.name }}</h3>
+      <!-- the rank and name open the suburb, since that's where people tap
+           first. only those, the card has its own buttons -->
+      <h3 :id="headingId" class="suburb-card__name">
+        <RouterLink :to="{ name: 'suburb', params: { id: item.id } }" class="suburb-card__link">
+          <span v-if="item.rank !== null" class="suburb-card__rank" aria-hidden="true">
+            {{ item.rank }}
+          </span>
+          <span class="suburb-card__label">{{ item.name }}</span>
+        </RouterLink>
+      </h3>
       <BudgetBadge :status="item.status" class="suburb-card__badge" />
     </div>
 
@@ -65,6 +84,16 @@ const travel = computed(() => facts.travelLines(props.item, props.data))
       <li v-if="language">
         <Languages :size="18" aria-hidden="true" />
         <span>{{ language }}</span>
+      </li>
+      <li v-if="leased">
+        <KeyRound :size="18" aria-hidden="true" />
+        <span>
+          <span v-if="few" class="badge badge--few suburb-card__few">
+            <CircleAlert :size="16" :stroke-width="2.5" aria-hidden="true" />
+            {{ t('availability.few') }}
+          </span>
+          {{ leased }}
+        </span>
       </li>
       <li v-for="trip in travel" :key="trip.key">
         <TramFront :size="18" aria-hidden="true" />
@@ -125,6 +154,9 @@ const travel = computed(() => facts.travelLines(props.item, props.data))
 
 <style scoped>
 .suburb-card {
+  /* tags on the apricot card, see tokens */
+  --nr-tag-bg: var(--nr-tag-on-panel);
+
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -143,6 +175,7 @@ const travel = computed(() => facts.travelLines(props.item, props.data))
 
 .suburb-card__rank {
   display: inline-flex;
+  flex: none;
   align-items: center;
   justify-content: center;
   width: 2.25rem;
@@ -157,6 +190,20 @@ const travel = computed(() => facts.travelLines(props.item, props.data))
   flex: 1;
   margin: 0;
   font-size: 1.375rem;
+}
+
+.suburb-card__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-height: var(--nr-target);
+  color: var(--nr-wine-text);
+  text-decoration: none;
+}
+
+.suburb-card__link:hover .suburb-card__label {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
 }
 
 .suburb-card__match {
@@ -206,7 +253,7 @@ const travel = computed(() => facts.travelLines(props.item, props.data))
   gap: 0.35rem;
   padding: 0.2rem 0.65rem;
   border-radius: var(--nr-radius-pill);
-  background: var(--nr-surface-raised);
+  background: var(--nr-tag-bg);
   font-size: 0.9375rem;
   white-space: nowrap;
 }
@@ -297,5 +344,15 @@ const travel = computed(() => facts.travelLines(props.item, props.data))
    every theme, with an icon as well as the colour */
 .suburb-card__full {
   margin: 0.4rem 0 0;
+}
+.suburb-card__few {
+  display: flex;
+  width: fit-content;
+  margin-bottom: 0.3rem;
+}
+
+.suburb-card__facts .suburb-card__few svg {
+  margin-top: 0;
+  color: currentColor;
 }
 </style>
