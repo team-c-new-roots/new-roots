@@ -18,3 +18,4 @@ obt,Transport,train_station_proximity,50,value
 languages,Language,language,50,value
 languages,Language,speaker_count,50,value
 infrastructure,Community,infra,100,value
+
