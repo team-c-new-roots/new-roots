@@ -429,10 +429,6 @@ const sign = (value: number) => (value < 0 ? '−' : '+')
 </template>
 
 <style scoped>
-.rent-trend {
-  margin-top: 1.75rem;
-}
-
 .rent-trend__lead {
   font-size: 1.0625rem;
 }

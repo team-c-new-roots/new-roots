@@ -13,6 +13,7 @@ import {
   TrendingUp,
 } from '@lucide/vue'
 import { SHORTLIST_MAX, useAnswersStore } from '@/stores/answers'
+import { useResultsStore } from '@/stores/results'
 import { useResults } from '@/composables/useResults'
 import { useFormat } from '@/composables/useFormat'
 import { useSuburbFacts } from '@/composables/useSuburbFacts'
@@ -31,6 +32,7 @@ import RentTrend from '@/components/results/RentTrend.vue'
 import NearbyServices from '@/components/suburb/NearbyServices.vue'
 import TravelTimes from '@/components/suburb/TravelTimes.vue'
 import CommunityPlaces from '@/components/suburb/CommunityPlaces.vue'
+import RentalAvailability from '@/components/suburb/RentalAvailability.vue'
 import SuburbContents from '@/components/suburb/SuburbContents.vue'
 
 /* why a suburb ranks where it does: a score for each of the eight topics,
@@ -92,6 +94,10 @@ const schools = computed(() => {
 })
 
 // built on the median for their home, so it's hidden when there's no rent
+const homeNote = computed(() =>
+  answers.home.note === 'none' ? null : t(`homes.notes.${answers.home.note}`),
+)
+
 const moveIn = computed(() =>
   item.value && item.value.rent !== null ? moveInCost(item.value.rent) : null,
 )
@@ -105,12 +111,18 @@ watchEffect(() => {
 })
 
 // the quick links at the top, in page order
+const resultsStore = useResultsStore()
 const contents = computed(() => [
   { id: 'why-heading', label: t('suburb.why') },
   { id: 'data-heading', label: t('suburb.dataBehind') },
+  ...(moveIn.value ? [{ id: 'move-in-heading', label: t('moveIn.link') }] : []),
   { id: 'travel-heading', label: t('travel.title') },
   { id: 'nearby-heading', label: t('nearbyServices.title') },
   { id: 'community-heading', label: t('communityPlaces.title') },
+  // only once its file has loaded, the section isn't there before that
+  ...(resultsStore.availability
+    ? [{ id: 'availability-heading', label: t('availability.title') }]
+    : []),
   { id: 'rent-trend-heading', label: t('rentTrend.title') },
 ])
 
@@ -148,7 +160,7 @@ function toggleSummary() {
 
         <SuburbContents :sections="contents" />
 
-        <section aria-labelledby="why-heading">
+        <section class="suburb__part" aria-labelledby="why-heading">
           <h2 id="why-heading">{{ t('suburb.why') }}</h2>
           <TopicBars
             :suburb="item"
@@ -200,7 +212,7 @@ function toggleSummary() {
           <p class="muted suburb__rank-hint">{{ t('suburb.rankHint') }}</p>
         </div>
 
-        <section aria-labelledby="data-heading">
+        <section class="suburb__part" aria-labelledby="data-heading">
           <h2 id="data-heading">{{ t('suburb.dataBehind') }}</h2>
           <ul class="suburb__facts">
             <li>
@@ -213,6 +225,9 @@ function toggleSummary() {
                   ? t(`suburb.rentEstimate.${rentEstimate(item)}`)
                   : t('suburb.rentSource')
               }}</span>
+              <!-- US 2.1, the same note as the results when the figures are for a
+                   different home, like 4 bedrooms for a family that needs 5 -->
+              <span v-if="homeNote" class="suburb__note">{{ homeNote }}</span>
             </li>
             <li v-if="language">
               {{
@@ -325,11 +340,18 @@ function toggleSummary() {
           <DataNote compact />
         </section>
 
-        <TravelTimes :item="item!" :data="data!" />
-        <NearbyServices :obt="item!.obt" :suburb="item!.name" :all="data!.obt" />
-        <CommunityPlaces :suburb-id="item!.id" :suburb="item!.name" />
+        <TravelTimes class="suburb__part" :item="item!" :data="data!" />
+        <NearbyServices
+          class="suburb__part"
+          :obt="item!.obt"
+          :suburb="item!.name"
+          :all="data!.obt"
+        />
+        <CommunityPlaces class="suburb__part" :suburb-id="item!.id" :suburb="item!.name" />
+        <RentalAvailability class="suburb__part" :item="item!" />
 
         <RentTrend
+          class="suburb__part"
           :suburb-id="item!.id"
           :suburb-name="item!.name"
           :rent-metric="rentMetricFor(item!)"
@@ -365,15 +387,18 @@ function toggleSummary() {
 
 <style scoped>
 /* clear of the sticky header when a quick link scrolls to a heading */
-.suburb :deep(h2[id]) {
+.suburb :deep(h2[id]),
+.suburb :deep(h3[id]) {
   scroll-margin-top: 6rem;
 }
 
-.suburb :deep(h2[id]:focus) {
+.suburb :deep(h2[id]:focus),
+.suburb :deep(h3[id]:focus) {
   outline: none;
 }
 
-.suburb :deep(h2[id]:focus-visible) {
+.suburb :deep(h2[id]:focus-visible),
+.suburb :deep(h3[id]:focus-visible) {
   outline: 3px solid var(--nr-focus);
   outline-offset: 4px;
 }
@@ -398,6 +423,14 @@ function toggleSummary() {
 
 .suburb section {
   margin-top: 1.75rem;
+}
+
+/* each main part of the page gets room and a line above it, so one section's
+   source line doesn't run into the next heading */
+.suburb .suburb__part {
+  margin-top: 2.75rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--nr-line);
 }
 
 .suburb__findings {
