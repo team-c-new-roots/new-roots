@@ -12,8 +12,8 @@ import appData from '../../../public/data/app-data.json'
 import languageIndex from '../../../public/data/languages/index.json'
 import parity from './fixtures/scoring-parity.json'
 
-/* the export swaps a few rents for the council figure (scripts/rent_outliers.py)
-   that Gold doesn't, so put Gold's own figures back first. the test is that the
+/* the export swaps a few rents that Gold doesn't (scripts/rent_outliers.py),
+   so put Gold's own figures back first. the test is that the
    browser scores like the module given the same figures */
 function asGold(exported: AppData): AppData {
   const suburbs = exported.suburbs.map((row) => ({ ...row }))
@@ -24,7 +24,7 @@ function asGold(exported: AppData): AppData {
       [`rent_${swap.home}_value`]: swap.own,
       [`rent_${swap.home}_score`]: swap.ownScore,
       [`rent_${swap.home}_ranking`]: swap.ownRanking,
-      [`rent_${swap.home}_infilling_method`]: 'suburb',
+      [`rent_${swap.home}_infilling_method`]: swap.ownMethod,
     })
   }
   return { ...exported, suburbs }

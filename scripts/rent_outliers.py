@@ -13,12 +13,15 @@ own one is either
   - more than 40% below its council area's, or
   - from fewer than 15 new leases a year and below its council area's.
 
-Only figures below the council's are swapped, so it never makes a suburb look
-cheaper. The app then marks the rent as estimated from the council area, the
-same as suburbs with no figure of their own.
+And where Gold filled a gap from somewhere else that came out too low (a copy
+of one of those figures, or a council figure from fewer than 15 leases), it
+uses the nearest suburb with a trusted figure of its own instead. Figures only
+ever go up, so it never makes a suburb look cheaper, and the app marks each one
+as an estimate from the council area or nearby suburbs.
 """
 
 import csv
+import math
 from collections import defaultdict
 
 TYPES = ["1br_flat", "2br_flat", "3br_flat", "2br_house", "3br_house", "4br_house"]
@@ -27,6 +30,8 @@ TYPES = ["1br_flat", "2br_flat", "3br_flat", "2br_house", "3br_house", "4br_hous
 # with plenty of leases behind them
 FAR_BELOW = 0.6
 FEW_LEASES = 15
+# how far to look for a suburb to borrow from, the furthest Gold borrows
+NEARBY_KM = 45
 # a suburb counts as wholly in one council when this much of it is
 ONE_COUNCIL = 0.99
 # and its council figures only count when the suburbs that use them agree
@@ -129,31 +134,136 @@ def rent_scale(obt_rows, home, skip):
     return score_and_rank
 
 
-def apply(obt_rows, gold, report=print):
+def positions_from(geojson_path):
+    """Each suburb's label point from the app's suburbs.geojson, for distances."""
+    import json
+
+    if not geojson_path.exists():
+        return None
+    features = json.loads(geojson_path.read_text(encoding="utf-8"))["features"]
+    return {
+        str(feature["properties"]["suburb_id"]): (feature["properties"]["label_lat"], feature["properties"]["label_lon"])
+        for feature in features
+    }
+
+
+def km_between(a, b):
+    # flat-earth is plenty at this scale
+    (lat1, lon1), (lat2, lon2) = a, b
+    return math.hypot((lon1 - lon2) * math.cos(math.radians((lat1 + lat2) / 2)), lat1 - lat2) * 111.2
+
+
+def council_leases(gold):
+    """New leases a year in each council area by bedrooms, worked back from
+    the affordable lettings table (that many affordable, at that share)."""
+    leases = {}
+    path = gold / "new_roots_affordable_lettings.csv"
+    if not path.exists():
+        return leases
+    with path.open(newline="", encoding="utf-8-sig") as file:
+        for row in csv.DictReader(file):
+            share = number(row.get("affordable_lettings_share"))
+            count = number(row.get("affordable_lettings"))
+            if share and count is not None:
+                leases[(row["lga_name"].strip(), row["dwelling_type"].strip())] = round(count * 100 / share)
+    return leases
+
+
+def borrowed(obt_rows, gold, found, positions):
+    """Rents Gold filled in from somewhere else that came out too low.
+
+    Gold gives a suburb with no figure the nearest suburb's own figure. Where
+    that suburb's figure is one we swapped, the copy is just as wrong
+    (Darraweit Guim had Craigieburn's $283). And a council figure from
+    fewer than 15 new leases is no steadier than a suburb's. Either way this
+    uses the nearest suburb with a trusted figure of its own instead, the way
+    Gold fills a gap, but only when that's higher, and within NEARBY_KM."""
+    shares = council_shares(gold)
+    leases = council_leases(gold)
+    changed = {}
+    for home in TYPES:
+        own = [
+            row
+            for row in obt_rows
+            if (row.get(f"rent_{home}_infilling_method") or "").strip() == "suburb"
+            and number(row.get(f"rent_{home}_value")) is not None
+            and row["suburb_id"].strip() in positions
+        ]
+        trusted = [row for row in own if (row["suburb_id"].strip(), home) not in found]
+        bedrooms = f"{home[0]} bedroom"
+        for row in obt_rows:
+            suburb_id = row["suburb_id"].strip()
+            method = (row.get(f"rent_{home}_infilling_method") or "").strip()
+            value = number(row.get(f"rent_{home}_value"))
+            if value is None or suburb_id not in positions or method not in ("proximity", "lga"):
+                continue
+            here = positions[suburb_id]
+            by_distance = lambda other: km_between(here, positions[other["suburb_id"].strip()])
+            if method == "proximity":
+                # the donor is the nearest suburb whose own figure this is.
+                # Gold measures distance its own way, so look past the very nearest
+                matches = [other for other in own if abs(number(other[f"rent_{home}_value"]) - value) < 0.5]
+                donor = min(matches, key=by_distance, default=None)
+                if donor is None or by_distance(donor) > NEARBY_KM or (donor["suburb_id"].strip(), home) not in found:
+                    continue
+                reason, count = "copied a swapped figure", None
+            else:
+                council = max(shares.get(suburb_id, [("", 0)]), key=lambda pair: pair[1])[0]
+                count = leases.get((council, bedrooms))
+                if count is None or count >= FEW_LEASES:
+                    continue
+                reason = "council figure from few leases"
+            best = min(trusted, key=by_distance, default=None)
+            if best is not None and by_distance(best) <= NEARBY_KM:
+                replacement, source = number(best[f"rent_{home}_value"]), best["suburb_name"].strip()
+            elif method == "proximity":
+                # nothing trusted in reach, so follow the donor to its new figure
+                replacement = found[(donor["suburb_id"].strip(), home)][1]
+                source = f"{donor['suburb_name'].strip()}'s council figure"
+            else:
+                continue
+            if replacement > value:
+                changed[(suburb_id, home)] = (value, replacement, count, reason, source)
+    return changed
+
+
+def apply(obt_rows, gold, positions=None, report=print):
     """Swaps the figures in place and returns what changed, with Gold's own
-    figure, score and rank for each, so the parity test can put them back."""
+    figure, score, rank and method for each, so the parity test can put them
+    back. Without positions only the suburbs' own figures are checked."""
     found = find(obt_rows, gold)
-    scale = {home: rent_scale(obt_rows, home, {key[0] for key in found if key[1] == home}) for home in TYPES}
+    extra = borrowed(obt_rows, gold, found, positions) if positions else {}
+    if not positions:
+        report("  (no suburbs.geojson, so copied and thin council figures weren't checked)")
+    changes = {key: (own, council, leases, reason, "lga", None) for key, (own, council, leases, reason) in found.items()}
+    changes.update({key: (old, new, leases, reason, "proximity", donor) for key, (old, new, leases, reason, donor) in extra.items()})
+    skip = {home: {key[0] for key in changes if key[1] == home} for home in TYPES}
+    scale = {home: rent_scale(obt_rows, home, skip[home]) for home in TYPES}
     names = {row["suburb_id"].strip(): row["suburb_name"].strip() for row in obt_rows}
     gold_figures = {}
     for row in obt_rows:
         suburb_id = row["suburb_id"].strip()
         for home in TYPES:
-            hit = found.get((suburb_id, home))
-            if hit:
-                gold_figures[(suburb_id, home)] = (
-                    number(row.get(f"rent_{home}_score")),
-                    number(row.get(f"rent_{home}_ranking")),
-                )
-                row[f"rent_{home}_value"] = repr(hit[1])
-                row[f"rent_{home}_infilling_method"] = "lga"
-                # Gold's score and rank came from the skewed figure, and budget
-                # fit uses the score, so give the council figure the score and
-                # rank Gold gives that rent elsewhere
-                score, rank = scale[home](hit[1])
-                row[f"rent_{home}_score"] = repr(score)
-                row[f"rent_{home}_ranking"] = str(rank)
-    for (suburb_id, home), (own, council, leases, reason) in sorted(found.items(), key=lambda item: names[item[0][0]]):
-        count = "?" if leases is None else int(leases)
-        report(f"  {names[suburb_id]} {home}: ${own:.0f} -> council ${council:.0f} ({reason}, {count} leases)")
-    return {key: (*hit, *gold_figures[key]) for key, hit in found.items()}
+            hit = changes.get((suburb_id, home))
+            if not hit:
+                continue
+            gold_figures[(suburb_id, home)] = (
+                number(row.get(f"rent_{home}_score")),
+                number(row.get(f"rent_{home}_ranking")),
+                (row.get(f"rent_{home}_infilling_method") or "").strip(),
+            )
+            row[f"rent_{home}_value"] = repr(hit[1])
+            row[f"rent_{home}_infilling_method"] = hit[4]
+            # Gold's score and rank came from the skewed figure, and budget
+            # fit uses the score, so give the new figure the score and rank
+            # Gold gives that rent elsewhere
+            score, rank = scale[home](hit[1])
+            row[f"rent_{home}_score"] = repr(score)
+            row[f"rent_{home}_ranking"] = str(rank)
+    for (suburb_id, home), (old, new, leases, reason, method, donor) in sorted(
+        changes.items(), key=lambda item: (item[1][3], names[item[0][0]])
+    ):
+        source = f"council ${new:.0f}" if method == "lga" else f"${new:.0f} from {donor}"
+        count = "" if leases is None else f", {int(leases)} leases"
+        report(f"  {names[suburb_id]} {home}: ${old:.0f} -> {source} ({reason}{count})")
+    return {key: (*hit[:4], *gold_figures[key]) for key, hit in changes.items()}

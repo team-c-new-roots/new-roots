@@ -612,8 +612,8 @@ def main():
 
     obt_rows = read_rows(gold / "new_roots_obt.csv")
     # rents skewed by community housing or a handful of leases, see rent_outliers.py
-    print("using the council figure for these rents:")
-    swapped = rent_outliers.apply(obt_rows, gold)
+    print("rents replaced, see scripts/rent_outliers.py:")
+    swapped = rent_outliers.apply(obt_rows, gold, rent_outliers.positions_from(args.out / "suburbs.geojson"))
     weights = export_weights(gold)
     top_languages, language_labels = export_languages(gold, weights, args.out)
     suburbs = export_suburbs(obt_rows)
@@ -634,11 +634,12 @@ def main():
                 "own": own,
                 "ownScore": score,
                 "ownRanking": ranking,
-                "council": council,
+                "ownMethod": method,
+                "used": used,
                 "leases": leases,
                 "reason": reason,
             }
-            for (suburb_id, home), (own, council, leases, reason, score, ranking) in sorted(swapped.items())
+            for (suburb_id, home), (own, used, leases, reason, score, ranking, method) in sorted(swapped.items())
         ],
     }
     path = args.out / "app-data.json"

@@ -143,10 +143,18 @@ export interface RentOverride {
   suburb_id: string
   // the rent column without rent_, like 1br_flat
   home: string
+  // Gold's figure, score, rank and where Gold's figure came from
   own: number
   ownScore: number | null
   ownRanking: number | null
-  council: number
+  ownMethod: string
+  // the figure the app uses instead
+  used: number
+  // new leases a year behind Gold's figure, where known
   leases: number | null
-  reason: 'far below council' | 'few leases'
+  reason:
+    | 'far below council'
+    | 'few leases'
+    | 'copied a swapped figure'
+    | 'council figure from few leases'
 }
