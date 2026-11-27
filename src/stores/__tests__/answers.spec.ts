@@ -60,6 +60,24 @@ describe('answers store', () => {
     expect(answers.familyTax).toBeNull()
   })
 
+  it('keeps the couple answer when an adult is taken off, but budgets them as single', () => {
+    const answers = useAnswersStore()
+    answers.adults = 2
+    answers.incomeSource = 'payments'
+    answers.couple = 'yes'
+    answers.incomes[0]!.payment = 'jobseeker'
+    answers.incomes[1]!.payment = 'jobseeker'
+    expect(answers.budget?.weekly).toBe(260)
+    answers.adults = 1
+    expect(answers.couple).toBe('yes')
+    expect(answers.budget?.rentAssistanceWeekly).toBe(111.9)
+    // adding them back picks the couple up again with their old answer blank
+    answers.adults = 2
+    expect(answers.budget).toBeNull()
+    answers.incomes[1]!.payment = 'jobseeker'
+    expect(answers.budget?.weekly).toBe(260)
+  })
+
   it('takes English as an answer but not a community to rank on', () => {
     const answers = useAnswersStore()
     answers.communityLanguage = 'English'

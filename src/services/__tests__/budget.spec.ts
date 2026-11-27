@@ -3,6 +3,7 @@ import type { AdultPayment, IncomeAnswers } from '@/types'
 import {
   MONEY_MAX_LENGTH,
   WAGE_MAX,
+  blankAdult,
   budgetParts,
   checkMoney,
   estimateBudget,
@@ -188,6 +189,164 @@ describe('estimateBudget', () => {
       wagePeriod: 'fortnight',
     })!
     expect(both.incomeWeekly).toBeCloseTo(payments.incomeWeekly + 200, 2)
+  })
+})
+
+// the household shapes from iteration 2 feedback, each worked out by hand
+describe('household types', () => {
+  it('gives a couple the partnered rate each and couple rent assistance once', () => {
+    const answers: IncomeAnswers = {
+      ...blank,
+      source: 'payments',
+      couple: 'yes',
+      ...adults('jobseeker', 'jobseeker'),
+    }
+    // 2 x 381.50 + 105.50 = 868.50, 30% is $260.55
+    expect(estimateBudget(answers)).toEqual({
+      weekly: 260,
+      incomeWeekly: 868.5,
+      rentAssistanceWeekly: RENT_ASSISTANCE_COUPLE,
+    })
+    expect(budgetParts(answers)).toEqual([
+      { kind: 'payment', adult: 1, payment: 'jobseeker', weekly: JOBSEEKER_PARTNERED },
+      { kind: 'payment', adult: 2, payment: 'jobseeker', weekly: JOBSEEKER_PARTNERED },
+      { kind: 'rentAssistance', weekly: RENT_ASSISTANCE_COUPLE },
+    ])
+  })
+
+  it('treats a couple answer left over from two adults as single once one is taken off', () => {
+    const budget = estimateBudget({
+      ...blank,
+      source: 'payments',
+      couple: 'yes',
+      ...adults('jobseeker'),
+    })
+    expect(budget?.incomeWeekly).toBe(JOBSEEKER + RENT_ASSISTANCE)
+  })
+
+  it('gives two single adults the single rate each but rent assistance only once', () => {
+    const answers: IncomeAnswers = {
+      ...blank,
+      source: 'payments',
+      couple: 'no',
+      ...adults('jobseeker', 'jobseeker'),
+    }
+    // 2 x 416.85 + 111.90 = 945.60, 30% is $283.68
+    expect(estimateBudget(answers)).toEqual({
+      weekly: 280,
+      incomeWeekly: 945.6,
+      rentAssistanceWeekly: RENT_ASSISTANCE,
+    })
+    const parts = budgetParts(answers)!
+    expect(parts.filter((part) => part.kind === 'payment')).toEqual([
+      { kind: 'payment', adult: 1, payment: 'jobseeker', weekly: JOBSEEKER },
+      { kind: 'payment', adult: 2, payment: 'jobseeker', weekly: JOBSEEKER },
+    ])
+    expect(parts.filter((part) => part.kind === 'rentAssistance')).toHaveLength(1)
+  })
+
+  it('budgets more for two single adults than a couple on the same payments', () => {
+    const shared = { ...blank, source: 'payments' as const, ...adults('jobseeker', 'jobseeker') }
+    const singles = estimateBudget({ ...shared, couple: 'no' })!
+    const couple = estimateBudget({ ...shared, couple: 'yes' })!
+    expect(singles.weekly).toBeGreaterThan(couple.weekly)
+  })
+
+  it('does not wait for Family Tax Benefit when there are no children', () => {
+    const answers: IncomeAnswers = { ...blank, source: 'payments', ...adults('jobseeker') }
+    expect(answers.familyTax).toBeNull()
+    const parts = budgetParts(answers)!
+    expect(parts.map((part) => part.kind)).toEqual(['payment', 'rentAssistance'])
+  })
+
+  it('uses the no-children JobSeeker rate and plain rent assistance without children', () => {
+    // 416.85 + 111.90 = 528.75, 30% is $158.63
+    expect(estimateBudget({ ...blank, source: 'payments', ...adults('jobseeker') })).toEqual({
+      weekly: 160,
+      incomeWeekly: 528.75,
+      rentAssistanceWeekly: RENT_ASSISTANCE,
+    })
+  })
+
+  it('ignores a Family Tax Benefit answer left over after the children are taken off', () => {
+    const noChildren: IncomeAnswers = { ...blank, source: 'payments', ...adults('jobseeker') }
+    expect(estimateBudget({ ...noChildren, familyTax: 'yes', teens: 1 })).toEqual(
+      estimateBudget(noChildren),
+    )
+  })
+
+  it('works out a couple with no children on a wage and payments', () => {
+    const budget = estimateBudget({
+      ...blank,
+      source: 'both',
+      couple: 'yes',
+      ...adults('jobseeker', 'none'),
+      wageAmount: 1000,
+      wagePeriod: 'fortnight',
+    })
+    // 381.50 + 105.50 + 500 = 987.00, 30% is $296.10
+    expect(budget).toEqual({
+      weekly: 300,
+      incomeWeekly: 987,
+      rentAssistanceWeekly: RENT_ASSISTANCE_COUPLE,
+    })
+  })
+
+  it('gives the with-children JobSeeker rate to only one of two single adults', () => {
+    const answers: IncomeAnswers = {
+      ...blank,
+      source: 'payments',
+      couple: 'no',
+      children: 1,
+      familyTax: 'no',
+      ...adults('jobseeker', 'jobseeker'),
+    }
+    const payments = budgetParts(answers)!.filter((part) => part.kind === 'payment')
+    expect(payments.map((part) => part.weekly)).toEqual([446.4, JOBSEEKER])
+    // 446.40 + 416.85 + 111.90 = 975.15, 30% is $292.55
+    expect(estimateBudget(answers)).toEqual({
+      weekly: 290,
+      incomeWeekly: 975.15,
+      rentAssistanceWeekly: RENT_ASSISTANCE,
+    })
+  })
+
+  it('does not ask a couple who only work about being a couple, or add rent assistance', () => {
+    const budget = estimateBudget({
+      ...blank,
+      source: 'work',
+      adults: 2,
+      incomes: [blankAdult(), blankAdult()],
+      wageAmount: 1200,
+      wagePeriod: 'fortnight',
+    })
+    expect(budget).toEqual({ weekly: 180, incomeWeekly: 600, rentAssistanceWeekly: 0 })
+  })
+
+  it('keeps the partnered rate when the other partner gets another payment', () => {
+    const answers: IncomeAnswers = {
+      ...blank,
+      source: 'payments',
+      couple: 'yes',
+      ...adults('jobseeker', 700),
+    }
+    expect(budgetParts(answers)).toEqual([
+      { kind: 'payment', adult: 1, payment: 'jobseeker', weekly: JOBSEEKER_PARTNERED },
+      { kind: 'payment', adult: 2, payment: 'other', weekly: 350 },
+      { kind: 'rentAssistance', weekly: RENT_ASSISTANCE_COUPLE },
+    ])
+    // 381.50 + 350 + 105.50 = 837.00, 30% is $251.10
+    expect(estimateBudget(answers)?.weekly).toBe(250)
+  })
+
+  it('waits rather than count Parenting Payment for a couple with no children', () => {
+    const budget = estimateBudget({
+      ...blank,
+      source: 'payments',
+      couple: 'yes',
+      ...adults('parenting', 'jobseeker'),
+    })
+    expect(budget).toBeNull()
   })
 })
 

@@ -67,6 +67,42 @@ describe('Save', () => {
     expect(useDisplayStore().theme).toBe('dark')
   })
 
+  it('brings back a couple and two single adults with the same budget', async () => {
+    for (const couple of ['yes', 'no'] as const) {
+      localStorage.clear()
+      setActivePinia(createPinia())
+      const answers = useAnswersStore()
+      answers.adults = 2
+      answers.incomeSource = 'payments'
+      answers.couple = couple
+      answers.incomes[0]!.payment = 'jobseeker'
+      answers.incomes[1]!.payment = 'jobseeker'
+      const budget = answers.budget
+      useSavedStore().start()
+
+      setActivePinia(createPinia())
+      await useSavedStore().load()
+      const back = useAnswersStore()
+      expect(back.couple).toBe(couple)
+      expect(back.incomes.map((income) => income.payment)).toEqual(['jobseeker', 'jobseeker'])
+      expect(back.budget).toEqual(budget)
+    }
+  })
+
+  it('brings back a household with no children without asking about Family Tax Benefit', async () => {
+    const answers = useAnswersStore()
+    answers.incomeSource = 'payments'
+    answers.incomes[0]!.payment = 'jobseeker'
+    useSavedStore().start()
+
+    setActivePinia(createPinia())
+    await useSavedStore().load()
+    const back = useAnswersStore()
+    expect(back.children).toBe(0)
+    expect(back.familyTax).toBeNull()
+    expect(back.budget?.weekly).toBe(160)
+  })
+
   // saved before the theme was kept on its own, so only Save's copy has it
   it('still brings back the theme from an older saved copy', async () => {
     writeSaved({ answers: cleanAnswers({}), language: 'en-AU', theme: 'dark', mapContrast: true })
