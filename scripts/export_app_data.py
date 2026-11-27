@@ -26,6 +26,8 @@ import sys
 from datetime import date
 from pathlib import Path
 
+import rent_outliers
+
 # sys.maxsize is too big for a C long on Windows, so this is the largest
 # that works everywhere (Jake's fix in PR 15)
 csv.field_size_limit(2**31 - 1)
@@ -609,6 +611,9 @@ def main():
     args.out.mkdir(parents=True, exist_ok=True)
 
     obt_rows = read_rows(gold / "new_roots_obt.csv")
+    # rents skewed by community housing or a handful of leases, see rent_outliers.py
+    print("using the council figure for these rents:")
+    swapped = rent_outliers.apply(obt_rows, gold)
     weights = export_weights(gold)
     top_languages, language_labels = export_languages(gold, weights, args.out)
     suburbs = export_suburbs(obt_rows)
@@ -621,6 +626,20 @@ def main():
         "topLanguages": top_languages,
         "languageLabels": language_labels,
         "community": export_community(gold),
+        # what was swapped, and Gold's own figure, so the parity test can put it back
+        "rentOverrides": [
+            {
+                "suburb_id": suburb_id,
+                "home": home,
+                "own": own,
+                "ownScore": score,
+                "ownRanking": ranking,
+                "council": council,
+                "leases": leases,
+                "reason": reason,
+            }
+            for (suburb_id, home), (own, council, leases, reason, score, ranking) in sorted(swapped.items())
+        ],
     }
     path = args.out / "app-data.json"
     path.write_text(json.dumps(data, separators=(",", ":"), ensure_ascii=False))

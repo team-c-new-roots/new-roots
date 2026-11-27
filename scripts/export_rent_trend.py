@@ -16,6 +16,11 @@ import json
 from datetime import date
 from pathlib import Path
 
+import rent_outliers
+
+# the one big table has very long rows (Jake's Windows-safe limit, as in export_app_data.py)
+csv.field_size_limit(2**31 - 1)
+
 REPO = Path(__file__).resolve().parent.parent
 YEARS = 5
 
@@ -44,6 +49,11 @@ def main():
 
     with (args.gold / "new_roots_rent_trend.csv").open(newline="", encoding="utf-8-sig") as file:
         rows = list(csv.DictReader(file))
+    # a home type whose rent the app swaps for the council figure gets no line
+    # of its own, so the chart falls back to all homes rather than showing the
+    # skewed figure beside the estimate
+    with (args.gold / "new_roots_obt.csv").open(newline="", encoding="utf-8-sig") as file:
+        swapped = set(rent_outliers.find(list(csv.DictReader(file)), args.gold))
 
     latest = max(row["period"] for row in rows)
     end = date.fromisoformat(latest)
@@ -59,6 +69,8 @@ def main():
         if key is None or at is None:
             continue
         melbourne[key][at] = number(row["melbourne_avg_rent"])
+        if (row["suburb_id"], key) in swapped:
+            continue
         suburb = suburbs.setdefault(row["suburb_id"], {"area": row["precinct"], "rents": {}})
         suburb["rents"].setdefault(key, [None] * len(periods))[at] = number(row["median_weekly_rent"])
 

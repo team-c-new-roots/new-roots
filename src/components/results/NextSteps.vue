@@ -8,9 +8,11 @@ import { GOOGLE_TRANSIT, JOURNEY_PLANNER } from '@/data/journeyPlanners'
    lots of information, not much to act on). six steps in the order people
    take them, each with something to tap. what agents can ask for comes from
    Consumer Affairs Victoria's rules for the standard application form, which
-   all private rentals have used since 31 March 2026 */
+   all private rentals have used since 31 March 2026. when nothing fits, the
+   top of the page already lists what to do now, so this keeps only the steps
+   that still apply and don't repeat it: the summary and documents */
 
-defineProps<{ count: number; max: number }>()
+defineProps<{ count: number; max: number; nothingFits?: boolean; chosen?: boolean }>()
 
 const { t } = useI18n()
 </script>
@@ -23,7 +25,13 @@ const { t } = useI18n()
         <ListChecks :size="24" aria-hidden="true" />
         <div>
           <h3>{{ t('nextSteps.pickTitle', { max }) }}</h3>
-          <p>{{ t('nextSteps.pickBody', { count, max }) }}</p>
+          <p>
+            {{
+              nothingFits && !chosen
+                ? t('nextSteps.pickBodyClosest', { count, max })
+                : t('nextSteps.pickBody', { count, max })
+            }}
+          </p>
         </div>
       </li>
       <li>
@@ -46,7 +54,7 @@ const { t } = useI18n()
           </ExternalLink>
         </div>
       </li>
-      <li>
+      <li v-if="!nothingFits">
         <Search :size="24" aria-hidden="true" />
         <div>
           <h3>{{ t('nextSteps.searchTitle') }}</h3>
@@ -59,7 +67,7 @@ const { t } = useI18n()
           </p>
         </div>
       </li>
-      <li>
+      <li v-if="!nothingFits">
         <Route :size="24" aria-hidden="true" />
         <div>
           <h3>{{ t('nextSteps.tripTitle') }}</h3>
@@ -70,7 +78,7 @@ const { t } = useI18n()
           </p>
         </div>
       </li>
-      <li>
+      <li v-if="!nothingFits">
         <Handshake :size="24" aria-hidden="true" />
         <div>
           <h3>{{ t('nextSteps.helpTitle') }}</h3>

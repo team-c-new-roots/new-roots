@@ -361,7 +361,12 @@ async function showMore() {
           <span>{{ t('results.fresh', { date: fullDate(DATA_UPDATED) }) }}</span>
         </p>
         <DataNote id="about-results" :count="derived?.all.length" />
-        <NextSteps :count="summary.count.value" :max="summary.max" />
+        <NextSteps
+          :count="summary.count.value"
+          :max="summary.max"
+          :nothing-fits="nothingFits"
+          :chosen="summary.chosen.value"
+        />
       </div>
 
       <!-- back to step 4, the way every step has a Back under it. on a phone it

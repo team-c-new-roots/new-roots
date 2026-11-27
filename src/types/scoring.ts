@@ -134,4 +134,19 @@ export interface AppData {
   languageLabels: Record<string, string>
   // each suburb's average community places score
   community: Record<string, number | null>
+  // rents the export swapped for the council figure (scripts/rent_outliers.py),
+  // with Gold's own figure, so the parity test can score what the module scored
+  rentOverrides?: RentOverride[]
+}
+
+export interface RentOverride {
+  suburb_id: string
+  // the rent column without rent_, like 1br_flat
+  home: string
+  own: number
+  ownScore: number | null
+  ownRanking: number | null
+  council: number
+  leases: number | null
+  reason: 'far below council' | 'few leases'
 }

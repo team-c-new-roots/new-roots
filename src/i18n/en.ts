@@ -86,7 +86,7 @@ export default {
     pashto: 'Pashto',
     dinka: 'Dinka',
     hazaraghi: 'Hazaragi',
-    persian: 'Persian',
+    persian: 'Farsi',
     chinese: 'Chinese (Simplified)',
     burmese: 'Burmese',
     tigrinya: 'Tigrinya',
@@ -582,6 +582,8 @@ export default {
     pickTitle: 'Choose up to {max} suburbs',
     pickBody:
       'Your summary has {count} of {max}. Open a suburb to see why it ranks where it does, then add or remove it.',
+    pickBodyClosest:
+      'Your summary starts with the {count} suburbs closest to your budget. Open a suburb to see its details, then add or remove it.',
     printTitle: 'Print or save your summary',
     printBody:
       'Take it to your caseworker or settlement worker. It has no names, addresses or visa details.',
@@ -819,7 +821,7 @@ export default {
     melbourneUp: 'Across Melbourne it went up {change}.',
     melbourneDown: 'Across Melbourne it went down {change}.',
     allHomes:
-      'There weren’t enough {home} leases here to show five years, so the line is for all homes.',
+      'There isn’t a reliable five-year figure for {home} here, so the line is for all homes.',
     shared:
       'Homes Victoria counts {suburb} as part of the {area} area, so the line covers more than {suburb}.',
     melbourne: 'Melbourne',
@@ -878,6 +880,8 @@ export default {
       'These are the suburbs you chose, up to {max}. Add or remove suburbs from your results.',
     topThree:
       'These are your top three. Your summary holds up to {max}, so you can add more from your results.',
+    closestThree:
+      'Nothing fits your budget yet, so these are the three suburbs closest to it. Your summary holds up to {max}.',
     noSuburbs: 'No suburb fits this budget yet. A settlement worker can help you look.',
     noPicks: 'You’ve removed every suburb. Add up to {max} from your results.',
     primary: 'Primary school {distance}',
@@ -888,7 +892,7 @@ export default {
     primaryShort: 'primary {distance}',
     secondaryShort: 'secondary {distance}',
     estimateNote:
-      'Estimated rents come from the council area or nearby suburbs, since the Rental Report has no figure for that suburb.',
+      'Estimated rents come from the council area or nearby suburbs, where the Rental Report has no reliable figure for that suburb.',
     nextSteps: 'Next steps',
     step1: 'Check current listings for these suburbs on {realestate} or {domain}',
     step2: 'Ask your caseworker about bond loans',
@@ -946,7 +950,7 @@ export default {
     rank2:
       'You choose how much each topic matters. Budget fit always counts most, and reported crime starts at Not important.',
     rank3:
-      'Budget fit drops sharply once rent goes past 30% of income. If you’d take a flat or a house, each suburb uses whichever is cheaper. Where the Rental Report has no figure for a suburb, we use its council area’s median, or nearby suburbs, and mark the rent as an estimate.',
+      'Budget fit drops sharply once rent goes past 30% of income. If you’d take a flat or a house, each suburb uses whichever is cheaper. Where the Rental Report has no figure for a suburb, we use its council area’s median, or nearby suburbs, and mark the rent as an estimate. We also use the council figure when a suburb’s own is far below it or comes from very few leases, since community housing can pull a median down.',
     rank4:
       'Suburbs within your budget come first, then suburbs where rent is up to 35% of income. Every other suburb is still listed after them, marked Above budget or No rent figure yet. Your language community changes the order but never hides a suburb.',
     coverageHeading: 'What New Roots covers',

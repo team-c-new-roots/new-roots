@@ -145,7 +145,7 @@ function print() {
     <section class="panel summary__block" aria-labelledby="suburbs-heading">
       <h2 id="suburbs-heading" class="summary__heading">
         <MapPin :size="24" aria-hidden="true" />
-        {{ t('summary.suburbs') }}
+        {{ summary.nothingFits.value ? t('nothingFits.closest') : t('summary.suburbs') }}
       </h2>
       <ResultsGate :status="status" :error-kind="errorKind" @retry="retry">
         <template v-if="picks.length">
@@ -153,7 +153,9 @@ function print() {
             {{
               summary.chosen.value
                 ? t('summary.yourPicks', { max: summary.max })
-                : t('summary.topThree', { max: summary.max })
+                : summary.nothingFits.value
+                  ? t('summary.closestThree', { max: summary.max })
+                  : t('summary.topThree', { max: summary.max })
             }}
           </p>
           <ol class="summary__suburbs">
@@ -162,7 +164,13 @@ function print() {
               <div class="summary__body">
                 <p class="summary__title">
                   <span class="summary__name">{{ item.name }}</span>
-                  <span class="summary__status">{{ t(`status.${item.status}`) }}</span>
+                  <!-- above budget says by how much, so a caseworker sees the gap -->
+                  <span class="summary__status"
+                    >{{ t(`status.${item.status}`)
+                    }}<template v-if="item.status === 'above' && item.overBy !== null">
+                      · {{ t('status.overBy', { amount: money(item.overBy) }) }}</template
+                    ></span
+                  >
                 </p>
                 <ul class="summary__facts">
                   <li v-if="item.rent !== null" class="summary__rent">
@@ -247,7 +255,27 @@ function print() {
         <ListChecks :size="24" aria-hidden="true" />
         {{ t('summary.nextSteps') }}
       </h2>
-      <ul class="icon-list">
+      <!-- when nothing fits, the same things the results page says to do now,
+           since there's no home yet to search for, travel from or zone -->
+      <ul v-if="summary.nothingFits.value" class="icon-list">
+        <li>
+          <Check :size="22" aria-hidden="true" />
+          <span>{{ t('nothingFits.shareTitle') }}</span>
+        </li>
+        <li>
+          <Check :size="22" aria-hidden="true" />
+          <span>{{ t('nothingFits.asrcTitle') }}</span>
+        </li>
+        <li>
+          <Check :size="22" aria-hidden="true" />
+          <span>{{ t('summary.step2') }}</span>
+        </li>
+        <li>
+          <Check :size="22" aria-hidden="true" />
+          <span>{{ t('summary.stepApply') }}</span>
+        </li>
+      </ul>
+      <ul v-else class="icon-list">
         <li>
           <Check :size="22" aria-hidden="true" />
           <I18nT keypath="summary.step1" tag="span" scope="global">
