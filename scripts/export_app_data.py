@@ -24,7 +24,7 @@ import sys
 from datetime import date
 from pathlib import Path
 
-csv.field_size_limit(sys.maxsize)
+csv.field_size_limit(2**31 - 1)
 
 REPO = Path(__file__).resolve().parent.parent
 
