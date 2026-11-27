@@ -20,7 +20,9 @@ import re
 import sys
 from pathlib import Path
 
-csv.field_size_limit(sys.maxsize)
+# sys.maxsize is too big for a C long on Windows, so this is the largest
+# that works everywhere (Jake's fix in PR 15)
+csv.field_size_limit(2**31 - 1)
 
 REPO = Path(__file__).resolve().parent.parent
 
