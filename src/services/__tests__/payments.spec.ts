@@ -11,8 +11,18 @@ describe('exported payment rates', () => {
         amount,
       })),
     )
-    expect(amounts.length).toBeGreaterThan(20)
+    // 2 parenting, 3 jobseeker, 4 FTB and 4 FTB supplements, 6 rent assistance
+    expect(amounts.length).toBe(19)
     expect(amounts.filter(({ amount }) => !(amount > 0))).toEqual([])
+  })
+
+  // JobSeeker and Parenting Payment are the typical total rate, which already
+  // has the Energy Supplement in it, so there's no separate one to add (US 1.1)
+  it('has no separate Energy Supplement for JobSeeker or Parenting Payment', () => {
+    expect(Object.keys(RATES)).not.toContain('jobseekerEnergy')
+    expect(Object.keys(RATES)).not.toContain('parentingEnergy')
+    expect(RATES.jobseeker.partnered).toBe(381.5)
+    expect(RATES.parenting.partnered).toBe(381.5)
   })
 
   it('says when the rates started, as a date', () => {

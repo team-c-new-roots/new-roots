@@ -3,13 +3,15 @@ import payments from './payments.json'
 /* weekly maximum rates, exported from the data team's Centrelink payments
    table by scripts/export_app_data.py, so nothing here is typed in by hand.
    rerun the export when the table changes. ratesFrom is the date the rates
-   started, 2026-09-20 say */
+   started, 2026-09-20 say.
+
+   jobseeker and parenting are the typical total rate, Energy Supplement
+   included, so they have no separate supplement here. family tax benefit is
+   the rate without it, and its supplement is kept alongside */
 
 export interface Rates {
   parenting: { single: number; partnered: number }
-  parentingEnergy: { single: number; partnered: number }
   jobseeker: { singleNoChildren: number; singleWithChildren: number; partnered: number }
-  jobseekerEnergy: { singleNoChildren: number; singleWithChildren: number; partnered: number }
   // part A is per child and depends on age, part B is one per family
   ftbA: { child0to12: number; child13to19: number }
   ftbAEnergy: { child0to12: number; child13to19: number }

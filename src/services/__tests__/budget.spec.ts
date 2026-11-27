@@ -37,9 +37,10 @@ function adults(...rows: (AdultPayment | number)[]): Pick<IncomeAnswers, 'income
   }
 }
 
-// each payment's weekly rate with its energy supplement
-const JOBSEEKER = 416.85 + 4.4
-const JOBSEEKER_PARTNERED = 381.5 + 3.95
+// each payment's weekly typical total rate, which already has the energy
+// supplement in it, so it's never added again (US 1.1)
+const JOBSEEKER = 416.85
+const JOBSEEKER_PARTNERED = 381.5
 const RENT_ASSISTANCE = 111.9
 const RENT_ASSISTANCE_COUPLE = 105.5
 
@@ -55,9 +56,9 @@ describe('estimateBudget', () => {
     expect(budget).toEqual({ weekly: 210, incomeWeekly: 700, rentAssistanceWeekly: 0 })
   })
 
-  it('counts rent assistance and energy supplements as income for a single job seeker', () => {
+  it('counts rent assistance as income for a single job seeker', () => {
     const budget = estimateBudget({ ...blank, source: 'payments', ...adults('jobseeker') })
-    expect(budget?.incomeWeekly).toBe(533.15)
+    expect(budget?.incomeWeekly).toBe(528.75)
     expect(budget?.rentAssistanceWeekly).toBe(RENT_ASSISTANCE)
     expect(budget?.weekly).toBe(160)
   })
@@ -87,9 +88,9 @@ describe('estimateBudget', () => {
       couple: 'no',
       ...adults('jobseeker', 'jobseeker'),
     })
-    // 2 x 421.25 + 111.90 single rent assistance = 954.40, 30% is $286
-    expect(budget?.incomeWeekly).toBe(954.4)
-    expect(budget?.weekly).toBe(290)
+    // 2 x 416.85 + 111.90 single rent assistance = 945.60, 30% is $283.68
+    expect(budget?.incomeWeekly).toBe(945.6)
+    expect(budget?.weekly).toBe(280)
   })
 
   it('adds up another payment for each adult who gets one, like Youth Allowance', () => {
@@ -124,12 +125,14 @@ describe('estimateBudget', () => {
       teens: 1,
       youngestUnderFive: 'yes',
     })
-    // parenting and jobseeker at partnered rates with their supplements,
-    // FTB A for four under 13 and one teen, FTB B for an under 5,
-    // rent assistance for a family with 3 or more children
-    expect(budget?.incomeWeekly).toBe(1654.58)
+    // Jake's hand-worked figure (US 1.1 test 2): parenting and jobseeker at
+    // $381.50 each, the partnered typical total rate. FTB A for four under 13
+    // and one teen and FTB B for an under 5, each with its supplement, then
+    // rent assistance for a family with 3 or more children. 30% of
+    // $1,646.68 is $494.00, so $490
+    expect(budget?.incomeWeekly).toBe(1646.68)
     expect(budget?.rentAssistanceWeekly).toBe(148.68)
-    expect(budget?.weekly).toBe(500)
+    expect(budget?.weekly).toBe(490)
   })
 
   it('waits for the Family Tax Benefit answer when there are children', () => {
@@ -142,7 +145,7 @@ describe('estimateBudget', () => {
     expect(estimateBudget(answers)).toBeNull()
     // a single parent on JobSeeker gets the with-children rate
     expect(estimateBudget({ ...answers, familyTax: 'no' })?.incomeWeekly).toBe(
-      446.4 + 4.75 + RENT_ASSISTANCE,
+      446.4 + RENT_ASSISTANCE,
     )
   })
 

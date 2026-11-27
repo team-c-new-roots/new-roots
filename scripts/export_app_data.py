@@ -312,28 +312,19 @@ def export_languages(gold, weights, out):
 
 # each figure the budget uses, as (payment type, situation) in the payments
 # table. the export stops if any is missing, so a renamed row can't quietly
-# turn into a $0 payment
+# turn into a $0 payment. JobSeeker and Parenting Payment in the table are
+# the DSS typical total rate, which already includes the Energy Supplement,
+# so their supplement rows aren't exported. FTB rows are without it, so the
+# FTB supplement rows are
 PAYMENT_ROWS = {
     "parenting": {
         "single": ("Parenting Payment", "Single"),
         "partnered": ("Parenting Payment", "Partnered"),
     },
-    "parentingEnergy": {
-        "single": ("Energy Supplement - Parenting Payment", "Single"),
-        "partnered": ("Energy Supplement - Parenting Payment", "Partnered"),
-    },
     "jobseeker": {
         "singleNoChildren": ("JobSeeker Payment", "Single no children"),
         "singleWithChildren": ("JobSeeker Payment", "Single with children"),
         "partnered": ("JobSeeker Payment", "Partnered per person"),
-    },
-    "jobseekerEnergy": {
-        "singleNoChildren": ("Energy Supplement - JobSeeker", "Single no children"),
-        "singleWithChildren": (
-            "Energy Supplement - JobSeeker",
-            "Single with children / principal carer / 55+ / partial capacity",
-        ),
-        "partnered": ("Energy Supplement - JobSeeker", "Partnered"),
     },
     "ftbA": {
         "child0to12": ("Family Tax Benefit Part A", "Maximum child age 0-12"),

@@ -5,19 +5,10 @@
       "single": 543.6,
       "partnered": 381.5
     },
-    "parentingEnergy": {
-      "single": 6.0,
-      "partnered": 3.95
-    },
     "jobseeker": {
       "singleNoChildren": 416.85,
       "singleWithChildren": 446.4,
       "partnered": 381.5
-    },
-    "jobseekerEnergy": {
-      "singleNoChildren": 4.4,
-      "singleWithChildren": 4.75,
-      "partnered": 3.95
     },
     "ftbA": {
       "child0to12": 117.74,

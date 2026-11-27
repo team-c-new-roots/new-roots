@@ -128,8 +128,9 @@ const chart = computed(() => {
   const ticks: number[] = []
   for (let tick = bottom; tick <= top; tick += step) ticks.push(tick)
 
-  // room for the widest rent label, which some languages write longer
-  const left = Math.max(...ticks.map((tick) => money(tick).length)) * 7.5 + 14
+  // room for the widest rent label, which some languages write longer. about
+  // 8px a character at the 14px the axis is set in
+  const left = Math.max(...ticks.map((tick) => money(tick).length)) * 8.2 + 14
   const plotWidth = width.value - left - PAD.right
   const plotHeight = HEIGHT - PAD.top - PAD.bottom
   const last = line.periods.length - 1
@@ -150,6 +151,15 @@ const chart = computed(() => {
     })
     return d
   }
+
+  // a quarter with a figure but none either side has no line to draw, so it
+  // gets a dot instead of vanishing (Jake's testing, US 1.4 test 3)
+  const lone = (series: (number | null)[]) =>
+    series.flatMap((value, i) =>
+      value !== null && series[i - 1] == null && series[i + 1] == null
+        ? [{ i, x: x(i), y: y(value) }]
+        : [],
+    )
 
   // the change goes at each line's end. if the ends sit close, the labels
   // move apart and a short leader joins each to its line
@@ -176,6 +186,8 @@ const chart = computed(() => {
     years: years.map((i) => ({ i, x: x(i), label: year(line.periods[i]!) })),
     area: path(line.rents),
     city: path(line.melbourne),
+    loneArea: lone(line.rents),
+    loneCity: lone(line.melbourne),
     endX: x(last),
     endArea,
     endCity,
@@ -322,6 +334,22 @@ const sign = (value: number) => (value < 0 ? '−' : '+')
 
           <path class="rent-trend__city" :d="chart.city" />
           <path class="rent-trend__area" :d="chart.area" />
+          <circle
+            v-for="spot in chart.loneCity"
+            :key="`city-${spot.i}`"
+            class="rent-trend__lone rent-trend__lone--city"
+            :cx="spot.x"
+            :cy="spot.y"
+            r="3.5"
+          />
+          <circle
+            v-for="spot in chart.loneArea"
+            :key="`area-${spot.i}`"
+            class="rent-trend__lone"
+            :cx="spot.x"
+            :cy="spot.y"
+            r="3.5"
+          />
 
           <g class="rent-trend__ends">
             <line
@@ -489,10 +517,12 @@ const sign = (value: number) => (value < 0 ? '−' : '+')
   stroke-width: 1;
 }
 
+/* 14px, the smallest text outside the map (US 5.1 test 7). the chart is
+   drawn at the width it's shown, so this is the size on screen too */
 .rent-trend__axis text,
 .rent-trend__ends text {
   fill: var(--nr-ink-muted);
-  font-size: 13px;
+  font-size: 14px;
   font-variant-numeric: tabular-nums;
 }
 
@@ -542,6 +572,16 @@ line.rent-trend__city {
 }
 
 .rent-trend__dot--city {
+  fill: var(--nr-trend-city);
+}
+
+/* a quarter on its own between gaps, the line's colour with no outline so
+   it reads as part of the line rather than the hover dot */
+.rent-trend__lone {
+  fill: var(--nr-trend-area);
+}
+
+.rent-trend__lone--city {
   fill: var(--nr-trend-city);
 }
 

@@ -60,9 +60,12 @@ export function bothPartnersOnParenting(
   return isCouple(answers) && first?.payment === 'parenting' && second?.payment === 'parenting'
 }
 
-/* each adult's own payment plus its energy supplement, at maximum rates, then
-   family tax benefit once for the children and rent assistance once for the
-   household. rent assistance counts as income, the way the scoring module and
+/* each adult's own payment at its maximum rate, then family tax benefit
+   once for the children and rent assistance once for the household.
+   JobSeeker and Parenting Payment are the DSS "typical total rate", which
+   already has the Energy Supplement in it, so nothing is added on top (Jake's
+   testing, US 1.1). family tax benefit is the rate without it, so its
+   supplement is added below. rent assistance counts as income, the way the scoring module and
    the rental report's affordability measure treat it, then the budget is 30%
    of the lot. returns null while an answer it needs is missing.
 
@@ -93,7 +96,7 @@ function weeklyPayments(
     const partnered = couple && index < 2
     if (person.payment === 'parenting') {
       const rate = partnered ? 'partnered' : 'single'
-      const weekly = RATES.parenting[rate] + RATES.parentingEnergy[rate]
+      const weekly = RATES.parenting[rate]
       parts.push({ kind: 'payment', adult: index + 1, payment: 'parenting', weekly })
       fromCentrelink = true
     } else if (person.payment === 'jobseeker') {
@@ -103,7 +106,7 @@ function weeklyPayments(
         rate = 'singleWithChildren'
         singleParentRate = false
       }
-      const weekly = RATES.jobseeker[rate] + RATES.jobseekerEnergy[rate]
+      const weekly = RATES.jobseeker[rate]
       parts.push({ kind: 'payment', adult: index + 1, payment: 'jobseeker', weekly })
       fromCentrelink = true
     } else if (person.payment === 'other') {

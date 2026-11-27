@@ -802,6 +802,14 @@ legend {
     --nr-focus-on-dark: #fffaf5;
   }
 
+  /* the budget tag in the map panel's header takes the panel's dark tag
+     colour from further up, which put daylight rust on espresso at 2.5:1
+     (Jake's testing, US 5.1 test 2). apricot behind it, as in light mode,
+     gives 4.8:1 for Above budget and Close to budget */
+  :root[data-theme='dark'] .suburb-map__panel-head {
+    --nr-tag-bg: #fce5d2;
+  }
+
   :root[data-theme='dark'] .map-legend :is(.key-pin, .key-score, .key-group) {
     color: #302622;
   }
