@@ -12,7 +12,9 @@ import { GOOGLE_TRANSIT, JOURNEY_PLANNER, transitTrip } from '@/data/journeyPlan
    on step 4. one tile a place with the minutes big, so two suburbs are easy
    to compare. each links to Google Maps, where they can set their own time,
    since our figure is only ever arriving by 8:30 am, and there's a button to
-   plan any other trip from here. the method folds away underneath */
+   plan any other trip from here. with no places picked, the link back to
+   step 4 sits on its own line and the button goes under it, since side by
+   side they wrapped badly. the method folds away underneath */
 
 const props = defineProps<{ item: SuburbResult; data: MapData }>()
 const { t } = useI18n()
@@ -35,9 +37,12 @@ const trips = computed(() =>
 
     <template v-if="!trips.length">
       <p>{{ t('travel.empty') }}</p>
-      <RouterLink :to="{ name: 'priorities', hash: '#places-heading' }">
-        {{ t('travel.add') }}
-      </RouterLink>
+      <!-- its own line, with the trip button underneath rather than beside it -->
+      <p class="travel__add">
+        <RouterLink :to="{ name: 'priorities', hash: '#places-heading' }">
+          {{ t('travel.add') }}
+        </RouterLink>
+      </p>
     </template>
 
     <ul v-else class="travel__list">
@@ -67,7 +72,7 @@ const trips = computed(() =>
     <!-- start filled in, they type where they're going into Google, so an
          exact address never passes through New Roots -->
     <ExternalLink class="btn btn--outline travel__plan" :href="transitTrip(item.name)">
-      {{ t('travel.planFrom', { suburb: item.name }) }}
+      {{ t(trips.length ? 'travel.planFrom' : 'travel.planFirst', { suburb: item.name }) }}
     </ExternalLink>
 
     <details v-if="trips.length" class="how">
@@ -147,7 +152,16 @@ const trips = computed(() =>
   color: var(--nr-ink-muted);
 }
 
+/* the link back to step 4 when no places are picked yet */
+.travel__add {
+  margin: 0.5rem 0 0;
+}
+
+/* always on a line of its own, under the tiles or the link */
 .travel__plan {
+  display: flex;
+  width: fit-content;
+  max-width: 100%;
   margin-top: 1rem;
 }
 </style>

@@ -67,6 +67,14 @@ describe('Save', () => {
     expect(useDisplayStore().theme).toBe('dark')
   })
 
+  // saved before the theme was kept on its own, so only Save's copy has it
+  it('still brings back the theme from an older saved copy', async () => {
+    writeSaved({ answers: cleanAnswers({}), language: 'en-AU', theme: 'dark', mapContrast: true })
+    await useSavedStore().load()
+    expect(useDisplayStore().theme).toBe('dark')
+    expect(useDisplayStore().mapContrast).toBe(true)
+  })
+
   it('removes the saved copy straight away when turned off', () => {
     const saved = useSavedStore()
     saved.start()

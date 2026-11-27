@@ -9,7 +9,9 @@ import { readSaved, removeSaved, writeSaved, type SavedState } from '@/services/
 /* US 2.7, Save. on: the answers, summary list, language and
    theme are written to this browser every time they change, so a refresh or
    a visit next week picks up where they left off. off, or Clear my details:
-   the saved copy is removed straight away. it starts off for everyone */
+   the saved copy is removed straight away. it starts off for everyone.
+   the theme is also kept on its own whether Save is on or not, see
+   stores/display.ts, so turning Save off doesn't lose it */
 
 export const useSavedStore = defineStore('saved', () => {
   const answers = useAnswersStore()
@@ -43,8 +45,12 @@ export const useSavedStore = defineStore('saved', () => {
     const saved = readSaved()
     if (!saved) return
     answers.restore(saved.answers)
-    if (THEMES.includes(saved.theme as Theme)) display.setTheme(saved.theme as Theme)
-    display.mapContrast = saved.mapContrast
+    // the display store keeps the theme itself now, even with Save off. this
+    // copy only counts for something saved before that, with nothing newer
+    if (!display.remembered && THEMES.includes(saved.theme as Theme)) {
+      display.setTheme(saved.theme as Theme)
+      display.mapContrast = saved.mapContrast
+    }
     on.value = true
     // rewrites the date, so the month starts again from this visit
     write()

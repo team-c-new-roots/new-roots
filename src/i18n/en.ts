@@ -711,6 +711,8 @@ export default {
     // read after the link, so a screen reader knows which trip
     tripMore: 'from {from} to {place}',
     planFrom: 'Plan another trip from {suburb}',
+    // when no places are picked yet, so there's no first trip to be another to
+    planFirst: 'Plan a trip from {suburb}',
     noteTitle: 'How we work these out',
     method:
       'These are public transport times from the middle of {suburb} to the middle of each place’s suburb, on a Wednesday, arriving by 8:30 am. Your real trip depends on the exact addresses.',
@@ -912,7 +914,10 @@ export default {
       'Your answers stay in this browser tab and aren’t sent to us. Closing or refreshing the tab clears them, unless you choose Save. Clear my details always clears them.',
     savedHeading: 'If you choose Save',
     saved:
-      'Your answers, your summary, your language and the theme are kept in this browser on this device, and nowhere else. Select Save again or choose Clear my details to remove them straight away. If you don’t come back for 30 days, they’re removed.',
+      'Your answers, your summary and your language are kept in this browser on this device, and nowhere else. Select Save again or choose Clear my details to remove them straight away. If you don’t come back for 30 days, they’re removed.',
+    themeHeading: 'Your theme',
+    theme:
+      'The theme and map colours you choose are always kept in this browser, even without Save, so you don’t have to choose them again after a refresh. They say nothing about you, so Clear my details leaves them as they are.',
     trackingHeading: 'No accounts or tracking',
     tracking:
       'There are no accounts, no analytics and no advertising. We don’t use cookies to follow you.',
@@ -1121,7 +1126,7 @@ export default {
     lead: 'New Roots is built to meet the Web Content Accessibility Guidelines (WCAG) 2.2 at level AA, so it works on a phone, with a keyboard or with a screen reader.',
     contrastHeading: 'Colours and contrast',
     contrast:
-      'Choose Default for the New Roots colours, Dark for light text on a dark background, or High contrast for black text on white with blue links and a black edge on every shape. High contrast meets the stricter AAA level, and turns on by itself if your phone is set to increase contrast.',
+      'Choose Default for the New Roots colours, Dark for light text on a dark background, or High contrast for black text on white with blue links and a black edge on every shape. High contrast meets the stricter AAA level, and turns on by itself if your phone is set to increase contrast. Your choice stays after a refresh, so you only need to make it once on each device.',
     mapContrast:
       'The map has its own High contrast switch, which changes only the map. Suburbs run from white through yellow, teal and blue to black as the match gets better. Every edge is a black line with white either side, so it stands out at 5:1 or more against any colour.',
     doneHeading: 'What we’ve done',
