@@ -238,6 +238,8 @@ function print() {
               <ExternalLink :href="MOVE_IN.cavUrl">Consumer Affairs Victoria</ExternalLink>
             </template>
           </I18nT>
+          <!-- printed too, since the paper line says one month in advance -->
+          <p v-if="anyRent" class="summary__estimate-note">{{ t('moveIn.advanceWeekly') }}</p>
         </template>
         <p v-else>
           {{

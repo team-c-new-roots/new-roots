@@ -380,6 +380,11 @@ export default {
     house: '{beds}-bed house',
     flat: '{beds}-bed flat',
     either: '{beds}-bed home',
+    fivePlus: {
+      house: '5+ bedroom house',
+      flat: '5+ bedroom flat',
+      either: '5+ bedroom home',
+    },
     notes: {
       houseOneBed:
         'The rent data doesn’t cover 1-bed houses, so these figures are for 2-bed houses.',
@@ -668,6 +673,9 @@ export default {
     basis:
       'At the median rent, that’s a bond of {bond} plus up to {advance} rent in advance, each one month’s rent.',
     over: 'Rent for this home is usually over {limit} a week, so the one month limits don’t apply and you could be asked for more.',
+    // how much rent in advance can be asked for depends on how often rent is paid
+    advanceMonthly: 'Rent paid monthly: up to one month’s rent in advance.',
+    advanceWeekly: 'Rent paid weekly: up to 14 days’ (2 weeks’) rent in advance.',
     bondHelp: 'Bond and bond loan help',
     bondBody:
       'The bond isn’t a fee. It’s held by the Residential Tenancies Bond Authority, and you get it back at the end of the lease, less any agreed costs for unpaid rent or damage.',

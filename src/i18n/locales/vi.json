@@ -352,6 +352,11 @@
     "house": "nhà riêng {beds} phòng ngủ",
     "flat": "căn hộ {beds} phòng ngủ",
     "either": "nhà {beds} phòng ngủ",
+    "fivePlus": {
+      "house": "nhà riêng 5+ phòng ngủ",
+      "flat": "căn hộ 5+ phòng ngủ",
+      "either": "nhà 5+ phòng ngủ"
+    },
     "notes": {
       "houseOneBed": "Dữ liệu giá thuê không có nhà riêng 1 phòng ngủ, nên các số liệu này là của nhà riêng 2 phòng ngủ.",
       "flatLarge": "Dữ liệu giá thuê chỉ có căn hộ tối đa 3 phòng ngủ, nên các số liệu này là của căn hộ 3 phòng ngủ.",
@@ -615,6 +620,8 @@
     "titleOver": "Chi phí dọn vào: ít nhất {amount}",
     "basis": "Với giá thuê trung vị, đó là tiền thế chân {bond} cộng tối đa {advance} tiền thuê trả trước, mỗi khoản bằng một tháng tiền thuê.",
     "over": "Giá thuê loại nhà này thường trên {limit} một tuần, nên giới hạn một tháng không áp dụng và bạn có thể bị yêu cầu trả nhiều hơn.",
+    "advanceMonthly": "Trả tiền thuê theo tháng: tối đa một tháng tiền thuê trả trước.",
+    "advanceWeekly": "Trả tiền thuê theo tuần: tối đa 14 ngày (2 tuần) tiền thuê trả trước.",
     "bondHelp": "Tiền thế chân và hỗ trợ vay tiền thế chân",
     "bondBody": "Tiền thế chân không phải là phí. Nó do Cơ quan Quản lý Tiền thế chân Thuê nhà (Residential Tenancies Bond Authority) giữ, và bạn được nhận lại khi hết hợp đồng, trừ các chi phí đã thỏa thuận cho tiền thuê chưa trả hoặc hư hỏng.",
     "bondLoan": "Khoản vay tiền thế chân của Homes Victoria",

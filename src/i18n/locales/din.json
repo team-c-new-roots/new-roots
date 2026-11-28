@@ -352,6 +352,11 @@
     "house": "House ke ɣööt ke niin ka {beds}",
     "flat": "Flat ke ɣööt ke niin ka {beds}",
     "either": "Ɣöt ke ɣööt ke niin ka {beds}",
+    "fivePlus": {
+      "house": "House ke ɣööt ke niin ka 5+",
+      "flat": "Flat ke ɣööt ke niin ka 5+",
+      "either": "Ɣöt ke ɣööt ke niin ka 5+"
+    },
     "notes": {
       "houseOneBed": "Wël ke ajuër acïn house ke ɣöt ke niin tök, ku namba kak aa për house ke ɣööt ke niin ka rou.",
       "flatLarge": "Wël ke ajuër aa flat aɣet ɣööt ke niin ka 3 ë ke tök, ku namba kak aa për flat ke ɣööt ke niin ka diäk.",
@@ -615,6 +620,8 @@
     "titleOver": "Wëu ke lɔ̈ɔ̈ ɣöt: ke cïï koor tɛ̈n {amount}",
     "basis": "Në median de ajuër, kënë ee bond {bond} ku ajuër tueŋ aɣet {advance}, tök ëbën ee ajuër de pɛɛi tök.",
     "over": "Ajuër de ɣöt kënë aye dït tɛ̈n {limit} në akööl dhorou, yen aye loŋ de pɛɛi tök acïï luui, ku yïn aleu bï yïn thiëëc wëu juëc.",
+    "advanceMonthly": "Ajuër ye cuet në pɛɛi: aɣet ajuër tueŋ de pɛɛi tök.",
+    "advanceWeekly": "Ajuër ye cuet në akööl dhorou: aɣet ajuër tueŋ de nïn 14 (akööl dhorou ka rou).",
     "bondHelp": "Bond ku kuɔɔny de bond loan",
     "bondBody": "Bond acie wëu ye cuet. Residential Tenancies Bond Authority ee yen muk, ku aye dhuk tëdu të cï lease thök, ke wëu cï röt gam në ajuër cïï tääu kene kë cï riääk acï nyaai thïn.",
     "bondLoan": "Homes Victoria bond loan",

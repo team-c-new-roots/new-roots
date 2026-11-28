@@ -352,6 +352,11 @@
     "house": "guri {beds} qol",
     "flat": "abaartamaan {beds} qol",
     "either": "hoy {beds} qol",
+    "fivePlus": {
+      "house": "guri 5+ qol",
+      "flat": "abaartamaan 5+ qol",
+      "either": "hoy 5+ qol"
+    },
     "notes": {
       "houseOneBed": "Xogta kirada kuma jiraan guryo 1 qol ah, markaa tirooyinkani waa guryo 2 qol ah.",
       "flatLarge": "Xogta kirada waxay daboolaysaa oo keliya abaartamaanno ilaa 3 qol, markaa tirooyinkani waa abaartamaanno 3 qol ah.",
@@ -615,6 +620,8 @@
     "titleOver": "Kharashka guuritaanka: ugu yaraan {amount}",
     "basis": "Kirada dhexdhexaadka ah, taasi waa dammaanad {bond} ah oo lagu daray ilaa {advance} kiro hore, mid kastaa waa kirada hal bil.",
     "over": "Kirada gurigan caadi ahaan waxay ka badan tahay {limit} toddobaadkii, markaa xadka hal bil ma khuseeyo waxaana lagaa codsan karaa wax ka badan.",
+    "advanceMonthly": "Haddii kirada bishii la bixiyo: ilaa kirada hal bil oo hore.",
+    "advanceWeekly": "Haddii kirada toddobaadkii la bixiyo: ilaa kirada 14 maalmood (2 toddobaad) oo hore.",
     "bondHelp": "Dammaanadda iyo caawinta deynta dammaanadda",
     "bondBody": "Dammaanaddu ma aha khidmad. Waxaa haya Hay'adda Dammaanadda Kirada Guryaha (Residential Tenancies Bond Authority), waana laguu celinayaa dhammaadka heshiiska, marka laga jaro kharashyada la isku afgartay ee kiro aan la bixin ama waxyeello.",
     "bondLoan": "Deymaha dammaanadda ee Homes Victoria",

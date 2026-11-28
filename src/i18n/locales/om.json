@@ -352,6 +352,11 @@
     "house": "mana kutaa ciisichaa {beds}",
     "flat": "apaartaamaa kutaa ciisichaa {beds}",
     "either": "mana jireenyaa kutaa ciisichaa {beds}",
+    "fivePlus": {
+      "house": "mana kutaa ciisichaa 5+",
+      "flat": "apaartaamaa kutaa ciisichaa 5+",
+      "either": "mana jireenyaa kutaa ciisichaa 5+"
+    },
     "notes": {
       "houseOneBed": "Ragaan kiraa manneen kutaa ciisichaa 1 hin haammatu, kanaaf lakkoofsonni kun manneen kutaa ciisichaa 2 ti.",
       "flatLarge": "Ragaan kiraa apaartaamaa hanga kutaa ciisichaa 3 qofa haammata, kanaaf lakkoofsonni kun apaartaamaa kutaa ciisichaa 3 ti.",
@@ -615,6 +620,8 @@
     "titleOver": "Baasii galuu: yoo xiqqaate {amount}",
     "basis": "Kiraa giddugaleessaatiin, kun qabsiisa {bond} fi kiraa duraan kaffalamu hanga {advance}, tokkoon tokkoon isaanii kiraa ji'a tokkoo.",
     "over": "Kiraan mana kanaa yeroo baay'ee torbanitti {limit} ol, kanaaf daangaan ji'a tokkoo hin hojjetu, caalaa siin gaafatamuu dandeessa.",
+    "advanceMonthly": "Kiraan ji'aan yoo kaffalame: hanga kiraa ji'a tokkoo duraan.",
+    "advanceWeekly": "Kiraan torbaniin yoo kaffalame: hanga kiraa guyyaa 14 (torban 2) duraan.",
     "bondHelp": "Qabsiisa fi gargaarsa liqii qabsiisaa",
     "bondBody": "Qabsiisni kaffaltii miti. Kan qabatu Abbaa Taayitaa Qabsiisa Kireeffannaa Manaa (Residential Tenancies Bond Authority) yoo ta'u, xumura waliigaltee irratti siif deebi'a, baasii waliif galame kiraa hin kaffalamneef ykn miidhaaf erga hir'ifamee booda.",
     "bondLoan": "Liqii qabsiisaa Homes Victoria",

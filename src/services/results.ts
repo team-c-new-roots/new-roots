@@ -55,9 +55,13 @@ export interface Derived {
 
 const STATUS_ORDER: Record<BudgetStatus, number> = { within: 0, close: 1, above: 2, noData: 3 }
 
-// the census adds " (Vic.)" to names other states share
+/* the census adds " (Vic.)" to names other states share, and " (Melton -
+   Vic.)" where Victoria has two, so that keeps the council and drops Vic. */
 export function cleanName(name: string): string {
-  return name.replace(/\s*\((Vic\.?|VIC)\)\s*$/, '').trim()
+  return name
+    .replace(/\s*\((Vic\.?|VIC)\)\s*$/, '')
+    .replace(/\s*-\s*Vic\.?\)\s*$/, ')')
+    .trim()
 }
 
 /* the scoring module currently sends 0 rather than nothing when a suburb has

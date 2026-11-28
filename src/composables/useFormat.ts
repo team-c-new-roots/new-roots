@@ -58,9 +58,10 @@ export function useFormat() {
     return new Intl.DateTimeFormat(locale.value, { ...AUSTRALIAN, year: 'numeric' }).format(date)
   }
 
+  // 5 or more has its own wording, since "5+-bed house" reads like a typo
   function home(label: HomeLabel | { type: HomeType; bedrooms: number }) {
-    const beds = label.bedrooms >= 5 ? '5+' : String(label.bedrooms)
-    return t(`homes.${label.type}`, { beds })
+    if (label.bedrooms >= 5) return t(`homes.fivePlus.${label.type}`)
+    return t(`homes.${label.type}`, { beds: String(label.bedrooms) })
   }
 
   return { money, cents, km, distance, percent, decimal, whole, monthYear, year, fullDate, home }

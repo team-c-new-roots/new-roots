@@ -309,7 +309,13 @@ function toggleSummary() {
             <p>
               {{ t('moveIn.basis', { bond: money(moveIn.bond), advance: money(moveIn.advance) }) }}
             </p>
-            <p v-if="!moveIn.limited">
+            <!-- weekly rent can only ask for 14 days in advance (CAV), so the
+                 one month in the total is the most it could be -->
+            <ul v-if="moveIn.limited" class="suburb__advance">
+              <li>{{ t('moveIn.advanceMonthly') }}</li>
+              <li>{{ t('moveIn.advanceWeekly') }}</li>
+            </ul>
+            <p v-else>
               {{ t('moveIn.over', { limit: money(MOVE_IN.weeklyLimit) }) }}
             </p>
             <details class="suburb__bond">
@@ -526,6 +532,11 @@ function toggleSummary() {
 
 .suburb__move-in p {
   margin: 0.25rem 0 0;
+}
+
+.suburb__advance {
+  margin: 0.35rem 0 0;
+  padding-inline-start: 1.25rem;
 }
 
 .suburb__move-in-title {

@@ -167,6 +167,9 @@ describe('names and languages', () => {
   it('drops the census (Vic.) suffix', () => {
     expect(cleanName('Sydenham (Vic.)')).toBe('Sydenham')
     expect(cleanName('Doveton')).toBe('Doveton')
+    // Victoria has two, so the census names the council
+    expect(cleanName('Hillside (Melton - Vic.)')).toBe('Hillside (Melton)')
+    expect(cleanName('Bellfield (Banyule - Vic.)')).toBe('Bellfield (Banyule)')
   })
 
   const languages = data([row('a')], {
