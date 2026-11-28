@@ -421,6 +421,9 @@ function toggleSummary() {
 }
 
 .suburb__meta {
+  /* white barely shows on the cream page, so the budget badge sits on apricot
+     here, like the cards. dark and high contrast panels match their badges */
+  --nr-tag-bg: var(--nr-panel);
   display: flex;
   flex-wrap: wrap;
   align-items: center;
