@@ -673,9 +673,13 @@ export default {
     basis:
       'At the median rent, that’s a bond of {bond} plus up to {advance} rent in advance, each one month’s rent.',
     over: 'Rent for this home is usually over {limit} a week, so the one month limits don’t apply and you could be asked for more.',
-    // how much rent in advance can be asked for depends on how often rent is paid
-    advanceMonthly: 'Rent paid monthly: up to one month’s rent in advance.',
-    advanceWeekly: 'Rent paid weekly: up to 14 days’ (2 weeks’) rent in advance.',
+    /* how much rent in advance can be asked for depends on how often rent is
+       paid: 14 days for weekly, one month for fortnightly or monthly (CAV).
+       the label is shown bold before the limit */
+    advanceMonthlyLabel: 'Rent paid fortnightly or monthly:',
+    advanceMonthly: 'up to one month’s rent in advance.',
+    advanceWeeklyLabel: 'Rent paid weekly:',
+    advanceWeekly: 'up to 14 days’ (2 weeks’) rent in advance.',
     bondHelp: 'Bond and bond loan help',
     bondBody:
       'The bond isn’t a fee. It’s held by the Residential Tenancies Bond Authority, and you get it back at the end of the lease, less any agreed costs for unpaid rent or damage.',

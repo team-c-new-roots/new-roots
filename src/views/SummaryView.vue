@@ -239,7 +239,10 @@ function print() {
             </template>
           </I18nT>
           <!-- printed too, since the paper line says one month in advance -->
-          <p v-if="anyRent" class="summary__estimate-note">{{ t('moveIn.advanceWeekly') }}</p>
+          <p v-if="anyRent" class="summary__estimate-note">
+            <strong>{{ t('moveIn.advanceWeeklyLabel') }}</strong>
+            {{ t('moveIn.advanceWeekly') }}
+          </p>
         </template>
         <p v-else>
           {{

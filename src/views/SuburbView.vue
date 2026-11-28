@@ -312,8 +312,14 @@ function toggleSummary() {
             <!-- weekly rent can only ask for 14 days in advance (CAV), so the
                  one month in the total is the most it could be -->
             <ul v-if="moveIn.limited" class="suburb__advance">
-              <li>{{ t('moveIn.advanceMonthly') }}</li>
-              <li>{{ t('moveIn.advanceWeekly') }}</li>
+              <li>
+                <strong>{{ t('moveIn.advanceMonthlyLabel') }}</strong>
+                {{ t('moveIn.advanceMonthly') }}
+              </li>
+              <li>
+                <strong>{{ t('moveIn.advanceWeeklyLabel') }}</strong>
+                {{ t('moveIn.advanceWeekly') }}
+              </li>
             </ul>
             <p v-else>
               {{ t('moveIn.over', { limit: money(MOVE_IN.weeklyLimit) }) }}
